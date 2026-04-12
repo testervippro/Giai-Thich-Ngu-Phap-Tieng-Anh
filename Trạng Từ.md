@@ -182,9 +182,48 @@ Trạng từ chi tán suất có thể chia thành 2 loại chính: trạng từ
 
 Một số trạng tư chi tiến suất không xác định tương giữ
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//817e136b-a2a7-4a36-bd33-7f3eea5f10ca/markdown_4/imgs/img_in_image_box_218_134_1069_552.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-12T12%3A24%3A33Z%2F-1%2F%2Fae060b729f1decfc4f07afe829e0438a523a61a438401e9746f9103caca9ab6f" alt="Image" width="69%" /></div>
+<div style="max-width:700px; margin:auto; font-family:Arial;">
 
+<h3 style="text-align:center;">Adverbs of Frequency</h3>
 
+<!-- Funnel -->
+<div style="display:flex; flex-direction:column; align-items:center;">
+
+<div style="width:100%; text-align:center; border:1px solid #ccc; padding:8px;">100%</div>
+
+<div style="width:100%; text-align:center; border:1px solid #ccc; padding:8px;">always</div>
+
+<div style="width:90%; text-align:center; border:1px solid #ccc; padding:8px;">usually / normally</div>
+
+<div style="width:75%; text-align:center; border:1px solid #ccc; padding:8px;">often</div>
+
+<div style="width:60%; text-align:center; border:1px solid #ccc; padding:8px;">sometimes</div>
+
+<div style="width:45%; text-align:center; border:1px solid #ccc; padding:8px;">occasionally</div>
+
+<div style="width:30%; text-align:center; border:1px solid #ccc; padding:8px;">hardly</div>
+
+<div style="width:15%; text-align:center; border:1px solid #ccc; padding:8px;">never</div>
+
+<div style="width:15%; text-align:center; border:1px solid #ccc; padding:8px;">0%</div>
+
+</div>
+
+<br>
+
+<h4>Examples:</h4>
+
+<ul>
+<li>My sister always drinks a cup of tea in the morning.</li>
+<li>Normally I drive to work.</li>
+<li>The workers often go swimming after school.</li>
+<li>We go to see the movies sometimes.</li>
+<li>Occasionally Anna visits the beach for some fresh air.</li>
+<li>Some people hardly shop at the market.</li>
+<li>Neil has never been to Australia.</li>
+</ul>
+
+</div>
 My teacher always brings a cup of tea to me the meeting.
 
 Nearly 10 days to work.
@@ -327,11 +366,48 @@ Ex:
 
 ## 3. Giữa trợ động từ và động từ chính
 
-Ex:
+<div style="max-width:800px; margin:auto; font-family:Arial;">
 
+<h4>3. Giữa trợ động từ và động từ chính</h4>
 
+<p><b>Ex:</b></p>
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Chù ng $ \underline{\text{u}} $</td><td style='text-align: center; word-wrap: break-word;'>Tr $ \underline{\text{o}} $ d $ \underline{\text{o}} $ng t $ \underline{\text{u}} $r</td><td style='text-align: center; word-wrap: break-word;'>Tr $ \underline{\text{a}} $ng t $ \underline{\text{u}} $r</td><td style='text-align: center; word-wrap: break-word;'>Đ $ \underline{\text{o}} $ng t $ \underline{\text{u}} $r chính</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>We</td><td style='text-align: center; word-wrap: break-word;'>d $ \underline{\text{o}} $n&#x27;t</td><td style='text-align: center; word-wrap: break-word;'>r $ \underline{\text{e}} $ally</td><td style='text-align: center; word-wrap: break-word;'>u $ \underline{\text{r}} $derstand</td><td style='text-align: center; word-wrap: break-word;'>Ben&#x27;s story.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>I</td><td style='text-align: center; word-wrap: break-word;'>c $ \underline{\text{a}} $n</td><td style='text-align: center; word-wrap: break-word;'>n $ \underline{\text{e}} $ver</td><td style='text-align: center; word-wrap: break-word;'>t $ \underline{\text{e}} $ll</td><td style='text-align: center; word-wrap: break-word;'>Emma and her twin sister apart.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>The young girl</td><td style='text-align: center; word-wrap: break-word;'>w $ \underline{\text{i}} $ll</td><td style='text-align: center; word-wrap: break-word;'>s $ \underline{\text{o}} $on</td><td style='text-align: center; word-wrap: break-word;'>reun $ \underline{\text{t}} $e</td><td style='text-align: center; word-wrap: break-word;'>with her family.</td></tr></table>
+<table border="1" style="width:100%; border-collapse:collapse; text-align:center;">
+<tr>
+<th>Chủ ngữ</th>
+<th>Trợ động từ</th>
+<th>Trạng từ</th>
+<th>Động từ chính</th>
+<th></th>
+</tr>
+
+<tr>
+<td>We</td>
+<td>don't</td>
+<td>really</td>
+<td>understand</td>
+<td>Ben's story.</td>
+</tr>
+
+<tr>
+<td>I</td>
+<td>can</td>
+<td>never</td>
+<td>tell</td>
+<td>Emma and her twin sister apart.</td>
+</tr>
+
+<tr>
+<td>The young girl</td>
+<td>will</td>
+<td>soon</td>
+<td>reunite</td>
+<td>with her family.</td>
+</tr>
+
+</table>
+
+</div>
 
 ## 4. Khi có hai hoặc hơn hai trợ động từ, trạng từ thường dùng sau trợ động từ đâu tiến Ex:
 
@@ -523,11 +599,9 @@ Một số trạng tử phù định thương gặp:
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>not only ... (but also/too)</td><td style='text-align: center; word-wrap: break-word;'>Not only do the teenagers raise money for charity but they also volunteer at the local nursing home.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>not until</td><td style='text-align: center; word-wrap: break-word;'>Not until tomorrow will we know the election results.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>not since</td><td style='text-align: center; word-wrap: break-word;'>Not since she left her hometown had she met her best friend again.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>not for one moment</td><td style='text-align: center; word-wrap: break-word;'>Not for one moment does Nina believe the stranger.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>not a + danht tù</td><td style='text-align: center; word-wrap: break-word;'>Not a drop of alcohol has he drunk since last year.</td></tr></table>
 
-### LUU Y:
+### LƯU Ý:
 
-Đối với câu có mệnh đề trang ngữ bất đấu bảng only after, only when, only if và not until, ta cân đảo ngọ mệnh
-
-để chính.
+Đối với câu có mệnh đề trang ngữ bất đấu bảng only after, only when, only if và not until, ta cân đảo ngọ mệnh để chính.
 
 
 
@@ -564,48 +638,3 @@ Ex: Such is the startup's success that it attracts a lot of investment.
 Such was Alan's charm that he won everyone over almost instantly.
 
 Such were the project's costs that it was cancelled.
-
-### EXERCISES
-
-I. Write the adverb or adverbial in brackets in the sentence in an appropriate position. In some cases, many positions are possible.
-
-1. The newspaper boy _____ delivers newspapers _____ . (daily)
-
-2. The dinosaur fossils are _____ large _____ in real life. (extremely)
-
-3. His wife _____ works for a multinational company _____(overseas)
-
-4. Amira and her friends are _____ playing soccer _____. (out in the field)
-
-5. The father ___ kisses his baby's forehead ___. (lovingly)
-
-6. After hearing some explanation, I have ___ understood ___ the problem. (fully)
-
-7. It was so foggy that we could ___ see the road ___. (barely)
-
-8. You should ___ check on your beef stew ___. (every 40 minutes)
-
-9. It is ___ kind of you to let us borrow your car ___. (very)
-
-10. Charlotte ___ has dental checkups ___. (frequently)
-
-11. When she realises that her house has been broken into, she _____ calls the police _____. (immediately)
-
-12. Maya ___ wants to study law ___. (in a big city)
-
-13. Do primary school children ___ have homework ___? (never)
-
-14. Korean people _____ eat seaweed soup on their birthdays _____. (traditionally)
-
-15. Frank _____ enjoys weightlifting _____ , but he likes hiking the most. (quite)
-
-## II. Complete the sentences. Put the words and phrases in brackets in a suitable order.
-
-1. Milo started working ___.
-
-(last year/ near his hometown)
-
-2. We went swimming ___.
-
-(this afternoon/ at around 3 o'clock/ together)
-

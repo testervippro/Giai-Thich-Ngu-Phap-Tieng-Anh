@@ -274,15 +274,11 @@ Ngoại trừ:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>each</td><td style='text-align: center; word-wrap: break-word;'>every</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dùng khi xem xét từng cá thế hoặc vật thế một trong một nhóm.</td><td style='text-align: center; word-wrap: break-word;'>Dùng khi ta xem tất cả người hoặc vật như một nhóm duy nhất.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: We need to check each file carefully.</td><td style='text-align: center; word-wrap: break-word;'>Ex: Every light in the house is turned on.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Thường dùng cho nhóm người hoặc vật có số lượng nhỏ.</td><td style='text-align: center; word-wrap: break-word;'>Thường dùng cho nhóm người hoặc vật có số lượng lớn.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: There are five of us, so each person will do one part of the presentation.</td><td style='text-align: center; word-wrap: break-word;'>Ex: The old man plans to cycle to every province in the country.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dùng khi nói về cá hai người hoặc hai vật trong ngữ cảnh cụ thể.</td><td style='text-align: center; word-wrap: break-word;'>KHÔNG có cách dùng này.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: Each side of the coin has a different symbol.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Có thể dì kèm với danh từ số ít hoặc không. Khi dùng một minh, each dược dùng như một dại từ.</td><td style='text-align: center; word-wrap: break-word;'>Cán dị kèm với danh từ số ít.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: We don't have a lot of nurses at the hospital.</td><td style='text-align: center; word-wrap: break-word;'>Ex: ✓ Every nurse has to care for ten patients.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>✓ Each nurse has to care for ten patients.</td><td style='text-align: center; word-wrap: break-word;'>✗ Every has to care for...</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>✓ Each has to care for ten patients.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>KHONG co cach dùng này.</td><td style='text-align: center; word-wrap: break-word;'>Dùng cấu trúc every + só đếm + danh từ chi thòi gian dé chi mục đồ thương xuyên xây ra một việc gì đó.  $ \underline{\text{Ex}} $: You should visit a dentist every six months.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>KHONG có cách dùng này.</td><td style='text-align: center; word-wrap: break-word;'>Dùng trong các cụm từ thế hiện thoại gian hoặc sự việc có tính chất thường xuyên, lập lại, như: every other (day), every single (time), every so often, every few (hours), every now and then.  $ \underline{\text{Ex}} $: She thinks about her ex-lover every now and then. The chef put a cherry on every other cupcake.</td></tr></table>
-
-
-
-
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>each</td><td style='text-align: center; word-wrap: break-word;'>every</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dùng khi xem xét từng cá thế hoặc vật thế một trong một nhóm.</td><td style='text-align: center; word-wrap: break-word;'>Dùng khi ta xem tất cả người hoặc vật như một nhóm duy nhất.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: We need to check each file carefully.</td><td style='text-align: center; word-wrap: break-word;'>Ex: Every light in the house is turned on.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Thường dùng cho nhóm người hoặc vật có số lượng nhỏ.</td><td style='text-align: center; word-wrap: break-word;'>Thường dùng cho nhóm người hoặc vật có số lượng lớn.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: There are five of us, so each person will do one part of the presentation.</td><td style='text-align: center; word-wrap: break-word;'>Ex: The old man plans to cycle to every province in the country.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dùng khi nói về cá hai người hoặc hai vật trong ngữ cảnh cụ thể.</td><td style='text-align: center; word-wrap: break-word;'>KHÔNG có cách dùng này.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: Each side of the coin has a different symbol.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Có thể dì kèm với danh từ số ít hoặc không. Khi dùng một minh, each dược dùng như một dại từ.</td><td style='text-align: center; word-wrap: break-word;'>Cán dị kèm với danh từ số ít.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: We don't have a lot of nurses at the hospital.</td><td style='text-align: center; word-wrap: break-word;'>Ex: ✓ Every nurse has to care for ten patients.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>✓ Each nurse has to care for ten patients.</td><td style='text-align: center; word-wrap: break-word;'>✗ Every has to care for...</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>✓ Each has to care for ten patients.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>KHÔNG co cach dùng này.</td><td style='text-align: center; word-wrap: break-word;'>Dùng cấu trúc every + só đếm + danh từ chi thòi gian dé chi mục đồ thương xuyên xây ra một việc gì đó. Ex: You should visit a dentist every six months.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>KHÔNG có cách dùng này.</td><td style='text-align: center; word-wrap: break-word;'>Dùng trong các cụm từ thế hiện thoại gian hoặc sự việc có tính chất thường xuyên, lập lại, như: every other (day), every single (time), every so often, every few (hours), every now and then.  Ex: She thinks about her ex-lover every now and then. The chef put a cherry on every other cupcake.</td></tr></table>
 
 both + danh từ số nhiều: dùng để chỉ cả hai người, sự vật hoặc sự việc.
 
- $ \underline{Ex} $: Both women went to the same school.
+Ex: Both women went to the same school.
 
 I'm getting both shirts because I can't decide which one to buy.
 
@@ -313,10 +309,6 @@ Ex: We must protect all wildlife.
 All passengers need to fasten their seatbelts before the plane lands.
 
 The news reached all villagers in a matter of minutes.
-
-
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>E</td><td style='text-align: center; word-wrap: break-word;'>E</td><td style='text-align: center; word-wrap: break-word;'>E</td></tr></table>
 
 Ex: Does your kid have many friends at school?
 
@@ -354,7 +346,7 @@ Our store isn't getting a lot of customers these days.
 
 If you visit the other side of the island, you'll see a lot of birds and monkeys.
 
-##### LUU Y:
+##### LƯU Y:
 
 many/ much thương được dùng cho câu kháng định trong vân phong trang trong thay cho a lot of/ lots of.
 
@@ -517,28 +509,3 @@ Humans tend to be scared of the unknown.
 We will arrange to have the deceased returned to his family.
 
 The lecturer poses two questions. The former is a well-known topic of discussion but the latter is completely new to us.
-
-##### EXERCISES
-
-## I. Choose the correct word. -ing or -ed?
-
-1. John's parents are extremely disappointed/ disappointing with his school performance.
-
-2. The news was shocked/shocking to all of us.
-
-3. Our trip to Da Nang was so amazed/ amazing that we're thinking about coming back next year.
-
-4. The girl has been interested/ interesting in history since she was a child.
-
-5. The movie isn't as bored/ boring as I expected.
-
-6. These instructions are so confused/ confusing. Even my dad, an expert in all things machinery, is confused/ confusing.
-
-7. The children feel very excited/ exciting about their trip to Disneyland.
-
-8. Charlotte seems embarrassed/ embarrassing after she leaves the meeting room. I wonder what happened?
-
-9. Are Stephen King's novels really disturbed/ disturbing? Should I read them at night?
-
-10. Robert keeps asking me about everything. That's so annoyed/ annoying.
-

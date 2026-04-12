@@ -42,7 +42,7 @@ This jacket is as expensive as the one I own.
 
 not as/so + adj/adv + as
 
- $ \underline{Ex} $: Mark is not as/ so strong as Elton.
+Ex: Mark is not as/ so strong as Elton.
 
 I did not arrive as/ so promptly as my boss.
 
@@ -50,7 +50,7 @@ This customer is not as/ so patient as the last one.
 
 Chúng ta cũng có thể sử dụng câu trúc (trực) the same as để so sánh bằng.
 
- $$ S+V+\operatorname{the same}+(\operatorname{noun})+as+\operatorname{noun}/\operatorname{pronoun} $$ 
+S+V+the same+(noun)+as+noun/pronoun
 
 Ex: Emery looks the same as his brother.
 
@@ -58,7 +58,7 @@ Grace lives in the same neighbourhood as Tom.
 
 I went to the same school as Lily.
 
-##### LUU Y:
+##### LƯU Ý:
 
 - Chúng ta dùng the same as chủ không dùng the same like.
 
@@ -66,7 +66,7 @@ Ex: ✓ Marle wears the same dress as Lisa.
 
 X Marie wears the same dress like Lisa
 
-- Khi nói hon hoặc kém gáp bao nhiêu lấn, ta có thế dùng half, twice, three times. v.v. trước as ... as...
+- Khi nói hon hoặc kém gấp bao nhiêu lần, ta có thế dùng half, twice, three times. v.v. trước as ... as...
 
 Ex: √ His watch is three times as expensive as mine.
 
@@ -76,15 +76,15 @@ X His watch is three times more expensive than mine.
 
 Chúng ta sử dụng phép so sánh hơn dé so sánh mức độ hơn kém về một đặc điểm hoặc tính chất nào đó giữa hai người, sự vật hoặc sự việc.
 
-Tùy theo số lượng âm tiết có trong từ, tính từ và trạng từ được chia thành 2 nhóm là tính từ/ trạng từ có một âm tiết (gọi là tính từ/ trạng từ ngán - short adjective/ adverb) và tính từ/ trạng từ có từ hai âm tiết trỏ lên (gọi là tính từ/ trạng từ dài - long adjective/ adverb).
+Tùy theo số lượng âm tiết có trong từ, tính từ và trạng từ được chia thành 2 nhóm là tính từ/ trạng từ có một âm tiết (gọi là tính từ/ trạng từ ngắn - short adjective/ adverb) và tính từ/ trạng từ có từ hai âm tiết trỏ lên (gọi là tính từ/ trạng từ dài - long adjective/ adverb).
 
-Ex: tinh tủ/ trạng tủ ngán: cheap, cold, great, hot, kind, loud, nice, poor, strong, v.v.
+Ex: tinh tủ/ trạng tủ ngắn: cheap, cold, great, hot, kind, loud, nice, poor, strong, v.v.
 
 tinh tủ/ trạng tủ dài: ambitious, essential, harmless, interested, marvelous, patient, tired, v.v.
 
 Hình thức so sánh hơn của tính từ và trạng từ được thành lập như sau:
 
-a. Thêm dưới -er vào cưới tính từ hoặc trạng từ ngán.
+a. Thêm dưới -er vào cưới tính từ hoặc trạng từ ngắn.
 
  $ \underline{Ex} $: big → bigger
 
@@ -110,28 +110,52 @@ necessary → more necessary
 
 harmful → more harmful
 
-d. Thêm more vào trước tính từ là quá khứ phân từ có một âm tiết (xem phân Phân từ dùng như tính từ ở trang 54) như bored, creased, pleased, worn, v.v.
+### d. Thêm *more* trước tính từ là quá khứ phân từ (thường 1 âm tiết)
+như: bored, creased, pleased, worn, v.v.
 
- $$ \underline{\mathrm{Ex:}}\;bored\qquad\rightarrow\quad\mathrm{more\;\underline{bored}} $$ 
+$$
+\underline{\text{Ex:}}\quad bored \rightarrow \text{more } \underline{bored}
+$$
 
- $$ \begin{array}{r l}{p l e a s e d}&{{}\rightarrow}&{{}\mathrm{~m o r e~}p l e a s e d}\end{array} $$ 
+$$
+pleased \rightarrow \text{more pleased}
+$$
 
- $$ \begin{array}{r l r}{w o r1}&{{}}&{\rightarrow}&{{}\quad\mathrm{m o r e~}w o r1}\end{array} $$ 
+$$
+worn \rightarrow \text{more worn}
+$$
 
-c. Thêm more vào trước các tính từ fun, real, right và wrong.
+---
 
- $$ \underline{\mathrm{Ex:f u n}}\qquad\rightarrow\quad\mathrm{m o r e f u n} $$ 
+### e. Thêm *more* trước các tính từ: *fun, real, right, wrong*
 
- $$ real\qquad\qquad\to\qquad more real $$ 
+$$
+\underline{\text{Ex:}}\quad fun \rightarrow \text{more fun}
+$$
 
- $$ \begin{array}{l} right\quad\quad\quad\quad\rightarrow\quad\quad\quad more right\end{array} $$ 
+$$
+real \rightarrow \text{more real}
+$$
 
- $$ w r o n g\qquad\to\qquad m o r e~w r o n g $$ 
+$$
+right \rightarrow \text{more right}
+$$
 
-Cấu trúc tổng quát của phép so sánh hơn:
+$$
+wrong \rightarrow \text{more wrong}
+$$
 
- $$ \underset{(S+V+)}{s h o r t a d j/a d v+e r}+\underset{(more + long adj/a d v)}{t h a n+n o u n/p r o n o u n/c l a u s e} $$ 
+---
 
+### Cấu trúc tổng quát của so sánh hơn
+
+$$
+(S + V +) \; \text{short adj/adv} + \text{-er} + \text{than} + \text{noun/pronoun/clause}
+$$
+
+$$
+(S + V +) \; \text{more} + \text{long adj/adv} + \text{than} + \text{noun/pronoun/clause}
+$$
 Ex: Alex is taller than Leo.
 
 A trip to the sunny beach sounds more enjoyable than a hike to the cold mountains.
@@ -162,205 +186,213 @@ Ex: Tyler goes jogging more often than I do.
 
 ### III. So sánh nhất (Superlative form)
 
-Chúng ta sử dụng phép so sánh nhất dễ so sánh mức độ hơn kém về một đặc điểm hoặc tính chất nào đó giữa ba người, sự vật hoặc sự việc trở lên. Hình thức so sánh nhất của tính từ và trạng tử được thành lập như sau:
+Chúng ta sử dụng phép so sánh nhất để so sánh mức độ hơn kém về một đặc điểm
+hoặc tính chất nào đó giữa ba người, sự vật hoặc sự việc trở lên. Hình thức so sánh nhất
+của tính từ và trạng từ được thành lập như sau:
 
-Thêm dưới -est vào cuối tính từ hoặc trang từ ngán.
+• Thêm đuôi -est vào cuối tính từ hoặc trạng từ ngắn.
 
-Thêm dưới -est vào cuối tính từ có hai âm tiết kết thúc bảng -er, -ow, -y và -le.
+Ex:  
+hard → hardest  
+loud → loudest  
+rich → richest  
 
-early  $ \rightarrow $ earliest
+---
 
-Thêm most vào trước tính từ hoặc trạng tư dài.
+• Thêm đuôi -est vào cuối tính từ có hai âm tiết kết thúc bằng -er, -ow, -y và -le.
 
-good-looking → most good-looking
+Ex:  
+clever → cleverest  
+narrow → narrowest  
+early → earliest  
+gentle → gentlest  
 
-Một số tinh tụ có hai âm tiết có thể có cả hai hình thức so sánh (-er/more và -est/most): clever, common, cruel, gentle, narrow, pleasant, polite, quiet, simple, stupid, v.v.
+---
 
-Ex: clever → cleverer/more clever → cleverest/most clever
+• Thêm most vào trước tính từ hoặc trạng từ dài.
 
-narrow → narrower/more narrow → narrowest/most narrow
+Ex:  
+confident → most confident  
+successful → most successful  
+good-looking → most good-looking  
 
-simple  $ \rightarrow $ simpler/more simple  $ \rightarrow $ simplest/most simple
+---
 
-Cấu trúc tổng quát của phép so sánh nhất:
+• Một số tính từ có hai âm tiết có thể có cả hai hình thức so sánh (-er/more và -est/most): clever, common, cruel, gentle, narrow, pleasant, polite, quiet, simple, stupid, v.v.
 
- $$ \underset{(S+V+the+)}{s h o r t a d j/a d v}+\underset{(most+long adj/a d v)}{est\quad n o u n} $$ 
+Ex:  
+clever → cleverer/more clever → cleverest/most clever  
+narrow → narrower/more narrow → narrowest/most narrow  
+simple → simpler/more simple → simplest/most simple  
 
- $ \underline{Ex} $: This is the most popular hotel in the area.
+---
 
-Is Mia the fastest runner in your class?
+### Cấu trúc tổng quát của phép so sánh nhất:
 
-Elena is deciding between the most expensive shoes and the most colourful handbag in the store.
+S + V + the + short adj/adv + est  
+S + V + the + most + long adj/adv + noun  
 
-Sau hình thức so sánh nhất, chúng ta thường dùng các giới từ in hoặc of.
+Ex:  
+This is the most popular hotel in the area.  
+Is Mia the fastest runner in your class?  
+Elena is deciding between the most expensive shoes and the most colourful handbag in the store.  
 
-♦ Gối tử tn: dùng với danh tử số it chi nơi chón, tố chức hoặc nhóm người (như family, class, company, v.v.).
+---
 
- $ \underline{Ex} $: She is one of the most famous actresses in the country.
+• Sau hình thức so sánh nhất, chúng ta thường dùng các giới từ in hoặc of.
 
-Which mountain is the highest mountain in the world?
+• Giới từ in: dùng với danh từ số ít chỉ nơi chốn, tổ chức hoặc nhóm người (như family, class, company, v.v.).
 
-The department has the largest working space in the company.
+Ex:  
+She is one of the most famous actresses in the country.  
+Which mountain is the highest mountain in the world?  
+The department has the largest working space in the company.  
 
-♦ Giói tử of: dùng để chỉ khoảng thời gian hoặc dùng trước danh từ số nhiều chi một số lượng xác định người hoặc vật.
+---
 
-Ex: Noon is the hottest time of the day.
+• Giới từ of: dùng để chỉ khoảng thời gian hoặc dùng trước danh từ số nhiều chỉ một số lượng xác định người hoặc vật.
 
-Julie is the eldest of the three sisters.
+Ex:  
+Noon is the hottest time of the day.  
+Julie is the eldest of the three sisters.  
+Sebby had the longest essay of all the members in our group.  
 
-Sebby had the longest essay of all the members in our group.
+---
 
-Hinh thúc so sinh nhất có thê dược dùng mà không có danh từ theo sau khi danh
+• Hình thức so sánh nhất có thể được dùng mà không có danh từ theo sau khi danh
+từ đã hoặc sẽ được đề cập đến.
 
-từ da hoặc sẻ dược dễ cấp đến.
+Ex:  
+Maika is the tallest among the students in my class.  
+This car is the fastest that I own.  
+The children were the smallest in the group.  
 
-Ex: Maika is the tallest among the students in my class.
+---
 
-This car is the fastest that I own.
+### LƯU Ý:
 
-The children were the smallest in the group.
+more và most được dùng để so sánh các trạng từ tận cùng bằng -ly. Nhưng với trạng từ early, ta không dùng more early/ most early mà phải dùng earlier/ earliest.
 
-##### LUU Y:
+Ex:  
+✓ I wake up earlier than Theo  
+✗ I wake up more early than Theo  
 
-more và most duoc dung dé so sánh các trang tủ lân cùng bảng -ly. Nhưng voi trang tủ early, ta không dưa
-more early/ most early mà phải dùng earlier/ earliest.
-Ex: ✓ I wake up earlier than Theo
-X I wake up more early than Theo
-✓ Our team was the earliest to arrive.
-X Our team was the most early to arrive.
+✓ Our team was the earliest to arrive  
+✗ Our team was the most early to arrive  
 
-## Cách thêm đuôi -ervà -est (Spelling rules for the -er and -est endings)
+---
 
-- Tinh tư hoặc trang tư kết thuốc bảng e: thêm -r v a -st.
-Ex: cute → culler → colest
-late → later → latest
-nice → nicer → nicest
-- Tinh tư hoặc trang tư có hai âm tiết kết thuốc bảng phụ âm + y: dói y → I và thêm -er hoặc -est.
-Ex: curvy → curvier → curviest
-heavy → heavier → heaviest
-pretty → prettier → prettiest
-- Tinh tư hoặc trang tư có một âm tiết kết thuốc bảng nguyên âm + phụ âm (trị w): gấp dòi phụ âm.
-Ex: fat → fatter → fattest
-slim → slimmer → slimmest
-new → newer → newest
+## Cách thêm đuôi -er và -est (Spelling rules for the -er and -est endings)
+
+• Tính từ hoặc trạng từ kết thúc bằng e: thêm -r và -st.
+
+Ex:  
+cute → cuter → cutest  
+late → later → latest  
+nice → nicer → nicest  
+
+---
+
+• Tính từ hoặc trạng từ có hai âm tiết kết thúc bằng phụ âm + y: đổi y → i và thêm -er hoặc -est.
+
+Ex:  
+curvy → curvier → curviest  
+heavy → heavier → heaviest  
+pretty → prettier → prettiest  
+
+---
+
+• Tính từ hoặc trạng từ có một âm tiết kết thúc bằng nguyên âm + phụ âm (trừ w): gấp đôi phụ âm.
+
+Ex:  
+fat → fatter → fattest  
+slim → slimmer → slimmest  
+new → newer → newest  
+
+---
 
 ## Các hình thức so sánh đặc biệt (Special forms of comparison)
 
-## 1. Hình thức so sánh bất quy tắc (Irregular comparison)
+### I. Hình thức so sánh bất quy tắc (Irregular comparison)
 
-Một số tinh từ và trạng từ có hình thức so sánh hơn và so sánh nhất bất quy tác (không theo quy luật -er/-est; more/most).
+Một số tính từ và trạng từ có hình thức so sánh hơn và so sánh nhất bất quy tắc (không theo quy luật -er/-est; more/most).
 
-good/well → better → best
+good/well → better → best  
+bad/badly → worse → worst  
+many/much → more → most  
+little → less → least  
+far → farther/further → farthest/furthest  
+old → older/elder → oldest/eldest  
 
-bad/badly → worse → worst
+Ex:  
+Sam is their oldest/eldest child.  
+The situation cannot get any worse than this.  
+Here's a list of the best movies I've watched.  
 
-many/much → more → most
-
-little → less → least
-
-fur → further/further → furthest/further
-
-old → older/elder → oldest/eldest
-
-Ex: Sam is their oldest/oldest child.
-
-The situation cannot get any worse than this.
-
-Here's a list of the best minutes I've watched.
+---
 
 ### II. More, most, less, least, fewer và fewest
 
-Chung ta có thể dùng more, most, loss, leust, fewer và fewest + danh tụ dễ so đặt
+Chúng ta có thể dùng more, most, less, least, fewer và fewest + danh từ để so sánh số lượng.
 
-số hương
+| Số nhiều (Plural) | Danh từ không đếm được (Uncountable noun) |
+|------------------|------------------------------------------|
+| more (= a larger number) | more (= a larger amount) |
+| My sister has more shoes than I do. | James has more experience than Kevin. |
+| most (= the largest number) | most (= the largest amount) |
+| My sister has the most shoes in the house. | James has the most experience in the team. |
+| fewer (= a smaller number) | less (= a smaller amount) |
+| Ivy buys fewer books than last year. | This mountain has less gold than other areas. |
+| fewest (= the smallest number) | least (= the smallest amount) |
+| Ivy buys the fewest books in our group. | This mountain has the least gold in the country. |
 
+---
 
+### III. So sánh kép (Double comparatives)
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Số nhiều (Plural)</td><td style='text-align: center; word-wrap: break-word;'>Danh từ không đếm được (Uncountable noun)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>more (= a larger number)</td><td style='text-align: center; word-wrap: break-word;'>more (= a larger amount)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>My sister has more shoes than I do.</td><td style='text-align: center; word-wrap: break-word;'>James has more experience than Kevin.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>most (= the largest number)</td><td style='text-align: center; word-wrap: break-word;'>most (= the largest amount)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>My sister has the most shoes in the house.</td><td style='text-align: center; word-wrap: break-word;'>James has the most experience in the team.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>fewer (= a smaller number)</td><td style='text-align: center; word-wrap: break-word;'>loss (= a smaller amount)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ivy buys fewer books than last year.</td><td style='text-align: center; word-wrap: break-word;'>This mountain has less gold than other areas.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>fewest (= the smallest number)</td><td style='text-align: center; word-wrap: break-word;'>least (= the smallest amount)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ivy buys the fewest books in our group.</td><td style='text-align: center; word-wrap: break-word;'>This mountain has the least gold in the country.</td></tr></table>
+#### 1. So sánh đồng tiến (càng ... càng ...)
 
-### II. So sánh kép (Double comparatives)
+The + comparative + S + V + the + comparative + S + V  
 
-## 1. So sanh động tiến (càng ... càng ...)
+Ex:  
+The younger you are, the quicker you learn.  
+The less you work out, the less you stay healthy.  
+The less Emma sleeps, the more tired she feels.  
+The more we cut down on pollution, the more we help save the environment.  
 
-- So sánh đóng tiên với the ... the ... duoc dùng để diễn tả sự cùng thay đổi (táng thêm hoặc giam bót về số lượng, mục đồ hoặc phạm vi) của người, sự vật hoặc sự việc.
+---
 
-The + comparative + S + V + the + comparative + S + V
+• Cấu trúc này có thể được rút gọn thành: the + comparative + the + better.
 
- $ \underline{Ex} $: The younger you are, the quicker you learn.
+Ex:  
+The more the merrier.  
+The sooner the better.  
+The more investors you can find the better.  
 
-The less you work out, the less you stay healthy.
+---
 
-The less Emma sleeps, the more tired she feels.
+#### 2. So sánh lũy tiến (càng ngày càng)
 
-The more we cut down on pollution, the more we help save the environment.
+So sánh lũy tiến được dùng để diễn đạt sự việc đang tăng dần hoặc giảm dần một cách liên tục.
 
-- Câu trúc này có thể được rút gọn thành the + comparative + the + better.
+• ...er and ...er và more and more được dùng để diễn tả sự tăng dần.
 
-Ex: The more the merrier.
+short adj/adv + er + and + short adj/adv + er  
+hoặc  
+more and more + long adj/adv  
 
-The sooner the better.
+Ex:  
+The weather gets hotter and hotter every year.  
+Essential products are becoming more and more expensive.  
+The old computer ran more and more slowly, until it stopped completely.  
 
-The more investors you can find the better.
+---
 
-## 2. So sánh lũy tiến (càng ngày càng)
+• less and less được dùng để diễn tả sự giảm dần.
 
-So sánh lũy tiến được dùng để diễn đạt sự việc đang tăng đản hoặc giảm đản một cách liên tục.
+less and less + long adj/adv  
 
-- ... er and ... er và more and more được dùng để diễn tả sự tăng dần.
-
-short adj/ adv + er + and + short adj/ adv + er
-
-hoặc more and more + long adj/ adv
-
- $ \underline{Ex} $: The weather gets hotter and hotter every year.
-
-Essential products are becoming more and more expensive.
-
-The old computer ran more and more slowly, until it stopped completely.
-
-- less and less được dùng để diễn tả sự giảm đản.
-
-less and less + long adj/ adv
-
-Ex: Groceries are getting less and less affordable.
-
-Milo meets his friends less and less often as he grows older.
-
+Ex:  
+Groceries are getting less and less affordable.  
+Milo meets his friends less and less often as he grows older.  
 When I checked my answers with my friends, I became less and less confident in my test results.
-
-#### EXERCISES
-
-1. Complete the sentences using as ... as.
-
-0. Evelyn runs faster than Ethan.
-
-→ Ethan doesn't run as fast as Evelyn.
-
-1. Ada is the same height as Alice.
-
-→ Ada is ___
-
-2. My steak tastes good, but your steak tastes better.
-
-→ My steak doesn't ___
-
-3. The red car costs $100,000. The black car costs the same amount of money.
-
-→ The black car is ___
-
-4. Chris used to play the guitar a lot, but now he rarely plays it.
-
-→ Chris doesn't ___
-
-5. She arrived early. We arrived at the same time.
-
-→ We arrived ___
-
-6. His writing score was lower than he thought.
-
-→ His writing score wasn't ___
-
-7. The restaurant has accidentally ordered less fish than it needs.
-
-→ The restaurant hasn't ordered ___
-

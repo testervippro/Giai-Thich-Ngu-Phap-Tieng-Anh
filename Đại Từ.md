@@ -230,9 +230,9 @@ I remember  $ \underline{\text{the summers}} $ we spent at grandma's house. Thos
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ quan hệ</td><td style='text-align: center; word-wrap: break-word;'>Dùng để chỉ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Who</td><td style='text-align: center; word-wrap: break-word;'>Người (làm chủ ngữ)</td><td style='text-align: center; word-wrap: break-word;'>The  $ \underline{\text{woman}} $ who called you is my aunt.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whom</td><td style='text-align: center; word-wrap: break-word;'>Người (làm tân ngữ)</td><td style='text-align: center; word-wrap: break-word;'>The  $ \underline{\text{author}} $, whom I greatly admire, will be speaking at the conference.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whose</td><td style='text-align: center; word-wrap: break-word;'>Số hữu (người hoặc vật)</td><td style='text-align: center; word-wrap: break-word;'>The  $ \underline{\text{student}} $ whose laptop is broken needs help.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Which</td><td style='text-align: center; word-wrap: break-word;'>Vật hoặc sự việc</td><td style='text-align: center; word-wrap: break-word;'>The  $ \underline{\text{book}} $ which you recommended is amazing.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>That</td><td style='text-align: center; word-wrap: break-word;'>Người, vật hoặc sự việc</td><td style='text-align: center; word-wrap: break-word;'>The  $ \underline{\text{car}} $ that he drives is brand new.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ quan hệ</td><td style='text-align: center; word-wrap: break-word;'>Dùng để chỉ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Who</td><td style='text-align: center; word-wrap: break-word;'>Người (làm chủ ngữ)</td><td style='text-align: center; word-wrap: break-word;'>The woman who called you is my aunt.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whom</td><td style='text-align: center; word-wrap: break-word;'>Người (làm tân ngữ)</td><td style='text-align: center; word-wrap: break-word;'>The  author, whom I greatly admire, will be speaking at the conference.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whose</td><td style='text-align: center; word-wrap: break-word;'>Số hữu (người hoặc vật)</td><td style='text-align: center; word-wrap: break-word;'>The student whose laptop is broken needs help.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Which</td><td style='text-align: center; word-wrap: break-word;'>Vật hoặc sự việc</td><td style='text-align: center; word-wrap: break-word;'>The which you recommended is amazing.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>That</td><td style='text-align: center; word-wrap: break-word;'>Người, vật hoặc sự việc</td><td style='text-align: center; word-wrap: break-word;'>The that he drives is brand new.</td></tr></table>
 
-#### LUU Y:
+#### LƯU Ý:
 
 Đại từ quan hệ whom dùng để thay thế cho người khi người đồ đóng vai trò là tần ngữ trong mệnh đề quan hệ. Trong vấn nội, người bên ngũ thường dùng cho thay thế cho whom trong trường hợp này.
 
@@ -262,44 +262,43 @@ I saw a house whose windows were broken.
 
 
 
-
 - Ta dùng động từ số it sau đại từ bất định.
 
- $ \underline{Ex} $: Everyone  $ \underline{is} $ excited about the upcoming event.
+ Ex : Everyone is excited about the upcoming event.
 
-Someone  $ \underline{wants} $ to speak with you.
+Someone wants to speak with you.
 
 - Với các mệnh đề chữa đại từ có -nọ, ta không chia động từ phụ định nữa.
 
-Ex: Nothing  $ \underline{\text{was}} $ found in the drawer. (NOT Nothing isn't found ...)
+Ex: Nothing  was found in the drawer. (NOT Nothing isn't found ...)
 
-No one  $ \underline{\text{sees}} $ the girl in the red dress. (NOT No one didn't see ...)
+No one sees the girl in the red dress. (NOT No one didn't see ...)
 
 - Khi đế cập lại đại từ bất định, ta dùng đại từ nhân xưng hoặc đại từ số hữu phù hợp.
 
 - Khỉ đại tử bất định chỉ người → Đùng đại tử they/them/their để tránh phân biệt giới tính.
 
- $ \underline{Ex:} $  $ \underline{Anyone} $ can join the club if  $ \underline{they} $ are interested.
+ Ex:Anyone  can join the club if they are interested.
 
- $ \underline{\text{Somebody}} $ forgot  $ \underline{\text{their}} $ umbrella in the lobby.
+ Somebody forgot their umbrella in the lobby.
 
 Khi đại từ bất định chỉ vật → Dùng đại từ it.
 
-Ex:  $ \underline{\text{Something}} $ smells strange in the kitchen. I think  $ \underline{\text{it}} $ might be the trash.
+Ex:Something smells strange in the kitchen. I think it  might be the trash.
 
- $ \underline{\text{Nothing}} $ is impossible if you believe in  $ \underline{\text{it}} $.
+ Nothing is impossible if you believe in  it.
 
 - Ta có thể thêm 's vào đại từ bất định để thành lập sở hữu.
 
- $ \underline{Ex} $: Can I borrow  $ \underline{someone's} $ phone charger?
+ Ex: Can I borrow someone's  phone charger?
 
-It's  $ \underline{\text{everyone's}} $ responsibility to clean up.
+It's everyone's responsibility to clean up.
 
 - Ta dùng else sau đại từ bất định để chi người khác hoặc vật khác.
 
-Ex: This seat is taken - you'll have to ask  $ \underline{\text{somebody else}} $.
+Ex: This seat is taken - you'll have to ask somebody else.
 
-If there's  $ \underline{\text{nothing else}} $ you need, I'll head out now.
+If there's nothing else you need, I'll head out now.
 
 ### VII. Đại từ hồ tương (Reciprocal Pronouns)
 
@@ -311,7 +310,7 @@ Trong tiếng Anh, co hai đại từ hó tương chính là:
 
 • One another → Dùng khi nói về từ ba đối tượng trò lên.
 
- $ \underline{Ex} $: The two friends always help each other.
+ Ex: The two friends always help each other.
 
 The team members congratulated one another after winning the match.
 
@@ -329,26 +328,166 @@ The students were talking to one another.
 
 - Khi muốn diễn đạt ý sở hữu, ta thêm 's vào đại từ hồ tương.
 
- $ \underline{Ex} $: They looked at each other's phones.
+Ex: They looked at each other's phones.
 
 The students corrected one another's essays.
 
-### VIII. Đại từ phần bổ (Distributive Pronouns)
-
-Đại từ phân bó là những đại từ dùng để chỉ từng cá nhân hoặc từng phân trong một nhóm. Chúng thường nhấn mạnh tính chất riêng lẻ hoặc phân chia trong tập hợp. Các đại từ phân bó phổ biến:
 
 
+<h3>VIII. Đại từ phân bố (Distributive Pronouns)</h3>
 
-<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Đại từ phân bố</td><td style="text-align: center; word-wrap: break-word;">Nghĩa</td><td style="text-align: center; word-wrap: break-word;">Dùng với danh từ</td><td style="text-align: center; word-wrap: break-word;">Chia động từ</td></tr><tr><td rowspan="2">Each</td><td style="text-align: center; word-wrap: break-word;">Mỗi (người/ vật trong nhóm)</td><td style="text-align: center; word-wrap: break-word;">• each + danh từ số ít • each of + danh từ số nhiều</td><td style="text-align: center; word-wrap: break-word;">Số ít</td></tr><tr><td colspan="3">$ \underline{\text{Ex}} $: Each student has a workbook. Each of the students has a workbook.</td></tr><tr><td rowspan="2">Either</td><td style="text-align: center; word-wrap: break-word;">Một trong hai (người/ vật)</td><td style="text-align: center; word-wrap: break-word;">• either + danh từ số ít • either of + danh từ số nhiều</td><td style="text-align: center; word-wrap: break-word;">Số ít</td></tr><tr><td colspan="3">$ \underline{\text{Ex}} $: Either answer is correct. Either of the answers is correct.</td></tr><tr><td rowspan="2">Neither</td><td style="text-align: center; word-wrap: break-word;">Không ai trong hai (người/ vật)</td><td style="text-align: center; word-wrap: break-word;">• neither + danh từ số ít • neither of + danh từ số nhiều</td><td style="text-align: center; word-wrap: break-word;">Số ít</td></tr><tr><td colspan="3">$ \underline{\text{Ex}} $: Neither option is suitable Neither of the options is suitable.</td></tr><tr><td rowspan="5">Any</td><td rowspan="4">Bất kỳ ai/ cái gi trong số (nhiều hon 2)</td><td style="text-align: center; word-wrap: break-word;">• any + danh từ không đem được</td><td style="text-align: center; word-wrap: break-word;">Số it</td></tr><tr><td style="text-align: center; word-wrap: break-word;">• any + danh từ đếm được số it</td><td style="text-align: center; word-wrap: break-word;">Số it</td></tr><tr><td style="text-align: center; word-wrap: break-word;">• any + danh từ đếm được số nhiều</td><td style="text-align: center; word-wrap: break-word;">Số nhiều</td></tr><tr><td colspan="2">* Tương tự với any of</td></tr><tr><td colspan="3">Ex: Is there any water left? Any student is allowed to join. Any of these books is good.</td></tr><tr><td rowspan="2">None of</td><td style="text-align: center; word-wrap: break-word;">Không ai/ không cái nào (trong số nhiều)</td><td style="text-align: center; word-wrap: break-word;">• none of + danh từ không đem được được• none of + danh từ đếm được số nhiều</td><td style="text-align: center; word-wrap: break-word;">Số It (trang trọng) hoặc Số nhiều (thân mật)</td></tr><tr><td colspan="3">Ex: None of the evidence is valid. None of the guests have arrived yet.</td></tr><tr><td rowspan="3">All</td><td rowspan="2">Tất cả</td><td style="text-align: center; word-wrap: break-word;">• all + danh từ không đem được• all + danh từ đếm được số nhiều</td><td style="text-align: center; word-wrap: break-word;">Số it</td></tr><tr><td colspan="2">• Tương tự với all of</td></tr><tr><td colspan="3">Ex: All the money is gone. All of the students are present.</td></tr><tr><td rowspan="3">Half</td><td rowspan="2">Một nửa</td><td style="text-align: center; word-wrap: break-word;">• half + danh từ không đem được• half + a/ an + danh từ đếm được số it• half + danh từ đếm được số nhiều</td><td style="text-align: center; word-wrap: break-word;">Số it</td></tr><tr><td colspan="2">* Tương tự với half of</td></tr><tr><td colspan="3">Ex: There was half an apple left in the fruit bowl. Half of the employees are absent.</td></tr><tr><td rowspan="2">Both</td><td style="text-align: center; word-wrap: break-word;">Cà hai (người/ vật)</td><td style="text-align: center; word-wrap: break-word;">• both / both of + danh từ đếm được số nhiều</td><td style="text-align: center; word-wrap: break-word;">Số nhiều</td></tr><tr><td colspan="3">Ex: Both (of the) players are ready.</td></tr></table>
+<p>
+Đại từ phân bố là những đại từ dùng để chỉ từng cá nhân hoặc từng phần trong một nhóm.
+Chúng thường nhấn mạnh tính chất riêng lẻ hoặc phân chia trong tập hợp.
+Các đại từ phân bố phổ biến:
+</p>
 
+<table border="1" style="margin:auto; border-collapse:collapse; width:100%;">
+<tr>
+<th>Đại từ phân bố</th>
+<th>Nghĩa</th>
+<th>Dùng với danh từ</th>
+<th>Chia động từ</th>
+</tr>
 
+<tr>
+<td rowspan="2"><b>Each</b></td>
+<td>Mỗi (người/ vật trong nhóm)</td>
+<td>
+• each + danh từ số ít<br>
+• each of + danh từ số nhiều
+</td>
+<td>Số ít</td>
+</tr>
+<tr>
+<td colspan="3">
+Ex: Each student has a workbook.<br>
+Each of the students has a workbook.
+</td>
+</tr>
 
+<tr>
+<td rowspan="2"><b>Either</b></td>
+<td>Một trong hai (người/ vật)</td>
+<td>
+• either + danh từ số ít<br>
+• either of + danh từ số nhiều
+</td>
+<td>Số ít</td>
+</tr>
+<tr>
+<td colspan="3">
+Ex: Either answer is correct.<br>
+Either of the answers is correct.
+</td>
+</tr>
 
-#### EXERCISES
+<tr>
+<td rowspan="2"><b>Neither</b></td>
+<td>Không ai trong hai (người/ vật)</td>
+<td>
+• neither + danh từ số ít<br>
+• neither of + danh từ số nhiều
+</td>
+<td>Số ít</td>
+</tr>
+<tr>
+<td colspan="3">
+Ex: Neither option is suitable.<br>
+Neither of the options is suitable.
+</td>
+</tr>
 
-1. Choose the correct pronoun to complete the sentence.
+<tr>
+<td rowspan="5"><b>Any</b></td>
+<td rowspan="4">Bất kỳ ai/ cái gì trong số (nhiều hơn 2)</td>
+<td>• any + danh từ không đếm được</td>
+<td>Số ít</td>
+</tr>
+<tr>
+<td>• any + danh từ đếm được số ít</td>
+<td>Số ít</td>
+</tr>
+<tr>
+<td>• any + danh từ đếm được số nhiều</td>
+<td>Số nhiều</td>
+</tr>
+<tr>
+<td colspan="2">* Tương tự với any of</td>
+</tr>
+<tr>
+<td colspan="3">
+Ex: Is there any water left?<br>
+Any student is allowed to join.<br>
+Any of these books is good.
+</td>
+</tr>
 
-1. He / Himself / His is my best friend.
+<tr>
+<td rowspan="2"><b>None of</b></td>
+<td>Không ai/ không cái nào (trong số nhiều)</td>
+<td>
+• none of + danh từ không đếm được<br>
+• none of + danh từ đếm được số nhiều
+</td>
+<td>Số ít (trang trọng) hoặc Số nhiều (thân mật)</td>
+</tr>
+<tr>
+<td colspan="3">
+Ex: None of the evidence is valid.<br>
+None of the guests have arrived yet.
+</td>
+</tr>
 
-2. Could you pass I /me /myself the salt, please?
+<tr>
+<td rowspan="3"><b>All</b></td>
+<td rowspan="2">Tất cả</td>
+<td>
+• all + danh từ không đếm được<br>
+• all + danh từ đếm được số nhiều
+</td>
+<td>Số ít / Số nhiều</td>
+</tr>
+<tr>
+<td colspan="2">* Tương tự với all of</td>
+</tr>
+<tr>
+<td colspan="3">
+Ex: All the money is gone.<br>
+All of the students are present.
+</td>
+</tr>
 
+<tr>
+<td rowspan="3"><b>Half</b></td>
+<td rowspan="2">Một nửa</td>
+<td>
+• half + danh từ không đếm được<br>
+• half + a/an + danh từ đếm được số ít<br>
+• half + danh từ đếm được số nhiều
+</td>
+<td>Số ít / Số nhiều</td>
+</tr>
+<tr>
+<td colspan="2">* Tương tự với half of</td>
+</tr>
+<tr>
+<td colspan="3">
+Ex: There was half an apple left in the fruit bowl.<br>
+Half of the employees are absent.
+</td>
+</tr>
+
+<tr>
+<td rowspan="2"><b>Both</b></td>
+<td>Cả hai (người/ vật)</td>
+<td>• both / both of + danh từ đếm được số nhiều</td>
+<td>Số nhiều</td>
+</tr>
+<tr>
+<td colspan="3">
+Ex: Both (of the) players are ready.
+</td>
+</tr>
+
+</table>

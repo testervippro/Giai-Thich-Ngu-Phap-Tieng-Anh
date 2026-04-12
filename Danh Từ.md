@@ -8,8 +8,6 @@ Phân biệt các loại danh từ và hiểu được chức năng của danh t
 
 - Biết cách thành lập danh tụ.
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//8ea1a2d3-d891-4340-aa8f-25143f6f397d/markdown_0/imgs/img_in_image_box_561_667_700_752.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-12T12%3A01%3A12Z%2F-1%2F%2F4a0643c74e7fa6716a135ebea6371bf4e05f49f5e89da0c100182ebd97104b27" alt="Image" width="11%" /></div>
-
 
 Danh từ là từ hoặc cụm từ chỉ người, con vật, đó vật hoặc sự vật, nơi chốn, khái niệm, và các đối tượng trừn tượng khác.
 
@@ -70,8 +68,7 @@ Fashion trends from the 2000's are coming back in today's pop culture. [the 2000
 b. Ta thêm -es vào các danh từ tận cùng bàng -s, -ss, -sh, -x, -z, -ch để tạo thành số nhiều.
 
 
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>$ \underline{\text{Ex}} $: bus</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>buses</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>business</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>businesses</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>dish</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>dishes</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>tax</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>taxes</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>quiz</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>quizzes</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>church</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>churches</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'> bus</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>buses</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>business</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>businesses</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>dish</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>dishes</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>tax</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>taxes</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>quiz</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>quizzes</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>church</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>churches</td></tr></table>
 
 c. Đối với các danh từ tận cùng bằng phụ âm + y (consonant + y), ta tạo thành số nhiều bảng cách đối y thành i rối thêm -es.
 
@@ -185,7 +182,8 @@ Ex: sand, gold, tea, rice, money, furniture, education, wind, thunder
 
 Vì không đếm được nên loại danh từ này không thể theo sau mạo từ a/an hoặc một con số cụ thể, thay vào đó ta có thể dùng các lượng từ như some, any, much, a lot of, little, a little, v.v.
 
-\[\begin{array}{ccc}\underline{Ex:}\ a\ sand&
+ a sand  -> a lot of sand 
+ a furniture -> some furniture
 
 Một số danh từ luôn ở hình thức số nhiều, tận cùng là -s nhưng lại là danh từ không đếm được và được dùng với động từ số it. Đó là:
 
@@ -295,8 +293,86 @@ Có 3 cách phát âm đuôi -s/-es của danh từ số nhiều: /s/, /z/ và /
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>$ \mathring{A} $m t $ \mathring{a} $n cùng</td><td style='text-align: center; word-wrap: break-word;'>Thé hi $ \underset{\cdot}{e} $n qua m $ \underset{\cdot}{a} $t ch $ \underset{\cdot}{u} $r t $ \underset{\cdot}{a} $n cùng</td><td style='text-align: center; word-wrap: break-word;'>Thém -es</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>/s/</td><td style='text-align: center; word-wrap: break-word;'>$ \underline{\text{Ex: chance}} $ /tʃɑːns/ bus/  $ \underline{\text{bʌs}} $ /kɪss/ bo $ \underline{\text{x}} $ /bɒks/</td><td style='text-align: center; word-wrap: break-word;'>$ \underline{\text{chances}} $ /'tʃɑːnsɪz/ bus $ \underline{\text{es}} $ /'bʌsɪz/ kiss $ \underline{\text{es}} $ /'kɪsɪz/ boxes /'bɒksɪz/</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>/ʃ/</td><td style='text-align: center; word-wrap: break-word;'>$ \underline{\text{Ex: brush}} $ /brʌʃ/ wish/  $ \underline{\text{wɪʃ/wɪʃ/}} $</td><td style='text-align: center; word-wrap: break-word;'>brus $ \underline{\text{he}} $s /'brʌʃɪz/ wishes /'wɪʃɪz/</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>/ɜː/</td><td style='text-align: center; word-wrap: break-word;'>$ \underline{\text{Ex: massage}} $ /'mæsaː/ garage /'gæraː/</td><td style='text-align: center; word-wrap: break-word;'>massages /'mæsaːz/ garages /'gæraːz/</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>/z/</td><td style='text-align: center; word-wrap: break-word;'>$ \underline{\text{Ex: quiz}} $ /kwɪz/ prize /praɪz/</td><td style='text-align: center; word-wrap: break-word;'>quiz $ \underline{\text{zes}} $ /'kwɪzɪz/ prizes /'praɪzɪz/</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>/tʃ/</td><td style='text-align: center; word-wrap: break-word;'>$ \underline{\text{Ex: church}} $ /tʃɜːtʃ/ match /mætʃ/</td><td style='text-align: center; word-wrap: break-word;'>bat $ \underline{\text{ches}} $ /'tʃɜːtʃɪz/ matches /'mætʃɪz/</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>/dʒ/</td><td style='text-align: center; word-wrap: break-word;'>$ \underline{\text{Ex: language /'læŋɡwɪdʒ/ stage /steɪdʒ/}} $</td><td style='text-align: center; word-wrap: break-word;'>languages /'læŋɡwɪdʒɪz/ stages /'steɪdʒɪz/</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>$ \lambda_{m} $ t $ \eta_{n} $cung</td><td style='text-align: center; word-wrap: break-word;'>Thé hiện qua mệt chử tận cùng</td><td style='text-align: center; word-wrap: break-word;'>Thêm -s</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>/f/</td><td style='text-align: center; word-wrap: break-word;'>Ex: laugh /lɑːf/ roof /ruːf/ giraffe /dʒɜːrəːf/</td><td style='text-align: center; word-wrap: break-word;'>laughs /lɑːfːs/ roofs /ruːfːs/ giraffes /dʒɜːrəːfːs/</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>/t/</td><td style='text-align: center; word-wrap: break-word;'>Ex: hat /hæt/ vote /vəʊt/</td><td style='text-align: center; word-wrap: break-word;'>hats /hæts/ votes /vəʊts/</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>/k/</td><td style='text-align: center; word-wrap: break-word;'>Ex: book /bʊk/ cake /kɛɪk/</td><td style='text-align: center; word-wrap: break-word;'>books /bʊks/ cakes /keɪks/</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>/p/</td><td style='text-align: center; word-wrap: break-word;'>Ex: map /mæp/ pipe /paɪp/</td><td style='text-align: center; word-wrap: break-word;'>maps /mæps/ pipes /paɪps/</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>/θ/</td><td style='text-align: center; word-wrap: break-word;'>Ex: month /mʌnθ/ length /lɛŋkθ/</td><td style='text-align: center; word-wrap: break-word;'>months /mʌnθs/ lengths /lɛŋkθs/</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'>
+<tr>
+<td style='text-align: center;'>Âm tận cùng</td>
+<td style='text-align: center;'>Thể hiện qua mặt chữ tận cùng</td>
+<td style='text-align: center;'>Thêm -es</td>
+</tr>
 
+<tr>
+<td style='text-align: center;'>/s/</td>
+<td style='text-align: center;'>Ex: chance /tʃɑːns/ bus /bʌs/ kiss /kɪs/ box /bɒks/</td>
+<td style='text-align: center;'>chances /'tʃɑːnsɪz/ buses /'bʌsɪz/ kisses /'kɪsɪz/ boxes /'bɒksɪz/</td>
+</tr>
+
+<tr>
+<td style='text-align: center;'>/ʃ/</td>
+<td style='text-align: center;'>Ex: brush /brʌʃ/ wish /wɪʃ/</td>
+<td style='text-align: center;'>brushes /'brʌʃɪz/ wishes /'wɪʃɪz/</td>
+</tr>
+
+<tr>
+<td style='text-align: center;'>/ʒ/</td>
+<td style='text-align: center;'>Ex: massage /'mæsaː/ garage /'gæraː/</td>
+<td style='text-align: center;'>massages /'mæsaːz/ garages /'gæraːz/</td>
+</tr>
+
+<tr>
+<td style='text-align: center;'>/z/</td>
+<td style='text-align: center;'>Ex: quiz /kwɪz/ prize /praɪz/</td>
+<td style='text-align: center;'>quizzes /'kwɪzɪz/ prizes /'praɪzɪz/</td>
+</tr>
+
+<tr>
+<td style='text-align: center;'>/tʃ/</td>
+<td style='text-align: center;'>Ex: church /tʃɜːtʃ/ match /mætʃ/</td>
+<td style='text-align: center;'>churches /'tʃɜːtʃɪz/ matches /'mætʃɪz/</td>
+</tr>
+
+<tr>
+<td style='text-align: center;'>/dʒ/</td>
+<td style='text-align: center;'>Ex: language /'læŋɡwɪdʒ/ stage /steɪdʒ/</td>
+<td style='text-align: center;'>languages /'læŋɡwɪdʒɪz/ stages /'steɪdʒɪz/</td>
+</tr>
+
+<tr>
+<td style='text-align: center;'>Âm tận cùng</td>
+<td style='text-align: center;'>Thể hiện qua mặt chữ tận cùng</td>
+<td style='text-align: center;'>Thêm -s</td>
+</tr>
+
+<tr>
+<td style='text-align: center;'>/f/</td>
+<td style='text-align: center;'>Ex: laugh /lɑːf/ roof /ruːf/ giraffe /dʒɜːrəːf/</td>
+<td style='text-align: center;'>laughs /lɑːfs/ roofs /ruːfs/ giraffes /dʒɜːrəːfs/</td>
+</tr>
+
+<tr>
+<td style='text-align: center;'>/t/</td>
+<td style='text-align: center;'>Ex: hat /hæt/ vote /vəʊt/</td>
+<td style='text-align: center;'>hats /hæts/ votes /vəʊts/</td>
+</tr>
+
+<tr>
+<td style='text-align: center;'>/k/</td>
+<td style='text-align: center;'>Ex: book /bʊk/ cake /keɪk/</td>
+<td style='text-align: center;'>books /bʊks/ cakes /keɪks/</td>
+</tr>
+
+<tr>
+<td style='text-align: center;'>/p/</td>
+<td style='text-align: center;'>Ex: map /mæp/ pipe /paɪp/</td>
+<td style='text-align: center;'>maps /mæps/ pipes /paɪps/</td>
+</tr>
+
+<tr>
+<td style='text-align: center;'>/θ/</td>
+<td style='text-align: center;'>Ex: month /mʌnθ/ length /lɛŋkθ/</td>
+<td style='text-align: center;'>months /mʌnθs/ lengths /lɛŋkθs/</td>
+</tr>
+
+</table>
 /s/ khi thêm -s vào các danh từ có âm tần cùng là: /f/, /t/, /k/, /p/, /θ/. Các âm này thường được thể hiện qua mặt chủ tân cùng là -f / -fe, -gh [đôi khi], -t / -te, -k / -ke, -p / -pe, -th.
 
 
@@ -316,10 +392,9 @@ bed /bed/ → beds /bedz/
 ## Chức năng của danh từ (Functions of Nouns)
 
 
-
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Chức năng</td><td style='text-align: center; word-wrap: break-word;'>Định nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Chủ ngữ (Subject)</td><td style='text-align: center; word-wrap: break-word;'>Thực hiện hành động</td><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//ad93c18d-e9f5-43c7-bc21-d6aac19a4923/markdown_2/imgs/img_in_image_box_708_1217_773_1250.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-12T12%3A01%3A00Z%2F-1%2F%2F2c26b3c030e6737f4431510426a95c641490d1444c810c5ccda7084e018c1dfe" alt="Image"" />  $ \underline{\text{My mom made pasta last night.}} $  $ \rightarrow $ Chủ ngữ &quot;my mom&quot; thực hiện hành động &quot;made&quot;.</td></tr></table>
-
-## 12 • GIÁI THÍCH NGŨ PHÁP TIẾNG ANH
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Chức năng</td><td style='text-align: center; word-wrap: break-word;'>Định nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Chủ ngữ (Subject)</td><td style='text-align: center; word-wrap: break-word;'>Thực hiện hành động</td><td style='text-align: center; word-wrap: break-word;'>
+  My mom made pasta last night. Chủ ngữ 'my mom'thực hiện hành động 'quotmade'.</td>
+</tr></table>
 
 
 
@@ -333,17 +408,40 @@ Sơ hữu cách diễn đạt sự sơ hữu của danh tụ.
 
 
 
-<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Loại từ</td><td style="text-align: center; word-wrap: break-word;">Quy tác</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td><td style="text-align: center; word-wrap: break-word;">Ghi chú</td></tr><tr><td style="text-align: center; word-wrap: break-word;">1. Danh từ số it</td><td style="text-align: center; word-wrap: break-word;">Thém ’s</td><td style="text-align: center; word-wrap: break-word;">- The car’s tail- John’s new haircut</td><td style="text-align: center; word-wrap: break-word;">Áp dụng cho háu hét danh từ số it</td></tr><tr><td style="text-align: center; word-wrap: break-word;">2. Danh từ số it tận cùng bảng -s</td><td style="text-align: center; word-wrap: break-word;">Thém ’s (hiện đại) hoặc chi’ (truyền thống)</td><td style="text-align: center; word-wrap: break-word;">- James’s book / James’ book- The princess’s crown / the princess’ crown</td><td style="text-align: center; word-wrap: break-word;">Da số các hướng dẫn viết hiện đại đều ưu tiên ’s</td></tr><tr><td style="text-align: center; word-wrap: break-word;">3. Danh từ số nhiều tận cùng bảng -s</td><td style="text-align: center; word-wrap: break-word;">Chi thêm dấu ’</td><td style="text-align: center; word-wrap: break-word;">- the Taylors’ hair salon- Teachers’ day</td><td style="text-align: center; word-wrap: break-word;">Tránh trùng âm /s/</td></tr><tr><td style="text-align: center; word-wrap: break-word;">4. Danh từ số nhiều bất quy tác</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s</td><td style="text-align: center; word-wrap: break-word;">- Children’s playground- Men’s clothing</td><td style="text-align: center; word-wrap: break-word;">Áp dụng cho danh từ số nhiều không tận cùng bảng -s</td></tr><tr><td style="text-align: center; word-wrap: break-word;">5. Tên riêng (nhân vật lịch sử, có điên)</td><td style="text-align: center; word-wrap: break-word;">Chi thêm ’s</td><td style="text-align: center; word-wrap: break-word;">- Socrates’ philosophy- Moses’ laws</td><td style="text-align: center; word-wrap: break-word;">Quy tác truyền thống cho các tên có diễn</td></tr><tr><td style="text-align: center; word-wrap: break-word;">6. Danh từ ghép</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào từ cuối cùng</td><td style="text-align: center; word-wrap: break-word;">- My mother-in-law’s house- The editor-in-chief’s dection</td><td style="text-align: center; word-wrap: break-word;"></td></tr><tr><td style="text-align: center; word-wrap: break-word;">7. Số hữu chung</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào danh từ cuối cùng</td><td style="text-align: center; word-wrap: break-word;">- Tom and Mary’s house- Jack and Jill’s apartment</td><td style="text-align: center; word-wrap: break-word;">Chi vật số hữu chung của các danh từ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">8. Số hữu riêng</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào từng danh từ</td><td style="text-align: center; word-wrap: break-word;">- Sarah’s and Mike’s reports- The hospital’s and clinic’s doctors</td><td style="text-align: center; word-wrap: break-word;">Chi vật số hữu riêng của mỗi danh từ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">9. Cụm từ chi thời gian, tiến bạc hoặc giá trị</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s (số it) Thêm ’s (số nhiều)</td><td style="text-align: center; word-wrap: break-word;">- A day’s work- Today’s news- Ten years’ time- Two weeks’ notice- A dollar’s worth of candy- Fifty pounds’ worth of goods</td><td style="text-align: center; word-wrap: break-word;"></td></tr><tr><td style="text-align: center; word-wrap: break-word;">10. M $ \underline{\text{ot}} $ s $ \underline{\text{o}} $ c $ \underline{\text{u}} $m t $ \underline{\text{u}} $ c $ \underline{\text{o}} $ d $ \underline{\text{i}} $nh</td><td style="text-align: center; word-wrap: break-word;">The $ \underline{\text{m}} $ 's ho $ \underline{\text{a}} $c 'tu $ \underline{\text{y}} $ c $ \underline{\text{u}} $m</td><td style="text-align: center; word-wrap: break-word;">- For heaven's sake- For goodness' sake- At arm's length</td><td style="text-align: center; word-wrap: break-word;"></td></tr></table>
-
-
+<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Loại từ</td><td style="text-align: center; word-wrap: break-word;">Quy tác</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td><td style="text-align: center; word-wrap: break-word;">Ghi chú</td></tr><tr><td style="text-align: center; word-wrap: break-word;">1. Danh từ số it</td><td style="text-align: center; word-wrap: break-word;">Thém ’s</td><td style="text-align: center; word-wrap: break-word;">- The car’s tail- John’s new haircut</td><td style="text-align: center; word-wrap: break-word;">Áp dụng cho háu hét danh từ số it</td></tr><tr><td style="text-align: center; word-wrap: break-word;">2. Danh từ số it tận cùng bảng -s</td><td style="text-align: center; word-wrap: break-word;">Thém ’s (hiện đại) hoặc chi’ (truyền thống)</td><td style="text-align: center; word-wrap: break-word;">- James’s book / James’ book- The princess’s crown / the princess’ crown</td><td style="text-align: center; word-wrap: break-word;">Da số các hướng dẫn viết hiện đại đều ưu tiên ’s</td></tr><tr><td style="text-align: center; word-wrap: break-word;">3. Danh từ số nhiều tận cùng bảng -s</td><td style="text-align: center; word-wrap: break-word;">Chi thêm dấu ’</td><td style="text-align: center; word-wrap: break-word;">- the Taylors’ hair salon- Teachers’ day</td><td style="text-align: center; word-wrap: break-word;">Tránh trùng âm /s/</td></tr><tr><td style="text-align: center; word-wrap: break-word;">4. Danh từ số nhiều bất quy tác</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s</td><td style="text-align: center; word-wrap: break-word;">- Children’s playground- Men’s clothing</td><td style="text-align: center; word-wrap: break-word;">Áp dụng cho danh từ số nhiều không tận cùng bảng -s</td></tr><tr><td style="text-align: center; word-wrap: break-word;">5. Tên riêng (nhân vật lịch sử, có điên)</td><td style="text-align: center; word-wrap: break-word;">Chi thêm ’s</td><td style="text-align: center; word-wrap: break-word;">- Socrates’ philosophy- Moses’ laws</td><td style="text-align: center; word-wrap: break-word;">Quy tác truyền thống cho các tên có diễn</td></tr><tr><td style="text-align: center; word-wrap: break-word;">6. Danh từ ghép</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào từ cuối cùng</td><td style="text-align: center; word-wrap: break-word;">- My mother-in-law’s house- The editor-in-chief’s dection</td><td style="text-align: center; word-wrap: break-word;"></td></tr><tr><td style="text-align: center; word-wrap: break-word;">7. Số hữu chung</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào danh từ cuối cùng</td><td style="text-align: center; word-wrap: break-word;">- Tom and Mary’s house- Jack and Jill’s apartment</td><td style="text-align: center; word-wrap: break-word;">Chi vật số hữu chung của các danh từ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">8. Số hữu riêng</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào từng danh từ</td><td style="text-align: center; word-wrap: break-word;">- Sarah’s and Mike’s reports- The hospital’s and clinic’s doctors</td><td style="text-align: center; word-wrap: break-word;">Chi vật số hữu riêng của mỗi danh từ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">9. Cụm từ chi thời gian, tiến bạc hoặc giá trị</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s (số it) Thêm ’s (số nhiều)</td><td style="text-align: center; word-wrap: break-word;">- A day’s work- Today’s news- Ten years’ time- Two weeks’ notice- A dollar’s worth of candy- Fifty pounds’ worth of goods</td><td style="text-align: center; word-wrap: break-word;"></td></tr><tr><td style="text-align: center; word-wrap: break-word;">10. Một số cụm từ cố định</td><td style="text-align: center; word-wrap: break-word;">Thêm 's hoặc tùy cụm</td><td style="text-align: center; word-wrap: break-word;">- For heaven's sake- For goodness' sake- At arm's length</td><td style="text-align: center; word-wrap: break-word;"></td></tr></table>
 
 
 <div style="text-align: center;"><div style="text-align: center;">Phân biệt sở hữu cách 's và sở hữu of + danh từ</div> </div>
 
+<table border="1" style="margin:auto; border-collapse:collapse;">
+<tr>
+<td style="text-align:center; padding:10px;"><b>Dùng 's (Danh từ + 's + danh từ)</b></td>
+<td style="text-align:center; padding:10px;"><b>Dùng of (Danh từ + of + danh từ)</b></td>
+</tr>
 
+<tr>
+<td style="padding:10px; vertical-align:top;">
+Khi chủ sở hữu là người, động vật, hoặc sinh vật sống<br><br>
+Ex:<br>
+My friend's car<br>
+The dog's toy<br>
+Sarah's idea
+</td>
 
+<td style="padding:10px; vertical-align:top;">
+Khi chủ sở hữu là vật vô tri, địa điểm hoặc khái niệm trừu tượng<br><br>
+Ex:<br>
+The roof of the house<br>
+(NOT The house's roof)<br><br>
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dùng&#x27;s(Danh tir+&#x27;s+danh ti)</td><td style='text-align: center; word-wrap: break-word;'>Dùng of(Danh tir+of+danh ti)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi chú só hữu là nguời, động vật, hoặc sinh vật sóng\n $ \underline{\text{Ex:}} $ My friend&#x27;s car\n $ \underline{\text{The dog&#x27;s toy}} $ Sarah&#x27;s idea</td><td style='text-align: center; word-wrap: break-word;'>Khi chú só hữu là vật vô trí, địa điểm hoặc khái niệm trừu tượng\n $ \underline{\text{Ex:}} $ The roof of the house (NOT The house&#x27;s roof) The door of the building (NOT The building&#x27;s door) The history of Vietnam (NOT Vietnam&#x27;s history)</td></tr></table>
+The door of the building<br>
+(NOT The building's door)<br><br>
+
+The history of Vietnam<br>
+(NOT Vietnam's history)
+</td>
+</tr>
+</table>
 
 Ngoại lệ & Trường hợp đặc biệt
 
@@ -452,7 +550,4 @@ Ex: A leg of the table (NOT A leg of the table's)
 
 ## IV. Thành lập danh từ bằng cách thêm hậu tố (suffix) vào sau tính từ
 
-
-
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Tình tử</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Danh tử</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>happy, sad</td><td style='text-align: center; word-wrap: break-word;'>-ness</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>happiness, sadness</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>active, creative</td><td style='text-align: center; word-wrap: break-word;'>-ity</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>activity, creativity</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>certain, cruel</td><td style='text-align: center; word-wrap: break-word;'>-ty</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>certainty, cruelty</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>private, efficient</td><td style='text-align: center; word-wrap: break-word;'>-cy</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>privacy, efficiency</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>free, wise</td><td style='text-align: center; word-wrap: break-word;'>-dom</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>freedom, wisdom</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>strong, long</td><td style='text-align: center; word-wrap: break-word;'>-th</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>strength, length</td></tr></table>
-
