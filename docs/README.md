@@ -16,10 +16,9 @@
 - [LƯỢNG TỪ (QUANTIFIERS)](Lượng%20Từ.md)
 
 ---
-
 ## CHƯƠNG 2: CÁC THÌ CỦA ĐỘNG TỪ (VERB TENSES)
 
-> (Bạn chưa có file riêng → có thể tạo sau)
+- [CÁC THÌ CỦA ĐỘNG TỪ (VERB TENSES)](Thi.md)
 
 ---
 
