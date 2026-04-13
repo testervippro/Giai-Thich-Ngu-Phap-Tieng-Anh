@@ -15,7 +15,7 @@
 * [MẠO TỪ (ARTICLES)](Mạo%20Từ.md)
 * [LƯỢNG TỪ (QUANTIFIERS)](Lượng%20Từ.md)
 
-## [CHƯƠNG 2: CÁC THÌ CỦA ĐỘNG TỪ (VERB TENSES)](TENCE.md)
+## [CHƯƠNG 2: CÁC THÌ CỦA ĐỘNG TỪ (VERB TENSES)](TENSES.md)
 
 * HIỆN TẠI (PRESENT)
 * QUÁ KHỨ (PAST)
