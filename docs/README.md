@@ -24,7 +24,7 @@
 
 ## CHƯƠNG 3: MỆNH ĐỀ (CLAUSES)
 
-> (chưa có file)
+- [MỆNH ĐỀ (CLAUSES)](Menh De.md)
 
 ---
 
