@@ -30,7 +30,7 @@
 
 ## CHƯƠNG 4: CÂU (SENTENCES)
 
-> (chưa có file)
+- [CÂU(SENTENCES)](SENTENCES.md)
 
 ---
 
