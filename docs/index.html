@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Grammar Book</title>
+  <title>Giải thích ngữ pháp tiếng anh</title>
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Grammar Book">
@@ -12,38 +12,61 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 
   <style>
-  body {
-    background-image: url('cover.png');
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-  }
+/* nền ảnh giữ nguyên */
+body {
+  background-image: url('cover.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #e5e5e5;
+}
 
-  /* gradient nhẹ → không làm mờ ảnh */
-  body::before {
-    content: "";
-    position: fixed;
-    inset: 0;
-    background: linear-gradient(
-      rgba(255,255,255,0.3),
-      rgba(255,255,255,0.5)
-    );
-    z-index: -1;
-  }
+/* giảm độ trắng overlay → thấy ảnh rõ hơn */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(255,255,255,0.4); /* 👈 giảm từ 0.7 → 0.4 */
+  z-index: -1;
+}
 
-  /* giữ nội dung rõ nhưng không che hết ảnh */
-  .markdown-section {
-    background: rgba(255, 255, 255, 0.75);
-    padding: 20px;
-    border-radius: 10px;
-  }
+/* nền content rõ hơn */
+.markdown-section {
+  background: rgba(255,255,255,0.9); /* 👈 tăng contrast */
+  padding: 24px;
+  border-radius: 12px;
+}
 
-  /* chữ nổi hơn */
-  .markdown-section {
-    color: #111;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.1);
-  }
+/* tiêu đề đậm hơn */
+.markdown-section h1,
+.markdown-section h2 {
+  color: #111827;
+  font-weight: 700;
+}
+
+/* link rõ hơn (fix màu xanh nhạt) */
+.markdown-section a {
+  color: #059669; /* xanh đậm hơn */
+  font-weight: 600;
+}
+
+.markdown-section a:hover {
+  color: #047857;
+}
+
+/* sidebar rõ hơn */
+.sidebar {
+  background: rgba(255,255,255,0.95);
+}
+
+/* text sidebar */
+.sidebar a {
+  color: #374151;
+}
+
+.sidebar a:hover {
+  color: #059669;
+}
 </style>
 </head>
 
@@ -52,7 +75,7 @@
 
   <script>
     window.$docsify = {
-      name: '📚 Grammar Book',
+      name: '📚Giải thích ngữ pháp tiếng anh',
       repo: '',
       loadSidebar: true,
       subMaxLevel: 2
