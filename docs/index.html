@@ -2,21 +2,56 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>Grammar Book</title>
+
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Grammar Book">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+  <!-- Theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <!-- Background -->
+  <style>
+    body {
+      background-image: url('cover.png');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+
+    /* overlay để chữ dễ đọc */
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      background: rgba(255, 255, 255, 0.75);
+      z-index: -1;
+    }
+
+    /* làm nền nội dung đẹp hơn */
+    .markdown-section {
+      background: rgba(255, 255, 255, 0.9);
+      padding: 20px;
+      border-radius: 10px;
+    }
+  </style>
 </head>
+
 <body>
-  <div id="app"></div>
+  <div id="app">Loading...</div>
+
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: '📚 Grammar Book',
+      repo: '',
+      loadSidebar: true,
+      subMaxLevel: 2
     }
   </script>
-  <!-- Docsify v4 -->
+
+  <!-- Docsify -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
