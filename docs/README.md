@@ -18,7 +18,7 @@
 ---
 ## CHƯƠNG 2: CÁC THÌ CỦA ĐỘNG TỪ (VERB TENSES)
 
-- [CÁC THÌ CỦA ĐỘNG TỪ (VERB TENSES)](Thi.md)
+- [CÁC THÌ CỦA ĐỘNG TỪ (VERB TENSES)](TENCE.md)
 
 ---
 
