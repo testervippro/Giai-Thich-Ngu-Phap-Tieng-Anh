@@ -21,10 +21,9 @@
 - [CÁC THÌ CỦA ĐỘNG TỪ (VERB TENSES)](TENCE.md)
 
 ---
+## CHƯƠNG 3: MỆNH ĐỀ
 
-## CHƯƠNG 3: MỆNH ĐỀ (CLAUSES)
-
-- [MỆNH ĐỀ (CLAUSES)](Menh De.md)
+- [MỆNH ĐỀ (CLAUSES)](Menh%20De.md)
 
 ---
 
