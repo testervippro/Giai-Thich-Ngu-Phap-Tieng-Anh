@@ -16,9 +16,7 @@
 - [LƯỢNG TỪ (QUANTIFIERS)](Lượng%20Từ.md)
 
 ---
-## CHƯƠNG 2: CÁC THÌ CỦA ĐỘNG TỪ (VERB TENSES)
-
-### [CÁC THÌ CỦA ĐỘNG TỪ (VERB TENSES)](TENCE.md)
+## [CHƯƠNG 2: CÁC THÌ CỦA ĐỘNG TỪ (VERB TENSES)](TENCE.md)
 
 - HIỆN TẠI (PRESENT)
 - QUÁ KHỨ (PAST)
@@ -30,9 +28,8 @@
 - Bảng tóm tắt công thức các thì trong tiếng Anh
 
 ---
-## CHƯƠNG 3: MỆNH ĐỀ
 
-### [MỆNH ĐỀ (CLAUSES)](Menh%20De.md)
+## [ CHƯƠNG 3: MỆNH ĐỀ](Menh%20De.md)
 
 - Mệnh đề danh từ (Noun clauses)
 - Mệnh đề quan hệ (Relative clauses)
@@ -49,9 +46,7 @@
   - Mệnh đề sau It's time và Would rather
 
 ---
-## CHƯƠNG 4: CÂU (SENTENCES)
-
-### [CÂU (SENTENCES)](SENTENCES.md)
+## [CHƯƠNG 4: CÂU (SENTENCES)](SENTENCES.md)
 
 #### CÁC THÀNH PHẦN TRONG CÂU VÀ TRẬT TỰ TỪ  
 (Parts of a Sentence and Order of Words)
@@ -92,11 +87,7 @@
 - Các cấu trúc bị động đặc biệt (Special passive structures)
 
 ---
-
-## CHƯƠNG 5: PHỐI HỢP THÌ
-
-### [SỰ PHỐI HỢP THÌ TRONG CÁC CẤU TRÚC CÂU KHÁC  
-(SEQUENCE OF TENSES)](TENSES.md)
+## [CHƯƠNG 5:SỰ PHỐI HỢP THÌ TRONG CÁC CẤU TRÚC CÂU KHÁC  ](TENSES.md)
 
 - Mệnh đề chính và mệnh đề phụ  
   (Main clause and subordinate clause)
