@@ -1,4 +1,6 @@
-- [📚 MỤC LỤC](README.md)
+# 📚 MỤC LỤC
+
+---
 
 # CHƯƠNG 1: TỪ LOẠI
 
@@ -15,18 +17,32 @@
 - [MẠO TỪ](M%E1%BA%A1o%20T%E1%BB%AB.md)
 - [LƯỢNG TỪ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md)
 
+---
+
 # CHƯƠNG 2: CÁC THÌ
 
 - [CÁC THÌ ĐỘNG TỪ](Thi.md)
 
+---
+
 # CHƯƠNG 3: MỆNH ĐỀ
 
-- (Đang cập nhật)
+> Đang cập nhật...
+
+---
 
 # CHƯƠNG 4: CÂU
 
 - [CÂU](SENTENCES.md)
 
+---
+
 # CHƯƠNG 5: PHỐI HỢP THÌ
 
-- (Đang cập nhật)
+> Đang cập nhật...
+
+---
+
+# 📖 OXFORD COLLOCATIONS DICTIONARY
+
+- [Oxford Collocations Dictionary](Oxford%20Collocations%20Dictionary.md)
