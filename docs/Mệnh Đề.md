@@ -34,9 +34,9 @@ Câu trên góm có hai mệnh đề:
 
 (2) I bought yesterday (động từ là bought)
 
-####  $ \underline{\text{There is no doubt that they arrived before we did.}} $
+####  There is no doubt that they arrived before we did.
 
-(1)  $ \qquad $ (2)  $ \qquad $ (3)
+(1)  \qquad (2)  \qquad (3)
 
 Càu này góm co ba mệnh dê:
 
@@ -57,7 +57,7 @@ Mệnh dê thuống biểu đạt một hành động hoặc trạng thái tôn 
 
 Mệnh dê độc lập (Independent Clauses), hay còn được gọi là mệnh dê chính (Main Clauses), là mệnh dê có thể tự đứng một mình và tạo thành một câu với ý nghĩa hoàn chỉnh.
 
-Cáu trúc cơ bản của mệnh đề độc lập:
+Cấu trúc cơ bản của mệnh đề độc lập:
 
 Cần check lại ...
 
@@ -75,7 +75,7 @@ Trong do,
 
 - relative pronoun: dài tù quan hệ (xem thêm ở phán II. Mênh dé quan hệ (Relative Clauses))
 
- $ \underline{Ex} $: I will call you back when I finish my meeting.
+ Ex: I will call you back when I finish my meeting.
 
 → when I finish my meeting là mệnh đề phụ, cung cấp thông tin về thời gian cho mệnh đề chính I will call you back.
 
@@ -144,7 +144,7 @@ The fact that he didn't show up was disappointing.
 
 Mệnh dê quan hệ (Relattive clauses) hay mệnh dê tính từ (Adjective clauses) là một mệnh dê phu thuộc, dùng sau danh từ/ đại từ, và có chức năng bổ nghĩa cho danh từ/ đại từ đó. Mệnh dê quan hệ thường bất đầu bảng các đại từ quan hệ (relattive pronouns) như who, whom, which, that, whose, hoặc các trạng từ quan hệ (relattive adverbs) where, when, why.
 
- $ \underline{Ex} $: I have a friend whose father is a pilot.
+ Ex: I have a friend whose father is a pilot.
 
 The movie which we watched last night was boring.
 
@@ -238,7 +238,7 @@ Mệnh dê quan hệ có thể được rút gọn bàng năm phương pháp sau
 
 Mệnh dé trang ngữ (Adverb Clauses) dong vai trò nhu một trạng ngữ trong câu. Chúng bó sung y nghĩa cho mệnh dé khác nên không thể dùng độc lập, mà bát bước phải dùng một mệnh dé chính khác. Mệnh dé trạng ngữ cho biết thông tin về nơi chốn, thời gian, nguyên nhân, kết quả, mục dịch, v.v. Mệnh dé trạng ngữ thuong được bát dâu bàng các liên từ phụ thuộc (subordinating conjunctions) như where, wherever, when, while, before, after, whether, if, unless, because, as, since, though, although, even though, as if, v.v.
 
- $ \underline{Ex} $: She stayed home because she was feeling sick.
+ Ex: She stayed home because she was feeling sick.
 
 Although he was tired, he kept working.
 
@@ -271,7 +271,7 @@ Cách rút gọn mệnh đề trạng ngữ chỉ thời gian
 
 Khi rút gọn mệnh để trạng ngữ chi thòi gian, ta chỉ cán lược bỏ chủ ngữ và các trưởng từ, sau đó đối động từ chính thành V-ing. Tuy nhiên, mệnh đề chính và mệnh đề trạng ngữ phải có CUNG CHỦ NGŨ.
 
- $ \underline{Ex} $: I usually read a book after I have dinner.
+ Ex: I usually read a book after I have dinner.
 
 → I usually read a book after having dinner.
 
@@ -281,7 +281,7 @@ He always smiles when he sees his children.
 
 Đế nhân mạnh sự kiện trong mệnh đề trang ngữ đã diễn ra TRUỐC sự kiện ở mệnh đề chính, ta sử dụng having + past participle.
 
- $ \underline{Ex} $: After they had studied hard for months, they finally passed the exam with flying colours.
+ Ex: After they had studied hard for months, they finally passed the exam with flying colours.
 
 → Having studied hard for months, they finally passed the exam with flying colours. Khi mệnh dê trạng ngữ chỉ thời gian bát dâu bàng when hay as soon as được dùng dê diễn tả một sự kiện xây ra ngay trước hoặc đóng thòi với sự kiện trong mệnh dê chính, ta rút gọn bàng cách sử dụng cụm từ on/upon + V-ing, hoặc chi cân dùng V-ing.
 
@@ -313,7 +313,7 @@ Mệnh dé trạng ngữ chỉ nguyên nhân được dùng để chỉ ra nguy�
 
 Khi rút gọn mệnh dê trạng ngữ chi nguyên nhân/ lí do, ta chỉ cán lược bỏ chủ ngữ và các trợ động từ, sau đó đối động từ chính thành V-ing. Đa phán, mệnh dê chính và mệnh dê trạng ngữ luôn có CỨNG CHỨ NGỮ.
 
- $ \underline{Ex} $: Since he was too tired to cook, he decided to order takeout.
+ Ex: Since he was too tired to cook, he decided to order takeout.
 
 → Being too tired to cook, he decided to order takeout.
 
@@ -323,13 +323,13 @@ She learned to play the guitar online because she didn't have time for lessons.
 
 Để nhấn mạnh sự kiện trong mệnh đề trạng ngữ đã xảy ra trước sự kiện ở mệnh đề chính, ta sử dụng having+past participle.
 
- $ \underline{Ex} $: Because we missed the last bus, we had to take a taxi home.
+ Ex: Because we missed the last bus, we had to take a taxi home.
 
 → Having missed the last bus, we had to take a taxi home.
 
 Tuy nhiên, trong trương hợp nếu hai chủ ngữ ở hai mệnh đề là khác nhau, ta phải giữ lại hai chủ ngữ do.
 
- $ \underline{Ex} $: Since the weather was bad, we cancelled the trip.
+ Ex: Since the weather was bad, we cancelled the trip.
 
 → The weather being bad, we cancelled the trip.
 
@@ -371,7 +371,7 @@ Mệnh dê trạng ngữ chỉ mục dịch được sử dụng dê diễn tả
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Lien tù/ cấu trúc</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>So that/ In order that + S + will/ would/ can/ could/ may/ might + V $ (bore-tǐl) $</td><td style='text-align: center; word-wrap: break-word;'>She left early in order that she might catch the bus.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>(Đế mà)</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>In case/ For fear that + S + V $ (Trong trưởng hợp khi/ phòng khi) $</td><td style='text-align: center; word-wrap: break-word;'>I wrote down her address, in case I couldn&#x27;t find it again.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>For the purpose of + V-ing (nhàm mục dịch)</td><td style='text-align: center; word-wrap: break-word;'>The policy was introduced for the purpose of reducing pollution.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>With a view to + V-ing (Với mục dịch)</td><td style='text-align: center; word-wrap: break-word;'>He&#x27;s saving money with a view to buying a house.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>(cách rút gọn mệnh đề trang ngữ chi mục dịch To-infinitive In order + to-infinitive So as + to-infinitive (Đế mà)</td><td style='text-align: center; word-wrap: break-word;'>She studies hard to get a scholarship. He exercises daily in order to stay healthy. The chef added extra spices so as to enhance the flavour of the dish.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Lien tù/ cấu trúc</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>So that/ In order that + S + will/ would/ can/ could/ may/ might + V (bore-tǐl)</td><td style='text-align: center; word-wrap: break-word;'>She left early in order that she might catch the bus.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>(Đế mà)</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>In case/ For fear that + S + V (Trong trưởng hợp khi/ phòng khi)</td><td style='text-align: center; word-wrap: break-word;'>I wrote down her address, in case I couldn&#x27;t find it again.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>For the purpose of + V-ing (nhàm mục dịch)</td><td style='text-align: center; word-wrap: break-word;'>The policy was introduced for the purpose of reducing pollution.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>With a view to + V-ing (Với mục dịch)</td><td style='text-align: center; word-wrap: break-word;'>He&#x27;s saving money with a view to buying a house.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>(cách rút gọn mệnh đề trang ngữ chi mục dịch To-infinitive In order + to-infinitive So as + to-infinitive (Đế mà)</td><td style='text-align: center; word-wrap: break-word;'>She studies hard to get a scholarship. He exercises daily in order to stay healthy. The chef added extra spices so as to enhance the flavour of the dish.</td></tr></table>
 
 #### LUU Y:
 
@@ -435,7 +435,7 @@ Mệnh dê trạng ngữ chỉ thế cách được dùng dê mô tả phương 
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Liên tử/ cấu trúc</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>As/ just as/ like+S+V(như là, theo như)</td><td style='text-align: center; word-wrap: break-word;'>He did it as/ like I taught him.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>The way (that)</td><td style='text-align: center; word-wrap: break-word;'>I like the way (that) you smile.</td></tr><tr><td colspan="2">(cach ma)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>As if/ As though (nhu the, cu như the)</td></tr><tr><td colspan="2">◇ Mơ tà tinh huống có thật</td></tr><tr><td colspan="2">Các tinh huống có thật ở dày có thể hiểu là các sự vật, sự việc rất rõ rang, và cấu trúc As if/ As though có tác dụng so sánh các sự vật, hiện tượng với nhau, thương dì kèm với các động từ chi giác quan smell, look, taste, feel, sound...</td></tr><tr><td colspan="2">- Diễn tả tinh huống có thật ở hiên tại: S + V_{vex} + as if + S + V_{vex}</td></tr><tr><td colspan="2">Ex: Gina smiles as if she has no worries.</td></tr><tr><td colspan="2">It looks as though it is going to rain.</td></tr><tr><td colspan="2">- Diễn tả tinh huống có thật ở quả khử: S + V_{2} + as if + S + V_{2}</td></tr><tr><td colspan="2">Ex: The boy ran as if someone chased him.</td></tr><tr><td colspan="2">He looked tired as though he didn't sleep well last night.</td></tr><tr><td colspan="2">* Lưu ý: Trong mệnh đề As if/ As though, động từ của mệnh đề được chia theo mệnh đề chính của câu.</td></tr><tr><td colspan="2">◇ Mơ tà tinh huống KHÔNG có thật</td></tr><tr><td colspan="2">Ngoài ra, câu trúc As if/ As though cùng có thể được dùng để diễn tả những tính huống giả định, KHÔNG có thật hay trái với sự thật. Dang cấu trúc này có hai loại: - Diễn tả tinh huống KHÔNG có thật ở hiên tại: S + V_{vex} + as if + S + V_{2}</td></tr><tr><td colspan="2">Ex: They behave as if they owned the whole place. [In fact, they don't own this place.]</td></tr><tr><td colspan="2">He drives as though he was/ were a professional race card driver. [In fact, he isn't a professional race card driver.]</td></tr><tr><td colspan="2">- Diễn tả tinh huống KHÔNG có thật ở quả khử: S + V_{2} + as if + S + had + V_{3}</td></tr><tr><td colspan="2">Ex: She looked at me as if she had known me before. [In reality, she didn't know me.]</td></tr><tr><td colspan="2">Jack denied everything as though he hadn't been there. [In reality, he was there.]</td></tr><tr><td colspan="2">* Lưu ý: Với động từ to be trong mệnh đề giả định, ta có thể sử dụng được của was và were với các chủ ngữ I, he, she, it.</td></tr><tr><td colspan="2">Ex: He acts as if he was/ were the king.</td></tr><tr><td colspan="2">Makoto speaks English well as though she was/ were an American.</td></tr><tr><td colspan="2">◇ Hãy so sánh hai câu sau:</td></tr><tr><td colspan="2">Ex: He talks as if he knows everything.</td></tr><tr><td colspan="2">He talks as if he knew everything.</td></tr><tr><td colspan="2">So sánh hai câu trên, câu thử nhất cho tablét có thể anh ấy thật sự biết hết mọi chuyện. Tuyn nhiên, câu thử hai nguyện ấy ràng anh ấy chác chán KHÔNG biết chuyện gì hết.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Liên tử/ cấu trúc</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>As/ just as/ like+S+V(như là, theo như)</td><td style='text-align: center; word-wrap: break-word;'>He did it as/ like I taught him.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>The way (that)</td><td style='text-align: center; word-wrap: break-word;'>I like the way (that) you smile.</td></tr><tr><td colspan="2">(cach ma)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>As if/ As though (nhu the, cu như the)</td></tr><tr><td colspan="2">◇ Mơ tà tinh huống có thật</td></tr><tr><td colspan="2">Các tinh huống có thật ở dày có thể hiểu là các sự vật, sự việc rất rõ rang, và cấu trúc As if/ As though có tác dụng so sánh các sự vật, hiện tượng với nhau, thương dì kèm với các động từ chi giác quan smell, look, taste, feel, sound...</td></tr><tr><td colspan="2">- Diễn tả tinh huống có thật ở hiên tại: S + Vvex + as if + S + Vvex</td></tr><tr><td colspan="2">Ex: Gina smiles as if she has no worries.</td></tr><tr><td colspan="2">It looks as though it is going to rain.</td></tr><tr><td colspan="2">- Diễn tả tinh huống có thật ở quả khử: S + V₂ + as if + S + V₂</td></tr><tr><td colspan="2">Ex: The boy ran as if someone chased him.</td></tr><tr><td colspan="2">He looked tired as though he didn't sleep well last night.</td></tr><tr><td colspan="2">* Lưu ý: Trong mệnh đề As if/ As though, động từ của mệnh đề được chia theo mệnh đề chính của câu.</td></tr><tr><td colspan="2">◇ Mơ tà tinh huống KHÔNG có thật</td></tr><tr><td colspan="2">Ngoài ra, câu trúc As if/ As though cùng có thể được dùng để diễn tả những tính huống giả định, KHÔNG có thật hay trái với sự thật. Dang cấu trúc này có hai loại: - Diễn tả tinh huống KHÔNG có thật ở hiên tại: S + Vvex + as if + S + V₂</td></tr><tr><td colspan="2">Ex: They behave as if they owned the whole place. [In fact, they don't own this place.]</td></tr><tr><td colspan="2">He drives as though he was/ were a professional race card driver. [In fact, he isn't a professional race card driver.]</td></tr><tr><td colspan="2">- Diễn tả tinh huống KHÔNG có thật ở quả khử: S + V₂ + as if + S + had + V₃</td></tr><tr><td colspan="2">Ex: She looked at me as if she had known me before. [In reality, she didn't know me.]</td></tr><tr><td colspan="2">Jack denied everything as though he hadn't been there. [In reality, he was there.]</td></tr><tr><td colspan="2">* Lưu ý: Với động từ to be trong mệnh đề giả định, ta có thể sử dụng được của was và were với các chủ ngữ I, he, she, it.</td></tr><tr><td colspan="2">Ex: He acts as if he was/ were the king.</td></tr><tr><td colspan="2">Makoto speaks English well as though she was/ were an American.</td></tr><tr><td colspan="2">◇ Hãy so sánh hai câu sau:</td></tr><tr><td colspan="2">Ex: He talks as if he knows everything.</td></tr><tr><td colspan="2">He talks as if he knew everything.</td></tr><tr><td colspan="2">So sánh hai câu trên, câu thử nhất cho tablét có thể anh ấy thật sự biết hết mọi chuyện. Tuyn nhiên, câu thử hai nguyện ấy ràng anh ấy chác chán KHÔNG biết chuyện gì hết.</td></tr></table>
 
 
 
@@ -591,7 +591,7 @@ Ex: I wish I was/ were slimmer so I could wear my favourite dress again.
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Cáu trúc</td><td style='text-align: center; word-wrap: break-word;'>Thi của mệnh đề chính</td><td style='text-align: center; word-wrap: break-word;'>Động từ đứng sau it's time/would rather</td><td style='text-align: center; word-wrap: break-word;'>Ý nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Vì dụ minh hoạ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>It's time + (for someone) + to-infinitive</td><td style='text-align: center; word-wrap: break-word;'>Hiện tại</td><td style='text-align: center; word-wrap: break-word;'>to-infinitive</td><td style='text-align: center; word-wrap: break-word;'>Đa đến lúc al đô nên làm gì (gợi ý nhẹ nhàng)</td><td style='text-align: center; word-wrap: break-word;'>It's time to go to bed. It's time for us to leave.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>It's time + S + V₂</td><td style='text-align: center; word-wrap: break-word;'>Hiện tại</td><td style='text-align: center; word-wrap: break-word;'>Quá khứ đơn (V₂)</td><td style='text-align: center; word-wrap: break-word;'>Đa đến lúc al đó nên làm gì nhưng vần chưa làm (mang ý phản nàn)</td><td style='text-align: center; word-wrap: break-word;'>It's time you went to bed. It's time we left.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Would rather + V $ \underline{\text{barre-inf}} $</td><td style='text-align: center; word-wrap: break-word;'>Hiện tại / tương lai</td><td style='text-align: center; word-wrap: break-word;'>barc-infinitive</td><td style='text-align: center; word-wrap: break-word;'>Thich làm diệu gi đó hơn (với chính chủ ngữ)</td><td style='text-align: center; word-wrap: break-word;'>I'd rather stay home tonight. We'd rather work together on this.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Would rather +S+V;</td><td style='text-align: center; word-wrap: break-word;'>Hi $ \underset{\cdot}{e} $n tai / tuong lai</td><td style='text-align: center; word-wrap: break-word;'>Qua khu don (V.)</td><td style='text-align: center; word-wrap: break-word;'>Mu $ \underset{\cdot}{o} $n nguoi khac lam die $ \underset{\cdot}{u} $ gi do o hi $ \underset{\cdot}{e} $n tai/ tuong lai</td><td style='text-align: center; word-wrap: break-word;'>I'd rather you stayed here. He'd rather she didn't go.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Would rather +S+had+V;</td><td style='text-align: center; word-wrap: break-word;'>Hi $ \underset{\cdot}{e} $n tai / qua khu</td><td style='text-align: center; word-wrap: break-word;'>Qua khu hoan th $ \underset{\cdot}{a} $nh</td><td style='text-align: center; word-wrap: break-word;'>Mu $ \underset{\cdot}{o} $n nguoi khac la lam die $ \underset{\cdot}{u} $ gi do trong qua khu</td><td style='text-align: center; word-wrap: break-word;'>I'd rather you had told me the truth.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Cấu trúc</td><td style='text-align: center; word-wrap: break-word;'>Thi của mệnh đề chính</td><td style='text-align: center; word-wrap: break-word;'>Động từ đứng sau it's time/would rather</td><td style='text-align: center; word-wrap: break-word;'>Ý nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Vì dụ minh hoạ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>It's time + (for someone) + to-infinitive</td><td style='text-align: center; word-wrap: break-word;'>Hiện tại</td><td style='text-align: center; word-wrap: break-word;'>to-infinitive</td><td style='text-align: center; word-wrap: break-word;'>Đa đến lúc al đô nên làm gì (gợi ý nhẹ nhàng)</td><td style='text-align: center; word-wrap: break-word;'>It's time to go to bed. It's time for us to leave.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>It's time + S + V₂</td><td style='text-align: center; word-wrap: break-word;'>Hiện tại</td><td style='text-align: center; word-wrap: break-word;'>Quá khứ đơn (V₂)</td><td style='text-align: center; word-wrap: break-word;'>Đa đến lúc al đó nên làm gì nhưng vần chưa làm (mang ý phản nàn)</td><td style='text-align: center; word-wrap: break-word;'>It's time you went to bed. It's time we left.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Would rather + V barre-inf</td><td style='text-align: center; word-wrap: break-word;'>Hiện tại / tương lai</td><td style='text-align: center; word-wrap: break-word;'>barc-infinitive</td><td style='text-align: center; word-wrap: break-word;'>Thich làm diệu gi đó hơn (với chính chủ ngữ)</td><td style='text-align: center; word-wrap: break-word;'>I'd rather stay home tonight. We'd rather work together on this.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Would rather +S+V;</td><td style='text-align: center; word-wrap: break-word;'>Hi en tai / tuong lai</td><td style='text-align: center; word-wrap: break-word;'>Qua khu don (V.)</td><td style='text-align: center; word-wrap: break-word;'>Mu on nguoi khac lam die u gi do o hi en tai/ tuong lai</td><td style='text-align: center; word-wrap: break-word;'>I'd rather you stayed here. He'd rather she didn't go.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Would rather +S+had+V;</td><td style='text-align: center; word-wrap: break-word;'>Hi en tai / qua khu</td><td style='text-align: center; word-wrap: break-word;'>Qua khu hoan th anh</td><td style='text-align: center; word-wrap: break-word;'>Mu on nguoi khac la lam die u gi do trong qua khu</td><td style='text-align: center; word-wrap: break-word;'>I'd rather you had told me the truth.</td></tr></table>
 
 
 

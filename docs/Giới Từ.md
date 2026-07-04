@@ -28,7 +28,7 @@ I talked to her.
 
 - Trước mệnh đề danh ngữ (noun clauses): Không phải giới từ nào cũng có thể dùng trước mệnh đề danh ngữ. Một số giới từ thông dụng trong cấu trúc này là: about, in, on, of, with, by.
 
- $ \underline{Ex} $: She is sad because of what happened.
+ Ex: She is sad because of what happened.
 
 I have no idea about how he did it.
 
@@ -164,7 +164,7 @@ Giới từ chỉ một thời điểm cụ thể
 
 
 
-<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Giới từ</td><td style="text-align: center; word-wrap: break-word;">Ý nghĩa</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">at</td><td style="text-align: center; word-wrap: break-word;">Vào một giờ cụ thể, một khoảnh khắc trong ngày, ngày lễ</td><td style="text-align: center; word-wrap: break-word;">We will meet at 5 P.M. She arrived at midnight. I always spend time with my family at Christmas.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">in</td><td style="text-align: center; word-wrap: break-word;">Trong khoảng thời gian dài (buổi trong ngày, tháng, năm, thập kỉ, thế kỉ, mùa, kì nghỉ, khoá học, ...)</td><td style="text-align: center; word-wrap: break-word;">He was born in December. I graduated in 2010. Many technological advances happened in the 2000s. The Industrial Revolution occurred in the 18th century. The project was completed in a year.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">on</td><td style="text-align: center; word-wrap: break-word;">Vào ngày cụ thể, ngày lễ có "Day", ngày trong tuần</td><td style="text-align: center; word-wrap: break-word;">We have a meeting on December 25 $ ^{th} $ We always visit our grandparents on New Year's Day. Her birthday is on Monday.</td></tr></table>
+<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Giới từ</td><td style="text-align: center; word-wrap: break-word;">Ý nghĩa</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">at</td><td style="text-align: center; word-wrap: break-word;">Vào một giờ cụ thể, một khoảnh khắc trong ngày, ngày lễ</td><td style="text-align: center; word-wrap: break-word;">We will meet at 5 P.M. She arrived at midnight. I always spend time with my family at Christmas.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">in</td><td style="text-align: center; word-wrap: break-word;">Trong khoảng thời gian dài (buổi trong ngày, tháng, năm, thập kỉ, thế kỉ, mùa, kì nghỉ, khoá học, ...)</td><td style="text-align: center; word-wrap: break-word;">He was born in December. I graduated in 2010. Many technological advances happened in the 2000s. The Industrial Revolution occurred in the 18th century. The project was completed in a year.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">on</td><td style="text-align: center; word-wrap: break-word;">Vào ngày cụ thể, ngày lễ có "Day", ngày trong tuần</td><td style="text-align: center; word-wrap: break-word;">We have a meeting on December 25 th We always visit our grandparents on New Year's Day. Her birthday is on Monday.</td></tr></table>
 
 
 

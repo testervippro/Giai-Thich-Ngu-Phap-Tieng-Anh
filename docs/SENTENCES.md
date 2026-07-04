@@ -163,17 +163,17 @@ I have cleaned my room.
 
 S V O
 
-e.  $ \underline{\text{Subject + Verb + Indirect Object (I.O.) + Direct Object (D.O.)}} $
+e.  Subject + Verb + Indirect Object (I.O.) + Direct Object (D.O.)
 
 Ex: I lent Helen five dollars.
 
 S V I.O. D.O.
 
- $ \underline{\text{He bought his aunt a golden bracelet.}} $
+ He bought his aunt a golden bracelet.
 
 S V I.O. D.O.
 
-f.  $ \underline{\text{Subject + Verb + Direct Object (D.O.) + Preposition + Indirect Object (I.O.)}} $
+f.  Subject + Verb + Direct Object (D.O.) + Preposition + Indirect Object (I.O.)
 
 Ex: I lent five dollars to Helen.
 
@@ -203,23 +203,23 @@ Tom told me that he would move to Paris.
 
 S V O O.C.
 
-h.  $ \underline{\text{Subject + Verb + Preposition + Prepositional Object}} $
+h.  Subject + Verb + Preposition + Prepositional Object
 
-Ex:  $ \underline{\text{They threw away old toys.}} $
-
-S V Pre O
-
- $ \underline{\text{The chef used up the flour in the cake recipe.}} $
+Ex:  They threw away old toys.
 
 S V Pre O
 
-i.  $ \left( \text{Subject} + \text{Verb} + \text{Object} + \text{Adjunct} (\text{A}) \right) $
+ The chef used up the flour in the cake recipe.
+
+S V Pre O
+
+i.  ( Subject + Verb + Object + Adjunct (A) )
 
 Ex: Ms. Jane is painting the fence in the backyard.
 
 S V O A
 
- $ \underline{\text{He had completed the project before the deadline.}} $
+ He had completed the project before the deadline.
 
 S V O A
 
@@ -241,7 +241,7 @@ John promised that he would go.
 
 2. Câu ghép (Compound sentences): là một câu được tạo thành từ hai hoặc nhiều mệnh đề độc lập, thường được kết nối với nhau bằng các liên từ như: and (và), but (nhưng), or (hoặc), so (vì vậy), for (bởi vì), yet (nhưng), nor (cũng không), etc, hoặc dấu chấm phẩy nối giữa các mệnh đề.
 
- $ \underline{Ex} $: She wanted to go to the party, but she had too much work.
+ Ex: She wanted to go to the party, but she had too much work.
 
 He doesn't like spicy food, nor does he enjoy sweet desserts.
 
@@ -249,7 +249,7 @@ She loves to paint; her sister prefers to play music.
 
 Trong một vài trường hợp, câu ghép có thể được rút gọn bằng cách bỏ chủ ngữ và trợ động từ nếu cả hai mệnh đề có cùng một chủ ngữ.
 
- $ \underline{Ex:} $ We could go to the beach, or (we could) visit the museum.
+ Ex: We could go to the beach, or (we could) visit the museum.
 
 Vincent is eating and (he is) watching TV.
 
@@ -257,23 +257,23 @@ Vincent is eating and (he is) watching TV.
 
 Mệnh đề phụ không thể dùng riêng lẻ như một câu hoàn chỉnh, và nó thường cần mệnh đề chính để tạo thành một câu trọn vẹn ý nghĩa.
 
-Ex:  $ \underline{\text{Because it was raining, we stayed indoors.}} $
+Ex:  Because it was raining, we stayed indoors.
 
 subordinate clause main clause
 
- $ \underline{\text{She will call you when she gets home.}} $
+ She will call you when she gets home.
 
 main clause subordinate clause
 
 4. Câu phức tổng hợp (Complex-Compound sentences): là câu kết hợp giữa câu phức và câu ghép, có ít nhất hai mệnh đề chính và ít nhất một mệnh đề phụ.
 
- $ \underline{Ex} $: After the movie ended, we went out for milk tea and talked about the film.
+ Ex: After the movie ended, we went out for milk tea and talked about the film.
 
 • subordinate clause: After the movie ended
 
 • two main clauses: we went out for milk tea and (we) talked about the film.
 
- $ \underline{Ex} $; Even though she studied hard, she didn't pass the exam, but she vowed to try again next time.
+ Ex; Even though she studied hard, she didn't pass the exam, but she vowed to try again next time.
 
 - subordinate clause: Even though she studied hard
 
@@ -479,7 +479,7 @@ a. Câu mệnh lệnh khẳng định (Affirmative imperative)
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>$ V_{(bere-inf.)} $ + object/ preposition</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Be + adjective/ noun</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>V(bere-inf.) + object/ preposition</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Be + adjective/ noun</td></tr></table>
 
 Ex: Sweep the floor.
 
@@ -533,7 +533,7 @@ b. Câu cảm thán sử dụng How
 
 d. Câu cảm thán dạng phủ định
 
- $ Be + not + subject + adjective $
+ Be + not + subject + adjective
 
 Ex: Isn't that girl tall!
 
@@ -628,11 +628,11 @@ Ex: I need a vacation. → What I need is a vacation. (câu chẻ thuận)
 
 The thing/ person/ place/ reason + (that/which/who) + (S) + V + be + emphasized element
 
- $ \underline{Ex} $: He discovered the ancient tomb.→ The thing (which/ that) he discovered was the ancient tomb.
+ Ex: He discovered the ancient tomb.→ The thing (which/ that) he discovered was the ancient tomb.
 
 My uncle taught me Korean. → The person who taught me Korean was my uncle. Với trường hợp câu chẻ này, chủ thể được nhấn mạnh đôi khi cùng được đặt ở đầu câu.
 
- $ \underline{Ex} $: The ancient tomb was the thing (which/ that) he discovered.
+ Ex: The ancient tomb was the thing (which/ that) he discovered.
 
 My uncle was the person who taught me Korean.
 
@@ -640,7 +640,7 @@ Câu chẻ với There (There-cleft)
 
 There + be + emphasized element + relative clause
 
- $ \underline{Ex} $: Three reasons explain this phenomenon.→ There are three reasons that explain this phenomenon.
+ Ex: Three reasons explain this phenomenon.→ There are three reasons that explain this phenomenon.
 
 Many people enjoy reading. → There are many people who enjoy reading.
 
@@ -654,7 +654,7 @@ We require your immediate attention. → All we require is your immediate attent
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dạng câu mệnh lệnh</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh khẳng định: Do +  $ V_{\text{dare of}} $</td><td style='text-align: center; word-wrap: break-word;'>Remember to call your dad. → Do remember to call your dad. Take medicine after a meal. → Do take medicine after a meal.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh phủ định: Don&#x27;t you +  $ V_{\text{dare of}} $</td><td style='text-align: center; word-wrap: break-word;'>Don&#x27;t pick your nose. → Don&#x27;t you pick your nose. Don&#x27;t draw on the wall. → Don&#x27;t you draw on the wall.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dạng câu mệnh lệnh</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh khẳng định: Do +  Vdare of</td><td style='text-align: center; word-wrap: break-word;'>Remember to call your dad. → Do remember to call your dad. Take medicine after a meal. → Do take medicine after a meal.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh phủ định: Don&#x27;t you +  Vdare of</td><td style='text-align: center; word-wrap: break-word;'>Don&#x27;t pick your nose. → Don&#x27;t you pick your nose. Don&#x27;t draw on the wall. → Don&#x27;t you draw on the wall.</td></tr></table>
 
 
 #### TÓM TẮT KIẾN THỨC
@@ -697,7 +697,7 @@ a. Công thức chính
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + V $ \underline{\text{s/es}} $y S + V $ \underline{\text{s/es}} $• Trong câu điều kiện loại 0, if có thể được thay bằng when/whenever mà không làm thay đổi nghĩa của câu.</td><td style='text-align: center; word-wrap: break-word;'>Diễn tả một sự thật hiển nhiên, một quy luật tự nhiên, chân lý hoặc thói quen.</td><td style='text-align: center; word-wrap: break-word;'>If the sun sets, it gets dark. If you don&#x27;t water the plants, they die.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + V s/esy S + V s/es• Trong câu điều kiện loại 0, if có thể được thay bằng when/whenever mà không làm thay đổi nghĩa của câu.</td><td style='text-align: center; word-wrap: break-word;'>Diễn tả một sự thật hiển nhiên, một quy luật tự nhiên, chân lý hoặc thói quen.</td><td style='text-align: center; word-wrap: break-word;'>If the sun sets, it gets dark. If you don&#x27;t water the plants, they die.</td></tr></table>
 
 Trong câu điều kiện loại 0, cả mệnh đề If và mệnh đề chính đều sử dụng thì hiện tại đơn.
 
@@ -719,7 +719,7 @@ a. Công thức chính
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td rowspan="2">If + S + V $ \underline{\text{s(s)}} $ S + will + V $ \underline{\text{baro-tal}} $</td><td style='text-align: center; word-wrap: break-word;'>Diễn tả một tình huống, sự kiện, sự việc có thể xảy ra ở hiện tại hoặc trong tương lai.</td><td style='text-align: center; word-wrap: break-word;'>If it rains tomorrow, I will stay at home. You will go to jail if you break the law.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Có thể dùng như ở dạng câu mệnh lệnh (imperatives)</td><td style='text-align: center; word-wrap: break-word;'>If you see him, tell him to call me. If the phone rings, answer it.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + V $ \underline{\text{s(s)}} $ S + may/can/should + V $ \underline{\text{baro-laf}} $</td><td style='text-align: center; word-wrap: break-word;'>Ngoài will trong mệnh đề chính, ta có thể sử dụng các động từ tình thái khác như: can, could, may, might, should, ought to, had better, must và be going to để diễn tả khả năng, sự cho phép, lời khuyên, đề nghị, sự cần thiết.</td><td style='text-align: center; word-wrap: break-word;'>You must have a driving licence if you want to drive a car. If the weather is nice, we could go for a picnic.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td rowspan="2">If + S + V s(s) S + will + V baro-tal</td><td style='text-align: center; word-wrap: break-word;'>Diễn tả một tình huống, sự kiện, sự việc có thể xảy ra ở hiện tại hoặc trong tương lai.</td><td style='text-align: center; word-wrap: break-word;'>If it rains tomorrow, I will stay at home. You will go to jail if you break the law.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Có thể dùng như ở dạng câu mệnh lệnh (imperatives)</td><td style='text-align: center; word-wrap: break-word;'>If you see him, tell him to call me. If the phone rings, answer it.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + V s(s) S + may/can/should + V baro-laf</td><td style='text-align: center; word-wrap: break-word;'>Ngoài will trong mệnh đề chính, ta có thể sử dụng các động từ tình thái khác như: can, could, may, might, should, ought to, had better, must và be going to để diễn tả khả năng, sự cho phép, lời khuyên, đề nghị, sự cần thiết.</td><td style='text-align: center; word-wrap: break-word;'>You must have a driving licence if you want to drive a car. If the weather is nice, we could go for a picnic.</td></tr></table>
 
 Trong câu điều kiện loại 1, mệnh đề If sử dụng thì hiện tại đơn, còn mệnh đề chính sử dụng thì tương lai đơn.
 
@@ -731,13 +731,13 @@ Trong câu điều kiện loại 1, ngoài công thức chuẩn với thì hiệ
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + am/is/are + V-ing, S + will + V_{(bare-inf.)}</td><td style='text-align: center; word-wrap: break-word;'>- nhấn mạnh một hành động đang diễn ra ở thời điểm nói. - diễn tả một hành động sẽ xảy ra trong tương lai gần.</td><td rowspan="2">If you&#x27;re looking for Molly, you will find her upstairs. If Irene is working late tonight, I will prepare dinner for her. If I have finished writing my paper by tonight, I will go out with my friends. If you have studied all the material, you will easily pass the exam tomorrow.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + has/have + V_{3}, S + will + V_{(bare-in.)}</td><td style='text-align: center; word-wrap: break-word;'>- nhấn mạnh tính hoàn tất của điều kiện trước khi kết quả xảy ra. - nhấn mạnh kết quả của hành động trong quá khứ sẽ ảnh hưởng tới tương lai.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + am/is/are + V-ing, S + will + V(bare-inf.)</td><td style='text-align: center; word-wrap: break-word;'>- nhấn mạnh một hành động đang diễn ra ở thời điểm nói. - diễn tả một hành động sẽ xảy ra trong tương lai gần.</td><td rowspan="2">If you&#x27;re looking for Molly, you will find her upstairs. If Irene is working late tonight, I will prepare dinner for her. If I have finished writing my paper by tonight, I will go out with my friends. If you have studied all the material, you will easily pass the exam tomorrow.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + has/have + V₃, S + will + V(bare-in.)</td><td style='text-align: center; word-wrap: break-word;'>- nhấn mạnh tính hoàn tất của điều kiện trước khi kết quả xảy ra. - nhấn mạnh kết quả của hành động trong quá khứ sẽ ảnh hưởng tới tương lai.</td></tr></table>
 
 Ngoài ra, ta có thể dùng should, can, be going to ở mệnh đề If.
 
 - Should: diễn đạt một điều kiện mà ta cho là hợp lý hoặc mang nghĩa khuyên bảo, đề nghị.
 
- $ \underline{Ex} $: If you should see her, tell her I called.
+ Ex: If you should see her, tell her I called.
 
 If you should need any help, just let me know.
 
@@ -769,7 +769,7 @@ Ex: If you will/ would wait a moment, I'll find someone to help you.
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>If-clause</td><td style='text-align: center; word-wrap: break-word;'>Main clause</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Should + S (+ not) + be/V_{(baro-inf)} + ...</td><td style='text-align: center; word-wrap: break-word;'>S + will/may/can + V_{(baro-inf.)}</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>If-clause</td><td style='text-align: center; word-wrap: break-word;'>Main clause</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Should + S (+ not) + be/V(baro-inf) + ...</td><td style='text-align: center; word-wrap: break-word;'>S + will/may/can + V(baro-inf.)</td></tr></table>
 
 Ex: If you study hard, you'll pass the exam
 
@@ -785,7 +785,7 @@ a. Công thức chính
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + V $ _{2} $, S + would + V $ _{\text{(bare-inf.}} $)</td><td style='text-align: center; word-wrap: break-word;'>Diễn tả một tình huống không có thật, không thể hay ít có khả năng xảy ra ở hiện tại hoặc tương lai.</td><td style='text-align: center; word-wrap: break-word;'>If Scott had more time, he would travel more.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Ngoài would, ta có thể sử dụng could, should hoặc might ở mệnh đề chính.</td><td style='text-align: center; word-wrap: break-word;'>không thể hay ít có khả năng xảy ra ở hiện tại hoặc tương lai.</td><td style='text-align: center; word-wrap: break-word;'>If he didn&#x27;t live so far away, we could see each other more often.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + V ₂, S + would + V (bare-inf.)</td><td style='text-align: center; word-wrap: break-word;'>Diễn tả một tình huống không có thật, không thể hay ít có khả năng xảy ra ở hiện tại hoặc tương lai.</td><td style='text-align: center; word-wrap: break-word;'>If Scott had more time, he would travel more.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Ngoài would, ta có thể sử dụng could, should hoặc might ở mệnh đề chính.</td><td style='text-align: center; word-wrap: break-word;'>không thể hay ít có khả năng xảy ra ở hiện tại hoặc tương lai.</td><td style='text-align: center; word-wrap: break-word;'>If he didn&#x27;t live so far away, we could see each other more often.</td></tr></table>
 
 Trong câu điều kiện loại 2, mệnh đề If sử dụng thì quá khứ đơn.
 
@@ -817,7 +817,7 @@ Trong lối văn viết truyền thống và trang trọng, were được dùng 
 
 Trong tiếng Anh-Anh, ta có thể dùng was lẫn were với ngôi I, he, she, it và chủ ngữ ở dạng số ít. Trong tiếng Anh-Mỹ, were được sử dụng phổ biến hơn.
 
- $ \underline{Ex} $: If he was/were here, he would know what to do.
+ Ex: If he was/were here, he would know what to do.
 
 If I was/were a rich man, I would buy a big house.
 
@@ -835,7 +835,7 @@ If I were you, I would accept this invitation.
 
 ### c. Cách sử dụng cấu trúc If... was/were to
 
-If + S + was/were to + V_{(baro-inf.)'} S + would/could/might + V_{(baro-inf.)}
+If + S + was/were to + V(baro-inf.)' S + would/could/might + V(baro-inf.)
 
 Cấu trúc này dùng để nhấn mạnh một giả định không có thật ở tương lai và khả năng thấp của sự việc.
 
@@ -857,9 +857,9 @@ d. Cấu trúc đảo ngữ của câu điều kiện loại 2
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>If-clause</td><td style='text-align: center; word-wrap: break-word;'>Main clause</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Were + S + (not) + be + ...</td><td style='text-align: center; word-wrap: break-word;'>S + would/could/might + V $ _{n+2} $ and</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>If-clause</td><td style='text-align: center; word-wrap: break-word;'>Main clause</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Were + S + (not) + be + ...</td><td style='text-align: center; word-wrap: break-word;'>S + would/could/might + V n+2 and</td></tr></table>
 
- $ \underline{Ex} $: If I were you, I would try that new restaurant.
+ Ex: If I were you, I would try that new restaurant.
 
 → Were I you, I would try that new restaurant.
 
@@ -909,7 +909,7 @@ Ex: If Andy had taken that job, he might have moved to Taiwan. (NOT If Andy woul
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>If-clause</td><td style='text-align: center; word-wrap: break-word;'>Main clause</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Had + S (+ not) + V_{3}</td><td style='text-align: center; word-wrap: break-word;'>S + would/could/might + have + V_{3}</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>If-clause</td><td style='text-align: center; word-wrap: break-word;'>Main clause</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Had + S (+ not) + V₃</td><td style='text-align: center; word-wrap: break-word;'>S + would/could/might + have + V₃</td></tr></table>
 
 Ex: If Harold hadn't spent all his money, he wouldn't have been broke by the end of the month. → Had Harold not spent all his money, he wouldn't have been broke by the end of the month.
 
@@ -925,13 +925,13 @@ Diễn tả điều kiện trong quá khứ ảnh hưởng đến kết quả �
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>If-clause</td><td style='text-align: center; word-wrap: break-word;'>Main clause</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + had +  $ V_{3} $</td><td style='text-align: center; word-wrap: break-word;'>S + would/could/might +  $ V_{3} $ (boro-inf.)</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>If-clause</td><td style='text-align: center; word-wrap: break-word;'>Main clause</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + had +  V₃</td><td style='text-align: center; word-wrap: break-word;'>S + would/could/might +  V₃ (boro-inf.)</td></tr></table>
 
- $ \underline{Ex} $:  $ \underline{\text{If my daughter had studied medicine, she would be a doctor now.}} $
+ Ex:  If my daughter had studied medicine, she would be a doctor now.
 
 Quá khứ Hiện tại
 
- $ \underline{\text{If Bill had listened to us, he wouldn't be in this situation at present.}} $
+ If Bill had listened to us, he wouldn't be in this situation at present.
 
 Quá khứ Hiện tại
 
@@ -947,13 +947,13 @@ Diễn tả về một hành động/ sự việc sẽ xảy ra trong quá khứ
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>If-clause</td><td style='text-align: center; word-wrap: break-word;'>Main clause</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + V_{2}</td><td style='text-align: center; word-wrap: break-word;'>S + would/could/might + have + V_{3}</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>If-clause</td><td style='text-align: center; word-wrap: break-word;'>Main clause</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + V₂</td><td style='text-align: center; word-wrap: break-word;'>S + would/could/might + have + V₃</td></tr></table>
 
- $ \underline{\text{Ex:}} $  $ \underline{\text{If I was/ were rich,}} $  $ \underline{\text{I could have bought that luxurious villa in the past.}} $
+ Ex:  If I was/ were rich,  I could have bought that luxurious villa in the past.
 
 Hiện tại        Quá khứ
 
- $ \underline{\text{If he wasn't/ weren't so lazy,}} $  $ \underline{\text{he would have passed the final exam yesterday.}} $
+ If he wasn't/ weren't so lazy,  he would have passed the final exam yesterday.
 
 Hiện tại        Quá khứ
 
@@ -1201,7 +1201,7 @@ a. Bảng chuyển đổi đại từ nhân xưng, đại từ phản thân, đ�
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2"></td><td style='text-align: center; word-wrap: break-word;'>Direct Speech</td><td style='text-align: center; word-wrap: break-word;'>Indirect Speech</td></tr><tr><td rowspan="6">Đại từ nhân xưng (Personal pronouns)</td><td rowspan="3">Chủ ngữ</td><td style='text-align: center; word-wrap: break-word;'>I</td><td style='text-align: center; word-wrap: break-word;'>he/ she</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>we</td><td style='text-align: center; word-wrap: break-word;'>they</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>you</td><td style='text-align: center; word-wrap: break-word;'>I/ we</td></tr><tr><td rowspan="13">Tân ngữ</td><td style='text-align: center; word-wrap: break-word;'>me</td><td style='text-align: center; word-wrap: break-word;'>him/ her</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>us</td><td style='text-align: center; word-wrap: break-word;'>them</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>you</td><td style='text-align: center; word-wrap: break-word;'>me/ us</td></tr><tr><td rowspan="4" colspan="2">Đại từ phản thân (Reflexive pronouns) ourselves yourself yourselves</td><td style='text-align: center; word-wrap: break-word;'>myself</td><td style='text-align: center; word-wrap: break-word;'>himself/ herself</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>themselves</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>myself</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>ourselves</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td rowspan="3" colspan="2">Đại từ sở hữu (Possessive pronouns) ours yours</td><td style='text-align: center; word-wrap: break-word;'>mine</td><td style='text-align: center; word-wrap: break-word;'>his/ hers</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>theirs</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>mine/ ours</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td rowspan="3" colspan="2">Tính từ sở hữu (Possessive adjectives) our your</td><td style='text-align: center; word-wrap: break-word;'>my</td><td style='text-align: center; word-wrap: break-word;'>his/ her</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>their</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>my/ our</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
 
- $ \underline{Ex} $: "Your ring looks so unique," Hilda said.
+ Ex: "Your ring looks so unique," Hilda said.
 
 → Hilda told me (that) my ring looked so unique.
 
@@ -1260,11 +1260,11 @@ Và một trường hợp đặc biệt khác, khi lời nói trực tiếp đ�
 
 - Với thì quá khứ tiếp diễn: giữ nguyên, hoặc đổi thành thì quá khứ hoàn thành tiếp diễn.
 
- $ \underline{Ex} $: My brother said, "I was studying when you called."  $ \rightarrow $ My brother said (that) he was studying/ had been studying when I called.
+ Ex: My brother said, "I was studying when you called."  → My brother said (that) he was studying/ had been studying when I called.
 
 - Với thì quá khứ đơn: giữ nguyên, hoặc đổi thành thì quá khứ hoàn thành.
 
- $ \underline{Ex} $: Helen said, "I was watching TV when the phone rang." Helen said (that) she was watching TV when the phone rang/ had rung.
+ Ex: Helen said, "I was watching TV when the phone rang." Helen said (that) she was watching TV when the phone rang/ had rung.
 
 ## 2. Câu hỏi trong lời nói gián tiếp (Indirect Speech: Questions)
 
@@ -1282,7 +1282,7 @@ Khi chuyển đổi câu hỏi Yes-No từ lời nói trực tiếp sang lời n
 
 ### S + asked/ wondered + if/ whether + S + V
 
- $ \underline{Ex} $: "Do you see this movie?" He asked Sam.
+ Ex: "Do you see this movie?" He asked Sam.
 
 → He asked Sam if/ whether he saw that movie.
 
@@ -1316,7 +1316,7 @@ Khi chuyển đổi câu hỏi Wh- từ lời nói trực tiếp sang lời nói
 
 S + asked + wondered + wh-word + S + V...
 
- $ \underline{Ex} $: "When will you arrive?" Selena asked.
+ Ex: "When will you arrive?" Selena asked.
 
 → Selena wanted to know when I would arrive.
 
@@ -1344,7 +1344,7 @@ Ex: "Who's your father?" → He asked me who was my father/ who my father was.
 
 S + asked/told + O (+ not) + to-infinitive
 
- $ \underline{\text{Ex:}} $ "Close the door!" the teacher said to the students.→ The teacher told the students to close the door.
+ Ex: "Close the door!" the teacher said to the students.→ The teacher told the students to close the door.
 
 “Don’t make noise in the library, please!” the librarian said. → The librarian told us not to make noise in the library.
 
@@ -1360,7 +1360,7 @@ Ta thường sử dụng các động từ sau: offer, recommend, promise, advis
 
 S + offered/ advised (+ O) + to-infinitive
 
- $ \underline{Ex} $: Jim said, "You should exercise regularly."  $ \rightarrow $ Jim advised me to exercise regularly. She said, "I will show you around the city."  $ \rightarrow $ She offered to show me around the city.
+ Ex: Jim said, "You should exercise regularly."  → Jim advised me to exercise regularly. She said, "I will show you around the city."  → She offered to show me around the city.
 
 ### BẢNG CÁC ĐỘNG TỪ TƯỜNG THUẬT
 
@@ -1427,7 +1427,7 @@ Khi chuyến câu cảm thán từ lời nói trực tiếp sang lời nói giá
 
 • S + exclaimed/ shouted + that + S + V
 
- $ \underline{Ex} $: "What a beautiful song!" she exclaimed.→ She exclaimed that it was a beautiful song.
+ Ex: "What a beautiful song!" she exclaimed.→ She exclaimed that it was a beautiful song.
 
 "How badly he behaved!" Donna exclaimed. → Donna exclaimed that he had behaved badly.
 
@@ -1435,7 +1435,7 @@ Khi chuyến câu cảm thán từ lời nói trực tiếp sang lời nói giá
 
 • S + exclaimed/ shouted + with delight/ surprise/ horror/ joy + that + S + V
 
- $ \underline{Ex} $: "How wonderful the view is!" he shouted.→ He shouted with delight that the view was wonderful.
+ Ex: "How wonderful the view is!" he shouted.→ He shouted with delight that the view was wonderful.
 
 “What a serious accident!” Matt said. → Matt exclaimed with horror that the accident was serious.
 

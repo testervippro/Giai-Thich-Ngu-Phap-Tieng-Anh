@@ -79,7 +79,7 @@ Ex: Marie took it out. [NOT Marie-took-out it.]
 
 Động từ không thể bị chia tách với giới từ đi cùng.
 
- $ \underline{Ex} $: Marie takes after her dad. / Marie takes after him.
+ Ex: Marie takes after her dad. / Marie takes after him.
 
 [NOT Marie-takes-her-dad-after.]
 

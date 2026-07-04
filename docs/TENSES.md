@@ -11,7 +11,7 @@ Các dạng động từ đã học ở phần trước, bao gồm ngoại độ
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Câu</td><td style='text-align: center; word-wrap: break-word;'>Khẳng định (Affirmative)</td><td style='text-align: center; word-wrap: break-word;'>Phủ định (Negative)</td><td style='text-align: center; word-wrap: break-word;'>Nghi vấn (Interrogative)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ To be</td><td style='text-align: center; word-wrap: break-word;'>S + am/is/are + ...</td><td style='text-align: center; word-wrap: break-word;'>S + am/is/are not + ...</td><td style='text-align: center; word-wrap: break-word;'>Am/Is/Are + S + ...?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ thường</td><td style='text-align: center; word-wrap: break-word;'>S + V(s/es) + ...</td><td style='text-align: center; word-wrap: break-word;'>S + do/does not + V_{0}</td><td style='text-align: center; word-wrap: break-word;'>Do/Does + S + V_{0} + ...?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>*Rút gọn: I am → I&#x27;m  we/ they/ you are → we&#x27;re/ they&#x27;re/ you&#x27;re  is not → isn&#x27;t  do not → don&#x27;t</td><td style='text-align: center; word-wrap: break-word;'>S + do/does not + V_{0}</td><td style='text-align: center; word-wrap: break-word;'>he /she / it is → he&#x27;s/ she&#x27;s/ it&#x27;s  am not → &#x27;m not  are not → aren&#x27;t  does not → doesn&#x27;t</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: She reads a book every evening. They are not/ aren&#x27;t at work now. She does not/ doesn&#x27;t buy food for dinner.</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Câu</td><td style='text-align: center; word-wrap: break-word;'>Khẳng định (Affirmative)</td><td style='text-align: center; word-wrap: break-word;'>Phủ định (Negative)</td><td style='text-align: center; word-wrap: break-word;'>Nghi vấn (Interrogative)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ To be</td><td style='text-align: center; word-wrap: break-word;'>S + am/is/are + ...</td><td style='text-align: center; word-wrap: break-word;'>S + am/is/are not + ...</td><td style='text-align: center; word-wrap: break-word;'>Am/Is/Are + S + ...?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ thường</td><td style='text-align: center; word-wrap: break-word;'>S + V(s/es) + ...</td><td style='text-align: center; word-wrap: break-word;'>S + do/does not + V₀</td><td style='text-align: center; word-wrap: break-word;'>Do/Does + S + V₀ + ...?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>*Rút gọn: I am → I&#x27;m  we/ they/ you are → we&#x27;re/ they&#x27;re/ you&#x27;re  is not → isn&#x27;t  do not → don&#x27;t</td><td style='text-align: center; word-wrap: break-word;'>S + do/does not + V₀</td><td style='text-align: center; word-wrap: break-word;'>he /she / it is → he&#x27;s/ she&#x27;s/ it&#x27;s  am not → &#x27;m not  are not → aren&#x27;t  does not → doesn&#x27;t</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: She reads a book every evening. They are not/ aren&#x27;t at work now. She does not/ doesn&#x27;t buy food for dinner.</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
 
 Am dùng cho I, Is dùng cho he, she, it, danh từ số ít và danh từ không đếm được; Are dùng cho you, we, they và danh từ đếm được số nhiều
 
@@ -81,7 +81,7 @@ What time does the concert begin?
 
 e. Dùng trong câu điều kiện loại 1.
 
- $ \underline{Ex} $: If you study hard, you will pass the exam.
+ Ex: If you study hard, you will pass the exam.
 
 I'll call you when I arrive home.
 
@@ -119,7 +119,7 @@ We are waiting for the director.
 
 b. Diễn tả hành động nói chung đang diễn ra ở hiện tại nhưng không nhất thiết phải thực sự diễn ra ngay lúc nói.
 
- $ \underline{Ex:} $ I am working on a project at the moment. I will inform you when it is finished.
+ Ex: I am working on a project at the moment. I will inform you when it is finished.
 
 Điều này không có nghĩa người nói đang làm dự án vào lúc nói, mà là anh ta đang trong quá trình thực hiện nhưng chưa xong.
 
@@ -131,7 +131,7 @@ Chúng ta thường áp dụng cách dùng này với các trạng từ hoặc c
 
 c. Diễn tả hành động có tính tạm thời (chỉ kéo dài trong một thời gian ngắn).
 
- $ \underline{Ex} $: I am staying at my friend's house while my apartment is being renovated.
+ Ex: I am staying at my friend's house while my apartment is being renovated.
 
 She is working as a waitress while she looks for a job in her field.
 
@@ -157,7 +157,7 @@ They are continually asking me for money.
 
 f. Hành động sẽ xảy ra trong tương lai gần. Chúng ta thường áp dụng cách dùng này để diễn tả một sự sắp xếp hoặc một kế hoạch đã được dự định trước và thường phải kết hợp với trạng từ chỉ thời gian tương lai như tonight, tomorrow, later, next week, this weekend, v.v. (vì nếu không có trạng từ chỉ thời gian tương lai, người nghe dễ hiểu nhầm là hành động đang xảy ra).
 
- $ \underline{Ex} $: I am meeting my friends for dinner tomorrow night.
+ Ex: I am meeting my friends for dinner tomorrow night.
 
 Maddie is flying to Paris next week.
 
@@ -257,7 +257,7 @@ Chúng ta dùng thì hiện tại hoàn thành với once, twice, three times...
 
 d. Diễn tả hành động đã xảy ra trong quá khứ nhưng kết quả của nó vẫn còn trong hiện tại.
 
- $ \underline{Ex} $: I have lost my keys, so I can't open the door.
+ Ex: I have lost my keys, so I can't open the door.
 
 He has lived in Canada for ten years, so he speaks English very well.
 
@@ -301,7 +301,7 @@ How long have you been learning Spanish?
 
 a. Diễn tả hành động bắt đầu trong quá khứ, kéo dài liên tục đến hiện tại và có thể sẽ tiếp tục kéo dài trong tương lai.
 
- $ \underline{Ex} $: The scientists have been researching climate change for decades.
+ Ex: The scientists have been researching climate change for decades.
 
 He has been playing the piano since he was a child.
 
@@ -309,7 +309,7 @@ She has been writing a novel for the past two years.
 
 b. Diễn tả hành động liên tục lặp đi lặp lại (nhấn mạnh tính liên tục của hành động).
 
- $ \underline{Ex} $: Christopher has been trying to call you all day.
+ Ex: Christopher has been trying to call you all day.
 
 They have been arguing about the same thing for weeks.
 
@@ -338,11 +338,11 @@ Cherie has lived in this city for ten years. (hành động live diễn ra trong
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Câu</td><td style='text-align: center; word-wrap: break-word;'>Khẳng định (Affirmative)</td><td style='text-align: center; word-wrap: break-word;'>Phủ định (Negative)</td><td style='text-align: center; word-wrap: break-word;'>Nghi vấn (Interrogative)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>To be</td><td style='text-align: center; word-wrap: break-word;'>S + was/were + ...</td><td style='text-align: center; word-wrap: break-word;'>S + was/were not + ...</td><td style='text-align: center; word-wrap: break-word;'>Was/Were + S + ...?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ thường</td><td style='text-align: center; word-wrap: break-word;'>S + V_{2}/ed + ...</td><td style='text-align: center; word-wrap: break-word;'>S + did not + V_{0}</td><td style='text-align: center; word-wrap: break-word;'>Did + S + V_{0} + ...?</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Câu</td><td style='text-align: center; word-wrap: break-word;'>Khẳng định (Affirmative)</td><td style='text-align: center; word-wrap: break-word;'>Phủ định (Negative)</td><td style='text-align: center; word-wrap: break-word;'>Nghi vấn (Interrogative)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>To be</td><td style='text-align: center; word-wrap: break-word;'>S + was/were + ...</td><td style='text-align: center; word-wrap: break-word;'>S + was/were not + ...</td><td style='text-align: center; word-wrap: break-word;'>Was/Were + S + ...?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ thường</td><td style='text-align: center; word-wrap: break-word;'>S + V₂/ed + ...</td><td style='text-align: center; word-wrap: break-word;'>S + did not + V₀</td><td style='text-align: center; word-wrap: break-word;'>Did + S + V₀ + ...?</td></tr></table>
 
 *Rút gọn: was not → wasn't were not → weren't did not → didn't
 
- $ \underline{Ex} $: She visited her grandmother last weekend.
+ Ex: She visited her grandmother last weekend.
 
 They watched a movie last night.
 
@@ -376,7 +376,7 @@ Mozart wrote more than 600 pieces of music.
 
 b. Diễn tả chuỗi hành động xảy ra liên tiếp trong quá khứ.
 
- $ \underline{Ex} $: He woke up, brushed his teeth, and went to school.
+ Ex: He woke up, brushed his teeth, and went to school.
 
 She rode into the parking lot, got out of her bike, and walked toward the company.
 
@@ -410,7 +410,7 @@ Chúng ta thường sử dụng thì quá khứ đơn với các trạng từ ho
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Câu</td><td style='text-align: center; word-wrap: break-word;'>Khẳng định (Affirmative)</td><td style='text-align: center; word-wrap: break-word;'>Phủ định (Negative)</td><td style='text-align: center; word-wrap: break-word;'>Nghi vấn (Interrogative)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Was/Were + V-ing</td><td style='text-align: center; word-wrap: break-word;'>S + was/were + V-ing</td><td style='text-align: center; word-wrap: break-word;'>S + was/were not + V-ing</td><td style='text-align: center; word-wrap: break-word;'>Was/Were + S + V-ing...?</td></tr></table>
 
- $ \underline{Ex} $: They were playing football in the rain.
+ Ex: They were playing football in the rain.
 
 She wasn't listening to the teacher.
 
@@ -426,7 +426,7 @@ Were you waiting for me when I arrived?
 
 a. Diễn tả hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ.
 
- $ \underline{Ex} $: At 10 P.M. last night, I was still doing my homework.
+ Ex: At 10 P.M. last night, I was still doing my homework.
 
 She was sleeping when I arrived home.
 
@@ -434,7 +434,7 @@ We were having lunch at noon yesterday.
 
 b. Diễn tả hai hành động đang xảy ra đồng thời trong quá khứ.
 
- $ \underline{Ex} $: While my mom was cooking, my dad was watching TV.
+ Ex: While my mom was cooking, my dad was watching TV.
 
 I was listening to music while she was reading a book.
 
@@ -442,7 +442,7 @@ The children were playing outside while their parents were preparing lunch.
 
 c. Diễn tả hành động đang diễn ra trong quá khứ thì có hành động khác ngắn hơn xen vào. Dùng thì quá khứ tiếp diễn (past continuous) cho hành động xảy ra lâu hơn và thì quá khứ đơn (past simple) cho hành động xảy ra trong khoảng thời gian ngắn hơn hoặc hành động ngắt ngang.
 
- $ \underline{Ex} $: I was taking a shower when the phone rang.
+ Ex: I was taking a shower when the phone rang.
 
 She was walking home when it started to rain.
 
@@ -450,7 +450,7 @@ They were watching TV when the power went out
 
 d. Diễn tả hành động mang tính chất tạm thời trong quá khứ.
 
- $ \underline{Ex} $: He was staying at his uncle's house for a few weeks.
+ Ex: He was staying at his uncle's house for a few weeks.
 
 I was working as a waiter last summer.
 
@@ -484,7 +484,7 @@ Justin knew the answer to that question. (NOT Justin was knowing...)
 
 had not → hadn't
 
- $ \underline{Ex} $ They had finished their homework before they went out to play.
+ Ex They had finished their homework before they went out to play.
 
 She hadn't seen that movie before we went to the cinema.
 
@@ -558,7 +558,7 @@ Cấu trúc (Form)
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Câu</td><td style='text-align: center; word-wrap: break-word;'>Khẳng định (Affirmative)</td><td style='text-align: center; word-wrap: break-word;'>Phủ định (Negative)</td><td style='text-align: center; word-wrap: break-word;'>Nghi vấn (Interrogative)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Had been + V-ing</td><td style='text-align: center; word-wrap: break-word;'>S + had + been + V-ing</td><td style='text-align: center; word-wrap: break-word;'>S + had + not + been + V-ing</td><td style='text-align: center; word-wrap: break-word;'>Had + S + been + V-ing?</td></tr></table>
 
- $ \underline{Ex} $: I had been reading for two hours.
+ Ex: I had been reading for two hours.
 
 She had not been sleeping when I arrived.
 
@@ -568,7 +568,7 @@ Had they been playing football before it rained?
 
 a. Diễn tả hành động kéo dài liên tục trước một thời điểm trong quá khứ.
 
- $ \underline{Ex} $: Bentley was very tired because he had been working all night at the garage.
+ Ex: Bentley was very tired because he had been working all night at the garage.
 
 She had been studying in the library all afternoon before the exam.
 
@@ -576,7 +576,7 @@ They had been working in the garden for hours when it started to rain.
 
 b. Diễn tả hành động đã xảy ra và kéo dài liên tục một khoảng thời gian trước khi một hành động quá khứ khác xảy ra. Dùng thì quá khứ hoàn thành tiếp diễn (past perfect continuous) cho hành động xảy ra trước và thì quá khứ đơn (past simple) cho hành động xảy ra sau.
 
- $ \underline{Ex} $: We had been walking around the park for an hour when the storm hit.
+ Ex: We had been walking around the park for an hour when the storm hit.
 
 John had been running in the gym for 30 minutes before he injured his leg.
 
@@ -584,7 +584,7 @@ I had been working on my project at the office when the power went out.
 
 c. Diễn tả hành động xảy ra liên tục hoặc lập đi lặp lại trong quá khứ, và hành động đó phải bắt đầu trước một thời điểm xác định trong quá khứ và kéo dài đến thời điểm đó.
 
- $ \underline{Ex} $: He had been calling me every day before I finally picked up the phone.
+ Ex: He had been calling me every day before I finally picked up the phone.
 
 We had been meeting at the café every week until it closed down.
 
@@ -598,7 +598,7 @@ Wendy had been practising singing every night before her first solo concert.
 
 - KHÔNG dùng thì quá khứ hoàn thành tiếp diễn với các động từ chỉ nhận thức, tri giác, sở hữu. Với các động từ này, ta dùng thì quá khứ hoàn thành (past perfect).
 
- $ \underline{Ex} $ Josh admitted he had wanted to leave early. (NOT Josh admitted he had been wanting...)
+ Ex Josh admitted he had wanted to leave early. (NOT Josh admitted he had been wanting...)
 
 # TƯƠNG LAI (FUTURE)
 
@@ -612,7 +612,7 @@ Wendy had been practising singing every night before her first solo concert.
 
 Rút gọn: will/ shall → 'll
 
-will not  $ \rightarrow $ won't
+will not  → won't
 
 Ex: I will go to the market tomorrow.
 
@@ -724,7 +724,7 @@ They will be attending a conference next Friday.
 
 e. Diễn tả hành động từơng lai đang xảy ra thì bị một hành động khác ngắn hơn ngắt quãng. Sử dụng thì hiện tại đơn (present simple) cho hành động ngắn hơn.
 
- $ \underline{Ex} $: We will be watching a movie when you arrive at the theater.
+ Ex: We will be watching a movie when you arrive at the theater.
 
 I will be waiting for you when you get back.
 
@@ -770,7 +770,7 @@ By the time we get to the theater, the movie will have started.
 
 b. Diễn tả một hành động sẽ được hoàn thành trong một khoảng thời gian nào đó trong tương lai.
 
- $ \underline{Ex} $: By next summer, I will have saved enough money for a vacation.
+ Ex: By next summer, I will have saved enough money for a vacation.
 
 By next week, she will have learned all the dance moves.
 
@@ -794,7 +794,7 @@ Cấu trúc (Form)
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Câu</td><td style='text-align: center; word-wrap: break-word;'>Khẳng định (Affirmative)</td><td style='text-align: center; word-wrap: break-word;'>Phủ định (Negative)</td><td style='text-align: center; word-wrap: break-word;'>Nghi vấn (Interrogative)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Will have been + V-ing</td><td style='text-align: center; word-wrap: break-word;'>S + will have been + V-ing</td><td style='text-align: center; word-wrap: break-word;'>S + will not + have been + V-ing</td><td style='text-align: center; word-wrap: break-word;'>Will + S + have been + V-ing?</td></tr></table>
 
- $ \underline{Ex} $: By next month, I will have been working at this company for five years.
+ Ex: By next month, I will have been working at this company for five years.
 
 She will have been studying for three hours by the time you arrive.
 
@@ -804,7 +804,7 @@ By 8 P.M., they will have been playing football for two hours.
 
 Diễn tả một hành động, sự việc dự kiến sẽ xảy ra và kéo dài liên tục cho đến một thời điểm xác định trong tương lai.
 
- $ \underline{Ex} $: By the end of this week, they will have been repairing the road for five days.
+ Ex: By the end of this week, they will have been repairing the road for five days.
 
 At 8 A.M. tomorrow, she will have been travelling for 12 hours.
 

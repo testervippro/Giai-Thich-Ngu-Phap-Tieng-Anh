@@ -14,7 +14,7 @@ Mạo từ (Articles) là từ dùng trước một danh từ để xác định
 
 Mạo từ thường dùng ngay trước danh từ mà nó xác định. Trong một số trường hợp, mạo từ cũng có thể đi kèm với các tính từ để mô tả danh từ một cách rõ ràng hơn.
 
- $ \underline{Ex} $: The dog is barking.
+ Ex: The dog is barking.
 
 I saw a red car yesterday.
 
@@ -88,7 +88,7 @@ The Winsors are coming round for dinner.
 
 e. Khi nói về các đối tượng có tính chất xác định rõ ràng trong một bối cảnh cụ thể: Ta sử dụng the khi danh từ được xác định bởi một đặc điểm nào đó, như địa điểm, thời gian hoặc tính chất cụ thể.
 
- $ \underline{Ex} $: She was sitting on the chair by the window.
+ Ex: She was sitting on the chair by the window.
 
 The book that I bought were all novels.
 
@@ -168,7 +168,7 @@ She bought an umbrella because it was raining.
 
 b. Khi mô tả một đối tượng thuộc nhóm lớn hơn:
 
- $ \underline{Ex} $: He's a member of our school's soccer team.
+ Ex: He's a member of our school's soccer team.
 
 → Chỉ rõ rằng anh ấy là một thành viên có mặt trong đội bóng.
 

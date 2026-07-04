@@ -86,7 +86,7 @@ Hình thức so sánh hơn của tính từ và trạng từ được thành l�
 
 a. Thêm đuôi -er vào cuối tính từ hoặc trạng từ ngắn.
 
- $ \underline{Ex} $: big → bigger
+ Ex: big → bigger
 
 poor → poorer
 
@@ -113,49 +113,49 @@ harmful → more harmful
 ### d. Thêm *more* trước tính từ là quá khứ phân từ (thường 1 âm tiết)
 như: bored, creased, pleased, worn, v.v.
 
-$$
-\underline{\text{Ex:}}\quad bored \rightarrow \text{more } \underline{bored}
-$$
 
-$$
-pleased \rightarrow \text{more pleased}
-$$
+Ex:  bored → more  bored
 
-$$
-worn \rightarrow \text{more worn}
-$$
+
+
+pleased → more pleased
+
+
+
+worn → more worn
+
 
 ---
 
 ### e. Thêm *more* trước các tính từ: *fun, real, right, wrong*
 
-$$
-\underline{\text{Ex:}}\quad fun \rightarrow \text{more fun}
-$$
 
-$$
-real \rightarrow \text{more real}
-$$
+Ex:  fun → more fun
 
-$$
-right \rightarrow \text{more right}
-$$
 
-$$
-wrong \rightarrow \text{more wrong}
-$$
+
+real → more real
+
+
+
+right → more right
+
+
+
+wrong → more wrong
+
 
 ---
 
 ### Cấu trúc tổng quát của so sánh hơn
 
-$$
-(S + V +) \; \text{short adj/adv} + \text{-er} + \text{than} + \text{noun/pronoun/clause}
-$$
 
-$$
-(S + V +) \; \text{more} + \text{long adj/adv} + \text{than} + \text{noun/pronoun/clause}
-$$
+(S + V +)   short adj/adv + -er + than + noun/pronoun/clause
+
+
+
+(S + V +)   more + long adj/adv + than + noun/pronoun/clause
+
 Ex: Alex is taller than Leo.
 
 A trip to the sunny beach sounds more enjoyable than a hike to the cold mountains.

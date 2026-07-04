@@ -160,13 +160,13 @@ Danh từ số nhiều bất quy tắc
 
 a. Danh từ thay đổi khi ở số nhiều.
 
- $ \underline{Ex} $: child  $ \rightarrow $ children
-foot  $ \rightarrow $ feet
-goose  $ \rightarrow $ geese
-man  $ \rightarrow $ men
-mouse  $ \rightarrow $ mice
-person  $ \rightarrow $ people
-tooth  $ \rightarrow $ teeth
+ Ex: child  → children
+foot  → feet
+goose  → geese
+man  → men
+mouse  → mice
+person  → people
+tooth  → teeth
 
 b. Danh từ không thay đổi khi ở số nhiều.
 
@@ -199,11 +199,11 @@ Một số danh từ không đếm được khác: news, advice, equipment, furn
 
 Ex: Physics is my favourite subject.
 
-Billiards  $ \underline{\text{challenges}} $ players to think ahead.
+Billiards  challenges players to think ahead.
 
 Mumps was once a common childhood illness.
 
-The Philippines  $ \underline{\text{is known}} $ for its stunning beaches.
+The Philippines  is known for its stunning beaches.
 
 2. Danh từ riêng (proper nouns) chỉ tên riêng của sự vật như tên người, tên địa danh, tên tổ chức, v.v. Danh từ riêng có chữ cái đầu được viết hoa.
 
@@ -748,7 +748,7 @@ He forgot our anniversary again. That really annoyed me.
 
 - That dùng để nhắc đến người khác trong cuộc gọi.
 
- $ \underline{Ex} $: Hello, this is John speaking. (Xin chào, John nghe.)
+ Ex: Hello, this is John speaking. (Xin chào, John nghe.)
 
 Is that Mary on the phone?
 
@@ -756,15 +756,15 @@ Is that Mary on the phone?
 
 - This và these thường được dùng khí muốn nhắc lại hoặc nhấn mạnh một ý tưởng, sự việc vừa mới được để cặp.
 
- $ \underline{Ex:} $  $ \underline{She's} $ decided to  $ \underline{quit} $ her  $ \underline{job} $. This surprised everyone.
+ Ex:  She's decided to  quit her  job. This surprised everyone.
 
-The company introduced  $ \underline{\text{new policies}} $. These will significantly improve productivity.
+The company introduced  new policies. These will significantly improve productivity.
 
 ### - That và those dùng khi nhắc đến một ý tưởng, sự việc đã nói từ lâu hoặc khi muốn giữ khoảng cách cảm xúc
 
-####  $ \underline{Ex:} $  $ \underline{\text{He worked for years without a break.}} $ That must have been exhausting
+####  Ex:  He worked for years without a break. That must have been exhausting
 
-I remember  $ \underline{\text{the summers}} $ we spent at grandma's house. Those were wonderful days.
+I remember  the summers we spent at grandma's house. Those were wonderful days.
 
 ### IV. Đại từ nghi vấn (Interrogative Pronouns)
 
@@ -1318,7 +1318,7 @@ Ex: loud music an interesting story a successful cooperation important business 
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>chief</td><td style='text-align: center; word-wrap: break-word;'>indoor</td><td style='text-align: center; word-wrap: break-word;'>only</td><td style='text-align: center; word-wrap: break-word;'>sheer (= complete)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>elder (= older)</td><td style='text-align: center; word-wrap: break-word;'>inner</td><td style='text-align: center; word-wrap: break-word;'>outdoor</td><td style='text-align: center; word-wrap: break-word;'>sole (= only)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>eldest (= oldest)</td><td style='text-align: center; word-wrap: break-word;'>mere (= only)</td><td style='text-align: center; word-wrap: break-word;'>outer</td><td style='text-align: center; word-wrap: break-word;'>upper</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>eventual former (= earlier)</td><td style='text-align: center; word-wrap: break-word;'>main</td><td style='text-align: center; word-wrap: break-word;'>principal (= main)</td><td style='text-align: center; word-wrap: break-word;'>utter (= complete)</td></tr></table>
 
- $ \underline{Ex} $: the chief reason an outdoor stadium
+ Ex: the chief reason an outdoor stadium
 
 outer space utter rubbish
 
@@ -1336,7 +1336,7 @@ I can't find my keys anywhere. That is strange.
 
 + Các tính từ được thành lập bằng cách thêm tiền tố a-: afraid, alike, altve, alone, ashamed, asleep, awake, aware, v.v
 
- $ \underline{Ex} $: √ The boy feels afraid. × the-afraid-boy
+ Ex: √ The boy feels afraid. × the-afraid-boy
 
 + Các tính từ thế hiện cảm xúc: content, glad, pleased, sorry, upset, delighted
 
@@ -1388,11 +1388,11 @@ Tính từ có thể dùng ngay sau danh từ mà nó bổ nghĩa trong các tr�
 
 Bổ nghĩa cho các đại từ bất định something, anything, nothing, everything, someone, anyone, somewhere, v.v.
 
- $ \underline{Ex} $: There's something  $ \underline{smelly} $ in here.
+ Ex: There's something  smelly in here.
 
-The father did everything  $ \underline{\text{possible}} $ to save his daughter.
+The father did everything  possible to save his daughter.
 
-Did you see anyone  $ \underline{\text{suspicious}} $ yesterday evening?
+Did you see anyone  suspicious yesterday evening?
 
 Diễn tả sự đo lường (chiếu dài, chiếu cao, độ sâu, tươi tác, v.v.).
 
@@ -1500,7 +1500,7 @@ Would you like another cup of tea?
 
 • other + danh từ đếm được hoặc danh từ không đếm được: dùng để chỉ một hoặc nhiều người, sự vật, sự việc ngoài cải đã được nhắc tới trước đó.
 
- $ \underline{Ex} $: Let's move to the next room. I want to see other paintings.
+ Ex: Let's move to the next room. I want to see other paintings.
 
 I have other business to attend to.
 
@@ -1526,7 +1526,7 @@ He heard a strange voice on the other end of the line.
 
 • the other + danh từ số nhiều: dùng để chỉ những người, sự vật hoặc sự việc con lại ngoài cái đã được nhắc tới; phần còn lại trong một nhóm.
 
- $ \underline{Ex} $: I have three pairs of sneakers. I'm wearing this pair because the other two are dirty. Some dancers wear blue dresses. The other dancers wear pink ones.
+ Ex: I have three pairs of sneakers. I'm wearing this pair because the other two are dirty. Some dancers wear blue dresses. The other dancers wear pink ones.
 
 We arrived first. The other people arrived half an hour later.
 
@@ -1558,7 +1558,7 @@ When we entered the room, we saw a man with both hands tied behind his back.
 
 either + danh từ số ít: dùng để chỉ một trong hai người, sự vật hoặc sự việc.
 
- $ \underline{Ex} $: Which wallpaper colour should I choose, pink or beige? - Either colour looks good.
+ Ex: Which wallpaper colour should I choose, pink or beige? - Either colour looks good.
 
 Shane has two pens but he can't find either one.
 
@@ -1566,7 +1566,7 @@ Dvide the dough into two halves. Put either half into the fridge and continue wi
 
 • neither + danh từ số ít: không có/ không phải (nghĩa phù định) người, sự vật, sự việc này cùng không có/ không phải người, sự vật, sự việc kia.
 
- $ \underline{Ex} $: We have two rose bushes in our garden. Neither bush is blooming at the moment.
+ Ex: We have two rose bushes in our garden. Neither bush is blooming at the moment.
 
 I have opened neither window in my room because it's too cold.
 
@@ -1628,7 +1628,7 @@ Ex: The meeting aims to address many urgent issues.
 
 1. Tính từ đơn (simple adjectives): là tính tử chỉ có một từ.
 
- $ \underline{Ex} $: careful, determined, endearing, lively, loud, mental, patient, rich, soundless, sensitive, tender, v.v.
+ Ex: careful, determined, endearing, lively, loud, mental, patient, rich, soundless, sensitive, tender, v.v.
 
 2. Tính từ ghép (compound adjectives): là tính từ được thành lập bảng cách ghép hai hoặc nhiều từ lại với nhau và được xem như một tính từ duy nhất. Tình từ ghép có thể được viết thành một từ hoặc hai từ có dấu gạch nối (-) ở giữa.
 
@@ -1674,7 +1674,7 @@ The Olympic Games are one of the most exciting sports events in the world.
 
 II. Quá khứ phân từ (past participes): được dùng để diễn tả trạng thái hoặc cảm xúc được tạo ra bởi người, sự vật hoặc sự việc khác.
 
- $ \underline{Ex:} $ I was shocked when I heard the shocking news.
+ Ex: I was shocked when I heard the shocking news.
 
 They are bored because they are watching a boring film.
 
@@ -1688,7 +1688,7 @@ Chúng ta có thể dùng hai hoặc nhiều tinh từ trước một danh từ 
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Loại tính từ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đặc điểm đề</td><td style='text-align: center; word-wrap: break-word;'>1. Từ xác định (determiners)</td><td style='text-align: center; word-wrap: break-word;'>a/an, the, this, that, my, your, many, little, v.v.</td></tr><tr><td rowspan="7">thay đổi hơn</td><td style='text-align: center; word-wrap: break-word;'>2. Số đếm (numbers)</td><td style='text-align: center; word-wrap: break-word;'>eleven, second, 40th, last, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3. Quan điểm (opinion - how good?)</td><td style='text-align: center; word-wrap: break-word;'>awful, boring, lovely, nice, wonderful, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4. Kích thuớc (size - how big?)</td><td style='text-align: center; word-wrap: break-word;'>large, small, long, short, tall, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5. Tinh chất (quality)</td><td style='text-align: center; word-wrap: break-word;'>busy, clear, famous, important, quiet, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6. Tuổi (age - how old?)</td><td style='text-align: center; word-wrap: break-word;'>new, old, young, middle-aged, elderly, ripe, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>7. Hình dáng (shape)</td><td style='text-align: center; word-wrap: break-word;'>square, round, circular, triangular, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>8. Màu sắc (colour)</td><td style='text-align: center; word-wrap: break-word;'>blue, green, purple, red, yellow, v.v.</td></tr><tr><td rowspan="4">Đặc điểm khó thay đổi</td><td style='text-align: center; word-wrap: break-word;'>9. Nguồn gốc (origin - where from?)</td><td style='text-align: center; word-wrap: break-word;'>Asian, Canadian, Eastern European, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>10. Chất liệu (material - made of?)</td><td style='text-align: center; word-wrap: break-word;'>cotton, glass, gold, metal, wooden, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11. Chúng loal (type - what kind?)</td><td style='text-align: center; word-wrap: break-word;'>business, human, non-profit, scientific, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>12. Mục đích (purpose - what for?)</td><td style='text-align: center; word-wrap: break-word;'>dining (room), hiking (boots), washing (machine), v.v.</td></tr></table>
 
- $ \underline{Ex} $: I have ordered some new research equipment for the lab.
+ Ex: I have ordered some new research equipment for the lab.
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e7e76f76-929a-4bda-bc95-303a6e473b5d/markdown_1/imgs/img_in_image_box_343_1210_568_1293.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-12T12%3A20%3A12Z%2F-1%2F%2F973d6787ed496227f37c76d7f554e10fdd2d0517f1985baa25b554e423dc0595" alt="Image" width="18%" /></div>
 
@@ -1758,9 +1758,9 @@ Chúng ta có thể dùng cấu trúc the + tính từ để nói về một nh�
 
 - Tuổi tác: the young, the old, the elderly, v.v.
 
-Cáu trúc: the + tinh tử + dại tử và động tử số nhiều.
+Cấu trúc: the + tinh tử + dại tử và động tử số nhiều.
 
- $ \underline{Ex:} $ The elderly usually have a lot of health problems.
+ Ex: The elderly usually have a lot of health problems.
 
 Do you think the rich should help the poor?
 
@@ -1776,7 +1776,7 @@ Humans tend to be scared of the unknown.
 
 - Trong một số cụm từ có định có tính trang trọng, the + tính từ có thể có nghĩa số ít: the accused, the undersigned, the deceased, the former và the latter, v.v.
 
- $ \underline{Ex} $: The accused has arrtved with her lawyers.
+ Ex: The accused has arrtved with her lawyers.
 
 We will arrange to have the deceased returned to his family.
 
@@ -1936,9 +1936,9 @@ Giới từ chỉ phương hướng của chuyển động (above, around, from,
 
 Ex: Max climbs up the tree.
 
-The guests move  $ \underline{\text{into the garden}} $ to begin the party.
+The guests move  into the garden to begin the party.
 
-Her brother goes jogging  $ \underline{\text{around the local park}} $ every morning.
+Her brother goes jogging  around the local park every morning.
 
 ### III. Trạng từ chỉ thời gian (Adverbs of time)
 
@@ -2060,7 +2060,7 @@ daily
 
 each month
 
- $ \underline{Ex} $: You need to take the medicine three times a day.
+ Ex: You need to take the medicine three times a day.
 
 The FIFA World Cup is held every four years.
 
@@ -2082,7 +2082,7 @@ Một số trạng từ chỉ mục độ thường gặp:
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>100</td><td style='text-align: center; word-wrap: break-word;'>almost</td><td style='text-align: center; word-wrap: break-word;'>absolutely</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>very</td><td style='text-align: center; word-wrap: break-word;'>enough</td><td style='text-align: center; word-wrap: break-word;'>extremely</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>really</td><td style='text-align: center; word-wrap: break-word;'>quite</td><td style='text-align: center; word-wrap: break-word;'>largely</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>nearly</td></tr></table>
 
- $ \underline{Ex} $: We couldn't catch the fish. It swam away too quickly.
+ Ex: We couldn't catch the fish. It swam away too quickly.
 
 She almost called him, but changed her mind at the last minute.
 
@@ -2098,7 +2098,7 @@ I thought Dave was driving too fast, but he was driving fast enough to get there
 
 Một số trạng từ chỉ mục độ có thể bổ nghĩa cho động từ và thường dùng ở vị trí giữa câu: almost, barely, hardly, nearly, quite, rather, really, scarcely, v.v.
 
- $ \underline{Ex} $: I have barely heard from Emma since we left school.
+ Ex: I have barely heard from Emma since we left school.
 
 We hardly need Michael's help. We can do this on our own.
 
@@ -2118,7 +2118,7 @@ Normally, the students have a 30-minute break, but today the break is only 20 mi
 
 On Monday morning, we met with the client to discuss the next phase of the project. Một số trạng từ chỉ nơi chốn có thể đứng ở đầu câu và cần được ngăn cách với phần còn lại của câu bằng dấu phấy (.).
 
- $ \underline{Ex} $: At the spring festival, you can take part in a lot of traditional games.
+ Ex: At the spring festival, you can take part in a lot of traditional games.
 
 In some cold regions, people live in snow houses called igloos.
 
@@ -2230,27 +2230,27 @@ Ex: My old class are meeting up at a café next Sunday.
 
 nơi chốn thời gian
 
-Despite the neighbors' complaint, Yuri practised her guitar  $ \underline{\text{loudly in her room all summer.}} $
+Despite the neighbors' complaint, Yuri practised her guitar  loudly in her room all summer.
 
 cách thức nơi chốn thời gian
 
-I had to travel  $ \underline{\text{to the Osaka branch every month last year.}} $
+I had to travel  to the Osaka branch every month last year.
 
 - Khi có nhiều trạng từ hoặc trạng ngữ ở vị trí cuối câu, trạng từ đơn (trạng từ có một tử duy nhất) hoặc trạng ngữ ngắn hơn thường dùng trước trạng ngữ dài hơn.
 
-Ex: Julie dances  $ \underline{\text{beautifully}} $ in her new dress.
+Ex: Julie dances  beautifully in her new dress.
 
 It rained heavily for some time yesterday evening.
 
-The teacher lives  $ \underline{\text{in Moscow}} $  $ \underline{\text{most of the time.}} $
+The teacher lives  in Moscow  most of the time.
 
 - Khi có hai trạng từ hoặc trạng ngữ cùng loại, trạng từ hoặc trạng ngữ bổ sung thông tin chi tiết hơn sẽ dùng trước.
 
- $ \underline{Ex:} $  $ \underline{\text{At 10 o'clock this morning}} $, Carol boarded the train to Istanbul.
+ Ex:  At 10 o'clock this morning, Carol boarded the train to Istanbul.
 
-Eric puts the laptop  $ \underline{\text{on the desk in his room.}} $
+Eric puts the laptop  on the desk in his room.
 
-I was lying on a beach in Greece  $ \underline{\text{this time last year}} $.
+I was lying on a beach in Greece  this time last year.
 
 ### Cách thành lập trạng từ
 
@@ -2268,7 +2268,7 @@ Một số lưu ý về chính tả:
 
 - Trạng từ bất quy tắc: Một số trạng từ không tuân theo quy tắc thêm -ly.
 
- $ \underline{Ex} $: early → early
+ Ex: early → early
 
 fast → fast
 
@@ -2322,7 +2322,7 @@ Các nội động từ áp dụng hình thức đảo ngữ này:
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>nội động từ chỉ tư thế/ trạng thái</td><td style='text-align: center; word-wrap: break-word;'>nội động từ chỉ chuyển động</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>hang lie live sit stand</td><td style='text-align: center; word-wrap: break-word;'>come fly go march walk</td></tr></table>
 
- $ \underline{Ex} $: Some Christmas socks hung on the fireplace. = On the fireplace hung some Christmas socks.
+ Ex: Some Christmas socks hung on the fireplace. = On the fireplace hung some Christmas socks.
 
 The children swim through the clear lake. = Through the clear lake swim the children.
 
@@ -2374,7 +2374,7 @@ Một số trạng từ phủ định thường gặp:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>only after</td><td style='text-align: center; word-wrap: break-word;'>Only after harvest is finished can we prepare the soil for t next season.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only later</td><td style='text-align: center; word-wrap: break-word;'>Only later does  $ \underline{\text{Jude miss}} $ her.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only if</td><td style='text-align: center; word-wrap: break-word;'>Only if there is a big discount will I buy their products.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only once</td><td style='text-align: center; word-wrap: break-word;'>Only once have I tried durian in my entire life.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only then</td><td style='text-align: center; word-wrap: break-word;'>Only then did the tourists go to the police.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only when</td><td style='text-align: center; word-wrap: break-word;'>Only when the deadline draws near do the students begin their project.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>only after</td><td style='text-align: center; word-wrap: break-word;'>Only after harvest is finished can we prepare the soil for t next season.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only later</td><td style='text-align: center; word-wrap: break-word;'>Only later does  Jude miss her.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only if</td><td style='text-align: center; word-wrap: break-word;'>Only if there is a big discount will I buy their products.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only once</td><td style='text-align: center; word-wrap: break-word;'>Only once have I tried durian in my entire life.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only then</td><td style='text-align: center; word-wrap: break-word;'>Only then did the tourists go to the police.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only when</td><td style='text-align: center; word-wrap: break-word;'>Only when the deadline draws near do the students begin their project.</td></tr></table>
 
 ### 3. Cụm từ bắt đầu bằng not
 
@@ -2398,7 +2398,7 @@ Một số trạng từ phủ định thường gặp:
 
 ### 5. Little (với nghĩa phủ định)
 
- $ \underline{Ex:} $ Little does Abby realise there is a coffee stain on her dress. (= she doesn't realize or she doesn't realize enough)
+ Ex: Little does Abby realise there is a coffee stain on her dress. (= she doesn't realize or she doesn't realize enough)
 
 Little did I know that I needed to turn left instead of right. (= I didn't know or I didn't know enough)
 
@@ -2510,7 +2510,7 @@ Hình thức so sánh hơn của tính từ và trạng từ được thành l�
 
 a. Thêm dưới -er vào cưới tính từ hoặc trạng từ ngắn.
 
- $ \underline{Ex} $: big → bigger
+ Ex: big → bigger
 
 poor → poorer
 
@@ -2537,49 +2537,49 @@ harmful → more harmful
 ### d. Thêm *more* trước tính từ là quá khứ phân từ (thường 1 âm tiết)
 như: bored, creased, pleased, worn, v.v.
 
-$$
-\underline{\text{Ex:}}\quad bored \rightarrow \text{more } \underline{bored}
-$$
 
-$$
-pleased \rightarrow \text{more pleased}
-$$
+Ex:  bored → more  bored
 
-$$
-worn \rightarrow \text{more worn}
-$$
+
+
+pleased → more pleased
+
+
+
+worn → more worn
+
 
 ---
 
 ### e. Thêm *more* trước các tính từ: *fun, real, right, wrong*
 
-$$
-\underline{\text{Ex:}}\quad fun \rightarrow \text{more fun}
-$$
 
-$$
-real \rightarrow \text{more real}
-$$
+Ex:  fun → more fun
 
-$$
-right \rightarrow \text{more right}
-$$
 
-$$
-wrong \rightarrow \text{more wrong}
-$$
+
+real → more real
+
+
+
+right → more right
+
+
+
+wrong → more wrong
+
 
 ---
 
 ### Cấu trúc tổng quát của so sánh hơn
 
-$$
-(S + V +) \; \text{short adj/adv} + \text{-er} + \text{than} + \text{noun/pronoun/clause}
-$$
 
-$$
-(S + V +) \; \text{more} + \text{long adj/adv} + \text{than} + \text{noun/pronoun/clause}
-$$
+(S + V +)   short adj/adv + -er + than + noun/pronoun/clause
+
+
+
+(S + V +)   more + long adj/adv + than + noun/pronoun/clause
+
 Ex: Alex is taller than Leo.
 
 A trip to the sunny beach sounds more enjoyable than a hike to the cold mountains.
@@ -2863,7 +2863,7 @@ Tiền tố -en còn có thể được thêm vào trước tính từ, danh t�
 
 Ex: danger → endanger
 
-rich  $ \rightarrow $ enrich
+rich  → enrich
 
 courage → encourage
 
@@ -3023,7 +3023,7 @@ He can speak Chinese. [NOT He can to speak...]
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>MAY</td><td style='text-align: center; word-wrap: break-word;'>MIGHT</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- Phủ định: may not (it dùng mayn't).</td><td style='text-align: center; word-wrap: break-word;'>- Phủ định: might not (mightn't).</td></tr><tr><td colspan="2">CẢCH DỪNG</td></tr><tr><td colspan="2">- May và might được dùng để diễn tả một điều có thể là thật hoặc có khả năng xảy ra ở hiện tại hoặc tương lai nhưng bản thân không chắc chắn. Trong trường hợp này, might không phải dạng quá khứ của may.</td></tr><tr><td colspan="2">Ex: Jenna may/might get there in time, but I can't be sure.</td></tr><tr><td colspan="2">Some chemicals may/might cause environmental damage.</td></tr><tr><td colspan="2">- Mức độ khẳng định của might ít hơn may.</td></tr><tr><td colspan="2">Ex: Cindy may go to Prague next week. [50%] → Cindy might go to Prague next week. [30%]</td></tr><tr><td colspan="2">May/might + be + V-ing: diễn đạt một sự kiện có thể đang diễn ra ở hiện tại hoặc tương lai.</td></tr><tr><td colspan="2">Ex: Trisha is late. She may/might be having breakfast.</td></tr><tr><td colspan="2">- May và might được dùng để xin phep (trang trong hơn can và could).</td></tr><tr><td colspan="2">- May được dùng để thể hiện sự cho phép (trang trọng) và may not được dùng để từ chối lối xin phép.</td></tr><tr><td colspan="2">Ex: May I use your phone? ~ Yes, you may./ No, you may not.</td></tr><tr><td colspan="2">I wonder if I might go out. [cách nói trịnh trong nhưng tự nhiên hơn "Might I go out?"]</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- May được dùng trong những lời cầu chúc trang trọng.</td><td style='text-align: center; word-wrap: break-word;'>- KHÔNG dùng might trong những lời cầu chúc.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>$ \underline{\text{Ex}} $: May all your new year wishes come true.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>May you and your family have a wonderful new year.</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>MAY</td><td style='text-align: center; word-wrap: break-word;'>MIGHT</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- Phủ định: may not (it dùng mayn't).</td><td style='text-align: center; word-wrap: break-word;'>- Phủ định: might not (mightn't).</td></tr><tr><td colspan="2">CẢCH DỪNG</td></tr><tr><td colspan="2">- May và might được dùng để diễn tả một điều có thể là thật hoặc có khả năng xảy ra ở hiện tại hoặc tương lai nhưng bản thân không chắc chắn. Trong trường hợp này, might không phải dạng quá khứ của may.</td></tr><tr><td colspan="2">Ex: Jenna may/might get there in time, but I can't be sure.</td></tr><tr><td colspan="2">Some chemicals may/might cause environmental damage.</td></tr><tr><td colspan="2">- Mức độ khẳng định của might ít hơn may.</td></tr><tr><td colspan="2">Ex: Cindy may go to Prague next week. [50%] → Cindy might go to Prague next week. [30%]</td></tr><tr><td colspan="2">May/might + be + V-ing: diễn đạt một sự kiện có thể đang diễn ra ở hiện tại hoặc tương lai.</td></tr><tr><td colspan="2">Ex: Trisha is late. She may/might be having breakfast.</td></tr><tr><td colspan="2">- May và might được dùng để xin phep (trang trong hơn can và could).</td></tr><tr><td colspan="2">- May được dùng để thể hiện sự cho phép (trang trọng) và may not được dùng để từ chối lối xin phép.</td></tr><tr><td colspan="2">Ex: May I use your phone? ~ Yes, you may./ No, you may not.</td></tr><tr><td colspan="2">I wonder if I might go out. [cách nói trịnh trong nhưng tự nhiên hơn "Might I go out?"]</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- May được dùng trong những lời cầu chúc trang trọng.</td><td style='text-align: center; word-wrap: break-word;'>- KHÔNG dùng might trong những lời cầu chúc.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: May all your new year wishes come true.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>May you and your family have a wonderful new year.</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
 
 
 
@@ -3091,7 +3091,7 @@ Would còn được dùng trong các trường hợp sau.
 
 - Cách dùng: Được dùng để dựa ra lời khuyên hoặc cảnh báo rằng ai đó nên hoặc không nên làm việc gì đó.
 
- $ \underline{Ex} $: You'd better go to the doctor about your cough.
+ Ex: You'd better go to the doctor about your cough.
 
 You had better keep your mouth shut about this.
 
@@ -3178,7 +3178,7 @@ My favourite TV show starts at 8 o'clock.
 
 - Dùng trợ động từ do để thành lập câu phủ định và câu hỏi.
 
- $ \underline{Ex} $: Do you read a lot of books?
+ Ex: Do you read a lot of books?
 
 Does he speak English?
 
@@ -3374,7 +3374,7 @@ Ex: Yesterday was Monday.
 
 This poem sounds interesting.
 
-Amanda looks  $ \underline{\text{happy}} $.
+Amanda looks  happy.
 
 - Đối với các liên động từ như appear, look, prove, seem,... → có thể dùng tính từ theo ngay sau đó hoặc thêm to be.
 
@@ -3470,7 +3470,7 @@ Ex: Marie took it out. [NOT Marie-took-out it.]
 
 Động từ không thể bị chia tách với giới từ đi cùng.
 
- $ \underline{Ex} $: Marie takes after her dad. / Marie takes after him.
+ Ex: Marie takes after her dad. / Marie takes after him.
 
 [NOT Marie-takes-her-dad-after.]
 
@@ -3520,7 +3520,7 @@ I talked to her.
 
 - Trước mệnh đề danh ngữ (noun clauses): Không phải giới từ nào cùng có thể dùng trước mệnh đề danh ngữ. Một số giới từ thông dụng trong cấu trúc này là: about, in, on, of, with, by.
 
- $ \underline{Ex} $: She is sad because of what happened.
+ Ex: She is sad because of what happened.
 
 I have no idea about how he did it.
 
@@ -3656,7 +3656,7 @@ Giới từ chỉ một thời điểm cụ thể
 
 
 
-<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Giới từ</td><td style="text-align: center; word-wrap: break-word;">Ý nghĩa</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">at</td><td style="text-align: center; word-wrap: break-word;">Vào một giỏ cụ thể, một khoảnh khác trong ngày, ngày lễ</td><td style="text-align: center; word-wrap: break-word;">We will meet at 5 P.M. She arrived at midnight. I always spend time with my family at Christmas.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">in</td><td style="text-align: center; word-wrap: break-word;">Trong khoảng thời gian dài (buổi trong ngày, tháng, năm, thập ki, thế ki, mùa, kì nghỉ, khoa học, ...)</td><td style="text-align: center; word-wrap: break-word;">He was born in December. I graduated in 2010. Many technological advances happened in the 2000s. The Industrial Revolution occurred in the 18th century. The project was completed in a year.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">on</td><td style="text-align: center; word-wrap: break-word;">Vào ngày cụ thể, ngày lễ có "Day", ngày trong tuần</td><td style="text-align: center; word-wrap: break-word;">We have a meeting on December 25 $ ^{th} $ We always visit our grandparents on New Year's Day. Her birthday is on Monday.</td></tr></table>
+<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Giới từ</td><td style="text-align: center; word-wrap: break-word;">Ý nghĩa</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">at</td><td style="text-align: center; word-wrap: break-word;">Vào một giỏ cụ thể, một khoảnh khác trong ngày, ngày lễ</td><td style="text-align: center; word-wrap: break-word;">We will meet at 5 P.M. She arrived at midnight. I always spend time with my family at Christmas.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">in</td><td style="text-align: center; word-wrap: break-word;">Trong khoảng thời gian dài (buổi trong ngày, tháng, năm, thập ki, thế ki, mùa, kì nghỉ, khoa học, ...)</td><td style="text-align: center; word-wrap: break-word;">He was born in December. I graduated in 2010. Many technological advances happened in the 2000s. The Industrial Revolution occurred in the 18th century. The project was completed in a year.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">on</td><td style="text-align: center; word-wrap: break-word;">Vào ngày cụ thể, ngày lễ có "Day", ngày trong tuần</td><td style="text-align: center; word-wrap: break-word;">We have a meeting on December 25 th We always visit our grandparents on New Year's Day. Her birthday is on Monday.</td></tr></table>
 
 
 
@@ -4523,7 +4523,7 @@ Mạo từ (Articles) là từ dùng trước một danh từ để xác định
 
 Mạo từ thường dùng ngay trước danh từ mà nó xác định. Trong một số trường hợp, mạo từ cũng có thể đi kèm với các tính từ để mô tả danh từ một cách rõ ràng hơn.
 
- $ \underline{Ex} $: The dog is barking.
+ Ex: The dog is barking.
 
 I saw a red car yesterday.
 
@@ -4597,7 +4597,7 @@ The Winsors are coming round for dinner.
 
 e. Khi nói về các đối tượng có tính chất xác định rõ ràng trong một bối cảnh cụ thể: Ta sử dụng the khi danh từ được xác định bởi một đặc điểm nào đó, như địa điểm, thời gian hoặc tính chất cụ thể.
 
- $ \underline{Ex} $: She was sitting on the chair by the window.
+ Ex: She was sitting on the chair by the window.
 
 The book that I bought were all novels.
 
@@ -4677,7 +4677,7 @@ She bought an umbrella because it was raining.
 
 b. Khi mô tả một đối tượng thuộc nhóm lớn hơn:
 
- $ \underline{Ex} $: He's a member of our school's soccer team.
+ Ex: He's a member of our school's soccer team.
 
 → Chi ra ràng anh ấy là một thành viên có mật trong đôi bóng.
 
@@ -4811,7 +4811,7 @@ She bought several pairs of shoes during the sale.
 
 d. A number of (một số): Tương tự như several, chi một số lượng đáng kể nhưng không quá lớn, thường được dùng trong văn phong trang trọng.
 
- $ \underline{Ex:} $ A number of students were absent yesterday.
+ Ex: A number of students were absent yesterday.
 
 There are a number of reasons why this project failed.
 
@@ -4873,7 +4873,7 @@ Ex: I have a little milk left, so we can make coffee. → A little mang nghĩa t
 
 c. A great deal of/ A good deal of (một lượng lớn): Chỉ số lượng lớn, tương đương với much nhưng thường xuất hiện trong văn viết.
 
- $ \underline{Ex:} $ A great deal of effort was needed to complete the project.
+ Ex: A great deal of effort was needed to complete the project.
 
 She has a good deal of experience in marketing.
 

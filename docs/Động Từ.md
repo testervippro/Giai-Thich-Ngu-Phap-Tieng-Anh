@@ -40,7 +40,7 @@ Tiền tố -en còn có thể được thêm vào trước tính từ, danh t�
 
 Ex: danger → endanger
 
-rich  $ \rightarrow $ enrich
+rich  → enrich
 
 courage → encourage
 
@@ -200,7 +200,7 @@ He can speak Chinese. [NOT He can to speak...]
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>MAY</td><td style='text-align: center; word-wrap: break-word;'>MIGHT</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- Phủ định: may not (ít dùng mayn't).</td><td style='text-align: center; word-wrap: break-word;'>- Phủ định: might not (mightn't).</td></tr><tr><td colspan="2">CÁCH DÙNG</td></tr><tr><td colspan="2">- May và might được dùng để diễn tả một điều có thể là thật hoặc có khả năng xảy ra ở hiện tại hoặc tương lai nhưng bản thân không chắc chắn. Trong trường hợp này, might không phải dạng quá khứ của may.</td></tr><tr><td colspan="2">Ex: Jenna may/might get there in time, but I can't be sure.</td></tr><tr><td colspan="2">Some chemicals may/might cause environmental damage.</td></tr><tr><td colspan="2">- Mức độ khẳng định của might ít hơn may.</td></tr><tr><td colspan="2">Ex: Cindy may go to Prague next week. [50%] → Cindy might go to Prague next week. [30%]</td></tr><tr><td colspan="2">May/might + be + V-ing: diễn đạt một sự kiện có thể đang diễn ra ở hiện tại hoặc tương lai.</td></tr><tr><td colspan="2">Ex: Trisha is late. She may/might be having breakfast.</td></tr><tr><td colspan="2">- May và might được dùng để xin phép (trang trọng hơn can và could).</td></tr><tr><td colspan="2">- May được dùng để thể hiện sự cho phép (trang trọng) và may not được dùng để từ chối lời xin phép.</td></tr><tr><td colspan="2">Ex: May I use your phone? ~ Yes, you may./ No, you may not.</td></tr><tr><td colspan="2">I wonder if I might go out. [cách nói trang trọng nhưng tự nhiên hơn "Might I go out?"]</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- May được dùng trong những lời cầu chúc trang trọng.</td><td style='text-align: center; word-wrap: break-word;'>- KHÔNG dùng might trong những lời cầu chúc.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>$ \underline{\text{Ex}} $: May all your new year wishes come true.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>May you and your family have a wonderful new year.</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>MAY</td><td style='text-align: center; word-wrap: break-word;'>MIGHT</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- Phủ định: may not (ít dùng mayn't).</td><td style='text-align: center; word-wrap: break-word;'>- Phủ định: might not (mightn't).</td></tr><tr><td colspan="2">CÁCH DÙNG</td></tr><tr><td colspan="2">- May và might được dùng để diễn tả một điều có thể là thật hoặc có khả năng xảy ra ở hiện tại hoặc tương lai nhưng bản thân không chắc chắn. Trong trường hợp này, might không phải dạng quá khứ của may.</td></tr><tr><td colspan="2">Ex: Jenna may/might get there in time, but I can't be sure.</td></tr><tr><td colspan="2">Some chemicals may/might cause environmental damage.</td></tr><tr><td colspan="2">- Mức độ khẳng định của might ít hơn may.</td></tr><tr><td colspan="2">Ex: Cindy may go to Prague next week. [50%] → Cindy might go to Prague next week. [30%]</td></tr><tr><td colspan="2">May/might + be + V-ing: diễn đạt một sự kiện có thể đang diễn ra ở hiện tại hoặc tương lai.</td></tr><tr><td colspan="2">Ex: Trisha is late. She may/might be having breakfast.</td></tr><tr><td colspan="2">- May và might được dùng để xin phép (trang trọng hơn can và could).</td></tr><tr><td colspan="2">- May được dùng để thể hiện sự cho phép (trang trọng) và may not được dùng để từ chối lời xin phép.</td></tr><tr><td colspan="2">Ex: May I use your phone? ~ Yes, you may./ No, you may not.</td></tr><tr><td colspan="2">I wonder if I might go out. [cách nói trang trọng nhưng tự nhiên hơn "Might I go out?"]</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- May được dùng trong những lời cầu chúc trang trọng.</td><td style='text-align: center; word-wrap: break-word;'>- KHÔNG dùng might trong những lời cầu chúc.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: May all your new year wishes come true.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>May you and your family have a wonderful new year.</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
 
 
 
@@ -232,7 +232,7 @@ You will pick me up at five.
 Would còn được dùng trong các trường hợp sau.
 
 
-<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Cáu trúc</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Would like/ love/ prefer... + to-infinitive: diễn tả mong muốn một cách lịch sự (trang trọng hơn so với want).</td><td style="text-align: center; word-wrap: break-word;">My parents would love to meet you. I'd like to get a return ticket for tomorrow. I'd prefer to learn English than Korean.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Would you like + to-infinitive/ noun...?: đưa ra lời đề nghị hoặc lời mời lịch sự.</td><td style="text-align: center; word-wrap: break-word;">Would you like to listen to that again? Would you like a biscuit with your coffee?</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Would you...(please)? hoặc Would you mind + verb-ing...?: đưa ra yêu cầu hoặc đề nghị một cách lịch sự.</td><td style="text-align: center; word-wrap: break-word;">Would you mind leaving us alone for a few minutes? Would you open the door for me, please?</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Would rather = would prefer: thích (cái gì đó) hơn - would rather + bare-infinitive - would prefer + to-infinitive</td><td rowspan="2">I'd rather come with you. I'd rather have a beer. Helen would prefer to have a quiet night in front of the TV. I'd rather you didn't go out alone. I'd rather you called me instead of sending a text message.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Would rather + Object + V₂ (past tense): muốn ai đó làm gì</td></tr></table>
+<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Cấu trúc</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Would like/ love/ prefer... + to-infinitive: diễn tả mong muốn một cách lịch sự (trang trọng hơn so với want).</td><td style="text-align: center; word-wrap: break-word;">My parents would love to meet you. I'd like to get a return ticket for tomorrow. I'd prefer to learn English than Korean.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Would you like + to-infinitive/ noun...?: đưa ra lời đề nghị hoặc lời mời lịch sự.</td><td style="text-align: center; word-wrap: break-word;">Would you like to listen to that again? Would you like a biscuit with your coffee?</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Would you...(please)? hoặc Would you mind + verb-ing...?: đưa ra yêu cầu hoặc đề nghị một cách lịch sự.</td><td style="text-align: center; word-wrap: break-word;">Would you mind leaving us alone for a few minutes? Would you open the door for me, please?</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Would rather = would prefer: thích (cái gì đó) hơn - would rather + bare-infinitive - would prefer + to-infinitive</td><td rowspan="2">I'd rather come with you. I'd rather have a beer. Helen would prefer to have a quiet night in front of the TV. I'd rather you didn't go out alone. I'd rather you called me instead of sending a text message.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Would rather + Object + V₂ (past tense): muốn ai đó làm gì</td></tr></table>
 
 
 <div style="max-width:900px; margin:auto; font-family:Arial;">
@@ -268,7 +268,7 @@ Would còn được dùng trong các trường hợp sau.
 
 - Cách dùng: Được dùng để đưa ra lời khuyên hoặc cảnh báo rằng ai đó nên hoặc không nên làm việc gì đó.
 
- $ \underline{Ex} $: You'd better go to the doctor about your cough.
+ Ex: You'd better go to the doctor about your cough.
 
 You had better keep your mouth shut about this.
 
@@ -355,7 +355,7 @@ My favourite TV show starts at 8 o'clock.
 
 - Dùng trợ động từ do để thành lập câu phủ định và câu hỏi.
 
- $ \underline{Ex} $: Do you read a lot of books?
+ Ex: Do you read a lot of books?
 
 Does he speak English?
 
@@ -551,7 +551,7 @@ Ex: Yesterday was Monday.
 
 This poem sounds interesting.
 
-Amanda looks  $ \underline{\text{happy}} $.
+Amanda looks  happy.
 
 - Đối với các liên động từ như appear, look, prove, seem,... → có thể dùng tính từ theo ngay sau đó hoặc thêm to be.
 

@@ -46,7 +46,7 @@ Ex: loud music an interesting story a successful cooperation important business 
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>chief</td><td style='text-align: center; word-wrap: break-word;'>indoor</td><td style='text-align: center; word-wrap: break-word;'>only</td><td style='text-align: center; word-wrap: break-word;'>sheer (= complete)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>elder (= older)</td><td style='text-align: center; word-wrap: break-word;'>inner</td><td style='text-align: center; word-wrap: break-word;'>outdoor</td><td style='text-align: center; word-wrap: break-word;'>sole (= only)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>eldest (= oldest)</td><td style='text-align: center; word-wrap: break-word;'>mere (= only)</td><td style='text-align: center; word-wrap: break-word;'>outer</td><td style='text-align: center; word-wrap: break-word;'>upper</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>eventual former (= earlier)</td><td style='text-align: center; word-wrap: break-word;'>main</td><td style='text-align: center; word-wrap: break-word;'>principal (= main)</td><td style='text-align: center; word-wrap: break-word;'>utter (= complete)</td></tr></table>
 
- $ \underline{Ex} $: the chief reason an outdoor stadium
+ Ex: the chief reason an outdoor stadium
 
 outer space utter rubbish
 
@@ -64,7 +64,7 @@ I can't find my keys anywhere. That is strange.
 
 + Các tính từ được thành lập bằng cách thêm tiền tố a-: afraid, alike, alive, alone, ashamed, asleep, awake, aware, v.v
 
- $ \underline{Ex} $: √ The boy feels afraid. × the-afraid-boy
+ Ex: √ The boy feels afraid. × the-afraid-boy
 
 + Các tính từ thể hiện cảm xúc: content, glad, pleased, sorry, upset, delighted
 
@@ -116,11 +116,11 @@ Tính từ có thể dùng ngay sau danh từ mà nó bổ nghĩa trong các tr�
 
 Bổ nghĩa cho các đại từ bất định something, anything, nothing, everything, someone, anyone, somewhere, v.v.
 
- $ \underline{Ex} $: There's something  $ \underline{smelly} $ in here.
+ Ex: There's something  smelly in here.
 
-The father did everything  $ \underline{\text{possible}} $ to save his daughter.
+The father did everything  possible to save his daughter.
 
-Did you see anyone  $ \underline{\text{suspicious}} $ yesterday evening?
+Did you see anyone  suspicious yesterday evening?
 
 Diễn tả sự đo lường (chiều dài, chiều cao, độ sâu, tuổi tác, v.v.).
 
@@ -228,7 +228,7 @@ Would you like another cup of tea?
 
 • other + danh từ đếm được hoặc danh từ không đếm được: dùng để chỉ một hoặc nhiều người, sự vật, sự việc ngoài cái đã được nhắc tới trước đó.
 
- $ \underline{Ex} $: Let's move to the next room. I want to see other paintings.
+ Ex: Let's move to the next room. I want to see other paintings.
 
 I have other business to attend to.
 
@@ -254,7 +254,7 @@ He heard a strange voice on the other end of the line.
 
 • the other + danh từ số nhiều: dùng để chỉ những người, sự vật hoặc sự việc còn lại ngoài cái đã được nhắc tới; phần còn lại trong một nhóm.
 
- $ \underline{Ex} $: I have three pairs of sneakers. I'm wearing this pair because the other two are dirty. Some dancers wear blue dresses. The other dancers wear pink ones.
+ Ex: I have three pairs of sneakers. I'm wearing this pair because the other two are dirty. Some dancers wear blue dresses. The other dancers wear pink ones.
 
 We arrived first. The other people arrived half an hour later.
 
@@ -286,7 +286,7 @@ When we entered the room, we saw a man with both hands tied behind his back.
 
 either + danh từ số ít: dùng để chỉ một trong hai người, sự vật hoặc sự việc.
 
- $ \underline{Ex} $: Which wallpaper colour should I choose, pink or beige? - Either colour looks good.
+ Ex: Which wallpaper colour should I choose, pink or beige? - Either colour looks good.
 
 Shane has two pens but he can't find either one.
 
@@ -294,7 +294,7 @@ Divide the dough into two halves. Put either half into the fridge and continue w
 
 • neither + danh từ số ít: không có/ không phải (nghĩa phủ định) người, sự vật, sự việc này cũng không có/ không phải người, sự vật, sự việc kia.
 
- $ \underline{Ex} $: We have two rose bushes in our garden. Neither bush is blooming at the moment.
+ Ex: We have two rose bushes in our garden. Neither bush is blooming at the moment.
 
 I have opened neither window in my room because it's too cold.
 
@@ -356,7 +356,7 @@ Ex: The meeting aims to address many urgent issues.
 
 1. Tính từ đơn (simple adjectives): là tính từ chỉ có một từ.
 
- $ \underline{Ex} $: careful, determined, endearing, lively, loud, mental, patient, rich, soundless, sensitive, tender, v.v.
+ Ex: careful, determined, endearing, lively, loud, mental, patient, rich, soundless, sensitive, tender, v.v.
 
 2. Tính từ ghép (compound adjectives): là tính từ được thành lập bằng cách ghép hai hoặc nhiều từ lại với nhau và được xem như một tính từ duy nhất. Tính từ ghép có thể được viết thành một từ hoặc hai từ có dấu gạch nối (-) ở giữa.
 
@@ -402,7 +402,7 @@ The Olympic Games are one of the most exciting sports events in the world.
 
 II. Quá khứ phân từ (past participles): được dùng để diễn tả trạng thái hoặc cảm xúc được tạo ra bởi người, sự vật hoặc sự việc khác.
 
- $ \underline{Ex:} $ I was shocked when I heard the shocking news.
+ Ex: I was shocked when I heard the shocking news.
 
 They are bored because they are watching a boring film.
 
@@ -416,7 +416,7 @@ Chúng ta có thể dùng hai hoặc nhiều tinh từ trước một danh từ 
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Loại tính từ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đặc điểm dễ</td><td style='text-align: center; word-wrap: break-word;'>1. Từ xác định (determiners)</td><td style='text-align: center; word-wrap: break-word;'>a/an, the, this, that, my, your, many, little, v.v.</td></tr><tr><td rowspan="7">thay đổi hơn</td><td style='text-align: center; word-wrap: break-word;'>2. Số đếm (numbers)</td><td style='text-align: center; word-wrap: break-word;'>eleven, second, 40th, last, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3. Quan điểm (opinion - how good?)</td><td style='text-align: center; word-wrap: break-word;'>awful, boring, lovely, nice, wonderful, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4. Kích thước (size - how big?)</td><td style='text-align: center; word-wrap: break-word;'>large, small, long, short, tall, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5. Tinh chất (quality)</td><td style='text-align: center; word-wrap: break-word;'>busy, clear, famous, important, quiet, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6. Tuổi (age - how old?)</td><td style='text-align: center; word-wrap: break-word;'>new, old, young, middle-aged, elderly, ripe, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>7. Hình dáng (shape)</td><td style='text-align: center; word-wrap: break-word;'>square, round, circular, triangular, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>8. Màu sắc (colour)</td><td style='text-align: center; word-wrap: break-word;'>blue, green, purple, red, yellow, v.v.</td></tr><tr><td rowspan="4">Đặc điểm khó thay đổi</td><td style='text-align: center; word-wrap: break-word;'>9. Nguồn gốc (origin - where from?)</td><td style='text-align: center; word-wrap: break-word;'>Asian, Canadian, Eastern European, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>10. Chất liệu (material - made of?)</td><td style='text-align: center; word-wrap: break-word;'>cotton, glass, gold, metal, wooden, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11. Chủng loại (type - what kind?)</td><td style='text-align: center; word-wrap: break-word;'>business, human, non-profit, scientific, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>12. Mục đích (purpose - what for?)</td><td style='text-align: center; word-wrap: break-word;'>dining (room), hiking (boots), washing (machine), v.v.</td></tr></table>
 
- $ \underline{Ex} $: I have ordered some new research equipment for the lab.
+ Ex: I have ordered some new research equipment for the lab.
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e7e76f76-929a-4bda-bc95-303a6e473b5d/markdown_1/imgs/img_in_image_box_343_1210_568_1293.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-12T12%3A20%3A12Z%2F-1%2F%2F973d6787ed496227f37c76d7f554e10fdd2d0517f1985baa25b554e423dc0595" alt="Image" width="18%" /></div>
 
@@ -488,7 +488,7 @@ Chúng ta có thể dùng cấu trúc the + tính từ để nói về một nh�
 
 Cấu trúc: the + tính từ + đại từ và động từ số nhiều.
 
- $ \underline{Ex:} $ The elderly usually have a lot of health problems.
+ Ex: The elderly usually have a lot of health problems.
 
 Do you think the rich should help the poor?
 
@@ -504,7 +504,7 @@ Humans tend to be scared of the unknown.
 
 - Trong một số cụm từ cố định có tính trang trọng, the + tính từ có thể có nghĩa số ít: the accused, the undersigned, the deceased, the former và the latter, v.v.
 
- $ \underline{Ex} $: The accused has arrived with her lawyers.
+ Ex: The accused has arrived with her lawyers.
 
 We will arrange to have the deceased returned to his family.
 

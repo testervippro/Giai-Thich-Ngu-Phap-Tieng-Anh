@@ -152,9 +152,9 @@ Giới từ chỉ phương hướng của chuyển động (above, around, from,
 
 Ex: Max climbs up the tree.
 
-The guests move  $ \underline{\text{into the garden}} $ to begin the party.
+The guests move  into the garden to begin the party.
 
-Her brother goes jogging  $ \underline{\text{around the local park}} $ every morning.
+Her brother goes jogging  around the local park every morning.
 
 ### III. Trạng từ chỉ thời gian (Adverbs of time)
 
@@ -276,7 +276,7 @@ daily
 
 each month
 
- $ \underline{Ex} $: You need to take the medicine three times a day.
+ Ex: You need to take the medicine three times a day.
 
 The FIFA World Cup is held every four years.
 
@@ -298,7 +298,7 @@ Một số trạng từ chỉ mức độ thường gặp:
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>100</td><td style='text-align: center; word-wrap: break-word;'>almost</td><td style='text-align: center; word-wrap: break-word;'>absolutely</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>very</td><td style='text-align: center; word-wrap: break-word;'>enough</td><td style='text-align: center; word-wrap: break-word;'>extremely</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>really</td><td style='text-align: center; word-wrap: break-word;'>quite</td><td style='text-align: center; word-wrap: break-word;'>largely</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>nearly</td></tr></table>
 
- $ \underline{Ex} $: We couldn't catch the fish. It swam away too quickly.
+ Ex: We couldn't catch the fish. It swam away too quickly.
 
 She almost called him, but changed her mind at the last minute.
 
@@ -314,7 +314,7 @@ I thought Dave was driving too fast, but he was driving fast enough to get there
 
 Một số trạng từ chỉ mức độ có thể bổ nghĩa cho động từ và thường dùng ở vị trí giữa câu: almost, barely, hardly, nearly, quite, rather, really, scarcely, v.v.
 
- $ \underline{Ex} $: I have barely heard from Emma since we left school.
+ Ex: I have barely heard from Emma since we left school.
 
 We hardly need Michael's help. We can do this on our own.
 
@@ -334,7 +334,7 @@ Normally, the students have a 30-minute break, but today the break is only 20 mi
 
 On Monday morning, we met with the client to discuss the next phase of the project. Một số trạng từ chỉ nơi chốn có thể đứng ở đầu câu và cần được ngăn cách với phần còn lại của câu bằng dấu phẩy (,).
 
- $ \underline{Ex} $: At the spring festival, you can take part in a lot of traditional games.
+ Ex: At the spring festival, you can take part in a lot of traditional games.
 
 In some cold regions, people live in snow houses called igloos.
 
@@ -447,27 +447,27 @@ Ex: My old class are meeting up at a café next Sunday.
 
 nơi chốn thời gian
 
-Despite the neighbors' complaint, Yuri practised her guitar  $ \underline{\text{loudly in her room all summer.}} $
+Despite the neighbors' complaint, Yuri practised her guitar  loudly in her room all summer.
 
 cách thức nơi chốn thời gian
 
-I had to travel  $ \underline{\text{to the Osaka branch every month last year.}} $
+I had to travel  to the Osaka branch every month last year.
 
 - Khi có nhiều trạng từ hoặc trạng ngữ ở vị trí cuối câu, trạng từ đơn (trạng từ có một từ duy nhất) hoặc trạng ngữ ngắn hơn thường dùng trước trạng ngữ dài hơn.
 
-Ex: Julie dances  $ \underline{\text{beautifully}} $ in her new dress.
+Ex: Julie dances  beautifully in her new dress.
 
 It rained heavily for some time yesterday evening.
 
-The teacher lives  $ \underline{\text{in Moscow}} $  $ \underline{\text{most of the time.}} $
+The teacher lives  in Moscow  most of the time.
 
 - Khi có hai trạng từ hoặc trạng ngữ cùng loại, trạng từ hoặc trạng ngữ bổ sung thông tin chi tiết hơn sẽ dùng trước.
 
- $ \underline{Ex:} $  $ \underline{\text{At 10 o'clock this morning}} $, Carol boarded the train to Istanbul.
+ Ex:  At 10 o'clock this morning, Carol boarded the train to Istanbul.
 
-Eric puts the laptop  $ \underline{\text{on the desk in his room.}} $
+Eric puts the laptop  on the desk in his room.
 
-I was lying on a beach in Greece  $ \underline{\text{this time last year}} $.
+I was lying on a beach in Greece  this time last year.
 
 ### Cách thành lập trạng từ
 
@@ -485,7 +485,7 @@ Một số lưu ý về chính tả:
 
 - Trạng từ bất quy tắc: Một số trạng từ không tuân theo quy tắc thêm -ly.
 
- $ \underline{Ex} $: early → early
+ Ex: early → early
 
 fast → fast
 
@@ -539,7 +539,7 @@ Các nội động từ áp dụng hình thức đảo ngữ này:
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>nội động từ chỉ tư thế/ trạng thái</td><td style='text-align: center; word-wrap: break-word;'>nội động từ chỉ chuyển động</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>hang lie live sit stand</td><td style='text-align: center; word-wrap: break-word;'>come fly go march walk</td></tr></table>
 
- $ \underline{Ex} $: Some Christmas socks hung on the fireplace. = On the fireplace hung some Christmas socks.
+ Ex: Some Christmas socks hung on the fireplace. = On the fireplace hung some Christmas socks.
 
 The children swim through the clear lake. = Through the clear lake swim the children.
 
@@ -591,7 +591,7 @@ Một số trạng từ phủ định thường gặp:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>only after</td><td style='text-align: center; word-wrap: break-word;'>Only after harvest is finished can we prepare the soil for the next season.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only later</td><td style='text-align: center; word-wrap: break-word;'>Only later does  $ \underline{\text{Jude miss}} $ her.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only if</td><td style='text-align: center; word-wrap: break-word;'>Only if there is a big discount will I buy their products.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only once</td><td style='text-align: center; word-wrap: break-word;'>Only once have I tried durian in my entire life.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only then</td><td style='text-align: center; word-wrap: break-word;'>Only then did the tourists go to the police.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only when</td><td style='text-align: center; word-wrap: break-word;'>Only when the deadline draws near do the students begin their project.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>only after</td><td style='text-align: center; word-wrap: break-word;'>Only after harvest is finished can we prepare the soil for the next season.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only later</td><td style='text-align: center; word-wrap: break-word;'>Only later does  Jude miss her.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only if</td><td style='text-align: center; word-wrap: break-word;'>Only if there is a big discount will I buy their products.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only once</td><td style='text-align: center; word-wrap: break-word;'>Only once have I tried durian in my entire life.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only then</td><td style='text-align: center; word-wrap: break-word;'>Only then did the tourists go to the police.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>only when</td><td style='text-align: center; word-wrap: break-word;'>Only when the deadline draws near do the students begin their project.</td></tr></table>
 
 ### 3. Cụm từ bắt đầu bằng not
 
@@ -615,7 +615,7 @@ Một số trạng từ phủ định thường gặp:
 
 ### 5. Little (với nghĩa phủ định)
 
- $ \underline{Ex:} $ Little does Abby realise there is a coffee stain on her dress. (= she doesn't realize or she doesn't realize enough)
+ Ex: Little does Abby realise there is a coffee stain on her dress. (= she doesn't realize or she doesn't realize enough)
 
 Little did I know that I needed to turn left instead of right. (= I didn't know or I didn't know enough)
 

@@ -160,13 +160,13 @@ Danh từ số nhiều bất quy tác
 
 a. Danh từ thay đổi khi ở số nhiều.
 
- $ \underline{Ex} $: child  $ \rightarrow $ children
-foot  $ \rightarrow $ feet
-goose  $ \rightarrow $ geese
-man  $ \rightarrow $ men
-mouse  $ \rightarrow $ mice
-person  $ \rightarrow $ people
-tooth  $ \rightarrow $ teeth
+ Ex: child  → children
+foot  → feet
+goose  → geese
+man  → men
+mouse  → mice
+person  → people
+tooth  → teeth
 
 b. Danh từ không thay đổi khi ở số nhiều.
 
@@ -199,11 +199,11 @@ Một số danh từ không đếm được khác: news, advice, equipment, furn
 
 Ex: Physics is my favourite subject.
 
-Billiards  $ \underline{\text{challenges}} $ players to think ahead.
+Billiards  challenges players to think ahead.
 
 Mumps was once a common childhood illness.
 
-The Philippines  $ \underline{\text{is known}} $ for its stunning beaches.
+The Philippines  is known for its stunning beaches.
 
 2. Danh từ riêng (proper nouns) chỉ tên riêng của sự vật như tên người, tên địa danh, tên tổ chức, v.v. Danh từ riêng có chữ cái đầu được viết hoa.
 

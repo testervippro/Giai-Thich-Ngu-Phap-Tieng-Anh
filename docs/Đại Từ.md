@@ -198,7 +198,7 @@ He forgot our anniversary again. That really annoyed me.
 
 - That dùng để nhắc đến người khác trong cuộc gọi.
 
- $ \underline{Ex} $: Hello, this is John speaking. (Xin chào, John nghe.)
+ Ex: Hello, this is John speaking. (Xin chào, John nghe.)
 
 Is that Mary on the phone?
 
@@ -206,15 +206,15 @@ Is that Mary on the phone?
 
 - This và these thường được dùng khi muốn nhắc lại hoặc nhấn mạnh một ý tưởng, sự việc vừa mới được đề cập.
 
- $ \underline{Ex:} $  $ \underline{She's} $ decided to  $ \underline{quit} $ her  $ \underline{job} $. This surprised everyone.
+ Ex:  She's decided to  quit her  job. This surprised everyone.
 
-The company introduced  $ \underline{\text{new policies}} $. These will significantly improve productivity.
+The company introduced  new policies. These will significantly improve productivity.
 
 ### - That và those dùng khi nhắc đến một ý tưởng, sự việc đã nói từ lâu hoặc khi muốn giữ khoảng cách cảm xúc
 
-####  $ \underline{Ex:} $  $ \underline{\text{He worked for years without a break.}} $ That must have been exhausting
+####  Ex:  He worked for years without a break. That must have been exhausting
 
-I remember  $ \underline{\text{the summers}} $ we spent at grandma's house. Those were wonderful days.
+I remember  the summers we spent at grandma's house. Those were wonderful days.
 
 ### IV. Đại từ nghi vấn (Interrogative Pronouns)
 

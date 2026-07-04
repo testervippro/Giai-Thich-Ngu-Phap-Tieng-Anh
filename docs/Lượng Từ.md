@@ -84,7 +84,7 @@ She bought several pairs of shoes during the sale.
 
 d. A number of (một số): Tương tự như several, chỉ một số lượng đáng kể nhưng không quá lớn, thường được dùng trong văn phong trang trọng.
 
- $ \underline{Ex:} $ A number of students were absent yesterday.
+ Ex: A number of students were absent yesterday.
 
 There are a number of reasons why this project failed.
 
@@ -148,7 +148,7 @@ Ex: I have a little milk left, so we can make coffee. → A little mang nghĩa t
 
 c. A great deal of/ A good deal of (một lượng lớn): Chỉ số lượng lớn, tương đương với much nhưng thường xuất hiện trong văn viết.
 
- $ \underline{Ex:} $ A great deal of effort was needed to complete the project.
+ Ex: A great deal of effort was needed to complete the project.
 
 She has a good deal of experience in marketing.
 
