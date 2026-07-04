@@ -1,4 +1,4 @@
-# TỪ LOẠI PARTS OF SPEECH
+# TỪ LOẠI (PARTS OF SPEECH)
 
 ## Mục tiêu học tập:
 
@@ -6,10 +6,10 @@ Phân biệt các loại danh từ và hiểu được chức năng của danh t
 
 - Biết cách thành lập sở hữu cách.
 
-- Biết cách thành lập danh tụ.
+- Biết cách thành lập danh từ.
 
 
-Danh từ là từ hoặc cụm từ chỉ người, con vật, đó vật hoặc sự vật, nơi chốn, khái niệm, và các đối tượng trừn tượng khác.
+Danh từ là từ hoặc cụm từ chỉ người, con vật, đồ vật hoặc sự vật, nơi chốn, khái niệm, và các đối tượng trừu tượng khác.
 
 ## Các loại danh từ (Types of nouns)
 
@@ -29,21 +29,21 @@ Ex: door, bicycle, phone
 
 Ex: happiness, greed, wisdom
 
-- Danh từ tập hợp (collective nouns) chỉ một tập thể/ nhóm người hoặc đồ vật như một thể thống nhất (có thể dùng với động từ số it hoặc số nhiều).
+- Danh từ tập hợp (collective nouns) chỉ một tập thể/ nhóm người hoặc đồ vật như một thể thống nhất (có thể dùng với động từ số ít hoặc số nhiều).
 
 Ex: army, family, government, police, staff, team
 
-Danh từ cụ thể và danh từ trĩu tương có thể được tiếp tục phân loại thành danh từ đếm được và không đếm được.
+Danh từ cụ thể và danh từ trừu tượng có thể được tiếp tục phân loại thành danh từ đếm được và không đếm được.
 
-- Danh từ đếm được (countable nouns) là những danh từ chi người, sự vật, sự việc hoặc khái niệm có thể đếm được, kế cả khi con số là cục ki lớn (như dân số thế giới).
+- Danh từ đếm được (countable nouns) là những danh từ chỉ người, sự vật, sự việc hoặc khái niệm có thể đếm được, kể cả khi con số là cực kì lớn (như dân số thế giới).
 
 Ex: word, chair, apple
 
-Danh từ số it (singular nouns) dùng để chỉ một sự vật, hiện tượng đếm được với số đếm là một và thường đi kèm với mạo từ a/an.
+Danh từ số ít (singular nouns) dùng để chỉ một sự vật, hiện tượng đếm được với số đếm là một và thường đi kèm với mạo từ a/an.
 
 Ex: a word, a chair, an apple
 
-Danh từ số nhiều (plural nouns) dùng để chỉ sự vật, hiện tượng đếm được với số đếm từ hai trò lên và có thể dễ kèm với con số cụ thể hoặc các lượng từ như some, any, many, few, v.v.
+Danh từ số nhiều (plural nouns) dùng để chỉ sự vật, hiện tượng đếm được với số đếm từ hai trở lên và có thể đi kèm với con số cụ thể hoặc các lượng từ như some, any, many, few, v.v.
 
 Ex: 300 words, a few chairs, many apples
 
@@ -57,20 +57,20 @@ hospital → hospitals
 
 bag → bags
 
-Ngoài ra, ta còn thêm 's dé tạo thành hình thức số nhiều của các chủ cái, chủ số, ki hiệu và chủ viết tất.
+Ngoài ra, ta còn thêm 's để tạo thành hình thức số nhiều của các chữ cái, chữ số, kí hiệu và chữ viết tắt.
 
 Ex: There are 4 t's, 2 p's, and 4 s's in the word "Mississippi".
 
-MP3's used to be the most popular music devices. [MP3's phó biến hơn]
+MP3's used to be the most popular music devices. [MP3's phổ biến hơn]
 
-Fashion trends from the 2000's are coming back in today's pop culture. [the 2000s phó biến hơn]
+Fashion trends from the 2000's are coming back in today's pop culture. [the 2000s phổ biến hơn]
 
-b. Ta thêm -es vào các danh từ tận cùng bàng -s, -ss, -sh, -x, -z, -ch để tạo thành số nhiều.
+b. Ta thêm -es vào các danh từ tận cùng bằng -s, -ss, -sh, -x, -z, -ch để tạo thành số nhiều.
 
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'> bus</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>buses</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>business</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>businesses</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>dish</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>dishes</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>tax</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>taxes</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>quiz</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>quizzes</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>church</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>churches</td></tr></table>
 
-c. Đối với các danh từ tận cùng bằng phụ âm + y (consonant + y), ta tạo thành số nhiều bảng cách đối y thành i rối thêm -es.
+c. Đối với các danh từ tận cùng bằng phụ âm + y (consonant + y), ta tạo thành số nhiều bằng cách đổi y thành i rồi thêm -es.
 
 Ex: puppy → puppies
 
@@ -78,7 +78,7 @@ city → cities
 
 sky → skies
 
-Các danh từ tân cung bảng một nguyên âm + y (vowel + y) thì chỉ thêm -s.
+Các danh từ tận cùng bằng một nguyên âm + y (vowel + y) thì chỉ thêm -s.
 
 Ex: boy → boys
 
@@ -86,7 +86,7 @@ monkey → monkeys
 
 day → days
 
-d. Đối với một số danh từ tận cùng bảng -f hoặc -fe, vi du như calf, half, knife, leaf, life, loaf, self, thief, wife, wolf, v.v. ta tạo thành danh từ số nhiều bảng cách đôi -f hoặc -fe thành -ves.
+d. Đối với một số danh từ tận cùng bảng -f hoặc -fe, ví dụ như calf, half, knife, leaf, life, loaf, self, thief, wife, wolf, v.v. ta tạo thành danh từ số nhiều bằng cách đổi -f hoặc -fe thành -ves.
 
 Ex: self → selves
 
@@ -94,7 +94,7 @@ life → lives
 
 leaf → leaves
 
-Các danh từ tận cùng bàng -f hoặc -f khác thì thêm -s theo cách thông thường.
+Các danh từ tận cùng bằng -f hoặc -fe khác thì thêm -s theo cách thông thường.
 
 Ex: chef → chefs
 
@@ -102,7 +102,7 @@ giraffe → giraffes
 
 proof → proofs
 
-Ngoai lệ: Một số danh từ tận cùng bảng -f có thể có hình thức số nhiều bảng cách thêm -s hoặc -ves đều được.
+Ngoại lệ: Một số danh từ tận cùng bằng -f có thể có hình thức số nhiều bằng cách thêm -s hoặc -ves đều được.
 
 Ex: calf → calfs, calves
 
@@ -110,7 +110,7 @@ scarf → scarfs, scarves
 
 hoof → hoofs, hooves
 
-e. Đối với một số danh từ tận cùng bàng phụ âm + o (consonant + o), ta tạo thành số nhiều bảng cách thêm -es.
+e. Đối với một số danh từ tận cùng bằng phụ âm + o (consonant + o), ta tạo thành số nhiều bằng cách thêm -es.
 
 Ex: potato → potatoes
 
@@ -118,7 +118,7 @@ tomato → tomatoes
 
 hero → heroes
 
-Đối với các danh từ tận cùng bằng nguyên âm + o (vowel + o), các từ vay mượn từ ngôn ngữ khác sang tiếng Anh, từ được viết tắt, hoặc các nhạc cụ thi ta chi cân thêm -s để tạo thành số nhiều.
+Đối với các danh từ tận cùng bằng nguyên âm + o (vowel + o), các từ vay mượn từ ngôn ngữ khác sang tiếng Anh, từ được viết tắt, hoặc các nhạc cụ thì ta chỉ cần thêm -s để tạo thành số nhiều.
 
 Ex: zoo → zoos
 
@@ -128,7 +128,7 @@ photo (photograph) → photos
 
 piano → pianos
 
-Ngoại lệ: Một số danh từ tận cùng bàng -o có thể có hình thức số nhiều bàng cách thêm -s hoặc -es đều được, chàng hạn như buffalo, mango, mosquito, tornado, volcano, zero, v.v.
+Ngoại lệ: Một số danh từ tận cùng bằng -o có thể có hình thức số nhiều bàng cách thêm -s hoặc -es đều được, chẳng hạn như buffalo, mango, mosquito, tornado, volcano, zero, v.v.
 
 buffalo → buffalos, buffaloes
 
@@ -136,21 +136,21 @@ mango → mangos, mangoes
 
 volcano → volcanos, volcanoes
 
-1. Một số danh từ luôn tôn tại ở hình thức số nhiều (luôn được dùng với động từ số nhiều)
+1. Một số danh từ luôn tồn tại ở hình thức số nhiều (luôn được dùng với động từ số nhiều)
 
-- quán ao góm hai phần: jeans, pants, pyjamas, shorts, trousers, v.v.
+- quần áo gồm hai phần: jeans, pants, pyjamas, shorts, trousers, v.v.
 
-- dùng cụ hoặc thiết bị gồm hai phần: headphones, glasses, scissors, v.v.
+- dụng cụ hoặc thiết bị gồm hai phần: headphones, glasses, scissors, v.v.
 
-- Vì vậy, ta có thể dùng a patr of cho các danh từ chi quán áo hoặc dụng cụ góm hai phán.
+- Vì vậy, ta có thể dùng a pair of cho các danh từ chỉ quần áo hoặc dụng cụ gồm hai phần.
 
 Ex: a pair of jeans, six pairs of scissors
 
-- một số danh từ luôn ở thế số nhiều khác: belongings, clothes, earnings, goods, savings, surroundings, v.v
+- một số danh từ luôn ở thể số nhiều khác: belongings, clothes, earnings, goods, savings, surroundings, v.v
 
-g. Một số danh từ có nguồn góc từ tiếng Hy Lạp hoặc Latin thường có đang số nhiều đặc biệt theo luật của tiếng Hy Lạp và Latin.
+g. Một số danh từ có nguồn gốc từ tiếng Hy Lạp hoặc Latin thường có dạng số nhiều đặc biệt theo luật của tiếng Hy Lạp và Latin.
 
-Ex: analysts → analyses
+Ex: analysis → analyses
 
 cactus → cacti
 
@@ -158,7 +158,7 @@ datum → data
 
 Danh từ số nhiều bất quy tác
 
-a. Danh từ thay đổi khí ở số nhiều.
+a. Danh từ thay đổi khi ở số nhiều.
 
  $ \underline{Ex} $: child  $ \rightarrow $ children
 foot  $ \rightarrow $ feet
@@ -174,7 +174,7 @@ Ex: sheep → sheep
 deer → deer
 fish → fish
 
-c. Một số danh từ tận cùng bàng -s vừa là số ít vừa là số nhiều: headquarters, means, series, species, v.v.
+c. Một số danh từ tận cùng bằng -s vừa là số ít vừa là số nhiều: headquarters, means, series, species, v.v.
 
 Danh từ không đếm được (uncountable nouns) chỉ những thứ không thể đếm được một cách cụ thể, như vật liệu, chất liệu, chất lỏng, những khái niệm trừu tượng hoặc hiện tượng tự nhiên.
 
@@ -185,17 +185,17 @@ Vì không đếm được nên loại danh từ này không thể theo sau mạ
  a sand  -> a lot of sand 
  a furniture -> some furniture
 
-Một số danh từ luôn ở hình thức số nhiều, tận cùng là -s nhưng lại là danh từ không đếm được và được dùng với động từ số it. Đó là:
+Một số danh từ luôn ở hình thức số nhiều, tận cùng là -s nhưng lại là danh từ không đếm được và được dùng với động từ số ít. Đó là:
 
-- Môn học hoặc môn thế thao tận cùng là -ics: mathematics, physics, economics, politics, linguistics, genetics, athletics, gymnastics, v.v.
+- Môn học hoặc môn thể thao tận cùng là -ics: mathematics, physics, economics, politics, linguistics, genetics, athletics, gymnastics, v.v.
 
-- Trò chơi: billtards, darts, v.v.
+- Trò chơi: billiards, darts, v.v.
 
 - Bệnh: measles, mumps, diabetes, v.v.
 
 - Quốc gia: the Philippines, the United States, the Netherlands, v.v.
 
-Một số danh từ không dễm được khác: news, advice, equipment, furniture, information, luggage, money, work, v.v.
+Một số danh từ không đếm được khác: news, advice, equipment, furniture, information, luggage, money, work, v.v.
 
 Ex: Physics is my favourite subject.
 
@@ -205,13 +205,13 @@ Mumps was once a common childhood illness.
 
 The Philippines  $ \underline{\text{is known}} $ for its stunning beaches.
 
-2. Danh từ riêng (proper nouns) chỉ tên riêng của sự vật như tên người, tên địa danh, tên tổ chức, v.v. Danh từ riêng có chủ cái dấu được viết hoa.
+2. Danh từ riêng (proper nouns) chỉ tên riêng của sự vật như tên người, tên địa danh, tên tổ chức, v.v. Danh từ riêng có chữ cái đầu được viết hoa.
 
 Ex: Samsung, Paris, Kayla
 
-### LUU Y:
+### LƯU Ý:
 
-- Đê "đêm" danh từ không đếm được, ta có thể dùng danh từ chỉ sơ đo lường.
+- Để "đếm" danh từ không đếm được, ta có thể dùng danh từ chỉ sự đo lường.
 
 Ex: a slice of meat, a piece of information, five bars of chocolate, v.v.
 
@@ -219,19 +219,19 @@ Ex: a slice of meat, a piece of information, five bars of chocolate, v.v.
 
 Ex: There are four Emilys in my school.
 
-Hoạc dùng the + danh từ riêng số nhiều để chỉ một gia đình.
+Hoặc dùng the + danh từ riêng số nhiều để chỉ một gia đình.
 
 Ex: the Johnsons = the Johnson family
 
-- Nhối đanh từ có thể được dùng như danh từ đếm được lần không đếm được, nhưng sẽ khác nhau về nghĩa.
+- Nhiều danh từ có thể được dùng như danh từ đếm được lẫn không đếm được, nhưng sẽ khác nhau về nghĩa.
 
 Ex: I broke a glass yesterday. (= một cái ly)
 
-The window is made of glass. (= thủy tĩnh)
+The window is made of glass. (= thủy tinh)
 
-Danh từ chỉ nguyên liệu, thực ương như sugar, salt, pepper, coffee, beer, tea, juice, v.v. thuống không đếm được, chỉ trừ trưởng hợp các từ này mang nghĩa "tách, ly, chai, thia, v.v".
+Danh từ chỉ nguyên liệu, thực phẩm như sugar, salt, pepper, coffee, beer, tea, juice, v.v. thường không đếm được, chỉ trừ trường hợp các từ này mang nghĩa "tách, ly, chai, thìa, v.v".
 
-Ex: No one should drink too much beer. (= thuộc uống bia)
+Ex: No one should drink too much beer. (= thức uống bia)
 
 After a hard day's work, I enjoy a beer or two. (= một hoặc hai ly bia)
 
@@ -241,15 +241,15 @@ After a hard day's work, I enjoy a beer or two. (= một hoặc hai ly bia)
 
 Ex: flower, lizard, file, friend, baby, office, happiness, food, weather
 
-2. Danh từ ghép (compound nouns) là danh từ được kết hợp bởi hai từ trỏ lên, thông thường là danh từ + danh từ (noun + noun) hoặc tính từ + danh từ (adjective + noun), nhưng vẫn có những dạng kết hợp khác (xem bên dưới). Mỗi một danh từ ghép là một đơn vị độc lập và văn có thể được bổ nghĩa bởi tính từ hoặc các danh từ khác.
+2. Danh từ ghép (compound nouns) là danh từ được kết hợp bởi hai từ trở lên, thông thường là danh từ + danh từ (noun + noun) hoặc tính từ + danh từ (adjective + noun), nhưng vẫn có những dạng kết hợp khác (xem bên dưới). Mỗi một danh từ ghép là một đơn vị độc lập và vẫn có thể được bổ nghĩa bởi tính từ hoặc các danh từ khác.
 
-Vé mất chính tả, danh từ ghép được thế hiện dưới 3 hình thức:
+Về mặt chính tả, danh từ ghép được thể hiện dưới 3 hình thức:
 
-- Co khoáng cách giữa các rư
+- Có khoảng cách giữa các từ
 
 Ex: Ice cream, post office, bus stop
 
-- Có dấu gạch ngang giữa các tủ. Tuy nhiên, trong tiếng Anh hiện đại, lối viết có gạch ngang ở giữa it thông dụng
+- Có dấu gạch ngang giữa các từ. Tuy nhiên, trong tiếng Anh hiện đại, lối viết có gạch ngang ở giữa ít thông dụng
 
 Ex: son-in-law (hoặc son in law), merry-go-round, runner-up
 
@@ -261,11 +261,11 @@ Cách thành lập danh từ ghép
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ+danh từ(noun+noun)</td><td style='text-align: center; word-wrap: break-word;'>Ex:bookshelf, snowman, laptop</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Tình từ+danh từ(adjective+noun)</td><td style='text-align: center; word-wrap: break-word;'>Ex:blackboard, greenhouse, software</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ+dòng từ(noun+verb)</td><td style='text-align: center; word-wrap: break-word;'>Ex:sunset, haircut, raindrop</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ+danh động từ(noun+gerund)</td><td style='text-align: center; word-wrap: break-word;'>Ex:timekeeping, sightseeing, birdwatching</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh động từ+danh từ(gerund+noun)</td><td style='text-align: center; word-wrap: break-word;'>Ex:swimming pool, driving license, walking stick</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Tình từ+dòng từ(adjective+verb)</td><td style='text-align: center; word-wrap: break-word;'>Ex:dry-cleanting, hard work</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dòng từ+danh từ(verb+noun)</td><td style='text-align: center; word-wrap: break-word;'>Ex:runway, pickpocket, skateboard</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Giới từ+dòng từ(preposition+verb)</td><td style='text-align: center; word-wrap: break-word;'>Ex:outset, underestimate, outbreak</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dòng từ+giới từ(verb+preposition)</td><td style='text-align: center; word-wrap: break-word;'>Ex:takeout, breakup, check-in</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ+gói từ(noun+preposition)</td><td style='text-align: center; word-wrap: break-word;'>Ex:passer-by, looker-on</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ+tính từ(noun+adjective)</td><td style='text-align: center; word-wrap: break-word;'>Ex:secretary-general, attorney-general</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nhleu hơn hai từ</td><td style='text-align: center; word-wrap: break-word;'>Ex:high-speed internet connection, board of directors, editor-in-chief</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ+danh từ(noun+noun)</td><td style='text-align: center; word-wrap: break-word;'>Ex:bookshelf, snowman, laptop</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Tính từ+danh từ(adjective+noun)</td><td style='text-align: center; word-wrap: break-word;'>Ex:blackboard, greenhouse, software</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ+động từ(noun+verb)</td><td style='text-align: center; word-wrap: break-word;'>Ex:sunset, haircut, raindrop</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ+danh động từ(noun+gerund)</td><td style='text-align: center; word-wrap: break-word;'>Ex:timekeeping, sightseeing, birdwatching</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh động từ+danh từ(gerund+noun)</td><td style='text-align: center; word-wrap: break-word;'>Ex:swimming pool, driving license, walking stick</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Tính từ+động từ(adjective+verb)</td><td style='text-align: center; word-wrap: break-word;'>Ex:dry-cleaning, hard work</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ+danh từ(verb+noun)</td><td style='text-align: center; word-wrap: break-word;'>Ex:runway, pickpocket, skateboard</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Giới từ+động từ(preposition+verb)</td><td style='text-align: center; word-wrap: break-word;'>Ex:outset, underestimate, outbreak</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ+giới từ(verb+preposition)</td><td style='text-align: center; word-wrap: break-word;'>Ex:takeout, breakup, check-in</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ+giới từ(noun+preposition)</td><td style='text-align: center; word-wrap: break-word;'>Ex:passer-by, looker-on</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ+tính từ(noun+adjective)</td><td style='text-align: center; word-wrap: break-word;'>Ex:secretary-general, attorney-general</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nhiều hơn hai từ</td><td style='text-align: center; word-wrap: break-word;'>Ex:high-speed internet connection, board of directors, editor-in-chief</td></tr></table>
 
 #### Số nhiều của danh từ ghép
 
-Cách phổ biến nhất để thành lập hình thức số nhiều của danh từ ghép là thêm đuổi số nhiều vào phần cuối của danh từ ghép đó.
+Cách phổ biến nhất để thành lập hình thức số nhiều của danh từ ghép là thêm đuôi số nhiều vào phần cuối của danh từ ghép đó.
 
 Ex: bookshelf → bookshelves
 
@@ -273,13 +273,13 @@ blackboard → blackboards
 
 swimming pool → swimming pools
 
-Hoặc khi không có thành phần nào là danh từ thi ta cũng thêm đuôi số nhiều vào phần cuối của danh từ ghép đó.
+Hoặc khi không có thành phần nào là danh từ thì ta cũng thêm đuôi số nhiều vào phần cuối của danh từ ghép đó.
 
 Ex: breakup → breakups
 
 check-in → check-ins
 
-Δ Tuy nhiên, đối với hình thức danh từ ghép danh từ + giới từ (noun + preposition), thì hình thức số nhiều được thành lập với danh từ dấu tiên.
+Δ Tuy nhiên, đối với hình thức danh từ ghép danh từ + giới từ (noun + preposition), thì hình thức số nhiều được thành lập với danh từ đầu tiên.
 
 Ex: passer-by → passers-by
 
@@ -289,7 +289,7 @@ editor-in-chief → editors-in-chief
 
 Có 3 cách phát âm đuôi -s/-es của danh từ số nhiều: /s/, /z/ và /ɪz/
 
-/ɪz/ khi thêm -es vào các danh từ có âm tán cùng là: /s/, /z/, /ʃ/, /tʃ/, /ʒ/, /dʒ/. Các âm này thường được thể hiện qua mặt chủ tân cùng là -ce, -s, -ss, -x, -z, -ze, -sh, -ch, -ge.
+/ɪz/ khi thêm -es vào các danh từ có âm tận cùng là: /s/, /z/, /ʃ/, /tʃ/, /ʒ/, /dʒ/. Các âm này thường được thể hiện qua mặt chữ tận cùng là -ce, -s, -ss, -x, -z, -ze, -sh, -ch, -ge.
 
 
 
@@ -373,13 +373,13 @@ Có 3 cách phát âm đuôi -s/-es của danh từ số nhiều: /s/, /z/ và /
 </tr>
 
 </table>
-/s/ khi thêm -s vào các danh từ có âm tần cùng là: /f/, /t/, /k/, /p/, /θ/. Các âm này thường được thể hiện qua mặt chủ tân cùng là -f / -fe, -gh [đôi khi], -t / -te, -k / -ke, -p / -pe, -th.
+/s/ khi thêm -s vào các danh từ có âm tận cùng là: /f/, /t/, /k/, /p/, /θ/. Các âm này thường được thể hiện qua mặt chữ tận cùng là -f / -fe, -gh [đôi khi], -t / -te, -k / -ke, -p / -pe, -th.
 
 
 
 
 
-/z/ khi -s được thêm vào các danh từ có âm tần cùng khác với hai trường hợp đã nêu ở trên.
+/z/ khi -s được thêm vào các danh từ có âm tận cùng khác với hai trường hợp đã nêu ở trên.
 
 Ex: tree /tri:/ → trees /tri:z/
 
@@ -393,22 +393,22 @@ bed /bed/ → beds /bedz/
 
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Chức năng</td><td style='text-align: center; word-wrap: break-word;'>Định nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Chủ ngữ (Subject)</td><td style='text-align: center; word-wrap: break-word;'>Thực hiện hành động</td><td style='text-align: center; word-wrap: break-word;'>
-  My mom made pasta last night. Chủ ngữ 'my mom'thực hiện hành động 'quotmade'.</td>
+  My mom made pasta last night. Chủ ngữ 'my mom' thực hiện hành động 'made'.</td>
 </tr></table>
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td rowspan="3">Tàn ngữ (Object)</td><td style='text-align: center; word-wrap: break-word;'>• Tàn ngữ trực tiếp (Direct object) Đối tương chịu tác động trực tiếp của động từ</td><td style='text-align: center; word-wrap: break-word;'>The manager sent an email. → Động từ “sent” tác động lên “an email” nên “an email” là tân ngữ trực tiếp.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>• Tàn ngữ giản tiếp (Indirect object) Người hoặc vật nhận lợi ích hoặc mục dích của hành động</td><td style='text-align: center; word-wrap: break-word;'>The manager sent me an email. → Người nhận là “me”, nên “me” là tân ngữ giản tiếp.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>• Tàn ngữ của giới từ (Object of a Preposition) Danh từ nào đi sau giới từ cùng déu làm tân ngữ cho giới từ đó.</td><td style='text-align: center; word-wrap: break-word;'>The children went to the football game. → Danh từ “football game” di sau bổ nghĩa cho giới từ “to”, nên “football game” là tân ngữ của giới từ.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bố ngữ cho chủ ngữ (Subject complement)</td><td style='text-align: center; word-wrap: break-word;'>Mô tả thêm thông tin cho chủ ngữ, được dùng sau động từ be và các động từ liên kết (linking verbs) become, seem, feel, look, sound, taste, grow, appear, remain, v.v.</td><td style='text-align: center; word-wrap: break-word;'>She became a popular actress. → “a popular actress” cho biết thêm thông tin về chủ ngữ “she”.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bố ngữ cho tân ngữ (Object complement)</td><td style='text-align: center; word-wrap: break-word;'>Mô tả thêm thông tin cho tân ngữ</td><td style='text-align: center; word-wrap: break-word;'>She named the baby Jane. → Tên riêng “Jane” cho biết thêm thông tin về tân ngữ “the baby”.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đóng vị ngữ (Appositive)</td><td style='text-align: center; word-wrap: break-word;'>Là danh từ hoặc cụm danh từ theo sau một danh từ khác để bổ sung nghĩa cho danh từ đó. Đóng vị ngữ thường được ngăn cách với danh từ bằng dấu phấy, dấu ngoặc tròn và dấu gạch ngang.</td><td style='text-align: center; word-wrap: break-word;'>John, my neighbour, grows beautiful roses. → “my neighbour” bổ sung thêm thông tin về “John”.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td rowspan="3">Tân ngữ (Object)</td><td style='text-align: center; word-wrap: break-word;'>• Tân ngữ trực tiếp (Direct object) Đối tượng chịu tác động trực tiếp của động từ</td><td style='text-align: center; word-wrap: break-word;'>The manager sent an email. → Động từ “sent” tác động lên “an email” nên “an email” là tân ngữ trực tiếp.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>• Tân ngữ gián tiếp (Indirect object) Người hoặc vật nhận lợi ích hoặc mục đích của hành động</td><td style='text-align: center; word-wrap: break-word;'>The manager sent me an email. → Người nhận là “me”, nên “me” là tân ngữ gián tiếp.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>• Tân ngữ của giới từ (Object of a Preposition) Danh từ nào đi sau giới từ cũng đều làm tân ngữ cho giới từ đó.</td><td style='text-align: center; word-wrap: break-word;'>The children went to the football game. → Danh từ “football game” đi sau bổ nghĩa cho giới từ “to”, nên “football game” là tân ngữ của giới từ.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bổ ngữ cho chủ ngữ (Subject complement)</td><td style='text-align: center; word-wrap: break-word;'>Mô tả thêm thông tin cho chủ ngữ, được dùng sau động từ be và các động từ liên kết (linking verbs) become, seem, feel, look, sound, taste, grow, appear, remain, v.v.</td><td style='text-align: center; word-wrap: break-word;'>She became a popular actress. → “a popular actress” cho biết thêm thông tin về chủ ngữ “she”.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bổ ngữ cho tân ngữ (Object complement)</td><td style='text-align: center; word-wrap: break-word;'>Mô tả thêm thông tin cho tân ngữ</td><td style='text-align: center; word-wrap: break-word;'>She named the baby Jane. → Tên riêng “Jane” cho biết thêm thông tin về tân ngữ “the baby”.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đồng vị ngữ (Appositive)</td><td style='text-align: center; word-wrap: break-word;'>Là danh từ hoặc cụm danh từ theo sau một danh từ khác để bổ sung nghĩa cho danh từ đó. Đồng vị ngữ thường được ngăn cách với danh từ bằng dấu phẩy, dấu ngoặc tròn và dấu gạch ngang.</td><td style='text-align: center; word-wrap: break-word;'>John, my neighbour, grows beautiful roses. → “my neighbour” bổ sung thêm thông tin về “John”.</td></tr></table>
 
-### Sô hữu cách (Possessive/ Genitive Case)
+### Sở hữu cách (Possessive/ Genitive Case)
 
-Sơ hữu cách diễn đạt sự sơ hữu của danh tụ.
+Sở hữu cách diễn đạt sự sở hữu của danh từ.
 
 ## 1. Cách thành lập sở hữu cách
 
 
 
-<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Loại từ</td><td style="text-align: center; word-wrap: break-word;">Quy tác</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td><td style="text-align: center; word-wrap: break-word;">Ghi chú</td></tr><tr><td style="text-align: center; word-wrap: break-word;">1. Danh từ số it</td><td style="text-align: center; word-wrap: break-word;">Thém ’s</td><td style="text-align: center; word-wrap: break-word;">- The car’s tail- John’s new haircut</td><td style="text-align: center; word-wrap: break-word;">Áp dụng cho háu hét danh từ số it</td></tr><tr><td style="text-align: center; word-wrap: break-word;">2. Danh từ số it tận cùng bảng -s</td><td style="text-align: center; word-wrap: break-word;">Thém ’s (hiện đại) hoặc chi’ (truyền thống)</td><td style="text-align: center; word-wrap: break-word;">- James’s book / James’ book- The princess’s crown / the princess’ crown</td><td style="text-align: center; word-wrap: break-word;">Da số các hướng dẫn viết hiện đại đều ưu tiên ’s</td></tr><tr><td style="text-align: center; word-wrap: break-word;">3. Danh từ số nhiều tận cùng bảng -s</td><td style="text-align: center; word-wrap: break-word;">Chi thêm dấu ’</td><td style="text-align: center; word-wrap: break-word;">- the Taylors’ hair salon- Teachers’ day</td><td style="text-align: center; word-wrap: break-word;">Tránh trùng âm /s/</td></tr><tr><td style="text-align: center; word-wrap: break-word;">4. Danh từ số nhiều bất quy tác</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s</td><td style="text-align: center; word-wrap: break-word;">- Children’s playground- Men’s clothing</td><td style="text-align: center; word-wrap: break-word;">Áp dụng cho danh từ số nhiều không tận cùng bảng -s</td></tr><tr><td style="text-align: center; word-wrap: break-word;">5. Tên riêng (nhân vật lịch sử, có điên)</td><td style="text-align: center; word-wrap: break-word;">Chi thêm ’s</td><td style="text-align: center; word-wrap: break-word;">- Socrates’ philosophy- Moses’ laws</td><td style="text-align: center; word-wrap: break-word;">Quy tác truyền thống cho các tên có diễn</td></tr><tr><td style="text-align: center; word-wrap: break-word;">6. Danh từ ghép</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào từ cuối cùng</td><td style="text-align: center; word-wrap: break-word;">- My mother-in-law’s house- The editor-in-chief’s dection</td><td style="text-align: center; word-wrap: break-word;"></td></tr><tr><td style="text-align: center; word-wrap: break-word;">7. Số hữu chung</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào danh từ cuối cùng</td><td style="text-align: center; word-wrap: break-word;">- Tom and Mary’s house- Jack and Jill’s apartment</td><td style="text-align: center; word-wrap: break-word;">Chi vật số hữu chung của các danh từ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">8. Số hữu riêng</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào từng danh từ</td><td style="text-align: center; word-wrap: break-word;">- Sarah’s and Mike’s reports- The hospital’s and clinic’s doctors</td><td style="text-align: center; word-wrap: break-word;">Chi vật số hữu riêng của mỗi danh từ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">9. Cụm từ chi thời gian, tiến bạc hoặc giá trị</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s (số it) Thêm ’s (số nhiều)</td><td style="text-align: center; word-wrap: break-word;">- A day’s work- Today’s news- Ten years’ time- Two weeks’ notice- A dollar’s worth of candy- Fifty pounds’ worth of goods</td><td style="text-align: center; word-wrap: break-word;"></td></tr><tr><td style="text-align: center; word-wrap: break-word;">10. Một số cụm từ cố định</td><td style="text-align: center; word-wrap: break-word;">Thêm 's hoặc tùy cụm</td><td style="text-align: center; word-wrap: break-word;">- For heaven's sake- For goodness' sake- At arm's length</td><td style="text-align: center; word-wrap: break-word;"></td></tr></table>
+<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Loại từ</td><td style="text-align: center; word-wrap: break-word;">Quy tắc</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td><td style="text-align: center; word-wrap: break-word;">Ghi chú</td></tr><tr><td style="text-align: center; word-wrap: break-word;">1. Danh từ số ít</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s</td><td style="text-align: center; word-wrap: break-word;">- The car’s tail- John’s new haircut</td><td style="text-align: center; word-wrap: break-word;">Áp dụng cho hầu hết danh từ số ít</td></tr><tr><td style="text-align: center; word-wrap: break-word;">2. Danh từ số ít tận cùng bằng -s</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s (hiện đại) hoặc chỉ ’ (truyền thống)</td><td style="text-align: center; word-wrap: break-word;">- James’s book / James’ book- The princess’s crown / the princess’ crown</td><td style="text-align: center; word-wrap: break-word;">Đa số các hướng dẫn viết hiện đại đều ưu tiên ’s</td></tr><tr><td style="text-align: center; word-wrap: break-word;">3. Danh từ số nhiều tận cùng bằng -s</td><td style="text-align: center; word-wrap: break-word;">Chỉ thêm dấu ’</td><td style="text-align: center; word-wrap: break-word;">- the Taylors’ hair salon- Teachers’ day</td><td style="text-align: center; word-wrap: break-word;">Tránh trùng âm /s/</td></tr><tr><td style="text-align: center; word-wrap: break-word;">4. Danh từ số nhiều bất quy tác</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s</td><td style="text-align: center; word-wrap: break-word;">- Children’s playground- Men’s clothing</td><td style="text-align: center; word-wrap: break-word;">Áp dụng cho danh từ số nhiều không tận cùng bằng -s</td></tr><tr><td style="text-align: center; word-wrap: break-word;">5. Tên riêng (nhân vật lịch sử, cổ điển)</td><td style="text-align: center; word-wrap: break-word;">Chỉ thêm ’s</td><td style="text-align: center; word-wrap: break-word;">- Socrates’ philosophy- Moses’ laws</td><td style="text-align: center; word-wrap: break-word;">Quy tắc truyền thống cho các tên cổ điển</td></tr><tr><td style="text-align: center; word-wrap: break-word;">6. Danh từ ghép</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào từ cuối cùng</td><td style="text-align: center; word-wrap: break-word;">- My mother-in-law’s house- The editor-in-chief’s decision</td><td style="text-align: center; word-wrap: break-word;"></td></tr><tr><td style="text-align: center; word-wrap: break-word;">7. Sở hữu chung</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào danh từ cuối cùng</td><td style="text-align: center; word-wrap: break-word;">- Tom and Mary’s house- Jack and Jill’s apartment</td><td style="text-align: center; word-wrap: break-word;">Chỉ vật sở hữu chung của các danh từ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">8. Sở hữu riêng</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s vào từng danh từ</td><td style="text-align: center; word-wrap: break-word;">- Sarah’s and Mike’s reports- The hospital’s and clinic’s doctors</td><td style="text-align: center; word-wrap: break-word;">Chỉ vật sở hữu riêng của mỗi danh từ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">9. Cụm từ chỉ thời gian, tiền bạc hoặc giá trị</td><td style="text-align: center; word-wrap: break-word;">Thêm ’s (số ít) Thêm ’s (số nhiều)</td><td style="text-align: center; word-wrap: break-word;">- A day’s work- Today’s news- Ten years’ time- Two weeks’ notice- A dollar’s worth of candy- Fifty pounds’ worth of goods</td><td style="text-align: center; word-wrap: break-word;"></td></tr><tr><td style="text-align: center; word-wrap: break-word;">10. Một số cụm từ cố định</td><td style="text-align: center; word-wrap: break-word;">Thêm 's hoặc tùy cụm</td><td style="text-align: center; word-wrap: break-word;">- For heaven's sake- For goodness' sake- At arm's length</td><td style="text-align: center; word-wrap: break-word;"></td></tr></table>
 
 
 <div style="text-align: center;"><div style="text-align: center;">Phân biệt sở hữu cách 's và sở hữu of + danh từ</div> </div>
@@ -447,21 +447,21 @@ Ngoại lệ & Trường hợp đặc biệt
 
 of thường được dùng trong văn phong trang trọng:
 
-The success of the project (✓) thay vi The project's success (it trang trọng hơn).
+The success of the project (✓) thay vì The project's success (ít trang trọng hơn).
 
 Một số cụm từ có thể dùng cả hai cách:
 
-The company's employees (nghe tự nhiên hơn) vs. The employees of the company (trang trọng hơn nhưng vấn đúng).
+The company's employees (nghe tự nhiên hơn) vs. The employees of the company (trang trọng hơn nhưng vẫn đúng).
 
-The world's population (nghe tư nhiên hơn) vs. The population of the world (văn chấp nhận được).
+The world's population (nghe tự nhiên hơn) vs. The population of the world (vẫn chấp nhận được).
 
 ### II. Phép thế từ trong sở hữu cách
 
 ## 1. Sở hữu cách dạng rút gọn
 
-Trong những trường hợp này, ’s thế hiện sở hữu, nhưng danh từ bị sở hữu (của hàng, văn phòng, nhà, v.v.) được lược bỏ vi người nghe/ người độc có thể tự hiếu.
+Trong những trường hợp này, ’s thể hiện sở hữu, nhưng danh từ bị sở hữu (cửa hàng, văn phòng, nhà, v.v.) được lược bỏ vì người nghe/ người đọc có thể tự hiểu.
 
-Cấu trúc này thường được sử dụng cho của hàng kinh doanh, văn phòng chuyên môn hoặc nhà riêng.
+Cấu trúc này thường được sử dụng cho cửa hàng kinh doanh, văn phòng chuyên môn hoặc nhà riêng.
 
 Ex: The butcher's shop → the butcher's
 
@@ -481,7 +481,7 @@ Ex: Tom is at the dentist('s).
 
 ## 2. Thay thế danh từ bị sở hữu
 
-Khi danh tụ chính đã được nói đến trước hoặc sáp được nói đến, ta có thể lược bỏ danh tụ do sau sổ hữu cách ('s).
+Khi danh từ chính đã được nói đến trước hoặc sắp được nói đến, ta có thể lược bỏ danh từ đó sau sở hữu cách ('s).
 
 Ex: My car is faster than John's. [= John's car]
 
@@ -489,9 +489,9 @@ Mary's is the only house that is painted pink. [= Mary's house]
 
 ### III. Sở hữu kép (Double Possessives)
 
-Sở hữu kếp là cấu trúc trong tiếng Anh kết hợp cá giỏi từ of và sở hữu cách (’s) trong cùng một cụm từ. Nó thường được dùng để nhận mạnh sự sở hữu cá nhân hoặc chỉ một phần trong một nhóm lớn hơn.
+Sở hữu kép là cấu trúc trong tiếng Anh kết hợp cả giới từ of và sở hữu cách (’s) trong cùng một cụm từ. Nó thường được dùng để nhấn mạnh sự sở hữu cá nhân hoặc chỉ một phần trong một nhóm lớn hơn.
 
-Cáu trúc:
+Cấu trúc:
 
 A + danh từ + of + đại từ sở hữu / danh từ sở hữu
 
@@ -501,11 +501,11 @@ That idea of yours
 
 Some paintings of Van Gogh's
 
-#### LUU Y:
+#### LƯU Ý:
 
-- Sở hữu kếp chỉ được dùng với danh từ chỉ người hoặc vật có tính cá nhân.
+- Sở hữu kép chỉ được dùng với danh từ chỉ người hoặc vật có tính cá nhân.
 
-- Không dùng với vật vỏ trị
+- Không dùng với vật vô tri
 
 Ex: A leg of the table (NOT A leg of the table's)
 
@@ -529,25 +529,25 @@ Ex: A leg of the table (NOT A leg of the table's)
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Động từ</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Danh từ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>teach, drive</td><td style='text-align: center; word-wrap: break-word;'>-er</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>teacher, driver</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>act, conduct</td><td style='text-align: center; word-wrap: break-word;'>-or</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>actor, conductor</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>assist, consult</td><td style='text-align: center; word-wrap: break-word;'>-ant</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>assistant, consultant</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>employ, train</td><td style='text-align: center; word-wrap: break-word;'>-ee</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>employee, trainee</td></tr></table>
 
-### Một số hậu tố chi người khác nhưng được thành lập từ danh từ
+### Một số hậu tố chỉ người khác nhưng được thành lập từ danh từ
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Danh tủ</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Danh tủ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>art, science</td><td style='text-align: center; word-wrap: break-word;'>-ist</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>artist, scientist</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>muslc, magic</td><td style='text-align: center; word-wrap: break-word;'>-ian</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>musician, magician</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>engine, mountain</td><td style='text-align: center; word-wrap: break-word;'>-eer</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>engineer, mountaineer</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>study, reside</td><td style='text-align: center; word-wrap: break-word;'>-ent</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>student, resident</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>sales, sports</td><td style='text-align: center; word-wrap: break-word;'>-man / -woman / -person</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>salesman / saleswoman, sportsperson</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Danh từ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>art, science</td><td style='text-align: center; word-wrap: break-word;'>-ist</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>artist, scientist</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>music, magic</td><td style='text-align: center; word-wrap: break-word;'>-ian</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>musician, magician</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>engine, mountain</td><td style='text-align: center; word-wrap: break-word;'>-eer</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>engineer, mountaineer</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>study, reside</td><td style='text-align: center; word-wrap: break-word;'>-ent</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>student, resident</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>sales, sports</td><td style='text-align: center; word-wrap: break-word;'>-man / -woman / -person</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>salesman / saleswoman, sportsperson</td></tr></table>
 
 <div style="text-align: center;"><div style="text-align: center;">II. Thành lập danh từ bằng cách thêm hậu tố (suffix) vào sau danh từ</div> </div>
 
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Danh tử</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Danh tử</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>child, brother</td><td style='text-align: center; word-wrap: break-word;'>-hood</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>childhood, brotherhood</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>friend, leader</td><td style='text-align: center; word-wrap: break-word;'>-ship</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>friendship, leadership</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>study, reside</td><td style='text-align: center; word-wrap: break-word;'>-ism</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>heroism, patriotism</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>China, Portugal</td><td style='text-align: center; word-wrap: break-word;'>-ese</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Chinese, Portuguese</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>booklet, droplet</td><td style='text-align: center; word-wrap: break-word;'>-let</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>booklet, droplet</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Danh từ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>child, brother</td><td style='text-align: center; word-wrap: break-word;'>-hood</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>childhood, brotherhood</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>friend, leader</td><td style='text-align: center; word-wrap: break-word;'>-ship</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>friendship, leadership</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>study, reside</td><td style='text-align: center; word-wrap: break-word;'>-ism</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>heroism, patriotism</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>China, Portugal</td><td style='text-align: center; word-wrap: break-word;'>-ese</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Chinese, Portuguese</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>booklet, droplet</td><td style='text-align: center; word-wrap: break-word;'>-let</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>booklet, droplet</td></tr></table>
 
-## III. Thành lập danh từ bằng cách thêm tiến tố (prefix) vào trước danh từ
+## III. Thành lập danh từ bằng cách thêm tiền tố (prefix) vào trước danh từ
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Danh tù</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Danh tù</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>title, marine</td><td style='text-align: center; word-wrap: break-word;'>sub-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>subtitle, submarine</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>market, power</td><td style='text-align: center; word-wrap: break-word;'>super-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>supermarket, superpower</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>president, employee</td><td style='text-align: center; word-wrap: break-word;'>ex-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>ex-president, ex-employee</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>view, payment</td><td style='text-align: center; word-wrap: break-word;'>pre-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>preview, prepayment</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>war, graduate</td><td style='text-align: center; word-wrap: break-word;'>post-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>postwar, postgraduate</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>founder, worker</td><td style='text-align: center; word-wrap: break-word;'>co-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>co-founder, co-worker</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>van, skirt</td><td style='text-align: center; word-wrap: break-word;'>mini-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>minlvan, miniskirt</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ</td><td style='text-align: center; word-wrap: break-word;'>Tiền tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Danh từ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>title, marine</td><td style='text-align: center; word-wrap: break-word;'>sub-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>subtitle, submarine</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>market, power</td><td style='text-align: center; word-wrap: break-word;'>super-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>supermarket, superpower</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>president, employee</td><td style='text-align: center; word-wrap: break-word;'>ex-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>ex-president, ex-employee</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>view, payment</td><td style='text-align: center; word-wrap: break-word;'>pre-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>preview, prepayment</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>war, graduate</td><td style='text-align: center; word-wrap: break-word;'>post-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>postwar, postgraduate</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>founder, worker</td><td style='text-align: center; word-wrap: break-word;'>co-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>co-founder, co-worker</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>van, skirt</td><td style='text-align: center; word-wrap: break-word;'>mini-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>minivan, miniskirt</td></tr></table>
 
 ## IV. Thành lập danh từ bằng cách thêm hậu tố (suffix) vào sau tính từ
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Tình tử</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Danh tử</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>happy, sad</td><td style='text-align: center; word-wrap: break-word;'>-ness</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>happiness, sadness</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>active, creative</td><td style='text-align: center; word-wrap: break-word;'>-ity</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>activity, creativity</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>certain, cruel</td><td style='text-align: center; word-wrap: break-word;'>-ty</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>certainty, cruelty</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>private, efficient</td><td style='text-align: center; word-wrap: break-word;'>-cy</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>privacy, efficiency</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>free, wise</td><td style='text-align: center; word-wrap: break-word;'>-dom</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>freedom, wisdom</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>strong, long</td><td style='text-align: center; word-wrap: break-word;'>-th</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>strength, length</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Tính từ</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Danh từ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>happy, sad</td><td style='text-align: center; word-wrap: break-word;'>-ness</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>happiness, sadness</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>active, creative</td><td style='text-align: center; word-wrap: break-word;'>-ity</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>activity, creativity</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>certain, cruel</td><td style='text-align: center; word-wrap: break-word;'>-ty</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>certainty, cruelty</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>private, efficient</td><td style='text-align: center; word-wrap: break-word;'>-cy</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>privacy, efficiency</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>free, wise</td><td style='text-align: center; word-wrap: break-word;'>-dom</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>freedom, wisdom</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>strong, long</td><td style='text-align: center; word-wrap: break-word;'>-th</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>strength, length</td></tr></table>

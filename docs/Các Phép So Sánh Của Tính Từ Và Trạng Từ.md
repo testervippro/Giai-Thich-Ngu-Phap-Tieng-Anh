@@ -1,34 +1,34 @@
 # CÁC PHÉP SO SÁNH CỦA TÍNH TỪ VÀ TRẠNG TỪ (COMPARISON OF ADJECTIVES & ADVERBS)
 
-##### Kiến thức cản nhớ:
+##### Kiến thức cần nhớ:
 
-Khai niệm co bán vẻ tinh tư, trạng tư, câu, mệnh dẹ.
+Khái niệm cơ bản về tính từ, trạng từ, câu, mệnh đề.
 
 #### Mục tiêu học tập:
 
-- Năm được phép so sánh bảng as ... as ... và the same as ...
+- Nắm được phép so sánh bằng as ... as ... và the same as ...
 
-- Nhó được cách thành lập hình thức so sánh hơn của tình tử và trạng tử; cấu trúc tống quạt của phép so sánh hơn.
+- Nhớ được cách thành lập hình thức so sánh hơn của tính từ và trạng từ; cấu trúc tổng quát của phép so sánh hơn.
 
-- Nhó được cách thành lập hình thức so sanh nhất của tính từ và trạng tử; cấu trúc tống quạt của phep so sanh nhất.
+- Nhớ được cách thành lập hình thức so sánh nhất của tính từ và trạng từ; cấu trúc tổng quát của phép so sánh nhất.
 
-- Hiệu dược cách thêm dưới -er và -est vào tính từ và trạng tử.
+- Hiểu được cách thêm đuôi -er và -est vào tính từ và trạng từ.
 
-- Năm được hình thức so sánh bất quy tác.
+- Nắm được hình thức so sánh bất quy tắc.
 
-- Năm được phép so sánh kếp.
+- Nắm được phép so sánh kép.
 
-### Các hình thức so sánh có bản (Regular forms of comparison)
+### Các hình thức so sánh cơ bản (Regular forms of comparison)
 
-Chúng ta sử dụng các hình thức so sánh của tính từ và trạng tử để so sánh cùng một đặc điểm hoặc tính chất giữa nhiều người, sự vật hoặc sự việc khác nhau.
+Chúng ta sử dụng các hình thức so sánh của tính từ và trạng từ để so sánh cùng một đặc điểm hoặc tính chất giữa nhiều người, sự vật hoặc sự việc khác nhau.
 
-Có 3 cấp độ so sánh: so sánh bàng, so sánh hơn, và so sánh nhất.
+Có 3 cấp độ so sánh: so sánh bằng, so sánh hơn, và so sánh nhất.
 
 ## 1. So sánh bằng (Positive form)
 
-Chúng ta sử dụng phép so sánh bảng khi nói hai người, sự vật hoặc sự việc tương tự nhau về một đặc điểm hoặc tính chất nào đó.
+Chúng ta sử dụng phép so sánh bằng khi nói hai người, sự vật hoặc sự việc tương tự nhau về một đặc điểm hoặc tính chất nào đó.
 
-Hình thức so sánh bảng được thành lập bảng cách thêm as vào trước và sau tính từ hoặc trạng tử.
+Hình thức so sánh bằng được thành lập bằng cách thêm as vào trước và sau tính từ hoặc trạng từ.
 
 S + V + as + adj/ adv + as + noun/ pronoun/ clause
 
@@ -48,7 +48,7 @@ I did not arrive as/ so promptly as my boss.
 
 This customer is not as/ so patient as the last one.
 
-Chúng ta cũng có thể sử dụng câu trúc (trực) the same as để so sánh bằng.
+Chúng ta cũng có thể sử dụng cấu trúc the same as để so sánh bằng.
 
 S+V+the same+(noun)+as+noun/pronoun
 
@@ -60,13 +60,13 @@ I went to the same school as Lily.
 
 ##### LƯU Ý:
 
-- Chúng ta dùng the same as chủ không dùng the same like.
+- Chúng ta dùng the same as chứ không dùng the same like.
 
 Ex: ✓ Marle wears the same dress as Lisa.
 
 X Marie wears the same dress like Lisa
 
-- Khi nói hon hoặc kém gấp bao nhiêu lần, ta có thế dùng half, twice, three times. v.v. trước as ... as...
+- Khi nói hơn hoặc kém gấp bao nhiêu lần, ta có thể dùng half, twice, three times. v.v. trước as ... as...
 
 Ex: √ His watch is three times as expensive as mine.
 
@@ -74,17 +74,17 @@ X His watch is three times more expensive than mine.
 
 ### II. So sánh hơn (Comparative form)
 
-Chúng ta sử dụng phép so sánh hơn dé so sánh mức độ hơn kém về một đặc điểm hoặc tính chất nào đó giữa hai người, sự vật hoặc sự việc.
+Chúng ta sử dụng phép so sánh hơn để so sánh mức độ hơn kém về một đặc điểm hoặc tính chất nào đó giữa hai người, sự vật hoặc sự việc.
 
 Tùy theo số lượng âm tiết có trong từ, tính từ và trạng từ được chia thành 2 nhóm là tính từ/ trạng từ có một âm tiết (gọi là tính từ/ trạng từ ngắn - short adjective/ adverb) và tính từ/ trạng từ có từ hai âm tiết trỏ lên (gọi là tính từ/ trạng từ dài - long adjective/ adverb).
 
-Ex: tinh tủ/ trạng tủ ngắn: cheap, cold, great, hot, kind, loud, nice, poor, strong, v.v.
+Ex: tính từ/ trạng từ ngắn: cheap, cold, great, hot, kind, loud, nice, poor, strong, v.v.
 
-tinh tủ/ trạng tủ dài: ambitious, essential, harmless, interested, marvelous, patient, tired, v.v.
+tính từ/ trạng từ dài: ambitious, essential, harmless, interested, marvelous, patient, tired, v.v.
 
 Hình thức so sánh hơn của tính từ và trạng từ được thành lập như sau:
 
-a. Thêm dưới -er vào cưới tính từ hoặc trạng từ ngắn.
+a. Thêm đuôi -er vào cuối tính từ hoặc trạng từ ngắn.
 
  $ \underline{Ex} $: big → bigger
 
@@ -92,7 +92,7 @@ poor → poorer
 
 young → younger
 
-b. Thêm dưới -er vào cuối tính từ có hai âm tiết kết thúc bàng -er; -ow, -y và -le.
+b. Thêm đuôi -er vào cuối tính từ có hai âm tiết kết thúc bằng -er; -ow, -y và -le.
 
 Ex: clever → cleverer
 
@@ -102,7 +102,7 @@ early → earlier
 
 gentle → gentler
 
-c. Thêm more vào trước tính từ hoặc trạng tử dài.
+c. Thêm more vào trước tính từ hoặc trạng từ dài.
 
 Ex: interesting → more interesting
 
@@ -162,7 +162,7 @@ A trip to the sunny beach sounds more enjoyable than a hike to the cold mountain
 
 My brother arrived earlier than I did.
 
-- Để nội gấp bao nhiêu lấn, ta có thể dùng three/ four/ five times + comparative thay vi dùng three/ four/ five times as... as ...
+- Để nói gấp bao nhiêu lần, ta có thể dùng three/ four/ five times + comparative thay vì dùng three/ four/ five times as... as ...
 
 Tuy nhiên, không dùng cấu trúc này với twice và half.
 
@@ -172,15 +172,15 @@ Ex: ✓ The red book is four times thicker than the blue book.
 
 X The red book is twice thicker than the blue book.
 
-##### LUU Y:
+##### LƯU Ý:
 
 Đại từ sau as hoặc than:
 
-- Trong vấn phong không trọng, dài tù làm tân ngũ (object pronoun - me, us, you, them, v.v) thuồng được dùng sau as hoặc than.
+- Trong văn phong không trang trọng, đại từ làm tân ngữ (object pronoun - me, us, you, them, v.v) thường được dùng sau as hoặc than.
 
 Ex: Tyler goes jogging more often than me.
 
-- Trong vấn phong trang trong, đai tủ làm chủ ngữ (subject pronoun - l, we, you, they, v.v) thường được dùng sau as hoặc than (thường đi kèm với động từ hoặc trả động từ).
+- Trong văn phong trang trọng, đại từ làm chủ ngữ (subject pronoun - I, we, you, they, v.v) thường được dùng sau as hoặc than (thường đi kèm với động từ hoặc trợ động từ).
 
 Ex: Tyler goes jogging more often than I do.
 

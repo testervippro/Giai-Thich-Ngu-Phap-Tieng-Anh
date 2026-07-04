@@ -2,7 +2,7 @@
 
 #### Kiến thức cần nhớ:
 
-Khái niệm cơ bản về danh từ, động tụ, câu, mệnh đề.
+Khái niệm cơ bản về danh từ, động từ, câu, mệnh đề.
 
 #### Mục tiêu học tập:
 
@@ -12,21 +12,21 @@ Khái niệm cơ bản về danh từ, động tụ, câu, mệnh đề.
 
 - Hiểu được cách thành lập tính từ.
 
-- Nắm được cách dùng phần từ như tính từ (sự khác biệt giữa tính từ dưới -đ (đ (đ (và - (ng).
+- Nắm được cách dùng phân từ như tính từ (sự khác biệt giữa tính từ đuôi -ed và -ing).
 
-- Nhớ được trát tự tính từ trước danh từ.
+- Nhớ được trật tự tính từ trước danh từ.
 
 - Nắm được cách dùng tính từ như danh từ.
 
 ##### Định nghĩa
 
-Tính từ (adjectives) có chức năng bổ nghĩa cho danh từ. Tính từ có thể dùng để chỉ tính chất của người, sự vật hoặc sự việc (an adorable child), thái độ hoặc quan điểm của người nói (a fantastic film), chủng loại (a residential area), nguồn gốc (Vietnamese silk), địa điểm (overseas trips), tấn suất (a daily basis), mức độ (a complete disaster), sự cần thiết (necessary measures) và mục độ chắc chắn (the possible cause).
+Tính từ (adjectives) có chức năng bổ nghĩa cho danh từ. Tính từ có thể dùng để chỉ tính chất của người, sự vật hoặc sự việc (an adorable child), thái độ hoặc quan điểm của người nói (a fantastic film), chủng loại (a residential area), nguồn gốc (Vietnamese silk), địa điểm (overseas trips), tần suất (a daily basis), mức độ (a complete disaster), sự cần thiết (necessary measures) và mức độ chắc chắn (the possible cause).
 
 Tính từ chỉ có một dạng duy nhất. Tính từ không thay đổi dạng khi đi với chủ ngữ số ít hoặc số nhiều.
 
 #### Vị trí của tính từ
 
-Tính từ có thể dùng ở hai vị trí trong câu: trước danh từ mà nó bổ nghĩa (vị trí thuộc ngữ - attributive), hoặc sau động từ be và các liên động từ (lĩnhکار verb) khác như appear, become, feel, get, look, seem, v.v. (vị trí vị ngữ - predicative).
+Tính từ có thể dùng ở hai vị trí trong câu: trước danh từ mà nó bổ nghĩa (vị trí thuộc ngữ - attributive), hoặc sau động từ be và các liên động từ (linking verb) khác như appear, become, feel, get, look, seem, v.v. (vị trí vị ngữ - predicative).
 
 Ex: attributive: She is a confident girl.
 
@@ -62,11 +62,11 @@ I can't find my keys anywhere. That is strange.
 
 - Một số tính từ chỉ có thể dùng ở vị trí vị ngữ, cụ thể:
 
-+ Các tính từ được thành lập bằng cách thêm tiền tố a-: afraid, alike, altve, alone, ashamed, asleep, awake, aware, v.v
++ Các tính từ được thành lập bằng cách thêm tiền tố a-: afraid, alike, alive, alone, ashamed, asleep, awake, aware, v.v
 
  $ \underline{Ex} $: √ The boy feels afraid. × the-afraid-boy
 
-+ Các tính từ thế hiện cảm xúc: content, glad, pleased, sorry, upset, delighted
++ Các tính từ thể hiện cảm xúc: content, glad, pleased, sorry, upset, delighted
 
 Ex: ✓ The mother is glad to see her son. X the glad mother
 
@@ -82,7 +82,7 @@ Ex: ✓ We heard about the upset news this morning.
 
 X the upset girl
 
-- Các tính từ ít khí hoặc KHÔNG đứng ở vị trí vị ngữ:
+- Các tính từ ít khi hoặc KHÔNG đứng ở vị trí vị ngữ:
 
 + Tính từ nhấn mạnh cảm xúc của người nói về vấn đề gì đó (emphasizing adjectives): complete, absolute, entire, mere, sheer, total, utter.
 
@@ -122,7 +122,7 @@ The father did everything  $ \underline{\text{possible}} $ to save his daughter.
 
 Did you see anyone  $ \underline{\text{suspicious}} $ yesterday evening?
 
-Diễn tả sự đo lường (chiếu dài, chiếu cao, độ sâu, tươi tác, v.v.).
+Diễn tả sự đo lường (chiều dài, chiều cao, độ sâu, tuổi tác, v.v.).
 
 Ex: Our teacher is 50 years old.
 
@@ -130,7 +130,7 @@ The Amazon River is 6,400 kilometres long.
 
 The cherry blossom tree was 10 metres tall.
 
-- Hai hoặc nhiều tính từ được nói với nhau bằng and hoặc but và cùng bổ nghĩa cho một danh từ.
+- Hai hoặc nhiều tính từ được nối với nhau bằng and hoặc but và cùng bổ nghĩa cho một danh từ.
 
 Ex: It was a girl young but clever.
 
@@ -138,7 +138,7 @@ The man has a pair of hands strong and scarred.
 
 Mrs. Mara was a lady learned and open-minded.
 
-Tính từ tận cùng bảng -able và -ible. (Tính từ này cũng có thể đúng trước danh từ.)
+Tính từ tận cùng bằng -able và -ible. (Tính từ này cũng có thể đứng trước danh từ.)
 
 Ex: These are the only books available/ the only available books.
 
@@ -162,9 +162,9 @@ Dựa trên các tiêu chí khác nhau, tính từ sẽ được phân thành:
 
 ### 1. Tính từ mô tả và tính từ giới hạn (Descriptive adjectives and limiting adjectives)
 
-### 1. Tính từ mô tà (Descriptive adjectives)
+### 1. Tính từ mô tả (Descriptive adjectives)
 
-Là tính từ dùng để mô tả kích thước, hình dáng, màu sắc, nguồn gốc, chất liệu, mục đích sử dụng, v.v. của người, sự vật hoặc sự việc. Tính từ mô tả có thể dùng ở vị trí thuộc ngữ, vị ngữ hoặc cả hai. Chẳng bạn như: confused, gorgeous, healthy, humble, kind, nice, outgoing, proud, poor, rich, strong, v.v.
+Là tính từ dùng để mô tả kích thước, hình dáng, màu sắc, nguồn gốc, chất liệu, mục đích sử dụng, v.v. của người, sự vật hoặc sự việc. Tính từ mô tả có thể dùng ở vị trí thuộc ngữ, vị ngữ hoặc cả hai. Chẳng hạn như: confused, gorgeous, healthy, humble, kind, nice, outgoing, proud, poor, rich, strong, v.v.
 
 Ex: Peter is a nice and humble guy.
 
@@ -172,7 +172,7 @@ You look gorgeous in red.
 
 ### 2. Tính từ giới hạn (Limiting adjectives)
 
-Là tinh tủ dùng để đặt giới hạn cho danh từ mà nó bổ nghĩa và phân biệt với người, sự vật hoặc sự việc khác. Tính từ giới hạn luôn nằm ở vị trí thuộc ngữ. Có 4 loại tính từ giới hạn chính như sau:
+Là tính từ dùng để đặt giới hạn cho danh từ mà nó bổ nghĩa và phân biệt với người, sự vật hoặc sự việc khác. Tính từ giới hạn luôn nằm ở vị trí thuộc ngữ. Có 4 loại tính từ giới hạn chính như sau:
 
 a. Từ xác định hoặc tính từ chỉ sự sở hữu (Possessive determiners/adjectives):
 
@@ -180,7 +180,7 @@ Dùng để thể hiện danh từ mà nó bổ nghĩa thuộc về ai hoặc v�
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Personal Pronouns (Đại từ nhân xưng)</td><td style='text-align: center; word-wrap: break-word;'>Possessive Determiners/Adjectives (Từ xác định hoặc tính từ chỉ sự sở hữu)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>my</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>he</td><td style='text-align: center; word-wrap: break-word;'>hls</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>she</td><td style='text-align: center; word-wrap: break-word;'>her</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>it</td><td style='text-align: center; word-wrap: break-word;'>its</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>we</td><td style='text-align: center; word-wrap: break-word;'>our</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>you</td><td style='text-align: center; word-wrap: break-word;'>your</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>they</td><td style='text-align: center; word-wrap: break-word;'>their</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Personal Pronouns (Đại từ nhân xưng)</td><td style='text-align: center; word-wrap: break-word;'>Possessive Determiners/Adjectives (Từ xác định hoặc tính từ chỉ sự sở hữu)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>I</td><td style='text-align: center; word-wrap: break-word;'>my</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>he</td><td style='text-align: center; word-wrap: break-word;'>his</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>she</td><td style='text-align: center; word-wrap: break-word;'>her</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>it</td><td style='text-align: center; word-wrap: break-word;'>its</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>we</td><td style='text-align: center; word-wrap: break-word;'>our</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>you</td><td style='text-align: center; word-wrap: break-word;'>your</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>they</td><td style='text-align: center; word-wrap: break-word;'>their</td></tr></table>
 
 Ex: Look at my new car!
 
@@ -190,11 +190,11 @@ Have you done your homework?
 
 b. Từ xác định hoặc tính từ chỉ định (Demonstrative determiners/adjectives): this, that, these, those, another, other và the other
 
-this/ that + danh từ số it
+this/ that + danh từ số ít
 
-those/ those + danh từ số nhlếu
+these/ those + danh từ số nhiều
 
-- this/ these dùng để chỉ người hay vật ở gần với người nơi.
+- this/ these dùng để chỉ người hay vật ở gần với người nói.
 
 Ex: Mommy, I want this toy car.
 
@@ -210,7 +210,7 @@ You can ask those policemen for help.
 
 Look! Those swans are fighting.
 
-- Khi dùng với danh từ chỉ thời gian, this/ these chi thời gian hiện tại, quá khứ gần hoặc tương lai gần; that/ those chi thời gian trong qua khứ hoặc xa hơn trong tương lai.
+- Khi dùng với danh từ chỉ thời gian, this/ these chỉ thời gian hiện tại, quá khứ gần hoặc tương lai gần; that/ those chỉ thời gian trong quá khứ hoặc xa hơn trong tương lai.
 
 Ex: I saw Emily this morning.
 
@@ -226,7 +226,7 @@ Another storm is coming.
 
 Would you like another cup of tea?
 
-• other + danh từ đếm được hoặc danh từ không đếm được: dùng để chỉ một hoặc nhiều người, sự vật, sự việc ngoài cải đã được nhắc tới trước đó.
+• other + danh từ đếm được hoặc danh từ không đếm được: dùng để chỉ một hoặc nhiều người, sự vật, sự việc ngoài cái đã được nhắc tới trước đó.
 
  $ \underline{Ex} $: Let's move to the next room. I want to see other paintings.
 
@@ -244,7 +244,7 @@ Ex: I'm busy today. Let's meet some other time.
 
 Ex: I saw Sally in the supermarket the other day.
 
-- the other + danh từ số ít: dùng để chỉ cái thứ hai trong hai cái, hoặc cái ở hướng ngược lại với cái dà được nhắc tối.
+- the other + danh từ số ít: dùng để chỉ cái thứ hai trong hai cái, hoặc cái ở hướng ngược lại với cái đã được nhắc tới.
 
 Ex: I live on the other side of town.
 
@@ -252,7 +252,7 @@ Write your question on one side and your name on the other side of the paper.
 
 He heard a strange voice on the other end of the line.
 
-• the other + danh từ số nhiều: dùng để chỉ những người, sự vật hoặc sự việc con lại ngoài cái đã được nhắc tới; phản còn lại trong một nhóm.
+• the other + danh từ số nhiều: dùng để chỉ những người, sự vật hoặc sự việc còn lại ngoài cái đã được nhắc tới; phần còn lại trong một nhóm.
 
  $ \underline{Ex} $: I have three pairs of sneakers. I'm wearing this pair because the other two are dirty. Some dancers wear blue dresses. The other dancers wear pink ones.
 
@@ -260,7 +260,7 @@ We arrived first. The other people arrived half an hour later.
 
 c. Từ xác định hoặc tính từ phần bó (Distributive determiners/adjectives): each, every, both, either, neither
 
-each/every + danh từ số it: dùng để chỉ nhóm người hoặc vật, theo sau là động từ số it.
+each/every + danh từ số ít: dùng để chỉ nhóm người hoặc vật, theo sau là động từ số ít.
 
 Ex: The newlyweds took a photo with every guest.
 
@@ -268,13 +268,13 @@ Every student in my school takes part in an extracurricular activity.
 
 Each employee is given their own work station.
 
-each (mọi) và every (mọi, mối) có thể thay thế cho nhau trong da số trưởng hợp.
+each (mọi) và every (mọi, mỗi) có thể thay thế cho nhau trong đa số trường hợp.
 
 Ngoại trừ:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>each</td><td style='text-align: center; word-wrap: break-word;'>every</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dùng khi xem xét từng cá thế hoặc vật thế một trong một nhóm.</td><td style='text-align: center; word-wrap: break-word;'>Dùng khi ta xem tất cả người hoặc vật như một nhóm duy nhất.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: We need to check each file carefully.</td><td style='text-align: center; word-wrap: break-word;'>Ex: Every light in the house is turned on.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Thường dùng cho nhóm người hoặc vật có số lượng nhỏ.</td><td style='text-align: center; word-wrap: break-word;'>Thường dùng cho nhóm người hoặc vật có số lượng lớn.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: There are five of us, so each person will do one part of the presentation.</td><td style='text-align: center; word-wrap: break-word;'>Ex: The old man plans to cycle to every province in the country.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dùng khi nói về cá hai người hoặc hai vật trong ngữ cảnh cụ thể.</td><td style='text-align: center; word-wrap: break-word;'>KHÔNG có cách dùng này.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: Each side of the coin has a different symbol.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Có thể dì kèm với danh từ số ít hoặc không. Khi dùng một minh, each dược dùng như một dại từ.</td><td style='text-align: center; word-wrap: break-word;'>Cán dị kèm với danh từ số ít.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: We don't have a lot of nurses at the hospital.</td><td style='text-align: center; word-wrap: break-word;'>Ex: ✓ Every nurse has to care for ten patients.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>✓ Each nurse has to care for ten patients.</td><td style='text-align: center; word-wrap: break-word;'>✗ Every has to care for...</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>✓ Each has to care for ten patients.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>KHÔNG co cach dùng này.</td><td style='text-align: center; word-wrap: break-word;'>Dùng cấu trúc every + só đếm + danh từ chi thòi gian dé chi mục đồ thương xuyên xây ra một việc gì đó. Ex: You should visit a dentist every six months.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>KHÔNG có cách dùng này.</td><td style='text-align: center; word-wrap: break-word;'>Dùng trong các cụm từ thế hiện thoại gian hoặc sự việc có tính chất thường xuyên, lập lại, như: every other (day), every single (time), every so often, every few (hours), every now and then.  Ex: She thinks about her ex-lover every now and then. The chef put a cherry on every other cupcake.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>each</td><td style='text-align: center; word-wrap: break-word;'>every</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dùng khi xem xét từng cá thể hoặc vật thể một trong một nhóm.</td><td style='text-align: center; word-wrap: break-word;'>Dùng khi ta xem tất cả người hoặc vật như một nhóm duy nhất.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: We need to check each file carefully.</td><td style='text-align: center; word-wrap: break-word;'>Ex: Every light in the house is turned on.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Thường dùng cho nhóm người hoặc vật có số lượng nhỏ.</td><td style='text-align: center; word-wrap: break-word;'>Thường dùng cho nhóm người hoặc vật có số lượng lớn.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: There are five of us, so each person will do one part of the presentation.</td><td style='text-align: center; word-wrap: break-word;'>Ex: The old man plans to cycle to every province in the country.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dùng khi nói về cả hai người hoặc hai vật trong ngữ cảnh cụ thể.</td><td style='text-align: center; word-wrap: break-word;'>KHÔNG có cách dùng này.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: Each side of the coin has a different symbol.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Có thể đi kèm với danh từ số ít hoặc không. Khi dùng một mình, each được dùng như một đại từ.</td><td style='text-align: center; word-wrap: break-word;'>Cần đi kèm với danh từ số ít.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: We don't have a lot of nurses at the hospital.</td><td style='text-align: center; word-wrap: break-word;'>Ex: ✓ Every nurse has to care for ten patients.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>✓ Each nurse has to care for ten patients.</td><td style='text-align: center; word-wrap: break-word;'>✗ Every has to care for...</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>✓ Each has to care for ten patients.</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>KHÔNG co cach dùng này.</td><td style='text-align: center; word-wrap: break-word;'>Dùng cấu trúc every + số đếm + danh từ chỉ thời gian để chỉ mức độ thường xuyên xảy ra một việc gì đó. Ex: You should visit a dentist every six months.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>KHÔNG có cách dùng này.</td><td style='text-align: center; word-wrap: break-word;'>Dùng trong các cụm từ thể hiện thời gian hoặc sự việc có tính chất thường xuyên, lặp lại, như: every other (day), every single (time), every so often, every few (hours), every now and then.  Ex: She thinks about her ex-lover every now and then. The chef put a cherry on every other cupcake.</td></tr></table>
 
 both + danh từ số nhiều: dùng để chỉ cả hai người, sự vật hoặc sự việc.
 
@@ -284,15 +284,15 @@ I'm getting both shirts because I can't decide which one to buy.
 
 When we entered the room, we saw a man with both hands tied behind his back.
 
-either + danh từ số it: dùng để chỉ một trong hai người, sự vật hoặc sự việc.
+either + danh từ số ít: dùng để chỉ một trong hai người, sự vật hoặc sự việc.
 
  $ \underline{Ex} $: Which wallpaper colour should I choose, pink or beige? - Either colour looks good.
 
 Shane has two pens but he can't find either one.
 
-Dvide the dough into two halves. Put either half into the fridge and continue with the other part.
+Divide the dough into two halves. Put either half into the fridge and continue with the other part.
 
-• neither + danh từ số ít: không có/ không phải (nghĩa phù định) người, sự vật, sự việc này cùng không có/ không phải người, sự vật, sự việc kia.
+• neither + danh từ số ít: không có/ không phải (nghĩa phủ định) người, sự vật, sự việc này cũng không có/ không phải người, sự vật, sự việc kia.
 
  $ \underline{Ex} $: We have two rose bushes in our garden. Neither bush is blooming at the moment.
 
@@ -302,7 +302,7 @@ There were two security guards at the museum, but neither person was aware of th
 
 d. Từ xác định hoặc tính từ chỉ số lượng (Quantitative determiners/adjectives): all, most, some, any, many, much, few, little, enough, a lot of/lots of, v.v.
 
-- all + danh từ số nhiều hoặc danh từ không đếm được: dùng để chỉ toàn bộ người, sự vật hoặc sự việc đang được nói đến. Động từ theo sau được chia ở dạng số nhiều hay số ít tụy thuộc vào danh từ.
+- all + danh từ số nhiều hoặc danh từ không đếm được: dùng để chỉ toàn bộ người, sự vật hoặc sự việc đang được nói đến. Động từ theo sau được chia ở dạng số nhiều hay số ít tùy thuộc vào danh từ.
 
 Ex: We must protect all wildlife.
 
@@ -330,7 +330,7 @@ Because of poaching, there are few rhinos in the wild now.
 
 • Enough + danh từ đếm được hoặc danh từ không đếm được: dùng để diễn tả việc
 
-có dù số lượng của thư gì đó.
+có đủ số lượng của thứ gì đó.
 
 Ex: There is enough cake for everyone.
 
@@ -338,7 +338,7 @@ We don't have enough time to finish our project.
 
 Are there enough places for all of the guests?
 
-A lot of/lots of+ danh từ số nhiều hoặc danh từ không đếm được: dùng để diễn tả số lượng lớn người, sự vật hoặc sự việc, và thương dùng cho câu kháng định trong vấn phong không trang trong.
+A lot of/lots of+ danh từ số nhiều hoặc danh từ không đếm được: dùng để diễn tả số lượng lớn người, sự vật hoặc sự việc, và thường dùng cho câu khẳng định trong văn phong không trang trọng.
 
 Ex: I have lots of homework to do.
 
@@ -354,11 +354,11 @@ Ex: The meeting aims to address many urgent issues.
 
 ## II. Tính từ đơn và tính từ ghép (Simple adjectives and compound adjectives)
 
-1. Tính từ đơn (simple adjectives): là tính tử chỉ có một từ.
+1. Tính từ đơn (simple adjectives): là tính từ chỉ có một từ.
 
  $ \underline{Ex} $: careful, determined, endearing, lively, loud, mental, patient, rich, soundless, sensitive, tender, v.v.
 
-2. Tính từ ghép (compound adjectives): là tính từ được thành lập bảng cách ghép hai hoặc nhiều từ lại với nhau và được xem như một tính từ duy nhất. Tình từ ghép có thể được viết thành một từ hoặc hai từ có dấu gạch nối (-) ở giữa.
+2. Tính từ ghép (compound adjectives): là tính từ được thành lập bằng cách ghép hai hoặc nhiều từ lại với nhau và được xem như một tính từ duy nhất. Tính từ ghép có thể được viết thành một từ hoặc hai từ có dấu gạch nối (-) ở giữa.
 
 Ex: dairy-free, fulltime, long-term, middle-aged, mind-blowing, thick-skinned, time-consuming, outgoing, v.v.
 
@@ -366,33 +366,33 @@ Ex: dairy-free, fulltime, long-term, middle-aged, mind-blowing, thick-skinned, t
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Cách thành lập</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>danh tụ + tính tụ</td><td style='text-align: center; word-wrap: break-word;'>fat-free, family-friendly, self-confident, world-weary, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>tính tụ + danh tụ</td><td style='text-align: center; word-wrap: break-word;'>high-quality, last-minute, long-distance, short-term, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>tính tụ + danh tụ +-ed</td><td style='text-align: center; word-wrap: break-word;'>black-haired, left-handed, old-fashioned, wide-brimmed v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>danh tụ + quá khứ/ hiện tại phân tụ</td><td style='text-align: center; word-wrap: break-word;'>firefighting, fundraising, eye-catching, home-made, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>tính tụ + quá khứ/ hiện tại phân tụ</td><td style='text-align: center; word-wrap: break-word;'>absentminded, clear-headed, easy-going, soft-spoken, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>trạng tụ + quá khứ/ hiện tại phân tụ</td><td style='text-align: center; word-wrap: break-word;'>ill-advised, hardworking, high-spirited, well-paid, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>số đếm + danh tụ số it</td><td style='text-align: center; word-wrap: break-word;'>300-page, five-star, one-way, seven-room, ten-year v.v.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Cách thành lập</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>danh từ + tính từ</td><td style='text-align: center; word-wrap: break-word;'>fat-free, family-friendly, self-confident, world-weary, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>tính từ + danh từ</td><td style='text-align: center; word-wrap: break-word;'>high-quality, last-minute, long-distance, short-term, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>tính từ + danh từ +-ed</td><td style='text-align: center; word-wrap: break-word;'>black-haired, left-handed, old-fashioned, wide-brimmed v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>danh từ + quá khứ/ hiện tại phân từ</td><td style='text-align: center; word-wrap: break-word;'>firefighting, fundraising, eye-catching, home-made, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>tính từ + quá khứ/ hiện tại phân từ</td><td style='text-align: center; word-wrap: break-word;'>absentminded, clear-headed, easy-going, soft-spoken, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>trạng từ + quá khứ/ hiện tại phân từ</td><td style='text-align: center; word-wrap: break-word;'>ill-advised, hardworking, high-spirited, well-paid, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>số đếm + danh từ số ít</td><td style='text-align: center; word-wrap: break-word;'>300-page, five-star, one-way, seven-room, ten-year v.v.</td></tr></table>
 
-### Cách thành lập tính tư (How to form adjectives)
+### Cách thành lập tính từ (How to form adjectives)
 
 ## I. Thành lập tính từ bằng cách thêm hậu tố (suffix) vào sau danh từ
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Danh tử</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Tỉnh tử</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>rain, sun</td><td style='text-align: center; word-wrap: break-word;'>-y</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>rainy, sunny</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>beauty, wonder</td><td style='text-align: center; word-wrap: break-word;'>-ful</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>beautiful, wonderful</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>hope, use</td><td style='text-align: center; word-wrap: break-word;'>-less</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>hopeless, useless</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>child, style</td><td style='text-align: center; word-wrap: break-word;'>-tsh</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>childish, stylish</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>hero, academy</td><td style='text-align: center; word-wrap: break-word;'>-ic</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>heroic, academic</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>danger, mystery</td><td style='text-align: center; word-wrap: break-word;'>-ous</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>dangerous, mysterious</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>nature, centre</td><td style='text-align: center; word-wrap: break-word;'>-al</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>natural, central</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>effect, support</td><td style='text-align: center; word-wrap: break-word;'>-ive</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>effective, supportive</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Tính từ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>rain, sun</td><td style='text-align: center; word-wrap: break-word;'>-y</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>rainy, sunny</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>beauty, wonder</td><td style='text-align: center; word-wrap: break-word;'>-ful</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>beautiful, wonderful</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>hope, use</td><td style='text-align: center; word-wrap: break-word;'>-less</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>hopeless, useless</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>child, style</td><td style='text-align: center; word-wrap: break-word;'>-ish</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>childish, stylish</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>hero, academy</td><td style='text-align: center; word-wrap: break-word;'>-ic</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>heroic, academic</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>danger, mystery</td><td style='text-align: center; word-wrap: break-word;'>-ous</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>dangerous, mysterious</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>nature, centre</td><td style='text-align: center; word-wrap: break-word;'>-al</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>natural, central</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>effect, support</td><td style='text-align: center; word-wrap: break-word;'>-ive</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>effective, supportive</td></tr></table>
 
 ## II. Thành lập tính từ bằng cách thêm hậu tố (suffix) vào sau động từ
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dọng tủ</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Tinh tủ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>rely, access</td><td style='text-align: center; word-wrap: break-word;'>-able/-ible</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>reliable, accessible</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>create, attract</td><td style='text-align: center; word-wrap: break-word;'>-ive</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>creative, attractive</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>depend, tolerate</td><td style='text-align: center; word-wrap: break-word;'>-ent/-ant</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>dependent, tolerant</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>exclte, bore</td><td style='text-align: center; word-wrap: break-word;'>-ed</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>excited, bored</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>exclte, bore</td><td style='text-align: center; word-wrap: break-word;'>-ing</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>exciting, boring</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Động từ</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Tính từ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>rely, access</td><td style='text-align: center; word-wrap: break-word;'>-able/-ible</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>reliable, accessible</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>create, attract</td><td style='text-align: center; word-wrap: break-word;'>-ive</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>creative, attractive</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>depend, tolerate</td><td style='text-align: center; word-wrap: break-word;'>-ent/-ant</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>dependent, tolerant</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>excite, bore</td><td style='text-align: center; word-wrap: break-word;'>-ed</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>excited, bored</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>excite, bore</td><td style='text-align: center; word-wrap: break-word;'>-ing</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>exciting, boring</td></tr></table>
 
 III. Thành lập tính từ mang nghĩa đối lập bằng cách thêm tiền tố (prefix) trước tính từ
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Tình tử</td><td style='text-align: center; word-wrap: break-word;'>Tiên tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Tình tử</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>happy, safe</td><td style='text-align: center; word-wrap: break-word;'>un-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>unhappy, unsafe</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>capable, accurate</td><td style='text-align: center; word-wrap: break-word;'>in-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>incapable, inaccurate</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>possible, polite</td><td style='text-align: center; word-wrap: break-word;'>im-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>impossible, impolite</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>logical, legal</td><td style='text-align: center; word-wrap: break-word;'>il-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>illogical, illegal</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>regular, relevant</td><td style='text-align: center; word-wrap: break-word;'>tr-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>irregular, irrelevant</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>pleased, satisfied</td><td style='text-align: center; word-wrap: break-word;'>dis-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>displeased, dissatisfied</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>existent, poisonous</td><td style='text-align: center; word-wrap: break-word;'>non-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>non-existent, non-poisonous</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Tính từ</td><td style='text-align: center; word-wrap: break-word;'>Tiên tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Tính từ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>happy, safe</td><td style='text-align: center; word-wrap: break-word;'>un-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>unhappy, unsafe</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>capable, accurate</td><td style='text-align: center; word-wrap: break-word;'>in-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>incapable, inaccurate</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>possible, polite</td><td style='text-align: center; word-wrap: break-word;'>im-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>impossible, impolite</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>logical, legal</td><td style='text-align: center; word-wrap: break-word;'>il-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>illogical, illegal</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>regular, relevant</td><td style='text-align: center; word-wrap: break-word;'>ir-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>irregular, irrelevant</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>pleased, satisfied</td><td style='text-align: center; word-wrap: break-word;'>dis-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>displeased, dissatisfied</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>existent, poisonous</td><td style='text-align: center; word-wrap: break-word;'>non-</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>non-existent, non-poisonous</td></tr></table>
 
-### Phân từ dùng như tính từ (Participes functioning as adjectives)
+### Phân từ dùng như tính từ (Participles functioning as adjectives)
 
-Hiện tại phần từ (present participle - V-ing) và quá khứ phần từ (past participle - V-ed) có thể được dùng như tính từ dùng trước danh từ hoặc sau động từ be và các liên động từ khác.
+Hiện tại phân từ (present participle - V-ing) và quá khứ phân từ (past participle - V-ed) có thể được dùng như tính từ dùng trước danh từ hoặc sau động từ be và các liên động từ khác.
 
-Hện tại phần từ (present participles): được dùng để diễn tả đặc điểm của người, sự vật, sự việc hoặc cảm xúc mà chúng mang lại.
+Hiện tại phân từ (present participles): được dùng để diễn tả đặc điểm của người, sự vật, sự việc hoặc cảm xúc mà chúng mang lại.
 
 Ex: Alex is an interesting person.
 
@@ -400,7 +400,7 @@ Jan wrote a fascinating article about the smartphone industry.
 
 The Olympic Games are one of the most exciting sports events in the world.
 
-II. Quá khứ phân từ (past participes): được dùng để diễn tả trạng thái hoặc cảm xúc được tạo ra bởi người, sự vật hoặc sự việc khác.
+II. Quá khứ phân từ (past participles): được dùng để diễn tả trạng thái hoặc cảm xúc được tạo ra bởi người, sự vật hoặc sự việc khác.
 
  $ \underline{Ex:} $ I was shocked when I heard the shocking news.
 
@@ -410,11 +410,11 @@ The boy had an embarrassing accident, but he didn't feel embarrassed about it.
 
 ##### Trật tự của tính từ khi đứng trước danh từ
 
-Chúng ta có thể dùng hai hoặc nhiều tinh từ trước một danh từ để bổ nghĩa cho danh từ đó. Khi đó, các tinh từ thương được sáp xếp theo thứ tự từ trái qua phải theo bảng sau, với nhóm 1. Từ xác định (Determiners) dùng ở vị trí dấu tiến (xa danh từ nhất) và nhóm 12. Mục đích (Purpose) dùng cuối cùng (gần danh từ nhất).
+Chúng ta có thể dùng hai hoặc nhiều tinh từ trước một danh từ để bổ nghĩa cho danh từ đó. Khi đó, các tính từ thường được sắp xếp theo thứ tự từ trái qua phải theo bảng sau, với nhóm 1. Từ xác định (Determiners) dùng ở vị trí đầu tiên (xa danh từ nhất) và nhóm 12. Mục đích (Purpose) dùng cuối cùng (gần danh từ nhất).
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Loại tinh tủ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đặc điểm đề</td><td style='text-align: center; word-wrap: break-word;'>1. Từ xác định (determiners)</td><td style='text-align: center; word-wrap: break-word;'>a/an, the, this, that, my, your, many, little, v.v.</td></tr><tr><td rowspan="7">thay đổi hơn</td><td style='text-align: center; word-wrap: break-word;'>2. Số đếm (numbers)</td><td style='text-align: center; word-wrap: break-word;'>eleven, second, 40th, last, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3. Quan điểm (opinion - how good?)</td><td style='text-align: center; word-wrap: break-word;'>awful, boring, lovely, nice, wonderful, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4. Kich thuộc (size - how big?)</td><td style='text-align: center; word-wrap: break-word;'>large, small, long, short, tall, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5. Tinh chất (quality)</td><td style='text-align: center; word-wrap: break-word;'>busy, clear, famous, important, quiet, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6. Tuôi (age - how old?)</td><td style='text-align: center; word-wrap: break-word;'>new, old, young, middle-aged, elderly, ripe, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>7. Hình dáng (shape)</td><td style='text-align: center; word-wrap: break-word;'>square, round, circular, triangular, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>8. Màu sắc (colour)</td><td style='text-align: center; word-wrap: break-word;'>blue, green, purple, red, yellow, v.v.</td></tr><tr><td rowspan="4">Đặc điểm khó thay đổi</td><td style='text-align: center; word-wrap: break-word;'>9. Nguôn góc (origin - where from?)</td><td style='text-align: center; word-wrap: break-word;'>Asian, Canadian, Eastern European, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>10. Chất liệu (material - made of?)</td><td style='text-align: center; word-wrap: break-word;'>cotton, glass, gold, metal, wooden, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11. Chúng loal (type - what kind?)</td><td style='text-align: center; word-wrap: break-word;'>business, human, non-profit, scientific, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>12. Mục dích (purpose - what for?)</td><td style='text-align: center; word-wrap: break-word;'>dining (room), hiking (boots), washing (machine), v.v.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Loại tính từ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đặc điểm dễ</td><td style='text-align: center; word-wrap: break-word;'>1. Từ xác định (determiners)</td><td style='text-align: center; word-wrap: break-word;'>a/an, the, this, that, my, your, many, little, v.v.</td></tr><tr><td rowspan="7">thay đổi hơn</td><td style='text-align: center; word-wrap: break-word;'>2. Số đếm (numbers)</td><td style='text-align: center; word-wrap: break-word;'>eleven, second, 40th, last, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3. Quan điểm (opinion - how good?)</td><td style='text-align: center; word-wrap: break-word;'>awful, boring, lovely, nice, wonderful, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4. Kích thước (size - how big?)</td><td style='text-align: center; word-wrap: break-word;'>large, small, long, short, tall, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5. Tinh chất (quality)</td><td style='text-align: center; word-wrap: break-word;'>busy, clear, famous, important, quiet, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6. Tuổi (age - how old?)</td><td style='text-align: center; word-wrap: break-word;'>new, old, young, middle-aged, elderly, ripe, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>7. Hình dáng (shape)</td><td style='text-align: center; word-wrap: break-word;'>square, round, circular, triangular, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>8. Màu sắc (colour)</td><td style='text-align: center; word-wrap: break-word;'>blue, green, purple, red, yellow, v.v.</td></tr><tr><td rowspan="4">Đặc điểm khó thay đổi</td><td style='text-align: center; word-wrap: break-word;'>9. Nguồn gốc (origin - where from?)</td><td style='text-align: center; word-wrap: break-word;'>Asian, Canadian, Eastern European, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>10. Chất liệu (material - made of?)</td><td style='text-align: center; word-wrap: break-word;'>cotton, glass, gold, metal, wooden, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11. Chủng loại (type - what kind?)</td><td style='text-align: center; word-wrap: break-word;'>business, human, non-profit, scientific, v.v.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>12. Mục đích (purpose - what for?)</td><td style='text-align: center; word-wrap: break-word;'>dining (room), hiking (boots), washing (machine), v.v.</td></tr></table>
 
  $ \underline{Ex} $: I have ordered some new research equipment for the lab.
 
@@ -437,7 +437,7 @@ We met two lovely charming old Chinese ladies last night.
 
 number opinion quality age origin
 
-Nhìn chung, tính từ đứng cùng gần danh từ thì càng có mói liên hệ chặt chẽ về nghĩa với danh từ và thể hiện đặc điểm, tính chất, thông tin khô thay đổi của danh từ. Tính từ dung xa danh từ hon thương mô ta dạc diêm, tinh chất, thông tin dễ thay đổi hoặc phân anh quan điểm nhận xét về danh tủ do.
+Nhìn chung, tính từ đứng càng gần danh từ thì càng có mối liên hệ chặt chẽ về nghĩa với danh từ và thể hiện đặc điểm, tính chất, thông tin khó thay đổi của danh từ. Tính từ dùng xa danh từ hơn thường mô tả đặc điểm, tính chất, thông tin dễ thay đổi hoặc phản ánh quan điểm nhận xét về danh từ đó.
 
 Ex: This is our old Swedish piano.
 
@@ -446,13 +446,13 @@ Ex: This is our old Swedish piano.
 
 age origin
 
-(tươi - thay đổi theo thời gian) (người góc - không thể thay đổi)
+(tuổi - thay đổi theo thời gian) (nguồn gốc - không thể thay đổi)
 
 We were welcomed by a polite bank clerk.
 
 quality type
 
-(tính chất - có thể thay đổi) (chung loại - không thể thay đổi)
+(tính chất - có thể thay đổi) (chủng loại - không thể thay đổi)
 
 My father is making a big wooden house for our dog.
 
@@ -460,33 +460,33 @@ size material
 
 (kích thước - có thể thay đổi) (chất liệu - không thể thay đổi)
 
-- Khi có hai hoặc nhiều tính từ thuộc cùng một nhóm, ta ưu tiên xếp tính từ ngán dụng trước tính từ dài hơn.
+- Khi có hai hoặc nhiều tính từ thuộc cùng một nhóm, ta ưu tiên xếp tính từ ngắn dùng trước tính từ dài hơn.
 
 Ex: a soft comfortable bed a peaceful picturesque village
 
-- Trong nhóm 2. Số đếm (Numbers), tình từ chi thử tự (ordinal adjectives - first, second, third,...) đùng trước tính từ chỉ số lượng (cardinal adjectives - one, two, three, ...).
+- Trong nhóm 2. Số đếm (Numbers), tính từ chỉ thứ tự (ordinal adjectives - first, second, third,...) dùng trước tính từ chỉ số lượng (cardinal adjectives - one, two, three, ...).
 
 Ex: the last three men the first two weeks
 
-Tính từ chỉ kích thuộc và chiều dài (big, small, short, tall, long,...) thường dùng trước tính từ chỉ hình dạng và chiều rộng (round, square, fat, thin, narrow, wide,...)
+Tính từ chỉ kích thước và chiều dài (big, small, short, tall, long,...) thường dùng trước tính từ chỉ hình dạng và chiều rộng (round, square, fat, thin, narrow, wide,...)
 
 Ex: a big fat fluffy teddy bear a pair of long tight trousers
 
-• old và young đúng ngay trước danh từ khi dùng để mô tả người.
+• old và young đứng ngay trước danh từ khi dùng để mô tả người.
 
 Ex: a tall thin young lady cheerful old men
 
-#### Tính từ được dùng như danh từ (the + tinh từ)
+#### Tính từ được dùng như danh từ (the + tính từ)
 
-Chúng ta có thể dùng cấu trúc the + tính từ để nói về một nhóm người có cùng đặc điểm, thường là những nhóm người có đặc điểm kinh tế - xã hội, tình trạng thế lực, sức khoẻ hoặc tuổi tác giống nhau.
+Chúng ta có thể dùng cấu trúc the + tính từ để nói về một nhóm người có cùng đặc điểm, thường là những nhóm người có đặc điểm kinh tế - xã hội, tình trạng thể lực, sức khoẻ hoặc tuổi tác giống nhau.
 
 - Đặc điểm kinh tế - xã hội: the rich, the poor, the wealthy, the unemployed, the homeless, the elite, v.v.
 
-- Tình trạng thế lực, sức khoẻ: the sick, the injured, the blind, the deaf, v.v.
+- Tình trạng thể lực, sức khoẻ: the sick, the injured, the blind, the deaf, v.v.
 
 - Tuổi tác: the young, the old, the elderly, v.v.
 
-Cáu trúc: the + tinh tử + dại tử và động tử số nhiều.
+Cấu trúc: the + tính từ + đại từ và động từ số nhiều.
 
  $ \underline{Ex:} $ The elderly usually have a lot of health problems.
 
@@ -494,7 +494,7 @@ Do you think the rich should help the poor?
 
 The blind can use walking canes or guide dogs to help them move around.
 
-- The + tính từ có thể được dùng để cập đến những khái niệm trừu tượng và dưới vớii động từ số it: the good, the bad, the new, the old, the unexplained, the unknown, v.v.
+- The + tính từ có thể được dùng để đề cập đến những khái niệm trừu tượng và đi với động từ số ít: the good, the bad, the new, the old, the unexplained, the unknown, v.v.
 
 Ex: Out with the old, in with the new.
 
@@ -502,9 +502,9 @@ It was the age-old conflict between the good and the bad.
 
 Humans tend to be scared of the unknown.
 
-- Trong một số cụm từ có định có tính trang trọng, the + tính từ có thể có nghĩa số ít: the accused, the undersigned, the deceased, the former và the latter, v.v.
+- Trong một số cụm từ cố định có tính trang trọng, the + tính từ có thể có nghĩa số ít: the accused, the undersigned, the deceased, the former và the latter, v.v.
 
- $ \underline{Ex} $: The accused has arrtved with her lawyers.
+ $ \underline{Ex} $: The accused has arrived with her lawyers.
 
 We will arrange to have the deceased returned to his family.
 

@@ -1,18 +1,18 @@
-## MAO TỪ (ARTICLES)
+## MẠO TỪ (ARTICLES)
 
-##### Kiến thức cản nhớ:
+##### Kiến thức cần nhớ:
 
 Danh từ đếm được (countable nouns) là danh từ chỉ những vật thể, con người, khái niệm,... riêng rẽ có thể đếm được.
 
-Danh từ không đếm được (uncountable nouns) là danh từ chỉ vật liệu, chất liệu, chất lỏng, những khai niệm trừu tương và những thu mà chúng ta xem như một khối không thể tách rời hoặc không thể đếm.
+Danh từ không đếm được (uncountable nouns) là danh từ chỉ vật liệu, chất liệu, chất lỏng, những khái niệm trừu tượng và những thứ mà chúng ta xem như một khối không thể tách rời hoặc không thể đếm.
 
 ## 1. Định nghĩa
 
-Mao tử (Articles) là tử dùng trước một danh tử để xác định hoặc làm rõ ý nghĩa của danh tử dò. Mao tử giúp người nghe hoặc người độc hiểu rõ hơn về sự cụ thể (xác định) hay không cụ thể (không xác định) của đối tượng được để cập trong câu.
+Mạo từ (Articles) là từ dùng trước một danh từ để xác định hoặc làm rõ ý nghĩa của danh từ đó. Mạo từ giúp người nghe hoặc người đọc hiểu rõ hơn về sự cụ thể (xác định) hay không cụ thể (không xác định) của đối tượng được đề cập trong câu.
 
 ### II. Vị trí của mạo từ trong câu
 
-Mạo từ thường dùng ngay trước danh từ ma no xác định. Trong một số trường hợp, mạo từ cũng có thể dễ kèm voi các tính từ dễ mô tả danh từ một cách rõ ràng hơn.
+Mạo từ thường dùng ngay trước danh từ mà nó xác định. Trong một số trường hợp, mạo từ cũng có thể đi kèm với các tính từ để mô tả danh từ một cách rõ ràng hơn.
 
  $ \underline{Ex} $: The dog is barking.
 
@@ -28,11 +28,11 @@ Mạo từ không xác định (indefinite articles): a và an
 
 ## 1. Mạo từ xác định (definite article): the
 
-Mạo từ the được dùng để chi một danh từ cụ thể mà người nói và người nghe đều biết rõ hoặc đã được để cấp trước đồ trong cuộc hội thoại. The có thể được dùng cho cả danh từ số it và số nhiều.
+Mạo từ the được dùng để chỉ một danh từ cụ thể mà người nói và người nghe đều biết rõ hoặc đã được đề cập trước đó trong cuộc hội thoại. The có thể được dùng cho cả danh từ số ít và số nhiều.
 
 Ex: The book on the table is mine.
 
-Cà người nói và người nghe đều biết rõ cuốn sách nào đang được nhắc đến (cuốn sách ở trên bàn).
+Cả người nói và người nghe đều biết rõ cuốn sách nào đang được nhắc đến (cuốn sách ở trên bàn).
 
 The students in my class are very smart.
 
@@ -40,9 +40,9 @@ The students in my class are very smart.
 
 Mạo từ the thường được dùng trong các trường hợp cụ thể dưới đây:
 
-a. Khi đối tượng được nhác đến là duy nhất hoặc chi co một trong một nhóm nhất định:
+a. Khi đối tượng được nhắc đến là duy nhất hoặc chỉ có một trong một nhóm nhất định:
 
-Nếu một vật thế, người hay sự việc chỉ có một và duy nhất trên thế giới, trong khu vực, hoặc trong một bối cảnh cụ thể, thì ta sử dụng thế.
+Nếu một vật thể, người hay sự việc chỉ có một và duy nhất trên thế giới, trong khu vực, hoặc trong một bối cảnh cụ thể, thì ta sử dụng the.
 
 Ex: The Moon is so bright tonight, isn't it?
 
@@ -50,9 +50,9 @@ The North Pole is located at the top of the Earth.
 
 The Sun rises in the East and sets in the West.
 
-b. Khi đối tượng đã được nhắc đến trước do:
+b. Khi đối tượng đã được nhắc đến trước đó:
 
-Khi danh tư dà được giới thiệu lấn dấu tiên trong cuộc trò chuyện hoặc vấn bản, và sau đó được nhắc lại, ta sử dụng the dẻ âm chi danh tư đô.
+Khi danh từ đã được giới thiệu lần đầu tiên trong cuộc trò chuyện hoặc văn bản, và sau đó được nhắc lại, ta sử dụng the để ám chỉ danh từ đó.
 
 Ex: I saw a dog on the street today. The dog was very friendly.
 
@@ -60,9 +60,9 @@ We visited several museums last summer. The museums were very interesting.
 
 My favourite movie is TENET. The movie explores a unique concept of time travel.
 
-c. Khi nói về các đối tượng có tính chất đặc biệt trong bối cảnh toàn cầu, địa lí, hoặc vân hoá:
+c. Khi nói về các đối tượng có tính chất đặc biệt trong bối cảnh toàn cầu, địa lí, hoặc văn hoá:
 
-Những danh từ trong nhóm này có tính chất dạc biết trong một khu vực hoặc trong một lĩnh vực nhất định, và đối khi có thể có sự thay đổi hoặc sự khác biệt tụy theo bối cảnh. Chàng hạn, ta có:
+Những danh từ trong nhóm này có tính chất đặc biệt trong một khu vực hoặc trong một lĩnh vực nhất định, và đôi khi có thể có sự thay đổi hoặc sự khác biệt tùy theo bối cảnh. Chẳng hạn, ta có:
 
 • the world, the sea, the sky, the universe,...
 
@@ -94,97 +94,97 @@ The book that I bought were all novels.
 
 The gift you gave me is so beautiful.
 
-##### LƯU Y:
+##### LƯU Ý:
 
-Một số lỗi sai thương gấp:
+Một số lỗi sai thường gặp:
 
-+ Dùng the khi nói về các danh tụ chung chung, không xác định:
++ Dùng the khi nói về các danh từ chung chung, không xác định:
 Ex: × The dogs are loyal animals. ✓ Dogs are loyal animals.
-→ Nói chung về loại chó, không phải một con chó cư thế.
+→ Nói chung về loại chó, không phải một con chó cụ thể.
 × The children need love and care. ✓ Children need love and care.
-→ Nói chung về trẻ em, chủ không chỉ một nhóm trẻ em cư thế.
-+ Dùng the khi nói về các quốc gia, thành phố, khu vực khi tên của chúng không bao gồm thế. Vietnam, France. New York, Hanoi (không có thể).
+→ Nói chung về trẻ em, chứ không chỉ một nhóm trẻ em cụ thể.
++ Dùng the khi nói về các quốc gia, thành phố, khu vực khi tên của chúng không bao gồm the. Vietnam, France. New York, Hanoi (không có the).
 Ex: × I live in the Vietnam. ✓ I live in Vietnam.
 × She is from the New York. ✓ She is from New York.
-Một số quốc gia, khu vực luôn có thể trong tên gọi, như: the United States, the Netherlands, the Philippines, the United Kingdom, the Canary Islands, the Bahamas, the British Isles,...
-+ Dùng the khi nhắc đến các môn học, ngôn ngữ hoặc môn thế thao:
+Một số quốc gia, khu vực luôn có the trong tên gọi, như: the United States, the Netherlands, the Philippines, the United Kingdom, the Canary Islands, the Bahamas, the British Isles,...
++ Dùng the khi nhắc đến các môn học, ngôn ngữ hoặc môn thể thao:
 Ex: × I am studying the Literature. ✓ I am studying Literature.
 × He plays the soccer. ✓ He plays soccer.
-Để tránh mắc lối sai, chúng ta cần chủ ý đến ngũ cánh sử dụng và xem xét xem đối tượng được để cập có phái là một phân trong nhóm cư thế, hoặc là một khái niệm đã được xác định rõ trong cuộc trò chuyện trước đó hay không
+Để tránh mắc lỗi sai, chúng ta cần chú ý đến ngữ cảnh sử dụng và xem xét xem đối tượng được đề cập có phải là một phần trong nhóm cụ thể, hoặc là một khái niệm đã được xác định rõ trong cuộc trò chuyện trước đó hay không
 
 ## 2. Mạo từ không xác định (indefinite articles): a và an
 
-Mạo từ a và an được dùng khi danh từ là không xác định, tức là khi người nói không chỉ rõ danh từ đó là cái gi hoặc nó không được biết rõ đến. Chúng chỉ dùng cho danh từ đếm được số it (singular countable nouns).
+Mạo từ a và an được dùng khi danh từ là không xác định, tức là khi người nói không chỉ rõ danh từ đó là cái gì hoặc nó không được biết rõ đến. Chúng chỉ dùng cho danh từ đếm được số ít (singular countable nouns).
 
-Mạo từ a dược dùng trước những danh từ bất dấu bảng một phụ âm (consonant).
+Mạo từ a được dùng trước những danh từ bắt đầu bằng một phụ âm (consonant).
 
-Ex: a cat (bất dấu bảng phụ âm /k/)
+Ex: a cat (bắt đầu bằng phụ âm /k/)
 
-a book (bất dấu bảng phụ âm /b/)
+a book (bắt đầu bằng phụ âm /b/)
 
-a tie (bất dấu bảng phụ âm /t/)
+a tie (bắt đầu bằng phụ âm /t/)
 
-a house (bất dấu bảng phụ âm /h/)
+a house (bắt đầu bằng phụ âm /h/)
 
-#### LUU Y:
+#### LƯU Ý:
 
 Trường hợp đặc biệt:
 
-a university: bất đấu bảng "u" nhưng phát âm là /ju/ (doc giống "yoo")
+a university: bắt đầu bằng "u" nhưng phát âm là /ju/ (đọc giống "yoo")
 
-a European: bất đấu bảng "eu" nhưng phát âm là /ju/
+a European: bắt đầu bằng "eu" nhưng phát âm là /ju/
 
-Các từ tương tự khác ví du như uniform, union, user, utensil, unicorn,...
+Các từ tương tự khác ví dụ như uniform, union, user, utensil, unicorn,...
 
-Mạo từ an được dùng trước những danh từ bất đấu bảng nguyên âm (vowel), thường được biểu thị bởi các chủ cái a, e, o, u, i.
+Mạo từ an được dùng trước những danh từ bắt đầu bằng nguyên âm (vowel), thường được biểu thị bởi các chữ cái a, e, o, u, i.
 
-Ex: an apple (bát dâu bàng nguyên âm /æ/)
+Ex: an apple (bắt đầu bằng nguyên âm /æ/)
 
-an umbrella (bát dâu bàng nguyên âm /ʌ/)
+an umbrella (bắt đầu bằng nguyên âm /ʌ/)
 
-an orange (bát dâu bàng nguyên âm /ɔː/)
+an orange (bắt đầu bằng nguyên âm /ɔː/)
 
-an egg (bát dâu bàng nguyên âm /e/)
+an egg (bắt đầu bằng nguyên âm /e/)
 
-#### LƯU Y:
+#### LƯU Ý:
 
-Trường hợp dạc biết
+Trường hợp đặc biệt
 
-- an hour: bất đắc chế chịu cải hướng /v/ là âm cấm, và âm bất đắc chế là /aʊ/
+- an hour: bắt đầu bằng chữ cái 'h' là âm câm, và âm bắt đầu là /aʊ/
 
-- an honour: cũng bất bảng chữ cái hướng /h/ là âm cấm, và âm bất đắc chế là /o/
+- an honour: cũng bắt đầu bằng chữ cái 'h' là âm câm, và âm bắt đầu là /o/
 
 Mạo từ a và an thường được dùng trong các trường hợp cụ thể dưới đây:
 
-a. Khi đối tượng được giới thiệu lấn đấu tiên:
+a. Khi đối tượng được giới thiệu lần đầu tiên:
 
 Ex: I saw a cat in the garden.
 
-→ “a cat” chi một con mèo nào đó, không phát một con mèo cu thế mà nguoi nghe dá biết.
+→ “a cat” chỉ một con mèo nào đó, không phải một con mèo cụ thể mà người nghe đã biết.
 
 She bought an umbrella because it was raining.
 
-→ "an umbrella" là một chiếc ô nối chung, chưa được xác định rõ ràng.
+→ "an umbrella" là một chiếc ô nói chung, chưa được xác định rõ ràng.
 
 b. Khi mô tả một đối tượng thuộc nhóm lớn hơn:
 
  $ \underline{Ex} $: He's a member of our school's soccer team.
 
-→ Chi ra ràng anh ấy là một thành viên có mật trong đôi bóng.
+→ Chỉ rõ rằng anh ấy là một thành viên có mặt trong đội bóng.
 
 I'd like a cup of coffee, please.
 
-Nói về một cốc cà phê có thế có trong quán.
+Nói về một cốc cà phê có thể có trong quán.
 
 c. Khi muốn diễn tả một vật hay hành động trong bối cảnh chung chung:
 
 Ex: I need a pen.
 
-→ Không phải là một chiếc bút cụ thế, mà là một chiếc bút bất ki. She wants an ice cream.
+→ Không phải là một chiếc bút cụ thể, mà là một chiếc bút bất kì. She wants an ice cream.
 
-→ Không phải là cây kem cụ thế, chỉ là một cây kem bất kì.
+→ Không phải là cây kem cụ thể, chỉ là một cây kem bất kì.
 
-d. Khi nhác đến nghé nghiệp, quốc tịch, hoặc tính chất chung của người hay sự vật, sự việc:
+d. Khi nhắc đến nghề nghiệp, quốc tịch, hoặc tính chất chung của người hay sự vật, sự việc:
 
 Ex: He works as a teacher.
 
@@ -192,7 +192,7 @@ She is an American.
 
 My trip to Japan was a great experience.
 
-e. Khi đê cấp đến các cụm từ chỉ số lượng, khối lượng hoặc đo lường: a lot of, a great deal of, a great many, a few/ little, a couple, a dozen, a hundred, a thousand,...
+e. Khi đề cập đến các cụm từ chỉ số lượng, khối lượng hoặc đo lường: a lot of, a great deal of, a great many, a few/ little, a couple, a dozen, a hundred, a thousand,...
 
 Ex: I need to get a few things in town.
 
@@ -200,9 +200,9 @@ There must have been a thousand people playing in the park today.
 
 Not a lot of people know my secret.
 
-##### LỨU Y:
+##### LƯU Ý:
 
-Không dùng a hay an vôi danh tử không đếm được (water, information, money, homework, hair,…):
+Không dùng a hay an với danh từ không đếm được (water, information, money, homework, hair,…):
 
 Ex: × I have a homework to do.
 

@@ -1,4 +1,4 @@
-# CÂU SENTENCES
+# CÂU (SENTENCES)
 
 ### Kiến thức cần nhớ:
 
@@ -10,7 +10,7 @@
 
 Phân biệt được câu đơn, câu ghép, câu phức và câu phức tổng hợp.
 
-- Hiểu rõ câu hỏi Có-Không, câu hỏi Wh-, câu hỏi dưới (tag-questions) và cách sử dụng câu hỏi dưới trong một số trường hợp dặc biệt.
+- Hiểu rõ câu hỏi Có-Không, câu hỏi Wh-, câu hỏi đuôi (tag-questions) và cách sử dụng câu hỏi đuôi trong một số trường hợp dặc biệt.
 
 - Nắm rõ các hình thức NHẤN MẠNH trong câu, cụ thể là câu chẻ.
 
@@ -20,11 +20,11 @@ Phân biệt được câu đơn, câu ghép, câu phức và câu phức tổng
 
 Câu (sentence) là một đơn vị ngôn ngữ cơ bản, thường bắt đầu bằng chữ in hoa và kết thúc bằng một dấu chấm câu (.), hoặc dấu chấm hỏi (?), hoặc dấu chấm than (!) tùy vào mục đích và nội dung của câu.
 
-Câu thường được sử dụng để bày tỏ suy nghĩ/ cảm xúc, cho biết quan điểm, diễn giải thông tin, hỏi một câu hỏi, hoặc dựa ra một yêu cầu, để nghĩ, mệnh lệnh nào đó.
+Câu thường được sử dụng để bày tỏ suy nghĩ/ cảm xúc, cho biết quan điểm, diễn giải thông tin, hỏi một câu hỏi, hoặc đưa ra một yêu cầu, đề nghị, mệnh lệnh nào đó.
 
 ### (Parts of a Sentence)
 
-Trong tiếng Anh, một câu thường bao gồm các thành phần cơ bản sau: Chủ ngữ (Subjects), động từ (Verbs), Tần ngữ (Objects), Bố ngữ (Complements) và Định ngữ (Adjuncts).
+Trong tiếng Anh, một câu thường bao gồm các thành phần cơ bản sau: Chủ ngữ (Subjects), động từ (Verbs), Tân ngữ (Objects), Bổ ngữ (Complements) và Định ngữ (Adjuncts).
 
 ### a. Chủ ngữ (Subject)
 
@@ -37,7 +37,7 @@ Chủ ngữ là thành phần chính của câu, thường dùng ở đầu câu
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dạng chủ ngữ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ (Noun)</td><td style='text-align: center; word-wrap: break-word;'>Sunflowers turn toward the Sun. Cats are good at catching mice.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Cụm danh từ (Noun phrase)</td><td style='text-align: center; word-wrap: break-word;'>Her uncle used to live in a small house. A school offish were swimming by.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ (Pronoun)</td><td style='text-align: center; word-wrap: break-word;'>She likes watching documentaries about wildlife. They didn&#x27;t attend the meeting yesterday.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ nguyên thể (to-infinitive)</td><td style='text-align: center; word-wrap: break-word;'>To win the chess competition is my goal. To learn a new language is quite challenging.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh động từ (Gerund)</td><td style='text-align: center; word-wrap: break-word;'>Taking pictures is her favourite hobby. Cooking can be a great way to bond with your family.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Mệnh đề (Noun Clause)</td><td style='text-align: center; word-wrap: break-word;'>What you need is a healthy diet, including plenty of water. The man whom I met yesterday will be my teacher.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Chủ ngữ giả (Dummy Subjects)</td><td style='text-align: center; word-wrap: break-word;'>There isn&#x27;t any salt in the jar. It has been four years since I graduated from college.</td></tr></table>
 
-Chủ ngữ giả (Dummy Subjects) là từ hoặc cụm từ được đặt vào vị trí và động vai trò thay thế cho chủ ngữ. Tuy nhiên, chúng không mang nghĩa thực sự mà chỉ giúp câu trở nên hoàn chỉnh về mặt ngữ pháp. Hai chủ ngữ giả được sử dụng phổ biến nhất là It và There.
+Chủ ngữ giả (Dummy Subjects) là từ hoặc cụm từ được đặt vào vị trí và đóng vai trò thay thế cho chủ ngữ. Tuy nhiên, chúng không mang nghĩa thực sự mà chỉ giúp câu trở nên hoàn chỉnh về mặt ngữ pháp. Hai chủ ngữ giả được sử dụng phổ biến nhất là It và There.
 
 ### b. Động từ (Verbs)
 
@@ -65,9 +65,9 @@ Ta có các dạng tân ngữ sau:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dạng tân ngữ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ (Noun)</td><td style='text-align: center; word-wrap: break-word;'>He likes Mandy. They are reading books.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Cụm danh từ (Noun phrase)</td><td style='text-align: center; word-wrap: break-word;'>We watched a scary movie. She has sold her old house.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ (Pronoun)</td><td style='text-align: center; word-wrap: break-word;'>Helen didn&#x27;t phone me last night. I don&#x27;t understand him.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ nguyên thể (to-unfinnite)</td><td style='text-align: center; word-wrap: break-word;'>John agreed to help. I need to go now.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh động từ (Gerund)</td><td style='text-align: center; word-wrap: break-word;'>Stop playing and do your exercise. He suggested walking after work.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Tân ngữ của giới từ (Prepositional Object)</td><td style='text-align: center; word-wrap: break-word;'>The kid is standing under the tree. She decided against studying abroad.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dạng tân ngữ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ (Noun)</td><td style='text-align: center; word-wrap: break-word;'>He likes Mandy. They are reading books.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Cụm danh từ (Noun phrase)</td><td style='text-align: center; word-wrap: break-word;'>We watched a scary movie. She has sold her old house.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ (Pronoun)</td><td style='text-align: center; word-wrap: break-word;'>Helen didn&#x27;t phone me last night. I don&#x27;t understand him.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ nguyên thể (to-infinitive)</td><td style='text-align: center; word-wrap: break-word;'>John agreed to help. I need to go now.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh động từ (Gerund)</td><td style='text-align: center; word-wrap: break-word;'>Stop playing and do your exercise. He suggested walking after work.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Tân ngữ của giới từ (Prepositional Object)</td><td style='text-align: center; word-wrap: break-word;'>The kid is standing under the tree. She decided against studying abroad.</td></tr></table>
 
-* Trong tiếng Anh, tân ngũ của giới từ (Prepositional Object) có thể là danh từ (nouns), cụm danh từ (noun phrase), đại từ (pronoun), hoặc danh động từ (gerund). Chúng phải dùng sau giới từ và chịu sự chi phối của giới từ đó.
+* Trong tiếng Anh, tân ngữ của giới từ (Prepositional Object) có thể là danh từ (nouns), cụm danh từ (noun phrase), đại từ (pronoun), hoặc danh động từ (gerund). Chúng phải dùng sau giới từ và chịu sự chi phối của giới từ đó.
 
 #### LƯU Ý
 
@@ -77,11 +77,11 @@ Ex: Bob was singing.
 
 The flowers are blooming.
 
-- Ô một số trường hợp, trong một câu có thể có 2 tân ngữ: Tân ngữ trực tiếp (direct object) và tân ngữ gián tiếp (indirect object).
+- Ở một số trường hợp, trong một câu có thể có 2 tân ngữ: Tân ngữ trực tiếp (direct object) và tân ngữ gián tiếp (indirect object).
 
 Ex: We bought the children hamburgers. (= We bought hamburgers for the children.)
 
-→ the children là tàn ngũ gián tiếp, hamburgers là tàn ngũ trục tiếp của động tử buy.
+→ the children là tân ngữ gián tiếp, hamburgers là tân ngữ trực tiếp của động từ buy.
 
 - Một số động từ thường đi kèm với 2 tân ngữ: bring, build, buy, give, get, leave, cost, throw, wish, send, hand, lend, owe, read, take, teach, tell, sing, sell, play, show, promise, write,...
 
@@ -93,7 +93,7 @@ Ta có 3 loại bổ ngữ chính:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Loại bổ ngữ</td><td style='text-align: center; word-wrap: break-word;'>Đặc điểm</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bổ ngữ cho chủ ngữ (Subject Completement)</td><td style='text-align: center; word-wrap: break-word;'>Thường đứng sau các động từ liên kết (linking verbs) như: be, seem, become, feel, taste, smell, sound, appear, turn,...</td><td style='text-align: center; word-wrap: break-word;'>Emma Stone is afamous actress. The coffee tastes bitter.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bó ngữ cho tân ngữ (Object Complement)</td><td style='text-align: center; word-wrap: break-word;'>Thường đứng sau tân ngữ mà nó bổ nghĩa.</td><td style='text-align: center; word-wrap: break-word;'>Working out made him strong. People elected her president.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bổ ngữ cho tính từ (Adjective Complement)</td><td style='text-align: center; word-wrap: break-word;'>Thường dùng sau tính từ mà nó bổ nghĩa.</td><td style='text-align: center; word-wrap: break-word;'>Owen is interested in science. She looks happy to see her son. It was hard for them to solve this problem.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Loại bổ ngữ</td><td style='text-align: center; word-wrap: break-word;'>Đặc điểm</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bổ ngữ cho chủ ngữ (Subject Complement)</td><td style='text-align: center; word-wrap: break-word;'>Thường đứng sau các động từ liên kết (linking verbs) như: be, seem, become, feel, taste, smell, sound, appear, turn,...</td><td style='text-align: center; word-wrap: break-word;'>Emma Stone is a famous actress. The coffee tastes bitter.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bổ ngữ cho tân ngữ (Object Complement)</td><td style='text-align: center; word-wrap: break-word;'>Thường đứng sau tân ngữ mà nó bổ nghĩa.</td><td style='text-align: center; word-wrap: break-word;'>Working out made him strong. People elected her president.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bổ ngữ cho tính từ (Adjective Complement)</td><td style='text-align: center; word-wrap: break-word;'>Thường dùng sau tính từ mà nó bổ nghĩa.</td><td style='text-align: center; word-wrap: break-word;'>Owen is interested in science. She looks happy to see her son. It was hard for them to solve this problem.</td></tr></table>
 
 
 
@@ -103,11 +103,11 @@ Ta có 3 loại bổ ngữ chính:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dạng bổ ngữ</td><td style='text-align: center; word-wrap: break-word;'>Vì dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ (Noun)</td><td style='text-align: center; word-wrap: break-word;'>My father is a chef. Mrs. Fanning was an assistant at Walmart Inc.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Cụm danh từ (Noun Phrase)</td><td style='text-align: center; word-wrap: break-word;'>Now Cindy has become a beautiful woman. Fansipan is the highest mountain in Vietnam.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Tính từ (Adjective)</td><td style='text-align: center; word-wrap: break-word;'>That project seemed difficult. The leaves turn brown before they fall.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Trạng từ (Adverb)</td><td style='text-align: center; word-wrap: break-word;'>Loan speaks Chinese well. I haven&#x27;t done my homework yet.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ (Pronoun)</td><td style='text-align: center; word-wrap: break-word;'>This cellphone is mine. He did the household chores himself.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ nguyên thế (to-infinitive)</td><td style='text-align: center; word-wrap: break-word;'>He invited me to play tennis with him. My parents don&#x27;t allow me to dye my hair.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh động từ (Gerund)</td><td style='text-align: center; word-wrap: break-word;'>We caught him eating in the restaurant. Do you mind taking out the trash for me?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Mệnh đề (S + V)</td><td style='text-align: center; word-wrap: break-word;'>He asked me if I had watched that film. I&#x27;m worried that I will fail the exam.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dạng bổ ngữ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh từ (Noun)</td><td style='text-align: center; word-wrap: break-word;'>My father is a chef. Mrs. Fanning was an assistant at Walmart Inc.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Cụm danh từ (Noun Phrase)</td><td style='text-align: center; word-wrap: break-word;'>Now Cindy has become a beautiful woman. Fansipan is the highest mountain in Vietnam.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Tính từ (Adjective)</td><td style='text-align: center; word-wrap: break-word;'>That project seemed difficult. The leaves turn brown before they fall.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Trạng từ (Adverb)</td><td style='text-align: center; word-wrap: break-word;'>Loan speaks Chinese well. I haven&#x27;t done my homework yet.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ (Pronoun)</td><td style='text-align: center; word-wrap: break-word;'>This cellphone is mine. He did the household chores himself.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Động từ nguyên thể (to-infinitive)</td><td style='text-align: center; word-wrap: break-word;'>He invited me to play tennis with him. My parents don&#x27;t allow me to dye my hair.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Danh động từ (Gerund)</td><td style='text-align: center; word-wrap: break-word;'>We caught him eating in the restaurant. Do you mind taking out the trash for me?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Mệnh đề (S + V)</td><td style='text-align: center; word-wrap: break-word;'>He asked me if I had watched that film. I&#x27;m worried that I will fail the exam.</td></tr></table>
 
 ### e. Định ngữ (Adjuncts)
 
-Định ngữ là trạng từ hoặc trạng ngữ, có chức năng bổ sung thông tin trong câu, cho ta biết thời gian, nơi chốn, tán suất hoặc mục đích.
+Định ngữ là trạng từ hoặc trạng ngữ, có chức năng bổ sung thông tin trong câu, cho ta biết thời gian, nơi chốn, tần suất hoặc mục đích.
 
 Ta có các dạng định ngữ sau:
 
@@ -121,11 +121,11 @@ Ta có các dạng định ngữ sau:
 
 #### III. Trật tự từ trong câu (Order of Words in a Sentence)
 
-Trật tự từ (word order) là cách sáp xếp các thành phần của câu (chủ ngữ, vị ngữ, tân ngữ, trạng ngữ...) theo một thứ tự nhất định để truyền đạt ý nghĩa của câu một cách rõ ràng, mạch lạc.
+Trật tự từ (word order) là cách sắp xếp các thành phần của câu (chủ ngữ, vị ngữ, tân ngữ, trạng ngữ...) theo một thứ tự nhất định để truyền đạt ý nghĩa của câu một cách rõ ràng, mạch lạc.
 
-Ta có các máu câu có bạn sau:
+Ta có các mẫu câu cơ bản sau:
 
-a. Subject + Vorb
+a. Subject + Verb
 
 Ex; Natalie sings.
 
@@ -173,7 +173,7 @@ S V I.O. D.O.
 
 S V I.O. D.O.
 
-f.  $ \underline{\text{Subject + Vorb + Direct Object (D.O.) + Preposition + Indirect Object (I.O.)}} $
+f.  $ \underline{\text{Subject + Verb + Direct Object (D.O.) + Preposition + Indirect Object (I.O.)}} $
 
 Ex: I lent five dollars to Helen.
 
@@ -223,15 +223,15 @@ S V O A
 
 S V O A
 
-# PHÂN LOẠI CẤU (CLASSIFICATION OF SENTENCES)
+# PHÂN LOẠI CÂU (CLASSIFICATION OF SENTENCES)
 
-Các câu trong tiếng Anh có thể được phân loại theo câu trúc ngữ pháp (grammatical structure) hoặc chức năng (function) của nó.
+Các câu trong tiếng Anh có thể được phân loại theo cấu trúc ngữ pháp (grammatical structure) hoặc chức năng (function) của nó.
 
 ### Phân loại câu dựa vào cấu trúc ngữ pháp (Grammatical structure)
 
-Khi phân loại câu theo ngữ pháp, ta tập trung vào câu trúc và cách sáp xếp các mệnh đề bên trong câu.
+Khi phân loại câu theo ngữ pháp, ta tập trung vào cấu trúc và cách sắp xếp các mệnh đề bên trong câu.
 
-Co bón loại câu sau:
+Có bốn loại câu sau:
 
 1. Câu đơn (Simple sentences): là câu chỉ có một mệnh đề độc lập, và không có mệnh đề phụ nào. Một câu đơn có đầy đủ hai thành phần chính là một chủ ngữ và một động từ, nhưng cũng có thể có những thành phần khác như tân ngữ, bổ ngữ hay trạng ngữ.
 
@@ -239,7 +239,7 @@ Ex: He was drawing a picture.
 
 John promised that he would go.
 
-2. Câu ghép (Compound sentences): là một câu được tạo thành từ hai hoặc nhiều mệnh đề độc lập, thường được kết nối với nhau bằng các liên từ như: and (và), but (nhưng), or (hoặc), so (vì vậy), for (bởi vĩ), yet (nhưng), nor (cũng không), etc, hoặc dấu chấm phẩy nối giữa các mệnh đề.
+2. Câu ghép (Compound sentences): là một câu được tạo thành từ hai hoặc nhiều mệnh đề độc lập, thường được kết nối với nhau bằng các liên từ như: and (và), but (nhưng), or (hoặc), so (vì vậy), for (bởi vì), yet (nhưng), nor (cũng không), etc, hoặc dấu chấm phẩy nối giữa các mệnh đề.
 
  $ \underline{Ex} $: She wanted to go to the party, but she had too much work.
 
@@ -285,7 +285,7 @@ Dựa vào chức năng, ta có bốn loại câu sau:
 
 1. Câu trần thuật (Declarative sentences): là loại câu dùng để trình bày, tường thuật, miêu tả một sự việc, hiện tượng, hành động, trạng thái, hoặc đưa ra ý kiến. Câu trần thuật thường kết thúc bằng dấu chấm câu (.).
 
-Câu trần thuật có thể ở dạng khẳng định (affirmative), hoặc phù định (negattive).
+Câu trần thuật có thể ở dạng khẳng định (affirmative), hoặc phủ định (negative).
 
 Ex: My daughter enjoys reading science books.
 
@@ -293,9 +293,9 @@ The weather isn't warm.
 
 2. Câu nghi vấn (Interrogative sentences): là loại câu được dùng để đặt câu hỏi nhằm thu thập thông tin, yêu cầu sự giải thích hoặc làm rõ một vấn đề nào đó.
 
-Câu nghị vấn gồm có các loại sau:
+Câu nghi vấn gồm có các loại sau:
 
-a. Câu hỏi Có-Không (Yes-No questons): là loại câu hỏi được sử dụng để hỏi khi muốn nhận một trong hai câu trả lời đơn giản là có (yes) hoặc không (no).
+a. Câu hỏi Có-Không (Yes-No questions): là loại câu hỏi được sử dụng để hỏi khi muốn nhận một trong hai câu trả lời đơn giản là có (yes) hoặc không (no).
 
 Ta có hai dạng câu hỏi Có-Không:
 
@@ -315,15 +315,15 @@ Ex: Did he talk to you? - Yes, he did./ No, he didn't.
 
 Do you agree with me? - Yes, I do./ No, I don't.
 
-- Câu hỏi phủ định (Negattive Questions): là dạng câu hỏi được thành lập bằng cách thêm not (n't) vào sau động từ be hoặc trợ động từ khác.
+- Câu hỏi phủ định (Negative Questions): là dạng câu hỏi được thành lập bằng cách thêm not (n't) vào sau động từ be hoặc trợ động từ khác.
 
 Mục đích sử dụng của câu hỏi phủ định:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Mục đích sử dụng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Diễn đạt sự ngạc nhiên (vì một việc gì đó không xảy ra)</td><td style='text-align: center; word-wrap: break-word;'>Don&#x27;t you see that dog? It&#x27;s over there. What? Didn&#x27;t you watch this drama?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Diễn đạt sự nghi ngờ hoặc không chắc chắn</td><td style='text-align: center; word-wrap: break-word;'>Won&#x27;t your dad attend your graduation ceremony? Didn&#x27;t he call you back?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Mong đòi nguoi nghe đóng y voi mình</td><td style='text-align: center; word-wrap: break-word;'>Isn&#x27;t it a beautiful dress? (= It&#x27;s a beautiful dress, isn&#x27;t it?) Haven&#x27;t we met before? (= We have met before, haven&#x27;t we?)</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Mục đích sử dụng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Diễn đạt sự ngạc nhiên (vì một việc gì đó không xảy ra)</td><td style='text-align: center; word-wrap: break-word;'>Don&#x27;t you see that dog? It&#x27;s over there. What? Didn&#x27;t you watch this drama?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Diễn đạt sự nghi ngờ hoặc không chắc chắn</td><td style='text-align: center; word-wrap: break-word;'>Won&#x27;t your dad attend your graduation ceremony? Didn&#x27;t he call you back?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Mong đợi người nghe đồng ý với mình</td><td style='text-align: center; word-wrap: break-word;'>Isn&#x27;t it a beautiful dress? (= It&#x27;s a beautiful dress, isn&#x27;t it?) Haven&#x27;t we met before? (= We have met before, haven&#x27;t we?)</td></tr></table>
 
-Với câu hỏi phủ định, trả lợi Yes có nghĩa là không đúng, còn No có nghĩa là đúng.
+Với câu hỏi phủ định, trả lời Yes có nghĩa là không đúng, còn No có nghĩa là đúng.
 
 Ex: Haven't you done your homework?
 
@@ -335,13 +335,13 @@ Ex: Haven't you done your homework?
 
 Câu hỏi Có-Không khi sử dụng động từ tình thái thường mang hàm ý đưa ra lời gợi ý, để nghĩ, yêu cầu, lời mời hoặc xin phép lịch sự.
 
-Ex: Shall we go to the water park?→ lòi gòi y (suggestion)
+Ex: Shall we go to the water park? → lời gợi ý (suggestion)
 
-Can I give you a nde?→ lòi dê nghị (offer)
+Can I give you a ride? → lời đề nghị (offer)
 
-Could you pass the salt, please?→ lời yêu câu (request)
+Could you pass the salt, please? → lời yêu cầu (request)
 
-Would you like a glass of wine? → lời môi (invitation)
+Would you like a glass of wine? → lời mời (invitation)
 
 May I borrow your pen? → xin phép (permission)
 
@@ -355,7 +355,7 @@ Câu hỏi Wh- thường bắt đầu bằng các nghi vấn từ (question word
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Nghi vấn từ</td><td style='text-align: center; word-wrap: break-word;'>Vi dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Who (ai)</td><td style='text-align: center; word-wrap: break-word;'>Who are you waiting for? Who told you that story?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>What (cái gì)</td><td style='text-align: center; word-wrap: break-word;'>What is your favourite colour? What did she do yesterday?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>When (lúc nào)</td><td style='text-align: center; word-wrap: break-word;'>When will they visit us? When does the movie start?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Where (ở đâu)</td><td style='text-align: center; word-wrap: break-word;'>Where should I go to find my cat? Where's the library?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Why (tại sao)</td><td style='text-align: center; word-wrap: break-word;'>Why does he look so sad? Why were you late?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>How (như thế nào, bằng cách nào)</td><td style='text-align: center; word-wrap: break-word;'>How do I get to the museum? How can we make a difference?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whose (của ai)</td><td style='text-align: center; word-wrap: break-word;'>Whose daughter is she? Whose keys are lying on the table?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Which (cái nào)</td><td style='text-align: center; word-wrap: break-word;'>Which book do you recommend? Which hospital were you born in?</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Nghi vấn từ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Who (ai)</td><td style='text-align: center; word-wrap: break-word;'>Who are you waiting for? Who told you that story?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>What (cái gì)</td><td style='text-align: center; word-wrap: break-word;'>What is your favourite colour? What did she do yesterday?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>When (lúc nào)</td><td style='text-align: center; word-wrap: break-word;'>When will they visit us? When does the movie start?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Where (ở đâu)</td><td style='text-align: center; word-wrap: break-word;'>Where should I go to find my cat? Where's the library?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Why (tại sao)</td><td style='text-align: center; word-wrap: break-word;'>Why does he look so sad? Why were you late?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>How (như thế nào, bằng cách nào)</td><td style='text-align: center; word-wrap: break-word;'>How do I get to the museum? How can we make a difference?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whose (của ai)</td><td style='text-align: center; word-wrap: break-word;'>Whose daughter is she? Whose keys are lying on the table?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Which (cái nào)</td><td style='text-align: center; word-wrap: break-word;'>Which book do you recommend? Which hospital were you born in?</td></tr></table>
 
 
 
@@ -363,7 +363,7 @@ Câu hỏi Wh- thường bắt đầu bằng các nghi vấn từ (question word
 
 Ngoài ra còn một số cụm từ dùng để hỏi khác: what time, what kind of, what sort of, what type of, how long, how often, how far, how much, how many, how old, how high, v.v.
 
-Ex: How far is it from Nha Trang to Sat Gon?
+Ex: How far is it from Nha Trang to Sài Gòn?
 
 What kind of weather do you like?
 
@@ -413,7 +413,7 @@ Một số trường hợp đặc biệt của câu hỏi đuôi
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Với I am → câu hỏi đuôi là aren't I?</td><td style='text-align: center; word-wrap: break-word;'>I am helpful, aren't I?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Với Let's → câu hỏi đuôi là shall we?</td><td style='text-align: center; word-wrap: break-word;'>I am right, aren't I?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Với câu mệnh lệnh → câu hỏi đuôi thuờng là will you, would you, can you, could you + Sử dụng won't you nếu muốn ai đó làm gì đó một cách lịch sự. + Sử dụng can't you khi muốn thể hiện sự mất kiên nhẫn hoặc bực bội.</td><td style='text-align: center; word-wrap: break-word;'>Let's go for a walk, shall we? Let's make a chocolate cake, shall we? Open the door, will you? Be quiet, would you? Sit down, won't you? Come in, won't you? Do your homework, can't you? Go to bed, can't you?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Voi there is/are → câu hỏi đuôi là isn't there hoặc aren't there</td><td style='text-align: center; word-wrap: break-word;'>There's a problem, isn't there? There aren't any seats left, are there?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi chủ ngữ ở dạng phủ định như nobody, no one, nothing, hoặc có trạng từ phù định như no, never, none, rarely, barely, seldom, hardly, scarely, little → câu hỏi đuôi là dạng khẳng định.</td><td style='text-align: center; word-wrap: break-word;'>Nobody wants to be alone, do they? Nothing was stolen, was it? It hardly rains in winter, is it? He's never been to Paris, has he?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi chủ ngữ là everybody, everyone, someone, somebody, anyone, anybody, no one nobody, these, those và all (of) + Plural Noun → ta sử dụng đại từ they trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>These are expensive, aren't they? Someone has painted the wall, hasn't they? Anybody can play the guitar, can't they? All of the tickets were sold out, weren't they?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi chủ ngữ là everything, something, nothing, this, that, và all (of) + Uncoutable Noun → ta sử dụng đại từ it trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>This is your dog, isn't it? Something will happen soon, won't it? Nothing has changed, has it? All the information is clear, isn't it?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nếu động từ chính là have → ta có thể sử dụng have hoặc do trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>They have plenty of time, don't/haven't they? Peter has a solution, doesn't/hasn't he?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nếu động từ là dạng used to + to infinitive → ta sử dụng did trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>Your dad used to live in London, didn't he? Nicole used to work there, didn't she?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nếu động từ là dạng had better + bare infinitive → ta sử dụng had trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>You'd better finish your work, hadn't you? He'd better clean his room, hadn't he?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nếu động từ là dạng would rather + bare infinitive → ta sử dụng would trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>We would rather wait here, wouldn't we? I would rather sleep early, wouldn't I?</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Với I am → câu hỏi đuôi là aren't I?</td><td style='text-align: center; word-wrap: break-word;'>I am helpful, aren't I?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Với Let's → câu hỏi đuôi là shall we?</td><td style='text-align: center; word-wrap: break-word;'>I am right, aren't I?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Với câu mệnh lệnh → câu hỏi đuôi thuờng là will you, would you, can you, could you + Sử dụng won't you nếu muốn ai đó làm gì đó một cách lịch sự. + Sử dụng can't you khi muốn thể hiện sự mất kiên nhẫn hoặc bực bội.</td><td style='text-align: center; word-wrap: break-word;'>Let's go for a walk, shall we? Let's make a chocolate cake, shall we? Open the door, will you? Be quiet, would you? Sit down, won't you? Come in, won't you? Do your homework, can't you? Go to bed, can't you?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Voi there is/are → câu hỏi đuôi là isn't there hoặc aren't there</td><td style='text-align: center; word-wrap: break-word;'>There's a problem, isn't there? There aren't any seats left, are there?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi chủ ngữ ở dạng phủ định như nobody, no one, nothing, hoặc có trạng từ phủ định như no, never, none, rarely, barely, seldom, hardly, scarcely, little → câu hỏi đuôi là dạng khẳng định.</td><td style='text-align: center; word-wrap: break-word;'>Nobody wants to be alone, do they? Nothing was stolen, was it? It hardly rains in winter, is it? He's never been to Paris, has he?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi chủ ngữ là everybody, everyone, someone, somebody, anyone, anybody, no one nobody, these, those và all (of) + Plural Noun → ta sử dụng đại từ they trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>These are expensive, aren't they? Someone has painted the wall, hasn't they? Anybody can play the guitar, can't they? All of the tickets were sold out, weren't they?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi chủ ngữ là everything, something, nothing, this, that, và all (of) + Uncountable Noun → ta sử dụng đại từ it trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>This is your dog, isn't it? Something will happen soon, won't it? Nothing has changed, has it? All the information is clear, isn't it?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nếu động từ chính là have → ta có thể sử dụng have hoặc do trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>They have plenty of time, don't/haven't they? Peter has a solution, doesn't/hasn't he?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nếu động từ là dạng used to + to infinitive → ta sử dụng did trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>Your dad used to live in London, didn't he? Nicole used to work there, didn't she?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nếu động từ là dạng had better + bare infinitive → ta sử dụng had trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>You'd better finish your work, hadn't you? He'd better clean his room, hadn't he?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nếu động từ là dạng would rather + bare infinitive → ta sử dụng would trong câu hỏi đuôi.</td><td style='text-align: center; word-wrap: break-word;'>We would rather wait here, wouldn't we? I would rather sleep early, wouldn't I?</td></tr></table>
 
 
 
@@ -421,7 +421,7 @@ Một số trường hợp đặc biệt của câu hỏi đuôi
 
 #### Ngữ điệu trong câu hỏi đuôi
 
-- Ngữ điệu xuống (falling intonation ↘): được sử dụng khi người nói khá chắc chắn về thông tin và chỉ chờ người nghe động tình với mình.
+- Ngữ điệu xuống (falling intonation ↘): được sử dụng khi người nói khá chắc chắn về thông tin và chỉ chờ người nghe đồng tình với mình.
 
 Ex: It's a lovely song, isn't it ∨?
 
@@ -433,7 +433,7 @@ Ex: You're coming with us, aren't you ↗?
 
 That's your sister, isn't it ↗?
 
-Tóm lại, ngữ điệu rất quan trọng vì nó thế hiện thái độ và mục đích của người nói. Cùng một câu hỏi đuôi nhưng ngữ điệu khác nhau sẽ mang ý nghĩa khác nhau.
+Tóm lại, ngữ điệu rất quan trọng vì nó thể hiện thái độ và mục đích của người nói. Cùng một câu hỏi đuôi nhưng ngữ điệu khác nhau sẽ mang ý nghĩa khác nhau.
 
 ### d. Câu hỏi trần thuật (Declarative questions)
 
@@ -441,7 +441,7 @@ Câu hỏi trần thuật là dạng câu hỏi được hình thành từ một
 
 Ex: Oh! That's your new car?
 
-Watt! He hasn't come yet?
+What! He hasn't come yet?
 
 ### e. Câu hỏi hồi đáp (Reply questions)
 
@@ -449,9 +449,9 @@ Ta có 2 loại câu hỏi hồi đáp sau:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Mục đích sử dụng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu hỏi hồi đáp sử dụng Question Words</td><td style='text-align: center; word-wrap: break-word;'>dùng để phản hồi hoặc tiếp tục cuộc trò chuyện dựa trên thông tin đã được cung cấp trước do.</td><td style='text-align: center; word-wrap: break-word;'>Rooney is going to move to California. - When? Can you talk to him about this? - Why me?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu hỏi hồi đáp sử dụng cấu trúc trợ động từ + đai từ (auxiliary verb + pronoun)</td><td style='text-align: center; word-wrap: break-word;'>dùng để thể hiện phản ứng của người nghe trước sự việc, chứ không phải để hỏi thông tin.</td><td style='text-align: center; word-wrap: break-word;'>Scarlet will get married next month. - Will she? I failed the physical exam. - Did you?</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Mục đích sử dụng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu hỏi hồi đáp sử dụng Question Words</td><td style='text-align: center; word-wrap: break-word;'>dùng để phản hồi hoặc tiếp tục cuộc trò chuyện dựa trên thông tin đã được cung cấp trước đó.</td><td style='text-align: center; word-wrap: break-word;'>Rooney is going to move to California. - When? Can you talk to him about this? - Why me?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu hỏi hồi đáp sử dụng cấu trúc trợ động từ + đại từ (auxiliary verb + pronoun)</td><td style='text-align: center; word-wrap: break-word;'>dùng để thể hiện phản ứng của người nghe trước sự việc, chứ không phải để hỏi thông tin.</td><td style='text-align: center; word-wrap: break-word;'>Scarlet will get married next month. - Will she? I failed the physical exam. - Did you?</td></tr></table>
 
-Trong trường hợp để hỏi lại thông tin vừa nghe được, ta có thể nhắc lại thông tin đó và lên giọng ở cuối câu. Nếu chi muốn hỏi về một phần cụ thể của thông tin, ta có thể thay thế phần đó bằng một từ để hỏi.
+Trong trường hợp để hỏi lại thông tin vừa nghe được, ta có thể nhắc lại thông tin đó và lên giọng ở cuối câu. Nếu chỉ muốn hỏi về một phần cụ thể của thông tin, ta có thể thay thế phần đó bằng một từ để hỏi.
 
 Ex: Hey! I've won the lottery. - You've won the lottery?
 
@@ -459,7 +459,7 @@ I'm going with Tom tonight. - You're going with who?
 
 ### f. Câu hỏi tu từ (Rhetorical questions)
 
-Câu hỏi tu từ là những câu hỏi không nhằm mục đích yêu cầu câu trả lời trực tiếp từ người nghe, mà được sử dụng để nhận mạnh một điểm nào đó, khuyến khích suy ngẫm hoặc nhấn mạnh cảm xúc của người nói.
+Câu hỏi tu từ là những câu hỏi không nhằm mục đích yêu cầu câu trả lời trực tiếp từ người nghe, mà được sử dụng để nhấn mạnh một điểm nào đó, khuyến khích suy ngẫm hoặc nhấn mạnh cảm xúc của người nói.
 
 Ex: How many times did I tell you? [= I told you many times.]
 
@@ -471,7 +471,7 @@ What could be more important than family? [Family is the most important.]
 
 Câu mệnh lệnh là loại câu dùng để đưa ra một yêu cầu, một mệnh lệnh, một lời khuyên, hoặc một chỉ dẫn.
 
-Đặc điểm nổi bật của câu mệnh lệnh là thường không có chủ ngữ rõ ràng (chủ ngữ thường được ngầm hiểu là you). Để cụ thể hơn, chúng ta có thể dùng danh từ hoặc đại từ để nhấn mạnh hoặc chi rõ chúng ta đang nói với ai.
+Đặc điểm nổi bật của câu mệnh lệnh là thường không có chủ ngữ rõ ràng (chủ ngữ thường được ngầm hiểu là you). Để cụ thể hơn, chúng ta có thể dùng danh từ hoặc đại từ để nhấn mạnh hoặc chỉ rõ chúng ta đang nói với ai.
 
 Ta có hai loại câu mệnh lệnh sau:
 
@@ -505,7 +505,7 @@ Một số trường hợp khác của câu mệnh lệnh
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh với câu trúc Let (+object) + (not) + verb (base of)</td><td style='text-align: center; word-wrap: break-word;'>Let&#x27;s bake some cookies. Let me help you carry those boxes. Let&#x27;s not stay here too long. (= We shouldn&#x27;t stay here too long.) Let the children not run in this area. (= Don&#x27;t let the children run in this area.)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>• Let&#x27;s = Let us</td><td style='text-align: center; word-wrap: break-word;'>Fill out this form, please. Please have a seat. Kindly follow the instructions. Kindly wait here for a moment.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh với please (làm on) hoặc kindly (vui lòng) mang nghĩa yêu cầu lịch sự • Kindly luôn đặt ở đầu câu</td><td style='text-align: center; word-wrap: break-word;'>Always look both ways before crossing. Never stop learning new things.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh với always và never</td><td style='text-align: center; word-wrap: break-word;'>Would you (please) turn down the music? Could you listen to me, please? Would you mind checking these documents? Would you be kind enough to feed the cat while I&#x27;m away?</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh với cấu trúc Let (+object) + (not) + verb (base of)</td><td style='text-align: center; word-wrap: break-word;'>Let&#x27;s bake some cookies. Let me help you carry those boxes. Let&#x27;s not stay here too long. (= We shouldn&#x27;t stay here too long.) Let the children not run in this area. (= Don&#x27;t let the children run in this area.)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>• Let&#x27;s = Let us</td><td style='text-align: center; word-wrap: break-word;'>Fill out this form, please. Please have a seat. Kindly follow the instructions. Kindly wait here for a moment.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh với please (làm ơn) hoặc kindly (vui lòng) mang nghĩa yêu cầu lịch sự • Kindly luôn đặt ở đầu câu</td><td style='text-align: center; word-wrap: break-word;'>Always look both ways before crossing. Never stop learning new things.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh với always và never</td><td style='text-align: center; word-wrap: break-word;'>Would you (please) turn down the music? Could you listen to me, please? Would you mind checking these documents? Would you be kind enough to feed the cat while I&#x27;m away?</td></tr></table>
 
 ## 4. Câu cảm thán (Exclamatory sentences)
 
@@ -533,7 +533,7 @@ b. Câu cảm thán sử dụng How
 
 d. Câu cảm thán dạng phủ định
 
- $ B\theta + not + subject + adjective $
+ $ Be + not + subject + adjective $
 
 Ex: Isn't that girl tall!
 
@@ -541,7 +541,7 @@ Aren't these rabbits cute!
 
 ## HÌNH THỨC NHẤN MẠNH (EMPHASIS)
 
-Nhấn mạnh (emphasis) là một kỹ thuật ngôn ngữ được sử dụng để làm nổi bật một phần cụ thể của câu hoặc văn bản. Mục đích của việc nhấ mạnh là thu hút sự chú ý của người nghe hoặc người đọc vào những thông tin quan trọng nhất mà người nói hoặc người viết muốn truyền tải.
+Nhấn mạnh (emphasis) là một kỹ thuật ngôn ngữ được sử dụng để làm nổi bật một phần cụ thể của câu hoặc văn bản. Mục đích của việc nhấn mạnh là thu hút sự chú ý của người nghe hoặc người đọc vào những thông tin quan trọng nhất mà người nói hoặc người viết muốn truyền tải.
 
 ## 1. Nhấn mạnh trong phát âm (Emphasis in pronunciation)
 
@@ -549,7 +549,7 @@ Nhấn mạnh trong phát âm (Emphasis in pronunciation) là cách mà người
 
 ## 2. Nhấn mạnh trong văn viết (Emphasis in writing)
 
-Để làm nổi bật từ ngữ trong văn bản, người ta thường dùng các hình thức như in nghiêng, in đảm, viết hoa hoặc gạch chân.
+Để làm nổi bật từ ngữ trong văn bản, người ta thường dùng các hình thức như in nghiêng, in đậm, viết hoa hoặc gạch chân.
 
 Một số hình thức nhấn mạnh sau:
 
@@ -557,7 +557,7 @@ a. Nhấn mạnh động từ (Emphasise verbs)
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Cách thức</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Để thế hiện sự tương phản hoặc giúp câu nói có trọng lượng hơn, ta thường nhấn mạnh trợ động từ (auxiliary verb).</td><td style='text-align: center; word-wrap: break-word;'>You must listen to me! I am serious. We can&#x27;t do that! We should leave now. It&#x27;s late! Yes, he is a doctor.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nếu trong câu không có trợ động từ, ta dùng trợ động từ do với công thức sau: do/ does/ did + verb (hare-in)</td><td style='text-align: center; word-wrap: break-word;'>William did work through the night. Don&#x27;t worry! He does know the answer. Jack and Tina do live together in France. She did stay up late to finish her task.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Có thể sử dụng mệnh đề What ... verb để nhấn mạnh động từ với công thức sau: What + subject + verb + be + noun/ infinitive with(out) to</td><td style='text-align: center; word-wrap: break-word;'>Maggie teaches English to children. → What Maggie does is (to) teach English to children. I want to travel around the world. → What I want is (to) travel around the world.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Câu trúc này còn được gọi là câu chẻ với Wh- (wh-deft sentences), xem phần c bên dưới</td><td rowspan="2">You have definitely changed. → You definitely have changed! We will certainly win. → We certainly will win!</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Trong vài trường hợp, khi trợ động từ được nhấn mạnh thì trạng từ sẽ được đặt trước trợ động từ đó.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Cách thức</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Để thế hiện sự tương phản hoặc giúp câu nói có trọng lượng hơn, ta thường nhấn mạnh trợ động từ (auxiliary verb).</td><td style='text-align: center; word-wrap: break-word;'>You must listen to me! I am serious. We can&#x27;t do that! We should leave now. It&#x27;s late! Yes, he is a doctor.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nếu trong câu không có trợ động từ, ta dùng trợ động từ do với công thức sau: do/ does/ did + verb (bare-inf.)</td><td style='text-align: center; word-wrap: break-word;'>William did work through the night. Don&#x27;t worry! He does know the answer. Jack and Tina do live together in France. She did stay up late to finish her task.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Có thể sử dụng mệnh đề What ... verb để nhấn mạnh động từ với công thức sau: What + subject + verb + be + noun/ infinitive with(out) to</td><td style='text-align: center; word-wrap: break-word;'>Maggie teaches English to children. → What Maggie does is (to) teach English to children. I want to travel around the world. → What I want is (to) travel around the world.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Cấu trúc này còn được gọi là câu chẻ với Wh- (wh-cleft sentences), xem phần c bên dưới</td><td rowspan="2">You have definitely changed. → You definitely have changed! We will certainly win. → We certainly will win!</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Trong vài trường hợp, khi trợ động từ được nhấn mạnh thì trạng từ sẽ được đặt trước trợ động từ đó.</td></tr></table>
 
 ### b. Nhấn mạnh tính từ (Emphasise adjectives)
 
@@ -567,7 +567,7 @@ Hình thức nhấn mạnh tính từ được sử dụng để diễn tả m�
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>It + be + adjective + (for sb) + to-infinitive</td><td style='text-align: center; word-wrap: break-word;'>Travelling to new places is exciting. → It is exciting to travel to new places.Watching the sunset over the ocean was amazing. → It was amazing to watch the sunset over the ocean.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>So + adjective + to be + subject + that Clause</td><td rowspan="2">The traffic was so heavy that we were late for class. → So heavy was the traffic that we were late for class.The problem was so complicated that it took hours to solve. → So complicated was the problem that it took hours to solve.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>(đây là dạng đảo ngữ của cấu trúc so...that)</td></tr></table>
 
-Ngoài ra, ta có thể đặt thêm trạng từ chỉ mục độ sau tính từ, như: very, really, so, extramely, absolutely, terribly ...
+Ngoài ra, ta có thể đặt thêm trạng từ chỉ mức độ sau tính từ, như: very, really, so, extremely, absolutely, terribly ...
 
 Ex: Kevin was so happy to see her again.
 
@@ -583,7 +583,7 @@ Câu chẻ với "It" (It-cleft)
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Công thức câu chẻ nhấn mạnh chủ ngữ: It + be + S + who/that + verb...</td><td style='text-align: center; word-wrap: break-word;'>Daisy wrote the letter to Mrs Moore. → It was Daisy who/that wrote the letter to Mrs Moore. The rain ruined the outdoor concert. → It was the rain that ruined the outdoor concert.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Nếu chủ ngữ chỉ vật, ta chỉ sử dụng that.</td><td style='text-align: center; word-wrap: break-word;'>We will invite Larry to dinner. → It is/will be Larry whom/that we will invite to dinner.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Công thức câu chẻ nhấn mạnh tân ngữ: It + be + O + whom/that + S + V...</td><td style='text-align: center; word-wrap: break-word;'>He has installed the new software. → It is/the new software that he has installed.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Nếu tân ngữ chỉ vật, ta chỉ sử dụng that.</td><td style='text-align: center; word-wrap: break-word;'>He has installed the new software. → It is/the new software that he has installed.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Công thức câu chẻ nhấn mạnh trạng ngữ chỉ nơi chốn/ thời gian/ lý do: It + be + adverb + that + S + V...</td><td style='text-align: center; word-wrap: break-word;'>My parents first met in that small café. → It was in that small café that my parents first met. She learned to swim during summer vacation. → It was during summer vacation that she learned to swim. The company will expand because of the new policy. → It is because of the new policy that the company will expand.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Công thức câu chẻ nhấn mạnh chủ ngữ: It + be + S + who/that + verb...</td><td style='text-align: center; word-wrap: break-word;'>Daisy wrote the letter to Mrs Moore. → It was Daisy who/that wrote the letter to Mrs Moore. The rain ruined the outdoor concert. → It was the rain that ruined the outdoor concert.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Nếu chủ ngữ chỉ vật, ta chỉ sử dụng that.</td><td style='text-align: center; word-wrap: break-word;'>We will invite Larry to dinner. → It is/will be Larry whom/that we will invite to dinner.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Công thức câu chẻ nhấn mạnh tân ngữ: It + be + O + whom/that + S + V...</td><td style='text-align: center; word-wrap: break-word;'>He has installed the new software. → It is the new software that he has installed.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Nếu tân ngữ chỉ vật, ta chỉ sử dụng that.</td><td style='text-align: center; word-wrap: break-word;'>He has installed the new software. → It is the new software that he has installed.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Công thức câu chẻ nhấn mạnh trạng ngữ chỉ nơi chốn/ thời gian/ lý do: It + be + adverb + that + S + V...</td><td style='text-align: center; word-wrap: break-word;'>My parents first met in that small café. → It was in that small café that my parents first met. She learned to swim during summer vacation. → It was during summer vacation that she learned to swim. The company will expand because of the new policy. → It is because of the new policy that the company will expand.</td></tr></table>
 
 
 
@@ -591,7 +591,7 @@ Câu chẻ với "It" (It-cleft)
 
 #### LƯU Ý:
 
-Khi chủ ngữ cần được nhấn mạnh đang ở đang số nhiều (plural noun), động từ ở mệnh đề phụ vẫn được chia theo chủ ngữ số nhiều đó, còn động từ to be đi với IT  luôn ở đang số ít → It is/ was.
+Khi chủ ngữ cần được nhấn mạnh đang ở dạng số nhiều (plural noun), động từ ở mệnh đề phụ vẫn được chia theo chủ ngữ số nhiều đó, còn động từ to be đi với IT luôn ở dạng số ít → It is/ was.
 
 Ex: It was my parents who/ that suggested the idea.
 
@@ -611,18 +611,18 @@ It is the books that are on the shelf.
 
 #### LƯU Ý:
 
-Nếu động từ chính đang ở thì tiếp diễn hoặc ở đang gerund (V-ing), động từ ở mình để sau phải là gerund.
+Nếu động từ chính đang ở thì tiếp diễn hoặc ở dạng gerund (V-ing), động từ ở mệnh đề sau phải là gerund.
 
 Ex: Albert is cooking dinner. → What Albert is doing is cooking dinner
 She avoided staying up late. → What she avoided was staying up late.
 
-Câu chẻ Wh- dào ngược (Reversed Wh-cleft)
+Câu chẻ Wh- đảo ngược (Reversed Wh-cleft)
 
 Đây là dạng đảo ngược của câu chẻ Wh- ở trên.
 
 Ex: I need a vacation. → What I need is a vacation. (câu chẻ thuận)
 
-→ A vacation is what I need. (câu chế đạo)
+→ A vacation is what I need. (câu chẻ đảo)
 
 ♦ Câu chẻ vói "The thing/ person/ place/ reason" (The thing/person/place/ reason cleft)
 
@@ -654,16 +654,16 @@ We require your immediate attention. → All we require is your immediate attent
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dạng câu mệnh lệnh</td><td style='text-align: center; word-wrap: break-word;'>Vi du</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh khẳng định: Do +  $ V_{\text{dare of}} $</td><td style='text-align: center; word-wrap: break-word;'>Remember to call your dad. → Do remember to call your dad. Take medicine after a meal. → Do take medicine after a meal.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh phú định: Don&#x27;t you +  $ V_{\text{dare of}} $</td><td style='text-align: center; word-wrap: break-word;'>Don&#x27;t pick your nose. → Don&#x27;t you pick your nose. Don&#x27;t draw on the wall. → Don&#x27;t you draw on the wall.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dạng câu mệnh lệnh</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh khẳng định: Do +  $ V_{\text{dare of}} $</td><td style='text-align: center; word-wrap: break-word;'>Remember to call your dad. → Do remember to call your dad. Take medicine after a meal. → Do take medicine after a meal.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh phủ định: Don&#x27;t you +  $ V_{\text{dare of}} $</td><td style='text-align: center; word-wrap: break-word;'>Don&#x27;t pick your nose. → Don&#x27;t you pick your nose. Don&#x27;t draw on the wall. → Don&#x27;t you draw on the wall.</td></tr></table>
 
 
-#### TÓM TẤT KIẾN THỨC
+#### TÓM TẮT KIẾN THỨC
 
 
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Nắm được định nghĩa, các thành phần trong câu và trật tự từ</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Phân biệt được câu đơn, câu ghép, câu phức, và câu phức tổng hợp</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Phân biệt được câu hỏi Có-Không, câu hỏi Wh-, và câu hỏi đuôi</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nắm rõ cách sử dụng câu hỏi đuôi trong tất cả các trường hợp</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nắm rõ các hình thức nhấn mạnh câu</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Biết cách thành lập các loại câu chẻ</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr></table>
 
-# CÂU DIỀU KIỆN (CONDITIONAL SENTENCES)
+# CÂU ĐIỀU KIỆN (CONDITIONAL SENTENCES)
 
 Kiến thức cần nhớ:
 
@@ -675,19 +675,19 @@ Mục tiêu học tập:
 
 - Biết cách sử dụng dạng đảo ngữ của câu điều kiện loại 0, 1, 2 và 3.
 
-- Biết thêm một số cách khác dễ diễn đạt câu điều kiện.
+- Biết thêm một số cách khác để diễn đạt câu điều kiện.
 
 ## 1. Định nghĩa (Definition)
 
-Câu điều kiện (Condittonal sentences) là câu dùng để diễn tả mối quan hệ giữa hai sự việc, trong đó một sự việc (điều kiện) phải xảy ra thì sự việc kia (kết quả) mới có thể xảy ra.
+Câu điều kiện (Conditional sentences) là câu dùng để diễn tả mối quan hệ giữa hai sự việc, trong đó một sự việc (điều kiện) phải xảy ra thì sự việc kia (kết quả) mới có thể xảy ra.
 
-Câu điều kiện thường có hai phân chính:
+Câu điều kiện thường có hai phần chính:
 
 - Mệnh đề If (If-clause): phần bắt đầu với If (nếu) để nêu ra điều kiện.
 
-- Mệnh đề chính (Main clause): phần nêu kết quả nếu điều kiện được thoả măn.
+- Mệnh đề chính (Main clause): phần nêu kết quả nếu điều kiện được thoả mãn.
 
-Tuy vào tính khả thi của điều kiện và thời gian (hiện tại, quá khứ, tương lai), câu điều kiện được chia thành nhiều loại khác nhau với các cấu trúc ngữ pháp tương ứng.
+Tùy vào tính khả thi của điều kiện và thời gian (hiện tại, quá khứ, tương lai), câu điều kiện được chia thành nhiều loại khác nhau với các cấu trúc ngữ pháp tương ứng.
 
 #### II. Các loại câu điều kiện (Types of Conditional Sentences)
 
@@ -703,7 +703,7 @@ Trong câu điều kiện loại 0, cả mệnh đề If và mệnh đề chính
 
 * xem lại cách sử dụng thì hiện tại đơn (Present Simple Tense) ở Chương 2.
 
-b. Công thức đảo ngữ của câu điệu kiện loại 0
+b. Công thức đảo ngữ của câu điều kiện loại 0
 
 
 
@@ -713,7 +713,7 @@ Ex: If you mix water with salt, it dissolves. → Should you mix water with salt
 
 If dogs feel threatened, they bark. → Should dogs feel threatened, they bark.
 
-## 2. Câu điệu kiện loại 1 (First Conditional)
+## 2. Câu điều kiện loại 1 (First Conditional)
 
 a. Công thức chính
 
@@ -721,17 +721,17 @@ a. Công thức chính
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td rowspan="2">If + S + V $ \underline{\text{s(s)}} $ S + will + V $ \underline{\text{baro-tal}} $</td><td style='text-align: center; word-wrap: break-word;'>Diễn tả một tình huống, sự kiện, sự việc có thể xảy ra ở hiện tại hoặc trong tương lai.</td><td style='text-align: center; word-wrap: break-word;'>If it rains tomorrow, I will stay at home. You will go to jail if you break the law.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Có thể dùng như ở dạng câu mệnh lệnh (imperatives)</td><td style='text-align: center; word-wrap: break-word;'>If you see him, tell him to call me. If the phone rings, answer it.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + V $ \underline{\text{s(s)}} $ S + may/can/should + V $ \underline{\text{baro-laf}} $</td><td style='text-align: center; word-wrap: break-word;'>Ngoài will trong mệnh đề chính, ta có thể sử dụng các động từ tình thái khác như: can, could, may, might, should, ought to, had better, must và be going to để diễn tả khả năng, sự cho phép, lời khuyên, đề nghị, sự cần thiết.</td><td style='text-align: center; word-wrap: break-word;'>You must have a driving licence if you want to drive a car. If the weather is nice, we could go for a picnic.</td></tr></table>
 
-Trong câu điều kiện loại 1, mệnh đề If sử dụng thì hiện tại đơn, còn mệnh đề chính sử dụng thi tương lai đơn.
+Trong câu điều kiện loại 1, mệnh đề If sử dụng thì hiện tại đơn, còn mệnh đề chính sử dụng thì tương lai đơn.
 
 xem lại cách sử dụng thì hiện tại đơn (Present Simple Tense) và thì tương lai đơn (Future Simple Tense) ở Chương 2.
 
-b. Một số trường hợp khác của câu điệu kiện loại 1
+b. Một số trường hợp khác của câu điều kiện loại 1
 
-Trong câu diệu kiện loại 1, ngoài công thức chuẩn với thi hiện tại đơn ở mệnh đề If, ta cũng có thể sử dụng thì hiện tại tiếp diễn (Present Progressive) và thi hiện tại hoàn thành (Present Perfect) trong những trường hợp sau:
+Trong câu điều kiện loại 1, ngoài công thức chuẩn với thì hiện tại đơn ở mệnh đề If, ta cũng có thể sử dụng thì hiện tại tiếp diễn (Present Progressive) và thì hiện tại hoàn thành (Present Perfect) trong những trường hợp sau:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + am/is/are + V-ing, S + will + V_{(bare-inf.)}</td><td style='text-align: center; word-wrap: break-word;'>- nhấn mạnh một hành động đang diễn ra ở thời điểm nói. - diễn tả một hành động sẽ xây ra trong tương lai gần.</td><td rowspan="2">If you&#x27;re looking for Molly, you will find her upstairs. If Irene is working late tonight, I will prepare dinner for her. If I have finished writing my paper by tonight, I will go out with my friends. If you have studied all the material, you will easily pass the exam tomorrow.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + has/have + V_{3}, S + will + V_{(bare-in.)}</td><td style='text-align: center; word-wrap: break-word;'>- nhấn mạnh tính hoàn tất của điều kiện trước khi kết quả xảy ra. - nhấn mạnh kết quả của hành động trong quá khứ sẽ ảnh hưởng tới tương lai.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + am/is/are + V-ing, S + will + V_{(bare-inf.)}</td><td style='text-align: center; word-wrap: break-word;'>- nhấn mạnh một hành động đang diễn ra ở thời điểm nói. - diễn tả một hành động sẽ xảy ra trong tương lai gần.</td><td rowspan="2">If you&#x27;re looking for Molly, you will find her upstairs. If Irene is working late tonight, I will prepare dinner for her. If I have finished writing my paper by tonight, I will go out with my friends. If you have studied all the material, you will easily pass the exam tomorrow.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + has/have + V_{3}, S + will + V_{(bare-in.)}</td><td style='text-align: center; word-wrap: break-word;'>- nhấn mạnh tính hoàn tất của điều kiện trước khi kết quả xảy ra. - nhấn mạnh kết quả của hành động trong quá khứ sẽ ảnh hưởng tới tương lai.</td></tr></table>
 
 Ngoài ra, ta có thể dùng should, can, be going to ở mệnh đề If.
 
@@ -755,7 +755,7 @@ If you are going to the store, can you buy some milk?
 
 #### LƯU Ý:
 
-Thông thường, ta KHÔNG sử dụng will trong mệnh đề II.
+Thông thường, ta KHÔNG sử dụng will trong mệnh đề If.
 
 Ex: If she comes, we will go to the cinema. (If she will come...)
 
@@ -779,7 +779,7 @@ If the weather is good, we'll skateboard.
 
 → Should the weather be good, we'll skateboard.
 
-3. Câu điệu kiện loại 2 (Second Conditional)
+3. Câu điều kiện loại 2 (Second Conditional)
 
 a. Công thức chính
 
@@ -797,13 +797,13 @@ Thông thường, ta KHÔNG sử dụng would trong mệnh đề IF.
 
 Ex: If we spoke English, they could communicate better. (NOT If we would speak English...)
 
-Tuy nhiên, would có thể được sử dụng ở mệnh đề if khi muốn đưa ra lời yêu cầu lịch sử hoặc thể hiện sự tôn trong.
+Tuy nhiên, would có thể được sử dụng ở mệnh đề if khi muốn đưa ra lời yêu cầu lịch sự hoặc thể hiện sự tôn trọng.
 
 (tương tự phần lưu ý ở câu điều kiện loại 1)
 
 Ex: If you would excuse me, I'll go and check.
 
-→ Trong ví dụ này, would không diễn là một điều kiện không có thật. mà làm cho lời yêu cầu trở nên nhẹ nhàng hơn.
+→ Trong ví dụ này, would không diễn tả một điều kiện không có thật, mà làm cho lời yêu cầu trở nên nhẹ nhàng hơn.
 
 Ngoài would ra, ta có thể sử dụng would like hoặc would mind trong mệnh đề If với mục đích đưa ra lời gợi ý hoặc đề nghị.
 
@@ -815,19 +815,19 @@ If you wouldn't mind helping me, I would greatly appreciate it.
 
 Trong lối văn viết truyền thống và trang trọng, were được dùng cho tất cả các ngôi I, you, he, she, it, we, they và chủ ngữ ở dạng số ít lẫn số nhiều.
 
-Trong tiếng Anh-Anh, ta có thể dùng was lẫn were với ngói I, he, she, it và chủ ngữ ở dạng số it. Trong tiếng Anh-Mỹ, were được sử dụng phổ biến hơn.
+Trong tiếng Anh-Anh, ta có thể dùng was lẫn were với ngôi I, he, she, it và chủ ngữ ở dạng số ít. Trong tiếng Anh-Mỹ, were được sử dụng phổ biến hơn.
 
  $ \underline{Ex} $: If he was/were here, he would know what to do.
 
 If I was/were a rich man, I would buy a big house.
 
-If there was/were a fire, where would the nearest exist be?
+If there was/were a fire, where would the nearest exit be?
 
 If there were flying cars, traffic would be much more efficient.
 
 ### LƯU Ý:
 
-Với trường hợp If I were you, đấy là một thành ngữ (Idiom) thường được dùng để cho ai đó lời khuyên → KHÔNG dùng If I was you.
+Với trường hợp If I were you, đây là một thành ngữ (Idiom) thường được dùng để cho ai đó lời khuyên → KHÔNG dùng If I was you.
 
 Ex: If I were you, I would say sorry to her. (NOT If I was you)
 
@@ -851,9 +851,9 @@ Cấu trúc này không dùng với động từ know hoặc be.
 
 Ex: If she knew how to cook, she could impress her guests with a homemade meal. (NOT If she was/were to know how to cook...)
 
-d. Cấu trúc đảo ngữ của cấu diệu kiện loại 2
+d. Cấu trúc đảo ngữ của câu điều kiện loại 2
 
-Đào ngữ với động từ to be
+Đảo ngữ với động từ to be
 
 
 
@@ -889,9 +889,9 @@ a. Công thức chính
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Công thức</td><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>If + S + had + V₃, S + would + have + V₃ * Ngoài would have, ta có thế sử dụng could have hoặc might have ở mệnh đề chính để chỉ khả năng có thể xảy ra.</td><td style='text-align: center; word-wrap: break-word;'>Diễn tả sự việc/ hành động không thể xảy ra trong quá khứ bởi điều kiện nói tới đã không xảy ra.</td><td style='text-align: center; word-wrap: break-word;'>We would have gone to the party if we hadn&#x27;t been so tired. If you had told me earlier, I could have helped you.</td></tr></table>
 
-Trong câu điệu kiện loại 3, mệnh đề If sử dụng thì quá khứ hoàn thành, còn mệnh đề chính sử dụng quá khứ phân từ (would have + past participle).
+Trong câu điều kiện loại 3, mệnh đề If sử dụng thì quá khứ hoàn thành, còn mệnh đề chính sử dụng quá khứ phân từ (would have + past participle).
 
-xem lại cách sử dụng thi quá khứ hoàn thành (Past Perfect Tense) ở Chương 2, và quá khứ phân từ (past participle) ở Chương 1.
+xem lại cách sử dụng thì quá khứ hoàn thành (Past Perfect Tense) ở Chương 2, và quá khứ phân từ (past participle) ở Chương 1.
 
 Tuy nhiên, trong một số trường hợp, ta có thể sử dụng could have + V₃ ở mệnh đề if khi diễn tả một khả năng có thể xảy ra trong quá khứ.
 
@@ -905,7 +905,7 @@ If she could have attended the meeting, she would have shared her ideas.
 
 Ex: If Andy had taken that job, he might have moved to Taiwan. (NOT If Andy would have taken...)
 
-### b. Đảo ngữ ở câu điệu kiện loại 3
+### b. Đảo ngữ ở câu điều kiện loại 3
 
 
 
@@ -917,7 +917,7 @@ If she had listened to the warnings, she might have avoided the accident. → Ha
 
 4. Câu điều kiện hỗn hợp (Mixed Conditional)
 
-Câu điều kiện hồn hợp là sự kết hợp giữa các loại câu diệu kiện khác nhau. Có 2 dạng câu điều kiện hỗn hợp sau:
+Câu điều kiện hỗn hợp là sự kết hợp giữa các loại câu điều kiện khác nhau. Có 2 dạng câu điều kiện hỗn hợp sau:
 
 a. Kết hợp Loại 3 và Loại 2 (quá khứ → hiện tại)
 
@@ -943,7 +943,7 @@ Dấu hiệu nhận biết:
 
 b. Kết hợp Loại 2 và Loại 3 (hiện tại → quá khứ)
 
-Diện tả về một hành động/ sự việc sẽ xảy ra trong quá khứ nếu điều kiện nói tới có thật.
+Diễn tả về một hành động/ sự việc sẽ xảy ra trong quá khứ nếu điều kiện nói tới có thật.
 
 
 
@@ -951,11 +951,11 @@ Diện tả về một hành động/ sự việc sẽ xảy ra trong quá khứ
 
  $ \underline{\text{Ex:}} $  $ \underline{\text{If I was/ were rich,}} $  $ \underline{\text{I could have bought that luxurious villa in the past.}} $
 
-Hi $ \underline{\text{en}} $ t $ \underline{\text{ai}} $ Qu $ \underline{\text{a}} $ kh $ \underline{\text{u}} $
+Hiện tại        Quá khứ
 
  $ \underline{\text{If he wasn't/ weren't so lazy,}} $  $ \underline{\text{he would have passed the final exam yesterday.}} $
 
-Hi $ \underline{\text{en}} $ t $ \underline{\text{ai}} $ Qu $ \underline{\text{a}} $ kh $ \underline{\text{u}} $
+Hiện tại        Quá khứ
 
 Dấu hiệu nhận biết:
 
@@ -966,7 +966,7 @@ Dấu hiệu nhận biết:
 
 
 
-<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Cách diễn đạt</td><td style="text-align: center; word-wrap: break-word;">Cách dùng</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td></tr><tr><td rowspan="2">Unless (trừ khi, nếu ... không)</td><td style="text-align: center; word-wrap: break-word;">Thay thế “íf... not”, diễn tả điều kiện phủ định.</td><td style="text-align: center; word-wrap: break-word;">Unless it rains, we will go for a picnic tomorrow. (= If it doesn’t rain,...)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Tuy nhiên, KHÔNG dùng unless (với nghĩa íf ... not) trong câu hỏi, và trong câu điều kiện không có thật (tức loại 2 và 3).</td><td style="text-align: center; word-wrap: break-word;">What will he do if he doesn’t get a raise? (NOT What will he do unless he gets a raise?) If Tiffany wasn’t/weren’t here, I would be lonely. (NOT Unless Tiffany was/were here, I would be lonely.)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Otherwise (nếu không thì)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả hậu quả nếu không làm điều gì đó.</td><td style="text-align: center; word-wrap: break-word;">Study hard. Otherwise, you’ll fail. = (If you don’t study hard,...) We should leave early; otherwise, we’ll get stuck in traffic. = (If we shouldn’t leave early,...)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Provided (that) / Providing (that), As/so long as (miễn là)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả điều kiện cần được đáp ứng.</td><td style="text-align: center; word-wrap: break-word;">You can go to the party provided (that) you finish your homework. (= You can go to the party if you finish your homework.)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">On condition that (với điều kiện là)</td><td style="text-align: center; word-wrap: break-word;">Nhắn mạnh diệu kiến bất buộc.</td><td style="text-align: center; word-wrap: break-word;">I’ll give you the money on condition that you return it next week. (= I’ll give you the money if you return it next week.)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">In case (that) + S + V (trong trường hợp, nếu)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả sự chuẩn bị cho tình huống có thể xảy ra.</td><td style="text-align: center; word-wrap: break-word;">I’ll will take an umbrella in case it rains. (= I’ll take an umbrella if it rains.)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">In case of + Noun/ gerund</td><td colspan="2">In case of losing your passport, contact the embassy. (= If you lose your passport, contact the embassy.)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Imagine (that)/ Suppose/ Supposing + S + V... (giá sư)</td><td style="text-align: center; word-wrap: break-word;">Đưa ra giá định.</td><td style="text-align: center; word-wrap: break-word;">Suppose/ Supposing you lost your phone, what would you do? (= If you lost your phone...)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">But for + noun (nếu không có)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả diệu kiến phủ định trong quá khứ.</td><td style="text-align: center; word-wrap: break-word;">But for your help, I wouldn’t have succeeded. (= If you hadn’t helped me...)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Even if (ngay cá khi)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả điều kiện nhượng bộ.</td><td style="text-align: center; word-wrap: break-word;">Even if it rains, we’ll go. Even if I had the money, I wouldn’t buy that expensive car.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Only if (chỉ với điều kiện là)</td><td style="text-align: center; word-wrap: break-word;">Nhấn mạnh điều kiện duy nhất. Nếu Only if đặt ở đầu câu, thì ta đào ngữ mệnh đề chính ở vế sau.</td><td style="text-align: center; word-wrap: break-word;">The bank will lend you money only if you have a good credit score. Only if you tell the truth will I believe you</td></tr><tr><td style="text-align: center; word-wrap: break-word;">In the event of+noun (trong trưởng hợp)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả sự chuẩn bị cho tình huống có thể xây ra. (= in case)</td><td style="text-align: center; word-wrap: break-word;">In the event of fire, please use the emergency exit.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">In the event that +S +V (trong trưởng hợp, phòng khí)</td><td style="text-align: center; word-wrap: break-word;">Thường dùng trong văn phong trang trọng, văn bản pháp lý</td><td style="text-align: center; word-wrap: break-word;">In the event that the flight is delayed, the airline will provide accommodation.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">If it was/were not for+noun (nếu không có, nếu không nhờ vào)</td><td style="text-align: center; word-wrap: break-word;">Dùng để diễn tả một giả định trái ngược với hiện tại, một điều kiện không có thật ở hiện tại.</td><td style="text-align: center; word-wrap: break-word;">If it was/were not for your help, I wouldn't be able to finish this project. = (Without your help, ...) If it was/were not for my parents' support, I wouldn't be able to pursue my dreams. = (Without my parents' support, ...)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">If it had not been for+noun (nếu không có, nếu không nhờ vào)</td><td style="text-align: center; word-wrap: break-word;">Dùng để diễn tả một giả định trái ngược với quá khứ, một điều kiện không có thật trong quá khứ.</td><td style="text-align: center; word-wrap: break-word;">If it hadn't been for the map, we would have gotten lost. = (Without the map, ...) If it had not been for the scholarship, I wouldn't have been able to attend university. = (Without the scholarship, ...)</td></tr></table>
+<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Cách diễn đạt</td><td style="text-align: center; word-wrap: break-word;">Cách dùng</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td></tr><tr><td rowspan="2">Unless (trừ khi, nếu ... không)</td><td style="text-align: center; word-wrap: break-word;">Thay thế “if... not”, diễn tả điều kiện phủ định.</td><td style="text-align: center; word-wrap: break-word;">Unless it rains, we will go for a picnic tomorrow. (= If it doesn’t rain,...)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Tuy nhiên, KHÔNG dùng unless (với nghĩa if ... not) trong câu hỏi, và trong câu điều kiện không có thật (tức loại 2 và 3).</td><td style="text-align: center; word-wrap: break-word;">What will he do if he doesn’t get a raise? (NOT What will he do unless he gets a raise?) If Tiffany wasn’t/weren’t here, I would be lonely. (NOT Unless Tiffany was/were here, I would be lonely.)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Otherwise (nếu không thì)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả hậu quả nếu không làm điều gì đó.</td><td style="text-align: center; word-wrap: break-word;">Study hard. Otherwise, you’ll fail. = (If you don’t study hard,...) We should leave early; otherwise, we’ll get stuck in traffic. = (If we shouldn’t leave early,...)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Provided (that) / Providing (that), As/so long as (miễn là)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả điều kiện cần được đáp ứng.</td><td style="text-align: center; word-wrap: break-word;">You can go to the party provided (that) you finish your homework. (= You can go to the party if you finish your homework.)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">On condition that (với điều kiện là)</td><td style="text-align: center; word-wrap: break-word;">Nhấn mạnh điều kiện bắt buộc.</td><td style="text-align: center; word-wrap: break-word;">I’ll give you the money on condition that you return it next week. (= I’ll give you the money if you return it next week.)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">In case (that) + S + V (trong trường hợp, nếu)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả sự chuẩn bị cho tình huống có thể xảy ra.</td><td style="text-align: center; word-wrap: break-word;">I’ll take an umbrella in case it rains. (= I’ll take an umbrella if it rains.)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">In case of + Noun/ gerund</td><td colspan="2">In case of losing your passport, contact the embassy. (= If you lose your passport, contact the embassy.)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Imagine (that)/ Suppose/ Supposing + S + V... (giả sử)</td><td style="text-align: center; word-wrap: break-word;">Đưa ra giả định.</td><td style="text-align: center; word-wrap: break-word;">Suppose/ Supposing you lost your phone, what would you do? (= If you lost your phone...)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">But for + noun (nếu không có)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả điều kiện phủ định trong quá khứ.</td><td style="text-align: center; word-wrap: break-word;">But for your help, I wouldn’t have succeeded. (= If you hadn’t helped me...)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Even if (ngay cả khi)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả điều kiện nhượng bộ.</td><td style="text-align: center; word-wrap: break-word;">Even if it rains, we’ll go. Even if I had the money, I wouldn’t buy that expensive car.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Only if (chỉ với điều kiện là)</td><td style="text-align: center; word-wrap: break-word;">Nhấn mạnh điều kiện duy nhất. Nếu Only if đặt ở đầu câu, thì ta đảo ngữ mệnh đề chính ở vế sau.</td><td style="text-align: center; word-wrap: break-word;">The bank will lend you money only if you have a good credit score. Only if you tell the truth will I believe you</td></tr><tr><td style="text-align: center; word-wrap: break-word;">In the event of+noun (trong trường hợp)</td><td style="text-align: center; word-wrap: break-word;">Diễn tả sự chuẩn bị cho tình huống có thể xảy ra. (= in case)</td><td style="text-align: center; word-wrap: break-word;">In the event of fire, please use the emergency exit.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">In the event that +S +V (trong trường hợp, phòng khi)</td><td style="text-align: center; word-wrap: break-word;">Thường dùng trong văn phong trang trọng, văn bản pháp lý</td><td style="text-align: center; word-wrap: break-word;">In the event that the flight is delayed, the airline will provide accommodation.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">If it was/were not for+noun (nếu không có, nếu không nhờ vào)</td><td style="text-align: center; word-wrap: break-word;">Dùng để diễn tả một giả định trái ngược với hiện tại, một điều kiện không có thật ở hiện tại.</td><td style="text-align: center; word-wrap: break-word;">If it was/were not for your help, I wouldn't be able to finish this project. = (Without your help, ...) If it was/were not for my parents' support, I wouldn't be able to pursue my dreams. = (Without my parents' support, ...)</td></tr><tr><td style="text-align: center; word-wrap: break-word;">If it had not been for+noun (nếu không có, nếu không nhờ vào)</td><td style="text-align: center; word-wrap: break-word;">Dùng để diễn tả một giả định trái ngược với quá khứ, một điều kiện không có thật trong quá khứ.</td><td style="text-align: center; word-wrap: break-word;">If it hadn't been for the map, we would have gotten lost. = (Without the map, ...) If it had not been for the scholarship, I wouldn't have been able to attend university. = (Without the scholarship, ...)</td></tr></table>
 
 
 
@@ -1105,11 +1105,11 @@ c. invested - would be
 
 d. could invest - would have been
 
-TÓM TẤT KIẾN THỨC
+TÓM TẮT KIẾN THỨC
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Năm rõ tất cả công thức của năm loại câu điều kiện</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Phân biệt được câu điều kiện loại 0, 1, 2, 3 và hỗn hợp cũng như cách sử dụng chúng</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Biết cách sử dụng đảo ngữ của câu điều kiện loại 0, 1, 2 và 3</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Năm rõ các cách khác khi diễn đạt câu điều kiện</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Nắm rõ tất cả công thức của năm loại câu điều kiện</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Phân biệt được câu điều kiện loại 0, 1, 2, 3 và hỗn hợp cũng như cách sử dụng chúng</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Biết cách sử dụng đảo ngữ của câu điều kiện loại 0, 1, 2 và 3</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nắm rõ các cách khác khi diễn đạt câu điều kiện</td><td style='text-align: center; word-wrap: break-word;'>☐</td></tr></table>
 
 # CÂU TƯỜNG THUẬT (REPORTED SPEECH)
 
@@ -1119,7 +1119,7 @@ Cách sử dụng các thì, đại từ, trạng từ chỉ thời gian.
 
 Mục tiêu học tập:
 
-- Nắm rõ cách chuyển đổi từ câu trực tiếp (Directed Speech) sang câu gián tiếp (Indirect Speech)
+- Nắm rõ cách chuyển đổi từ câu trực tiếp (Direct Speech) sang câu gián tiếp (Indirect Speech)
 
 - Nắm rõ các trường hợp không thay đổi thì của động từ trong lời nói gián tiếp.
 
@@ -1163,7 +1163,7 @@ Ex: "We will go tomorrow," they declared.
 
 ## 2. Câu tường thuật gián tiếp (Indirect Speech)
 
-Câu tường thuật gián tiếp (Indirect Speech) là câu thuật lại lời nói của người khác mà không cần lập lại chính xác từng từ ngữ của họ. Thay vào đó, chúng ta diễn đạt lại ý chính của câu nói đó bằng cách sử dụng các từ ngữ và câu trúc ngữ pháp của riêng mình.
+Câu tường thuật gián tiếp (Indirect Speech) là câu thuật lại lời nói của người khác mà không cần lặp lại chính xác từng từ ngữ của họ. Thay vào đó, chúng ta diễn đạt lại ý chính của câu nói đó bằng cách sử dụng các từ ngữ và cấu trúc ngữ pháp của riêng mình.
 
 Ex: "I'll move to another country," said Jennifer.
 
@@ -1183,7 +1183,7 @@ Trong câu tường thuật gián tiếp, còn có thể phân chia thành các 
 
 - Câu đề nghị/ lời hứa/ lời khuyên, lời mời trong lời nói gián tiếp (Offers/ Promises/ Advices/ Invitations in indirect speeches)
 
-- Câu cảm thân và câu trả lời yes/no trong lời nói gián tiếp (Exclamation and Yes-No answers in indirect speeches)
+- Câu cảm thán và câu trả lời yes/no trong lời nói gián tiếp (Exclamation and Yes-No answers in indirect speeches)
 
 Mỗi loại có quy tắc chuyển đổi riêng, bao gồm thay đổi về động từ tường thuật, từ nối, thì và các từ chỉ thời gian/địa điểm. Ta sẽ tìm hiểu kỹ hơn ở phần sau.
 
@@ -1191,15 +1191,15 @@ Mỗi loại có quy tắc chuyển đổi riêng, bao gồm thay đổi về đ
 
 ## III. Quy tắc chuyển đổi từ lời nói trực tiếp sang lời nói gián tiếp (Rules for changing Direct Speech into Indirect Speech)
 
-Động từ tường thuật thường sử dụng nhiều nhất là say hoặc tell. Vì dụ như: say (that); say to someone (that); tell somebody (that);... Ngoài ra, ta còn có các động từ khác như: mention, state, report, declare, claim, announce, inform, explain, promise. Động từ tường thuật trong lời nói gián tiếp thường ở quá khứ.
+Động từ tường thuật thường sử dụng nhiều nhất là say hoặc tell. Ví dụ như: say (that); say to someone (that); tell somebody (that);... Ngoài ra, ta còn có các động từ khác như: mention, state, report, declare, claim, announce, inform, explain, promise. Động từ tường thuật trong lời nói gián tiếp thường ở quá khứ.
 
-Khi chuyển từ lời nói trực tiếp sang lời nói gián tiếp, chúng ta cũng cần thay đổi các đại từ, tính từ sở hữu, nơi chốn, thời gian và thì theo những quy tác như sau:
+Khi chuyển từ lời nói trực tiếp sang lời nói gián tiếp, chúng ta cũng cần thay đổi các đại từ, tính từ sở hữu, nơi chốn, thời gian và thì theo những quy tắc như sau:
 
 a. Bảng chuyển đổi đại từ nhân xưng, đại từ phản thân, đại từ sở hữu và tính từ sở hữu
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2"></td><td style='text-align: center; word-wrap: break-word;'>Direct Speech</td><td style='text-align: center; word-wrap: break-word;'>Indirect Speech</td></tr><tr><td rowspan="6">Đại từ nhân xung (Personal pronouns)</td><td rowspan="3">Chủ ngữ</td><td style='text-align: center; word-wrap: break-word;'>I</td><td style='text-align: center; word-wrap: break-word;'>he/ she</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>we</td><td style='text-align: center; word-wrap: break-word;'>they</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>you</td><td style='text-align: center; word-wrap: break-word;'>I/ we</td></tr><tr><td rowspan="13">Tần ngữ</td><td style='text-align: center; word-wrap: break-word;'>me</td><td style='text-align: center; word-wrap: break-word;'>him/ her</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>us</td><td style='text-align: center; word-wrap: break-word;'>them</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>you</td><td style='text-align: center; word-wrap: break-word;'>me/ us</td></tr><tr><td rowspan="4" colspan="2">Đại từ phản thân (Reflexive pronouns) ourselves yourself yourselves</td><td style='text-align: center; word-wrap: break-word;'>myself</td><td style='text-align: center; word-wrap: break-word;'>himself/ herself</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>themselves</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>myself</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>ourselves</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td rowspan="3" colspan="2">Đại từ sở hữu (Possessive pronouns) ours yours</td><td style='text-align: center; word-wrap: break-word;'>mine</td><td style='text-align: center; word-wrap: break-word;'>his/ hers</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>theirs</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>mine/ ours</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td rowspan="3" colspan="2">Tính từ sở hữu (Possessive adjectives) our your</td><td style='text-align: center; word-wrap: break-word;'>my</td><td style='text-align: center; word-wrap: break-word;'>his/ her</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>their</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>my/ our</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="2"></td><td style='text-align: center; word-wrap: break-word;'>Direct Speech</td><td style='text-align: center; word-wrap: break-word;'>Indirect Speech</td></tr><tr><td rowspan="6">Đại từ nhân xưng (Personal pronouns)</td><td rowspan="3">Chủ ngữ</td><td style='text-align: center; word-wrap: break-word;'>I</td><td style='text-align: center; word-wrap: break-word;'>he/ she</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>we</td><td style='text-align: center; word-wrap: break-word;'>they</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>you</td><td style='text-align: center; word-wrap: break-word;'>I/ we</td></tr><tr><td rowspan="13">Tân ngữ</td><td style='text-align: center; word-wrap: break-word;'>me</td><td style='text-align: center; word-wrap: break-word;'>him/ her</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>us</td><td style='text-align: center; word-wrap: break-word;'>them</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>you</td><td style='text-align: center; word-wrap: break-word;'>me/ us</td></tr><tr><td rowspan="4" colspan="2">Đại từ phản thân (Reflexive pronouns) ourselves yourself yourselves</td><td style='text-align: center; word-wrap: break-word;'>myself</td><td style='text-align: center; word-wrap: break-word;'>himself/ herself</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>themselves</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>myself</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>ourselves</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td rowspan="3" colspan="2">Đại từ sở hữu (Possessive pronouns) ours yours</td><td style='text-align: center; word-wrap: break-word;'>mine</td><td style='text-align: center; word-wrap: break-word;'>his/ hers</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>theirs</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>mine/ ours</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td rowspan="3" colspan="2">Tính từ sở hữu (Possessive adjectives) our your</td><td style='text-align: center; word-wrap: break-word;'>my</td><td style='text-align: center; word-wrap: break-word;'>his/ her</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>their</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>my/ our</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
 
  $ \underline{Ex} $: "Your ring looks so unique," Hilda said.
 
@@ -1207,7 +1207,7 @@ a. Bảng chuyển đổi đại từ nhân xưng, đại từ phản thân, đ�
 
 "This grey bag is mine," he said. → He said that grey bag was his.
 
-b. Bàng chuyển đổi từ chỉ định, trạng từ, hoặc cụm trạng từ chỉ nơi chốn, thời gian
+b. Bảng chuyển đổi từ chỉ định, trạng từ, hoặc cụm trạng từ chỉ nơi chốn, thời gian
 
 
 
@@ -1235,22 +1235,22 @@ c. Bảng chuyển đổi thì
 
 
 
-}^{*): Không lùi thì
+*: Không lùi thì
 
-### d. Trường hợp đặc biệt với động từ tính thái Shall và May
+### d. Trường hợp đặc biệt với động từ tình thái Shall và May
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Các trường hợp</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td rowspan="3">Shall</td><td style='text-align: center; word-wrap: break-word;'>Khi shall dùng cho tương lai đơn (Future Simple), ta đôi shall → would</td><td style='text-align: center; word-wrap: break-word;'>“I shall attend the meeting,” Carol said. → Carol said (that) she would attend the meeting.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi shall dùng để đề nghị hoặc hỏi ý kiến, ta đổi shall → should</td><td style='text-align: center; word-wrap: break-word;'>“Shall we go to the cinema?” he asked. → He asked if we should go to the cinema.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi shall dùng để diễn tả mệnh lệnh, quy định hoặc cam kết mạnh mẽ, ta đối shall → should</td><td style='text-align: center; word-wrap: break-word;'>“You shall not pass!” the guard said. → The guard said (that) we should not pass.</td></tr><tr><td rowspan="2">May</td><td style='text-align: center; word-wrap: break-word;'>Khi may mang ý nghĩa về một khả năng xảy ra (possibility), ta đổi may → might</td><td style='text-align: center; word-wrap: break-word;'>He said, “It may rain later.” → He told me (that) it might rain later.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi may mang nghĩa cho phép, ta đổi may → could</td><td style='text-align: center; word-wrap: break-word;'>My mom said, “You may watch TV after finishing your homework.” → My mom told me (that) I could watch TV after finishing my homework.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Các trường hợp</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td rowspan="3">Shall</td><td style='text-align: center; word-wrap: break-word;'>Khi shall dùng cho tương lai đơn (Future Simple), ta đổi shall → would</td><td style='text-align: center; word-wrap: break-word;'>“I shall attend the meeting,” Carol said. → Carol said (that) she would attend the meeting.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi shall dùng để đề nghị hoặc hỏi ý kiến, ta đổi shall → should</td><td style='text-align: center; word-wrap: break-word;'>“Shall we go to the cinema?” he asked. → He asked if we should go to the cinema.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi shall dùng để diễn tả mệnh lệnh, quy định hoặc cam kết mạnh mẽ, ta đổi shall → should</td><td style='text-align: center; word-wrap: break-word;'>“You shall not pass!” the guard said. → The guard said (that) we should not pass.</td></tr><tr><td rowspan="2">May</td><td style='text-align: center; word-wrap: break-word;'>Khi may mang ý nghĩa về một khả năng xảy ra (possibility), ta đổi may → might</td><td style='text-align: center; word-wrap: break-word;'>He said, “It may rain later.” → He told me (that) it might rain later.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi may mang nghĩa cho phép, ta đổi may → could</td><td style='text-align: center; word-wrap: break-word;'>My mom said, “You may watch TV after finishing your homework.” → My mom told me (that) I could watch TV after finishing my homework.</td></tr></table>
 
 ### e. Trường hợp không thay đổi thì của động từ trong lời nói gián tiếp
 
-<div style="text-align: center;"><div style="text-align: center;">Thông thường, khi chuyển từ lời nói trực tiếp sang lời nói gián tiếp, thì của động từ thường lùi về một thì trong quá khứ. Tuy nhiên, có một số trưởng hợp dạc biết mà thì của động từ được giữ nguyên (hay lùi thì) vấn đều được.</div> </div>
+<div style="text-align: center;"><div style="text-align: center;">Thông thường, khi chuyển từ lời nói trực tiếp sang lời nói gián tiếp, thì của động từ thường lùi về một thì trong quá khứ. Tuy nhiên, có một số trường hợp đặc biệt mà thì của động từ được giữ nguyên (hay lùi thì) vẫn đều được.</div> </div>
 
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Trường hợp</td><td style='text-align: center; word-wrap: break-word;'>Lùi thi</td><td style='text-align: center; word-wrap: break-word;'>Giữ nguyên</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi trình bày sự thật khoa học, chân lý, thói quen không bao giờ thay đổi.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>✓ Cách này phổ biến hơn.</td><td style='text-align: center; word-wrap: break-word;'>The teacher said, “Water boils at 100 degrees Celsius.” → The teacher said (that) water boils/boilded at 100 degrees Celsius.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi động từ tườg thuật (say, tell...) ở thì hiện tại đơn, hiện tại tiếp diễn, hiện tại hoàn thành hoặc tương lai đơn.</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>He says, “I met Felicia last night.” → He says (that) he met Felicia last night. Loan has told us, “The meeting will be on Friday.” → Loan has told us (that) the meeting will be on Friday.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi lời nói trực tiếp là câu điều kiện loại 2.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>She said, “If I knew the answer, I would tell you.” → She said (that) if she knew the answer, she would tell me.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Trạng từ chỉ thời gian/nơi chốn vẫn thay đổi.</td><td style='text-align: center; word-wrap: break-word;'>Cách này phổ biến hơn.</td><td colspan="2">[Or: She said that if she had known the answer, she would have told me.]</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi lời nói trực tiếp là câu điều kiện loại 3.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td colspan="2">John said, “If I had arrived here yesterday, I would have met her.” → John told me (that) if he had arrived there the day before, he would have met her.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Trạng từ chỉ thời gian/nơi chốn văn thay đổi.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td colspan="2">“If it rains tomorrow, I will stay at home,” she said. → She said that if it rained the next day, she would stay at home.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi lời nói trực tiếp là câu diệu kiện loại 1.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td colspan="2">The professor said, “If ice melts, it turns into water.” → The professor said if ice melts, it turns into water.</td></tr><tr><td rowspan="2">Khi lời nói trực tiếp là mệnh đề giả định theo sau wish, would rather, would sooner, it's time.</td><td rowspan="2">✓</td><td style='text-align: center; word-wrap: break-word;'>Victor said, "I wish I were there now." → Victor said that he wished he were there then.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Rooney said, "I would rather stay home tonight than go to the crowded places." → Rooney told me (that) she would rather stay home that night than go to the crowded places.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Trạng từ chỉ thời gian/ nơi chốn vẫn thay đổi.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>The tour guides said, "You needn't bring any food tomorrow." → The tour guides said to us (that) we needn't/ didn't have to bring any food the next day.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi lôi nói trực tiếp các đồng từ tình thái (modal verbs) như would, could, should, might, ought to, had better, used to, need, must.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>Diana said, "You must take this chance." Diana told me (that) I must/ had to take that chance.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- must có thể được giữ nguyên, hoặc đổi thành had to đều được. (giữ nguyên, nước, dùng nếu must được dùng để suy luận)</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>He said, "It must be very late now." → He said (that) it must be very late then.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- needn't có thể giữ nguyên, hoặc đổi thành didn't have to.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>The teacher said, "World War II ended in 1945." The teacher told us (that) World War II ended/had ended in 1945.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Trạng từ chỉ thời gian/ nơi chốn vẫn thay đổi.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>The teacher said, "World War II ended in 1945." The teacher told us (that) World War II ended/had ended in 1945.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi lời nói trực tiếp đề cập một sự kiện  lịch sử đã xác định rõ ràng về thời gian.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>The teacher said, "World War II ended in 1945." The teacher told us (that) World War II ended/had ended in 1945.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Trường hợp</td><td style='text-align: center; word-wrap: break-word;'>Lùi thi</td><td style='text-align: center; word-wrap: break-word;'>Giữ nguyên</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi trình bày sự thật khoa học, chân lý, thói quen không bao giờ thay đổi.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>✓ Cách này phổ biến hơn.</td><td style='text-align: center; word-wrap: break-word;'>The teacher said, “Water boils at 100 degrees Celsius.” → The teacher said (that) water boils/boiled at 100 degrees Celsius.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi động từ tường thuật (say, tell...) ở thì hiện tại đơn, hiện tại tiếp diễn, hiện tại hoàn thành hoặc tương lai đơn.</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>He says, “I met Felicia last night.” → He says (that) he met Felicia last night. Loan has told us, “The meeting will be on Friday.” → Loan has told us (that) the meeting will be on Friday.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi lời nói trực tiếp là câu điều kiện loại 2.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>She said, “If I knew the answer, I would tell you.” → She said (that) if she knew the answer, she would tell me.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Trạng từ chỉ thời gian/nơi chốn vẫn thay đổi.</td><td style='text-align: center; word-wrap: break-word;'>Cách này phổ biến hơn.</td><td colspan="2">[Or: She said that if she had known the answer, she would have told me.]</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi lời nói trực tiếp là câu điều kiện loại 3.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td colspan="2">John said, “If I had arrived here yesterday, I would have met her.” → John told me (that) if he had arrived there the day before, he would have met her.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Trạng từ chỉ thời gian/nơi chốn vẫn thay đổi.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td colspan="2">“If it rains tomorrow, I will stay at home,” she said. → She said that if it rained the next day, she would stay at home.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi lời nói trực tiếp là câu điều kiện loại 1.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td colspan="2">The professor said, “If ice melts, it turns into water.” → The professor said if ice melts, it turns into water.</td></tr><tr><td rowspan="2">Khi lời nói trực tiếp là mệnh đề giả định theo sau wish, would rather, would sooner, it's time.</td><td rowspan="2">✓</td><td style='text-align: center; word-wrap: break-word;'>Victor said, "I wish I were there now." → Victor said that he wished he were there then.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Rooney said, "I would rather stay home tonight than go to the crowded places." → Rooney told me (that) she would rather stay home that night than go to the crowded places.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Trạng từ chỉ thời gian/ nơi chốn vẫn thay đổi.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>The tour guides said, "You needn't bring any food tomorrow." → The tour guides said to us (that) we needn't/ didn't have to bring any food the next day.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi lời nói trực tiếp các động từ tình thái (modal verbs) như would, could, should, might, ought to, had better, used to, need, must.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>Diana said, "You must take this chance." Diana told me (that) I must/ had to take that chance.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- must có thể được giữ nguyên, hoặc đổi thành had to đều được. (giữ nguyên, nước, dùng nếu must được dùng để suy luận)</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>He said, "It must be very late now." → He said (that) it must be very late then.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- needn't có thể giữ nguyên, hoặc đổi thành didn't have to.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>The teacher said, "World War II ended in 1945." The teacher told us (that) World War II ended/had ended in 1945.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>* Lưu ý: Trạng từ chỉ thời gian/ nơi chốn vẫn thay đổi.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>The teacher said, "World War II ended in 1945." The teacher told us (that) World War II ended/had ended in 1945.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Khi lời nói trực tiếp đề cập một sự kiện  lịch sử đã xác định rõ ràng về thời gian.</td><td style='text-align: center; word-wrap: break-word;'>✓</td><td style='text-align: center; word-wrap: break-word;'>The teacher said, "World War II ended in 1945." The teacher told us (that) World War II ended/had ended in 1945.</td></tr></table>
 
 
 
@@ -1270,7 +1270,7 @@ Và một trường hợp đặc biệt khác, khi lời nói trực tiếp đ�
 
 ### a. Câu hỏi Yes-No (Yes-No Questions)
 
-Khi chuyển đổi câu hỏi Yes-No từ lời nói trực tiếp sang lời nội gián tiếp, ta cần lưu ý những điểm sau:
+Khi chuyển đổi câu hỏi Yes-No từ lời nói trực tiếp sang lời nói gián tiếp, ta cần lưu ý những điểm sau:
 
 - Sử dụng động từ tường thuật ask, inquire, wonder, want to know. Trong đó, ask có thể có tân ngữ theo sau (She asked me...), nhưng các từ còn lại thì không.
 
@@ -1304,7 +1304,7 @@ Ex: "You like coffee, don't you?" She asked.
 
 Khi chuyển đổi câu hỏi Wh- từ lời nói trực tiếp sang lời nói gián tiếp, ta cần lưu ý những điểm sau:
 
-- Sử dụng động từ tương thuật ask, inquire, wonder, want to know.
+- Sử dụng động từ tường thuật ask, inquire, wonder, want to know.
 
 - Giữ nguyên từ để hỏi Wh- (what, when, where, why, who, whom, which, how)
 
@@ -1312,7 +1312,7 @@ Khi chuyển đổi câu hỏi Wh- từ lời nói trực tiếp sang lời nói
 
 - Lùi thi theo quy tắc lùi thì thông thường.
 
-- Thay đổi đại từ, tính từ sở hữu và trạng từ chi thời gian, nơi chốn phù hợp trong câu gián tiếp.
+- Thay đổi đại từ, tính từ sở hữu và trạng từ chỉ thời gian, nơi chốn phù hợp trong câu gián tiếp.
 
 S + asked + wondered + wh-word + S + V...
 
@@ -1326,7 +1326,7 @@ S + asked + wondered + wh-word + S + V...
 
 #### LƯU Ý:
 
-Khi câu hỏi có câu trúc wh-word + be + complement (bổ ngữ), động từ be có thể đạt trước hoặc sau bổ ngữ.
+Khi câu hỏi có cấu trúc wh-word + be + complement (bổ ngữ), động từ be có thể đặt trước hoặc sau bổ ngữ.
 
 Ex: "Who's your father?" → He asked me who was my father/ who my father was.
 
@@ -1334,7 +1334,7 @@ Ex: "Who's your father?" → He asked me who was my father/ who my father was.
 
 ## 3. Câu mệnh lệnh/ yêu cầu trong lời nói gián tiếp (Indirect Speech: Command/Request)
 
-- Các động từ tường thuật thường được sử dụng là: tell (yêu cầu), ask/request (yêu cầu), order/command (ra lệnh), beg (năn ni), ... Thông thường, các động từ này ở thi quá khứ đơn.
+- Các động từ tường thuật thường được sử dụng là: tell (yêu cầu), ask/request (yêu cầu), order/command (ra lệnh), beg (năn nỉ), ... Thông thường, các động từ này ở thì quá khứ đơn.
 
 - Đặt tân ngữ chỉ người nhận yêu cầu ngay sau động từ tường thuật.
 
@@ -1369,7 +1369,7 @@ S + offered/ advised (+ O) + to-infinitive
 
 
 
-<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Động từ</td><td style="text-align: center; word-wrap: break-word;">Ý nghĩa</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">tell</td><td style="text-align: center; word-wrap: break-word;">yêu cầu/ bảo</td><td style="text-align: center; word-wrap: break-word;">"Clean your room!" → My mother told me to clean my room.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">ask</td><td style="text-align: center; word-wrap: break-word;">yêu câu</td><td style="text-align: center; word-wrap: break-word;">"Waiter! Bring me the bill, please!" → He asked the waiter to bring him the bill.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">request</td><td style="text-align: center; word-wrap: break-word;">yêu câu</td><td style="text-align: center; word-wrap: break-word;">"Bring me the check." → The customer requested the waiter to bring the check.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">advise</td><td style="text-align: center; word-wrap: break-word;">khuyên</td><td style="text-align: center; word-wrap: break-word;">"Dad! Don't smoke here." I advised my father not to smoke here.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">allow</td><td style="text-align: center; word-wrap: break-word;">chọ phép</td><td style="text-align: center; word-wrap: break-word;">"Don't ever skip breakfast!" → Jessica never allows her daughter to skip breakfast.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">permit</td><td style="text-align: center; word-wrap: break-word;">chọ phép</td><td style="text-align: center; word-wrap: break-word;">"OK, you can take pictures." → The tour guide permits tourists to take pictures.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">beg</td><td style="text-align: center; word-wrap: break-word;">câu xin</td><td style="text-align: center; word-wrap: break-word;">"Please, don't tell my dad about this." → He begged me not to tell his dad about that.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">encourage</td><td style="text-align: center; word-wrap: break-word;">khuyên khích</td><td style="text-align: center; word-wrap: break-word;">"Come on! Just apply for promotion." → Larry encouraged his colleague to apply for promotion.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">forbid</td><td style="text-align: center; word-wrap: break-word;">cấm</td><td style="text-align: center; word-wrap: break-word;">"You mustn't come near my house." → The man forbade the children to come near his house.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">order</td><td style="text-align: center; word-wrap: break-word;">ra lệnh</td><td style="text-align: center; word-wrap: break-word;">"Move forward!" → The captain ordered the crew to move forward.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">command</td><td style="text-align: center; word-wrap: break-word;">ra lệnh</td><td style="text-align: center; word-wrap: break-word;">"I want you to defend the castle." → The king commanded his knights to defend the castle.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">invite</td><td style="text-align: center; word-wrap: break-word;">mời</td><td style="text-align: center; word-wrap: break-word;">"Would you like to join the local competition?" → They invited me to join the local competition.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">recommend</td><td style="text-align: center; word-wrap: break-word;">khuyên/ dé nghì</td><td style="text-align: center; word-wrap: break-word;">"You should get more rest." → The doctor recommended the patient to get more rest.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">remind</td><td style="text-align: center; word-wrap: break-word;">nhắc nhờ</td><td style="text-align: center; word-wrap: break-word;">"Remember to review for your test." → I reminded my younger brother to review for his test.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">urge</td><td style="text-align: center; word-wrap: break-word;">thúc giục/ năn nỉ</td><td style="text-align: center; word-wrap: break-word;">"Listen! You need to take action now." → We urged the manager to take action then.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">warn</td><td style="text-align: center; word-wrap: break-word;">cánh bảo</td><td style="text-align: center; word-wrap: break-word;">"You'd better stay close to the shore while swimming." → The lifeguard warned the children to stay close to the shore while swimming.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">instruct</td><td style="text-align: center; word-wrap: break-word;">hướng dẫn</td><td style="text-align: center; word-wrap: break-word;">"I'll show you how to restart the computer."→Kelly is instructing his son to restart the computer."We willbe happy if you be come a doctor."→My parents expected me to be come a doctor."</td></tr><tr><td style="text-align: center; word-wrap: break-word;">expect</td><td style="text-align: center; word-wrap: break-word;">kǐyòng</td><td style="text-align: center; word-wrap: break-word;">"We willbe happy if you be come a doctor."→My parents expected me to be come a doctor."</td></tr></table>
+<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Động từ</td><td style="text-align: center; word-wrap: break-word;">Ý nghĩa</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">tell</td><td style="text-align: center; word-wrap: break-word;">yêu cầu/ bảo</td><td style="text-align: center; word-wrap: break-word;">"Clean your room!" → My mother told me to clean my room.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">ask</td><td style="text-align: center; word-wrap: break-word;">yêu câu</td><td style="text-align: center; word-wrap: break-word;">"Waiter! Bring me the bill, please!" → He asked the waiter to bring him the bill.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">request</td><td style="text-align: center; word-wrap: break-word;">yêu câu</td><td style="text-align: center; word-wrap: break-word;">"Bring me the check." → The customer requested the waiter to bring the check.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">advise</td><td style="text-align: center; word-wrap: break-word;">khuyên</td><td style="text-align: center; word-wrap: break-word;">"Dad! Don't smoke here." I advised my father not to smoke here.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">allow</td><td style="text-align: center; word-wrap: break-word;">cho phép</td><td style="text-align: center; word-wrap: break-word;">"Don't ever skip breakfast!" → Jessica never allows her daughter to skip breakfast.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">permit</td><td style="text-align: center; word-wrap: break-word;">cho phép</td><td style="text-align: center; word-wrap: break-word;">"OK, you can take pictures." → The tour guide permits tourists to take pictures.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">beg</td><td style="text-align: center; word-wrap: break-word;">cầu xin</td><td style="text-align: center; word-wrap: break-word;">"Please, don't tell my dad about this." → He begged me not to tell his dad about that.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">encourage</td><td style="text-align: center; word-wrap: break-word;">khuyến khích</td><td style="text-align: center; word-wrap: break-word;">"Come on! Just apply for promotion." → Larry encouraged his colleague to apply for promotion.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">forbid</td><td style="text-align: center; word-wrap: break-word;">cấm</td><td style="text-align: center; word-wrap: break-word;">"You mustn't come near my house." → The man forbade the children to come near his house.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">order</td><td style="text-align: center; word-wrap: break-word;">ra lệnh</td><td style="text-align: center; word-wrap: break-word;">"Move forward!" → The captain ordered the crew to move forward.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">command</td><td style="text-align: center; word-wrap: break-word;">ra lệnh</td><td style="text-align: center; word-wrap: break-word;">"I want you to defend the castle." → The king commanded his knights to defend the castle.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">invite</td><td style="text-align: center; word-wrap: break-word;">mời</td><td style="text-align: center; word-wrap: break-word;">"Would you like to join the local competition?" → They invited me to join the local competition.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">recommend</td><td style="text-align: center; word-wrap: break-word;">khuyên/ đề nghị</td><td style="text-align: center; word-wrap: break-word;">"You should get more rest." → The doctor recommended the patient to get more rest.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">remind</td><td style="text-align: center; word-wrap: break-word;">nhắc nhở</td><td style="text-align: center; word-wrap: break-word;">"Remember to review for your test." → I reminded my younger brother to review for his test.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">urge</td><td style="text-align: center; word-wrap: break-word;">thúc giục/ năn nỉ</td><td style="text-align: center; word-wrap: break-word;">"Listen! You need to take action now." → We urged the manager to take action then.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">warn</td><td style="text-align: center; word-wrap: break-word;">cảnh báo</td><td style="text-align: center; word-wrap: break-word;">"You'd better stay close to the shore while swimming." → The lifeguard warned the children to stay close to the shore while swimming.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">instruct</td><td style="text-align: center; word-wrap: break-word;">hướng dẫn</td><td style="text-align: center; word-wrap: break-word;">"I'll show you how to restart the computer."→Kelly is instructing his son to restart the computer."We will be happy if you become a doctor." → My parents expected me to become a doctor.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">expect</td><td style="text-align: center; word-wrap: break-word;">kì vọng</td><td style="text-align: center; word-wrap: break-word;">"We will be happy if you become a doctor." → My parents expected me to become a doctor.</td></tr></table>
 
 
 
@@ -1378,18 +1378,18 @@ S + offered/ advised (+ O) + to-infinitive
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Động từ</td><td style='text-align: center; word-wrap: break-word;'>Ý nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>offer</td><td style='text-align: center; word-wrap: break-word;'>đề nghị</td><td style='text-align: center; word-wrap: break-word;'>&quot;Shall I drive you to the airport?&quot; → He offered to drive us to the airport.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>demand</td><td style='text-align: center; word-wrap: break-word;'>đòi hỏi</td><td style='text-align: center; word-wrap: break-word;'>&quot;I want to speak to the manager.&quot; → The woman demanded to speak to the manager.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>agree</td><td style='text-align: center; word-wrap: break-word;'>đồng ý</td><td style='text-align: center; word-wrap: break-word;'>&quot;OK, I&#x27;ll sign the contract.&quot; → Mr. Brown finally agreed to sign the contract.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>promise</td><td style='text-align: center; word-wrap: break-word;'>hứa</td><td style='text-align: center; word-wrap: break-word;'>&quot;I&#x27;ll visit my grandparents more often.&quot; → She promised to visit her grandparents more often.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>refuse</td><td style='text-align: center; word-wrap: break-word;'>từ chối</td><td style='text-align: center; word-wrap: break-word;'>&quot;I&#x27;m sorry, but I won&#x27;t attend the wedding celebration.&quot; → Maltida refused to attend the wedding celebration.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>guarantee</td><td style='text-align: center; word-wrap: break-word;'>dám bảo</td><td style='text-align: center; word-wrap: break-word;'>&quot;Sure! We will deliver the product within three business days.&quot; → The company guarantees to deliver the product within three business days.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>threaten</td><td style='text-align: center; word-wrap: break-word;'>đe doạ</td><td style='text-align: center; word-wrap: break-word;'>&quot;I&#x27;ll cancel your project if your team didn&#x27;t meet the deadline.&quot; → He threatened to cancel the project if her team didn&#x27;t meet the deadline.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>want</td><td style='text-align: center; word-wrap: break-word;'>mong muốn</td><td style='text-align: center; word-wrap: break-word;'>&quot;I wish I lived in a bigger house.&quot; → She wanted/wished to live in a bigger house.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>= wish</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>swear</td><td style='text-align: center; word-wrap: break-word;'>thề</td><td style='text-align: center; word-wrap: break-word;'>&quot;I would tell the truth in court. I swear!&quot; → The man swore to tell the truth in court.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>volunteer</td><td style='text-align: center; word-wrap: break-word;'>tình nguyện</td><td style='text-align: center; word-wrap: break-word;'>&quot;Let me tutory younger children in math.&quot; → The students volunteered to tutory younger children in math.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>expect</td><td style='text-align: center; word-wrap: break-word;'>mong dọi</td><td style='text-align: center; word-wrap: break-word;'>&quot;We are hopeful that we will see a large crowd at the concert.&quot; → The girl band expected to see a large crowd at the concert.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Động từ</td><td style='text-align: center; word-wrap: break-word;'>Ý nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>offer</td><td style='text-align: center; word-wrap: break-word;'>đề nghị</td><td style='text-align: center; word-wrap: break-word;'>&quot;Shall I drive you to the airport?&quot; → He offered to drive us to the airport.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>demand</td><td style='text-align: center; word-wrap: break-word;'>đòi hỏi</td><td style='text-align: center; word-wrap: break-word;'>&quot;I want to speak to the manager.&quot; → The woman demanded to speak to the manager.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>agree</td><td style='text-align: center; word-wrap: break-word;'>đồng ý</td><td style='text-align: center; word-wrap: break-word;'>&quot;OK, I&#x27;ll sign the contract.&quot; → Mr. Brown finally agreed to sign the contract.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>promise</td><td style='text-align: center; word-wrap: break-word;'>hứa</td><td style='text-align: center; word-wrap: break-word;'>&quot;I&#x27;ll visit my grandparents more often.&quot; → She promised to visit her grandparents more often.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>refuse</td><td style='text-align: center; word-wrap: break-word;'>từ chối</td><td style='text-align: center; word-wrap: break-word;'>&quot;I&#x27;m sorry, but I won&#x27;t attend the wedding celebration.&quot; → Maltida refused to attend the wedding celebration.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>guarantee</td><td style='text-align: center; word-wrap: break-word;'>dám bảo</td><td style='text-align: center; word-wrap: break-word;'>&quot;Sure! We will deliver the product within three business days.&quot; → The company guarantees to deliver the product within three business days.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>threaten</td><td style='text-align: center; word-wrap: break-word;'>đe doạ</td><td style='text-align: center; word-wrap: break-word;'>&quot;I&#x27;ll cancel your project if your team didn&#x27;t meet the deadline.&quot; → He threatened to cancel the project if her team didn&#x27;t meet the deadline.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>want</td><td style='text-align: center; word-wrap: break-word;'>mong muốn</td><td style='text-align: center; word-wrap: break-word;'>&quot;I wish I lived in a bigger house.&quot; → She wanted/wished to live in a bigger house.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>= wish</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>swear</td><td style='text-align: center; word-wrap: break-word;'>thề</td><td style='text-align: center; word-wrap: break-word;'>&quot;I would tell the truth in court. I swear!&quot; → The man swore to tell the truth in court.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>volunteer</td><td style='text-align: center; word-wrap: break-word;'>tình nguyện</td><td style='text-align: center; word-wrap: break-word;'>&quot;Let me tutor younger children in math.&quot; → The students volunteered to tutor younger children in math.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>expect</td><td style='text-align: center; word-wrap: break-word;'>mong dọi</td><td style='text-align: center; word-wrap: break-word;'>&quot;We are hopeful that we will see a large crowd at the concert.&quot; → The girl band expected to see a large crowd at the concert.</td></tr></table>
 
 ### • V+Gerund (V-ing)
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Động từ</td><td style='text-align: center; word-wrap: break-word;'>Ý nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>admit</td><td style='text-align: center; word-wrap: break-word;'>thừa nhận</td><td style='text-align: center; word-wrap: break-word;'>&quot;Yes, I broke the vase.&quot; → The child admitted having broken the vase.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>deny</td><td style='text-align: center; word-wrap: break-word;'>chói bó</td><td style='text-align: center; word-wrap: break-word;'>&quot;No, I don&#x27;t cheat on the test.&quot; → She denied cheating on the test.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>recommend</td><td style='text-align: center; word-wrap: break-word;'>khuyên/ dê nghỉ</td><td style='text-align: center; word-wrap: break-word;'>&quot;Shall we try the seafood pasta at this restaurant?&quot; → Anna recommends trying the seafood pasta at that restaurant.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>suggest</td><td style='text-align: center; word-wrap: break-word;'>dé nghỉ/ gọi ý</td><td style='text-align: center; word-wrap: break-word;'>&quot;Why don&#x27;t we watch this new action movie?&quot; → He suggested watching that new action movie.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>advise</td><td style='text-align: center; word-wrap: break-word;'>khuyên</td><td style='text-align: center; word-wrap: break-word;'>&quot;You should check the weather forecast before going hiking.&quot; → They advise checking the weather forecast before going hiking.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>propose</td><td style='text-align: center; word-wrap: break-word;'>dé nghỉ/ dê xuất</td><td style='text-align: center; word-wrap: break-word;'>&quot;How about organising a charity event to raise funds&quot; → They proposed organising a charity event to raise funds.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>imagine</td><td style='text-align: center; word-wrap: break-word;'>tưởng tượng</td><td style='text-align: center; word-wrap: break-word;'>&quot;Every time I close my eyes, I think I&#x27;m living in on another planet.&quot; → My little sister often imagined living on another planet.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Động từ</td><td style='text-align: center; word-wrap: break-word;'>Ý nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>admit</td><td style='text-align: center; word-wrap: break-word;'>thừa nhận</td><td style='text-align: center; word-wrap: break-word;'>&quot;Yes, I broke the vase.&quot; → The child admitted having broken the vase.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>deny</td><td style='text-align: center; word-wrap: break-word;'>chối bỏ</td><td style='text-align: center; word-wrap: break-word;'>&quot;No, I don&#x27;t cheat on the test.&quot; → She denied cheating on the test.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>recommend</td><td style='text-align: center; word-wrap: break-word;'>khuyên/ đề nghị</td><td style='text-align: center; word-wrap: break-word;'>&quot;Shall we try the seafood pasta at this restaurant?&quot; → Anna recommends trying the seafood pasta at that restaurant.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>suggest</td><td style='text-align: center; word-wrap: break-word;'>đề nghị/ gợi ý</td><td style='text-align: center; word-wrap: break-word;'>&quot;Why don&#x27;t we watch this new action movie?&quot; → He suggested watching that new action movie.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>advise</td><td style='text-align: center; word-wrap: break-word;'>khuyên</td><td style='text-align: center; word-wrap: break-word;'>&quot;You should check the weather forecast before going hiking.&quot; → They advise checking the weather forecast before going hiking.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>propose</td><td style='text-align: center; word-wrap: break-word;'>đề nghị/ đề xuất</td><td style='text-align: center; word-wrap: break-word;'>&quot;How about organising a charity event to raise funds&quot; → They proposed organising a charity event to raise funds.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>imagine</td><td style='text-align: center; word-wrap: break-word;'>tưởng tượng</td><td style='text-align: center; word-wrap: break-word;'>&quot;Every time I close my eyes, I think I&#x27;m living on another planet.&quot; → My little sister often imagined living on another planet.</td></tr></table>
 
 ### • V+prep.+Gerund/Noun
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Động từ</td><td style='text-align: center; word-wrap: break-word;'>Ý nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>apologise (to sb) for sth</td><td style='text-align: center; word-wrap: break-word;'>xin lỗi</td><td style='text-align: center; word-wrap: break-word;'>"I'm sorry to paint in your notebook." → Bob apologised to his sister for painting in her notebook.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>insist on</td><td style='text-align: center; word-wrap: break-word;'>đòi/nài nỉ làm gì</td><td style='text-align: center; word-wrap: break-word;'>"I have to meet Mr. Brown immediately." → The customer insists on meeting Mr. Brown immediately.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>complain about</td><td style='text-align: center; word-wrap: break-word;'>phàn nàn</td><td style='text-align: center; word-wrap: break-word;'>"They're always playing their music loudly." → We complained about their playing music loudly.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>accuse sb of</td><td style='text-align: center; word-wrap: break-word;'>buộc tội</td><td style='text-align: center; word-wrap: break-word;'>"You stole my watch! It's you." → The neighbour accused the little boy of stealing his watch.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>object to</td><td style='text-align: center; word-wrap: break-word;'>phản đối</td><td style='text-align: center; word-wrap: break-word;'>"No, you're too young to travel alone." → Her parents object to her traveling alone at such a young age.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>confess to</td><td style='text-align: center; word-wrap: break-word;'>thừa nhận</td><td style='text-align: center; word-wrap: break-word;'>"Yes, I broke the windows."→ Nick confessed to breaking the windows.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>criticise sb for</td><td style='text-align: center; word-wrap: break-word;'>chỉ trích</td><td style='text-align: center; word-wrap: break-word;'>"I can't believe it. Why did you cheat?"→ The teacher criticised the student for cheating.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>congratulate sb on</td><td style='text-align: center; word-wrap: break-word;'>chúc mùng</td><td style='text-align: center; word-wrap: break-word;'>"Congratulation! You've got the promotion."→ Ray congratulate me on getting the promotion.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>inform sb about</td><td style='text-align: center; word-wrap: break-word;'>thông báo</td><td style='text-align: center; word-wrap: break-word;'>"I have something to tell you. Your son failed the exam."→ The teacher informed the parents about their son failing the exam.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>prohibit sb from</td><td style='text-align: center; word-wrap: break-word;'>ngăn cản/ cấm</td><td style='text-align: center; word-wrap: break-word;'>"You mustn't camp here."→ The park owner prohibits people from camping there.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>scold sb for</td><td style='text-align: center; word-wrap: break-word;'>trách/ la mắng</td><td style='text-align: center; word-wrap: break-word;'>"Where were you? I remember you're allowed to stay out too late."→ My parents scolded me for staying out too late.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>thank sb for</td><td style='text-align: center; word-wrap: break-word;'>cảm ơn</td><td style='text-align: center; word-wrap: break-word;'>"I really appreciate your help."→ We thanked them for helping us.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Động từ</td><td style='text-align: center; word-wrap: break-word;'>Ý nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>apologise (to sb) for sth</td><td style='text-align: center; word-wrap: break-word;'>xin lỗi</td><td style='text-align: center; word-wrap: break-word;'>"I'm sorry to paint in your notebook." → Bob apologised to his sister for painting in her notebook.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>insist on</td><td style='text-align: center; word-wrap: break-word;'>đòi/nài nỉ làm gì</td><td style='text-align: center; word-wrap: break-word;'>"I have to meet Mr. Brown immediately." → The customer insists on meeting Mr. Brown immediately.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>complain about</td><td style='text-align: center; word-wrap: break-word;'>phàn nàn</td><td style='text-align: center; word-wrap: break-word;'>"They're always playing their music loudly." → We complained about their playing music loudly.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>accuse sb of</td><td style='text-align: center; word-wrap: break-word;'>buộc tội</td><td style='text-align: center; word-wrap: break-word;'>"You stole my watch! It's you." → The neighbour accused the little boy of stealing his watch.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>object to</td><td style='text-align: center; word-wrap: break-word;'>phản đối</td><td style='text-align: center; word-wrap: break-word;'>"No, you're too young to travel alone." → Her parents object to her traveling alone at such a young age.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>confess to</td><td style='text-align: center; word-wrap: break-word;'>thừa nhận</td><td style='text-align: center; word-wrap: break-word;'>"Yes, I broke the windows."→ Nick confessed to breaking the windows.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>criticise sb for</td><td style='text-align: center; word-wrap: break-word;'>chỉ trích</td><td style='text-align: center; word-wrap: break-word;'>"I can't believe it. Why did you cheat?"→ The teacher criticised the student for cheating.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>congratulate sb on</td><td style='text-align: center; word-wrap: break-word;'>chúc mừng</td><td style='text-align: center; word-wrap: break-word;'>"Congratulation! You've got the promotion."→ Ray congratulate me on getting the promotion.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>inform sb about</td><td style='text-align: center; word-wrap: break-word;'>thông báo</td><td style='text-align: center; word-wrap: break-word;'>"I have something to tell you. Your son failed the exam."→ The teacher informed the parents about their son failing the exam.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>prohibit sb from</td><td style='text-align: center; word-wrap: break-word;'>ngăn cản/ cấm</td><td style='text-align: center; word-wrap: break-word;'>"You mustn't camp here."→ The park owner prohibits people from camping there.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>scold sb for</td><td style='text-align: center; word-wrap: break-word;'>trách/ la mắng</td><td style='text-align: center; word-wrap: break-word;'>"Where were you? I remember you're allowed to stay out too late."→ My parents scolded me for staying out too late.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>thank sb for</td><td style='text-align: center; word-wrap: break-word;'>cảm ơn</td><td style='text-align: center; word-wrap: break-word;'>"I really appreciate your help."→ We thanked them for helping us.</td></tr></table>
 
 
 
@@ -1423,7 +1423,7 @@ I recommend that you (should) see a lawyer.5. Câu cảm thán và câu trả l�
 
 ## a. Câu cảm thán trong lời nói gián tiếp
 
-Khi chuyến câu cảm thán từ lời nói trực tiếp sang lời nói gián tiếp, chúng ta thường sử dụng các động từ tường thuật như exclaim (thốt lên), shout/scream (la lớn), cry out (la lên), say (nói), declare (tuyến bố), comment (nhận xét), utter (thốt ra) kết hợp với that hoặc dùng cấu trúc exclaim with delight/surprise/horror/joy.
+Khi chuyến câu cảm thán từ lời nói trực tiếp sang lời nói gián tiếp, chúng ta thường sử dụng các động từ tường thuật như exclaim (thốt lên), shout/scream (la lớn), cry out (la lên), say (nói), declare (tuyên bố), comment (nhận xét), utter (thốt ra) kết hợp với that hoặc dùng cấu trúc exclaim with delight/surprise/horror/joy.
 
 • S + exclaimed/ shouted + that + S + V
 
@@ -1453,7 +1453,7 @@ Khi chuyến câu cảm thán từ lời nói trực tiếp sang lời nói giá
 
 ## b. Câu trả lời Yes/ No
 
-Để tưởng thuật câu trả lời yes hoặc no, chúng ta dùng chủ ngữ và trợ động từ tương
+Để tường thuật câu trả lời yes hoặc no, chúng ta dùng chủ ngữ và trợ động từ tương
 
 ứng trong câu gián tiếp. (subject + auxiliary verb).
 
@@ -1461,9 +1461,9 @@ Ex: Demi asked, "Do you like basketball?" and I said "Yes". → Demi asked me if
 
 Her father asked, "Have you done your test well at school?" and she said "No". → Her father asked if/ whether she had done her test well at school and she said she hadn't.
 
-## IV. Các loại câu hỗ hợp trong lời nói gián tiếp (Mixed types in indirect speech)
+## IV. Các loại câu hỗn hợp trong lời nói gián tiếp (Mixed types in indirect speech)
 
-Lời nói gián tiếp đôi khi bao gồm nhiều loại câu khác nhau trong cùng một phát ngôn, tạo thành câu hỗn hợp. Dưới đây là các loại câu hỗn hợp phổ biến trong lời nói gián tiếp và cách chuyển đối chúng:
+Lời nói gián tiếp đôi khi bao gồm nhiều loại câu khác nhau trong cùng một phát ngôn, tạo thành câu hỗn hợp. Dưới đây là các loại câu hỗn hợp phổ biến trong lời nói gián tiếp và cách chuyển đổi chúng:
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Loại câu</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu trần thuật kết hợp câu hỏi</td><td style='text-align: center; word-wrap: break-word;'>&quot;I&#x27;m very tired today. Can you help me with this work?&quot; she said. → She said (that) she was very tired that day and asked if I could help her with that work.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu trần thuật kết hợp câu mệnh lệnh</td><td style='text-align: center; word-wrap: break-word;'>&quot;I don&#x27;t have time now. Please come back tomorrow,&quot; the manager said. → The manager said he didn&#x27;t have time then and asked us to come back the next day.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu hỏi kết hợp với câu mệnh lệnh</td><td style='text-align: center; word-wrap: break-word;'>&quot;Where have you been? Don&#x27;t ever disappear like that again,&quot; his mother said. → His mother asked where he had been and told him not to ever disappear like that again.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu cảm thán kết hợp với câu trần thuật</td><td style='text-align: center; word-wrap: break-word;'>&quot;What a beautiful day! I think we should go for a picnic,&quot; John said. → John exclaimed that it was a beautiful day and suggested that they should go for a picnic.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu hỏi kết hợp với câu cảm thán</td><td style='text-align: center; word-wrap: break-word;'>&quot;Why are you so late? How worried I&#x27;ve been!&quot; his wife said. → His wife asked why he was so late and exclaimed that she had been very worried.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu trần thuật kết hợp với câu Yes/No</td><td style='text-align: center; word-wrap: break-word;'>&quot;I need your help with this project. Will you join my team?&quot; she asked and he replied &quot;Yes, I&#x27;d be happy to.&quot; → She said she needed his help with that project and asked him if whether he would join her team. He replied that he would be happy to.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Câu mệnh lệnh kết hợp với câu điều kiện</td><td style='text-align: center; word-wrap: break-word;'>&quot;Take your umbrella. If it rains, you&#x27;ll get wet,&quot; my mother warned. → My mother told me to take my umbrella and warned that if it rained, I would get wet.</td></tr></table>
 

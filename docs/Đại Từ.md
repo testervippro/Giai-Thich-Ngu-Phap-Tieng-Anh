@@ -2,27 +2,27 @@
 
 #### Mục tiêu học tập:
 
-Phân biệt các loại đại từ và hiệu được chức năng của đại từ.
+Phân biệt các loại đại từ và hiểu được chức năng của đại từ.
 
-Đại từ là từ thay thế cho danh từ để tránh lập lại và làm cho câu vấn mạch lạc hơn, giúp câu gọn gàng và rõ ràng hơn.
+Đại từ là từ thay thế cho danh từ để tránh lặp lại và làm cho câu văn mạch lạc hơn, giúp câu gọn gàng và rõ ràng hơn.
 
-Ex: Không dùng dại từ: Tìm said Tìm would bring Tìm's books to school.
+Ex: Không dùng đại từ: Tim said Tim would bring Tim's books to school.
 
-Dùng dại từ: Tìm said he would bring his books to school.
+Dùng đại từ: Tim said he would bring his books to school.
 
 #### Các loại đại từ (Types of pronouns)
 
 #### Đại từ nhân xưng (Personal Pronouns)
 
-Đại từ nhân xưng dùng để chi người hoặc vật cụ thể. Chúng thay đổi theo ngôi, số và cách. Các đại từ nhân xưng bao gồm:
+Đại từ nhân xưng dùng để chỉ người hoặc vật cụ thể. Chúng thay đổi theo ngôi, số và cách. Các đại từ nhân xưng bao gồm:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ chủ ngữ</td><td style='text-align: center; word-wrap: break-word;'>Đại từ tần ngữ</td><td style='text-align: center; word-wrap: break-word;'>Đại từ số hữu</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>I</td><td style='text-align: center; word-wrap: break-word;'>me</td><td style='text-align: center; word-wrap: break-word;'>mlne</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>You</td><td style='text-align: center; word-wrap: break-word;'>you</td><td style='text-align: center; word-wrap: break-word;'>yours</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>He</td><td style='text-align: center; word-wrap: break-word;'>him</td><td style='text-align: center; word-wrap: break-word;'>his</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>She</td><td style='text-align: center; word-wrap: break-word;'>her</td><td style='text-align: center; word-wrap: break-word;'>hers</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>We</td><td style='text-align: center; word-wrap: break-word;'>us</td><td style='text-align: center; word-wrap: break-word;'>ours</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>They</td><td style='text-align: center; word-wrap: break-word;'>them</td><td style='text-align: center; word-wrap: break-word;'>theirs</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>It</td><td style='text-align: center; word-wrap: break-word;'>it</td><td style='text-align: center; word-wrap: break-word;'>KHÔNG TỔN TẠI</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ chủ ngữ</td><td style='text-align: center; word-wrap: break-word;'>Đại từ tân ngữ</td><td style='text-align: center; word-wrap: break-word;'>Đại từ sở hữu</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>I</td><td style='text-align: center; word-wrap: break-word;'>me</td><td style='text-align: center; word-wrap: break-word;'>mine</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>You</td><td style='text-align: center; word-wrap: break-word;'>you</td><td style='text-align: center; word-wrap: break-word;'>yours</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>He</td><td style='text-align: center; word-wrap: break-word;'>him</td><td style='text-align: center; word-wrap: break-word;'>his</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>She</td><td style='text-align: center; word-wrap: break-word;'>her</td><td style='text-align: center; word-wrap: break-word;'>hers</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>We</td><td style='text-align: center; word-wrap: break-word;'>us</td><td style='text-align: center; word-wrap: break-word;'>ours</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>They</td><td style='text-align: center; word-wrap: break-word;'>them</td><td style='text-align: center; word-wrap: break-word;'>theirs</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>It</td><td style='text-align: center; word-wrap: break-word;'>it</td><td style='text-align: center; word-wrap: break-word;'>KHÔNG TỒN TẠI</td></tr></table>
 
 ##### Đại từ chủ ngữ
 
-Đúng đâu câu làm chủ ngữ
+Đứng đầu câu làm chủ ngữ
 
 Ex: Michael enjoys playing basketball. He practises every afternoon. [He = Michael]
 
@@ -30,9 +30,9 @@ They are watching a movie.
 
 I don't usually go out on weekends.
 
-## b. Đại từ tán ngữ
+## b. Đại từ tân ngữ
 
-Dùng làm tán ngữ của động từ hoặc giới từ
+Dùng làm tân ngữ của động từ hoặc giới từ
 
 Ex: David called Sarah to invite her to the party. [her = Sarah]
 
@@ -42,7 +42,7 @@ Lisa shared the cookies with us.
 
 ## c. Đại từ sở hữu
 
-Chỉ quyến sở hữu, được dùng không co danh từ theo sau để thay thế cho tính tư so hữu + danh từ hoặc thay thế cho danh từ đã được nhắc đến
+Chỉ quyền sở hữu, được dùng không có danh từ theo sau để thay thế cho tính từ sở hữu + danh từ hoặc thay thế cho danh từ đã được nhắc đến
 
 Ex: I lost my pen, so she lent me hers. [hers = her pen]
 
@@ -50,7 +50,7 @@ These seats are ours. [ours = our seats]
 
 This book isn't mine; it's his. [mine = my book; his = his book]
 
-d. Dùng trong số hữu kếp
+d. Dùng trong sở hữu kép
 
 Ex: That idea of mine was successful. [of mine = one of my ideas]
 
@@ -58,9 +58,9 @@ Ex: That idea of mine was successful. [of mine = one of my ideas]
 
 She's a close friend of his. [of his = one of his friends]
 
-#### LUU Y:
+#### LƯU Ý:
 
-- It có thể dùng để chỉ thải tiết, khoảng cách hoặc thực tế.
+- It có thể dùng để chỉ thời tiết, khoảng cách hoặc thực tế.
 
 Ex: It's raining.
 
@@ -70,21 +70,21 @@ It's 5 kilometres from here.
 
 Ex: If someone calls, tell them I'll call back.
 
-- Tình tư sở hữu bao gồm: my, your, his, her, our, their, its. Tình tư sở hữu phái có danh tử theo sau.
+- Tính từ sở hữu bao gồm: my, your, his, her, our, their, its. Tính từ sở hữu phải có danh từ theo sau.
 
 Ex: I lost my pen (NOT Hest-my)
 
-- It không có dạng dài tủ sở hữu. Its là dạng tính tủ sở hữu của it.
+- It không có dạng đại từ sở hữu. Its là dạng tính từ sở hữu của it.
 
-- Không dùng mao tử (a, an, the) trước dài tử sở hữu.
+- Không dùng mạo từ (a, an, the) trước đại từ sở hữu.
 
 Ex: His car is red, but hers is blue. (NOT His car is red, but the hers is blue.)
 
-### II. Đại từ phần thân và đại từ nhân mạnh (Reflexive and Intensive Pronouns)
+### II. Đại từ phản thân và đại từ nhấn mạnh (Reflexive and Intensive Pronouns)
 
-Đại từ phần thân
+Đại từ phản thân
 
-- Được dùng khí chù ngữ và tán ngữ trong câu là cùng một người hoặc vật.
+- Được dùng khi chủ ngữ và tân ngữ trong câu là cùng một người hoặc vật.
 
 - Thường dùng sau động từ để chỉ hành động quay trở lại chính chủ thể.
 
@@ -98,29 +98,29 @@ He introduced himself to the new class.
 
 The cat cleaned itself after eating.
 
-##### LUU Y:
+##### LƯU Ý:
 
-Đại từ phần thân không bao giờ được dùng làm chủ ngữ trong câu.
+Đại từ phản thân không bao giờ được dùng làm chủ ngữ trong câu.
 
 - Không dùng myself, yourself, v.v. thay cho I, you, v.v.
 
 Ex: My friend and I went to the market. (NOT My friend and myself went to the market.)
 
-- Đại từ ourselves và themselves luôn ở đang số nhiều vì chúng đai diễn cho chủ ngữ số nhiều.
+- Đại từ ourselves và themselves luôn ở dạng số nhiều vì chúng đại diện cho chủ ngữ số nhiều.
 
-Đại từ you có thể dùng cho cả số It lần số nhiều. Vì vậy:
+Đại từ you có thể dùng cho cả số ít lẫn số nhiều. Vì vậy:
 
-→ Khỉ nội với một người → dùng yourself
+→ Khi nói với một người → dùng yourself
 
-→ Khỉ nơi với nhiều người → dùng yourselves
+→ Khi nói với nhiều người → dùng yourselves
 
 Ex: Mark you should believe in yourself.
 
 Everyone, you should believe in yourselves.
 
-## b. Đại từ nhân mạnh
+## b. Đại từ nhấn mạnh
 
-- Có hình thức giống hết với đại từ phần thân nhưng dùng để nhận mạnh chủ ngữ hoặc tần ngữ trong câu.
+- Có hình thức giống hệt với đại từ phản thân nhưng dùng để nhấn mạnh chủ ngữ hoặc tân ngữ trong câu.
 
 - Thường đứng ngay sau chủ ngữ hoặc cuối câu.
 
@@ -130,23 +130,23 @@ The CEO himself attended the meeting.
 
 She fixed the car herself.
 
-##### LỨU YỊ
+##### LƯU Ý:
 
-Nếu bò dài từ nhân mạnh đi, câu văn dùng về mặt ngữ pháp nhưng mất đi sự nhân mạnh.
+Nếu bỏ đại từ nhấn mạnh đi, câu văn đúng về mặt ngữ pháp nhưng mất đi sự nhấn mạnh.
 
 Ex: ✓ He cleaned the room.
 
-✓ He cleaned the room himself. [Nhân mạnh ràng anh ấy tư làm mà không cần giúp đỡ.]
+✓ He cleaned the room himself. [Nhấn mạnh rằng anh ấy tự làm mà không cần giúp đỡ.]
 
-Cấu trúc by + đại từ phân thân diễn đạt trạng thái ‘một mình’ hoặc ‘không có ai giúp đỡ’.
+Cấu trúc by + đại từ phản thân diễn đạt trạng thái ‘một mình’ hoặc ‘không có ai giúp đỡ’.
 
-Ex: He was sitting by himself in the corner. [Anh ấy ngói một mình]
+Ex: He was sitting by himself in the corner. [Anh ấy ngồi một mình]
 
 She learned how to play the piano by herself. [Cô ấy tự học chơi piano]
 
-### II. Đại từ chỉ định (Demonstrative Pronouns)
+### III. Đại từ chỉ định (Demonstrative Pronouns)
 
-Đại từ chỉ định là loại đại từ dùng để chỉ rõ người, vật hoặc sự việc mà người nói đang để cập tối. Các đại từ này có thể thay thế cho danh từ khi danh từ đó đã được xác định trong ngữ cảnh hoặc đã được nhắc đến trước đó.
+Đại từ chỉ định là loại đại từ dùng để chỉ rõ người, vật hoặc sự việc mà người nói đang đề cập tới. Các đại từ này có thể thay thế cho danh từ khi danh từ đó đã được xác định trong ngữ cảnh hoặc đã được nhắc đến trước đó.
 
 
 
@@ -154,11 +154,11 @@ She learned how to play the piano by herself. [Cô ấy tự học chơi piano]
 
 Đại từ chỉ định được sử dụng đế:
 
-#### - Chi ngươi hoặc vật
+#### - Chỉ người hoặc vật
 
-• This/ These dùng để chỉ người hoặc vật ở gần ngưỡi nội.
+• This/ These dùng để chỉ người hoặc vật ở gần người nói.
 
-- That/Those dùng để chi người hoặc vật ở xạ nguồn nói.
+- That/Those dùng để chỉ người hoặc vật ở xa người nói.
 
 Ex: This is my phone.
 
@@ -168,11 +168,11 @@ These are my keys.
 
 Those are my friends.
 
-#### - Chi thòi gian
+#### - Chỉ thời gian
 
-• This/These dùng để nội về thời điểm hiện tại hoặc tương lai gần.
+• This/These dùng để nói về thời điểm hiện tại hoặc tương lai gần.
 
-- That/ Those dùng để nói về quá khứ hoặc sự việc xạ hơn trong thời gian.
+- That/ Those dùng để nói về quá khứ hoặc sự việc xa hơn trong thời gian.
 
 #### Ex: This morning was really busy
 
@@ -182,7 +182,7 @@ These days, people rely a lot on technology.
 
 Back in the 90s... Ah, those were the days!
 
-#### - Nhân mạnh hoặc thế hiện cảm xúc
+#### - Nhấn mạnh hoặc thể hiện cảm xúc
 
 • This/These thường diễn tả sự ngạc nhiên tích cực hoặc thân mật.
 
@@ -192,9 +192,9 @@ Ex: Guess what? I won the lottery! This is incredible!
 
 He forgot our anniversary again. That really annoyed me.
 
-#### - Giói thiệu hoặc trong các cuộc gọi điện thoại
+#### - Giới thiệu hoặc trong các cuộc gọi điện thoại
 
-- This thường được dùng khí giới thiệu bán thân qua diện thoại.
+- This thường được dùng khi giới thiệu bản thân qua điện thoại.
 
 - That dùng để nhắc đến người khác trong cuộc gọi.
 
@@ -204,79 +204,79 @@ Is that Mary on the phone?
 
 #### Thay thế ý tưởng
 
-- This và these thường được dùng khí muốn nhắc lại hoặc nhấn mạnh một ý tưởng, sự việc vừa mới được để cặp.
+- This và these thường được dùng khi muốn nhắc lại hoặc nhấn mạnh một ý tưởng, sự việc vừa mới được đề cập.
 
  $ \underline{Ex:} $  $ \underline{She's} $ decided to  $ \underline{quit} $ her  $ \underline{job} $. This surprised everyone.
 
 The company introduced  $ \underline{\text{new policies}} $. These will significantly improve productivity.
 
-### - That và those dùng khí nhác đến một ý tưởng, sự việc đã nói từ lâu hoặc khi muốn giữ khoảng cách cảm xúc
+### - That và those dùng khi nhắc đến một ý tưởng, sự việc đã nói từ lâu hoặc khi muốn giữ khoảng cách cảm xúc
 
 ####  $ \underline{Ex:} $  $ \underline{\text{He worked for years without a break.}} $ That must have been exhausting
 
 I remember  $ \underline{\text{the summers}} $ we spent at grandma's house. Those were wonderful days.
 
-### IV. Đại từ nghị vấn (Interrogative Pronouns)
+### IV. Đại từ nghi vấn (Interrogative Pronouns)
 
-Đại từ nghi vấn là những từ được sử dụng để đặt câu hỏi về người, sự vật, sự việc hoặc thông tin cụ thể. Các đại từ này thường dùng dấu câu hỏi và có thể đóng vai trò là chủ ngữ, tán ngữ, hoặc bó ngữ trong câu. Dưới đây là các đại từ nghĩ vấn phô biến và cách sử dụng chủng:
+Đại từ nghi vấn là những từ được sử dụng để đặt câu hỏi về người, sự vật, sự việc hoặc thông tin cụ thể. Các đại từ này thường đứng đầu câu hỏi và có thể đóng vai trò là chủ ngữ, tân ngữ, hoặc bổ ngữ trong câu. Dưới đây là các đại từ nghi vấn phổ biến và cách sử dụng chúng:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Dại tử nghỉ vấn</td><td style='text-align: center; word-wrap: break-word;'>Ý nghĩa và cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td><td style='text-align: center; word-wrap: break-word;'>Ghi chú</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Who</td><td style='text-align: center; word-wrap: break-word;'>Ái, người nào (hói về người - làm chủ ngữ)</td><td style='text-align: center; word-wrap: break-word;'>Who called you last night? Who is coming to the meeting?</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whom</td><td style='text-align: center; word-wrap: break-word;'>Ái, người nào (hói về người - làm tân ngữ)</td><td style='text-align: center; word-wrap: break-word;'>Whom should I contact for more information? Whom did you invite to dinner?</td><td style='text-align: center; word-wrap: break-word;'>Trong vấn nói, người bán ngữ thường do cho who thay thế cho whom, nhưng trong văn viết trang trong, whom được ưu tiên. Nếu có giới từ đi kèm, dùng whom là chính xác nhất. Ex: To whom should I address the letter?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whose</td><td style='text-align: center; word-wrap: break-word;'>Của ai (hói về sở hữu - có thể dùng trước danh từ hoặc dùng độc lập trong câu)</td><td style='text-align: center; word-wrap: break-word;'>Whose book is this? Whose is this car?</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>What</td><td style='text-align: center; word-wrap: break-word;'>Cái gì, diệu gì, việc gì (hói về sự vật hoặc thông tin cụ thể)</td><td style='text-align: center; word-wrap: break-word;'>What is your favourite colour? What happened yesterday?</td><td style='text-align: center; word-wrap: break-word;'>Dùng khi có nhiều khả năng trả lời hoặc không rõ số lượng lựa chọn. Which khỉ có một số lượng lựa chọn nhất định (it hon what).</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Which</td><td style='text-align: center; word-wrap: break-word;'>Cái nào, người nào (lựa chọn trong một nhóm)</td><td style='text-align: center; word-wrap: break-word;'>Which movie do you prefer-action or comedy? Which is your car, the red one or the blue one?</td><td style='text-align: center; word-wrap: break-word;'>Dùng khỉ có một số lượng lựa chọn nhất định (it hon what).</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ nghi vấn</td><td style='text-align: center; word-wrap: break-word;'>Ý nghĩa và cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td><td style='text-align: center; word-wrap: break-word;'>Ghi chú</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Who</td><td style='text-align: center; word-wrap: break-word;'>Ai, người nào (hỏi về người - làm chủ ngữ)</td><td style='text-align: center; word-wrap: break-word;'>Who called you last night? Who is coming to the meeting?</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whom</td><td style='text-align: center; word-wrap: break-word;'>Ai, người nào (hỏi về người - làm tân ngữ)</td><td style='text-align: center; word-wrap: break-word;'>Whom should I contact for more information? Whom did you invite to dinner?</td><td style='text-align: center; word-wrap: break-word;'>Trong văn nói, người bản ngữ thường dùng who thay thế cho whom, nhưng trong văn viết trang trọng, whom được ưu tiên. Nếu có giới từ đi kèm, dùng whom là chính xác nhất. Ex: To whom should I address the letter?</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whose</td><td style='text-align: center; word-wrap: break-word;'>Của ai (hỏi về sở hữu - có thể dùng trước danh từ hoặc dùng độc lập trong câu)</td><td style='text-align: center; word-wrap: break-word;'>Whose book is this? Whose is this car?</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>What</td><td style='text-align: center; word-wrap: break-word;'>Cái gì, điều gì, việc gì (hỏi về sự vật hoặc thông tin cụ thể)</td><td style='text-align: center; word-wrap: break-word;'>What is your favourite colour? What happened yesterday?</td><td style='text-align: center; word-wrap: break-word;'>Dùng khi có nhiều khả năng trả lời hoặc không rõ số lượng lựa chọn. Which khi có một số lượng lựa chọn nhất định (ít hơn what).</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Which</td><td style='text-align: center; word-wrap: break-word;'>Cái nào, người nào (lựa chọn trong một nhóm)</td><td style='text-align: center; word-wrap: break-word;'>Which movie do you prefer-action or comedy? Which is your car, the red one or the blue one?</td><td style='text-align: center; word-wrap: break-word;'>Dùng khi có một số lượng lựa chọn nhất định (ít hơn what).</td></tr></table>
 
 ### V. Đại từ quan hệ (Relative Pronouns)
 
-Đại từ quan hệ là những từ được dùng để nói mệnh đề quan hệ (relattive clause) với mệnh đề chính trong câu. Mệnh đề quan hệ có vai trò bó sung thông tin về người, sự vật hoặc sự việc mà ta đang để cập đến. Các đại từ quan hệ phó biến bao gồm:
+Đại từ quan hệ là những từ được dùng để nối mệnh đề quan hệ (relative clause) với mệnh đề chính trong câu. Mệnh đề quan hệ có vai trò bổ sung thông tin về người, sự vật hoặc sự việc mà ta đang đề cập đến. Các đại từ quan hệ phổ biến bao gồm:
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ quan hệ</td><td style='text-align: center; word-wrap: break-word;'>Dùng để chỉ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Who</td><td style='text-align: center; word-wrap: break-word;'>Người (làm chủ ngữ)</td><td style='text-align: center; word-wrap: break-word;'>The woman who called you is my aunt.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whom</td><td style='text-align: center; word-wrap: break-word;'>Người (làm tân ngữ)</td><td style='text-align: center; word-wrap: break-word;'>The  author, whom I greatly admire, will be speaking at the conference.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whose</td><td style='text-align: center; word-wrap: break-word;'>Số hữu (người hoặc vật)</td><td style='text-align: center; word-wrap: break-word;'>The student whose laptop is broken needs help.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Which</td><td style='text-align: center; word-wrap: break-word;'>Vật hoặc sự việc</td><td style='text-align: center; word-wrap: break-word;'>The which you recommended is amazing.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>That</td><td style='text-align: center; word-wrap: break-word;'>Người, vật hoặc sự việc</td><td style='text-align: center; word-wrap: break-word;'>The that he drives is brand new.</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Đại từ quan hệ</td><td style='text-align: center; word-wrap: break-word;'>Dùng để chỉ</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Who</td><td style='text-align: center; word-wrap: break-word;'>Người (làm chủ ngữ)</td><td style='text-align: center; word-wrap: break-word;'>The woman who called you is my aunt.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whom</td><td style='text-align: center; word-wrap: break-word;'>Người (làm tân ngữ)</td><td style='text-align: center; word-wrap: break-word;'>The  author, whom I greatly admire, will be speaking at the conference.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Whose</td><td style='text-align: center; word-wrap: break-word;'>Sở hữu (người hoặc vật)</td><td style='text-align: center; word-wrap: break-word;'>The student whose laptop is broken needs help.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Which</td><td style='text-align: center; word-wrap: break-word;'>Vật hoặc sự việc</td><td style='text-align: center; word-wrap: break-word;'>The book which you recommended is amazing.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>That</td><td style='text-align: center; word-wrap: break-word;'>Người, vật hoặc sự việc</td><td style='text-align: center; word-wrap: break-word;'>The car that he drives is brand new.</td></tr></table>
 
 #### LƯU Ý:
 
-Đại từ quan hệ whom dùng để thay thế cho người khi người đồ đóng vai trò là tần ngữ trong mệnh đề quan hệ. Trong vấn nội, người bên ngũ thường dùng cho thay thế cho whom trong trường hợp này.
+Đại từ quan hệ whom dùng để thay thế cho người khi người đó đóng vai trò là tân ngữ trong mệnh đề quan hệ. Trong văn nói, người bản ngữ thường dùng who thay thế cho whom trong trường hợp này.
 
 Ex: The girl who/ whom you met yesterday is my cousin.
 
-Tuy nhiên, nếu có giới tư dùng trước, luôn dùng whom.
+Tuy nhiên, nếu có giới từ đứng trước, luôn dùng whom.
 
 Ex: The client to whom I sent the email has replied. (NOT The client to who ...)
 
-- Sau whose phải đi với danh từ để thế hiện mỗi quan hệ của người vật được sở hữu của danh từ đúng trước.
+- Sau whose phải đi với danh từ để thể hiện mối quan hệ sở hữu của vật được sở hữu với danh từ đứng trước.
 
 Ex: The boy whose backpack is blue is my brother.
 
-(cấp sách của câu bè)
+(cặp sách của cậu bé)
 
 I saw a house whose windows were broken.
 
-(của số của ngôi nhà)
+(cửa sổ của ngôi nhà)
 
 ### VI. Đại từ bất định (Indefinite Pronouns)
 
-Đại từ bất định dùng để chỉ người hoặc vật không xác định. Đại từ bất định được chia thành các nhóm chính bảng sự kết hợp giữa every-, any-, some-, no- với -one/-body, -thing, -where.
+Đại từ bất định dùng để chỉ người hoặc vật không xác định. Đại từ bất định được chia thành các nhóm chính bằng sự kết hợp giữa every-, any-, some-, no- với -one/-body, -thing, -where.
 
 
 
-<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;"></td><td style="text-align: center; word-wrap: break-word;">-one/-body chì nguòl</td><td style="text-align: center; word-wrap: break-word;">-thing chì vạt</td><td style="text-align: center; word-wrap: break-word;">-where chì nơi chón</td></tr><tr><td style="text-align: center; word-wrap: break-word;">every- chi tất cá mơl thành phán trong cùng một nhóm.</td><td style="text-align: center; word-wrap: break-word;">everyone / everybody Ex: Everybody knows that she's a great singer.</td><td style="text-align: center; word-wrap: break-word;">everything Ex: Everything is ready for the trip.</td><td style="text-align: center; word-wrap: break-word;">everywhere Ex: I've looked everywhere, but I can't find my keys.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">any-diến dọt sư không gioi han hoặc bất kì khả nàng nào (trong câu kháng đình), và được dùng trong câu phú định dé mang ý nghĩa trái ngược.</td><td style="text-align: center; word-wrap: break-word;">anyone / anybody Ex: Has anybody seen my glasses?</td><td style="text-align: center; word-wrap: break-word;">anything Ex: You can do anything you want.</td><td style="text-align: center; word-wrap: break-word;">anywhere Ex: I don't want to go anywhere.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">some-thương chi một người hoặc một vật nào đó.</td><td style="text-align: center; word-wrap: break-word;">someone / somebody Ex: Someone left their phone on the table.</td><td style="text-align: center; word-wrap: break-word;">something Ex: I need something to drink.</td><td style="text-align: center; word-wrap: break-word;">somewhere Ex: Let's go somewhere quiet to talk.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">no-nghĩa là không có.</td><td style="text-align: center; word-wrap: break-word;">no one / nobody Ex: Nobody knows the answer.</td><td style="text-align: center; word-wrap: break-word;">nothing Ex: Nothing can stop us now.</td><td style="text-align: center; word-wrap: break-word;">nowhere Ex: There's nowhere to park around here.</td></tr></table>
+<table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;"></td><td style="text-align: center; word-wrap: break-word;">-one/-body chỉ người</td><td style="text-align: center; word-wrap: break-word;">-thing chỉ vật</td><td style="text-align: center; word-wrap: break-word;">-where chỉ nơi chốn</td></tr><tr><td style="text-align: center; word-wrap: break-word;">every- chỉ tất cả mọi thành phần trong cùng một nhóm.</td><td style="text-align: center; word-wrap: break-word;">everyone / everybody Ex: Everybody knows that she's a great singer.</td><td style="text-align: center; word-wrap: break-word;">everything Ex: Everything is ready for the trip.</td><td style="text-align: center; word-wrap: break-word;">everywhere Ex: I've looked everywhere, but I can't find my keys.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">any- diễn đạt sự không giới hạn hoặc bất kì khả năng nào (trong câu khẳng định), và được dùng trong câu phủ định để mang ý nghĩa trái ngược.</td><td style="text-align: center; word-wrap: break-word;">anyone / anybody Ex: Has anybody seen my glasses?</td><td style="text-align: center; word-wrap: break-word;">anything Ex: You can do anything you want.</td><td style="text-align: center; word-wrap: break-word;">anywhere Ex: I don't want to go anywhere.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">some- thường chỉ một người hoặc một vật nào đó.</td><td style="text-align: center; word-wrap: break-word;">someone / somebody Ex: Someone left their phone on the table.</td><td style="text-align: center; word-wrap: break-word;">something Ex: I need something to drink.</td><td style="text-align: center; word-wrap: break-word;">somewhere Ex: Let's go somewhere quiet to talk.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">no- nghĩa là không có.</td><td style="text-align: center; word-wrap: break-word;">no one / nobody Ex: Nobody knows the answer.</td><td style="text-align: center; word-wrap: break-word;">nothing Ex: Nothing can stop us now.</td><td style="text-align: center; word-wrap: break-word;">nowhere Ex: There's nowhere to park around here.</td></tr></table>
 
 
 
-- Ta dùng động từ số it sau đại từ bất định.
+- Ta dùng động từ số ít sau đại từ bất định.
 
  Ex : Everyone is excited about the upcoming event.
 
 Someone wants to speak with you.
 
-- Với các mệnh đề chữa đại từ có -nọ, ta không chia động từ phụ định nữa.
+- Với các mệnh đề chứa đại từ có no-, ta không chia động từ phủ định nữa.
 
 Ex: Nothing  was found in the drawer. (NOT Nothing isn't found ...)
 
 No one sees the girl in the red dress. (NOT No one didn't see ...)
 
-- Khi đế cập lại đại từ bất định, ta dùng đại từ nhân xưng hoặc đại từ số hữu phù hợp.
+- Khi đề cập lại đại từ bất định, ta dùng đại từ nhân xưng hoặc đại từ sở hữu phù hợp.
 
-- Khỉ đại tử bất định chỉ người → Đùng đại tử they/them/their để tránh phân biệt giới tính.
+- Khi đại từ bất định chỉ người → Dùng đại từ they/them/their để tránh phân biệt giới tính.
 
  Ex:Anyone  can join the club if they are interested.
 
@@ -300,33 +300,33 @@ Ex: This seat is taken - you'll have to ask somebody else.
 
 If there's nothing else you need, I'll head out now.
 
-### VII. Đại từ hồ tương (Reciprocal Pronouns)
+### VII. Đại từ hỗ tương (Reciprocal Pronouns)
 
-Đại từ hó tương được dùng để chỉ một quan hệ qua lại giữa hai hoặc nhiều người/ vật.
+Đại từ hỗ tương được dùng để chỉ một quan hệ qua lại giữa hai hoặc nhiều người/ vật.
 
-Trong tiếng Anh, co hai đại từ hó tương chính là:
+Trong tiếng Anh, có hai đại từ hỗ tương chính là:
 
-• Each other → Dùng khỉ nơi về hai đôi tương.
+• Each other → Dùng khi nói về hai đối tượng.
 
-• One another → Dùng khi nói về từ ba đối tượng trò lên.
+• One another → Dùng khi nói về từ ba đối tượng trở lên.
 
  Ex: The two friends always help each other.
 
 The team members congratulated one another after winning the match.
 
-Tuy nhiên, trong tiếng Anh hiện đại, hai từ này có thể dùng thay thế nhau trong hầu hết các tính hướng.
+Tuy nhiên, trong tiếng Anh hiện đại, hai từ này có thể dùng thay thế nhau trong hầu hết các tình huống.
 
-Đại rú hồ tương thương dung:
+Đại từ hỗ tương thường dùng:
 
 - Sau động từ chính.
 
-- Sau gọi từ nếu là tán ngữ của giỏi từ.
+- Sau giới từ nếu là tân ngữ của giới từ.
 
 Ex: They smiled at each other.
 
 The students were talking to one another.
 
-- Khi muốn diễn đạt ý sở hữu, ta thêm 's vào đại từ hồ tương.
+- Khi muốn diễn đạt ý sở hữu, ta thêm 's vào đại từ hỗ tương.
 
 Ex: They looked at each other's phones.
 

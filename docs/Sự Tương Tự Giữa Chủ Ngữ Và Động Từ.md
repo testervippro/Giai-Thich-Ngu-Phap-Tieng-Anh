@@ -1,6 +1,6 @@
-# SỰ TƯƠNG HỢP GIỮA CHỦ NGŨ VÀ ĐỘNG TỪ (SUBJECT-VERB AGREEMENT)
+# SỰ TƯƠNG HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ (SUBJECT-VERB AGREEMENT)
 
-### Kiến thức cản nhớ:
+### Kiến thức cần nhớ:
 
 - Định nghĩa và phân loại danh từ ở Chương 1.
 
@@ -8,27 +8,27 @@
 
 ## Mục tiêu học tập:
 
-- Chia động tử hoà hợp theo thi, só và cách với chủ ngữ.
+- Chia động từ hoà hợp theo thì, số và cách với chủ ngữ.
 
-Trong tiếng Anh, chủ ngữ và động từ cân phải tương hợp với nhau.
+Trong tiếng Anh, chủ ngữ và động từ cần phải tương hợp với nhau.
 
 ## 1. Động từ số ít (Singular verbs)
 
-Động tử số it thương được dùng trong câu có chủ ngữ là:
+Động từ số ít thường được dùng trong câu có chủ ngữ là:
 
-Danh từ đếm được số it hoặc danh từ không đếm được
+Danh từ đếm được số ít hoặc danh từ không đếm được
 
 Ex: The painter creates a masterpiece.
 
 Information is a valuable resource.
 
-Hai danh từ nói với nhau bàng and cùng chi vẻ một người, một vật hoặc một sự việc.
+Hai danh từ nối với nhau bằng and cùng chỉ về một người, một vật hoặc một sự việc.
 
 Ex: Peanut butter and jelly is a classic sandwich.
 
-My mentor and coach, Sarah, is visitingnext week.
+My mentor and coach, Sarah, is visiting next week.
 
-• Each/Every/Either/Neither+danh từ số it
+• Each/Every/Either/Neither+danh từ số ít
 
 Ex: Every house in the neighbourhood has its security system.
 
@@ -38,7 +38,7 @@ Each child   gets a medal for participating in the competition.
 
 Neither shirt is my size.
 
-• Each of/ every one of/ either of/ neither of/ any of/ none of+ tinh tử sở hữu/ tử chỉ định + danh tử số nhiều/ đại tử tân ngữ số nhiều
+• Each of/ every one of/ either of/ neither of/ any of/ none of+ tính từ sở hữu/ từ chỉ định + danh từ số nhiều/ đại từ tân ngữ số nhiều
 
 Ex: Each of my friends   enjoys different types of music. (NOT Each of friends...)
 
@@ -60,19 +60,19 @@ Ex He shook hands with each of the guests at the event
 
 = He shook hands with every one of the guests at the event.
 
-- Trong vân phong trang trong, động từ theo sau each of/ neither of/ either of/ none of/ any of + danh từ số nhiều/ dại từ số nhiều thuong ở SỐ IT. Tuy nhiên trong lối nội thuong ngày, động từ cùng có thể ở số nhiều. Tuy nhiên, thế số ít văn dược ua chuông hơn về mặt ngữ pháp.
+- Trong văn phong trang trọng, động từ theo sau each of/ neither of/ either of/ none of/ any of + danh từ số nhiều/ đại từ số nhiều thường ở SỐ ÍT. Tuy nhiên trong lối nói thường ngày, động từ cũng có thể ở số nhiều. Tuy nhiên, thể số ít vẫn được ưa chuộng hơn về mặt ngữ pháp.
 
 Ex: Any of the solutions   works / work for this problem.
 
 None of the students is/are present today.
 
-- Tương tụ, sau các cum tụ như one In/ one out of + số + danh từ số nhiều có thể dùng cả động tụ số ít lần số nhiều.
+- Tương tự, sau các cụm từ như one in/ one out of + số + danh từ số nhiều có thể dùng cả động từ số ít lẫn số nhiều.
 
 Ex: One in ten children need/ needs extra support in reading.
 
 One out of five students   choose/chooses to study abroad.
 
-##### • More than one + danh từ đếm được số it
+##### • More than one + danh từ đếm được số ít
 
   Ex:  More than one scientist   is trying to find a cure for HIV.
 
@@ -118,7 +118,7 @@ Learning a new language   takes time and effort.
 
 ### II. Động từ số nhiều (Plural verbs)
 
-Động tư số nhiều thương được dung khi chủ ngữ là:
+Động từ số nhiều thường được dùng khi chủ ngữ là:
 
 Danh từ số nhiều
 
@@ -126,7 +126,7 @@ Danh từ số nhiều
 
 These books are mine.
 
-Hai danh từ nói với nhau bằng and chi hai người, hai vật hoặc hai sự vật khác nhau.
+Hai danh từ nối với nhau bằng and chỉ hai người, hai vật hoặc hai sự vật khác nhau.
 
   Ex : The manager and his assistants   handle  customer complaints.
 
@@ -148,9 +148,9 @@ All the employees   work  hard to meet the deadline.
 
 Một số danh từ tập hợp phổ biến: army, audience, band, cast, cattle, choir, class, club, committee, community, company, council, crowd, family, firm, gang, group, orchestra, organisation, police, school, staff, team, v.v. và tên của một số tổ chức như the BBC, IBM, the United Nations, v.v.
 
-Danh từ tập hợp có thể đi với động từ số it hoặc số nhiều, tụy theo cách sử dụng trong câu.
+Danh từ tập hợp có thể đi với động từ số ít hoặc số nhiều, tùy theo cách sử dụng trong câu.
 
-- Khi danh từ tập hợp mang ý nghĩa tập thể hoạt động như một khối thống nhất, động từ đi cùng phải chia ở số it.
+- Khi danh từ tập hợp mang ý nghĩa tập thể hoạt động như một khối thống nhất, động từ đi cùng phải chia ở số ít.
 
   Ex : The committee   has  decided on the new policy.
 
@@ -164,7 +164,7 @@ The audience   were  clapping and cheering loudly.
 
 #### Danh từ tập hợp nào luôn đi với số ít hoặc số nhiều?
 
-Danh từ tập hợp gần như luôn đi cùng động từ số it, bao gồm: government, company, organisation, army, class, v.v.
+Danh từ tập hợp gần như luôn đi cùng động từ số ít, bao gồm: government, company, organisation, army, class, v.v.
 
 Ex: The company is expanding internationally.
 
@@ -176,27 +176,27 @@ Danh từ tập hợp luôn đi cùng động từ số nhiều, bao gồm: poli
 
 The people  want  a change.
 
-Hai danh từ/ đại từ kết hợp với nhau bàng with, along with, as well as, together with, v.v. → động từ chia theo danh từ/ đại từ đấu tiên
+Hai danh từ/ đại từ kết hợp với nhau bằng with, along with, as well as, together with, v.v. → động từ chia theo danh từ/ đại từ đầu tiên
 
   Ex: John, together with   his friends,   is planning the event.
 
 
 California, along with Florida and Hawaii, is among the most popular US tourist destinations.
 
-Hai danh từ/ đại từ kết hợp với nhau bàng: or, either...or, neither...nor, not...but, not only...but also → động từ được chia theo danh từ/ đại từ thứ hai
+Hai danh từ/ đại từ kết hợp với nhau bằng: or, either...or, neither...nor, not...but, not only...but also → động từ được chia theo danh từ/ đại từ thứ hai
 
   Ex:  Either   John  or   his  sisters   are  calling us tonight.
 
 Neither   the cats nor   the dog is allowed on the couch.
 
 
-Với câu trúc neither...nor, động từ thường chia ở số it, nhưng động từ số nhiều cùng có thể được dùng trong lối nói ít trang trong hơn.
+Với cấu trúc neither...nor, động từ thường chia ở số ít, nhưng động từ số nhiều cũng có thể được dùng trong lối nói ít trang trọng hơn.
 
 • "The number of" và "A number of"
 
-- The number of+ danh từ số nhiều → chia động từ số it
+- The number of+ danh từ số nhiều → chia động từ số ít
 
-The number of chi một số lượng tổng thế
+The number of chỉ một số lượng tổng thể
 
   Ex : The number of storms this season   has  been unusually high.
 
@@ -206,15 +206,15 @@ The number of chi một số lượng tổng thế
 
   Ex:  A number of weather stations   have  reported heavy snowfall in the region.
 
-- Cụm danh từ góm 2 danh từ được kết hợp bằng giới tử of
+- Cụm danh từ gồm 2 danh từ được kết hợp bằng giới từ of
 
-Danh từ + giới từ of + danh từ → động từ chia theo danh từ đấu tiên
+Danh từ + giới từ of + danh từ → động từ chia theo danh từ đầu tiên
 
 Ex: A bouquet of flowers brightens up the room.
 
 The   effects of   stress   are significant on people's health.
 
-- Trong câu trục Thế/ Here + be + noun, động tư be được chia theo chủ tụ thật (real subject) dùng ngay sau no.
+- Trong cấu trúc There/ Here + be + noun, động từ be được chia theo chủ ngữ thật (real subject) dùng ngay sau nó.
 
 There/ Here + be + noun
 
