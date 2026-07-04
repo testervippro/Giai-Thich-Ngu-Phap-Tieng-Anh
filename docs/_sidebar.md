@@ -1,5 +1,7 @@
 # 📚 MỤC LỤC
 
+- [📖 XEM TẤT CẢ (1 trang)](all.md)
+
 ---
 
 # CHƯƠNG 1: TỪ LOẠI
@@ -27,7 +29,7 @@
 
 # CHƯƠNG 3: MỆNH ĐỀ
 
-> Đang cập nhật...
+- [MỆNH ĐỀ](Menh%20De.md)
 
 ---
 
@@ -39,7 +41,7 @@
 
 # CHƯƠNG 5: PHỐI HỢP THÌ
 
-> Đang cập nhật...
+- [PHỐI HỢP THÌ](SEQUENCE%20OF%20TENSES.md)
 
 ---
 
