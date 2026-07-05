@@ -213,7 +213,7 @@ He can speak Chinese. [NOT He can to speak...]
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>MUST</td><td style='text-align: center; word-wrap: break-word;'>HAVE TO</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- Phủ định: must not (mustn't)</td><td style='text-align: center; word-wrap: break-word;'>- Phủ định: trợ động từ do + not + have to</td></tr><tr><td colspan="2">CÁCH DÙNG VÀ PHÂN BIỆT</td></tr><tr><td colspan="2">- Must và have to đều được dùng để diễn tả sự cần thiết hoặc bắt buộc ở hiện tại và tương lai.Ex: I must go now./ I have to go now.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- Must được dùng để diễn đạt sự bắt buộc đến từ quan điểm cá nhân của người nói.- Must được dùng trong văn viết khi viết các quy định và chỉ dẫn.Ex: I must remember to get a present for Jimmy. [ý kiến cá nhân]Seat belts must be worn. [chỉ dẫn]</td><td style='text-align: center; word-wrap: break-word;'>- Have to được dùng để diễn đạt sự bắt buộc từ điều kiện bên ngoài (pháp luật, quy định, sự thật, tình huống,...) thay vì ý kiến người nói.Ex: I have to wear a tie for school. [quy định]We have to work from 8.30 to 5.30 every day. [quy định]</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- Must not/mustn't được dùng để nói về một điều không được phép làm, hoặc yêu cầu ai không được làm điều gì. → sự cấm đoán.Ex: You mustn't go into the forest. It's dangerous.My parents aren't home. I mustn't forget my keys.In the non-smoking area: You mustn't smoke.</td><td style='text-align: center; word-wrap: break-word;'>- Do not have to/don't have to (= don't need to) được dùng để chỉ một việc không cần thiết phải làm.Ex: You don't have to go into the forest. My parents are home. I don't have to bring my keys.In the smoking area: You don't have to smoke, but you can if you want to.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>- Must được dùng để nói về một suy luận hợp lí, hoặc một điều gì đó có thể là thật. Ex: You must be hungry after all that walking. Jack's been driving all day - he must be tired. - Must được dùng để đưa lời khuyên hoặc yêu cầu (ở mức nhấn mạnh) vì bạn cho rằng đó là một ý hay/ một việc nên làm. Ex: We must get together soon for lunch.</td><td style='text-align: center; word-wrap: break-word;'>- Have to được dùng thay cho must trong các trường hợp không thể dùng must: thì tương lai, thì tiếp diễn, thì quá khứ, thì hiện tại hoàn thành, danh động từ (gerund)... Ex: She went to the party yesterday, but she had to leave early. [NOT she must...] If you earn more than £5,000, you will have to pay tax. [NOT-you will must pay...]</td></tr></table>
 
 <h3>✧ WILL (sẽ)</h3>
-![alt text](image-2.png)
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="4" style='text-align: center; word-wrap: break-word;'>Will — phủ định: won't; dạng quá khứ: would</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dự đoán</td><td style='text-align: center; word-wrap: break-word;'>Quyết định ngay</td><td style='text-align: center; word-wrap: break-word;'>Suy đoán hiện tại</td><td style='text-align: center; word-wrap: break-word;'>Lời hứa / đe dọa</td></tr></table>
 
 
 ##### LƯU Ý
@@ -224,7 +224,7 @@ Ex: I will pick you up at five.
 
 You will pick me up at five.
 
-![alt text](image.png)
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Cách dùng</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Would ('d) — diễn đạt một giả định hay dự đoán về một tình huống có thể xảy ra. (phủ định: wouldn't)</td><td style='text-align: center; word-wrap: break-word;'>Sophie stayed up late. She would be tired the next day. I would hate to miss the show.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Nói về một thói quen hoặc hành động thường làm trong quá khứ.</td><td style='text-align: center; word-wrap: break-word;'>On summer evenings they would sit out in the garden. We would often have milk tea together.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Đưa ra yêu cầu, đề nghị một cách lịch sự (trang trọng hơn will).</td><td style='text-align: center; word-wrap: break-word;'>Would you mind waiting outside? Would you like me to come with you? Would you like some cake?</td></tr></table>
 
 
 #### LƯU Ý:
@@ -239,11 +239,13 @@ Would còn được dùng trong các trường hợp sau.
 
 <h3>✧ SHALL (sẽ)</h3>
 
-![alt text](image-3.png)
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="3" style='text-align: center; word-wrap: break-word;'>Shall — 'll; phủ định: shall not (shan't)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dùng với I, we</td><td style='text-align: center; word-wrap: break-word;'>Câu hỏi đề nghị</td><td style='text-align: center; word-wrap: break-word;'>Dự đoán (cách dùng cũ)</td></tr></table>
 
 <div style="max-width:900px; margin:auto; font-family:Arial;">
 
-![alt text](image-1.png)
+#### ✧ SHOULD (nên)
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="3" style='text-align: center; word-wrap: break-word;'>Should — phủ định: should not (shouldn't)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Bổn phận nhẹ</td><td style='text-align: center; word-wrap: break-word;'>Lời khuyên</td><td style='text-align: center; word-wrap: break-word;'>Suy đoán</td></tr></table>
 
 
 #### ♦ OUGHT (nên)
@@ -445,7 +447,7 @@ feel, hear, notice, see, watch,...
 
 (các động từ chỉ trị giác)
 
-![alt text](image-4.png)
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>hear, see, feel... + O + bare-infinitive</td><td style='text-align: center; word-wrap: break-word;'>hear, see, feel... + O + V-ing</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Diễn tả toàn bộ quá trình hành động đã diễn ra.</td><td style='text-align: center; word-wrap: break-word;'>Diễn tả hành động đang diễn ra.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: The police watched the woman come out of the house and get into a car.</td><td style='text-align: center; word-wrap: break-word;'>Ex: I can hear people talking outside.</td></tr></table>
 
 hear, see, feel... + O +
 
@@ -461,7 +463,7 @@ Diễn tả hành động/ quá trình đang diễn ra: nghe, thấy, cảm th�
 
 advise, allow, forbid, encourage, permit, recommend,...
 
-![alt text](image-5.png)
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Có tân ngữ theo sau → dùng to-infinitive</td><td style='text-align: center; word-wrap: break-word;'>Không có tân ngữ theo sau → dùng V-ing</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>advise, allow, forbid... + O + to-infinitive</td><td style='text-align: center; word-wrap: break-word;'>advise, allow, forbid... + V-ing</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Ex: I strongly encourage everyone to join the badminton club. His parents won't allow him to stay out late.</td><td style='text-align: center; word-wrap: break-word;'>Ex: The company doesn't allow smoking inside the building. Doctors advised eating less fast food.</td></tr></table>
 
 
 ##### LƯU Ý:
