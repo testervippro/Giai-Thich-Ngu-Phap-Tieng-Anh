@@ -50,3 +50,4 @@
 - [Oxford Collocations Dictionary](Oxford%20Collocations%20Dictionary.md)
 - [Collocations (dạng cụm)](Collocations.md)
 - [Collocations — 5000 từ thông dụng](Collocations5000.md)
+- [Collocations — ngoài 5000 từ](CollocationsNot5000.md)
