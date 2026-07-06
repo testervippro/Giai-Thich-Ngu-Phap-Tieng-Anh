@@ -51,3 +51,9 @@
 - [Collocations (dạng cụm)](Collocations.md)
 - [Collocations — 5000 từ thông dụng](Collocations5000.md)
 - [Collocations — ngoài 5000 từ](CollocationsNot5000.md)
+
+---
+
+# 🔤 TỪ VỰNG (WORD FAMILIES)
+
+- [Word families & đồng nghĩa (5000 từ)](WordFamilies.md)
