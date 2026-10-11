@@ -608,3 +608,44 @@ Phần "Quy tắc" ở mỗi nhóm là kiến thức ngữ pháp chung (không p
 | T6-143 | result connector "As a result" | A (As a result) | "reduction in mail-room staffing. -----, starting on October 7, mail will no longer be delivered" | Instead, Nevertheless, "If so" do not express cause-effect | H |
 | T5-144 | time connector "Before you do" referring to pitching | C (Before you do) | "send your pitch ... ----- be sure to spend some time reading our publication" | "In any event" and "On the contrary" do not fit; "If you cannot" creates wrong logic | M |
 | T2-131 | time transition "Before long" after initial reaction | D Before long | "Everyone loved them! ___, Ms. Sweeney started sharing muffins with anyone" | Now that needs a clause and subject; After all and Otherwise do not fit narrative sequence | H |
+
+## 3. Phụ lục: Từ đồng dạng đổi nghĩa theo từ loại ("bẫy" word-form)
+
+Phần này không trích từ đề — là bảng tham khảo tổng hợp riêng, bổ sung cho nhóm "Dạng từ" ở mục 1. Khác với các từ phái sinh bằng hậu tố (beauty → beautiful), các từ dưới đây **giữ nguyên cách viết** khi đổi từ loại nhưng **nghĩa lệch hẳn** — rất hay bị dùng làm bẫy trong Part 5.
+
+### 3.1 Danh từ/Động từ → Tính từ, nghĩa đổi khác hẳn
+
+| Từ | Nghĩa khi là N/V | Nghĩa khi là Adj |
+|---|---|---|
+| present | n. quà, hiện tại / v. trình bày | **có mặt** (be present at) |
+| content | n. nội dung (CON-tent) | **hài lòng** (con-TENT) |
+| subject | n. chủ đề, môn học | **be subject to** = dễ bị, tùy thuộc vào |
+| complex | n. khu phức hợp, mặc cảm (tâm lý) | **phức tạp** |
+| invalid | n. người tàn tật (IN-va-lid) | **không hợp lệ** (in-VA-lid) — đổi cả trọng âm |
+| minute | n. phút | **rất nhỏ, tỉ mỉ** (đọc khác: /maɪˈnjuːt/) |
+| close | v. đóng (đọc /z/) | **gần** (đọc /s/) |
+| live | v. sống (/lɪv/) | **trực tiếp, sống động** (/laɪv/ — live broadcast) |
+| novel | n. tiểu thuyết | **mới lạ, độc đáo** |
+| second | n. giây | **thứ hai** / v. ủng hộ, tán thành (một đề xuất) |
+| right | n. quyền | **đúng** / **bên phải** |
+| fine | n. tiền phạt / v. phạt | **ổn, tốt** / **mảnh, mịn** |
+
+### 3.2 Danh từ ↔ Động từ, đổi nghĩa + đổi trọng âm (stress-shift)
+
+Cùng chữ, nghĩa gần nhau hơn nhưng trọng âm đổi — hay bị hỏi trong dạng "chọn từ loại đúng" hoặc đọc hiểu trọng âm:
+
+| Từ | Danh từ (trọng âm 1) | Động từ (trọng âm 2) |
+|---|---|---|
+| present | ['pre.zənt] món quà | [pre'zent] trình bày |
+| record | ['re.kɔːd] hồ sơ, kỷ lục | [re'kɔːd] ghi âm |
+| permit | ['pɜː.mɪt] giấy phép | [pə'mɪt] cho phép |
+| contract | ['kɒn.trækt] hợp đồng | [kən'trækt] ký hợp đồng / co lại |
+| project | ['prɒ.dʒekt] dự án | [prə'dʒekt] dự kiến, chiếu |
+| produce | ['prɒ.djuːs] nông sản | [prə'djuːs] sản xuất |
+| conduct | ['kɒn.dʌkt] hành vi | [kən'dʌkt] tiến hành |
+| suspect | ['sʌs.pekt] nghi phạm | [sə'spekt] nghi ngờ |
+| desert | ['de.zət] sa mạc | [dɪ'zɜːt] bỏ rơi |
+| refuse | ['re.fjuːs] rác | [rɪ'fjuːz] từ chối |
+| increase / decrease | n. sự tăng/giảm | v. tăng/giảm |
+
+**Mẹo làm bài:** nhìn chỗ trống trong câu — có mạo từ/tính từ sở hữu đứng trước (a/an/the/his...) → cần **danh từ**; đứng sau be/become/seem → cần **tính từ**; là hành động chính của câu → cần **động từ**. Riêng nhóm 3.1 (present, content, subject...) phải nhớ nghĩa đặc biệt vì không suy luận được từ nghĩa gốc.
