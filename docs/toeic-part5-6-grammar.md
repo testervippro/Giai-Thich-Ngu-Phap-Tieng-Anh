@@ -649,3 +649,37 @@ Cùng chữ, nghĩa gần nhau hơn nhưng trọng âm đổi — hay bị hỏi
 | increase / decrease | n. sự tăng/giảm | v. tăng/giảm |
 
 **Mẹo làm bài:** nhìn chỗ trống trong câu — có mạo từ/tính từ sở hữu đứng trước (a/an/the/his...) → cần **danh từ**; đứng sau be/become/seem → cần **tính từ**; là hành động chính của câu → cần **động từ**. Riêng nhóm 3.1 (present, content, subject...) phải nhớ nghĩa đặc biệt vì không suy luận được từ nghĩa gốc.
+
+### 3.3 Thêm (quét tự động từ WordNet trên 5000 từ)
+
+Danh sách dưới đây được quét tự động (so sánh nghĩa N/V với nghĩa Adj, lọc nhiễu), bổ sung cho 3.1/3.2:
+
+| Từ | Nghĩa N/V | Nghĩa Adj (khác hẳn) |
+|---|---|---|
+| patient | n. bệnh nhân | **kiên nhẫn** |
+| private | n. binh nhì (lính) | **riêng tư** |
+| mean | v. có ý nghĩa, định nói | **keo kiệt / trung bình** (mean person, mean score) |
+| base | v. dựa trên | **hèn hạ, ti tiện** (a base act) |
+| level | n. mức độ | **bằng phẳng** (a level surface) |
+| terminal | n. nhà ga, bến | **ở giai đoạn cuối, gây tử vong** (terminal illness) |
+| limited | v. giới hạn | **có hạn / Ltd. (cty TNHH)** (a limited company) |
+| fixed | v. sửa chữa | **cố định, không đổi** (fixed price/rate) |
+| further | v. thúc đẩy (hiếm) | **thêm nữa, xa hơn** (for further information) |
+| connected | v. kết nối | **có quen biết rộng, có thế lực** (well-connected) |
+| covered | v. che phủ | **được bảo hiểm chi trả** (covered under the policy) |
+| advanced | v. thúc đẩy | **tiên tiến, trình độ cao** (advanced level) |
+| running | v. chạy | **liên tiếp** (three days running) |
+| standing | v. đứng | **thường trực, lâu dài** (standing committee) |
+| cutting | v. cắt giảm | **sắc bén, cay nghiệt** (a cutting remark) |
+| lost | v. mất, thua | **bối rối, lạc lõng** (lost in thought) |
+| material | n. vật liệu | **trọng yếu, quan trọng** (a material fact — thuật ngữ luật) |
+| express | v. diễn đạt | **tốc hành / rõ ràng, minh bạch** (express train, express terms) |
+| primary | n. bầu cử sơ bộ | **chính, chủ yếu** |
+| mass | n. khối lượng | **hàng loạt** (mass production) |
+| social | n. buổi họp mặt xã giao | **thuộc xã hội** |
+| lean | v. nghiêng, tựa | **gầy, nạc** (lean meat) |
+| grand | n. 1.000 đô (tiếng lóng) | **hoành tráng, tuyệt vời** |
+| manifest | v. biểu hiện | **rõ ràng, hiển nhiên** |
+| minor | n. trẻ vị thành niên | **nhỏ, không đáng kể** |
+| associate | n. cộng sự, đồng nghiệp | **cấp phó, liên kết** (associate professor) |
+| intent | n. ý định | **chăm chú, quyết tâm** (intent on doing sth) |
