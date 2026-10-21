@@ -68,6 +68,7 @@
 - [Part 7 — Phân tích từng câu (phụ lục)](toeic-part7-per-question-analysis.md)
 - [Listening — Cụm từ & Fixed Expressions](toeic-ets-2026-listening-phrases.md)
 - [Reading — Cụm từ & Fixed Expressions](toeic-ets-2026-reading-all-phrases.md)
+- [Listening — Luyện nghe Part 1–4](toeic-listening-practice.md)
 
 ---
 

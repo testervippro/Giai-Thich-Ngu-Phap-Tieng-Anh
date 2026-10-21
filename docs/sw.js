@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ngu-phap-anh-v1';
+const CACHE_NAME = 'ngu-phap-anh-v2';
 const APP_SHELL = [
   './',
   './index.html',
