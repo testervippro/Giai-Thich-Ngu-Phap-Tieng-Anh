@@ -69,7 +69,7 @@
 - [Listening — Cụm từ & Fixed Expressions](toeic-ets-2026-listening-phrases.md)
 - [Reading — Cụm từ & Fixed Expressions](toeic-ets-2026-reading-all-phrases.md)
 - [Listening — Luyện nghe Part 1–4](toeic-listening-practice.md)
--  [Reading - Luyện đọc ](toeic-ets-2026-reading.pdf_by_PaddleOCR-VL-1.6.md)
+-  [Reading - Luyện đọc ](toeic-ets-2026-reading.md)
 
 ---
 
