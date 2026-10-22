@@ -6,3 +6,5 @@ Nội dung transcript được chia theo từng bộ đề và câu hỏi để 
 - [Part 2 — Question–Response](toeic-listening-part-2.md)
 - [Part 3 — Conversations](toeic-listening-part-3.md)
 - [Part 4 — Talks](toeic-listening-part-4.md)
+
+- [Reading — Luyện đọc](toeic-ets-2026-reading.md)
