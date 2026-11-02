@@ -1,0 +1,11 @@
+build/
+.venv/
+.DS_Store
+
+# Large raw source PDFs not used by the published docs/ site
+/TRANSCRIPT ets 2026.pdf
+/TRANSCRIPT ets 2026 - compressed.pdf
+/2136 Kanji.pdf
+/English for Everyone Illustrated English Dictionary - DK.pdf
+/GIẢI THÍCH NGỮ PHÁP TIẾNG ANH (MAI LAN HƯƠNG) 📚𝙱𝚇𝙻.pdf
+__pycache__/
