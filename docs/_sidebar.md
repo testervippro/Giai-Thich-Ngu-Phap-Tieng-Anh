@@ -92,6 +92,12 @@
 
 ---
 
+# 🇨🇳 TIẾNG TRUNG
+
+- [1000 câu ngắn tiếng Trung – tiếng Anh](1000-short-phrases-Chinese-English.md)
+
+---
+
 # 📐 NGỮ PHÁP (DẠNG BẢNG)
 
 - [DANH TỪ](Danh%20T%E1%BB%AB%20%28B%E1%BA%A3ng%29.md)
