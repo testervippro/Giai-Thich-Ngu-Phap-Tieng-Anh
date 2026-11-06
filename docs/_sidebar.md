@@ -62,6 +62,12 @@
 
 ---
 
+# 🗣️ SPOKEN ENGLISH
+
+- [500 Spoken English Structures (+ IELTS Speaking patterns)](500_spoken_english_structures.md)
+
+---
+
 # 🎯 TOEIC (ETS 2026)
 
 - [Ngữ pháp Part 5 & 6](toeic-part5-6-grammar.md)
