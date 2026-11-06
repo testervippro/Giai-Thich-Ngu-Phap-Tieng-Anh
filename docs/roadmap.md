@@ -46,6 +46,7 @@
 - [Collocations — 5000 từ thông dụng](Collocations5000.md) — ưu tiên học trước, đây là nhóm từ xuất hiện nhiều nhất trong đề thi thật.
 - [Collocations (dạng cụm)](Collocations.md) — tra cứu theo cụm từ.
 - [Collocations — ngoài 5000 từ](CollocationsNot5000.md) — học sau, khi đã chắc nhóm 5000 từ, nhắm tới band điểm cao nhất (900+).
+- [4500 Collocations and Idioms (theo chủ đề)](4500-collocations-idioms.md) — học theo 46 chủ đề (gia đình, công việc, cảm xúc...), có cả cụm từ cố định lẫn thành ngữ, hợp để học theo chủ đề bài thi thay vì theo bảng chữ cái.
 - [Oxford Collocations Dictionary](Oxford%20Collocations%20Dictionary.md) — dùng để tra cứu sâu khi gặp từ lạ trong lúc luyện đề, không cần học thuộc lòng từ đầu.
 
 **Cách học hiệu quả:** không học thuộc từng trang — mỗi ngày chọn 20–30 collocation, viết câu ví dụ, rồi áp ngay vào bài luyện Part 5/6/7 đang làm.
