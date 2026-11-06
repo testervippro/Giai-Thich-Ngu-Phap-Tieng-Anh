@@ -78,12 +78,17 @@
 # 🔤 TỪ VỰNG (WORD FAMILIES)
 
 - [Word families & đồng nghĩa (5000 từ)](WordFamilies.md)
+- [🔧 Công cụ: Word Families 5000 (tra cứu tương tác)](tools/word-families-5000.html)
+- [🔧 Công cụ: 10.000 từ vựng theo chủ đề](tools/word-families-by-topic.html)
 
 ---
 
 # 🗾 TIẾNG NHẬT — KANJI
 
 - [2136 Kanji — Học qua câu chuyện](KanjiStory.md)
+- [🔧 Công cụ: Xem thẻ Kanji (kanji_p1/p2 + JLPT N1–N5)](kanji-viewer/index.html)
+- [📊 Bảng tham khảo: 2136 Kanji](kanji-2136.xlsx)
+- [📊 Bảng tham khảo: Kanji in Context (Hán Việt)](Kanji%20in%20Context%20%28Han%20Viet%29.xlsx)
 
 ---
 

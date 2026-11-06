@@ -101,7 +101,10 @@ body::before {
       loadSidebar: true,
       subMaxLevel: 0,
       maxLevel: 0,
-      auto2top: true
+      auto2top: true,
+      // Link tới công cụ HTML / file tham khảo .xlsx: điều hướng thẳng,
+      // không cho router SPA của docsify nuốt vào rồi tải như markdown.
+      noCompileLinks: ['tools/.*', 'kanji-viewer/.*', '.*\\.xlsx$']
     }
   </script>
 
