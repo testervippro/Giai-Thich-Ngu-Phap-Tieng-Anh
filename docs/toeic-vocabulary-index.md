@@ -1,0 +1,5121 @@
+# Danh sách từ vựng TOEIC (Index đầy đủ)
+
+> Nguồn: *Hackers TOEIC Vocabulary* (trang 524-559) — phần Index tổng hợp toàn bộ từ vựng được giới thiệu trong sách, trích xuất bằng OCR từ bản scan. Dùng `Ctrl+F` để tra cứu nhanh một từ/cụm từ bất kỳ.
+
+> Tổng cộng: **5039 mục** (từ đơn, cụm từ, collocation), sắp xếp theo thứ tự A-Z. Vì là OCR từ bản scan nên có thể còn vài lỗi chính tả nhỏ — đối chiếu với từ điển khi gặp từ lạ.
+
+---
+
+## A
+
+- A and B alike
+- A as well as B
+- A be followed by B
+- a complete line of
+- a copy of
+- a couple of
+- a glass of
+- a great deal
+- a great deal of
+- a large attendance
+- a letter of gratitude
+- a loaf of
+- a number of
+- a piece of equipment
+- a range of
+- a selection of
+- a series of
+- a sheet of
+- a string of
+- a variety of (= various)
+- abandon
+- abate
+- abbreviate
+- ability
+- aboard
+- abolish
+- abridgment
+- abruptly
+- absence
+- absolute
+- absolutely
+- absorbing
+- abstract
+- abundant
+- abundantly
+- abuse
+- accelerate
+- accept
+- accept an award
+- accept the offer
+- acceptable
+- access
+- access road
+- access to
+- accessibility
+- accessible
+- accidentally
+- acclaim
+- accommodate
+- accommodation
+- accompany
+- accomplish
+- accomplished
+- accomplishment
+- accordance
+- according to
+- accordingly
+- account
+- account payable
+- accountable
+- accountant
+- accounting
+- accredit
+- accrue
+- accumulate
+- accumulation
+- accuracy
+- accurate
+- accurately
+- accuse
+- accustomed
+- achievable
+- achieve
+- achieve one’s goal
+- achievement
+- achiever
+- acknowledge
+- acquaint
+- acquaintance
+- acquire
+- acquired
+- acquisition
+- across from
+- across the street
+- act
+- acting
+- activate
+- active
+- actually
+- acute
+- adapt
+- adaptability
+- adaptable
+- adapted
+- add up to
+- added benefits
+- addition
+- additional
+- additional charge
+- additional fee
+- additionally
+- address
+- address the audience
+- adept
+- adequate
+- adequately
+- adhere
+- adjacent
+- adjourn
+- adjournment
+- adjust
+- adjust the mirror
+- administer
+- administrative
+- admired
+- admiringly
+- admission
+- admission to
+- adopt
+- advance
+- advance reservation
+- advanced
+- advancement
+- advantage
+- adventure
+- adverse
+- adversely
+- adversity
+- advertise
+- advertisement
+- advertising campaign
+- advice
+- advisable
+- advise
+- advise A of B
+- advisor
+- advisory
+- advocate
+- affair
+- affect
+- affiliation
+- affirmative
+- affix
+- afford to do
+- affordability
+- affordable
+- after alll
+- against all odds
+- against the law
+- agency
+- agenda
+- agent
+- aggravate
+- aggression
+- aggressively
+- agile
+- aging
+- agree
+- agreeable
+- agreeably
+- agreement
+- agricultural
+- ahead of schedule
+- aid
+- ailing
+- aim
+- aircraft
+- airfare
+- airport
+- airsickness
+- aisie
+- aisle seat
+- alarming
+- alert
+- aliow
+- all the way
+- all walks of life
+- all-out
+- allegedly
+- allergic
+- alliance
+- allocate
+- allot
+- allotment
+- allowance
+- alluring
+- along the shore
+- along with
+- alter
+- alteration
+- alternate
+- alternative
+- alternatively
+- alumni
+- alumni association
+- amazed
+- ambiance
+- ambitious
+- amend
+- amenity
+- Amore- onan empty stomach
+- amount
+- ample
+- amply
+- amuse
+- amusement park
+- analysis
+- analyst
+- analyze
+- ancient history
+- ankle sprain
+- annex
+- anniversary
+- anniversary celebration
+- annotated
+- announce
+- announcement
+- annoy
+- annuai budget
+- annual
+- annual meeting
+- annual report
+- anonymous
+- answer the phone
+- antibiotic
+- anticipate
+- anticipated (o-unanticipated)
+- anticipation
+- antique
+- anymore
+- apologize
+- apparatus
+- apparel
+- appeal
+- appealing
+- appear
+- appearance
+- appetizer
+- applaud
+- appliance
+- applicant
+- application
+- application form
+- apply
+- apply for
+- appoint
+- appointment
+- appraisal
+- appreciate
+- appreciation
+- appreciative
+- apprehensive
+- apprentice
+- approach
+- appropriate
+- appropriately
+- approval
+- approve
+- approximately
+- approximation
+- aptitude
+- arable
+- arbitration
+- architect
+- architecture
+- archive
+- archway
+- area
+- argument
+- argumentative
+- arise
+- arm in arm
+- armchair
+- around the corner
+- around the world
+- arrange
+- arrange a conference
+- arrange an appointment
+- arrange items on the shelf
+- arrange the furniture
+- arrangement
+- array
+- arrive
+- art museum
+- article
+- artifact
+- artificial
+- artistic
+- as a courtesy (= as a favor)
+- as a result of
+- as if
+- as itis
+- as long as
+- as of now
+- as opposed to
+- as requested
+- as soon as possible
+- ascend
+- aside from
+- aspect
+- aspiration
+- aspire to
+- assemble
+- assembly
+- assent
+- assert
+- assess
+- assessment
+- asset
+- assign
+- assignment
+- assimilate
+- assist
+- associate
+- assorted
+- assume
+- assumption
+- assure
+- asthma
+- astonishingly
+- astute
+- at a discounted price
+- at a fast pace
+- at a rapid rate
+- at a stretch
+- at a substantial discount
+- at a time
+- at all costs
+- at all times
+- at full speed
+- at large
+- at no charge (= at no cost)
+- at no extra charge
+- at once
+- at one’s disposal
+- at one’s request
+- at the discretion of
+- at the earliest
+- at the last minute
+- at the latest
+- at the moment
+- at the same time
+- at this point
+- athlete
+- athletic skill
+- atmosphere
+- atmospheric
+- atrium
+- attach
+- attack
+- attain
+- attainable
+- attempt
+- attend
+- attend a conference
+- attend to a client
+- attendance
+- attention
+- attentive
+- attentively
+- attire
+- attitude
+- attorney
+- attract
+- attraction
+- attribute
+- auction
+- audience
+- audiovisual
+- audit
+- auditorium
+- authentic
+- author
+- authority
+- authorization
+- authorize
+- automate
+- automatic payment
+- automatically
+- automobile
+- automotive
+- automotive repair shop
+- availability
+- available
+- average
+- aviation
+- avoid
+- await
+- award
+- award ceremony
+- aware
+- away
+- awfully
+- awning
+
+## B
+
+- B be contingent upon
+- back away from
+- back injury
+- back order
+- back up
+- backpack
+- backseat
+- badly
+- baggage
+- bakery
+- balance
+- ban
+- bank account
+- bank loan
+- bank teiler
+- banker
+- banking
+- bankrupt
+- bankruptcy
+- banquet
+- bare
+- barely
+- bargain
+- bargain over prices
+- barge
+- barrier
+- barring
+- barter
+- base
+- based
+- basis
+- batch
+- batter
+- bay
+- be absent from
+- be admitted to
+- be advised to do
+- be affiliated with
+- be allowed to do
+- be amazed at
+- be anxious to do
+- be arranged on the patio
+- be asked to do
+- be assigned to
+- be based on
+- be booked up
+- be carried out
+- be caught in
+- be closed for the day
+- be closed to the public
+- be closed to traffic
+- be composed of
+- be designed to do
+- be determined to do
+- be familiar with
+- be filled with
+- be full of
+- be geared to
+- be held
+- be held up
+- be held up in traffic
+- be highly regarded
+- be in a position to do
+- be in agreement
+- be in line
+- be in the black
+- be in the mood for -ing
+- be in the red
+- be influenced by appearance
+- be irrelevant to
+- be known for
+- be lined with
+- be made of
+- be made up of
+- be mounted on
+- be noted for
+- be of particular interest to
+- be on a special diet
+- be on another call
+- be on medication
+- be ona trip
+- be open for business
+- be oriented to
+- be owned by
+- be paid for
+- be qualified for
+- be related to
+- be reluctant to do
+- be satisfied with
+- be scheduled for
+- be seated
+- be sensitive to
+- be shaded
+- be similar to
+- be spread out
+- be stacked on top of each other
+- be suited for
+- be supposed to do
+- be surrounded by
+- be teft unattended
+- be tired of
+- be towed away
+- be unwilling to do
+- be up late
+- be used to -ing
+- beach
+- bear (= carry)
+- beat
+- begin
+- beginning
+- behind schedule
+- belatedly
+- belief
+- belong to
+- belongings
+- bend over
+- beneficial
+- benefit
+- ber)
+- beside the point
+- best-selling
+- best-selling author
+- betieve it or not
+- beverage
+- beware
+- bewiidering
+- biannual
+- bicycle rack
+- bid
+- bike
+- bilateral
+- bilingual
+- bill
+- billing address
+- billing information
+- biography
+- biood supply
+- bite
+- biweekly
+- blackout
+- blame AonB
+- blemish
+- blend
+- blind
+- blink
+- blood pressure
+- blueprint
+- blurry
+- board
+- board a flight
+- board meeting
+- board of directors
+- boarding gate
+- boarding pass
+- boarding time
+- boardroom
+- boast about
+- boat
+- body of water
+- bold
+- boldly
+- bond
+- bonus
+- book
+- bookcase
+- booking
+- bookkeeper
+- bookkeeping
+- booklet
+- bookshelf
+- boom
+- boost
+- border
+- borrow
+- botanical
+- botanical garden
+- bother
+- bother to do
+- bottle
+- bounce
+- bound
+- bound for
+- box office
+- boycott
+- branch
+- branch office (= satellite office)
+- brand
+- brand new
+- brawse
+- break down
+- break-even point
+- breakage
+- breaking news
+- breakthrough
+- brew
+- brief
+- briefcase
+- bring
+- bring about
+- bring aiong
+- bring in
+- bring on
+- bring out
+- bring together
+- bring up
+- brisk
+- broadcast
+- broaden
+- broadly
+- brochure
+- broker
+- brokerage
+- buckte up (= fasten seatbelt)
+- budget
+- buffet
+- built-in
+- bulk
+- bulletin board
+- bump into
+- burdensome
+- bureaucracy
+- bus stop
+- bush
+- business attire
+- business card
+- business class
+- business contacts
+- business day
+- business deal
+- business hours
+- business management
+- business practice
+- business talk
+- business trip
+- busy
+- busy street
+- butcher’s shop
+- button up
+- buy
+- buzzing
+- by a considerable margin
+- by ail means
+- by air
+- by check
+- by contrast
+- by credit card
+- by hand
+- by mistake
+- by no means
+- by oneself
+- by telephone
+- by the end of the year
+- by the time
+- by this time
+- by way of
+- bypass
+
+## C
+
+- c cast a ballot
+- c Check
+- cab
+- cabin
+- cafeteria
+- calculate
+- calculation
+- call an urgent meeting
+- call for
+- call for some assistance
+- call in sick
+- call off
+- call on
+- calt out
+- campaign
+- canal
+- cancel
+- cancellation
+- candidate
+- canopy
+- capability
+- capable
+- capacity
+- capital
+- capitalize on
+- captivate
+- capture
+- car maintenance
+- car rental
+- care for
+- career
+- careful
+- carefully
+- carelessly
+- cargo
+- carousel
+- carpentry
+- carpool
+- carriage
+- carrier
+- carry
+- carry a large parcel
+- carry out market studies
+- carry-on baggage
+- cart
+- carton
+- cartridge
+- case
+- cash
+- cash register
+- cash reserves
+- cashier
+- cast
+- casual
+- casually
+- casualty
+- catalog
+- category
+- cater
+- catering service
+- cause
+- caution
+- cautious
+- cautiously
+- cave
+- cavity
+- cease
+- ceiling
+- celebrate
+- celebration
+- celebratory
+- celebrity
+- Celsius
+- censorship
+- censure
+- central
+- central office
+- CEO (chief executive officen)
+- cereal
+- ceremonial
+- certain
+- certainly
+- certificate
+- certification
+- certified
+- chair
+- chairperson
+- challenge
+- challenging
+- chance
+- change
+- channei
+- characteristic
+- charge
+- charge for
+- charitable
+- charity
+- charter plane
+- chase
+- chat
+- check
+- check in
+- check out
+- check the manual
+- checklist
+- checkup
+- chef
+- chemical
+- chemist
+- chief
+- chief financial officer (CFO)
+- childcare
+- chilly
+- choice
+- choir
+- chop
+- chronic
+- chronological
+- cinema
+- circulate
+- circumscribe
+- circumstances
+- citation
+- cite
+- city official
+- claim
+- claim refund
+- claims department
+- clap
+- clarify
+- clash
+- classification
+- classified
+- classified ad
+- clean
+- clean up
+- cleaning supply
+- cleanliness
+- cleanup
+- clear
+- clear A from B
+- clearance
+- clearly
+- clerical
+- clerk
+- client
+- clientele
+- cliff
+- climb
+- climb a mountain
+- clinic
+- cloakroom
+- close a deal
+- close down
+- closely
+- closing
+- closure
+- clothing
+- clothing line
+- clothing Wo commercial use
+- clout
+- cluster
+- code
+- coherent
+- coil
+- coin
+- coincidentally
+- cold
+- collaborate
+- collaboration
+- collapse
+- collateral
+- colleague
+- collect
+- collect Bo company
+- collectable
+- collection
+- collectively
+- collide
+- collision
+- column
+- combination
+- combine
+- combine A with
+- combine A with B
+- combined
+- combustible
+- come across
+- come along
+- come apart
+- come loose
+- come over
+- come to a decision
+- come to a standstill
+- come to an agreement
+- come to an end
+- come to power
+- come up with
+- comfort
+- comfortable
+- comforting
+- coming
+- command
+- commemorate
+- commemorative
+- commence
+- commend
+- commensurate
+- commensurate qt comply
+- comment
+- commentary
+- commerce
+- commercial
+- commercial relations
+- commercial space
+- commercial use
+- commercial value
+- commission
+- commit
+- commitment
+- committee
+- commodity
+- common interest
+- commonplace
+- communicate
+- community
+- commute
+- commuter
+- compact
+- compact car
+- company
+- company regulations
+- comparable
+- compare
+- comparison
+- compartment
+- compatible
+- compel
+- compelling
+- compensate
+- compensation
+- competent
+- competition
+- competitive
+- competitiveness
+- competitor
+- compiaint
+- compilation
+- compile
+- complain
+- complaint
+- complementary
+- complete
+- completely
+- completion
+- complex
+- compliance
+- compliant
+- complicate
+- complicated
+- complication
+- compliment
+- complimentary
+- comply
+- component
+- compose
+- composition
+- comprehensible
+- comprehensive
+- compressed
+- compromise
+- compulsory
+- computer literate
+- conceal
+- concentrate
+- concern
+- concerned
+- concerning
+- concert
+- concession
+- concierge
+- concisely
+- conclude
+- conclusive
+- concourse
+- concrete
+- concurrently
+- condense
+- condition
+- conditional
+- conduct
+- confer
+- conference
+- conference call
+- conference room
+- confidence
+- confident
+- confidential
+- confidentiality
+- configuration
+- confine
+- confirm
+- confirmation
+- confiscate
+- confiscation
+- conflict
+- conflict of interest
+- conflict with
+- conform to
+- confront
+- confuse
+- confused
+- confusion
+- congested
+- congestion
+- conglomerate
+- congratulate
+- conjunction
+- connect
+- connecting flight
+- conscious
+- consecutive
+- consensus
+- consent
+- consenting
+- consequence
+- consequently
+- conservation
+- conserve
+- consider
+- considerable
+- considerably
+- considerate
+- consideration
+- consignment
+- consist
+- consist of
+- consistent
+- consistently
+- consolidate
+- conspicuously
+- constant
+- constituency
+- constitute
+- constraint
+- construct
+- construction
+- constructive
+- constructively
+- consulate
+- consult
+- consultant
+- consultation
+- consulting firm
+- consumer
+- consumption
+- contact
+- contagious
+- contain
+- container
+- contaminate
+- contemporary
+- contend
+- contend with
+- contender
+- content
+- contest
+- contestant
+- context
+- contingency
+- continually
+- continued
+- continuity
+- contract
+- contractor
+- contrary
+- contribute
+- contribution to
+- contributor
+- contrive to do
+- control
+- controversial
+- controversy
+- convene
+- convenience
+- convenient
+- conveniently
+- convention
+- conventional
+- conversation
+- conversationally
+- converse
+- conversely
+- conversion
+- convert
+- convert A to B
+- convey
+- convince
+- convincing
+- cookbook
+- cooking utensil (= cookware)
+- cooperate
+- cooperative
+- cooperatively
+- coordinate
+- coordination
+- coordinator
+- cope with
+- copy editor
+- copy machine
+- copyright
+- cordially
+- corner
+- corporation
+- correct
+- correction
+- corrective
+- correctly
+- correlation
+- correspond
+- correspondence
+- correspondent
+- corridor
+- corrosion
+- corruption
+- cosmetic
+- cost
+- cost analysis
+- cost estimate
+- cost-effective
+- costly
+- costume
+- council
+- counselor
+- count on
+- counter
+- counterfeit
+- counteroffer
+- counterpart
+- countertop
+- countryside
+- courier
+- courier service
+- course of study
+- courteous
+- courteously
+- courteousness
+- courtyard
+- cover
+- cover letter
+- cover one’s shift
+- coverage
+- coworker
+- cozy
+- crack
+- craft
+- craftsmanship
+- crate
+- creation
+- creative
+- credential
+- credible
+- credit
+- credit A with B (= credit Bto A)
+- credit card number
+- credit limit
+- credit money to one’s account
+- creditable
+- creditor
+- crew
+- criteria
+- critic
+- critical
+- criticize
+- crop
+- cross one’s arms
+- cross the street
+- crosswalk
+- crowded
+- crucial
+- crude
+- crude oil
+- cruise
+- ctia chung trong vong
+- cuisine
+- culinary
+- culminate in
+- cultivation
+- cupboard
+- curb
+- cure
+- curious
+- currency
+- currency exchange
+- current
+- currently
+- curriculum
+- curriculum vitae
+- curtail
+- curved
+- custom
+- custom-built
+- custom-made
+- customarily
+- customary
+- customer
+- customer service representative
+- customer survey
+- customize
+- customs
+- cut back
+- cut benefits
+- cut costs
+- cut down
+- cut one’s losses
+- cut the grass
+- cutback
+- cutting-edge
+- cyclist
+
+## D
+
+- D dehydration
+- daily
+- dairy products
+- damage
+- damaged
+- data
+- date
+- date back to
+- day after tomorrow
+- day-to-day operation
+- deadlock
+- deadtine
+- deal
+- dealer
+- dean
+- debate
+- debit card
+- debt
+- decade
+- decaffeinated
+- decide on
+- decidedly
+- decision
+- decisive
+- deck
+- declaration
+- declare
+- decline
+- decorate
+- decoration
+- decorative item
+- decrease
+- dedicate
+- dedicated
+- dedication
+- dedication ceremony
+- deduct
+- deep end
+- default
+- defeat
+- defect
+- defective
+- defensive
+- defer
+- defiance
+- deficient
+- deficit
+- define
+- definite
+- deflate
+- defy
+- degrade
+- degree
+- deiay
+- delegate
+- delete
+- deliberate
+- deliberately
+- deliberation
+- delicate
+- delicious
+- delight
+- delighted
+- delinquent
+- deliver
+- delivery
+- delivery option
+- demand
+- demanding
+- demolish
+- demolition
+- demonstrate
+- demonstration
+- demote
+- dense
+- densely
+- dental
+- deny
+- depart
+- department
+- Department of Commerce
+- department store
+- departure time
+- depend on
+- depict
+- deplete
+- depletion
+- deploy
+- deposit
+- deposit stip
+- depot
+- depreciation
+- depressed
+- depressing
+- depression
+- deprivation
+- deputy
+- descending
+- describe
+- description
+- desert
+- deserve
+- design
+- designate
+- designation
+- designed
+- desirable
+- desire
+- desktop
+- despair
+- desperate
+- dessert
+- destination
+- destruction
+- detach
+- detail FO disapprove
+- detailed
+- detect
+- detectable
+- detector
+- deter
+- deteriorate
+- determine
+- deterrent
+- detour
+- devalued
+- devastate
+- develop
+- develop into
+- developer
+- development
+- deviate
+- device
+- devise
+- devoted
+- diabetes
+- diagnosis
+- dial a number
+- dietary
+- differ
+- differently
+- dig with a shovel
+- digit
+- dignitary
+- diligent
+- dilute
+- dimension
+- diminish
+- dine
+- diner
+- dining area
+- dining room
+- dining supplies
+- diploma
+- diplomat
+- diplomatic
+- direct
+- direct deposit
+- direct traffic
+- direction
+- directive
+- directly
+- director
+- directory
+- dirt
+- disadvantage
+- disappoint
+- disappointing
+- disapproval
+- disassemble
+- disaster
+- discard
+- discerning
+- discharge
+- discipline
+- disclose
+- disconnected
+- discontinue
+- discount
+- discount store
+- discounted coupon
+- discounted rate
+- discourage
+- discouraging
+- discovery
+- discrepancy
+- discriminate
+- discuss
+- discussion
+- disease
+- disguise
+- dish
+- dishwasher
+- dislike
+- dismiss
+- dismissal
+- disobedient
+- disorient
+- disparately
+- dispatch
+- dispense
+- disperse
+- displace
+- display
+- display case
+- disposal
+- dispose
+- dispute
+- disregard
+- disrupt
+- disruption
+- dissatisfaction
+- dissatisfied
+- dissipate
+- distance
+- distant
+- distil
+- distinction
+- distinguish
+- distinguished
+- distort
+- distract
+- distraction
+- distress
+- distribute
+- distribution
+- distributor
+- district
+- distrust
+- disturb
+- disturbing
+- diverse
+- diversified
+- diversify
+- divert
+- divide
+- dividend
+- division
+- do a good job
+- do Aa favor
+- do business with
+- do damage
+- do one’s best
+- do one’s hair
+- do one’s utmost
+- dock
+- doctor’s appointment
+- document
+- domestic
+- dominant
+- dominate
+- donate
+- donation
+- donor
+- don’t have the nerve to do
+- door-to-door delivery
+- doorway
+- dosage
+- dose
+- doubie
+- double occupancy
+- double-sided
+- doubtful
+- down payment
+- down) to
+- downpour
+- downsize
+- downtown
+- downturn
+- draft
+- drag
+- drain
+- dramatic
+- dramatically
+- drape
+- drastic
+- drastically
+- draw
+- draw a check
+- draw a distinction between
+- draw on
+- draw the line at
+- draw up
+- draw up a new agreement
+- drawback
+- drawbridge
+- drawer
+- drench
+- dress
+- dress formally
+- dressed in suit
+- dresser
+- drift
+- drive
+- drive off
+- drive up
+- driven
+- driver’s license
+- driveway
+- driving direction
+- driving force
+- drop by
+- drop off
+- drought
+- dry dishes
+- drycleaner (= drycleaner’s)
+- due
+- due date
+- dumping
+- duplicate
+- durable
+- duration
+- dust
+- dust off
+- duty
+- duty-free
+- duty-free shop
+- dwell
+- dwindie
+- dynamic
+- dysfunction
+
+## E
+
+- E emergency exit
+- e-mail
+- eagerly await
+- eagerness
+- early
+- earn
+- ease
+- easily
+- easy
+- eat up
+- eco-friendly (= environment-friendly) employment
+- ecology
+- economic
+- economical
+- economize
+- economy
+- edge
+- edit
+- edition
+- editorial
+- effect
+- effective
+- effectively
+- efficiency
+- efficient
+- efficiently
+- effort
+- effortlessly
+- elaborate
+- elderly
+- elect
+- election
+- electronically
+- electronics
+- elegant
+- elegantly
+- elementary
+- elevate
+- elicit
+- eligible
+- eliminate
+- eloquent
+- elsewhere
+- embargo
+- embark
+- embedded
+- embellish
+- embrace
+- embroider
+- emerge
+- emergency
+- emergency evacuation
+- emergency room
+- eminent
+- emission
+- emphasis
+- emphasize
+- emphatic
+- employ
+- employee
+- employer
+- empower
+- empty
+- empty a trash can
+- enable
+- enactment
+- enclose
+- enclosed
+- enclosure
+- encompass
+- encounter
+- encourage
+- encouragement
+- encouraging
+- end up
+- endangered
+- endeavor
+- endless
+- endorsement
+- endurance
+- endure
+- energetic
+- energy drink
+- energy efficiency
+- energy source
+- enforce
+- engage
+- engineering
+- engrave
+- enhance
+- enhancement
+- enjoyable
+- enlarge
+- enlightening
+- enormous
+- enough
+- enroll
+- ensure
+- entail
+- enter a contest
+- enter into
+- enterprise
+- entertain
+- enthuse
+- enthusiastic
+- enthusiastically
+- entire
+- entirely
+- entitle
+- entrepreneur
+- entrust A with B
+- entry
+- entry fee
+- envelope
+- environmental
+- environmental regulations
+- envision
+- epidemic
+- equality
+- equip
+- equipment
+- equivalent
+- era
+- eradicate
+- erect
+- errand
+- escape
+- escort
+- especially
+- essential
+- establish
+- established
+- estimate
+- estimated
+- ethical
+- evacuate
+- evaluate
+- evaluation
+- even out
+- even though
+- evening news
+- evenly
+- eventually
+- every hour on the hour
+- every other day
+- evidence
+- evident
+- evidently
+- evoke
+- evolve
+- exactly
+- exaggerate
+- examination
+- examine
+- excavation
+- exceed
+- excel
+- excellence
+- excellent
+- excellently
+- except for
+- exception
+- exceptional
+- excerpt
+- excess
+- excessive
+- exchange
+- exchange rate
+- excited
+- exciusively
+- exclude
+- excluding
+- exclusion
+- exclusive
+- excursion
+- excuse
+- executive
+- exemplary
+- exemplify
+- exempt
+- exercise one’s right
+- exert pressure on
+- exhale
+- exhibit
+- exhibition
+- exhibitor
+- exhilarating
+- exist
+- existing
+- exit
+- exorbitant price
+- exotic
+- expand
+- expand into
+- expansion
+- expatriate
+- expect
+- expectancy
+- expectant
+- expectation
+- expected
+- expedite
+- expenditure
+- expense
+- experience
+- experienced
+- experienced employee
+- experiment
+- expert
+- expertise
+- expiration
+- expiration date
+- expire
+- explain
+- explain to
+- exploit
+- exploration
+- explore
+- export
+- exposed
+- exposition
+- exposure
+- express
+- express mail
+- expressive
+- expressly
+- exquisite
+- extend
+- extended
+- extension
+- extensive
+- exterior
+- external
+- extinction
+- extra
+- extra charge
+- extra pay
+- extraordinary
+- extraordinary feat
+- extravagance
+- extremely
+
+## F
+
+- fabric
+- fabricate
+- fabulous
+- face
+- face away from
+- face to face
+- facilitate
+- facilitator
+- facility
+- faction
+- factor
+- factory
+- factually
+- fade
+- failure
+- faintly
+- fair
+- fairly
+- faithfully
+- fake
+- fall
+- fall behind
+- familiar
+- familiarize
+- familiarize oneself with
+- family-run
+- far from
+- fare
+- fascinating
+- fashion photographer
+- fast-growing
+- fasten
+- fasten the strap
+- fatigue
+- faucet
+- faulty
+- favor
+- favorable
+- favorably
+- favored
+- fawn
+- fax
+- feasibility study
+- feasible
+- feature
+- featured speaker
+- federal
+- fee
+- feedback
+- feel sick
+- fence
+- ferry
+- fertile
+- festive
+- festivity
+- fever
+- fictitious
+- figure
+- figure out
+- figures
+- fiie
+- file folder
+- file for bankruptcy
+- filing cabinet
+- fill
+- fill in for
+- fill with
+- film festival
+- film footage
+- film studio
+- final
+- finalize
+- finally
+- financial
+- financial history
+- financial statement
+- financier
+- find out
+- findings
+- fine
+- finely
+- finish
+- fire
+- fire alarm
+- fire extinguisher
+- fireplace
+- firewood
+- firm
+- first aid
+- first class
+- first priority
+- first step
+- firsthand
+- fiscal
+- fishing
+- fit
+- fitness
+- fitted
+- fitting room
+- fixed price
+- fixture
+- flammable
+- flash
+- flat
+- flavor
+- flawed
+- flawless
+- fleetingly
+- flexible
+- flextime
+- flight
+- flight attendant
+- float
+- flock
+- flood
+- floor
+- floor manager
+- floor plan
+- flooring
+- flourish
+- flow
+- flow chart
+- flower arrangement
+- flower bed
+- fluctuation
+- fluency
+- fluent in
+- fluently
+- fluid
+- focus
+- focus group
+- focus on
+- foil
+- fold
+- fold in half
+- folder
+- foldup
+- follow
+- follow up on
+- follow-up
+- followed by
+- following
+- following week
+- food poisoning
+- food supplier
+- footpath
+- footrest (= footstool)
+- for a change
+- for a short time
+- for ages
+- for business
+- for free
+- for large purchases
+- for lease
+- for now
+- for sale
+- for the benefit of
+- for the sake of
+- for your own safety
+- forage
+- forbid
+- force
+- forecast
+- foreign currency
+- foreign trade
+- foremost
+- forerunner
+- foresee
+- foreseeable
+- forfeit
+- forge
+- forgery
+- forgetfully
+- form
+- formaily
+- formal
+- formality
+- former
+- formerly
+- forthcoming
+- fortify
+- fortnight
+- fortunate
+- fortunately
+- fortune
+- forum
+- forward
+- forwarding address
+- foster
+- foundation
+- founder
+- fountain
+- fragile
+- frame
+- franchise
+- frankly
+- free
+- free admission
+- free of charge
+- free parking
+- freezing
+- freight
+- frequency
+- frequent
+- frequently
+- fresh
+- freshness
+- friendly
+- frighten
+- fringe benefits
+- from around the globe
+- from now
+- from this day onward
+- front door
+- front-page story
+- front-runner
+- frosting
+- frozen food product
+- frustrate
+- frying pan
+- Fuel
+- fuel consumption
+- fuel emission
+- fuel-efficient
+- fulfill
+- full
+- fully
+- fumes
+- function
+- fund
+- fund-raising
+- fundamental
+- funding
+- furnished
+- furniture
+- further
+
+## G
+
+- G get paid
+- gadget
+- gain
+- gallery
+- garage
+- gardening tool
+- garlic
+- garment
+- garner
+- garnish
+- gas station
+- gather
+- gather up
+- gathering
+- gathering space
+- gauge
+- gaze into
+- gem
+- general
+- general poputation
+- generally
+- generate
+- generation gap
+- generator
+- generic
+- generous
+- generously
+- genetic research
+- gentle
+- gently
+- genuine
+- geod for
+- geographic
+- germ
+- gesture
+- get a loan
+- get a permit
+- get a prescription filled
+- get a replacement
+- get a ride
+- get a ticket
+- get along with
+- get an appointment
+- get back in touch
+- get back to
+- get in touch with
+- get inline
+- get lost
+- get off
+- get off, leave)
+- get one’s approval
+- get over
+- get reimbursed for
+- get rid of
+- get some exercise
+- get the food ready
+- get the point
+- get through
+- get together
+- get used to
+- geta phone call
+- getto
+- give
+- give a cali
+- give a demonstration of
+- give a discount
+- give a good price
+- give a hand
+- give a presentation
+- give a raise
+- give Aa ride
+- give Aan advance
+- give ita try
+- give off
+- give out
+- give way to
+- givein
+- glance at
+- glass cabinet
+- glassware
+- go down the steps
+- go downstairs
+- go forward
+- go into business
+- go on vacation
+- go out of business
+- go out of production
+- go shopping
+- go Straight to
+- go through
+- go through customs
+- go toa film
+- go wrong with
+- goal
+- going away party
+- goods
+- goodwill
+- goon
+- gourmet
+- govern
+- government
+- government grant
+- grab
+- grab a bite
+- graciously
+- gradual
+- graduation
+- grain
+- grant
+- grasp
+- grateful
+- gratified
+- gratis
+- gratitude
+- gratuity
+- grazing
+- grease
+- greenhouse
+- greet
+- grill
+- grip
+- grocery
+- grocery store
+- gross income
+- ground
+- group
+- group rate
+- grow
+- growth
+- growth potential
+- guarantee
+- guest pass
+- guest speaker
+- guidance
+- guidebook
+- guided tour
+- gusty
+- gym
+- gymnasium
+
+## H
+
+- H have reason to do
+- h Ie
+- habit
+- habitat
+- had better do
+- hail
+- half price
+- halfway
+- hallway
+- halt
+- hammering
+- hand
+- hand in
+- hand out
+- hand over
+- handbook
+- handheld
+- handle
+- handling
+- handmade
+- handrail
+- handwriting
+- handwritten
+- hang
+- hang out
+- harbor
+- hardly
+- harm
+- harmful
+- harsh
+- harvest
+- hastily
+- have a day off
+- have a discussion
+- have a flat tire
+- have a good view
+- have a light dinner
+- have a long day
+- have a meal
+- have a monopoly on
+- have a problem (in) -ing
+- have a race
+- have A strapped to one’s shoulder
+- have a tendency to do
+- have an injection
+- have an opportunity to do
+- have around
+- have control over
+- have difficulty (in) -ing
+- have little chance of -ing
+- have no idea
+- have one's hair cut
+- have one’s hands full
+- have one’s vision tested
+- have permission to do
+- have something to do with
+- have the best rates
+- have yet todo
+- hazard
+- hazardous
+- head
+- head for
+- head office
+- head toward
+- head up
+- headache
+- headlight
+- headline
+- headquarters
+- healing
+- health
+- heart ailment
+- heart attack
+- heart disease
+- heat
+- heating system
+- heavily
+- heavy traffic
+- hectic
+- hedge
+- height
+- heighten
+- help oneself to the food
+- helping
+- heritage
+- hesitate
+- hiccup
+- high-end
+- highlight
+- highly
+- highway
+- hinder
+- hire
+- historic
+- ho password
+- hold
+- hold back
+- hold onto the handrail
+- hold power
+- hold the line
+- hold up
+- hole
+- holiday
+- hollow
+- home-improvement
+- homebuilder
+- homemade
+- homeowner
+- honor
+- honorable
+- hood
+- hook
+- hopeful
+- hospitality
+- host
+- hours
+- household
+- housekeeping
+- housewares
+- housing development
+- human resources
+- humid
+- hurdle
+
+## I
+
+- i complicate
+- I in a moment
+- i property
+- ideal
+- ideally
+- identically
+- identification
+- identify
+- if it’s okay with you
+- if possible
+- if you insist
+- if ’m not mistaken
+- ignore
+- ihearty
+- ihygiene
+- illegal
+- illegible
+- illustrate
+- im accordance with
+- imaginable
+- immeasurably
+- immediately
+- immensity
+- immigrant
+- immigration
+- immune
+- impact
+- impair
+- impartially
+- impeccable
+- impede
+- impending
+- imperative
+- implant
+- implement
+- implicate
+- implication
+- implicitly
+- imply
+- import
+- import license
+- impose
+- impossible
+- impound
+- impractical
+- impress
+- impressed
+- impression
+- impressive
+- impressively
+- improbable
+- improper
+- improperly
+- improve
+- improvement
+- improvise
+- in a hurry
+- in a strict way (= strictly)
+- in a timely fashion
+- in addition to
+- in advance
+- in alphabetical order
+- in an attempt to
+- in anticipation of
+- in appreciation of
+- in case of
+- in cash
+- in charge of
+- in commemoration of
+- in common
+- in conclusion
+- in contrast
+- in error
+- in fact
+- in favor of
+- in light of
+- in line with
+- in luck
+- in observance of
+- in one’s absence
+- in one’s grasp
+- in particular
+- in place
+- in place of
+- in private
+- in progress
+- in reference to
+- in short
+- in stock
+- in storage
+- in summary
+- in support of
+- in the coming year
+- in the direction of
+- in the distant past
+- in the meantime
+- in the middle of
+- in the prepaid envelope
+- in the process of
+- in the vicinity of
+- in total
+- in turn
+- in writing
+- in-flight
+- ina row
+- inaccessible
+- inaccurate
+- inactive
+- inaddition
+- inadequate
+- inadvertently
+- inapile
+- inaugurate
+- incidental
+- inclement
+- inclination
+- incline
+- include
+- including
+- income
+- incompetent
+- inconclusively
+- inconsistency
+- inconvenience
+- inconvenient
+- inconveniently
+- incorrect
+- increase
+- increasingly
+- incredible
+- increment
+- incrementally
+- incumbent
+- incur
+- indecisive
+- indeed
+- indefiance of
+- indefinitely
+- indemand
+- independence
+- independent
+- indicate
+- indicated
+- indication
+- indicative
+- indicator
+- indifferent
+- indigenous
+- individual
+- individually tailored
+- indoors
+- induce
+- indulge
+- industrial
+- industry
+- inevitable
+- inexpensive
+- inexperience
+- inexperienced
+- infection
+- infectious disease
+- inflation
+- inflict
+- influence
+- inform
+- informal
+- information
+- informative
+- informed
+- infrastructure
+- infringement
+- infuriate
+- infusion
+- ingredient
+- inhabit
+- inhabitant
+- inhabitation
+- inhale
+- inherently
+- initial
+- initially
+- initiate
+- initiative
+- injection
+- inn
+- innate
+- innovate
+- innovation
+- innovative
+- inperson
+- input
+- inquire
+- inquiry
+- inrows
+- insecure
+- insecurely
+- insert
+- inside
+- insight
+- insist
+- insistent
+- insolvent
+- insomnia
+- inspect
+- inspection
+- inspector
+- inspiration
+- inspite of
+- instal
+- instaliment
+- instant
+- instantly
+- instead
+- instead of
+- instinctive
+- institute
+- institution
+- instruct
+- instruction
+- instructor
+- instrument
+- instrumental
+- insufficient
+- insulation
+- insult
+- insurance
+- intake
+- integration
+- intend
+- intended recipient
+- intense
+- intensify
+- intensive
+- intensively
+- intent
+- intention
+- intentionally
+- intently
+- inter-department
+- interact
+- intercept
+- interest
+- interested
+- interfere
+- interfere with
+- intermission
+- intermittently
+- internal
+- international
+- internship
+- interpersonal skills
+- interpretation
+- interrupt
+- interruption
+- intersection
+- intervention
+- interview
+- inthe event of
+- inthe field of
+- intransit
+- intriguingty
+- introduce
+- introduction
+- intuitively
+- inuse
+- invalid
+- invaluable
+- invention
+- inventory
+- invest
+- investigation
+- investment
+- investor
+- invitation
+- invite
+- inviting
+- invoice
+- involuntarily
+- involve
+- involved
+- inward
+- iron
+- ironing
+- irrelevant
+- irreplaceable
+- irretrievable
+- irreversible
+- irrigation system
+- isolated
+- issue
+- It could have been worse
+- It is no wonder (that)
+- item
+- itemized
+- itinerary
+- ittask
+- it’s about time
+- it’s no use -ing
+
+## J
+
+- janitor
+- jeopardize
+- jet lag
+- jingle
+- job cutback
+- job fair
+- job offer
+- job opportunity
+- job satisfaction
+- job search
+- job seeker
+- job title
+- jog along the street
+- join
+- joint
+- journal
+- journalist
+- journey
+- judge
+- judicial
+- Just for a minute
+- just in case
+- just in time
+- just to make sure
+- justify
+
+## K
+
+- K last
+- keenly
+- keep
+- keep A informed of B
+- keep A up to date
+- keep going
+- keep in mind
+- keep on top of
+- keep one’s eye on
+- keep to oneself
+- keep track of
+- kettle
+- key to success
+- keynote address
+- keynote speaker
+- keypad
+- kindhearted
+- kitchen appliance
+- kneel
+- knife
+- knob
+- knock off
+- knowledgeable
+
+## L
+
+- L lean back
+- l sensor
+- lab report
+- label
+- labor
+- labor costs
+- labor dispute
+- laboratory
+- lace
+- lack
+- lack confidence
+- ladder
+- lag
+- lakefront
+- land at the dock
+- landfill
+- landing
+- landlord
+- landmark
+- landscape
+- landscaping
+- lane
+- language acquisition
+- large
+- largely
+- late
+- lately
+- latent
+- latest
+- latest work
+- laugh away
+- launch
+- laundry service
+- lavish
+- law firm
+- lawsuit
+- lax
+- lay off
+- lay out
+- leadership
+- leading
+- leak
+- leaky
+- lean
+- lean against the fence
+- learning center
+- lease
+- least
+- leave
+- leave a message
+- leave A up to B
+- leave A with B
+- leave for
+- lecture
+- ledge
+- ledger
+- leftover
+- leg room
+- legacy
+- legal
+- legal counsel
+- legal department
+- legislation
+- legitimate
+- leisure
+- leisurely
+- lend
+- lengthen
+- lengthy
+- less
+- lesson
+- let go
+- let's end
+- letter of recommendation
+- level
+- levy
+- li apparently
+- liability
+- liable
+- librarian
+- license plate number
+- licensed
+- lid
+- life expectancy
+- life preserver
+- life span
+- lifetime employment
+- lift
+- light bulb
+- lighten
+- lighthouse
+- lightly
+- lightweight
+- like
+- likely
+- limit
+- limitation
+- limited
+- limited edition
+- line up
+- line worker
+- lingering
+- linguistics
+- link together
+- liquid
+- liquidate
+- liquidity
+- list
+- listen to
+- listing
+- literacy
+- literally
+- litter
+- live
+- lively
+- load A onto B
+- load a truck
+- load size
+- loaded with
+- loading
+- loading dock
+- loan
+- lobby
+- local time
+- locale
+- locally
+- locate
+- location
+- lock oneself out of one’s house
+- lock out
+- lock up
+- lodging
+- log on to
+- logging
+- logistics
+- long-lasting
+- long-term
+- long-term stability
+- look different
+- look for
+- look into
+- look over
+- look through the manual
+- look up
+- look up to
+- loose
+- loosely
+- lose
+- lose ground
+- lose oneself in
+- lose one’s temper
+- lose weight
+- loss
+- lost and found
+- lost in delivery
+- loudly
+- loudspeaker
+- lounge
+- low-income resident
+- lower
+- loyal customer
+- loyalty
+- lucrative
+- luggage tag
+- lung
+- luxury
+- luxury goods
+
+## M
+
+- M make no exception
+- machinery
+- made-to-order
+- magazine
+- mail
+- mailing list
+- mainland
+- maintain
+- maintenance
+- maintenance cost
+- major
+- majority
+- make
+- make a call
+- make a conclusion
+- make a contract with
+- make a copy
+- make a correction
+- make a delivery
+- make a deposit
+- make a final change
+- make a mistake
+- make a move
+- make a note of
+- make a point of -ing
+- make a purchase
+- make a recording
+- make a request
+- make a response
+- make a revision
+- make a selection
+- make a speech
+- make a transfer
+- make a withdrawal
+- make acommitmentto
+- make acomplaint
+- make adjustments
+- make an appointment
+- make an arrangement
+- make an assessment
+- make an error
+- make an exception
+- make an impression
+- make an outside call
+- make forecast
+- make money
+- make no difference
+- make oneself at home
+- make payment
+- make public
+- make repairs
+- make room for
+- make sure
+- make the bed
+- make the first move
+- make up for
+- make up one’s mind
+- makeabid
+- makeadecision
+- makeastop
+- makeclear
+- makeshift
+- makeup
+- malfunction
+- manage
+- management
+- management seminar
+- Managerial
+- mandatary
+- mandate
+- maneuver
+- manipulation
+- manner
+- manpower
+- manual
+- manufacturer
+- manufacturing
+- manuscript
+- march
+- marginal
+- marginally
+- markedly
+- market
+- market awareness
+- market share
+- market value
+- marketable
+- marketplace
+- massive
+- mastermind
+- master’s degree
+- match
+- maternity leave
+- maternity ward
+- matter
+- maximize
+- meal
+- meal pass
+- meaning
+- meaningful
+- means
+- meanwhile
+- measure
+- measurement
+- mechanical
+- mechanism
+- mediate
+- mediation
+- medical facility
+- medicinal
+- meditate
+- meet
+- meet one’s flight
+- meet one’s goal
+- meet the deadline
+- meet the expenses
+- meet the requirements
+- meet the standards
+- meeting
+- meeting time
+- memoirs
+- memorable
+- memorial
+- menace
+- mend
+- mention
+- mentor
+- menu
+- merchandise
+- merchant
+- merge
+- merger
+- merit
+- mess up
+- method
+- metropolitan area
+- midday
+- midtown
+- migration
+- mileage
+- milestone
+- mindful
+- mingle
+- minimally
+- minimize the risk of
+- minimum
+- mining
+- ministry
+- minor
+- minutes
+- miscellaneous
+- miserable
+- mislabeled
+- misleading
+- misplace
+- misprint
+- misread
+- miss
+- missing
+- missing luggage
+- mission
+- mistakenly
+- misuse
+- mobility
+- model number
+- moderate
+- moderate a meeting
+- moderator
+- modestly
+- modification
+- modify
+- momentarily
+- momentum
+- monetary
+- monitor
+- monopoly
+- mortgage
+- motion sickness
+- motivate
+- motivation
+- mounting
+- move
+- move ahead with
+- move around
+- move forward
+- move over one seat
+- move up
+- mow the lawn
+- much to one’s surprise
+- multi-regional
+- multilateral
+- multinational corporation
+- multistory
+- municipal
+- mural
+- museum
+- musical instrument
+- must-see
+- mutual
+- mutually
+- My schedule doesn’t permit it
+
+## N
+
+- name tag
+- named representative
+- namely
+- narrative
+- narrow
+- narrowly
+- national holiday
+- nationality
+- nationalize
+- nationwide
+- native
+- natural habitat
+- navigate
+- navigation
+- nearby
+- nearly
+- necessarily
+- necessary
+- necessitate
+- necessity
+- necklace
+- need
+- need monitoring
+- negative
+- negotiation
+- neighbor
+- neighboring
+- net A but B
+- net income
+- network
+- neutral
+- neutrality
+- new appointment
+- newcomer
+- newly arrived
+- newly established
+- newly listed
+- newsletter
+- newspaper
+- newsstand
+- next to
+- nice-looking
+- night shift
+- nightfall
+- nimble
+- no later than
+- noise and air pollution
+- nominate
+- nomination
+- non-profit organization
+- nonstop flight
+- nontransferable
+- normal
+- normal operating hours
+- not A but B
+- not at all
+- not far from
+- not only A but also
+- not only A but also B
+- Not that I’m aware of
+- not to mention
+- note
+- noteworthy
+- notice
+- notification
+- notify
+- nourish
+- nourishment
+- novice
+- numerous
+- nursery
+- nursing
+- nurture
+- nutrition
+
+## O
+
+- o in the past
+- o increasing
+- O length
+- O out of print
+- o paycheck
+- O payment option
+- o performance
+- O sit in alternate seats
+- oar
+- obey
+- obfuscate
+- object
+- objection
+- objective
+- obligation
+- oblige
+- observably
+- observance
+- observant
+- observation tower
+- observe
+- obsess about
+- obsolete
+- obstruct
+- obtain
+- obvious
+- obviously
+- obviously qualified
+- obviously quatified
+- occasionally
+- occupancy
+- occupation
+- occupational safety and health
+- occupied
+- occupy
+- occur
+- occurrence
+- off chance
+- off the shore
+- off-limits
+- off-peak
+- off-season
+- offend
+- offer
+- offer an apology toA
+- offering
+- office supplies
+- official
+- official arrangement
+- official title
+- officially
+- officiat
+- officiate
+- offload
+- offset
+- often
+- oil painting
+- OJF (on-the-job training)
+- OJT (on-the-job training)
+- omission
+- omit
+- on a regular basis
+- on an empty stomach
+- on behalf of
+- on business
+- on call
+- on delivery
+- on display
+- on duty
+- on edge
+- on foot
+- on hold
+- on loan
+- on occasion
+- on one’s own account
+- on probation
+- on purpose
+- on sale
+- on schedule
+- on standby
+- on strike
+- on the edge of
+- on the market
+- on the recommendation of
+- on the rise
+- on the spot
+- on the waiting list
+- on time
+- on vacation
+- on-site
+- ona business trip
+- once
+- ondisplay
+- one-way ticket
+- onedge
+- ongoing
+- onhand
+- online
+- onone’sown
+- onpurpose
+- onsale
+- onthe edge of
+- onthe rise
+- onthe waiting list
+- oO on a weekly basis
+- OO password
+- opening
+- openly
+- openty
+- operate
+- operating
+- operation
+- operation budget
+- opponent
+- opportunity
+- opposing
+- opposition
+- optimal
+- optimistic
+- option
+- order
+- order a meal
+- ordered
+- ordering
+- ordinance
+- ordinarily
+- organ
+- organization
+- organize
+- organize a picnic
+- organizer
+- oriented
+- origin
+- original
+- originally
+- originalty
+- originate in
+- ornamental
+- OT lean over the railing
+- otherwise
+- out of order
+- out of paper
+- out of print
+- out of stock
+- out of town
+- out-of-date
+- outcome
+- outdated
+- outdoor
+- outdoor wall
+- outerwear
+- outgoing
+- outlast
+- outlay
+- outlet
+- outline
+- outlook
+- outlying
+- outpace
+- outpatient clinic
+- output
+- outreach
+- outsell
+- outside provider
+- outskirts
+- outstanding
+- outwardly
+- outweigh
+- over the Internet
+- over-the-counter medicine
+- overall
+- overbook
+- overcharge
+- overcoat
+- overcome
+- overdose
+- overdrawn
+- overdue
+- overestimate
+- overflow
+- overhaul
+- overhead
+- overhead rack
+- overlook
+- overlook the water
+- overly
+- overnight
+- overnight express
+- overnight stay
+- overpass
+- overprice
+- overqualified
+- overseas
+- oversee
+- oversight
+- oversized
+- overstaffed
+- overtime
+- overtime allowance
+- overtime hours
+- overtime rate
+- overview
+- overwhelming
+- overwork
+- owe
+- owing to
+- owner
+
+## P
+
+- P passport
+- pace
+- pack
+- pack away
+- package
+- packaging
+- packing tape
+- paddle
+- paid leave
+- paid vacation
+- painkiller
+- paint
+- painting
+- pair
+- pair up with
+- palate
+- palpitations
+- panic
+- paper
+- paper jam FO paycheck
+- papers
+- paperwork
+- parade
+- paralysis
+- paratysis
+- parcel
+- parent company
+- park
+- parking facility
+- parking garage
+- parking pass
+- parliament
+- parlor
+- part-time
+- partial
+- partially
+- participant
+- participate
+- participate in
+- participation
+- particular
+- particularly
+- partition
+- partnership
+- party
+- pass
+- pass around
+- pass by
+- pass out
+- pass over
+- pass the time
+- pass up
+- passenger
+- passerby
+- past due
+- patent
+- path
+- pathway
+- patiently
+- patient’s record
+- patio
+- patron
+- patronize
+- pave
+- pavement
+- pavilion
+- pay in cash
+- pay increase
+- pay off
+- pay out
+- pay raise
+- payable
+- payment
+- payment option
+- payroll
+- peak
+- peddler
+- pedestrian
+- peel off
+- penalize
+- penalty
+- pending
+- pension
+- people of all ages
+- people on foct
+- people on foot
+- per day
+- perceive
+- percentage
+- perceptible
+- perceptibte
+- perception
+- perceptive
+- perform
+- performance
+- perhaps
+- period
+- periodical
+- periodicaliy
+- periodically
+- perishable
+- permanenily
+- permanent
+- permanentty
+- permission
+- permit
+- perpetual
+- persist
+- persistent
+- personal
+- personal effects
+- personnel
+- personnel management
+- personnet
+- perspective
+- perspire
+- persuade
+- persuasive
+- pertaining to
+- pertinent
+- perturbed
+- petition
+- pharmaceutical
+- pharmacist
+- pharmacy
+- phase
+- phenomenon
+- photocopier
+- photocopy
+- photographer
+- photography equipment
+- physical examination
+- physical therapy
+- physician
+- pick up
+- pick up one’s paycheck
+- pick up packages
+- pick up passengers
+- pick up the check
+- picture
+- piece by piece
+- pier
+- pile up
+- pilot
+- PIN (personal identification num- portrait
+- pioneer
+- pique
+- pity
+- place
+- place an order
+- place of origin
+- placement
+- plan
+- planning
+- plant
+- plate
+- platform
+- plausible
+- play a role in
+- play cards
+- playing field
+- plaza
+- pleased
+- pleasing
+- pleasure
+- plentiful
+- plenty
+- plenty of
+- plug in
+- plumber
+- plunge
+- plus
+- plus tax
+- poil
+- point
+- point at
+- point out
+- pointed
+- pole
+- policy
+- polish
+- politely
+- politician
+- politics
+- pollutant
+- pollution
+- poorly
+- poorly paid
+- pop up
+- popular
+- popularize
+- porch
+- port
+- portable
+- porter
+- portfolio
+- portray
+- pose
+- position
+- positive
+- possess
+- possession
+- possibility
+- possible
+- post
+- post a notice on
+- postage
+- postal
+- postpone
+- postpone until
+- pot
+- potential
+- potential customer
+- potentially
+- potholder
+- potted
+- pottery
+- pour
+- power
+- powerful
+- PR cast a shadow
+- practical
+- practical experience
+- practice
+- practitioner
+- pragmatic
+- praise
+- preach
+- precaution
+- precede
+- precedent
+- precious
+- preciously
+- precipitation
+- precise
+- precisely
+- preciude
+- predecessor
+- predict
+- predictably
+- predicted
+- prediction
+- predominantly
+- preeminent
+- prefer
+- preference
+- preferential treatment
+- preferred
+- preheat
+- preliminary
+- premier
+- premiere
+- premises
+- premium
+- prepaid
+- preparation
+- prepare
+- prepare a meal
+- preposed
+- prerequisite
+- prescribe
+- present
+- presentation
+- presently
+- preservation area
+- preserve
+- preside
+- presiding
+- press
+- press the button
+- prestigious
+- presumable
+- presumably
+- pretax
+- prevail
+- prevalent
+- prevent
+- prevention
+- preview
+- previous job
+- previously
+- price
+- price quote
+- priced
+- primarily
+- principal (= primary)
+- principle
+- print out
+- prior
+- prioritize
+- Priority
+- private
+- private residence
+- privately
+- privatization
+- privilege
+- prize
+- probable
+- problematic
+- procedure
+- proceed
+- proceeds
+- process
+- processing
+- procfread
+- procrastinate
+- procurement
+- produce
+- product
+- product designer
+- product display
+- product logo
+- production
+- production quota
+- productively
+- productivity
+- profession
+- professional
+- professor
+- proficiency
+- proficient
+- profit
+- profit margin
+- profoundly
+- programming
+- progress
+- progression
+- progressive
+- progressively
+- prohibit
+- project coordinator
+- project management
+- projected
+- projection
+- prolong
+- prolonged
+- prominent
+- prominently
+- promising
+- promote
+- promotion
+- prompt
+- promptly
+- promptness
+- proof
+- proof of employment
+- prop against
+- propel
+- proper
+- properly
+- property line
+- proponent
+- proportion
+- proportionate
+- proposal
+- propose
+- proprietor
+- pros and cons
+- prospect
+- prospective
+- prosperity
+- protect
+- protective smock
+- protocol
+- prototype
+- provide
+- provided (that)
+- provider
+- province
+- provincial
+- provision
+- provoke
+- proximity
+- psychological
+- public display
+- public hearing
+- public holiday
+- public library
+- public park
+- public profile
+- public relations (PR) department
+- public speaking
+- public transportation
+- publication
+- publication company
+- publicity
+- publicize
+- publisher
+- pull down
+- pull into
+- pull weeds
+- pulled
+- pulse
+- pultup
+- punctuai
+- punctuality
+- punishment
+- purchase
+- purchase order
+- purify
+- purpose
+- pursue
+- push back
+- push one’s way through
+- put A out for sale
+- put a strain on
+- put Ain jeopardy
+- put away
+- put down
+- put forth
+- put forward
+- put in an offer
+- put in for
+- put in place
+- put in some overtime
+- put into effect
+- put off
+- put on
+- put out for display
+- put up with
+- puta rush
+- putin
+
+## Q
+
+- qualification
+- qualified
+- qualify
+- quality
+- quality control standards
+- quality service
+- quantity
+- quarantine
+- quarantine desk
+- quarter
+- query
+- question
+- questionably
+- questionnaire
+- quietly
+- quit
+- quite
+- quote
+
+## R
+
+- R reasonable
+- race
+- rack
+- radically
+- rain check
+- rain forest
+- rain shower
+- raincoat
+- rainstorm
+- raise
+- raise one’s hand
+- raised
+- rally
+- ramp
+- randomly
+- range
+- ranger
+- rank
+- rapid
+- rapidly
+- rare
+- rashly
+- rate
+- rating
+- ratio
+- rational
+- rave review
+- raw material
+- rd a
+- reach
+- reach a conclusion
+- reach for
+- reach one’s full potential
+- reach the solution
+- reach unanimous agreement
+- react
+- react to
+- reaction
+- reader
+- readership
+- readily
+- ready-made
+- real estate sale
+- realistically
+- realization
+- realtor (= real estate agency)
+- reapply
+- rear
+- rearrange
+- reasonably
+- reassemble
+- reassign
+- reassure
+- rebate
+- rebound
+- recall
+- recede
+- receipt
+- receive
+- recent
+- recently
+- reception
+- receptive
+- recess
+- recharge
+- recipe
+- recipient
+- reciprocal
+- reclaim
+- recline
+- recognition
+- recognizable
+- recognized
+- recollection
+- recommend
+- recommendable
+- recommendation
+- recommendation letter
+- reconcile
+- recondition
+- reconfiguration
+- record
+- record high
+- recovery
+- recreational activity
+- recruit
+- recuperate
+- recurring
+- recyclable
+- recycling
+- redeem
+- redeemable
+- redemption
+- redesign
+- redo
+- reduce
+- reduced
+- reexamine
+- refer
+- refer to
+- reference
+- reference letter
+- reference number
+- refine
+- reflect
+- reflection
+- reflective
+- reform
+- refrain
+- refreshments
+- refrigerator
+- refund
+- refundable
+- refurbish
+- refusal
+- refuse
+- refute
+- regard
+- regard Aas B
+- regarding
+- region
+- regional
+- regional allowance
+- regional director
+- register
+- register for
+- registered mail
+- registration
+- registration confirmation
+- regrettably
+- regular
+- regular working hours
+- regularity
+- regularly
+- regulation
+- reimburse
+- reimbursement
+- reinforce
+- reinforcement
+- reinstall
+- reinstate
+- reject
+- related
+- relation
+- relationship
+- relatively
+- relax
+- relaxing
+- release
+- release date
+- relevance
+- relevant
+- relevantly
+- reliability
+- reliable
+- reliably
+- reliant
+- relieve
+- relieve pain
+- relinquish
+- relocate
+- relocation
+- reluctance
+- reluctant
+- reluctantly
+- rely on
+- remain
+- remainder
+- remaining
+- remains
+- remark
+- remarkable
+- remarkably
+- remedy
+- remembrance
+- remind
+- remit
+- remittance
+- remnant
+- remodeling
+- remote
+- remove
+- renew
+- renewal
+- renovate
+- renovation
+- renown
+- renowned
+- rent
+- rent out
+- rental agreement
+- rental car
+- reorganize
+- repair
+- repairperson
+- repave
+- repeat
+- repeatedly
+- repetitive
+- rephrase
+- replace
+- replacement
+- replenish
+- replica
+- report
+- report a problem
+- reporter
+- reposition
+- repository
+- represent
+- representation
+- representative
+- reprimand
+- reproduction
+- reputable
+- reputation
+- request
+- request form
+- require
+- required
+- requirement
+- requisition
+- reschedule
+- research
+- resemble
+- reservation
+- reserve
+- reserved
+- reset
+- residence
+- resident
+- residue
+- resign
+- resignation
+- resist
+- resolution
+- resolve
+- resort
+- resource
+- respectful
+- respectfully
+- respective
+- respectively
+- respiratory system
+- respire
+- respond
+- respond to
+- respondent
+- response
+- responsibility
+- responsible
+- rest
+- rest one’s chin on one’s hand
+- restoration
+- restore
+- restraint
+- restrict
+- restricted area
+- restriction
+- restructure
+- result
+- result in
+- resume
+- retail
+- retail store
+- retain
+- retire
+- retiree
+- retirement
+- retirement party
+- retirement plan
+- retreat
+- retrieval
+- retrieve
+- retrospective
+- return
+- return a phone call
+- return one’s call
+- reunion
+- reveal
+- revenue
+- reverse
+- revert
+- review
+- reviewer
+- revise
+- revised
+- revision
+- revolutionary
+- revolve
+- reward
+- rewarding
+- ride away
+- ridership
+- ridiculous
+- ridiculously
+- right
+- right away
+- rightly
+- rigid
+- rigorously
+- rinse
+- rise
+- rising cost
+- risky
+- ritual
+- riverbank
+- riverside
+- road sign
+- roadwork (= road construction)
+- roam around
+- robust
+- rocky
+- role
+- role model
+- rooftop
+- room attendant
+- rope
+- rough
+- round trip
+- route
+- routine
+- routinely
+- row the Doat
+- royalty
+- rugged
+- rule out
+- ruler
+- run
+- run a campaign
+- run a meeting
+- run an article
+- run for
+- run in several directions
+- run late
+- run out of
+- run the risk of
+- run the tap
+- runner-up
+- running time
+- runway
+- rural)
+- rush
+- rush hour
+- rwaste
+
+## S
+
+- s caterer
+- s get a promotion
+- s in bloom
+- s incentive
+- s lead
+- s mark
+- s Market stall
+- s material
+- s recession
+- s recognize
+- s regulate
+- s scrutinize
+- s vary
+- s venture
+- s venue
+- s very
+- sabotage
+- safe
+- safeguard
+- safety
+- safety drill
+- safety inspection
+- sail a boat
+- salary
+- salary and benefits
+- sale
+- sales
+- sales figure
+- sales presentation
+- sales report
+- sales representative
+- sales target
+- sales trend
+- salesperson
+- salon
+- salute
+- sample
+- sanitary
+- sarcastic
+- satary review
+- satisfaction
+- satisfactory
+- satisfied
+- save
+- savings
+- saw
+- scaffolding
+- scale
+- scale modet (= miniature)
+- scan
+- scarce
+- scarcity
+- scare
+- scatter
+- scenery
+- scenic
+- schedule
+- schedule an appointment
+- scheme
+- scholar
+- scoop
+- score
+- scratch
+- screen
+- screw
+- scrub
+- scrubbing
+- scuff
+- sculpture
+- seafood
+- seal
+- seamless (= without trouble)
+- search
+- seasickness
+- seasonal
+- seating
+- seating capacity
+- seating chart
+- second
+- secondary effect
+- secondhand
+- secretarial
+- secretary
+- sector
+- secure
+- secured
+- securely
+- security
+- security deposit
+- see if
+- seed
+- seek
+- seek to do
+- seemingly
+- segment
+- segregate A from B
+- seldom
+- select
+- selected
+- selection
+- selective
+- self-defense
+- self-esteem
+- self-motivation
+- semester
+- seminar
+- send
+- send a notification
+- send in
+- send off to
+- send out
+- senior
+- senior executive
+- sensible
+- sensitivity
+- separate
+- separately
+- separation
+- sequel
+- sequence
+- sequential
+- seriously
+- serve
+- serve a customer
+- server
+- service depot
+- serving (= helping, portion)
+- session
+- set a record
+- set aside
+- set down to work
+- set forth
+- set out
+- set the table
+- set up
+- set up a business
+- set up a date
+- set up an interview
+- setback
+- setting
+- settle
+- settle on
+- several
+- severance pay
+- severely
+- sewage
+- sgive directions
+- shade
+- shadow
+- shake hands
+- shape
+- share
+- shareholder
+- sharp
+- sharpen
+- sharply
+- sheer
+- shelf
+- sheltered housing
+- shift
+- ship
+- shipment
+- shipping
+- shipping and handling fee
+- shockproof
+- shoelace
+- shop
+- shopkeeper
+- shopper
+- shore
+- short
+- short-term deposit
+- shortage
+- shortcut
+- shorten
+- shortly
+- shovel
+- show
+- show around
+- show off
+- show up
+- showcase
+- shower
+- showing
+- showroom
+- shred
+- shrink
+- shrub
+- shut down
+- sick leave
+- side by side
+- side effect
+- sidewalk
+- sift
+- sift certificate
+- sightseeing
+- sign a contract
+- sign out
+- sign up
+- sign up for
+- signature
+- significant
+- significantly
+- signify
+- simple
+- simplicity
+- simplify
+- simultaneously
+- sin print
+- sincerity
+- single
+- sip
+- sit through
+- site
+- site inspection
+- sitear
+- situated
+- situation
+- sizable
+- size
+- skilled
+- skillfully
+- skyrocket
+- skyscraper
+- sleeve
+- slide down
+- slight chance
+- slightly
+- slip one’s mind
+- slope
+- slowdown
+- sluggish
+- slurp
+- smock
+- smoke detector
+- smoking section
+- smoothly
+- snack shop
+- sneeze
+- so far (= to date)
+- soak up
+- soar
+- society
+- sold out
+- solely
+- solicit
+- solid
+- solitary
+- solution
+- solve
+- someday
+- somewhat
+- soon
+- sophisticated
+- sort
+- sort of
+- sort out
+- source
+- southern
+- souvenir
+- space
+- space-saving
+- spacious
+- Span
+- Spare
+- spare key
+- sparsely
+- speak
+- speak into the microphone
+- speak on the phone
+- speak up
+- specialist
+- specialize
+- specially
+- specialty
+- specific
+- specifically
+- specification
+- specify
+- specimen
+- speck
+- spectator
+- speculate
+- speculation
+- speech
+- speed up
+- spell
+- spend
+- spending
+- Spice
+- spicy
+- spill
+- splash
+- splendor
+- split
+- spoil
+- spoke
+- spokesperson
+- sponsor
+- sponsored by
+- spontaneously
+- sport tournament
+- spot
+- spotless
+- spouse
+- spray
+- spread on
+- spread the word
+- spry
+- Spurious
+- squeaking sound
+- squeaky
+- squeeze
+- Sr last-minute
+- srebuild
+- srecover
+- srefill
+- ss cheerful
+- stability
+- stack
+- stacks of books
+- stadium
+- staff
+- stagnant
+- stagnation
+- stain
+- Staircase
+- stairway
+- stall
+- stamp
+- stance
+- stand
+- stand for
+- stand in for
+- stand in line
+- stand ina line
+- stand on
+- stand over
+- stand up for
+- standard
+- standing room
+- staple
+- stare into
+- stark
+- start
+- start-up cost
+- startte
+- starving
+- state
+- state-of-the-art
+- statement
+- stationary
+- stationery
+- statistics
+- status
+- stay ahead of
+- stay awake
+- stay competitive
+- Stay open late
+- stay tuned
+- stay up
+- steadily
+- steadiness
+- steady
+- stedious
+- steeply
+- steer
+- steering wheel
+- stellar
+- step
+- step down
+- sterilize
+- sternly
+- stick
+- stiff
+- still
+- stimulate
+- stipulation
+- stir
+- stock
+- stock market
+- stockroom
+- stomachache
+- stool
+- stop
+- stop ata tight
+- stop for fuel
+- stop over
+- storage
+- storage cabinet
+- storage compartment
+- storage facility
+- store
+- store opening
+- storefront
+- storeroom
+- stove
+- stow
+- straightforward
+- strap
+- strategic
+- strategicalty
+- strategy
+- stream
+- streamline
+- street sign
+- streetcar
+- strength
+- strengthen
+- stretch
+- strew
+- strict
+- strictly
+- strike
+- striking difference
+- stringently
+- strive
+- stroll
+- strong-willed
+- structure
+- struggle
+- study
+- sturdily
+- stylish
+- stylishly
+- subcontract
+- subcontractor
+- subject
+- submission
+- submit
+- submit Ato B
+- subordinate
+- subscribe
+- subscriber
+- subscription
+- subsequent
+- subside
+- subsidiary
+- subsidize
+- substantial
+- substantially
+- substantiate
+- substantively
+- substitute
+- suburb
+- suburban train line
+- subway station
+- succeed
+- succeed in -ing
+- success
+- successful
+- successful candidate
+- successfully
+- succession
+- succinct
+- succumb to
+- sudden
+- sufficient
+- sufficiently
+- suggest
+- suggestion
+- suitable
+- suitcase
+- suite
+- summarize
+- summary
+- summit
+- summit meeting
+- summon
+- sunglasses
+- sunny
+- sunset
+- superb
+- superior
+- supermarket
+- supervise
+- supervision
+- supervisory
+- supplement
+- supplementary
+- supplier
+- supply
+- support
+- supporting
+- suppose
+- suppress
+- surely
+- surface
+- surge
+- surgery
+- surgical instrument
+- surpass
+- surplus
+- surprise
+- surprisingly
+- surrender
+- surround
+- surrounding
+- survey
+- susceptible
+- suspect
+- suspend
+- sustain
+- svalid
+- swait foratable
+- swap
+- sweep the leaves
+- swell
+- swiftly
+- switch
+- switch A to B
+- switch off
+- switch on
+- symmetrically
+- symposium
+- symptom
+- synergy
+- synthesis
+- synthetic
+
+## T
+
+- t complete
+- t giup tan dung
+- t popularly
+- T take precautions
+- tab technician
+- table lamp
+- tablecloth
+- tablet
+- tabletop
+- tactics
+- tag
+- tailor
+- tailor-made
+- tailored
+- tain or shine
+- take a break
+- take A fora walk
+- take a photograph
+- take A seriously
+- take a stand against
+- take a tong time
+- take a tour
+- take a turn for the better
+- take a vacation
+- take a walk
+- take acourse
+- take action
+- take after
+- take amessage
+- take an action against
+- take an examination
+- take an order
+- take another look
+- take Aout
+- take apart
+- take back
+- take care of
+- take charge of
+- take down
+- take early retirement
+- take effect
+- take great pleasure
+- take initiative
+- take inventory
+- take medication
+- take note
+- take notes
+- take off
+- take on
+- take on responsibility
+- take one's advice
+- take one’s bag off
+- take one’s place
+- take out a loan
+- take out insurance on
+- take over
+- take part in
+- take place
+- take pride in
+- take some medicine
+- take some time off
+- take steps
+- take the order
+- take the place of
+- take turns
+- takeover
+- talented
+- tamppost
+- tangible
+- tank
+- target
+- taste
+- tasty
+- tax
+- tayover
+- te one’s advantage
+- teammate
+- teapot
+- tear down
+- tech-savyy
+- technical
+- technically
+- technician
+- technique
+- tegible
+- telecommute
+- telephone call
+- televise
+- telling
+- temperature
+- temporarily
+- temporary
+- tenant
+- tend
+- tensely
+- tentative
+- tentatively
+- term
+- terminal
+- terminate
+- terminology
+- terrestrial
+- terribly
+- terrific
+- test
+- testimonial
+- testimony
+- textile
+- thankful
+- thanks to
+- the following day
+- the next best
+- theater
+- theft
+- theme
+- themed
+- thickly
+- think of
+- think over
+- third party
+- thoroughly
+- thoughtfully
+- threaten
+- thrifty
+- thrilling
+- thrive
+- thriving
+- throughout the day
+- throw one’s effort into
+- throw out (= throw away)
+- thunderstorm
+- tidy
+- tie
+- tie the boat to
+- tie up
+- tight
+- tightiy
+- timber
+- time timit
+- time-consuming
+- time-off
+- timecard
+- timeline
+- timely
+- to be honest with you
+- to start with
+- to that end
+- to the point
+- toad
+- tock the key in the car
+- tolerance
+- tolerant
+- toll price
+- took after
+- tool
+- tool belt
+- toothache
+- top-of-the-line
+- total
+- totally
+- touch down
+- touch up a photograph
+- tour
+- tour bus
+- tow
+- towing service
+- toxication
+- trace
+- trade
+- trade negotiation
+- trade show
+- trademark
+- trading
+- traditionat
+- traffic congestion
+- traffic jam
+- traffic light
+- traffic signal
+- trail
+- train conductor
+- trainee
+- training
+- training center
+- tranquility
+- transaction
+- transfer
+- transferable
+- transform
+- transformation
+- transit
+- transition
+- translate
+- transmit
+- transparent
+- transportable
+- transportation
+- trap
+- trash bin zo unbelievabie
+- travel
+- travel agency
+- travel arrangement
+- treat
+- treatment
+- tree trunk
+- tremendous
+- trespass
+- trial
+- trial period
+- trigger
+- trim
+- trimming
+- trip
+- trivial
+- troubleshoot
+- truly
+- trust
+- trust company
+- trustee
+- trustworthy
+- try
+- try on
+- try out
+- tucid
+- tuncheon
+- tune
+- turbulence
+- turn away
+- turn down
+- turn in
+- turn on its side
+- turn out
+- turn over
+- turn to
+- turn up
+- turnover
+- twilight
+- twofold
+- typewriter
+- typical
+- typically
+
+## U
+
+- ultimately
+- unable
+- unacceptable
+- unanimous
+- unanimously
+- unauthorized
+- unavailable
+- unavoidable
+- unbeatable
+- unbiased
+- uncertain
+- unconditionally
+- uncover
+- undeniable
+- under a contract
+- under construction
+- under control
+- under the new management
+- under the supervision of
+- under warranty
+- undercharge
+- underestimate
+- undergo
+- undergo renovation
+- undergraduate
+- underground
+- underline
+- underlying
+- underpass
+- understaffed
+- understanding
+- undertake
+- underwater
+- undoubtedly
+- unemployment
+- unexpected
+- unfailingly
+- unfamiliar
+- unfavorable
+- unfortunately
+- uninhabited
+- uninterested
+- union
+- unique
+- unit
+- unlike
+- unlikely
+- unlimited
+- unload
+- unlock
+- unmet
+- unnecessary
+- unoccupied
+- unpack
+- unplug
+- unplug device
+- unplug the equipment
+- unprecedented
+- unprofitable)
+- unsanitary
+- unstable
+- unsustainable)
+- until the first of next month
+- untimely
+- unused
+- unusually
+- unveil
+- up to
+- up-and-down
+- up-to-date
+- upbeat
+- upcoming
+- upgrade
+- uphold
+- upon -ing
+- upset
+- upside down
+- upstairs
+- urgently
+- useful
+- user's guide
+- user-friendly
+- usher
+- usuaily
+- usual
+- utensit
+- utility
+- utility provider
+- utilization
+- utilize
+
+## V
+
+- vacancy
+- vacant site
+- vacate
+- vacation
+- vacation package
+- vaccination
+- vague
+- vaiue
+- valid for
+- valuable
+- valuables
+- van
+- vanish
+- variable
+- variably
+- variety
+- various
+- vary from AtoB
+- vegetarian
+- vehicle
+- vending machine
+- vendor
+- veranda
+- verbal
+- verify
+- versatile
+- vessel
+- vibrant
+- vicious cycle
+- view
+- vinegar
+- violate
+- violation
+- virtual
+- visible
+- vision
+- visit
+- visiting
+- visitor
+- visual aid
+- visualize
+- vital
+- vitally
+- vivid
+- Vl bet
+- vocation
+- voice mail
+- voiced
+- volatile
+- volume
+- voluntarily
+- volunteer
+- vote
+- voucher
+- voyage
+- vulnerable to
+- Vv void
+
+## W
+
+- wage
+- wagon
+- wait
+- wait for seats
+- waiting room
+- waitinline
+- waiton
+- waive
+- wake-up call
+- walk through
+- walking distance
+- walking tour
+- walkway
+- wall
+- wane
+- wanted
+- wardrobe
+- warehouse
+- warm-up
+- warn
+- warranty
+- wary of
+- wash the car
+- washing machine
+- watch band
+- watch over
+- watcha film
+- water
+- water level
+- water the plants
+- water-resistant
+- watering can
+- waterproof
+- waterway
+- wear
+- wear and tear
+- wear out
+- wearable
+- weather forecast
+- weather report
+- weekly
+- weigh
+- weight
+- weight limit
+- welcome
+- welding
+- welfare
+- well in advance
+- well-balanced
+- well-being
+- well-educated
+- well-prepared
+- wet
+- wheel
+- wheelbarrow
+- when it comes to
+- whereabout
+- whipped cream
+- whoiesale
+- whole
+- wholesaler
+- widely
+- wildlife
+- wilting
+- win
+- win a contest
+- win a contract
+- wind a watch
+- window display
+- window-shopping
+- windowsill
+- windshield
+- windstorm
+- windy
+- wing
+- wipe
+- wipe off
+- wire money to
+- wire transfer
+- with respect to
+- with the exception of
+- with the lights on
+- within reason
+- without a doubt
+- without delay
+- without notice
+- without respect to
+- without the consent of
+- withstand
+- witness
+- wonder
+- wood
+- woodwork
+- work environment
+- work history
+- work in groups
+- work on
+- work overtime
+- work properly
+- work shift
+- workbench
+- workforce
+- working condition
+- workout
+- workplace
+- workshop
+- workstation
+- worry
+- worsen
+- worth
+- wrap
+- wrap a present
+- wrap up
+- write
+- write down
+- write up
+- writing pad
+- written authorization
+- written consent
+
+## Y
+
+- year-end
+- yearn
+- yell
+- yield
+
+## Z
+
+- zealous

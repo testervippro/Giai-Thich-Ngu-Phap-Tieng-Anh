@@ -72,6 +72,8 @@
 
 # 🎯 TOEIC (ETS 2026)
 
+- [120 Thành ngữ & Cụm từ cố định TOEIC](120-thanh-ngu-cum-tu-toeic.md)
+- [Danh sách từ vựng TOEIC (Index đầy đủ)](toeic-vocabulary-index.md)
 - [Ngữ pháp Part 5 & 6](toeic-part5-6-grammar.md)
 - [Part 7 — Pattern câu hỏi](toeic-part7-question-patterns.md)
 - [Part 7 — Pattern đáp án đúng](toeic-part7-answer-patterns.md)
