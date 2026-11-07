@@ -80,6 +80,7 @@
 - [Listening — Luyện nghe Part 1–4](toeic-listening-practice.md)
 - [Reading — Cụm từ & Fixed Expressions](toeic-ets-2026-reading-all-phrases.md)
 - [Reading — Luyện đọc](toeic-ets-2026-reading.md)
+- [Reading — Đáp án & giải thích (10 test)](toeic-ets-2026-reading-solutions.md)
 
 ---
 
