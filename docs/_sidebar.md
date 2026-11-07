@@ -52,12 +52,6 @@
 
 ---
 
-# 💼 TIẾNG ANH MÔI TRƯỜNG IT
-
-- [IT English Patterns — Speaking & Writing](IT%20English%20Patterns.md)
-
----
-
 # 📖 OXFORD COLLOCATIONS DICTIONARY
 
 - [Oxford Collocations Dictionary](Oxford%20Collocations%20Dictionary.md)
@@ -71,6 +65,7 @@
 # 🗣️ SPOKEN ENGLISH
 
 - [500 Spoken English Structures (+ IELTS Speaking patterns)](500_spoken_english_structures.md)
+- [IT English Patterns — Speaking & Writing](IT%20English%20Patterns.md)
 
 ---
 
