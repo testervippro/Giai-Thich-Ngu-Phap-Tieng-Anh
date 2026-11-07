@@ -100,7 +100,7 @@ Khi đã làm chắc Giai đoạn 1–5 và điểm luyện đề ổn định �
 Không nằm trong TOEIC Listening & Reading, nhưng hữu ích nếu bạn cần giao tiếp hoặc thi thêm kỹ năng Nói:
 
 - [500 Spoken English Structures (+ IELTS Speaking patterns)](500_spoken_english_structures.md) — học thuộc các mẫu câu, tập thay từ vựng của mình vào từng mẫu thay vì học vẹt nguyên câu ví dụ.
-- [500 câu nói ngắn hàng ngày của người bản xứ](daily-native-expressions.md) — các câu phản xạ ngắn kiểu "Fair enough", "No worries"... giúp nói tự nhiên hơn trong giao tiếp đời thường.
+- [700+ câu nói ngắn hàng ngày của người bản xứ](daily-native-expressions.md) — các câu phản xạ ngắn kiểu "Fair enough", "No worries"... giúp nói tự nhiên hơn trong giao tiếp đời thường.
 
 ---
 
