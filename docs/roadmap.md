@@ -95,7 +95,16 @@ Khi đã làm chắc Giai đoạn 1–5 và điểm luyện đề ổn định �
 
 ---
 
+## Giai đoạn 7 — Luyện nói (nếu thi thêm TOEIC Speaking/IELTS, hoặc muốn giao tiếp tốt hơn)
+
+Không nằm trong TOEIC Listening & Reading, nhưng hữu ích nếu bạn cần giao tiếp hoặc thi thêm kỹ năng Nói:
+
+- [500 Spoken English Structures (+ IELTS Speaking patterns)](500_spoken_english_structures.md) — học thuộc các mẫu câu, tập thay từ vựng của mình vào từng mẫu thay vì học vẹt nguyên câu ví dụ.
+
+---
+
 ## Tài liệu tham khảo thêm (không bắt buộc theo lộ trình)
 
 - [2136 Kanji — Học qua câu chuyện](KanjiStory.md) — nếu học thêm tiếng Nhật, không liên quan TOEIC.
 - [Sơ đồ tư duy tổng hợp](MindMap.md) / [Sơ đồ tư duy đầy đủ](MindMap-Full.md) — dùng để ôn nhanh toàn bộ ngữ pháp trước ngày thi.
+- [1000 câu ngắn tiếng Trung – tiếng Anh](1000-short-phrases-Chinese-English.md) — nếu học thêm tiếng Trung, không liên quan TOEIC.
