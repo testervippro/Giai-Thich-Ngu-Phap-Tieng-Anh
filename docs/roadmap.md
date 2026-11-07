@@ -60,7 +60,8 @@
 **Mục tiêu:** quen tốc độ nói thật + nhận diện cụm từ/thành ngữ hay lặp lại trong đề thi.
 
 1. [Listening — Cụm từ & Fixed Expressions](toeic-ets-2026-listening-phrases.md) — học trước các cụm từ hay lặp lại để nghe "bắt" được ngay, không bị trôi.
-2. [Luyện nghe Part 1–4](toeic-listening-practice.md):
+2. [🎵 Playlist bài hát gốc học từ vựng](toeic-vocabulary-playlist-songs.md) — 30 bài hát/rap ngắn tự sáng tác, mỗi bài nhét nhiều cụm từ thật từ transcript/đề đọc vào vần điệu, giúp nhớ cụm từ dễ hơn học thuộc khô khan.
+3. [Luyện nghe Part 1–4](toeic-listening-practice.md):
    - [Part 1 — Pictures](toeic-listening-part-1.md)
    - [Part 2 — Question–Response](toeic-listening-part-2.md)
    - [Part 3 — Conversations](toeic-listening-part-3.md)

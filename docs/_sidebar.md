@@ -78,6 +78,7 @@
 - [Part 7 — Pattern câu hỏi](toeic-part7-question-patterns.md)
 - [Part 7 — Pattern đáp án đúng](toeic-part7-answer-patterns.md)
 - [Part 7 — Phân tích từng câu (phụ lục)](toeic-part7-per-question-analysis.md)
+- [🎵 Playlist bài hát gốc học từ vựng](toeic-vocabulary-playlist-songs.md)
 - [Listening — Cụm từ & Fixed Expressions](toeic-ets-2026-listening-phrases.md)
 - [Listening — Luyện nghe Part 1–4](toeic-listening-practice.md)
 - [Reading — Cụm từ & Fixed Expressions](toeic-ets-2026-reading-all-phrases.md)
