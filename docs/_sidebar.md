@@ -52,6 +52,12 @@
 
 ---
 
+# 💼 TIẾNG ANH MÔI TRƯỜNG IT
+
+- [IT English Patterns — Speaking & Writing](IT%20English%20Patterns.md)
+
+---
+
 # 📖 OXFORD COLLOCATIONS DICTIONARY
 
 - [Oxford Collocations Dictionary](Oxford%20Collocations%20Dictionary.md)
