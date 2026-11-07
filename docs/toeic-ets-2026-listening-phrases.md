@@ -1,6 +1,6 @@
 # TOEIC ETS 2026 Listening – Cụm từ & Fixed Expressions (từ transcript T1–T10)
 
-Tổng: 2817 cụm (đã loại trùng). Nguồn: TRANSCRIPT ets 2026 (OCR, có thể sót/lỗi). Ví dụ đánh dấu P1–P4 là Part của đề Listening.
+Tổng: 2817 cụm (đã loại trùng) + 70 cụm bổ sung ở [cuối trang](toeic-ets-2026-listening-phrases.md?id=bổ-sung-quét-lại-transcript). Nguồn: TRANSCRIPT ets 2026 (OCR, có thể sót/lỗi). Ví dụ đánh dấu P1–P4 là Part của đề Listening.
 
 
 ## Suggest-Offer (151)
@@ -2874,3 +2874,128 @@ Tổng: 2817 cụm (đã loại trùng). Nguồn: TRANSCRIPT ets 2026 (OCR, có 
 | you're not alone | bạn không đơn độc | If you're trying olive oil for the first time, you're not alone (P4) | T2 |
 | you're the one they go to | bạn là người họ tìm đến | you're the one they go to. (P3) | T9 |
 | Your knowledge would be valuable as we ~ | Kiến thức của bạn sẽ rất giá trị khi chúng tôi ~ | your knowledge would be valuable as we (P4) | T6 |
+
+## Bổ sung (quét lại transcript)
+
+70 cụm tìm thêm khi đọc lại transcript T1–T10. Các cụm này chưa có trong những bảng phía trên, kể cả khi đổi dạng V-ing/V-ed hay số ít/số nhiều.
+
+
+### Test 1 (7)
+
+| Cụm từ | Nghĩa | Ví dụ | Part |
+|---|---|---|---|
+| become a burden for | trở thành gánh nặng cho | that might become a burden for our … | P3 |
+| below freezing | dưới mức đóng băng | below freezing | P3 |
+| bring in enough money | thu đủ tiền | We hope the event brings in enough … | P3 |
+| depart much from the original | khác nhiều so với bản gốc | depart much from the original, which you may prefer. … | P4 |
+| incredible performance | màn trình diễn đáng kinh ngạc | Everyone wants to see her play after … | P3 |
+| water has pooled | nước đọng thành vũng | Some water has pooled on a path. | P1 |
+| would you rather A or B | bạn thích A hay B hơn | Would you rather go to lunch now or at noon? | P2 |
+
+### Test 2 (7)
+
+| Cụm từ | Nghĩa | Ví dụ | Part |
+|---|---|---|---|
+| build sets | dựng cảnh trí sân khấu | building sets, painting, and setting up the stage | P3 |
+| car lift | cầu nâng ô tô | how slow and hard it is to use the car lift | P4 |
+| continuing education | giáo dục thường xuyên | the February continuing education workshops … were very successful | P4 |
+| endorse | quảng bá, chứng thực | A celebrity endorsed the company. | P3 |
+| explain highly technical concepts | giải thích khái niệm rất kỹ thuật | clearly explaining highly technical concepts | P3 |
+| hydraulic fluid | dầu thủy lực | bottles of hydraulic fluid | P4 |
+| visitor access will be limited | hạn chế khách vào | visitor access to the park will be limited | P4 |
+
+### Test 3 (12)
+
+| Cụm từ | Nghĩa | Ví dụ | Part |
+|---|---|---|---|
+| a complete success | thành công trọn vẹn | Yes, it was a complete success. | P2 |
+| attend to other customers | tiếp khách khác | She needs to attend to other customers. | P3 |
+| be fitted with a mold | được lắp khuôn | currently fitted with a mold | P4 |
+| benefit from | được lợi từ | benefit from having more direct input from … | P3 |
+| ease of use | sự dễ sử dụng | Its ease of use | P4 |
+| interact with customers | tương tác với khách | how our bank tellers interact with individual … | P4 |
+| launch a division | thành lập bộ phận | a research and development division and start … | P4 |
+| on the bottom shelf | ở kệ dưới cùng | On the bottom shelf. | P2 |
+| size requirements | yêu cầu kích cỡ | so we can see the size requirements | P3 |
+| the house has settled | nhà bị lún | built a long time ago and has settled | P4 |
+| updated sale-price signs | biển giá khuyến mãi mới | put the updated sale-price … | P3 |
+| wire has been rolled up | dây được cuộn lại | Some wire has been rolled up on the floor. | P1 |
+
+### Test 4 (4)
+
+| Cụm từ | Nghĩa | Ví dụ | Part |
+|---|---|---|---|
+| a reservation for two | đặt chỗ cho hai người | A reservation for two. | P2 |
+| catering order | đơn đặt tiệc | let me know when the catering order … | P2 |
+| monthly posts | bài đăng hằng tháng | monthly posts on many gardening … | P3 |
+| the entire advertising landscape | toàn bộ bức tranh quảng cáo | not the entire advertising landscape | P3 |
+
+### Test 5 (9)
+
+| Cụm từ | Nghĩa | Ví dụ | Part |
+|---|---|---|---|
+| a more polished look | vẻ chỉn chu hơn | give our lobby a more polished, … | P3 |
+| brass metal scrap | phế liệu đồng thau | a lot of brass metal scrap | P3 |
+| color schemes | phối màu | in several different color schemes | P4 |
+| have the wall taken down | cho dỡ bức tường | the wall taken down between it and the … | P3 |
+| lower window blinds | hạ rèm cửa sổ | One of the men is lowering some window … | P1 |
+| on top of this | thêm vào đó | On top of this, the interior decoration… | P4 |
+| outstanding contributions to | đóng góp xuất sắc cho | outstanding contributions to the aviation industry | P4 |
+| seal packages | dán kín gói hàng | A worker is sealing some packages. | P1 |
+| take the next right turn | rẽ phải ở chỗ tiếp theo | I'll take the next right turn. | P2 |
+
+### Test 6 (8)
+
+| Cụm từ | Nghĩa | Ví dụ | Part |
+|---|---|---|---|
+| battery-operated | chạy bằng pin | is battery-operated | P3 |
+| camp overnight | cắm trại qua đêm | camp in the reserve overnight | P3 |
+| have high standards | có tiêu chuẩn cao | they have high standards | P4 |
+| inspire creativity | khơi nguồn sáng tạo | surrounded by flowers to inspire creativity | P4 |
+| it turns out | hóa ra | and it turns out the hydraulic … | P4 |
+| orders from us all the time | đặt hàng chúng ta thường xuyên | Great Fitness orders from us all the … | P3 |
+| the score was tied | tỉ số hòa | The score was tied. | P2 |
+| tie one's shoe | buộc dây giày | A man is tying his shoe. | P1 |
+
+### Test 7 (4)
+
+| Cụm từ | Nghĩa | Ví dụ | Part |
+|---|---|---|---|
+| be down for maintenance | tạm ngừng để bảo trì | Our Web site is currently down for … | P2 |
+| be turned over | bị úp ngược | Some waste baskets have been turned … | P1 |
+| the hint of lemon flavor | chút hương chanh | I like the hint of fresh lemon flavor. | P3 |
+| window blinds have been raised | rèm đã được kéo lên | Some window blinds have been raised. | P1 |
+
+### Test 8 (7)
+
+| Cụm từ | Nghĩa | Ví dụ | Part |
+|---|---|---|---|
+| digitize rare books | số hóa sách hiếm | digitize our rare book … | P3 |
+| eating utensils | dao nĩa, dụng cụ ăn | Where can I find the eating utensils? | P2 |
+| have soil analyzed | cho phân tích đất | a program for residents to have their garden soil analyzed | P3 |
+| in the lower right corner | ở góc dưới bên phải | In the lower right corner. | P2 |
+| maintenance hole covers | nắp hố ga | replace several maintenance hole covers | P4 |
+| meet or exceed standards | đạt hoặc vượt tiêu chuẩn | meet or exceed all current pharmaceutical … | P4 |
+| meet their needs | đáp ứng nhu cầu của họ | how the software really meets their … | P3 |
+
+### Test 9 (6)
+
+| Cụm từ | Nghĩa | Ví dụ | Part |
+|---|---|---|---|
+| difficulty speaking in public | khó khăn khi nói trước công chúng | Difficulty speaking in public | P3 |
+| discarded fabric | vải bỏ đi | we shred discarded fabric | P3 |
+| increase attendance | tăng lượng khách | ways to increase park attendance | P3 |
+| leave them at the front desk | để ở quầy lễ tân | I left them at the front desk. | P2 |
+| leftover material | vật liệu thừa | a great way to use leftover … | P3 |
+| reach a conclusion too quickly | kết luận quá vội | warn against reaching a conclusion too … | P4 |
+
+### Test 10 (6)
+
+| Cụm từ | Nghĩa | Ví dụ | Part |
+|---|---|---|---|
+| be put on the wrong flight | bị chuyển nhầm chuyến bay | my luggage was accidentally put on a flight | P3 |
+| enter into a raffle | được tham gia rút thăm | into a raffle to win a prize based on your donation … | P3 |
+| fly in | bay tới | I flew in yesterday from Canada | P3 |
+| have to be just right | phải vừa chuẩn | grain bin have to be just right. … | P3 |
+| informally worded | diễn đạt thân mật/suồng sã | slides of informally worded … | P4 |
+| within a radius of | trong bán kính | a fifteen-kilometer radius of us. … | P3 |
