@@ -65,6 +65,7 @@
 # 🗣️ SPOKEN ENGLISH
 
 - [500 Spoken English Structures (+ IELTS Speaking patterns)](500_spoken_english_structures.md)
+- [500 câu nói ngắn hàng ngày của người bản xứ](daily-native-expressions.md)
 - [IT English Patterns — Speaking & Writing](IT%20English%20Patterns.md)
 
 ---
