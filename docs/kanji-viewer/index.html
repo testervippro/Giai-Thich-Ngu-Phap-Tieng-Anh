@@ -325,7 +325,7 @@ let ocrWorkerTurn = 0;
 function getOcrWorker(){
   if (ocrWorkers.length < OCR_WORKER_POOL_SIZE){
     const idx = ocrWorkers.length;
-    const p = Tesseract.createWorker("chi_sim").catch(err => {
+    const p = Tesseract.createWorker("jpn").catch(err => {
       ocrWorkers[idx] = null;
       throw err;
     });
