@@ -526,7 +526,7 @@
 | 2 | be in the first flush of dang | ở giai đoạn đầu đầy hứng khởi |
 | 3 | break new ground | mử ra hưởng đi mới/ đột phá |
 | 4 | callit quits | dừng lại/ chấm dứt (bỏ cuộc) |
-| 5 | H fromscratch - “tit con | số không/ từ đầu |
+| 5 | from scratch | số không/ từ đầu |
 | 6 | get off the ground | khởi động thành công/ đi vào hoạt đóng |
 | 7 | gettheball rolling | bátdầukhởiđộngcôngVỆC |
 | 8 | in the can | SỐ (phim/ dự án quay) đã hoàn thành |
@@ -1575,7 +1575,7 @@
 |---:|---|---|
 | 1 | SIT cum | TỪ CO ĐỊNH NGHIA |
 | 2 | bear aresemblance to | có nétgiốngvới |
-| 3 | broad hips “hang | rộng - s |
+| 3 | broad hips | rộng |
 | 4 | chubby cheeks | đôi má nhúngphính - SỐ |
 | 5 | coarse hair | técthd, cig |
 | 6 | droopy moustache | bộ ria mép rũ xuống |
@@ -1814,7 +1814,7 @@
 | 68 | in the public eye | trước mắt công chúng, nổi tiếng (qua báo |
 | 69 | in the twinkling of an eye | trong nháy mát, chớp mát |
 | 70 | PHAN li | CÁC CHỦ DE COLLOCATIONS VA IDIOMS Moen |
-| 71 | keep a close eye/watch on somebody/ ° something | quan sát cấn thận, theo dõi sát sao al/ cái nÌ |
+| 71 | keep a close eye/watch on somebody/something | quan sát cấn thận, theo dõi sát sao al/ cái nÌ |
 | 72 | keep a weather eye on something | theo đõi cẩn thận ai/ cái gì để kịp phản ứng |
 | 73 | keep an eye on somebody/something | đế mắt đến, trông chừng ai/cáig) |
 | 74 | oe keep your eyes open (for somebody/ . something) - Jook somebody in the eye(s)/face | để ý, quan sát kỹ, cảnh giác ai/ điều gì |
@@ -1823,7 +1823,7 @@
 | 77 | notadry eye inthe house | không ai cầm được nước mắt |
 | 78 | not batan eyelid | không tỏ ra thái độ gì (thường là sự ngạc |
 | 79 | not believe your ears/eyes | không tin ở tai/ mắt mình |
-| 80 | not see eye to eye with somebody ‘ (on something) | bất đồng quan điểm với ai đó về điều gì |
+| 80 | not see eye to eye with somebody (on something) | bất đồng quan điểm với ai đó về điều gì |
 | 81 | one in the eye (for somebody/ something) | một thất bại, một cú sốc, hoặc một sự thất |
 | 82 | only have eyes for/have eyes only for 3 somebody | chỉ yêu thương, chỉ quan tâm, chỉ để ý đến |
 | 83 | open your/somebody's eyes (to something) | làm cho ai đó nhận ra, làm tỉnh ngộ |
@@ -2466,7 +2466,7 @@
 | 168 | live sustainably | sống bàn vừng |
 | 169 | participate in environmental campaigns | tham gia vào các chiến dịch môi trường |
 | 170 | pollute rivers and lakes/waterways/the air /the atmosphere/the environment/oceans | gây ô nhiễm sông hồ/ đường thủy/ không |
-| 171 | produce pollution/€0;/greenhouse emissions | thải ra ô nhiễm/ khí C0;/ khí nhà kính ˆ |
+| 171 | produce pollution/CO2/greenhouse emissions | thải ra ô nhiễm/ khí C0;/ khí nhà kính ˆ |
 | 172 | promote sustainable tourism | thúc đấy du lịch bền vững |
 | 173 | raise/heighten/increase public awareness of/about sth | nắng cao nhận thức cộng đồng về điều |
 | 174 | reduce one's carbon footprint | giảm lượng khí thải carbon của bản thân |
@@ -2491,7 +2491,7 @@
 | 193 | Save the planet/the rainforests/ an endangered species | cứu lấy hành tinh/ rừng mưa nhiệt đới/ loài có |
 | 194 | scorching hot | cực kỳ nóng, nóng như thiêu đốt |
 | 195 | take action on sth | hành động để giải quyết hoặc đối phó với vấn đề gì |
-| 196 | use/be made from recycled/ ‘ecyclable/biodegradable material | sử dụng/ được làm từ vật liệu tái chế, có thế tái |
+| 196 | use/be made from recycled/recyclable/biodegradable material | sử dụng/ được làm từ vật liệu tái chế, có thế tái |
 | 197 | adapt to climate change | thích ứng với biến đối khí hậu |
 | 198 | combat climate change | chống biến đối khí hậu |
 | 199 | adopt eco-friendly lifestyles | áp dụng lối sống thân thiện với mó: tr |
@@ -2534,7 +2534,7 @@
 | 13 | shrinking violet | người nhút nhát/ rụt rẻ |
 | 14 | the heavens open | trời đố mưa lớn bất ngờ |
 | 15 | the sands of time | dòng chảy thời gian/ thời gian trôi qua |
-| 16 | The world is sb‘s oyster | thế giới mở rộng trước mắt ai đó/ cơ hội r |
+| 16 | The world is sb's oyster | thế giới mở rộng trước mắt ai đó/ cơ hội r |
 | 17 | to get the ball rolling | bất đầu hành động/ khởi động công việc |
 | 18 | to make a mountain out ofa molehill | chuyện bẻ xé ra tơ |
 | 19 | under the sun | mọi thứ trên đời/ có thể nghĩ tới |
@@ -2646,7 +2646,7 @@
 |---:|---|---|
 | 1 | bull market | thị trường giá lên "a |
 | 2 | cock-and-bull story | câu chuyện bịa đặt vớ vấn |
-| 3 | a dark horse “an | sổ” bất ngờ chiến thắng: ứng viên ít ai để ý nhưng manh |
+| 3 | a dark horse | sổ” bất ngờ chiến thắng: ứng viên ít ai để ý nhưng manh |
 | 4 | dog days | những ngày nóng bức ngột ngatciamiahé |
 | 5 | fat cat | đại gia” gidu có quyền lực (thường mang sắc thai phê phán) |
 | 6 | i6 one-horse town | thị trấn heo hút,nhỏ bé — — mm |
@@ -2681,7 +2681,6 @@
 | 35 | gotothe dogs | xuống cấp, sa sút thảm hai |
 | 36 | inthe doghouse pap rac | rối bị a dé giận hoặc không hải |
 | 37 | like a cat on a hot tin roof (like a cat on | đứng ngồi không ven, bon chon lo tổ |
-| 38 | hot bricks) g ngöi | không yên, bon chon la lắng |
 | 39 | look like something the cat brought | trông rất nhếch nhác, bẩn thiu, tả tơi, như |
 | 40 | dragged in | thé vừa trải qua chuyện tệ hai |
 | 41 | not have a dog's chance chang | có cửa thang |
@@ -2956,7 +2955,7 @@
 | 5 | get dressed oT | mặc quan áo/ thay đồ |
 | 6 | s _ go to bed early/ late | đi npủ sớm/ muộn |
 | 7 | havebreakfast/lunch/dinner | ănsáng/trưa/tối |
-| 8 | mm have/take a shower ‘ditdm | (vòi hoa sen) |
+| 8 | have/take a shower | (vòi hoa sen) |
 | 9 | m hectic schedule | lịch trình dày đặc/ bận rộn |
 | 10 | keep to our schedule | tuân thủ/ bám sat lịch trình |
 | 11 | kick the habit | từ bỏ một thói quen (thường là xấu/ có hai) |
@@ -2985,7 +2984,6 @@
 | 9 | l (stuck) in a rut | bị mắc kẹt trong lối mòn/ một cuộc sống tẻ nhạt |
 | 10 | kill time, an hour, ete | giết thời gian/ thì giờ |
 | 11 | lose sleep (over something) | mất ngủ vi lo lắng điều gi |
-| 12 | ngang Whether youare coming «i ca | rối bà hết cả lên (thường do quá bản) |
 | 13 | onthe house | miễn phi (do cửa hang/ nhà hàng chiều dai) 1 |
 | 14 | outonthetown di | chơi phố (ăn uống, giải trí) |
 | 15 | outstay your welcome | ở lại choi quá lau đến mức người ta thấy phiền |
@@ -3173,7 +3171,7 @@
 | 33 | m picky eater | người kén an 1 |
 | 34 | processed food | thực phấm chế biến sin |
 | 35 | F ' street food | thứcăn/ món dn đường phủ |
-| 36 | take one's order ‘ght | mén/ tiếp nhận yêu cầu gọi món |
+| 36 | take one's order | mén/ tiếp nhận yêu cầu gọi món |
 
 ### B. Thành ngữ (Idioms)
 
@@ -3213,7 +3211,7 @@
 | 5 | capture memories ghi | lại những kỷ niệm 1= |
 | 6 | day trip | chuyén di trong ngay |
 | 7 | embark ona journey | bắt đầu một cuộc hành trình |
-| 8 | foreign travel ‘du lich | nước ngoai SỐ |
+| 8 | foreign travel | nước ngoai SỐ |
 | 9 | make/take a journey | thực hiện/ bắt đầu một chuyến đi oO |
 | 10 | make a reservation | đặt chỗ trước (phòng, ban, v.v.} Oo |
 | 11 | make arrangements for something | sắp xếp/ chuẩn bị cho việc gi |
@@ -3487,7 +3485,6 @@
 | 12 | set the stage for something | mở đường, tạo tiền dé cho SỐ |
 | 13 | ng lraaneng) 2 (spoil the | nàng cuậc vul của ai, làm ai đó mất hers |
 | 14 | start/set/get the ball rolling | khởiđộngbátđầu |
-| 15 | vomorytne j— down | ôn lại ky niệm xưa |
 | 16 | the life and soul of the party linh hon cha bira | tiệc (người khuấy động kh sz |
 | 17 | the more the merrier | cảng đông càng vui |
 | 18 | tie theknot | kết hôn ¬a |
@@ -3579,7 +3576,7 @@
 | 2 | do/play sport | chơi thé thao |
 | 3 | enhance one's performance | nâng cao/ cải thiện khả năng thi đấu |
 | 4 | fair play chat | đẹp/ công bằng |
-| 5 | follow/obey a rule mm —— tan theo mot quy | định, quy tắc |
+| 5 | follow/obey a rule | tuân theo một quy định, quy tắc |
 | 6 | go skiing di trugt | tuyết có mm |
 | 7 | holda record | có giữ một kỷ lục - 1 |
 | 8 | man/woman of the match | cầu thủ xuất sắc nhất tran dau |
@@ -3706,7 +3703,6 @@
 | 19 | your Sunday best | bộ đồ đẹp nhất/ trang trọng nhất |
 | 20 | at oe | THÀNH NGO - NGHĨA |
 | 21 | (=becutout 0f the same cloth) | giống nhau, cùng một giuộc |
-| 22 | in d braces cnthin “ae | phòng ngừa nhiều hon |
 | 23 | blow/knock your socks off | Iầmaiđócực ky kinh ngachosc phẩnkhích |
 | 24 | bore, scare, ete. the pants off somebody Jam ai | đó thay chan, sợ |
 | 25 | (fy) by the seat of your pants | làm theo bin ning, không có kế hoạch 1 |
@@ -3714,7 +3710,7 @@
 | 27 | catch somebody with their pantsdown | không kịp trở tay |
 | 28 | come in handy /useful | trở nên hữu ích vào hic can thiết |
 | 29 | cut your coat according to your cloth | liệu com gap mam, chi tiêu theo kha nang |
-| 30 | HN “hats off to someone | ngả mũ than phục ai 1 |
+| 30 | hats off to someone | ngả mũ than phục ai 1 |
 | 31 | have something under your belt | Mà nghiệm, thành tựu hoặc kỹ năng |
 | 32 | out ofa hat CO | một cách ngẫu nhiên |
 | 33 | pass the hat around/round | quyên góp tiền |
@@ -3778,7 +3774,6 @@
 | 19 | talk a blue streak | nói không ngừng nghỉ, nói liến tho |
 | 20 | the boys in blue | cảnh sắt |
 | 21 | the grass is (always) greener on the other side (of the fence) | đứng núi này, trông núi nọ |
-| 22 | a th 7 bre ‘ak he A feng ig@til BEC AEELR he compa ny preferred ‘clos ng benches and bel | eiusduie doi ki hoi, Hi |
 | 23 | tem lee es 10 oe =f sroad Si I riced b ir las [I ee pares eee Bloat eo, PneeT ee | tr lÌ Du 1. g[ , . go lì: F Ì Ít ,Ý |
 | 24 | salatrel eel ina Batra biel iliaindas - Dee an light to the prujectafter 4 ee er Lule ies ccaibrebectbgetletr Waihi | TH nkxxurlixik=b.adMMMMAA4.. AL |
 | 25 | Binal proposal required furt | tị: nerttdeft IIlllI\I ¡:! ÌÌ |
@@ -3786,7 +3781,6 @@
 | 27 | Teenie |  |
 | 28 | rest dea Sivrgenades chavewy tt Andy TC | của |
 | 29 | es Oe | TỊ TỊ THỊ H 9 HP TỆ TÔ PA, TƑ TP HE lý HH 1 TH 7ƒ P§ TỊ ' 1 1w T yyppyp ƒ |
-| 30 | always gether on (ae.other § de | cấp THÍ Mbp pa tea TH ga lÌ |
 | 31 | ha ite Hohe re fp a | HỊ Tị II Ì |
 | 32 | brown study | trạng thái trằm npầm/ suy tư |
 | 33 | golden handshake | cái bắt tay vàng (một khoảng tiền lớn |
@@ -3816,7 +3810,6 @@
 | 1 | Be ee Op aa 'M im mg | r..PỰ Jk¿tyví.' ee |
 | 2 | bd Rien " - a eg | Thông - nah * —¬ oak |
 | 3 | Aes you gelag eshansied witha | Í1,.. oo. luuidache after cc ery Sitessbai bon củ |
-| 4 | Mot let yo0uzs¿ll Pe (2b) paar healthy | shnnÌy Hecause of Self aur, Pe |
 | 5 | effective treatment | phương pháp điều trị hiệu quả |
 | 6 | enjoy good health | có sức khỏe tốt |
 | 7 | gentle exercise | bải tập thế dục nhẹ nhàng |
@@ -4161,7 +4154,6 @@
 | 19 | technological change/development /advances | sự thay đối/ phát triển/ tiến bộ công nghệ |
 | 20 | technological innovation |  |
 | 21 | the scientific community | cộng đồng khoah(c |
-| 22 | i Read the following uavesicscment and mark the letter A, B, € or D | tơ indicate the option that |
 | 23 | a revolutionary approach /Idea Al washing | một cách tiếp cận/ ÿ tướng mang tính các? |
 | 24 | Artificial intelligence (Al) augmented reality (AR) | trí tuệ nhân tạo |
 | 25 | build/develop/create a prototype | xây dựng/ phát triển/ chế tạo một máu thứ |
@@ -4810,7 +4802,7 @@
 | 24 | like a dose of salts OS | cực kỷ nhanh chóng |
 | 25 | notgive/budge/moveaninch ch nay dates | Tấn nhường/ không |
 | 26 | out of range (of something) lu | ngoài phạm vi/ ngoài viing |
-| 27 | putsomeone onthe spot mm “lam | khó ai/ đưa ai vào thé bí |
+| 27 | put someone on the spot | làm khó ai/ đưa ai vào thé bí |
 | 28 | on runa mile (from somebody/something) | né tránh hoàn toàn/ chạy mất dép |
 | 29 | see, spot, tell, smell, etc. something a mile | nhận ra/ doán ra "từ xa”/ biết ngay lập tức |
 | 30 | speak volumes (about/for sth/sb) | nói lên rất nhiều điều về al/ cái gì |
@@ -4818,7 +4810,7 @@
 | 32 | stretch your legs | đi lại/ dudi chân một chút sau khi ngồi lâu |
 | 33 | the extent to which | mức độ mà... / đến mức nào thì |
 | 34 | the length and breadth of, mm | khắp mọi nơi/toànbộ |
-| 35 | tipthe balance/scales (= swing the balance) “nghieng | cán cân/ trở thành yếu tổ |
+| 35 | tip the balance/scales (= swing the balance) | nghiêng cán cân/ trở thành yếu tố |
 | 36 | tip the scales at something | nặng bao nhiêu - — w |
 
 ## Chủ đề 44: Xác suất và may mắn
@@ -5027,7 +5019,7 @@
 | 3 | backto the drawing board | phảilầm lạitừ đầu/ bt đầu từ con số không |
 | 4 | beyond your wildest dreams ' | vượt ngoài sức tưởng tượng |
 | 5 | close a deal | chốt được một thương vụ/ giao dịch |
-| 6 | cac “cut to the chase di thang vao van | dé Oo |
+| 6 | cut to the chase | đi thẳng vào vấn đề |
 | 7 | do someone a world of good rat | có Ích, có lợi/ cực kỳ tốt cho ai |
 | 8 | l2 go/sellHike hot cakes | bán chạy như tôm tươi 1a |
 | 9 | hard/soft sell | ép mua/ kiếu bán hàng, quảng cáo nhẹ |
