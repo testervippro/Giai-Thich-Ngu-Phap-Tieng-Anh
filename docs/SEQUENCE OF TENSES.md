@@ -111,3 +111,38 @@ He wishes his son wouldn't interrupt him when he is working.
 
 
 <table border="1" style="margin: auto; word-wrap: break-word;"><tr><td style="text-align: center; word-wrap: break-word;">Liên từ</td><td style="text-align: center; word-wrap: break-word;">Mệnh đề phụ</td><td style="text-align: center; word-wrap: break-word;">Mệnh đề chính</td><td style="text-align: center; word-wrap: break-word;">Ví dụ</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Before</td><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">Past Perfect</td><td style="text-align: center; word-wrap: break-word;">Before she went out, she had turned off the lights.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">After</td><td style="text-align: center; word-wrap: break-word;">Past Perfect</td><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">After Brian had left, we closed the door.</td></tr><tr><td rowspan="2">When</td><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">Past Continuous</td><td style="text-align: center; word-wrap: break-word;">I was watching TV when he called.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Past Continuous</td><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">When she was walking to the store, she met an old friend.</td></tr><tr><td rowspan="2">While</td><td style="text-align: center; word-wrap: break-word;">Past Continuous</td><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">While I was reading a book, the light went out.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Past Continuous</td><td style="text-align: center; word-wrap: break-word;">Past Continuous</td><td style="text-align: center; word-wrap: break-word;">We were painting the fence while Tom was cooking lunch.</td></tr><tr><td rowspan="2">By the time</td><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">Past Perfect</td><td style="text-align: center; word-wrap: break-word;">By the time I arrived, they had left.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Present Simple</td><td style="text-align: center; word-wrap: break-word;">Future Perfect Tense</td><td style="text-align: center; word-wrap: break-word;">By the time he graduates, he will have completed all his coursework.</td></tr><tr><td rowspan="3">As soon as</td><td style="text-align: center; word-wrap: break-word;">Present Simple</td><td style="text-align: center; word-wrap: break-word;">Future Simple</td><td style="text-align: center; word-wrap: break-word;">As soon as he arrives, we will start the meeting.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">He started eating as soon as the food was placed on the table.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Past Perfect</td><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">He called his parents as soon as he had arrived at the hotel.</td></tr><tr><td rowspan="4">Until</td><td style="text-align: center; word-wrap: break-word;">Present Simple</td><td style="text-align: center; word-wrap: break-word;">Future Simple</td><td style="text-align: center; word-wrap: break-word;">I will wait here until you come back.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Present Simple</td><td style="text-align: center; word-wrap: break-word;">Future Perfect</td><td style="text-align: center; word-wrap: break-word;">We will have done the cleaning until the guests arrive.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">Josh waited patiently until the bus came.</td></tr><tr><td style="text-align: center; word-wrap: break-word;">Past Simple</td><td style="text-align: center; word-wrap: break-word;">Past Perfect</td><td style="text-align: center; word-wrap: break-word;">They had lived in that house for ten years until they moved to Australia.</td></tr></table>
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Động từ chính ở quá khứ → mệnh đề sau lùi về quá khứ
+- 📖 Mr. Kane **said** he **packed** so hastily this morning that he **forgot** to bring a suit and tie for tomorrow's dinner.
+- 📖 Christine Lafferty **said** that she and her childhood friend Morgan Flanagan **spent** plenty of time at the theater while growing up.
+- 📖 The company **said** the delay **was caused** by a shortage of one of the drink's main components, mango extract...
+- 🎧 Last week, a customer **called** to complain that their food **was** cold by the time they **found** it.
+
+### 2. Hành động xảy ra trước → quá khứ hoàn thành
+- 📖 Ms. Clayton **was** relieved to find that none of her files **had been lost** during the power failure.
+- 📖 Long before the training program **began**, Ms. Morris **had revised** the schedule to allow her team to attend.
+- 📖 Tickets for Saturday's football game **sold out** on Thursday, much sooner than organizers **had anticipated**.
+
+### 3. Tương lai trong quá khứ (would / was going to)
+- 📖 Mr. Garcia **promised** to become a mentor to Ms. Winston after he **retired**. *(after + quá khứ thay cho tương lai)*
+- 🎧 It **reported** that the upgrade **would** be economical.
+
+### 4. Ngoại lệ: sự thật vẫn đúng ở hiện tại → không lùi thì
+- 📖 Ms. Choi **was** pleased to learn that she **is** a finalist in the technology competition. *(cô ấy vẫn đang là người vào chung kết)*
+- 📖 Singer Maria Stanley **revealed** today that she **is scheduling** a world tour.
+- 📖 A news source **suggested** that the merger **will** probably **take place** next year. *(sự việc vẫn chưa xảy ra)*
+
+### 5. Động từ chính ở hiện tại → mệnh đề sau chia tự do
+- 📖 The results of the study **suggest** that more people **struggle** with night driving than previously **believed**.
+- 📖 Our market research **shows** that buyers with limited knowledge of a product often **look** for information from expert sources.
+
+### 6. Mệnh đề thời gian / điều kiện: hiện tại thay cho tương lai
+- 📖 Once Ms. Jeong **receives** the contract, she **will sign** and return it to Allory Pharmaceuticals.
+- 📖 The contract for the renovation of the park **will not be awarded** until all bids **have been submitted**.
+- 🎧 Once you **make** an appointment on the app, a shuttle **will arrive** within fifteen minutes.

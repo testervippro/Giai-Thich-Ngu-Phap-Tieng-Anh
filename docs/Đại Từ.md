@@ -491,3 +491,45 @@ Ex: Both (of the) players are ready.
 </tr>
 
 </table>
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Tính từ sở hữu trước danh từ (her / his / your / its)
+- 📖 As a result of **her** many years leading media organizations, Ms. Ayo was selected for the Dowel Journalism Prize.
+- 📖 Reimbursement for travel expenses will be included in **your** October 1 paycheck.
+- 📖 Although **her** training has just begun, Ms. Yu has already mastered the company's proprietary accounting software.
+- 📖 Dynart, Inc., continuously seeks new ways to reduce **its** use of plastics.
+
+### 2. Đại từ nhân xưng làm chủ ngữ
+- 📖 Ms. Choi was pleased to learn that **she** is a finalist in the technology competition.
+- 🎧 **They** expect to complete the repair within the hour.
+
+### 3. Đại từ phản thân (-self / -selves)
+- 📖 Please familiarize **yourself** with the company's tuition-reimbursement policy before enrolling in any classes.
+- 📖 Lawal Home Service prides **itself** on transparent communication and attention to detail.
+- 📖 Companies that exploit these advancements can give **themselves** an edge in a highly competitive market.
+- 📖 I have tried to sell it **myself** but was not successful, so I would like to place it on consignment with you. *(nhấn mạnh: tự mình)*
+- 🎧 ...it turns out the hydraulic safety switch is turning **itself** off randomly.
+
+### 4. Đại từ sở hữu (yours, mine...)
+- 📖 There are several projects ahead of **yours**. *(= your project)*
+
+### 5. Đại từ chỉ định those / that thay cho danh từ đã nhắc
+- 📖 Belker Auto offers a ten-year warranty for **those** who want greater peace of mind. *(those who = những người mà)*
+- 📖 The desserts we had at Giovanni's Bistro were not as delicious as **those** we enjoyed at Monteverdi's Taverna. *(those = the desserts)*
+- 📖 The report found that employees who take regular breaks are more productive than **those** who take no breaks.
+
+### 6. Đại từ bất định (anyone, something, whoever, one...)
+- 📖 **Anyone** who is unable to attend the quarterly stakeholder meeting is welcome to appoint a representative.
+- 📖 **Something** is preventing the graphic artists from accessing the image files in the main database.
+- 📖 **Whoever** prepares the patient's medical records is required to maintain confidentiality.
+- 📖 From among the seven candidates for the management position, the hiring committee must choose only **one**.
+- 🎧 That print is **one of my favorites**.
+
+### 7. Đại từ hỗ tương (each other / one another)
+- 📖 Please take a moment to congratulate **each other**.
+- 🎧 How do the speakers know **each other**?

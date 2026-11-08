@@ -215,3 +215,40 @@ Ex: × I have a homework to do.
 ✗ She has a beautiful hair.
 
 ✓ She has beautiful hair.
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. A / An với danh từ đếm được số ít (lần đầu nhắc đến)
+- 📖 Customers of Twins Photocopiers are encouraged to contact **a technician** if their machines need repairs.
+- 📖 The city's development committee is looking for **a location** to plant a community garden.
+- 🎧 We signed a contract to create **an ad campaign** for **a new company**.
+- 🎧 Can you give me **a cost estimate**?
+
+### 2. An trước nguyên âm (theo âm, không theo chữ)
+- 📖 Applicants must supply **an audition** video.
+- 📖 Simply place **an order** within one month to receive the discount.
+- 📖 All Stub Master tickets contain **a unique** barcode and may not be printed, copied, or shared. *(unique đọc /juː/ → a)*
+- 📖 Luckily, another customer had canceled a cleaning **an hour** or so before my call... *(h câm → an)*
+- 🎧 So **an international** transaction fee was added to the purchase amount.
+
+### 3. The với vật đã xác định / duy nhất / so sánh nhất / số thứ tự
+- 📖 The Whitetail Institute is **the only** organization that tracks deer populations in rapidly expanding suburban areas.
+- 📖 For **the widest** selection of premium paints and art-making supplies anywhere, visit your nearest Painters' Best store.
+- 📖 For new BASA holders, the monthly cost is waived for **the first** six months.
+- 🎧 You're not **the first** to say that.
+- 🎧 Does your company send out **the same** promotional material every month?
+
+### 4. The + N + of (danh từ được xác định bởi cụm phía sau)
+- 📖 To stop **the spread of** computer viruses, do not open suspicious e-mails.
+- 📖 **The addition of** electric buses to our current fleet has made commuting much more pleasant.
+- 📖 As head of the Poels Museum, Mr. Ahuja oversaw **the acquisition of** several significant works of art.
+
+### 5. Không dùng mạo từ (Ø): danh từ không đếm được / số nhiều chung chung / phương tiện
+- 📖 Mr. Ozawa generally prefers to commute to work **by train** instead of **by car**.
+- 📖 **Advancements** in cloud computing have transformed the gaming industry in many ways.
+- 📖 **Safety** must always be the top priority in each step of the glassblowing process.
+- 🎧 Are you planning to work **at home** tomorrow?

@@ -1179,3 +1179,59 @@ th {
 </table>
 
 </div>
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Hiện tại đơn (thói quen, sự thật, lịch trình)
+- 📖 Mike's Café **offers** a free drink with every meal on Tuesdays from 11 A.M. to 7 P.M.
+- 📖 At Beautyvale Cosmetics, our representatives **answer** customers' inquiries within 24 hours of receipt.
+- 🎧 When **does** the warehouse manager **arrive**?
+- 🎧 How often **do** you **travel** abroad?
+
+### 2. Hiện tại tiếp diễn (đang diễn ra / kế hoạch gần)
+- 📖 Tarateer Pharmaceuticals **is varying** its product line to include over-the-counter medications.
+- 📖 Dr. Cheung **is representing** Silk Valley Hospital at next weekend's medical fair. *(kế hoạch đã sắp xếp)*
+- 📖 Opal City's Community Theater **is holding** auditions for its spring production during the first week of December.
+- 🎧 More and more companies **are selling** clothing and gear for outdoor recreation.
+- 🎧 The restaurant **is** finally **getting** a new stove.
+
+### 3. Quá khứ đơn (hành động đã kết thúc, có mốc thời gian)
+- 📖 Last summer, jazz musician Jay Deswani **performed** on the main concert stage at Waterfront Park.
+- 📖 Conradia Computers abruptly **changed** the direction of its marketing strategy last week.
+- 🎧 Last week, a customer **called** to complain that their food **was** cold by the time they found it.
+- 🎧 What **did** Ife Rotimi **do** last month?
+
+### 4. Hiện tại hoàn thành (since / for / over the past... / already / just)
+- 📖 Rivlyn, Inc., **has recycled** nearly 11 million kilograms of paper waste **over the past decade**.
+- 📖 As chief analytics officer, Mr. Ko **has worked** at Lochston Ltd. with great dedication **for more than twenty years**.
+- 📖 Although her training **has just begun**, Ms. Yu **has already mastered** the company's proprietary accounting software.
+- 📖 **Weakness** in the housing market **has continued** to drag down real estate profits.
+- 🎧 This **has been** an ongoing problem.
+- 🎧 **Have** you always **commuted** by train?
+
+### 5. Hiện tại hoàn thành tiếp diễn
+- 📖 Ever since the Unicycle Café opened for business last May, it **has been hosting** weekly live music events.
+- 📖 We **have been experiencing** problems with the thermostat in the western end of the warehouse.
+- 📖 For more than 40 years, we **have been building** high-quality, eco-friendly bicycles...
+
+### 6. Quá khứ hoàn thành (xảy ra trước một hành động quá khứ khác)
+- 📖 Long before the training program began, Ms. Morris **had revised** the schedule to allow her team to attend.
+- 📖 Tickets for Saturday's football game sold out on Thursday, much sooner than organizers **had anticipated**.
+- 📖 Ms. Clayton was relieved to find that none of her files **had been lost** during the power failure.
+
+### 7. Tương lai đơn / Tương lai tiếp diễn / be going to
+- 📖 Management **will identify** candidates for promotion by the end of the month.
+- 📖 I am excited to share the news that Winnie Liu, our longtime team captain, **will be moving on**.
+- 📖 Harlington has asked me to let all department managers know that Kenji Tanaka... **will be visiting** our corporate headquarters next week.
+- 🎧 Our print shop **is going to have** a sale on shirts.
+- 🎧 ...Select Repair Service **will be closing** on Friday, June 30, so we can complete our quarterly inventory of supplies.
+
+### 8. ⚠️ Mệnh đề thời gian: dùng hiện tại thay cho tương lai
+- 📖 Once Ms. Jeong **receives** the contract, she **will sign** and return it to Allory Pharmaceuticals.
+- 📖 Mr. Swan **will return** to the planning meeting once the interns **have arrived**.
+- 📖 Production of the garments **will begin** two weeks after the contract **is signed**.
+- 🎧 Once you **make** an appointment on the app, a shuttle **will arrive** within fifteen minutes.

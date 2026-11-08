@@ -127,3 +127,30 @@ Khi trạng ngữ chỉ **nơi chốn/phương hướng** đứng đầu câu, t
 - Đảo ngữ với trạng ngữ chỉ nơi chốn → đảo **cả động từ chính**, và chỉ khi chủ ngữ là **danh từ**.
 - Đảo ngữ mang sắc thái **trang trọng, nhấn mạnh**; trong giao tiếp thông thường nên dùng trật tự S + V bình thường.
 - Trong câu điều kiện đảo ngữ, **không** rút gọn *not*.
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Đảo ngữ với Not only ... but (also) (trợ động từ đứng trước chủ ngữ)
+- 📖 **Not only has Mr. Ogbu** diligently worked on the project, but he has also trained Ms. Jeong to continue the work.
+
+### 2. Đảo ngữ trong câu hỏi (dạng phổ biến nhất trong Listening)
+- 🎧 **Isn't there** a discount on this computer monitor?
+- 🎧 **Shouldn't the new floor plan** be finished today?
+- 🎧 **Aren't you** at the office right now?
+- 🎧 **Would you be** able to write the introduction for the workshop?
+
+### 3. Đảo ngữ sau "than / as" trong so sánh (văn trang trọng) — đề dùng dạng không đảo
+- 📖 Tickets for Saturday's football game sold out on Thursday, much sooner **than organizers had anticipated**. *(có thể viết trang trọng: than had organizers anticipated)*
+
+### 4. Cấu trúc "so + adv + that" (dạng chưa đảo) — nền tảng của đảo ngữ So...that
+- 📖 Mr. Kane said he packed **so hastily** this morning **that** he forgot to bring a suit and tie for tomorrow's dinner. *(đảo ngữ: So hastily did he pack that...)*
+
+### 5. Phân từ đầu câu (đảo vị trí để nhấn mạnh — văn viết)
+- 📖 **Once considered** a specialty product, shoes made from recycled materials are now widely available.
+- 📖 **Ideal for conference rooms**, our soundproof panels have been specially designed to absorb unwanted background noise.
+
+> ℹ️ Trong 10 đề ETS 2026 đã quét, đảo ngữ điều kiện (*Should you..., Had I known...*) và đảo ngữ với trạng từ phủ định (*Never, Rarely, Only after...*) **không xuất hiện** — đây là điểm ngữ pháp ít gặp, chỉ cần nhận diện được.

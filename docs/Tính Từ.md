@@ -509,3 +509,53 @@ Humans tend to be scared of the unknown.
 We will arrange to have the deceased returned to his family.
 
 The lecturer poses two questions. The former is a well-known topic of discussion but the latter is completely new to us.
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Tính từ đứng trước danh từ (vị trí bị hỏi nhiều nhất Part 5)
+- 📖 Maswa Bistro began a **cooperative** agreement with local farmers to purchase a set amount of produce each week.
+- 📖 The store's entire inventory of lumber comes from a nearby **commercial** supplier.
+- 📖 Managers at Afton Accounting are urged to provide **constructive** feedback to employees on a regular basis.
+- 📖 All Baraantec Ltd. hand tools undergo **rigorous** inspections to ensure they are free of defects.
+- 🎧 You have so many **delicious** baked goods here.
+
+### 2. Tính từ sau động từ nối (be, become, remain, seem, look...)
+- 📖 It is important to be especially **polite** when in the company of new clients.
+- 📖 Online ordering is **available** on Naito Café's Web site.
+- 📖 Customer loyalty programs are **profitable** for many retail businesses.
+- 📖 Although much of the material was technical in nature, the audience appeared to remain **engaged** throughout Ms. Sharma's presentation.
+- 📖 She has become very **knowledgeable** about our inventory and is able to share her knowledge with customers to complete sales.
+- 🎧 My morning meeting with my client was really **challenging**.
+
+### 3. Tính từ sau tân ngữ (rate/find/consider + O + adj)
+- 📖 A majority of the city's residents rated its transportation app as **acceptable**.
+
+### 4. Tính từ đuôi -ed (cảm xúc của người) vs. -ing (tính chất gây ra)
+- 📖 Ms. Clayton was **relieved** to find that none of her files had been lost during the power failure.
+- 📖 Dozens of **satisfied** customers have posted positive reviews of Stellenbosch Cycle Works.
+- 📖 Our public relations staff was **impressed** with your insights into effective cross-cultural communication.
+- 📖 By far, the most **impressive** result of this program is the renovation of a former industrial building on Paxton Street.
+- 📖 Citing energy efficiency and cost reductions, the presenter made several **convincing** arguments for installing solar panels.
+- 🎧 What does the woman say she is **pleased** about?
+
+### 5. Tính từ + giới từ
+- 📖 The department supervisor is **responsible for** ensuring that all safety gear is stowed properly at the end of the shift.
+- 📖 Employees are **eligible for** more vacation time after they have been employed for five years.
+- 📖 If you are **interested in** scheduling our services, please fill out our online information form on our Web site.
+- 📖 Clausen's Notes is **well-known among** writers and publishers for its in-depth reviews of books.
+- 🎧 Which assignment will Kota be **responsible for**?
+
+### 6. Tính từ + to V
+- 📖 Ms. Choi was **pleased to learn** that she is a finalist in the technology competition.
+- 📖 GT International Foods sells unique products that are **difficult to find** elsewhere.
+- 🎧 Our facility is currently **able to process** only cotton waste.
+
+### 7. Tính từ dễ nhầm hình thức (former, various, exact, additional...)
+- 📖 Ms. Yamada, **former** director of the Midlands Chamber of Commerce, was recently appointed to the state trade commission.
+- 📖 The Seaborne Inn has **various** beautiful guest rooms that can be booked on a monthly basis.
+- 📖 Unfortunately, we cannot provide an **exact** time for the delivery of the new laptops.
+- 📖 The purchasing department ordered six **additional** cases of ink toner.

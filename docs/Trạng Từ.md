@@ -638,3 +638,54 @@ Ex: Such is the startup's success that it attracts a lot of investment.
 Such was Alan's charm that he won everyone over almost instantly.
 
 Such were the project's costs that it was cancelled.
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Trạng từ bổ nghĩa cho động từ (đứng trước động từ thường)
+- 📖 The hiring manager **carefully** considered each applicant's résumé and qualifications.
+- 📖 Conradia Computers **abruptly** changed the direction of its marketing strategy last week.
+- 📖 Dr. Grayston **enthusiastically** accepted the position of school superintendent.
+- 📖 The cash registers at Pirkle Books **automatically** calculate the remaining inventory of books available.
+
+### 2. Trạng từ đứng sau động từ / cuối mệnh đề
+- 📖 The plumbing position requires extensive training, even for those who studied **diligently** in technical school.
+- 📖 The Zwick Air Wave generates a powerful blast to cool your workspace **quickly**.
+- 📖 Critics reacted **favorably** to the new musical, praising the exciting design and impressive choreography.
+- 📖 Two students from Wrisley University worked **collaboratively** on the design of the new library in North Park.
+
+### 3. Trạng từ chen giữa trợ động từ và động từ chính (be/have/modal + adv + V)
+- 📖 As part of its marketing campaign, Elegancia Dishware is **actively** soliciting feedback from customers.
+- 📖 The product team is designing mapping software that can **precisely** locate underground minerals.
+- 📖 Our popular online training materials have **consistently** been shown to improve job seekers' skills.
+- 📖 Because of the high demand for our services, our office was **significantly** expanded last year.
+- 🎧 The restaurant is **finally** getting a new stove.
+
+### 4. Trạng từ bổ nghĩa cho tính từ / trạng từ khác
+- 📖 According to CEO Mayu Yamada, it would not be **financially** responsible to expand the warehouse at this time.
+- 📖 The employee picnic will be postponed until next Friday because of the **unseasonably** cold temperatures this week.
+- 📖 The experiment's initial results were **wildly** different from what was expected.
+- 📖 Line 73 is the oldest **continuously** operating bus line in Raymo City's history.
+- 📖 Mr. Kane said he packed **so hastily** this morning that he forgot to bring a suit and tie for tomorrow's dinner.
+
+### 5. Trạng từ chỉ mức độ / xấp xỉ (nearly, almost, roughly)
+- 📖 The heavy traffic on the way to the airport **nearly** caused Ms. Ikeda to miss her flight.
+- 📖 The installation of new benches throughout Haverford Park will cost **roughly** €5,000.
+- 📖 **Almost** 4,000 Urlvac trash removal systems are in use in the eastern region.
+
+### 6. Trạng từ tần suất (always, usually, often, never...)
+- 📖 Collaboration between multiple agencies is **often** challenging, but our project-based consulting can simplify the process for you.
+- 📖 Safety must **always** be the top priority in each step of the glassblowing process.
+- 🎧 When does your manager **usually** come in?
+- 🎧 **How often** do you charge this device?
+- 🎧 Right, and they **often** travel on short notice.
+
+### 7. Trạng từ thời gian & trạng từ liên kết câu
+- 📖 The next meeting of the planning committee will be held **promptly** at 2 P.M.
+- 📖 Mr. Hanley expressed interest in the position **previously** held by Ms. Akello.
+- 📖 We would like to attend the retreat, but **regrettably** we are unavailable on that date.
+- 🎧 **Unfortunately**, our facility is currently able to process only cotton waste.
+- 🎧 **Actually**, my company has asked me to relocate...

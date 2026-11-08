@@ -225,3 +225,49 @@ There   are many issues to discuss in the meeting.
 Here   is the coffee you ordered.
 
 Here   are the keys to the office.
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Chủ ngữ số ít → động từ số ít
+- 📖 Dynart, Inc., continuously **seeks** new ways to reduce its use of plastics.
+- 📖 The spray-on sealant **acts** as a protective layer that keeps your tiles from getting scratched.
+- 📖 The new technology **allows** trains to switch quickly between electric and diesel modes.
+- 🎧 How often **does the bus stop** at this location?
+
+### 2. Chủ ngữ số nhiều → động từ số nhiều
+- 📖 The cash registers at Pirkle Books automatically **calculate** the remaining inventory of books available. *(chủ ngữ là "registers", không phải "Books")*
+- 📖 The results of the study suggest that more people **struggle** with night driving than previously believed.
+- 🎧 Goods from the ships **are** usually distributed throughout the region by train or by truck.
+
+### 3. Each / Every + N số ít → động từ số ít
+- 📖 **Each department has** been asked to develop an action plan in response to the budget cuts announced last week.
+- 📖 **Each bicycle has** been refurbished by a certified technician to ensure a smooth, safe ride.
+- 🎧 What **is** done at the start of **each shift**?
+
+### 4. One of + N số nhiều → động từ số ít
+- 📖 **One of the more visible updates** to the space **is** the Swansea Spotlight Bistro, a new restaurant with a large seating area that replaces our previous concession stand.
+- 📖 The 100-year-old station **is one of the busiest** in the city, and it is in desperate need of repair.
+
+### 5. Đại từ bất định (anyone, something, whoever, neither) → động từ số ít
+- 📖 **Anyone** who **is** unable to attend the quarterly stakeholder meeting **is** welcome to appoint a representative.
+- 📖 **Something is** preventing the graphic artists from accessing the image files in the main database.
+- 📖 Mr. Ellis and Ms. Barnes were both highly qualified, but **neither got** the job.
+
+### 6. Danh từ tập hợp (staff) — số ít hoặc số nhiều tùy nghĩa
+- 📖 Our public relations **staff was** impressed with your insights into effective cross-cultural communication. *(cả bộ phận = 1 khối)*
+- 📖 Our knowledgeable **staff are** happy to arrange a kayaking excursion or a fishing trip to one of the nearby lakes. *(từng nhân viên)*
+- 🎧 Also, remember that medical **staff are** not permitted to bring food...
+
+### 7. Most of / The majority of / Half of + N → động từ theo danh từ
+- 📖 **Most of the materials** distributed at last month's accounting conference **are** now available online.
+- 📖 **The majority of the company's employees commute** to work by train.
+- 📖 **Nearly half of the toy manufacturers** surveyed **reported** increased sales over the last two years.
+
+### 8. There is / There are + chủ ngữ thật phía sau
+- 📖 **There are** several projects ahead of yours.
+- 📖 **There has been** a noticeable decrease in requests for customer support this quarter.
+- 🎧 **There's** a free shuttle bus to the airport, right?

@@ -551,3 +551,49 @@ Ex: A leg of the table (NOT A leg of the table's)
 ## IV. Thành lập danh từ bằng cách thêm hậu tố (suffix) vào sau tính từ
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Tính từ</td><td style='text-align: center; word-wrap: break-word;'>Hậu tố</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>Danh từ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>happy, sad</td><td style='text-align: center; word-wrap: break-word;'>-ness</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>happiness, sadness</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>active, creative</td><td style='text-align: center; word-wrap: break-word;'>-ity</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>activity, creativity</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>certain, cruel</td><td style='text-align: center; word-wrap: break-word;'>-ty</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>certainty, cruelty</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>private, efficient</td><td style='text-align: center; word-wrap: break-word;'>-cy</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>privacy, efficiency</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>free, wise</td><td style='text-align: center; word-wrap: break-word;'>-dom</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>freedom, wisdom</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>strong, long</td><td style='text-align: center; word-wrap: break-word;'>-th</td><td style='text-align: center; word-wrap: break-word;'>→</td><td style='text-align: center; word-wrap: break-word;'>strength, length</td></tr></table>
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Vị trí danh từ: sau mạo từ / tính từ sở hữu / tính từ (dạng hay hỏi nhất Part 5)
+- 📖 Merryville residents will receive an online status **update** about the ongoing bridge construction project. *(an + adj + N + N)*
+- 📖 To stop the **spread** of computer viruses, do not open suspicious e-mails. *(the + N + of)*
+- 📖 Theta Industries' training program aims to increase the **productivity** of its manufacturing systems.
+- 📖 Analysts cannot say with any **certainty** what the regional demand for electric trucks will be. *(any + N)*
+- 🎧 Did you decide on the **design** for the new logo?
+
+### 2. Danh từ không đếm được (information, equipment, furniture, feedback...)
+- 📖 The staff was grateful for the **information** that Mr. Schuller distributed at the meeting.
+- 📖 Our market research shows that buyers with limited **knowledge** of a product often look for information from expert sources.
+- 🎧 All the staff **feedback** is available.
+- 🎧 Can't you help me install this **furniture**?
+- 🎧 But for perspective, the city spends more than that every year to hire divers to repair broken **equipment**.
+
+### 3. Danh từ chỉ người vs. danh từ chỉ vật (technician / technology, supplier / supply)
+- 📖 Customers of Twins Photocopiers are encouraged to contact a **technician** if their machines need repairs.
+- 📖 Because it submitted the lowest bid, Deb's Gifting has been chosen as the **supplier** of this year's holiday cards.
+- 📖 The Whitetail Institute is the only **organization** that tracks deer populations in rapidly expanding suburban areas.
+
+### 4. Danh từ ghép (N + N)
+- 📖 For a $95 diagnostic **fee**, our mechanics will determine what repairs are needed.
+- 📖 The first 150 visitors to the new fitness park will each receive a complimentary water **bottle**.
+- 📖 A recent study showed that substituting refined sugars with maple syrup may have some important **health** benefits.
+- 🎧 Welcome to the Western Airlines **customer service desk**.
+
+### 5. Danh từ số nhiều sau lượng từ / không có mạo từ
+- 📖 Mr. Lenthe will distribute **copies** of the workshop agenda to all managers by Tuesday morning.
+- 📖 At Blu Hedge, clients receive 1 percent interest, pay no account fees, and can make unlimited **transfers**.
+- 📖 Yuping University has formed **partnerships** with local businesses to create internship opportunities for its students.
+
+### 6. Sở hữu cách ('s)
+- 📖 Chef Malik oversees **Hillside House's menus**, whether the event hosts choose eclectic small plates, a family-style dinner, or a buffet brunch.
+- 📖 The hiring manager carefully considered **each applicant's résumé** and qualifications.
+
+### 7. Hậu tố danh từ (-tion, -ment, -ance, -ity, -ness...)
+- 📖 With its fixed price **assurance**, Omega Cellular guarantees no phone bill increases for three years.
+- 📖 As chief analytics officer, Mr. Ko has worked at Lochston Ltd. with great **dedication** for more than twenty years.
+- 📖 The **addition** of electric buses to our current fleet has made commuting much more pleasant.
+- 📖 **Weakness** in the housing market has continued to drag down real estate profits.

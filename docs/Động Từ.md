@@ -566,3 +566,50 @@ Ex: This book seems boring. (= This book seems to be boring.)
 Ex: She looks unhappy. What happened? [look là liên động từ]
 
 She looked at me angrily. [look là động từ thường]
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Động từ chính sau chủ ngữ (chọn đúng dạng chia)
+- 📖 Dynart, Inc., continuously **seeks** new ways to reduce its use of plastics.
+- 📖 The sudden merger of Alvy Brothers and Craford Enterprises **surprised** most financial analysts.
+- 📖 Last Monday, the department **celebrated** Mr. Okada's recent promotion to manager.
+- 📖 Singer Maria Stanley **revealed** today that she is scheduling a world tour.
+
+### 2. Động từ nguyên mẫu sau modal (can / may / must / will)
+- 📖 After accepting a job offer, a candidate must **complete** all onboarding tasks before the start date.
+- 📖 The real estate agent may **provide** a buyer with a neighborhood analysis upon request.
+- 📖 Nonprofit groups **may submit** up to three applications for funding consideration during any given calendar year.
+- 🎧 Can you **give** me a cost estimate?
+
+### 3. Ngoại động từ + tân ngữ (chọn nghĩa đúng — dạng từ vựng Part 5)
+- 📖 Beachside Inn is the perfect place to **host** an event for your corporate clients.
+- 📖 Manufacturing all its products in-house allows Long Bridge Steel Corp. to **control** every aspect of the production process.
+- 📖 Pink Geranium Coffee has struggled to **distinguish** its new bottled espresso from similar beverages on the market.
+- 📖 The security officer at the front gate will **instruct** delivery drivers as to where to drop off packages.
+
+### 4. Nội động từ (không có tân ngữ)
+- 📖 After months of planning, the Lanton Bookstore school reading program will finally **commence** in October.
+- 📖 The ongoing shortage of hardwood has caused the price of certain furniture items to **soar**.
+- 📖 The newspaper article describes ways job seekers can **compensate for** having little workplace experience. *(nội động từ + giới từ)*
+
+### 5. Động từ + tân ngữ + to V (allow / ask / urge / encourage)
+- 📖 Carter Department Store **allows customers to place** items on hold for up to 24 hours.
+- 📖 Managers at Afton Accounting **are urged to provide** constructive feedback to employees on a regular basis.
+- 📖 A survey of new car buyers **asked them to rank** features in order from most to least important.
+- 🎧 Actually, my company **has asked me to relocate**...
+
+### 6. Động từ gây khiến: help / let / make + O + V nguyên mẫu
+- 📖 Please complete the questionnaire to **help our team better understand** the financial services you are interested in.
+- 📖 Please take a moment to go through it and **let us know** if you have any questions.
+- 🎧 In-depth user research will **help us create** a better online banking application.
+- 🎧 OK, **let me** just **find** the e-mail that has it.
+
+### 7. Động từ đi với giới từ / cấu trúc cố định
+- 📖 Handi Office Supplies' new desk organizers **serve as** practical and stylish additions to any office workstation.
+- 📖 The spray-on sealant **acts as** a protective layer that keeps your tiles from getting scratched.
+- 📖 The Exprite Foundation Board of Directors **is composed of** nine members who are elected annually by the public.
+- 🎧 You think we should **focus on** advertising on social media, right?

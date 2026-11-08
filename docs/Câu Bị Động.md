@@ -123,3 +123,53 @@ Ex: The window ----- (break) during the storm. → was broken (cửa sổ *bị*
 3. **Động từ khuyết thiếu + bị động:** modal luôn đi với **be** chứ không chia theo thì.
 
 Ex: All employees ----- (require) to wear safety gear. → are required (hiện tại) / must be required (sai vì modal + verb gốc, không phải "to wear" trực tiếp sau modal)
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Bị động thì hiện tại / quá khứ đơn
+- 📖 The Exprite Foundation Board of Directors **is composed** of nine members who are elected annually by the public.
+- 📖 It **was founded** by his great-grandfather Angus Milne.
+- 📖 All our bicycles **are made** by hand in our production facility in Kuala Lumpur with parts made by local craftspeople.
+- 🎧 Goods from the ships **are** usually **distributed** throughout the region by train or by truck.
+- 🎧 So an international transaction fee **was added** to the purchase amount.
+- 🎧 Where **are** the safety goggles **kept**?
+
+### 2. Bị động thì hoàn thành (has/have been + V3)
+- 📖 Poshy Shoes vice president Lucille Jeris **has been promoted** to president of the company.
+- 📖 The Pacific Coast Sunset Run **has been rescheduled** to August 31 because of bad weather.
+- 📖 Brile Construction's contract for the mall development project **has finally been verified** by the city supervisor.
+- 🎧 Please note that in order to accommodate the large number of guests who signed up for the afternoon panel discussion, that event **has been moved** to Exhibit Hall B.
+- 🎧 Links to the registration form **have been e-mailed**.
+
+### 3. Bị động thì tương lai / modal (will/must/can + be + V3)
+- 📖 Given the forecast for rain on Saturday, the ceremony **will be held** indoors at the Raheen Gallery.
+- 📖 A full-scale review **will be conducted** by the accounting department.
+- 📖 Any document marked "Confidential" **must be handled and stored** carefully.
+- 📖 All applications **must be received** by March 31.
+- 🎧 Some profits **will be donated** to a charity.
+- 🎧 What **should be retrieved** from storage?
+
+### 4. Bị động thì tiếp diễn (is being + V3)
+- 🎧 What type of event **is being held** tonight?
+- 🎧 Where is the conference **being held**?
+
+### 5. Bị động + to V (be asked/expected/required/encouraged to V)
+- 📖 Tourists visiting Star Island **are asked to respect** the privacy of residents.
+- 📖 Customers of Twins Photocopiers **are encouraged to contact** a technician if their machines need repairs.
+- 📖 Whoever prepares the patient's medical records **is required to maintain** confidentiality.
+- 📖 The Southport manufacturing plant **is expected to begin** production in three days.
+- 🎧 ...all employees **will be permitted to work** remotely twice a week.
+
+### 6. Phân biệt chủ động / bị động (dựa vào tân ngữ)
+- 📖 Dr. Cheung **is representing** Silk Valley Hospital at next weekend's medical fair. *(có tân ngữ → chủ động)*
+- 📖 Our new app is **specifically designed** to provide data-driven insights to investment professionals. *(không có tân ngữ → bị động)*
+- 📖 After leaving his official government role, Dr. Beasly **was named** Director of the Nanboro Youth Farming Program.
+
+### 7. Rút gọn mệnh đề bị động (V3 đứng sau danh từ)
+- 📖 Mr. Hanley expressed interest in the position **previously held** by Ms. Akello.
+- 📖 Any document **marked** "Confidential" must be handled and stored carefully.
+- 📖 Most of the materials **distributed** at last month's accounting conference are now available online.

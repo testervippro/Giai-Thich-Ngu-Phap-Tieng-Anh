@@ -270,3 +270,56 @@ Với not only...but also, đảo ngữ khi câu bắt đầu với not only.
 Ex: Not only is she a good student, but she also helps others.
 
 Bạn đã học về cấu trúc so sánh bằng (as... as) trong bài Các phép so sánh của tính từ và trạng từ. Trong phần này, chúng ta biết thêm rằng as... as là cặp liên từ tương quan.
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Liên từ đẳng lập (and, but, or, so)
+- 📖 In October, Mr. Sakamoto will leave for New Zealand **and** will oversee the opening of the new Auckland branch.
+- 📖 Mr. Takajian may be an entry-level employee, **but** he does not hesitate to take initiative.
+- 📖 Visitors must park in the designated parking area **or** risk having their vehicle towed.
+- 📖 Bina Dal always wanted to become a diplomat, **so** she studied international relations at university.
+- 🎧 The container was still sealed, **and** the customer accepted it, **so** it turned out OK in the end.
+
+### 2. Liên từ tương quan (both...and, either...or, neither, not only...but also)
+- 📖 Graber hair and nail growth supplements come in **both** pill **and** liquid form.
+- 📖 Mr. Ellis and Ms. Barnes were both highly qualified, but **neither** got the job.
+- 📖 I would like to arrange a site visit with my associate Peter Cumberland **either** this week **or** next.
+- 📖 **Not only** has Mr. Ogbu diligently worked on the project, **but** he has **also** trained Ms. Jeong to continue the work.
+- 📖 During checkout, cashiers must be able to scan purchased items accurately **as well as** field questions from customers.
+
+### 3. Liên từ chỉ sự nhượng bộ (although, though, even though, while)
+- 📖 **Though** it is occasionally inconvenient, Mr. Ohtani expects all team members to attend his weekly meeting.
+- 📖 **Although** some tickets to the concert are still available, all the best seats have already been taken.
+- 📖 **While** the hotel does not have a restaurant on site, there are many dining options nearby.
+- 📖 Mr. Olivero praised the film in his review, **even though** he personally disliked its aesthetic style.
+- 🎧 **Although** the next tournament's in the fall, the T-shirts were ordered very early.
+
+### 4. Liên từ chỉ thời gian (once, when, whenever, before, after, until)
+- 📖 Mr. Swan will return to the planning meeting **once** the interns have arrived.
+- 📖 Patrons are asked to silence their phones **when** the show begins.
+- 📖 The new payroll system will send an e-mail to employees **whenever** a manager edits their time sheet.
+- 📖 Employees are eligible for more vacation time **after** they have been employed for five years.
+- 🎧 **Once** you make an appointment on the app, a shuttle will arrive within fifteen minutes.
+
+### 5. Liên từ chỉ nguyên nhân / mục đích / điều kiện (because, so that, in case, if)
+- 📖 **Because** the new branch office was understaffed, more workers were hired.
+- 📖 The finance director gave his approval **so that** the project can move forward.
+- 📖 The order of the speakers has been changed **in case** Mr. Chen arrives late.
+- 📖 Contact the hotel's main office **if** you wish to receive daily linen service.
+- 🎧 Please close the door **so that** the presentation can start.
+- 🎧 This is alarming **because** it compromises the freshness and safety of our food.
+
+### 6. ⚠️ Liên từ vs. giới từ (although vs. despite, because vs. because of)
+- 📖 **Despite** a slight decline in revenue from the previous quarter, Blakely Components is moving forward with its expansion plan. *(+ cụm danh từ)*
+- 📖 **Despite the fact that** the use of social media is widespread, many people still rely on newspapers for fact-checked information. *(despite the fact that + mệnh đề)*
+- 📖 **Because of** efficient project management, Sparkware's latest software program was released on time. *(+ cụm danh từ)*
+
+### 7. Trạng từ liên kết (however, therefore, as a result, in addition)
+- 📖 **As a result**, tin traders predict some moderation in prices as supplies rise.
+- 📖 **Furthermore**, market research shows that a Web site can help build a loyal customer base.
+- 📖 **Therefore**, the supervisor must also be able to perform construction and maintenance work as needed...
+- 🎧 **However**, starting next month, our company will launch a research and development division...

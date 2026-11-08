@@ -524,3 +524,56 @@ Ex: I wish I was/ were slimmer so I could wear my favourite dress again.
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Cấu trúc</td><td style='text-align: center; word-wrap: break-word;'>Thi của mệnh đề chính</td><td style='text-align: center; word-wrap: break-word;'>Động từ đứng sau it's time/would rather</td><td style='text-align: center; word-wrap: break-word;'>Ý nghĩa</td><td style='text-align: center; word-wrap: break-word;'>Ví dụ minh hoạ</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>It's time + (for someone) + to-Infinitive</td><td style='text-align: center; word-wrap: break-word;'>Hiện tại</td><td style='text-align: center; word-wrap: break-word;'>to-Infinitive</td><td style='text-align: center; word-wrap: break-word;'>Đã đến lúc ai đó nên làm gì (gợi ý nhẹ nhàng)</td><td style='text-align: center; word-wrap: break-word;'>It's time to go to bed. It's time for us to leave.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>It's time + S + V₂</td><td style='text-align: center; word-wrap: break-word;'>Hiện tại</td><td style='text-align: center; word-wrap: break-word;'>Quá khứ đơn (V₂)</td><td style='text-align: center; word-wrap: break-word;'>Đã đến lúc ai đó nên làm gì nhưng vẫn chưa làm (mang ý phàn nàn)</td><td style='text-align: center; word-wrap: break-word;'>It's time you went to bed. It's time we left.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Would rather + V(baro-inf.)</td><td style='text-align: center; word-wrap: break-word;'>Hiện tại / tương lai</td><td style='text-align: center; word-wrap: break-word;'>bare-infinitive</td><td style='text-align: center; word-wrap: break-word;'>Thích làm điều gì đó hơn (với chính chủ ngữ)</td><td style='text-align: center; word-wrap: break-word;'>I'd rather stay home tonight. We'd rather work together on this.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Would rather +S + V;</td><td style='text-align: center; word-wrap: break-word;'>Hiện tại / tương lai</td><td style='text-align: center; word-wrap: break-word;'>Quá khứ đơn (V₂)</td><td style='text-align: center; word-wrap: break-word;'>Muốn người khác làm điều gì đó ở hiện tại/ tương lai</td><td style='text-align: center; word-wrap: break-word;'>I'd rather you stayed here. He'd rather she didn't go.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Would rather +S + had + V;</td><td style='text-align: center; word-wrap: break-word;'>Hiện tại / quá khứ</td><td style='text-align: center; word-wrap: break-word;'>Quá khứ hoàn thành</td><td style='text-align: center; word-wrap: break-word;'>Muốn người khác đã làm điều gì đó trong quá khứ</td><td style='text-align: center; word-wrap: break-word;'>I'd rather you had told me the truth.</td></tr></table>
 
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Mệnh đề quan hệ với who (chỉ người)
+- 📖 The committee members **who** attended the meeting are listed in the appendix.
+- 📖 Pet Orbit customers **who** want receipts delivered by e-mail can opt for this service.
+- 📖 Central Science Museum hosts online seminars by experts **who** cover topics related to information technology.
+- 🎧 We already have a list of performers **who** have agreed to appear.
+- 🎧 ...the large number of guests **who** signed up for the afternoon panel discussion...
+
+### 2. Mệnh đề quan hệ với which / that (chỉ vật)
+- 📖 All of our tablet computers come with a one-year warranty **that** includes hardware repairs and replacements.
+- 📖 Farist Bakery, **which** specializes in dessert catering, is located near the Liverpool Convention Complex. *(mệnh đề không xác định, có dấu phẩy)*
+- 📖 Ten board members plan to attend, **which** is just enough to approve the proposal. *(which thay cho cả mệnh đề trước)*
+- 🎧 OK, let me just find the e-mail **that** has it.
+
+### 3. Giới từ + which / where / when
+- 📖 The lecture will take place at 6:00 P.M., **after which** attendees may ask questions.
+- 📖 Once I arrived at Charlesville Central Station, I rode the elevator to the basement, **where** the light-rail train platforms are located.
+- 🎧 ...Conference in Chicago, **where** she has been invited to deliver the keynote speech.
+
+### 4. Lược bỏ đại từ quan hệ (tân ngữ)
+- 📖 The desserts **we had** at Giovanni's Bistro were not as delicious as those **we enjoyed** at Monteverdi's Taverna.
+- 📖 The staff was grateful for the information **that** Mr. Schuller distributed at the meeting.
+- 🎧 Please open the laptops **you were given** this morning...
+
+### 5. Rút gọn mệnh đề quan hệ (V-ing / V3)
+- 📖 All documents **pertaining** to the company merger will become available to the public within one year. *(= which pertain)*
+- 📖 Mr. Hanley expressed interest in the position **previously held** by Ms. Akello. *(= which was previously held)*
+- 📖 Nearly half of the toy manufacturers **surveyed** reported increased sales over the last two years.
+- 📖 Tourists **visiting** Star Island are asked to respect the privacy of residents.
+
+### 6. Mệnh đề danh từ (what / which / whether / how / that)
+- 📖 Analysts cannot say with any certainty **what the regional demand for electric trucks will be**.
+- 📖 After reading several reviews, Mr. Kim was able to decide **which printer to buy** for the office.
+- 📖 Let me know by 12 October **whether you will be able to attend**.
+- 📖 Ms. Choi was pleased to learn **that she is a finalist** in the technology competition.
+- 🎧 They have some ideas about **how we can increase sales of our denim blue jeans**.
+- 🎧 We'll need to decide **who we want to send** to represent our company at the trade show.
+
+### 7. Đại từ quan hệ kép (whoever / whichever / whatever)
+- 📖 **Whoever** prepares the patient's medical records is required to maintain confidentiality.
+- 📖 **Whichever** route they choose, it should take the management team approximately four hours to drive to the hotel in Antibes.
+
+### 8. Mệnh đề trạng ngữ & rút gọn mệnh đề trạng ngữ
+- 📖 **After accepting** a job offer, a candidate must complete all onboarding tasks before the start date. *(= After he/she accepts)*
+- 📖 **Once considered** a specialty product, shoes made from recycled materials are now widely available.
+- 📖 **Given** Latoya Model Management's sound reputation, aspiring models can expect a flourishing career.
+- 📖 **Citing** energy efficiency and cost reductions, the presenter made several convincing arguments for installing solar panels.
+- 📖 **Using** unique colors and styles, the decor experts at Mamie's Interiors bring a fashionable look to homes.

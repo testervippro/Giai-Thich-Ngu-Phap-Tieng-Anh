@@ -396,3 +396,45 @@ Ex:
 Groceries are getting less and less affordable.  
 Milo meets his friends less and less often as he grows older.  
 When I checked my answers with my friends, I became less and less confident in my test results.
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. So sánh hơn: adj-er / more + adj + than
+- 📖 The presentations were **briefer than** we expected, so there was ample time left for questions.
+- 📖 The report found that employees who take regular breaks are **more productive than** those who take no breaks.
+- 📖 The new Dorvale 500 exercise machine is significantly **heavier and sturdier than** the previous model. *(significantly bổ nghĩa cho so sánh hơn)*
+- 📖 Even with our staff working overtime to catch up, it may take **longer than usual** for customers to receive their bicycles.
+- 🎧 That bridge will take you there **faster**.
+
+### 2. So sánh hơn với danh từ: more / fewer / less + N
+- 📖 The efficient redesign of the airline terminal led to **fewer** flight delays.
+- 📖 Even though you have **less space** for vehicles than we normally require, Pink Ridge Ranch might be suitable for our smaller events with **fewer than** 25 people.
+- 📖 The results of the study suggest that **more people** struggle with night driving **than** previously believed.
+
+### 3. Từ nhấn mạnh so sánh hơn (much, even, significantly, a little)
+- 📖 Tickets for Saturday's football game sold out on Thursday, **much sooner than** organizers had anticipated.
+- 📖 This summer promises to be **even busier than** usual, as business has increased by 15% since this time last year.
+- 📖 It's taking **a little longer than** I had expected.
+- 📖 The addition of electric buses to our current fleet has made commuting **much more pleasant**.
+
+### 4. So sánh nhất: the + adj-est / the most + adj
+- 📖 Of all the mistakes people make in the office, not proofreading their e-mails is one of **the most common**.
+- 📖 For **the widest** selection of premium paints and art-making supplies anywhere, visit your nearest Painters' Best store.
+- 📖 Because it submitted **the lowest** bid, Deb's Gifting has been chosen as the supplier of this year's holiday cards.
+- 📖 Line 73 is **the oldest** continuously operating bus line in Raymo City's history.
+- 🎧 ...**the most convenient** spot is as close to the platform as possible.
+
+### 5. So sánh ngang bằng: as + adj/adv + as
+- 📖 The desserts we had at Giovanni's Bistro were **not as delicious as** those we enjoyed at Monteverdi's Taverna.
+- 📖 Please contact the office **as soon as possible** to reschedule your appointment.
+- 🎧 Hopefully, it'll be **as successful as** last year.
+- 🎧 ...which, as you know, is **not as fast as** the new one.
+- 🎧 I'll need you to start working **as soon as possible**.
+
+### 6. So sánh với danh từ: as many / as much + N + as
+- 📖 You are encouraged to answer **as many questions as possible** within the time allowed.
+- 📖 Please take a few minutes to complete the form with **as much detail as possible**.

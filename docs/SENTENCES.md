@@ -1476,3 +1476,63 @@ Thay đổi động từ tường thuật cho phù hợp với từng loại câ
 - Áp dụng các quy tắc chuyển đổi thì, đại từ, và các từ chỉ thời gian, nơi chốn cho từng phần của câu.
 
 Đảm bảo tính mạch lạc và thống nhất trong toàn bộ câu hỗn hợp.
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Câu đơn (S + V + O)
+- 📖 Dr. Grayston enthusiastically accepted the position of school superintendent.
+- 🎧 The restaurant is finally getting a new stove.
+
+### 2. Câu ghép (nối bằng and / but / so / or)
+- 📖 Mr. Takajian may be an entry-level employee, **but** he does not hesitate to take initiative.
+- 📖 Bina Dal always wanted to become a diplomat, **so** she studied international relations at university.
+- 🎧 The container was still sealed, **and** the customer accepted it, **so** it turned out OK in the end.
+
+### 3. Câu phức (mệnh đề chính + mệnh đề phụ)
+- 📖 **Because the new branch office was understaffed**, more workers were hired.
+- 📖 **While the hotel does not have a restaurant on site**, there are many dining options nearby.
+- 🎧 **Although the next tournament's in the fall**, the T-shirts were ordered very early.
+
+### 4. Câu hỏi Yes/No & câu hỏi phủ định (Part 2 Listening)
+- 🎧 **Did you** put the brochures in the lobby?
+- 🎧 **Have you** always commuted by train?
+- 🎧 **Isn't** the registration deadline tomorrow?
+- 🎧 **Shouldn't** we update our security protocol?
+- 🎧 **Can't** you help me install this furniture?
+
+### 5. Câu hỏi Wh-
+- 🎧 **Where** is the conference being held?
+- 🎧 **When** does the warehouse manager arrive?
+- 🎧 **How often** does the bus stop at this location?
+- 🎧 **What task** would you like me to start with?
+- 🎧 **Who's** coming in tomorrow to help us prepare for the grand opening?
+- 📖 Yes, **how soon** can you complete the request?
+
+### 6. Câu hỏi đuôi / câu hỏi trần thuật (..., right?)
+- 🎧 There's a free shuttle bus to the airport, **right**?
+- 🎧 You already bought a new part for the sprinkler system, **right**?
+- 🎧 You think we should focus on advertising on social media, **right**?
+- 📖 There are a couple of alternative spaces, **right**?
+
+### 7. Câu đề nghị / yêu cầu lịch sự
+- 🎧 **Would you like** the report to be e-mailed or printed out?
+- 🎧 **Could you** look at the revised logo tomorrow?
+- 🎧 **Can you** forward me the e-mail?
+- 🎧 **Why don't you** tell me more about your sports equipment.
+- 📖 **Would you mind** providing us with a copy of the article you referenced?
+- 📖 **Let's** check out the particulars together later today after we complete our inventory work.
+
+### 8. Câu mệnh lệnh
+- 📖 **Please remove** the boxes left in the staff lounge by 5 P.M.
+- 📖 **Contact** the hotel's main office if you wish to receive daily linen service.
+- 📖 To stop the spread of computer viruses, **do not open** suspicious e-mails.
+- 🎧 **Please close** the door so that the presentation can start.
+- 🎧 **Please give** your muscles time to recover after working so hard.
+
+### 9. Câu cảm thán
+- 📖 We will continue to dream up new and exciting plans for the future**!**
+- 📖 I had never seen anything like that**!**

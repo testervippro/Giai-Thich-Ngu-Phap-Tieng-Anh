@@ -145,3 +145,54 @@ Ex: Smoking is not allowed in this building. (chủ ngữ)
 Thank you for attending the meeting on short notice. (sau giới từ "for")
 
 He is responsible for managing the budget. (sau giới từ "for")
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Động từ + to V (decide, plan, prefer, promise, expect, aim...)
+- 📖 After reading several reviews, Mr. Kim was able to decide which printer **to buy** for the office.
+- 📖 Mr. Ozawa generally **prefers to commute** to work by train instead of by car.
+- 📖 Mr. Garcia **promised to become** a mentor to Ms. Winston after he retired.
+- 📖 Theta Industries' training program **aims to increase** the productivity of its manufacturing systems.
+- 📖 The customer **neglected to buy** an extended warranty on the dishwasher, so it is not eligible for a free repair.
+- 🎧 They **expect to complete** the repair within the hour.
+- 🎧 We'll **need to decide** who we want to send to represent our company at the trade show.
+
+### 2. Động từ + O + to V
+- 📖 Carter Department Store **allows customers to place** items on hold for up to 24 hours.
+- 📖 Tourists visiting Star Island **are asked to respect** the privacy of residents.
+- 📖 The heavy traffic on the way to the airport nearly **caused Ms. Ikeda to miss** her flight.
+
+### 3. To V chỉ mục đích (to / in order to / so as to)
+- 📖 The Serenica dining table comes with levelers **to ensure** its stability on uneven surfaces.
+- 📖 **In order to** access the building, enter the code listed on the tenant directory.
+- 📖 To stop the spread of computer viruses, do not open suspicious e-mails.
+- 🎧 Please note that **in order to accommodate** the large number of guests..., that event has been moved to Exhibit Hall B.
+
+### 4. Động từ + V-ing (suggest, recommend, consider, enjoy, avoid...)
+- 📖 I **suggest using** that paper again.
+- 📖 Given our time constraints, we should **consider having** auditions done this way.
+- 📖 I wasn't very good, but I did **enjoy playing**.
+- 🎧 What does the man **suggest doing**?
+- 🎧 Which bus stop does the speaker **recommend getting off** at?
+- 🎧 Who does the man **suggest contacting**?
+
+### 5. Giới từ + V-ing
+- 📖 The board of directors has voted to award Mr. Mitrakos a bonus for his role **in obtaining** the international contract.
+- 📖 Mortgage brokers generally prefer to review all the financial documents **before meeting** with a new client.
+- 📖 **After extensively reviewing** our hiring policies, the consultant recommended a simpler process.
+- 📖 Mr. Nakayama was named Employee of the Year, **despite being** new to the company.
+- 🎧 Thank you **for working** so hard to make sure they ran smoothly.
+
+### 6. Help / let / make + O + V nguyên mẫu
+- 📖 Please complete the questionnaire to **help our team better understand** the financial services you are interested in.
+- 🎧 Can't you **help me install** this furniture?
+- 🎧 Who's coming in tomorrow to **help us prepare** for the grand opening?
+
+### 7. Would like / Would you like + to V
+- 📖 I **would like to get** a quote for custom curtains for my dining room using the Manchester fabric.
+- 🎧 **Would you like** the report **to be e-mailed** or printed out?
+- 🎧 **Would you be able to write** the introduction for the workshop?

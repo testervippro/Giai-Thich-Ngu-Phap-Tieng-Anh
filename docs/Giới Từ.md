@@ -739,3 +739,51 @@ depend on/ rely on: dựa vào/ phụ thuộc vào
 Insist on: khăng khăng
 
 spend on: tiêu xài
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Giới từ thời gian (by, until, before, after, following, over, within)
+- 📖 Please remove the boxes left in the staff lounge **by** 5 P.M. *(by = hạn chót)*
+- 📖 The contract for the renovation of the park will not be awarded **until** all bids have been submitted.
+- 📖 In celebration of Ms. Tseng's promotion, tea and cookies will be served **following** the meeting. *(following = after)*
+- 📖 Abelia Dairy Company has undergone several changes in leadership **over** the past ten years.
+- 🎧 They expect to complete the repair **within** the hour.
+- 🎧 Once you make an appointment on the app, a shuttle will arrive **within** fifteen minutes.
+
+### 2. Giới từ nơi chốn (at, near, behind, opposite, among)
+- 📖 Ahearn Accessories' retail shop is located **at** Gordon Avenue and Hutch Street.
+- 📖 Farist Bakery, which specializes in dessert catering, is located **near** the Liverpool Convention Complex.
+- 📖 As Mr. Rzayev requested, the extra wood pallets have been stacked **behind** the old warehouse.
+- 📖 Austina Gallery is located at the northern end of Arch Street, **opposite** the Verdigris Bistro.
+- 📖 Margie Fung was **among** the winners at Sternetz Institute's art competition.
+
+### 3. Giới từ phương tiện / cách thức (by, with, using)
+- 📖 The majority of the company's employees commute to work **by** train.
+- 📖 Customer service representatives can be reached **by** calling 800-555-0121 between 8:00 A.M. and 4:00 P.M.
+- 📖 Mr. Sato will call into the meeting **using** the hotel's wireless network.
+- 🎧 Goods from the ships are usually distributed throughout the region **by train or by truck**.
+
+### 4. Giới từ kép / cụm giới từ (despite, because of, in addition to, rather than...)
+- 📖 **Despite** critical reviews, the movie was a great success at the box office.
+- 📖 **Because of** its use on home-cooking shows, consumer demand for Silvershine Cookware has doubled.
+- 📖 **In addition to** fresh fruit and vegetables, vendors at the Wattville Farm Market also sell various handmade goods.
+- 📖 Milltown Hospital's cafeteria serves lunch seven days a week **rather than** only on weekdays.
+- 📖 **According to** our guarantee, your order will arrive in three days or we will refund 50 percent of the cost.
+- 📖 Each department has been asked to develop an action plan **in response to** the budget cuts announced last week.
+- 📖 **Owing to** the weather, we need to reschedule your appointment for tree removal service.
+- 🎧 ...our delivery service can pick up our packages twice a day **instead of** just once.
+
+### 5. Giới từ + V-ing / số lượng
+- 📖 The software uses computer memory efficiently, allowing users to open **up to** five files simultaneously.
+- 📖 Leigh Ainsley, the featured soloist in tonight's performance, began taking violin lessons **at the age of** five.
+- 📖 The accounting department is in first place in the office fund-raising challenge, **with** just two more days to go.
+
+### 6. Giới từ đi sau danh từ / động từ
+- 📖 To provide feedback **about** your recent dental appointment, please respond to this brief survey.
+- 📖 Prompt submission of travel vouchers **to** the accounts department will expedite refunds.
+- 📖 Mr. Davis **from** the marketing department will attend Monday's meeting with the client.
+- 🎧 When does the woman prefer to **meet with** an investor?

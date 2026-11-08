@@ -307,3 +307,49 @@ Ex: ✓ He answered all of the questions correctly.
 ✓ All of us are highschool students.
 
 ✗ All us are highschool students.
+
+---
+
+## 🎯 VÍ DỤ THỰC TẾ TỪ ĐỀ ETS 2026 (READING & LISTENING)
+
+> Câu trích nguyên văn từ đề thật — 📖 = [Reading](toeic-ets-2026-reading.md) (Part 5 đã điền đáp án đúng), 🎧 = Listening transcript. Phần **in đậm** là điểm ngữ pháp cần chú ý.
+
+### 1. Several / Many / A few + N số nhiều đếm được
+- 📖 Abelia Dairy Company has undergone **several changes** in leadership over the past ten years.
+- 📖 After **a few months**, she became known around town as the Muffin Lady.
+- 📖 The few questions she was unable to answer were quickly addressed by her mentor, Max.
+- 🎧 You have **so many delicious baked goods** here.
+- 🎧 I think we should hire **a few more people** to work in the mornings.
+
+### 2. Much / A little + N không đếm được
+- 📖 Please take a few minutes to complete the form with as **much detail** as possible.
+- 📖 The newspaper article describes ways job seekers can compensate for having **little workplace experience**. *(little = rất ít, gần như không)*
+- 🎧 It looks like the hospital has **a little money**...
+
+### 3. Fewer (N đếm được) vs. Less (N không đếm được)
+- 📖 The efficient redesign of the airline terminal led to **fewer flight delays**.
+- 📖 Even though you have **less space** for vehicles than we normally require, Pink Ridge Ranch might be suitable for our smaller events with **fewer than 25 people**.
+
+### 4. Each / Every + N số ít
+- 📖 The hiring manager carefully considered **each applicant's** résumé and qualifications.
+- 📖 Maswa Bistro began a cooperative agreement with local farmers to purchase a set amount of produce **each week**.
+- 📖 Mike's Café offers a free drink with **every meal** on Tuesdays from 11 A.M. to 7 P.M.
+- 🎧 Does your company send out the same promotional material **every month**?
+
+### 5. Most of / All of / Nearly all of / Half of + the/its/her + N
+- 📖 **Most of the materials** distributed at last month's accounting conference are now available online.
+- 📖 During the past quarter, **nearly all of** Renafy Technology's sales came from one region.
+- 📖 **Nearly half of the** toy manufacturers surveyed reported increased sales over the last two years.
+- 📖 Ms. Clayton was relieved to find that **none of** her files had been lost during the power failure.
+- 🎧 **Many of you** complained about how slow and hard it is to use the car lift...
+
+### 6. A majority of / A range of / A variety of / Dozens of
+- 📖 **A majority of** the city's residents rated its transportation app as acceptable.
+- 📖 Professor McNamara has published books on **a diverse range of** topics.
+- 📖 **Dozens of** satisfied customers have posted positive reviews of Stellenbosch Cycle Works.
+- 📖 In the Reading test, you will read **a variety of** texts and answer **several** different types of reading comprehension questions.
+
+### 7. Enough + N / adj + enough
+- 📖 Ten board members plan to attend, which is just **enough** to approve the proposal.
+- 📖 Remember that your photos should be **big enough** to look appealing on larger computer monitors.
+- 📖 Reynoso said that **enough funds** have already been secured to enable the FGS to begin garden construction in mid-April.
