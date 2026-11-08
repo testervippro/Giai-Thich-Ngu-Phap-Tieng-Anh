@@ -17,6 +17,7 @@
 - [CỤM ĐỘNG TỪ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md)
 - [CÂU BỊ ĐỘNG](C%C3%A2u%20B%E1%BB%8B%20%C4%90%E1%BB%99ng.md)
 - [ĐỘNG TỪ NGUYÊN MẪU VÀ DANH ĐỘNG TỪ](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md)
+  - [🧠 Phân biệt V-ing và tính từ -ing/-ed](phan-biet-v-ing-va-tinh-tu-ing.md)
 - [GIỚI TỪ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md)
 - [LIÊN TỪ](Li%C3%AAn%20T%E1%BB%AB.md)
 - [MẠO TỪ](M%E1%BA%A1o%20T%E1%BB%AB.md)
