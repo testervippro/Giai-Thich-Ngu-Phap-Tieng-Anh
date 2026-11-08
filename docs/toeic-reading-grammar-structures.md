@@ -6,6 +6,11 @@
 
 > Tổng cộng **80 cấu trúc** trên 16 / 17 chương, trong đó **28** có ví dụ ở cả Reading và Listening.
 
+
+> 🗺️ **MỚI — Map toàn bộ đề vào 19 chương:** [Bản đồ ngữ pháp ETS 2026](ets-ngu-phap-ban-do.md). Trang này phân tích tự động **3.645 câu** Reading + Listening và gom theo đúng thứ tự chương của [Xem Tất Cả](all.md), có số lần xuất hiện và câu ví dụ.
+>
+> 🧭 **Phân tích ngữ pháp từng câu theo test:** [Test 1](ets-ngu-phap-test-01.md) · [Test 2](ets-ngu-phap-test-02.md) · [Test 3](ets-ngu-phap-test-03.md) · [Test 4](ets-ngu-phap-test-04.md) · [Test 5](ets-ngu-phap-test-05.md) · [Test 6](ets-ngu-phap-test-06.md) · [Test 7](ets-ngu-phap-test-07.md) · [Test 8](ets-ngu-phap-test-08.md) · [Test 9](ets-ngu-phap-test-09.md) · [Test 10](ets-ngu-phap-test-10.md)
+
 ---
 
 ## Danh Từ — [xem chương đầy đủ](Danh%20T%E1%BB%AB.md)

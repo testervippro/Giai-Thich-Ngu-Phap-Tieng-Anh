@@ -1,6 +1,8 @@
 # 📖 XEM TẤT CẢ
 
 > Toàn bộ nội dung trên 1 trang — Ctrl+F để tìm nhanh. (Từ điển Oxford không gộp vì quá dài.)
+>
+> 🎯 **Luyện với đề thật:** [🗺️ Bản đồ ngữ pháp ETS 2026](ets-ngu-phap-ban-do.md) map 3.645 câu Reading & Listening vào 19 chương bên dưới · Phân tích từng câu: [Test 1](ets-ngu-phap-test-01.md) · [Test 2](ets-ngu-phap-test-02.md) · [Test 3](ets-ngu-phap-test-03.md) · [Test 4](ets-ngu-phap-test-04.md) · [Test 5](ets-ngu-phap-test-05.md) · [Test 6](ets-ngu-phap-test-06.md) · [Test 7](ets-ngu-phap-test-07.md) · [Test 8](ets-ngu-phap-test-08.md) · [Test 9](ets-ngu-phap-test-09.md) · [Test 10](ets-ngu-phap-test-10.md)
 
 [DANH TỪ](Danh%20T%E1%BB%AB.md ':include')
 
