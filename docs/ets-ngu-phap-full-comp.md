@@ -34,17 +34,17 @@
 2. *(Test 1 · Part 7 – câu hỏi)* What most likely is Ms. Seang's job? → *the most likely*
 3. *(Test 1 · Part 7 – câu hỏi)* In which of the positions marked,,, and does the following sentence **best** belong?
 4. *(Test 1 · Part 7 – câu hỏi)* The word "just" in paragraph 1, line 8, is **closest** in meaning to
-5. *(Test 1 · Part 7 – câu hỏi)* According to the advertisement, who most likely is Ms. Navani? → *the most likely*
+5. *(Test 1 · Part 7 – câu hỏi)* According to **the** advertisement, who **most likely** is Ms. Navani?
 6. *(Test 1 · Part 7 – câu hỏi)* At 10:22 A.M., what does Ms. Barry most likely mean when she writes, “There are several projects ahead of yours”? → *the most likely*
 7. *(Test 1 · Part 7 – câu hỏi)* In what field does Mr. Abruzzo most likely work? → *the most likely*
-8. *(Test 1 · Part 7 – câu hỏi)* In which section of the Web site will information most likely be added? → *the most likely*
+8. *(Test 1 · Part 7 – câu hỏi)* In which section of **the** Web site will information **most likely** be added?
 9. *(Test 1 · Part 7 – câu hỏi)* In the e-mail, the word "conduct" in paragraph 2, line 1, is **closest** in meaning to
 10. *(Test 1 · Part 7 – câu hỏi)* Why most likely did the Red Hills Business Association change the dates of its concert series? → *the most likely*
 11. *(Test 1 · Part 7 – câu hỏi)* Who most likely is Ms. Perez? → *the most likely*
 12. *(Test 1 · Part 7 – câu hỏi)* What is one service that Darboury Company most likely provides? → *the most likely*
 13. *(Test 1 · Part 7 – câu hỏi)* What is most likely true about Ms. Boyd? → *the most likely*
 14. *(Test 2 · Part 6)* We are committed to baking Muffin Lady Muffins authentically with only the **finest** ingredients.
-15. *(Test 2 · Part 6)* The eatery became one of the area's most successful venues and remains so now. → *the most successful*
+15. *(Test 2 · Part 6)* The eatery became one of **the** area's **most successful** venues and remains so now.
 16. *(Test 2 · Part 7)* CVT Direct is an Australian trade magazine published by Lorne Transportation, the **largest** freight vehicle corporation in the country.
 17. *(Test 2 · Part 7)* We can assure you that Gernack Home installs only products of the **highest** quality.
 18. *(Test 2 · Part 7)* While there, take advantage of our **latest** feature: a virtual home renovation assistant.
@@ -85,7 +85,7 @@
 53. *(Test 4 · Part 7)* AUCKLAND (2 April)—Hillside House, Auckland's **newest** and most spectacular event space, is now open.
 54. *(Test 4 · Part 7)* Keep in mind that photographs, paintings, and drawings are **the most popular** mediums.
 55. *(Test 4 · Part 7 – câu hỏi)* The word "initiative" in paragraph 2, line 3, is **closest** in meaning to
-56. *(Test 4 · Part 7 – câu hỏi)* Where would the information most likely be found? → *the most likely*
+56. *(Test 4 · Part 7 – câu hỏi)* Where would **the** information **most likely** be found?
 57. *(Test 4 · Part 7 – câu hỏi)* In the article, the word "function" in paragraph 3, line 7, is **closest** in meaning to (A) occupation (B) use (C) organization (D) gathering
 58. *(Test 4 · Part 7 – câu hỏi)* What most likely is true about Trail Cleanup Day? → *the most likely*
 59. *(Test 5 · Part 5)* Ms. Lim's **best**-selling novel has been... praised.
@@ -94,7 +94,7 @@
 62. *(Test 5 · Part 7)* But I think our **strongest** asset is our supportive neighborhood.
 63. *(Test 5 · Part 7)* “I’m currently looking at Morganville to see if that would be the **best** location for a second store.”
 64. *(Test 5 · Part 7)* Sonfaya Mutual's BASA has an annual percentage yield of 2.2 percent, which is 1.6 percent higher than the yield of the business savings account offered by its **nearest** competitor.
-65. *(Test 5 · Part 7 – câu hỏi)* For whom is the advertisement most likely intended? → *the most likely*
+65. *(Test 5 · Part 7 – câu hỏi)* For whom is **the** advertisement **most likely** intended?
 66. *(Test 5 · Part 7 – câu hỏi)* At 9:50 A.M., what does Mr. Cho most likely mean when he writes, "I know you'd be a great fit"? → *the most likely*
 67. *(Test 5 · Part 7 – câu hỏi)* What kind of company most likely is Covered Bridge Industries? → *the most likely*
 68. *(Test 5 · Part 7 – câu hỏi)* During what month will Covered Bridge Industries most likely launch a new product? → *the most likely*
@@ -140,7 +140,7 @@
 108. *(Test 7 · Part 7)* In addition to being the **quietest** jets on the market today, they are 20 percent more fuel efficient than the DB90s that we currently fly.
 109. *(Test 7 · Part 7)* The machine is **best** placed in the entryway of your building.
 110. *(Test 7 · Part 7 – câu hỏi)* What is most likely true about Ms. Ikeda? → *the most likely*
-111. *(Test 7 · Part 7 – câu hỏi)* For whom is the information most likely intended? → *the most likely*
+111. *(Test 7 · Part 7 – câu hỏi)* For whom is **the** information **most likely** intended?
 112. *(Test 7 · Part 7 – câu hỏi)* At 7:41 P.M., what does Ms. Leven imply when she writes, "That one is the **best**"?
 113. *(Test 7 · Part 7 – câu hỏi)* What is most likely true about the job interviews? → *the most likely*
 114. *(Test 7 · Part 7 – câu hỏi)* In the advertisement, the word "original" in paragraph 2, line 1, is **closest** in meaning to (A) first
@@ -174,7 +174,7 @@
 142. *(Test 9 · Part 7 – câu hỏi)* At 9:36 A.M., what does Mr. Dakers most likely mean when he writes, "But I need to get to the office soon"? → *the most likely*
 143. *(Test 9 · Part 7 – câu hỏi)* The word "ordinarily" in paragraph 1, line 1, is **closest** in meaning to
 144. *(Test 9 · Part 7 – câu hỏi)* What feature of the phones has had the **greatest** improvement?
-145. *(Test 9 · Part 7 – câu hỏi)* For whom are the instructions most likely intended? → *the most likely*
+145. *(Test 9 · Part 7 – câu hỏi)* For whom are **the** instructions **most likely** intended?
 146. *(Test 9 · Part 7 – câu hỏi)* At 8:18 A.M., what does Ms. Jeon most likely mean when she writes, "I'll be there by 12:30"? → *the most likely*
 147. *(Test 9 · Part 7 – câu hỏi)* Where did Ms. McFarlan most likely purchase an item at the festival? → *the most likely*
 148. *(Test 9 · Part 7 – câu hỏi)* What is most likely true about Mr. Singh? → *the most likely*
@@ -193,7 +193,7 @@
 161. *(Test 10 · Part 7 – câu hỏi)* The word "reflects" in paragraph 3, line 5, is **closest** in meaning to
 162. *(Test 10 · Part 7 – câu hỏi)* At 4:11 P.M., what does Ms. Balog most likely mean when she writes, "It has never looked so good"? → *the most likely*
 163. *(Test 10 · Part 7 – câu hỏi)* In the article, the word "directing" in paragraph 1, line 10, is **closest** in meaning to
-164. *(Test 10 · Part 7 – câu hỏi)* For whom is the notice most likely intended? → *the most likely*
+164. *(Test 10 · Part 7 – câu hỏi)* For whom is **the** notice **most likely** intended?
 165. *(Test 10 · Part 7 – câu hỏi)* When most likely did Ms. Klein participate in a Richmond Supermarket cooking class? → *the most likely*
 166. *(Test 10 · Part 7 – câu hỏi)* Where most likely did Dr. Robbins receive the Kramer Medal? → *the most likely*
 167. *(Test 10 · Part 7 – câu hỏi)* When did Dr. Sohn most likely make a speech on April 17? → *the most likely*
@@ -207,36 +207,36 @@
 2. *(Test 1 · Listening)* **The most extraordinary** feature of the building is its beautiful garden, has confirmed the tenant list for the building.
 3. *(Test 1 · Listening – câu hỏi)* Who most likely is the man? → *the most likely*
 4. *(Test 1 · Listening – câu hỏi)* Who most likely is the speaker? → *the most likely*
-5. *(Test 1 · Listening – câu hỏi)* Where does the speaker most likely work? → *the most likely*
+5. *(Test 1 · Listening – câu hỏi)* Where does **the** speaker **most likely** work?
 6. *(Test 1 · Listening – câu hỏi)* Who most likely are the listeners? → *the most likely*
 7. *(Test 2 · Listening – đáp án)* Sure, that will be the **easiest**.
-8. *(Test 2 · Listening – câu hỏi)* What industry do the men most likely work in? → *the most likely*
-9. *(Test 2 · Listening – câu hỏi)* What will the speakers most likely do next? → *the most likely*
-10. *(Test 2 · Listening – câu hỏi)* What does the man most likely do? → *the most likely*
-11. *(Test 2 · Listening – câu hỏi)* Where do the listeners most likely work? → *the most likely*
+8. *(Test 2 · Listening – câu hỏi)* What industry do **the** men **most likely** work in?
+9. *(Test 2 · Listening – câu hỏi)* What will **the** speakers **most likely** do next?
+10. *(Test 2 · Listening – câu hỏi)* What does **the** man **most likely** do?
+11. *(Test 2 · Listening – câu hỏi)* Where do **the** listeners **most likely** work?
 12. *(Test 3 · Listening)* Which day is most convenient for you? → *the most convenient*
 13. *(Test 3 · Listening)* Who most likely is the listener? → *the most likely*
 14. *(Test 3 · Listening – đáp án)* Shenchao is the **best** project manager I know.
-15. *(Test 3 · Listening – câu hỏi)* Where do the speakers most likely work? → *the most likely*
+15. *(Test 3 · Listening – câu hỏi)* Where do **the** speakers **most likely** work?
 16. *(Test 3 · Listening – câu hỏi)* What will Eniola most likely do today? → *the most likely*
 17. *(Test 4 · Listening)* So you should always add at **least** an extra hour to your trip out there.
-18. *(Test 4 · Listening)* What field does the speaker most likely work in? → *the most likely*
+18. *(Test 4 · Listening)* What field does **the** speaker **most likely** work in?
 19. *(Test 4 · Listening)* Over the years, she has been receives her award, some of her most famous clients will perform for us. → *the most famous*
 20. *(Test 4 · Listening – câu hỏi)* Who most likely is the woman? → *the most likely*
 21. *(Test 4 · Listening – câu hỏi)* Who most likely is Giovanni Marino? → *the most likely*
-22. *(Test 5 · Listening)* Where does the woman most likely work? → *the most likely*
+22. *(Test 5 · Listening)* Where does **the** woman **most likely** work?
 23. *(Test 5 · Listening – câu hỏi)* Who most likely is Junko? → *the most likely*
-24. *(Test 5 · Listening – câu hỏi)* What will the man most likely do next? → *the most likely*
+24. *(Test 5 · Listening – câu hỏi)* What will **the** man **most likely** do next?
 25. *(Test 6 · Listening)* Who most likely are the speakers? → *the most likely*
 26. *(Test 6 · Listening – đáp án)* By phone is **best**.
 27. *(Test 6 · Listening – câu hỏi)* What will most likely happen next? → *the most likely*
 28. *(Test 7 · Listening)* What crops do you think would be **best**?
-29. *(Test 7 · Listening – câu hỏi)* Where does the man most likely work? → *the most likely*
+29. *(Test 7 · Listening – câu hỏi)* Where does **the** man **most likely** work?
 30. *(Test 8 · Listening)* But you should know, I only use the **highest**-quality materials in my work.
 31. *(Test 8 · Listening – câu hỏi)* Who most likely is Marion? → *the most likely*
 32. *(Test 10 · Listening)* We have anice selection of arrangements that of **the most popular**, in a range of prices.
-33. *(Test 10 · Listening – câu hỏi)* Where do the women most likely work? → *the most likely*
-34. *(Test 10 · Listening – câu hỏi)* What will the women most likely do next? → *the most likely*
+33. *(Test 10 · Listening – câu hỏi)* Where do **the** women **most likely** work?
+34. *(Test 10 · Listening – câu hỏi)* What will **the** women **most likely** do next?
 
 ---
 
@@ -338,12 +338,12 @@
 4. *(Test 3 · Part 5)* The results of the study suggest that **more people** struggle with night driving than previously believed.
 5. *(Test 4 · Part 7)* See the Registration and Land Use page for **more information**.
 6. *(Test 4 · Part 7)* For **more information**, visit www.brentlerheightsgallery.org.
-7. *(Test 5 · Part 5)* Employees are eligible for more vacation time after they have been employed for five years. → *more time*
+7. *(Test 5 · Part 5)* Employees are eligible for **more** vacation **time** after they have been employed for five years.
 8. *(Test 5 · Part 7)* I would like to schedule a time to revisit your property and discuss your landscaping project in **more detail**.
 9. *(Test 5 · Part 7)* For **more information** about when trainings are held, please contact Lynn Schneider at lschneider@rinckindustry.com.
 10. *(Test 5 · Part 7)* For **more details**, go to www.sonfayamutual.com/basa.
-11. *(Test 6 · Part 5)* Mr. Suh has requested that a more --- copy machine be purchased for the finance department. → *more machine*
-12. *(Test 6 · Part 5)* The efficient redesign of the airline terminal led to fewer flight delays. → *fewer delays*
+11. *(Test 6 · Part 5)* Mr. Suh has requested that a **more** --- copy **machine** be purchased for the finance department.
+12. *(Test 6 · Part 5)* The efficient redesign of the airline terminal led to **fewer** flight **delays**.
 13. *(Test 6 · Part 6)* For **more information** on our complimentary Bicycles on Buses program, please visit www.travelbee.com/bicyclesonbuses.
 14. *(Test 6 · Part 7)* For **more information**, visit our Web site at www.bumbleberryfarm.com.
 15. *(Test 6 · Part 7)* It would be a privilege to show my work to the public and to meet **more people** who value gardens as we members of the society do.
@@ -374,7 +374,7 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 7)* We want to tell business owners and residents near the campus to expect a higher-than-usual noise level during the two weeks we estimate it will take to complete the work. → *higher than*
+1. *(Test 1 · Part 7)* We want to tell business owners and residents near the campus to expect a **higher**-**than**-usual noise level during the two weeks we estimate it will take to complete the work.
 2. *(Test 1 · Part 7)* We received more great reviews in the past month than we did in the four previous months combined! → *more great than*
 3. *(Test 2 · Part 5)* Because of an abundance of qualified candidates, Xaniper Industries may take **longer than** expected to name a new CEO.
 4. *(Test 2 · Part 5)* The presentations were **briefer than** we expected, so there was ample time left for questions.
@@ -382,12 +382,12 @@
 6. *(Test 3 · Part 7)* Even with our staff working overtime to catch up, it may take **longer than** usual for customers to receive their bicycles.
 7. *(Test 5 · Part 7)* While sales will likely be **weaker than** originally hoped, the company will promote Balmy Breeze as an excellent choice for winter holiday celebrations.
 8. *(Test 5 · Part 7)* Sonfaya Mutual's BASA has an annual percentage yield of 2.2 percent, which is 1.6 percent **higher than** the yield of the business savings account offered by its nearest competitor.
-9. *(Test 6 · Part 7)* I apologise for the longer-than-expected wait. → *longer than*
-10. *(Test 6 · Part 7)* Even though you have less space for vehicles than we normally require, Pink Ridge Ranch might be suitable for our smaller events with fewer than 25 people. → *smaller than*
-11. *(Test 7 · Part 6)* If you want to move to an apartment larger or smaller than your current one, just let me know. → *larger than*
+9. *(Test 6 · Part 7)* I apologise for the **longer**-**than**-expected wait.
+10. *(Test 6 · Part 7)* Even though you have less space for vehicles than we normally require, Pink Ridge Ranch might be suitable for our **smaller** events with fewer **than** 25 people.
+11. *(Test 7 · Part 6)* If you want to move to an apartment **larger** or smaller **than** your current one, just let me know.
 12. *(Test 7 · Part 7)* Within its category, this vehicle achieved a stunning 20% higher range on a single charge than its nearest EV competitor. → *higher than*
 13. *(Test 7 · Part 7)* The seats are also **more comfortable than** most airplane seats.
-14. *(Test 8 · Part 5)* The new Dorvale 500 exercise machine is significantly heavier and sturdier than the previous model. → *heavier than*
+14. *(Test 8 · Part 5)* The new Dorvale 500 exercise machine is significantly **heavier** and sturdier **than** the previous model.
 15. *(Test 8 · Part 7)* Any carry-on item **larger than** these dimensions will be checked into the baggage hold and will incur a fee of €50.
 16. *(Test 8 · Part 7)* A few friends and I decided to visit and take advantage of a promotional offer, and I'm happy to say that our experience was **better than** expected.
 17. *(Test 9 · Part 7)* This summer promises to be even **busier than** usual, as business has increased by 15% since this time last year.

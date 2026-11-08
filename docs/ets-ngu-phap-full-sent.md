@@ -4170,7 +4170,7 @@
 34. *(Test 4 · Part 7 – câu hỏi)* **In the second** e-mail, what does Ms. Maec request of Mr. Lennox?
 35. *(Test 5 · Part 7)* **Jennifer, can** you be at the Browns' house at 7:00 A.M. tomorrow to remove the furnace ductwork?
 36. *(Test 5 · Part 7)* **So, when** would you like me to come back to reinstall the ductwork?
-37. *(Test 5 · Part 7)* I’m scheduled to work at Mr. Amadi’s apartment on Friday—can the Browns’ ductwork wait until Monday? → *I ’m scheduled*
+37. *(Test 5 · Part 7)* **I****’m scheduled** to work at Mr. Amadi’s apartment on Friday—can the Browns’ ductwork wait until Monday?
 38. *(Test 5 · Part 7)* **If not**, what restaurants near the conference would you recommend that would be open at that time?
 39. *(Test 5 · Part 7 – câu hỏi)* **At 9:50 A.M**., what does Mr. Cho most likely mean when he writes, "I know you'd be a great fit"?
 40. *(Test 5 · Part 7 – câu hỏi)* **According to the** memo, what can Mr. Costa help employees do?

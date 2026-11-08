@@ -1796,17 +1796,17 @@
 
 1. *(Test 1 · Part 5)* The **hiring manager** carefully considered each applicant's résumé and qualifications.
 2. *(Test 2 · Part 5)* After accepting a job offer, a candidate must complete all **onboarding tasks** before the start date.
-3. *(Test 3 · Part 7)* Hiring decision notifications will be sent to your personal e-mail address on 4 August. → *Hiring notifications*
+3. *(Test 3 · Part 7)* **Hiring** decision **notifications** will be sent to your personal e-mail address on 4 August.
 4. *(Test 5 · Part 5)* **Operating instructions** for the printer will be e-mailed to employees...
 5. *(Test 5 · Part 6)* We are a design firm specialising in medical facilities: **waiting rooms**, offices, and examination and therapy rooms.
-6. *(Test 5 · Part 7)* Thank you for being a valued checking account holder with Sonfaya Mutual for fifteen years. → *checking holder*
+6. *(Test 5 · Part 7)* Thank you for being a valued **checking** account **holder** with Sonfaya Mutual for fifteen years.
 7. *(Test 7 · Part 5)* From among the seven candidates for the management position, the **hiring committee** must choose only one.
 8. *(Test 8 · Part 5)* After extensively reviewing our **hiring policies**, the consultant recommended a simpler process.
 9. *(Test 9 · Part 7)* Post-event cleaning: A two-person **cleaning crew**, plus a supervisor, will clean up after a special event so the space looks the way it did before you arrived.
 10. *(Test 9 · Part 7)* A supervisor will oversee a three-person **cleaning team** to ensure your home is sparkling clean.
 11. *(Test 9 · Part 7)* Mr. Rein will fulfill the role of an assistant **manufacturing supervisor** in our Large Appliance Division.
 12. *(Test 10 · Part 5)* The **purchasing department** ordered six additional cases of ink toner.
-13. *(Test 10 · Part 5)* Line 73 is the oldest continuously operating bus line in Raymo City's history. → *operating line*
+13. *(Test 10 · Part 5)* Line 73 is the oldest continuously **operating** bus **line** in Raymo City's history.
 
 ---
 

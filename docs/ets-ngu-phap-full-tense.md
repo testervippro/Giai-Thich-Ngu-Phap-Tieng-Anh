@@ -80,7 +80,7 @@
 38. *(Test 1 · Part 7)* We **have** fifteen participants enrolled in your mosaic workshop tomorrow.
 39. *(Test 1 · Part 7)* That **is** five more than last summer.
 40. *(Test 1 · Part 7)* Your workshops **get** more popular every year!
-41. *(Test 1 · Part 7)* Do you have enough materials on hand for that many participants? → *Do have*
+41. *(Test 1 · Part 7)* **Do** you **have** enough materials on hand for that many participants?
 42. *(Test 1 · Part 7)* I **have** plenty to go around.
 43. *(Test 1 · Part 7)* They **are** pieces of brown, green, and blue bottles that have washed up on the beach.
 44. *(Test 1 · Part 7)* Th**is** is an accomplishment we can all be proud of.
@@ -113,11 +113,11 @@
 71. *(Test 1 · Part 7)* "We **are** excited to be able to prepare our traditional dishes and welcome the community back again," stated Mr. Marco.
 72. *(Test 1 · Part 7)* Th**is** is Ms. Barry from the data analysis department.
 73. *(Test 1 · Part 7)* I **have** a question for you first.
-74. *(Test 1 · Part 7)* Do you really need the e-mail addresses of all account holders? → *Do really need*
-75. *(Test 1 · Part 7)* Or do you need the e-mail addresses of account holders only within a certain age-group? → *do need*
+74. *(Test 1 · Part 7)* **Do** you **really need** the e-mail addresses of all account holders?
+75. *(Test 1 · Part 7)* Or **do** you **need** the e-mail addresses of account holders only within a certain age-group?
 76. *(Test 1 · Part 7)* I **see** what you mean.
 77. *(Test 1 · Part 7)* I **want** to e-mail account holders aged 55 to 65 to invite them to meet with a retirement planning expert.
-78. *(Test 1 · Part 7)* Do I have to submit a new project request form? → *Do have*
+78. *(Test 1 · Part 7)* **Do** I **have** to submit a new project request form?
 79. *(Test 1 · Part 7)* That**'s** not necessary, Mr. Kubelski.
 80. *(Test 1 · Part 7)* You **do not want** to lose your place in the queue.
 81. *(Test 1 · Part 7)* **Is** it possible for you to get me that list right away?
@@ -146,9 +146,9 @@
 104. *(Test 1 · Part 7 – câu hỏi)* What **is** the purpose of the notice?
 105. *(Test 1 · Part 7 – câu hỏi)* What **is suggested** about High View Apartments?
 106. *(Test 1 · Part 7 – câu hỏi)* What most likely **is** Ms. Seang's job?
-107. *(Test 1 · Part 7 – câu hỏi)* At 11:23 A.M., what does Ms. Seang imply when she writes, "I have plenty to go around"? → *does imply*
+107. *(Test 1 · Part 7 – câu hỏi)* At 11:23 A.M., what **does** Ms. Seang **imply** when she writes, "I have plenty to go around"?
 108. *(Test 1 · Part 7 – câu hỏi)* What **is mentioned** about Mr. Norton?
-109. *(Test 1 · Part 7 – câu hỏi)* What does Ms. Correa ask members of the sales team to do? → *does ask*
+109. *(Test 1 · Part 7 – câu hỏi)* What **does** Ms. Correa **ask** members of the sales team to do?
 110. *(Test 1 · Part 7 – câu hỏi)* What **is** the purpose of the article?
 111. *(Test 1 · Part 7 – câu hỏi)* Who **is** Ms. Flanagan?
 112. *(Test 1 · Part 7 – câu hỏi)* What **is** the purpose of the e-mail?
@@ -156,25 +156,25 @@
 114. *(Test 1 · Part 7 – câu hỏi)* What **is** one purpose of the e-mail?
 115. *(Test 1 · Part 7 – câu hỏi)* What **is** one purpose of the article?
 116. *(Test 1 · Part 7 – câu hỏi)* The word "just" in paragraph 1, line 8, **is** closest in meaning to
-117. *(Test 1 · Part 7 – câu hỏi)* What does Ms. Martens suggest about flash-frozen food? → *does suggest*
+117. *(Test 1 · Part 7 – câu hỏi)* What **does** Ms. Martens **suggest** about flash-frozen food?
 118. *(Test 1 · Part 7 – câu hỏi)* According to the advert**is**ement, who most likely is Ms. Navani?
 119. *(Test 1 · Part 7 – câu hỏi)* What **is indicated** about Karning Creative Designs?
 120. *(Test 1 · Part 7 – câu hỏi)* What **is required** of job applicants?
-121. *(Test 1 · Part 7 – câu hỏi)* What does the article mention about Marco's Italian Restaurant? → *does mention*
+121. *(Test 1 · Part 7 – câu hỏi)* What **does** the article **mention** about Marco's Italian Restaurant?
 122. *(Test 1 · Part 7 – câu hỏi)* What **is indicated** about Marco's Italian Market?
-123. *(Test 1 · Part 7 – câu hỏi)* What does Ms. Choi offer to do? → *does offer*
-124. *(Test 1 · Part 7 – câu hỏi)* At 10:22 A.M., what does Ms. Barry most likely mean when she writes, “There are several projects ahead of yours”? → *does most likely mean*
+123. *(Test 1 · Part 7 – câu hỏi)* What **does** Ms. Choi **offer** to do?
+124. *(Test 1 · Part 7 – câu hỏi)* At 10:22 A.M., what **does** Ms. Barry **most likely mean** when she writes, “There are several projects ahead of yours”?
 125. *(Test 1 · Part 7 – câu hỏi)* According to the article, what **is** one way that food truck owners traditionally attract customers?
 126. *(Test 1 · Part 7 – câu hỏi)* According to the article, what information **does not need** to appear on the Home page?
 127. *(Test 1 · Part 7 – câu hỏi)* What **is indicated** about the Net Zero Initiative?
 128. *(Test 1 · Part 7 – câu hỏi)* In the e-mail, the word "conduct" in paragraph 2, line 1, **is** closest in meaning to
 129. *(Test 1 · Part 7 – câu hỏi)* What **is mentioned** in the press release about the Cultural Center?
 130. *(Test 1 · Part 7 – câu hỏi)* According to the advert**is**ement, what is one type of work performed by Lawal Home Service?
-131. *(Test 1 · Part 7 – câu hỏi)* What does Mr. Gerson indicate on the form about his roof? → *does indicate*
+131. *(Test 1 · Part 7 – câu hỏi)* What **does** Mr. Gerson **indicate** on the form about his roof?
 132. *(Test 1 · Part 7 – câu hỏi)* Who most likely **is** Ms. Perez?
 133. *(Test 1 · Part 7 – câu hỏi)* What **is** one service that Darboury Company most likely provides?
 134. *(Test 1 · Part 7 – câu hỏi)* When **is** the deadline for Ms. Pereira to approve samples?
-135. *(Test 1 · Part 7 – câu hỏi)* What does the form indicate about the Bun Bun Books order? → *does indicate*
+135. *(Test 1 · Part 7 – câu hỏi)* What **does** the form **indicate** about the Bun Bun Books order?
 136. *(Test 1 · Part 7 – câu hỏi)* What **is** the background color on the cover of item N3-GT?
 137. *(Test 1 · Part 7 – câu hỏi)* What **is indicated** in the notice about Ms. Boyd?
 138. *(Test 1 · Part 7 – câu hỏi)* What **is** most likely true about Ms. Boyd?
@@ -196,7 +196,7 @@
 154. *(Test 2 · Part 6)* For those who **prefer** a soap with no added artificial substances, Teksheen Supply's natural hand soap is the ideal choice.
 155. *(Test 2 · Part 6)* This unscented soap **is packaged** in a handy dispenser bottle.
 156. *(Test 2 · Part 6)* item patented formula **is designed** to keep your hands clean yet soft with a mix of natural vitamins and oils.
-157. *(Test 2 · Part 6)* Do you operate a business and want a safe and effective hand soap manufactured through sustainable processes? → *Do operate*
+157. *(Test 2 · Part 6)* **Do** you **operate** a business and want a safe and effective hand soap manufactured through sustainable processes?
 158. *(Test 2 · Part 6)* If so, you may purchase this All the ingredients **are sourced** from plants found in the wild in bulk at discounted prices.
 159. *(Test 2 · Part 6)* The eatery became one of the area's most successful venues and **remains** so now.
 160. *(Test 2 · Part 6)* At this point, though, Ellison **says** she is ready to close the bistro and retire.
@@ -265,7 +265,7 @@
 223. *(Test 2 · Part 7 – câu hỏi)* What **is NOT offered** to Radial Tunes subscribers?
 224. *(Test 2 · Part 7 – câu hỏi)* What **is indicated** about Mr. Furuta?
 225. *(Test 2 · Part 7 – câu hỏi)* What **is suggested** about the new business cards?
-226. *(Test 2 · Part 7 – câu hỏi)* At 9:05 A.M., what does Ms. Begani imply when she writes, "I wouldn't miss it"? → *does imply*
+226. *(Test 2 · Part 7 – câu hỏi)* At 9:05 A.M., what **does** Ms. Begani **imply** when she writes, "I wouldn't miss it"?
 227. *(Test 2 · Part 7 – câu hỏi)* What does the e-mail **indicate** about Ms. Watkins?
 228. *(Test 2 · Part 7 – câu hỏi)* The word "points" in paragraph 2, line 2, **is** closest in meaning to
 229. *(Test 2 · Part 7 – câu hỏi)* What **is** one topic the Web page addresses?
@@ -278,9 +278,9 @@
 236. *(Test 2 · Part 7 – câu hỏi)* What **is mentioned** in the advertisement about the options for the XC-35?
 237. *(Test 2 · Part 7 – câu hỏi)* Who most likely **is** the intended audience of the advertisement?
 238. *(Test 2 · Part 7 – câu hỏi)* What **is indicated** about Koloa Music Education Collective?
-239. *(Test 2 · Part 7 – câu hỏi)* Why does Ms. Walter want to have lunch with Mr. Hines and Ms. Au? → *does want*
+239. *(Test 2 · Part 7 – câu hỏi)* Why **does** Ms. Walter **want** to have lunch with Mr. Hines and Ms. Au?
 240. *(Test 2 · Part 7 – câu hỏi)* Who **is expected** to attend the meeting at 3:00 P.M.?
-241. *(Test 2 · Part 7 – câu hỏi)* At 4:52 P.M., what does Ms. Au most likely mean when she writes, "What a relief"? → *does most likely mean*
+241. *(Test 2 · Part 7 – câu hỏi)* At 4:52 P.M., what **does** Ms. Au **most likely mean** when she writes, "What a relief"?
 242. *(Test 2 · Part 7 – câu hỏi)* What **is indicated** about Greatford Curtains?
 243. *(Test 2 · Part 7 – câu hỏi)* What **is** most likely true about the Cambridge fabric sample listed on the invoice?
 244. *(Test 2 · Part 7 – câu hỏi)* What **is suggested** about order number 19842?
@@ -288,13 +288,13 @@
 246. *(Test 2 · Part 7 – câu hỏi)* What **is indicated** about Portland Friends of the Wild?
 247. *(Test 2 · Part 7 – câu hỏi)* What **is** true about Mr. Cleary?
 248. *(Test 2 · Part 7 – câu hỏi)* What **is indicated** on the Web page about the Artists of Delta City exhibit?
-249. *(Test 2 · Part 7 – câu hỏi)* What activity does Ms. Grady indicate is forbidden in the museum galleries? → *does indicate*
+249. *(Test 2 · Part 7 – câu hỏi)* What activity **does** Ms. Grady **indicate** is forbidden in the museum galleries?
 250. *(Test 2 · Part 7 – câu hỏi)* What **is indicated** about products sold in the type of packaging used by Green Globe?
-251. *(Test 2 · Part 7 – câu hỏi)* What does Ms. Brown indicate about Green Globe toothpaste? → *does indicate*
+251. *(Test 2 · Part 7 – câu hỏi)* What **does** Ms. Brown **indicate** about Green Globe toothpaste?
 252. *(Test 2 · Part 7 – câu hỏi)* What **is** most likely true about the order placed by Macker Drugstores?
 253. *(Test 2 · Part 7 – câu hỏi)* What does the e-mail **suggest** about the Sleepy Time Hotel?
 254. *(Test 2 · Part 7 – câu hỏi)* What **is** most likely true about the Dalton light-rail station?
-255. *(Test 2 · Part 7 – câu hỏi)* What does Mr. Cho mention in the review? → *does mention*
+255. *(Test 2 · Part 7 – câu hỏi)* What **does** Mr. Cho **mention** in the review?
 256. *(Test 3 · Part 5)* Despite her youth, Ms. Cho **is** already quite popular on social media.
 257. *(Test 3 · Part 5)* Most of the materials distributed at last month's accounting conference **are** now available online.
 258. *(Test 3 · Part 5)* The report found that employees who **take** regular breaks are more productive than those who take no breaks.
@@ -373,37 +373,37 @@
 331. *(Test 3 · Part 7 – câu hỏi)* What **is indicated** about the coupon?
 332. *(Test 3 · Part 7 – câu hỏi)* What **is** the main purpose of the article?
 333. *(Test 3 · Part 7 – câu hỏi)* What **is indicated** about Mr. Sanchez?
-334. *(Test 3 · Part 7 – câu hỏi)* At 9:05 A.M., what does Mr. Beiger most likely mean when he writes, "That's exactly what I was thinking"? → *does most likely mean*
+334. *(Test 3 · Part 7 – câu hỏi)* At 9:05 A.M., what **does** Mr. Beiger **most likely mean** when he writes, "That's exactly what I was thinking"?
 335. *(Test 3 · Part 7 – câu hỏi)* What kind of business **is** Dannla Brothers?
 336. *(Test 3 · Part 7 – câu hỏi)* What **are** visitors to the Web page encouraged to do?
-337. *(Test 3 · Part 7 – câu hỏi)* Why does Ms. Paulsen mention Pretoria? → *does mention*
+337. *(Test 3 · Part 7 – câu hỏi)* Why **does** Ms. Paulsen **mention** Pretoria?
 338. *(Test 3 · Part 7 – câu hỏi)* What **is** most likely true about Dr. Able?
-339. *(Test 3 · Part 7 – câu hỏi)* What does Ms. McGrath indicate that she would like to do in the future? → *does indicate*
+339. *(Test 3 · Part 7 – câu hỏi)* What **does** Ms. McGrath **indicate** that she would like to do in the future?
 340. *(Test 3 · Part 7 – câu hỏi)* What **is indicated** about the available position?
 341. *(Test 3 · Part 7 – câu hỏi)* What **is listed** as a job requirement?
-342. *(Test 3 · Part 7 – câu hỏi)* What does the job posting NOT mention? → *does NOT mention*
+342. *(Test 3 · Part 7 – câu hỏi)* What **does** the job posting **NOT mention**?
 343. *(Test 3 · Part 7 – câu hỏi)* What **is mentioned** about the FGS?
-344. *(Test 3 · Part 7 – câu hỏi)* Why does the FGS want to build a garden in Raxford Park? → *does want*
-345. *(Test 3 · Part 7 – câu hỏi)* What does Ms. Parkin want the board of directors to do? → *does want*
-346. *(Test 3 · Part 7 – câu hỏi)* What do the writers indicate about their product? → *do indicate*
-347. *(Test 3 · Part 7 – câu hỏi)* At 3:05 P.M., what does Mr. Naifeh imply when he writes, "I have the details onscreen right now"? → *does imply*
+344. *(Test 3 · Part 7 – câu hỏi)* Why **does** the FGS **want** to build a garden in Raxford Park?
+345. *(Test 3 · Part 7 – câu hỏi)* What **does** Ms. Parkin **want** the board of directors to do?
+346. *(Test 3 · Part 7 – câu hỏi)* What **do** the writers **indicate** about their product?
+347. *(Test 3 · Part 7 – câu hỏi)* At 3:05 P.M., what **does** Mr. Naifeh **imply** when he writes, "I have the details onscreen right now"?
 348. *(Test 3 · Part 7 – câu hỏi)* According to the Web page, what **is** true about Branxley Cycles?
-349. *(Test 3 · Part 7 – câu hỏi)* What does Branxley Cycles encourage its customers to do? → *does encourage*
+349. *(Test 3 · Part 7 – câu hỏi)* What **does** Branxley Cycles **encourage** its customers to do?
 350. *(Test 3 · Part 7 – câu hỏi)* In the review, the word "meet" in paragraph 1, line 8, **is** closest in meaning to (A) reach
 351. *(Test 3 · Part 7 – câu hỏi)* What **is indicated** in the article about Angus Milne?
-352. *(Test 3 · Part 7 – câu hỏi)* What does Ms. Nandi mention in her review? → *does mention*
+352. *(Test 3 · Part 7 – câu hỏi)* What **does** Ms. Nandi **mention** in her review?
 353. *(Test 3 · Part 7 – câu hỏi)* In the review, the word "appreciates" in paragraph 2, line 3, **is** closest in meaning to (A) values (B) increases (C) comprehends (D) knows
 354. *(Test 3 · Part 7 – câu hỏi)* Why **are** some objects unavailable to see in person during a lecture?
 355. *(Test 3 · Part 7 – câu hỏi)* What **is suggested** about the Chovey Community Room?
-356. *(Test 3 · Part 7 – câu hỏi)* According to the second e-mail, what does Professor Whitford want Dr. Fiallo to do? → *does want*
+356. *(Test 3 · Part 7 – câu hỏi)* According to the second e-mail, what **does** Professor Whitford **want** Dr. Fiallo to do?
 357. *(Test 3 · Part 7 – câu hỏi)* What **is suggested** about the tools that Professor Whitford's students looked at?
 358. *(Test 3 · Part 7 – câu hỏi)* Who most likely **is** Ms. Weaver?
 359. *(Test 3 · Part 7 – câu hỏi)* What **is** the subject of Ms. Moreland's meeting with Mr. Kim?
-360. *(Test 3 · Part 7 – câu hỏi)* What does Ms. Weaver indicate she will do? → *does indicate*
+360. *(Test 3 · Part 7 – câu hỏi)* What **does** Ms. Weaver **indicate** she will do?
 361. *(Test 3 · Part 7 – câu hỏi)* What **is indicated** about Mr. Stolartz?
 362. *(Test 3 · Part 7 – câu hỏi)* What **is** one thing Mr. Ellis did on July 7?
 363. *(Test 3 · Part 7 – câu hỏi)* When **do practice** sessions for the autumn performances begin?
-364. *(Test 3 · Part 7 – câu hỏi)* What do applicants need to do to audition for the Gradey City Choir? → *do need*
+364. *(Test 3 · Part 7 – câu hỏi)* What **do** applicants **need** to do to audition for the Gradey City Choir?
 365. *(Test 4 · Part 5)* We **hope** our customer service team has answered your questions in a manner.
 366. *(Test 4 · Part 5)* Once Ms. Jeong **receives** the contract, she will sign and return it to Allory Pharmaceuticals.
 367. *(Test 4 · Part 5)* Ten board members **plan** to attend, which is just enough to approve the proposal.
@@ -438,7 +438,7 @@
 396. *(Test 4 · Part 7)* Gulfbrook Creations **is headquartered** in Johannesburg.
 397. *(Test 4 · Part 7)* For 45 years, the company has been manufacturing equipment that **facilitates** independent living, including ergonomic furniture, audio- and visual-enhancement devices, and motorized mobility aids.
 398. *(Test 4 · Part 7)* Its products **are marketed** mainly in Africa.
-399. *(Test 4 · Part 7)* What do you need? → *do need*
+399. *(Test 4 · Part 7)* What **do** you **need**?
 400. *(Test 4 · Part 7)* I'm working from home today and have a call with the regional managers at 9 A.M. But the notes I **need** for the call are on my desk.
 401. *(Test 4 · Part 7)* They**'re** in a red folder next to my computer.
 402. *(Test 4 · Part 7)* I was hoping you could scan them and e-mail them to me since you usually **get** to the office early.
@@ -499,8 +499,8 @@
 457. *(Test 4 · Part 7 – câu hỏi)* What **is** true about the event Mr. Sato will attend?
 458. *(Test 4 · Part 7 – câu hỏi)* What **is mentioned** about Ms. Masondo?
 459. *(Test 4 · Part 7 – câu hỏi)* What do Gulfbrook Creations and Deavora Dynamix have in common? → *do have*
-460. *(Test 4 · Part 7 – câu hỏi)* At 7:53 A.M., what does Mr. Fuentes imply when he writes, "I'm leaving the house now"? → *does imply*
-461. *(Test 4 · Part 7 – câu hỏi)* What problem does Ms. Gao have? → *does have*
+460. *(Test 4 · Part 7 – câu hỏi)* At 7:53 A.M., what **does** Mr. Fuentes **imply** when he writes, "I'm leaving the house now"?
+461. *(Test 4 · Part 7 – câu hỏi)* What problem **does** Ms. Gao **have**?
 462. *(Test 4 · Part 7 – câu hỏi)* What **is indicated** on the Web page as a step in the preconstruction process?
 463. *(Test 4 · Part 7 – câu hỏi)* What **is indicated** about the festival?
 464. *(Test 4 · Part 7 – câu hỏi)* What plan **is designed** for a subscriber who is only interested in a single team?
@@ -511,15 +511,15 @@
 469. *(Test 4 · Part 7 – câu hỏi)* What **is** true about the Brentler Heights Gallery?
 470. *(Test 4 · Part 7 – câu hỏi)* What **are** the chat participants discussing?
 471. *(Test 4 · Part 7 – câu hỏi)* What **is indicated** about Ms. Black?
-472. *(Test 4 · Part 7 – câu hỏi)* At 9:07 A.M., what does Ms. Black imply when she writes, "I saw those"? → *does imply*
-473. *(Test 4 · Part 7 – câu hỏi)* What does Ms. Yuen thank Mr. Spina for? → *does thank*
+472. *(Test 4 · Part 7 – câu hỏi)* At 9:07 A.M., what **does** Ms. Black **imply** when she writes, "I saw those"?
+473. *(Test 4 · Part 7 – câu hỏi)* What **does** Ms. Yuen **thank** Mr. Spina for?
 474. *(Test 4 · Part 7 – câu hỏi)* What **is indicated** in the article about Hillside House?
 475. *(Test 4 · Part 7 – câu hỏi)* In the article, the word "function" in paragraph 3, line 7, **is** closest in meaning to (A) occupation (B) use (C) organization (D) gathering
 476. *(Test 4 · Part 7 – câu hỏi)* What problem **is explained** in the first e-mail?
-477. *(Test 4 · Part 7 – câu hỏi)* What does Ms. Meyers indicate? → *does indicate*
+477. *(Test 4 · Part 7 – câu hỏi)* What **does** Ms. Meyers **indicate**?
 478. *(Test 4 · Part 7 – câu hỏi)* What color **is** currently NOT available for boots in the Erin style?
-479. *(Test 4 · Part 7 – câu hỏi)* What does the second e-mail suggest about Takem Boot Company? → *does suggest*
-480. *(Test 4 · Part 7 – câu hỏi)* What does Mr. Stephens offer to do? → *does offer*
+479. *(Test 4 · Part 7 – câu hỏi)* What **does** the second e-mail **suggest** about Takem Boot Company?
+480. *(Test 4 · Part 7 – câu hỏi)* What **does** Mr. Stephens **offer** to do?
 481. *(Test 4 · Part 7 – câu hỏi)* What **is suggested** about Ms. Yancey?
 482. *(Test 4 · Part 7 – câu hỏi)* What most likely **is** true about Trail Cleanup Day?
 483. *(Test 4 · Part 7 – câu hỏi)* What **is** the purpose of the first e-mail?
@@ -553,7 +553,7 @@
 511. *(Test 5 · Part 7)* That**'s** wonderful to hear!
 512. *(Test 5 · Part 7)* I **know** you'd be a great fit.
 513. *(Test 5 · Part 7)* You **check** all the boxes.
-514. *(Test 5 · Part 7)* Do you think Ms. Mayer would want to see a cover letter in addition to my résumé? → *Do think*
+514. *(Test 5 · Part 7)* **Do** you **think** Ms. Mayer would want to see a cover letter in addition to my résumé?
 515. *(Test 5 · Part 7)* Just make sure your résumé **is** up to date and reflects your relevant experience.
 516. *(Test 5 · Part 7)* **Thank** you so much, Paul.
 517. *(Test 5 · Part 7)* I really **appreciate** it!
@@ -615,10 +615,10 @@
 573. *(Test 5 · Part 7)* It **does not run** at a steady speed and requires constant attention from line workers.
 574. *(Test 5 · Part 7 – câu hỏi)* What **is** the main purpose of the information?
 575. *(Test 5 · Part 7 – câu hỏi)* What **is suggested** about the Clearpoint Times?
-576. *(Test 5 · Part 7 – câu hỏi)* What does Mr. Paltz ask Mr. and Ms. Witt to do? → *does ask*
+576. *(Test 5 · Part 7 – câu hỏi)* What **does** Mr. Paltz **ask** Mr. and Ms. Witt to do?
 577. *(Test 5 · Part 7 – câu hỏi)* For whom **is** the advertisement most likely intended?
 578. *(Test 5 · Part 7 – câu hỏi)* What **is suggested** about some of the rooms at Cavalina Hotel?
-579. *(Test 5 · Part 7 – câu hỏi)* At 9:50 A.M., what does Mr. Cho most likely mean when he writes, "I know you'd be a great fit"? → *does most likely mean*
+579. *(Test 5 · Part 7 – câu hỏi)* At 9:50 A.M., what **does** Mr. Cho **most likely mean** when he writes, "I know you'd be a great fit"?
 580. *(Test 5 · Part 7 – câu hỏi)* What **is indicated** about Mr. Cho?
 581. *(Test 5 · Part 7 – câu hỏi)* What kind of company most likely **is** Covered Bridge Industries?
 582. *(Test 5 · Part 7 – câu hỏi)* During what month will Covered Bridge Industries most likely **launch** a new product?
@@ -632,23 +632,23 @@
 590. *(Test 5 · Part 7 – câu hỏi)* What **is** NOT a responsibility of the highway supervisor?
 591. *(Test 5 · Part 7 – câu hỏi)* What **is** the purpose of the conversation?
 592. *(Test 5 · Part 7 – câu hỏi)* What **is suggested** about the members of Mr. Gruyter's work crew?
-593. *(Test 5 · Part 7 – câu hỏi)* At 3:25 P.M., what does Ms. Kaluza most likely mean when she writes, "You got it"? → *does most likely mean*
+593. *(Test 5 · Part 7 – câu hỏi)* At 3:25 P.M., what **does** Ms. Kaluza **most likely mean** when she writes, "You got it"?
 594. *(Test 5 · Part 7 – câu hỏi)* What **is indicated** on the Web page?
 595. *(Test 5 · Part 7 – câu hỏi)* In the e-mail, the word "full" in paragraph 1, line 7, **is** closest in meaning to
 596. *(Test 5 · Part 7 – câu hỏi)* What **is suggested** about JJ's Home and Garden Suppliers?
 597. *(Test 5 · Part 7 – câu hỏi)* What **is** the cost of a model CVY-XU cement mixer at Alliance Hardware Store?
-598. *(Test 5 · Part 7 – câu hỏi)* What does the Web page indicate about guidelines for international trade? → *does indicate*
-599. *(Test 5 · Part 7 – câu hỏi)* Why does Mr. Yadav provide information about his company in the e-mail? → *does provide*
+598. *(Test 5 · Part 7 – câu hỏi)* What **does** the Web page **indicate** about guidelines for international trade?
+599. *(Test 5 · Part 7 – câu hỏi)* Why **does** Mr. Yadav **provide** information about his company in the e-mail?
 600. *(Test 5 · Part 7 – câu hỏi)* What **is mentioned** in the e-mail about Isvarani Ltd.?
 601. *(Test 5 · Part 7 – câu hỏi)* What **is mentioned** about Sonfaya Mutual's financial education programs?
 602. *(Test 5 · Part 7 – câu hỏi)* What **is indicated** in the article about Sonfaya Mutual?
 603. *(Test 5 · Part 7 – câu hỏi)* What **is suggested** about Ms. Nirere?
 604. *(Test 5 · Part 7 – câu hỏi)* What **is** a purpose of the letter?
-605. *(Test 5 · Part 7 – câu hỏi)* According to the form, what are employees expected to do? → *are expected*
+605. *(Test 5 · Part 7 – câu hỏi)* According to the form, what **are** employees **expected** to do?
 606. *(Test 5 · Part 7 – câu hỏi)* What **is** most likely true about the Digital Graphic Designers Conference?
 607. *(Test 5 · Part 7 – câu hỏi)* Based on the form, what **is** true about Ms. Park?
 608. *(Test 5 · Part 7 – câu hỏi)* What **is indicated** on the receipt about Eileen's Diner?
-609. *(Test 5 · Part 7 – câu hỏi)* What company does Ms. Landon most likely work for? → *does most likely work*
+609. *(Test 5 · Part 7 – câu hỏi)* What company **does** Ms. Landon **most likely work** for?
 610. *(Test 5 · Part 7 – câu hỏi)* Who most likely **is** Mr. Nadiner?
 611. *(Test 6 · Part 5)* It **is** important to be especially polite when in the company of new clients.
 612. *(Test 6 · Part 5)* At the end of the year, organizations **face** pressure to achieve their financial goals.
@@ -713,7 +713,7 @@
 671. *(Test 6 · Part 7)* These **are** fundamental goals of the village and its Green Earth Committee.
 672. *(Test 6 · Part 7)* Children **are** welcome to attend with an adult.
 673. *(Test 6 · Part 7)* The trees **are** native to the region and can be planted in private gardens or in some public areas.
-674. *(Test 6 · Part 7)* Do you have anything that you would like to add to it? → *Do have*
+674. *(Test 6 · Part 7)* **Do** you **have** anything that you would like to add to it?
 675. *(Test 6 · Part 7)* It**'s** a quick reminder summarizing the process for requesting vacation time.
 676. *(Test 6 · Part 7)* I**’m** confident they can meet our publication deadline.
 677. *(Test 6 · Part 7)* Since you **work** closely with him in the finance department, I thought you might be well positioned to talk about him as a mentor, worker, and leader.
@@ -743,10 +743,10 @@
 701. *(Test 6 · Part 7 – câu hỏi)* What **is** the main purpose of the letter?
 702. *(Test 6 · Part 7 – câu hỏi)* What **is NOT indicated** about Langdale Exterior Solutions?
 703. *(Test 6 · Part 7 – câu hỏi)* Who most likely **is** Ms. Valdez?
-704. *(Test 6 · Part 7 – câu hỏi)* What does the letter indicate about the laundry room at Cottonwood Apartments? → *does indicate*
+704. *(Test 6 · Part 7 – câu hỏi)* What **does** the letter **indicate** about the laundry room at Cottonwood Apartments?
 705. *(Test 6 · Part 7 – câu hỏi)* What **is NOT mentioned** about the maintenance crew?
 706. *(Test 6 · Part 7 – câu hỏi)* In what industry do Mr. Porter and Ms. Warner most likely work? → *do most likely work*
-707. *(Test 6 · Part 7 – câu hỏi)* At 10:08 A.M., what does Mr. Porter most likely mean when he writes, "Consider it done"? → *does most likely mean*
+707. *(Test 6 · Part 7 – câu hỏi)* At 10:08 A.M., what **does** Mr. Porter **most likely mean** when he writes, "Consider it done"?
 708. *(Test 6 · Part 7 – câu hỏi)* What **is** most likely true about Mr. Torres?
 709. *(Test 6 · Part 7 – câu hỏi)* What **is indicated** about the small-batch production of games?
 710. *(Test 6 · Part 7 – câu hỏi)* The word "space" in paragraph 1, line 2, **is** closest in meaning to
@@ -754,22 +754,22 @@
 712. *(Test 6 · Part 7 – câu hỏi)* What **is offered** to Repose Lounge visitors?
 713. *(Test 6 · Part 7 – câu hỏi)* What **is** one goal of the Green Earth Committee?
 714. *(Test 6 · Part 7 – câu hỏi)* What **is NOT mentioned** as a planned activity during Green Awareness Week?
-715. *(Test 6 · Part 7 – câu hỏi)* At 9:16 A.M., what does Mr. Nusaputra most likely mean when he writes, "I do have something"? → *does most likely mean*
+715. *(Test 6 · Part 7 – câu hỏi)* At 9:16 A.M., what **does** Mr. Nusaputra **most likely mean** when he writes, "I do have something"?
 716. *(Test 6 · Part 7 – câu hỏi)* In the first e-mail, what **is indicated** about the magazine's special issue?
 717. *(Test 6 · Part 7 – câu hỏi)* In the second e-mail, what **is mentioned** about Skllarr Press?
 718. *(Test 6 · Part 7 – câu hỏi)* What **is indicated** about Mr. Iqbal?
 719. *(Test 6 · Part 7 – câu hỏi)* In the second e-mail, the word "note" in paragraph 2, line 1, **is** closest in meaning to
-720. *(Test 6 · Part 7 – câu hỏi)* At approximately what time does Mr. Iqbal plan to arrive at the party? → *does plan*
+720. *(Test 6 · Part 7 – câu hỏi)* At approximately what time **does** Mr. Iqbal **plan** to arrive at the party?
 721. *(Test 6 · Part 7 – câu hỏi)* In the announcement, what **is mentioned** about the Gorgeous Gardens Tour?
-722. *(Test 6 · Part 7 – câu hỏi)* What does Ms. Olton mention in her e-mail? → *does mention*
+722. *(Test 6 · Part 7 – câu hỏi)* What **does** Ms. Olton **mention** in her e-mail?
 723. *(Test 6 · Part 7 – câu hỏi)* On the Web page, what **is suggested** about the lectures?
 724. *(Test 6 · Part 7 – câu hỏi)* What lecture **is** Ms. Olton most likely to be interested in?
-725. *(Test 6 · Part 7 – câu hỏi)* What does the advertisement mention about Terra Jaunts? → *does mention*
+725. *(Test 6 · Part 7 – câu hỏi)* What **does** the advertisement **mention** about Terra Jaunts?
 726. *(Test 6 · Part 7 – câu hỏi)* According to Mr. Jeong, what **distinguishes** Ms. Newsom from other property owners?
 727. *(Test 6 · Part 7 – câu hỏi)* What **is suggested** about Pink Ridge Ranch?
 728. *(Test 6 · Part 7 – câu hỏi)* What **is** most likely true about Mr. Cumberland?
 729. *(Test 6 · Part 7 – câu hỏi)* Who most likely **is** Mr. Harlington?
-730. *(Test 6 · Part 7 – câu hỏi)* What does Ms. Powell request? → *does request*
+730. *(Test 6 · Part 7 – câu hỏi)* What **does** Ms. Powell **request**?
 731. *(Test 7 · Part 5)* After Ms. Takido **finishes** her presentation, the audience will be permitted to ask questions.
 732. *(Test 7 · Part 5)* Mike's Café **offers** a free drink with every meal on Tuesdays from 11 A.M. to 7 P.M.
 733. *(Test 7 · Part 5)* Mr. Ozawa generally **prefers** to commute to work by train instead of by car.
@@ -784,7 +784,7 @@
 742. *(Test 7 · Part 5)* The new payroll system will send an e-mail to employees whenever a manager **edits** their time sheet.
 743. *(Test 7 · Part 5)* The order of the speakers has been changed in case Mr. Chen **arrives** late.
 744. *(Test 7 · Part 5)* Even though the fuel container can hold up to a maximum of ten liters, the manufacturer **recommends** putting in only nine.
-745. *(Test 7 · Part 6)* Do you enjoy tasty tea and snacks? → *Do enjoy*
+745. *(Test 7 · Part 6)* **Do** you **enjoy** tasty tea and snacks?
 746. *(Test 7 · Part 6)* Each Friday from 6 to 10 P.M., Chez Tournoi **welcomes** you to its 44 Broad Avenue, Kingston, location for some fun and laughter.
 747. *(Test 7 · Part 6)* Or bring your own if you **prefer**.
 748. *(Test 7 · Part 6)* While you **play**, you can savour our freshly brewed tea, coffee, and hot chocolate as well as.
@@ -875,9 +875,9 @@
 833. *(Test 7 · Part 7)* Visitors **love** that it is automatic, and everyone is grateful that the lobby is no longer wet and slippery because of umbrellas dripping with water!
 834. *(Test 7 · Part 7)* We **are** extremely concerned.
 835. *(Test 7 · Part 7 – câu hỏi)* What **is indicated** about boxes of Truli crackers?
-836. *(Test 7 · Part 7 – câu hỏi)* What does the text message indicate about Brice's Ice Creamery? → *does indicate*
+836. *(Test 7 · Part 7 – câu hỏi)* What **does** the text message **indicate** about Brice's Ice Creamery?
 837. *(Test 7 · Part 7 – câu hỏi)* What **is indicated** about Dr. Ramanathan?
-838. *(Test 7 · Part 7 – câu hỏi)* At 5:48 P.M., what does Mr. Lorck imply when he writes, "I was just packing up"? → *does imply*
+838. *(Test 7 · Part 7 – câu hỏi)* At 5:48 P.M., what **does** Mr. Lorck **imply** when he writes, "I was just packing up"?
 839. *(Test 7 · Part 7 – câu hỏi)* What **is** most likely true about Ms. Ikeda?
 840. *(Test 7 · Part 7 – câu hỏi)* What **is indicated** about Qualitekk Research?
 841. *(Test 7 · Part 7 – câu hỏi)* What **is** the purpose of the memo?
@@ -891,24 +891,24 @@
 849. *(Test 7 · Part 7 – câu hỏi)* What **is indicated** about Dan's Specialty Bicycles?
 850. *(Test 7 · Part 7 – câu hỏi)* What **is suggested** about the secondhand bicycles?
 851. *(Test 7 · Part 7 – câu hỏi)* What information **is NOT included** in the advertisement?
-852. *(Test 7 · Part 7 – câu hỏi)* At 7:41 P.M., what does Ms. Leven imply when she writes, "That one is the best"? → *does imply*
+852. *(Test 7 · Part 7 – câu hỏi)* At 7:41 P.M., what **does** Ms. Leven **imply** when she writes, "That one is the best"?
 853. *(Test 7 · Part 7 – câu hỏi)* What **is indicated** about the Zeertox Signal Booster?
 854. *(Test 7 · Part 7 – câu hỏi)* What **is suggested** about the workers who were hired last year?
 855. *(Test 7 · Part 7 – câu hỏi)* What **is NOT mentioned** as a job duty in the advertisement?
 856. *(Test 7 · Part 7 – câu hỏi)* What **is** most likely true about the job interviews?
 857. *(Test 7 · Part 7 – câu hỏi)* In the advert**is**ement, the word "original" in paragraph 2, line 1, is closest in meaning to (A) first
-858. *(Test 7 · Part 7 – câu hỏi)* What does Mr. Ogawa dislike about connecting at a hub? → *does dislike*
+858. *(Test 7 · Part 7 – câu hỏi)* What **does** Mr. Ogawa **dislike** about connecting at a hub?
 859. *(Test 7 · Part 7 – câu hỏi)* What **is** most likely true about Mr. Ogawa?
 860. *(Test 7 · Part 7 – câu hỏi)* What **is** one purpose of the notice?
 861. *(Test 7 · Part 7 – câu hỏi)* What **is indicated** about some of Renmark Solutions' interns?
 862. *(Test 7 · Part 7 – câu hỏi)* What **is suggested** about the trip on August 19?
-863. *(Test 7 · Part 7 – câu hỏi)* What does the advertisement suggest about PUW machines? → *does suggest*
-864. *(Test 7 · Part 7 – câu hỏi)* What does the price list indicate about bags? → *does indicate*
+863. *(Test 7 · Part 7 – câu hỏi)* What **does** the advertisement **suggest** about PUW machines?
+864. *(Test 7 · Part 7 – câu hỏi)* What **does** the price list **indicate** about bags?
 865. *(Test 7 · Part 7 – câu hỏi)* What **is suggested** about Mr. Barr?
 866. *(Test 7 · Part 7 – câu hỏi)* What **is** the cost of the product that Mr. Barr reviewed?
-867. *(Test 7 · Part 7 – câu hỏi)* What problem does Mr. Barr describe? → *does describe*
+867. *(Test 7 · Part 7 – câu hỏi)* What problem **does** Mr. Barr **describe**?
 868. *(Test 7 · Part 7 – câu hỏi)* What **is suggested** on the Web page about Croydon Construction?
-869. *(Test 7 · Part 7 – câu hỏi)* In the second e-mail, what problem does Ms. Rahija describe? → *does describe*
+869. *(Test 7 · Part 7 – câu hỏi)* In the second e-mail, what problem **does** Ms. Rahija **describe**?
 870. *(Test 8 · Part 5)* Ms. Choi was pleased to learn that she **is** a finalist in the technology competition.
 871. *(Test 8 · Part 5)* Tourists visiting Star Island **are asked** to respect the privacy of residents.
 872. *(Test 8 · Part 5)* The new Dorvale 500 exerc**is**e machine is significantly heavier and sturdier than the previous model.
@@ -937,8 +937,8 @@
 895. *(Test 8 · Part 7)* The company will provide pizza and cake, and we want to make sure that there **is** enough food for everyone.
 896. *(Test 8 · Part 7)* I **hope** to see you there to celebrate Sun-Yi!
 897. *(Test 8 · Part 7)* Power washing beautifies your home and **helps** maintain the integrity of your structure!
-898. *(Test 8 · Part 7)* Do you have lunch plans? → *Do have*
-899. *(Test 8 · Part 7)* Why do you ask? → *do ask*
+898. *(Test 8 · Part 7)* **Do** you **have** lunch plans?
+899. *(Test 8 · Part 7)* Why **do** you **ask**?
 900. *(Test 8 · Part 7)* I'd love to talk to you about the McMillan project before we **meet** with the client this afternoon.
 901. *(Test 8 · Part 7)* That**'s** a good idea.
 902. *(Test 8 · Part 7)* I **have** some questions too—about the project's budget.
@@ -1003,7 +1003,7 @@
 961. *(Test 8 · Part 7 – câu hỏi)* What **is** the purpose of the flyer?
 962. *(Test 8 · Part 7 – câu hỏi)* What information **is NOT included** in the flyer?
 963. *(Test 8 · Part 7 – câu hỏi)* What **is** most likely true about Ms. Trujillo?
-964. *(Test 8 · Part 7 – câu hỏi)* At 10:10 A.M., what does Ms. Kim most likely mean when she writes, "I'll handle it"? → *does most likely mean*
+964. *(Test 8 · Part 7 – câu hỏi)* At 10:10 A.M., what **does** Ms. Kim **most likely mean** when she writes, "I'll handle it"?
 965. *(Test 8 · Part 7 – câu hỏi)* What **is NOT indicated** about the Westover Zoo?
 966. *(Test 8 · Part 7 – câu hỏi)* What **is mentioned** about transportation in the notice?
 967. *(Test 8 · Part 7 – câu hỏi)* What **is suggested** about the town of Hillsdale?
@@ -1014,22 +1014,22 @@
 972. *(Test 8 · Part 7 – câu hỏi)* What **is indicated** about carry-on items?
 973. *(Test 8 · Part 7 – câu hỏi)* What **is indicated** about the staff event?
 974. *(Test 8 · Part 7 – câu hỏi)* What do the event's three competitions have in common? → *do have*
-975. *(Test 8 · Part 7 – câu hỏi)* Why does the invitation mention Mr. Baxter? → *does mention*
+975. *(Test 8 · Part 7 – câu hỏi)* Why **does** the invitation **mention** Mr. Baxter?
 976. *(Test 8 · Part 7 – câu hỏi)* What most likely **is** Z-Hype?
 977. *(Test 8 · Part 7 – câu hỏi)* For what type of event **has** Mr. Kolman most likely been hired?
 978. *(Test 8 · Part 7 – câu hỏi)* What **is indicated** about the payment Mr. Kolman will receive?
 979. *(Test 8 · Part 7 – câu hỏi)* What information **is included** with the contract?
 980. *(Test 8 · Part 7 – câu hỏi)* What **is indicated** about an event cancellation?
-981. *(Test 8 · Part 7 – câu hỏi)* Why does Mr. Tennison want to make a video? → *does want*
-982. *(Test 8 · Part 7 – câu hỏi)* At 8:21 A.M., what does Ms. Mehta imply when she writes, "I just work at my computer all day"? → *does imply*
-983. *(Test 8 · Part 7 – câu hỏi)* What does Ms. Gammon suggest the writers do with a video? → *does suggest*
+981. *(Test 8 · Part 7 – câu hỏi)* Why **does** Mr. Tennison **want** to make a video?
+982. *(Test 8 · Part 7 – câu hỏi)* At 8:21 A.M., what **does** Ms. Mehta **imply** when she writes, "I just work at my computer all day"?
+983. *(Test 8 · Part 7 – câu hỏi)* What **does** Ms. Gammon **suggest** the writers do with a video?
 984. *(Test 8 · Part 7 – câu hỏi)* What **is** Mr. Maalim most famous for doing?
-985. *(Test 8 · Part 7 – câu hỏi)* What does the advertisement indicate about Ms. Mackay? → *does indicate*
+985. *(Test 8 · Part 7 – câu hỏi)* What **does** the advertisement **indicate** about Ms. Mackay?
 986. *(Test 8 · Part 7 – câu hỏi)* In the advert**is**ement, the word "accessible" in paragraph 2, line 4, is closest in meaning to
 987. *(Test 8 · Part 7 – câu hỏi)* According to the review, what **is** one problem with A Life in the Spotlight?
-988. *(Test 8 · Part 7 – câu hỏi)* What does Ms. Shaw suggest in her review? → *does suggest*
+988. *(Test 8 · Part 7 – câu hỏi)* What **does** Ms. Shaw **suggest** in her review?
 989. *(Test 8 · Part 7 – câu hỏi)* In the review, the word "situated" in paragraph 3, line 2, **is** closest in meaning to
-990. *(Test 8 · Part 7 – câu hỏi)* What does the article indicate about Winglite Airlines? → *does indicate*
+990. *(Test 8 · Part 7 – câu hỏi)* What **does** the article **indicate** about Winglite Airlines?
 991. *(Test 8 · Part 7 – câu hỏi)* According to the e-mail, what will Mr. Girard do if he **moves** into the apartment?
 992. *(Test 8 · Part 7 – câu hỏi)* Where will Mr. Girard usually stay when he **is** not in Arlford?
 993. *(Test 8 · Part 7 – câu hỏi)* What **is indicated** about Forklift Training Academy courses?
@@ -1099,7 +1099,7 @@
 1057. *(Test 9 · Part 7)* Your final paragraph **is** an ideal place for this information, as you can create a separate version of this paragraph for each position you apply for.
 1058. *(Test 9 · Part 7)* “You might explain, for instance, how a person you **respect** had a positive impact on your life.”
 1059. *(Test 9 · Part 7)* Karl, I **am** on-site at the Crosley Bridge now.
-1060. *(Test 9 · Part 7)* What do you think? → *do think*
+1060. *(Test 9 · Part 7)* What **do** you **think**?
 1061. *(Test 9 · Part 7)* It definitely **needs** routine maintenance, and we may have to plan some additional work.
 1062. *(Test 9 · Part 7)* **Is** it something our crews can do, or do we need to contract it out?
 1063. *(Test 9 · Part 7)* I still **need** to take pictures and finish the routine inspection.
@@ -1143,34 +1143,34 @@
 1101. *(Test 9 · Part 7)* Lunskip Construction **is** a long-time customer with high expectations.
 1102. *(Test 9 · Part 7 – câu hỏi)* What **is** the purpose of the event?
 1103. *(Test 9 · Part 7 – câu hỏi)* What **is** most likely true about Mr. Hong's account?
-1104. *(Test 9 · Part 7 – câu hỏi)* At 9:36 A.M., what does Mr. Dakers most likely mean when he writes, "But I need to get to the office soon"? → *does most likely mean*
+1104. *(Test 9 · Part 7 – câu hỏi)* At 9:36 A.M., what **does** Mr. Dakers **most likely mean** when he writes, "But I need to get to the office soon"?
 1105. *(Test 9 · Part 7 – câu hỏi)* The word "ordinarily" in paragraph 1, line 1, **is** closest in meaning to
 1106. *(Test 9 · Part 7 – câu hỏi)* What **is indicated** about Bellerson Financial?
 1107. *(Test 9 · Part 7 – câu hỏi)* What **is** the deadline for requesting vacation time?
-1108. *(Test 9 · Part 7 – câu hỏi)* How does the Cirro model differ from the other new phone models? → *does differ*
+1108. *(Test 9 · Part 7 – câu hỏi)* How **does** the Cirro model **differ** from the other new phone models?
 1109. *(Test 9 · Part 7 – câu hỏi)* What **is** Ms. Finley's film project about?
-1110. *(Test 9 · Part 7 – câu hỏi)* What does Ms. Finley want people to do? → *does want*
+1110. *(Test 9 · Part 7 – câu hỏi)* What **does** Ms. Finley **want** people to do?
 1111. *(Test 9 · Part 7 – câu hỏi)* For whom **are** the instructions most likely intended?
 1112. *(Test 9 · Part 7 – câu hỏi)* What **is NOT mentioned** as something to be considered when writing a personal statement?
 1113. *(Test 9 · Part 7 – câu hỏi)* What **is** the main purpose of the text-message chain?
 1114. *(Test 9 · Part 7 – câu hỏi)* Where **is** Ms. Jeon at the time of the text-message chain?
-1115. *(Test 9 · Part 7 – câu hỏi)* At 8:18 A.M., what does Ms. Jeon most likely mean when she writes, "I'll be there by 12:30"? → *does most likely mean*
+1115. *(Test 9 · Part 7 – câu hỏi)* At 8:18 A.M., what **does** Ms. Jeon **most likely mean** when she writes, "I'll be there by 12:30"?
 1116. *(Test 9 · Part 7 – câu hỏi)* What **is indicated** about Mr. Fukiyama?
-1117. *(Test 9 · Part 7 – câu hỏi)* What does Ms. Acro offer to send to Mr. Fukiyama? → *does offer*
+1117. *(Test 9 · Part 7 – câu hỏi)* What **does** Ms. Acro **offer** to send to Mr. Fukiyama?
 1118. *(Test 9 · Part 7 – câu hỏi)* What **is indicated** in the article about the upgrades to exhibits?
 1119. *(Test 9 · Part 7 – câu hỏi)* What **is suggested** about Ms. Wert?
-1120. *(Test 9 · Part 7 – câu hỏi)* What does Ms. Wert encourage museum visitors to do? → *does encourage*
+1120. *(Test 9 · Part 7 – câu hỏi)* What **does** Ms. Wert **encourage** museum visitors to do?
 1121. *(Test 9 · Part 7 – câu hỏi)* What do the vendors in booths 101 and 103 have in common? → *do have*
 1122. *(Test 9 · Part 7 – câu hỏi)* What **is mentioned** about Franny's Sensational Scents?
 1123. *(Test 9 · Part 7 – câu hỏi)* What **is suggested** about Ms. McFarlan's workplace?
 1124. *(Test 9 · Part 7 – câu hỏi)* What **is suggested** about Superra Cleaning?
-1125. *(Test 9 · Part 7 – câu hỏi)* According to the Web page, what do the special services have in common? → *do have*
+1125. *(Test 9 · Part 7 – câu hỏi)* According to the Web page, what **do** the special services **have** in common?
 1126. *(Test 9 · Part 7 – câu hỏi)* What **is** most likely true about Mr. Singh?
 1127. *(Test 9 · Part 7 – câu hỏi)* In the online review, the word "just" in paragraph 2, line 2, **is** closest in meaning to
 1128. *(Test 9 · Part 7 – câu hỏi)* What **is** the purpose of the Web page?
-1129. *(Test 9 · Part 7 – câu hỏi)* What does the Web page suggest about Mr. Wu? → *does suggest*
+1129. *(Test 9 · Part 7 – câu hỏi)* What **does** the Web page **suggest** about Mr. Wu?
 1130. *(Test 9 · Part 7 – câu hỏi)* What items offered by Mr. Townsend will Beachside Used Books most likely **accept**?
-1131. *(Test 9 · Part 7 – câu hỏi)* What does Mr. Townsend indicate in the e-mail? → *does indicate*
+1131. *(Test 9 · Part 7 – câu hỏi)* What **does** Mr. Townsend **indicate** in the e-mail?
 1132. *(Test 9 · Part 7 – câu hỏi)* Who most likely **is** Mr. Aurinen?
 1133. *(Test 9 · Part 7 – câu hỏi)* What **is suggested** by the contact list?
 1134. *(Test 9 · Part 7 – câu hỏi)* What **is suggested** about Mr. Hillman?
@@ -1258,7 +1258,7 @@
 1216. *(Test 10 · Part 7)* We **take** appointments during regular business hours, Monday through Saturday from 9:00 A.M. to 5:00 P.M. When you come in for your appointment, a technician will assess the condition of your bicycle, and a sales associate will determine its current value.
 1217. *(Test 10 · Part 7)* If the value specified **is** acceptable to you and you wish to trade in your bicycle, we deduct that amount from the purchase price of your new bicycle.
 1218. *(Test 10 · Part 7)* If you **prefer** a consignment arrangement, we will sell your bicycle for the agreed-upon amount.
-1219. *(Test 10 · Part 7)* Do you expect that the bicycle will be sold by then? → *Do expect*
+1219. *(Test 10 · Part 7)* **Do** you **expect** that the bicycle will be sold by then?
 1220. *(Test 10 · Part 7)* At the training for new hires this morning, we provided you with a checklist of the documents that we **need** to have on file.
 1221. *(Test 10 · Part 7)* Employees usually **submit** a copy of their driver’s license (front and back) or the personal information page from their passport, but any official government identification is acceptable.
 1222. *(Test 10 · Part 7)* Our company team **participates** in a league, and it’s a great way to build rapport with the people you will be working alongside.
@@ -1274,49 +1274,49 @@
 1232. *(Test 10 · Part 7)* If employees **bring** dishes for the picnic, I'd be happy to make something.
 1233. *(Test 10 · Part 7)* Or **is** the food being provided by a caterer?
 1234. *(Test 10 · Part 7 – câu hỏi)* What **is** true about Hampton Landscaping?
-1235. *(Test 10 · Part 7 – câu hỏi)* At 1:20 P.M., what does Mr. Gerlin imply when he writes, "Can you give me 45 minutes or so"? → *does imply*
-1236. *(Test 10 · Part 7 – câu hỏi)* What do both trips have in common? → *do have*
-1237. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Lombardo ask Mr. Garza to do? → *does ask*
+1235. *(Test 10 · Part 7 – câu hỏi)* At 1:20 P.M., what **does** Mr. Gerlin **imply** when he writes, "Can you give me 45 minutes or so"?
+1236. *(Test 10 · Part 7 – câu hỏi)* What **do** both trips **have** in common?
+1237. *(Test 10 · Part 7 – câu hỏi)* What **does** Ms. Lombardo **ask** Mr. Garza to do?
 1238. *(Test 10 · Part 7 – câu hỏi)* What **is suggested** about Ms. Yamaguchi?
 1239. *(Test 10 · Part 7 – câu hỏi)* The word "solid" in paragraph 2, line 1, **is** closest in meaning to
 1240. *(Test 10 · Part 7 – câu hỏi)* What **is NOT mentioned** as a benefit of the proposed partnership?
 1241. *(Test 10 · Part 7 – câu hỏi)* What **is NOT indicated** about KMC?
 1242. *(Test 10 · Part 7 – câu hỏi)* The word "**reflects**" in paragraph 3, line 5, is closest in meaning to
-1243. *(Test 10 · Part 7 – câu hỏi)* Why does Ms. Balog want to close the pool early? → *does want*
+1243. *(Test 10 · Part 7 – câu hỏi)* Why **does** Ms. Balog **want** to close the pool early?
 1244. *(Test 10 · Part 7 – câu hỏi)* What **is implied** about Rosemoor Park?
-1245. *(Test 10 · Part 7 – câu hỏi)* At 4:11 P.M., what does Ms. Balog most likely mean when she writes, "It has never looked so good"? → *does most likely mean*
+1245. *(Test 10 · Part 7 – câu hỏi)* At 4:11 P.M., what **does** Ms. Balog **most likely mean** when she writes, "It has never looked so good"?
 1246. *(Test 10 · Part 7 – câu hỏi)* What kind of business **is** Sagemont Services?
 1247. *(Test 10 · Part 7 – câu hỏi)* What **is indicated** about Clothing Discounters?
 1248. *(Test 10 · Part 7 – câu hỏi)* What **is indicated** about Ms. Alonso?
 1249. *(Test 10 · Part 7 – câu hỏi)* What **is indicated** about MCAC?
-1250. *(Test 10 · Part 7 – câu hỏi)* What does the table indicate about customers' satisfaction with their overall experience? → *does indicate*
+1250. *(Test 10 · Part 7 – câu hỏi)* What **does** the table **indicate** about customers' satisfaction with their overall experience?
 1251. *(Test 10 · Part 7 – câu hỏi)* What **is suggested** about Exelrate?
 1252. *(Test 10 · Part 7 – câu hỏi)* In the article, the word "directing" in paragraph 1, line 10, **is** closest in meaning to
 1253. *(Test 10 · Part 7 – câu hỏi)* What **is** Mr. Tsudama's area of expertise?
 1254. *(Test 10 · Part 7 – câu hỏi)* For whom **is** the notice most likely intended?
 1255. *(Test 10 · Part 7 – câu hỏi)* What **is indicated** in the notice about August's cooking classes at Richmond Supermarket?
 1256. *(Test 10 · Part 7 – câu hỏi)* What ingredient **is NOT mentioned** in the review?
-1257. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Klein say she intends to do? → *does say*
+1257. *(Test 10 · Part 7 – câu hỏi)* What **does** Ms. Klein **say** she intends to do?
 1258. *(Test 10 · Part 7 – câu hỏi)* What **is indicated** about Dr. Robbins in the article?
 1259. *(Test 10 · Part 7 – câu hỏi)* According to the Web page, what **is suggested** about Freewheel Oasis?
-1260. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Johnson indicate in her e-mail? → *does indicate*
+1260. *(Test 10 · Part 7 – câu hỏi)* What **does** Ms. Johnson **indicate** in her e-mail?
 1261. *(Test 10 · Part 7 – câu hỏi)* What **is** one purpose of Mr. Moran's e-mail?
 1262. *(Test 10 · Part 7 – câu hỏi)* Who most likely **is** Mr. Moran?
 1263. *(Test 10 · Part 7 – câu hỏi)* What **is** the main purpose of the first e-mail?
-1264. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Kuroda indicate about a company picnic? → *does indicate*
+1264. *(Test 10 · Part 7 – câu hỏi)* What **does** Ms. Kuroda **indicate** about a company picnic?
 
 **🎧 Listening**
 
-1. *(Test 1 · Listening)* How often do you charge this device? → *do charge*
+1. *(Test 1 · Listening)* How often **do** you **charge** this device?
 2. *(Test 1 · Listening)* Everyone **wants** to see her play after her incredible performance.
-3. *(Test 1 · Listening)* What does the woman offer to do? → *does offer*
+3. *(Test 1 · Listening)* What **does** the woman **offer** to do?
 4. *(Test 1 · Listening)* I just **have** one question.
-5. *(Test 1 · Listening)* Do you provide a pickup service? → *Do provide*
-6. *(Test 1 · Listening)* What does the man want to dispose of? → *does want*
+5. *(Test 1 · Listening)* **Do** you **provide** a pickup service?
+6. *(Test 1 · Listening)* What **does** the man **want** to dispose of?
 7. *(Test 1 · Listening)* You **have** so many delicious baked goods here.
 8. *(Test 1 · Listening)* **Welcome** to Jasper Bank.
-9. *(Test 1 · Listening)* Why don't you tell me more about your sports equipment. → *do n't tell*
-10. *(Test 1 · Listening)* When does the woman prefer to meet with an investor? → *does prefer*
+9. *(Test 1 · Listening)* Why **do****n't** you **tell** me more about your sports equipment.
+10. *(Test 1 · Listening)* When **does** the woman **prefer** to meet with an investor?
 11. *(Test 1 · Listening)* So, now we **need** to decide where to place the racks.
 12. *(Test 1 · Listening)* How about by the station the most convenient spot **is** as close to the platform as possible.
 13. *(Test 1 · Listening)* **Thank** you for your patience.
@@ -1356,33 +1356,33 @@
 47. *(Test 1 · Listening – đáp án)* Some company policies **are outdated**.
 48. *(Test 1 · Listening – đáp án)* It **features** an indoor garden.
 49. *(Test 1 · Listening – đáp án)* It **runs** on solar power.
-50. *(Test 1 · Listening – câu hỏi)* What does the woman say she will do? → *does say*
+50. *(Test 1 · Listening – câu hỏi)* What **does** the woman **say** she will do?
 51. *(Test 1 · Listening – câu hỏi)* Who most likely **is** the man?
-52. *(Test 1 · Listening – câu hỏi)* What problem does the woman describe? → *does describe*
-53. *(Test 1 · Listening – câu hỏi)* Why do the men want to speak to the woman? → *do want*
-54. *(Test 1 · Listening – câu hỏi)* What type of business do the men own? → *do own*
-55. *(Test 1 · Listening – câu hỏi)* What does the man want to do? → *does want*
+52. *(Test 1 · Listening – câu hỏi)* What problem **does** the woman **describe**?
+53. *(Test 1 · Listening – câu hỏi)* Why **do** the men **want** to speak to the woman?
+54. *(Test 1 · Listening – câu hỏi)* What type of business **do** the men **own**?
+55. *(Test 1 · Listening – câu hỏi)* What **does** the man **want** to do?
 56. *(Test 1 · Listening – câu hỏi)* What **is** the woman concerned about?
 57. *(Test 1 · Listening – câu hỏi)* Where **is** the woman?
-58. *(Test 1 · Listening – câu hỏi)* Where do the speakers work? → *do work*
-59. *(Test 1 · Listening – câu hỏi)* What news does the man share? → *does share*
-60. *(Test 1 · Listening – câu hỏi)* What special benefit does the speaker mention? → *does mention*
+58. *(Test 1 · Listening – câu hỏi)* Where **do** the speakers **work**?
+59. *(Test 1 · Listening – câu hỏi)* What news **does** the man **share**?
+60. *(Test 1 · Listening – câu hỏi)* What special benefit **does** the speaker **mention**?
 61. *(Test 1 · Listening – câu hỏi)* Who most likely **is** the speaker?
-62. *(Test 1 · Listening – câu hỏi)* Where does the speaker work? → *does work*
+62. *(Test 1 · Listening – câu hỏi)* Where **does** the speaker **work**?
 63. *(Test 1 · Listening – câu hỏi)* What **is** the announcement mainly about?
-64. *(Test 1 · Listening – câu hỏi)* Where does the speaker most likely work? → *does most work*
+64. *(Test 1 · Listening – câu hỏi)* Where **does** the speaker **most** likely **work**?
 65. *(Test 1 · Listening – câu hỏi)* Who most likely **are** the listeners?
-66. *(Test 1 · Listening – câu hỏi)* What does the speaker want to do? → *does want*
-67. *(Test 1 · Listening – câu hỏi)* What does the speaker say is the next step? → *does say*
-68. *(Test 2 · Listening)* Do the tickets go on sale this week or next? → *Do go*
+66. *(Test 1 · Listening – câu hỏi)* What **does** the speaker **want** to do?
+67. *(Test 1 · Listening – câu hỏi)* What **does** the speaker **say** is the next step?
+68. *(Test 2 · Listening)* **Do** the tickets **go** on sale this week or next?
 69. *(Test 2 · Listening)* You**'re** not the first to say that.
-70. *(Test 2 · Listening)* What kind of work does the man do? → *does do*
+70. *(Test 2 · Listening)* What kind of work **does** the man **do**?
 71. *(Test 2 · Listening)* We **have** lots of community residents to volunteer to help with building sets, painting, and setting up the check into that for next year.
 72. *(Test 2 · Listening)* We'll need to decide who we **want** to send to represent our company at the trade show.
-73. *(Test 2 · Listening)* Who do you have in mind? → *do have*
+73. *(Test 2 · Listening)* Who **do** you **have** in mind?
 74. *(Test 2 · Listening)* Well, a former colleague of mine **has** just moved has several years of experience.
 75. *(Test 2 · Listening)* We **need** someone to choose and it said you have lots of experience scouting factories.
-76. *(Test 2 · Listening)* What does the woman want to do next week? → *does want*
+76. *(Test 2 · Listening)* What **does** the woman **want** to do next week?
 77. *(Test 2 · Listening)* I really **need** this coffee break.
 78. *(Test 2 · Listening)* I **like** a little milk in mine.
 79. *(Test 2 · Listening)* So, I **have** some news to share with you.
@@ -1419,26 +1419,26 @@
 110. *(Test 2 · Listening – đáp án)* He **questions** the value of an investment.
 111. *(Test 2 · Listening – đáp án)* A change **is** necessary.
 112. *(Test 2 · Listening – đáp án)* Some roads **are closed** for a bicycle race.
-113. *(Test 2 · Listening – câu hỏi)* What does the man suggest? → *does suggest*
-114. *(Test 2 · Listening – câu hỏi)* Why do the speakers need to wait? → *do need*
+113. *(Test 2 · Listening – câu hỏi)* What **does** the man **suggest**?
+114. *(Test 2 · Listening – câu hỏi)* Why **do** the speakers **need** to wait?
 115. *(Test 2 · Listening – câu hỏi)* Who **is** the woman?
-116. *(Test 2 · Listening – câu hỏi)* What does the woman suggest doing? → *does suggest*
-117. *(Test 2 · Listening – câu hỏi)* What does the man say he is planning to do? → *does say*
-118. *(Test 2 · Listening – câu hỏi)* What does the man tell the woman about? → *does tell*
-119. *(Test 2 · Listening – câu hỏi)* What industry do the men work in? → *do work*
-120. *(Test 2 · Listening – câu hỏi)* What type of business do the speakers work for? → *do work*
-121. *(Test 2 · Listening – câu hỏi)* What industry do the men most likely work in? → *do most work*
-122. *(Test 2 · Listening – câu hỏi)* What type of business does the woman work in? → *does work*
-123. *(Test 2 · Listening – câu hỏi)* What does the man most likely do? → *does most do*
-124. *(Test 2 · Listening – câu hỏi)* What does the woman provide? → *does provide*
-125. *(Test 2 · Listening – câu hỏi)* What problem does the speaker mention? → *does mention*
-126. *(Test 2 · Listening – câu hỏi)* What does the company sell? → *does sell*
+116. *(Test 2 · Listening – câu hỏi)* What **does** the woman **suggest** doing?
+117. *(Test 2 · Listening – câu hỏi)* What **does** the man **say** he is planning to do?
+118. *(Test 2 · Listening – câu hỏi)* What **does** the man **tell** the woman about?
+119. *(Test 2 · Listening – câu hỏi)* What industry **do** the men **work** in?
+120. *(Test 2 · Listening – câu hỏi)* What type of business **do** the speakers **work** for?
+121. *(Test 2 · Listening – câu hỏi)* What industry **do** the men **most** likely **work** in?
+122. *(Test 2 · Listening – câu hỏi)* What type of business **does** the woman **work** in?
+123. *(Test 2 · Listening – câu hỏi)* What **does** the man **most** likely **do**?
+124. *(Test 2 · Listening – câu hỏi)* What **does** the woman **provide**?
+125. *(Test 2 · Listening – câu hỏi)* What problem **does** the speaker **mention**?
+126. *(Test 2 · Listening – câu hỏi)* What **does** the company **sell**?
 127. *(Test 2 · Listening – câu hỏi)* What **is** the episode mainly about?
-128. *(Test 2 · Listening – câu hỏi)* What does the speaker say the company sells? → *does say*
+128. *(Test 2 · Listening – câu hỏi)* What **does** the speaker **say** the company sells?
 129. *(Test 2 · Listening – câu hỏi)* What **is** the purpose of the meeting?
-130. *(Test 3 · Listening)* Do you want the draft of the proposal e-mailed to you or printed out? → *Do want*
+130. *(Test 3 · Listening)* **Do** you **want** the draft of the proposal e-mailed to you or printed out?
 131. *(Test 3 · Listening)* Which day **is** most convenient for you?
-132. *(Test 3 · Listening)* Does your company send out the same promotional material every month? → *Does send*
+132. *(Test 3 · Listening)* **Does** your company **send** out the same promotional material every month?
 133. *(Test 3 · Listening)* I **want** to add it to the regular menu.
 134. *(Test 3 · Listening)* The train **leaves** from platform twelve in looking forward to our company gala event umbrella?
 135. *(Test 3 · Listening)* I **forgot** mine.
@@ -1448,27 +1448,27 @@
 139. *(Test 3 · Listening)* **Is** there something I can help you with?
 140. *(Test 3 · Listening)* Oh, here she **comes**.
 141. *(Test 3 · Listening)* Why **is** the customer traveling to Toronto?
-142. *(Test 3 · Listening)* What does the woman agree to do? → *does agree*
+142. *(Test 3 · Listening)* What **does** the woman **agree** to do?
 143. *(Test 3 · Listening)* I **work** nine to five every day at my current job.
 144. *(Test 3 · Listening)* Yes, I **have** them.
 145. *(Test 3 · Listening)* I **forgot** to tell you.
 146. *(Test 3 · Listening)* We already **have** a list of performers who have agreed to appear.
 147. *(Test 3 · Listening)* Fortunately, check sometime today to see whether we **have** money for extra fencing?
 148. *(Test 3 · Listening)* However, starting next month, our company will launch a research and development division and start this change to allow us to have more control over the quality of the technology we **produce**.
-149. *(Test 3 · Listening)* Why does the speaker apologize? → *does apologize*
-150. *(Test 3 · Listening)* Why does the speaker call employees in early? → *does call*
+149. *(Test 3 · Listening)* Why **does** the speaker **apologize**?
+150. *(Test 3 · Listening)* Why **does** the speaker **call** employees in early?
 151. *(Test 3 · Listening)* That technology **is** now widely available.
 152. *(Test 3 · Listening)* You may find that even small businesses **charge** more when demand is higher.
 153. *(Test 3 · Listening)* Our guest today **is** Professor Yun Hang, a leading expert on the at the International Economics Summit.
 154. *(Test 3 · Listening)* Can you take care of that before you **start** printing?
-155. *(Test 3 · Listening)* Which number does the speaker want to change? → *does want*
+155. *(Test 3 · Listening)* Which number **does** the speaker **want** to change?
 156. *(Test 3 · Listening)* Who most likely **is** the listener?
 157. *(Test 3 · Listening – đáp án)* Some bushes **are covered** with snow.
 158. *(Test 3 · Listening – đáp án)* They**'re seated** next to each other.
 159. *(Test 3 · Listening – đáp án)* A selection of luggage **is** on display.
 160. *(Test 3 · Listening – đáp án)* A tent **is set** up next to a lake.
 161. *(Test 3 · Listening – đáp án)* Yes, it really **brightens** up the room.
-162. *(Test 3 · Listening – đáp án)* How much does the box weigh? → *does weigh*
+162. *(Test 3 · Listening – đáp án)* How much **does** the box **weigh**?
 163. *(Test 3 · Listening – đáp án)* To the lobby, I **think**.
 164. *(Test 3 · Listening – đáp án)* The other team **has** a ten-point lead.
 165. *(Test 3 · Listening – đáp án)* The office supplies **are** in the storage room.
@@ -1491,39 +1491,39 @@
 182. *(Test 3 · Listening – đáp án)* A stage **needs** to be repainted.
 183. *(Test 3 · Listening – đáp án)* There **is** not enough fencing.
 184. *(Test 3 · Listening – đáp án)* He **expects** a busy night.
-185. *(Test 3 · Listening – câu hỏi)* What does the man suggest considering? → *does suggest*
-186. *(Test 3 · Listening – câu hỏi)* What problem does the woman mention? → *does mention*
-187. *(Test 3 · Listening – câu hỏi)* What does the man offer to do? → *does offer*
-188. *(Test 3 · Listening – câu hỏi)* Why does the man congratulate the woman? → *does congratulate*
-189. *(Test 3 · Listening – câu hỏi)* Why does the man want a refund? → *does want*
-190. *(Test 3 · Listening – câu hỏi)* What type of company do the speakers work for? → *do work*
-191. *(Test 3 · Listening – câu hỏi)* What does the man say he will do? → *does say*
-192. *(Test 3 · Listening – câu hỏi)* What does the man say he needs to have done? → *does say*
-193. *(Test 3 · Listening – câu hỏi)* What does the speaker offer the listeners? → *does offer*
-194. *(Test 3 · Listening – câu hỏi)* What industry does the speaker work in? → *does work*
+185. *(Test 3 · Listening – câu hỏi)* What **does** the man **suggest** considering?
+186. *(Test 3 · Listening – câu hỏi)* What problem **does** the woman **mention**?
+187. *(Test 3 · Listening – câu hỏi)* What **does** the man **offer** to do?
+188. *(Test 3 · Listening – câu hỏi)* Why **does** the man **congratulate** the woman?
+189. *(Test 3 · Listening – câu hỏi)* Why **does** the man **want** a refund?
+190. *(Test 3 · Listening – câu hỏi)* What type of company **do** the speakers **work** for?
+191. *(Test 3 · Listening – câu hỏi)* What **does** the man **say** he will do?
+192. *(Test 3 · Listening – câu hỏi)* What **does** the man **say** he needs to have done?
+193. *(Test 3 · Listening – câu hỏi)* What **does** the speaker **offer** the listeners?
+194. *(Test 3 · Listening – câu hỏi)* What industry **does** the speaker **work** in?
 195. *(Test 3 · Listening – câu hỏi)* What **is** the focus of the podcast?
-196. *(Test 3 · Listening – câu hỏi)* What does the speaker ask supervisors to do? → *does ask*
+196. *(Test 3 · Listening – câu hỏi)* What **does** the speaker **ask** supervisors to do?
 197. *(Test 3 · Listening – câu hỏi)* What type of news **is** the broadcast about?
-198. *(Test 4 · Listening)* When does your manager usually come in? → *does usually come*
+198. *(Test 4 · Listening)* When **does** your manager **usually come** in?
 199. *(Test 4 · Listening)* **Is**n't there a discount on this computer monitor?
-200. *(Test 4 · Listening)* How often does the bus stop at this location? → *does stop*
+200. *(Test 4 · Listening)* How often **does** the bus **stop** at this location?
 201. *(Test 4 · Listening)* What**'s** the candidate review process?
 202. *(Test 4 · Listening)* **Do** the restaurants in the
-203. *(Test 4 · Listening)* What does the woman ask the man for? → *does ask*
+203. *(Test 4 · Listening)* What **does** the woman **ask** the man for?
 204. *(Test 4 · Listening)* We **have** him booked to appear on the through the end of August.
 205. *(Test 4 · Listening)* You **think** we should focus on advertising on social media, right?
 206. *(Test 4 · Listening)* Contrary to popular belief, 57 telev**is**ion is definitely not the entire advertising landscape.
 207. *(Test 4 · Listening)* Advert**is**ing on the Internet is also a great way for a company to increase its visibility.
 208. *(Test 4 · Listening)* It **looks** like that purchase was made abroad.
-209. *(Test 4 · Listening)* Which amount does the woman ask about? → *does ask*
-210. *(Test 4 · Listening)* What does the man give the woman? → *does give*
+209. *(Test 4 · Listening)* Which amount **does** the woman **ask** about?
+210. *(Test 4 · Listening)* What **does** the man **give** the woman?
 211. *(Test 4 · Listening)* Which **reminds** me, where should we set up the table for that?
-212. *(Test 4 · Listening)* What does the man thank the woman for doing? → *does thank*
+212. *(Test 4 · Listening)* What **does** the man **thank** the woman for doing?
 213. *(Test 4 · Listening)* **Welcome** to the garden center.
 214. *(Test 4 · Listening)* We **have** monthly posts on many gardening any products you can recommend?
-215. *(Test 4 · Listening)* What field does the speaker most likely work in? → *does most work*
+215. *(Test 4 · Listening)* What field **does** the speaker **most** likely **work** in?
 216. *(Test 4 · Listening)* Now, you **have** to say is worth their while.
-217. *(Test 4 · Listening)* What does the speaker say he will do today? → *does say*
+217. *(Test 4 · Listening)* What **does** the speaker **say** he will do today?
 218. *(Test 4 · Listening)* That**'s** just the right combination for spending some time outside on the field comfortably.
 219. *(Test 4 · Listening – đáp án)* I **prefer** working with a team.
 220. *(Test 4 · Listening – đáp án)* I **prefer** a salad.
@@ -1546,30 +1546,30 @@
 237. *(Test 4 · Listening – đáp án)* It **is sponsored** by a major publication.
 238. *(Test 4 · Listening – đáp án)* She **is** a talented songwriter.
 239. *(Test 4 · Listening – câu hỏi)* Who most likely **is** the woman?
-240. *(Test 4 · Listening – câu hỏi)* What does the woman ask for? → *does ask*
-241. *(Test 4 · Listening – câu hỏi)* What does the man say he will check? → *does say*
+240. *(Test 4 · Listening – câu hỏi)* What **does** the woman **ask** for?
+241. *(Test 4 · Listening – câu hỏi)* What **does** the man **say** he will check?
 242. *(Test 4 · Listening – câu hỏi)* Who most likely **is** Giovanni Marino?
-243. *(Test 4 · Listening – câu hỏi)* What type of business do the women own? → *do own*
-244. *(Test 4 · Listening – câu hỏi)* What does the man say regarding television? → *does say*
+243. *(Test 4 · Listening – câu hỏi)* What type of business **do** the women **own**?
+244. *(Test 4 · Listening – câu hỏi)* What **does** the man **say** regarding television?
 245. *(Test 4 · Listening – câu hỏi)* What **is** the purpose of the session?
 246. *(Test 5 · Listening)* When **is** your budget report due?
 247. *(Test 5 · Listening)* **Is**n't the registration deadline tomorrow?
-248. *(Test 5 · Listening)* Where does the woman most likely work? → *does most work*
-249. *(Test 5 · Listening)* What department does the man work in? → *does work*
+248. *(Test 5 · Listening)* Where **does** the woman **most** likely **work**?
+249. *(Test 5 · Listening)* What department **does** the man **work** in?
 250. *(Test 5 · Listening)* We could ask them whether they **have** enough for reach out to the customers about the delay.
-251. *(Test 5 · Listening)* Who does the man suggest contacting? → *does suggest*
-252. *(Test 5 · Listening)* What does our target audience want? → *does want*
+251. *(Test 5 · Listening)* Who **does** the man **suggest** contacting?
+252. *(Test 5 · Listening)* What **does** our target audience **want**?
 253. *(Test 5 · Listening)* They **have** some ideas about how we can increase sales of our denim blue jeans.
 254. *(Test 5 · Listening)* You **know**, it takes a lot of effort to develop and some new designs for us to consider.
-255. *(Test 5 · Listening)* And why do we have T-shirts listed as an expense item? → *do have*
-256. *(Test 5 · Listening)* Do we have an update on that yet? → *Do have*
+255. *(Test 5 · Listening)* And why **do** we **have** T-shirts listed as an expense item?
+256. *(Test 5 · Listening)* **Do** we **have** an update on that yet?
 257. *(Test 5 · Listening)* All the staff feedback **is** available.
 258. *(Test 5 · Listening)* You **know**, I noticed one recurring complaint.
 259. *(Test 5 · Listening)* The size of the break room **is** too small.
 260. *(Test 5 · Listening)* Well, we **do have** money available in the budget.
-261. *(Test 5 · Listening)* What does the woman intend to do next? → *does intend*
+261. *(Test 5 · Listening)* What **does** the woman **intend** to do next?
 262. *(Test 5 · Listening)* That **is** a problem.
-263. *(Test 5 · Listening)* In which area of the city does the business make most of its deliveries? → *does make*
+263. *(Test 5 · Listening)* In which area of the city **does** the business **make** most of its deliveries?
 264. *(Test 5 · Listening)* The cover page **includes** a summary of the skylights?
 265. *(Test 5 · Listening)* They **have** rubber material that nearby trains.
 266. *(Test 5 · Listening)* On top of this, the interior decoration browse upcoming shows, and plan your visit, go to many shows **are already sold** out!
@@ -1597,28 +1597,28 @@
 288. *(Test 5 · Listening – đáp án)* They **are** in disrepair.
 289. *(Test 5 · Listening – đáp án)* They **are** very small.
 290. *(Test 5 · Listening – đáp án)* Many of them **are sold** out.
-291. *(Test 5 · Listening – câu hỏi)* What does the woman ask the man to do for her? → *does ask*
+291. *(Test 5 · Listening – câu hỏi)* What **does** the woman **ask** the man to do for her?
 292. *(Test 5 · Listening – câu hỏi)* Where **is** the man?
-293. *(Test 5 · Listening – câu hỏi)* What do the speakers manufacture? → *do manufacture*
+293. *(Test 5 · Listening – câu hỏi)* What **do** the speakers **manufacture**?
 294. *(Test 5 · Listening – câu hỏi)* Who most likely **is** Junko?
-295. *(Test 5 · Listening – câu hỏi)* What does the woman ask the man to do? → *does ask*
-296. *(Test 5 · Listening – câu hỏi)* Why does the speaker congratulate a team? → *does congratulate*
-297. *(Test 5 · Listening – câu hỏi)* What guideline does the speaker emphasize? → *does emphasize*
-298. *(Test 5 · Listening – câu hỏi)* What does the speaker ask the listeners to do? → *does ask*
-299. *(Test 5 · Listening – câu hỏi)* What does the speaker's company sell? → *does sell*
-300. *(Test 5 · Listening – câu hỏi)* What does the speaker alert the listeners to? → *does alert*
+295. *(Test 5 · Listening – câu hỏi)* What **does** the woman **ask** the man to do?
+296. *(Test 5 · Listening – câu hỏi)* Why **does** the speaker **congratulate** a team?
+297. *(Test 5 · Listening – câu hỏi)* What guideline **does** the speaker **emphasize**?
+298. *(Test 5 · Listening – câu hỏi)* What **does** the speaker **ask** the listeners to do?
+299. *(Test 5 · Listening – câu hỏi)* What **does** the speaker's company **sell**?
+300. *(Test 5 · Listening – câu hỏi)* What **does** the speaker **alert** the listeners to?
 301. *(Test 5 · Listening – câu hỏi)* What industry **is** the mobile app intended for?
 302. *(Test 6 · Listening)* Why **is** the reception at a different location?
-303. *(Test 6 · Listening)* How do you like this office space? → *do like*
+303. *(Test 6 · Listening)* How **do** you **like** this office space?
 304. *(Test 6 · Listening)* **Is** the business local or national?
 305. *(Test 6 · Listening)* Some people **think** the parking garage fee know they have to pay when they exit.
-306. *(Test 6 · Listening)* How does the man plan to address a problem? → *does plan*
+306. *(Test 6 · Listening)* How **does** the man **plan** to address a problem?
 307. *(Test 6 · Listening)* You really **deserve** the honor!
-308. *(Test 6 · Listening)* What does the man ask the woman to help with? → *does ask*
+308. *(Test 6 · Listening)* What **does** the man **ask** the woman to help with?
 309. *(Test 6 · Listening)* Why **is** the woman unable to help?
 310. *(Test 6 · Listening)* Why **is** an item unavailable?
 311. *(Test 6 · Listening)* Who most likely **are** the speakers?
-312. *(Test 6 · Listening)* Does that sound OK? → *Does sound*
+312. *(Test 6 · Listening)* **Does** that **sound** OK?
 313. *(Test 6 · Listening)* I **need** to switch my destination.
 314. *(Test 6 · Listening)* OK, let me just find the e-mail that **has** it.
 315. *(Test 6 · Listening)* Belmack City **has** one of the cargo each day.
@@ -1651,37 +1651,37 @@
 342. *(Test 6 · Listening – đáp án)* There **is** a shortage of supplies.
 343. *(Test 6 · Listening – đáp án)* She **does not want** employees to be late.
 344. *(Test 6 · Listening – đáp án)* Several employees **are** on vacation.
-345. *(Test 6 · Listening – câu hỏi)* What industry do the speakers work in? → *do work*
-346. *(Test 6 · Listening – câu hỏi)* What does the man say he will check on? → *does say*
-347. *(Test 6 · Listening – câu hỏi)* What good news does the woman mention? → *does mention*
+345. *(Test 6 · Listening – câu hỏi)* What industry **do** the speakers **work** in?
+346. *(Test 6 · Listening – câu hỏi)* What **does** the man **say** he will check on?
+347. *(Test 6 · Listening – câu hỏi)* What good news **does** the woman **mention**?
 348. *(Test 6 · Listening – câu hỏi)* What **are** the women excited about?
-349. *(Test 6 · Listening – câu hỏi)* What does the man ask the woman to do? → *does ask*
-350. *(Test 6 · Listening – câu hỏi)* What does the speaker say has changed? → *does say*
+349. *(Test 6 · Listening – câu hỏi)* What **does** the man **ask** the woman to do?
+350. *(Test 6 · Listening – câu hỏi)* What **does** the speaker **say** has changed?
 351. *(Test 6 · Listening – câu hỏi)* What **is** the news segment about?
 352. *(Test 6 · Listening – câu hỏi)* What **is** the focus of the workshop?
-353. *(Test 6 · Listening – câu hỏi)* What service does the company provide? → *does provide*
-354. *(Test 6 · Listening – câu hỏi)* What does the speaker say about Friday? → *does say*
-355. *(Test 6 · Listening – câu hỏi)* What does the speaker recommend? → *does recommend*
-356. *(Test 7 · Listening)* Does the company pay for our hotel rooms? → *Does pay*
-357. *(Test 7 · Listening)* How do I log on to this computer? → *do log*
-358. *(Test 7 · Listening)* Do you want anything? → *Do want*
-359. *(Test 7 · Listening)* What complaint does the man make? → *does make*
-360. *(Test 7 · Listening)* What does the woman suggest the man do? → *does suggest*
-361. *(Test 7 · Listening)* How do I do that? → *do do*
+353. *(Test 6 · Listening – câu hỏi)* What service **does** the company **provide**?
+354. *(Test 6 · Listening – câu hỏi)* What **does** the speaker **say** about Friday?
+355. *(Test 6 · Listening – câu hỏi)* What **does** the speaker **recommend**?
+356. *(Test 7 · Listening)* **Does** the company **pay** for our hotel rooms?
+357. *(Test 7 · Listening)* How **do** I **log** on to this computer?
+358. *(Test 7 · Listening)* **Do** you **want** anything?
+359. *(Test 7 · Listening)* What complaint **does** the man **make**?
+360. *(Test 7 · Listening)* What **does** the woman **suggest** the man do?
+361. *(Test 7 · Listening)* How **do** I **do** that?
 362. *(Test 7 · Listening)* What type of business **is** the man calling?
-363. *(Test 7 · Listening)* Do you actually work on set? → *Do actually work*
+363. *(Test 7 · Listening)* **Do** you **actually work** on set?
 364. *(Test 7 · Listening)* When there **are** last-minute changes, I make sure the changes are historically accurate.
 365. *(Test 7 · Listening)* What **is** the woman's current job?
-366. *(Test 7 · Listening)* Do you two have any suggestions? → *Do have*
-367. *(Test 7 · Listening)* Junko, what do you think? → *do think*
+366. *(Test 7 · Listening)* **Do** you two **have** any suggestions?
+367. *(Test 7 · Listening)* Junko, what **do** you **think**?
 368. *(Test 7 · Listening)* Parking **is** free this weekend.
-369. *(Test 7 · Listening)* Do you have a map of the park trails? → *Do have*
+369. *(Test 7 · Listening)* **Do** you **have** a map of the park trails?
 370. *(Test 7 · Listening)* The city **appreciates** your be investing in this community in such a substantial way.
 371. *(Test 7 · Listening)* We **have** plenty of plants that do well in shade or partial sun.
 372. *(Test 7 · Listening)* People **spend** a lot of time outside summer rush.
 373. *(Test 7 · Listening)* We **have** a large group coming in next week.
-374. *(Test 7 · Listening)* Which logo design does the man prefer? → *does prefer*
-375. *(Test 7 · Listening)* What crops do you think would be best? → *do think*
+374. *(Test 7 · Listening)* Which logo design **does** the man **prefer**?
+375. *(Test 7 · Listening)* What crops **do** you **think** would be best?
 376. *(Test 7 · Listening)* When we **return** on Monday for our of the costumes and will be making last-minute first show on Tuesday night!
 377. *(Test 7 · Listening)* I'd like all of you to just found out that Astrid **plays** saxophone in a Klaus, would you go first?
 378. *(Test 7 · Listening)* We **apologize** for any inconvenience.
@@ -1704,29 +1704,29 @@
 395. *(Test 7 · Listening – đáp án)* She **agrees** with a choice.
 396. *(Test 7 · Listening – đáp án)* She **needs** volunteers to help.
 397. *(Test 7 · Listening – đáp án)* Customers **are lined** up at a cash register.
-398. *(Test 7 · Listening – câu hỏi)* What does the man remind the woman about? → *does remind*
-399. *(Test 7 · Listening – câu hỏi)* What does the woman say she likes? → *does say*
+398. *(Test 7 · Listening – câu hỏi)* What **does** the man **remind** the woman about?
+399. *(Test 7 · Listening – câu hỏi)* What **does** the woman **say** she likes?
 400. *(Test 7 · Listening – câu hỏi)* Where **is** the conversation taking place?
-401. *(Test 7 · Listening – câu hỏi)* Why does the woman say she is concerned? → *does say*
-402. *(Test 7 · Listening – câu hỏi)* Where does the man most likely work? → *does most work*
-403. *(Test 7 · Listening – câu hỏi)* What does the woman ask about? → *does ask*
-404. *(Test 7 · Listening – câu hỏi)* Why does the speaker thank the listeners? → *does thank*
-405. *(Test 7 · Listening – câu hỏi)* What does the speaker recommend doing? → *does recommend*
-406. *(Test 7 · Listening – câu hỏi)* What does the speaker say happened last week? → *does say*
+401. *(Test 7 · Listening – câu hỏi)* Why **does** the woman **say** she is concerned?
+402. *(Test 7 · Listening – câu hỏi)* Where **does** the man **most** likely **work**?
+403. *(Test 7 · Listening – câu hỏi)* What **does** the woman **ask** about?
+404. *(Test 7 · Listening – câu hỏi)* Why **does** the speaker **thank** the listeners?
+405. *(Test 7 · Listening – câu hỏi)* What **does** the speaker **recommend** doing?
+406. *(Test 7 · Listening – câu hỏi)* What **does** the speaker **say** happened last week?
 407. *(Test 7 · Listening – câu hỏi)* What **is** the purpose of the talk?
 408. *(Test 7 · Listening – câu hỏi)* What **is** the broadcast mainly about?
-409. *(Test 7 · Listening – câu hỏi)* What goal does the speaker mention? → *does mention*
+409. *(Test 7 · Listening – câu hỏi)* What goal **does** the speaker **mention**?
 410. *(Test 8 · Listening)* Where **are** the notes from the client meeting?
-411. *(Test 8 · Listening)* How often do you travel abroad? → *do travel*
+411. *(Test 8 · Listening)* How often **do** you **travel** abroad?
 412. *(Test 8 · Listening)* How many books **are** in this mystery series?
 413. *(Test 8 · Listening)* Why **is** the conference in London this year?
 414. *(Test 8 · Listening)* It **flickers** off and on sometimes.
-415. *(Test 8 · Listening)* What do the speakers agree to do? → *do agree*
-416. *(Test 8 · Listening)* Do you have your sample with you? → *Do have*
+415. *(Test 8 · Listening)* What **do** the speakers **agree** to do?
+416. *(Test 8 · Listening)* **Do** you **have** your sample with you?
 417. *(Test 8 · Listening)* I **have** it right here.
 418. *(Test 8 · Listening)* **Is** there a special menu for large groups?
 419. *(Test 8 · Listening)* **Thank** you for flying with us.
-420. *(Test 8 · Listening)* Do you have any idea how long the delay might be? → *Do have*
+420. *(Test 8 · Listening)* **Do** you **have** any idea how long the delay might be?
 421. *(Test 8 · Listening)* Your car **is** ready.
 422. *(Test 8 · Listening)* It **looks** like I billed sign you up for our rewards program.
 423. *(Test 8 · Listening)* I also **help** set up for the sales sound equipment in the conference room.
@@ -1736,7 +1736,7 @@
 427. *(Test 8 · Listening)* But you should know, I only **use** the highest-quality materials in my work.
 428. *(Test 8 · Listening)* Please check out the reviews on my Web site if you **have** any project before you go away on your vacation, but could start at the beginning of April, though.
 429. *(Test 8 · Listening)* I **look** forward to hearing back from you soon.
-430. *(Test 8 · Listening)* What does the speaker encourage the listeners to do? → *does encourage*
+430. *(Test 8 · Listening)* What **does** the speaker **encourage** the listeners to do?
 431. *(Test 8 · Listening – đáp án)* A fence **is** visible through the window.
 432. *(Test 8 · Listening – đáp án)* The window glass **needs** to be repaired.
 433. *(Test 8 · Listening – đáp án)* Yes, I **get** alerts on my phone.
@@ -1760,17 +1760,17 @@
 451. *(Test 8 · Listening – đáp án)* She **has** a professional certification.
 452. *(Test 8 · Listening – đáp án)* She **is** an environmental expert.
 453. *(Test 8 · Listening – đáp án)* They **list** a schedule of holidays.
-454. *(Test 8 · Listening – câu hỏi)* What does the man like about a project? → *does like*
-455. *(Test 8 · Listening – câu hỏi)* What does the man suggest doing? → *does suggest*
+454. *(Test 8 · Listening – câu hỏi)* What **does** the man **like** about a project?
+455. *(Test 8 · Listening – câu hỏi)* What **does** the man **suggest** doing?
 456. *(Test 8 · Listening – câu hỏi)* What **are** the speakers working on?
-457. *(Test 8 · Listening – câu hỏi)* What does the man suggest that they do later? → *does suggest*
+457. *(Test 8 · Listening – câu hỏi)* What **does** the man **suggest** that they do later?
 458. *(Test 8 · Listening – câu hỏi)* Why **are** the men traveling to Toronto?
-459. *(Test 8 · Listening – câu hỏi)* Why does the woman want to buy a new pillow? → *does want*
+459. *(Test 8 · Listening – câu hỏi)* Why **does** the woman **want** to buy a new pillow?
 460. *(Test 8 · Listening – câu hỏi)* Who most likely **is** Marion?
 461. *(Test 8 · Listening – câu hỏi)* Who **is** the advertisement intended for?
 462. *(Test 8 · Listening – câu hỏi)* What **is** the announcement mostly about?
 463. *(Test 8 · Listening – câu hỏi)* Who **is** the speaker?
-464. *(Test 8 · Listening – câu hỏi)* What does the speaker say about Lihong Hao? → *does say*
+464. *(Test 8 · Listening – câu hỏi)* What **does** the speaker **say** about Lihong Hao?
 465. *(Test 8 · Listening – câu hỏi)* What **is** the talk mainly about?
 466. *(Test 9 · Listening)* Who **is** the keynote speaker on Friday?
 467. *(Test 9 · Listening)* Ms. Lambert **is** responsible for the payroll.
@@ -1785,16 +1785,16 @@
 476. *(Test 9 · Listening)* As you **know**, this will be our third location.
 477. *(Test 9 · Listening)* So 541 **think** I might like to try a different kind of approach this time.
 478. *(Test 9 · Listening)* What **is** the conversation mainly about?
-479. *(Test 9 · Listening)* Is it based on where the dish originated? → *Is based*
-480. *(Test 9 · Listening)* What do you think? → *do think*
-481. *(Test 9 · Listening)* Which day does the woman want to change the special offer for? → *does want*
-482. *(Test 9 · Listening)* What does the man say he wants to confirm? → *does say*
+479. *(Test 9 · Listening)* **Is** it **based** on where the dish originated?
+480. *(Test 9 · Listening)* What **do** you **think**?
+481. *(Test 9 · Listening)* Which day **does** the woman **want** to change the special offer for?
+482. *(Test 9 · Listening)* What **does** the man **say** he wants to confirm?
 483. *(Test 9 · Listening)* The gift shop has sold out of a lot the d**is**play shirt is a small?
 484. *(Test 9 · Listening)* That print **is** one of my favorites.
 485. *(Test 9 · Listening)* In fact, right now, we **have** a promotion on fences.
-486. *(Test 9 · Listening)* Where does the woman want to install a fence? → *does want*
+486. *(Test 9 · Listening)* Where **does** the woman **want** to install a fence?
 487. *(Test 9 · Listening)* Our route along the river **provides** a great view of the architecture.
-488. *(Test 9 · Listening)* What does the speaker say is available on board the boat? → *does say*
+488. *(Test 9 · Listening)* What **does** the speaker **say** is available on board the boat?
 489. *(Test 9 · Listening)* The hope clothing **is** up twenty percent from last year.
 490. *(Test 9 · Listening)* Your boarding time **remains** as scheduled do not yet have a seat assignment, please come up to the counter now so that Claudia can assist baggage must comply with our height and width throughout the terminal for your reference.
 491. *(Test 9 · Listening)* What **is** the destination of the affected flight?
@@ -1809,7 +1809,7 @@
 500. *(Test 9 · Listening – đáp án)* I **prefer** to use local suppliers.
 501. *(Test 9 · Listening – đáp án)* Dinner **is** at eight.
 502. *(Test 9 · Listening – đáp án)* The conference center **is** on Walnut Avenue.
-503. *(Test 9 · Listening – đáp án)* Do you have a reservation? → *Do have*
+503. *(Test 9 · Listening – đáp án)* **Do** you **have** a reservation?
 504. *(Test 9 · Listening – đáp án)* The keys **are** on my desk.
 505. *(Test 9 · Listening – đáp án)* I already **have** some.
 506. *(Test 9 · Listening – đáp án)* The car keys **are** on my desk.
@@ -1826,24 +1826,24 @@
 517. *(Test 9 · Listening – đáp án)* An immediate answer **is required**.
 518. *(Test 9 · Listening – đáp án)* Its services **are** free of charge.
 519. *(Test 9 · Listening – câu hỏi)* What **is done** at the start of each shift?
-520. *(Test 9 · Listening – câu hỏi)* What does the woman offer to show the man? → *does offer*
+520. *(Test 9 · Listening – câu hỏi)* What **does** the woman **offer** to show the man?
 521. *(Test 9 · Listening – câu hỏi)* What **is** the speaker reporting on?
 522. *(Test 9 · Listening – câu hỏi)* What **is** the focus of a project?
-523. *(Test 10 · Listening)* Do you want to review the report together, or on your own? → *Do want*
+523. *(Test 10 · Listening)* **Do** you **want** to review the report together, or on your own?
 524. *(Test 10 · Listening)* What**'s** the price of this printer?
 525. *(Test 10 · Listening)* There**'s** a free shuttle bus to the airport, right?
 526. *(Test 10 · Listening)* Who **has** time to edit this article?
 527. *(Test 10 · Listening)* These train tickets **are** expensive.
-528. *(Test 10 · Listening)* Do you think Ms. Wang would be interested in joining the event planning committee? → *Do think*
+528. *(Test 10 · Listening)* **Do** you **think** Ms. Wang would be interested in joining the event planning committee?
 529. *(Test 10 · Listening)* That **means** we be able to add practice rooms so we can offer private music lessons by the end of the year.
-530. *(Test 10 · Listening)* What do you have in mind? → *do have*
+530. *(Test 10 · Listening)* What **do** you **have** in mind?
 531. *(Test 10 · Listening)* Well, I **want** to paint the walls with one of the colors from our new logo, either green or red.
-532. *(Test 10 · Listening)* Do you have a copy of the logo with you? → *Do have*
+532. *(Test 10 · Listening)* **Do** you **have** a copy of the logo with you?
 533. *(Test 10 · Listening)* If I **have** the image, I can mix a custom paint to match it.
 534. *(Test 10 · Listening)* What type of project **is** the man working on?
-535. *(Test 10 · Listening)* What does the woman ask to see? → *does ask*
+535. *(Test 10 · Listening)* What **does** the woman **ask** to see?
 536. *(Test 10 · Listening)* My tank **is** almost empty.
-537. *(Test 10 · Listening)* What does the woman say she will do tomorrow? → *does say*
+537. *(Test 10 · Listening)* What **does** the woman **say** she will do tomorrow?
 538. *(Test 10 · Listening)* We **have** anice selection of arrangements that of the most popular, in a range of prices.
 539. *(Test 10 · Listening)* Can you make that while I **wait**?
 540. *(Test 10 · Listening)* If the process **is done** right, it can be grain bin have to be just right.
@@ -1877,21 +1877,21 @@
 568. *(Test 10 · Listening – đáp án)* It **promises** one-week delivery.
 569. *(Test 10 · Listening – đáp án)* They **sell** athletic clothing.
 570. *(Test 10 · Listening – đáp án)* They **have** similar logos.
-571. *(Test 10 · Listening – câu hỏi)* What does the woman say she is familiar with? → *does say*
+571. *(Test 10 · Listening – câu hỏi)* What **does** the woman **say** she is familiar with?
 572. *(Test 10 · Listening – câu hỏi)* What **is** the man concerned about?
-573. *(Test 10 · Listening – câu hỏi)* What does the man request? → *does request*
-574. *(Test 10 · Listening – câu hỏi)* What does the man say about his company? → *does say*
-575. *(Test 10 · Listening – câu hỏi)* Why does the woman want to purchase flowers? → *does want*
-576. *(Test 10 · Listening – câu hỏi)* What additional item do the speakers discuss? → *do discuss*
-577. *(Test 10 · Listening – câu hỏi)* What does Schneider Technology produce? → *does produce*
-578. *(Test 10 · Listening – câu hỏi)* What project does the speaker mention? → *does mention*
-579. *(Test 10 · Listening – câu hỏi)* What does the speaker assure the listeners of? → *does assure*
-580. *(Test 10 · Listening – câu hỏi)* What does the company make? → *does make*
+573. *(Test 10 · Listening – câu hỏi)* What **does** the man **request**?
+574. *(Test 10 · Listening – câu hỏi)* What **does** the man **say** about his company?
+575. *(Test 10 · Listening – câu hỏi)* Why **does** the woman **want** to purchase flowers?
+576. *(Test 10 · Listening – câu hỏi)* What additional item **do** the speakers **discuss**?
+577. *(Test 10 · Listening – câu hỏi)* What **does** Schneider Technology **produce**?
+578. *(Test 10 · Listening – câu hỏi)* What project **does** the speaker **mention**?
+579. *(Test 10 · Listening – câu hỏi)* What **does** the speaker **assure** the listeners of?
+580. *(Test 10 · Listening – câu hỏi)* What **does** the company **make**?
 581. *(Test 10 · Listening – câu hỏi)* What **is** the main topic of the workshop?
 582. *(Test 10 · Listening – câu hỏi)* Why **is** Clementine Stores in the news report?
 583. *(Test 10 · Listening – câu hỏi)* What **is** the speaker concerned about?
-584. *(Test 10 · Listening – câu hỏi)* How does the speaker begin the meeting? → *does begin*
-585. *(Test 10 · Listening – câu hỏi)* What does the speaker ask the listener to do? → *does ask*
+584. *(Test 10 · Listening – câu hỏi)* How **does** the speaker **begin** the meeting?
+585. *(Test 10 · Listening – câu hỏi)* What **does** the speaker **ask** the listener to do?
 
 ---
 
@@ -1945,9 +1945,9 @@
 40. *(Test 1 · Part 7)* The few questions she **was** unable to answer were quickly addressed by her mentor, Max.
 41. *(Test 1 · Part 7)* We **were** very pleased with the customer service and even more delighted when the general manager agreed to sell us the Excelera for the same price that a competing dealership was advertising.
 42. *(Test 1 · Part 7)* We **received** more great reviews in the past month than we did in the four previous months combined!
-43. *(Test 1 · Part 7 – câu hỏi)* Why did Ms. Barry begin an online chat with Mr. Kubelski? → *did begin*
+43. *(Test 1 · Part 7 – câu hỏi)* Why **did** Ms. Barry **begin** an online chat with Mr. Kubelski?
 44. *(Test 1 · Part 7 – câu hỏi)* Why most likely did the Red Hills Business Association change the dates of its concert series? → *did change*
-45. *(Test 1 · Part 7 – câu hỏi)* When did Lawal Home Service inspect Mr. Gerson's roof? → *did inspect*
+45. *(Test 1 · Part 7 – câu hỏi)* When **did** Lawal Home Service **inspect** Mr. Gerson's roof?
 46. *(Test 1 · Part 7 – câu hỏi)* According to the review, what **surprised** Mr. Gerson about the crew from Lawal Home Service?
 47. *(Test 1 · Part 7 – câu hỏi)* What sample **was delayed**?
 48. *(Test 1 · Part 7 – câu hỏi)* According to the e-mail, who **identified** a technical problem?
@@ -1962,7 +1962,7 @@
 57. *(Test 2 · Part 6)* When Rowena Ellison **opened** the Moortap Bistro in a remote village in the Downland Moors, she wanted to attract customers from larger towns.
 58. *(Test 2 · Part 6)* She **offered** an unusual menu of local dishes prepared with less familiar ingredients, all in a beautiful setting.
 59. *(Test 2 · Part 6)* The eatery **became** one of the area's most successful venues and remains so now.
-60. *(Test 2 · Part 7)* Where did you purchase your Gregerson product? → *did purchase*
+60. *(Test 2 · Part 7)* Where **did** you **purchase** your Gregerson product?
 61. *(Test 2 · Part 7)* As a result of our merger with Frantum Corporation, **printed** business cards for all Ketola Enterprises employees will be replaced.
 62. *(Test 2 · Part 7)* The new cards will be printed on a higher-quality paper stock, as many of you **requested**.
 63. *(Test 2 · Part 7)* Acceptance of the terms is required of all employees and **was requested** in an e-mail I sent on May 1.
@@ -1974,7 +1974,7 @@
 69. *(Test 2 · Part 7)* I **downloaded** the City Link Line app as suggested on your Web site, but I am finding it difficult to navigate.
 70. *(Test 2 · Part 7)* My stay at the Sleepy Time Hotel **was** fantastic.
 71. *(Test 2 · Part 7)* Initially, I **was** worried I could not get to the hotel easily from Johnstown, where I had just finished an exhilarating three-day professional conference.
-72. *(Test 2 · Part 7)* Since I am not familiar with this part of the country, I e-mailed the hotel, and someone responded immediately. → *e*
+72. *(Test 2 · Part 7)* Since I am not familiar with this part of the country, I **e**-mailed the hotel, and someone responded immediately.
 73. *(Test 2 · Part 7)* Ultimately, it **was** easy to get to Charlesville.
 74. *(Test 2 · Part 7)* First, I **took** the 4:05 P.M. train out of Johnstown.
 75. *(Test 2 · Part 7)* Once I **arrived** at Charlesville Central Station, I rode the elevator to the basement, where the light-rail train platforms are located.
@@ -1982,8 +1982,8 @@
 77. *(Test 2 · Part 7)* So I **was** able to purchase some food and have a picnic on the beach.
 78. *(Test 2 · Part 7)* I **felt** so relaxed when I finally returned to my office and got back to work.
 79. *(Test 2 · Part 7 – câu hỏi)* What **prompted** the need for the memo?
-80. *(Test 2 · Part 7 – câu hỏi)* Why did Ms. Brown most likely send the letter? → *did most likely send*
-81. *(Test 2 · Part 7 – câu hỏi)* At what time did Mr. Cho's train most likely arrive in Charlesville? → *did most likely arrive*
+80. *(Test 2 · Part 7 – câu hỏi)* Why **did** Ms. Brown **most likely send** the letter?
+81. *(Test 2 · Part 7 – câu hỏi)* At what time **did** Mr. Cho's train **most likely arrive** in Charlesville?
 82. *(Test 3 · Part 5)* The report **found** that employees who take regular breaks are more productive than those who take no breaks.
 83. *(Test 3 · Part 5)* The heavy traffic on the way to the airport nearly **caused** Ms. Ikeda to miss her flight.
 84. *(Test 3 · Part 5)* A news source **suggested** that the merger will probably take place next year.
@@ -2023,10 +2023,10 @@
 118. *(Test 3 · Part 7)* That these artifacts **were** so close by all this time was truly amazing for my students to contemplate.
 119. *(Test 3 · Part 7)* Since we are already one week into July, I **opened** an account with Music Link Plus (MLP) this morning to expedite our search.
 120. *(Test 3 · Part 7 – câu hỏi)* What are visitors to the Web page **encouraged** to do?
-121. *(Test 3 · Part 7 – câu hỏi)* What did Ms. Paulsen do at a recent meeting? → *did do*
+121. *(Test 3 · Part 7 – câu hỏi)* What **did** Ms. Paulsen **do** at a recent meeting?
 122. *(Test 3 · Part 7 – câu hỏi)* Who **received** a job promotion from within Osmond Microtronics Ltd.?
-123. *(Test 3 · Part 7 – câu hỏi)* What kind of advertising did Ms. Tuan focus on at her previous job? → *did focus*
-124. *(Test 3 · Part 7 – câu hỏi)* According to the review, how did Mr. Stewart learn about Branxley Cycles? → *did learn*
+123. *(Test 3 · Part 7 – câu hỏi)* What kind of advertising **did** Ms. Tuan **focus** on at her previous job?
+124. *(Test 3 · Part 7 – câu hỏi)* According to the review, how **did** Mr. Stewart **learn** about Branxley Cycles?
 125. *(Test 3 · Part 7 – câu hỏi)* According to the Web page, who **made** a recent discovery?
 126. *(Test 3 · Part 7 – câu hỏi)* What is suggested about the tools that Professor Whitford's students **looked** at?
 127. *(Test 3 · Part 7 – câu hỏi)* What is one thing Mr. Ellis **did** on July 7?
@@ -2067,10 +2067,10 @@
 162. *(Test 4 · Part 7)* An enthusiastic group of volunteers **cleared** debris and weeds from the Blue Trail at East Core Park and had the path clean and usable just before noon on the bright, warm day.
 163. *(Test 4 · Part 7)* However, one local artist **donated** a large sculpture, which will be the auction's centerpiece.
 164. *(Test 4 · Part 7 – câu hỏi)* At 9:07 A.M., what does Ms. Black imply when she writes, "I **saw** those"?
-165. *(Test 4 · Part 7 – câu hỏi)* What did Ms. Taimona send with the e-mail? → *did send*
-166. *(Test 4 · Part 7 – câu hỏi)* Why did Mr. Tanner write the e-mail? → *did write*
+165. *(Test 4 · Part 7 – câu hỏi)* What **did** Ms. Taimona **send** with the e-mail?
+166. *(Test 4 · Part 7 – câu hỏi)* Why **did** Mr. Tanner **write** the e-mail?
 167. *(Test 4 · Part 7 – câu hỏi)* What **interrupted** the maintenance of the Blue Trail?
-168. *(Test 4 · Part 7 – câu hỏi)* According to the Web page, what did one nearby resident provide volunteers with? → *did provide*
+168. *(Test 4 · Part 7 – câu hỏi)* According to the Web page, what **did** one nearby resident **provide** volunteers with?
 169. *(Test 4 · Part 7 – câu hỏi)* What artist **donated** the centerpiece of the auction?
 170. *(Test 4 · Part 7 – câu hỏi)* Where **was** Mr. Lennox's follow-up meeting held?
 171. *(Test 5 · Part 5)* Mr. Choi, who recently **joined** the advisory board, is an experienced accountant and investor.
@@ -2126,8 +2126,8 @@
 221. *(Test 6 · Part 7)* I must admit that beautiful lavender bushes that are not native to the area were already growing on the property before I **purchased** it.
 222. *(Test 6 · Part 7)* I am glad you **were** able to follow my complicated written directions for driving to and from the ranch after your GPS app stopped working.
 223. *(Test 6 · Part 7)* The hiking paths on my property are quite overgrown, as your partner **pointed** out.
-224. *(Test 6 · Part 7 – câu hỏi)* What did Ms. Schirmer provide with the e-mail? → *did provide*
-225. *(Test 6 · Part 7 – câu hỏi)* Why did Ms. Rosen send an e-mail to Mr. Iqbal? → *did send*
+224. *(Test 6 · Part 7 – câu hỏi)* What **did** Ms. Schirmer **provide** with the e-mail?
+225. *(Test 6 · Part 7 – câu hỏi)* Why **did** Ms. Rosen **send** an e-mail to Mr. Iqbal?
 226. *(Test 6 · Part 7 – câu hỏi)* According to the schedule, what **happened** in the third quarter?
 227. *(Test 7 · Part 5)* Because the new branch office **was** understaffed, more workers were hired.
 228. *(Test 7 · Part 5)* The scheduled completion date **was** September 4, but the job was finished two weeks ahead of schedule.
@@ -2153,11 +2153,11 @@
 248. *(Test 7 · Part 7)* However, this method **was** ineffective because the bags were rather flimsy, thus failing to prevent water leakage.
 249. *(Test 7 · Part 7)* So, in November, we **decided** to try a PUW machine.
 250. *(Test 7 · Part 7)* Because we have many visitors, we **purchased** the PUW machine with two devices and ordered it in stainless steel to match our modern-looking lobby.
-251. *(Test 7 · Part 7 – câu hỏi)* What did Mr. Thielen receive for signing up for the rewards program? → *did receive*
+251. *(Test 7 · Part 7 – câu hỏi)* What **did** Mr. Thielen **receive** for signing up for the rewards program?
 252. *(Test 7 · Part 7 – câu hỏi)* Where **was** Ms. Loeb's first experience working on electric vehicles?
-253. *(Test 7 · Part 7 – câu hỏi)* Why did Mr. Talbert initiate the online chat discussion? → *did initiate*
+253. *(Test 7 · Part 7 – câu hỏi)* Why **did** Mr. Talbert **initiate** the online chat discussion?
 254. *(Test 7 · Part 7 – câu hỏi)* Who **reported** a negative experience with multiple products?
-255. *(Test 7 · Part 7 – câu hỏi)* Why did Ms. Nguyen write the e-mail? → *did write*
+255. *(Test 7 · Part 7 – câu hỏi)* Why **did** Ms. Nguyen **write** the e-mail?
 256. *(Test 7 · Part 7 – câu hỏi)* What is suggested about the workers who **were hired** last year?
 257. *(Test 7 · Part 7 – câu hỏi)* What is the cost of the product that Mr. Barr **reviewed**?
 258. *(Test 8 · Part 5)* Sydney Fashion Week **drew** thousands of excited visitors to the city last week.
@@ -2201,11 +2201,11 @@
 296. *(Test 8 · Part 7)* She **answered** all my questions and was attuned to the challenges that forklift operators face.
 297. *(Test 8 · Part 7)* They **received** the most comments on the group collage.
 298. *(Test 8 · Part 7)* It really **came** out beautifully, and we appreciate your help with it.
-299. *(Test 8 · Part 7 – câu hỏi)* Why did Ms. Mehta not respond to an e-mail? → *did not respond*
-300. *(Test 8 · Part 7 – câu hỏi)* How most likely did Ms. Lugo know Mr. Maalim? → *did know*
-301. *(Test 8 · Part 7 – câu hỏi)* How much did Ms. Shaw pay for entertainment activities? → *did pay*
+299. *(Test 8 · Part 7 – câu hỏi)* Why **did** Ms. Mehta **not respond** to an e-mail?
+300. *(Test 8 · Part 7 – câu hỏi)* How most likely **did** Ms. Lugo **know** Mr. Maalim?
+301. *(Test 8 · Part 7 – câu hỏi)* How much **did** Ms. Shaw **pay** for entertainment activities?
 302. *(Test 8 · Part 7 – câu hỏi)* Who **taught** the course on April 14?
-303. *(Test 8 · Part 7 – câu hỏi)* When did Ms. Dye take her course? → *did take*
+303. *(Test 8 · Part 7 – câu hỏi)* When **did** Ms. Dye **take** her course?
 304. *(Test 9 · Part 5)* Any document **marked** "Confidential" must be handled and stored carefully.
 305. *(Test 9 · Part 5)* The painter Marion Settimi **developed** her distinctive style during the years she lived in Indonesia.
 306. *(Test 9 · Part 5)* Last Monday, the department **celebrated** Mr. Okada's recent promotion to manager.
@@ -2248,10 +2248,10 @@
 343. *(Test 9 · Part 7)* “We have always excelled at capturing breathtaking video imagery for a wide range of industries, but we can now do so from new perspectives,” **said** Yunus Maseko, the CEO of Blue Lapis.
 344. *(Test 9 · Part 7)* In fact, we just **completed** the first aerial videos for Kwanduma Realty Ltd., and everyone is very pleased with the results.”
 345. *(Test 9 · Part 7)* Include in the title credits the client company's name, project name, and the date the flyover video **was taken**.
-346. *(Test 9 · Part 7 – câu hỏi)* Where did Ms. McFarlan most likely purchase an item at the festival? → *did most likely purchase*
-347. *(Test 9 · Part 7 – câu hỏi)* What did Superra Cleaning do recently? → *did do*
-348. *(Test 9 · Part 7 – câu hỏi)* Why did Ms. Seung write the e-mail? → *did write*
-349. *(Test 9 · Part 7 – câu hỏi)* According to the work order, why did Lunsklip Construction request a video? → *did request*
+346. *(Test 9 · Part 7 – câu hỏi)* Where **did** Ms. McFarlan **most likely purchase** an item at the festival?
+347. *(Test 9 · Part 7 – câu hỏi)* What **did** Superra Cleaning **do** recently?
+348. *(Test 9 · Part 7 – câu hỏi)* Why **did** Ms. Seung **write** the e-mail?
+349. *(Test 9 · Part 7 – câu hỏi)* According to the work order, why **did** Lunsklip Construction **request** a video?
 350. *(Test 10 · Part 5)* Sophia Hollinger **was commended** for her work on the Kala account.
 351. *(Test 10 · Part 5)* Last summer, jazz musician Jay Deswani **performed** on the main concert stage at Waterfront Park.
 352. *(Test 10 · Part 5)* The purchasing department **ordered** six additional cases of ink toner.
@@ -2291,11 +2291,11 @@
 386. *(Test 10 · Part 7 – câu hỏi)* What type of building **did** Crystal Brothers clean?
 387. *(Test 10 · Part 7 – câu hỏi)* What part of the cleaning service **was** Ms. Hwang least satisfied with?
 388. *(Test 10 · Part 7 – câu hỏi)* Where **was** Ms. Akdemir's supervisor based in July?
-389. *(Test 10 · Part 7 – câu hỏi)* When most likely did Ms. Klein participate in a Richmond Supermarket cooking class? → *did participate*
-390. *(Test 10 · Part 7 – câu hỏi)* Where did Dr. Robbins complete her postdoctoral residency? → *did complete*
-391. *(Test 10 · Part 7 – câu hỏi)* Where most likely did Dr. Robbins receive the Kramer Medal? → *did receive*
-392. *(Test 10 · Part 7 – câu hỏi)* Why did Ms. Raskin send the e-mail to Dr. Sohn? → *did send*
-393. *(Test 10 · Part 7 – câu hỏi)* When did Dr. Sohn most likely make a speech on April 17? → *did most likely make*
+389. *(Test 10 · Part 7 – câu hỏi)* When most likely **did** Ms. Klein **participate** in a Richmond Supermarket cooking class?
+390. *(Test 10 · Part 7 – câu hỏi)* Where **did** Dr. Robbins **complete** her postdoctoral residency?
+391. *(Test 10 · Part 7 – câu hỏi)* Where most likely **did** Dr. Robbins **receive** the Kramer Medal?
+392. *(Test 10 · Part 7 – câu hỏi)* Why **did** Ms. Raskin **send** the e-mail to Dr. Sohn?
+393. *(Test 10 · Part 7 – câu hỏi)* When **did** Dr. Sohn **most likely make** a speech on April 17?
 394. *(Test 10 · Part 7 – câu hỏi)* Where most likely **was** Ms. Kuroda on the morning of May 12?
 
 **🎧 Listening**
@@ -2303,9 +2303,9 @@
 1. *(Test 1 · Listening)* My friend **mentioned** you might take them.
 2. *(Test 1 · Listening)* I **was** just in the neighborhood and of cake.
 3. *(Test 1 · Listening)* The same issue **came** up.
-4. *(Test 1 · Listening)* When did this issue start? → *did start*
+4. *(Test 1 · Listening)* When **did** this issue **start**?
 5. *(Test 1 · Listening)* About a month ago, I **ordered** one of your new video-game machines, purchase, since the game has been incredibly true?
-6. *(Test 1 · Listening – đáp án)* Did you order paper for the copier? → *Did order*
+6. *(Test 1 · Listening – đáp án)* **Did** you **order** paper for the copier?
 7. *(Test 1 · Listening – đáp án)* He **tried** to solve that problem.
 8. *(Test 1 · Listening – đáp án)* That **was** a great book.
 9. *(Test 1 · Listening – đáp án)* The meeting **was** fun, thanks.
@@ -2325,16 +2325,16 @@
 23. *(Test 1 · Listening – đáp án)* A conference proposal **was accepted**.
 24. *(Test 1 · Listening – đáp án)* A company **won** an award.
 25. *(Test 1 · Listening – đáp án)* It **was damaged** during delivery.
-26. *(Test 1 · Listening – câu hỏi)* What did the listener receive by e-mail? → *did receive*
+26. *(Test 1 · Listening – câu hỏi)* What **did** the listener **receive** by e-mail?
 27. *(Test 2 · Listening)* Before the break, we **promised** to address the decline of shopping downtown.
 28. *(Test 2 · Listening)* We need someone to choose and it **said** you have lots of experience scouting factories.
-29. *(Test 2 · Listening)* How did the men learn about the woman? → *did learn*
+29. *(Test 2 · Listening)* How **did** the men **learn** about the woman?
 30. *(Test 2 · Listening)* My morning meeting with my client **was** really challenging.
-31. *(Test 2 · Listening)* Did you hear about David? → *Did hear*
-32. *(Test 2 · Listening)* What did the speaker recently receive? → *did recently receive*
+31. *(Test 2 · Listening)* **Did** you **hear** about David?
+32. *(Test 2 · Listening)* What **did** the speaker **recently receive**?
 33. *(Test 2 · Listening)* Thank you for working so hard to make sure they **ran** smoothly.
 34. *(Test 2 · Listening – đáp án)* Yes, I **studied** Italian.
-35. *(Test 2 · Listening – đáp án)* Actually, not everyone was there. → *not was*
+35. *(Test 2 · Listening – đáp án)* Actually, **not** everyone **was** there.
 36. *(Test 2 · Listening – đáp án)* I **took** it off the middle shelf.
 37. *(Test 2 · Listening – đáp án)* He **created** a great project plan.
 38. *(Test 2 · Listening – đáp án)* The television **was fixed**.
@@ -2343,23 +2343,23 @@
 41. *(Test 2 · Listening – đáp án)* A product **won** an award.
 42. *(Test 2 · Listening – đáp án)* He **accepted** another position.
 43. *(Test 2 · Listening – đáp án)* An invoice **was** incorrect.
-44. *(Test 2 · Listening – câu hỏi)* Why did the men request a meeting? → *did request*
-45. *(Test 3 · Listening)* How did the company get its name? → *did get*
+44. *(Test 2 · Listening – câu hỏi)* Why **did** the men **request** a meeting?
+45. *(Test 3 · Listening)* How **did** the company **get** its name?
 46. *(Test 3 · Listening)* Do you want the draft of the proposal e-mailed to you or printed out? → *-*
 47. *(Test 3 · Listening)* How **was** your lunch at the park?
-48. *(Test 3 · Listening)* What did Sergey forget to bring? → *did forget*
+48. *(Test 3 · Listening)* What **did** Sergey **forget** to bring?
 49. *(Test 3 · Listening)* I **was** still in college when the article newspaper about five years ago.
 50. *(Test 3 · Listening)* I **came** in last week to get some lumber wondering if I could get a refund.
 51. *(Test 3 · Listening)* All right, except one bag **broke** and the food container fell out right as I was walking up to a customer's door.
 52. *(Test 3 · Listening)* The container **was still sealed**, and the customer accepted it, so it turned out OK in the end.
 53. *(Test 3 · Listening)* By the delivery software installed and running while you **were gone**.
-54. *(Test 3 · Listening)* What did Professor Yun Hang do last month? → *did do*
+54. *(Test 3 · Listening)* What **did** Professor Yun Hang **do** last month?
 55. *(Test 3 · Listening – đáp án)* Because they **canceled** their order.
 56. *(Test 3 · Listening – đáp án)* No, I just **checked**.
 57. *(Test 3 · Listening – đáp án)* Kento **said** he could do it.
 58. *(Test 3 · Listening – đáp án)* No, we **decided** not to.
 59. *(Test 3 · Listening – đáp án)* Mr. Bora **ordered** them.
-60. *(Test 3 · Listening – đáp án)* Didn't she return from her trip last week? → *Did n't return*
+60. *(Test 3 · Listening – đáp án)* **Did****n't** she **return** from her trip last week?
 61. *(Test 3 · Listening – đáp án)* Yes, it **was** a complete success.
 62. *(Test 3 · Listening – đáp án)* Yes, you **completed** your project.
 63. *(Test 3 · Listening – đáp án)* I **had** an unexpected client meeting.
@@ -2374,8 +2374,8 @@
 72. *(Test 3 · Listening – đáp án)* He **spoke** at a conference.
 73. *(Test 3 · Listening – đáp án)* He **won** an award.
 74. *(Test 3 · Listening – đáp án)* A lease **was extended**.
-75. *(Test 3 · Listening – câu hỏi)* What event did the woman attend last week? → *did attend*
-76. *(Test 4 · Listening)* Why did you decide to become a pilot? → *did decide*
+75. *(Test 3 · Listening – câu hỏi)* What event **did** the woman **attend** last week?
+76. *(Test 4 · Listening)* Why **did** you **decide** to become a pilot?
 77. *(Test 4 · Listening)* The sales department **posted** an advertisement for an assistant.
 78. *(Test 4 · Listening)* I'm calling to touch base with you about some of care of that before you **left**.
 79. *(Test 4 · Listening)* Rewarding staff performance colleague and I recently **started** a clothing help us promote our line of athletic apparel.
@@ -2392,12 +2392,12 @@
 90. *(Test 4 · Listening – đáp án)* She recently **won** an award.
 91. *(Test 4 · Listening – đáp án)* She **invented** a musical instrument.
 92. *(Test 4 · Listening – đáp án)* She **started** a major record label.
-93. *(Test 5 · Listening)* How did you decide on a venue for the fund-raising event? → *did decide*
+93. *(Test 5 · Listening)* How **did** you **decide** on a venue for the fund-raising event?
 94. *(Test 5 · Listening)* Would you like a copy of the article I **mentioned**?
-95. *(Test 5 · Listening)* Did you decide on the design for the new logo? → *Did decide*
+95. *(Test 5 · Listening)* **Did** you **decide** on the design for the new logo?
 96. *(Test 5 · Listening)* That way we **received** half off the price, since the supplier wanted to get rid of his summer inventory.
 97. *(Test 5 · Listening)* You know, I **noticed** one recurring complaint.
-98. *(Test 5 · Listening)* What did the company do last month? → *did do*
+98. *(Test 5 · Listening)* What **did** the company **do** last month?
 99. *(Test 5 · Listening)* I just **got** off the phone with management.
 100. *(Test 5 · Listening – đáp án)* It **was** too expensive.
 101. *(Test 5 · Listening – đáp án)* I **got** a recommendation from a friend.
@@ -2406,7 +2406,7 @@
 104. *(Test 5 · Listening – đáp án)* He **worked** an afternoon shift.
 105. *(Test 5 · Listening – đáp án)* Yes, I **bought** some there yesterday.
 106. *(Test 5 · Listening – đáp án)* I **heard** that traffic is heavy this morning.
-107. *(Test 5 · Listening – đáp án)* Did you bring an umbrella? → *Did bring*
+107. *(Test 5 · Listening – đáp án)* **Did** you **bring** an umbrella?
 108. *(Test 5 · Listening – đáp án)* It **was featured** in a magazine.
 109. *(Test 5 · Listening – đáp án)* He **was stuck** in traffic.
 110. *(Test 5 · Listening – đáp án)* He **had** a medical appointment.
@@ -2422,13 +2422,13 @@
 120. *(Test 5 · Listening – đáp án)* They **won** an award.
 121. *(Test 5 · Listening – đáp án)* They **completed** some work on schedule.
 122. *(Test 5 · Listening – câu hỏi)* What recently **happened** at the business?
-123. *(Test 5 · Listening – câu hỏi)* Why did the man miss a meeting? → *did miss*
+123. *(Test 5 · Listening – câu hỏi)* Why **did** the man **miss** a meeting?
 124. *(Test 6 · Listening)* We just **received** several copies of that, but shelves.
 125. *(Test 6 · Listening – đáp án)* I **finished** that book.
 126. *(Test 6 · Listening – đáp án)* No, it **was just shipped** yesterday.
 127. *(Test 6 · Listening – đáp án)* I **parked** the car by the tree.
 128. *(Test 6 · Listening – đáp án)* Yes, I **printed** them.
-129. *(Test 6 · Listening – đáp án)* Did you check their Web site? → *Did check*
+129. *(Test 6 · Listening – đáp án)* **Did** you **check** their Web site?
 130. *(Test 6 · Listening – đáp án)* The score **was tied**.
 131. *(Test 6 · Listening – đáp án)* No, I **bought** it last month.
 132. *(Test 6 · Listening – đáp án)* That **was** a long baseball game.
@@ -2441,7 +2441,7 @@
 139. *(Test 6 · Listening – đáp án)* She **attended** a workshop he led.
 140. *(Test 6 · Listening – đáp án)* She **saw** his comment on a social media post.
 141. *(Test 6 · Listening – đáp án)* She **watched** a documentary about his work.
-142. *(Test 6 · Listening – câu hỏi)* What did the man do last month? → *did do*
+142. *(Test 6 · Listening – câu hỏi)* What **did** the man **do** last month?
 143. *(Test 6 · Listening – câu hỏi)* Who **visited** the business yesterday?
 144. *(Test 7 · Listening)* You already **bought** a new part for the sprinkler system, right?
 145. *(Test 7 · Listening)* And thanks for recommending that I visit the I **wanted** to follow up with you right away about the like to order tulips in that price range.
@@ -2464,7 +2464,7 @@
 162. *(Test 7 · Listening – đáp án)* A construction project **was interrupted**.
 163. *(Test 7 · Listening – câu hỏi)* What **motivated** the woman to visit the business?
 164. *(Test 7 · Listening – câu hỏi)* What does the speaker say **happened** last week?
-165. *(Test 8 · Listening)* Did you leave the refrigerator door in the laboratory open this morning? → *Did leave*
+165. *(Test 8 · Listening)* **Did** you **leave** the refrigerator door in the laboratory open this morning?
 166. *(Test 8 · Listening)* I just **spoke** with a representative from the with us next week.
 167. *(Test 8 · Listening)* It **was** Hamdy Equipment that sold it to us.
 168. *(Test 8 · Listening)* It looks like I **billed** sign you up for our rewards program.
@@ -2476,12 +2476,12 @@
 174. *(Test 8 · Listening – đáp án)* I **saw** him this morning.
 175. *(Test 8 · Listening – đáp án)* She **heard** about a new model.
 176. *(Test 8 · Listening – đáp án)* She **developed** a pain in her neck.
-177. *(Test 8 · Listening – câu hỏi)* According to the man, what did he recently do? → *did recently do*
+177. *(Test 8 · Listening – câu hỏi)* According to the man, what **did** he **recently do**?
 178. *(Test 9 · Listening)* **Was** the restaurant really expensive?
-179. *(Test 9 · Listening)* Did you put the brochures in the lobby? → *Did put*
+179. *(Test 9 · Listening)* **Did** you **put** the brochures in the lobby?
 180. *(Test 9 · Listening)* So I **decided** to attend culinary school.
 181. *(Test 9 · Listening)* Is it based on where the dish **originated**?
-182. *(Test 9 · Listening – đáp án)* Did you check the batteries? → *Did check*
+182. *(Test 9 · Listening – đáp án)* **Did** you **check** the batteries?
 183. *(Test 9 · Listening – đáp án)* Yes, it **was** a lot.
 184. *(Test 9 · Listening – đáp án)* It **was** about two hours long.
 185. *(Test 9 · Listening – đáp án)* Yes, I **left** them at the front desk.
@@ -2492,8 +2492,8 @@
 190. *(Test 9 · Listening – đáp án)* An advertising campaign **was launched**.
 191. *(Test 9 · Listening – đáp án)* A business partnership **was formed**.
 192. *(Test 9 · Listening – đáp án)* A new executive director **was hired**.
-193. *(Test 10 · Listening)* When did this restaurant change its name? → *did change*
-194. *(Test 10 · Listening)* Did we complete the inventory, or is there more to do? → *Did complete*
+193. *(Test 10 · Listening)* When **did** this restaurant **change** its name?
+194. *(Test 10 · Listening)* **Did** we **complete** the inventory, or is there more to do?
 195. *(Test 10 · Listening)* I **flew** in yesterday from Canada and was told that my luggage was accidentally put on a flight baggage area and pick up my luggage?
 196. *(Test 10 · Listening)* I **heard** the Day Street Bridge is being worked on.
 197. *(Test 10 · Listening)* How will I find out if I **won**?
@@ -2501,7 +2501,7 @@
 199. *(Test 10 · Listening)* You **considered** inappropriate in business writing.
 200. *(Test 10 · Listening – đáp án)* He **left** an hour ago.
 201. *(Test 10 · Listening – đáp án)* It **was checked** this morning.
-202. *(Test 10 · Listening – đáp án)* Did you complete the training? → *Did complete*
+202. *(Test 10 · Listening – đáp án)* **Did** you **complete** the training?
 203. *(Test 10 · Listening – đáp án)* I really **enjoyed** that television program.
 204. *(Test 10 · Listening – đáp án)* He **passed** his driving test.
 205. *(Test 10 · Listening – đáp án)* It **was** too technical.
@@ -2557,7 +2557,7 @@
 35. *(Test 1 · Part 7 – câu hỏi)* What **will happen** on March 31?
 36. *(Test 1 · Part 7 – câu hỏi)* What **will happen** during the event on June 25?
 37. *(Test 1 · Part 7 – câu hỏi)* Who **will receive** an e-mail from Mr. Kubelski?
-38. *(Test 1 · Part 7 – câu hỏi)* In which section of the Web site will information most likely be added? → *will most likely be added*
+38. *(Test 1 · Part 7 – câu hỏi)* In which section of the Web site **will** information **most likely be added**?
 39. *(Test 2 · Part 5)* The next meeting of the planning committee **will be held** promptly at 2 P.M.
 40. *(Test 2 · Part 5)* Reimbursement for travel expenses **will be included** in your October 1 paycheck.
 41. *(Test 2 · Part 5)* Management **will identify** candidates for promotion by the end of the month.
@@ -2576,12 +2576,12 @@
 54. *(Test 2 · Part 7)* I**'ll see** you both tomorrow at 1:30 in the lobby.
 55. *(Test 2 · Part 7)* Please let me know how much that **will cost** and when I can expect to receive them.
 56. *(Test 2 · Part 7)* The evening **will include** a three-course vegetarian dinner prepared by Green Earth Provisions and an auction of pieces by local artists, followed by dancing to the musical stylings of DJ Shay Silverman.
-57. *(Test 2 · Part 7 – câu hỏi)* When most likely will Ms. Begani meet with the accounting department? → *will meet*
+57. *(Test 2 · Part 7 – câu hỏi)* When most likely **will** Ms. Begani **meet** with the accounting department?
 58. *(Test 2 · Part 7 – câu hỏi)* Who from Koloa Music Education Collective **will first contact** an interested customer?
 59. *(Test 2 · Part 7 – câu hỏi)* Where will Ms. Au, Mr. Hines, and Ms. Walter meet tomorrow? → *will meet*
 60. *(Test 2 · Part 7 – câu hỏi)* Where will Portland Friends of the Wild's event be held? → *will be held*
-61. *(Test 2 · Part 7 – câu hỏi)* Where will Ms. Desnoyers' class most likely spend their time sketching? → *will most likely spend*
-62. *(Test 2 · Part 7 – câu hỏi)* What will Ms. Desnoyers most likely do as a result of the second e-mail? → *will most likely do*
+61. *(Test 2 · Part 7 – câu hỏi)* Where **will** Ms. Desnoyers' class **most likely spend** their time sketching?
+62. *(Test 2 · Part 7 – câu hỏi)* What **will** Ms. Desnoyers **most likely do** as a result of the second e-mail?
 63. *(Test 3 · Part 5)* A full-scale review **will be conducted** by the accounting department.
 64. *(Test 3 · Part 5)* A news source suggested that the merger **will probably take** place next year.
 65. *(Test 3 · Part 5)* Mr. Swan **will return** to the planning meeting once the interns have arrived.
@@ -2613,7 +2613,7 @@
 91. *(Test 3 · Part 7 – câu hỏi)* According to the article, what **will happen** in March?
 92. *(Test 3 · Part 7 – câu hỏi)* Who **will select** the plants for the new garden?
 93. *(Test 3 · Part 7 – câu hỏi)* What work **will be done** by Elbart City employees?
-94. *(Test 3 · Part 7 – câu hỏi)* When will Ms. Moreland return to the office? → *will return*
+94. *(Test 3 · Part 7 – câu hỏi)* When **will** Ms. Moreland **return** to the office?
 95. *(Test 3 · Part 7 – câu hỏi)* According to the first e-mail, what **will likely be discussed** during the human resources meeting?
 96. *(Test 3 · Part 7 – câu hỏi)* What does Ms. Weaver indicate she **will do**?
 97. *(Test 4 · Part 5)* Mr. Kashnitz **will interview** the applicants before the holiday.
@@ -2642,7 +2642,7 @@
 120. *(Test 4 · Part 7)* Ms. Yancey added that the volunteer model **will save** money and allow residents greater involvement with the park system.
 121. *(Test 4 · Part 7)* However, one local artist donated a large sculpture, which **will be** the auction's centerpiece.
 122. *(Test 4 · Part 7 – câu hỏi)* What is true about the event Mr. Sato **will attend**?
-123. *(Test 5 · Part 5)* The first 150 visitors to the new fitness park will each receive a complimentary water bottle. → *will receive*
+123. *(Test 5 · Part 5)* The first 150 visitors to the new fitness park **will** each **receive** a complimentary water bottle.
 124. *(Test 5 · Part 5)* Operating instructions for the printer **will be** e-mailed to employees...
 125. *(Test 5 · Part 5)* Mr. Lenthe **will distribute** copies of the workshop agenda to all managers by Tuesday morning.
 126. *(Test 5 · Part 5)* The contract for the renovation of the park **will not be awarded** until all bids have been submitted.
@@ -2663,11 +2663,11 @@
 141. *(Test 5 · Part 7)* Our work patching and waterproofing the foundation **will likely take** three or four days.
 142. *(Test 5 · Part 7)* First, you **will complete** our short questionnaire about your business.
 143. *(Test 5 · Part 7)* Your consultant **will determine** the rates for any subsequent sessions based on your needs.
-144. *(Test 5 · Part 7)* Will breakfast be available before then? → *Will be*
+144. *(Test 5 · Part 7)* **Will** breakfast **be** available before then?
 145. *(Test 5 · Part 7)* They **will send** someone tomorrow between 1:00 and 2:00 P.M.
 146. *(Test 5 · Part 7)* However, the belts and hoses should be replaced soon, which **will require** shutting down the line for about four hours.
-147. *(Test 5 · Part 7 – câu hỏi)* According to the article, what will Mr. Rosier most likely do soon? → *will most likely do*
-148. *(Test 5 · Part 7 – câu hỏi)* Who will Mr. Yadav most likely work with? → *will most likely work*
+147. *(Test 5 · Part 7 – câu hỏi)* According to the article, what **will** Mr. Rosier **most likely do** soon?
+148. *(Test 5 · Part 7 – câu hỏi)* Who **will** Mr. Yadav **most likely work** with?
 149. *(Test 6 · Part 5)* On Saturday, the Edbridge Orchestra **will perform** a new work by local composer Nina Borstein.
 150. *(Test 6 · Part 5)* Mr. Aponte's photograph of the autumn foliage **will be featured** on the front cover of Outward Expansion Magazine.
 151. *(Test 6 · Part 5)* The installation of new benches throughout Haverford Park **will cost** roughly €5,000.
@@ -2696,12 +2696,12 @@
 174. *(Test 6 · Part 7)* The society’s Web site, resources, and educational lectures have been helpful regarding my ambitious project: to cover five acres of my land with various native plants that **will attract** birds and other animals.
 175. *(Test 6 · Part 7 – câu hỏi)* According to the notice, what **will happen** between March 15 and March 30?
 176. *(Test 6 · Part 7 – câu hỏi)* What **will be posted** to Misford's Web site?
-177. *(Test 6 · Part 7 – câu hỏi)* When will Ms. Karp's report most likely be sent to the staff? → *will most likely be sent*
-178. *(Test 6 · Part 7 – câu hỏi)* What will Mr. Nusaputra probably do next? → *will probably do*
+177. *(Test 6 · Part 7 – câu hỏi)* When **will** Ms. Karp's report **most likely be sent** to the staff?
+178. *(Test 6 · Part 7 – câu hỏi)* What **will** Mr. Nusaputra **probably do** next?
 179. *(Test 6 · Part 7 – câu hỏi)* What most likely **will add** to the cost of printing this year's special issue?
-180. *(Test 6 · Part 7 – câu hỏi)* What will Ms. Xu probably do next? → *will probably do*
+180. *(Test 6 · Part 7 – câu hỏi)* What **will** Ms. Xu **probably do** next?
 181. *(Test 6 · Part 7 – câu hỏi)* What most likely **will prevent** Ms. Olton's garden from being selected as a tour stop?
-182. *(Test 6 · Part 7 – câu hỏi)* What will Ms. Powell most likely do on October 14? → *will most likely do*
+182. *(Test 6 · Part 7 – câu hỏi)* What **will** Ms. Powell **most likely do** on October 14?
 183. *(Test 7 · Part 5)* After Ms. Takido finishes her presentation, the audience **will be permitted** to ask questions.
 184. *(Test 7 · Part 5)* Another convenient option for getting to the airport **will be** available once the subway station at the international terminal is completed.
 185. *(Test 7 · Part 5)* Given the forecast for rain on Saturday, the ceremony **will be held** indoors at the Raheen Gallery.
@@ -2737,8 +2737,8 @@
 215. *(Test 7 · Part 7)* We are expediting your order and **will ship** it tomorrow.
 216. *(Test 7 · Part 7)* It **will arrive** at your medical clinic construction site on 20 August.
 217. *(Test 7 · Part 7 – câu hỏi)* According to the e-mail, what **will happen** over the next twelve months?
-218. *(Test 7 · Part 7 – câu hỏi)* Why will the interns go to room 203? → *will go*
-219. *(Test 7 · Part 7 – câu hỏi)* According to the schedule, when will a company give a presentation about its merchandise? → *will give*
+218. *(Test 7 · Part 7 – câu hỏi)* Why **will** the interns **go** to room 203?
+219. *(Test 7 · Part 7 – câu hỏi)* According to the schedule, when **will** a company **give** a presentation about its merchandise?
 220. *(Test 7 · Part 7 – câu hỏi)* Where most likely **will order** 47992 be delivered?
 221. *(Test 8 · Part 5)* Prompt submission of travel vouchers to the accounts department **will expedite** refunds.
 222. *(Test 8 · Part 5)* Mr. Davis from the marketing department **will attend** Monday's meeting with the client.
@@ -2746,7 +2746,7 @@
 224. *(Test 8 · Part 6)* The official launch for the app and menu **will be announced** on Thursday, 25 September.
 225. *(Test 8 · Part 7)* Her going-away party **will take** place at 3:00 PM on 21 February in the second-floor conference room.
 226. *(Test 8 · Part 7)* The company **will provide** pizza and cake, and we want to make sure that there is enough food for everyone.
-227. *(Test 8 · Part 7)* Shall we meet in the lobby at 11:45? → *Shall meet*
+227. *(Test 8 · Part 7)* **Shall** we **meet** in the lobby at 11:45?
 228. *(Test 8 · Part 7)* I**'ll see** you then.
 229. *(Test 8 · Part 7)* One section of the area **will be dedicated** exclusively to restaurants and small stores, while the other will be reserved for office space.
 230. *(Test 8 · Part 7)* The second project **will build** residential housing on a large empty lot at the south end.
@@ -2772,8 +2772,8 @@
 250. *(Test 8 · Part 7 – câu hỏi)* At 10:10 A.M., what does Ms. Kim most likely mean when she writes, "I**'ll handle** it"?
 251. *(Test 8 · Part 7 – câu hỏi)* What is indicated about the payment Mr. Kolman **will receive**?
 252. *(Test 8 · Part 7 – câu hỏi)* According to the advertisement, what **will happen** on May 31?
-253. *(Test 8 · Part 7 – câu hỏi)* According to the e-mail, what will Mr. Girard do if he moves into the apartment? → *will do*
-254. *(Test 8 · Part 7 – câu hỏi)* Where will Mr. Girard usually stay when he is not in Arlford? → *will usually stay*
+253. *(Test 8 · Part 7 – câu hỏi)* According to the e-mail, what **will** Mr. Girard **do** if he moves into the apartment?
+254. *(Test 8 · Part 7 – câu hỏi)* Where **will** Mr. Girard **usually stay** when he is not in Arlford?
 255. *(Test 9 · Part 5)* The main entrance to our office building **will be closed** on Tuesday because of construction.
 256. *(Test 9 · Part 5)* The company picnic at Floral Park **will begin** at noon on Saturday and end around 4:00 P.M.
 257. *(Test 9 · Part 6)* Five of the six Shipley stores **will be** part of the Locke and Jeeves deal, including the flagship store here in London.
@@ -2796,8 +2796,8 @@
 274. *(Test 9 · Part 7)* This **will allow** him to learn more about the various departments he will eventually be interacting with.
 275. *(Test 9 · Part 7 – câu hỏi)* According to the invitation, what **will happen** at the event?
 276. *(Test 9 · Part 7 – câu hỏi)* At 8:18 A.M., what does Ms. Jeon most likely mean when she writes, "I**'ll be** there by 12:30"?
-277. *(Test 9 · Part 7 – câu hỏi)* What items offered by Mr. Townsend will Beachside Used Books most likely accept? → *will Used*
-278. *(Test 9 · Part 7 – câu hỏi)* When most likely will Mr. Townsend visit Beachside Used Books? → *will visit*
+277. *(Test 9 · Part 7 – câu hỏi)* What items offered by Mr. Townsend **will** Beachside **Used** Books most likely accept?
+278. *(Test 9 · Part 7 – câu hỏi)* When most likely **will** Mr. Townsend **visit** Beachside Used Books?
 279. *(Test 9 · Part 7 – câu hỏi)* Who **will be** Mr. Rein's director?
 280. *(Test 10 · Part 5)* Production of the garments **will begin** two weeks after the contract is signed.
 281. *(Test 10 · Part 5)* The summer line of outdoor furniture **will be** available at select stores as early as February.
@@ -2808,7 +2808,7 @@
 286. *(Test 10 · Part 6)* The winning recipes **will appear** on our product's packaging.
 287. *(Test 10 · Part 6)* Contest winners **will be notified** in June.
 288. *(Test 10 · Part 7)* In the event that this requirement is not met, a $50 restocking fee **will be charged**.
-289. *(Test 10 · Part 7)* I'll double-check the cost data in the meantime. → *'ll double check*
+289. *(Test 10 · Part 7)* I**'ll double**-**check** the cost data in the meantime.
 290. *(Test 10 · Part 7)* Since our cruise excursions attract a diverse group of people, an even more extensive group **will become** familiar with your restaurant chain.
 291. *(Test 10 · Part 7)* Aqua Voyage Cruise Lines **will mention** your top-rated chain in our brochures and feature it on our Web site.
 292. *(Test 10 · Part 7)* Maxwell Diego (4:04 P.M.) Then you**'ll have** to wait ten more minutes before reopening.
@@ -2827,10 +2827,10 @@
 305. *(Test 10 · Part 7)* Do you expect that the bicycle **will be sold** by then?
 306. *(Test 10 · Part 7)* I **will bring** everything to the office on Monday.
 307. *(Test 10 · Part 7)* I**'ll have** to think about whether I want to join the company softball team.
-308. *(Test 10 · Part 7 – câu hỏi)* What will Ms. Fisk most likely do next? → *will most likely do*
+308. *(Test 10 · Part 7 – câu hỏi)* What **will** Ms. Fisk **most likely do** next?
 309. *(Test 10 · Part 7 – câu hỏi)* What **will happen** on November 4?
 310. *(Test 10 · Part 7 – câu hỏi)* According to the article, what will visitors to Ms. Alonso's exhibition be able to do? → *will be*
-311. *(Test 10 · Part 7 – câu hỏi)* What will Ms. Kuroda most likely do next? → *will most likely do*
+311. *(Test 10 · Part 7 – câu hỏi)* What **will** Ms. Kuroda **most likely do** next?
 
 **🎧 Listening**
 
@@ -2847,20 +2847,20 @@
 11. *(Test 1 · Listening – đáp án)* She **will be** at an industry conference.
 12. *(Test 1 · Listening – câu hỏi)* What does the woman say she **will do**?
 13. *(Test 1 · Listening – câu hỏi)* What **will happen** at the next meeting?
-14. *(Test 2 · Listening)* Will you order the pasta or the chicken? → *Will order*
-15. *(Test 2 · Listening)* What will the woman update on a mobile need to begin planning our Theater in the Park series for the summer. → *will update*
+14. *(Test 2 · Listening)* **Will** you **order** the pasta or the chicken?
+15. *(Test 2 · Listening)* What **will** the woman **update** on a mobile need to begin planning our Theater in the Park series for the summer.
 16. *(Test 2 · Listening)* We**'ll need** to decide who we want to send to represent our company at the trade show.
-17. *(Test 2 · Listening)* Which appointment will the man try to reschedule? → *will try*
+17. *(Test 2 · Listening)* Which appointment **will** the man **try** to reschedule?
 18. *(Test 2 · Listening)* You**'ll just need** to note those days on your calendar, so everyone knows where you are.
 19. *(Test 2 · Listening)* What **will happen** in March?
 20. *(Test 2 · Listening – đáp án)* Sure, that **will be** the easiest.
 21. *(Test 2 · Listening – đáp án)* I**'ll be** out of the office.
 22. *(Test 2 · Listening – đáp án)* A promotional sale **will begin**.
 23. *(Test 2 · Listening – đáp án)* A new facility **will open**.
-24. *(Test 2 · Listening – câu hỏi)* What will the speakers most likely do next? → *will most likely do*
-25. *(Test 2 · Listening – câu hỏi)* How will the company offer more flexibility? → *will offer*
-26. *(Test 2 · Listening – câu hỏi)* What will Bianca do next week? → *will do*
-27. *(Test 3 · Listening)* What will you get for completing the program? → *will get*
+24. *(Test 2 · Listening – câu hỏi)* What **will** the speakers **most likely do** next?
+25. *(Test 2 · Listening – câu hỏi)* How **will** the company **offer** more flexibility?
+26. *(Test 2 · Listening – câu hỏi)* What **will** Bianca **do** next week?
+27. *(Test 3 · Listening)* What **will** you **get** for completing the program?
 28. *(Test 3 · Listening)* However, starting next month, our company **will launch** a research and development division and start this change to allow us to have more control over the quality of the technology we produce.
 29. *(Test 3 · Listening)* I**'ll unlock** the door after this meeting.
 30. *(Test 3 · Listening – đáp án)* Dinner **will be** ready in ten minutes.
@@ -2868,16 +2868,16 @@
 32. *(Test 3 · Listening – đáp án)* The owner **will give** a speech.
 33. *(Test 3 · Listening – đáp án)* A decision about an item **will be made** soon.
 34. *(Test 3 · Listening – câu hỏi)* What does the man say he **will do**?
-35. *(Test 3 · Listening – câu hỏi)* What will Eniola most likely do today? → *will most do*
+35. *(Test 3 · Listening – câu hỏi)* What **will** Eniola **most** likely **do** today?
 36. *(Test 4 · Listening)* Hopefully, it**'ll be** as successful as last year.
 37. *(Test 4 · Listening)* What does the speaker say he **will do** today?
-38. *(Test 4 · Listening)* What will Thilo do next? → *will do*
+38. *(Test 4 · Listening)* What **will** Thilo **do** next?
 39. *(Test 4 · Listening)* Over the years, she has been receives her award, some of her most famous clients **will perform** for us.
 40. *(Test 4 · Listening – đáp án)* I**'ll be** out of the office all week.
 41. *(Test 4 · Listening – đáp án)* A shuttle bus **will arrive**.
 42. *(Test 4 · Listening – câu hỏi)* What does the man say he **will check**?
-43. *(Test 4 · Listening – câu hỏi)* What will the man send in an e-mail? → *will send*
-44. *(Test 4 · Listening – câu hỏi)* What will the listeners do next? → *will do*
+43. *(Test 4 · Listening – câu hỏi)* What **will** the man **send** in an e-mail?
+44. *(Test 4 · Listening – câu hỏi)* What **will** the listeners **do** next?
 45. *(Test 4 · Listening – câu hỏi)* What **will happen** at the end of the tour?
 46. *(Test 5 · Listening)* There you**'ll find** a wide selection one free entry at the local museum.
 47. *(Test 5 · Listening)* In-depth user research **will help** us create a better online banking application.
@@ -2887,14 +2887,14 @@
 51. *(Test 5 · Listening – đáp án)* A license **will expire** soon.
 52. *(Test 5 · Listening – đáp án)* She **will need** to use a microphone.
 53. *(Test 5 · Listening – đáp án)* Public transportation **will be** free.
-54. *(Test 5 · Listening – câu hỏi)* What will the man most likely do next? → *will most do*
-55. *(Test 5 · Listening – câu hỏi)* What will a ticket allow the listeners to do? → *will allow*
+54. *(Test 5 · Listening – câu hỏi)* What **will** the man **most** likely **do** next?
+55. *(Test 5 · Listening – câu hỏi)* What **will** a ticket **allow** the listeners to do?
 56. *(Test 5 · Listening – câu hỏi)* What **will begin** next Friday?
-57. *(Test 6 · Listening)* How long will the renovations take? → *will take*
+57. *(Test 6 · Listening)* How long **will** the renovations **take**?
 58. *(Test 6 · Listening)* Who **will fill** the open manager position?
-59. *(Test 6 · Listening)* And by the way, will you be Of course! → *will be*
+59. *(Test 6 · Listening)* And by the way, **will** you **be** Of course!
 60. *(Test 6 · Listening)* What **will take** place next week?
-61. *(Test 6 · Listening)* What will the man send the woman a link to? → *will send*
+61. *(Test 6 · Listening)* What **will** the man **send** the woman a link to?
 62. *(Test 6 · Listening)* I**'ll need** you to start working as soon as possible.
 63. *(Test 6 · Listening)* There**'ll be** a special workshop where you in front of the historical society building.
 64. *(Test 6 · Listening)* As for festival, and it **will take** longer to drive.
@@ -2906,7 +2906,7 @@
 70. *(Test 6 · Listening – đáp án)* An office **will close** early.
 71. *(Test 6 · Listening – đáp án)* A task **will take** longer than usual.
 72. *(Test 6 · Listening – câu hỏi)* What does the man say he **will check** on?
-73. *(Test 6 · Listening – câu hỏi)* What will the man research? → *will research*
+73. *(Test 6 · Listening – câu hỏi)* What **will** the man **research**?
 74. *(Test 6 · Listening – câu hỏi)* What **will most likely happen** next?
 75. *(Test 7 · Listening)* When will the reception for the artists start? → *will start*
 76. *(Test 7 · Listening)* It**'ll make** a great addition to our summer menu.
@@ -2915,12 +2915,12 @@
 79. *(Test 7 · Listening)* Offering a discount **will give** riders a place to rest and keep out of the sun, rain, or snow while they wait.
 80. *(Test 7 · Listening – đáp án)* I**'ll send** you a temporary password.
 81. *(Test 7 · Listening – đáp án)* A staff change **will take** place.
-82. *(Test 7 · Listening – câu hỏi)* What will the woman send by e-mail? → *will send*
-83. *(Test 7 · Listening – câu hỏi)* What will the woman do next week? → *will do*
+82. *(Test 7 · Listening – câu hỏi)* What **will** the woman **send** by e-mail?
+83. *(Test 7 · Listening – câu hỏi)* What **will** the woman **do** next week?
 84. *(Test 8 · Listening)* It**'ll be** nice to get a bonus this month.
-85. *(Test 8 · Listening)* How long will it take to get the results? → *will take*
-86. *(Test 8 · Listening)* What will the man do next? → *will do*
-87. *(Test 8 · Listening)* What will the man check next? → *will check*
+85. *(Test 8 · Listening)* How long **will** it **take** to get the results?
+86. *(Test 8 · Listening)* What **will** the man **do** next?
+87. *(Test 8 · Listening)* What **will** the man **check** next?
 88. *(Test 8 · Listening)* I**'ll continue** to provide updates throughout our journey.
 89. *(Test 8 · Listening – đáp án)* Yes, they**'ll be** ready soon.
 90. *(Test 8 · Listening – đáp án)* He**'ll meet** you next week.
@@ -2929,30 +2929,30 @@
 93. *(Test 8 · Listening – đáp án)* An expert **will speak**.
 94. *(Test 8 · Listening – đáp án)* The listeners **will receive** a ticket refund.
 95. *(Test 8 · Listening – đáp án)* She **will be** available next week.
-96. *(Test 9 · Listening)* When will the dishwasher prototype be ready? → *will be*
-97. *(Test 9 · Listening)* How soon will we be able to replace the furniture in the waiting room? → *will be*
+96. *(Test 9 · Listening)* When **will** the dishwasher prototype **be** ready?
+97. *(Test 9 · Listening)* How soon **will** we **be** able to replace the furniture in the waiting room?
 98. *(Test 9 · Listening)* I**'ll just purchase** the pass for now, thanks.
-99. *(Test 9 · Listening)* Will he be available whenever we need him? → *Will be*
+99. *(Test 9 · Listening)* **Will** he **be** available whenever we need him?
 100. *(Test 9 · Listening)* As you know, this **will be** our third location.
-101. *(Test 9 · Listening)* What will the woman do next? → *will do*
-102. *(Test 9 · Listening)* How much will the woman pay for an item? → *will pay*
+101. *(Test 9 · Listening)* What **will** the woman **do** next?
+102. *(Test 9 · Listening)* How much **will** the woman **pay** for an item?
 103. *(Test 9 · Listening)* The new gate **will appear** on screens throughout the terminal shortly.
-104. *(Test 9 · Listening)* According to the announcement, what will Claudia provide at the counter? → *will provide*
+104. *(Test 9 · Listening)* According to the announcement, what **will** Claudia **provide** at the counter?
 105. *(Test 9 · Listening – đáp án)* We**'ll do** that at the end of the summer.
 106. *(Test 9 · Listening – đáp án)* Some funding **will become** available.
 107. *(Test 9 · Listening – đáp án)* A fashion line **will be** popular.
 108. *(Test 9 · Listening – đáp án)* An interview **will take** place.
 109. *(Test 9 · Listening – đáp án)* A shipment **will arrive**.
-110. *(Test 9 · Listening – câu hỏi)* Why will the man visit the property on Saturday? → *will visit*
+110. *(Test 9 · Listening – câu hỏi)* Why **will** the man **visit** the property on Saturday?
 111. *(Test 10 · Listening)* That bridge **will take** you there faster.
 112. *(Test 10 · Listening)* What does the woman say she **will do** tomorrow?
-113. *(Test 10 · Listening)* How will I find out if I won? → *will find*
+113. *(Test 10 · Listening)* How **will** I **find** out if I won?
 114. *(Test 10 · Listening)* You can approve or request changes to the sample started, just enter your information on our Web site, and one of our designers **will contact** you.
 115. *(Test 10 · Listening)* Finally, week, so you**'ll need** to bring your lunch.
 116. *(Test 10 · Listening – đáp án)* They**'ll be** busy at that time.
 117. *(Test 10 · Listening – đáp án)* She**'ll be** on vacation for the next month.
 118. *(Test 10 · Listening – đáp án)* A schedule **will not change**.
-119. *(Test 10 · Listening – câu hỏi)* What will the women most likely do next? → *will most likely do*
+119. *(Test 10 · Listening – câu hỏi)* What **will** the women **most likely do** next?
 
 ---
 
@@ -2998,11 +2998,11 @@
 32. *(Test 3 · Part 7)* One day was not enough to see everything, so I**'m already planning** another trip for later in the summer.
 33. *(Test 3 · Part 7)* Dr. Fiallo says she **is looking** forward to sharing this latest discovery.
 34. *(Test 3 · Part 7)* Both classes **are studying** how to identify and analyze historical artifacts, so he was very happy with the topic of our lecture this month.
-35. *(Test 3 · Part 7 – câu hỏi)* What are the writers mainly discussing? → *are mainly discussing*
+35. *(Test 3 · Part 7 – câu hỏi)* What **are** the writers **mainly discussing**?
 36. *(Test 4 · Part 5)* Ms. Chiu recently announced that she **is planning** to retire in September.
 37. *(Test 4 · Part 5)* The city's development committee **is looking** for a location to plant a community garden.
 38. *(Test 4 · Part 7)* Alita Technology **is collaborating** with the Microwave Engineering Lab at the University of Southam on the initiative.
-39. *(Test 4 · Part 7)* Are you working in the office today? → *Are working*
+39. *(Test 4 · Part 7)* **Are** you **working** in the office today?
 40. *(Test 4 · Part 7)* I**'m leaving** the house now.
 41. *(Test 4 · Part 7)* I**'m wondering** if you can do me a big favor.
 42. *(Test 4 · Part 7)* I**'m working** from home today and have a call with the regional managers at 9 A.M. But the notes I need for the call are on my desk.
@@ -3016,8 +3016,8 @@
 50. *(Test 5 · Part 7)* Two years after opening their doors, A Thousand Stories and Rosier's Garden Center **are flourishing**.
 51. *(Test 5 · Part 7)* Now that the business **is doing** well, he is exploring opening another store.
 52. *(Test 5 · Part 7)* However, it **is now slowing** production throughout Building F.
-53. *(Test 5 · Part 7 – câu hỏi)* Why is the Zipvid app no longer being used? → *is no longer being used*
-54. *(Test 5 · Part 7 – câu hỏi)* Why is Ms. Chabinga looking for a previous AFR issue? → *is looking*
+53. *(Test 5 · Part 7 – câu hỏi)* Why **is** the Zipvid app **no longer being used**?
+54. *(Test 5 · Part 7 – câu hỏi)* Why **is** Ms. Chabinga **looking** for a previous AFR issue?
 55. *(Test 6 · Part 5)* Singer Maria Stanley revealed today that she **is scheduling** a world tour.
 56. *(Test 6 · Part 7)* I**'m preparing** the paperwork for tomorrow's open house at 431 Oakdale Lane.
 57. *(Test 6 · Part 7)* 3-D printers **are also getting** faster.
@@ -3029,7 +3029,7 @@
 63. *(Test 6 · Part 7)* March: Nourish the Neighbors - Understand how to use plants native to our region to create landscapes that **are inviting** to wildlife.
 64. *(Test 6 · Part 7)* We **are seeking** farmers, ranchers, and other landowners who can help us expand our list of destinations.
 65. *(Test 6 · Part 7 – câu hỏi)* According to the article, what **is contributing** to the demand for tin?
-66. *(Test 6 · Part 7 – câu hỏi)* What are the writers discussing? → *are discussing*
+66. *(Test 6 · Part 7 – câu hỏi)* What **are** the writers **discussing**?
 67. *(Test 7 · Part 6)* The document **is waiting** for four more signatures.
 68. *(Test 7 · Part 7)* However, we **are waiving** the fee because this is your first missed appointment in fifteen years of being a patient at the center.
 69. *(Test 7 · Part 7)* For the first time in its 35-year history, the company **is changing** its top leadership; Mehan will soon welcome the first American and the first woman to hold the title of CEO.
@@ -3062,8 +3062,8 @@
 
 **🎧 Listening**
 
-1. *(Test 1 · Listening)* Where is the conference being held? → *is being held*
-2. *(Test 1 · Listening)* Why is the man calling? → *is calling*
+1. *(Test 1 · Listening)* Where **is** the conference **being held**?
+2. *(Test 1 · Listening)* Why **is** the man **calling**?
 3. *(Test 1 · Listening)* The decline **is mostly looking** for a location to build a manufacturing facility.
 4. *(Test 1 · Listening – đáp án)* The woman **is carrying** a tray of food.
 5. *(Test 1 · Listening – đáp án)* The woman **is wearing** a jacket.
@@ -3089,13 +3089,13 @@
 25. *(Test 2 · Listening – đáp án)* A man **is pinning** a note to a bulletin board.
 26. *(Test 2 · Listening – đáp án)* A man **is dropping** an item into a bin.
 27. *(Test 2 · Listening – đáp án)* A man **is washing** some windows.
-28. *(Test 2 · Listening – đáp án)* What are you doing this weekend? → *are doing*
+28. *(Test 2 · Listening – đáp án)* What **are** you **doing** this weekend?
 29. *(Test 2 · Listening – đáp án)* It **is reducing** traffic problems in the city.
 30. *(Test 2 · Listening – đáp án)* It **is affecting** specialty shops.
 31. *(Test 2 · Listening – đáp án)* He **is organizing** a party.
 32. *(Test 2 · Listening – đáp án)* Some streets **are being resurfaced**.
 33. *(Test 2 · Listening – câu hỏi)* What does the man say he **is planning** to do?
-34. *(Test 3 · Listening)* Why are you calling the clients? → *are calling*
+34. *(Test 3 · Listening)* Why **are** you **calling** the clients?
 35. *(Test 3 · Listening)* More and more companies **are selling** clothing and gear for outdoor recreation.
 36. *(Test 3 · Listening)* Which event **is being planned**?
 37. *(Test 3 · Listening – đáp án)* A person **is walking** in the road.
@@ -3113,10 +3113,10 @@
 49. *(Test 3 · Listening – đáp án)* A woman **is following** a man down a corridor.
 50. *(Test 3 · Listening – đáp án)* A man **is emptying** a large container.
 51. *(Test 3 · Listening – đáp án)* A man **is climbing** up a ladder.
-52. *(Test 3 · Listening – câu hỏi)* Why is the woman calling? → *is calling*
-53. *(Test 3 · Listening – câu hỏi)* Why is the company making a change? → *is making*
-54. *(Test 3 · Listening – câu hỏi)* Why is the speaker calling? → *is calling*
-55. *(Test 4 · Listening)* Why is the manager being replaced? → *is being replaced*
+52. *(Test 3 · Listening – câu hỏi)* Why **is** the woman **calling**?
+53. *(Test 3 · Listening – câu hỏi)* Why **is** the company **making** a change?
+54. *(Test 3 · Listening – câu hỏi)* Why **is** the speaker **calling**?
+55. *(Test 4 · Listening)* Why **is** the manager **being replaced**?
 56. *(Test 4 · Listening)* How is the new group of interns doing? → *is doing*
 57. *(Test 4 · Listening)* Who**'s coming** in tomorrow to help us prepare for the grand opening?
 58. *(Test 4 · Listening)* I**'m calling** to touch base with you about some of care of that before you left.
@@ -3127,9 +3127,9 @@
 63. *(Test 4 · Listening – đáp án)* We**'re not offering** a discount.
 64. *(Test 4 · Listening – đáp án)* It **is being streamed** live.
 65. *(Test 4 · Listening – câu hỏi)* What type of business **is being advertised**?
-66. *(Test 5 · Listening)* Is the inspector coming this afternoon or tomorrow morning? → *Is coming*
-67. *(Test 5 · Listening)* Are you getting the same type of desk or a different one? → *Are getting*
-68. *(Test 5 · Listening)* Why are you staying in the office for lunch? → *are staying*
+66. *(Test 5 · Listening)* **Is** the inspector **coming** this afternoon or tomorrow morning?
+67. *(Test 5 · Listening)* **Are** you **getting** the same type of desk or a different one?
+68. *(Test 5 · Listening)* Why **are** you **staying** in the office for lunch?
 69. *(Test 5 · Listening – đáp án)* A worker **is painting** lines on the floor.
 70. *(Test 5 · Listening – đáp án)* A worker **is sealing** some packages.
 71. *(Test 5 · Listening – đáp án)* A worker **is repairing** a motor.
@@ -3140,10 +3140,10 @@
 76. *(Test 5 · Listening – đáp án)* Some vehicles **are being washed**.
 77. *(Test 5 · Listening – đáp án)* A motorcycle **is going** through a gate.
 78. *(Test 5 · Listening – đáp án)* It **is operating** smoothly.
-79. *(Test 5 · Listening – câu hỏi)* Who is the speaker presenting to? → *is presenting*
+79. *(Test 5 · Listening – câu hỏi)* Who **is** the speaker **presenting** to?
 80. *(Test 6 · Listening)* I**'m looking** forward to it.
 81. *(Test 6 · Listening)* Remember our new injection mold machine the end of the day, and it turns out the hydraulic safety switch **is turning** itself off randomly.
-82. *(Test 6 · Listening)* What event is the speaker mainly discussing? → *is mainly discussing*
+82. *(Test 6 · Listening)* What event **is** the speaker **mainly discussing**?
 83. *(Test 6 · Listening – đáp án)* Cups **are sitting** in a sink.
 84. *(Test 6 · Listening – đáp án)* He**'s lifting** up a machine.
 85. *(Test 6 · Listening – đáp án)* A man **is tying** his shoe.
@@ -3152,7 +3152,7 @@
 88. *(Test 6 · Listening – đáp án)* A woman **is writing** on a piece of paper.
 89. *(Test 6 · Listening – đáp án)* A woman **is leaning** against a glass door.
 90. *(Test 6 · Listening – đáp án)* A woman **is talking** to a worker at a desk.
-91. *(Test 6 · Listening – câu hỏi)* Why is the company hosting a banquet? → *is hosting*
+91. *(Test 6 · Listening – câu hỏi)* Why **is** the company **hosting** a banquet?
 92. *(Test 6 · Listening – câu hỏi)* What type of service **is being advertised**?
 93. *(Test 7 · Listening)* The city appreciates your **be investing** in this community in such a substantial way.
 94. *(Test 7 · Listening – đáp án)* She**'s holding** a water bottle.
@@ -3176,10 +3176,10 @@
 112. *(Test 8 · Listening)* The restaurant **is finally getting** a new stove.
 113. *(Test 8 · Listening – đáp án)* A light fixture **is hanging** from the ceiling.
 114. *(Test 8 · Listening – đáp án)* One of the women **is holding** up a book.
-115. *(Test 8 · Listening – câu hỏi)* What is the speaker mainly discussing? → *is mainly discussing*
-116. *(Test 8 · Listening – câu hỏi)* Where is the meeting taking place? → *is taking*
-117. *(Test 9 · Listening)* When are we meeting again? → *are meeting*
-118. *(Test 9 · Listening)* What type of fence are you looking for? → *are looking*
+115. *(Test 8 · Listening – câu hỏi)* What **is** the speaker **mainly discussing**?
+116. *(Test 8 · Listening – câu hỏi)* Where **is** the meeting **taking** place?
+117. *(Test 9 · Listening)* When **are** we **meeting** again?
+118. *(Test 9 · Listening)* What type of fence **are** you **looking** for?
 119. *(Test 9 · Listening – đáp án)* A man **is bending** over some wires.
 120. *(Test 9 · Listening – đáp án)* Some people **are waiting** in line to order.
 121. *(Test 9 · Listening – đáp án)* A server **is placing** some food on a tray.
@@ -3190,14 +3190,14 @@
 126. *(Test 9 · Listening – đáp án)* We**'re waiting** for a few more people.
 127. *(Test 9 · Listening – câu hỏi)* What **is causing** a problem?
 128. *(Test 9 · Listening – câu hỏi)* What kind of service **is being advertised**?
-129. *(Test 10 · Listening)* Are you planning to work at home tomorrow? → *Are planning*
+129. *(Test 10 · Listening)* **Are** you **planning** to work at home tomorrow?
 130. *(Test 10 · Listening)* I heard the Day Street Bridge **is being worked** on.
 131. *(Test 10 · Listening – đáp án)* He**'s holding** up an umbrella.
 132. *(Test 10 · Listening – đáp án)* Some men **are removing** a tire from a truck.
 133. *(Test 10 · Listening – đáp án)* A bicycle path **is being painted**.
 134. *(Test 10 · Listening – đáp án)* Some ahipa **are moving** under a bridge.
 135. *(Test 10 · Listening – đáp án)* A ferryboat **is traveling** through a marina.
-136. *(Test 10 · Listening – câu hỏi)* What is Camille working on? → *is working*
+136. *(Test 10 · Listening – câu hỏi)* What **is** Camille **working** on?
 137. *(Test 10 · Listening – câu hỏi)* What **is causing** a delay?
 
 ---
@@ -3339,7 +3339,7 @@
 127. *(Test 8 · Part 7)* ARLFORD (18 March)—Darwin-based carrier Winglite Airlines **has announced** plans to begin nonstop daily flights between Arlford Regional Airport and Cranton.
 128. *(Test 8 · Part 7)* According to Ms. Grewal, the airline **has scheduled** its inaugural flight from Arlford Regional Airport for 1 August.
 129. *(Test 8 · Part 7)* I **have been assigned** to the airline's new route out of Arlford that begins next month.
-130. *(Test 8 · Part 7)* Whether you want to use stickers as giveaways or to make extra cash, Stickers Be Yours has you covered. → *has covered*
+130. *(Test 8 · Part 7)* Whether you want to use stickers as giveaways or to make extra cash, Stickers Be Yours **has** you **covered**.
 131. *(Test 9 · Part 5)* Yuping University **has formed** partnerships with local businesses to create internship opportunities for its students.
 132. *(Test 9 · Part 5)* The ongoing shortage of hardwood **has caused** the price of certain furniture items to soar.
 133. *(Test 9 · Part 6)* I **have attached** five sketches for you.
@@ -3369,7 +3369,7 @@
 157. *(Test 10 · Part 7)* Her innovations in treating eye diseases **have benefited** thousands of patients worldwide.
 158. *(Test 10 · Part 7)* I **have tried** to sell it myself but was not successful, so I would like to place it on consignment with you.
 159. *(Test 10 · Part 7 – câu hỏi)* At 4:11 P.M., what does Ms. Balog most likely mean when she writes, "It **has never looked** so good"?
-160. *(Test 10 · Part 7 – câu hỏi)* According to the Web page, what has Sagemont Services done recently? → *has done*
+160. *(Test 10 · Part 7 – câu hỏi)* According to the Web page, what **has** Sagemont Services **done** recently?
 
 **🎧 Listening**
 
@@ -3392,9 +3392,9 @@
 17. *(Test 3 · Listening – đáp án)* It **has donated** to a charity.
 18. *(Test 3 · Listening – đáp án)* It **has won** an industry award.
 19. *(Test 3 · Listening – đáp án)* Some trucks **have stopped** at a traffic signal.
-20. *(Test 4 · Listening)* Have you always commuted by train? → *Have always commuted*
+20. *(Test 4 · Listening)* **Have** you **always commuted** by train?
 21. *(Test 4 · Listening)* She **has worked** tirelessly to around the world.
-22. *(Test 4 · Listening – đáp án)* Have you checked the oven? → *Have checked*
+22. *(Test 4 · Listening – đáp án)* **Have** you **checked** the oven?
 23. *(Test 4 · Listening – đáp án)* A road **has been temporarily closed**.
 24. *(Test 4 · Listening – đáp án)* The listeners **have done** a good job.
 25. *(Test 4 · Listening – đáp án)* It **has been sold** out for months.
@@ -3540,8 +3540,8 @@
 
 **🎧 Listening**
 
-1. *(Test 8 · Listening – câu hỏi)* What has the man been doing? → *has been doing*
-2. *(Test 9 · Listening)* What have the speakers been working on? → *have been working*
+1. *(Test 8 · Listening – câu hỏi)* What **has** the man **been doing**?
+2. *(Test 9 · Listening)* What **have** the speakers **been working** on?
 
 ---
 
@@ -3611,10 +3611,10 @@
 **🎧 Listening**
 
 1. *(Test 3 · Listening – đáp án)* We**'re going** to try something new.
-2. *(Test 5 · Listening)* Are we going to be able to fill and ship all these orders? → *Are going*
-3. *(Test 5 · Listening)* When are the materials going to get here? → *are going*
+2. *(Test 5 · Listening)* **Are** we **going** to be able to fill and ship all these orders?
+3. *(Test 5 · Listening)* When **are** the materials **going** to get here?
 4. *(Test 7 · Listening)* Our print shop **is going** to have a sale on shirts.
-5. *(Test 7 · Listening – câu hỏi)* Why is the man going to make a phone call? → *is going*
+5. *(Test 7 · Listening – câu hỏi)* Why **is** the man **going** to make a phone call?
 
 ---
 

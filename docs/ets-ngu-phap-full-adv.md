@@ -337,28 +337,28 @@
 6. *(Test 1 · Part 7 – câu hỏi)* Why most **likely did** the Red Hills Business Association change the dates of its concert series?
 7. *(Test 1 · Part 7 – câu hỏi)* What is one service that Darboury Company most **likely provides**?
 8. *(Test 2 · Part 5)* Conradia Computers **abruptly changed** the direction of its marketing strategy last week.
-9. *(Test 2 · Part 6)* Alternatively., we could remove all of the old asphalt and replace it with a porous material such as crushed gravel. → *Alternatively remove*
+9. *(Test 2 · Part 6)* **Alternatively**., we could **remove** all of the old asphalt and replace it with a porous material such as crushed gravel.
 10. *(Test 2 · Part 7)* As a Radial Tunes subscriber, you can access hundreds of songs, music videos, and playlists **specially curated** by other users.
 11. *(Test 2 · Part 7)* To subscribe, **simply complete** the following form.
 12. *(Test 2 · Part 7)* **Simply place** an order within one month to receive the discount.
-13. *(Test 2 · Part 7)* "Alternatively, we can provide online lessons to accommodate your schedule." → *Alternatively provide*
+13. *(Test 2 · Part 7)* "**Alternatively**, we can **provide** online lessons to accommodate your schedule."
 14. *(Test 2 · Part 7)* No options are coming up for the Dalton light-rail station, which you **specifically mention** as the station where hotel guests should disembark.
 15. *(Test 3 · Part 5)* The heavy traffic on the way to the airport **nearly caused** Ms. Ikeda to miss her flight.
 16. *(Test 3 · Part 5)* The Whitetail Institute is the only organization that tracks deer populations in **rapidly expanding** suburban areas.
 17. *(Test 3 · Part 7)* We had lunch at the Red Rose Café, which I **highly recommend** to anyone who appreciates delicious food at a reasonable price.
-18. *(Test 3 · Part 7)* “Surprisingly,” said Dr. Fiallo, “the site was literally stumbled upon by a farmer digging a well on his land. → *Surprisingly said*
+18. *(Test 3 · Part 7)* “**Surprisingly**,” **said** Dr. Fiallo, “the site was literally stumbled upon by a farmer digging a well on his land.
 19. *(Test 3 · Part 7)* **Simply follow** the instructions on the Resources page.
 20. *(Test 4 · Part 5)* Mr. Olivero praised the film in his review, even though he **personally disliked** its aesthetic style.
-21. *(Test 4 · Part 5)* We would like to attend the retreat, but regrettably we are unavailable on that date. → *regrettably are*
-22. *(Test 4 · Part 7)* The boots arrived yesterday, but unfortunately, their actual colour is different from the colour pictured on your Web site. → *unfortunately is*
+21. *(Test 4 · Part 5)* We would like to attend the retreat, but **regrettably** we **are** unavailable on that date.
+22. *(Test 4 · Part 7)* The boots arrived yesterday, but **unfortunately**, their actual colour **is** different from the colour pictured on your Web site.
 23. *(Test 5 · Part 6)* I would like to **personally thank** Ms. Hoffman for her tremendous leadership.
 24. *(Test 5 · Part 7)* I **really appreciate** it!
-25. *(Test 5 · Part 7)* Early on Monday would work. → *Early work*
+25. *(Test 5 · Part 7)* **Early** on Monday would **work**.
 26. *(Test 5 · Part 7 – câu hỏi)* For whom is the advertisement most **likely intended**?
 27. *(Test 5 · Part 7 – câu hỏi)* During what month will Covered Bridge Industries most **likely launch** a new product?
 28. *(Test 5 · Part 7 – câu hỏi)* What type of business do Ms. Ohtani and Ms. Rivera most **likely operate**?
 29. *(Test 6 · Part 7)* The crew members **quickly addressed** all issues, replacing smoke detectors, changing filters in my furnace, and weatherproofing windows before the cold season set in.
-30. *(Test 6 · Part 7)* We recently started working with a new packaging supply company, and unfortunately, we experienced a miscommunication with them. → *unfortunately experienced*
+30. *(Test 6 · Part 7)* We recently started working with a new packaging supply company, and **unfortunately**, we **experienced** a miscommunication with them.
 31. *(Test 6 · Part 7)* Walter **actually interviewed** me when I first applied for a job with the company fifteen years ago.
 32. *(Test 6 · Part 7)* **Simply complete** the form at www.alamitobotanicalsociety.org/gorgeousgardens and submit it with digital photos of your garden by May 20.
 33. *(Test 6 · Part 7)* The leaders and members of the Alamito Botanical Society **cordially invite** the public to attend its educational lectures, held at the horticultural department of Marfa Community College.
@@ -368,14 +368,14 @@
 37. *(Test 7 · Part 7)* It **automatically wraps** the umbrella in a clear plastic bag, after which visitors can take their umbrellas.
 38. *(Test 7 · Part 7 – câu hỏi)* For whom is the information most **likely intended**?
 39. *(Test 8 · Part 5)* After **extensively reviewing** our hiring policies, the consultant recommended a simpler process.
-40. *(Test 8 · Part 6)* Most significantly, we have corrected several issues with the previous version. → *significantly corrected*
+40. *(Test 8 · Part 6)* Most **significantly**, we have **corrected** several issues with the previous version.
 41. *(Test 8 · Part 7)* He **quickly rose** to fame.
 42. *(Test 8 · Part 7)* I also wish there were more than two photographs, **especially considering** how much Maalim's reputation was based on his photogenic qualities.
 43. *(Test 8 · Part 7)* The bowling was great, and I **really enjoyed** the virtual reality, which I had never tried before.
 44. *(Test 8 · Part 7)* It **really came** out beautifully, and we appreciate your help with it.
 45. *(Test 8 · Part 7 – câu hỏi)* What strategy is proposed to make the company more **widely known** by the public?
-46. *(Test 8 · Part 7 – câu hỏi)* For what type of event has Mr. Kolman most likely been hired? → *likely hired*
-47. *(Test 8 · Part 7 – câu hỏi)* How most likely did Ms. Lugo know Mr. Maalim? → *likely know*
+46. *(Test 8 · Part 7 – câu hỏi)* For what type of event has Mr. Kolman most **likely** been **hired**?
+47. *(Test 8 · Part 7 – câu hỏi)* How most **likely** did Ms. Lugo **know** Mr. Maalim?
 48. *(Test 9 · Part 5)* Dr. Grayston **enthusiastically accepted** the position of school superintendent.
 49. *(Test 9 · Part 6)* Instead., **gently wipe** it down with a damp cloth.
 50. *(Test 9 · Part 7)* To avoid account deactivation on 20 July, **simply sign** in to the app before that date.
@@ -387,11 +387,11 @@
 56. *(Test 10 · Part 7)* For example, with the online retailer Clothing Discounters **rapidly expanding**, we assisted the company in increasing its call-center capability.
 57. *(Test 10 · Part 7)* She then began to collect old plastic bottles and cardboard shipping boxes and **innovatively combined** them with commercially made, recyclable building materials.
 58. *(Test 10 · Part 7 – câu hỏi)* For whom is the notice most **likely intended**?
-59. *(Test 10 · Part 7 – câu hỏi)* Where most likely did Dr. Robbins receive the Kramer Medal? → *likely receive*
+59. *(Test 10 · Part 7 – câu hỏi)* Where most **likely** did Dr. Robbins **receive** the Kramer Medal?
 
 **🎧 Listening**
 
-1. *(Test 1 · Listening)* No, unfortunately you'll have to bring everything list a number of companies that can remove and dispose of the items for you. → *unfortunately have*
+1. *(Test 1 · Listening)* No, **unfortunately** you'll **have** to bring everything list a number of companies that can remove and dispose of the items for you.
 2. *(Test 1 · Listening – câu hỏi)* Who most **likely are** the listeners?
 3. *(Test 2 · Listening)* I **really need** this coffee break.
 4. *(Test 3 · Listening – đáp án)* Yes, it **really brightens** up the room.
@@ -451,7 +451,7 @@
 39. *(Test 9 · Part 7)* In fact, we just completed the first aerial videos for Kwanduma Realty Ltd., and everyone is **very pleased** with the results.”
 40. *(Test 10 · Part 6)* In contrast, other reviewers argue that the series might lose its appeal with the introduction of **so many** new characters, resulting in a complicated and confusing plotline.
 41. *(Test 10 · Part 6)* We are **so glad** you enjoy our products.
-42. *(Test 10 · Part 7)* I am interested to know if you think so as well. → *so well*
+42. *(Test 10 · Part 7)* I am interested to know if you think **so** as **well**.
 43. *(Test 10 · Part 7)* For 47 years now, I believe we have been **quite successful** in this endeavour."
 44. *(Test 10 · Part 7)* I wasn't **very good**, but I did enjoy playing.
 45. *(Test 10 · Part 7 – câu hỏi)* At 4:11 P.M., what does Ms. Balog most likely mean when she writes, "It has never looked **so good**"?
@@ -704,11 +704,11 @@
 11. *(Test 4 · Part 5)* Mr. Aziz **is often** alone in the shop while his partner is out making a delivery.
 12. *(Test 4 · Part 7)* I was hoping you could scan them and e-mail them to me since you **usually get** to the office early.
 13. *(Test 4 · Part 7)* I **always admired** her work, and I obtained many of her creations to sell at my shop.
-14. *(Test 4 · Part 7)* Because we are a small company, our inventory is not always fully available. → *is always*
-15. *(Test 4 · Part 7)* We encourage residents to visit this page often to learn about upcoming volunteer events. → *visit often*
+14. *(Test 4 · Part 7)* Because we are a small company, our inventory **is** not **always** fully available.
+15. *(Test 4 · Part 7)* We encourage residents to **visit** this page **often** to learn about upcoming volunteer events.
 16. *(Test 5 · Part 7)* GREENWOOD (July 6)—Why a particular business succeeds **is often** a mystery, but a couple of local shops appear to have learned the secret.
-17. *(Test 5 · Part 7)* People here love books and reading, and they visit us regularly. → *visit regularly*
-18. *(Test 5 · Part 7)* Sometimes I considered shutting it all down and going back to my former job." → *sometimes considered*
+17. *(Test 5 · Part 7)* People here love books and reading, and they **visit** us **regularly**.
+18. *(Test 5 · Part 7)* **Sometimes** I **considered** shutting it all down and going back to my former job."
 19. *(Test 6 · Part 5)* The first-aid class **usually fills** up quickly, so prompt registration is recommended.
 20. *(Test 6 · Part 7)* You can **always reach** me on my mobile phone, 613-555-0129.
 21. *(Test 6 · Part 7)* “I also appreciate that the landscaping **is always** well maintained.”
@@ -732,14 +732,14 @@
 
 **🎧 Listening**
 
-1. *(Test 1 · Listening)* How often do you charge this device? → *often charge*
+1. *(Test 1 · Listening)* How **often** do you **charge** this device?
 2. *(Test 4 · Listening)* Have you **always commuted** by train?
 3. *(Test 4 · Listening)* When does your manager **usually come** in?
-4. *(Test 4 · Listening)* How often does the bus stop at this location? → *often stop*
+4. *(Test 4 · Listening)* How **often** does the bus **stop** at this location?
 5. *(Test 4 · Listening)* So you should **always add** at least an extra hour to your trip out there.
 6. *(Test 6 · Listening)* Goods from the ships are **usually distributed** throughout the region by train or by truck.
-7. *(Test 7 · Listening)* How often should I submit my travel expenses? → *often submit*
-8. *(Test 8 · Listening)* How often do you travel abroad? → *often travel*
+7. *(Test 7 · Listening)* How **often** should I **submit** my travel expenses?
+8. *(Test 8 · Listening)* How **often** do you **travel** abroad?
 9. *(Test 10 · Listening)* We all know that customers **often take** a while to make their selection.
 
 ---
@@ -791,7 +791,7 @@
 37. *(Test 10 · Part 6)* They **are also** highly durable.
 38. *(Test 10 · Part 7)* Ms. Alonso **also plans** to add more recyclable material to her installation as the show progresses.
 39. *(Test 10 · Part 7)* In your e-mail, you should **also indicate** whether you wish to trade in your bicycle or place it on consignment.
-40. *(Test 10 · Part 7)* Also, I recently accepted a job in Kuwait and will be leaving on November 30. → *also accepted*
+40. *(Test 10 · Part 7)* **Also**, I recently **accepted** a job in Kuwait and will be leaving on November 30.
 
 **🎧 Listening**
 

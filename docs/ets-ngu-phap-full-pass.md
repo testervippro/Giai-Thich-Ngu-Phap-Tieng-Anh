@@ -153,7 +153,7 @@
 115. *(Test 5 · Part 7 – câu hỏi)* What **is mentioned** about Sonfaya Mutual's financial education programs?
 116. *(Test 5 · Part 7 – câu hỏi)* What **is indicated** in the article about Sonfaya Mutual?
 117. *(Test 5 · Part 7 – câu hỏi)* What **is suggested** about Ms. Nirere?
-118. *(Test 5 · Part 7 – câu hỏi)* According to the form, what are employees expected to do? → *are expected*
+118. *(Test 5 · Part 7 – câu hỏi)* According to the form, what **are** employees **expected** to do?
 119. *(Test 5 · Part 7 – câu hỏi)* What **is indicated** on the receipt about Eileen's Diner?
 120. *(Test 6 · Part 5)* Garza's Restaurant **is elaborately decorated** with paintings and photographs of southern Mexico.
 121. *(Test 6 · Part 5)* The first-aid class usually fills up quickly, so prompt registration **is recommended**.
@@ -303,7 +303,7 @@
 25. *(Test 7 · Listening – câu hỏi)* Why does the woman say she **is concerned**?
 26. *(Test 8 · Listening – đáp án)* A kitchen appliance **is broken**.
 27. *(Test 8 · Listening – đáp án)* A daily special **is no longer offered**.
-28. *(Test 9 · Listening)* Is it based on where the dish originated? → *Is based*
+28. *(Test 9 · Listening)* **Is** it **based** on where the dish originated?
 29. *(Test 9 · Listening – đáp án)* A bin **is filled** with flowers.
 30. *(Test 9 · Listening – đáp án)* Some technical assistance **is needed**.
 31. *(Test 9 · Listening – đáp án)* An immediate answer **is required**.
@@ -419,7 +419,7 @@
 15. *(Test 4 · Part 7)* All Stub Master tickets contain a unique barcode and **may not be printed**, copied, or shared.
 16. *(Test 4 · Part 7)* Please use the Stub Master app on your phone to access your ticket so that it **can be scanned** electronically for entry to the event.
 17. *(Test 4 · Part 7)* A city-issued building permit **may be required** before initiating construction work within Morrisville city limits.
-18. *(Test 4 · Part 7 – câu hỏi)* Where would the information most likely be found? → *would most likely be found*
+18. *(Test 4 · Part 7 – câu hỏi)* Where **would** the information **most likely be found**?
 19. *(Test 4 · Part 7 – câu hỏi)* What **can be concluded** about Ms. Colling's corporate event?
 20. *(Test 4 · Part 7 – câu hỏi)* What **can be concluded** about Mr. Lennox?
 21. *(Test 5 · Part 7)* This utility **can be found** in our company's online software library.
@@ -438,11 +438,11 @@
 34. *(Test 7 · Part 7)* Every 100 points you earn **can be redeemed** for $5.00 off your purchase of ice cream or store merchandise, including T-shirts and tote bags.
 35. *(Test 7 · Part 7)* The vehicles **must be offered** at a price that is reasonable for the average consumer.”
 36. *(Test 7 · Part 7)* The stand is mobile and thus **can be rolled** around to different locations.
-37. *(Test 7 · Part 7)* The building's completion date cannot be postponed. → *can not be postponed*
+37. *(Test 7 · Part 7)* The building's completion date **can****not be postponed**.
 38. *(Test 7 · Part 7 – câu hỏi)* What **can be concluded** about the Ventana Airlines executive team?
 39. *(Test 7 · Part 7 – câu hỏi)* What **can be concluded** about Mr. Makoare?
 40. *(Test 8 · Part 7)* With special permission, oversized items like sporting equipment and musical instruments **can be taken** into the cabin as carry-on items.
-41. *(Test 8 · Part 7 – câu hỏi)* When should the Aviation Boulevard project be completed? → *should be completed*
+41. *(Test 8 · Part 7 – câu hỏi)* When **should** the Aviation Boulevard project **be completed**?
 42. *(Test 8 · Part 7 – câu hỏi)* What **can be concluded** about Ms. Dye?
 43. *(Test 8 · Part 7 – câu hỏi)* What **can be concluded** about Nick Beats' most popular sticker?
 44. *(Test 9 · Part 5)* Any document marked "Confidential" **must be handled** and stored carefully.
@@ -452,13 +452,13 @@
 48. *(Test 9 · Part 7 – câu hỏi)* What **can be concluded** about Ms. Rowley?
 49. *(Test 10 · Part 5)* Employees are asked to update their contact information so that the staff directory **can be finalized**.
 50. *(Test 10 · Part 6)* This feature minimizes the need Accordingly, more of them **can be loaded** onto trucks when empty frequent 132.
-51. *(Test 10 · Part 7 – câu hỏi)* In what situation would a customer be billed $50? → *would be billed*
+51. *(Test 10 · Part 7 – câu hỏi)* In what situation **would** a customer **be billed** $50?
 52. *(Test 10 · Part 7 – câu hỏi)* What **can be concluded** about Ms. Balog?
 53. *(Test 10 · Part 7 – câu hỏi)* What **can be concluded** about Ms. Johnson?
 
 **🎧 Listening**
 
-1. *(Test 3 · Listening – đáp án)* A parking area cannot be used. → *can not be used*
+1. *(Test 3 · Listening – đáp án)* A parking area **can****not be used**.
 
 ---
 
@@ -540,7 +540,7 @@
 1. *(Test 1 · Part 7)* Note that all parking spaces **will be widened**, and some spaces could be moved during the work.
 2. *(Test 1 · Part 7)* Frozen fish and other seafood **will be added** early next year.
 3. *(Test 1 · Part 7)* As usual, all three blocks of Oak Street **will be closed** to traffic, restaurants will serve lunch at outdoor tables, and local arts-and-crafts vendors will display their work on the lawn of the Cultural Center.
-4. *(Test 1 · Part 7 – câu hỏi)* In which section of the Web site will information most likely be added? → *will most likely be added*
+4. *(Test 1 · Part 7 – câu hỏi)* In which section of the Web site **will** information **most likely be added**?
 5. *(Test 2 · Part 5)* The next meeting of the planning committee **will be held** promptly at 2 P.M.
 6. *(Test 2 · Part 5)* Reimbursement for travel expenses **will be included** in your October 1 paycheck.
 7. *(Test 2 · Part 5)* The employee picnic **will be postponed** until next Friday because of the unseasonably cold temperatures this week.
@@ -567,7 +567,7 @@
 28. *(Test 6 · Part 7)* On Tuesday and Wednesday, residents who come to the village hall can pick up cloth bags to replace single-use plastic shopping bags, the sale of which **will be banned** in our county starting next month.
 29. *(Test 6 · Part 7)* Finally, on Saturday, 500 tree saplings **will be offered** to residents free of charge.
 30. *(Test 6 · Part 7 – câu hỏi)* What **will be posted** to Misford's Web site?
-31. *(Test 6 · Part 7 – câu hỏi)* When will Ms. Karp's report most likely be sent to the staff? → *will most likely be sent*
+31. *(Test 6 · Part 7 – câu hỏi)* When **will** Ms. Karp's report **most likely be sent** to the staff?
 32. *(Test 7 · Part 5)* After Ms. Takido finishes her presentation, the audience **will be permitted** to ask questions.
 33. *(Test 7 · Part 5)* Given the forecast for rain on Saturday, the ceremony **will be held** indoors at the Raheen Gallery.
 34. *(Test 7 · Part 6)* If you have a Nelsign account, this contract and any other documents you have previously signed electronically with Nelsign **will be saved** in your profile.
@@ -624,7 +624,7 @@
 24. *(Test 5 · Part 7)* All employees **are expected to follow** the guidelines in the employee manual as well as posted safety rules.
 25. *(Test 5 · Part 7)* I**’m scheduled to work** at Mr. Amadi’s apartment on Friday—can the Browns’ ductwork wait until Monday?
 26. *(Test 5 · Part 7)* A minimum deposit of FRW 100,000 **is required to open** a BASA, while a monthly administration fee of FRW 1,500 is charged.
-27. *(Test 5 · Part 7 – câu hỏi)* According to the form, what are employees expected to do? → *are expected to do*
+27. *(Test 5 · Part 7 – câu hỏi)* According to the form, what **are** employees **expected to do**?
 28. *(Test 6 · Part 5)* The Stallmain Corporation's latest survey **was intended to determine** employee satisfaction in several key categories.
 29. *(Test 6 · Part 7)* Picking season this year **is set to run** from July 1 to September 15.
 30. *(Test 6 · Part 7)* On Monday, residents **are encouraged to walk** along the trails and take photographs.
@@ -688,18 +688,18 @@
 
 **📖 Reading**
 
-1. *(Test 5 · Part 7 – câu hỏi)* Why is the Zipvid app no longer being used? → *is no longer being used*
+1. *(Test 5 · Part 7 – câu hỏi)* Why **is** the Zipvid app **no longer being used**?
 2. *(Test 8 · Part 7)* Additional destinations **are being considered** for the future, including Eider Bay and West Linport.
 3. *(Test 9 · Part 7)* Preorders **are now being accepted** at Teleteknic's online shop.
 
 **🎧 Listening**
 
-1. *(Test 1 · Listening)* Where is the conference being held? → *is being held*
+1. *(Test 1 · Listening)* Where **is** the conference **being held**?
 2. *(Test 1 · Listening – đáp án)* Some software **is being updated**.
 3. *(Test 2 · Listening – đáp án)* Some streets **are being resurfaced**.
 4. *(Test 3 · Listening)* Which event **is being planned**?
 5. *(Test 3 · Listening – đáp án)* A garden **is being planted** along a fence.
-6. *(Test 4 · Listening)* Why is the manager being replaced? → *is being replaced*
+6. *(Test 4 · Listening)* Why **is** the manager **being replaced**?
 7. *(Test 4 · Listening)* What type of event **is being held** tonight?
 8. *(Test 4 · Listening – đáp án)* Some clothes **are being packed** in a bag.
 9. *(Test 4 · Listening – đáp án)* It **is being streamed** live.
@@ -727,7 +727,7 @@
 3. *(Test 2 · Part 7)* The code is valid for one-time use only and expires 24 hours after **being sent**.
 4. *(Test 3 · Part 7)* Also **planned** are murals for the station's interior walls.
 5. *(Test 4 · Part 7)* Could I ask that my painting **be placed** away from the similar artwork?
-6. *(Test 5 · Part 5)* Ms. Lim's best-selling novel has been... praised. → *been praised*
+6. *(Test 5 · Part 5)* Ms. Lim's best-selling novel has **been**... **praised**.
 7. *(Test 5 · Part 5)* The spray-on sealant acts as a protective layer that keeps your tiles from **getting scratched**.
 8. *(Test 5 · Part 7)* Your Business **Gets Noticed** When You Advertise Here!
 9. *(Test 5 · Part 7)* I**’m scheduled** to work at Mr. Amadi’s apartment on Friday—can the Browns’ ductwork wait until Monday?
@@ -742,7 +742,7 @@
 
 **🎧 Listening**
 
-1. *(Test 2 · Listening)* Would you like the report to be e-mailed or printed out? → *be mailed*
+1. *(Test 2 · Listening)* Would you like the report to **be** e-**mailed** or printed out?
 
 ---
 

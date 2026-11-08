@@ -47,7 +47,7 @@
 7. *(Test 1 · Part 7)* We will **continue to dream** up new and exciting plans for the future!
 8. *(Test 1 · Part 7)* Many were saddened when the former theater owners **decided to close** the venue over a year ago, citing the cost of needed renovations.
 9. *(Test 1 · Part 7)* The friends, who also own the popular Blue Bay Bistro, **decided to buy** the theater and make the necessary repairs to keep it a thriving business.
-10. *(Test 1 · Part 7)* If you would prefer not to wait, we have a similar telescope made by another manufacturer, Belter Telescopes. → *prefer to wait*
+10. *(Test 1 · Part 7)* If you would **prefer** not **to wait**, we have a similar telescope made by another manufacturer, Belter Telescopes.
 11. *(Test 1 · Part 7)* If you are ready to join our team, we **want to meet** you!
 12. *(Test 1 · Part 7)* “We **needed to add** staff there temporarily, and I was happy to keep my restaurant crew employed.”
 13. *(Test 1 · Part 7)* Do I **have to submit** a new project request form?
@@ -84,7 +84,7 @@
 44. *(Test 3 · Part 5)* Each department has been **asked to develop** an action plan in response to the budget cuts announced last week.
 45. *(Test 3 · Part 5)* Mr. Kane said he packed so hastily this morning that he **forgot to bring** a suit and tie for tomorrow's dinner.
 46. *(Test 3 · Part 6)* We would **like to show** our appreciation for everything Winnie has done for our department, especially for our team.
-47. *(Test 3 · Part 7)* If the location turns out to be a good fit, we can use the app to book the space and unload the van right there and then. → *turns to be*
+47. *(Test 3 · Part 7)* If the location **turns** out **to be** a good fit, we can use the app to book the space and unload the van right there and then.
 48. *(Test 3 · Part 7)* I would **like to announce** that several executive positions have been filled.
 49. *(Test 3 · Part 7)* Although Marcus Bromley's executive assignment was **intended to remain** unchanged, he recently decided to retire.
 50. *(Test 3 · Part 7)* Mr. Bromley **plans to settle** permanently in his native Pretoria in June.
@@ -109,7 +109,7 @@
 69. *(Test 4 · Part 7)* I am **planning to contribute** a piece of art again this year, but I've noticed its subject is very similar to that of another piece listed in your e-mail attachment.
 70. *(Test 5 · Part 5)* The marketing manager, Ms. Abyola, **plans to meet** with the press following her meeting with the vice president.
 71. *(Test 5 · Part 5)* Weakness in the housing market has **continued to drag** down real estate profits.
-72. *(Test 5 · Part 6)* I would like to personally thank Ms. Hoffman for her tremendous leadership. → *like to thank*
+72. *(Test 5 · Part 6)* I would **like to** personally **thank** Ms. Hoffman for her tremendous leadership.
 73. *(Test 5 · Part 6)* Our research indicates that you are **planning to open** a physiotherapy practice in Queen's Point within the next few months.
 74. *(Test 5 · Part 6)* We would **love to work** with you to create an inviting space that you can be proud of.
 75. *(Test 5 · Part 7)* I would **like to schedule** a time to revisit your property and discuss your landscaping project in more detail.
@@ -138,7 +138,7 @@
 98. *(Test 6 · Part 7)* I am sure everyone, not just Walter, would **love to hear** from you!
 99. *(Test 6 · Part 7)* However, lavender is not on the invasive-species list, and I **continue to let** them grow because the butterflies, bees, and other wildlife love the blooms.
 100. *(Test 6 · Part 7)* I would **like to arrange** a site visit with my associate Peter Cumberland either this week or next.
-101. *(Test 6 · Part 7)* After further consideration, I have decided not to pursue this opportunity after all. → *decided to pursue*
+101. *(Test 6 · Part 7)* After further consideration, I have **decided** not **to pursue** this opportunity after all.
 102. *(Test 6 · Part 7 – câu hỏi)* At approximately what time does Mr. Iqbal **plan to arrive** at the party?
 103. *(Test 7 · Part 5)* Mr. Ozawa generally **prefers to commute** to work by train instead of by car.
 104. *(Test 7 · Part 5)* Candidates for the entry-level marketing position **need to have** a basic understanding of consumer behavior.
@@ -387,7 +387,7 @@
 80. *(Test 4 · Part 7)* “I will do my best **to advance the company's** mission and strengthen its industry presence.”.
 81. *(Test 4 · Part 7)* I always admired her work, and I obtained many of her creations **to sell at my shop**.
 82. *(Test 4 · Part 7)* On a media tour, Ms. Skandar highlighted how Mr. Greeley retained nearly all of the Paxton Street building's original features **to give** it a vintage character.
-83. *(Test 4 · Part 7)* But, to confirm that we’re looking at the same material—there are several photos showing our desktop calendar each with the caption “The promise of a new year with a calendar from Stenmex Stationery.” → *to confirm that we ’re*
+83. *(Test 4 · Part 7)* But, **to confirm that we****’re** looking at the same material—there are several photos showing our desktop calendar each with the caption “The promise of a new year with a calendar from Stenmex Stationery.”
 84. *(Test 4 · Part 7)* What if we ask customers to send us their written comments on how they use our calendars **to help** them organize their home offices?
 85. *(Test 4 · Part 7)* Our events coordinator will work with you **to make your wedding or** corporate function an occasion to remember.”
 86. *(Test 4 · Part 7)* Chef Malik and his staff can also work with you **to include logos on food** items or a cake.
@@ -550,14 +550,14 @@
 20. *(Test 2 · Part 7)* I am interested **in bringing** my Art 103 class to view and sketch some of the pieces you have on display.
 21. *(Test 2 · Part 7)* Since Art 103 focuses **on studying** and drawing the human form, the statues will be getting most of our attention.
 22. *(Test 3 · Part 5)* Frankie's Boutique had a financially profitable quarter **after taking** measures to reduce costs.
-23. *(Test 3 · Part 5)* The Whitetail Institute is the only organization that tracks deer populations in rapidly expanding suburban areas. → *in expanding*
-24. *(Test 3 · Part 5)* The results of the study suggest that more people struggle with night driving than previously believed. → *with driving*
+23. *(Test 3 · Part 5)* The Whitetail Institute is the only organization that tracks deer populations **in** rapidly **expanding** suburban areas.
+24. *(Test 3 · Part 5)* The results of the study suggest that more people struggle **with** night **driving** than previously believed.
 25. *(Test 3 · Part 6)* This has the added benefit **of grabbing** investors' attention.
 26. *(Test 3 · Part 6)* Please refrain **from accessing** the system over these five days.
 27. *(Test 3 · Part 6)* The updated site will enable users to perform advanced operations, **including setting** up and managing direct deposit preferences and accessing tax documents.
 28. *(Test 3 · Part 7)* Remember that mobile app I told you about—the one **for finding** available storage locations?
 29. *(Test 3 · Part 7)* Thank you **for leading** a professional development seminar at Delahunt, Greene, and Associates (DGA) last week.
-30. *(Test 3 · Part 7)* Even with our staff working overtime to catch up, it may take longer than usual for customers to receive their bicycles. → *with working*
+30. *(Test 3 · Part 7)* Even **with** our staff **working** overtime to catch up, it may take longer than usual for customers to receive their bicycles.
 31. *(Test 3 · Part 7)* **After talking** with a coworker, I learned about Branxley Cycles.
 32. *(Test 3 · Part 7)* Additionally, MLP gives us the option **of having** candidates audition by providing video recordings.
 33. *(Test 4 · Part 5)* Beginning next month, all employees at Sartson Analytics will have the option **of working** from home two days per week.
@@ -607,11 +607,11 @@
 77. *(Test 7 · Part 7)* **Upon leaving**, they can discard the used bags in any nearby trash can.
 78. *(Test 7 · Part 7 – câu hỏi)* What did Mr. Thielen receive **for signing** up for the rewards program?
 79. *(Test 7 · Part 7 – câu hỏi)* What does Mr. Ogawa dislike **about connecting** at a hub?
-80. *(Test 8 · Part 5)* After extensively reviewing our hiring policies, the consultant recommended a simpler process. → *After reviewing*
+80. *(Test 8 · Part 5)* **After** extensively **reviewing** our hiring policies, the consultant recommended a simpler process.
 81. *(Test 8 · Part 5)* Please join us **in welcoming** Dr. Sito, who brings ten years of experience in the aerospace industry to his new position.
 82. *(Test 8 · Part 5)* Customer service representatives can be reached **by calling** 800-555-0121 between 8:00 A.M. and 4:00 P.M.
 83. *(Test 8 · Part 7)* How **about joining** me at the Sunny Owl Restaurant?
-84. *(Test 8 · Part 7)* City planners hope both projects will begin within the next month, with businesses and residents moving in late next year. → *with moving*
+84. *(Test 8 · Part 7)* City planners hope both projects will begin within the next month, **with** businesses and residents **moving** in late next year.
 85. *(Test 8 · Part 7)* “**Before bringing** large items like these on board, please contact a customer service representative.”
 86. *(Test 8 · Part 7)* Ms. Mackay is known **for giving** balanced, objective views of her numerous biographical subjects, and A Life in the Spotlight is no exception.
 87. *(Test 8 · Part 7)* Winglite Airlines is one of several recent start-ups specialising **in flying** to smaller markets in Australia that are not served by the main airlines.
@@ -654,7 +654,7 @@
 2. *(Test 3 · Listening)* What will you get **for completing** the program?
 3. *(Test 3 · Listening)* The train leaves from platform twelve **in looking** forward to our company gala event umbrella?
 4. *(Test 4 · Listening)* What does the man thank the woman **for doing**?
-5. *(Test 4 · Listening)* We have monthly posts on many gardening any products you can recommend? → *on gardening*
+5. *(Test 4 · Listening)* We have monthly posts **on** many **gardening** any products you can recommend?
 6. *(Test 4 · Listening)* That's just the right combination **for spending** some time outside on the field comfortably.
 7. *(Test 5 · Listening)* Who can I talk to **about getting** a membership at this fitness center?
 8. *(Test 5 · Listening)* Perhaps we could enlarge the break room **by having** the wall taken down between it and the meeting room next door.
@@ -676,19 +676,19 @@
 **📖 Reading**
 
 1. *(Test 1 · Part 5)* Dynart, Inc., continuously seeks new **ways to reduce** its use of plastics.
-2. *(Test 1 · Part 5)* Maswa Bistro began a cooperative agreement with local farmers to purchase a set amount of produce each week. → *agreement to purchase*
-3. *(Test 1 · Part 6)* Riessler Landscaping has everything you need to create your dream garden. → *everything to create*
+2. *(Test 1 · Part 5)* Maswa Bistro began a cooperative **agreement** with local farmers **to purchase** a set amount of produce each week.
+3. *(Test 1 · Part 6)* Riessler Landscaping has **everything** you need **to create** your dream garden.
 4. *(Test 1 · Part 7)* I have **plenty to go** around.
 5. *(Test 1 · Part 7)* Bring your good cheer and perhaps a **story to share**.
 6. *(Test 1 · Part 7)* BEACHVILLE (February 24)—Beachville residents and tourists have a good **reason to celebrate**.
 7. *(Test 1 · Part 7)* "Going to the movies is the **thing to do** on a rainy day in a seaside town.
-8. *(Test 1 · Part 7)* But in fact, by the very nature of their business, it is crucial that food truck owners have a fixed place for the public to learn about them, order from them, contact them, etc. → *place to learn*
-9. *(Test 1 · Part 7)* Online forms with fields to fill out, such as reservation requests for special events or services, give new visitors too much visual information. → *forms to fill*
+8. *(Test 1 · Part 7)* But in fact, by the very nature of their business, it is crucial that food truck owners have a fixed **place** for the public **to learn** about them, order from them, contact them, etc.
+9. *(Test 1 · Part 7)* Online **forms** with fields **to fill** out, such as reservation requests for special events or services, give new visitors too much visual information.
 10. *(Test 1 · Part 7 – câu hỏi)* At 11:23 A.M., what does Ms. Seang imply when she writes, "I have **plenty to go** around"?
-11. *(Test 1 · Part 7 – câu hỏi)* When is the deadline for Ms. Pereira to approve samples? → *deadline to approve*
+11. *(Test 1 · Part 7 – câu hỏi)* When is the **deadline** for Ms. Pereira **to approve** samples?
 12. *(Test 2 · Part 5)* The accounting department is in first place in the office fund-raising challenge, with just two more **days to go**.
 13. *(Test 2 · Part 7)* The magazine is sent free upon request to mid- and upper-level managers of dealerships with fleets of 25 or more vehicles for transporting goods nationwide. → *managers to mid-*
-14. *(Test 2 · Part 7)* Call (615) 555-0118 to schedule a visit for a free consultation. → *Call to schedule*
+14. *(Test 2 · Part 7)* **Call** (615) 555-0118 **to schedule** a visit for a free consultation.
 15. *(Test 2 · Part 7)* We wanted to take the **opportunity to suggest** some other items you might like.
 16. *(Test 2 · Part 7)* With significant clearance from the ground and strong stabilization to protect from bumps, the Nibora XC-35 offers a smooth ride even on the roughest terrain and will give you the confidence to take it on any wilderness adventure. → *clearance to protect*
 17. *(Test 2 · Part 7)* Judging from the pictures on the Web site, the hotel looks like a beautiful **place to stay**.
@@ -701,27 +701,27 @@
 24. *(Test 4 · Part 5)* The city's development committee is looking for a **location to plant** a community garden.
 25. *(Test 4 · Part 7)* Dr. Hugh Jaris, director of the lab's Remote Sensing Unit, will lead the **effort to test** one or more prototypes by collecting and analysing data next winter.
 26. *(Test 4 · Part 7)* She was the driving force behind that company's mission to develop accessibility products to enhance independent living in South Africa's domestic market. → *force to develop*
-27. *(Test 4 · Part 7)* We could use that as an example for customers to follow. → *example to follow*
+27. *(Test 4 · Part 7)* We could use that as an **example** for customers **to follow**.
 28. *(Test 5 · Part 7)* I would like to schedule a **time to revisit** your property and discuss your landscaping project in more detail.
 29. *(Test 5 · Part 7)* He recalled, "It took a long **time to turn** a profit.
 30. *(Test 6 · Part 5)* At the end of the year, organizations face **pressure to achieve** their financial goals.
 31. *(Test 6 · Part 5)* Mr. Ogbu's editor appreciated his **ability to approach** the subject matter objectively.
 32. *(Test 6 · Part 7)* I've already bought some bottles of water, but I won't have **time to stop** by the bakery tomorrow.
 33. *(Test 6 · Part 7)* This event is coordinated by the village's Green Earth Committee and is part of a long-term **effort to keep** Misford green and clean.
-34. *(Test 6 · Part 7)* The Green Earth Committee is accepting digital images and will select the ten best to post to the village Web site. → *ten to post*
+34. *(Test 6 · Part 7)* The Green Earth Committee is accepting digital images and will select the **ten** best **to post** to the village Web site.
 35. *(Test 6 · Part 7)* On Thursday, the Misford Library will host a panel on **ways to conserve** energy and reduce and recycle waste.
-36. *(Test 6 · Part 7)* I have really been looking forward to Walter's party, and it would be a tremendous honor for me to speak about him. → *honor to speak*
-37. *(Test 6 · Part 7)* The society’s Web site, resources, and educational lectures have been helpful regarding my ambitious project: to cover five acres of my land with various native plants that will attract birds and other animals. → *project to cover*
+36. *(Test 6 · Part 7)* I have really been looking forward to Walter's party, and it would be a tremendous **honor** for me **to speak** about him.
+37. *(Test 6 · Part 7)* The society’s Web site, resources, and educational lectures have been helpful regarding my ambitious **project**: **to cover** five acres of my land with various native plants that will attract birds and other animals.
 38. *(Test 6 · Part 7)* It would be a **privilege to show** my work to the public and to meet more people who value gardens as we members of the society do.
 39. *(Test 6 · Part 7 – câu hỏi)* What is NOT mentioned as a **way to enjoy** blueberries?
 40. *(Test 7 · Part 6)* Game Night at Chez Tournoi is the perfect **opportunity to relax** and socialise.
 41. *(Test 7 · Part 7)* Show or mention this **advertisement to receive** ten percent off the price of any secondhand or new bicycle.
-42. *(Test 7 · Part 7)* That's right, I said "nonstop." Ventana now offers direct flights between these two small cities with no need for travelers to change planes at Midwest National Airport, our only regional hub. → *need to change*
+42. *(Test 7 · Part 7)* That's right, I said "nonstop." Ventana now offers direct flights between these two small cities with no **need** for travelers **to change** planes at Midwest National Airport, our only regional hub.
 43. *(Test 7 · Part 7)* The Protecto Umbrella Wrapping machine (PUW machine) provides a simple and convenient **way to address** this problem.
 44. *(Test 8 · Part 5)* Beachside Inn is the perfect **place to host** an event for your corporate clients.
 45. *(Test 8 · Part 5)* The company decided to proceed cautiously with **plans to expand** into new sales territories.
 46. *(Test 8 · Part 6)* That is why we are giving you extra **time to submit** your application for our Master of Business Administration (MBA) program.
-47. *(Test 8 · Part 6)* Among these problems was a tendency for the screen to freeze. → *tendency to freeze*
+47. *(Test 8 · Part 6)* Among these problems was a **tendency** for the screen **to freeze**.
 48. *(Test 8 · Part 7)* The first project is the construction of a new commercial area at the south end of town, since the downtown commercial district has no **room to expand**.
 49. *(Test 8 · Part 7)* This year's staff gathering features a new twist: an online trivia **competition to test** your knowledge of popular culture, sports, and entertainment.
 50. *(Test 8 · Part 7)* Either party may cancel the agreement without obligation to the other as long as written notice of **intent to cancel** is provided at least 30 days before the date of the event.
@@ -733,7 +733,7 @@
 56. *(Test 9 · Part 7)* It is also a good **idea to give** examples of how you work with or learn from others.
 57. *(Test 9 · Part 7)* Videography: The client wants a **video to show** investors.
 58. *(Test 10 · Part 5)* This message is a **reminder to pick** up your package at your local post office as soon as possible.
-59. *(Test 10 · Part 5)* It will require a coordinated effort between the two countries to complete the railway line. → *effort to complete*
+59. *(Test 10 · Part 5)* It will require a coordinated **effort** between the two countries **to complete** the railway line.
 60. *(Test 10 · Part 7)* As part of our plan, we would welcome the **opportunity to form** a partnership with you.
 61. *(Test 10 · Part 7)* Guests who attend the art show will have the **opportunity to bring** in their own recyclable plastic items and place them in large collection bags set up around the perimeter of the exhibition room.
 62. *(Test 10 · Part 7)* Our company team participates in a league, and it’s a great **way to build** rapport with the people you will be working alongside.
@@ -745,13 +745,13 @@
 1. *(Test 1 · Listening)* The decline is mostly looking for a **location to build** a manufacturing facility.
 2. *(Test 2 · Listening)* What will the woman update on a mobile **need to begin** planning our Theater in the Park series for the summer.
 3. *(Test 2 · Listening)* We need **someone to choose** and it said you have lots of experience scouting factories.
-4. *(Test 2 · Listening)* Can you schedule a time for me to do that next week? → *time to do*
+4. *(Test 2 · Listening)* Can you schedule a **time** for me **to do** that next week?
 5. *(Test 2 · Listening)* So, I have some **news to share** with you.
 6. *(Test 3 · Listening)* We need better **ways to make** our brand stand more direct input from athletes who use our gear.
-7. *(Test 4 · Listening)* Advertising on the Internet is also a great way for a company to increase its visibility. → *way to increase*
+7. *(Test 4 · Listening)* Advertising on the Internet is also a great **way** for a company **to increase** its visibility.
 8. *(Test 5 · Listening)* You know, it takes a lot of **effort to develop** and some new designs for us to consider.
 9. *(Test 5 · Listening)* Please take a look at the **map to familiarize** yourselves with the route beverage stand located between city hall and the art museum, so you can stay hydrated while you watch the race.
-10. *(Test 5 · Listening – đáp án)* There's a lot of information to include. → *lot to include*
+10. *(Test 5 · Listening – đáp án)* There's a **lot** of information **to include**.
 11. *(Test 7 · Listening)* Please give your muscles **time to recover** after working so hard.
 12. *(Test 7 · Listening)* Offering a discount will give riders a **place to rest** and keep out of the sun, rain, or snow while they wait.
 13. *(Test 8 · Listening)* But for perspective, the city spends more than that every **year to hire** divers to repair broken equipment.
@@ -860,74 +860,74 @@
 
 1. *(Test 1 · Part 7)* I want to e-mail account holders aged 55 to 65 to **invite them to meet** with a retirement planning expert.
 2. *(Test 1 · Part 7)* We want to tell business owners and residents near the campus to expect a higher-than-usual noise level during the two weeks we estimate it will take to complete the work. → *tell owners to expect*
-3. *(Test 1 · Part 7)* She has also been instrumental in encouraging satisfied customers to post comments on our social media pages. → *encouraging customers to post*
-4. *(Test 1 · Part 7 – câu hỏi)* What does Ms. Correa ask members of the sales team to do? → *ask members to do*
-5. *(Test 2 · Part 5)* Though it is occasionally inconvenient, Mr. Ohtani expects all team members to attend his weekly meeting. → *expects members to attend*
+3. *(Test 1 · Part 7)* She has also been instrumental in **encouraging** satisfied **customers to post** comments on our social media pages.
+4. *(Test 1 · Part 7 – câu hỏi)* What does Ms. Correa **ask members** of the sales team **to do**?
+5. *(Test 2 · Part 5)* Though it is occasionally inconvenient, Mr. Ohtani **expects** all team **members to attend** his weekly meeting.
 6. *(Test 2 · Part 6)* A gravel bed **allows rainwater to pass** into the underlying soil and be reabsorbed.
-7. *(Test 3 · Part 5)* The heavy traffic on the way to the airport nearly caused Ms. Ikeda to miss her flight. → *caused Ikeda to miss*
+7. *(Test 3 · Part 5)* The heavy traffic on the way to the airport nearly **caused** Ms. **Ikeda to miss** her flight.
 8. *(Test 3 · Part 5)* The software uses computer memory efficiently, **allowing users to open** up to five files simultaneously.
-9. *(Test 3 · Part 5)* Long before the training program began, Ms. Morris had revised the schedule to allow her team to attend. → *allow team to attend*
+9. *(Test 3 · Part 5)* Long before the training program began, Ms. Morris had revised the schedule to **allow** her **team to attend**.
 10. *(Test 3 · Part 6)* The updated site will **enable users to perform** advanced operations, including setting up and managing direct deposit preferences and accessing tax documents.
-11. *(Test 3 · Part 7)* Ms. Reynoso said that enough funds have already been secured to enable the FGS to begin garden construction in mid-April. → *enable FGS to begin*
-12. *(Test 3 · Part 7)* You will also be able to select the pieces you want your candidates to perform from a wide menu that we provide. → *want candidates to perform*
+11. *(Test 3 · Part 7)* Ms. Reynoso said that enough funds have already been secured to **enable** the **FGS to begin** garden construction in mid-April.
+12. *(Test 3 · Part 7)* You will also be able to select the pieces you **want** your **candidates to perform** from a wide menu that we provide.
 13. *(Test 3 · Part 7)* Using this Web site will **allow us to reach** countless potential applicants.
-14. *(Test 3 · Part 7 – câu hỏi)* What does Ms. Parkin want the board of directors to do? → *want board to do*
-15. *(Test 3 · Part 7 – câu hỏi)* What does Branxley Cycles encourage its customers to do? → *encourage customers to do*
-16. *(Test 3 · Part 7 – câu hỏi)* According to the second e-mail, what does Professor Whitford want Dr. Fiallo to do? → *want Fiallo to do*
+14. *(Test 3 · Part 7 – câu hỏi)* What does Ms. Parkin **want** the **board** of directors **to do**?
+15. *(Test 3 · Part 7 – câu hỏi)* What does Branxley Cycles **encourage** its **customers to do**?
+16. *(Test 3 · Part 7 – câu hỏi)* According to the second e-mail, what does Professor Whitford **want** Dr. **Fiallo to do**?
 17. *(Test 4 · Part 7)* What if we **ask customers to send** us their written comments on how they use our calendars to help them organize their home offices?
 18. *(Test 4 · Part 7)* We **encourage residents to visit** this page often to learn about upcoming volunteer events.
-19. *(Test 4 · Part 7)* Many local artists plan to donate pieces for our auction, and as always, we encourage all amateur artists in our firm to donate work as well. → *encourage artists to donate*
+19. *(Test 4 · Part 7)* Many local artists plan to donate pieces for our auction, and as always, we **encourage** all amateur **artists** in our firm **to donate** work as well.
 20. *(Test 5 · Part 5)* A three-year project deepened the ---, **allowing it to accommodate** the largest cargo ships.
-21. *(Test 5 · Part 5)* Not only has Mr. Ogbu diligently worked on the project, but he has also trained Ms. Jeong to continue the work. → *trained Jeong to continue*
-22. *(Test 5 · Part 6)* No doubt, you want your facilities to be comfortable and calming while enhancing your professional practice and conforming to your brand image. → *want facilities to be*
+21. *(Test 5 · Part 5)* Not only has Mr. Ogbu diligently worked on the project, but he has also **trained** Ms. **Jeong to continue** the work.
+22. *(Test 5 · Part 6)* No doubt, you **want** your **facilities to be** comfortable and calming while enhancing your professional practice and conforming to your brand image.
 23. *(Test 5 · Part 7)* Certain jobs **require employees to follow** the additional safety guidelines provided by their supervisors.
 24. *(Test 5 · Part 7)* So, when would you **like me to come** back to reinstall the ductwork?
 25. *(Test 5 · Part 7)* Your checking and savings accounts are now joined, **enabling you to transfer** money from one account to the other online.
 26. *(Test 5 · Part 7)* Finally, our recently launched online stock-trading platform, available to you at no charge, is excellent for **allowing investors to manage** their finances at their own pace.
-27. *(Test 5 · Part 7)* Meanwhile, I have authorized Konner Services to send one of their technicians to inspect the machine and make any necessary repairs. → *authorized Services to send*
-28. *(Test 5 · Part 7 – câu hỏi)* What does Mr. Paltz ask Mr. and Ms. Witt to do? → *ask Mr. to do*
-29. *(Test 6 · Part 5)* Manufacturing all its products in-house allows Long Bridge Steel Corp. to control every aspect of the production process. → *allows Corp. to control*
+27. *(Test 5 · Part 7)* Meanwhile, I have **authorized** Konner **Services to send** one of their technicians to inspect the machine and make any necessary repairs.
+28. *(Test 5 · Part 7 – câu hỏi)* What does Mr. Paltz **ask Mr.** and Ms. Witt **to do**?
+29. *(Test 6 · Part 5)* Manufacturing all its products in-house **allows** Long Bridge Steel **Corp. to control** every aspect of the production process.
 30. *(Test 6 · Part 7)* QRN Airport **invites travelers to experience** our new Repose Lounge.
-31. *(Test 6 · Part 7)* The leaders and members of the Alamito Botanical Society cordially invite the public to attend its educational lectures, held at the horticultural department of Marfa Community College. → *invite public to attend*
+31. *(Test 6 · Part 7)* The leaders and members of the Alamito Botanical Society cordially **invite** the **public to attend** its educational lectures, held at the horticultural department of Marfa Community College.
 32. *(Test 7 · Part 5)* When Ms. Liu was hired, the intention was to **train her to work** in the chemistry lab.
-33. *(Test 7 · Part 7)* Unlike other company groups that organize charity fund-raisers or clean up local parks, Building Blocks asks its members to share their professional expertise with others. → *asks members to share*
-34. *(Test 7 · Part 7)* Because we have many visitors, we purchased the PUW machine with two devices and ordered it in stainless steel to match our modern-looking lobby. → *ordered it to match*
-35. *(Test 7 · Part 7)* Please let me know when we can expect our windows to arrive. → *expect windows to arrive*
+33. *(Test 7 · Part 7)* Unlike other company groups that organize charity fund-raisers or clean up local parks, Building Blocks **asks** its **members to share** their professional expertise with others.
+34. *(Test 7 · Part 7)* Because we have many visitors, we purchased the PUW machine with two devices and **ordered it** in stainless steel **to match** our modern-looking lobby.
+35. *(Test 7 · Part 7)* Please let me know when we can **expect** our **windows to arrive**.
 36. *(Test 8 · Part 5)* A survey of new car buyers **asked them to rank** features in order from most to least important.
-37. *(Test 8 · Part 7)* Maybe we should ask Maria Trujillo to join us as well? → *ask Trujillo to join*
+37. *(Test 8 · Part 7)* Maybe we should **ask** Maria **Trujillo to join** us as well?
 38. *(Test 8 · Part 7)* We **encourage visitors to take** public transportation.
-39. *(Test 8 · Part 7)* We'll want the video to show our personalities as well as what it is that we do. → *want video to show*
+39. *(Test 8 · Part 7)* We'll **want** the **video to show** our personalities as well as what it is that we do.
 40. *(Test 8 · Part 7)* We can **hire professionals to edit** it.
 41. *(Test 9 · Part 5)* The new technology **allows trains to switch** quickly between electric and diesel modes.
-42. *(Test 9 · Part 5)* The ongoing shortage of hardwood has caused the price of certain furniture items to soar. → *caused price to soar*
+42. *(Test 9 · Part 5)* The ongoing shortage of hardwood has **caused** the **price** of certain furniture items **to soar**.
 43. *(Test 9 · Part 7)* It also **allows users to take** better photos in lower light conditions.
 44. *(Test 9 · Part 7)* Ji-Min, I know I **asked you to go** to Lentox County to check out another bridge, but you can do that later this afternoon.
 45. *(Test 9 · Part 7)* A touchscreen **allows visitors to communicate** electronically with an exhibit's unique database and target their interests.
 46. *(Test 9 · Part 7)* This will **allow him to learn** more about the various departments he will eventually be interacting with.
-47. *(Test 9 · Part 7 – câu hỏi)* What does Ms. Wert encourage museum visitors to do? → *encourage visitors to do*
+47. *(Test 9 · Part 7 – câu hỏi)* What does Ms. Wert **encourage** museum **visitors to do**?
 48. *(Test 10 · Part 5)* Carter Department Store **allows customers to place** items on hold for up to 24 hours.
-49. *(Test 10 · Part 6)* We allow our clients to determine their level of involvement in the design process. → *allow clients to determine*
+49. *(Test 10 · Part 6)* We **allow** our **clients to determine** their level of involvement in the design process.
 50. *(Test 10 · Part 7)* Jamie Kerr **asked me to fill** in for him.
-51. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Lombardo ask Mr. Garza to do? → *ask Garza to do*
+51. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Lombardo **ask** Mr. **Garza to do**?
 
 **🎧 Listening**
 
 1. *(Test 1 · Listening)* It would **allow us to capture** our production line.
-2. *(Test 3 · Listening)* I was thinking maybe we could hire a professional rock climber to consult with our have in mind? → *hire climber to consult*
+2. *(Test 3 · Listening)* I was thinking maybe we could **hire** a professional rock **climber to consult** with our have in mind?
 3. *(Test 3 · Listening)* Actually, my company has **asked me to relocate** you then.
 4. *(Test 3 · Listening)* However, starting next month, our company will launch a research and development division and start this change to **allow us to have** more control over the quality of the technology we produce.
-5. *(Test 5 · Listening – câu hỏi)* What does the woman ask the man to do for her? → *ask man to do*
-6. *(Test 5 · Listening – câu hỏi)* What does the woman ask the man to do? → *ask man to do*
-7. *(Test 5 · Listening – câu hỏi)* What does the speaker ask the listeners to do? → *ask listeners to do*
-8. *(Test 6 · Listening)* What does the man ask the woman to help with? → *ask woman to help*
+5. *(Test 5 · Listening – câu hỏi)* What does the woman **ask** the **man to do** for her?
+6. *(Test 5 · Listening – câu hỏi)* What does the woman **ask** the **man to do**?
+7. *(Test 5 · Listening – câu hỏi)* What does the speaker **ask** the **listeners to do**?
+8. *(Test 6 · Listening)* What does the man **ask** the **woman to help** with?
 9. *(Test 6 · Listening)* I'll **need you to start** working as soon as possible.
 10. *(Test 6 · Listening – đáp án)* She does not **want employees to be** late.
-11. *(Test 6 · Listening – câu hỏi)* What does the man ask the woman to do? → *ask woman to do*
+11. *(Test 6 · Listening – câu hỏi)* What does the man **ask** the **woman to do**?
 12. *(Test 7 · Listening – đáp án)* She **needs volunteers to help**.
-13. *(Test 7 · Listening – câu hỏi)* What motivated the woman to visit the business? → *motivated woman to visit*
+13. *(Test 7 · Listening – câu hỏi)* What **motivated** the **woman to visit** the business?
 14. *(Test 8 · Listening)* But for perspective, the city spends more than that every year to **hire divers to repair** broken equipment.
-15. *(Test 8 · Listening)* What does the speaker encourage the listeners to do? → *encourage listeners to do*
-16. *(Test 10 · Listening – câu hỏi)* What does the speaker ask the listener to do? → *ask listener to do*
+15. *(Test 8 · Listening)* What does the speaker **encourage** the **listeners to do**?
+16. *(Test 10 · Listening – câu hỏi)* What does the speaker **ask** the **listener to do**?
 
 ---
 
@@ -1017,7 +1017,7 @@
 6. *(Test 4 · Listening)* **Let me review** your statement now.
 7. *(Test 6 · Listening)* **Let me look** into it.
 8. *(Test 6 · Listening)* **Let me look** at 88 Glassbury Avenue to set up your far away.
-9. *(Test 6 · Listening)* OK, let me just find the e-mail that has it. → *let me find*
+9. *(Test 6 · Listening)* OK, **let me** just **find** the e-mail that has it.
 10. *(Test 7 · Listening – đáp án)* **Let me unlock** the door first.
 11. *(Test 8 · Listening)* **Let's register** right away.
 
@@ -1041,7 +1041,7 @@
 8. *(Test 4 · Part 7)* What if we ask customers to send us their written comments on how they use our calendars to **help them organize** their home offices?
 9. *(Test 4 · Part 7)* And I could write an explanation of how using the calendar **helps me keep** track of things.
 10. *(Test 5 · Part 6)* Let us **help you achieve** these objectives.
-11. *(Test 5 · Part 7)* Your ideas will help me better determine the materials and time needed. → *help determine*
+11. *(Test 5 · Part 7)* Your ideas will **help** me better **determine** the materials and time needed.
 12. *(Test 5 · Part 7 – câu hỏi)* According to the memo, what can Mr. Costa **help employees do**?
 13. *(Test 6 · Part 6)* Doing so will **help streamline** mail distribution.
 14. *(Test 6 · Part 7)* We will even bring samples directly to you to **help you make** your design selections.
@@ -1049,7 +1049,7 @@
 16. *(Test 7 · Part 7)* This information will **help us identify** surveys that match your interests.
 17. *(Test 8 · Part 5)* Several outstanding reviews **helped make** the debut novel a best seller.
 18. *(Test 8 · Part 7)* Power washing beautifies your home and **helps maintain** the integrity of your structure!
-19. *(Test 10 · Part 5)* Please complete the questionnaire to help our team better understand the financial services you are interested in. → *help team understand*
+19. *(Test 10 · Part 5)* Please complete the questionnaire to **help** our **team** better **understand** the financial services you are interested in.
 20. *(Test 10 · Part 7)* Through our network of suppliers, we can **help negotiate** exceptionally low rates for recipe ingredients and restaurant equipment, thereby reducing your expenses.
 21. *(Test 10 · Part 7)* The establishment of companies like Exelrate will **help cement** Toronto's fame as a centre for data and management consulting.
 
@@ -1071,10 +1071,10 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 7)* Fortunately, the theater has new owners who have spent the last year updating the interior and the projection system. → *spent updating*
+1. *(Test 1 · Part 7)* Fortunately, the theater has new owners who have **spent** the last year **updating** the interior and the projection system.
 2. *(Test 1 · Part 7)* I am **considering replacing** the entire roof as it is over 30 years old, and water has begun to drip through the section over the patio.
 3. *(Test 2 · Part 7)* Please **stop distributing** the old business cards when the new cards are delivered.
-4. *(Test 2 · Part 7 – câu hỏi)* Where will Ms. Desnoyers' class most likely spend their time sketching? → *spend sketching*
+4. *(Test 2 · Part 7 – câu hỏi)* Where will Ms. Desnoyers' class most likely **spend** their time **sketching**?
 5. *(Test 3 · Part 7)* This is a work-from-home position that **involves collaborating** with engineers to review and revise their technical reports.
 6. *(Test 3 · Part 7)* The job **involves editing** engineering reports to ensure they meet quality specifications and comply with industry standards.
 7. *(Test 3 · Part 7)* Given our time constraints, we should **consider having** auditions done this way.
@@ -1110,28 +1110,28 @@
 
 1. *(Test 1 · Part 6)* Riessler Landscaping's goal **is to make** your vision a reality.
 2. *(Test 2 · Part 6)* The first would **be to patch** the low spots with filler.
-3. *(Test 2 · Part 7)* Collapsible toothpaste tubes continue to lead the market overall, but because they are composed of multiple layers, it is nearly impossible to recycle them. → *is to recycle*
-4. *(Test 2 · Part 7)* Ultimately, it was easy to get to Charlesville. → *was to get*
-5. *(Test 3 · Part 7)* It was a pleasure to see so many of you at our company-wide meeting last week. → *was to see*
+3. *(Test 2 · Part 7)* Collapsible toothpaste tubes continue to lead the market overall, but because they are composed of multiple layers, it **is** nearly impossible **to recycle** them.
+4. *(Test 2 · Part 7)* Ultimately, it **was** easy **to get** to Charlesville.
+5. *(Test 3 · Part 7)* It **was** a pleasure **to see** so many of you at our company-wide meeting last week.
 6. *(Test 3 · Part 7)* “The goal of the current project,” said FGS director Carol Reynoso, “**is to create** an attractive space to draw in more of the region’s abundant birdlife.”
-7. *(Test 3 · Part 7)* It is hard to believe the company can meet the demand, but they manage to do it. → *is to believe*
+7. *(Test 3 · Part 7)* It **is** hard **to believe** the company can meet the demand, but they manage to do it.
 8. *(Test 5 · Part 5)* Cayfair Global's primary mission **is to transport** and deliver client goods in a timely manner.
-9. *(Test 5 · Part 7)* That's wonderful to hear! → *'s to hear*
-10. *(Test 6 · Part 5)* It is important to be especially polite when in the company of new clients. → *is to be*
-11. *(Test 6 · Part 5)* Anyone who is unable to attend the quarterly stakeholder meeting is welcome to appoint a representative. → *is to appoint*
-12. *(Test 6 · Part 6)* It is up to the department head to determine how best to assign this responsibility. → *is to determine*
+9. *(Test 5 · Part 7)* That**'s** wonderful **to hear**!
+10. *(Test 6 · Part 5)* It **is** important **to be** especially polite when in the company of new clients.
+11. *(Test 6 · Part 5)* Anyone who is unable to attend the quarterly stakeholder meeting **is** welcome **to appoint** a representative.
+12. *(Test 6 · Part 6)* It **is** up **to** the department head to **determine** how best to assign this responsibility.
 13. *(Test 7 · Part 5)* When Ms. Liu was hired, the intention **was to train** her to work in the chemistry lab.
-14. *(Test 7 · Part 7)* As you know, it is our policy to charge the full appointment fee for missed appointments unless the patient notifies us at least 24 hours in advance of the scheduled visit. → *is to charge*
+14. *(Test 7 · Part 7)* As you know, it **is** our policy **to charge** the full appointment fee for missed appointments unless the patient notifies us at least 24 hours in advance of the scheduled visit.
 15. *(Test 8 · Part 6)* In particular, they commented on how simple it **is to use** the different features.
-16. *(Test 9 · Part 7)* Therefore, when you are composing a personal statement, it is important to be thoughtful about issues such as word choice and tone. → *is to be*
+16. *(Test 9 · Part 7)* Therefore, when you are composing a personal statement, it **is** important **to be** thoughtful about issues such as word choice and tone.
 17. *(Test 9 · Part 7)* The objective **is to present** how the highway project is proceeding and highlight what has been completed thus far.
-18. *(Test 10 · Part 7)* "Otherwise it is hard to keep track of all the changes." → *is to keep*
+18. *(Test 10 · Part 7)* "Otherwise it **is** hard **to keep** track of all the changes."
 19. *(Test 10 · Part 7)* As you know, the rule for Pool Guardian lifeguards **is to wait** for 30 minutes after bad weather passes.
 
 **🎧 Listening**
 
-1. *(Test 6 · Listening – đáp án)* A company would not be good to work for. → *be to work*
-2. *(Test 8 · Listening)* It'll be nice to get a bonus this month. → *be to get*
+1. *(Test 6 · Listening – đáp án)* A company would not **be** good **to work** for.
+2. *(Test 8 · Listening)* It'll **be** nice **to get** a bonus this month.
 
 ---
 
@@ -1207,26 +1207,26 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 6)* I look forward to hearing from you. → *look to hearing*
-2. *(Test 1 · Part 6)* We thank you for your business and look forward to serving you again. → *look to serving*
+1. *(Test 1 · Part 6)* I **look** forward **to hearing** from you.
+2. *(Test 1 · Part 6)* We thank you for your business and **look** forward **to serving** you again.
 3. *(Test 1 · Part 7)* In addition to roof replacement, we offer a wide array of services, from attic insulation and gutter restoration to fixing leaks and installing solar panels. → *from to fixing*
 4. *(Test 2 · Part 6)* We are **committed to baking** Muffin Lady Muffins authentically with only the finest ingredients.
-5. *(Test 2 · Part 7)* We look forward to helping you fill your closet with our latest styles! → *look to helping*
-6. *(Test 3 · Part 6)* We look forward to seeing you there. → *look to seeing*
-7. *(Test 3 · Part 7)* Dr. Fiallo says she is looking forward to sharing this latest discovery. → *looking to sharing*
-8. *(Test 7 · Part 7)* “I look forward to leveraging the company’s abundant talent to build EVs that are affordable to a mass market. → *look to leveraging*
+5. *(Test 2 · Part 7)* We **look** forward **to helping** you fill your closet with our latest styles!
+6. *(Test 3 · Part 6)* We **look** forward **to seeing** you there.
+7. *(Test 3 · Part 7)* Dr. Fiallo says she is **looking** forward **to sharing** this latest discovery.
+8. *(Test 7 · Part 7)* “I **look** forward **to leveraging** the company’s abundant talent to build EVs that are affordable to a mass market.
 9. *(Test 7 · Part 7)* In **addition to being** the quietest jets on the market today, they are 20 percent more fuel efficient than the DB90s that we currently fly.
-10. *(Test 8 · Part 7)* We look forward to seeing you there! → *look to seeing*
-11. *(Test 8 · Part 7)* As a longtime fan of Ibra Maalim, I was looking forward to reading A Life in the Spotlight. → *looking to reading*
+10. *(Test 8 · Part 7)* We **look** forward **to seeing** you there!
+11. *(Test 8 · Part 7)* As a longtime fan of Ibra Maalim, I was **looking** forward **to reading** A Life in the Spotlight.
 12. *(Test 8 · Part 7)* The council approved a resolution to earmark $1.5 million for costs **related to establishing** Winglite Airlines service at the Arlford Regional Airport.
-13. *(Test 8 · Part 7)* “We look forward to providing the region’s residents with affordable, convenient service to Cranton,” stated Savita Grewal, public relations director at Winglite Airlines. → *look to providing*
-14. *(Test 9 · Part 6)* I look forward to finalizing the design with you. → *look to finalizing*
+13. *(Test 8 · Part 7)* “We **look** forward **to providing** the region’s residents with affordable, convenient service to Cranton,” stated Savita Grewal, public relations director at Winglite Airlines.
+14. *(Test 9 · Part 6)* I **look** forward **to finalizing** the design with you.
 15. *(Test 10 · Part 7)* Your **commitment to offering** your customers across Europe unique and delicious menu items aligns with our vision for providing cruise-ship passengers with distinct restaurant options.
 16. *(Test 10 · Part 7)* This award reflects our **commitment to putting** patient well-being at the forefront of everything we do.
 
 **🎧 Listening**
 
-1. *(Test 8 · Listening)* I look forward to hearing back from you soon. → *look to hearing*
+1. *(Test 8 · Listening)* I **look** forward **to hearing** back from you soon.
 
 ---
 
@@ -1326,8 +1326,8 @@
 
 **📖 Reading**
 
-1. *(Test 5 · Part 7)* “I’m currently looking at Morganville to see if that would be the best location for a second store.” → *see that be*
-2. *(Test 9 · Part 7)* I will see if we can make some schedule changes. → *see we make*
+1. *(Test 5 · Part 7)* “I’m currently looking at Morganville to **see** if **that** would **be** the best location for a second store.”
+2. *(Test 9 · Part 7)* I will **see** if **we** can **make** some schedule changes.
 
 ---
 
@@ -1339,7 +1339,7 @@
 
 **🎧 Listening**
 
-1. *(Test 3 · Listening)* We need better ways to make our brand stand more direct input from athletes who use our gear. → *make brand stand*
+1. *(Test 3 · Listening)* We need better ways to **make** our **brand stand** more direct input from athletes who use our gear.
 
 ---
 

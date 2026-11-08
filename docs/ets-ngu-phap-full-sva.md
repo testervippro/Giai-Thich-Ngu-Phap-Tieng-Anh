@@ -172,7 +172,7 @@
 13. *(Test 8 · Part 7)* **There are dozens of interesting** anecdotes about his life on and off set, most of which were told to Mackay in interviews with Alidia Lugo, who knew Maalim well.
 14. *(Test 8 · Part 7)* I also wish **there were more than two** photographs, especially considering how much Maalim's reputation was based on his photogenic qualities.
 15. *(Test 9 · Part 7)* Though **there is no set length** for personal statements, employers sometimes offer guidelines.
-16. *(Test 10 · Part 5)* There has been a noticeable decrease in requests for customer support this quarter. → *There has a noticeable decrease…*
+16. *(Test 10 · Part 5)* **There has** been **a noticeable decrease** in requests for customer support this quarter.
 17. *(Test 10 · Part 7)* **There are several benefits of** entering into a partnership with us.
 18. *(Test 10 · Part 7)* Wade Nolan (4:10 P.M.) But if **there's heavy rain** again after 4:30, just go ahead and close things up, Alexa.
 19. *(Test 10 · Part 7)* **There is a limit of** 15 students per class.
@@ -180,7 +180,7 @@
 **🎧 Listening**
 
 1. *(Test 3 · Listening)* Is there something I can help you with? → *There Is something I can…*
-2. *(Test 3 · Listening – đáp án)* There is not enough fencing. → *There is enough fencing*
+2. *(Test 3 · Listening – đáp án)* **There is** not **enough fencing**.
 3. *(Test 4 · Listening)* Isn't there a discount on this computer monitor? → *There Is a discount on…*
 4. *(Test 4 · Listening – đáp án)* Is there free Internet access? → *There Is free Internet access*
 5. *(Test 4 · Listening – đáp án)* **There is a processing fee**.

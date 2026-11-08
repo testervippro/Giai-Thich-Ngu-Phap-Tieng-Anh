@@ -35,22 +35,22 @@
 **📖 Reading**
 
 1. *(Test 1 · Part 5)* The product team is designing mapping software that **can precisely locate** underground minerals.
-2. *(Test 1 · Part 5)* Analysts cannot say with any certainty what the regional demand for electric trucks will be. → *can not say*
+2. *(Test 1 · Part 5)* Analysts **can****not say** with any certainty what the regional demand for electric trucks will be.
 3. *(Test 1 · Part 5)* The finance director gave his approval so that the project **can move** forward.
 4. *(Test 1 · Part 5)* The newspaper article describes ways job seekers **can compensate** for having little workplace experience.
 5. *(Test 1 · Part 6)* And as our name suggests, we **can take** on more ambitious landscaping projects—whatever you need!
 6. *(Test 1 · Part 6)* As a reminder, you **can log** in to the portal for various activities.
 7. *(Test 1 · Part 6)* For instance, you **can make** appointments and payments, view your medical history, review lab results, and request medication refills.
-8. *(Test 1 · Part 7)* This is an accomplishment we can all be proud of. → *can be*
+8. *(Test 1 · Part 7)* This is an accomplishment we **can** all **be** proud of.
 9. *(Test 1 · Part 7)* “You **can see** a full list of specifications on our Web site.”
 10. *(Test 1 · Part 7)* You **can read** more about the program at Hamerkoptech's newly redesigned Web site, www.hamerkoptech.co.nz.
 11. *(Test 1 · Part 7)* Now our customers **can enjoy** the convenience of frozen food without sacrificing quality.”
 12. *(Test 1 · Part 7)* "By keeping our operations local, we avoid shipping delays and **can flash**-freeze freshly harvested vegetables at their peak of ripeness," Martens said.
-13. *(Test 1 · Part 7)* Yes, how soon can you complete the request? → *can complete*
+13. *(Test 1 · Part 7)* Yes, how soon **can** you **complete** the request?
 14. *(Test 1 · Part 7)* We **can update** your current request form for you.
 15. *(Test 1 · Part 7)* Furthermore, market research shows that a Web site **can help** build a loyal customer base.
 16. *(Test 1 · Part 7)* The News page **can include** text informing visitors about seasonal food items and upcoming promotions or special events such as food festivals.
-17. *(Test 1 · Part 7 – câu hỏi)* How can people subscribe to a newsletter? → *can subscribe*
+17. *(Test 1 · Part 7 – câu hỏi)* How **can** people **subscribe** to a newsletter?
 18. *(Test 2 · Part 5)* At Blu Hedge, clients receive 1 percent interest, pay no account fees, and **can make** unlimited transfers.
 19. *(Test 2 · Part 6)* Please give me a call whenever it is convenient so that we **can talk** about next steps.
 20. *(Test 2 · Part 7)* As a Radial Tunes subscriber, you **can access** hundreds of songs, music videos, and playlists specially curated by other users.
@@ -61,7 +61,7 @@
 25. *(Test 2 · Part 7)* You **can request** the instructor of your choice, or we can match you with an instructor.
 26. *(Test 2 · Part 7)* "Alternatively, we **can provide** online lessons to accommodate your schedule."
 27. *(Test 2 · Part 7)* Please let me know how much that will cost and when I **can expect** to receive them.
-28. *(Test 2 · Part 7 – câu hỏi)* According to the advertisement, how can customers choose the look of their XC-35? → *can choose*
+28. *(Test 2 · Part 7 – câu hỏi)* According to the advertisement, how **can** customers **choose** the look of their XC-35?
 29. *(Test 3 · Part 6)* It will also feature a live-chat function so that users **can directly contact** a human resources team member when needed.
 30. *(Test 3 · Part 7)* If the location turns out to be a good fit, we **can use** the app to book the space and unload the van right there and then.
 31. *(Test 3 · Part 7)* Please suggest a convenient time when I could call you to discuss how we **can work** together in the future.
@@ -74,20 +74,20 @@
 38. *(Test 4 · Part 7)* I'm wondering if you **can do** me a big favor.
 39. *(Test 4 · Part 7)* For example, we **can display** your company's logo in neon lights and hang up banners.
 40. *(Test 4 · Part 7)* Chef Malik and his staff **can also work** with you to include logos on food items or a cake.
-41. *(Test 4 · Part 7 – câu hỏi)* At what event can visitors purchase food? → *can purchase*
+41. *(Test 4 · Part 7 – câu hỏi)* At what event **can** visitors **purchase** food?
 42. *(Test 5 · Part 5)* Posting updates too infrequently on social media **can cause** small businesses by their customers.
 43. *(Test 5 · Part 5)* Independent consultants **can be** a valuable source of impartial advice to new entrepreneurs.
-44. *(Test 5 · Part 6)* How can you gain these skills? → *can gain*
+44. *(Test 5 · Part 6)* How **can** you **gain** these skills?
 45. *(Test 5 · Part 6)* We would love to work with you to create an inviting space that you **can be** proud of.
 46. *(Test 5 · Part 6)* You **can view** photographs of our previous projects at www.impressionise.co.uk/portfolio.
 47. *(Test 5 · Part 7)* Cavalina Hotel is a breathtaking sanctuary where guests **can escape** the hectic bustle of city life.
 48. *(Test 5 · Part 7)* Covered Bridge now hopes to complete all quality testing by November so that it **can launch** the product the following month.
 49. *(Test 5 · Part 7)* “It has already been installed on all work computers, so you **can begin** using it immediately.”
-50. *(Test 5 · Part 7)* Jennifer, can you be at the Browns' house at 7:00 A.M. tomorrow to remove the furnace ductwork? → *can be*
-51. *(Test 5 · Part 7)* I’m scheduled to work at Mr. Amadi’s apartment on Friday—can the Browns’ ductwork wait until Monday? → *can wait*
+50. *(Test 5 · Part 7)* Jennifer, **can** you **be** at the Browns' house at 7:00 A.M. tomorrow to remove the furnace ductwork?
+51. *(Test 5 · Part 7)* I’m scheduled to work at Mr. Amadi’s apartment on Friday—**can** the Browns’ ductwork **wait** until Monday?
 52. *(Test 5 · Part 7)* If the cement mixer is not at my business by the end of the day today, I **can still pick** it up at either the New Gralen or the Paloner store if I have to, as I need it for a job tomorrow afternoon.
 53. *(Test 5 · Part 7)* Moreover, if you wish to withdraw funds from your BASA, you **can use** your debit card at any of our ATMs.
-54. *(Test 5 · Part 7 – câu hỏi)* According to the memo, what can Mr. Costa help employees do? → *can help*
+54. *(Test 5 · Part 7 – câu hỏi)* According to the memo, what **can** Mr. Costa **help** employees do?
 55. *(Test 6 · Part 7)* We **can assist** you in finding optimal solutions for your outdoor spaces at reasonable prices.
 56. *(Test 6 · Part 7)* Please let me know when I **can expect** the return of my security deposit.
 57. *(Test 6 · Part 7)* You **can always reach** me on my mobile phone, 613-555-0129.
@@ -109,14 +109,14 @@
 73. *(Test 7 · Part 7)* It automatically wraps the umbrella in a clear plastic bag, after which visitors **can take** their umbrellas.
 74. *(Test 7 · Part 7)* Upon leaving, they **can discard** the used bags in any nearby trash can.
 75. *(Test 7 · Part 7)* Please let me know when we **can expect** our windows to arrive.
-76. *(Test 8 · Part 5)* Unfortunately, we cannot provide an exact time for the delivery of the new laptops. → *can not provide*
+76. *(Test 8 · Part 5)* Unfortunately, we **can****not provide** an exact time for the delivery of the new laptops.
 77. *(Test 8 · Part 5)* Collaboration between multiple agencies is often challenging, but our project-based consulting **can simplify** the process for you.
 78. *(Test 8 · Part 7)* Once the trivia competition has finished, we will keep the Z-Hype room open for another hour so that employees **can mingle**.
 79. *(Test 8 · Part 7)* We **can hire** professionals to edit it.
 80. *(Test 8 · Part 7)* Rustic, quaint, and run by the same family for three generations, it had the type of charm that only an old establishment **can provide**.
 81. *(Test 8 · Part 7)* They are a very affordable product that you **can sell** to your audiences.
 82. *(Test 8 · Part 7)* You **can choose** from hundreds of templates or upload your own artwork.
-83. *(Test 8 · Part 7 – câu hỏi)* What can customers do at Big Strike Lanes? → *can do*
+83. *(Test 8 · Part 7 – câu hỏi)* What **can** customers **do** at Big Strike Lanes?
 84. *(Test 9 · Part 6)* The rails **can support** shelves, cabinets, drawers, and even a desktop to create a customizable system.
 85. *(Test 9 · Part 7)* I will see if we **can make** some schedule changes.
 86. *(Test 9 · Part 7)* She is finishing a job now and **can be** there within the hour.
@@ -130,87 +130,87 @@
 94. *(Test 9 · Part 7)* “Visitors **can now learn** the region’s history in an immersive way,” said Ms. Wert.
 95. *(Test 9 · Part 7)* Note that Superra **can be** quite busy during the summer season.
 96. *(Test 9 · Part 7)* “We have always excelled at capturing breathtaking video imagery for a wide range of industries, but we **can now do** so from new perspectives,” said Yunus Maseko, the CEO of Blue Lapis.
-97. *(Test 9 · Part 7 – câu hỏi)* Where can customers currently order the new phones? → *can currently order*
+97. *(Test 9 · Part 7 – câu hỏi)* Where **can** customers **currently order** the new phones?
 98. *(Test 10 · Part 5)* Pet Orbit customers who want receipts delivered by e-mail **can opt** for this service.
 99. *(Test 10 · Part 5)* Given Latoya Model Management's sound reputation, aspiring models **can expect** a flourishing career.
 100. *(Test 10 · Part 6)* "The abundance of new characters **can make** the story challenging to follow," she said.
 101. *(Test 10 · Part 6)* You **can count** This step ensures that the product satisfies expectations Bingo Imprint for unique designs, competitive pricing, and timely delivery. 146.
-102. *(Test 10 · Part 7)* Can you give me 45 minutes or so? → *Can give*
+102. *(Test 10 · Part 7)* **Can** you **give** me 45 minutes or so?
 103. *(Test 10 · Part 7)* Those estimates **can be** tricky!
-104. *(Test 10 · Part 7)* Can I stop by your office at 2:30? → *Can stop*
+104. *(Test 10 · Part 7)* **Can** I **stop** by your office at 2:30?
 105. *(Test 10 · Part 7)* You **can ignore** those.
 106. *(Test 10 · Part 7)* Through our network of suppliers, we **can help** negotiate exceptionally low rates for recipe ingredients and restaurant equipment, thereby reducing your expenses.
 107. *(Test 10 · Part 7)* If you are interested in pursuing this proposition and wish to discuss the details, you **can reach** me at kbasrawi@aquavoyagecruiselines.de or by phone at 30-23125 032.
 108. *(Test 10 · Part 7)* WESTERN AUSTRALIA (21 June)—On 19 June, Western Australia's Karinya Medical Centre (KMC) was awarded the Valorcare Foundation's Stellar Service Merit, regarded as one of the highest honours an Australian hospital **can receive**.
-109. *(Test 10 · Part 7)* Can I close the pool now? → *Can close*
+109. *(Test 10 · Part 7)* **Can** I **close** the pool now?
 110. *(Test 10 · Part 7)* “By means of my synthetic office space, I am hoping to highlight the idea that old, unwanted objects **can take** on a new purpose,” Ms. Alonso said.
 111. *(Test 10 · Part 7)* Learn new techniques you **can bring** home to delight your friends and family!
 112. *(Test 10 · Part 7)* All classes use ingredients you **can find** right here in the store.
-113. *(Test 10 · Part 7)* If not, how can I receive my portion of the selling price? → *can receive*
+113. *(Test 10 · Part 7)* If not, how **can** I **receive** my portion of the selling price?
 114. *(Test 10 · Part 7)* I don't drive, so I don't have a driver's license, but I **can provide** a copy of the page from my passport.
-115. *(Test 10 · Part 7 – câu hỏi)* At 1:20 P.M., what does Mr. Gerlin imply when he writes, "Can you give me 45 minutes or so"? → *Can give*
+115. *(Test 10 · Part 7 – câu hỏi)* At 1:20 P.M., what does Mr. Gerlin imply when he writes, "**Can** you **give** me 45 minutes or so"?
 
 **🎧 Listening**
 
-1. *(Test 1 · Listening)* What time can I pick up my glasses? → *can pick*
+1. *(Test 1 · Listening)* What time **can** I **pick** up my glasses?
 2. *(Test 1 · Listening)* No, unfortunately you'll have to bring everything list a number of companies that **can remove** and dispose of the items for you.
 3. *(Test 1 · Listening – đáp án)* You **can borrow** mine.
-4. *(Test 2 · Listening)* Can you schedule a time for me to do that next week? → *Can schedule*
-5. *(Test 2 · Listening)* How can I help you? → *can help*
+4. *(Test 2 · Listening)* **Can** you **schedule** a time for me to do that next week?
+5. *(Test 2 · Listening)* How **can** I **help** you?
 6. *(Test 2 · Listening)* After we review the policies, you **can see** Sumit in the back of the room if you'd like a printed copy.
 7. *(Test 2 · Listening)* We have a lot of and games, where people **can be** physically active.
 8. *(Test 2 · Listening – đáp án)* Sure, I **can buy** some.
 9. *(Test 3 · Listening)* We **can share** it.
 10. *(Test 3 · Listening)* Is there something I **can help** you with?
-11. *(Test 3 · Listening)* How can I help the service? → *can help*
+11. *(Test 3 · Listening)* How **can** I **help** the service?
 12. *(Test 3 · Listening)* You **can make** an appointment Monday the application so we can see the size
-13. *(Test 3 · Listening)* Can you take care of that before you start printing? → *Can take*
+13. *(Test 3 · Listening)* **Can** you **take** care of that before you start printing?
 14. *(Test 3 · Listening – đáp án)* I **can walk** you there.
 15. *(Test 3 · Listening – đáp án)* I **can arrange** a client dinner.
 16. *(Test 3 · Listening – đáp án)* I **can ask** the architect.
-17. *(Test 4 · Listening)* Where can I send the money? → *can send*
-18. *(Test 4 · Listening)* Can you forward me the e-mail? → *Can forward*
-19. *(Test 4 · Listening)* Can I help you? → *Can help*
+17. *(Test 4 · Listening)* Where **can** I **send** the money?
+18. *(Test 4 · Listening)* **Can** you **forward** me the e-mail?
+19. *(Test 4 · Listening)* **Can** I **help** you?
 20. *(Test 4 · Listening)* We have monthly posts on many gardening any products you **can recommend**?
-21. *(Test 5 · Listening)* Who can I talk to about getting a membership at this fitness center? → *can talk*
+21. *(Test 5 · Listening)* Who **can** I **talk** to about getting a membership at this fitness center?
 22. *(Test 5 · Listening)* The meeting **can wait** until tomorrow.
 23. *(Test 5 · Listening)* They have some ideas about how we **can increase** sales of our denim blue jeans.
-24. *(Test 5 · Listening)* Can you do that? → *Can do*
+24. *(Test 5 · Listening)* **Can** you **do** that?
 25. *(Test 5 · Listening)* Call me back so we **can discuss** it.
 26. *(Test 5 · Listening)* Please take a look at the map to familiarize yourselves with the route beverage stand located between city hall and the art museum, so you **can stay** hydrated while you watch the race.
 27. *(Test 5 · Listening – đáp án)* I **can pick** it up for you.
 28. *(Test 5 · Listening – đáp án)* I **can help** you with that.
 29. *(Test 5 · Listening – đáp án)* He **can type** very fast.
-30. *(Test 5 · Listening – đáp án)* How can I sign up? → *can sign*
+30. *(Test 5 · Listening – đáp án)* How **can** I **sign** up?
 31. *(Test 5 · Listening – đáp án)* Sure, you **can use** my printer.
-32. *(Test 6 · Listening)* According to the speaker, how can the listeners use a new service? → *can use*
+32. *(Test 6 · Listening)* According to the speaker, how **can** the listeners **use** a new service?
 33. *(Test 6 · Listening – đáp án)* I **can drive** you there.
-34. *(Test 6 · Listening – đáp án)* Can you change the channel? → *Can change*
-35. *(Test 8 · Listening)* Can I pick up my prescription glasses here? → *Can pick*
-36. *(Test 8 · Listening)* Can we finalize the budget today? → *Can finalize*
-37. *(Test 8 · Listening)* Where can I find the eating utensils? → *can find*
-38. *(Test 8 · Listening)* What can I do for you, ma'am? → *can do*
+34. *(Test 6 · Listening – đáp án)* **Can** you **change** the channel?
+35. *(Test 8 · Listening)* **Can** I **pick** up my prescription glasses here?
+36. *(Test 8 · Listening)* **Can** we **finalize** the budget today?
+37. *(Test 8 · Listening)* Where **can** I **find** the eating utensils?
+38. *(Test 8 · Listening)* What **can** I **do** for you, ma'am?
 39. *(Test 8 · Listening)* I **can assist** you with that.
 40. *(Test 8 · Listening)* You **can connect** to maintenance work on the track ahead.
 41. *(Test 8 · Listening)* She **can take** your call.
-42. *(Test 8 · Listening)* When can the listeners book a tour today? → *can book*
+42. *(Test 8 · Listening)* When **can** the listeners **book** a tour today?
 43. *(Test 8 · Listening – đáp án)* You **can book** an appointment online.
 44. *(Test 8 · Listening – đáp án)* Mr. Kim **can help** you.
-45. *(Test 8 · Listening – đáp án)* Can I have a salad for lunch? → *Can have*
-46. *(Test 8 · Listening – đáp án)* The listeners cannot visit a specific station. → *can not visit*
-47. *(Test 8 · Listening – câu hỏi)* How can the listeners receive a discount? → *can receive*
-48. *(Test 9 · Listening)* How can we resolve the problem with our client? → *can resolve*
+45. *(Test 8 · Listening – đáp án)* **Can** I **have** a salad for lunch?
+46. *(Test 8 · Listening – đáp án)* The listeners **can****not visit** a specific station.
+47. *(Test 8 · Listening – câu hỏi)* How **can** the listeners **receive** a discount?
+48. *(Test 9 · Listening)* How **can** we **resolve** the problem with our client?
 49. *(Test 9 · Listening)* Please close the door so that the presentation **can start**.
-50. *(Test 9 · Listening)* Can you give me a cost estimate? → *Can give*
+50. *(Test 9 · Listening)* **Can** you **give** me a cost estimate?
 51. *(Test 9 · Listening)* Your boarding time remains as scheduled do not yet have a seat assignment, please come up to the counter now so that Claudia **can assist** baggage must comply with our height and width throughout the terminal for your reference.
 52. *(Test 9 · Listening – đáp án)* I **can pick** up some today.
-53. *(Test 9 · Listening – đáp án)* He cannot provide any references. → *can not provide*
-54. *(Test 10 · Listening)* How can we interest the client in our business? → *can interest*
+53. *(Test 9 · Listening – đáp án)* He **can****not provide** any references.
+54. *(Test 10 · Listening)* How **can** we **interest** the client in our business?
 55. *(Test 10 · Listening)* That means we be able to add practice rooms so we **can offer** private music lessons by the end of the year.
 56. *(Test 10 · Listening)* If I have the image, I **can mix** a custom paint to match it.
 57. *(Test 10 · Listening)* I **can have** the paint ready for you by Friday.
-58. *(Test 10 · Listening)* How can I assist you? → *can assist*
-59. *(Test 10 · Listening)* Can you make that while I wait? → *Can make*
+58. *(Test 10 · Listening)* How **can** I **assist** you?
+59. *(Test 10 · Listening)* **Can** you **make** that while I wait?
 60. *(Test 10 · Listening)* If the process is done right, it **can be** grain bin have to be just right.
 61. *(Test 10 · Listening)* You **can approve** or request changes to the sample started, just enter your information on our Web site, and one of our designers will contact you.
 
@@ -243,7 +243,7 @@
 17. *(Test 3 · Part 7)* He **would like** to bring two of his classes to Dr. Fiallo's lecture on October 18.
 18. *(Test 3 · Part 7 – câu hỏi)* What does Ms. McGrath indicate that she **would like** to do in the future?
 19. *(Test 4 · Part 5)* We **would like** to attend the retreat, but regrettably we are unavailable on that date.
-20. *(Test 4 · Part 6)* Would you consider including my company, Petals Aplenty, on your list of referrals.? → *Would consider*
+20. *(Test 4 · Part 6)* **Would** you **consider** including my company, Petals Aplenty, on your list of referrals.?
 21. *(Test 4 · Part 6)* I **would be** happy to reciprocate by promoting your inn on my own Web site.
 22. *(Test 4 · Part 7)* Jeff Spina (9:06 A.M.) That **would be** great, Helen.
 23. *(Test 4 · Part 7 – câu hỏi)* What type of project **would require** a permit?
@@ -254,10 +254,10 @@
 28. *(Test 5 · Part 7)* Do you think Ms. Mayer **would want** to see a cover letter in addition to my résumé?
 29. *(Test 5 · Part 7)* “I’m currently looking at Morganville to see if that **would be** the best location for a second store.”
 30. *(Test 5 · Part 7)* Further, any employee who has concerns about these protocols or **would like** to propose additional measures should contact the safety coordinator directly.
-31. *(Test 5 · Part 7)* So, when would you like me to come back to reinstall the ductwork? → *would like*
+31. *(Test 5 · Part 7)* So, when **would** you **like** me to come back to reinstall the ductwork?
 32. *(Test 5 · Part 7)* Early on Monday **would work**.
 33. *(Test 5 · Part 7)* However, we want to venture into international trade, particularly throughout Europe, and we **would like** ongoing support in this endeavor.
-34. *(Test 5 · Part 7)* If not, what restaurants near the conference would you recommend that would be open at that time? → *would recommend*
+34. *(Test 5 · Part 7)* If not, what restaurants near the conference **would** you **recommend** that would be open at that time?
 35. *(Test 6 · Part 7)* Do you have anything that you **would like** to add to it?
 36. *(Test 6 · Part 7)* I was pleased to learn from my assistant that you will be attending, and I was wondering if you **would be** willing to say a few words about Walter during the event.
 37. *(Test 6 · Part 7)* I am sure everyone, not just Walter, **would love** to hear from you!
@@ -268,7 +268,7 @@
 42. *(Test 7 · Part 7)* If you **would like** to join, visit our Register page and complete the member profile questionnaire.
 43. *(Test 8 · Part 7)* Then Big Strike Lanes opened a few months ago, and I wondered how it **would compare**.
 44. *(Test 9 · Part 7)* Do not forget to mention the specific job you are applying for and explain why you **would be** a good fit.
-45. *(Test 9 · Part 7)* Would it be possible for you to be back here for a 12:30 lunch meeting? → *Would be*
+45. *(Test 9 · Part 7)* **Would** it **be** possible for you to be back here for a 12:30 lunch meeting?
 46. *(Test 9 · Part 7)* At the last minute, a friend informed me that he **would be visiting** the next day, and I had fallen behind on my house cleaning.
 47. *(Test 9 · Part 7)* I **would like** to bring in some of my old books and use the shop credit to buy books for my six-year-old son.
 48. *(Test 10 · Part 7)* As part of our plan, we **would welcome** the opportunity to form a partnership with you.
@@ -277,23 +277,23 @@
 
 **🎧 Listening**
 
-1. *(Test 1 · Listening)* Would you be able to write the introduction for the workshop? → *Would be*
-2. *(Test 1 · Listening)* Would you rather go to lunch now or at noon? → *Would rather go*
+1. *(Test 1 · Listening)* **Would** you **be** able to write the introduction for the workshop?
+2. *(Test 1 · Listening)* **Would** you **rather go** to lunch now or at noon?
 3. *(Test 1 · Listening)* It should be a great addition to our shredded version that **would melt** easily when the production manager with that request.
 4. *(Test 1 · Listening)* It **would allow** us to capture our production line.
 5. *(Test 1 · Listening – đáp án)* She **would prefer** to park near her apartment.
-6. *(Test 2 · Listening)* Would you like the report to be e-mailed or printed out? → *Would like*
+6. *(Test 2 · Listening)* **Would** you **like** the report to be e-mailed or printed out?
 7. *(Test 4 · Listening)* Yes, that **would be** great, thanks.
-8. *(Test 5 · Listening)* Would you like a copy of the article I mentioned? → *Would like*
+8. *(Test 5 · Listening)* **Would** you **like** a copy of the article I mentioned?
 9. *(Test 5 · Listening)* That **would be** a big expense.
 10. *(Test 6 · Listening – đáp án)* He **would like** to hire the listener.
 11. *(Test 6 · Listening – đáp án)* A company **would not be** good to work for.
 12. *(Test 6 · Listening – câu hỏi)* According to the speaker, what **would be** useful?
 13. *(Test 7 · Listening)* What crops do you think **would be** best?
 14. *(Test 7 · Listening)* Sure, that **would be** great.
-15. *(Test 7 · Listening)* I'd like all of you to just found out that Astrid plays saxophone in a Klaus, would you go first? → *would go*
+15. *(Test 7 · Listening)* I'd like all of you to just found out that Astrid plays saxophone in a Klaus, **would** you **go** first?
 16. *(Test 8 · Listening – đáp án)* Tomorrow **would be** fine.
-17. *(Test 9 · Listening)* Would you like to join me and the advertising campaign for our client. → *Would like*
+17. *(Test 9 · Listening)* **Would** you **like** to join me and the advertising campaign for our client.
 18. *(Test 10 · Listening)* Do you think Ms. Wang **would be** interested in joining the event planning committee?
 
 ---
@@ -379,24 +379,24 @@
 6. *(Test 2 · Part 7)* No options are coming up for the Dalton light-rail station, which you specifically mention as the station where hotel guests **should disembark**.
 7. *(Test 3 · Part 7)* Interested applicants **should send** a cover letter and résumé to hiringmanager@neveckassociates.com.
 8. *(Test 3 · Part 7)* Given our time constraints, we **should consider** having auditions done this way.
-9. *(Test 3 · Part 7 – câu hỏi)* According to the Web page, why should someone send an e-mail? → *should send*
+9. *(Test 3 · Part 7 – câu hỏi)* According to the Web page, why **should** someone **send** an e-mail?
 10. *(Test 4 · Part 7)* I **should be** there by 8:30.
 11. *(Test 4 · Part 7)* Her team **should be** able to get the pop-up window and social media links working again soon.
-12. *(Test 4 · Part 7 – câu hỏi)* According to the Web page, why should someone contact Mr. Abioye? → *should contact*
+12. *(Test 4 · Part 7 – câu hỏi)* According to the Web page, why **should** someone **contact** Mr. Abioye?
 13. *(Test 5 · Part 7)* She says you **should definitely apply**.
 14. *(Test 5 · Part 7)* Employees who need to convert their videos from the format Zipvid uses to a format compatible with Curtain Call **should install** the converter utility to their work computers.
 15. *(Test 5 · Part 7)* Further, any employee who has concerns about these protocols or would like to propose additional measures **should contact** the safety coordinator directly.
 16. *(Test 5 · Part 7)* OK, it **should take** me about an hour.
 17. *(Test 5 · Part 7)* The Browns are away on vacation, so I think Friday afternoon **should be** fine.
-18. *(Test 5 · Part 7 – câu hỏi)* According to the notice, why should employees contact Ms. Schneider? → *should contact*
-19. *(Test 5 · Part 7 – câu hỏi)* According to the job description, what should the highway supervisor do if a serious problem with a crew member arises? → *should do*
+18. *(Test 5 · Part 7 – câu hỏi)* According to the notice, why **should** employees **contact** Ms. Schneider?
+19. *(Test 5 · Part 7 – câu hỏi)* According to the job description, what **should** the highway supervisor **do** if a serious problem with a crew member arises?
 20. *(Test 6 · Part 6)* Each department **should designate** one employee to handle mail duties.
-21. *(Test 6 · Part 7 – câu hỏi)* According to the first e-mail, what should managers do as soon as possible? → *should do*
+21. *(Test 6 · Part 7 – câu hỏi)* According to the first e-mail, what **should** managers **do** as soon as possible?
 22. *(Test 7 · Part 7)* We **should hire** the same number of workers as last year, but this time, all four should be full-time.
-23. *(Test 7 · Part 7 – câu hỏi)* According to the Web page, what should job applicants do? → *should do*
+23. *(Test 7 · Part 7 – câu hỏi)* According to the Web page, what **should** job applicants **do**?
 24. *(Test 8 · Part 5)* All visitors to the factory **should use** the entrance on the north side of the building.
 25. *(Test 8 · Part 7)* Maybe we **should ask** Maria Trujillo to join us as well?
-26. *(Test 8 · Part 7 – câu hỏi)* According to the e-mail, what should staff members do by February 16? → *should do*
+26. *(Test 8 · Part 7 – câu hỏi)* According to the e-mail, what **should** staff members **do** by February 16?
 27. *(Test 9 · Part 5)* Whichever route they choose, it **should take** the management team approximately four hours to drive to the hotel in Antibes.
 28. *(Test 9 · Part 6)* Furniture stores interested in offering our products **should contact** Nya Fernaut, sales director.
 29. *(Test 9 · Part 6)* Once you review the sketches, let me know which you like and what changes I **should make**, if any.
@@ -407,24 +407,24 @@
 
 1. *(Test 1 · Listening)* It **should be** a great addition to our shredded version that would melt easily when the production manager with that request.
 2. *(Test 1 · Listening)* Maybe you **should ask** her about it.
-3. *(Test 2 · Listening)* Which parking area should we use? → *should use*
+3. *(Test 2 · Listening)* Which parking area **should** we **use**?
 4. *(Test 2 · Listening – đáp án)* I think we **should paint** the kitchen.
-5. *(Test 3 · Listening)* According to the speaker, what should the listener do to prepare? → *should do*
+5. *(Test 3 · Listening)* According to the speaker, what **should** the listener **do** to prepare?
 6. *(Test 4 · Listening)* Ms. Cho **should close** the store early on Friday.
 7. *(Test 4 · Listening)* So you **should always add** at least an extra hour to your trip out there.
 8. *(Test 4 · Listening)* You think we **should focus** on advertising on social media, right?
-9. *(Test 4 · Listening)* Which reminds me, where should we set up the table for that? → *should set*
-10. *(Test 6 · Listening)* Where should I pick up my conference badge? → *should pick*
-11. *(Test 6 · Listening)* Shouldn't we update our security protocol? → *Should n't update*
+9. *(Test 4 · Listening)* Which reminds me, where **should** we **set** up the table for that?
+10. *(Test 6 · Listening)* Where **should** I **pick** up my conference badge?
+11. *(Test 6 · Listening)* **Should****n't** we **update** our security protocol?
 12. *(Test 6 · Listening – đáp án)* The desk **should be** in the corner.
-13. *(Test 7 · Listening)* How often should I submit my travel expenses? → *should submit*
-14. *(Test 7 · Listening)* Should I get in touch with our fruit and vegetable supplier? → *Should get*
+13. *(Test 7 · Listening)* How often **should** I **submit** my travel expenses?
+14. *(Test 7 · Listening)* **Should** I **get** in touch with our fruit and vegetable supplier?
 15. *(Test 7 · Listening – đáp án)* It **should say** on their Web site.
-16. *(Test 7 · Listening – câu hỏi)* Why should the woman check a manual? → *should check*
+16. *(Test 7 · Listening – câu hỏi)* Why **should** the woman **check** a manual?
 17. *(Test 8 · Listening)* But you **should know**, I only use the highest-quality materials in my work.
-18. *(Test 9 · Listening)* When should we order the gift baskets? → *should order*
+18. *(Test 9 · Listening)* When **should** we **order** the gift baskets?
 19. *(Test 9 · Listening – đáp án)* No, it **shouldn't be** too difficult.
-20. *(Test 9 · Listening – câu hỏi)* Why should the listeners visit a Web site? → *should visit*
+20. *(Test 9 · Listening – câu hỏi)* Why **should** the listeners **visit** a Web site?
 21. *(Test 10 · Listening – đáp án)* There **should be** 21 people.
 
 ---
@@ -439,9 +439,9 @@
 
 1. *(Test 2 · Part 6)* We **could address** this drainage issue in several.
 2. *(Test 2 · Part 6)* Alternatively., we **could remove** all of the old asphalt and replace it with a porous material such as crushed gravel.
-3. *(Test 2 · Part 7)* Could you please send me samples of your Edinburgh and Norwich fabrics? → *Could send*
+3. *(Test 2 · Part 7)* **Could** you please **send** me samples of your Edinburgh and Norwich fabrics?
 4. *(Test 2 · Part 7)* However, I’m hoping that we **could have** a brief tour of the whole museum before we begin our work.
-5. *(Test 2 · Part 7)* Could you please clarify how best to get to the hotel? → *Could clarify*
+5. *(Test 2 · Part 7)* **Could** you please **clarify** how best to get to the hotel?
 6. *(Test 2 · Part 7)* Initially, I was worried I **could not get** to the hotel easily from Johnstown, where I had just finished an exhilarating three-day professional conference.
 7. *(Test 3 · Part 7)* You **could drive** it over.
 8. *(Test 3 · Part 7)* Please suggest a convenient time when I **could call** you to discuss how we can work together in the future.
@@ -450,10 +450,10 @@
 11. *(Test 4 · Part 7)* They **could also send** us a picture of their home office with our calendar in the image.
 12. *(Test 4 · Part 7)* And I **could write** an explanation of how using the calendar helps me keep track of things.
 13. *(Test 4 · Part 7)* We **could use** that as an example for customers to follow.
-14. *(Test 4 · Part 7)* Could I ask that my painting be placed away from the similar artwork? → *Could ask*
+14. *(Test 4 · Part 7)* **Could** I **ask** that my painting be placed away from the similar artwork?
 15. *(Test 5 · Part 7)* To get started, it would be helpful if the two of you **could brainstorm** some of your design expectations and overall vision for the project.
 16. *(Test 5 · Part 7)* Unfortunately, I **could not locate** it on the archival page.
-17. *(Test 6 · Part 7)* Could you buy the pastries we want to provide to potential buyers? → *Could buy*
+17. *(Test 6 · Part 7)* **Could** you **buy** the pastries we want to provide to potential buyers?
 18. *(Test 7 · Part 7)* We used to have a large umbrella stand in the lobby where visitors **could leave** umbrellas, but only a few people used it.
 19. *(Test 7 · Part 7)* Then we tried an umbrella stand that included disposable plastic bags that visitors **could tear** off and put their umbrellas in.
 20. *(Test 8 · Part 7)* You **could also give** them away after a show.
@@ -462,8 +462,8 @@
 
 **🎧 Listening**
 
-1. *(Test 3 · Listening)* Could you help me do that? → *Could help*
-2. *(Test 3 · Listening)* Could you help to drop. → *Could help*
+1. *(Test 3 · Listening)* **Could** you **help** me do that?
+2. *(Test 3 · Listening)* **Could** you **help** to drop.
 3. *(Test 3 · Listening)* I was thinking maybe we **could hire** a professional rock climber to consult with our have in mind?
 4. *(Test 3 · Listening)* I came in last week to get some lumber wondering if I **could get** a refund.
 5. *(Test 3 · Listening – đáp án)* Kento said he **could do** it.
@@ -471,11 +471,11 @@
 7. *(Test 5 · Listening)* They **could help** with packaging and shipping.
 8. *(Test 5 · Listening)* We **could ask** them whether they have enough for reach out to the customers about the delay.
 9. *(Test 5 · Listening)* Perhaps we **could enlarge** the break room by having the wall taken down between it and the meeting room next door.
-10. *(Test 5 · Listening)* Then could you reach out to your contact at the construction company? → *could reach*
+10. *(Test 5 · Listening)* Then **could** you **reach** out to your contact at the construction company?
 11. *(Test 5 · Listening)* We **could start** using bicycle delivery whenever possible.
 12. *(Test 6 · Listening)* I **could provide** you with a copy of the lease.
-13. *(Test 6 · Listening)* Could you look at the revised logo tomorrow? → *Could look*
-14. *(Test 6 · Listening)* Could you help me? → *Could help*
+13. *(Test 6 · Listening)* **Could** you **look** at the revised logo tomorrow?
+14. *(Test 6 · Listening)* **Could** you **help** me?
 15. *(Test 6 · Listening)* I **could be** back in about an hour.
 16. *(Test 7 · Listening)* Maybe we **could use** a dolphin jumping out of the water.
 17. *(Test 7 · Listening)* And we **could even add** cabbage as a new crop in the spring.
@@ -522,7 +522,7 @@
 25. *(Test 9 · Part 7)* It definitely needs routine maintenance, and we **may have** to plan some additional work.
 26. *(Test 9 · Part 7)* However, customers **may not be** familiar with our intensive special cleaning services.
 27. *(Test 9 · Part 7)* Here is a list of our offerings and a new feature all customers **may enjoy**.
-28. *(Test 9 · Part 7)* May I stop in next Tuesday or Wednesday? → *May stop*
+28. *(Test 9 · Part 7)* **May** I **stop** in next Tuesday or Wednesday?
 29. *(Test 10 · Part 5)* Mr. Takajian **may be** an entry-level employee, but he does not hesitate to take initiative.
 30. *(Test 10 · Part 7)* Remember that airlines usually offer a limited number of the lowest fares, so you **may want** to make a reservation soon to take advantage of these prices.
 
@@ -618,7 +618,7 @@
 18. *(Test 7 · Part 7)* I know you **must be** eager to rehearse in the newly refurbished building next week.
 19. *(Test 7 · Part 7)* Passengers flying between smaller cities **must change** planes at one of these hubs.
 20. *(Test 9 · Part 7)* Still, we **must have** sufficient staff on hand to deliver service of the highest quality, a policy for which Bellerson Financial is highly regarded by its customers.
-21. *(Test 9 · Part 7 – câu hỏi)* What must Mr. Hong do to maintain access to his account? → *must do*
+21. *(Test 9 · Part 7 – câu hỏi)* What **must** Mr. Hong **do** to maintain access to his account?
 22. *(Test 9 · Part 7 – câu hỏi)* According to the Web page, what is one thing people wishing to become drone pilots **must do**?
 23. *(Test 10 · Part 5)* According to the restaurant's policy, guests **must wait** to be seated by the front-of-house staff.
 24. *(Test 10 · Part 7)* Please note that the requested delivery area **must be** accessible for our trucks.
@@ -674,7 +674,7 @@
 4. *(Test 9 · Part 7)* “You **might explain**, for instance, how a person you respect had a positive impact on your life.”
 5. *(Test 10 · Part 6)* Some reviewers of the television series believe that the third season **might be** even better than the previous ones.
 6. *(Test 10 · Part 6)* In contrast, other reviewers argue that the series **might lose** its appeal with the introduction of so many new characters, resulting in a complicated and confusing plotline.
-7. *(Test 10 · Part 7 – câu hỏi)* Why might Ms. Kuroda need to submit a release form? → *might need*
+7. *(Test 10 · Part 7 – câu hỏi)* Why **might** Ms. Kuroda **need** to submit a release form?
 
 **🎧 Listening**
 
@@ -783,7 +783,7 @@
 
 **🎧 Listening**
 
-1. *(Test 8 · Listening)* Can't you help me install this furniture? → *Ca n't help*
+1. *(Test 8 · Listening)* **Ca****n't** you **help** me install this furniture?
 
 ---
 

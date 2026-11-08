@@ -78,94 +78,94 @@
 **📖 Reading**
 
 1. *(Test 1 · Part 7)* **All vehicles** must be removed by 8 A.M. on May 3 for the work to commence.
-2. *(Test 1 · Part 7)* Note that all parking spaces will be widened, and some spaces could be moved during the work. → *all spaces*
-3. *(Test 1 · Part 7)* The sand has smoothed all the sharp edges, so they're perfectly safe for everyone to use. → *all edges*
-4. *(Test 1 · Part 7)* In addition, all Belter telescopes include a padded carrying case. → *all telescopes*
+2. *(Test 1 · Part 7)* Note that **all** parking **spaces** will be widened, and some spaces could be moved during the work.
+3. *(Test 1 · Part 7)* The sand has smoothed **all** the sharp **edges**, so they're perfectly safe for everyone to use.
+4. *(Test 1 · Part 7)* In addition, **all** Belter **telescopes** include a padded carrying case.
 5. *(Test 1 · Part 7)* **All applications** must be received by March 31.
-6. *(Test 1 · Part 7)* We're contacting you about your data request for the e-mail addresses of all account holders, sorted by age. → *all holders*
-7. *(Test 1 · Part 7)* Do you really need the e-mail addresses of all account holders? → *all holders*
-8. *(Test 1 · Part 7)* As usual, all three blocks of Oak Street will be closed to traffic, restaurants will serve lunch at outdoor tables, and local arts-and-crafts vendors will display their work on the lawn of the Cultural Center. → *all blocks*
+6. *(Test 1 · Part 7)* We're contacting you about your data request for the e-mail addresses of **all** account **holders**, sorted by age.
+7. *(Test 1 · Part 7)* Do you really need the e-mail addresses of **all** account **holders**?
+8. *(Test 1 · Part 7)* As usual, **all** three **blocks** of Oak Street will be closed to traffic, restaurants will serve lunch at outdoor tables, and local arts-and-crafts vendors will display their work on the lawn of the Cultural Center.
 9. *(Test 1 · Part 7)* Remember, **all roofs** installed by Lawal have a 25-year warranty.
-10. *(Test 1 · Part 7)* Diana Perez was on-site for the whole job as promised and answered all my questions. → *all questions*
+10. *(Test 1 · Part 7)* Diana Perez was on-site for the whole job as promised and answered **all** my **questions**.
 11. *(Test 1 · Part 7)* As long as you send your approval of **all covers** by June 11, we will be able to ship your entire order of bound notebooks before July 20.
-12. *(Test 1 · Part 7)* Even though she was new, she was very knowledgeable about all the trucks on the lot that we wanted to test drive. → *all trucks*
-13. *(Test 2 · Part 5)* After accepting a job offer, a candidate must complete all onboarding tasks before the start date. → *all tasks*
-14. *(Test 2 · Part 5)* Mortgage brokers generally prefer to review all the financial documents before meeting with a new client. → *all documents*
-15. *(Test 2 · Part 5)* Though it is occasionally inconvenient, Mr. Ohtani expects all team members to attend his weekly meeting. → *all members*
-16. *(Test 2 · Part 6)* If so, you may purchase this All the ingredients are sourced from plants found in the wild in bulk at discounted prices. → *All ingredients*
-17. *(Test 2 · Part 7)* As a result of our merger with Frantum Corporation, printed business cards for all Ketola Enterprises employees will be replaced. → *all employees*
+12. *(Test 1 · Part 7)* Even though she was new, she was very knowledgeable about **all** the **trucks** on the lot that we wanted to test drive.
+13. *(Test 2 · Part 5)* After accepting a job offer, a candidate must complete **all** onboarding **tasks** before the start date.
+14. *(Test 2 · Part 5)* Mortgage brokers generally prefer to review **all** the financial **documents** before meeting with a new client.
+15. *(Test 2 · Part 5)* Though it is occasionally inconvenient, Mr. Ohtani expects **all** team **members** to attend his weekly meeting.
+16. *(Test 2 · Part 6)* If so, you may purchase this **All** the **ingredients** are sourced from plants found in the wild in bulk at discounted prices.
+17. *(Test 2 · Part 7)* As a result of our merger with Frantum Corporation, printed business cards for **all** Ketola Enterprises **employees** will be replaced.
 18. *(Test 2 · Part 7)* **All employees** should receive the new business cards by May 1.
 19. *(Test 2 · Part 7)* Acceptance of the terms is required of **all employees** and was requested in an e-mail I sent on May 1.
-20. *(Test 2 · Part 7)* All personally identifiable information will be treated confidentially in accordance with the Lorne privacy statement, which can be found at lornettransportation.com.au. → *All information*
+20. *(Test 2 · Part 7)* **All** personally identifiable **information** will be treated confidentially in accordance with the Lorne privacy statement, which can be found at lornettransportation.com.au.
 21. *(Test 2 · Part 7)* We work with clients on projects of **all kinds**, no matter how large or small.
 22. *(Test 2 · Part 7)* **All vehicles** come standard with all-wheel drive and a navigation system with phone pairing.
-23. *(Test 2 · Part 7)* All our instructors hold at least a bachelor's degree in music and have performance experience in orchestras or bands. → *All instructors*
+23. *(Test 2 · Part 7)* **All** our **instructors** hold at least a bachelor's degree in music and have performance experience in orchestras or bands.
 24. *(Test 2 · Part 7 – câu hỏi)* What feature comes with **all XC-35** SUVs?
-25. *(Test 3 · Part 7)* All our bicycles are made by hand in our production facility in Kuala Lumpur with parts made by local craftspeople. → *All bicycles*
+25. *(Test 3 · Part 7)* **All** our **bicycles** are made by hand in our production facility in Kuala Lumpur with parts made by local craftspeople.
 26. *(Test 3 · Part 7)* Currently, we are expecting a delivery time of 10 to 12 weeks for **all bicycles** ordered on or after August 15.
-27. *(Test 3 · Part 7)* I contacted the company via e-mail, and all my questions were answered promptly and thoroughly. → *all questions*
-28. *(Test 3 · Part 7)* That these artifacts were so close by all this time was truly amazing for my students to contemplate. → *all time*
+27. *(Test 3 · Part 7)* I contacted the company via e-mail, and **all** my **questions** were answered promptly and thoroughly.
+28. *(Test 3 · Part 7)* That these artifacts were so close by **all** this **time** was truly amazing for my students to contemplate.
 29. *(Test 4 · Part 5)* Beginning next month, **all employees** at Sartson Analytics will have the option of working from home two days per week.
 30. *(Test 4 · Part 5)* **All documents** pertaining to the company merger will become available to the public within one year.
 31. *(Test 4 · Part 7)* **All servers** receive one meal during each shift.
-32. *(Test 4 · Part 7)* All Stub Master tickets contain a unique barcode and may not be printed, copied, or shared. → *All tickets*
+32. *(Test 4 · Part 7)* **All** Stub Master **tickets** contain a unique barcode and may not be printed, copied, or shared.
 33. *(Test 4 · Part 7)* This makes it an ideal backdrop for **all types** of art.
-34. *(Test 4 · Part 7)* “Trail maintenance is transitioning from being performed by city employees to an all-volunteer model,” said newly appointed parks commissioner Helen Yancey. → *all volunteer*
-35. *(Test 4 · Part 7)* Many local artists plan to donate pieces for our auction, and as always, we encourage all amateur artists in our firm to donate work as well. → *all artists*
+34. *(Test 4 · Part 7)* “Trail maintenance is transitioning from being performed by city employees to an **all**-**volunteer** model,” said newly appointed parks commissioner Helen Yancey.
+35. *(Test 4 · Part 7)* Many local artists plan to donate pieces for our auction, and as always, we encourage **all** amateur **artists** in our firm to donate work as well.
 36. *(Test 5 · Part 5)* Mr. Lenthe will distribute copies of the workshop agenda to **all managers** by Tuesday morning.
-37. *(Test 5 · Part 5)* Of all the mistakes people make in the office, not proofreading their e-mails is one of the most common. → *all mistakes*
-38. *(Test 5 · Part 5)* The department supervisor is responsible for ensuring that all safety gear is stowed properly at the end of the shift. → *all gear*
+37. *(Test 5 · Part 5)* Of **all** the **mistakes** people make in the office, not proofreading their e-mails is one of the most common.
+38. *(Test 5 · Part 5)* The department supervisor is responsible for ensuring that **all** safety **gear** is stowed properly at the end of the shift.
 39. *(Test 5 · Part 5)* The contract for the renovation of the park will not be awarded until **all bids** have been submitted.
-40. *(Test 5 · Part 7)* You check all the boxes. → *all boxes*
-41. *(Test 5 · Part 7)* Covered Bridge now hopes to complete all quality testing by November so that it can launch the product the following month. → *all testing*
-42. *(Test 5 · Part 7)* “It has already been installed on all work computers, so you can begin using it immediately.” → *all computers*
+40. *(Test 5 · Part 7)* You check **all** the **boxes**.
+41. *(Test 5 · Part 7)* Covered Bridge now hopes to complete **all** quality **testing** by November so that it can launch the product the following month.
+42. *(Test 5 · Part 7)* “It has already been installed on **all** work **computers**, so you can begin using it immediately.”
 43. *(Test 5 · Part 7)* **All employees** are expected to follow the guidelines in the employee manual as well as posted safety rules.
 44. *(Test 5 · Part 7)* Free first aid training and certification are available twice yearly to **all employees**.
 45. *(Test 5 · Part 7)* The highway supervisor oversees **all tasks** related to the construction and maintenance of road-related structures throughout Dora County, including creating work objectives for all emergency program activities.
-46. *(Test 5 · Part 7)* Key responsibilities include the organization of all snow-removal operations and construction projects. → *all operations*
+46. *(Test 5 · Part 7)* Key responsibilities include the organization of **all** snow-removal **operations** and construction projects.
 47. *(Test 5 · Part 7)* The supervisor informs the division director of major personnel problems; the director will recommend an appropriate course of action in **all instances**.
-48. *(Test 5 · Part 7)* All Intermountain Graphics employees who travel on official company business must fill out a Travel Expense Reimbursement Form and upload their receipts within 30 days of travel in TravelNow, our electronic travel reimbursement system. → *All employees*
+48. *(Test 5 · Part 7)* **All** Intermountain Graphics **employees** who travel on official company business must fill out a Travel Expense Reimbursement Form and upload their receipts within 30 days of travel in TravelNow, our electronic travel reimbursement system.
 49. *(Test 5 · Part 7)* **All forms** must be approved and signed by the employee's department manager.
-50. *(Test 6 · Part 5)* Manufacturing all its products in-house allows Long Bridge Steel Corp. to control every aspect of the production process. → *all products*
+50. *(Test 6 · Part 5)* Manufacturing **all** its **products** in-house allows Long Bridge Steel Corp. to control every aspect of the production process.
 51. *(Test 6 · Part 5)* Artists at Cavin Graphics work collaboratively with clients through **all stages** of the design process to ensure satisfaction.
-52. *(Test 6 · Part 6)* All Travelbee buses are now outfitted with exterior bicycle racks. → *All buses*
+52. *(Test 6 · Part 6)* **All** Travelbee **buses** are now outfitted with exterior bicycle racks.
 53. *(Test 6 · Part 7)* The crew members quickly addressed **all issues**, replacing smoke detectors, changing filters in my furnace, and weatherproofing windows before the cold season set in.
 54. *(Test 6 · Part 7)* **All proceeds** from ticket sales for this year's tour will go toward replanting the cottonwood forest in Presidio County Park.
 55. *(Test 6 · Part 7)* **All lectures** occur on the third Wednesday of the month at 7:00 P.M. Advance registration is not required.
-56. *(Test 6 · Part 7)* Terra Jaunts pays up to $300 per day to our partners for the daytime use of their property and provides all or most needed equipment. → *all equipment*
-57. *(Test 6 · Part 7)* We appreciate your having created an illustrated list of all the native flowers and trees growing wild on your property; none of our other hosts offers anything like this. → *all flowers*
-58. *(Test 7 · Part 5)* Although some tickets to the concert are still available, all the best seats have already been taken. → *all seats*
+56. *(Test 6 · Part 7)* Terra Jaunts pays up to $300 per day to our partners for the daytime use of their property and provides **all** or most needed **equipment**.
+57. *(Test 6 · Part 7)* We appreciate your having created an illustrated list of **all** the native **flowers** and trees growing wild on your property; none of our other hosts offers anything like this.
+58. *(Test 7 · Part 5)* Although some tickets to the concert are still available, **all** the best **seats** have already been taken.
 59. *(Test 7 · Part 6)* Once **all parties** have signed the Nelsign document, you will be notified by e-mail.
-60. *(Test 7 · Part 6)* At that time, the sender will also receive an alert that all necessary signatures on the contract have been acquired. → *all signatures*
+60. *(Test 7 · Part 6)* At that time, the sender will also receive an alert that **all** necessary **signatures** on the contract have been acquired.
 61. *(Test 7 · Part 6)* Upon completion, **all signers** may access and save the document.
 62. *(Test 7 · Part 7)* **All responses** in Qualitekk Research surveys are confidential, and you will never be personally identified with survey data.
-63. *(Test 7 · Part 7)* It has been a long process, and audiences will undoubtedly appreciate all the renovations, including the newly upholstered seats and the updated heating and air-conditioning system. → *all renovations*
-64. *(Test 7 · Part 7)* I appreciate all your hard work and patience as we start this new chapter in the history of Swansea Spotlight Theatre, and I look forward to our exciting future together. → *all work*
+63. *(Test 7 · Part 7)* It has been a long process, and audiences will undoubtedly appreciate **all** the **renovations**, including the newly upholstered seats and the updated heating and air-conditioning system.
+64. *(Test 7 · Part 7)* I appreciate **all** your hard **work** and patience as we start this new chapter in the history of Swansea Spotlight Theatre, and I look forward to our exciting future together.
 65. *(Test 7 · Part 7)* We are known for our stock of high-end racing bicycles, but for a limited time every year, we offer a wide selection of secondhand mountain, road, and hybrid bicycles for **all ages** and abilities.
 66. *(Test 7 · Part 7)* **All interviews** will be conducted at the Gravel Road store.
 67. *(Test 8 · Part 5)* **All visitors** to the factory should use the entrance on the north side of the building.
-68. *(Test 8 · Part 7)* All Barbados Airlines passengers may bring one personal item (for example, a handbag or laptop bag) into the cabin with them. → *All passengers*
-69. *(Test 8 · Part 7)* Calling all Madison Industrial Supply employees! → *all employees*
+68. *(Test 8 · Part 7)* **All** Barbados Airlines **passengers** may bring one personal item (for example, a handbag or laptop bag) into the cabin with them.
+69. *(Test 8 · Part 7)* Calling **all** Madison Industrial Supply **employees**!
 70. *(Test 8 · Part 7)* I just work at my computer **all day**.
 71. *(Test 8 · Part 7)* **All members** were present.
-72. *(Test 8 · Part 7)* I was concerned about taking the course online; however, it covered all the material from the on-site training that I had for my original certification—and more. → *all material*
-73. *(Test 8 · Part 7)* She answered all my questions and was attuned to the challenges that forklift operators face. → *all questions*
+72. *(Test 8 · Part 7)* I was concerned about taking the course online; however, it covered **all** the **material** from the on-site training that I had for my original certification—and more.
+73. *(Test 8 · Part 7)* She answered **all** my **questions** and was attuned to the challenges that forklift operators face.
 74. *(Test 8 · Part 7 – câu hỏi)* At 8:21 A.M., what does Ms. Mehta imply when she writes, "I just work at my computer **all day**"?
-75. *(Test 9 · Part 5)* All Baraantec Ltd. hand tools undergo rigorous inspections to ensure they are free of defects. → *All tools*
-76. *(Test 9 · Part 7)* All new models include an upgraded camera with advanced zoom features and automatic focus. → *All models*
+75. *(Test 9 · Part 5)* **All** Baraantec Ltd. hand **tools** undergo rigorous inspections to ensure they are free of defects.
+76. *(Test 9 · Part 7)* **All** new **models** include an upgraded camera with advanced zoom features and automatic focus.
 77. *(Test 9 · Part 7)* Here is a list of our offerings and a new feature **all customers** may enjoy.
-78. *(Test 9 · Part 7)* Under the guidance of a supervisor, a two-person team will handle all the necessary dusting and scrubbing. → *all dusting*
-79. *(Test 10 · Part 7)* "Otherwise it is hard to keep track of all the changes." → *all changes*
-80. *(Test 10 · Part 7)* On the exhibition's final day, the works will be dismantled, and all the recyclable materials, including the items brought by visitors, will be transported to a Flyner Industries facility, where they will be shredded and transformed into material for waterproof curtains. → *all materials*
+78. *(Test 9 · Part 7)* Under the guidance of a supervisor, a two-person team will handle **all** the necessary **dusting** and scrubbing.
+79. *(Test 10 · Part 7)* "Otherwise it is hard to keep track of **all** the **changes**."
+80. *(Test 10 · Part 7)* On the exhibition's final day, the works will be dismantled, and **all** the recyclable **materials**, including the items brought by visitors, will be transported to a Flyner Industries facility, where they will be shredded and transformed into material for waterproof curtains.
 81. *(Test 10 · Part 7)* **All classes** use ingredients you can find right here in the store.
 
 **🎧 Listening**
 
-1. *(Test 3 · Listening)* Yes, competition is at an all-time high. → *all time*
+1. *(Test 3 · Listening)* Yes, competition is at an **all**-**time** high.
 2. *(Test 4 · Listening – đáp án)* I'll be out of the office **all week**.
-3. *(Test 5 · Listening)* Are we going to be able to fill and ship all these orders? → *all orders*
-4. *(Test 5 · Listening)* All the staff feedback is available. → *All feedback*
-5. *(Test 9 · Listening – đáp án)* Put all the old files upstairs. → *all files*
+3. *(Test 5 · Listening)* Are we going to be able to fill and ship **all** these **orders**?
+4. *(Test 5 · Listening)* **All** the staff **feedback** is available.
+5. *(Test 9 · Listening – đáp án)* Put **all** the old **files** upstairs.
 
 ---
 
@@ -178,31 +178,31 @@
 **📖 Reading**
 
 1. *(Test 1 · Part 7)* Note that all parking spaces will be widened, and **some spaces** could be moved during the work.
-2. *(Test 1 · Part 7)* “During repairs, some additional dining space was added.” → *some space*
+2. *(Test 1 · Part 7)* “During repairs, **some** additional dining **space** was added.”
 3. *(Test 1 · Part 7)* So, here are **some tips** for developing a great Web site for your food truck.
 4. *(Test 1 · Part 7)* The About Us page should include **some text** explaining your food truck's theme and concept, and some biographical data detailing your background in the food industry.
-5. *(Test 2 · Part 7)* We wanted to take the opportunity to suggest some other items you might like. → *some items*
+5. *(Test 2 · Part 7)* We wanted to take the opportunity to suggest **some** other **items** you might like.
 6. *(Test 2 · Part 7)* So I was able to purchase **some food** and have a picnic on the beach.
 7. *(Test 3 · Part 7 – câu hỏi)* Why are **some objects** unavailable to see in person during a lecture?
-8. *(Test 4 · Part 6)* Vietnamese cuisine and some innovative dishes developed by Chef Hoang. → *some dishes*
+8. *(Test 4 · Part 6)* Vietnamese cuisine and **some** innovative **dishes** developed by Chef Hoang.
 9. *(Test 4 · Part 6)* Even so., perhaps we could still partner in **some way**.
-10. *(Test 5 · Part 5)* A recent study showed that substituting refined sugars with maple syrup may have some important health benefits. → *some benefits*
-11. *(Test 6 · Part 6)* carry out some needed repairs. → *some repairs*
+10. *(Test 5 · Part 5)* A recent study showed that substituting refined sugars with maple syrup may have **some** important health **benefits**.
+11. *(Test 6 · Part 6)* carry out **some** needed **repairs**.
 12. *(Test 6 · Part 7)* As a result, tin traders predict **some moderation** in prices as supplies rise.
 13. *(Test 6 · Part 7)* I've already bought **some bottles** of water, but I won't have time to stop by the bakery tomorrow.
-14. *(Test 6 · Part 7)* The trees are native to the region and can be planted in private gardens or in some public areas. → *some areas*
+14. *(Test 6 · Part 7)* The trees are native to the region and can be planted in private gardens or in **some** public **areas**.
 15. *(Test 7 · Part 5)* Although **some tickets** to the concert are still available, all the best seats have already been taken.
 16. *(Test 7 · Part 6)* Each Friday from 6 to 10 P.M., Chez Tournoi welcomes you to its 44 Broad Avenue, Kingston, location for **some fun** and laughter.
-17. *(Test 7 · Part 7)* Some early morning and weekend work is required. → *Some morning*
+17. *(Test 7 · Part 7)* **Some** early **morning** and weekend work is required.
 18. *(Test 8 · Part 7)* I have **some questions** too—about the project's budget.
 19. *(Test 8 · Part 7)* Winglite Airlines and the city will bear **some costs** equally.
 20. *(Test 9 · Part 6)* The purchase comes as no surprise to shoe industry insiders, who have speculated for **some time** about Shipley's financial challenges.
-21. *(Test 9 · Part 7)* I will see if we can make some schedule changes. → *some changes*
-22. *(Test 9 · Part 7)* It definitely needs routine maintenance, and we may have to plan some additional work. → *some work*
-23. *(Test 9 · Part 7)* Nothing appears to be critical, but given its age, I expect some preventive work may be required. → *some work*
+21. *(Test 9 · Part 7)* I will see if we can make **some** schedule **changes**.
+22. *(Test 9 · Part 7)* It definitely needs routine maintenance, and we may have to plan **some** additional **work**.
+23. *(Test 9 · Part 7)* Nothing appears to be critical, but given its age, I expect **some** preventive **work** may be required.
 24. *(Test 9 · Part 7)* I know it's short notice, but I have **some questions** about the Ninth Street Bridge inspection I'm conducting this afternoon.
 25. *(Test 9 · Part 7)* The museum remained open during the installation, although **some offerings** were unavailable during the process of upgrading. The enhancements were funded by Arnsby Metal Manufacturing, a major industrial firm in the area.
-26. *(Test 9 · Part 7)* In addition to the picture books he has outgrown, I also have some newer science fiction paperbacks in good condition, two first-edition classic novels inherited from my great-grandmother, and three cookbooks filled with recipes submitted by members of a charity I run. → *some paperbacks*
+26. *(Test 9 · Part 7)* In addition to the picture books he has outgrown, I also have **some** newer science fiction **paperbacks** in good condition, two first-edition classic novels inherited from my great-grandmother, and three cookbooks filled with recipes submitted by members of a charity I run.
 27. *(Test 10 · Part 6)* **Some reviewers** of the television series believe that the third season might be even better than the previous ones.
 
 **🎧 Listening**
@@ -214,12 +214,12 @@
 5. *(Test 1 · Listening – đáp án)* **Some cyclists** are riding through a field.
 6. *(Test 1 · Listening – đáp án)* She will move **some items** indoors.
 7. *(Test 1 · Listening – đáp án)* **Some software** is being updated.
-8. *(Test 1 · Listening – đáp án)* Some company policies are outdated. → *Some policies*
+8. *(Test 1 · Listening – đáp án)* **Some** company **policies** are outdated.
 9. *(Test 2 · Listening)* So, I have **some news** to share with you.
-10. *(Test 2 · Listening – đáp án)* Some potted plants line a walkway. → *Some plants*
+10. *(Test 2 · Listening – đáp án)* **Some** potted **plants** line a walkway.
 11. *(Test 2 · Listening – đáp án)* **Some people** are lined up to buy train tickets.
 12. *(Test 2 · Listening – đáp án)* A man is washing **some windows**.
-13. *(Test 2 · Listening – đáp án)* We have some digital thermometers in stock. → *some thermometers*
+13. *(Test 2 · Listening – đáp án)* We have **some** digital **thermometers** in stock.
 14. *(Test 2 · Listening – đáp án)* **Some streets** are being resurfaced.
 15. *(Test 2 · Listening – đáp án)* **Some roads** are closed for a bicycle race.
 16. *(Test 3 · Listening – đáp án)* **Some bushes** are covered with snow.
@@ -234,9 +234,9 @@
 25. *(Test 4 · Listening – đáp án)* He is not responsible for **some results**.
 26. *(Test 4 · Listening – đáp án)* **Some criticism** is accurate.
 27. *(Test 4 · Listening – đáp án)* **Some decisions** led to a successful outcome.
-28. *(Test 4 · Listening – đáp án)* Some important information is missing. → *Some information*
+28. *(Test 4 · Listening – đáp án)* **Some** important **information** is missing.
 29. *(Test 5 · Listening)* They have **some ideas** about how we can increase sales of our denim blue jeans.
-30. *(Test 5 · Listening)* You know, it takes a lot of effort to develop and some new designs for us to consider. → *some designs*
+30. *(Test 5 · Listening)* You know, it takes a lot of effort to develop and **some** new **designs** for us to consider.
 31. *(Test 5 · Listening – đáp án)* A worker is sealing **some packages**.
 32. *(Test 5 · Listening – đáp án)* The woman is moving **some furniture**.
 33. *(Test 5 · Listening – đáp án)* **Some vehicles** are being washed.
@@ -245,7 +245,7 @@
 36. *(Test 6 · Listening)* **Some people** think the parking garage fee know they have to pay when they exit.
 37. *(Test 6 · Listening – đáp án)* **Some candles** have been lit.
 38. *(Test 6 · Listening – đáp án)* He was meeting with **some clients**.
-39. *(Test 7 · Listening – đáp án)* Some window blinds have been raised. → *Some blinds*
+39. *(Test 7 · Listening – đáp án)* **Some** window **blinds** have been raised.
 40. *(Test 7 · Listening – đáp án)* **Some software** is slow.
 41. *(Test 7 · Listening – đáp án)* **Some cars** are crossing an intersection.
 42. *(Test 8 · Listening – đáp án)* **Some data** are incomplete.
@@ -259,7 +259,7 @@
 50. *(Test 9 · Listening – đáp án)* To pick up **some coffee**.
 51. *(Test 9 · Listening – đáp án)* **Some funding** will become available.
 52. *(Test 9 · Listening – đáp án)* **Some posters** have been distributed.
-53. *(Test 9 · Listening – đáp án)* Some technical assistance is needed. → *Some assistance*
+53. *(Test 9 · Listening – đáp án)* **Some** technical **assistance** is needed.
 54. *(Test 10 · Listening – đáp án)* **Some men** are removing a tire from a truck.
 55. *(Test 10 · Listening – đáp án)* **Some ahipa** are moving under a bridge.
 
@@ -276,37 +276,37 @@
 1. *(Test 1 · Part 5)* Analysts cannot say with **any certainty** what the regional demand for electric trucks will be.
 2. *(Test 1 · Part 6)* Please let me know if you have **any questions**.
 3. *(Test 1 · Part 6)* Please take a moment to go through it and let us know if you have **any questions**.
-4. *(Test 1 · Part 7)* However, I still do not see the information I sent about our new promotion that will begin in mid-April, a free dessert with any sandwich purchase. → *any purchase*
-5. *(Test 1 · Part 7)* They used two magnetic devices resembling lawnmowers and swept over my entire lawn to find any dropped roofing nails. → *any nails*
-6. *(Test 2 · Part 7)* With significant clearance from the ground and strong stabilization to protect from bumps, the Nibora XC-35 offers a smooth ride even on the roughest terrain and will give you the confidence to take it on any wilderness adventure. → *any adventure*
-7. *(Test 4 · Part 5)* Applicants to any open position at Allcrest Engineering can expect a response within three business days. → *any position*
-8. *(Test 4 · Part 7)* A permit will be needed for adding to or expanding the size of a building, for changing the exterior appearance of a building, or for any brand-new construction project. → *any project*
+4. *(Test 1 · Part 7)* However, I still do not see the information I sent about our new promotion that will begin in mid-April, a free dessert with **any** sandwich **purchase**.
+5. *(Test 1 · Part 7)* They used two magnetic devices resembling lawnmowers and swept over my entire lawn to find **any** dropped roofing **nails**.
+6. *(Test 2 · Part 7)* With significant clearance from the ground and strong stabilization to protect from bumps, the Nibora XC-35 offers a smooth ride even on the roughest terrain and will give you the confidence to take it on **any** wilderness **adventure**.
+7. *(Test 4 · Part 5)* Applicants to **any** open **position** at Allcrest Engineering can expect a response within three business days.
+8. *(Test 4 · Part 7)* A permit will be needed for adding to or expanding the size of a building, for changing the exterior appearance of a building, or for **any** brand-new construction **project**.
 9. *(Test 5 · Part 7)* Because we take safety seriously, we urge **any employee** who becomes aware of a breach of these protocols to contact a supervisor or the safety coordinator.
 10. *(Test 5 · Part 7)* Further, **any employee** who has concerns about these protocols or would like to propose additional measures should contact the safety coordinator directly.
-11. *(Test 5 · Part 7)* Your consultant will determine the rates for any subsequent sessions based on your needs. → *any sessions*
-12. *(Test 5 · Part 7)* Meanwhile, I have authorized Konner Services to send one of their technicians to inspect the machine and make any necessary repairs. → *any repairs*
-13. *(Test 6 · Part 5)* Handi Office Supplies' new desk organizers serve as practical and stylish additions to any office workstation. → *any workstation*
+11. *(Test 5 · Part 7)* Your consultant will determine the rates for **any** subsequent **sessions** based on your needs.
+12. *(Test 5 · Part 7)* Meanwhile, I have authorized Konner Services to send one of their technicians to inspect the machine and make **any** necessary **repairs**.
+13. *(Test 6 · Part 5)* Handi Office Supplies' new desk organizers serve as practical and stylish additions to **any** office **workstation**.
 14. *(Test 6 · Part 7)* A reader recently asked whether **any innovations** in 3-D printing are pertinent to the board game industry.
 15. *(Test 6 · Part 7)* Two teams of volunteers will work on either side of the stream to pick up **any rubbish** and clear the paths of fallen branches.
 16. *(Test 7 · Part 5)* Please familiarize yourself with the company's tuition-reimbursement policy before enrolling in **any classes**.
-17. *(Test 7 · Part 6)* If you have a Nelsign account, this contract and any other documents you have previously signed electronically with Nelsign will be saved in your profile. → *any documents*
+17. *(Test 7 · Part 6)* If you have a Nelsign account, this contract and **any** other **documents** you have previously signed electronically with Nelsign will be saved in your profile.
 18. *(Test 7 · Part 6)* For **any questions** regarding the signing process, contact our customer support center at inquiries@nelsign.com.
 19. *(Test 7 · Part 7)* Save $2.00 on the purchase of ONE box of Truli crackers (**any size**) when you buy any TWO packages of Truli cheese.
 20. *(Test 7 · Part 7)* You are even entitled to a free scoop at **any Brice**'s Ice Creamery on your birthday.
 21. *(Test 7 · Part 7)* Are you still in the office by **any chance**?
 22. *(Test 7 · Part 7)* Show or mention this advertisement to receive ten percent off the price of **any secondhand** or new bicycle.
-23. *(Test 7 · Part 7)* Upon leaving, they can discard the used bags in any nearby trash can. → *any can*
-24. *(Test 8 · Part 5)* Any remote employees wanting an additional computer monitor should ---Ms. Suzuki. → *Any employees*
+23. *(Test 7 · Part 7)* Upon leaving, they can discard the used bags in **any** nearby trash **can**.
+24. *(Test 8 · Part 5)* **Any** remote **employees** wanting an additional computer monitor should ---Ms. Suzuki.
 25. *(Test 8 · Part 6)* Please contact our admissions department at apply@mapleglen.edu if you have **any questions** regarding the MBA program requirements.
 26. *(Test 8 · Part 6)* If you have **any questions** or suggestions, please let me know by 17 September.
-27. *(Test 8 · Part 7)* Any carry-on item larger than these dimensions will be checked into the baggage hold and will incur a fee of €50. → *Any item*
+27. *(Test 8 · Part 7)* **Any** carry-on **item** larger than these dimensions will be checked into the baggage hold and will incur a fee of €50.
 28. *(Test 8 · Part 7)* They last a long time and will adhere to **any surface**.
 29. *(Test 9 · Part 5)* **Any document** marked "Confidential" must be handled and stored carefully.
-30. *(Test 9 · Part 5)* Nonprofit groups may submit up to three applications for funding consideration during any given calendar year. → *any year*
-31. *(Test 9 · Part 5)* Attach the magnetic tray to any flat steel surface for easy storage of and access to household or automotive tools. → *any surface*
+30. *(Test 9 · Part 5)* Nonprofit groups may submit up to three applications for funding consideration during **any** given calendar **year**.
+31. *(Test 9 · Part 5)* Attach the magnetic tray to **any** flat steel **surface** for easy storage of and access to household or automotive tools.
 32. *(Test 9 · Part 7)* I am sorry for **any miscommunication**.
 33. *(Test 9 · Part 7)* In **any case**, I suggest you consider moving up the date of the next in-depth inspection.
-34. *(Test 10 · Part 7)* Employees usually submit a copy of their driver’s license (front and back) or the personal information page from their passport, but any official government identification is acceptable. → *any identification*
+34. *(Test 10 · Part 7)* Employees usually submit a copy of their driver’s license (front and back) or the personal information page from their passport, but **any** official government **identification** is acceptable.
 
 **🎧 Listening**
 
@@ -331,41 +331,41 @@
 1. *(Test 1 · Part 7)* There are **several projects** ahead of yours.
 2. *(Test 1 · Part 7 – câu hỏi)* At 10:22 A.M., what does Ms. Barry most likely mean when she writes, “There are **several projects** ahead of yours”?
 3. *(Test 2 · Part 5)* After reading **several reviews**, Mr. Kim was able to decide which printer to buy for the office.
-4. *(Test 2 · Part 5)* Several Seoul-based companies have notably redesigned their workplaces to be more colorful and comfortable. → *Several companies*
-5. *(Test 2 · Part 6)* As noted during the visit, the current driveway contains several low spots where water collects during heavy rains. → *several spots*
+4. *(Test 2 · Part 5)* **Several** Seoul-based **companies** have notably redesigned their workplaces to be more colorful and comfortable.
+5. *(Test 2 · Part 6)* As noted during the visit, the current driveway contains **several** low **spots** where water collects during heavy rains.
 6. *(Test 2 · Part 7)* Among the selections, we have highlighted **several sweaters** that would look beautiful with the skirt you bought.
 7. *(Test 2 · Part 7)* Instruction is available in **several formats**.
 8. *(Test 3 · Part 5)* Abelia Dairy Company has undergone **several changes** in leadership over the past ten years.
-9. *(Test 3 · Part 7)* I would like to announce that several executive positions have been filled. → *several positions*
-10. *(Test 3 · Part 7)* Dr. Fiallo will discuss last month's unearthing of several pottery pieces in the Central Prairie region, marking the first find of its kind in this area. → *several pieces*
-11. *(Test 4 · Part 5)* Granta Hospital has added several pediatric nurses to its staff as part of its new affiliation with the Friel School of Nursing. → *several nurses*
-12. *(Test 4 · Part 7)* She has won several prestigious awards for her work. → *several awards*
+9. *(Test 3 · Part 7)* I would like to announce that **several** executive **positions** have been filled.
+10. *(Test 3 · Part 7)* Dr. Fiallo will discuss last month's unearthing of **several** pottery **pieces** in the Central Prairie region, marking the first find of its kind in this area.
+11. *(Test 4 · Part 5)* Granta Hospital has added **several** pediatric **nurses** to its staff as part of its new affiliation with the Friel School of Nursing.
+12. *(Test 4 · Part 7)* She has won **several** prestigious **awards** for her work.
 13. *(Test 4 · Part 7)* But, to confirm that we’re looking at the same material—there are **several photos** showing our desktop calendar each with the caption “The promise of a new year with a calendar from Stenmex Stationery.”
-14. *(Test 5 · Part 7)* Windsurfing, paddleboarding, and several hiking and biking trails are all a short walk from our front door. → *several trails*
+14. *(Test 5 · Part 7)* Windsurfing, paddleboarding, and **several** hiking and biking **trails** are all a short walk from our front door.
 15. *(Test 5 · Part 7)* “The position features **several duties** related to staff management.”
-16. *(Test 5 · Part 7)* I have not yet received the product, and I have already left several unanswered phone messages. → *several messages*
-17. *(Test 6 · Part 5)* The Stallmain Corporation's latest survey was intended to determine employee satisfaction in several key categories. → *several categories*
+16. *(Test 5 · Part 7)* I have not yet received the product, and I have already left **several** unanswered phone **messages**.
+17. *(Test 6 · Part 5)* The Stallmain Corporation's latest survey was intended to determine employee satisfaction in **several** key **categories**.
 18. *(Test 6 · Part 7)* Submit your home garden to be one of **several stops** on this year's Gorgeous Gardens Tour, scheduled for July 3!
-19. *(Test 7 · Part 6)* More than twenty luxury hotels can be found along Devegas Beach, along with several moderately priced hotels in the Devegas Park neighborhood. → *several hotels*
-20. *(Test 7 · Part 6)* Several inexpensive campsites and youth hostels are available throughout the year. → *Several campsites*
-21. *(Test 7 · Part 7)* I have tried several Internet boosters, but they haven't helped at all. → *several boosters*
-22. *(Test 8 · Part 5)* The Oak Hill Art Museum offers several permanent exhibits and a series of limited-time exhibits. → *several exhibits*
-23. *(Test 8 · Part 5)* Several outstanding reviews helped make the debut novel a best seller. → *Several reviews*
-24. *(Test 8 · Part 5)* As head of the Poels Museum, Mr. Ahuja oversaw the acquisition of several significant works of art. → *several works*
+19. *(Test 7 · Part 6)* More than twenty luxury hotels can be found along Devegas Beach, along with **several** moderately priced **hotels** in the Devegas Park neighborhood.
+20. *(Test 7 · Part 6)* **Several** inexpensive **campsites** and youth hostels are available throughout the year.
+21. *(Test 7 · Part 7)* I have tried **several** Internet **boosters**, but they haven't helped at all.
+22. *(Test 8 · Part 5)* The Oak Hill Art Museum offers **several** permanent **exhibits** and a series of limited-time exhibits.
+23. *(Test 8 · Part 5)* **Several** outstanding **reviews** helped make the debut novel a best seller.
+24. *(Test 8 · Part 5)* As head of the Poels Museum, Mr. Ahuja oversaw the acquisition of **several** significant **works** of art.
 25. *(Test 8 · Part 6)* As you all know, to coincide with the upcoming launch of the restaurant's new menu, we have made **several changes** to our mobile app.
 26. *(Test 8 · Part 6)* Most significantly, we have corrected **several issues** with the previous version.
-27. *(Test 8 · Part 7)* Winglite Airlines is one of several recent start-ups specialising in flying to smaller markets in Australia that are not served by the main airlines. → *several ups*
-28. *(Test 10 · Part 5)* Citing energy efficiency and cost reductions, the presenter made several convincing arguments for installing solar panels. → *several arguments*
+27. *(Test 8 · Part 7)* Winglite Airlines is one of **several** recent start-**ups** specialising in flying to smaller markets in Australia that are not served by the main airlines.
+28. *(Test 10 · Part 5)* Citing energy efficiency and cost reductions, the presenter made **several** convincing **arguments** for installing solar panels.
 29. *(Test 10 · Part 7)* There are **several benefits** of entering into a partnership with us.
 30. *(Test 10 · Part 7)* Just letting you know that I've had to close the pool **several times** because of the bad weather.
-31. *(Test 10 · Part 7)* In addition to Ms. Alonso's show, works by several local art students will be on view in MCAC's main gallery. → *several students*
+31. *(Test 10 · Part 7)* In addition to Ms. Alonso's show, works by **several** local art **students** will be on view in MCAC's main gallery.
 
 **🎧 Listening**
 
 1. *(Test 2 · Listening)* Well, a former colleague of mine has just moved has **several years** of experience.
 2. *(Test 6 · Listening)* We just received **several copies** of that, but shelves.
 3. *(Test 6 · Listening – đáp án)* **Several employees** are on vacation.
-4. *(Test 8 · Listening – đáp án)* There are several framing options. → *several options*
+4. *(Test 8 · Listening – đáp án)* There are **several** framing **options**.
 
 ---
 
@@ -423,33 +423,33 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 6)* We are also equipped to construct small ponds or other water features. → *other features*
+1. *(Test 1 · Part 6)* We are also equipped to construct small ponds or **other** water **features**.
 2. *(Test 1 · Part 7)* In **other news**, Jason Norton will transfer to our Kingston headquarters next month.
 3. *(Test 1 · Part 7)* Frozen fish and **other seafood** will be added early next year.
 4. *(Test 2 · Part 7)* As a Radial Tunes subscriber, you can access hundreds of songs, music videos, and playlists specially curated by **other users**.
 5. *(Test 2 · Part 7)* We wanted to take the opportunity to suggest some **other items** you might like.
-6. *(Test 3 · Part 7)* It also offers guided nature tours and other educational programs. → *other programs*
-7. *(Test 4 · Part 6)* I see that you host small events, and your Web site has links to local DJs, caterers, and other service providers that you recommend. → *other providers*
-8. *(Test 4 · Part 7)* “In the future, Ms. Skandar plans to feature collections from other local artists.” → *other artists*
-9. *(Test 4 · Part 7)* Hillside House is the perfect setting for weddings and other social gatherings, as well as corporate events. → *other gatherings*
+6. *(Test 3 · Part 7)* It also offers guided nature tours and **other** educational **programs**.
+7. *(Test 4 · Part 6)* I see that you host small events, and your Web site has links to local DJs, caterers, and **other** service **providers** that you recommend.
+8. *(Test 4 · Part 7)* “In the future, Ms. Skandar plans to feature collections from **other** local **artists**.”
+9. *(Test 4 · Part 7)* Hillside House is the perfect setting for weddings and **other** social **gatherings**, as well as corporate events.
 10. *(Test 5 · Part 7)* Your checking and savings accounts are now joined, enabling you to transfer money from one account to the **other online**.
 11. *(Test 6 · Part 7)* Just like Repose Lounges in **other airports**, it offers a peaceful, comfortable space where you can unwind if you have a long layover between flights, have arrived early for a flight, or are dealing with an unexpected delay.
 12. *(Test 6 · Part 7)* The society’s Web site, resources, and educational lectures have been helpful regarding my ambitious project: to cover five acres of my land with various native plants that will attract birds and **other animals**.
-13. *(Test 6 · Part 7)* However, lavender is not on the invasive-species list, and I continue to let them grow because the butterflies, bees, and other wildlife love the blooms. → *other love*
+13. *(Test 6 · Part 7)* However, lavender is not on the invasive-species list, and I continue to let them grow because the butterflies, bees, and **other** wildlife **love** the blooms.
 14. *(Test 6 · Part 7)* Terra Jaunts organizes nature hikes, farm stays, camping trips, athletic competitions, and **other activities** for company retreats.
 15. *(Test 6 · Part 7)* We are seeking farmers, ranchers, and **other landowners** who can help us expand our list of destinations.
 16. *(Test 6 · Part 7)* We appreciate your having created an illustrated list of all the native flowers and trees growing wild on your property; none of our **other hosts** offers anything like this.
-17. *(Test 6 · Part 7 – câu hỏi)* According to Mr. Jeong, what distinguishes Ms. Newsom from other property owners? → *other owners*
+17. *(Test 6 · Part 7 – câu hỏi)* According to Mr. Jeong, what distinguishes Ms. Newsom from **other** property **owners**?
 18. *(Test 7 · Part 6)* If you have a Nelsign account, this contract and any **other documents** you have previously signed electronically with Nelsign will be saved in your profile.
-19. *(Test 7 · Part 7)* This coupon may not be combined with other special offers. → *other offers*
-20. *(Test 7 · Part 7)* Unlike other company groups that organize charity fund-raisers or clean up local parks, Building Blocks asks its members to share their professional expertise with others. → *other groups*
-21. *(Test 7 · Part 7)* Participation in Building Blocks generally involves more time than what is encouraged by other volunteer groups at Milos Tek. → *other groups*
+19. *(Test 7 · Part 7)* This coupon may not be combined with **other** special **offers**.
+20. *(Test 7 · Part 7)* Unlike **other** company **groups** that organize charity fund-raisers or clean up local parks, Building Blocks asks its members to share their professional expertise with others.
+21. *(Test 7 · Part 7)* Participation in Building Blocks generally involves more time than what is encouraged by **other** volunteer **groups** at Milos Tek.
 22. *(Test 8 · Part 7)* **Other expenses** will be covered 100 percent by the city of Arlford.
-23. *(Test 8 · Part 7)* Matt Grimm and the other band members love the stickers, which are selling very well. → *other members*
+23. *(Test 8 · Part 7)* Matt Grimm and the **other** band **members** love the stickers, which are selling very well.
 24. *(Test 9 · Part 7)* Contact Ms. Shabanguo to review the flight plan and discuss **other areas** of focus along the highway.
-25. *(Test 9 · Part 7 – câu hỏi)* How does the Cirro model differ from the other new phone models? → *other models*
+25. *(Test 9 · Part 7 – câu hỏi)* How does the Cirro model differ from the **other** new phone **models**?
 26. *(Test 10 · Part 6)* In contrast, **other reviewers** argue that the series might lose its appeal with the introduction of so many new characters, resulting in a complicated and confusing plotline.
-27. *(Test 10 · Part 7)* Before leaving, each attendee received a small notebook containing the recipe we made that day as well as a few of Mr. Bernal's other favourite recipes. → *other recipes*
+27. *(Test 10 · Part 7)* Before leaving, each attendee received a small notebook containing the recipe we made that day as well as a few of Mr. Bernal's **other** favourite **recipes**.
 
 **🎧 Listening**
 
@@ -469,7 +469,7 @@
 
 1. *(Test 1 · Part 5)* The hiring manager carefully considered **each applicant**'s résumé and qualifications.
 2. *(Test 1 · Part 5)* Maswa Bistro began a cooperative agreement with local farmers to purchase a set amount of produce **each week**.
-3. *(Test 1 · Part 7)* The Food Menu page needs attractive, high-definition images along with vivid and precise text that describes each menu item in detail. → *each item*
+3. *(Test 1 · Part 7)* The Food Menu page needs attractive, high-definition images along with vivid and precise text that describes **each** menu **item** in detail.
 4. *(Test 1 · Part 7)* Normally presented **each Thursday** in June, the four free concerts will instead take place each Thursday in July.
 5. *(Test 2 · Part 5)* Safety must always be the top priority in **each step** of the glassblowing process.
 6. *(Test 3 · Part 5)* **Each department** has been asked to develop an action plan in response to the budget cuts announced last week.
@@ -479,16 +479,16 @@
 10. *(Test 5 · Part 7)* The supervisor prepares expenditure reports and time sheets as well as statistical and narrative reports related to maintenance and repair activities, being sure to record the amount of time, number of employees, and materials used for **each activity**.
 11. *(Test 6 · Part 6)* **Each department** should designate one employee to handle mail duties.
 12. *(Test 6 · Part 6)* Mail will be available for pickup by 10:00 A.M. **each morning**.
-13. *(Test 6 · Part 7)* Admission to the fields is $2.00 per person, with a cost of $2.50 for each half liter of berries picked. → *each liter*
+13. *(Test 6 · Part 7)* Admission to the fields is $2.00 per person, with a cost of $2.50 for **each** half **liter** of berries picked.
 14. *(Test 7 · Part 6)* **Each Friday** from 6 to 10 P.M., Chez Tournoi welcomes you to its 44 Broad Avenue, Kingston, location for some fun and laughter.
 15. *(Test 7 · Part 7)* While **each seminar** is typically one hour long, planning and preparation are also part of our activities.
 16. *(Test 7 · Part 7)* Those who choose to volunteer with us can expect to dedicate about two hours **each week** to our work.
 17. *(Test 7 · Part 7)* **Each bicycle** has been refurbished by a certified technician to ensure a smooth, safe ride.
 18. *(Test 7 · Part 7)* The new aircraft have only two seats on **each side** of the aisle, so everyone gets an aisle or window seat.
-19. *(Test 8 · Part 7)* Each prize winner will receive a gift card for a meal at Sondra's Grill. → *Each winner*
+19. *(Test 8 · Part 7)* **Each** prize **winner** will receive a gift card for a meal at Sondra's Grill.
 20. *(Test 9 · Part 6)* They are what makes **each piece** unique.
 21. *(Test 9 · Part 7)* Your final paragraph is an ideal place for this information, as you can create a separate version of this paragraph for **each position** you apply for.
-22. *(Test 9 · Part 7)* Prices for each special service vary based on the size of the space. → *each service*
+22. *(Test 9 · Part 7)* Prices for **each** special **service** vary based on the size of the space.
 23. *(Test 10 · Part 7)* Participants learn to prepare a different dish **each week**.
 24. *(Test 10 · Part 7)* The fee for **each class** is $55.00.
 25. *(Test 10 · Part 7)* Before leaving, **each attendee** received a small notebook containing the recipe we made that day as well as a few of Mr. Bernal's other favourite recipes.
@@ -514,27 +514,27 @@
 3. *(Test 1 · Part 7)* Do you have enough materials on hand for that **many participants**?
 4. *(Test 2 · Part 6)* **Many brands** of hand soap contain unnecessary chemicals.
 5. *(Test 2 · Part 7)* And, to thank you for being a Honey Canyon customer for so **many years**, we are also offering you a 20 percent discount on your next order.
-6. *(Test 3 · Part 5)* While the hotel does not have a restaurant on site, there are many dining options nearby. → *many options*
-7. *(Test 4 · Part 7)* Many local artists plan to donate pieces for our auction, and as always, we encourage all amateur artists in our firm to donate work as well. → *Many artists*
+6. *(Test 3 · Part 5)* While the hotel does not have a restaurant on site, there are **many** dining **options** nearby.
+7. *(Test 4 · Part 7)* **Many** local **artists** plan to donate pieces for our auction, and as always, we encourage all amateur artists in our firm to donate work as well.
 8. *(Test 5 · Part 5)* **Many farmers** markets operate on a seasonal basis, opening in spring and closing in late autumn.
 9. *(Test 7 · Part 7)* Because we have **many visitors**, we purchased the PUW machine with two devices and ordered it in stainless steel to match our modern-looking lobby.
 10. *(Test 8 · Part 5)* Advancements in cloud computing have transformed the gaming industry in **many ways**.
-11. *(Test 8 · Part 5)* Customer loyalty programs are profitable for many retail businesses. → *many businesses*
+11. *(Test 8 · Part 5)* Customer loyalty programs are profitable for **many** retail **businesses**.
 12. *(Test 8 · Part 7)* We've seen **many people** work from a virtual beach, but how about from a famous World Heritage site or an extraterrestrial universe?
-13. *(Test 8 · Part 7)* I have many happy memories of good times there. → *many memories*
-14. *(Test 9 · Part 6)* Our products are carried by furniture retailers in many urban centers around the country. → *many centers*
+13. *(Test 8 · Part 7)* I have **many** happy **memories** of good times there.
+14. *(Test 9 · Part 6)* Our products are carried by furniture retailers in **many** urban **centers** around the country.
 15. *(Test 10 · Part 5)* Despite the fact that the use of social media is widespread, **many people** still rely on newspapers for fact-checked information.
-16. *(Test 10 · Part 6)* In contrast, other reviewers argue that the series might lose its appeal with the introduction of so many new characters, resulting in a complicated and confusing plotline. → *many characters*
-17. *(Test 10 · Part 7)* Many well-known businesses use Exelrate's services to obtain an accurate understanding of their customers' experiences. → *Many businesses*
-18. *(Test 10 · Part 7)* Every Monday evening from 7:00 P.M. to 8:30 P.M. we turn our kitchen over to a guest chef from one of Richmond's many fine restaurants. → *many restaurants*
+16. *(Test 10 · Part 6)* In contrast, other reviewers argue that the series might lose its appeal with the introduction of so **many** new **characters**, resulting in a complicated and confusing plotline.
+17. *(Test 10 · Part 7)* **Many** well-known **businesses** use Exelrate's services to obtain an accurate understanding of their customers' experiences.
+18. *(Test 10 · Part 7)* Every Monday evening from 7:00 P.M. to 8:30 P.M. we turn our kitchen over to a guest chef from one of Richmond's **many** fine **restaurants**.
 
 **🎧 Listening**
 
-1. *(Test 1 · Listening)* You have so many delicious baked goods here. → *many goods*
+1. *(Test 1 · Listening)* You have so **many** delicious baked **goods** here.
 2. *(Test 1 · Listening – đáp án)* It has won **many awards**.
 3. *(Test 4 · Listening)* We sold 2,000 tickets last year, but we had three sell as **many tickets** this year.
 4. *(Test 5 · Listening)* On top of this, the interior decoration browse upcoming shows, and plan your visit, go to **many shows** are already sold out!
-5. *(Test 5 · Listening – đáp án)* There are so many good options. → *many options*
+5. *(Test 5 · Listening – đáp án)* There are so **many** good **options**.
 6. *(Test 8 · Listening)* How **many books** are in this mystery series?
 7. *(Test 8 · Listening – đáp án)* It is available in **many sizes**.
 
@@ -548,17 +548,17 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 5)* With its fixed price assurance, Omega Cellular guarantees no phone bill increases for three years. → *no bill*
-2. *(Test 1 · Part 7)* We will then change your order, refund $200 to your credit card, and ship your new telescope overnight at no extra charge. → *no charge*
-3. *(Test 2 · Part 5)* At Blu Hedge, clients receive 1 percent interest, pay no account fees, and can make unlimited transfers. → *no fees*
-4. *(Test 2 · Part 6)* For those who prefer a soap with no added artificial substances, Teksheen Supply's natural hand soap is the ideal choice. → *no substances*
+1. *(Test 1 · Part 5)* With its fixed price assurance, Omega Cellular guarantees **no** phone **bill** increases for three years.
+2. *(Test 1 · Part 7)* We will then change your order, refund $200 to your credit card, and ship your new telescope overnight at **no** extra **charge**.
+3. *(Test 2 · Part 5)* At Blu Hedge, clients receive 1 percent interest, pay **no** account **fees**, and can make unlimited transfers.
+4. *(Test 2 · Part 6)* For those who prefer a soap with **no** added artificial **substances**, Teksheen Supply's natural hand soap is the ideal choice.
 5. *(Test 2 · Part 7)* **No options** are coming up for the Dalton light-rail station, which you specifically mention as the station where hotel guests should disembark.
 6. *(Test 2 · Part 7)* Keep in mind that there are **no restaurants** near the hotel, but there is a small grocery store around the corner.
 7. *(Test 3 · Part 5)* The report found that employees who take regular breaks are more productive than those who take **no breaks**.
 8. *(Test 3 · Part 7)* I searched online and inquired at local shops, but **no one** had quite what I wanted.
-9. *(Test 3 · Part 7)* Eric Kim says that he has no critical new information to share with you at his 2:00 P.M. meeting with you on Friday, so I can postpone that. → *no information*
+9. *(Test 3 · Part 7)* Eric Kim says that he has **no** critical new **information** to share with you at his 2:00 P.M. meeting with you on Friday, so I can postpone that.
 10. *(Test 4 · Part 6)* You will get your first hour of parking at **no charge**.
-11. *(Test 4 · Part 7)* No city permit is required for work on a building's interior systems, such as plumbing, electrical, or heating and cooling. → *No permit*
+11. *(Test 4 · Part 7)* **No** city **permit** is required for work on a building's interior systems, such as plumbing, electrical, or heating and cooling.
 12. *(Test 5 · Part 7)* Except for the assistance with tax paperwork, these offerings are provided at **no expense** to BASA holders.
 13. *(Test 5 · Part 7)* Finally, our recently launched online stock-trading platform, available to you at **no charge**, is excellent for allowing investors to manage their finances at their own pace.
 14. *(Test 6 · Part 7)* May: Pollen Transportation – **No butterflies** or bees visiting your garden?
@@ -567,9 +567,9 @@
 17. *(Test 8 · Part 7)* The first project is the construction of a new commercial area at the south end of town, since the downtown commercial district has **no room** to expand.
 18. *(Test 8 · Part 7)* Ms. Mackay is known for giving balanced, objective views of her numerous biographical subjects, and A Life in the Spotlight is **no exception**.
 19. *(Test 9 · Part 6)* The purchase comes as **no surprise** to shoe industry insiders, who have speculated for some time about Shipley's financial challenges.
-20. *(Test 9 · Part 7)* Though there is no set length for personal statements, employers sometimes offer guidelines. → *no length*
-21. *(Test 9 · Part 7)* These services require no long-term contract and are priced affordably. → *no contract*
-22. *(Test 9 · Part 7)* Notes: No special effects or extra editing is wanted. → *No effects*
+20. *(Test 9 · Part 7)* Though there is **no** set **length** for personal statements, employers sometimes offer guidelines.
+21. *(Test 9 · Part 7)* These services require **no** long-term **contract** and are priced affordably.
+22. *(Test 9 · Part 7)* Notes: **No** special **effects** or extra editing is wanted.
 23. *(Test 10 · Part 7)* But **no one** has been here since 2:30.
 
 **🎧 Listening**
@@ -586,13 +586,13 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 6)* We are not planning to begin work for another two weeks. → *another weeks*
+1. *(Test 1 · Part 6)* We are not planning to begin work for **another** two **weeks**.
 2. *(Test 1 · Part 7)* We realize that trying to find **another place** to park is inconvenient, but it is necessary for the job to be completed in the two days scheduled.
 3. *(Test 1 · Part 7)* If you would prefer not to wait, we have a similar telescope made by **another manufacturer**, Belter Telescopes.
 4. *(Test 3 · Part 7)* One day was not enough to see everything, so I'm already planning **another trip** for later in the summer.
 5. *(Test 4 · Part 7)* I am planning to contribute a piece of art again this year, but I've noticed its subject is very similar to that of **another piece** listed in your e-mail attachment.
 6. *(Test 5 · Part 7)* Now that the business is doing well, he is exploring opening **another store**.
-7. *(Test 7 · Part 5)* Another convenient option for getting to the airport will be available once the subway station at the international terminal is completed. → *Another option*
+7. *(Test 7 · Part 5)* **Another** convenient **option** for getting to the airport will be available once the subway station at the international terminal is completed.
 8. *(Test 8 · Part 7)* Once the trivia competition has finished, we will keep the Z-Hype room open for **another hour** so that employees can mingle.
 9. *(Test 8 · Part 7)* Chief among these is the construction of **another lane** on Aviation Boulevard to accommodate the expected increase in airport traffic.
 10. *(Test 9 · Part 7)* **Another advancement** is in the batteries: the latest phones have a longer battery life and charge faster.
@@ -604,7 +604,7 @@
 1. *(Test 2 · Listening – đáp án)* He accepted **another position**.
 2. *(Test 5 · Listening – đáp án)* It merged with **another business**.
 3. *(Test 6 · Listening – đáp án)* She is busy with **another task**.
-4. *(Test 7 · Listening)* Visit another country marketing convention in June. → *another convention*
+4. *(Test 7 · Listening)* Visit **another** country marketing **convention** in June.
 5. *(Test 7 · Listening – đáp án)* A team is starting **another project**.
 6. *(Test 10 · Listening – đáp án)* It merged with **another company**.
 
@@ -629,7 +629,7 @@
 9. *(Test 7 · Part 7)* We are known for our stock of high-end racing bicycles, but for a limited time **every year**, we offer a wide selection of secondhand mountain, road, and hybrid bicycles for all ages and abilities.
 10. *(Test 9 · Part 7)* The director’s persistent efforts helped to determine the priorities for the project. “**Every week** in the museum lobby, I interview patrons and record their opinions,” said Ms. Wert.
 11. *(Test 10 · Part 7)* Since KMC opened its doors, we have set high patient care standards and strive to maintain this goal **every year**.
-12. *(Test 10 · Part 7)* Every Monday evening from 7:00 P.M. to 8:30 P.M. we turn our kitchen over to a guest chef from one of Richmond's many fine restaurants. → *Every evening*
+12. *(Test 10 · Part 7)* **Every** Monday **evening** from 7:00 P.M. to 8:30 P.M. we turn our kitchen over to a guest chef from one of Richmond's many fine restaurants.
 13. *(Test 10 · Part 7)* We made **every component** of the tacos from scratch, including the corn tortillas, grilled tilapia, and tomatillo salsa.
 
 **🎧 Listening**
@@ -706,13 +706,13 @@
 5. *(Test 1 · Part 7)* They used two magnetic devices resembling lawnmowers and swept over my **entire lawn** to find any dropped roofing nails.
 6. *(Test 1 · Part 7)* As long as you send your approval of all covers by June 11, we will be able to ship your **entire order** of bound notebooks before July 20.
 7. *(Test 2 · Part 7)* However, I’m hoping that we could have a brief tour of the **whole museum** before we begin our work.
-8. *(Test 7 · Part 7)* Perhaps we need to rethink our entire hub system. → *entire system*
+8. *(Test 7 · Part 7)* Perhaps we need to rethink our **entire** hub **system**.
 9. *(Test 9 · Part 7)* Luckily, another customer had canceled a cleaning an hour or so before my call, but otherwise, Superra was booked up for the **entire week**.
 10. *(Test 9 · Part 7)* The client requests a drone flight over the **entire length** of the highway demonstrating the scale of the project, hovering over the section currently under construction, and zooming in to capture action shots of the work.
 
 **🎧 Listening**
 
-1. *(Test 4 · Listening)* Contrary to popular belief, 57 television is definitely not the entire advertising landscape. → *entire landscape*
+1. *(Test 4 · Listening)* Contrary to popular belief, 57 television is definitely not the **entire** advertising **landscape**.
 
 ---
 
@@ -816,11 +816,11 @@
 **📖 Reading**
 
 1. *(Test 1 · Part 6)* As a reminder, you can log in to the portal for **various activities**.
-2. *(Test 3 · Part 5)* The Seaborne Inn has various beautiful guest rooms that can be booked on a monthly basis. → *various rooms*
-3. *(Test 6 · Part 7)* The society’s Web site, resources, and educational lectures have been helpful regarding my ambitious project: to cover five acres of my land with various native plants that will attract birds and other animals. → *various plants*
+2. *(Test 3 · Part 5)* The Seaborne Inn has **various** beautiful guest **rooms** that can be booked on a monthly basis.
+3. *(Test 6 · Part 7)* The society’s Web site, resources, and educational lectures have been helpful regarding my ambitious project: to cover five acres of my land with **various** native **plants** that will attract birds and other animals.
 4. *(Test 7 · Part 7)* We offer free seminars on management, public relations, grant writing, and **various types** of application software to nonprofit organizations in Lalortown.
-5. *(Test 9 · Part 5)* In addition to fresh fruit and vegetables, vendors at the Wattville Farm Market also sell various handmade goods. → *various goods*
-6. *(Test 9 · Part 7)* According to RHM director Ann Wert, interactive technology allows exhibits to present information and engage users through various audio and visual media. → *various media*
+5. *(Test 9 · Part 5)* In addition to fresh fruit and vegetables, vendors at the Wattville Farm Market also sell **various** handmade **goods**.
+6. *(Test 9 · Part 7)* According to RHM director Ann Wert, interactive technology allows exhibits to present information and engage users through **various** audio and visual **media**.
 7. *(Test 9 · Part 7)* This will allow him to learn more about the **various departments** he will eventually be interacting with.
 
 ---
@@ -887,10 +887,10 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 7)* Online forms with fields to fill out, such as reservation requests for special events or services, give new visitors too much visual information. → *much information*
+1. *(Test 1 · Part 7)* Online forms with fields to fill out, such as reservation requests for special events or services, give new visitors too **much** visual **information**.
 2. *(Test 1 · Part 7)* Please take a few minutes to complete the form with as **much detail** as possible.
 3. *(Test 4 · Part 7)* Snowpack data is used to measure year-to-year snow trends and fluctuations as well as to help determine how **much water** from snowmelt will be available in key areas of the country.
-4. *(Test 8 · Part 7 – câu hỏi)* How much does a sticker that features a vehicle cost? → *much sticker*
+4. *(Test 8 · Part 7 – câu hỏi)* How **much** does a **sticker** that features a vehicle cost?
 
 ---
 
@@ -939,8 +939,8 @@
 **📖 Reading**
 
 1. *(Test 3 · Part 7)* That is where the hit musical Skyscraping is now playing to packed houses **most nights**.
-2. *(Test 5 · Part 5)* The sudden merger of Alvy Brothers and Craford Enterprises surprised most financial analysts. → *most analysts*
-3. *(Test 7 · Part 7)* The seats are also more comfortable than most airplane seats. → *most seats*
+2. *(Test 5 · Part 5)* The sudden merger of Alvy Brothers and Craford Enterprises surprised **most** financial **analysts**.
+3. *(Test 7 · Part 7)* The seats are also more comfortable than **most** airplane **seats**.
 4. *(Test 8 · Part 7)* They received the **most comments** on the group collage.
 
 ---
@@ -971,7 +971,7 @@
 1. *(Test 6 · Part 6)* The course must be completed within a **half hour**.
 2. *(Test 6 · Part 7)* Admission to the fields is $2.00 per person, with a cost of $2.50 for each **half liter** of berries picked.
 3. *(Test 6 · Part 7)* To celebrate the grand opening at QRN Airport, we are offering Repose Lounge passes at **half price** between March 15 and March 30.
-4. *(Test 8 · Part 7)* I will be in Arlford only half the time and will stay in a hotel near my destination airport for the rest of the week. → *half time*
+4. *(Test 8 · Part 7)* I will be in Arlford only **half** the **time** and will stay in a hotel near my destination airport for the rest of the week.
 
 ---
 
@@ -1001,7 +1001,7 @@
 **📖 Reading**
 
 1. *(Test 1 · Part 7)* Remember that your photos should be **big enough** to look appealing on larger computer monitors.
-2. *(Test 4 · Part 7)* Everyone agrees that the photos and the accompanying content do not seem to market the calendars strongly enough. → *market enough*
+2. *(Test 4 · Part 7)* Everyone agrees that the photos and the accompanying content do not seem to **market** the calendars strongly **enough**.
 
 **🎧 Listening**
 
@@ -1130,7 +1130,7 @@
 **📖 Reading**
 
 1. *(Test 4 · Part 7)* "In her three-decades-long design career, Ms. Masondo has designed **numerous products** that reflect inclusiveness and self-sufficiency.
-2. *(Test 8 · Part 7)* Ms. Mackay is known for giving balanced, objective views of her numerous biographical subjects, and A Life in the Spotlight is no exception. → *numerous subjects*
+2. *(Test 8 · Part 7)* Ms. Mackay is known for giving balanced, objective views of her **numerous** biographical **subjects**, and A Life in the Spotlight is no exception.
 
 ---
 
@@ -1181,7 +1181,7 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 5)* The newspaper article describes ways job seekers can compensate for having little workplace experience. → *little experience*
+1. *(Test 1 · Part 5)* The newspaper article describes ways job seekers can compensate for having **little** workplace **experience**.
 
 ---
 
@@ -1301,7 +1301,7 @@
 
 **📖 Reading**
 
-1. *(Test 7 · Part 7)* Every 100 points you earn can be redeemed for $5.00 off your purchase of ice cream or store merchandise, including T-shirts and tote bags. → *Every points*
+1. *(Test 7 · Part 7)* **Every** 100 **points** you earn can be redeemed for $5.00 off your purchase of ice cream or store merchandise, including T-shirts and tote bags.
 
 ---
 
@@ -1313,7 +1313,7 @@
 
 **🎧 Listening**
 
-1. *(Test 7 · Listening)* As you may know, several the world. → *several world*
+1. *(Test 7 · Listening)* As you may know, **several** the **world**.
 
 ---
 

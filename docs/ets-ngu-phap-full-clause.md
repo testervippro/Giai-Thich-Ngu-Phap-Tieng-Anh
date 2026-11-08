@@ -66,8 +66,8 @@
 1. *(Test 1 · Part 7)* We realize that trying to find another place to park is inconvenient, but it is necessary for the job to be completed in the two **days scheduled**.
 2. *(Test 1 · Part 7)* If you would prefer not to wait, we have a similar **telescope made** by another manufacturer, Belter Telescopes.
 3. *(Test 1 · Part 7)* Karning Creative Designs began ten years ago as a two-person **operation set** up in the home of our current CEO and founder Shirin Navani.
-4. *(Test 1 · Part 7)* A significant amount of work needed to be done in the kitchen and dining areas. → *amount needed*
-5. *(Test 1 · Part 7)* We're contacting you about your data request for the e-mail addresses of all account holders, sorted by age. → *addresses sorted*
+4. *(Test 1 · Part 7)* A significant **amount** of work **needed** to be done in the kitchen and dining areas.
+5. *(Test 1 · Part 7)* We're contacting you about your data request for the e-mail **addresses** of all account holders, **sorted** by age.
 6. *(Test 1 · Part 7)* I want to e-mail account **holders aged** 55 to 65 to invite them to meet with a retirement planning expert.
 7. *(Test 1 · Part 7)* Within three years, we expect to have geothermal **wells installed** and operational for the heating and cooling of our entire campus.
 8. *(Test 1 · Part 7)* Remember, all **roofs installed** by Lawal have a 25-year warranty.
@@ -80,7 +80,7 @@
 15. *(Test 2 · Part 6)* Do you operate a business and want a safe and effective hand **soap manufactured** through sustainable processes?
 16. *(Test 2 · Part 6)* If so, you may purchase this All the ingredients are sourced from **plants found** in the wild in bulk at discounted prices.
 17. *(Test 2 · Part 6)* She offered an unusual menu of local **dishes prepared** with less familiar ingredients, all in a beautiful setting.
-18. *(Test 2 · Part 7)* As a Radial Tunes subscriber, you can access hundreds of songs, music videos, and playlists specially curated by other users. → *playlists curated*
+18. *(Test 2 · Part 7)* As a Radial Tunes subscriber, you can access hundreds of songs, music videos, and **playlists** specially **curated** by other users.
 19. *(Test 2 · Part 7)* CVT Direct is an Australian trade **magazine published** by Lorne Transportation, the largest freight vehicle corporation in the country.
 20. *(Test 2 · Part 7)* You will surely join our list of satisfied customers once you see the **work done** by our team of expert installers.
 21. *(Test 2 · Part 7)* I need four panels, 117 cm x 228 cm each, made in your box pleat style. → *panels made*
@@ -97,16 +97,16 @@
 32. *(Test 3 · Part 7)* FGS volunteers will do the planting after parks department crews have laid fresh topsoil on the **area designated** for the garden.
 33. *(Test 3 · Part 7)* All our bicycles are made by hand in our production facility in Kuala Lumpur with **parts made** by local craftspeople.
 34. *(Test 3 · Part 7)* Currently, we are expecting a delivery time of 10 to 12 weeks for all **bicycles ordered** on or after August 15.
-35. *(Test 3 · Part 7)* The lecture, titled “Earthenware Relics from the Central Prairie,” will take place at 7:00 P.M. in the Chovey Community Room near the north entrance of the museum. → *lecture titled*
+35. *(Test 3 · Part 7)* The **lecture**, **titled** “Earthenware Relics from the Central Prairie,” will take place at 7:00 P.M. in the Chovey Community Room near the north entrance of the museum.
 36. *(Test 3 · Part 7)* They were especially impressed by the stone **tools included** among the items.
-37. *(Test 4 · Part 5)* Mr. Hanley expressed interest in the position previously held by Ms. Akello. → *position held*
+37. *(Test 4 · Part 5)* Mr. Hanley expressed interest in the **position** previously **held** by Ms. Akello.
 38. *(Test 4 · Part 5)* The **images displayed** on our gallery's Web site may not reflect the exact colors of the artwork for sale.
 39. *(Test 4 · Part 6)* Vietnamese cuisine and some innovative **dishes developed** by Chef Hoang.
 40. *(Test 4 · Part 6)* The talented comedian Maddy Chang will perform a one-person **show based** on her memoir, That's All I Wanted.
-41. *(Test 4 · Part 6)* Chang's book, filled with funny and engaging characters is brought to life through this performance. → *book filled*
-42. *(Test 4 · Part 7)* Most recently, Ms. Masondo headed the materials development division at Deavora Dynamix, based in Durban. → *Dynamix based*
+41. *(Test 4 · Part 6)* Chang's **book**, **filled** with funny and engaging characters is brought to life through this performance.
+42. *(Test 4 · Part 7)* Most recently, Ms. Masondo headed the materials development division at Deavora **Dynamix**, **based** in Durban.
 43. *(Test 4 · Part 7)* The boots arrived yesterday, but unfortunately, their actual colour is different from the **colour pictured** on your Web site.
-44. *(Test 4 · Part 7)* The Hale City Parks Department's inaugural Trail Cleanup Day, held on August 8, was a great success. → *Day held*
+44. *(Test 4 · Part 7)* The Hale City Parks Department's inaugural Trail Cleanup **Day**, **held** on August 8, was a great success.
 45. *(Test 4 · Part 7)* I am planning to contribute a piece of art again this year, but I've noticed its subject is very similar to that of another **piece listed** in your e-mail attachment.
 46. *(Test 5 · Part 7)* Certain jobs require employees to follow the additional safety **guidelines provided** by their supervisors.
 47. *(Test 5 · Part 7)* The highway supervisor oversees all **tasks related** to the construction and maintenance of road-related structures throughout Dora County, including creating work objectives for all emergency program activities.
@@ -115,27 +115,27 @@
 50. *(Test 5 · Part 7)* “The position features several **duties related** to staff management.”
 51. *(Test 5 · Part 7)* Your consultant will determine the rates for any subsequent **sessions based** on your needs.
 52. *(Test 5 · Part 7)* Sonfaya Mutual's BASA has an annual percentage yield of 2.2 percent, which is 1.6 percent higher than the yield of the business savings **account offered** by its nearest competitor.
-53. *(Test 5 · Part 7 – câu hỏi)* For whom is the advertisement most likely intended? → *advertisement intended*
+53. *(Test 5 · Part 7 – câu hỏi)* For whom is the **advertisement** most likely **intended**?
 54. *(Test 6 · Part 5)* The award-winning **stationery created** by the artists at Paperi Designs is of exceptional quality.
 55. *(Test 6 · Part 5)* Commercial property insurance covers the **expenses associated** with repairing or rebuilding a business property after certain events.
 56. *(Test 6 · Part 7)* Admission to the fields is $2.00 per person, with a cost of $2.50 for each half liter of berries picked. → *cost picked*
-57. *(Test 6 · Part 7)* The price increases are driven by reduced supply in countries that produce the metal, coupled with increasing worldwide demand for and manufacturing of electronics, whose components are joined together with tin compounds. → *metal coupled*
+57. *(Test 6 · Part 7)* The price increases are driven by reduced supply in countries that produce the **metal**, **coupled** with increasing worldwide demand for and manufacturing of electronics, whose components are joined together with tin compounds.
 58. *(Test 6 · Part 7)* The crew members quickly addressed all issues, replacing smoke detectors, changing filters in my furnace, and weatherproofing windows before the cold **season set** in.
-59. *(Test 6 · Part 7)* Submit your home garden to be one of several stops on this year's Gorgeous Gardens Tour, scheduled for July 3! → *Tour scheduled*
+59. *(Test 6 · Part 7)* Submit your home garden to be one of several stops on this year's Gorgeous Gardens **Tour**, **scheduled** for July 3!
 60. *(Test 6 · Part 7)* This year's tour theme is Winged Paradise, with a focus on flowering **plants favored** by regional birds and butterflies, including the lesser goldfinch and the ringlet butterfly.
-61. *(Test 6 · Part 7)* The leaders and members of the Alamito Botanical Society cordially invite the public to attend its educational lectures, held at the horticultural department of Marfa Community College. → *lectures held*
+61. *(Test 6 · Part 7)* The leaders and members of the Alamito Botanical Society cordially invite the public to attend its educational **lectures**, **held** at the horticultural department of Marfa Community College.
 62. *(Test 6 · Part 7)* Your list of plants would be a real asset for **groups engaged** in activities involving the identification of species.
-63. *(Test 6 · Part 7 – câu hỏi)* The word "driven" in paragraph 1, line 5, is closest in meaning to → *word driven*
-64. *(Test 7 · Part 5)* Dumbbells, also known as free weights, are useful for keeping fit at home. → *Dumbbells known*
+63. *(Test 6 · Part 7 – câu hỏi)* The **word** "**driven**" in paragraph 1, line 5, is closest in meaning to
+64. *(Test 7 · Part 5)* **Dumbbells**, also **known** as free weights, are useful for keeping fit at home.
 65. *(Test 7 · Part 6)* can be, it will be In **addition listed** as a rental available to a new tenant on April 1.
-66. *(Test 7 · Part 7)* If you love the delicious cheese and crackers served at Truli Cafés, you can now enjoy this popular snack at home! → *cheese served*
+66. *(Test 7 · Part 7)* If you love the delicious **cheese** and crackers **served** at Truli Cafés, you can now enjoy this popular snack at home!
 67. *(Test 7 · Part 7)* As the facilities manager of a medium-sized office building, I often have to deal with the inconvenience of wet **floors caused** by visitors entering with umbrellas.
-68. *(Test 7 · Part 7 – câu hỏi)* For whom is the information most likely intended? → *information intended*
+68. *(Test 7 · Part 7 – câu hỏi)* For whom is the **information** most likely **intended**?
 69. *(Test 7 · Part 7 – câu hỏi)* What is the main **activity performed** by Building Blocks?
 70. *(Test 8 · Part 5)* In order to access the building, enter the **code listed** on the tenant directory.
 71. *(Test 8 · Part 7)* To foster company-wide collaboration, **employees based** in the London and Glasgow offices will sign into the Z-Hype room from their homes and be combined into virtual teams for this friendly competition.
 72. *(Test 8 · Part 7)* The council approved a resolution to earmark $1.5 million for **costs related** to establishing Winglite Airlines service at the Arlford Regional Airport.
-73. *(Test 8 · Part 7 – câu hỏi)* In the review, the word "situated" in paragraph 3, line 2, is closest in meaning to → *word situated*
+73. *(Test 8 · Part 7 – câu hỏi)* In the review, the **word** "**situated**" in paragraph 3, line 2, is closest in meaning to
 74. *(Test 8 · Part 7 – câu hỏi)* What is suggested in the first e-mail about **products made** by Stickers Be Yours?
 75. *(Test 8 · Part 7 – câu hỏi)* What is indicated about the **sticker ordered** by Ms. Bledstone?
 76. *(Test 9 · Part 5)* Once considered a specialty product, **shoes made** from recycled materials are now widely available.
@@ -144,17 +144,17 @@
 79. *(Test 9 · Part 7)* Consumers can get a glimpse of the phones in a promotional **video posted** on the company's Web site at www.teleteknic.com.au, or they can see the models in person at next month's technical trade show.
 80. *(Test 9 · Part 7)* The enhanced **exhibitions opened** on Monday, one week before the scheduled completion date.
 81. *(Test 9 · Part 7)* In addition to the picture books he has outgrown, I also have some newer science fiction paperbacks in good condition, two first-edition classic **novels inherited** from my great-grandmother, and three cookbooks filled with recipes submitted by members of a charity I run.
-82. *(Test 9 · Part 7 – câu hỏi)* For whom are the instructions most likely intended? → *instructions intended*
+82. *(Test 9 · Part 7 – câu hỏi)* For whom are the **instructions** most likely **intended**?
 83. *(Test 9 · Part 7 – câu hỏi)* What **items offered** by Mr. Townsend will Beachside Used Books most likely accept?
 84. *(Test 10 · Part 5)* Pet Orbit customers who want **receipts delivered** by e-mail can opt for this service.
-85. *(Test 10 · Part 7)* WESTERN AUSTRALIA (21 June)—On 19 June, Western Australia's Karinya Medical Centre (KMC) was awarded the Valorcare Foundation's Stellar Service Merit, regarded as one of the highest honours an Australian hospital can receive. → *Merit regarded*
-86. *(Test 10 · Part 7)* Dr. Linh Nguyen, who became CEO of KMC last March, said, "We are extremely proud that KMC is among the seven hospitals in the country recognised by the Valorcare Foundation. → *hospitals recognised*
+85. *(Test 10 · Part 7)* WESTERN AUSTRALIA (21 June)—On 19 June, Western Australia's Karinya Medical Centre (KMC) was awarded the Valorcare Foundation's Stellar Service **Merit**, **regarded** as one of the highest honours an Australian hospital can receive.
+86. *(Test 10 · Part 7)* Dr. Linh Nguyen, who became CEO of KMC last March, said, "We are extremely proud that KMC is among the seven **hospitals** in the country **recognised** by the Valorcare Foundation.
 87. *(Test 10 · Part 7)* For the exhibition, Ms. Alonso has created a life-size imitation of commercial offices, with cubicles and **partitions made** from recovered materials.
 88. *(Test 10 · Part 7)* Guests who attend the art show will have the opportunity to bring in their own recyclable plastic items and place them in large collection **bags set** up around the perimeter of the exhibition room.
 89. *(Test 10 · Part 7)* On the exhibition's final day, the works will be dismantled, and all the recyclable materials, including the **items brought** by visitors, will be transported to a Flyner Industries facility, where they will be shredded and transformed into material for waterproof curtains.
 90. *(Test 10 · Part 7 – câu hỏi)* What do **boxes marked** with a red X indicate?
 91. *(Test 10 · Part 7 – câu hỏi)* Where was Ms. Akdemir's **supervisor based** in July?
-92. *(Test 10 · Part 7 – câu hỏi)* For whom is the notice most likely intended? → *notice intended*
+92. *(Test 10 · Part 7 – câu hỏi)* For whom is the **notice** most likely **intended**?
 
 **🎧 Listening**
 
@@ -183,18 +183,18 @@
 2. *(Test 1 · Part 7)* **Note that all parking spaces** will be widened, and some spaces could be moved during the work.
 3. *(Test 1 · Part 7)* Christine Lafferty **said that she and her** childhood friend Morgan Flanagan spent plenty of time at the theater while growing up.
 4. *(Test 1 · Part 7)* “Frozen foods are not a new concept, but our method of flash-freezing fresh produce and meats **ensures that our products retain** their texture and flavour as well as their healthy vitamins and minerals.
-5. *(Test 1 · Part 7)* But in fact, by the very nature of their business, it is crucial that food truck owners have a fixed place for the public to learn about them, order from them, contact them, etc. → *is that food truck owners*
+5. *(Test 1 · Part 7)* But in fact, by the very nature of their business, it **is** crucial **that food truck owners** have a fixed place for the public to learn about them, order from them, contact them, etc.
 6. *(Test 1 · Part 7)* Furthermore, market research **shows that a Web site** can help build a loyal customer base.
 7. *(Test 1 · Part 7)* **Remember that your photos should** be big enough to look appealing on larger computer monitors.
 8. *(Test 1 · Part 7)* I just wanted to **reiterate that it has gotten** positive feedback from customers who have tested it.
 9. *(Test 1 · Part 7)* It was announced in last month's Daily Gazette that Rilamore University is moving forward with its Net Zero Initiative. → *announced that Rilamore University is*
 10. *(Test 2 · Part 5)* Ms. Clayton was relieved to **find that none of her** files had been lost during the power failure.
 11. *(Test 2 · Part 5)* While we typically charge $25 for missed appointments, we **understand that unforeseen circumstances may** arise.
-12. *(Test 2 · Part 7)* We can assure you that Gernack Home installs only products of the highest quality. → *assure that Gernack Home installs*
+12. *(Test 2 · Part 7)* We can **assure** you **that Gernack Home installs** only products of the highest quality.
 13. *(Test 2 · Part 7)* I **understand that they come in** shades of green.
-14. *(Test 2 · Part 7)* One of my colleagues told me that the Delta City Art Museum provides tours for local art students. → *told that the Delta City*
+14. *(Test 2 · Part 7)* One of my colleagues **told** me **that the Delta City** Art Museum provides tours for local art students.
 15. *(Test 2 · Part 7)* However, I’m **hoping that we could have** a brief tour of the whole museum before we begin our work.
-16. *(Test 2 · Part 7)* Keep in mind that there are no restaurants near the hotel, but there is a small grocery store around the corner. → *Keep that there are no*
+16. *(Test 2 · Part 7)* **Keep** in mind **that there are no** restaurants near the hotel, but there is a small grocery store around the corner.
 17. *(Test 3 · Part 5)* The report **found that employees who take** regular breaks are more productive than those who take no breaks.
 18. *(Test 3 · Part 5)* A news source **suggested that the merger will** probably take place next year.
 19. *(Test 3 · Part 5)* The results of the study **suggest that more people struggle** with night driving than previously believed.
@@ -214,7 +214,7 @@
 33. *(Test 4 · Part 7)* I am pleased to **report that the second floor** will be occupied by the Brentler Heights Gallery.
 34. *(Test 4 · Part 7)* I was delighted to **learn that she will be** managing this high-profile gallery.
 35. *(Test 4 · Part 7)* Everyone **agrees that the photos and** the accompanying content do not seem to market the calendars strongly enough.
-36. *(Test 4 · Part 7)* But, to confirm that we’re looking at the same material—there are several photos showing our desktop calendar each with the caption “The promise of a new year with a calendar from Stenmex Stationery.” → *confirm that we ’re looking*
+36. *(Test 4 · Part 7)* But, to **confirm that we****’re looking** at the same material—there are several photos showing our desktop calendar each with the caption “The promise of a new year with a calendar from Stenmex Stationery.”
 37. *(Test 4 · Part 7)* But the main problem **is that the photos and** the content that accompanies them need to be more engaging and interactive.
 38. *(Test 4 · Part 7)* Ms. Yancey **added that the volunteer model** will save money and allow residents greater involvement with the park system.
 39. *(Test 4 · Part 7)* Could I **ask that my painting be** placed away from the similar artwork?
@@ -226,10 +226,10 @@
 45. *(Test 5 · Part 7)* **Now that the business is** doing well, he is exploring opening another store.
 46. *(Test 5 · Part 7)* If one is not available by tomorrow, I **ask that you cancel my** order and provide me with a full refund.
 47. *(Test 5 · Part 7)* We are, furthermore, **pleased that you strengthened your** relationship with us by opening a business advantage savings account (BASA).
-48. *(Test 5 · Part 7)* They informed me that the equipment may be down for up to two hours because of testing. → *informed that the equipment may*
+48. *(Test 5 · Part 7)* They **informed** me **that the equipment may** be down for up to two hours because of testing.
 49. *(Test 6 · Part 5)* Mr. Suh has **requested that a more ---** copy machine be purchased for the finance department.
-50. *(Test 6 · Part 5)* Singer Maria Stanley revealed today that she is scheduling a world tour. → *revealed that she is scheduling*
-51. *(Test 6 · Part 6)* Please note, however, that electric bicycles are not equipment. → *note that electric bicycles are*
+50. *(Test 6 · Part 5)* Singer Maria Stanley **revealed** today **that she is scheduling** a world tour.
+51. *(Test 6 · Part 6)* Please **note**, however, **that electric bicycles are** not equipment.
 52. *(Test 6 · Part 7)* One thing I have really liked **is that I have never** had to wait long to use a washer or dryer in the laundry room since there are plenty of machines available.
 53. *(Test 6 · Part 7)* “I also **appreciate that the landscaping is** always well maintained.”
 54. *(Test 6 · Part 7)* I can **confirm that your shipment is** now in transit.
@@ -243,12 +243,12 @@
 62. *(Test 8 · Part 6)* At Mapleglen University, we **understand that December is a** busy time of year for undergraduates.
 63. *(Test 8 · Part 6)* To be considered for admission to the March semester, please **ensure that we receive your** official undergraduate transcripts by the same date.
 64. *(Test 8 · Part 6)* I am delighted to **report that our focus group** members gave the redesigned app great reviews.
-65. *(Test 8 · Part 6)* Let me disclose up front that I received a free Tipti PX200 digital camera in exchange for this post. → *disclose that I received a*
+65. *(Test 8 · Part 6)* Let me **disclose** up front **that I received a** free Tipti PX200 digital camera in exchange for this post.
 66. *(Test 8 · Part 7)* The company will provide pizza and cake, and we want to make **sure that there is enough** food for everyone.
-67. *(Test 8 · Part 7)* HILLSDALE (July 7)—To accommodate Hillsdale's ever-growing population, the town council announced on Thursday that two major construction projects are planned. → *announced that two major construction*
+67. *(Test 8 · Part 7)* HILLSDALE (July 7)—To accommodate Hillsdale's ever-growing population, the town council **announced** on Thursday **that two major construction** projects are planned.
 68. *(Test 8 · Part 7)* We'll want the video to show our personalities as well as what it **is that we do**.
 69. *(Test 8 · Part 7)* A few friends and I decided to visit and take advantage of a promotional offer, and I'm happy to **say that our experience was** better than expected.
-70. *(Test 8 · Part 7)* It was also great that I did not have to travel to take the course and that I received my recertification that very same day! → *was that I did not*
+70. *(Test 8 · Part 7)* It **was** also great **that I did not** have to travel to take the course and that I received my recertification that very same day!
 71. *(Test 8 · Part 7)* My only recommendation for the Forklift Training Academy **is that they offer more** variety in course days and times.
 72. *(Test 9 · Part 5)* Our records **indicate that your company car** is due for regular service next month.
 73. *(Test 9 · Part 5)* Our market research **shows that buyers with limited** knowledge of a product often look for information from expert sources.
@@ -256,9 +256,9 @@
 75. *(Test 9 · Part 7)* Our system **shows that someone will be** there today between 3:00 P.M. and 5:00 P.M.
 76. *(Test 9 · Part 7)* Management is also well **aware that summer is the** time when many of our employees like to take time off from work.
 77. *(Test 9 · Part 7)* SYDNEY (21 March)—Electronics giant Teleteknic **announced that it is launching** three new models of its popular smartphone: the Strato, the Alto, and the Cirro.
-78. *(Test 9 · Part 7)* At the last minute, a friend informed me that he would be visiting the next day, and I had fallen behind on my house cleaning. → *informed that he would be*
+78. *(Test 9 · Part 7)* At the last minute, a friend **informed** me **that he would be** visiting the next day, and I had fallen behind on my house cleaning.
 79. *(Test 9 · Part 7)* **Note that Superra can be** quite busy during the summer season.
-80. *(Test 9 · Part 7)* PRETORIA (22 March)—Blue Lapis, a producer of industrial videos, announced today that it is now contracting with two drone pilots to provide the company's clients with aerial videography. → *announced that it is now*
+80. *(Test 9 · Part 7)* PRETORIA (22 March)—Blue Lapis, a producer of industrial videos, **announced** today **that it is now** contracting with two drone pilots to provide the company's clients with aerial videography.
 81. *(Test 10 · Part 6)* Some reviewers of the television series **believe that the third season** might be even better than the previous ones.
 82. *(Test 10 · Part 6)* In contrast, other reviewers **argue that the series might** lose its appeal with the introduction of so many new characters, resulting in a complicated and confusing plotline.
 83. *(Test 10 · Part 7)* Please **note that the requested delivery** area must be accessible for our trucks.
@@ -274,7 +274,7 @@
 
 1. *(Test 3 · Listening)* You may **find that even small businesses** charge more when demand is higher.
 2. *(Test 5 · Listening – đáp án)* I **heard that traffic is heavy** this morning.
-3. *(Test 7 · Listening)* I'd like all of you to just found out that Astrid plays saxophone in a Klaus, would you go first? → *found that Astrid plays saxophone*
+3. *(Test 7 · Listening)* I'd like all of you to just **found** out **that Astrid plays saxophone** in a Klaus, would you go first?
 4. *(Test 7 · Listening)* And thanks for **recommending that I visit the** I wanted to follow up with you right away about the like to order tulips in that price range.
 5. *(Test 7 · Listening – đáp án)* I **think that storefront is vacant**.
 6. *(Test 8 · Listening – câu hỏi)* What does the man **suggest that they do later**?
@@ -321,14 +321,14 @@
 28. *(Test 4 · Part 7)* "In her three-decades-long design career, Ms. Masondo has designed numerous **products that reflect inclusiveness** and self-sufficiency.
 29. *(Test 4 · Part 7)* For 45 years, the company has been manufacturing **equipment that facilitates independent** living, including ergonomic furniture, audio- and visual-enhancement devices, and motorized mobility aids.
 30. *(Test 4 · Part 7)* But the main problem is that the photos and the **content that accompanies them** need to be more engaging and interactive.
-31. *(Test 4 · Part 7)* Helen Black (9:04 A.M.) I’d be happy to share a photo of my own setup—from one of the days that I’m working from home. → *days that I ’m*
+31. *(Test 4 · Part 7)* Helen Black (9:04 A.M.) I’d be happy to share a photo of my own setup—from one of the **days that I****’m** working from home.
 32. *(Test 5 · Part 5)* The spray-on sealant acts as a protective **layer that keeps your** tiles from getting scratched.
 33. *(Test 5 · Part 6)* We would love to work with you to create an inviting **space that you can** be proud of.
 34. *(Test 5 · Part 6)* Digital Chicory is a monthly **magazine that provides resources** and tutorials for Web designers.
 35. *(Test 5 · Part 7)* We will instead be using Curtain Call, which we trust will prove to be a more reliable **program that is less** likely to crash.
 36. *(Test 6 · Part 7)* The price increases are driven by reduced supply in **countries that produce the** metal, coupled with increasing worldwide demand for and manufacturing of electronics, whose components are joined together with tin compounds.
-37. *(Test 6 · Part 7)* If you are interested in hardscape features such as brick pathways or rustic stone walls, we will provide recommendations on materials and styles that suit your tastes. → *materials that suit your*
-38. *(Test 6 · Part 7)* Innovations in materials that can be loaded into a 3-D printer offer an unprecedented range of textures for game pieces, enhancing players' tactile experiences. → *Innovations that can be*
+37. *(Test 6 · Part 7)* If you are interested in hardscape features such as brick pathways or rustic stone walls, we will provide recommendations on **materials** and styles **that suit your** tastes.
+38. *(Test 6 · Part 7)* **Innovations** in materials **that can be** loaded into a 3-D printer offer an unprecedented range of textures for game pieces, enhancing players' tactile experiences.
 39. *(Test 6 · Part 7)* **Companies that exploit these** advancements can give themselves an edge in a highly competitive market.
 40. *(Test 6 · Part 7)* "Companies can even select **materials that are biodegradable**."
 41. *(Test 6 · Part 7)* Do you have **anything that you would** like to add to it?
@@ -347,7 +347,7 @@
 54. *(Test 7 · Part 7)* Then we tried an umbrella **stand that included disposable** plastic bags that visitors could tear off and put their umbrellas in.
 55. *(Test 7 · Part 7 – câu hỏi)* What is the cost of the **product that Mr. Barr** reviewed?
 56. *(Test 8 · Part 7)* In addition to the trivia competition, we are excited to feature two **contests that are old** favourites: an award for the employee wearing the finest festive attire and an award for the most creative Z-Hype virtual background.
-57. *(Test 8 · Part 7)* Rustic, quaint, and run by the same family for three generations, it had the type of charm that only an old establishment can provide. → *type that only an*
+57. *(Test 8 · Part 7)* Rustic, quaint, and run by the same family for three generations, it had the **type** of charm **that only an** old establishment can provide.
 58. *(Test 8 · Part 7)* Winglite Airlines is one of several recent start-ups specialising in flying to smaller markets in Australia that are not served by the main airlines. → *one that are not*
 59. *(Test 8 · Part 7)* I was concerned about taking the course online; however, it covered all the material from the on-site **training that I had** for my original certification—and more.
 60. *(Test 8 · Part 7)* She answered all my questions and was attuned to the **challenges that forklift operators** face.
@@ -383,7 +383,7 @@
 1. *(Test 1 · Part 5)* The newspaper article describes **ways job seekers can compensate** for having little workplace experience.
 2. *(Test 1 · Part 6)* Riessler Landscaping has **everything you need** to create your dream garden.
 3. *(Test 1 · Part 6)* We hope this token of our gratitude reminds you how **much you mean to us**.
-4. *(Test 1 · Part 7)* We'll be creating mosaic designs using bits of sea glass I collected on my vacation last summer. → *bits I collected on my*
+4. *(Test 1 · Part 7)* We'll be creating mosaic designs using **bits** of sea glass **I collected on my** vacation last summer.
 5. *(Test 1 · Part 7)* This is an **accomplishment we can all be** proud of.
 6. *(Test 1 · Part 7)* Unfortunately, the **item you requested** is on back order.
 7. *(Test 1 · Part 7)* Like the Makatasi **model you ordered**, the Belter BTR-1483 has a 120 mm aperture and a retractable lens hood.
@@ -410,7 +410,7 @@
 28. *(Test 5 · Part 7)* Employees who need to convert their videos from the **format Zipvid uses to a** format compatible with Curtain Call should install the converter utility to their work computers.
 29. *(Test 6 · Part 7)* Per my lease agreement, this letter constitutes written notice that I will be moving out of my apartment on February 28, the **day my lease expires**.
 30. *(Test 6 · Part 7)* One **thing I have really liked** is that I have never had to wait long to use a washer or dryer in the laundry room since there are plenty of machines available.
-31. *(Test 6 · Part 7)* Is there anything else I need to prepare? → *anything I need to prepare*
+31. *(Test 6 · Part 7)* Is there **anything** else **I need to prepare**?
 32. *(Test 6 · Part 7)* Could you buy the **pastries we want to provide** to potential buyers?
 33. *(Test 7 · Part 5)* The order of the speakers has been changed in **case Mr. Chen arrives late**.
 34. *(Test 7 · Part 6)* If you have a Nelsign account, this contract and any other **documents you have previously signed** electronically with Nelsign will be saved in your profile.
@@ -420,7 +420,7 @@
 38. *(Test 8 · Part 7)* People want to feel a personal connection to the **companies they work with**.
 39. *(Test 8 · Part 7 – câu hỏi)* What is indicated about the **payment Mr. Kolman will receive**?
 40. *(Test 9 · Part 5)* The painter Marion Settimi developed her distinctive style during the **years she lived in Indonesia**.
-41. *(Test 9 · Part 7)* Personal statements are evaluated both for the facts and details they offer and for the way the writer conveys this information. → *facts they offer*
+41. *(Test 9 · Part 7)* Personal statements are evaluated both for the **facts** and details **they offer** and for the way the writer conveys this information.
 42. *(Test 9 · Part 7)* Do not forget to mention the specific **job you are applying for** and explain why you would be a good fit.
 43. *(Test 9 · Part 7)* Your final paragraph is an ideal place for this information, as you can create a separate version of this paragraph for each **position you apply for**.
 44. *(Test 9 · Part 7)* “You might explain, for instance, how a **person you respect** had a positive impact on your life.”
@@ -454,7 +454,7 @@
 8. *(Test 5 · Listening)* We could ask them whether they have **enough for reach out to** the customers about the delay.
 9. *(Test 6 · Listening – đáp án)* She attended a **workshop he led**.
 10. *(Test 9 · Listening)* When anyone in accounting has a question, you're the **one they go to**.
-11. *(Test 10 · Listening)* Business correspondence has different guidelines than the informal type of writing you use when writing to a friend. → *type you use when writing*
+11. *(Test 10 · Listening)* Business correspondence has different guidelines than the informal **type** of writing **you use when writing** to a friend.
 
 ---
 
@@ -475,7 +475,7 @@
 7. *(Test 2 · Part 7)* I **know you worked with** Stefano Cleary, who was the head of fund-raising operations when you donated one of your beautiful sculptures last year.
 8. *(Test 3 · Part 5)* Mr. Kane **said he packed so** hastily this morning that he forgot to bring a suit and tie for tomorrow's dinner.
 9. *(Test 3 · Part 7)* **Remember that mobile app** I told you about—the one for finding available storage locations?
-10. *(Test 3 · Part 7)* I’m using it now, and I think I’ve found something for us at 10 Maple Street. → *think I ’ve found*
+10. *(Test 3 · Part 7)* I’m using it now, and I **think I****’ve found** something for us at 10 Maple Street.
 11. *(Test 3 · Part 7)* The description **says it's ideal** for retailers needing storage space, and it offers temporary rental terms.
 12. *(Test 3 · Part 7)* The job involves editing engineering reports to **ensure they meet quality** specifications and comply with industry standards.
 13. *(Test 3 · Part 7)* Recently, I **decided I needed a** bicycle to bring bulky items home from stores.
@@ -633,13 +633,13 @@
 20. *(Test 6 · Part 7)* I have enjoyed my three **years living** here.
 21. *(Test 6 · Part 7)* I will gladly recommend the Cottonwood Apartments to **anyone looking** to rent in the area.
 22. *(Test 6 · Part 7)* It's a quick **reminder summarizing** the process for requesting vacation time.
-23. *(Test 6 · Part 7)* May: Pollen Transportation – No butterflies or bees visiting your garden? → *butterflies visiting*
-24. *(Test 6 · Part 7)* We appreciate your having created an illustrated list of all the native flowers and trees growing wild on your property; none of our other hosts offers anything like this. → *flowers growing*
+23. *(Test 6 · Part 7)* May: Pollen Transportation – No **butterflies** or bees **visiting** your garden?
+24. *(Test 6 · Part 7)* We appreciate your having created an illustrated list of all the native **flowers** and trees **growing** wild on your property; none of our other hosts offers anything like this.
 25. *(Test 6 · Part 7)* Your list of plants would be a real asset for groups engaged in **activities involving** the identification of species.
 26. *(Test 7 · Part 7)* Qualitekk Research serves its client companies by analyzing survey results and producing detailed **reports containing** insights about customers' preferences.
 27. *(Test 7 · Part 7)* On 2 October, we will celebrate the theatre's grand reopening with a one-night musical **showcase starring** some of the best actors and singers in Wales.
 28. *(Test 7 · Part 7)* **Passengers flying** between smaller cities must change planes at one of these hubs.
-29. *(Test 7 · Part 7)* The exhibit will be open to members and private group tours starting August 15 and to the general public starting September 2. → *members starting*
+29. *(Test 7 · Part 7)* The exhibit will be open to **members** and private group tours **starting** August 15 and to the general public starting September 2.
 30. *(Test 7 · Part 7)* Purchase a PUW machine throughout November and receive a lightweight **umbrella featuring** our company logo.
 31. *(Test 7 · Part 7)* As the facilities manager of a medium-sized office building, I often have to deal with the inconvenience of wet floors caused by **visitors entering** with umbrellas.
 32. *(Test 7 · Part 7 – câu hỏi)* Where was Ms. Loeb's first **experience working** on electric vehicles?
@@ -647,9 +647,9 @@
 34. *(Test 8 · Part 5)* Any remote **employees wanting** an additional computer monitor should ---Ms. Suzuki.
 35. *(Test 8 · Part 6)* Please contact our admissions department at apply@mapleglen.edu if you have any **questions regarding** the MBA program requirements.
 36. *(Test 8 · Part 6)* The Tipti PX200 is intended for video bloggers and online content creators, but it is unsuitable for **filmmakers needing** a greater range of features.
-37. *(Test 8 · Part 7)* In addition to the trivia competition, we are excited to feature two contests that are old favourites: an award for the employee wearing the finest festive attire and an award for the most creative Z-Hype virtual background. → *award wearing*
+37. *(Test 8 · Part 7)* In addition to the trivia competition, we are excited to feature two contests that are old favourites: an **award** for the employee **wearing** the finest festive attire and an award for the most creative Z-Hype virtual background.
 38. *(Test 8 · Part 7)* Written in straightforward and accessible prose by an award-winning author, this book explores Mr. Maalim's **life beginning** with his childhood in India.
-39. *(Test 8 · Part 7)* The resolution, authorising an adjustment to the Airport Operating Fund, was passed by a vote of 7–0. → *resolution authorising*
+39. *(Test 8 · Part 7)* The **resolution**, **authorising** an adjustment to the Airport Operating Fund, was passed by a vote of 7–0.
 40. *(Test 8 · Part 7)* Winglite Airlines is one of several recent start-**ups specialising** in flying to smaller markets in Australia that are not served by the main airlines.
 41. *(Test 9 · Part 7)* I am a documentary **filmmaker working** to tell the story of how Tottenton evolved from a decaying industrial town into a hub for environmentally responsible building initiatives and sustainable architectural design.
 42. *(Test 9 · Part 7)* The client requests a drone flight over the entire length of the highway demonstrating the scale of the project, hovering over the section currently under construction, and zooming in to capture action shots of the work. → *flight demonstrating*
@@ -657,7 +657,7 @@
 44. *(Test 10 · Part 7)* Founded over twenty years ago, Sagemont Services began as a start-**up competing** with larger businesses in a crowded field.
 45. *(Test 10 · Part 7)* The recently promoted vice president of development, Rosa Martin, will be directing this expansion once she wraps up her **work running** the Customer Solutions Team at Exelrate's current headquarters in Frankfurt at the end of this month.
 46. *(Test 10 · Part 7)* Before leaving, each attendee received a small **notebook containing** the recipe we made that day as well as a few of Mr. Bernal's other favourite recipes.
-47. *(Test 10 · Part 7 – câu hỏi)* In the article, the word "directing" in paragraph 1, line 10, is closest in meaning to → *word directing*
+47. *(Test 10 · Part 7 – câu hỏi)* In the article, the **word** "**directing**" in paragraph 1, line 10, is closest in meaning to
 
 **🎧 Listening**
 
@@ -788,7 +788,7 @@
 1. *(Test 1 · Part 5)* Marburton **residents who wish to** sell a home should contact the award-winning team at Kwan Real Estate.
 2. *(Test 1 · Part 5)* The plumbing position requires extensive training, even for **those who studied diligently** in technical school.
 3. *(Test 1 · Part 7)* Fortunately, the theater has new **owners who have spent** the last year updating the interior and the projection system.
-4. *(Test 1 · Part 7)* We are currently seeking qualified designers and artists who will shine in a fast-paced, collaborative environment. → *designers who will shine*
+4. *(Test 1 · Part 7)* We are currently seeking qualified **designers** and artists **who will shine** in a fast-paced, collaborative environment.
 5. *(Test 1 · Part 7)* I just wanted to reiterate that it has gotten positive feedback from **customers who have tested** it.
 6. *(Test 2 · Part 5)* Central Science Museum hosts online seminars by **experts who cover topics** related to information technology.
 7. *(Test 2 · Part 5)* The Exprite Foundation Board of Directors is composed of nine **members who are elected** annually by the public.
@@ -808,12 +808,12 @@
 21. *(Test 6 · Part 5)* **Anyone who is unable** to attend the quarterly stakeholder meeting is welcome to appoint a representative.
 22. *(Test 6 · Part 7)* On Tuesday and Wednesday, **residents who come to** the village hall can pick up cloth bags to replace single-use plastic shopping bags, the sale of which will be banned in our county starting next month.
 23. *(Test 6 · Part 7)* It would be a privilege to show my work to the public and to meet more **people who value gardens** as we members of the society do.
-24. *(Test 6 · Part 7)* We are seeking farmers, ranchers, and other landowners who can help us expand our list of destinations. → *farmers who can help*
+24. *(Test 6 · Part 7)* We are seeking **farmers**, ranchers, and other landowners **who can help** us expand our list of destinations.
 25. *(Test 7 · Part 6)* For **those who need to** create an account, simply visit our Web site.
-26. *(Test 7 · Part 7)* I believe that all of us who work in the theatre will enjoy the changes as well. → *all who work in*
+26. *(Test 7 · Part 7)* I believe that **all** of us **who work in** the theatre will enjoy the changes as well.
 27. *(Test 7 · Part 7)* **Those who choose to** volunteer with us can expect to dedicate about two hours each week to our work.
 28. *(Test 7 · Part 7 – câu hỏi)* What is suggested about the **workers who were hired** last year?
-29. *(Test 9 · Part 7)* I am seeking Tottenton residents at least 50 years of age who lived here during the period of transition and can tell me what it was like. → *years who lived here*
+29. *(Test 9 · Part 7)* I am seeking Tottenton residents at least 50 **years** of age **who lived here** during the period of transition and can tell me what it was like.
 30. *(Test 9 · Part 7)* As **someone who held this** role prior to your retirement four years ago, you know exactly what knowledge and skills are needed for this position, making you an ideal candidate for our search committee.
 31. *(Test 10 · Part 5)* Pet Orbit **customers who want receipts** delivered by e-mail can opt for this service.
 32. *(Test 10 · Part 7)* **Guests who attend the** art show will have the opportunity to bring in their own recyclable plastic items and place them in large collection bags set up around the perimeter of the exhibition room.
@@ -834,18 +834,18 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 5)* Analysts cannot say with any certainty what the regional demand for electric trucks will be. → *say what the regional demand*
+1. *(Test 1 · Part 5)* Analysts cannot **say** with any certainty **what the regional demand** for electric trucks will be.
 2. *(Test 1 · Part 5)* For a $95 diagnostic fee, our mechanics will **determine what repairs are needed**.
 3. *(Test 1 · Part 7)* I **see what you mean**.
-4. *(Test 3 · Part 7)* That's exactly what I was thinking. → *'s what I was thinking*
+4. *(Test 3 · Part 7)* That**'s** exactly **what I was thinking**.
 5. *(Test 3 · Part 7)* I searched online and inquired at local shops, but no one had quite what I wanted. → *had what I wanted .*
-6. *(Test 3 · Part 7 – câu hỏi)* At 9:05 A.M., what does Mr. Beiger most likely mean when he writes, "That's exactly what I was thinking"? → *'s what I was thinking*
+6. *(Test 3 · Part 7 – câu hỏi)* At 9:05 A.M., what does Mr. Beiger most likely mean when he writes, "That**'s** exactly **what I was thinking**"?
 7. *(Test 3 · Part 7 – câu hỏi)* What does Ms. Weaver indicate she will do? → *indicate What does Ms. Weaver*
 8. *(Test 6 · Part 6)* The program **uses what are called "**escape rooms" to build teamwork and creative problem-solving skills.
 9. *(Test 8 · Part 7)* We'll want the video to show our personalities as well as what it is that we do. → *show what it is that*
 10. *(Test 9 · Part 6)* They **are what makes each piece** unique.
-11. *(Test 9 · Part 7)* I am seeking Tottenton residents at least 50 years of age who lived here during the period of transition and can tell me what it was like. → *tell what it was like*
-12. *(Test 9 · Part 7)* As someone who held this role prior to your retirement four years ago, you know exactly what knowledge and skills are needed for this position, making you an ideal candidate for our search committee. → *know what knowledge and skills*
+11. *(Test 9 · Part 7)* I am seeking Tottenton residents at least 50 years of age who lived here during the period of transition and can **tell** me **what it was like**.
+12. *(Test 9 · Part 7)* As someone who held this role prior to your retirement four years ago, you **know** exactly **what knowledge and skills** are needed for this position, making you an ideal candidate for our search committee.
 13. *(Test 9 · Part 7)* The objective is to present how the highway project is proceeding and **highlight what has been completed** thus far.
 14. *(Test 9 · Part 7 – câu hỏi)* What items offered by Mr. Townsend will Beachside Used Books most likely accept? → *accept What items offered by*
 15. *(Test 10 · Part 6)* We'll **see what the fans of** the show think."
@@ -989,23 +989,23 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 7)* The friends, who also own the popular Blue Bay Bistro, decided to buy the theater and make the necessary repairs to keep it a thriving business. → *friends who also own*
-2. *(Test 1 · Part 7)* During the past three months, many of the restaurant's employees were able to work at Marco's Italian Market, which is located on the opposite side of the street. “The leak happened right before the market's busy season started,” said Tom Marco, who owns both businesses. → *Marco who owns both*
-3. *(Test 1 · Part 7 – câu hỏi)* According to the advertisement, who most likely is Ms. Navani? → *advertisement who most likely*
-4. *(Test 1 · Part 7 – câu hỏi)* According to the e-mail, who identified a technical problem? → *mail who identified a*
-5. *(Test 2 · Part 7)* I know you worked with Stefano Cleary, who was the head of fund-raising operations when you donated one of your beautiful sculptures last year. → *Cleary who was the*
-6. *(Test 3 · Part 7)* “Making these seats can be quite challenging, especially ones for older buildings,” said Mr. Milne, who designed the seats for the 135-year-old Wolff Theatre. → *Milne who designed the*
-7. *(Test 3 · Part 7 – câu hỏi)* According to the Web page, who made a recent discovery? → *page who made a*
-8. *(Test 4 · Part 7 – câu hỏi)* According to the article, who is responsible for engineering the device? → *article who is responsible*
-9. *(Test 5 · Part 5)* Mr. Choi, who recently joined the advisory board, is an experienced accountant and investor. → *Choi who recently joined*
-10. *(Test 5 · Part 7)* Significant concerns raised by employees are brought to the attention of division leaders by the supervisor, who functions as a liaison between crew members and the Division of Administrative Services. → *supervisor who functions as*
-11. *(Test 8 · Part 5)* Please join us in welcoming Dr. Sito, who brings ten years of experience in the aerospace industry to his new position. → *Sito who brings ten*
-12. *(Test 8 · Part 7)* A Life in the Spotlight is the first biography of Ibra Maalim, who created some of the most memorable characters on the big screen. → *Maalim who created some*
-13. *(Test 8 · Part 7)* While he was a university student, he had a chance encounter with the director Nina Chen, who cast Mr. Maalim in a small role in her film The Winds of Sorrento. → *Chen who cast Mr.*
-14. *(Test 8 · Part 7)* There are dozens of interesting anecdotes about his life on and off set, most of which were told to Mackay in interviews with Alidia Lugo, who knew Maalim well. → *Lugo who knew Maalim*
-15. *(Test 9 · Part 6)* The purchase comes as no surprise to shoe industry insiders, who have speculated for some time about Shipley's financial challenges. → *insiders who have speculated*
-16. *(Test 10 · Part 7)* Dr. Linh Nguyen, who became CEO of KMC last March, said, "We are extremely proud that KMC is among the seven hospitals in the country recognised by the Valorcare Foundation. → *Nguyen who became CEO*
-17. *(Test 10 · Part 7)* Dr. Robbins, who grew up in York, earned her medical degree at Labato School of Medicine and completed a postdoctoral residency at Petersen Medical Center. → *Robbins who grew up*
+1. *(Test 1 · Part 7)* The **friends**, **who also own** the popular Blue Bay Bistro, decided to buy the theater and make the necessary repairs to keep it a thriving business.
+2. *(Test 1 · Part 7)* During the past three months, many of the restaurant's employees were able to work at Marco's Italian Market, which is located on the opposite side of the street. “The leak happened right before the market's busy season started,” said Tom **Marco**, **who owns both** businesses.
+3. *(Test 1 · Part 7 – câu hỏi)* According to the **advertisement**, **who most likely** is Ms. Navani?
+4. *(Test 1 · Part 7 – câu hỏi)* According to the e-**mail**, **who identified a** technical problem?
+5. *(Test 2 · Part 7)* I know you worked with Stefano **Cleary**, **who was the** head of fund-raising operations when you donated one of your beautiful sculptures last year.
+6. *(Test 3 · Part 7)* “Making these seats can be quite challenging, especially ones for older buildings,” said Mr. **Milne**, **who designed the** seats for the 135-year-old Wolff Theatre.
+7. *(Test 3 · Part 7 – câu hỏi)* According to the Web **page**, **who made a** recent discovery?
+8. *(Test 4 · Part 7 – câu hỏi)* According to the **article**, **who is responsible** for engineering the device?
+9. *(Test 5 · Part 5)* Mr. **Choi**, **who recently joined** the advisory board, is an experienced accountant and investor.
+10. *(Test 5 · Part 7)* Significant concerns raised by employees are brought to the attention of division leaders by the **supervisor**, **who functions as** a liaison between crew members and the Division of Administrative Services.
+11. *(Test 8 · Part 5)* Please join us in welcoming Dr. **Sito**, **who brings ten** years of experience in the aerospace industry to his new position.
+12. *(Test 8 · Part 7)* A Life in the Spotlight is the first biography of Ibra **Maalim**, **who created some** of the most memorable characters on the big screen.
+13. *(Test 8 · Part 7)* While he was a university student, he had a chance encounter with the director Nina **Chen**, **who cast Mr.** Maalim in a small role in her film The Winds of Sorrento.
+14. *(Test 8 · Part 7)* There are dozens of interesting anecdotes about his life on and off set, most of which were told to Mackay in interviews with Alidia **Lugo**, **who knew Maalim** well.
+15. *(Test 9 · Part 6)* The purchase comes as no surprise to shoe industry **insiders**, **who have speculated** for some time about Shipley's financial challenges.
+16. *(Test 10 · Part 7)* Dr. Linh **Nguyen**, **who became CEO** of KMC last March, said, "We are extremely proud that KMC is among the seven hospitals in the country recognised by the Valorcare Foundation.
+17. *(Test 10 · Part 7)* Dr. **Robbins**, **who grew up** in York, earned her medical degree at Labato School of Medicine and completed a postdoctoral residency at Petersen Medical Center.
 
 ---
 
@@ -1017,24 +1017,24 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 7)* During the past three months, many of the restaurant's employees were able to work at Marco's Italian Market, which is located on the opposite side of the street. “The leak happened right before the market's busy season started,” said Tom Marco, who owns both businesses. → *Market which is located*
-2. *(Test 2 · Part 5)* Farist Bakery, which specializes in dessert catering, is located near the Liverpool Convention Complex. → *Bakery which specializes in*
-3. *(Test 2 · Part 7)* All personally identifiable information will be treated confidentially in accordance with the Lorne privacy statement, which can be found at lornettransportation.com.au. → *statement which can be*
-4. *(Test 2 · Part 7)* No options are coming up for the Dalton light-rail station, which you specifically mention as the station where hotel guests should disembark. → *station which you specifically*
-5. *(Test 3 · Part 7)* Let me congratulate you again on our sales increase as well as the launch of our newest products, which are already regaining significant market share from our competitors. → *products which are already*
-6. *(Test 3 · Part 7)* The group, which relies entirely on donations, collaborates with the city parks department on restoration and enhancement. → *group which relies entirely*
-7. *(Test 3 · Part 7)* We had lunch at the Red Rose Café, which I highly recommend to anyone who appreciates delicious food at a reasonable price. → *Café which I highly*
-8. *(Test 4 · Part 7)* However, one local artist donated a large sculpture, which will be the auction's centerpiece. → *sculpture which will be*
-9. *(Test 5 · Part 7)* The company said the delay was caused by a shortage of one of the drink's main components, mango extract, which led to the postponement of quality testing until August. → *extract which led to*
-10. *(Test 5 · Part 7)* We will instead be using Curtain Call, which we trust will prove to be a more reliable program that is less likely to crash. → *Call which we trust*
-11. *(Test 5 · Part 7)* Sonfaya Mutual's BASA has an annual percentage yield of 2.2 percent, which is 1.6 percent higher than the yield of the business savings account offered by its nearest competitor. → *percent which is 1.6*
-12. *(Test 8 · Part 7)* The bowling was great, and I really enjoyed the virtual reality, which I had never tried before. → *reality which I had*
-13. *(Test 8 · Part 7)* Matt Grimm and the other band members love the stickers, which are selling very well. → *stickers which are selling*
-14. *(Test 10 · Part 6)* Flexmerge crates are collapsible, which means they are easy to stack and they save space. → *crates which means they*
+1. *(Test 1 · Part 7)* During the past three months, many of the restaurant's employees were able to work at Marco's Italian **Market**, **which is located** on the opposite side of the street. “The leak happened right before the market's busy season started,” said Tom Marco, who owns both businesses.
+2. *(Test 2 · Part 5)* Farist **Bakery**, **which specializes in** dessert catering, is located near the Liverpool Convention Complex.
+3. *(Test 2 · Part 7)* All personally identifiable information will be treated confidentially in accordance with the Lorne privacy **statement**, **which can be** found at lornettransportation.com.au.
+4. *(Test 2 · Part 7)* No options are coming up for the Dalton light-rail **station**, **which you specifically** mention as the station where hotel guests should disembark.
+5. *(Test 3 · Part 7)* Let me congratulate you again on our sales increase as well as the launch of our newest **products**, **which are already** regaining significant market share from our competitors.
+6. *(Test 3 · Part 7)* The **group**, **which relies entirely** on donations, collaborates with the city parks department on restoration and enhancement.
+7. *(Test 3 · Part 7)* We had lunch at the Red Rose **Café**, **which I highly** recommend to anyone who appreciates delicious food at a reasonable price.
+8. *(Test 4 · Part 7)* However, one local artist donated a large **sculpture**, **which will be** the auction's centerpiece.
+9. *(Test 5 · Part 7)* The company said the delay was caused by a shortage of one of the drink's main components, mango **extract**, **which led to** the postponement of quality testing until August.
+10. *(Test 5 · Part 7)* We will instead be using Curtain **Call**, **which we trust** will prove to be a more reliable program that is less likely to crash.
+11. *(Test 5 · Part 7)* Sonfaya Mutual's BASA has an annual percentage yield of 2.2 **percent**, **which is 1.6** percent higher than the yield of the business savings account offered by its nearest competitor.
+12. *(Test 8 · Part 7)* The bowling was great, and I really enjoyed the virtual **reality**, **which I had** never tried before.
+13. *(Test 8 · Part 7)* Matt Grimm and the other band members love the **stickers**, **which are selling** very well.
+14. *(Test 10 · Part 6)* Flexmerge **crates** are collapsible, **which means they** are easy to stack and they save space.
 
 **🎧 Listening**
 
-1. *(Test 1 · Listening)* The second image reflects the history of depart much from the original, which you may prefer. → *original which you may*
+1. *(Test 1 · Listening)* The second image reflects the history of depart much from the **original**, **which you may** prefer.
 
 ---
 
@@ -1245,7 +1245,7 @@
 3. *(Test 4 · Part 7)* On a media tour, Ms. Skandar **highlighted how Mr. Greeley retained** nearly all of the Paxton Street building's original features to give it a vintage character.
 4. *(Test 8 · Part 7)* I also wish there were more than two photographs, especially **considering how much Maalim's** reputation was based on his photogenic qualities.
 5. *(Test 8 · Part 7)* Then Big Strike Lanes opened a few months ago, and I **wondered how it would compare**.
-6. *(Test 9 · Part 7)* “You might explain, for instance, how a person you respect had a positive impact on your life.” → *explain how a person you*
+6. *(Test 9 · Part 7)* “You might **explain**, for instance, **how a person you** respect had a positive impact on your life.”
 7. *(Test 9 · Part 7)* The objective is to **present how the highway project** is proceeding and highlight what has been completed thus far.
 
 ---
@@ -1258,16 +1258,16 @@
 
 **📖 Reading**
 
-1. *(Test 2 · Part 7)* Initially, I was worried I could not get to the hotel easily from Johnstown, where I had just finished an exhilarating three-day professional conference. → *Johnstown where I had*
-2. *(Test 2 · Part 7)* Once I arrived at Charlesville Central Station, I rode the elevator to the basement, where the light-rail train platforms are located. → *basement where the light*
-3. *(Test 7 · Part 7)* Ms. Loeb graduated with top honors from Clover University of Technology in Boston, where she completed a degree in electrical engineering. → *Boston where she completed*
-4. *(Test 7 · Part 7)* Ms. Loeb eventually left her position at Tafts Motors to become CEO of the British car company Norana, where she spearheaded the introduction of its popular subcompact EV, the Radar. → *Norana where she spearheaded*
-5. *(Test 10 · Part 7)* On the exhibition's final day, the works will be dismantled, and all the recyclable materials, including the items brought by visitors, will be transported to a Flyner Industries facility, where they will be shredded and transformed into material for waterproof curtains. → *facility where they will*
+1. *(Test 2 · Part 7)* Initially, I was worried I could not get to the hotel easily from **Johnstown**, **where I had** just finished an exhilarating three-day professional conference.
+2. *(Test 2 · Part 7)* Once I arrived at Charlesville Central Station, I rode the elevator to the **basement**, **where the light**-rail train platforms are located.
+3. *(Test 7 · Part 7)* Ms. Loeb graduated with top honors from Clover University of Technology in **Boston**, **where she completed** a degree in electrical engineering.
+4. *(Test 7 · Part 7)* Ms. Loeb eventually left her position at Tafts Motors to become CEO of the British car company **Norana**, **where she spearheaded** the introduction of its popular subcompact EV, the Radar.
+5. *(Test 10 · Part 7)* On the exhibition's final day, the works will be dismantled, and all the recyclable materials, including the items brought by visitors, will be transported to a Flyner Industries **facility**, **where they will** be shredded and transformed into material for waterproof curtains.
 
 **🎧 Listening**
 
-1. *(Test 2 · Listening)* We have a lot of and games, where people can be physically active. → *games where people can*
-2. *(Test 10 · Listening)* We are fortunate to be able to interview her today Conference in Chicago, where she has been invited to deliver the keynote speech. → *Chicago where she has*
+1. *(Test 2 · Listening)* We have a lot of and **games**, **where people can** be physically active.
+2. *(Test 10 · Listening)* We are fortunate to be able to interview her today Conference in **Chicago**, **where she has** been invited to deliver the keynote speech.
 
 ---
 
@@ -1279,14 +1279,14 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 7)* Let me know by 12 October whether you will be able to attend. → *know whether you will be*
+1. *(Test 1 · Part 7)* Let me **know** by 12 October **whether you will be** able to attend.
 2. *(Test 6 · Part 7)* A reader recently **asked whether any innovations in** 3-D printing are pertinent to the board game industry.
 3. *(Test 10 · Part 7)* In your e-mail, you should also **indicate whether you wish to** trade in your bicycle or place it on consignment.
 
 **🎧 Listening**
 
 1. *(Test 3 · Listening)* Fortunately, check sometime today to **see whether we have money** for extra fencing?
-2. *(Test 5 · Listening)* We could ask them whether they have enough for reach out to the customers about the delay. → *ask whether they have enough*
+2. *(Test 5 · Listening)* We could **ask** them **whether they have enough** for reach out to the customers about the delay.
 
 ---
 
@@ -1341,9 +1341,9 @@
 
 **📖 Reading**
 
-1. *(Test 5 · Part 7)* Mr. Rosier, whose store specializes in native plants and flowers, admitted that his first year with the garden center was tough. → *Rosier whose store specializes*
-2. *(Test 6 · Part 7)* The price increases are driven by reduced supply in countries that produce the metal, coupled with increasing worldwide demand for and manufacturing of electronics, whose components are joined together with tin compounds. → *electronics whose components are*
-3. *(Test 10 · Part 7)* The new office building was designed by Frank Tsudama, whose latest project involved Seoul's futurist Global Trade Centre. → *Tsudama whose latest project*
+1. *(Test 5 · Part 7)* Mr. **Rosier**, **whose store specializes** in native plants and flowers, admitted that his first year with the garden center was tough.
+2. *(Test 6 · Part 7)* The price increases are driven by reduced supply in countries that produce the metal, coupled with increasing worldwide demand for and manufacturing of **electronics**, **whose components are** joined together with tin compounds.
+3. *(Test 10 · Part 7)* The new office building was designed by Frank **Tsudama**, **whose latest project** involved Seoul's futurist Global Trade Centre.
 
 ---
 
@@ -1435,7 +1435,7 @@
 
 **📖 Reading**
 
-1. *(Test 1 · Part 6)* And as our name suggests, we can take on more ambitious landscaping projects—whatever you need! → *projects whatever you need*
+1. *(Test 1 · Part 6)* And as our name suggests, we can take on more ambitious landscaping **projects**—**whatever you need**!
 
 ---
 
@@ -1459,7 +1459,7 @@
 
 **📖 Reading**
 
-1. *(Test 2 · Part 7)* Wherever you want to go, from the beach to the backwoods, the Nibora XC-35 can take you there! → *Wherever to go*
+1. *(Test 2 · Part 7)* **Wherever** you want **to go**, from the beach to the backwoods, the Nibora XC-35 can take you there!
 
 ---
 
