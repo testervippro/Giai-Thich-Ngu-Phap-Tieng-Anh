@@ -81,6 +81,7 @@
 - [🎵 Playlist bài hát gốc học từ vựng](toeic-vocabulary-playlist-songs.md)
 - [Listening — Cụm từ & Fixed Expressions](toeic-ets-2026-listening-phrases.md)
 - [Listening — Luyện nghe Part 1–4](toeic-listening-practice.md)
+- [Reading — Cấu trúc ngữ pháp hay gặp (quét từ đề)](toeic-reading-grammar-structures.md)
 - [Reading — Cụm từ & Fixed Expressions](toeic-ets-2026-reading-all-phrases.md)
 - [Reading — Luyện đọc](toeic-ets-2026-reading.md)
 - [Reading — Đáp án & giải thích (10 test)](toeic-ets-2026-reading-solutions.md)
