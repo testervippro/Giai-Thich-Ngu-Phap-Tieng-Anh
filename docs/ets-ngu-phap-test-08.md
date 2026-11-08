@@ -102,7 +102,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *exercise machine*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *sturdier than* · Tính từ làm bổ ngữ sau be *is heavier*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *is heavier*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ bổ nghĩa cho tính từ *significantly heavier*
 >
@@ -448,7 +448,7 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Đại từ chỉ định (this/that/these/those) *those*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *delicious as* · Tính từ làm bổ ngữ sau be *were delicious*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *were delicious*
 >
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): So sánh không bằng (not as … as) *as delicious as*
 
@@ -898,7 +898,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ phụ thuộc *before*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *talk to* · Động từ + giới từ (collocation) *talk about* · Động từ + giới từ (collocation) *meet with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *talk to* · Động từ + giới từ (collocation) *meet with*
 
 **13.** <sub>(đoạn văn trước câu 151)</sub> That's a good idea.
 
@@ -1160,8 +1160,6 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *baggage hold*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *larger than*
->
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): So sánh hơn (… than) *larger than*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): any + N *Any item*
@@ -1404,7 +1402,7 @@
 >
 > ⏱️ [Thì](TENSES.md): Tương lai đơn *will provide*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *provide with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *provide … with*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *equipment* · Đồng vị ngữ (N, N bổ sung) *equipment, projector , large screen…* · Đồng vị ngữ (N, N bổ sung) *projector, large screen* · Đồng vị ngữ (N, N bổ sung) *connection, microphone* · Danh từ không đếm được (không thêm -s, không dùng a/an) *information*
 >
@@ -1445,8 +1443,6 @@
 > 🔗 [Mệnh đề](Menh%20De.md): MĐQH lược bỏ đại từ quan hệ (tân ngữ) *companies they work with*
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ + to V *want to feel*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *work with*
 
 **55.** <sub>(đoạn văn trước câu 172)</sub> I just work at my computer all day.
 
@@ -1658,7 +1654,7 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *his life*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *most of* · Tính từ đuôi -ing (tính chất / gây ra) *interesting anecdotes*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ đuôi -ing (tính chất / gây ra) *interesting anecdotes*
 >
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): So sánh nhất (the … -est / the most …) *most*
 >
@@ -1849,8 +1845,6 @@
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ + to V *decided to visit* · Tính từ + to V *happy to say*
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): and nối 2 động từ/cụm động từ song song *friends … and decided* · and nối 2 động từ/cụm động từ song song *visit … and take* · Liên từ đẳng lập nối 2 mệnh đề (and) *, and I 'm*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *take of*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *our experience*
 >
@@ -2088,7 +2082,7 @@
 >
 > ⏩ [Phối hợp thì](SEQUENCE%20OF%20TENSES.md): Không lùi thì (sự việc vẫn đúng/chưa xảy ra) *stated … look*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *provide with* · Giới từ chỉ nơi chốn (at) *at Winglite Airlines*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *provide … with* · Giới từ chỉ nơi chốn (at) *at Winglite Airlines*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *region’s residents* · Danh từ ghép (N + N) *relations director* · Đồng vị ngữ (N, N bổ sung) *Grewal, public relations director at…*
 
@@ -2794,7 +2788,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Đồng vị ngữ (N, N bổ sung) *word, line 4*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *accessible in* · Tính từ + giới từ *closest in* · Tính từ làm bổ ngữ sau be *is closest*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *closest in* · Tính từ làm bổ ngữ sau be *is closest*
 >
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): So sánh nhất (the … -est / the most …) *closest*
 
@@ -3537,8 +3531,6 @@
 > 🔗 [Mệnh đề](Menh%20De.md): Rút gọn MĐQH chủ động (N + V-ing) *speakers working*
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What are the speakers*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *work on*
 
 **7.** What does the woman say she will do?
 
@@ -3946,7 +3938,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Giới từ + V-ing *for flying*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 
 **25.** Do you have any idea how long the delay might be?
 
@@ -3998,8 +3990,6 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ phụ thuộc *like*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *sign for*
->
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *rewards program*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *our program*
@@ -4010,7 +4000,7 @@
 >
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ khuyết thiếu can + V nguyên mẫu *can assist*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *assist with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *assist … with*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Đại từ chỉ định (this/that/these/those) *that*
 
@@ -4051,8 +4041,6 @@
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *equipment*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Đại từ chỉ định (this/that/these/those) *that*
->
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *more than*
 >
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): more/less than + số lượng *more than that*
 >

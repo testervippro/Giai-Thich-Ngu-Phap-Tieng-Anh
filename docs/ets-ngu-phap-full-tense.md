@@ -498,7 +498,7 @@
 456. *(Test 4 · Part 7 – câu hỏi)* What **is mentioned** about Stub Master tickets?
 457. *(Test 4 · Part 7 – câu hỏi)* What **is** true about the event Mr. Sato will attend?
 458. *(Test 4 · Part 7 – câu hỏi)* What **is mentioned** about Ms. Masondo?
-459. *(Test 4 · Part 7 – câu hỏi)* What do Gulfbrook Creations and Deavora Dynamix have in common? → *do have*
+459. *(Test 4 · Part 7 – câu hỏi)* What **do** Gulfbrook Creations and Deavora Dynamix **have** in common?
 460. *(Test 4 · Part 7 – câu hỏi)* At 7:53 A.M., what **does** Mr. Fuentes **imply** when he writes, "I'm leaving the house now"?
 461. *(Test 4 · Part 7 – câu hỏi)* What problem **does** Ms. Gao **have**?
 462. *(Test 4 · Part 7 – câu hỏi)* What **is indicated** on the Web page as a step in the preconstruction process?
@@ -745,7 +745,7 @@
 703. *(Test 6 · Part 7 – câu hỏi)* Who most likely **is** Ms. Valdez?
 704. *(Test 6 · Part 7 – câu hỏi)* What **does** the letter **indicate** about the laundry room at Cottonwood Apartments?
 705. *(Test 6 · Part 7 – câu hỏi)* What **is NOT mentioned** about the maintenance crew?
-706. *(Test 6 · Part 7 – câu hỏi)* In what industry do Mr. Porter and Ms. Warner most likely work? → *do most likely work*
+706. *(Test 6 · Part 7 – câu hỏi)* In what industry **do** Mr. Porter and Ms. Warner **most likely work**?
 707. *(Test 6 · Part 7 – câu hỏi)* At 10:08 A.M., what **does** Mr. Porter **most likely mean** when he writes, "Consider it done"?
 708. *(Test 6 · Part 7 – câu hỏi)* What **is** most likely true about Mr. Torres?
 709. *(Test 6 · Part 7 – câu hỏi)* What **is indicated** about the small-batch production of games?
@@ -1013,7 +1013,7 @@
 971. *(Test 8 · Part 7 – câu hỏi)* According to the policy, what **is considered** a personal item?
 972. *(Test 8 · Part 7 – câu hỏi)* What **is indicated** about carry-on items?
 973. *(Test 8 · Part 7 – câu hỏi)* What **is indicated** about the staff event?
-974. *(Test 8 · Part 7 – câu hỏi)* What do the event's three competitions have in common? → *do have*
+974. *(Test 8 · Part 7 – câu hỏi)* What **do** the event's three competitions **have** in common?
 975. *(Test 8 · Part 7 – câu hỏi)* Why **does** the invitation **mention** Mr. Baxter?
 976. *(Test 8 · Part 7 – câu hỏi)* What most likely **is** Z-Hype?
 977. *(Test 8 · Part 7 – câu hỏi)* For what type of event **has** Mr. Kolman most likely been hired?
@@ -1160,7 +1160,7 @@
 1118. *(Test 9 · Part 7 – câu hỏi)* What **is indicated** in the article about the upgrades to exhibits?
 1119. *(Test 9 · Part 7 – câu hỏi)* What **is suggested** about Ms. Wert?
 1120. *(Test 9 · Part 7 – câu hỏi)* What **does** Ms. Wert **encourage** museum visitors to do?
-1121. *(Test 9 · Part 7 – câu hỏi)* What do the vendors in booths 101 and 103 have in common? → *do have*
+1121. *(Test 9 · Part 7 – câu hỏi)* What **do** the vendors in booths 101 and 103 **have** in common?
 1122. *(Test 9 · Part 7 – câu hỏi)* What **is mentioned** about Franny's Sensational Scents?
 1123. *(Test 9 · Part 7 – câu hỏi)* What **is suggested** about Ms. McFarlan's workplace?
 1124. *(Test 9 · Part 7 – câu hỏi)* What **is suggested** about Superra Cleaning?
@@ -1946,7 +1946,7 @@
 41. *(Test 1 · Part 7)* We **were** very pleased with the customer service and even more delighted when the general manager agreed to sell us the Excelera for the same price that a competing dealership was advertising.
 42. *(Test 1 · Part 7)* We **received** more great reviews in the past month than we did in the four previous months combined!
 43. *(Test 1 · Part 7 – câu hỏi)* Why **did** Ms. Barry **begin** an online chat with Mr. Kubelski?
-44. *(Test 1 · Part 7 – câu hỏi)* Why most likely did the Red Hills Business Association change the dates of its concert series? → *did change*
+44. *(Test 1 · Part 7 – câu hỏi)* Why most likely **did** the Red Hills Business Association **change** the dates of its concert series?
 45. *(Test 1 · Part 7 – câu hỏi)* When **did** Lawal Home Service **inspect** Mr. Gerson's roof?
 46. *(Test 1 · Part 7 – câu hỏi)* According to the review, what **surprised** Mr. Gerson about the crew from Lawal Home Service?
 47. *(Test 1 · Part 7 – câu hỏi)* What sample **was delayed**?
@@ -2101,7 +2101,7 @@
 196. *(Test 5 · Part 7)* It **was checked** at the monthly inspection and received an acceptable rating.
 197. *(Test 5 · Part 7)* They **informed** me that the equipment may be down for up to two hours because of testing.
 198. *(Test 5 · Part 7)* Comments: The technician **cleaned** the machinery and replaced the malfunctioning switch.
-199. *(Test 5 · Part 7 – câu hỏi)* Why did the leaders of Covered Bridge Industries not follow their original plan? → *did not follow*
+199. *(Test 5 · Part 7 – câu hỏi)* Why **did** the leaders of Covered Bridge Industries **not follow** their original plan?
 200. *(Test 5 · Part 7 – câu hỏi)* At 3:25 P.M., what does Ms. Kaluza most likely mean when she writes, "You **got** it"?
 201. *(Test 5 · Part 7 – câu hỏi)* What item **did** Mr. Weaver order from JJ's Home and Garden Suppliers?
 202. *(Test 5 · Part 7 – câu hỏi)* Based on the report, what test **resulted** in the replacement of a machine part?
@@ -2578,8 +2578,8 @@
 56. *(Test 2 · Part 7)* The evening **will include** a three-course vegetarian dinner prepared by Green Earth Provisions and an auction of pieces by local artists, followed by dancing to the musical stylings of DJ Shay Silverman.
 57. *(Test 2 · Part 7 – câu hỏi)* When most likely **will** Ms. Begani **meet** with the accounting department?
 58. *(Test 2 · Part 7 – câu hỏi)* Who from Koloa Music Education Collective **will first contact** an interested customer?
-59. *(Test 2 · Part 7 – câu hỏi)* Where will Ms. Au, Mr. Hines, and Ms. Walter meet tomorrow? → *will meet*
-60. *(Test 2 · Part 7 – câu hỏi)* Where will Portland Friends of the Wild's event be held? → *will be held*
+59. *(Test 2 · Part 7 – câu hỏi)* Where **will** Ms. Au, Mr. Hines, and Ms. Walter **meet** tomorrow?
+60. *(Test 2 · Part 7 – câu hỏi)* Where **will** Portland Friends of the Wild's event **be held**?
 61. *(Test 2 · Part 7 – câu hỏi)* Where **will** Ms. Desnoyers' class **most likely spend** their time sketching?
 62. *(Test 2 · Part 7 – câu hỏi)* What **will** Ms. Desnoyers **most likely do** as a result of the second e-mail?
 63. *(Test 3 · Part 5)* A full-scale review **will be conducted** by the accounting department.
@@ -2829,7 +2829,7 @@
 307. *(Test 10 · Part 7)* I**'ll have** to think about whether I want to join the company softball team.
 308. *(Test 10 · Part 7 – câu hỏi)* What **will** Ms. Fisk **most likely do** next?
 309. *(Test 10 · Part 7 – câu hỏi)* What **will happen** on November 4?
-310. *(Test 10 · Part 7 – câu hỏi)* According to the article, what will visitors to Ms. Alonso's exhibition be able to do? → *will be*
+310. *(Test 10 · Part 7 – câu hỏi)* According to the article, what **will** visitors to Ms. Alonso's exhibition **be** able to do?
 311. *(Test 10 · Part 7 – câu hỏi)* What **will** Ms. Kuroda **most likely do** next?
 
 **🎧 Listening**
@@ -2908,7 +2908,7 @@
 72. *(Test 6 · Listening – câu hỏi)* What does the man say he **will check** on?
 73. *(Test 6 · Listening – câu hỏi)* What **will** the man **research**?
 74. *(Test 6 · Listening – câu hỏi)* What **will most likely happen** next?
-75. *(Test 7 · Listening)* When will the reception for the artists start? → *will start*
+75. *(Test 7 · Listening)* When **will** the reception for the artists **start**?
 76. *(Test 7 · Listening)* It**'ll make** a great addition to our summer menu.
 77. *(Test 7 · Listening)* I**'ll start** working on it immediately.
 78. *(Test 7 · Listening)* All of them **will grab** the attention of shoppers.
@@ -3117,7 +3117,7 @@
 53. *(Test 3 · Listening – câu hỏi)* Why **is** the company **making** a change?
 54. *(Test 3 · Listening – câu hỏi)* Why **is** the speaker **calling**?
 55. *(Test 4 · Listening)* Why **is** the manager **being replaced**?
-56. *(Test 4 · Listening)* How is the new group of interns doing? → *is doing*
+56. *(Test 4 · Listening)* How **is** the new group of interns **doing**?
 57. *(Test 4 · Listening)* Who**'s coming** in tomorrow to help us prepare for the grand opening?
 58. *(Test 4 · Listening)* I**'m calling** to touch base with you about some of care of that before you left.
 59. *(Test 4 · Listening)* They**'re sending** me the contract.

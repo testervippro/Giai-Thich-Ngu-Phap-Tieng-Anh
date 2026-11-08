@@ -44,7 +44,7 @@
 12. *(Test 1 · Part 7 – câu hỏi)* What is one service that Darboury Company most likely provides? → *the most likely*
 13. *(Test 1 · Part 7 – câu hỏi)* What is most likely true about Ms. Boyd? → *the most likely*
 14. *(Test 2 · Part 6)* We are committed to baking Muffin Lady Muffins authentically with only the **finest** ingredients.
-15. *(Test 2 · Part 6)* The eatery became one of **the** area's **most successful** venues and remains so now.
+15. *(Test 2 · Part 6)* **The** eatery became one of the area's **most successful** venues and remains so now.
 16. *(Test 2 · Part 7)* CVT Direct is an Australian trade magazine published by Lorne Transportation, the **largest** freight vehicle corporation in the country.
 17. *(Test 2 · Part 7)* We can assure you that Gernack Home installs only products of the **highest** quality.
 18. *(Test 2 · Part 7)* While there, take advantage of our **latest** feature: a virtual home renovation assistant.
@@ -100,7 +100,7 @@
 68. *(Test 5 · Part 7 – câu hỏi)* During what month will Covered Bridge Industries most likely launch a new product? → *the most likely*
 69. *(Test 5 · Part 7 – câu hỏi)* What type of business do Ms. Ohtani and Ms. Rivera most likely operate? → *the most likely*
 70. *(Test 5 · Part 7 – câu hỏi)* The word "turn" in paragraph 5, line 4, is **closest** in meaning to
-71. *(Test 5 · Part 7 – câu hỏi)* According to the article, what will Mr. Rosier most likely do soon? → *the most likely*
+71. *(Test 5 · Part 7 – câu hỏi)* According to **the** article, what will Mr. Rosier **most likely** do soon?
 72. *(Test 5 · Part 7 – câu hỏi)* The word "measures" in paragraph 1, line 6, is **closest** in meaning to
 73. *(Test 5 · Part 7 – câu hỏi)* At 3:25 P.M., what does Ms. Kaluza most likely mean when she writes, "You got it"? → *the most likely*
 74. *(Test 5 · Part 7 – câu hỏi)* In the e-mail, the word "full" in paragraph 1, line 7, is **closest** in meaning to
@@ -375,7 +375,7 @@
 **📖 Reading**
 
 1. *(Test 1 · Part 7)* We want to tell business owners and residents near the campus to expect a **higher**-**than**-usual noise level during the two weeks we estimate it will take to complete the work.
-2. *(Test 1 · Part 7)* We received more great reviews in the past month than we did in the four previous months combined! → *more great than*
+2. *(Test 1 · Part 7)* We received **more great** reviews in the past month **than** we did in the four previous months combined!
 3. *(Test 2 · Part 5)* Because of an abundance of qualified candidates, Xaniper Industries may take **longer than** expected to name a new CEO.
 4. *(Test 2 · Part 5)* The presentations were **briefer than** we expected, so there was ample time left for questions.
 5. *(Test 3 · Part 5)* The report found that employees who take regular breaks are **more productive than** those who take no breaks.
@@ -385,7 +385,7 @@
 9. *(Test 6 · Part 7)* I apologise for the **longer**-**than**-expected wait.
 10. *(Test 6 · Part 7)* Even though you have less space for vehicles than we normally require, Pink Ridge Ranch might be suitable for our **smaller** events with fewer **than** 25 people.
 11. *(Test 7 · Part 6)* If you want to move to an apartment **larger** or smaller **than** your current one, just let me know.
-12. *(Test 7 · Part 7)* Within its category, this vehicle achieved a stunning 20% higher range on a single charge than its nearest EV competitor. → *higher than*
+12. *(Test 7 · Part 7)* Within its category, this vehicle achieved a stunning 20% **higher** range on a single charge **than** its nearest EV competitor.
 13. *(Test 7 · Part 7)* The seats are also **more comfortable than** most airplane seats.
 14. *(Test 8 · Part 5)* The new Dorvale 500 exercise machine is significantly **heavier** and sturdier **than** the previous model.
 15. *(Test 8 · Part 7)* Any carry-on item **larger than** these dimensions will be checked into the baggage hold and will incur a fee of €50.

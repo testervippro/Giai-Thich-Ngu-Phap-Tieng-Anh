@@ -83,7 +83,7 @@
 18. *(Test 2 · Part 7)* As a Radial Tunes subscriber, you can access hundreds of songs, music videos, and **playlists** specially **curated** by other users.
 19. *(Test 2 · Part 7)* CVT Direct is an Australian trade **magazine published** by Lorne Transportation, the largest freight vehicle corporation in the country.
 20. *(Test 2 · Part 7)* You will surely join our list of satisfied customers once you see the **work done** by our team of expert installers.
-21. *(Test 2 · Part 7)* I need four panels, 117 cm x 228 cm each, made in your box pleat style. → *panels made*
+21. *(Test 2 · Part 7)* I need four **panels**, 117 cm x 228 cm each, **made** in your box pleat style.
 22. *(Test 2 · Part 7)* The evening will include a three-course vegetarian **dinner prepared** by Green Earth Provisions and an auction of pieces by local artists, followed by dancing to the musical stylings of DJ Shay Silverman.
 23. *(Test 2 · Part 7 – câu hỏi)* What is NOT indicated as a **service provided** by Gernack Home?
 24. *(Test 2 · Part 7 – câu hỏi)* What is a new **offering provided** by Gernack Home?
@@ -187,7 +187,7 @@
 6. *(Test 1 · Part 7)* Furthermore, market research **shows that a Web site** can help build a loyal customer base.
 7. *(Test 1 · Part 7)* **Remember that your photos should** be big enough to look appealing on larger computer monitors.
 8. *(Test 1 · Part 7)* I just wanted to **reiterate that it has gotten** positive feedback from customers who have tested it.
-9. *(Test 1 · Part 7)* It was announced in last month's Daily Gazette that Rilamore University is moving forward with its Net Zero Initiative. → *announced that Rilamore University is*
+9. *(Test 1 · Part 7)* It was **announced** in last month's Daily Gazette **that Rilamore University is** moving forward with its Net Zero Initiative.
 10. *(Test 2 · Part 5)* Ms. Clayton was relieved to **find that none of her** files had been lost during the power failure.
 11. *(Test 2 · Part 5)* While we typically charge $25 for missed appointments, we **understand that unforeseen circumstances may** arise.
 12. *(Test 2 · Part 7)* We can **assure** you **that Gernack Home installs** only products of the highest quality.
@@ -317,7 +317,7 @@
 24. *(Test 3 · Part 7 – câu hỏi)* What is suggested about the **tools that Professor Whitford**'s students looked at?
 25. *(Test 4 · Part 6)* **Stores that can validate** your parking include Raymond's Department Store, Lola's Fine Dining, Monique's Boutique, and Gretsch Chocolatiers.
 26. *(Test 4 · Part 6)* I created this bouquet for you, using bold **colors that match the** inn's lobby, to give you an idea of how I --- my work.
-27. *(Test 4 · Part 6)* I see that you host small events, and your Web site has links to local DJs, caterers, and other service providers that you recommend. → *links that you recommend*
+27. *(Test 4 · Part 6)* I see that you host small events, and your Web site has **links** to local DJs, caterers, and other service providers **that you recommend**.
 28. *(Test 4 · Part 7)* "In her three-decades-long design career, Ms. Masondo has designed numerous **products that reflect inclusiveness** and self-sufficiency.
 29. *(Test 4 · Part 7)* For 45 years, the company has been manufacturing **equipment that facilitates independent** living, including ergonomic furniture, audio- and visual-enhancement devices, and motorized mobility aids.
 30. *(Test 4 · Part 7)* But the main problem is that the photos and the **content that accompanies them** need to be more engaging and interactive.
@@ -626,7 +626,7 @@
 13. *(Test 4 · Part 7)* But, to confirm that we’re looking at the same material—there are several **photos showing** our desktop calendar each with the caption “The promise of a new year with a calendar from Stenmex Stationery.”
 14. *(Test 4 · Part 7)* Her team should be able to get the pop-up window and social media **links working** again soon.
 15. *(Test 4 · Part 7 – câu hỏi)* What are the chat **participants discussing**?
-16. *(Test 5 · Part 5)* Of all the mistakes people make in the office, not proofreading their e-mails is one of the most common. → *mistakes proofreading*
+16. *(Test 5 · Part 5)* Of all the **mistakes** people make in the office, not **proofreading** their e-mails is one of the most common.
 17. *(Test 5 · Part 6)* We are a design **firm specialising** in medical facilities: waiting rooms, offices, and examination and therapy rooms.
 18. *(Test 5 · Part 7)* Prime advertising space is available with **sizes ranging** from a quarter column to a full page.
 19. *(Test 5 · Part 7)* As I mentioned in the form, we are a five-year-old **company specializing** in high-end washers and dryers.
@@ -652,7 +652,7 @@
 39. *(Test 8 · Part 7)* The **resolution**, **authorising** an adjustment to the Airport Operating Fund, was passed by a vote of 7–0.
 40. *(Test 8 · Part 7)* Winglite Airlines is one of several recent start-**ups specialising** in flying to smaller markets in Australia that are not served by the main airlines.
 41. *(Test 9 · Part 7)* I am a documentary **filmmaker working** to tell the story of how Tottenton evolved from a decaying industrial town into a hub for environmentally responsible building initiatives and sustainable architectural design.
-42. *(Test 9 · Part 7)* The client requests a drone flight over the entire length of the highway demonstrating the scale of the project, hovering over the section currently under construction, and zooming in to capture action shots of the work. → *flight demonstrating*
+42. *(Test 9 · Part 7)* The client requests a drone **flight** over the entire length of the highway **demonstrating** the scale of the project, hovering over the section currently under construction, and zooming in to capture action shots of the work.
 43. *(Test 10 · Part 7)* If you have questions or need **assistance making** reservations, please contact us at 210-555-0137.
 44. *(Test 10 · Part 7)* Founded over twenty years ago, Sagemont Services began as a start-**up competing** with larger businesses in a crowded field.
 45. *(Test 10 · Part 7)* The recently promoted vice president of development, Rosa Martin, will be directing this expansion once she wraps up her **work running** the Customer Solutions Team at Exelrate's current headquarters in Frankfurt at the end of this month.
@@ -842,7 +842,7 @@
 6. *(Test 3 · Part 7 – câu hỏi)* At 9:05 A.M., what does Mr. Beiger most likely mean when he writes, "That**'s** exactly **what I was thinking**"?
 7. *(Test 3 · Part 7 – câu hỏi)* What does Ms. Weaver indicate she will do? → *indicate What does Ms. Weaver*
 8. *(Test 6 · Part 6)* The program **uses what are called "**escape rooms" to build teamwork and creative problem-solving skills.
-9. *(Test 8 · Part 7)* We'll want the video to show our personalities as well as what it is that we do. → *show what it is that*
+9. *(Test 8 · Part 7)* We'll want the video to **show** our personalities as well as **what it is that** we do.
 10. *(Test 9 · Part 6)* They **are what makes each piece** unique.
 11. *(Test 9 · Part 7)* I am seeking Tottenton residents at least 50 years of age who lived here during the period of transition and can **tell** me **what it was like**.
 12. *(Test 9 · Part 7)* As someone who held this role prior to your retirement four years ago, you **know** exactly **what knowledge and skills** are needed for this position, making you an ideal candidate for our search committee.
@@ -1372,7 +1372,7 @@
 **📖 Reading**
 
 1. *(Test 3 · Part 7)* I ordered a three-wheeled cargo bicycle from them on August 20 that was delivered in only two weeks. → *ordered that was delivered in*
-2. *(Test 9 · Part 7)* I found myself in a situation recently that required one of Superra Cleaning's special services. → *found that required one of*
+2. *(Test 9 · Part 7)* I **found** myself in a situation recently **that required one of** Superra Cleaning's special services.
 
 ---
 

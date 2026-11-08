@@ -383,7 +383,7 @@
 52. *(Test 9 · Part 7)* It **definitely needs** routine maintenance, and we may have to plan some additional work.
 53. *(Test 9 · Part 7 – câu hỏi)* For whom are the instructions most **likely intended**?
 54. *(Test 10 · Part 5)* Line 73 is the oldest **continuously operating** bus line in Raymo City's history.
-55. *(Test 10 · Part 6)* This feature minimizes the need Accordingly, more of them can be loaded onto trucks when empty frequent 132. → *Accordingly loaded*
+55. *(Test 10 · Part 6)* This feature minimizes the need **Accordingly**, more of them can be **loaded** onto trucks when empty frequent 132.
 56. *(Test 10 · Part 7)* For example, with the online retailer Clothing Discounters **rapidly expanding**, we assisted the company in increasing its call-center capability.
 57. *(Test 10 · Part 7)* She then began to collect old plastic bottles and cardboard shipping boxes and **innovatively combined** them with commercially made, recyclable building materials.
 58. *(Test 10 · Part 7 – câu hỏi)* For whom is the notice most **likely intended**?

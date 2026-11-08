@@ -7,7 +7,7 @@
 ## Mục lục
 
 1. [Tính từ làm bổ ngữ sau be](ets-ngu-phap-full-adj.md?id=p1) — 510 câu
-2. [Tính từ + giới từ](ets-ngu-phap-full-adj.md?id=p2) — 223 câu
+2. [Tính từ + giới từ](ets-ngu-phap-full-adj.md?id=p2) — 159 câu
 3. [Tính từ dạng V3/-ed (phân từ quá khứ)](ets-ngu-phap-full-adj.md?id=p3) — 109 câu
 4. [Tính từ đuôi -ed (cảm nhận / bị tác động)](ets-ngu-phap-full-adj.md?id=p4) — 105 câu
 5. [Tính từ ghép có gạch nối](ets-ngu-phap-full-adj.md?id=p5) — 64 câu
@@ -157,7 +157,7 @@
 125. *(Test 4 · Part 7 – câu hỏi)* According to the article, who **is responsible** for engineering the device?
 126. *(Test 4 · Part 7 – câu hỏi)* The word "initiative" in paragraph 2, line 3, **is closest** in meaning to
 127. *(Test 4 · Part 7 – câu hỏi)* What **is true** about the event Mr. Sato will attend?
-128. *(Test 4 · Part 7 – câu hỏi)* What plan is designed for a subscriber who **is** only **interested** in a single team?
+128. *(Test 4 · Part 7 – câu hỏi)* What plan **is** designed for a subscriber who is only **interested** in a single team?
 129. *(Test 4 · Part 7 – câu hỏi)* What **is unique** about the TBC Platinum Plan?
 130. *(Test 4 · Part 7 – câu hỏi)* How much is the TBC Gold Plan? → *is much*
 131. *(Test 4 · Part 7 – câu hỏi)* What **is true** about the Brentler Heights Gallery?
@@ -508,230 +508,170 @@
 
 ### 2. Tính từ + giới từ
 
-<small>194 câu Reading · 29 câu Listening</small>
+<small>142 câu Reading · 17 câu Listening</small>
 
 **📖 Reading**
 
-1. *(Test 1 · Part 7)* That is five **more than** last summer.
-2. *(Test 1 · Part 7)* You can read **more about** the program at Hamerkoptech's newly redesigned Web site, www.hamerkoptech.co.nz.
-3. *(Test 1 · Part 7)* Nutridinna foods will be **available in** supermarkets beginning in November.
-4. *(Test 1 · Part 7)* During the past three months, **many of** the restaurant's employees were able to work at Marco's Italian Market, which is located on the opposite side of the street. “The leak happened right before the market's busy season started,” said Tom Marco, who owns both businesses.
-5. *(Test 1 · Part 7)* **Most of** those employees have now returned to work in the restaurant.
-6. *(Test 1 · Part 7)* Within three years, we expect to have geothermal wells installed and **operational for** the heating and cooling of our entire campus.
-7. *(Test 1 · Part 7)* If all goes according to schedule, the crew will be drilling **adjacent to** the Red Hills Business District and Oak Street Apartments starting Wednesday, June 5.
-8. *(Test 1 · Part 7)* "I was very **pleased with** the thoroughness of their work."
-9. *(Test 1 · Part 7)* I was very **pleased with** the thoroughness of their work.
-10. *(Test 1 · Part 7)* Even though she was new, she was very **knowledgeable about** all the trucks on the lot that we wanted to test drive.
-11. *(Test 1 · Part 7)* We were very **pleased with** the customer service and even more delighted when the general manager agreed to sell us the Excelera for the same price that a competing dealership was advertising.
-12. *(Test 1 · Part 7)* She has become very **knowledgeable about** our inventory and is able to share her knowledge with customers to complete sales.
-13. *(Test 1 · Part 7)* She has also been **instrumental in** encouraging satisfied customers to post comments on our social media pages.
-14. *(Test 1 · Part 7 – câu hỏi)* The word "just" in paragraph 1, line 8, is **closest in** meaning to
-15. *(Test 1 · Part 7 – câu hỏi)* In the e-mail, the word "conduct" in paragraph 2, line 1, is **closest in** meaning to
-16. *(Test 1 · Part 7 – câu hỏi)* What is most likely **true about** Ms. Boyd?
-17. *(Test 2 · Part 5)* The staff was **grateful for** the information that Mr. Schuller distributed at the meeting.
-18. *(Test 2 · Part 6)* We are **committed to** baking Muffin Lady Muffins authentically with only the finest ingredients.
-19. *(Test 2 · Part 6)* item patented formula is designed to keep your hands clean yet **soft with** a mix of natural vitamins and oils.
-20. *(Test 2 · Part 7)* The new cards will be printed on a higher-quality paper stock, as **many of** you requested.
-21. *(Test 2 · Part 7)* The Nibora XC-35 is **available as** a gas-powered vehicle or a hybrid.
-22. *(Test 2 · Part 7)* All vehicles come **standard with** all-wheel drive and a navigation system with phone pairing.
-23. *(Test 2 · Part 7)* Options **available for** the XC-35 include a sunroof, a Sonic Boom stereo system, cruise control, a roof rack, and more.
-24. *(Test 2 · Part 7)* If you are **interested in** scheduling our services, please fill out our online information form on our Web site.
-25. *(Test 2 · Part 7)* Tickets for the event are $100 per person and are **available for** purchase until August 10 at www.portlandfriendsofthewild.org/fund-raiser.
-26. *(Test 2 · Part 7)* I am **interested in** bringing my Art 103 class to view and sketch some of the pieces you have on display.
-27. *(Test 2 · Part 7)* Since Art 103 focuses on studying and drawing the human form, the statues will be getting **most of** our attention.
-28. *(Test 2 · Part 7)* The hotel Web site is not crystal **clear about** transportation options.
-29. *(Test 2 · Part 7)* Since I am not **familiar with** this part of the country, I e-mailed the hotel, and someone responded immediately.
-30. *(Test 2 · Part 7 – câu hỏi)* The word "points" in paragraph 2, line 2, is **closest in** meaning to
-31. *(Test 2 · Part 7 – câu hỏi)* The word "assure" in paragraph 2, line 1, is **closest in** meaning to \_\_\_
-32. *(Test 2 · Part 7 – câu hỏi)* What is most likely **true about** the Cambridge fabric sample listed on the invoice?
-33. *(Test 2 · Part 7 – câu hỏi)* In the e-mail, the word "last" in paragraph 2, line 4, is **closest in** meaning to
-34. *(Test 2 · Part 7 – câu hỏi)* What is **true about** Mr. Cleary?
-35. *(Test 2 · Part 7 – câu hỏi)* What is most likely **true about** the order placed by Macker Drugstores?
-36. *(Test 2 · Part 7 – câu hỏi)* What is most likely **true about** the Dalton light-rail station?
-37. *(Test 3 · Part 5)* Despite her youth, Ms. Cho is already quite **popular on** social media.
-38. *(Test 3 · Part 5)* **Most of** the materials distributed at last month's accounting conference are now available online.
-39. *(Test 3 · Part 5)* The report found that employees who take regular breaks are more **productive than** those who take no breaks.
-40. *(Test 3 · Part 6)* We are **thrilled about** her promotion.
-41. *(Test 3 · Part 7)* This offer is **valid** only **at** our Smithville and Parkertown locations through August 31.
-42. *(Test 3 · Part 7)* The 100-year-old station is one of the **busiest in** the city, and it is in desperate need of repair.
-43. *(Test 3 · Part 7)* The description says it's **ideal for** retailers needing storage space, and it offers temporary rental terms.
-44. *(Test 3 · Part 7)* It was a pleasure to see so **many of** you at our company-wide meeting last week.
-45. *(Test 3 · Part 7)* Our public relations staff was **impressed with** your insights into effective cross-cultural communication.
-46. *(Test 3 · Part 7)* The regular work hours for this full-time position are Monday through Friday, 9:00 A.M. to 5:00 P.M. Salary is **commensurate with** experience.
-47. *(Test 3 · Part 7)* “The goal of the current project,” said FGS director Carol Reynoso, “is to create an attractive space to draw in **more of** the region’s abundant birdlife.”
-48. *(Test 3 · Part 7)* She is especially **enthusiastic about** the project because the city's elementary school borders the park.
-49. *(Test 3 · Part 7)* For more than 40 years, we have been building high-quality, eco-friendly bicycles that are **good for** the health of both people and the planet.
-50. *(Test 3 · Part 7)* I have been a cycling enthusiast **most of** my life.
-51. *(Test 3 · Part 7)* Branxley Cycles cargo bicycles have become very **popular with** area businesses; I see them everywhere now.
-52. *(Test 3 · Part 7)* I am very **happy with** my Branxley Cycles purchase, and I recommend it to everybody that comments on it as I ride it around town.
-53. *(Test 3 · Part 7)* After our long day around town, we were **grateful for** the theatre's new, comfortable seating.
-54. *(Test 3 · Part 7)* However, **many of** the pieces will be shown in photographs, as they are too delicate to be moved around.
-55. *(Test 3 · Part 7)* Both classes are studying how to identify and analyze historical artifacts, so he was very **happy with** the topic of our lecture this month.
-56. *(Test 3 · Part 7)* That these artifacts were so **close by** all this time was truly amazing for my students to contemplate.
-57. *(Test 3 · Part 7 – câu hỏi)* What is most likely **true about** Dr. Able?
-58. *(Test 3 · Part 7 – câu hỏi)* According to the Web page, what is **true about** Branxley Cycles?
-59. *(Test 3 · Part 7 – câu hỏi)* In the review, the word "meet" in paragraph 1, line 8, is **closest in** meaning to (A) reach
-60. *(Test 3 · Part 7 – câu hỏi)* In the review, the word "appreciates" in paragraph 2, line 3, is **closest in** meaning to (A) values (B) increases (C) comprehends (D) knows
-61. *(Test 4 · Part 5)* We would like to attend the retreat, but regrettably we are **unavailable on** that date.
-62. *(Test 4 · Part 5)* All documents pertaining to the company merger will become **available to** the public within one year.
-63. *(Test 4 · Part 7)* Your mobile ticket is ready and **available in** the Stub Master account you created online.
-64. *(Test 4 · Part 7)* I always admired her work, and I obtained **many of** her creations to sell at my shop.
-65. *(Test 4 · Part 7)* The boots arrived yesterday, but unfortunately, their actual colour is **different from** the colour pictured on your Web site.
-66. *(Test 4 · Part 7)* Since you are **interested in** a paler colour, I recommend sand.
-67. *(Test 4 · Part 7)* Accordingly, the Hale City Parks Department has scheduled its first volunteer cleanup event, Trail Cleanup Day, on August 12, from 9:00 A.M. to 2:00 P.M. Those **interested in** volunteering may register online at www.halecityparks.org/events.
-68. *(Test 4 · Part 7)* If you are **interested in** contributing this year, please e-mail me the details about your submission.
-69. *(Test 4 · Part 7)* I am planning to contribute a piece of art again this year, but I've noticed its subject is very **similar to** that of another piece listed in your e-mail attachment.
-70. *(Test 4 · Part 7 – câu hỏi)* According to the article, who is **responsible for** engineering the device?
-71. *(Test 4 · Part 7 – câu hỏi)* The word "initiative" in paragraph 2, line 3, is **closest in** meaning to
-72. *(Test 4 · Part 7 – câu hỏi)* What is **true about** the event Mr. Sato will attend?
-73. *(Test 4 · Part 7 – câu hỏi)* What plan is designed for a subscriber who is only **interested in** a single team?
-74. *(Test 4 · Part 7 – câu hỏi)* What is **unique about** the TBC Platinum Plan?
-75. *(Test 4 · Part 7 – câu hỏi)* What is **true about** the Brentler Heights Gallery?
-76. *(Test 4 · Part 7 – câu hỏi)* In the article, the word "function" in paragraph 3, line 7, is **closest in** meaning to (A) occupation (B) use (C) organization (D) gathering
-77. *(Test 4 · Part 7 – câu hỏi)* What color is currently NOT **available for** boots in the Erin style?
-78. *(Test 4 · Part 7 – câu hỏi)* What most likely is **true about** Trail Cleanup Day?
-79. *(Test 4 · Part 7 – câu hỏi)* What piece of art is **similar in** subject to Mr. Orou's painting?
-80. *(Test 5 · Part 5)* Employees are **eligible for** more vacation time after they have been employed for five years.
-81. *(Test 5 · Part 5)* The department supervisor is **responsible for** ensuring that all safety gear is stowed properly at the end of the shift.
-82. *(Test 5 · Part 5)* The experiment's initial results were wildly **different from** what was expected.
-83. *(Test 5 · Part 6)* As **many of** you have recently learned, Claudia Hoffman will end her tenure as art director on Monday, December 30.
-84. *(Test 5 · Part 6)* We would love to work with you to create an inviting space that you can be **proud of**.
-85. *(Test 5 · Part 7)* Prime advertising space is **available with** sizes ranging from a quarter column to a full page.
-86. *(Test 5 · Part 7)* Employees who need to convert their videos from the format Zipvid uses to a format **compatible with** Curtain Call should install the converter utility to their work computers.
-87. *(Test 5 · Part 7)* Because we take safety seriously, we urge any employee who becomes **aware of** a breach of these protocols to contact a supervisor or the safety coordinator.
-88. *(Test 5 · Part 7)* I have a small business and am **dependent on** my equipment.
-89. *(Test 5 · Part 7)* If one is not **available by** tomorrow, I ask that you cancel my order and provide me with a full refund.
-90. *(Test 5 · Part 7)* Sonfaya Mutual's BASA has an annual percentage yield of 2.2 percent, which is 1.6 percent **higher than** the yield of the business savings account offered by its nearest competitor.
-91. *(Test 5 · Part 7)* Finally, our recently launched online stock-trading platform, **available to** you at no charge, is excellent for allowing investors to manage their finances at their own pace.
-92. *(Test 5 · Part 7 – câu hỏi)* The word "turn" in paragraph 5, line 4, is **closest in** meaning to
-93. *(Test 5 · Part 7 – câu hỏi)* The word "measures" in paragraph 1, line 6, is **closest in** meaning to
-94. *(Test 5 · Part 7 – câu hỏi)* In the e-mail, the word "full" in paragraph 1, line 7, is **closest in** meaning to
-95. *(Test 5 · Part 7 – câu hỏi)* What is most likely **true about** the Digital Graphic Designers Conference?
-96. *(Test 5 · Part 7 – câu hỏi)* Based on the form, what is **true about** Ms. Park?
-97. *(Test 6 · Part 5)* Online ordering is **available on** Naito Café's Web site.
-98. *(Test 6 · Part 5)* Mr. Nakayama was named Employee of the Year, despite being **new to** the company.
-99. *(Test 6 · Part 6)* Departments will be **responsible for** picking up and distributing their own mail.
-100. *(Test 6 · Part 6)* Mail will be **available for** pickup by 10:00 A.M. each morning.
-101. *(Test 6 · Part 7)* They are also **great for** adding to your favorite cereal in the morning.
-102. *(Test 6 · Part 7)* If you are **interested in** hardscape features such as brick pathways or rustic stone walls, we will provide recommendations on materials and styles that suit your tastes.
-103. *(Test 6 · Part 7)* I apologise for the **longer**-**than**-expected wait.
-104. *(Test 6 · Part 7)* A reader recently asked whether any innovations in 3-D printing are **pertinent to** the board game industry.
-105. *(Test 6 · Part 7)* This is particularly **relevant to** small-batch production of board games.
-106. *(Test 6 · Part 7)* Small batches are **ideal for** limited-edition games and new versions of existing games.
-107. *(Test 6 · Part 7)* Repose Lounge passes are **available for** $180 and are valid for one year from the date of purchase.
-108. *(Test 6 · Part 7)* Finally, on Saturday, 500 tree saplings will be offered to residents **free of** charge.
-109. *(Test 6 · Part 7)* The trees are **native to** the region and can be planted in private gardens or in some public areas.
-110. *(Test 6 · Part 7)* Hosting a tour garden is **free for** members of the Alamito Botanical Society.
-111. *(Test 6 · Part 7)* Gardens selected to participate in the tour must be within Presidio County and include only plants **native to** the region.
-112. *(Test 6 · Part 7)* I must admit that beautiful lavender bushes that are not **native to** the area were already growing on the property before I purchased it.
-113. *(Test 6 · Part 7)* March: Nourish the Neighbors - Understand how to use plants **native to** our region to create landscapes that are inviting to wildlife.
-114. *(Test 6 · Part 7)* Even though you have less space for vehicles than we normally require, Pink Ridge Ranch might be **suitable for** our smaller events with fewer than 25 people.
-115. *(Test 6 · Part 7 – câu hỏi)* The word "driven" in paragraph 1, line 5, is **closest in** meaning to
-116. *(Test 6 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Torres?
-117. *(Test 6 · Part 7 – câu hỏi)* The word "space" in paragraph 1, line 2, is **closest in** meaning to
-118. *(Test 6 · Part 7 – câu hỏi)* In the second e-mail, the word "note" in paragraph 2, line 1, is **closest in** meaning to
-119. *(Test 6 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Cumberland?
-120. *(Test 7 · Part 5)* Dumbbells, also known as free weights, are **useful for** keeping fit at home.
-121. *(Test 7 · Part 6)* can be, it will be In addition listed as a rental **available to** a new tenant on April 1.
-122. *(Test 7 · Part 6)* If you want to move to an apartment larger or **smaller than** your current one, just let me know.
-123. *(Test 7 · Part 6)* Several inexpensive campsites and youth hostels are **available throughout** the year.
-124. *(Test 7 · Part 7)* Truli crackers and cheese are now **available at** major supermarkets.
-125. *(Test 7 · Part 7)* The bistro faces the street and will be **open to** the public even when no performances are scheduled.
-126. *(Test 7 · Part 7)* “I look forward to leveraging the company’s abundant talent to build EVs that are **affordable to** a mass market.
-127. *(Test 7 · Part 7)* The vehicles must be offered at a price that is **reasonable for** the average consumer.”
-128. *(Test 7 · Part 7)* These seasonal positions will be **available from** the beginning of June until the end of August.
-129. *(Test 7 · Part 7)* In addition to being the quietest jets on the market today, they are 20 percent more fuel **efficient than** the DB90s that we currently fly.
-130. *(Test 7 · Part 7)* The seats are also more **comfortable than** most airplane seats.
-131. *(Test 7 · Part 7)* The exhibit will be **open to** members and private group tours starting August 15 and to the general public starting September 2.
-132. *(Test 7 · Part 7)* **Many of** you have been on previous Renmark Solutions trips, so you know they are always educational and exciting.
-133. *(Test 7 · Part 7)* PUW machines are **available with** one or two umbrella-wrapping devices and come in stainless steel or black.
-134. *(Test 7 · Part 7)* Visitors love that it is automatic, and everyone is grateful that the lobby is no longer wet and slippery because of umbrellas **dripping with** water!
-135. *(Test 7 · Part 7 – câu hỏi)* What is most likely **true about** Ms. Ikeda?
-136. *(Test 7 · Part 7 – câu hỏi)* What is **special about** the Radar?
-137. *(Test 7 · Part 7 – câu hỏi)* What is most likely **true about** the job interviews?
-138. *(Test 7 · Part 7 – câu hỏi)* In the advertisement, the word "original" in paragraph 2, line 1, is **closest in** meaning to (A) first
-139. *(Test 7 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Ogawa?
-140. *(Test 8 · Part 5)* The new Dorvale 500 exercise machine is significantly heavier and **sturdier than** the previous model.
-141. *(Test 8 · Part 5)* Customer loyalty programs are **profitable for** many retail businesses.
-142. *(Test 8 · Part 5)* The desserts we had at Giovanni's Bistro were not as **delicious as** those we enjoyed at Monteverdi's Taverna.
-143. *(Test 8 · Part 6)* The Tipti PX200 is intended for video bloggers and online content creators, but it is **unsuitable for** filmmakers needing a greater range of features.
-144. *(Test 8 · Part 7)* Any carry-on item **larger than** these dimensions will be checked into the baggage hold and will incur a fee of €50.
-145. *(Test 8 · Part 7)* There are dozens of interesting anecdotes about his life on and off set, **most of** which were told to Mackay in interviews with Alidia Lugo, who knew Maalim well.
-146. *(Test 8 · Part 7)* I was **concerned about** taking the course online; however, it covered all the material from the on-site training that I had for my original certification—and more.
-147. *(Test 8 · Part 7)* She answered all my questions and was **attuned to** the challenges that forklift operators face.
-148. *(Test 8 · Part 7 – câu hỏi)* What is most likely **true about** Ms. Trujillo?
-149. *(Test 8 · Part 7 – câu hỏi)* What is Mr. Maalim most **famous for** doing?
-150. *(Test 8 · Part 7 – câu hỏi)* In the advertisement, the word "**accessible**" **in** paragraph 2, line 4, is closest in meaning to
-151. *(Test 8 · Part 7 – câu hỏi)* In the review, the word "situated" in paragraph 3, line 2, is **closest in** meaning to
-152. *(Test 8 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Cheung?
-153. *(Test 9 · Part 5)* Our records indicate that your company car is **due for** regular service next month.
-154. *(Test 9 · Part 5)* The customer neglected to buy an extended warranty on the dishwasher, so it is not **eligible for** a free repair.
-155. *(Test 9 · Part 5)* Although **much of** the material was technical in nature, the audience appeared to remain engaged throughout Ms. Sharma's presentation.
-156. *(Test 9 · Part 5)* All Baraantec Ltd. hand tools undergo rigorous inspections to ensure they are **free of** defects.
-157. *(Test 9 · Part 6)* Furniture stores **interested in** offering our products should contact Nya Fernaut, sales director.
-158. *(Test 9 · Part 7)* I am **sorry for** any miscommunication.
-159. *(Test 9 · Part 7)* Management is also well aware that summer is the time when **many of** our employees like to take time off from work.
-160. *(Test 9 · Part 7)* **Most of** the changes from Teleteknic's previous phone models are minor.
-161. *(Test 9 · Part 7)* If you are **interested in** participating, please call me at 020 7946 0532.
-162. *(Test 9 · Part 7)* Therefore, when you are composing a personal statement, it is important to be **thoughtful about** issues such as word choice and tone.
-163. *(Test 9 · Part 7)* DERRY (April 7)—The Regional History Museum (RHM) has upgraded **many of** its exhibits to include interactive technologies.
-164. *(Test 9 · Part 7)* Guide maps of the district are **available in** the museum's lobby.
-165. *(Test 9 · Part 7)* However, customers may not be **familiar with** our intensive special cleaning services.
-166. *(Test 9 · Part 7)* This will allow him to learn **more about** the various departments he will eventually be interacting with.
-167. *(Test 9 · Part 7)* In fact, we just completed the first aerial videos for Kwanduma Realty Ltd., and everyone is very **pleased with** the results.”
-168. *(Test 9 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Hong's account?
-169. *(Test 9 · Part 7 – câu hỏi)* The word "ordinarily" in paragraph 1, line 1, is **closest in** meaning to
-170. *(Test 9 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Singh?
-171. *(Test 9 · Part 7 – câu hỏi)* In the online review, the word "just" in paragraph 2, line 2, is **closest in** meaning to
-172. *(Test 9 · Part 7 – câu hỏi)* What is most likely **true about** Lunsklip Construction?
-173. *(Test 10 · Part 5)* According to the restaurant's policy, guests must wait to be seated by the **front**-**of**-house staff.
-174. *(Test 10 · Part 6)* This feature minimizes the need Accordingly, **more of** them can be loaded onto trucks when empty frequent 132.
-175. *(Test 10 · Part 6)* Some reviewers of the television series believe that the third season might be even **better than** the previous ones.
-176. *(Test 10 · Part 7)* Please note that the requested delivery area must be **accessible for** our trucks.
-177. *(Test 10 · Part 7)* Since our cruise excursions attract a diverse group of people, an even more extensive group will become **familiar with** your restaurant chain.
-178. *(Test 10 · Part 7)* If you are **interested in** pursuing this proposition and wish to discuss the details, you can reach me at kbasrawi@aquavoyagecruiselines.de or by phone at 30-23125 032.
-179. *(Test 10 · Part 7)* For 47 years now, I believe we have been quite **successful in** this endeavour."
-180. *(Test 10 · Part 7)* MAURELY CITY (August 29)—Using recycled materials has become **popular with** artists, and local sculptor Ida Alonso has happily embraced this trend.
-181. *(Test 10 · Part 7)* Before leaving, each attendee received a small notebook containing the recipe we made that day as well as a **few of** Mr. Bernal's other favourite recipes.
-182. *(Test 10 · Part 7)* If the value specified is **acceptable to** you and you wish to trade in your bicycle, we deduct that amount from the purchase price of your new bicycle.
-183. *(Test 10 · Part 7)* I am **excited about** starting work.
-184. *(Test 10 · Part 7)* How **much of** a time commitment is it?
-185. *(Test 10 · Part 7 – câu hỏi)* What is **true about** Hampton Landscaping?
-186. *(Test 10 · Part 7 – câu hỏi)* The word "solid" in paragraph 2, line 1, is **closest in** meaning to
-187. *(Test 10 · Part 7 – câu hỏi)* The word "reflects" in paragraph 3, line 5, is **closest in** meaning to
-188. *(Test 10 · Part 7 – câu hỏi)* In the article, the word "directing" in paragraph 1, line 10, is **closest in** meaning to
+1. *(Test 1 · Part 7)* Within three years, we expect to have geothermal wells installed and **operational for** the heating and cooling of our entire campus.
+2. *(Test 1 · Part 7)* If all goes according to schedule, the crew will be drilling **adjacent to** the Red Hills Business District and Oak Street Apartments starting Wednesday, June 5.
+3. *(Test 1 · Part 7)* "I was very **pleased with** the thoroughness of their work."
+4. *(Test 1 · Part 7)* I was very **pleased with** the thoroughness of their work.
+5. *(Test 1 · Part 7)* Even though she was new, she was very **knowledgeable about** all the trucks on the lot that we wanted to test drive.
+6. *(Test 1 · Part 7)* We were very **pleased with** the customer service and even more delighted when the general manager agreed to sell us the Excelera for the same price that a competing dealership was advertising.
+7. *(Test 1 · Part 7)* She has become very **knowledgeable about** our inventory and is able to share her knowledge with customers to complete sales.
+8. *(Test 1 · Part 7)* She has also been **instrumental in** encouraging satisfied customers to post comments on our social media pages.
+9. *(Test 1 · Part 7 – câu hỏi)* The word "just" in paragraph 1, line 8, is **closest in** meaning to
+10. *(Test 1 · Part 7 – câu hỏi)* In the e-mail, the word "conduct" in paragraph 2, line 1, is **closest in** meaning to
+11. *(Test 1 · Part 7 – câu hỏi)* What is most likely **true about** Ms. Boyd?
+12. *(Test 2 · Part 5)* The staff was **grateful for** the information that Mr. Schuller distributed at the meeting.
+13. *(Test 2 · Part 6)* We are **committed to** baking Muffin Lady Muffins authentically with only the finest ingredients.
+14. *(Test 2 · Part 7)* The Nibora XC-35 is **available as** a gas-powered vehicle or a hybrid.
+15. *(Test 2 · Part 7)* All vehicles come **standard with** all-wheel drive and a navigation system with phone pairing.
+16. *(Test 2 · Part 7)* Options **available for** the XC-35 include a sunroof, a Sonic Boom stereo system, cruise control, a roof rack, and more.
+17. *(Test 2 · Part 7)* If you are **interested in** scheduling our services, please fill out our online information form on our Web site.
+18. *(Test 2 · Part 7)* Tickets for the event are $100 per person and are **available for** purchase until August 10 at www.portlandfriendsofthewild.org/fund-raiser.
+19. *(Test 2 · Part 7)* I am **interested in** bringing my Art 103 class to view and sketch some of the pieces you have on display.
+20. *(Test 2 · Part 7)* The hotel Web site is not crystal **clear about** transportation options.
+21. *(Test 2 · Part 7)* Since I am not **familiar with** this part of the country, I e-mailed the hotel, and someone responded immediately.
+22. *(Test 2 · Part 7 – câu hỏi)* The word "points" in paragraph 2, line 2, is **closest in** meaning to
+23. *(Test 2 · Part 7 – câu hỏi)* The word "assure" in paragraph 2, line 1, is **closest in** meaning to \_\_\_
+24. *(Test 2 · Part 7 – câu hỏi)* What is most likely **true about** the Cambridge fabric sample listed on the invoice?
+25. *(Test 2 · Part 7 – câu hỏi)* In the e-mail, the word "last" in paragraph 2, line 4, is **closest in** meaning to
+26. *(Test 2 · Part 7 – câu hỏi)* What is **true about** Mr. Cleary?
+27. *(Test 2 · Part 7 – câu hỏi)* What is most likely **true about** the order placed by Macker Drugstores?
+28. *(Test 2 · Part 7 – câu hỏi)* What is most likely **true about** the Dalton light-rail station?
+29. *(Test 3 · Part 5)* Despite her youth, Ms. Cho is already quite **popular on** social media.
+30. *(Test 3 · Part 6)* We are **thrilled about** her promotion.
+31. *(Test 3 · Part 7)* The description says it's **ideal for** retailers needing storage space, and it offers temporary rental terms.
+32. *(Test 3 · Part 7)* Our public relations staff was **impressed with** your insights into effective cross-cultural communication.
+33. *(Test 3 · Part 7)* The regular work hours for this full-time position are Monday through Friday, 9:00 A.M. to 5:00 P.M. Salary is **commensurate with** experience.
+34. *(Test 3 · Part 7)* She is especially **enthusiastic about** the project because the city's elementary school borders the park.
+35. *(Test 3 · Part 7)* For more than 40 years, we have been building high-quality, eco-friendly bicycles that are **good for** the health of both people and the planet.
+36. *(Test 3 · Part 7)* Branxley Cycles cargo bicycles have become very **popular with** area businesses; I see them everywhere now.
+37. *(Test 3 · Part 7)* I am very **happy with** my Branxley Cycles purchase, and I recommend it to everybody that comments on it as I ride it around town.
+38. *(Test 3 · Part 7)* After our long day around town, we were **grateful for** the theatre's new, comfortable seating.
+39. *(Test 3 · Part 7)* Both classes are studying how to identify and analyze historical artifacts, so he was very **happy with** the topic of our lecture this month.
+40. *(Test 3 · Part 7 – câu hỏi)* What is most likely **true about** Dr. Able?
+41. *(Test 3 · Part 7 – câu hỏi)* According to the Web page, what is **true about** Branxley Cycles?
+42. *(Test 3 · Part 7 – câu hỏi)* In the review, the word "meet" in paragraph 1, line 8, is **closest in** meaning to (A) reach
+43. *(Test 3 · Part 7 – câu hỏi)* In the review, the word "appreciates" in paragraph 2, line 3, is **closest in** meaning to (A) values (B) increases (C) comprehends (D) knows
+44. *(Test 4 · Part 5)* All documents pertaining to the company merger will become **available to** the public within one year.
+45. *(Test 4 · Part 7)* The boots arrived yesterday, but unfortunately, their actual colour is **different from** the colour pictured on your Web site.
+46. *(Test 4 · Part 7)* Since you are **interested in** a paler colour, I recommend sand.
+47. *(Test 4 · Part 7)* Accordingly, the Hale City Parks Department has scheduled its first volunteer cleanup event, Trail Cleanup Day, on August 12, from 9:00 A.M. to 2:00 P.M. Those **interested in** volunteering may register online at www.halecityparks.org/events.
+48. *(Test 4 · Part 7)* If you are **interested in** contributing this year, please e-mail me the details about your submission.
+49. *(Test 4 · Part 7)* I am planning to contribute a piece of art again this year, but I've noticed its subject is very **similar to** that of another piece listed in your e-mail attachment.
+50. *(Test 4 · Part 7 – câu hỏi)* According to the article, who is **responsible for** engineering the device?
+51. *(Test 4 · Part 7 – câu hỏi)* The word "initiative" in paragraph 2, line 3, is **closest in** meaning to
+52. *(Test 4 · Part 7 – câu hỏi)* What is **true about** the event Mr. Sato will attend?
+53. *(Test 4 · Part 7 – câu hỏi)* What plan is designed for a subscriber who is only **interested in** a single team?
+54. *(Test 4 · Part 7 – câu hỏi)* What is **unique about** the TBC Platinum Plan?
+55. *(Test 4 · Part 7 – câu hỏi)* What is **true about** the Brentler Heights Gallery?
+56. *(Test 4 · Part 7 – câu hỏi)* In the article, the word "function" in paragraph 3, line 7, is **closest in** meaning to (A) occupation (B) use (C) organization (D) gathering
+57. *(Test 4 · Part 7 – câu hỏi)* What color is currently NOT **available for** boots in the Erin style?
+58. *(Test 4 · Part 7 – câu hỏi)* What most likely is **true about** Trail Cleanup Day?
+59. *(Test 4 · Part 7 – câu hỏi)* What piece of art is **similar in** subject to Mr. Orou's painting?
+60. *(Test 5 · Part 5)* Employees are **eligible for** more vacation time after they have been employed for five years.
+61. *(Test 5 · Part 5)* The department supervisor is **responsible for** ensuring that all safety gear is stowed properly at the end of the shift.
+62. *(Test 5 · Part 5)* The experiment's initial results were wildly **different from** what was expected.
+63. *(Test 5 · Part 6)* We would love to work with you to create an inviting space that you can be **proud of**.
+64. *(Test 5 · Part 7)* Employees who need to convert their videos from the format Zipvid uses to a format **compatible with** Curtain Call should install the converter utility to their work computers.
+65. *(Test 5 · Part 7)* Because we take safety seriously, we urge any employee who becomes **aware of** a breach of these protocols to contact a supervisor or the safety coordinator.
+66. *(Test 5 · Part 7)* I have a small business and am **dependent on** my equipment.
+67. *(Test 5 · Part 7)* Finally, our recently launched online stock-trading platform, **available to** you at no charge, is excellent for allowing investors to manage their finances at their own pace.
+68. *(Test 5 · Part 7 – câu hỏi)* The word "turn" in paragraph 5, line 4, is **closest in** meaning to
+69. *(Test 5 · Part 7 – câu hỏi)* The word "measures" in paragraph 1, line 6, is **closest in** meaning to
+70. *(Test 5 · Part 7 – câu hỏi)* In the e-mail, the word "full" in paragraph 1, line 7, is **closest in** meaning to
+71. *(Test 5 · Part 7 – câu hỏi)* What is most likely **true about** the Digital Graphic Designers Conference?
+72. *(Test 5 · Part 7 – câu hỏi)* Based on the form, what is **true about** Ms. Park?
+73. *(Test 6 · Part 5)* Mr. Nakayama was named Employee of the Year, despite being **new to** the company.
+74. *(Test 6 · Part 6)* Departments will be **responsible for** picking up and distributing their own mail.
+75. *(Test 6 · Part 6)* Mail will be **available for** pickup by 10:00 A.M. each morning.
+76. *(Test 6 · Part 7)* They are also **great for** adding to your favorite cereal in the morning.
+77. *(Test 6 · Part 7)* If you are **interested in** hardscape features such as brick pathways or rustic stone walls, we will provide recommendations on materials and styles that suit your tastes.
+78. *(Test 6 · Part 7)* A reader recently asked whether any innovations in 3-D printing are **pertinent to** the board game industry.
+79. *(Test 6 · Part 7)* This is particularly **relevant to** small-batch production of board games.
+80. *(Test 6 · Part 7)* Small batches are **ideal for** limited-edition games and new versions of existing games.
+81. *(Test 6 · Part 7)* Repose Lounge passes are **available for** $180 and are valid for one year from the date of purchase.
+82. *(Test 6 · Part 7)* Finally, on Saturday, 500 tree saplings will be offered to residents **free of** charge.
+83. *(Test 6 · Part 7)* The trees are **native to** the region and can be planted in private gardens or in some public areas.
+84. *(Test 6 · Part 7)* Hosting a tour garden is **free for** members of the Alamito Botanical Society.
+85. *(Test 6 · Part 7)* Gardens selected to participate in the tour must be within Presidio County and include only plants **native to** the region.
+86. *(Test 6 · Part 7)* I must admit that beautiful lavender bushes that are not **native to** the area were already growing on the property before I purchased it.
+87. *(Test 6 · Part 7)* March: Nourish the Neighbors - Understand how to use plants **native to** our region to create landscapes that are inviting to wildlife.
+88. *(Test 6 · Part 7)* Even though you have less space for vehicles than we normally require, Pink Ridge Ranch might be **suitable for** our smaller events with fewer than 25 people.
+89. *(Test 6 · Part 7 – câu hỏi)* The word "driven" in paragraph 1, line 5, is **closest in** meaning to
+90. *(Test 6 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Torres?
+91. *(Test 6 · Part 7 – câu hỏi)* The word "space" in paragraph 1, line 2, is **closest in** meaning to
+92. *(Test 6 · Part 7 – câu hỏi)* In the second e-mail, the word "note" in paragraph 2, line 1, is **closest in** meaning to
+93. *(Test 6 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Cumberland?
+94. *(Test 7 · Part 5)* Dumbbells, also known as free weights, are **useful for** keeping fit at home.
+95. *(Test 7 · Part 6)* can be, it will be In addition listed as a rental **available to** a new tenant on April 1.
+96. *(Test 7 · Part 7)* The bistro faces the street and will be **open to** the public even when no performances are scheduled.
+97. *(Test 7 · Part 7)* “I look forward to leveraging the company’s abundant talent to build EVs that are **affordable to** a mass market.
+98. *(Test 7 · Part 7)* The vehicles must be offered at a price that is **reasonable for** the average consumer.”
+99. *(Test 7 · Part 7)* The exhibit will be **open to** members and private group tours starting August 15 and to the general public starting September 2.
+100. *(Test 7 · Part 7)* Visitors love that it is automatic, and everyone is grateful that the lobby is no longer wet and slippery because of umbrellas **dripping with** water!
+101. *(Test 7 · Part 7 – câu hỏi)* What is most likely **true about** Ms. Ikeda?
+102. *(Test 7 · Part 7 – câu hỏi)* What is **special about** the Radar?
+103. *(Test 7 · Part 7 – câu hỏi)* What is most likely **true about** the job interviews?
+104. *(Test 7 · Part 7 – câu hỏi)* In the advertisement, the word "original" in paragraph 2, line 1, is **closest in** meaning to (A) first
+105. *(Test 7 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Ogawa?
+106. *(Test 8 · Part 5)* Customer loyalty programs are **profitable for** many retail businesses.
+107. *(Test 8 · Part 6)* The Tipti PX200 is intended for video bloggers and online content creators, but it is **unsuitable for** filmmakers needing a greater range of features.
+108. *(Test 8 · Part 7)* I was **concerned about** taking the course online; however, it covered all the material from the on-site training that I had for my original certification—and more.
+109. *(Test 8 · Part 7)* She answered all my questions and was **attuned to** the challenges that forklift operators face.
+110. *(Test 8 · Part 7 – câu hỏi)* What is most likely **true about** Ms. Trujillo?
+111. *(Test 8 · Part 7 – câu hỏi)* What is Mr. Maalim most **famous for** doing?
+112. *(Test 8 · Part 7 – câu hỏi)* In the advertisement, the word "accessible" in paragraph 2, line 4, is **closest in** meaning to
+113. *(Test 8 · Part 7 – câu hỏi)* In the review, the word "situated" in paragraph 3, line 2, is **closest in** meaning to
+114. *(Test 8 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Cheung?
+115. *(Test 9 · Part 5)* Our records indicate that your company car is **due for** regular service next month.
+116. *(Test 9 · Part 5)* The customer neglected to buy an extended warranty on the dishwasher, so it is not **eligible for** a free repair.
+117. *(Test 9 · Part 5)* Although much of the material was **technical in** nature, the audience appeared to remain engaged throughout Ms. Sharma's presentation.
+118. *(Test 9 · Part 5)* All Baraantec Ltd. hand tools undergo rigorous inspections to ensure they are **free of** defects.
+119. *(Test 9 · Part 6)* Furniture stores **interested in** offering our products should contact Nya Fernaut, sales director.
+120. *(Test 9 · Part 7)* I am **sorry for** any miscommunication.
+121. *(Test 9 · Part 7)* If you are **interested in** participating, please call me at 020 7946 0532.
+122. *(Test 9 · Part 7)* Therefore, when you are composing a personal statement, it is important to be **thoughtful about** issues such as word choice and tone.
+123. *(Test 9 · Part 7)* However, customers may not be **familiar with** our intensive special cleaning services.
+124. *(Test 9 · Part 7)* In fact, we just completed the first aerial videos for Kwanduma Realty Ltd., and everyone is very **pleased with** the results.”
+125. *(Test 9 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Hong's account?
+126. *(Test 9 · Part 7 – câu hỏi)* The word "ordinarily" in paragraph 1, line 1, is **closest in** meaning to
+127. *(Test 9 · Part 7 – câu hỏi)* What is most likely **true about** Mr. Singh?
+128. *(Test 9 · Part 7 – câu hỏi)* In the online review, the word "just" in paragraph 2, line 2, is **closest in** meaning to
+129. *(Test 9 · Part 7 – câu hỏi)* What is most likely **true about** Lunsklip Construction?
+130. *(Test 10 · Part 7)* Please note that the requested delivery area must be **accessible for** our trucks.
+131. *(Test 10 · Part 7)* Since our cruise excursions attract a diverse group of people, an even more extensive group will become **familiar with** your restaurant chain.
+132. *(Test 10 · Part 7)* If you are **interested in** pursuing this proposition and wish to discuss the details, you can reach me at kbasrawi@aquavoyagecruiselines.de or by phone at 30-23125 032.
+133. *(Test 10 · Part 7)* For 47 years now, I believe we have been quite **successful in** this endeavour."
+134. *(Test 10 · Part 7)* MAURELY CITY (August 29)—Using recycled materials has become **popular with** artists, and local sculptor Ida Alonso has happily embraced this trend.
+135. *(Test 10 · Part 7)* If the value specified is **acceptable to** you and you wish to trade in your bicycle, we deduct that amount from the purchase price of your new bicycle.
+136. *(Test 10 · Part 7)* I am **excited about** starting work.
+137. *(Test 10 · Part 7 – câu hỏi)* What is **true about** Hampton Landscaping?
+138. *(Test 10 · Part 7 – câu hỏi)* The word "solid" in paragraph 2, line 1, is **closest in** meaning to
+139. *(Test 10 · Part 7 – câu hỏi)* The word "reflects" in paragraph 3, line 5, is **closest in** meaning to
+140. *(Test 10 · Part 7 – câu hỏi)* In the article, the word "directing" in paragraph 1, line 10, is **closest in** meaning to
 
 **🎧 Listening**
 
-1. *(Test 1 · Listening)* Why don't you tell me **more about** your sports equipment.
-2. *(Test 1 · Listening)* And recording of the full interview with the CEO is **available on** our Web site.
-3. *(Test 1 · Listening – đáp án)* They are **available in** multiple colors.
-4. *(Test 1 · Listening – đáp án)* She is **pleased with** it.
-5. *(Test 2 · Listening)* He has **several of** them.
-6. *(Test 4 · Listening)* **Contrary to** popular belief, 57 television is definitely not the entire advertising landscape.
-7. *(Test 4 · Listening)* Hopefully, it'll be as **successful as** last year.
-8. *(Test 4 · Listening – đáp án)* He is not **responsible for** some results.
-9. *(Test 5 · Listening)* In which area of the city does the business make **most of** its deliveries?
-10. *(Test 5 · Listening)* **Many of** them have cracked glass and broken benches.
-11. *(Test 5 · Listening – đáp án)* There are beverages **available inside** a tent.
-12. *(Test 5 · Listening – đáp án)* She is **concerned about** quality.
-13. *(Test 5 · Listening – đáp án)* He is **excited about** a challenge.
-14. *(Test 5 · Listening – đáp án)* He is **doubtful about** a suggestion.
-15. *(Test 5 · Listening – đáp án)* She is **happy about** the popularity of a tour.
-16. *(Test 5 · Listening – đáp án)* A shop is not **big** enough **for** everyone.
-17. *(Test 5 · Listening – đáp án)* **Many of** them are sold out.
-18. *(Test 6 · Listening – đáp án)* She is **new to** the job.
-19. *(Test 6 · Listening – đáp án)* She is **busy with** another task.
-20. *(Test 7 · Listening – đáp án)* She is **late for** an appointment.
-21. *(Test 7 · Listening – đáp án)* She is **unfamiliar with** a location.
-22. *(Test 8 · Listening)* But for perspective, the city spends **more than** that every year to hire divers to repair broken equipment.
-23. *(Test 9 · Listening)* Ms. Lambert is **responsible for** the payroll.
-24. *(Test 9 · Listening)* But in the next few eventually become as **common as** recycling aluminum is now.
-25. *(Test 9 · Listening)* Why is the woman **unsure about** a candidate?
-26. *(Test 9 · Listening)* What does the speaker say is **available on** board the boat?
-27. *(Test 9 · Listening – đáp án)* Its services are **free of** charge.
-28. *(Test 10 · Listening)* Do you think Ms. Wang would be **interested in** joining the event planning committee?
-29. *(Test 10 · Listening)* I can have the paint **ready for** you by Friday.
+1. *(Test 1 · Listening – đáp án)* She is **pleased with** it.
+2. *(Test 4 · Listening)* **Contrary to** popular belief, 57 television is definitely not the entire advertising landscape.
+3. *(Test 4 · Listening – đáp án)* He is not **responsible for** some results.
+4. *(Test 5 · Listening – đáp án)* She is **concerned about** quality.
+5. *(Test 5 · Listening – đáp án)* He is **excited about** a challenge.
+6. *(Test 5 · Listening – đáp án)* He is **doubtful about** a suggestion.
+7. *(Test 5 · Listening – đáp án)* She is **happy about** the popularity of a tour.
+8. *(Test 5 · Listening – đáp án)* A shop is not **big** enough **for** everyone.
+9. *(Test 6 · Listening – đáp án)* She is **new to** the job.
+10. *(Test 6 · Listening – đáp án)* She is **busy with** another task.
+11. *(Test 7 · Listening – đáp án)* She is **late for** an appointment.
+12. *(Test 7 · Listening – đáp án)* She is **unfamiliar with** a location.
+13. *(Test 9 · Listening)* Ms. Lambert is **responsible for** the payroll.
+14. *(Test 9 · Listening)* Why is the woman **unsure about** a candidate?
+15. *(Test 9 · Listening – đáp án)* Its services are **free of** charge.
+16. *(Test 10 · Listening)* Do you think Ms. Wang would be **interested in** joining the event planning committee?
+17. *(Test 10 · Listening)* I can have the paint **ready for** you by Friday.
 
 ---
 

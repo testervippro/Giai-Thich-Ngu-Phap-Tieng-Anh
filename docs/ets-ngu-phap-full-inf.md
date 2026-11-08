@@ -641,7 +641,7 @@
 111. *(Test 10 · Part 7)* There are several benefits **of entering** into a partnership with us.
 112. *(Test 10 · Part 7)* If you are interested **in pursuing** this proposition and wish to discuss the details, you can reach me at kbasrawi@aquavoyagecruiselines.de or by phone at 30-23125 032.
 113. *(Test 10 · Part 7)* Maxwell Diego (4:04 P.M.) Then you'll have to wait ten more minutes **before reopening**.
-114. *(Test 10 · Part 7)* For example, with the online retailer Clothing Discounters rapidly expanding, we assisted the company in increasing its call-center capability. → *with expanding*
+114. *(Test 10 · Part 7)* For example, **with** the online retailer Clothing Discounters rapidly **expanding**, we assisted the company in increasing its call-center capability.
 115. *(Test 10 · Part 7)* **Before leaving**, each attendee received a small notebook containing the recipe we made that day as well as a few of Mr. Bernal's other favourite recipes.
 116. *(Test 10 · Part 7)* Her innovations **in treating** eye diseases have benefited thousands of patients worldwide.
 117. *(Test 10 · Part 7)* I am sure I am not alone **in saying** that the highlight of the conference was your keynote address.
@@ -690,7 +690,7 @@
 13. *(Test 2 · Part 7)* The magazine is sent free upon request to mid- and upper-level managers of dealerships with fleets of 25 or more vehicles for transporting goods nationwide. → *managers to mid-*
 14. *(Test 2 · Part 7)* **Call** (615) 555-0118 **to schedule** a visit for a free consultation.
 15. *(Test 2 · Part 7)* We wanted to take the **opportunity to suggest** some other items you might like.
-16. *(Test 2 · Part 7)* With significant clearance from the ground and strong stabilization to protect from bumps, the Nibora XC-35 offers a smooth ride even on the roughest terrain and will give you the confidence to take it on any wilderness adventure. → *clearance to protect*
+16. *(Test 2 · Part 7)* With significant **clearance** from the ground and strong stabilization **to protect** from bumps, the Nibora XC-35 offers a smooth ride even on the roughest terrain and will give you the confidence to take it on any wilderness adventure.
 17. *(Test 2 · Part 7)* Judging from the pictures on the Web site, the hotel looks like a beautiful **place to stay**.
 18. *(Test 3 · Part 5)* A monthly newsletter is an excellent **way to promote** your group's activities and events.
 19. *(Test 3 · Part 7)* Neeck Associates is looking to hire a report **reviewer to join** our New York regional team.
@@ -700,7 +700,7 @@
 23. *(Test 3 · Part 7)* Eric Kim says that he has no critical new **information to share** with you at his 2:00 P.M. meeting with you on Friday, so I can postpone that.
 24. *(Test 4 · Part 5)* The city's development committee is looking for a **location to plant** a community garden.
 25. *(Test 4 · Part 7)* Dr. Hugh Jaris, director of the lab's Remote Sensing Unit, will lead the **effort to test** one or more prototypes by collecting and analysing data next winter.
-26. *(Test 4 · Part 7)* She was the driving force behind that company's mission to develop accessibility products to enhance independent living in South Africa's domestic market. → *force to develop*
+26. *(Test 4 · Part 7)* She was the driving **force** behind that company's mission **to develop** accessibility products to enhance independent living in South Africa's domestic market.
 27. *(Test 4 · Part 7)* We could use that as an **example** for customers **to follow**.
 28. *(Test 5 · Part 7)* I would like to schedule a **time to revisit** your property and discuss your landscaping project in more detail.
 29. *(Test 5 · Part 7)* He recalled, "It took a long **time to turn** a profit.
@@ -726,7 +726,7 @@
 49. *(Test 8 · Part 7)* This year's staff gathering features a new twist: an online trivia **competition to test** your knowledge of popular culture, sports, and entertainment.
 50. *(Test 8 · Part 7)* Either party may cancel the agreement without obligation to the other as long as written notice of **intent to cancel** is provided at least 30 days before the date of the event.
 51. *(Test 8 · Part 7)* The council approved a **resolution to earmark** $1.5 million for costs related to establishing Winglite Airlines service at the Arlford Regional Airport.
-52. *(Test 8 · Part 7)* Chief among these is the construction of another lane on Aviation Boulevard to accommodate the expected increase in airport traffic. → *construction to accommodate*
+52. *(Test 8 · Part 7)* Chief among these is the **construction** of another lane on Aviation Boulevard **to accommodate** the expected increase in airport traffic.
 53. *(Test 8 · Part 7)* ARLFORD (18 March)—Darwin-based carrier Winglite Airlines has announced **plans to begin** nonstop daily flights between Arlford Regional Airport and Cranton.
 54. *(Test 9 · Part 7)* I'll then send you a personal release **form to fill** out, and we can arrange to meet for a 30- to 45-minute interview.
 55. *(Test 9 · Part 7)* This can be an effective way of demonstrating to a prospective employer your **ability to overcome** challenges.
@@ -859,7 +859,7 @@
 **📖 Reading**
 
 1. *(Test 1 · Part 7)* I want to e-mail account holders aged 55 to 65 to **invite them to meet** with a retirement planning expert.
-2. *(Test 1 · Part 7)* We want to tell business owners and residents near the campus to expect a higher-than-usual noise level during the two weeks we estimate it will take to complete the work. → *tell owners to expect*
+2. *(Test 1 · Part 7)* We want to **tell** business **owners** and residents near the campus **to expect** a higher-than-usual noise level during the two weeks we estimate it will take to complete the work.
 3. *(Test 1 · Part 7)* She has also been instrumental in **encouraging** satisfied **customers to post** comments on our social media pages.
 4. *(Test 1 · Part 7 – câu hỏi)* What does Ms. Correa **ask members** of the sales team **to do**?
 5. *(Test 2 · Part 5)* Though it is occasionally inconvenient, Mr. Ohtani **expects** all team **members to attend** his weekly meeting.
@@ -1118,7 +1118,7 @@
 8. *(Test 5 · Part 5)* Cayfair Global's primary mission **is to transport** and deliver client goods in a timely manner.
 9. *(Test 5 · Part 7)* That**'s** wonderful **to hear**!
 10. *(Test 6 · Part 5)* It **is** important **to be** especially polite when in the company of new clients.
-11. *(Test 6 · Part 5)* Anyone who is unable to attend the quarterly stakeholder meeting **is** welcome **to appoint** a representative.
+11. *(Test 6 · Part 5)* Anyone who **is** unable **to** attend the quarterly stakeholder meeting is welcome to **appoint** a representative.
 12. *(Test 6 · Part 6)* It **is** up **to** the department head to **determine** how best to assign this responsibility.
 13. *(Test 7 · Part 5)* When Ms. Liu was hired, the intention **was to train** her to work in the chemistry lab.
 14. *(Test 7 · Part 7)* As you know, it **is** our policy **to charge** the full appointment fee for missed appointments unless the patient notifies us at least 24 hours in advance of the scheduled visit.
@@ -1209,7 +1209,7 @@
 
 1. *(Test 1 · Part 6)* I **look** forward **to hearing** from you.
 2. *(Test 1 · Part 6)* We thank you for your business and **look** forward **to serving** you again.
-3. *(Test 1 · Part 7)* In addition to roof replacement, we offer a wide array of services, from attic insulation and gutter restoration to fixing leaks and installing solar panels. → *from to fixing*
+3. *(Test 1 · Part 7)* In addition to roof replacement, we offer a wide array of services, **from** attic insulation and gutter restoration **to fixing** leaks and installing solar panels.
 4. *(Test 2 · Part 6)* We are **committed to baking** Muffin Lady Muffins authentically with only the finest ingredients.
 5. *(Test 2 · Part 7)* We **look** forward **to helping** you fill your closet with our latest styles!
 6. *(Test 3 · Part 6)* We **look** forward **to seeing** you there.

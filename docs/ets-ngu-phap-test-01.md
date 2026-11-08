@@ -422,7 +422,7 @@
 >
 > ⏱️ [Thì](TENSES.md): Hiện tại hoàn thành *has worked*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ nơi chốn (at) *at Lochston Ltd.* · Động từ + giới từ (collocation) *work with* · Giới từ chỉ thời gian (for) *for more than twenty years*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ nơi chốn (at) *at Lochston Ltd.* · Giới từ chỉ thời gian (for) *for more than twenty years*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *analytics officer*
 >
@@ -690,7 +690,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Giới từ + V-ing *for being*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *our family*
 
@@ -798,7 +798,7 @@
 
 > ⏱️ [Thì](TENSES.md): Hiện tại đơn *Thank*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for* · Danh từ + giới từ (collocation) *visit to*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for* · Danh từ + giới từ (collocation) *visit to*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your visit*
 
@@ -906,7 +906,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): and nối 2 động từ/cụm động từ song song *thank … and look*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your business*
 
@@ -1020,7 +1020,7 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Đại từ chỉ định (this/that/these/those) *That*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *more than* · Tính từ làm bổ ngữ sau be *is more*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *is more*
 >
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): more/less than + số lượng *more than last*
 
@@ -1442,7 +1442,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *Hamerkoptech's newly redesigned Web site* · Đồng vị ngữ (N, N bổ sung) *site, www.hamerkoptech.co.nz*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ dạng V3/-ed (phân từ quá khứ) *redesigned site* · Tính từ + giới từ *more about*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ dạng V3/-ed (phân từ quá khứ) *redesigned site*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ bổ nghĩa cho tính từ *newly redesigned*
 
@@ -1570,7 +1570,7 @@
 >
 > 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ thời gian (in) *in November*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available in* · Tính từ làm bổ ngữ sau be *be available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *be available*
 
 **50.** <sub>(đoạn văn trước câu 161)</sub> Frozen fish and other seafood will be added early next year.
 
@@ -1788,7 +1788,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *restaurant's employees* · Sở hữu cách ('s) *Marco's Italian Market* · Sở hữu cách ('s) *market's busy season*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *many of* · Tính từ làm bổ ngữ sau be *were able*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *were able*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): many of + the/tính từ sở hữu + N *many of the restaurant's* · both + N số nhiều *both businesses*
 
@@ -1821,8 +1821,6 @@
 > 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *return to* · Giới từ chỉ nơi chốn (in) *in the restaurant*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *work*
->
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *Most of*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): most of + the/tính từ sở hữu + N *most of* · most of + the/tính từ sở hữu + N *Most of those employees*
 
@@ -3832,7 +3830,7 @@
 >
 > ⏱️ [Thì](TENSES.md): Hiện tại đơn *are*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available in* · Tính từ làm bổ ngữ sau be *are available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *are available*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): multiple + N số nhiều *multiple colors*
 
@@ -4551,8 +4549,6 @@
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Từ để hỏi + to V (how/what/where/which to V) *want to dispose*
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What does the man*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *dispose of*
 
 **15.** I was just in the neighborhood and of cake.
 
@@ -4613,8 +4609,6 @@
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *sports equipment* · Danh từ không đếm được (không thêm -s, không dùng a/an) *equipment*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your equipment*
->
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *more about*
 
 **22.** It would allow us to capture our production line.
 
@@ -4672,7 +4666,7 @@
 
 > ⏱️ [Thì](TENSES.md): Hiện tại đơn *Thank*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your patience*
 
@@ -4804,7 +4798,7 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *our site*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available on* · Tính từ làm bổ ngữ sau be *is available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *is available*
 
 **38.** Let me show you the laboratory analysis of our exploratory drilling.
 

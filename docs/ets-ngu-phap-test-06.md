@@ -76,7 +76,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *Café's Web site*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available on* · Tính từ làm bổ ngữ sau be *is available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *is available*
 
 **Câu 106.** Mayor Park plans to meet with his campaign staff **following** the televised debate.
 
@@ -610,8 +610,6 @@
 >
 > ⏱️ [Thì](TENSES.md): Hiện tại đơn *leads*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *lead to*
->
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *our entrance*
 
 **12.** <sub>(đoạn văn trước câu 139)</sub> **inconvenience** and thank you for your patience.
@@ -620,7 +618,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): and nối 2 động từ/cụm động từ song song *inconvenience … and thank*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your patience*
 
@@ -1218,7 +1216,7 @@
 >
 > ⏱️ [Thì](TENSES.md): Hiện tại đơn *apologise*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *longer than* · Tính từ ghép có gạch nối *longer-than*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ ghép có gạch nối *longer-than*
 >
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): So sánh hơn (… than) *longer than*
 
@@ -1593,8 +1591,6 @@
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): To V chỉ mục đích *to pick up any rubbish*
 >
 > 🧷 [Cụm động từ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Cụm động từ (V + tiểu từ) *pick up*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *work on*
 >
 > 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ dạng V3/-ed (phân từ quá khứ) *fallen branches*
 >
@@ -2142,7 +2138,7 @@
 >
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ khuyết thiếu can + V nguyên mẫu *can prevent*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *prevent from*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *prevent … from*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your fruits*
 
@@ -2202,7 +2198,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): and nối 2 động từ/cụm động từ song song *pays … and provides* · Liên từ đẳng lập (or) *all or most*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *up to* · Động từ + giới từ (collocation) *pay for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *up to* · Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *pay … for*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *equipment*
 >
@@ -2567,8 +2563,6 @@
 > ⏱️ [Thì](TENSES.md): Quá khứ đơn *did provide*
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What did Ms. Schirmer*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *provide with*
 
 **Câu 160.** In what industry do Mr. Porter and Ms. Warner most likely work?
 
@@ -2874,7 +2868,7 @@
 >
 > 🔁 [Bị động](C%C3%A2u%20B%E1%BB%8B%20%C4%90%E1%BB%99ng.md): Bị động *being selected*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *prevent from*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *prevent … from*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *Olton's garden* · Danh từ ghép (N + N) *tour stop*
 >
@@ -3759,8 +3753,6 @@
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ + 2 tân ngữ (V + IO + DO) *ask What … man*
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What does the woman*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *ask for*
 
 **14.** What has the woman recently purchased?
 
@@ -3940,7 +3932,7 @@
 >
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ khuyết thiếu could + V nguyên mẫu *could provide*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *provide with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *provide … with*
 
 **4.** Where should I pick up my conference badge?
 
@@ -4071,8 +4063,6 @@
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ + 2 tân ngữ (V + IO + DO) *ask What … woman*
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What does the man*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *help with*
 
 **17.** What will take place next week?
 
@@ -4208,7 +4198,7 @@
 >
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ khuyết thiếu can + V nguyên mẫu *can help*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *help with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *help … with*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Đại từ chỉ định (this/that/these/those) *that*
 

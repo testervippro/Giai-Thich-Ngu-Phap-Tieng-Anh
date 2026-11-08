@@ -262,7 +262,7 @@
 >
 > 🤝 [Hòa hợp S-V](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Đại từ bất định làm chủ ngữ → động từ số ít *Something … is*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *prevent from*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *prevent … from*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *image files*
 >
@@ -438,7 +438,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *Sharma's presentation*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *much of* · Tính từ + giới từ *technical in* · Tính từ + giới từ *engaged throughout* · Tính từ làm bổ ngữ sau be *was technical* · Tính từ sau động từ nối (become/remain/seem…) *remain engaged* · Tính từ đuôi -ed (cảm nhận / bị tác động) *engaged*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *technical in* · Tính từ làm bổ ngữ sau be *was technical* · Tính từ sau động từ nối (become/remain/seem…) *remain engaged* · Tính từ đuôi -ed (cảm nhận / bị tác động) *engaged*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): much of + the/tính từ sở hữu + N *much of the material*
 
@@ -664,7 +664,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Giới từ + V-ing *for entrusting*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your business*
 
@@ -998,7 +998,7 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *our employees*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *many of* · Tính từ làm bổ ngữ sau be *is aware*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *is aware*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): also (vị trí: sau be/trợ động từ, trước động từ thường) *is also*
 >
@@ -1070,7 +1070,7 @@
 
 > ⏱️ [Thì](TENSES.md): Hiện tại đơn *Thank*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *assistance*
 >
@@ -1128,7 +1128,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *Teleteknic's previous phone models* · Danh từ ghép (N + N) *phone models*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *Most of* · Tính từ làm bổ ngữ sau be *are minor*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *are minor*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): most of + the/tính từ sở hữu + N *most of* · most of + the/tính từ sở hữu + N *Most of the changes*
 
@@ -1406,8 +1406,6 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ đẳng lập (or) *with or learn*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *work with*
->
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): also (vị trí: sau be/trợ động từ, trước động từ thường) *is also*
 
 **47.** <sub>(đoạn văn trước câu 161)</sub> Do not forget to mention the specific job you are applying for and explain why you would be a good fit.
@@ -1437,8 +1435,6 @@
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ khuyết thiếu can + V nguyên mẫu *can create*
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ phụ thuộc *as*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *apply for*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *information*
 >
@@ -1688,7 +1684,7 @@
 >
 > 🤝 [Hòa hợp S-V](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Chủ ngữ ghép A and B → động từ số nhiều *knowledge and … are*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *prior to* · Động từ + giới từ (collocation) *know as* · Danh từ + giới từ (collocation) *candidate for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *prior to* · Danh từ + giới từ (collocation) *candidate for*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *knowledge* · Danh từ ghép (N + N) *search committee*
 >
@@ -1712,7 +1708,7 @@
 >
 > ⏱️ [Thì](TENSES.md): Tương lai đơn *will compensate*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *compensate for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ thời gian (for) *For your time and effort*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your time*
 
@@ -1743,8 +1739,6 @@
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Đồng vị ngữ (N, N bổ sung) *DERRY, April 7)—The Regional History…* · Đồng vị ngữ (N, N bổ sung) *Museum, RHM*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *its exhibits*
->
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *many of*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): many of + the/tính từ sở hữu + N *many of its exhibits*
 
@@ -1896,7 +1890,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *museum's lobby*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available in* · Tính từ làm bổ ngữ sau be *are available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *are available*
 
 **80.** <sub>(đoạn văn trước câu 176)</sub> "Visitors will now be able to choose topics they want to learn more about."
 
@@ -1908,8 +1902,6 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Tính từ + to V *able to choose* · Động từ + to V *want to learn*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *learn about*
->
 > 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *be able*
 
 **81.** <sub>(đoạn văn trước câu 176)</sub> I work in Springdale, just 3 kilometers north of Somerville Park, on the same street where the festival took place, in fact.
@@ -1920,7 +1912,7 @@
 >
 > 🔗 [Mệnh đề](Menh%20De.md): MĐQH với where *street where the festival*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ nơi chốn (in) *in Springdale* · Động từ + giới từ (collocation) *work on*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ nơi chốn (in) *in Springdale*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ chỉ thời gian (already/recently/soon…) *just*
 >
@@ -2335,8 +2327,6 @@
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ + O + to V *allow him to learn*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Đại từ chỉ định (this/that/these/those) *This*
->
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *more about*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ chỉ thời gian (already/recently/soon…) *eventually*
 >
@@ -3839,8 +3829,6 @@
 > 🔗 [Mệnh đề](Menh%20De.md): Rút gọn MĐQH chủ động (N + V-ing) *speaker reporting*
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What is the speaker*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *report on*
 
 **11.** What is causing a problem?
 
@@ -4086,7 +4074,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ đẳng lập (but) *But in*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *common as* · Tính từ sau động từ nối (become/remain/seem…) *become common*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ sau động từ nối (become/remain/seem…) *become common*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ chỉ thời gian (already/recently/soon…) *eventually*
 >
@@ -4350,7 +4338,7 @@
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What does the speaker*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available on* · Tính từ làm bổ ngữ sau be *is available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *is available*
 >
 > 🅰️ [Mạo từ](M%E1%BA%A1o%20T%E1%BB%AB.md): Cụm cố định không dùng mạo từ *on board*
 

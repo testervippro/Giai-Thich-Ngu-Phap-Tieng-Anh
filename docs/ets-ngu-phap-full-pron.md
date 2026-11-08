@@ -97,7 +97,7 @@
 68. *(Test 1 · Part 7)* However, I still do not see the information I sent about **our** new **promotion** that will begin in mid-April, a free dessert with any sandwich purchase.
 69. *(Test 1 · Part 7)* It was announced in last month's Daily Gazette that Rilamore University is moving forward with **its** Net Zero **Initiative**.
 70. *(Test 1 · Part 7)* Within three years, we expect to have geothermal wells installed and operational for the heating and cooling of **our** entire **campus**.
-71. *(Test 1 · Part 7)* RED HILLS (May 25)—The Red Hills Business Association is shifting the dates of its much-anticipated Lunch Hour Concert Series. → *its Series*
+71. *(Test 1 · Part 7)* RED HILLS (May 25)—The Red Hills Business Association is shifting the dates of **its** much-anticipated Lunch Hour Concert **Series**.
 72. *(Test 1 · Part 7)* As usual, all three blocks of Oak Street will be closed to traffic, restaurants will serve lunch at outdoor tables, and local arts-and-crafts vendors will display **their work** on the lawn of the Cultural Center.
 73. *(Test 1 · Part 7)* **Our** project **supervisors** are always on-site to answer client questions, provide updates, and ensure a safe and clean worksite.
 74. *(Test 1 · Part 7)* To request a free roofing diagnosis, visit www.lawalhomeservice.com or call **our** booking **agent** at 310-555-0108.
@@ -636,7 +636,7 @@
 607. *(Test 10 · Part 7)* Many well-known businesses use Exelrate's services to obtain an accurate understanding of **their customers**' experiences.
 608. *(Test 10 · Part 7)* The recently promoted vice president of development, Rosa Martin, will be directing this expansion once she wraps up **her work** running the Customer Solutions Team at Exelrate's current headquarters in Frankfurt at the end of this month.
 609. *(Test 10 · Part 7)* Exelrate's building will feature a ground-level courtyard with seating areas for public use, symbolising **its insertion** into the community.
-610. *(Test 10 · Part 7)* Richmond Supermarket is now offering cooking classes in our own state-of-the-art kitchen, the same kitchen where we create flavourful soups, salads, and entrées for our prepared foods department. → *our kitchen*
+610. *(Test 10 · Part 7)* Richmond Supermarket is now offering cooking classes in **our** own state-of-the-art **kitchen**, the same kitchen where we create flavourful soups, salads, and entrées for our prepared foods department.
 611. *(Test 10 · Part 7)* Every Monday evening from 7:00 P.M. to 8:30 P.M. we turn **our kitchen** over to a guest chef from one of Richmond's many fine restaurants.
 612. *(Test 10 · Part 7)* Learn new techniques you can bring home to delight **your friends** and family!
 613. *(Test 10 · Part 7)* Classes sell out quickly, so reserve **your spot** today.

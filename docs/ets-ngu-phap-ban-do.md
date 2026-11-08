@@ -15,14 +15,14 @@
 | 1 | 🔤 [Danh từ](#noun) · [lý thuyết](Danh%20T%E1%BB%AB.md) | 2,068 | 14 |
 | 2 | 👤 [Đại từ](#pron) · [lý thuyết](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md) | 1,139 | 10 |
 | 3 | 🤝 [Hòa hợp S-V](#sva) · [lý thuyết](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) | 266 | 10 |
-| 4 | 🎨 [Tính từ](#adj) · [lý thuyết](T%C3%ADnh%20T%E1%BB%AB.md) | 1,213 | 13 |
+| 4 | 🎨 [Tính từ](#adj) · [lý thuyết](T%C3%ADnh%20T%E1%BB%AB.md) | 1,149 | 13 |
 | 5 | ⚡ [Trạng từ](#adv) · [lý thuyết](Tr%E1%BA%A1ng%20T%E1%BB%AB.md) | 747 | 16 |
 | 6 | 📊 [So sánh](#comp) · [lý thuyết](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md) | 413 | 13 |
 | 7 | 🏃 [Động từ](#verb) · [lý thuyết](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) | 571 | 17 |
 | 8 | 🧷 [Cụm động từ](#phr) · [lý thuyết](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) | 163 | 1 |
 | 9 | 🔁 [Bị động](#pass) · [lý thuyết](C%C3%A2u%20B%E1%BB%8B%20%C4%90%E1%BB%99ng.md) | 657 | 19 |
 | 10 | ✳️ [To V / V-ing](#inf) · [lý thuyết](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) | 1,073 | 21 |
-| 11 | 📍 [Giới từ](#prep) · [lý thuyết](Gi%E1%BB%9Bi%20T%E1%BB%AB.md) | 1,378 | 39 |
+| 11 | 📍 [Giới từ](#prep) · [lý thuyết](Gi%E1%BB%9Bi%20T%E1%BB%AB.md) | 1,333 | 40 |
 | 12 | 🧩 [Liên từ](#conj) · [lý thuyết](Li%C3%AAn%20T%E1%BB%AB.md) | 806 | 16 |
 | 13 | 🅰️ [Mạo từ](#art) · [lý thuyết](M%E1%BA%A1o%20T%E1%BB%AB.md) | 396 | 6 |
 | 14 | 🔢 [Lượng từ](#quant) · [lý thuyết](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md) | 591 | 60 |
@@ -376,12 +376,12 @@
 
 ## 4. 🎨 TÍNH TỪ
 
-> 📚 Lý thuyết: [TÍNH TỪ](T%C3%ADnh%20T%E1%BB%AB.md) · 1,213 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-adj.md)
+> 📚 Lý thuyết: [TÍNH TỪ](T%C3%ADnh%20T%E1%BB%AB.md) · 1,149 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-adj.md)
 
 | Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
 | [Tính từ làm bổ ngữ sau be](ets-ngu-phap-full-adj.md?id=p1) | 373 | 137 |
-| [Tính từ + giới từ](ets-ngu-phap-full-adj.md?id=p2) | 194 | 29 |
+| [Tính từ + giới từ](ets-ngu-phap-full-adj.md?id=p2) | 142 | 17 |
 | [Tính từ dạng V3/-ed (phân từ quá khứ)](ets-ngu-phap-full-adj.md?id=p3) | 100 | 9 |
 | [Tính từ đuôi -ed (cảm nhận / bị tác động)](ets-ngu-phap-full-adj.md?id=p4) | 92 | 13 |
 | [Tính từ ghép có gạch nối](ets-ngu-phap-full-adj.md?id=p5) | 60 | 4 |
@@ -404,13 +404,13 @@
 
 > 👉 [**Xem FULL đủ 510 câu** (373 Reading · 137 Listening) của mẫu này](ets-ngu-phap-full-adj.md?id=p1)
 
-**▸ Tính từ + giới từ** <small>(194 câu Reading · 29 câu Listening)</small>
+**▸ Tính từ + giới từ** <small>(142 câu Reading · 17 câu Listening)</small>
 
 - 📖 *(Test 6)* Small batches are **ideal for** limited-edition games and new versions of existing games.
 - 📖 *(Test 7)* The vehicles must be offered at a price that is **reasonable for** the average consumer.”
-- 🎧 *(Test 5)* There are beverages **available inside** a tent.
+- 🎧 *(Test 5)* She is **happy about** the popularity of a tour.
 
-> 👉 [**Xem FULL đủ 223 câu** (194 Reading · 29 Listening) của mẫu này](ets-ngu-phap-full-adj.md?id=p2)
+> 👉 [**Xem FULL đủ 159 câu** (142 Reading · 17 Listening) của mẫu này](ets-ngu-phap-full-adj.md?id=p2)
 
 **▸ Tính từ dạng V3/-ed (phân từ quá khứ)** <small>(100 câu Reading · 9 câu Listening)</small>
 
@@ -1332,59 +1332,60 @@
 
 ## 11. 📍 GIỚI TỪ
 
-> 📚 Lý thuyết: [GIỚI TỪ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md) · 1,378 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-prep.md)
+> 📚 Lý thuyết: [GIỚI TỪ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md) · 1,333 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-prep.md)
 
 | Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| [Động từ + giới từ (collocation)](ets-ngu-phap-full-prep.md?id=p1) | 209 | 70 |
+| [Động từ + giới từ (collocation)](ets-ngu-phap-full-prep.md?id=p1) | 138 | 47 |
 | [Giới từ kép / cụm giới từ](ets-ngu-phap-full-prep.md?id=p2) | 154 | 15 |
 | [Giới từ chỉ nơi chốn (in)](ets-ngu-phap-full-prep.md?id=p3) | 101 | 17 |
 | [Giới từ chỉ nơi chốn (at)](ets-ngu-phap-full-prep.md?id=p4) | 98 | 14 |
 | [Danh từ + giới từ (collocation)](ets-ngu-phap-full-prep.md?id=p5) | 82 | 7 |
 | [Giới từ chỉ thời gian (on)](ets-ngu-phap-full-prep.md?id=p6) | 79 | 7 |
-| [Giới từ chỉ thời gian (at)](ets-ngu-phap-full-prep.md?id=p7) | 61 | 11 |
+| [Giới từ chỉ thời gian (at)](ets-ngu-phap-full-prep.md?id=p7) | 62 | 11 |
 | [Giới từ chỉ nơi chốn (on)](ets-ngu-phap-full-prep.md?id=p8) | 43 | 22 |
 | [Giới từ chỉ thời gian (in)](ets-ngu-phap-full-prep.md?id=p9) | 47 | 7 |
-| [Giới từ chỉ thời gian (for)](ets-ngu-phap-full-prep.md?id=p10) | 38 | 9 |
-| [Giới từ chỉ nơi chốn (into)](ets-ngu-phap-full-prep.md?id=p11) | 26 | 6 |
-| [🎯 Đáp án là GIỚI TỪ (+ danh từ/V-ing)](ets-ngu-phap-full-prep.md?id=p12) | 28 | 0 |
-| [Giới từ chỉ thời gian (by)](ets-ngu-phap-full-prep.md?id=p13) | 23 | 2 |
-| [Giới từ chỉ thời gian (from)](ets-ngu-phap-full-prep.md?id=p14) | 18 | 1 |
-| [Giới từ chỉ thời gian (during)](ets-ngu-phap-full-prep.md?id=p15) | 14 | 0 |
-| [Giới từ chỉ thời gian (within)](ets-ngu-phap-full-prep.md?id=p16) | 13 | 1 |
-| [Giới từ chỉ thời gian (over)](ets-ngu-phap-full-prep.md?id=p17) | 12 | 1 |
-| [Giới từ chỉ nơi chốn (between)](ets-ngu-phap-full-prep.md?id=p18) | 11 | 2 |
-| [Giới từ chỉ thời gian (before)](ets-ngu-phap-full-prep.md?id=p19) | 11 | 1 |
-| [Giới từ chỉ nơi chốn (throughout)](ets-ngu-phap-full-prep.md?id=p20) | 8 | 4 |
-| [Giới từ chỉ thời gian (after)](ets-ngu-phap-full-prep.md?id=p21) | 11 | 0 |
-| [Giới từ chỉ nơi chốn (near)](ets-ngu-phap-full-prep.md?id=p22) | 7 | 3 |
-| [Giới từ chỉ thời gian (through)](ets-ngu-phap-full-prep.md?id=p23) | 9 | 1 |
-| [such as (ví dụ như) + N](ets-ngu-phap-full-prep.md?id=p24) | 9 | 0 |
-| [Giới từ chỉ nơi chốn (under)](ets-ngu-phap-full-prep.md?id=p25) | 6 | 3 |
-| [Giới từ chỉ nơi chốn (among)](ets-ngu-phap-full-prep.md?id=p26) | 8 | 0 |
-| [Giới từ chỉ thời gian (until)](ets-ngu-phap-full-prep.md?id=p27) | 6 | 1 |
-| [Giới từ chỉ nơi chốn (along)](ets-ngu-phap-full-prep.md?id=p28) | 4 | 3 |
-| [Giới từ chỉ nơi chốn (across)](ets-ngu-phap-full-prep.md?id=p29) | 3 | 3 |
-| [Giới từ chỉ thời gian (between)](ets-ngu-phap-full-prep.md?id=p30) | 6 | 0 |
-| [Giới từ chỉ thời gian (throughout)](ets-ngu-phap-full-prep.md?id=p31) | 5 | 0 |
-| [by + phương tiện/cách thức (không mạo từ)](ets-ngu-phap-full-prep.md?id=p32) | 3 | 1 |
-| [Giới từ chỉ nơi chốn (behind)](ets-ngu-phap-full-prep.md?id=p33) | 2 | 2 |
-| [Giới từ chỉ nơi chốn (outside)](ets-ngu-phap-full-prep.md?id=p34) | 1 | 1 |
-| [Giới từ chỉ nơi chốn (onto)](ets-ngu-phap-full-prep.md?id=p35) | 1 | 1 |
-| [Giới từ chỉ nơi chốn (toward)](ets-ngu-phap-full-prep.md?id=p36) | 2 | 0 |
-| [Giới từ chỉ nơi chốn (above)](ets-ngu-phap-full-prep.md?id=p37) | 1 | 0 |
-| [Giới từ chỉ nơi chốn (beyond)](ets-ngu-phap-full-prep.md?id=p38) | 1 | 0 |
-| [Giới từ chỉ nơi chốn (opposite)](ets-ngu-phap-full-prep.md?id=p39) | 1 | 0 |
+| [Giới từ chỉ thời gian (for)](ets-ngu-phap-full-prep.md?id=p10) | 39 | 9 |
+| [Động từ + tân ngữ + giới từ (thank sb for, provide sb with…)](ets-ngu-phap-full-prep.md?id=p11) | 35 | 12 |
+| [Giới từ chỉ nơi chốn (into)](ets-ngu-phap-full-prep.md?id=p12) | 26 | 6 |
+| [🎯 Đáp án là GIỚI TỪ (+ danh từ/V-ing)](ets-ngu-phap-full-prep.md?id=p13) | 28 | 0 |
+| [Giới từ chỉ thời gian (by)](ets-ngu-phap-full-prep.md?id=p14) | 23 | 2 |
+| [Giới từ chỉ thời gian (from)](ets-ngu-phap-full-prep.md?id=p15) | 18 | 1 |
+| [Giới từ chỉ thời gian (during)](ets-ngu-phap-full-prep.md?id=p16) | 14 | 0 |
+| [Giới từ chỉ thời gian (within)](ets-ngu-phap-full-prep.md?id=p17) | 13 | 1 |
+| [Giới từ chỉ thời gian (over)](ets-ngu-phap-full-prep.md?id=p18) | 12 | 1 |
+| [Giới từ chỉ nơi chốn (between)](ets-ngu-phap-full-prep.md?id=p19) | 11 | 2 |
+| [Giới từ chỉ thời gian (before)](ets-ngu-phap-full-prep.md?id=p20) | 11 | 1 |
+| [Giới từ chỉ nơi chốn (throughout)](ets-ngu-phap-full-prep.md?id=p21) | 8 | 4 |
+| [Giới từ chỉ thời gian (after)](ets-ngu-phap-full-prep.md?id=p22) | 11 | 0 |
+| [Giới từ chỉ nơi chốn (near)](ets-ngu-phap-full-prep.md?id=p23) | 7 | 3 |
+| [Giới từ chỉ thời gian (through)](ets-ngu-phap-full-prep.md?id=p24) | 9 | 1 |
+| [such as (ví dụ như) + N](ets-ngu-phap-full-prep.md?id=p25) | 9 | 0 |
+| [Giới từ chỉ nơi chốn (under)](ets-ngu-phap-full-prep.md?id=p26) | 6 | 3 |
+| [Giới từ chỉ nơi chốn (among)](ets-ngu-phap-full-prep.md?id=p27) | 8 | 0 |
+| [Giới từ chỉ thời gian (until)](ets-ngu-phap-full-prep.md?id=p28) | 6 | 1 |
+| [Giới từ chỉ nơi chốn (along)](ets-ngu-phap-full-prep.md?id=p29) | 4 | 3 |
+| [Giới từ chỉ nơi chốn (across)](ets-ngu-phap-full-prep.md?id=p30) | 3 | 3 |
+| [Giới từ chỉ thời gian (between)](ets-ngu-phap-full-prep.md?id=p31) | 6 | 0 |
+| [Giới từ chỉ thời gian (throughout)](ets-ngu-phap-full-prep.md?id=p32) | 5 | 0 |
+| [by + phương tiện/cách thức (không mạo từ)](ets-ngu-phap-full-prep.md?id=p33) | 3 | 1 |
+| [Giới từ chỉ nơi chốn (behind)](ets-ngu-phap-full-prep.md?id=p34) | 2 | 2 |
+| [Giới từ chỉ nơi chốn (outside)](ets-ngu-phap-full-prep.md?id=p35) | 1 | 1 |
+| [Giới từ chỉ nơi chốn (onto)](ets-ngu-phap-full-prep.md?id=p36) | 1 | 1 |
+| [Giới từ chỉ nơi chốn (toward)](ets-ngu-phap-full-prep.md?id=p37) | 2 | 0 |
+| [Giới từ chỉ nơi chốn (above)](ets-ngu-phap-full-prep.md?id=p38) | 1 | 0 |
+| [Giới từ chỉ nơi chốn (beyond)](ets-ngu-phap-full-prep.md?id=p39) | 1 | 0 |
+| [Giới từ chỉ nơi chốn (opposite)](ets-ngu-phap-full-prep.md?id=p40) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Động từ + giới từ (collocation)** <small>(209 câu Reading · 70 câu Listening)</small>
+**▸ Động từ + giới từ (collocation)** <small>(138 câu Reading · 47 câu Listening)</small>
 
 - 📖 *(Test 1)* We will **listen to** your ideas and offer suggestions that match your gardening desires.
 - 📖 *(Test 6)* Mayor Park plans to **meet with** his campaign staff following the televised debate.
 - 🎧 *(Test 4)* Some decisions **led to** a successful outcome.
 
-> 👉 [**Xem FULL đủ 279 câu** (209 Reading · 70 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p1)
+> 👉 [**Xem FULL đủ 185 câu** (138 Reading · 47 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p1)
 
 **▸ Giới từ kép / cụm giới từ** <small>(154 câu Reading · 15 câu Listening)</small>
 
@@ -1426,13 +1427,13 @@
 
 > 👉 [**Xem FULL đủ 86 câu** (79 Reading · 7 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p6)
 
-**▸ Giới từ chỉ thời gian (at)** <small>(61 câu Reading · 11 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (at)** <small>(62 câu Reading · 11 câu Listening)</small>
 
 - 📖 *(Test 1)* The lecture will take place **at 6:00 P.M**., after which attendees may ask questions.
 - 📖 *(Test 8)* The second project will build residential housing on a large empty lot **at the south end**.
 - 🎧 *(Test 4)* What will happen **at the end** of the tour?
 
-> 👉 [**Xem FULL đủ 72 câu** (61 Reading · 11 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p7)
+> 👉 [**Xem FULL đủ 73 câu** (62 Reading · 11 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p7)
 
 **▸ Giới từ chỉ nơi chốn (on)** <small>(43 câu Reading · 22 câu Listening)</small>
 
@@ -1450,13 +1451,21 @@
 
 > 👉 [**Xem FULL đủ 54 câu** (47 Reading · 7 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p9)
 
-**▸ Giới từ chỉ thời gian (for)** <small>(38 câu Reading · 9 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (for)** <small>(39 câu Reading · 9 câu Listening)</small>
 
 - 📖 *(Test 5)* They informed me that the equipment may be down **for up to two hours** because of testing.
 - 📖 *(Test 10)* Carter Department Store allows customers to place items on hold **for up to 24 hours**.
 - 🎧 *(Test 10)* She'll be on vacation **for the next month**.
 
-> 👉 [**Xem FULL đủ 47 câu** (38 Reading · 9 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p10)
+> 👉 [**Xem FULL đủ 48 câu** (39 Reading · 9 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p10)
+
+**▸ Động từ + tân ngữ + giới từ (thank sb for, provide sb with…)** <small>(35 câu Reading · 12 câu Listening)</small>
+
+- 📖 *(Test 4)* **Thank** you **for** your prompt feedback on the Web site content I sent out in the group e-mail.
+- 📖 *(Test 2)* “This will be automatically **applied to** your shopping cart when you check out.”
+- 🎧 *(Test 4)* So you should always **add** at least an extra hour **to** your trip out there.
+
+> 👉 [**Xem FULL đủ 47 câu** (35 Reading · 12 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p11)
 
 **▸ Giới từ chỉ nơi chốn (into)** <small>(26 câu Reading · 6 câu Listening)</small>
 
@@ -1464,7 +1473,7 @@
 - 📖 *(Test 5)* Mr. Sato will call **into the meeting** using the hotel's wireless network.
 - 🎧 *(Test 1)* A woman is pouring a beverage **into a glass**.
 
-> 👉 [**Xem FULL đủ 32 câu** (26 Reading · 6 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p11)
+> 👉 [**Xem FULL đủ 32 câu** (26 Reading · 6 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p12)
 
 **▸ 🎯 Đáp án là GIỚI TỪ (+ danh từ/V-ing)** <small>(28 câu Reading · 0 câu Listening)</small>
 
@@ -1472,7 +1481,7 @@
 - 📖 *(Test 8)* **In order to** access the building, enter the code listed on the tenant directory.
 - 📖 *(Test 3)* Ahearn Accessories' retail shop is loc**at**ed at Gordon Avenue and Hutch Street.
 
-> 👉 [**Xem FULL đủ 28 câu** (28 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p12)
+> 👉 [**Xem FULL đủ 28 câu** (28 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p13)
 
 **▸ Giới từ chỉ thời gian (by)** <small>(23 câu Reading · 2 câu Listening)</small>
 
@@ -1480,7 +1489,7 @@
 - 📖 *(Test 2)* Management will identify candidates for promotion **by the end** of the month.
 - 🎧 *(Test 10)* That means we be able to add practice rooms so we can offer private music lessons **by the end** of the year.
 
-> 👉 [**Xem FULL đủ 25 câu** (23 Reading · 2 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p13)
+> 👉 [**Xem FULL đủ 25 câu** (23 Reading · 2 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p14)
 
 **▸ Giới từ chỉ thời gian (from)** <small>(18 câu Reading · 1 câu Listening)</small>
 
@@ -1488,7 +1497,7 @@
 - 📖 *(Test 7)* Mike's Café offers a free drink with every meal on Tuesdays **from 11 A.M**. to 7 P.M.
 - 🎧 *(Test 9)* The hope clothing is up twenty percent **from last year**.
 
-> 👉 [**Xem FULL đủ 19 câu** (18 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p14)
+> 👉 [**Xem FULL đủ 19 câu** (18 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p15)
 
 **▸ Giới từ chỉ thời gian (during)** <small>(14 câu Reading · 0 câu Listening)</small>
 
@@ -1496,7 +1505,7 @@
 - 📖 *(Test 6)* **During the past quarter**, nearly all of Renafy Technology's sales came from one region.
 - 📖 *(Test 9)* The painter Marion Settimi developed her distinctive style **during the years she** lived in Indonesia.
 
-> 👉 [**Xem FULL đủ 14 câu** (14 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p15)
+> 👉 [**Xem FULL đủ 14 câu** (14 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p16)
 
 **▸ Giới từ chỉ thời gian (within)** <small>(13 câu Reading · 1 câu Listening)</small>
 
@@ -1504,7 +1513,7 @@
 - 📖 *(Test 9)* You should receive your certification card **within ten business days**.
 - 🎧 *(Test 1)* They expect to complete the repair **within the hour**.
 
-> 👉 [**Xem FULL đủ 14 câu** (13 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p16)
+> 👉 [**Xem FULL đủ 14 câu** (13 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p17)
 
 **▸ Giới từ chỉ thời gian (over)** <small>(12 câu Reading · 1 câu Listening)</small>
 
@@ -1512,7 +1521,7 @@
 - 📖 *(Test 3)* Abelia Dairy Company has undergone several changes in leadership **over the past ten years**.
 - 🎧 *(Test 4)* **Over the years**, she has been receives her award, some of her most famous clients will perform for us.
 
-> 👉 [**Xem FULL đủ 13 câu** (12 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p17)
+> 👉 [**Xem FULL đủ 13 câu** (12 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p18)
 
 **▸ Giới từ chỉ nơi chốn (between)** <small>(11 câu Reading · 2 câu Listening)</small>
 
@@ -1520,7 +1529,7 @@
 - 📖 *(Test 9)* The new technology allows trains to switch quickly **between electric** and diesel **modes**.
 - 🎧 *(Test 5)* Perhaps we could enlarge the break room by having the wall taken down **between it and the meeting** room next door.
 
-> 👉 [**Xem FULL đủ 13 câu** (11 Reading · 2 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p18)
+> 👉 [**Xem FULL đủ 13 câu** (11 Reading · 2 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p19)
 
 **▸ Giới từ chỉ thời gian (before)** <small>(11 câu Reading · 1 câu Listening)</small>
 
@@ -1528,7 +1537,7 @@
 - 📖 *(Test 9)* The enhanced exhibitions opened on Monday, one week **before the scheduled completion date**.
 - 🎧 *(Test 2)* **Before the break**, we promised to address the decline of shopping downtown.
 
-> 👉 [**Xem FULL đủ 12 câu** (11 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p19)
+> 👉 [**Xem FULL đủ 12 câu** (11 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p20)
 
 **▸ Giới từ chỉ nơi chốn (throughout)** <small>(8 câu Reading · 4 câu Listening)</small>
 
@@ -1536,7 +1545,7 @@
 - 📖 *(Test 9)* Please consult with Ms. Shabangu **throughout the** filming and editing **process**.
 - 🎧 *(Test 6)* Goods from the ships are usually distributed **throughout the region** by train or by truck.
 
-> 👉 [**Xem FULL đủ 12 câu** (8 Reading · 4 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p20)
+> 👉 [**Xem FULL đủ 12 câu** (8 Reading · 4 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p21)
 
 **▸ Giới từ chỉ thời gian (after)** <small>(11 câu Reading · 0 câu Listening)</small>
 
@@ -1544,7 +1553,7 @@
 - 📖 *(Test 8)* Visit us for one of our deals today; they will not be available **after 31 May**!
 - 📖 *(Test 4)* **After weeks** of record-setting rain, expect only blue skies this weekend.
 
-> 👉 [**Xem FULL đủ 11 câu** (11 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p21)
+> 👉 [**Xem FULL đủ 11 câu** (11 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p22)
 
 **▸ Giới từ chỉ nơi chốn (near)** <small>(7 câu Reading · 3 câu Listening)</small>
 
@@ -1552,7 +1561,7 @@
 - 📖 *(Test 5)* If not, what restaurants **near the conference** would you recommend that would be open at that time?
 - 🎧 *(Test 1)* She would prefer to park **near her apartment**.
 
-> 👉 [**Xem FULL đủ 10 câu** (7 Reading · 3 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p22)
+> 👉 [**Xem FULL đủ 10 câu** (7 Reading · 3 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p23)
 
 **▸ Giới từ chỉ thời gian (through)** <small>(9 câu Reading · 1 câu Listening)</small>
 
@@ -1560,7 +1569,7 @@
 - 📖 *(Test 10)* For your convenience, we offer large- and small-volume deliveries Monday **through Saturday**.
 - 🎧 *(Test 4)* We have him booked to appear on the **through the end** of August.
 
-> 👉 [**Xem FULL đủ 10 câu** (9 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p23)
+> 👉 [**Xem FULL đủ 10 câu** (9 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p24)
 
 **▸ such as (ví dụ như) + N** <small>(9 câu Reading · 0 câu Listening)</small>
 
@@ -1568,7 +1577,7 @@
 - 📖 *(Test 1)* The text must prominently display key information, **such as** your truck's locations and operating hours.
 - 📖 *(Test 10)* Bingo Imprint creates designs for promotional products **such as** notebooks, refrigerator magnets, and apparel.
 
-> 👉 [**Xem FULL đủ 9 câu** (9 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p24)
+> 👉 [**Xem FULL đủ 9 câu** (9 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p25)
 
 **▸ Giới từ chỉ nơi chốn (under)** <small>(6 câu Reading · 3 câu Listening)</small>
 
@@ -1576,7 +1585,7 @@
 - 📖 *(Test 8)* **Under the direction** of Ms. Kenu, the historical society's fund-raiser went very well this year.
 - 🎧 *(Test 5)* To record your story idea, to keep your message **under 60 seconds**.
 
-> 👉 [**Xem FULL đủ 9 câu** (6 Reading · 3 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p25)
+> 👉 [**Xem FULL đủ 9 câu** (6 Reading · 3 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p26)
 
 **▸ Giới từ chỉ nơi chốn (among)** <small>(8 câu Reading · 0 câu Listening)</small>
 
@@ -1584,7 +1593,7 @@
 - 📖 *(Test 3)* They were especially impressed by the stone tools included **among the items**.
 - 📖 *(Test 9)* Clausen's Notes is well-known **among writers and publishers** for its in-depth reviews of books.
 
-> 👉 [**Xem FULL đủ 8 câu** (8 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p26)
+> 👉 [**Xem FULL đủ 8 câu** (8 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p27)
 
 **▸ Giới từ chỉ thời gian (until)** <small>(6 câu Reading · 1 câu Listening)</small>
 
@@ -1592,7 +1601,7 @@
 - 📖 *(Test 5)* I’m scheduled to work at Mr. Amadi’s apartment on Friday—can the Browns’ ductwork wait **until Monday**?
 - 🎧 *(Test 5)* The meeting can wait **until tomorrow**.
 
-> 👉 [**Xem FULL đủ 7 câu** (6 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p27)
+> 👉 [**Xem FULL đủ 7 câu** (6 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p28)
 
 **▸ Giới từ chỉ nơi chốn (along)** <small>(4 câu Reading · 3 câu Listening)</small>
 
@@ -1600,7 +1609,7 @@
 - 📖 *(Test 9)* Contact Ms. Shabanguo to review the flight plan and discuss other areas of focus **along the highway**.
 - 🎧 *(Test 10)* There are buildings **along the side** of a street.
 
-> 👉 [**Xem FULL đủ 7 câu** (4 Reading · 3 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p28)
+> 👉 [**Xem FULL đủ 7 câu** (4 Reading · 3 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p29)
 
 **▸ Giới từ chỉ nơi chốn (across)** <small>(3 câu Reading · 3 câu Listening)</small>
 
@@ -1608,7 +1617,7 @@
 - 📖 *(Test 2)* I then boarded a light-rail train and rode it to the station directly **across the street** from the hotel.
 - 🎧 *(Test 7)* The woman is walking **across the street**.
 
-> 👉 [**Xem FULL đủ 6 câu** (3 Reading · 3 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p29)
+> 👉 [**Xem FULL đủ 6 câu** (3 Reading · 3 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p30)
 
 **▸ Giới từ chỉ thời gian (between)** <small>(6 câu Reading · 0 câu Listening)</small>
 
@@ -1616,7 +1625,7 @@
 - 📖 *(Test 6)* The Repose Lounge is open daily **between 5:00 A.M. and 8:30** P.M. and features the following amenities.
 - 📖 *(Test 5)* They will send someone tomorrow **between 1:00** and 2:00 **P.M.**
 
-> 👉 [**Xem FULL đủ 6 câu** (6 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p30)
+> 👉 [**Xem FULL đủ 6 câu** (6 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p31)
 
 **▸ Giới từ chỉ thời gian (throughout)** <small>(5 câu Reading · 0 câu Listening)</small>
 
@@ -1624,7 +1633,7 @@
 - 📖 *(Test 7)* Purchase a PUW machine **throughout November** and receive a lightweight umbrella featuring our company logo.
 - 📖 *(Test 7)* The remaining jets will be delivered **throughout the coming year**.
 
-> 👉 [**Xem FULL đủ 5 câu** (5 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p31)
+> 👉 [**Xem FULL đủ 5 câu** (5 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p32)
 
 **▸ by + phương tiện/cách thức (không mạo từ)** <small>(3 câu Reading · 1 câu Listening)</small>
 
@@ -1632,7 +1641,7 @@
 - 📖 *(Test 1)* You will soon be receiving a commemorative plaque **by post**.
 - 🎧 *(Test 4)* Have you always commuted **by train**?
 
-> 👉 [**Xem FULL đủ 4 câu** (3 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p32)
+> 👉 [**Xem FULL đủ 4 câu** (3 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p33)
 
 **▸ Giới từ chỉ nơi chốn (behind)** <small>(2 câu Reading · 2 câu Listening)</small>
 
@@ -1640,46 +1649,46 @@
 - 📖 *(Test 4)* She was the driving force **behind that company's mission** to develop accessibility products to enhance independent living in South Africa's domestic market.
 - 🎧 *(Test 2)* A woman is pulling her luggage **behind her**.
 
-> 👉 [**Xem FULL đủ 4 câu** (2 Reading · 2 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p33)
+> 👉 [**Xem FULL đủ 4 câu** (2 Reading · 2 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p34)
 
 **▸ Giới từ chỉ nơi chốn (outside)** <small>(1 câu Reading · 1 câu Listening)</small>
 
 - 📖 *(Test 6)* To obtain a pass or make a reservation, go to www.qrnairport.com/repose or visit the service desk just **outside the lounge** in terminal B.
 - 🎧 *(Test 7)* People spend a lot of time **outside summer rush**.
 
-> 👉 [**Xem FULL đủ 2 câu** (1 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p34)
+> 👉 [**Xem FULL đủ 2 câu** (1 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p35)
 
 **▸ Giới từ chỉ nơi chốn (onto)** <small>(1 câu Reading · 1 câu Listening)</small>
 
 - 📖 *(Test 10)* This feature minimizes the need Accordingly, more of them can be loaded **onto trucks** when empty frequent 132.
 - 🎧 *(Test 6)* A woman is lifting a suitcase **onto a counter**.
 
-> 👉 [**Xem FULL đủ 2 câu** (1 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p35)
+> 👉 [**Xem FULL đủ 2 câu** (1 Reading · 1 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p36)
 
 **▸ Giới từ chỉ nơi chốn (toward)** <small>(2 câu Reading · 0 câu Listening)</small>
 
 - 📖 *(Test 8)* Child safety seats do not count **toward a passenger's personal** item allowance.
 - 📖 *(Test 10)* If you select our trade-in program, you give us your bicycle, and, in exchange, we give you credit **toward the purchase** of a new one.
 
-> 👉 [**Xem FULL đủ 2 câu** (2 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p36)
+> 👉 [**Xem FULL đủ 2 câu** (2 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p37)
 
 **▸ Giới từ chỉ nơi chốn (above)** <small>(1 câu Reading · 0 câu Listening)</small>
 
 - 📖 *(Test 4)* I've painted an orchard near my parents' house as it looks just when the sun is rising **above it**.
 
-> 👉 [**Xem FULL đủ 1 câu** (1 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p37)
+> 👉 [**Xem FULL đủ 1 câu** (1 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p38)
 
 **▸ Giới từ chỉ nơi chốn (beyond)** <small>(1 câu Reading · 0 câu Listening)</small>
 
 - 📖 *(Test 5)* “I’d like to reach customers **beyond the Greenwood area**,” he said.
 
-> 👉 [**Xem FULL đủ 1 câu** (1 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p38)
+> 👉 [**Xem FULL đủ 1 câu** (1 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p39)
 
 **▸ Giới từ chỉ nơi chốn (opposite)** <small>(1 câu Reading · 0 câu Listening)</small>
 
 - 📖 *(Test 9)* Austina Gallery is located at the northern end of Arch Street, **opposite the Verdigris Bistro**.
 
-> 👉 [**Xem FULL đủ 1 câu** (1 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p39)
+> 👉 [**Xem FULL đủ 1 câu** (1 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-prep.md?id=p40)
 
 ---
 
@@ -2928,7 +2937,7 @@
 
 **▸ Mệnh đề danh từ với từ để hỏi (that)** <small>(2 câu Reading · 0 câu Listening)</small>
 
-- 📖 *(Test 9)* I found myself in a situation recently that required one of Superra Cleaning's special services. → *found that required one of*
+- 📖 *(Test 9)* I **found** myself in a situation recently **that required one of** Superra Cleaning's special services.
 - 📖 *(Test 3)* I ordered a three-wheeled cargo bicycle from them on August 20 that was delivered in only two weeks. → *ordered that was delivered in*
 
 > 👉 [**Xem FULL đủ 2 câu** (2 Reading · 0 Listening) của mẫu này](ets-ngu-phap-full-clause.md?id=p33)

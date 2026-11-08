@@ -548,7 +548,7 @@
 9. *(Test 2 · Part 7)* The new cards **will be printed** on a higher-quality paper stock, as many of you requested.
 10. *(Test 2 · Part 7)* All personally identifiable information **will be treated** confidentially in accordance with the Lorne privacy statement, which can be found at lornettransportation.com.au.
 11. *(Test 2 · Part 7)* “This **will be automatically applied** to your shopping cart when you check out.”
-12. *(Test 2 · Part 7 – câu hỏi)* Where will Portland Friends of the Wild's event be held? → *will be held*
+12. *(Test 2 · Part 7 – câu hỏi)* Where **will** Portland Friends of the Wild's event **be held**?
 13. *(Test 3 · Part 6)* Additionally, cashback rewards **will be automatically deposited** into a separate Avanti savings account and earn a 3% annual interest rate.
 14. *(Test 3 · Part 7)* The ceremony **will be held** on November 3 at 6:00 P.M. Appetizers and drinks will be served.
 15. *(Test 3 · Part 7)* However, many of the pieces **will be shown** in photographs, as they are too delicate to be moved around.

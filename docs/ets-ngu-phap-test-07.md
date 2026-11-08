@@ -228,7 +228,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Giới từ + V-ing *before enrolling*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *familiarize with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *familiarize … with*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *company's tuition-reimbursement policy* · Danh từ ghép (N + N) *reimbursement policy*
 >
@@ -700,8 +700,6 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your one* · one/ones thay cho danh từ *one*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *smaller than*
->
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ chỉ thời gian (already/recently/soon…) *just*
 >
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): So sánh hơn (… than) *larger than* · So sánh hơn (… than) *smaller than*
@@ -782,7 +780,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *youth hostels*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available throughout* · Tính từ làm bổ ngữ sau be *are available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *are available*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): several + N số nhiều *Several campsites*
 
@@ -942,7 +940,7 @@
 >
 > 🤝 [Hòa hợp S-V](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Chủ ngữ ghép A and B → động từ số nhiều *crackers and … are*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available at* · Tính từ làm bổ ngữ sau be *are available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *are available*
 
 **3.** <sub>(đoạn văn trước câu 147)</sub> Save $2.00 on the purchase of ONE box of Truli crackers (any size) when you buy any TWO packages of Truli cheese.
 
@@ -972,7 +970,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Giới từ + V-ing *for joining*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *Brice's Ice Creamery* · Sở hữu cách ('s) *Creamery's rewards program* · Danh từ ghép (N + N) *rewards program*
 
@@ -986,7 +984,7 @@
 >
 > 🧷 [Cụm động từ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Cụm động từ (V + tiểu từ) *sign up*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *sign for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *sign up for*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your points* · Tính từ sở hữu + N *our program*
 >
@@ -1068,7 +1066,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ phụ thuộc *As* · Liên từ phụ thuộc *unless*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *in advance of* · Động từ + giới từ (collocation) *charge for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *in advance of* · Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *charge … for*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *appointment fee*
 >
@@ -1181,8 +1179,6 @@
 > 📝 [Câu](SENTENCES.md): Câu đơn
 >
 > ⏱️ [Thì](TENSES.md): Tương lai đơn *'ll take*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *take of*
 
 **22.** <sub>(đoạn văn trước câu 153)</sub> Enjoy your time in Melbourne!
 
@@ -1890,7 +1886,7 @@
 >
 > 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ thời gian (until) *until the end*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available from* · Tính từ làm bổ ngữ sau be *be available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *be available*
 
 **76.** <sub>(đoạn văn trước câu 176)</sub> Duties include handling sales, stocking shelves, assisting customers, and setting up displays.
 
@@ -1994,7 +1990,7 @@
 >
 > 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *In addition to*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *efficient than* · Tính từ làm bổ ngữ sau be *are efficient*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *are efficient*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ chỉ thời gian (already/recently/soon…) *currently*
 >
@@ -2118,7 +2114,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *airplane seats*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *comfortable than* · Tính từ làm bổ ngữ sau be *are comfortable*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *are comfortable*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): also (vị trí: sau be/trợ động từ, trước động từ thường) *are also*
 >
@@ -2152,8 +2148,6 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ phụ thuộc *as*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *prepare for*
->
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *our exhibit*
 >
 > 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *be patient*
@@ -2186,7 +2180,7 @@
 >
 > 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ nơi chốn (on) *on previous Renmark Solutions*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *Many of* · Tính từ làm bổ ngữ sau be *are educational* · Tính từ đuôi -ing (tính chất / gây ra) *exciting*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *are educational* · Tính từ đuôi -ing (tính chất / gây ra) *exciting*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ tần suất *are always*
 >
@@ -2270,7 +2264,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ đẳng lập (or) *one or two* · and nối 2 động từ/cụm động từ song song *are … and come* · Liên từ đẳng lập (or) *steel or black*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ dạng V-ing (phân từ hiện tại) *wrapping devices* · Tính từ + giới từ *available with* · Tính từ làm bổ ngữ sau be *are available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ dạng V-ing (phân từ hiện tại) *wrapping devices* · Tính từ làm bổ ngữ sau be *are available*
 
 **106.** <sub>(đoạn văn trước câu 191)</sub> The machine wraps umbrellas in 1.5 seconds.
 
@@ -2626,7 +2620,7 @@
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What did Mr. Thielen*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *sign for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *sign up for*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *rewards program*
 

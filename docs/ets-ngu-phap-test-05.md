@@ -484,8 +484,6 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *her tenure*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *many of*
->
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ chỉ thời gian (already/recently/soon…) *recently*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): many of + the/tính từ sở hữu + N *many of you have*
@@ -540,7 +538,7 @@
 >
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ khuyết thiếu would + V nguyên mẫu *would like*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *her leadership*
 >
@@ -728,7 +726,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *advertising space* · Danh từ ghép (N + N) *quarter column*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available with* · Tính từ làm bổ ngữ sau be *is available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *is available*
 
 **3.** <sub>(đoạn văn trước câu 147)</sub> The Clearpoint Times reaches thousands of your neighbors each week.
 
@@ -751,8 +749,6 @@
 **5.** <sub>(đoạn văn trước câu 147)</sub> For rates and additional information, call us at 515-555-0130.
 
 > 📝 [Câu](SENTENCES.md): Câu mệnh lệnh *call us*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *call for*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *information*
 
@@ -1022,7 +1018,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ + to V *planned to release* · To V chỉ mục đích *to take advantage of the*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ thời gian (in) *in June* · Động từ + giới từ (collocation) *take of* · Giới từ chỉ thời gian (during) *during the summer months*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ thời gian (in) *in June* · Giới từ chỉ thời gian (during) *during the summer months*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *sales demand* · Danh từ ghép (N + N) *summer months*
 >
@@ -1782,7 +1778,7 @@
 >
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ khuyết thiếu can + V nguyên mẫu *can wait*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *work on* · Giới từ chỉ thời gian (until) *until Monday*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ thời gian (until) *until Monday*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *Amadi’s apartment*
 
@@ -1860,11 +1856,11 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ phụ thuộc *If* · and nối 2 động từ/cụm động từ song song *cancel … and provide*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *provide with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *provide … with*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): one/ones thay cho danh từ *one* · Tính từ sở hữu + N *my order*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available by* · Tính từ làm bổ ngữ sau be *is available*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *is available*
 
 **88.** <sub>(đoạn văn trước câu 181)</sub> First, you will complete our short questionnaire about your business.
 
@@ -1978,7 +1974,7 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *its competitor*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *higher than* · Tính từ làm bổ ngữ sau be *is higher*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *is higher*
 >
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): So sánh hơn (… than) *higher than* · So sánh nhất (the … -est / the most …) *nearest*
 >
@@ -2106,7 +2102,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Giới từ + V-ing *for being*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for* · Giới từ chỉ thời gian (for) *for fifteen years*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for* · Giới từ chỉ thời gian (for) *for fifteen years*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép V-ing + N (danh động từ bổ nghĩa) *checking holder* · Danh từ ghép (N + N) *account holder*
 >
@@ -2144,7 +2140,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ + O + to V *enabling you to transfer*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *transfer to*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *transfer … to*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *money*
 >
@@ -2184,7 +2180,7 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *their finances* · Tính từ sở hữu + N *their pace*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available to* · Tính từ + giới từ *available at* · Tính từ + giới từ *excellent for* · Tính từ làm bổ ngữ sau be *is excellent*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available to* · Tính từ + giới từ *excellent for* · Tính từ làm bổ ngữ sau be *is excellent*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ chỉ thời gian (already/recently/soon…) *finally* · Trạng từ chỉ thời gian (already/recently/soon…) *recently*
 >
@@ -3051,8 +3047,6 @@
 > ⏱️ [Thì](TENSES.md): Hiện tại đơn *are*
 >
 > 🤝 [Hòa hợp S-V](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): There + be + N (động từ chia theo danh từ phía sau) *There are beverages available inside…*
->
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available inside*
 
 **5.** The man is reaching for a water bottle.
 
@@ -3180,7 +3174,7 @@
 >
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ khuyết thiếu can + V nguyên mẫu *can help*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *help with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *help … with*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Đại từ chỉ định (this/that/these/those) *that*
 
@@ -3618,8 +3612,6 @@
 >
 > 🧷 [Cụm động từ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Cụm động từ (V + tiểu từ) *sell out*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *Many of*
->
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): many of + the/tính từ sở hữu + N *Many of them are*
 
 **68.** Public transportation will be free.
@@ -3872,7 +3864,7 @@
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *Who can I talk*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *talk to* · Động từ + giới từ (collocation) *talk about* · Giới từ chỉ nơi chốn (at) *at this fitness center*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *talk to* · Giới từ chỉ nơi chốn (at) *at this fitness center*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *fitness center*
 
@@ -4240,8 +4232,6 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *its deliveries*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *most of*
->
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): most of + the/tính từ sở hữu + N *most of* · most of + the/tính từ sở hữu + N *most of its deliveries?*
 
 **39.** The cover page includes a summary of the skylights?
@@ -4300,8 +4290,6 @@
 >
 > ⏱️ [Thì](TENSES.md): Hiện tại hoàn thành *have cracked*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *Many of*
->
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): many of + the/tính từ sở hữu + N *Many of them have*
 
 **45.** Call me back so we can discuss it.
@@ -4356,7 +4344,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ phụ thuộc *while*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *familiarize with* · Giới từ chỉ nơi chốn (between) *between city hall and the*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *familiarize … with* · Giới từ chỉ nơi chốn (between) *between city hall and the*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *beverage stand* · Danh từ ghép (N + N) *city hall* · Danh từ ghép (N + N) *art museum*
 >

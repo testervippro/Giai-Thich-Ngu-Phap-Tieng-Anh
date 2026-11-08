@@ -296,7 +296,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Giới từ + V-ing *for responding*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for* · Danh từ + giới từ (collocation) *information about*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for* · Danh từ + giới từ (collocation) *information about*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *information*
 >
@@ -348,7 +348,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *restaurant's policy* · Danh từ không đếm được (không thêm -s, không dùng a/an) *staff*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *front of* · Tính từ ghép có gạch nối *front-of*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ ghép có gạch nối *front-of*
 
 **Câu 123.** Tickets for Saturday's football game sold out on Thursday, much sooner than organizers **had anticipated**.
 
@@ -530,8 +530,6 @@
 >
 > 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ nơi chốn (onto) *onto trucks*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *more of*
->
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ đứng trước động từ *Accordingly loaded*
 >
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): So sánh hơn (không có than) *more*
@@ -590,7 +588,7 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): one/ones thay cho danh từ *ones*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *better than* · Tính từ làm bổ ngữ sau be *be better*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *be better*
 >
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): So sánh hơn (… than) *better than* · Từ nhấn mạnh so sánh hơn (much/even/far/significantly) *even better*
 >
@@ -674,7 +672,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Giới từ + V-ing *for sharing*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your recipe* · Tính từ sở hữu + N *our Time*
 >
@@ -838,8 +836,6 @@
 
 > 📝 [Câu](SENTENCES.md): Câu mệnh lệnh (Please + V) *Please call us*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *call for*
->
 > 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ đuôi -ed (cảm nhận / bị tác động) *detailed pricing*
 
 **7.** <sub>(đoạn văn trước câu 149)</sub> You do not need to be home for delivery.
@@ -992,8 +988,6 @@
 >
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ khuyết thiếu may + V nguyên mẫu *may want*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *take of*
->
 > 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ đuôi -ed (cảm nhận / bị tác động) *limited number*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ tần suất *usually offer* · Trạng từ chỉ thời gian (already/recently/soon…) *soon*
@@ -1024,7 +1018,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Giới từ + V-ing *for reviewing* · To V chỉ mục đích *to ensure they are easy* · Tính từ + to V *easy to follow*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *my recipes*
 >
@@ -1108,7 +1102,7 @@
 
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): To (giới từ) + V-ing (look forward to / committed to…) *commitment to offering* · Giới từ + V-ing *for providing*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Danh từ + giới từ (collocation) *commitment to* · Giới từ chỉ nơi chốn (across) *across Europe* · Động từ + giới từ (collocation) *provide with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Danh từ + giới từ (collocation) *commitment to* · Giới từ chỉ nơi chốn (across) *across Europe* · Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *provide … with*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *menu items* · Danh từ ghép (N + N) *items aligns* · Danh từ ghép (N + N) *ship passengers* · Danh từ ghép (N + N) *restaurant options*
 >
@@ -1381,8 +1375,6 @@
 > 🤝 [Hòa hợp S-V](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Chủ ngữ chính đứng trước cụm giới từ xen giữa → chia theo chủ ngữ chính *rule … is (số ít)*
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ phụ thuộc *As* · Liên từ phụ thuộc *after*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *wait for*
 
 **47.** <sub>(đoạn văn trước câu 164)</sub> Alexa Balog (4:06 P.M.) Yes, I understand.
 
@@ -1479,8 +1471,6 @@
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Giới từ + V-ing *with expanding* · Giới từ + V-ing *in increasing*
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Trạng từ liên kết đầu câu *For example,*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *assist with*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *center capability*
 >
@@ -1618,7 +1608,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ phụ thuộc *as*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *add to*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *add … to*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *her installation*
 >
@@ -1822,7 +1812,7 @@
 >
 > 🧷 [Cụm động từ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Cụm động từ (V + tiểu từ) *turn over*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ thời gian (from) *from 7:00 P.M.* · Động từ + giới từ (collocation) *turn to*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ thời gian (from) *from 7:00 P.M.*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *guest chef* · Sở hữu cách ('s) *Richmond's many fine restaurants*
 >
@@ -1943,8 +1933,6 @@
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): as well as (cũng như) *as well as*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *Bernal's other favourite recipes*
->
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *few of*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): few of + the/tính từ sở hữu + N *few of Mr. Bernal's* · each + N số ít/không đếm được *each attendee* · other + N (số nhiều/không đếm được) *other recipes*
 
@@ -2083,8 +2071,6 @@
 > 📝 [Câu](SENTENCES.md): Câu đơn
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): To V chỉ mục đích *To take advantage of either* · To V chỉ mục đích *to schedule*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *take of*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): either + N số ít/không đếm được *either option*
 >
@@ -2258,7 +2244,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Từ để hỏi + to V (how/what/where/which to V) *need to have*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *provide with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *provide … with*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *training*
 
@@ -2324,7 +2310,7 @@
 
 > ⏱️ [Thì](TENSES.md): Hiện tại đơn *Thank*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your e*
 
@@ -2410,7 +2396,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *time commitment*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *much of* · Tính từ làm bổ ngữ sau be *is much*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *is much*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): much of + the/tính từ sở hữu + N *much of a time*
 
@@ -3981,8 +3967,6 @@
 > ⏱️ [Thì](TENSES.md): Hiện tại đơn *is*
 >
 > 🔗 [Mệnh đề](Menh%20De.md): Rút gọn MĐQH chủ động (N + V-ing) *man working*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *work on*
 
 **19.** How can I assist you?
 
@@ -4038,7 +4022,7 @@
 >
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ khuyết thiếu 'd + V nguyên mẫu *'d like*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *help with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *help … with*
 
 **24.** What would the man like assistance with?
 

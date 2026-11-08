@@ -104,7 +104,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ phụ thuộc *Once* · and nối 2 động từ/cụm động từ song song *sign … and return*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *return to*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *return … to*
 
 **Câu 108.** Ten board members plan to attend, which is just **enough** to approve the proposal.
 
@@ -352,7 +352,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ đẳng lập nối 2 mệnh đề (but) *, but regrettably we*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *unavailable on* · Tính từ làm bổ ngữ sau be *are unavailable*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *are unavailable*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ đứng trước động từ *regrettably are*
 
@@ -422,7 +422,7 @@
 >
 > ⏱️ [Thì](TENSES.md): Hiện tại hoàn thành *has added*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *as part of* · Động từ + giới từ (collocation) *add to* · Danh từ + giới từ (collocation) *affiliation with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *as part of* · Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *add … to* · Danh từ + giới từ (collocation) *affiliation with*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *staff*
 >
@@ -906,7 +906,7 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *Your ticket*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *available in* · Tính từ làm bổ ngữ sau be *is ready*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *is ready*
 
 **8.** <sub>(đoạn văn trước câu 152)</sub> All Stub Master tickets contain a unique barcode and may not be printed, copied, or shared.
 
@@ -1270,8 +1270,6 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ đẳng lập (or) *to or expanding* · Liên từ đẳng lập (or) *, or for*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *add to*
->
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *construction project*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): any + N *any project*
@@ -1460,8 +1458,6 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *her work* · Tính từ sở hữu + N *her creations* · Tính từ sở hữu + N *my shop*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *many of*
->
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ tần suất *always admired*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): many of + the/tính từ sở hữu + N *many of her creations*
@@ -1554,7 +1550,7 @@
 >
 > 🧷 [Cụm động từ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Cụm động từ (V + tiểu từ) *send out*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for* · Danh từ + giới từ (collocation) *feedback on*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for* · Danh từ + giới từ (collocation) *feedback on*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *feedback* · Danh từ ghép (N + N) *site content*
 >
@@ -2034,7 +2030,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ phụ thuộc *If*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *sign for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *sign up for*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *our newsletter*
 >
@@ -2604,8 +2600,6 @@
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What topic is reported*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *report on*
->
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *blog post*
 
 **Câu 169.** What is indicated about Ms. Skandar?
@@ -2665,8 +2659,6 @@
 > ⏱️ [Thì](TENSES.md): Hiện tại đơn *does thank*
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What does Ms. Yuen*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
 
 **Câu 176.** What is indicated in the article about Hillside House?
 
@@ -2812,7 +2804,7 @@
 >
 > ⏱️ [Thì](TENSES.md): Quá khứ đơn *did provide*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *According to* · Động từ + giới từ (collocation) *provide with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *According to*
 
 **Câu 191.** What is the purpose of the first e-mail?
 
@@ -3510,7 +3502,7 @@
 >
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ khuyết thiếu should + V nguyên mẫu *should always add*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *add to*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *add … to*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your trip*
 >
@@ -3553,8 +3545,6 @@
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ + 2 tân ngữ (V + IO + DO) *ask What … man*
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What does the woman*
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *ask for*
 
 **18.** We have him booked to appear on the through the end of August.
 
@@ -3730,7 +3720,7 @@
 >
 > ⏱️ [Thì](TENSES.md): Tương lai đơn *'ll be*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *successful as* · Tính từ làm bổ ngữ sau be *be successful*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ làm bổ ngữ sau be *be successful*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ đầu câu bổ nghĩa cả câu *Hopefully,*
 >
@@ -3770,7 +3760,7 @@
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *What does the man*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 
 **37.** Welcome to the garden center.
 

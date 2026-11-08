@@ -6,45 +6,46 @@
 
 ## Mục lục
 
-1. [Động từ + giới từ (collocation)](ets-ngu-phap-full-prep.md?id=p1) — 279 câu
+1. [Động từ + giới từ (collocation)](ets-ngu-phap-full-prep.md?id=p1) — 185 câu
 2. [Giới từ kép / cụm giới từ](ets-ngu-phap-full-prep.md?id=p2) — 169 câu
 3. [Giới từ chỉ nơi chốn (in)](ets-ngu-phap-full-prep.md?id=p3) — 118 câu
 4. [Giới từ chỉ nơi chốn (at)](ets-ngu-phap-full-prep.md?id=p4) — 112 câu
 5. [Danh từ + giới từ (collocation)](ets-ngu-phap-full-prep.md?id=p5) — 89 câu
 6. [Giới từ chỉ thời gian (on)](ets-ngu-phap-full-prep.md?id=p6) — 86 câu
-7. [Giới từ chỉ thời gian (at)](ets-ngu-phap-full-prep.md?id=p7) — 72 câu
+7. [Giới từ chỉ thời gian (at)](ets-ngu-phap-full-prep.md?id=p7) — 73 câu
 8. [Giới từ chỉ nơi chốn (on)](ets-ngu-phap-full-prep.md?id=p8) — 65 câu
 9. [Giới từ chỉ thời gian (in)](ets-ngu-phap-full-prep.md?id=p9) — 54 câu
-10. [Giới từ chỉ thời gian (for)](ets-ngu-phap-full-prep.md?id=p10) — 47 câu
-11. [Giới từ chỉ nơi chốn (into)](ets-ngu-phap-full-prep.md?id=p11) — 32 câu
-12. [🎯 Đáp án là GIỚI TỪ (+ danh từ/V-ing)](ets-ngu-phap-full-prep.md?id=p12) — 28 câu
-13. [Giới từ chỉ thời gian (by)](ets-ngu-phap-full-prep.md?id=p13) — 25 câu
-14. [Giới từ chỉ thời gian (from)](ets-ngu-phap-full-prep.md?id=p14) — 19 câu
-15. [Giới từ chỉ thời gian (during)](ets-ngu-phap-full-prep.md?id=p15) — 14 câu
-16. [Giới từ chỉ thời gian (within)](ets-ngu-phap-full-prep.md?id=p16) — 14 câu
-17. [Giới từ chỉ thời gian (over)](ets-ngu-phap-full-prep.md?id=p17) — 13 câu
-18. [Giới từ chỉ nơi chốn (between)](ets-ngu-phap-full-prep.md?id=p18) — 13 câu
-19. [Giới từ chỉ thời gian (before)](ets-ngu-phap-full-prep.md?id=p19) — 12 câu
-20. [Giới từ chỉ nơi chốn (throughout)](ets-ngu-phap-full-prep.md?id=p20) — 12 câu
-21. [Giới từ chỉ thời gian (after)](ets-ngu-phap-full-prep.md?id=p21) — 11 câu
-22. [Giới từ chỉ nơi chốn (near)](ets-ngu-phap-full-prep.md?id=p22) — 10 câu
-23. [Giới từ chỉ thời gian (through)](ets-ngu-phap-full-prep.md?id=p23) — 10 câu
-24. [such as (ví dụ như) + N](ets-ngu-phap-full-prep.md?id=p24) — 9 câu
-25. [Giới từ chỉ nơi chốn (under)](ets-ngu-phap-full-prep.md?id=p25) — 9 câu
-26. [Giới từ chỉ nơi chốn (among)](ets-ngu-phap-full-prep.md?id=p26) — 8 câu
-27. [Giới từ chỉ thời gian (until)](ets-ngu-phap-full-prep.md?id=p27) — 7 câu
-28. [Giới từ chỉ nơi chốn (along)](ets-ngu-phap-full-prep.md?id=p28) — 7 câu
-29. [Giới từ chỉ nơi chốn (across)](ets-ngu-phap-full-prep.md?id=p29) — 6 câu
-30. [Giới từ chỉ thời gian (between)](ets-ngu-phap-full-prep.md?id=p30) — 6 câu
-31. [Giới từ chỉ thời gian (throughout)](ets-ngu-phap-full-prep.md?id=p31) — 5 câu
-32. [by + phương tiện/cách thức (không mạo từ)](ets-ngu-phap-full-prep.md?id=p32) — 4 câu
-33. [Giới từ chỉ nơi chốn (behind)](ets-ngu-phap-full-prep.md?id=p33) — 4 câu
-34. [Giới từ chỉ nơi chốn (outside)](ets-ngu-phap-full-prep.md?id=p34) — 2 câu
-35. [Giới từ chỉ nơi chốn (onto)](ets-ngu-phap-full-prep.md?id=p35) — 2 câu
-36. [Giới từ chỉ nơi chốn (toward)](ets-ngu-phap-full-prep.md?id=p36) — 2 câu
-37. [Giới từ chỉ nơi chốn (above)](ets-ngu-phap-full-prep.md?id=p37) — 1 câu
-38. [Giới từ chỉ nơi chốn (beyond)](ets-ngu-phap-full-prep.md?id=p38) — 1 câu
-39. [Giới từ chỉ nơi chốn (opposite)](ets-ngu-phap-full-prep.md?id=p39) — 1 câu
+10. [Giới từ chỉ thời gian (for)](ets-ngu-phap-full-prep.md?id=p10) — 48 câu
+11. [Động từ + tân ngữ + giới từ (thank sb for, provide sb with…)](ets-ngu-phap-full-prep.md?id=p11) — 47 câu
+12. [Giới từ chỉ nơi chốn (into)](ets-ngu-phap-full-prep.md?id=p12) — 32 câu
+13. [🎯 Đáp án là GIỚI TỪ (+ danh từ/V-ing)](ets-ngu-phap-full-prep.md?id=p13) — 28 câu
+14. [Giới từ chỉ thời gian (by)](ets-ngu-phap-full-prep.md?id=p14) — 25 câu
+15. [Giới từ chỉ thời gian (from)](ets-ngu-phap-full-prep.md?id=p15) — 19 câu
+16. [Giới từ chỉ thời gian (during)](ets-ngu-phap-full-prep.md?id=p16) — 14 câu
+17. [Giới từ chỉ thời gian (within)](ets-ngu-phap-full-prep.md?id=p17) — 14 câu
+18. [Giới từ chỉ thời gian (over)](ets-ngu-phap-full-prep.md?id=p18) — 13 câu
+19. [Giới từ chỉ nơi chốn (between)](ets-ngu-phap-full-prep.md?id=p19) — 13 câu
+20. [Giới từ chỉ thời gian (before)](ets-ngu-phap-full-prep.md?id=p20) — 12 câu
+21. [Giới từ chỉ nơi chốn (throughout)](ets-ngu-phap-full-prep.md?id=p21) — 12 câu
+22. [Giới từ chỉ thời gian (after)](ets-ngu-phap-full-prep.md?id=p22) — 11 câu
+23. [Giới từ chỉ nơi chốn (near)](ets-ngu-phap-full-prep.md?id=p23) — 10 câu
+24. [Giới từ chỉ thời gian (through)](ets-ngu-phap-full-prep.md?id=p24) — 10 câu
+25. [such as (ví dụ như) + N](ets-ngu-phap-full-prep.md?id=p25) — 9 câu
+26. [Giới từ chỉ nơi chốn (under)](ets-ngu-phap-full-prep.md?id=p26) — 9 câu
+27. [Giới từ chỉ nơi chốn (among)](ets-ngu-phap-full-prep.md?id=p27) — 8 câu
+28. [Giới từ chỉ thời gian (until)](ets-ngu-phap-full-prep.md?id=p28) — 7 câu
+29. [Giới từ chỉ nơi chốn (along)](ets-ngu-phap-full-prep.md?id=p29) — 7 câu
+30. [Giới từ chỉ nơi chốn (across)](ets-ngu-phap-full-prep.md?id=p30) — 6 câu
+31. [Giới từ chỉ thời gian (between)](ets-ngu-phap-full-prep.md?id=p31) — 6 câu
+32. [Giới từ chỉ thời gian (throughout)](ets-ngu-phap-full-prep.md?id=p32) — 5 câu
+33. [by + phương tiện/cách thức (không mạo từ)](ets-ngu-phap-full-prep.md?id=p33) — 4 câu
+34. [Giới từ chỉ nơi chốn (behind)](ets-ngu-phap-full-prep.md?id=p34) — 4 câu
+35. [Giới từ chỉ nơi chốn (outside)](ets-ngu-phap-full-prep.md?id=p35) — 2 câu
+36. [Giới từ chỉ nơi chốn (onto)](ets-ngu-phap-full-prep.md?id=p36) — 2 câu
+37. [Giới từ chỉ nơi chốn (toward)](ets-ngu-phap-full-prep.md?id=p37) — 2 câu
+38. [Giới từ chỉ nơi chốn (above)](ets-ngu-phap-full-prep.md?id=p38) — 1 câu
+39. [Giới từ chỉ nơi chốn (beyond)](ets-ngu-phap-full-prep.md?id=p39) — 1 câu
+40. [Giới từ chỉ nơi chốn (opposite)](ets-ngu-phap-full-prep.md?id=p40) — 1 câu
 
 ---
 
@@ -52,281 +53,193 @@
 
 ### 1. Động từ + giới từ (collocation)
 
-<small>209 câu Reading · 70 câu Listening</small>
+<small>138 câu Reading · 47 câu Listening</small>
 
 **📖 Reading**
 
 1. *(Test 1 · Part 5)* The newspaper article describes ways job seekers can **compensate for** having little workplace experience.
 2. *(Test 1 · Part 5)* The City of Doyle's new downtown parking restrictions have been **met with** opposition by residents and visitors.
-3. *(Test 1 · Part 5)* As chief analytics officer, Mr. Ko has **worked** at Lochston Ltd. **with** great dedication for more than twenty years.
-4. *(Test 1 · Part 6)* We will **listen to** your ideas and offer suggestions that match your gardening desires.
-5. *(Test 1 · Part 6)* Your dedication, loyalty, and hard work have **contributed** greatly **to** our success over the years.
-6. *(Test 1 · Part 6)* **Thank** you **for** being part of our Brandrix family.
-7. *(Test 1 · Part 6)* **Based on** our last conversation, I have chosen different paints for the walls and borders.
-8. *(Test 1 · Part 6)* **Thank** you **for** your recent visit to Kaymar Primary Care Practice.
-9. *(Test 1 · Part 6)* We **thank** you **for** your business and look forward to serving you again.
-10. *(Test 1 · Part 7)* In other news, Jason Norton will **transfer to** our Kingston headquarters next month.
-11. *(Test 1 · Part 7)* I am currently on holiday and will **return to** the office on 15 March.
-12. *(Test 1 · Part 7)* Vimalo Brands has **partnered with** Vancouver-area farms to obtain produce and meat for the Nutridinna line.
-13. *(Test 1 · Part 7)* Most of those employees have now **returned to** work in the restaurant.
-14. *(Test 1 · Part 7)* I want to e-mail account holders aged 55 to 65 to invite them to **meet with** a retirement planning expert.
-15. *(Test 1 · Part 7)* Owners of food trucks move from place to place, within and between cities, as they carry out their business, so they often **rely on** word of mouth or social media to attract customers.
-16. *(Test 1 · Part 7)* But in fact, by the very nature of their business, it is crucial that food truck owners have a fixed place for the public to **learn about** them, order from them, contact them, etc.
-17. *(Test 1 · Part 7 – câu hỏi)* How can people **subscribe to** a newsletter?
-18. *(Test 2 · Part 5)* The Exprite Foundation Board of Directors is **composed of** nine members who are elected annually by the public.
-19. *(Test 2 · Part 5)* Mortgage brokers generally prefer to review all the financial documents before **meeting with** a new client.
-20. *(Test 2 · Part 5)* Farist Bakery, which **specializes in** dessert catering, is located near the Liverpool Convention Complex.
-21. *(Test 2 · Part 5)* According to our guarantee, your order will **arrive in** three days or we will refund 50 percent of the cost.
-22. *(Test 2 · Part 6)* After a few months, she became **known** around town **as** the Muffin Lady.
-23. *(Test 2 · Part 6)* She is **searching for** a buyer for the bistro.
-24. *(Test 2 · Part 6)* Alternatively., we could remove all of the old asphalt and **replace** it **with** a porous material such as crushed gravel.
-25. *(Test 2 · Part 6)* Please give me a call whenever it is convenient so that we can **talk about** next steps.
-26. *(Test 2 · Part 7)* Your personally identifiable information may be used to **provide** you **with** additional information about Lorne's products and services.
-27. *(Test 2 · Part 7)* Gernack Home has proudly provided customized home-renovation solutions in the Nashville area for 30 years. → *provide for*
-28. *(Test 2 · Part 7)* We **work with** clients on projects of all kinds, no matter how large or small.
-29. *(Test 2 · Part 7)* While there, **take** advantage **of** our latest feature: a virtual home renovation assistant.
-30. *(Test 2 · Part 7)* And, to **thank** you **for** being a Honey Canyon customer for so many years, we are also offering you a 20 percent discount on your next order.
-31. *(Test 2 · Part 7)* I know you **worked with** Stefano Cleary, who was the head of fund-raising operations when you donated one of your beautiful sculptures last year.
-32. *(Test 2 · Part 7)* One of my colleagues told me that the Delta City Art Museum **provides** tours **for** local art students.
-33. *(Test 2 · Part 7)* Since Art 103 **focuses on** studying and drawing the human form, the statues will be getting most of our attention.
-34. *(Test 2 · Part 7)* Collapsible toothpaste tubes continue to lead the market overall, but because they are **composed of** multiple layers, it is nearly impossible to recycle them.
-35. *(Test 2 · Part 7)* Once I **arrived at** Charlesville Central Station, I rode the elevator to the basement, where the light-rail train platforms are located.
-36. *(Test 2 · Part 7)* I felt so relaxed when I finally **returned to** my office and got back to work.
-37. *(Test 2 · Part 7 – câu hỏi)* When most likely will Ms. Begani **meet with** the accounting department?
-38. *(Test 2 · Part 7 – câu hỏi)* At what time did Mr. Cho's train most likely arrive in Charlesville? → *arrive at*
-39. *(Test 3 · Part 5)* Mr. Swan will **return to** the planning meeting once the interns have arrived.
-40. *(Test 3 · Part 6)* On February 1, cashback rewards will **return to** 2 per 50 transaction.
-41. *(Test 3 · Part 6)* Botswana Mining's online payroll portal will be unavailable between 8 and 12 April to **allow for** a software upgrade.
-42. *(Test 3 · Part 7)* Let me **congratulate** you again **on** our sales increase as well as the launch of our newest products, which are already regaining significant market share from our competitors.
-43. *(Test 3 · Part 7)* Frank Gruen will be our chief financial officer, Patricia Lesner will **serve as** vice president of research and development, Lana Avon will be our director of marketing, and product designer Lewis Sung will now oversee his department as director of product design.
-44. *(Test 3 · Part 7)* **Thank** you **for** leading a professional development seminar at Delahunt, Greene, and Associates (DGA) last week.
-45. *(Test 3 · Part 7)* This is a work-from-home position that involves **collaborating with** engineers to review and revise their technical reports.
-46. *(Test 3 · Part 7)* The job involves editing engineering reports to ensure they meet quality specifications and **comply with** industry standards.
-47. *(Test 3 · Part 7)* The group, which relies enti**rely on** donations, collaborates with the city parks department on restoration and enhancement.
-48. *(Test 3 · Part 7)* After **talking with** a coworker, I learned about Branxley Cycles.
-49. *(Test 3 · Part 7)* I am very happy with my Branxley Cycles purchase, and I recommend it to everybody that **comments on** it as I ride it around town.
-50. *(Test 3 · Part 7)* Our Resources page provides sheet music and singers' recordings to help you **prepare for** an audition.
-51. *(Test 3 · Part 7)* Successful candidates will join our dynamic choir under the direction of Janice Trapani and will be expected to **report** to Neufried Auditorium **on** 11 August for autumn performance rehearsals.
-52. *(Test 3 · Part 7 – câu hỏi)* What kind of advertising did Ms. Tuan **focus on** at her previous job?
-53. *(Test 3 · Part 7 – câu hỏi)* According to the review, how did Mr. Stewart **learn about** Branxley Cycles?
-54. *(Test 3 · Part 7 – câu hỏi)* When will Ms. Moreland **return to** the office?
-55. *(Test 4 · Part 5)* The city's development committee is **looking for** a location to plant a community garden.
-56. *(Test 4 · Part 5)* Once Ms. Jeong receives the contract, she will sign and **return** it **to** Allory Pharmaceuticals.
-57. *(Test 4 · Part 5)* Two students from Wrisley University **worked** collaboratively **on** the design of the new library in North Park.
-58. *(Test 4 · Part 5)* Granta Hospital has **added** several pediatric nurses **to** its staff as part of its new affiliation with the Friel School of Nursing.
-59. *(Test 4 · Part 6)* The talented comedian Maddy Chang will perform a one-person show **based on** her memoir, That's All I Wanted.
-60. *(Test 4 · Part 6)* I **specialize in** floral design.
-61. *(Test 4 · Part 7)* Alita Technology is **collaborating with** the Microwave Engineering Lab at the University of Southam on the initiative.
-62. *(Test 4 · Part 7)* A permit will be needed for **adding to** or expanding the size of a building, for changing the exterior appearance of a building, or for any brand-new construction project.
-63. *(Test 4 · Part 7)* As regular readers of my blog know, over the past few weeks, I have **concentrated on** the revitalization of the Brentler Heights waterfront district by developer and former architect David Greeley.
-64. *(Test 4 · Part 7)* **Thank** you **for** your prompt feedback on the Web site content I sent out in the group e-mail.
-65. *(Test 4 · Part 7)* Jeff Spina (9:08 A.M.) I’ll **speak with** Ryeo Jee about that.
-66. *(Test 4 · Part 7)* Our events coordinator will **work with** you to make your wedding or corporate function an occasion to remember.”
-67. *(Test 4 · Part 7)* Chef Malik and his staff can also **work with** you to include logos on food items or a cake.
-68. *(Test 4 · Part 7)* If you have not **signed** up **for** our newsletter yet, I suggest you do.
-69. *(Test 4 · Part 7)* We encourage residents to visit this page often to **learn about** upcoming volunteer events.
-70. *(Test 4 · Part 7 – câu hỏi)* What topic is **reported on** in the blog post?
-71. *(Test 4 · Part 7 – câu hỏi)* What does Ms. Yuen **thank** Mr. Spina **for**?
-72. *(Test 4 · Part 7 – câu hỏi)* According to the Web page, what did one nearby resident **provide** volunteers **with**?
-73. *(Test 5 · Part 5)* The marketing manager, Ms. Abyola, plans to **meet with** the press following her meeting with the vice president.
-74. *(Test 5 · Part 5)* Not only has Mr. Ogbu diligently **worked on** the project, but he has also trained Ms. Jeong to continue the work.
-75. *(Test 5 · Part 6)* I would like to personally **thank** Ms. Hoffman **for** her tremendous leadership.
-76. *(Test 5 · Part 6)* We would love to **work with** you to create an inviting space that you can be proud of.
-77. *(Test 5 · Part 6)* If interested, please **reply to** this e-mail to schedule a free consultation.
-78. *(Test 5 · Part 7)* For rates and additional information, call us at 515-555-0130. → *call for*
-79. *(Test 5 · Part 7)* I wanted to let you know that I was **talking to** the director of Yadav Digital Marketing, Elise Mayer.
-80. *(Test 5 · Part 7)* The company had planned to release the product in June to **take** advantage **of** the higher sales demand during the summer months.
-81. *(Test 5 · Part 7)* The company said the delay was caused by a shortage of one of the drink's main components, mango extract, which **led to** the postponement of quality testing until August.
-82. *(Test 5 · Part 7)* Mr. Rosier, whose store **specializes in** native plants and flowers, admitted that his first year with the garden center was tough.
-83. *(Test 5 · Part 7)* The supervisor assists in the hiring and training of subordinates and **works with** division leaders to conduct evaluations and yearly performance reviews of crew members.
-84. *(Test 5 · Part 7)* Significant concerns raised by employees are brought to the attention of division leaders by the supervisor, who **functions as** a liaison between crew members and the Division of Administrative Services.
-85. *(Test 5 · Part 7)* I’m scheduled to work at Mr. Amadi’s apartment on Friday—can the Browns’ ductwork wait until Monday? → *work on*
-86. *(Test 5 · Part 7)* If one is not available by tomorrow, I ask that you cancel my order and **provide** me **with** a full refund.
-87. *(Test 5 · Part 7)* Your consultant will determine the rates for any subsequent sessions **based on** your needs.
-88. *(Test 5 · Part 7)* As I mentioned in the form, we are a five-year-old company **specializing in** high-end washers and dryers.
-89. *(Test 5 · Part 7)* **Thank** you **for** being a valued checking account holder with Sonfaya Mutual for fifteen years.
-90. *(Test 5 · Part 7)* Your checking and savings accounts are now joined, enabling you to **transfer** money from one account **to** the other online.
-91. *(Test 5 · Part 7)* I wanted to **inquire about** breakfast times.
-92. *(Test 5 · Part 7 – câu hỏi)* Who will Mr. Yadav most likely **work with**?
-93. *(Test 5 · Part 7 – câu hỏi)* Why is Ms. Chabinga **looking for** a previous AFR issue?
-94. *(Test 5 · Part 7 – câu hỏi)* **Based on** the form, what is true about Ms. Park?
-95. *(Test 5 · Part 7 – câu hỏi)* **Based on** the report, what test resulted in the replacement of a machine part?
-96. *(Test 6 · Part 5)* Mayor Park plans to **meet with** his campaign staff following the televised debate.
-97. *(Test 6 · Part 5)* Handi Office Supplies' new desk organizers **serve as** practical and stylish additions to any office workstation.
-98. *(Test 6 · Part 5)* The efficient redesign of the airline terminal **led to** fewer flight delays.
-99. *(Test 6 · Part 5)* Commercial property insurance covers the expenses **associated with** repairing or rebuilding a business property after certain events.
-100. *(Test 6 · Part 5)* Artists at Cavin Graphics **work** collaboratively **with** clients through all stages of the design process to ensure satisfaction.
-101. *(Test 6 · Part 6)* leads around the side of the building to our front entrance. → *lead to*
-102. *(Test 6 · Part 6)* inconvenience and **thank** you **for** your patience.
-103. *(Test 6 · Part 7)* They are also great for **adding to** your favorite cereal in the morning.
-104. *(Test 6 · Part 7)* Chilean Smelting, Inc., a major producer, has **invested in** improved equipment and aims to increase production.
-105. *(Test 6 · Part 7)* We have **worked with** clients in the Sheffield area for over 30 years.
-106. *(Test 6 · Part 7)* We recently started **working with** a new packaging supply company, and unfortunately, we experienced a miscommunication with them.
-107. *(Test 6 · Part 7)* Just like Repose Lounges in other airports, it offers a peaceful, comfortable space where you can unwind if you have a long layover between flights, have arrived early for a flight, or are **dealing with** an unexpected delay.
-108. *(Test 6 · Part 7)* Two teams of volunteers will **work on** either side of the stream to pick up any rubbish and clear the paths of fallen branches.
-109. *(Test 6 · Part 7)* Do you have anything that you would like to **add to** it?
-110. *(Test 6 · Part 7)* I'm **preparing for** a full afternoon of interviews.
-111. *(Test 6 · Part 7)* Since you **work** closely **with** him in the finance department, I thought you might be well positioned to talk about him as a mentor, worker, and leader.
-112. *(Test 6 · Part 7)* Walter actually interviewed me when I first **applied for** a job with the company fifteen years ago.
-113. *(Test 6 · Part 7)* Gardens selected to **participate in** the tour must be within Presidio County and include only plants native to the region.
-114. *(Test 6 · Part 7)* Thus, I am writing to ask if I may **participate in** the Gorgeous Gardens Tour.
-115. *(Test 6 · Part 7)* April: Pest Deterrence - Learn natural, pesticide-free techniques that can **prevent** harmful insects **from** eating your fruits and vegetables.
-116. *(Test 6 · Part 7)* Terra Jaunts pays up to $300 per day to our partners for the daytime use of their property and provides all or most needed equipment. → *pay for*
-117. *(Test 6 · Part 7)* Your list of plants would be a real asset for groups **engaged in** activities involving the identification of species.
-118. *(Test 6 · Part 7 – câu hỏi)* According to the article, what is **contributing to** the demand for tin?
-119. *(Test 6 · Part 7 – câu hỏi)* What did Ms. Schirmer **provide with** the e-mail?
-120. *(Test 6 · Part 7 – câu hỏi)* What most likely will **add to** the cost of printing this year's special issue?
-121. *(Test 6 · Part 7 – câu hỏi)* At approximately what time does Mr. Iqbal plan to **arrive at** the party?
-122. *(Test 6 · Part 7 – câu hỏi)* What most likely will **prevent** Ms. Olton's garden **from** being selected as a tour stop?
-123. *(Test 7 · Part 5)* Dumbbells, also **known as** free weights, are useful for keeping fit at home.
-124. *(Test 7 · Part 5)* Please click on the link below to **subscribe to** our monthly newsletter.
-125. *(Test 7 · Part 5)* Ms. Persson was able to **respond** directly **to** government leaders about their concerns regarding the funding plan.
-126. *(Test 7 · Part 5)* Please **familiarize** yourself **with** the company's tuition-reimbursement policy before enrolling in any classes.
-127. *(Test 7 · Part 6)* If you do not **reply to** this e-mail, I will In that case135.
-128. *(Test 7 · Part 6)* The document is **waiting for** four more signatures.
-129. *(Test 7 · Part 7)* **Thank** you, Nathan Thielen, **for** joining Brice's Ice Creamery's rewards program.
-130. *(Test 7 · Part 7)* You have earned your first points just by **signing** up **for** our program.
-131. *(Test 7 · Part 7)* As you know, it is our policy to **charge** the full appointment fee **for** missed appointments unless the patient notifies us at least 24 hours in advance of the scheduled visit.
-132. *(Test 7 · Part 7)* I'll **take** care **of** it right now.
-133. *(Test 7 · Part 7)* We **apologize for** the inconvenience.
-134. *(Test 7 · Part 7)* Please be patient as we **prepare** the space **for** our next exhibit, The Power of Light.
-135. *(Test 7 · Part 7)* As the facilities manager of a medium-sized office building, I often have to **deal with** the inconvenience of wet floors caused by visitors entering with umbrellas.
-136. *(Test 7 · Part 7)* It will **arrive at** your medical clinic construction site on 20 August.
-137. *(Test 7 · Part 7 – câu hỏi)* What did Mr. Thielen receive for **signing** up **for** the rewards program?
-138. *(Test 7 · Part 7 – câu hỏi)* Where was Ms. Loeb's first experience **working on** electric vehicles?
-139. *(Test 8 · Part 5)* To provide feedback about your recent dental appointment, please **respond to** this brief survey.
-140. *(Test 8 · Part 5)* The company decided to proceed cautiously with plans to **expand into** new sales territories.
-141. *(Test 8 · Part 6)* As you all know, to **coincide with** the upcoming launch of the restaurant's new menu, we have made several changes to our mobile app.
-142. *(Test 8 · Part 6)* In particular, they **commented on** how simple it is to use the different features.
-143. *(Test 8 · Part 7)* As some of you know, Sun-Yi Pak is **transferring to** our Seoul office.
-144. *(Test 8 · Part 7)* Please **reply to** this e-mail by 16 February to let me know if you plan to attend.
-145. *(Test 8 · Part 7)* **Call** now **for** a free estimate or to schedule a cleaning.
-146. *(Test 8 · Part 7)* I'd love to **talk to** you about the McMillan project before we meet with the client this afternoon.
-147. *(Test 8 · Part 7)* Grotel Corporation will **provide** the Event Speaker **with** the following equipment: projector, large screen, Internet connection, microphone. (Please see accompanying document for specific information.)
-148. *(Test 8 · Part 7)* People want to feel a personal connection to the companies they **work with**.
-149. *(Test 8 · Part 7)* I also wish there were more than two photographs, especially considering how much Maalim's reputation was **based on** his photogenic qualities.
-150. *(Test 8 · Part 7)* A few friends and I decided to visit and **take** advantage **of** a promotional offer, and I'm happy to say that our experience was better than expected.
-151. *(Test 8 · Part 7)* **Work on** the boulevard will start immediately so that it will be finished before the airline begins its service.
-152. *(Test 8 · Part 7)* “We look forward to **providing** the region’s residents **with** affordable, convenient service to Cranton,” stated Savita Grewal, public relations director at Winglite Airlines.
-153. *(Test 8 · Part 7)* They last a long time and will **adhere to** any surface.
-154. *(Test 8 · Part 7 – câu hỏi)* Why did Ms. Mehta not **respond to** an e-mail?
-155. *(Test 8 · Part 7 – câu hỏi)* How much did Ms. Shaw **pay for** entertainment activities?
-156. *(Test 9 · Part 5)* Our market research shows that buyers with limited knowledge of a product often **look for** information from expert sources.
-157. *(Test 9 · Part 5)* Something is **preventing** the graphic artists **from** accessing the image files in the main database.
-158. *(Test 9 · Part 5)* Critics **reacted** favorably **to** the new musical, praising the exciting design and impressive choreography.
-159. *(Test 9 · Part 6)* Retro Crafters **focuses on** furniture designs from the 1950s through the 1970s.
-160. *(Test 9 · Part 6)* **Thank** you **for** entrusting me with the design of the logo for your business.
-161. *(Test 9 · Part 6)* "Shipley is an iconic design house that will be **adding** much **to** the Locke and Jeeves portfolio in the area of reliably traditional footwear," said Mr. Thayne.
-162. *(Test 9 · Part 7)* **Thank** you **for** your assistance.
-163. *(Test 9 · Part 7)* When crafting a personal statement, provide concrete examples of times when you had to **rely on** your unique qualities.
-164. *(Test 9 · Part 7)* It is also a good idea to give examples of how you **work with** or learn from others.
-165. *(Test 9 · Part 7)* Your final paragraph is an ideal place for this information, as you can create a separate version of this paragraph for each position you **apply for**.
-166. *(Test 9 · Part 7)* Your previous in-depth report that **led to** the repair work on that bridge was excellent.
-167. *(Test 9 · Part 7)* As someone who held this role prior to your retirement four years ago, you know exactly what knowledge and skills are needed for this position, making you an ideal candidate for our search committee. → *know as*
-168. *(Test 9 · Part 7)* For your time and effort, we will compensate you at the standard rate for external consultants. → *compensate for*
-169. *(Test 9 · Part 7)* A touchscreen allows visitors to **communicate** electronically **with** an exhibit's unique database and target their interests.
-170. *(Test 9 · Part 7)* "Visitors will now be able to choose topics they want to **learn** more **about**."
-171. *(Test 9 · Part 7)* I work in Springdale, just 3 kilometers north of Somerville Park, on the same street where the festival took place, in fact. → *work on*
-172. *(Test 9 · Part 7)* Prices for each special service vary **based on** the size of the space.
-173. *(Test 9 · Part 7)* “We have always **excelled at** capturing breathtaking video imagery for a wide range of industries, but we can now do so from new perspectives,” said Yunus Maseko, the CEO of Blue Lapis.
-174. *(Test 9 · Part 7)* Please **consult with** Ms. Shabangu throughout the filming and editing process.
-175. *(Test 9 · Part 7 – câu hỏi)* How does the Cirro model **differ from** the other new phone models?
-176. *(Test 10 · Part 5)* **Thank** you **for** responding promptly with information about the T-Max 400 printer and scanner.
-177. *(Test 10 · Part 5)* Despite the fact that the use of social media is widespread, many people still **rely on** newspapers for fact-checked information.
-178. *(Test 10 · Part 6)* This political thriller is **based on** the book Whispered Illusions by Noriaki Arishima. 135.
-179. *(Test 10 · Part 6)* In contrast, other reviewers argue that the series might lose its appeal with the introduction of so many new characters, **resulting in** a complicated and confusing plotline.
-180. *(Test 10 · Part 6)* Director Amber Randolph has **responded to** that criticism.
-181. *(Test 10 · Part 6)* **Thank** you **for** sharing your interesting recipe that uses our low-fat, sugar-free Fluffy Time Whipped Topping.
-182. *(Test 10 · Part 7)* Delivery rates vary **based on** volume, product, and location.
-183. *(Test 10 · Part 7)* Please call us at 904-555-0132 for detailed pricing. → *call for*
-184. *(Test 10 · Part 7)* Remember that airlines usually offer a limited number of the lowest fares, so you may want to make a reservation soon to **take** advantage **of** these prices.
-185. *(Test 10 · Part 7)* **Thank** you **for** reviewing my recipes to ensure they are easy to follow.
-186. *(Test 10 · Part 7)* I am **writing to** you to share the exciting news that Aqua Voyage Cruise Lines will be expanding its fleet next July.
-187. *(Test 10 · Part 7)* Your commitment to offering your customers across Europe unique and delicious menu items aligns with our vision for **providing** cruise-ship passengers **with** distinct restaurant options.
-188. *(Test 10 · Part 7)* WESTERN AUSTRALIA (21 June)—On 19 June, Western Australia's Karinya Medical Centre (KMC) was awarded the Valorcare Foundation's Stellar Service Merit, **regarded as** one of the highest honours an Australian hospital can receive.
-189. *(Test 10 · Part 7)* To **qualify for** the award, hospitals must meet a set of criteria, including timely access to care, superior medical outcomes, extensive staff training, and exceptional patient satisfaction.
-190. *(Test 10 · Part 7)* As you know, the rule for Pool Guardian lifeguards is to **wait for** 30 minutes after bad weather passes.
-191. *(Test 10 · Part 7)* Founded over twenty years ago, Sagemont Services began as a start-up **competing with** larger businesses in a crowded field.
-192. *(Test 10 · Part 7)* For example, with the online retailer Clothing Discounters rapidly expanding, we assisted the company in increasing its call-center capability. → *assist with*
-193. *(Test 10 · Part 7)* Ms. Alonso also plans to **add** more recyclable material **to** her installation as the show progresses.
-194. *(Test 10 · Part 7)* Every Monday evening from 7:00 P.M. to 8:30 P.M. we **turn** our kitchen over **to** a guest chef from one of Richmond's many fine restaurants.
-195. *(Test 10 · Part 7)* Before she **arrived at** the institute, Dr. Robbins was the founder and director of the ophthalmology clinic at Morseville Hospital.
-196. *(Test 10 · Part 7)* To **take** advantage **of** either option, e-mail us at programs@freewheeloasis.com to schedule an appointment.
-197. *(Test 10 · Part 7)* At the training for new hires this morning, we **provided** you **with** a checklist of the documents that we need to have on file.
-198. *(Test 10 · Part 7)* Our company team **participates in** a league, and it’s a great way to build rapport with the people you will be working alongside.
-199. *(Test 10 · Part 7)* **Thank** you **for** your e-mail.
-200. *(Test 10 · Part 7)* I'll have to **think about** whether I want to join the company softball team.
-201. *(Test 10 · Part 7 – câu hỏi)* When most likely did Ms. Klein **participate in** a Richmond Supermarket cooking class?
+3. *(Test 1 · Part 6)* We will **listen to** your ideas and offer suggestions that match your gardening desires.
+4. *(Test 1 · Part 6)* Your dedication, loyalty, and hard work have **contributed** greatly **to** our success over the years.
+5. *(Test 1 · Part 6)* **Based on** our last conversation, I have chosen different paints for the walls and borders.
+6. *(Test 1 · Part 7)* In other news, Jason Norton will **transfer to** our Kingston headquarters next month.
+7. *(Test 1 · Part 7)* I am currently on holiday and will **return to** the office on 15 March.
+8. *(Test 1 · Part 7)* Vimalo Brands has **partnered with** Vancouver-area farms to obtain produce and meat for the Nutridinna line.
+9. *(Test 1 · Part 7)* Most of those employees have now **returned to** work in the restaurant.
+10. *(Test 1 · Part 7)* I want to e-mail account holders aged 55 to 65 to invite them to **meet with** a retirement planning expert.
+11. *(Test 1 · Part 7)* Owners of food trucks move from place to place, within and between cities, as they carry out their business, so they often **rely on** word of mouth or social media to attract customers.
+12. *(Test 1 · Part 7)* But in fact, by the very nature of their business, it is crucial that food truck owners have a fixed place for the public to **learn about** them, order from them, contact them, etc.
+13. *(Test 1 · Part 7 – câu hỏi)* How can people **subscribe to** a newsletter?
+14. *(Test 2 · Part 5)* The Exprite Foundation Board of Directors is **composed of** nine members who are elected annually by the public.
+15. *(Test 2 · Part 5)* Mortgage brokers generally prefer to review all the financial documents before **meeting with** a new client.
+16. *(Test 2 · Part 5)* Farist Bakery, which **specializes in** dessert catering, is located near the Liverpool Convention Complex.
+17. *(Test 2 · Part 6)* She is **searching for** a buyer for the bistro.
+18. *(Test 2 · Part 6)* Please give me a call whenever it is convenient so that we can **talk about** next steps.
+19. *(Test 2 · Part 7)* We **work with** clients on projects of all kinds, no matter how large or small.
+20. *(Test 2 · Part 7)* I know you **worked with** Stefano Cleary, who was the head of fund-raising operations when you donated one of your beautiful sculptures last year.
+21. *(Test 2 · Part 7)* Since Art 103 **focuses on** studying and drawing the human form, the statues will be getting most of our attention.
+22. *(Test 2 · Part 7)* Collapsible toothpaste tubes continue to lead the market overall, but because they are **composed of** multiple layers, it is nearly impossible to recycle them.
+23. *(Test 2 · Part 7)* Once I **arrived at** Charlesville Central Station, I rode the elevator to the basement, where the light-rail train platforms are located.
+24. *(Test 2 · Part 7)* I felt so relaxed when I finally **returned to** my office and got back to work.
+25. *(Test 2 · Part 7 – câu hỏi)* When most likely will Ms. Begani **meet with** the accounting department?
+26. *(Test 2 · Part 7 – câu hỏi)* At what time did Mr. Cho's train most likely **arrive in** Charlesville?
+27. *(Test 3 · Part 5)* Mr. Swan will **return to** the planning meeting once the interns have arrived.
+28. *(Test 3 · Part 6)* On February 1, cashback rewards will **return to** 2 per 50 transaction.
+29. *(Test 3 · Part 6)* Botswana Mining's online payroll portal will be unavailable between 8 and 12 April to **allow for** a software upgrade.
+30. *(Test 3 · Part 7)* Frank Gruen will be our chief financial officer, Patricia Lesner will **serve as** vice president of research and development, Lana Avon will be our director of marketing, and product designer Lewis Sung will now oversee his department as director of product design.
+31. *(Test 3 · Part 7)* This is a work-from-home position that involves **collaborating with** engineers to review and revise their technical reports.
+32. *(Test 3 · Part 7)* The job involves editing engineering reports to ensure they meet quality specifications and **comply with** industry standards.
+33. *(Test 3 · Part 7)* The group, which relies enti**rely on** donations, collaborates with the city parks department on restoration and enhancement.
+34. *(Test 3 · Part 7)* After **talking with** a coworker, I learned about Branxley Cycles.
+35. *(Test 3 · Part 7)* I am very happy with my Branxley Cycles purchase, and I recommend it to everybody that **comments on** it as I ride it around town.
+36. *(Test 3 · Part 7)* Our Resources page provides sheet music and singers' recordings to help you **prepare for** an audition.
+37. *(Test 3 · Part 7 – câu hỏi)* According to the review, how did Mr. Stewart **learn about** Branxley Cycles?
+38. *(Test 3 · Part 7 – câu hỏi)* When will Ms. Moreland **return to** the office?
+39. *(Test 4 · Part 5)* The city's development committee is **looking for** a location to plant a community garden.
+40. *(Test 4 · Part 5)* Two students from Wrisley University **worked** collaboratively **on** the design of the new library in North Park.
+41. *(Test 4 · Part 6)* The talented comedian Maddy Chang will perform a one-person show **based on** her memoir, That's All I Wanted.
+42. *(Test 4 · Part 6)* I **specialize in** floral design.
+43. *(Test 4 · Part 7)* Alita Technology is **collaborating with** the Microwave Engineering Lab at the University of Southam on the initiative.
+44. *(Test 4 · Part 7)* As regular readers of my blog know, over the past few weeks, I have **concentrated on** the revitalization of the Brentler Heights waterfront district by developer and former architect David Greeley.
+45. *(Test 4 · Part 7)* Jeff Spina (9:08 A.M.) I’ll **speak with** Ryeo Jee about that.
+46. *(Test 4 · Part 7)* Our events coordinator will **work with** you to make your wedding or corporate function an occasion to remember.”
+47. *(Test 4 · Part 7)* Chef Malik and his staff can also **work with** you to include logos on food items or a cake.
+48. *(Test 4 · Part 7)* If you have not **signed up for** our newsletter yet, I suggest you do.
+49. *(Test 4 · Part 7)* We encourage residents to visit this page often to **learn about** upcoming volunteer events.
+50. *(Test 5 · Part 5)* The marketing manager, Ms. Abyola, plans to **meet with** the press following her meeting with the vice president.
+51. *(Test 5 · Part 5)* Not only has Mr. Ogbu diligently **worked on** the project, but he has also trained Ms. Jeong to continue the work.
+52. *(Test 5 · Part 6)* We would love to **work with** you to create an inviting space that you can be proud of.
+53. *(Test 5 · Part 6)* If interested, please **reply to** this e-mail to schedule a free consultation.
+54. *(Test 5 · Part 7)* I wanted to let you know that I was **talking to** the director of Yadav Digital Marketing, Elise Mayer.
+55. *(Test 5 · Part 7)* The company said the delay was caused by a shortage of one of the drink's main components, mango extract, which **led to** the postponement of quality testing until August.
+56. *(Test 5 · Part 7)* Mr. Rosier, whose store **specializes in** native plants and flowers, admitted that his first year with the garden center was tough.
+57. *(Test 5 · Part 7)* The supervisor assists in the hiring and training of subordinates and **works with** division leaders to conduct evaluations and yearly performance reviews of crew members.
+58. *(Test 5 · Part 7)* Significant concerns raised by employees are brought to the attention of division leaders by the supervisor, who **functions as** a liaison between crew members and the Division of Administrative Services.
+59. *(Test 5 · Part 7)* Your consultant will determine the rates for any subsequent sessions **based on** your needs.
+60. *(Test 5 · Part 7)* As I mentioned in the form, we are a five-year-old company **specializing in** high-end washers and dryers.
+61. *(Test 5 · Part 7)* I wanted to **inquire about** breakfast times.
+62. *(Test 5 · Part 7 – câu hỏi)* Who will Mr. Yadav most likely **work with**?
+63. *(Test 5 · Part 7 – câu hỏi)* Why is Ms. Chabinga **looking for** a previous AFR issue?
+64. *(Test 5 · Part 7 – câu hỏi)* **Based on** the form, what is true about Ms. Park?
+65. *(Test 5 · Part 7 – câu hỏi)* **Based on** the report, what test resulted in the replacement of a machine part?
+66. *(Test 6 · Part 5)* Mayor Park plans to **meet with** his campaign staff following the televised debate.
+67. *(Test 6 · Part 5)* Handi Office Supplies' new desk organizers **serve as** practical and stylish additions to any office workstation.
+68. *(Test 6 · Part 5)* The efficient redesign of the airline terminal **led to** fewer flight delays.
+69. *(Test 6 · Part 5)* Commercial property insurance covers the expenses **associated with** repairing or rebuilding a business property after certain events.
+70. *(Test 6 · Part 5)* Artists at Cavin Graphics **work** collaboratively **with** clients through all stages of the design process to ensure satisfaction.
+71. *(Test 6 · Part 7)* They are also great for **adding to** your favorite cereal in the morning.
+72. *(Test 6 · Part 7)* Chilean Smelting, Inc., a major producer, has **invested in** improved equipment and aims to increase production.
+73. *(Test 6 · Part 7)* We have **worked with** clients in the Sheffield area for over 30 years.
+74. *(Test 6 · Part 7)* We recently started **working with** a new packaging supply company, and unfortunately, we experienced a miscommunication with them.
+75. *(Test 6 · Part 7)* Just like Repose Lounges in other airports, it offers a peaceful, comfortable space where you can unwind if you have a long layover between flights, have arrived early for a flight, or are **dealing with** an unexpected delay.
+76. *(Test 6 · Part 7)* Do you have anything that you would like to **add to** it?
+77. *(Test 6 · Part 7)* I'm **preparing for** a full afternoon of interviews.
+78. *(Test 6 · Part 7)* Since you **work** closely **with** him in the finance department, I thought you might be well positioned to talk about him as a mentor, worker, and leader.
+79. *(Test 6 · Part 7)* Walter actually interviewed me when I first **applied for** a job with the company fifteen years ago.
+80. *(Test 6 · Part 7)* Gardens selected to **participate in** the tour must be within Presidio County and include only plants native to the region.
+81. *(Test 6 · Part 7)* Thus, I am writing to ask if I may **participate in** the Gorgeous Gardens Tour.
+82. *(Test 6 · Part 7)* Your list of plants would be a real asset for groups **engaged in** activities involving the identification of species.
+83. *(Test 6 · Part 7 – câu hỏi)* According to the article, what is **contributing to** the demand for tin?
+84. *(Test 6 · Part 7 – câu hỏi)* What most likely will **add to** the cost of printing this year's special issue?
+85. *(Test 6 · Part 7 – câu hỏi)* At approximately what time does Mr. Iqbal plan to **arrive at** the party?
+86. *(Test 7 · Part 5)* Dumbbells, also **known as** free weights, are useful for keeping fit at home.
+87. *(Test 7 · Part 5)* Please click on the link below to **subscribe to** our monthly newsletter.
+88. *(Test 7 · Part 5)* Ms. Persson was able to **respond** directly **to** government leaders about their concerns regarding the funding plan.
+89. *(Test 7 · Part 6)* If you do not **reply to** this e-mail, I will In that case135.
+90. *(Test 7 · Part 6)* The document is **waiting for** four more signatures.
+91. *(Test 7 · Part 7)* You have earned your first points just by **signing up for** our program.
+92. *(Test 7 · Part 7)* We **apologize for** the inconvenience.
+93. *(Test 7 · Part 7)* As the facilities manager of a medium-sized office building, I often have to **deal with** the inconvenience of wet floors caused by visitors entering with umbrellas.
+94. *(Test 7 · Part 7)* It will **arrive at** your medical clinic construction site on 20 August.
+95. *(Test 7 · Part 7 – câu hỏi)* What did Mr. Thielen receive for **signing up for** the rewards program?
+96. *(Test 7 · Part 7 – câu hỏi)* Where was Ms. Loeb's first experience **working on** electric vehicles?
+97. *(Test 8 · Part 5)* To provide feedback about your recent dental appointment, please **respond to** this brief survey.
+98. *(Test 8 · Part 5)* The company decided to proceed cautiously with plans to **expand into** new sales territories.
+99. *(Test 8 · Part 6)* As you all know, to **coincide with** the upcoming launch of the restaurant's new menu, we have made several changes to our mobile app.
+100. *(Test 8 · Part 6)* In particular, they **commented on** how simple it is to use the different features.
+101. *(Test 8 · Part 7)* As some of you know, Sun-Yi Pak is **transferring to** our Seoul office.
+102. *(Test 8 · Part 7)* Please **reply to** this e-mail by 16 February to let me know if you plan to attend.
+103. *(Test 8 · Part 7)* **Call** now **for** a free estimate or to schedule a cleaning.
+104. *(Test 8 · Part 7)* I'd love to **talk to** you about the McMillan project before we meet with the client this afternoon.
+105. *(Test 8 · Part 7)* I also wish there were more than two photographs, especially considering how much Maalim's reputation was **based on** his photogenic qualities.
+106. *(Test 8 · Part 7)* **Work on** the boulevard will start immediately so that it will be finished before the airline begins its service.
+107. *(Test 8 · Part 7)* They last a long time and will **adhere to** any surface.
+108. *(Test 8 · Part 7 – câu hỏi)* Why did Ms. Mehta not **respond to** an e-mail?
+109. *(Test 8 · Part 7 – câu hỏi)* How much did Ms. Shaw **pay for** entertainment activities?
+110. *(Test 9 · Part 5)* Our market research shows that buyers with limited knowledge of a product often **look for** information from expert sources.
+111. *(Test 9 · Part 5)* Critics **reacted** favorably **to** the new musical, praising the exciting design and impressive choreography.
+112. *(Test 9 · Part 6)* Retro Crafters **focuses on** furniture designs from the 1950s through the 1970s.
+113. *(Test 9 · Part 6)* "Shipley is an iconic design house that will be **adding** much **to** the Locke and Jeeves portfolio in the area of reliably traditional footwear," said Mr. Thayne.
+114. *(Test 9 · Part 7)* When crafting a personal statement, provide concrete examples of times when you had to **rely on** your unique qualities.
+115. *(Test 9 · Part 7)* Your previous in-depth report that **led to** the repair work on that bridge was excellent.
+116. *(Test 9 · Part 7)* A touchscreen allows visitors to **communicate** electronically **with** an exhibit's unique database and target their interests.
+117. *(Test 9 · Part 7)* Prices for each special service vary **based on** the size of the space.
+118. *(Test 9 · Part 7)* “We have always **excelled at** capturing breathtaking video imagery for a wide range of industries, but we can now do so from new perspectives,” said Yunus Maseko, the CEO of Blue Lapis.
+119. *(Test 9 · Part 7)* Please **consult with** Ms. Shabangu throughout the filming and editing process.
+120. *(Test 9 · Part 7 – câu hỏi)* How does the Cirro model **differ from** the other new phone models?
+121. *(Test 10 · Part 5)* Despite the fact that the use of social media is widespread, many people still **rely on** newspapers for fact-checked information.
+122. *(Test 10 · Part 6)* This political thriller is **based on** the book Whispered Illusions by Noriaki Arishima. 135.
+123. *(Test 10 · Part 6)* In contrast, other reviewers argue that the series might lose its appeal with the introduction of so many new characters, **resulting in** a complicated and confusing plotline.
+124. *(Test 10 · Part 6)* Director Amber Randolph has **responded to** that criticism.
+125. *(Test 10 · Part 7)* Delivery rates vary **based on** volume, product, and location.
+126. *(Test 10 · Part 7)* I am **writing to** you to share the exciting news that Aqua Voyage Cruise Lines will be expanding its fleet next July.
+127. *(Test 10 · Part 7)* WESTERN AUSTRALIA (21 June)—On 19 June, Western Australia's Karinya Medical Centre (KMC) was awarded the Valorcare Foundation's Stellar Service Merit, **regarded as** one of the highest honours an Australian hospital can receive.
+128. *(Test 10 · Part 7)* To **qualify for** the award, hospitals must meet a set of criteria, including timely access to care, superior medical outcomes, extensive staff training, and exceptional patient satisfaction.
+129. *(Test 10 · Part 7)* Founded over twenty years ago, Sagemont Services began as a start-up **competing with** larger businesses in a crowded field.
+130. *(Test 10 · Part 7)* Before she **arrived at** the institute, Dr. Robbins was the founder and director of the ophthalmology clinic at Morseville Hospital.
+131. *(Test 10 · Part 7)* Our company team **participates in** a league, and it’s a great way to build rapport with the people you will be working alongside.
+132. *(Test 10 · Part 7)* I'll have to **think about** whether I want to join the company softball team.
+133. *(Test 10 · Part 7 – câu hỏi)* When most likely did Ms. Klein **participate in** a Richmond Supermarket cooking class?
 
 **🎧 Listening**
 
 1. *(Test 1 · Listening)* No, unfortunately you'll have to bring everything list a number of companies that can remove and **dispose of** the items for you.
-2. *(Test 1 · Listening)* What does the man want to **dispose of**?
-3. *(Test 1 · Listening)* When does the woman prefer to **meet with** an investor?
-4. *(Test 1 · Listening)* **Thank** you **for** your patience.
-5. *(Test 1 · Listening)* The decline is mostly **looking for** a location to build a manufacturing facility.
-6. *(Test 1 · Listening)* We **apologize for** the delay.
-7. *(Test 1 · Listening – đáp án)* Well, it **depends on** my schedule.
-8. *(Test 1 · Listening – đáp án)* I'm **meeting with** her at ten.
-9. *(Test 1 · Listening – câu hỏi)* Why do the men want to **speak to** the woman?
-10. *(Test 2 · Listening)* We have lots of community residents to volunteer to **help with** building sets, painting, and setting up the check into that for next year.
-11. *(Test 2 · Listening)* How did the men **learn about** the woman?
-12. *(Test 2 · Listening)* Did you **hear about** David?
-13. *(Test 2 · Listening)* **Thank** you **for** working so hard to make sure they ran smoothly.
-14. *(Test 3 · Listening)* I want to **add** it **to** the regular menu.
-15. *(Test 3 · Listening)* I was thinking maybe we could hire a professional rock climber to **consult with** our have in mind?
-16. *(Test 3 · Listening)* Is there something I can **help** you **with**?
-17. *(Test 3 · Listening)* Can you **take** care **of** that before you start printing?
-18. *(Test 3 · Listening – đáp án)* She needs to **attend to** other customers.
-19. *(Test 4 · Listening)* Who's coming in tomorrow to help us **prepare for** the grand opening?
-20. *(Test 4 · Listening)* So you should always add at least an extra hour to your trip out there. → *add to*
-21. *(Test 4 · Listening)* What does the woman **ask** the man **for**?
-22. *(Test 4 · Listening)* You think we should **focus on** advertising on social media, right?
-23. *(Test 4 · Listening)* So an international transaction fee was **added to** the purchase amount.
-24. *(Test 4 · Listening)* What does the man **thank** the woman **for** doing?
-25. *(Test 4 · Listening – đáp án)* I prefer **working with** a team.
-26. *(Test 4 · Listening – đáp án)* Some decisions **led to** a successful outcome.
-27. *(Test 4 · Listening – câu hỏi)* What does the woman **ask for**?
-28. *(Test 5 · Listening)* Who can I **talk to** about getting a membership at this fitness center?
-29. *(Test 5 · Listening)* How did you **decide on** a venue for the fund-raising event?
-30. *(Test 5 · Listening)* Did you **decide on** the design for the new logo?
-31. *(Test 5 · Listening)* They could **help with** packaging and shipping.
-32. *(Test 5 · Listening)* Please take a look at the map to **familiarize** yourselves **with** the route beverage stand located between city hall and the art museum, so you can stay hydrated while you watch the race.
-33. *(Test 5 · Listening – đáp án)* I can **help** you **with** that.
-34. *(Test 5 · Listening – đáp án)* He was **speaking with** a client.
-35. *(Test 6 · Listening)* I could **provide** you **with** a copy of the lease.
-36. *(Test 6 · Listening)* What does the man ask the woman to **help with**?
-37. *(Test 6 · Listening)* Let me **look into** it.
-38. *(Test 6 · Listening – đáp án)* A woman is **talking to** a worker at a desk.
-39. *(Test 6 · Listening – đáp án)* He was **meeting with** some clients.
-40. *(Test 6 · Listening – đáp án)* He **participated in** a research project.
-41. *(Test 6 · Listening – đáp án)* He **met with** overseas clients.
-42. *(Test 7 · Listening)* Does the company **pay for** our hotel rooms?
-43. *(Test 7 · Listening)* Do you actually **work on** set?
-44. *(Test 7 · Listening)* I'll start **working on** it immediately.
-45. *(Test 7 · Listening)* The city appreciates your be **investing in** this community in such a substantial way.
-46. *(Test 7 · Listening)* We **apologize for** any inconvenience.
-47. *(Test 7 · Listening – đáp án)* No, we have to **pay for** them ourselves.
-48. *(Test 7 · Listening – đáp án)* She **agrees with** a choice.
-49. *(Test 8 · Listening)* I just **spoke with** a representative from the with us next week.
-50. *(Test 8 · Listening)* **Thank** you **for** flying with us.
-51. *(Test 8 · Listening)* It looks like I billed **sign** you up **for** our rewards program.
-52. *(Test 8 · Listening)* I can **assist** you **with** that.
-53. *(Test 8 · Listening – đáp án)* She **heard about** a new model.
-54. *(Test 8 · Listening – câu hỏi)* What are the speakers **working on**?
-55. *(Test 9 · Listening)* What have the speakers been **working on**?
-56. *(Test 9 · Listening)* Is it **based on** where the dish originated?
-57. *(Test 9 · Listening)* How much will the woman **pay for** an item?
-58. *(Test 9 · Listening)* What type of fence are you **looking for**?
-59. *(Test 9 · Listening)* Your boarding time remains as scheduled do not yet have a seat assignment, please come up to the counter now so that Claudia can assist baggage must **comply with** our height and width throughout the terminal for your reference.
-60. *(Test 9 · Listening – đáp án)* A road **leads to** a picnic area.
-61. *(Test 9 · Listening – đáp án)* We're **waiting for** the final cost estimate.
-62. *(Test 9 · Listening – đáp án)* We're **waiting for** a few more people.
-63. *(Test 9 · Listening – câu hỏi)* What is the speaker **reporting on**?
-64. *(Test 10 · Listening)* What type of project is the man **working on**?
-65. *(Test 10 · Listening)* Who'd like to **help** me **with** that project?
-66. *(Test 10 · Listening)* Business correspondence has different guidelines than the informal type of writing you use when **writing to** a friend.
-67. *(Test 10 · Listening – câu hỏi)* What is Camille **working on**?
+2. *(Test 1 · Listening)* When does the woman prefer to **meet with** an investor?
+3. *(Test 1 · Listening)* The decline is mostly **looking for** a location to build a manufacturing facility.
+4. *(Test 1 · Listening)* We **apologize for** the delay.
+5. *(Test 1 · Listening – đáp án)* Well, it **depends on** my schedule.
+6. *(Test 1 · Listening – đáp án)* I'm **meeting with** her at ten.
+7. *(Test 1 · Listening – câu hỏi)* Why do the men want to **speak to** the woman?
+8. *(Test 2 · Listening)* We have lots of community residents to volunteer to **help with** building sets, painting, and setting up the check into that for next year.
+9. *(Test 2 · Listening)* How did the men **learn about** the woman?
+10. *(Test 2 · Listening)* Did you **hear about** David?
+11. *(Test 3 · Listening)* I was thinking maybe we could hire a professional rock climber to **consult with** our have in mind?
+12. *(Test 3 · Listening – đáp án)* She needs to **attend to** other customers.
+13. *(Test 4 · Listening)* Who's coming in tomorrow to help us **prepare for** the grand opening?
+14. *(Test 4 · Listening)* You think we should **focus on** advertising on social media, right?
+15. *(Test 4 · Listening)* So an international transaction fee was **added to** the purchase amount.
+16. *(Test 4 · Listening – đáp án)* I prefer **working with** a team.
+17. *(Test 4 · Listening – đáp án)* Some decisions **led to** a successful outcome.
+18. *(Test 4 · Listening – câu hỏi)* What does the woman **ask for**?
+19. *(Test 5 · Listening)* Who can I **talk to** about getting a membership at this fitness center?
+20. *(Test 5 · Listening)* How did you **decide on** a venue for the fund-raising event?
+21. *(Test 5 · Listening)* Did you **decide on** the design for the new logo?
+22. *(Test 5 · Listening)* They could **help with** packaging and shipping.
+23. *(Test 5 · Listening – đáp án)* He was **speaking with** a client.
+24. *(Test 6 · Listening)* Let me **look into** it.
+25. *(Test 6 · Listening – đáp án)* A woman is **talking to** a worker at a desk.
+26. *(Test 6 · Listening – đáp án)* He was **meeting with** some clients.
+27. *(Test 6 · Listening – đáp án)* He **participated in** a research project.
+28. *(Test 6 · Listening – đáp án)* He **met with** overseas clients.
+29. *(Test 7 · Listening)* Does the company **pay for** our hotel rooms?
+30. *(Test 7 · Listening)* Do you actually **work on** set?
+31. *(Test 7 · Listening)* I'll start **working on** it immediately.
+32. *(Test 7 · Listening)* The city appreciates your be **investing in** this community in such a substantial way.
+33. *(Test 7 · Listening)* We **apologize for** any inconvenience.
+34. *(Test 7 · Listening – đáp án)* No, we have to **pay for** them ourselves.
+35. *(Test 7 · Listening – đáp án)* She **agrees with** a choice.
+36. *(Test 8 · Listening)* I just **spoke with** a representative from the with us next week.
+37. *(Test 8 · Listening – đáp án)* She **heard about** a new model.
+38. *(Test 9 · Listening)* What have the speakers been **working on**?
+39. *(Test 9 · Listening)* Is it **based on** where the dish originated?
+40. *(Test 9 · Listening)* How much will the woman **pay for** an item?
+41. *(Test 9 · Listening)* What type of fence are you **looking for**?
+42. *(Test 9 · Listening)* Your boarding time remains as scheduled do not yet have a seat assignment, please come up to the counter now so that Claudia can assist baggage must **comply with** our height and width throughout the terminal for your reference.
+43. *(Test 9 · Listening – đáp án)* A road **leads to** a picnic area.
+44. *(Test 9 · Listening – đáp án)* We're **waiting for** the final cost estimate.
+45. *(Test 9 · Listening – đáp án)* We're **waiting for** a few more people.
+46. *(Test 10 · Listening)* Business correspondence has different guidelines than the informal type of writing you use when **writing to** a friend.
+47. *(Test 10 · Listening – câu hỏi)* What is Camille **working on**?
 
 ---
 
@@ -966,7 +879,7 @@
 
 ### 7. Giới từ chỉ thời gian (at)
 
-<small>61 câu Reading · 11 câu Listening</small>
+<small>62 câu Reading · 11 câu Listening</small>
 
 **📖 Reading**
 
@@ -981,55 +894,56 @@
 9. *(Test 2 · Part 7 – câu hỏi)* **At 9:05 A.M**., what does Ms. Begani imply when she writes, "I wouldn't miss it"?
 10. *(Test 2 · Part 7 – câu hỏi)* Who is expected to attend the meeting **at 3:00 P.M**.?
 11. *(Test 2 · Part 7 – câu hỏi)* **At 4:52 P.M**., what does Ms. Au most likely mean when she writes, "What a relief"?
-12. *(Test 3 · Part 6)* We will be hosting a party for Winnie in the break room **at 3:00 P.M**. on February 28, her final day with us.
-13. *(Test 3 · Part 7)* Customers must present this coupon **at the time** of service.
-14. *(Test 3 · Part 7)* The ceremony will be held on November 3 **at 6:00 P.M. Appetizers and** drinks will be served.
-15. *(Test 3 · Part 7)* The lecture, titled “Earthenware Relics from the Central Prairie,” will take place **at 7:00 P.M**. in the Chovey Community Room near the north entrance of the museum.
-16. *(Test 3 · Part 7 – câu hỏi)* **At 9:05 A.M**., what does Mr. Beiger most likely mean when he writes, "That's exactly what I was thinking"?
-17. *(Test 3 · Part 7 – câu hỏi)* **At 3:05 P.M**., what does Mr. Naifeh imply when he writes, "I have the details onscreen right now"?
-18. *(Test 4 · Part 6)* Show times are Thursday through Sunday **at 7:00 P.M**., with an additional matinee on Saturday at 1:00 P.M. Call the theater at 704-555-0138 to reserve tickets.
-19. *(Test 4 · Part 7)* I'm working from home today and have a call with the regional managers **at 9 A.M**. But the notes I need for the call are on my desk.
-20. *(Test 4 · Part 7 – câu hỏi)* **At 7:53 A.M**., what does Mr. Fuentes imply when he writes, "I'm leaving the house now"?
-21. *(Test 4 · Part 7 – câu hỏi)* **At 9:07 A.M**., what does Ms. Black imply when she writes, "I saw those"?
-22. *(Test 5 · Part 5)* The department supervisor is responsible for ensuring that all safety gear is stowed properly **at the end** of the shift.
-23. *(Test 5 · Part 7)* Jennifer, can you be at the Browns' house **at 7:00 A.M**. tomorrow to remove the furnace ductwork?
-24. *(Test 5 · Part 7)* If not, what restaurants near the conference would you recommend that would be open **at that time**?
-25. *(Test 5 · Part 7 – câu hỏi)* **At 9:50 A.M**., what does Mr. Cho most likely mean when he writes, "I know you'd be a great fit"?
-26. *(Test 5 · Part 7 – câu hỏi)* **At 3:25 P.M**., what does Ms. Kaluza most likely mean when she writes, "You got it"?
-27. *(Test 6 · Part 5)* **At the end** of the year, organizations face pressure to achieve their financial goals.
-28. *(Test 6 · Part 7)* International inventories are unusually low **at this time**, and problems with availability persist.
-29. *(Test 6 · Part 7)* Call us today **at 0114 496 0101** to schedule a free initial consultation.
-30. *(Test 6 · Part 7)* The party will begin **at 6 P.M**.
-31. *(Test 6 · Part 7)* The speeches will start **at 7:30 P.M**. and continue for about an hour.
-32. *(Test 6 · Part 7)* All lectures occur on the third Wednesday of the month **at 7:00 P.M**. Advance registration is not required.
-33. *(Test 6 · Part 7 – câu hỏi)* **At 10:08 A.M**., what does Mr. Porter most likely mean when he writes, "Consider it done"?
-34. *(Test 6 · Part 7 – câu hỏi)* **At 9:16 A.M**., what does Mr. Nusaputra most likely mean when he writes, "I do have something"?
-35. *(Test 6 · Part 7 – câu hỏi)* **At approximately what time** does Mr. Iqbal plan to arrive at the party?
-36. *(Test 7 · Part 5)* Leigh Ainsley, the featured soloist in tonight's performance, began taking violin lessons **at the age** of five.
-37. *(Test 7 · Part 6)* **At that time**, the sender will also receive an alert that all necessary signatures on the contract have been acquired.
-38. *(Test 7 · Part 7)* We will hold a 30-minute information session on Friday, May 3, **at 12:30 P.M**., in conference room B-2.
-39. *(Test 7 · Part 7 – câu hỏi)* **At 5:48 P.M**., what does Mr. Lorck imply when he writes, "I was just packing up"?
-40. *(Test 7 · Part 7 – câu hỏi)* **At 7:41 P.M**., what does Ms. Leven imply when she writes, "That one is the best"?
-41. *(Test 8 · Part 7)* Her going-away party will take place **at 3:00 PM** on 21 February in the second-floor conference room.
-42. *(Test 8 · Part 7)* Shall we meet in the lobby **at 11:45**?
-43. *(Test 8 · Part 7)* The first project is the construction of a new commercial area **at the south end** of town, since the downtown commercial district has no room to expand.
-44. *(Test 8 · Part 7)* The second project will build residential housing on a large empty lot **at the south end**.
-45. *(Test 8 · Part 7)* Mayor Tremblay called the meeting to order **at 6:30 P.M**.
-46. *(Test 8 · Part 7)* The meeting was adjourned **at 7:25 P.M**.
-47. *(Test 8 · Part 7 – câu hỏi)* **At 10:10 A.M**., what does Ms. Kim most likely mean when she writes, "I'll handle it"?
-48. *(Test 8 · Part 7 – câu hỏi)* **At 8:21 A.M**., what does Ms. Mehta imply when she writes, "I just work at my computer all day"?
-49. *(Test 9 · Part 5)* The company picnic at Floral Park will begin **at noon** on Saturday and end around 4:00 P.M.
-50. *(Test 9 · Part 5)* Austina Gallery is located **at the northern end** of Arch Street, opposite the Verdigris Bistro.
-51. *(Test 9 · Part 7)* If you are interested in participating, please call me **at** 020 **7946 0532**.
-52. *(Test 9 · Part 7)* **At the last minute**, a friend informed me that he would be visiting the next day, and I had fallen behind on my house cleaning.
-53. *(Test 9 · Part 7)* As it turned out, I managed to contact them **at just the right time**.
-54. *(Test 9 · Part 7 – câu hỏi)* **At 9:36 A.M**., what does Mr. Dakers most likely mean when he writes, "But I need to get to the office soon"?
-55. *(Test 9 · Part 7 – câu hỏi)* Where is Ms. Jeon **at the time** of the text-message chain?
-56. *(Test 9 · Part 7 – câu hỏi)* **At 8:18 A.M**., what does Ms. Jeon most likely mean when she writes, "I'll be there by 12:30"?
-57. *(Test 10 · Part 7)* Can I stop by your office **at 2:30**?
-58. *(Test 10 · Part 7)* The recently promoted vice president of development, Rosa Martin, will be directing this expansion once she wraps up her work running the Customer Solutions Team at Exelrate's current headquarters in Frankfurt **at the end** of this month.
-59. *(Test 10 · Part 7 – câu hỏi)* **At 1:20 P.M**., what does Mr. Gerlin imply when he writes, "Can you give me 45 minutes or so"?
-60. *(Test 10 · Part 7 – câu hỏi)* **At 4:11 P.M**., what does Ms. Balog most likely mean when she writes, "It has never looked so good"?
+12. *(Test 2 · Part 7 – câu hỏi)* **At what time** did Mr. Cho's train most likely arrive in Charlesville?
+13. *(Test 3 · Part 6)* We will be hosting a party for Winnie in the break room **at 3:00 P.M**. on February 28, her final day with us.
+14. *(Test 3 · Part 7)* Customers must present this coupon **at the time** of service.
+15. *(Test 3 · Part 7)* The ceremony will be held on November 3 **at 6:00 P.M. Appetizers and** drinks will be served.
+16. *(Test 3 · Part 7)* The lecture, titled “Earthenware Relics from the Central Prairie,” will take place **at 7:00 P.M**. in the Chovey Community Room near the north entrance of the museum.
+17. *(Test 3 · Part 7 – câu hỏi)* **At 9:05 A.M**., what does Mr. Beiger most likely mean when he writes, "That's exactly what I was thinking"?
+18. *(Test 3 · Part 7 – câu hỏi)* **At 3:05 P.M**., what does Mr. Naifeh imply when he writes, "I have the details onscreen right now"?
+19. *(Test 4 · Part 6)* Show times are Thursday through Sunday **at 7:00 P.M**., with an additional matinee on Saturday at 1:00 P.M. Call the theater at 704-555-0138 to reserve tickets.
+20. *(Test 4 · Part 7)* I'm working from home today and have a call with the regional managers **at 9 A.M**. But the notes I need for the call are on my desk.
+21. *(Test 4 · Part 7 – câu hỏi)* **At 7:53 A.M**., what does Mr. Fuentes imply when he writes, "I'm leaving the house now"?
+22. *(Test 4 · Part 7 – câu hỏi)* **At 9:07 A.M**., what does Ms. Black imply when she writes, "I saw those"?
+23. *(Test 5 · Part 5)* The department supervisor is responsible for ensuring that all safety gear is stowed properly **at the end** of the shift.
+24. *(Test 5 · Part 7)* Jennifer, can you be at the Browns' house **at 7:00 A.M**. tomorrow to remove the furnace ductwork?
+25. *(Test 5 · Part 7)* If not, what restaurants near the conference would you recommend that would be open **at that time**?
+26. *(Test 5 · Part 7 – câu hỏi)* **At 9:50 A.M**., what does Mr. Cho most likely mean when he writes, "I know you'd be a great fit"?
+27. *(Test 5 · Part 7 – câu hỏi)* **At 3:25 P.M**., what does Ms. Kaluza most likely mean when she writes, "You got it"?
+28. *(Test 6 · Part 5)* **At the end** of the year, organizations face pressure to achieve their financial goals.
+29. *(Test 6 · Part 7)* International inventories are unusually low **at this time**, and problems with availability persist.
+30. *(Test 6 · Part 7)* Call us today **at 0114 496 0101** to schedule a free initial consultation.
+31. *(Test 6 · Part 7)* The party will begin **at 6 P.M**.
+32. *(Test 6 · Part 7)* The speeches will start **at 7:30 P.M**. and continue for about an hour.
+33. *(Test 6 · Part 7)* All lectures occur on the third Wednesday of the month **at 7:00 P.M**. Advance registration is not required.
+34. *(Test 6 · Part 7 – câu hỏi)* **At 10:08 A.M**., what does Mr. Porter most likely mean when he writes, "Consider it done"?
+35. *(Test 6 · Part 7 – câu hỏi)* **At 9:16 A.M**., what does Mr. Nusaputra most likely mean when he writes, "I do have something"?
+36. *(Test 6 · Part 7 – câu hỏi)* **At approximately what time** does Mr. Iqbal plan to arrive at the party?
+37. *(Test 7 · Part 5)* Leigh Ainsley, the featured soloist in tonight's performance, began taking violin lessons **at the age** of five.
+38. *(Test 7 · Part 6)* **At that time**, the sender will also receive an alert that all necessary signatures on the contract have been acquired.
+39. *(Test 7 · Part 7)* We will hold a 30-minute information session on Friday, May 3, **at 12:30 P.M**., in conference room B-2.
+40. *(Test 7 · Part 7 – câu hỏi)* **At 5:48 P.M**., what does Mr. Lorck imply when he writes, "I was just packing up"?
+41. *(Test 7 · Part 7 – câu hỏi)* **At 7:41 P.M**., what does Ms. Leven imply when she writes, "That one is the best"?
+42. *(Test 8 · Part 7)* Her going-away party will take place **at 3:00 PM** on 21 February in the second-floor conference room.
+43. *(Test 8 · Part 7)* Shall we meet in the lobby **at 11:45**?
+44. *(Test 8 · Part 7)* The first project is the construction of a new commercial area **at the south end** of town, since the downtown commercial district has no room to expand.
+45. *(Test 8 · Part 7)* The second project will build residential housing on a large empty lot **at the south end**.
+46. *(Test 8 · Part 7)* Mayor Tremblay called the meeting to order **at 6:30 P.M**.
+47. *(Test 8 · Part 7)* The meeting was adjourned **at 7:25 P.M**.
+48. *(Test 8 · Part 7 – câu hỏi)* **At 10:10 A.M**., what does Ms. Kim most likely mean when she writes, "I'll handle it"?
+49. *(Test 8 · Part 7 – câu hỏi)* **At 8:21 A.M**., what does Ms. Mehta imply when she writes, "I just work at my computer all day"?
+50. *(Test 9 · Part 5)* The company picnic at Floral Park will begin **at noon** on Saturday and end around 4:00 P.M.
+51. *(Test 9 · Part 5)* Austina Gallery is located **at the northern end** of Arch Street, opposite the Verdigris Bistro.
+52. *(Test 9 · Part 7)* If you are interested in participating, please call me **at** 020 **7946 0532**.
+53. *(Test 9 · Part 7)* **At the last minute**, a friend informed me that he would be visiting the next day, and I had fallen behind on my house cleaning.
+54. *(Test 9 · Part 7)* As it turned out, I managed to contact them **at just the right time**.
+55. *(Test 9 · Part 7 – câu hỏi)* **At 9:36 A.M**., what does Mr. Dakers most likely mean when he writes, "But I need to get to the office soon"?
+56. *(Test 9 · Part 7 – câu hỏi)* Where is Ms. Jeon **at the time** of the text-message chain?
+57. *(Test 9 · Part 7 – câu hỏi)* **At 8:18 A.M**., what does Ms. Jeon most likely mean when she writes, "I'll be there by 12:30"?
+58. *(Test 10 · Part 7)* Can I stop by your office **at 2:30**?
+59. *(Test 10 · Part 7)* The recently promoted vice president of development, Rosa Martin, will be directing this expansion once she wraps up her work running the Customer Solutions Team at Exelrate's current headquarters in Frankfurt **at the end** of this month.
+60. *(Test 10 · Part 7 – câu hỏi)* **At 1:20 P.M**., what does Mr. Gerlin imply when he writes, "Can you give me 45 minutes or so"?
+61. *(Test 10 · Part 7 – câu hỏi)* **At 4:11 P.M**., what does Ms. Balog most likely mean when she writes, "It has never looked so good"?
 
 **🎧 Listening**
 
@@ -1194,7 +1108,7 @@
 
 ### 10. Giới từ chỉ thời gian (for)
 
-<small>38 câu Reading · 9 câu Listening</small>
+<small>39 câu Reading · 9 câu Listening</small>
 
 **📖 Reading**
 
@@ -1232,10 +1146,11 @@
 32. *(Test 8 · Part 7)* Additional destinations are being considered **for the future**, including Eider Bay and West Linport.
 33. *(Test 8 · Part 7)* I will be in Arlford only half the time and will stay in a hotel near my destination airport **for the rest** of the week.
 34. *(Test 9 · Part 6)* The purchase comes as no surprise to shoe industry insiders, who have speculated **for some time** about Shipley's financial challenges.
-35. *(Test 9 · Part 7)* Luckily, another customer had canceled a cleaning an hour or so before my call, but otherwise, Superra was booked up **for the entire week**.
-36. *(Test 10 · Part 5)* Carter Department Store allows customers to place items on hold **for up to 24 hours**.
-37. *(Test 10 · Part 7)* **For 47 years** now, I believe we have been quite successful in this endeavour."
-38. *(Test 10 · Part 7)* However, I only used it **for the first three years**.
+35. *(Test 9 · Part 7)* **For your time and effort**, we will compensate you at the standard rate for external consultants.
+36. *(Test 9 · Part 7)* Luckily, another customer had canceled a cleaning an hour or so before my call, but otherwise, Superra was booked up **for the entire week**.
+37. *(Test 10 · Part 5)* Carter Department Store allows customers to place items on hold **for up to 24 hours**.
+38. *(Test 10 · Part 7)* **For 47 years** now, I believe we have been quite successful in this endeavour."
+39. *(Test 10 · Part 7)* However, I only used it **for the first three years**.
 
 **🎧 Listening**
 
@@ -1253,7 +1168,67 @@
 
 <a id="p11"></a>
 
-### 11. Giới từ chỉ nơi chốn (into)
+### 11. Động từ + tân ngữ + giới từ (thank sb for, provide sb with…)
+
+<small>35 câu Reading · 12 câu Listening</small>
+
+**📖 Reading**
+
+1. *(Test 1 · Part 6)* **Thank** you **for** being part of our Brandrix family.
+2. *(Test 1 · Part 6)* **Thank** you **for** your recent visit to Kaymar Primary Care Practice.
+3. *(Test 1 · Part 6)* We **thank** you **for** your business and look forward to serving you again.
+4. *(Test 2 · Part 6)* Alternatively., we could remove all of the old asphalt and **replace** it **with** a porous material such as crushed gravel.
+5. *(Test 2 · Part 7)* Your personally identifiable information may be used to **provide** you **with** additional information about Lorne's products and services.
+6. *(Test 2 · Part 7)* And, to **thank** you **for** being a Honey Canyon customer for so many years, we are also offering you a 20 percent discount on your next order.
+7. *(Test 2 · Part 7)* “This will be automatically **applied to** your shopping cart when you check out.”
+8. *(Test 3 · Part 7)* Let me **c**on**gratulate** you again on our sales increase as well as the launch of our newest products, which are already regaining significant market share from our competitors.
+9. *(Test 3 · Part 7)* **Thank** you **for** leading a professional development seminar at Delahunt, Greene, and Associates (DGA) last week.
+10. *(Test 4 · Part 5)* Once Ms. Jeong receives the contract, she will sign and **return** it **to** Allory Pharmaceuticals.
+11. *(Test 4 · Part 5)* Granta Hospital has **add**ed several pediatric nurses **to** its staff as part of its new affiliation with the Friel School of Nursing.
+12. *(Test 4 · Part 7)* **Thank** you **for** your prompt feedback on the Web site content I sent out in the group e-mail.
+13. *(Test 5 · Part 6)* I would like to personally **thank** Ms. Hoffman **for** her tremendous leadership.
+14. *(Test 5 · Part 7)* If one is not available by tomorrow, I ask that you cancel my order and **provide** me **with** a full refund.
+15. *(Test 5 · Part 7)* **Thank** you **for** being a valued checking account holder with Sonfaya Mutual for fifteen years.
+16. *(Test 5 · Part 7)* Your checking and savings accounts are now joined, enabling you **to** **transfer** money from one account to the other online.
+17. *(Test 6 · Part 6)* inconvenience and **thank** you **for** your patience.
+18. *(Test 6 · Part 7)* April: Pest Deterrence - Learn natural, pesticide-free techniques that can **prevent** harmful insects **from** eating your fruits and vegetables.
+19. *(Test 6 · Part 7)* Terra Jaunts **pay**s up to $300 per day to our partners **for** the daytime use of their property and provides all or most needed equipment.
+20. *(Test 6 · Part 7 – câu hỏi)* What most likely will **prevent** Ms. Olton's garden **from** being selected as a tour stop?
+21. *(Test 7 · Part 5)* Please **familiarize** yourself **with** the company's tuition-reimbursement policy before enrolling in any classes.
+22. *(Test 7 · Part 7)* **Thank** you, Nathan Thielen, **for** joining Brice's Ice Creamery's rewards program.
+23. *(Test 7 · Part 7)* As you know, it is our policy to **charge** the full appointment fee **for** missed appointments unless the patient notifies us at least 24 hours in advance of the scheduled visit.
+24. *(Test 8 · Part 7)* Grotel Corporation will **provide** the Event Speaker **with** the following equipment: projector, large screen, Internet connection, microphone. (Please see accompanying document for specific information.)
+25. *(Test 8 · Part 7)* “We look forward to providing the region’s residents **with** affordable, convenient service to Cranton,” stated Savita Grewal, public relations director at Winglite Airlines.
+26. *(Test 9 · Part 5)* Something is **prevent**ing the graphic artists **from** accessing the image files in the main database.
+27. *(Test 9 · Part 6)* **Thank** you **for** entrusting me with the design of the logo for your business.
+28. *(Test 9 · Part 7)* **Thank** you **for** your assistance.
+29. *(Test 10 · Part 5)* **Thank** you **for** responding promptly with information about the T-Max 400 printer and scanner.
+30. *(Test 10 · Part 6)* **Thank** you **for** sharing your interesting recipe that uses our low-fat, sugar-free Fluffy Time Whipped Topping.
+31. *(Test 10 · Part 7)* **Thank** you **for** reviewing my recipes to ensure they are easy to follow.
+32. *(Test 10 · Part 7)* Your commitment to offering your customers across Europe unique and delicious menu items aligns **with** our vision for providing cruise-ship passengers with distinct restaurant options.
+33. *(Test 10 · Part 7)* Ms. Alonso also plans **to** **add** more recyclable material to her installation as the show progresses.
+34. *(Test 10 · Part 7)* At the training for new hires this morning, we **provide**d you **with** a checklist of the documents that we need to have on file.
+35. *(Test 10 · Part 7)* **Thank** you **for** your e-mail.
+
+**🎧 Listening**
+
+1. *(Test 1 · Listening)* **Thank** you **for** your patience.
+2. *(Test 2 · Listening)* **Thank** you **for** working so hard to make sure they ran smoothly.
+3. *(Test 3 · Listening)* I want **to** **add** it to the regular menu.
+4. *(Test 4 · Listening)* So you should always **add** at least an extra hour **to** your trip out there.
+5. *(Test 4 · Listening)* What does the man **thank** the woman **for** doing?
+6. *(Test 5 · Listening)* Please take a look at the map to **familiarize** yourselves **with** the route beverage stand located between city hall and the art museum, so you can stay hydrated while you watch the race.
+7. *(Test 5 · Listening – đáp án)* I can **help** you **with** that.
+8. *(Test 6 · Listening)* I could **provide** you **with** a copy of the lease.
+9. *(Test 8 · Listening)* **Thank** you **for** flying with us.
+10. *(Test 8 · Listening)* I can **assist** you **with** that.
+11. *(Test 10 · Listening)* Who'd like to **help** me **with** that project?
+
+---
+
+<a id="p12"></a>
+
+### 12. Giới từ chỉ nơi chốn (into)
 
 <small>26 câu Reading · 6 câu Listening</small>
 
@@ -1296,9 +1271,9 @@
 
 ---
 
-<a id="p12"></a>
+<a id="p13"></a>
 
-### 12. 🎯 Đáp án là GIỚI TỪ (+ danh từ/V-ing)
+### 13. 🎯 Đáp án là GIỚI TỪ (+ danh từ/V-ing)
 
 <small>28 câu Reading · 0 câu Listening</small>
 
@@ -1335,9 +1310,9 @@
 
 ---
 
-<a id="p13"></a>
+<a id="p14"></a>
 
-### 13. Giới từ chỉ thời gian (by)
+### 14. Giới từ chỉ thời gian (by)
 
 <small>23 câu Reading · 2 câu Listening</small>
 
@@ -1374,9 +1349,9 @@
 
 ---
 
-<a id="p14"></a>
+<a id="p15"></a>
 
-### 14. Giới từ chỉ thời gian (from)
+### 15. Giới từ chỉ thời gian (from)
 
 <small>18 câu Reading · 1 câu Listening</small>
 
@@ -1407,9 +1382,9 @@
 
 ---
 
-<a id="p15"></a>
+<a id="p16"></a>
 
-### 15. Giới từ chỉ thời gian (during)
+### 16. Giới từ chỉ thời gian (during)
 
 <small>14 câu Reading · 0 câu Listening</small>
 
@@ -1432,9 +1407,9 @@
 
 ---
 
-<a id="p16"></a>
+<a id="p17"></a>
 
-### 16. Giới từ chỉ thời gian (within)
+### 17. Giới từ chỉ thời gian (within)
 
 <small>13 câu Reading · 1 câu Listening</small>
 
@@ -1460,9 +1435,9 @@
 
 ---
 
-<a id="p17"></a>
+<a id="p18"></a>
 
-### 17. Giới từ chỉ thời gian (over)
+### 18. Giới từ chỉ thời gian (over)
 
 <small>12 câu Reading · 1 câu Listening</small>
 
@@ -1487,9 +1462,9 @@
 
 ---
 
-<a id="p18"></a>
+<a id="p19"></a>
 
-### 18. Giới từ chỉ nơi chốn (between)
+### 19. Giới từ chỉ nơi chốn (between)
 
 <small>11 câu Reading · 2 câu Listening</small>
 
@@ -1514,9 +1489,9 @@
 
 ---
 
-<a id="p19"></a>
+<a id="p20"></a>
 
-### 19. Giới từ chỉ thời gian (before)
+### 20. Giới từ chỉ thời gian (before)
 
 <small>11 câu Reading · 1 câu Listening</small>
 
@@ -1540,9 +1515,9 @@
 
 ---
 
-<a id="p20"></a>
+<a id="p21"></a>
 
-### 20. Giới từ chỉ nơi chốn (throughout)
+### 21. Giới từ chỉ nơi chốn (throughout)
 
 <small>8 câu Reading · 4 câu Listening</small>
 
@@ -1566,9 +1541,9 @@
 
 ---
 
-<a id="p21"></a>
+<a id="p22"></a>
 
-### 21. Giới từ chỉ thời gian (after)
+### 22. Giới từ chỉ thời gian (after)
 
 <small>11 câu Reading · 0 câu Listening</small>
 
@@ -1588,9 +1563,9 @@
 
 ---
 
-<a id="p22"></a>
+<a id="p23"></a>
 
-### 22. Giới từ chỉ nơi chốn (near)
+### 23. Giới từ chỉ nơi chốn (near)
 
 <small>7 câu Reading · 3 câu Listening</small>
 
@@ -1612,9 +1587,9 @@
 
 ---
 
-<a id="p23"></a>
+<a id="p24"></a>
 
-### 23. Giới từ chỉ thời gian (through)
+### 24. Giới từ chỉ thời gian (through)
 
 <small>9 câu Reading · 1 câu Listening</small>
 
@@ -1636,9 +1611,9 @@
 
 ---
 
-<a id="p24"></a>
+<a id="p25"></a>
 
-### 24. such as (ví dụ như) + N
+### 25. such as (ví dụ như) + N
 
 <small>9 câu Reading · 0 câu Listening</small>
 
@@ -1656,9 +1631,9 @@
 
 ---
 
-<a id="p25"></a>
+<a id="p26"></a>
 
-### 25. Giới từ chỉ nơi chốn (under)
+### 26. Giới từ chỉ nơi chốn (under)
 
 <small>6 câu Reading · 3 câu Listening</small>
 
@@ -1679,9 +1654,9 @@
 
 ---
 
-<a id="p26"></a>
+<a id="p27"></a>
 
-### 26. Giới từ chỉ nơi chốn (among)
+### 27. Giới từ chỉ nơi chốn (among)
 
 <small>8 câu Reading · 0 câu Listening</small>
 
@@ -1698,9 +1673,9 @@
 
 ---
 
-<a id="p27"></a>
+<a id="p28"></a>
 
-### 27. Giới từ chỉ thời gian (until)
+### 28. Giới từ chỉ thời gian (until)
 
 <small>6 câu Reading · 1 câu Listening</small>
 
@@ -1719,9 +1694,9 @@
 
 ---
 
-<a id="p28"></a>
+<a id="p29"></a>
 
-### 28. Giới từ chỉ nơi chốn (along)
+### 29. Giới từ chỉ nơi chốn (along)
 
 <small>4 câu Reading · 3 câu Listening</small>
 
@@ -1740,9 +1715,9 @@
 
 ---
 
-<a id="p29"></a>
+<a id="p30"></a>
 
-### 29. Giới từ chỉ nơi chốn (across)
+### 30. Giới từ chỉ nơi chốn (across)
 
 <small>3 câu Reading · 3 câu Listening</small>
 
@@ -1760,9 +1735,9 @@
 
 ---
 
-<a id="p30"></a>
+<a id="p31"></a>
 
-### 30. Giới từ chỉ thời gian (between)
+### 31. Giới từ chỉ thời gian (between)
 
 <small>6 câu Reading · 0 câu Listening</small>
 
@@ -1777,9 +1752,9 @@
 
 ---
 
-<a id="p31"></a>
+<a id="p32"></a>
 
-### 31. Giới từ chỉ thời gian (throughout)
+### 32. Giới từ chỉ thời gian (throughout)
 
 <small>5 câu Reading · 0 câu Listening</small>
 
@@ -1793,9 +1768,9 @@
 
 ---
 
-<a id="p32"></a>
+<a id="p33"></a>
 
-### 32. by + phương tiện/cách thức (không mạo từ)
+### 33. by + phương tiện/cách thức (không mạo từ)
 
 <small>3 câu Reading · 1 câu Listening</small>
 
@@ -1811,9 +1786,9 @@
 
 ---
 
-<a id="p33"></a>
+<a id="p34"></a>
 
-### 33. Giới từ chỉ nơi chốn (behind)
+### 34. Giới từ chỉ nơi chốn (behind)
 
 <small>2 câu Reading · 2 câu Listening</small>
 
@@ -1829,9 +1804,9 @@
 
 ---
 
-<a id="p34"></a>
+<a id="p35"></a>
 
-### 34. Giới từ chỉ nơi chốn (outside)
+### 35. Giới từ chỉ nơi chốn (outside)
 
 <small>1 câu Reading · 1 câu Listening</small>
 
@@ -1845,9 +1820,9 @@
 
 ---
 
-<a id="p35"></a>
+<a id="p36"></a>
 
-### 35. Giới từ chỉ nơi chốn (onto)
+### 36. Giới từ chỉ nơi chốn (onto)
 
 <small>1 câu Reading · 1 câu Listening</small>
 
@@ -1861,9 +1836,9 @@
 
 ---
 
-<a id="p36"></a>
+<a id="p37"></a>
 
-### 36. Giới từ chỉ nơi chốn (toward)
+### 37. Giới từ chỉ nơi chốn (toward)
 
 <small>2 câu Reading · 0 câu Listening</small>
 
@@ -1874,9 +1849,9 @@
 
 ---
 
-<a id="p37"></a>
+<a id="p38"></a>
 
-### 37. Giới từ chỉ nơi chốn (above)
+### 38. Giới từ chỉ nơi chốn (above)
 
 <small>1 câu Reading · 0 câu Listening</small>
 
@@ -1886,9 +1861,9 @@
 
 ---
 
-<a id="p38"></a>
+<a id="p39"></a>
 
-### 38. Giới từ chỉ nơi chốn (beyond)
+### 39. Giới từ chỉ nơi chốn (beyond)
 
 <small>1 câu Reading · 0 câu Listening</small>
 
@@ -1898,9 +1873,9 @@
 
 ---
 
-<a id="p39"></a>
+<a id="p40"></a>
 
-### 39. Giới từ chỉ nơi chốn (opposite)
+### 40. Giới từ chỉ nơi chốn (opposite)
 
 <small>1 câu Reading · 0 câu Listening</small>
 

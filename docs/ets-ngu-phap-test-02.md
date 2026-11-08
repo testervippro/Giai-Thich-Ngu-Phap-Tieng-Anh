@@ -458,7 +458,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ đẳng lập nối 2 mệnh đề (or) *, or we will*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *According to* · Động từ + giới từ (collocation) *arrive in*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ kép / cụm giới từ *According to*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *our guarantee* · Tính từ sở hữu + N *your order*
 
@@ -542,7 +542,7 @@
 
 > 🔁 [Bị động](C%C3%A2u%20B%E1%BB%8B%20%C4%90%E1%BB%99ng.md): Bị động *became known*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ thời gian (after) *After a few months* · Động từ + giới từ (collocation) *know as*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ thời gian (after) *After a few months*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): a few + N *a few months, she*
 
@@ -638,7 +638,7 @@
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *your hands*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ dạng V3/-ed (phân từ quá khứ) *patented formula* · Tính từ + giới từ *soft with* · Tính từ sau tân ngữ (make/keep/find + O + adj) *keep … clean*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ dạng V3/-ed (phân từ quá khứ) *patented formula* · Tính từ sau tân ngữ (make/keep/find + O + adj) *keep … clean*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ chỉ thời gian (already/recently/soon…) *yet*
 
@@ -874,7 +874,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): and nối 2 động từ/cụm động từ song song *remove … and replace*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): such as (ví dụ như) + N *such as* · Động từ + giới từ (collocation) *replace with*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): such as (ví dụ như) + N *such as* · Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *replace … with*
 >
 > 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ dạng V3/-ed (phân từ quá khứ) *crushed gravel*
 >
@@ -1080,7 +1080,7 @@
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *paper stock*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *many of* · Tính từ ghép có gạch nối *higher-quality*
+> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ ghép có gạch nối *higher-quality*
 >
 > 📊 [So sánh](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md): So sánh hơn (không có than) *higher* · Từ nhấn mạnh so sánh hơn (much/even/far/significantly) *a higher*
 >
@@ -1196,7 +1196,7 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ + to V *used to provide*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *provide with* · Danh từ + giới từ (collocation) *information about*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *provide … with* · Danh từ + giới từ (collocation) *information about*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ không đếm được (không thêm -s, không dùng a/an) *information* · Sở hữu cách ('s) *Lorne's products*
 >
@@ -1210,7 +1210,7 @@
 >
 > ⏱️ [Thì](TENSES.md): Hiện tại hoàn thành *has proudly provided*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ nơi chốn (in) *in the Nashville area* · Động từ + giới từ (collocation) *provide for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ nơi chốn (in) *in the Nashville area*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *renovation solutions*
 >
@@ -1226,7 +1226,7 @@
 >
 > 🧩 [Liên từ](Li%C3%AAn%20T%E1%BB%AB.md): Liên từ đẳng lập (or) *large or small*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *work with* · Động từ + giới từ (collocation) *work on*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *work with*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): all + N *all kinds*
 
@@ -1299,8 +1299,6 @@
 **27.** <sub>(đoạn văn trước câu 158)</sub> While there, take advantage of our latest feature: a virtual home renovation assistant.
 
 > 📝 [Câu](SENTENCES.md): Câu đơn
->
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *take of*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *home renovation* · Danh từ ghép (N + N) *renovation assistant* · Đồng vị ngữ (N, N bổ sung) *feature, a virtual home renovation…*
 >
@@ -1380,7 +1378,7 @@
 >
 > 🏃 [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Động từ + 2 tân ngữ (V + IO + DO) *offering you … discount*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for* · Giới từ chỉ thời gian (for) *for so many years* · Danh từ + giới từ (collocation) *discount on*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for* · Giới từ chỉ thời gian (for) *for so many years* · Danh từ + giới từ (collocation) *discount on*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *percent discount*
 >
@@ -1423,6 +1421,8 @@
 > 🔁 [Bị động](C%C3%A2u%20B%E1%BB%8B%20%C4%90%E1%BB%99ng.md): Bị động – tương lai đơn *will be automatically applied*
 >
 > 🧷 [Cụm động từ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Cụm động từ (V + tiểu từ) *check out*
+>
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *apply to*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *shopping cart*
 >
@@ -1942,8 +1942,6 @@
 >
 > ⏩ [Phối hợp thì](SEQUENCE%20OF%20TENSES.md): Không lùi thì (sự việc vẫn đúng/chưa xảy ra) *told … provides*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *provide for*
->
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Danh từ ghép (N + N) *art students*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *my colleagues*
@@ -1985,8 +1983,6 @@
 > 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *focus on*
 >
 > 👤 [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md): Tính từ sở hữu + N *our attention*
->
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *most of*
 >
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): most of + the/tính từ sở hữu + N *most of* · most of + the/tính từ sở hữu + N *most of our attention.*
 
@@ -2960,7 +2956,7 @@
 >
 > 🔄 [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md): Đảo ngữ trong câu hỏi (trợ động từ + S) *At what time did*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *arrive at* · Động từ + giới từ (collocation) *arrive in*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Giới từ chỉ thời gian (at) *At what time* · Động từ + giới từ (collocation) *arrive in*
 >
 > 🔤 [Danh từ](Danh%20T%E1%BB%AB.md): Sở hữu cách ('s) *Cho's train*
 >
@@ -3990,8 +3986,6 @@
 >
 > ⏱️ [Thì](TENSES.md): Hiện tại đơn *has*
 >
-> 🎨 [Tính từ](T%C3%ADnh%20T%E1%BB%AB.md): Tính từ + giới từ *several of*
->
 > 🔢 [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md): several of + the/tính từ sở hữu + N *several of them.*
 
 **28.** We have a lot of and games, where people can be physically active.
@@ -4076,6 +4070,6 @@
 >
 > ✳️ [To V / V-ing](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md): Giới từ + V-ing *for working* · To V chỉ mục đích *to make sure they ran*
 >
-> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + giới từ (collocation) *thank for*
+> 📍 [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md): Động từ + tân ngữ + giới từ (thank sb for, provide sb with…) *thank … for*
 >
 > ⚡ [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md): Trạng từ chỉ mức độ + tính từ/trạng từ *so hard* · Trạng từ đứng sau động từ/tân ngữ *ran … smoothly*
