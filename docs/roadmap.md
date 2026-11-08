@@ -19,6 +19,7 @@
 - [ĐỘNG TỪ](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20%28B%E1%BA%A3ng%29.md) · [CỤM ĐỘNG TỪ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB%20%28B%E1%BA%A3ng%29.md)
 - [GIỚI TỪ](Gi%E1%BB%9Bi%20T%E1%BB%AB%20%28B%E1%BA%A3ng%29.md) · [LIÊN TỪ](Li%C3%AAn%20T%E1%BB%AB%20%28B%E1%BA%A3ng%29.md) · [MẠO TỪ](M%E1%BA%A1o%20T%E1%BB%AB%20%28B%E1%BA%A3ng%29.md) · [LƯỢNG TỪ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB%20%28B%E1%BA%A3ng%29.md)
 - [SỰ TƯƠNG HỢP CN-ĐT](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB%20%28B%E1%BA%A3ng%29.md)
+- [CÂU BỊ ĐỘNG](C%C3%A2u%20B%E1%BB%8B%20%C4%90%E1%BB%99ng.md) · [ĐỘNG TỪ NGUYÊN MẪU VÀ DANH ĐỘNG TỪ](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) — 2 chương mới bổ sung, vì đây là 2 điểm ngữ pháp bị thiếu trong sách nhưng lại bị hỏi rất nhiều trong đề TOEIC thật ("Câu bị động" và "Động từ không chia" trong [bảng thống kê Part 5/6](toeic-part5-6-grammar.md)).
 
 > Dùng bản "(Bảng)" để học/tra nhanh. Khi cần đọc giải thích chi tiết + ví dụ, mở bản đầy đủ cùng tên (không có "(Bảng)") trong sidebar.
 
