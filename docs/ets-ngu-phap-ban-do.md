@@ -68,8 +68,8 @@
 <details><summary>Xem thêm 6 ví dụ</summary>
 
 - 📖 *(Test 6)* Small batches are ideal for limited-**edition games** and new versions of existing games.
-- 📖 *(Test 2)* The Southport **manufacturing plant** is expected to begin production in three days.
-- 📖 *(Test 2)* Safety must always be the top priority in each step of the **glassblowing process**.
+- 📖 *(Test 8)* Matt Grimm and the other **band members** love the stickers, which are selling very well.
+- 📖 *(Test 9)* Our records indicate that your **company car** is due for regular service next month.
 - 🎧 *(Test 3)* Some trucks have stopped at a **traffic signal**.
 - 🎧 *(Test 2)* A man is pinning a note to a **bulletin board**.
 - 🎧 *(Test 3)* The **office supplies** are in the storage room.
@@ -280,8 +280,8 @@
 <details><summary>Xem thêm 6 ví dụ</summary>
 
 - 📖 *(Test 3)* Thanks for meeting to discuss **our presentation** to the board of directors next Friday.
-- 📖 *(Test 2)* You can request the instructor of **your choice**, or we can match you with an instructor.
-- 📖 *(Test 2)* We would likely schedule you on a Tuesday, since that is typically our least busy day. → *our day*
+- 📖 *(Test 9)* **Our records** indicate that your company car is due for regular service next month.
+- 📖 *(Test 9)* As you know, the period from June 1 through August 31 is ordinarily our busiest time. → *our time*
 - 🎧 *(Test 3)* One of the women is looking in **her handbag**.
 - 🎧 *(Test 6)* She saw **his comment** on a social media post.
 - 🎧 *(Test 2)* A woman is pulling **her luggage** behind her.
@@ -3530,14 +3530,14 @@
 **▸ Hiện tại đơn** <small>(1562 câu Reading · 664 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p1)
 
 - 📖 *(Test 1)* We will listen to your ideas and offer suggestions that **match** your gardening desires.
-- 📖 *(Test 1)* We **are** delighted to celebrate your 30th anniversary with Brandrix Distribution Centre.
+- 📖 *(Test 6)* Small batches **are** ideal for limited-edition games and new versions of existing games.
 - 🎧 *(Test 2)* What type of business do the speakers work for? → *do work*
 
 <details><summary>Xem thêm 6 ví dụ</summary>
 
-- 📖 *(Test 2)* The Southport manufacturing plant **is expected** to begin production in three days.
-- 📖 *(Test 2)* We would likely schedule you on a Tuesday, since that **is** typically our least busy day.
-- 📖 *(Test 3)* When planning a presentation for potential investors, **do not keep** them in suspense.
+- 📖 *(Test 7)* The vehicles must be offered at a price that **is** reasonable for the average consumer.”
+- 📖 *(Test 8)* Matt Grimm and the other band members **love** the stickers, which are selling very well.
+- 📖 *(Test 9)* Our records **indicate** that your company car is due for regular service next month.
 - 🎧 *(Test 10)* There **are** buildings along the side of a street.
 - 🎧 *(Test 1)* What special benefit does the speaker mention? → *does mention*
 - 🎧 *(Test 2)* Some people **are lined** up to buy train tickets.
@@ -4358,18 +4358,18 @@
 
 **▸ Câu đơn** <small>(1440 câu Reading · 1121 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p1)
 
-- 📖 *(Test 1)* Ennis Photography purchased at the new lighting equipment despite the high cost.
-- 📖 *(Test 1)* We are delighted to celebrate your 30th anniversary with Brandrix Distribution Centre.
-- 🎧 *(Test 2)* What type of business do the speakers work for?
+- 📖 *(Test 6)* Small batches are ideal for limited-edition games and new versions of existing games.
+- 📖 *(Test 6)* After further consideration, I have decided not to pursue this opportunity after all.
+- 🎧 *(Test 9)* Why will the man visit the property on Saturday?
 
 <details><summary>Xem thêm 6 ví dụ</summary>
 
-- 📖 *(Test 1)* Lawal Home Service prides itself on transparent communication and attention to detail.
-- 📖 *(Test 2)* The Southport manufacturing plant is expected to begin production in three days.
-- 📖 *(Test 2)* Safety must always be the top priority in each step of the glassblowing process.
-- 🎧 *(Test 1)* What special benefit does the speaker mention?
-- 🎧 *(Test 5)* What does the woman ask the man to do for her?
-- 🎧 *(Test 2)* What industry do the men most likely work in?
+- 📖 *(Test 8)* Matt Grimm and the other band members love the stickers, which are selling very well.
+- 📖 *(Test 10)* As part of our plan, we would welcome the opportunity to form a partnership with you.
+- 📖 *(Test 1)* Ennis Photography purchased at the new lighting equipment despite the high cost.
+- 🎧 *(Test 2)* What type of business do the speakers work for?
+- 🎧 *(Test 6)* According to the speaker, what would be useful?
+- 🎧 *(Test 7)* What motivated the woman to visit the business?
 
 </details>
 

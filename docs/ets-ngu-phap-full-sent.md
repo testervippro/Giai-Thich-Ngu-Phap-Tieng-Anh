@@ -35,8 +35,6 @@
 
 <small>1440 câu Reading · 1121 câu Listening</small>
 
-> Điểm này xuất hiện rất nhiều; dưới đây liệt kê 1200 câu tiêu biểu (tối đa 600 câu mỗi phần).
-
 **📖 Reading**
 
 1. *(Test 1 · Part 5)* The last antique shop in Pepper Valley will close down next month.
@@ -631,6 +629,830 @@
 590. *(Test 5 · Part 5)* Despite critical reviews, the movie was a great success at the box office.
 591. *(Test 5 · Part 5)* Margie Fung was among the winners at Sternetz Institute's art competition.
 592. *(Test 5 · Part 5)* Ideal for conference rooms, our soundproof panels have been specially designed to absorb unwanted background noise.
+593. *(Test 5 · Part 5)* Mr. Sato will call into the meeting using the hotel's wireless network.
+594. *(Test 5 · Part 5)* After months of planning, the Lanton Bookstore school reading program will finally commence in October.
+595. *(Test 5 · Part 5)* Independent consultants can be a valuable source of impartial advice to new entrepreneurs.
+596. *(Test 5 · Part 6)* After ten years in this role., she will be taking on a new professional challenge in Paris.
+597. *(Test 5 · Part 6)* There, she will join the leadership team at a top advertising agency.
+598. *(Test 5 · Part 6)* Marcos Molina from Spencer Design will become our new art director.
+599. *(Test 5 · Part 6)* He will be joining us on January 12.
+600. *(Test 5 · Part 6)* I would like to personally thank Ms. Hoffman for her tremendous leadership.
+601. *(Test 5 · Part 6)* She has been a key factor in our agency's success.
+602. *(Test 5 · Part 6)* The details will be forthcoming.
+603. *(Test 5 · Part 6)* How can you gain these skills?
+604. *(Test 5 · Part 6)* I am writing on behalf of Impressionise.
+605. *(Test 5 · Part 6)* We are a design firm specialising in medical facilities: waiting rooms, offices, and examination and therapy rooms.
+606. *(Test 5 · Part 6)* Our research indicates that you are planning to open a physiotherapy practice in Queen's Point within the next few months.
+607. *(Test 5 · Part 6)* No doubt, you want your facilities to be comfortable and calming while enhancing your professional practice and conforming to your brand image.
+608. *(Test 5 · Part 6)* You can view photographs of our previous projects at www.impressionise.co.uk/portfolio.
+609. *(Test 5 · Part 6)* Digital Chicory accepts informative and well-written articles of 800 to 1,200 words.
+610. *(Test 5 · Part 7)* Your Business Gets Noticed When You Advertise Here!
+611. *(Test 5 · Part 7)* Prime advertising space is available with sizes ranging from a quarter column to a full page.
+612. *(Test 5 · Part 7)* The Clearpoint Times reaches thousands of your neighbors each week.
+613. *(Test 5 · Part 7)* I would like to schedule a time to revisit your property and discuss your landscaping project in more detail.
+614. *(Test 5 · Part 7)* Your ideas will help me better determine the materials and time needed.
+615. *(Test 5 · Part 7)* Located 50 kilometers from the international airport in Jeel City, the hotel faces the beautiful Sea Mariner Bay.
+616. *(Test 5 · Part 7)* Windsurfing, paddleboarding, and several hiking and biking trails are all a short walk from our front door.
+617. *(Test 5 · Part 7)* Our knowledgeable staff are happy to arrange a kayaking excursion or a fishing trip to one of the nearby lakes.
+618. *(Test 5 · Part 7)* After a good night's sleep in one of our comfortable rooms, you'll be eager to explore the region right after breakfast!
+619. *(Test 5 · Part 7)* That's wonderful to hear!
+620. *(Test 5 · Part 7)* You check all the boxes.
+621. *(Test 5 · Part 7)* Elise and I have been friends for years.
+622. *(Test 5 · Part 7)* I really appreciate it!
+623. *(Test 5 · Part 7)* Covered Bridge Industries has delayed the launch of its new Balmy Breeze soft drink.
+624. *(Test 5 · Part 7)* The company had planned to release the product in June to take advantage of the higher sales demand during the summer months.
+625. *(Test 5 · Part 7)* Effective July 20, employees will no longer have access to the Zipvid app for creating animated videos.
+626. *(Test 5 · Part 7)* This utility can be found in our company's online software library.
+627. *(Test 5 · Part 7)* Two years after opening their doors, A Thousand Stories and Rosier's Garden Center are flourishing.
+628. *(Test 5 · Part 7)* Sometimes I considered shutting it all down and going back to my former job."
+629. *(Test 5 · Part 7)* Despite the difficult start, Mr. Rosier persevered.
+630. *(Test 5 · Part 7)* Now that the business is doing well, he is exploring opening another store.
+631. *(Test 5 · Part 7)* All employees are expected to follow the guidelines in the employee manual as well as posted safety rules.
+632. *(Test 5 · Part 7)* Certain jobs require employees to follow the additional safety guidelines provided by their supervisors.
+633. *(Test 5 · Part 7)* Free first aid training and certification are available twice yearly to all employees.
+634. *(Test 5 · Part 7)* The highway supervisor oversees all tasks related to the construction and maintenance of road-related structures throughout Dora County, including creating work objectives for all emergency program activities.
+635. *(Test 5 · Part 7)* Key responsibilities include the organization of all snow-removal operations and construction projects.
+636. *(Test 5 · Part 7)* Crucially, the supervisor instructs crew members in safety procedures and monitors the safety of works in progress.
+637. *(Test 5 · Part 7)* The supervisor shows proficiency in the use of computers to keep track of the budget each month.
+638. *(Test 5 · Part 7)* The supervisor prepares expenditure reports and time sheets as well as statistical and narrative reports related to maintenance and repair activities, being sure to record the amount of time, number of employees, and materials used for each activity.
+639. *(Test 5 · Part 7)* “The position features several duties related to staff management.”
+640. *(Test 5 · Part 7)* Jennifer, can you be at the Browns' house at 7:00 A.M. tomorrow to remove the furnace ductwork?
+641. *(Test 5 · Part 7)* Arthur's foundation-repair crew will need to access that area of the crawl space under the house.
+642. *(Test 5 · Part 7)* OK, it should take me about an hour.
+643. *(Test 5 · Part 7)* My crew will be there to start work shortly after 8:00 A.M. tomorrow.
+644. *(Test 5 · Part 7)* It's an unusually large job.
+645. *(Test 5 · Part 7)* So, when would you like me to come back to reinstall the ductwork?
+646. *(Test 5 · Part 7)* I’m scheduled to work at Mr. Amadi’s apartment on Friday—can the Browns’ ductwork wait until Monday?
+647. *(Test 5 · Part 7)* I have a small business and am dependent on my equipment.
+648. *(Test 5 · Part 7)* First, you will complete our short questionnaire about your business.
+649. *(Test 5 · Part 7)* Your consultant will determine the rates for any subsequent sessions based on your needs.
+650. *(Test 5 · Part 7)* I never got a confirmation e-mail.
+651. *(Test 5 · Part 7)* We sell our machines to stores all along the East Coast of the United States and are well-informed about domestic cargo procedures.
+652. *(Test 5 · Part 7)* Customers' Corner is a recurring feature in Atlas Financial Review (AFR) about customer-centric trends in Africa's banking industry.
+653. *(Test 5 · Part 7)* This installment of the series discusses Sonfaya Mutual's business advantage savings account (BASA).
+654. *(Test 5 · Part 7)* Moreover, it comes with a range of customer privileges, including yearly tax preparation with a certified tax accountant, one-on-one consultations with a dedicated account manager, and financial education programmes, both in-person and online.
+655. *(Test 5 · Part 7)* Except for the assistance with tax paperwork, these offerings are provided at no expense to BASA holders.
+656. *(Test 5 · Part 7)* For new BASA holders, the monthly cost is waived for the first six months.
+657. *(Test 5 · Part 7)* Sonfaya Mutual is headquartered in Kigali, Rwanda, with offices in the countries of Tanzania, Uganda, and Zambia.
+658. *(Test 5 · Part 7)* An in-depth article about Sonfaya Mutual's origins, growth, and milestones was published in AFR's January issue.
+659. *(Test 5 · Part 7)* Previous issues are at www.atlasfinancialreview.com/archives.
+660. *(Test 5 · Part 7)* Unfortunately, I could not locate it on the archival page.
+661. *(Test 5 · Part 7)* Your checking and savings accounts are now joined, enabling you to transfer money from one account to the other online.
+662. *(Test 5 · Part 7)* Finally, our recently launched online stock-trading platform, available to you at no charge, is excellent for allowing investors to manage their finances at their own pace.
+663. *(Test 5 · Part 7)* I wanted to inquire about breakfast times.
+664. *(Test 5 · Part 7)* I need to leave before 7 A.M. on Saturday morning, April 11, for my conference at the Ivor Hotel and Conference Center.
+665. *(Test 5 · Part 7)* Will breakfast be available before then?
+666. *(Test 5 · Part 7)* All forms must be approved and signed by the employee's department manager.
+667. *(Test 5 · Part 7)* It does not run at a steady speed and requires constant attention from line workers.
+668. *(Test 5 · Part 7)* It was checked at the monthly inspection and received an acceptable rating.
+669. *(Test 5 · Part 7)* However, it is now slowing production throughout Building F.
+670. *(Test 5 · Part 7)* Meanwhile, I have authorized Konner Services to send one of their technicians to inspect the machine and make any necessary repairs.
+671. *(Test 5 · Part 7)* They will send someone tomorrow between 1:00 and 2:00 P.M.
+672. *(Test 5 · Part 7 – câu hỏi)* What is the main purpose of the information?
+673. *(Test 5 · Part 7 – câu hỏi)* What is suggested about the Clearpoint Times?
+674. *(Test 5 · Part 7 – câu hỏi)* What does Mr. Paltz ask Mr. and Ms. Witt to do?
+675. *(Test 5 · Part 7 – câu hỏi)* For whom is the advertisement most likely intended?
+676. *(Test 5 · Part 7 – câu hỏi)* What is suggested about some of the rooms at Cavalina Hotel?
+677. *(Test 5 · Part 7 – câu hỏi)* What is indicated about Mr. Cho?
+678. *(Test 5 · Part 7 – câu hỏi)* Why did the leaders of Covered Bridge Industries not follow their original plan?
+679. *(Test 5 · Part 7 – câu hỏi)* Why is the Zipvid app no longer being used?
+680. *(Test 5 · Part 7 – câu hỏi)* What type of business do Ms. Ohtani and Ms. Rivera most likely operate?
+681. *(Test 5 · Part 7 – câu hỏi)* What is one similarity between A Thousand Stories and Rosier's Garden Center?
+682. *(Test 5 · Part 7 – câu hỏi)* The word "turn" in paragraph 5, line 4, is closest in meaning to
+683. *(Test 5 · Part 7 – câu hỏi)* According to the article, what will Mr. Rosier most likely do soon?
+684. *(Test 5 · Part 7 – câu hỏi)* What responsibility of a supervisor is mentioned in the notice?
+685. *(Test 5 · Part 7 – câu hỏi)* The word "measures" in paragraph 1, line 6, is closest in meaning to
+686. *(Test 5 · Part 7 – câu hỏi)* According to the notice, why should employees contact Ms. Schneider?
+687. *(Test 5 · Part 7 – câu hỏi)* What is suggested about Dora County?
+688. *(Test 5 · Part 7 – câu hỏi)* What is NOT a responsibility of the highway supervisor?
+689. *(Test 5 · Part 7 – câu hỏi)* What is the purpose of the conversation?
+690. *(Test 5 · Part 7 – câu hỏi)* What can be concluded about 210 Leon Drive?
+691. *(Test 5 · Part 7 – câu hỏi)* What is suggested about the members of Mr. Gruyter's work crew?
+692. *(Test 5 · Part 7 – câu hỏi)* What is indicated on the Web page?
+693. *(Test 5 · Part 7 – câu hỏi)* What item did Mr. Weaver order from JJ's Home and Garden Suppliers?
+694. *(Test 5 · Part 7 – câu hỏi)* In the e-mail, the word "full" in paragraph 1, line 7, is closest in meaning to
+695. *(Test 5 · Part 7 – câu hỏi)* What is suggested about JJ's Home and Garden Suppliers?
+696. *(Test 5 · Part 7 – câu hỏi)* What is the cost of a model CVY-XU cement mixer at Alliance Hardware Store?
+697. *(Test 5 · Part 7 – câu hỏi)* What does the Web page indicate about guidelines for international trade?
+698. *(Test 5 · Part 7 – câu hỏi)* What does the Web page mention about the cost of a monthly retainer?
+699. *(Test 5 · Part 7 – câu hỏi)* Why does Mr. Yadav provide information about his company in the e-mail?
+700. *(Test 5 · Part 7 – câu hỏi)* Who will Mr. Yadav most likely work with?
+701. *(Test 5 · Part 7 – câu hỏi)* What is mentioned in the e-mail about Isvarani Ltd.?
+702. *(Test 5 · Part 7 – câu hỏi)* What is mentioned about Sonfaya Mutual's financial education programs?
+703. *(Test 5 · Part 7 – câu hỏi)* What is indicated in the article about Sonfaya Mutual?
+704. *(Test 5 · Part 7 – câu hỏi)* Why is Ms. Chabinga looking for a previous AFR issue?
+705. *(Test 5 · Part 7 – câu hỏi)* What is suggested about Ms. Nirere?
+706. *(Test 5 · Part 7 – câu hỏi)* What is a purpose of the letter?
+707. *(Test 5 · Part 7 – câu hỏi)* What can be concluded about Valley Road Bed and Breakfast?
+708. *(Test 5 · Part 7 – câu hỏi)* According to the form, what are employees expected to do?
+709. *(Test 5 · Part 7 – câu hỏi)* What is most likely true about the Digital Graphic Designers Conference?
+710. *(Test 5 · Part 7 – câu hỏi)* Based on the form, what is true about Ms. Park?
+711. *(Test 5 · Part 7 – câu hỏi)* What is indicated on the receipt about Eileen's Diner?
+712. *(Test 5 · Part 7 – câu hỏi)* What has Mr. Nahm decided to do to solve the problem in Building F?
+713. *(Test 5 · Part 7 – câu hỏi)* Based on the report, what test resulted in the replacement of a machine part?
+714. *(Test 6 · Part 5)* On Saturday, the Edbridge Orchestra will perform a new work by local composer Nina Borstein.
+715. *(Test 6 · Part 5)* It is important to be especially polite when in the company of new clients.
+716. *(Test 6 · Part 5)* At the end of the year, organizations face pressure to achieve their financial goals.
+717. *(Test 6 · Part 5)* Online ordering is available on Naito Café's Web site.
+718. *(Test 6 · Part 5)* Mayor Park plans to meet with his campaign staff following the televised debate.
+719. *(Test 6 · Part 5)* Mr. Aponte's photograph of the autumn foliage will be featured on the front cover of Outward Expansion Magazine.
+720. *(Test 6 · Part 5)* Handi Office Supplies' new desk organizers serve as practical and stylish additions to any office workstation.
+721. *(Test 6 · Part 5)* The efficient redesign of the airline terminal led to fewer flight delays.
+722. *(Test 6 · Part 5)* Mr. Ogbu's editor appreciated his ability to approach the subject matter objectively.
+723. *(Test 6 · Part 5)* Mr. Nakayama was named Employee of the Year, despite being new to the company.
+724. *(Test 6 · Part 5)* The Stallmain Corporation's latest survey was intended to determine employee satisfaction in several key categories.
+725. *(Test 6 · Part 5)* Garza's Restaurant is elaborately decorated with paintings and photographs of southern Mexico.
+726. *(Test 6 · Part 5)* Mr. Brighton's first assignment at Glynn Engineering was in the materials testing group.
+727. *(Test 6 · Part 5)* The installation of new benches throughout Haverford Park will cost roughly €5,000.
+728. *(Test 6 · Part 5)* Singer Maria Stanley revealed today that she is scheduling a world tour.
+729. *(Test 6 · Part 5)* Biographer Amber Bowen has been recognized for her distinctive writing style.
+730. *(Test 6 · Part 5)* The award-winning stationery created by the artists at Paperi Designs is of exceptional quality.
+731. *(Test 6 · Part 5)* During the past quarter, nearly all of Renafy Technology's sales came from one region.
+732. *(Test 6 · Part 5)* Commercial property insurance covers the expenses associated with repairing or rebuilding a business property after certain events.
+733. *(Test 6 · Part 5)* Manufacturing all its products in-house allows Long Bridge Steel Corp. to control every aspect of the production process.
+734. *(Test 6 · Part 5)* Because of its use on home-cooking shows, consumer demand for Silvershine Cookware has doubled.
+735. *(Test 6 · Part 5)* Artists at Cavin Graphics work collaboratively with clients through all stages of the design process to ensure satisfaction.
+736. *(Test 6 · Part 5)* Brile Construction's contract for the mall development project has finally been verified by the city supervisor.
+737. *(Test 6 · Part 5)* Almost 4,000 Urlvac trash removal systems are in use in the eastern region.
+738. *(Test 6 · Part 5)* The conference schedule will be posted online rather than mailed to attendees.
+739. *(Test 6 · Part 6)* All Travelbee buses are now outfitted with exterior bicycle racks.
+740. *(Test 6 · Part 6)* A special facility has been built for this purpose within the company's headquarters in Inverness, Scotland.
+741. *(Test 6 · Part 6)* Working in teams of five, employees must solve a business problem particular to that area to be able to unlock the door and enter the next room.
+742. *(Test 6 · Part 6)* The course must be completed within a half hour.
+743. *(Test 6 · Part 6)* Crystal plans to install escape rooms in its main production facilities outside of Europe each.
+744. *(Test 6 · Part 6)* It will be closed from Tuesday morning through Friday.
+745. *(Test 6 · Part 6)* Randall-Humboldt recently experienced a reduction in mail-room staffing.
+746. *(Test 6 · Part 6)* As a result, starting on October 7, mail will no longer be delivered to employees' desks.
+747. *(Test 6 · Part 6)* Departments will be responsible for picking up and distributing their own mail.
+748. *(Test 6 · Part 6)* Each department should designate one employee to handle mail duties.
+749. *(Test 6 · Part 6)* It is up to the department head to determine how best to assign this responsibility.
+750. *(Test 6 · Part 6)* Mail will be available for pickup by 10:00 A.M. each morning.
+751. *(Test 6 · Part 6)* It will also benefit the environment by reducing waste.
+752. *(Test 6 · Part 7)* Bumbleberry Farm is known for its sweet, juicy blueberries.
+753. *(Test 6 · Part 7)* They are also great for adding to your favorite cereal in the morning.
+754. *(Test 6 · Part 7)* Our fields are open Tuesday through Sunday from 10:00 a.m. to 3:00 p.m.
+755. *(Test 6 · Part 7)* Admission to the fields is $2.00 per person, with a cost of $2.50 for each half liter of berries picked.
+756. *(Test 6 · Part 7)* Groups of up to 8 persons are welcome.
+757. *(Test 6 · Part 7)* LONDON (12 September)—Prices for tin rose to a record high in August.
+758. *(Test 6 · Part 7)* International inventories are unusually low at this time, and problems with availability persist.
+759. *(Test 6 · Part 7)* Chilean Smelting, Inc., a major producer, has invested in improved equipment and aims to increase production.
+760. *(Test 6 · Part 7)* I'd like to introduce Langdale Exterior Solutions.
+761. *(Test 6 · Part 7)* We have worked with clients in the Sheffield area for over 30 years.
+762. *(Test 6 · Part 7)* Our team of experienced professionals makes us the most trusted landscape company in the area.
+763. *(Test 6 · Part 7)* We can assist you in finding optimal solutions for your outdoor spaces at reasonable prices.
+764. *(Test 6 · Part 7)* We perform services from lawn maintenance to tree and shrub care.
+765. *(Test 6 · Part 7)* I have accepted a job offer in Toronto and will be relocating.
+766. *(Test 6 · Part 7)* I have enjoyed my three years living here.
+767. *(Test 6 · Part 7)* I will gladly recommend the Cottonwood Apartments to anyone looking to rent in the area.
+768. *(Test 6 · Part 7)* Most impressive, though, is your maintenance service.
+769. *(Test 6 · Part 7)* The crew members quickly addressed all issues, replacing smoke detectors, changing filters in my furnace, and weatherproofing windows before the cold season set in.
+770. *(Test 6 · Part 7)* You can always reach me on my mobile phone, 613-555-0129.
+771. *(Test 6 · Part 7)* I apologise for the longer-than-expected wait.
+772. *(Test 6 · Part 7)* In addition, I have taken the liberty to attach a brochure of our new products with a detailed price list.
+773. *(Test 6 · Part 7)* I'm preparing the paperwork for tomorrow's open house at 431 Oakdale Lane.
+774. *(Test 6 · Part 7)* Customization is a key benefit.
+775. *(Test 6 · Part 7)* This allows components with intricate designs to be tailored to specific themes.
+776. *(Test 6 · Part 7)* 3-D printers are also getting faster.
+777. *(Test 6 · Part 7)* This is particularly relevant to small-batch production of board games.
+778. *(Test 6 · Part 7)* Small batches are ideal for limited-edition games and new versions of existing games.
+779. *(Test 6 · Part 7)* QRN Airport invites travelers to experience our new Repose Lounge.
+780. *(Test 6 · Part 7)* The Repose Lounge is open daily between 5:00 A.M. and 8:30 P.M. and features the following amenities.
+781. *(Test 6 · Part 7)* Repose Lounge passes are available for $180 and are valid for one year from the date of purchase.
+782. *(Test 6 · Part 7)* To access a Repose Lounge, guests must present a government-issued photo ID and a same-day boarding pass.
+783. *(Test 6 · Part 7)* To celebrate the grand opening at QRN Airport, we are offering Repose Lounge passes at half price between March 15 and March 30.
+784. *(Test 6 · Part 7)* March 26—The village of Misford will celebrate its annual Green Awareness Week in April.
+785. *(Test 6 · Part 7)* This event is coordinated by the village's Green Earth Committee and is part of a long-term effort to keep Misford green and clean.
+786. *(Test 6 · Part 7)* The activities will start on Sunday, April 1, with a cleanup of the Misford Stream trails.
+787. *(Test 6 · Part 7)* Two teams of volunteers will work on either side of the stream to pick up any rubbish and clear the paths of fallen branches.
+788. *(Test 6 · Part 7)* On Monday, residents are encouraged to walk along the trails and take photographs.
+789. *(Test 6 · Part 7)* The Green Earth Committee is accepting digital images and will select the ten best to post to the village Web site.
+790. *(Test 6 · Part 7)* On Thursday, the Misford Library will host a panel on ways to conserve energy and reduce and recycle waste.
+791. *(Test 6 · Part 7)* These are fundamental goals of the village and its Green Earth Committee.
+792. *(Test 6 · Part 7)* Children are welcome to attend with an adult.
+793. *(Test 6 · Part 7)* Finally, on Saturday, 500 tree saplings will be offered to residents free of charge.
+794. *(Test 6 · Part 7)* The trees are native to the region and can be planted in private gardens or in some public areas.
+795. *(Test 6 · Part 7)* It's a quick reminder summarizing the process for requesting vacation time.
+796. *(Test 6 · Part 7)* I'm preparing for a full afternoon of interviews.
+797. *(Test 6 · Part 7)* He founded this firm 25 years ago and has always been an integral part of it.
+798. *(Test 6 · Part 7)* The party will begin at 6 P.M.
+799. *(Test 6 · Part 7)* The speeches will start at 7:30 P.M. and continue for about an hour.
+800. *(Test 6 · Part 7)* This year's tour theme is Winged Paradise, with a focus on flowering plants favored by regional birds and butterflies, including the lesser goldfinch and the ringlet butterfly.
+801. *(Test 6 · Part 7)* All proceeds from ticket sales for this year's tour will go toward replanting the cottonwood forest in Presidio County Park.
+802. *(Test 6 · Part 7)* Gardens selected to participate in the tour must be within Presidio County and include only plants native to the region.
+803. *(Test 6 · Part 7)* About one and a half acres of soil have been cultivated so far.
+804. *(Test 6 · Part 7)* The leaders and members of the Alamito Botanical Society cordially invite the public to attend its educational lectures, held at the horticultural department of Marfa Community College.
+805. *(Test 6 · Part 7)* All lectures occur on the third Wednesday of the month at 7:00 P.M. Advance registration is not required.
+806. *(Test 6 · Part 7)* Humans can pollinate certain plants using simple techniques.
+807. *(Test 6 · Part 7)* Terra Jaunts organizes nature hikes, farm stays, camping trips, athletic competitions, and other activities for company retreats.
+808. *(Test 6 · Part 7)* Terra Jaunts pays up to $300 per day to our partners for the daytime use of their property and provides all or most needed equipment.
+809. *(Test 6 · Part 7)* The site is located within 100 kilometers of a medium to large city.
+810. *(Test 6 · Part 7)* The site is able to host a retreat one or two days per month.
+811. *(Test 6 · Part 7)* The site has adequate parking space for 50 cars or two buses.
+812. *(Test 6 · Part 7)* The site can accommodate up to 75 people.
+813. *(Test 6 · Part 7)* Your list of plants would be a real asset for groups engaged in activities involving the identification of species.
+814. *(Test 6 · Part 7)* I would like to arrange a site visit with my associate Peter Cumberland either this week or next.
+815. *(Test 6 · Part 7)* After further consideration, I have decided not to pursue this opportunity after all.
+816. *(Test 6 · Part 7 – câu hỏi)* What is indicated about Bumbleberry Farm?
+817. *(Test 6 · Part 7 – câu hỏi)* What is NOT mentioned as a way to enjoy blueberries?
+818. *(Test 6 · Part 7 – câu hỏi)* According to the article, what is contributing to the demand for tin?
+819. *(Test 6 · Part 7 – câu hỏi)* The word "driven" in paragraph 1, line 5, is closest in meaning to
+820. *(Test 6 · Part 7 – câu hỏi)* What is indicated about Chilean Smelting, Inc.?
+821. *(Test 6 · Part 7 – câu hỏi)* What is the main purpose of the letter?
+822. *(Test 6 · Part 7 – câu hỏi)* What is NOT indicated about Langdale Exterior Solutions?
+823. *(Test 6 · Part 7 – câu hỏi)* Who most likely is Ms. Valdez?
+824. *(Test 6 · Part 7 – câu hỏi)* What does the letter indicate about the laundry room at Cottonwood Apartments?
+825. *(Test 6 · Part 7 – câu hỏi)* What is NOT mentioned about the maintenance crew?
+826. *(Test 6 · Part 7 – câu hỏi)* What did Ms. Schirmer provide with the e-mail?
+827. *(Test 6 · Part 7 – câu hỏi)* In what industry do Mr. Porter and Ms. Warner most likely work?
+828. *(Test 6 · Part 7 – câu hỏi)* What is most likely true about Mr. Torres?
+829. *(Test 6 · Part 7 – câu hỏi)* What is indicated about the small-batch production of games?
+830. *(Test 6 · Part 7 – câu hỏi)* The word "space" in paragraph 1, line 2, is closest in meaning to
+831. *(Test 6 · Part 7 – câu hỏi)* What is indicated about the Repose Lounge at QRN Airport?
+832. *(Test 6 · Part 7 – câu hỏi)* What is offered to Repose Lounge visitors?
+833. *(Test 6 · Part 7 – câu hỏi)* According to the notice, what will happen between March 15 and March 30?
+834. *(Test 6 · Part 7 – câu hỏi)* What will be posted to Misford's Web site?
+835. *(Test 6 · Part 7 – câu hỏi)* What is one goal of the Green Earth Committee?
+836. *(Test 6 · Part 7 – câu hỏi)* What is NOT mentioned as a planned activity during Green Awareness Week?
+837. *(Test 6 · Part 7 – câu hỏi)* What are the writers discussing?
+838. *(Test 6 · Part 7 – câu hỏi)* When will Ms. Karp's report most likely be sent to the staff?
+839. *(Test 6 · Part 7 – câu hỏi)* What will Mr. Nusaputra probably do next?
+840. *(Test 6 · Part 7 – câu hỏi)* In the first e-mail, what is indicated about the magazine's special issue?
+841. *(Test 6 · Part 7 – câu hỏi)* In the second e-mail, what is mentioned about Skllarr Press?
+842. *(Test 6 · Part 7 – câu hỏi)* What will Ms. Xu probably do next?
+843. *(Test 6 · Part 7 – câu hỏi)* Why did Ms. Rosen send an e-mail to Mr. Iqbal?
+844. *(Test 6 · Part 7 – câu hỏi)* What is indicated about Mr. Iqbal?
+845. *(Test 6 · Part 7 – câu hỏi)* In the second e-mail, the word "note" in paragraph 2, line 1, is closest in meaning to
+846. *(Test 6 · Part 7 – câu hỏi)* At approximately what time does Mr. Iqbal plan to arrive at the party?
+847. *(Test 6 · Part 7 – câu hỏi)* In the announcement, what is mentioned about the Gorgeous Gardens Tour?
+848. *(Test 6 · Part 7 – câu hỏi)* What does Ms. Olton mention in her e-mail?
+849. *(Test 6 · Part 7 – câu hỏi)* On the Web page, what is suggested about the lectures?
+850. *(Test 6 · Part 7 – câu hỏi)* What does the advertisement mention about Terra Jaunts?
+851. *(Test 6 · Part 7 – câu hỏi)* What can be concluded about Pink Ridge Ranch?
+852. *(Test 6 · Part 7 – câu hỏi)* According to Mr. Jeong, what distinguishes Ms. Newsom from other property owners?
+853. *(Test 6 · Part 7 – câu hỏi)* What is suggested about Pink Ridge Ranch?
+854. *(Test 6 · Part 7 – câu hỏi)* What is most likely true about Mr. Cumberland?
+855. *(Test 6 · Part 7 – câu hỏi)* Who most likely is Mr. Harlington?
+856. *(Test 6 · Part 7 – câu hỏi)* According to the first e-mail, what should managers do as soon as possible?
+857. *(Test 6 · Part 7 – câu hỏi)* According to the schedule, what happened in the third quarter?
+858. *(Test 6 · Part 7 – câu hỏi)* What will Ms. Powell most likely do on October 14?
+859. *(Test 6 · Part 7 – câu hỏi)* What does Ms. Powell request?
+860. *(Test 7 · Part 5)* Mike's Café offers a free drink with every meal on Tuesdays from 11 A.M. to 7 P.M.
+861. *(Test 7 · Part 5)* Mr. Ozawa generally prefers to commute to work by train instead of by car.
+862. *(Test 7 · Part 5)* Dumbbells, also known as free weights, are useful for keeping fit at home.
+863. *(Test 7 · Part 5)* Candidates for the entry-level marketing position need to have a basic understanding of consumer behavior.
+864. *(Test 7 · Part 5)* Ms. Persson was able to respond directly to government leaders about their concerns regarding the funding plan.
+865. *(Test 7 · Part 5)* Leigh Ainsley, the featured soloist in tonight's performance, began taking violin lessons at the age of five.
+866. *(Test 7 · Part 5)* From among the seven candidates for the management position, the hiring committee must choose only one.
+867. *(Test 7 · Part 5)* The proposed purchase agreement is --- being evaluated by officials at Corlan Tech.
+868. *(Test 7 · Part 5)* Given the forecast for rain on Saturday, the ceremony will be held indoors at the Raheen Gallery.
+869. *(Test 7 · Part 5)* Professor McNamara has published books on a diverse range of topics.
+870. *(Test 7 · Part 5)* Rosemont Department Store employees are said to be very well-informed, personable, and responsive.
+871. *(Test 7 · Part 5)* The security officer at the front gate will instruct delivery drivers as to where to drop off packages.
+872. *(Test 7 · Part 5)* A favorable effect of increased tourism in our city has been rapid growth in the number of hospitality-related jobs.
+873. *(Test 7 · Part 6)* Do you enjoy tasty tea and snacks?
+874. *(Test 7 · Part 6)* If so, you won't want to miss Game Night at Chez Tournoi.
+875. *(Test 7 · Part 6)* Each Friday from 6 to 10 P.M., Chez Tournoi welcomes you to its 44 Broad Avenue, Kingston, location for some fun and laughter.
+876. *(Test 7 · Part 6)* Game Night at Chez Tournoi is the perfect opportunity to relax and socialise.
+877. *(Test 7 · Part 6)* can be, it will be In addition listed as a rental available to a new tenant on April 1.
+878. *(Test 7 · Part 6)* Travelers on a budget also have options.
+879. *(Test 7 · Part 6)* The Devegas Peninsula features a wide range of accommodation options.
+880. *(Test 7 · Part 6)* More than twenty luxury hotels can be found along Devegas Beach, along with several moderately priced hotels in the Devegas Park neighborhood.
+881. *(Test 7 · Part 6)* In addition, a range of small inns and short-term apartment rentals are scattered throughout the area.
+882. *(Test 7 · Part 6)* Several inexpensive campsites and youth hostels are available throughout the year.
+883. *(Test 7 · Part 6)* Your signature has been captured.
+884. *(Test 7 · Part 6)* The document is waiting for four more signatures.
+885. *(Test 7 · Part 6)* Upon completion, all signers may access and save the document.
+886. *(Test 7 · Part 7)* Truli crackers and cheese are now available at major supermarkets.
+887. *(Test 7 · Part 7)* This coupon may not be combined with other special offers.
+888. *(Test 7 · Part 7)* You have earned your first points just by signing up for our program.
+889. *(Test 7 · Part 7)* You are even entitled to a free scoop at any Brice's Ice Creamery on your birthday.
+890. *(Test 7 · Part 7)* You have earned: 20 points.
+891. *(Test 7 · Part 7)* You are 80 points away from earning your next reward.
+892. *(Test 7 · Part 7)* Are you still in the office by any chance?
+893. *(Test 7 · Part 7)* I was just packing up.
+894. *(Test 7 · Part 7)* Unfortunately, I'm on a train to Melbourne for the weekend.
+895. *(Test 7 · Part 7)* I'll take care of it right now.
+896. *(Test 7 · Part 7)* Thousands of large companies use surveys to measure customer satisfaction with the goal of improving their business.
+897. *(Test 7 · Part 7)* Qualitekk Research serves its client companies by analyzing survey results and producing detailed reports containing insights about customers' preferences.
+898. *(Test 7 · Part 7)* Over twelve years of operation, Qualitekk Research has built a strong reputation for providing valuable data.
+899. *(Test 7 · Part 7)* We will then send you links to those surveys to complete at your leisure.
+900. *(Test 7 · Part 7)* “These numbers continue to grow as online commerce increases.”
+901. *(Test 7 · Part 7)* On 2 October, we will celebrate the theatre's grand reopening with a one-night musical showcase starring some of the best actors and singers in Wales.
+902. *(Test 7 · Part 7)* One week later, we will begin the run of Blake's River.
+903. *(Test 7 · Part 7)* Building Blocks is the newest employee-led volunteer group at Milos Tek Corporation.
+904. *(Test 7 · Part 7)* We offer free seminars on management, public relations, grant writing, and various types of application software to nonprofit organizations in Lalortown.
+905. *(Test 7 · Part 7)* These organizations include youth clubs, community sports leagues, the Lalortown Nature Center, and Lalortown's public radio station!
+906. *(Test 7 · Part 7)* Participation in Building Blocks generally involves more time than what is encouraged by other volunteer groups at Milos Tek.
+907. *(Test 7 · Part 7)* We will hold a 30-minute information session on Friday, May 3, at 12:30 P.M., in conference room B-2.
+908. *(Test 7 · Part 7)* DETROIT (January 2)—This will be a year of firsts at Mehan Motors.
+909. *(Test 7 · Part 7)* She eventually rose to lead the electric vehicle (EV) division at Tafts Motors in Detroit.
+910. *(Test 7 · Part 7)* Within two years, the company promoted her to the position of chief operating officer.
+911. *(Test 7 · Part 7)* Within its category, this vehicle achieved a stunning 20% higher range on a single charge than its nearest EV competitor.
+912. *(Test 7 · Part 7)* Ms. Loeb summarized her vision for Mehan Motors in a recent interview.
+913. *(Test 7 · Part 7)* "She also earned a certificate in corporate management."
+914. *(Test 7 · Part 7)* Each bicycle has been refurbished by a certified technician to ensure a smooth, safe ride.
+915. *(Test 7 · Part 7)* Prices range from £15 to £50.
+916. *(Test 7 · Part 7)* The sale runs from 9 May to 22 May.
+917. *(Test 7 · Part 7)* I suggest using that paper again.
+918. *(Test 7 · Part 7)* Surf Bird Beachwear, Jaxon Shore's best shop for casual clothing and beach supplies, has openings for four full-time workers.
+919. *(Test 7 · Part 7)* These seasonal positions will be available from the beginning of June until the end of August.
+920. *(Test 7 · Part 7)* Duties include handling sales, stocking shelves, assisting customers, and setting up displays.
+921. *(Test 7 · Part 7)* Some early morning and weekend work is required.
+922. *(Test 7 · Part 7)* We offer a competitive salary and excellent working conditions.
+923. *(Test 7 · Part 7)* Surf Bird Beachwear has two locations in Jaxon Shore: the original Pelican Inlet store and, opening in June, our new Gravel Road location.
+924. *(Test 7 · Part 7)* All interviews will be conducted at the Gravel Road store.
+925. *(Test 7 · Part 7)* The remaining jets will be delivered throughout the coming year.
+926. *(Test 7 · Part 7)* Perhaps we need to rethink our entire hub system.
+927. *(Test 7 · Part 7)* Passengers flying between smaller cities must change planes at one of these hubs.
+928. *(Test 7 · Part 7)* Landing fees at these larger airports tend to be very high.
+929. *(Test 7 · Part 7)* The possibility of being stuck in the middle seat is no longer a concern.
+930. *(Test 7 · Part 7)* The seats are also more comfortable than most airplane seats.
+931. *(Test 7 · Part 7)* We apologize for the inconvenience.
+932. *(Test 7 · Part 7)* The exhibit will be open to members and private group tours starting August 15 and to the general public starting September 2.
+933. *(Test 7 · Part 7)* Visitors entering and walking through a building with wet umbrellas unintentionally create wet and slippery floors.
+934. *(Test 7 · Part 7)* The Protecto Umbrella Wrapping machine (PUW machine) provides a simple and convenient way to address this problem.
+935. *(Test 7 · Part 7)* The machine is best placed in the entryway of your building.
+936. *(Test 7 · Part 7)* Upon entry, visitors insert their wet umbrellas into the machine.
+937. *(Test 7 · Part 7)* Upon leaving, they can discard the used bags in any nearby trash can.
+938. *(Test 7 · Part 7)* PUW machines are available with one or two umbrella-wrapping devices and come in stainless steel or black.
+939. *(Test 7 · Part 7)* The machine wraps umbrellas in 1.5 seconds.
+940. *(Test 7 · Part 7)* The stand is mobile and thus can be rolled around to different locations.
+941. *(Test 7 · Part 7)* Price includes 2,000 bags.
+942. *(Test 7 · Part 7)* Price includes 1,000 bags.
+943. *(Test 7 · Part 7)* I love our new PUW machine!
+944. *(Test 7 · Part 7)* As the facilities manager of a medium-sized office building, I often have to deal with the inconvenience of wet floors caused by visitors entering with umbrellas.
+945. *(Test 7 · Part 7)* So, in November, we decided to try a PUW machine.
+946. *(Test 7 · Part 7)* Since then, the entranceway has been safer and cleaner.
+947. *(Test 7 · Part 7)* In Ashburton, we have nearly finished a 107-unit apartment complex on Passerine Way and have just broken ground on the new wing of the Dismus School on Sixth Street.
+948. *(Test 7 · Part 7)* We're hiring for both office and jobsite positions.
+949. *(Test 7 · Part 7)* We are extremely concerned.
+950. *(Test 7 · Part 7)* The building's completion date cannot be postponed.
+951. *(Test 7 · Part 7)* A machine in our factory malfunctioned, creating flaws in the window glass.
+952. *(Test 7 · Part 7)* We are expediting your order and will ship it tomorrow.
+953. *(Test 7 · Part 7)* It will arrive at your medical clinic construction site on 20 August.
+954. *(Test 7 · Part 7 – câu hỏi)* What is indicated about boxes of Truli crackers?
+955. *(Test 7 · Part 7 – câu hỏi)* What does the text message indicate about Brice's Ice Creamery?
+956. *(Test 7 · Part 7 – câu hỏi)* What did Mr. Thielen receive for signing up for the rewards program?
+957. *(Test 7 · Part 7 – câu hỏi)* What is indicated about Dr. Ramanathan?
+958. *(Test 7 · Part 7 – câu hỏi)* What is most likely true about Ms. Ikeda?
+959. *(Test 7 · Part 7 – câu hỏi)* What is indicated about Qualitekk Research?
+960. *(Test 7 · Part 7 – câu hỏi)* What are Qualitekk Research's participants encouraged to do?
+961. *(Test 7 · Part 7 – câu hỏi)* What is the purpose of the memo?
+962. *(Test 7 · Part 7 – câu hỏi)* What is indicated about the Swansea Spotlight Bistro?
+963. *(Test 7 · Part 7 – câu hỏi)* What is mentioned about October 2?
+964. *(Test 7 · Part 7 – câu hỏi)* For whom is the information most likely intended?
+965. *(Test 7 · Part 7 – câu hỏi)* What is the main activity performed by Building Blocks?
+966. *(Test 7 · Part 7 – câu hỏi)* What is required of Building Blocks members?
+967. *(Test 7 · Part 7 – câu hỏi)* Where was Ms. Loeb's first experience working on electric vehicles?
+968. *(Test 7 · Part 7 – câu hỏi)* What is special about the Radar?
+969. *(Test 7 · Part 7 – câu hỏi)* What is the main purpose of the advertisement?
+970. *(Test 7 · Part 7 – câu hỏi)* What is indicated about Dan's Specialty Bicycles?
+971. *(Test 7 · Part 7 – câu hỏi)* What is suggested about the secondhand bicycles?
+972. *(Test 7 · Part 7 – câu hỏi)* What information is NOT included in the advertisement?
+973. *(Test 7 · Part 7 – câu hỏi)* Why did Mr. Talbert initiate the online chat discussion?
+974. *(Test 7 · Part 7 – câu hỏi)* Who reported a negative experience with multiple products?
+975. *(Test 7 · Part 7 – câu hỏi)* What is indicated about the Zeertox Signal Booster?
+976. *(Test 7 · Part 7 – câu hỏi)* Why did Ms. Nguyen write the e-mail?
+977. *(Test 7 · Part 7 – câu hỏi)* What is NOT mentioned as a job duty in the advertisement?
+978. *(Test 7 · Part 7 – câu hỏi)* What is most likely true about the job interviews?
+979. *(Test 7 · Part 7 – câu hỏi)* In the advertisement, the word "original" in paragraph 2, line 1, is closest in meaning to (A) first
+980. *(Test 7 · Part 7 – câu hỏi)* According to the e-mail, what will happen over the next twelve months?
+981. *(Test 7 · Part 7 – câu hỏi)* What can be concluded about the Ventana Airlines executive team?
+982. *(Test 7 · Part 7 – câu hỏi)* What does Mr. Ogawa dislike about connecting at a hub?
+983. *(Test 7 · Part 7 – câu hỏi)* What is most likely true about Mr. Ogawa?
+984. *(Test 7 · Part 7 – câu hỏi)* What is one purpose of the notice?
+985. *(Test 7 · Part 7 – câu hỏi)* What is indicated about some of Renmark Solutions' interns?
+986. *(Test 7 · Part 7 – câu hỏi)* What is suggested about the trip on August 19?
+987. *(Test 7 · Part 7 – câu hỏi)* Why will the interns go to room 203?
+988. *(Test 7 · Part 7 – câu hỏi)* According to the schedule, when will a company give a presentation about its merchandise?
+989. *(Test 7 · Part 7 – câu hỏi)* What does the advertisement suggest about PUW machines?
+990. *(Test 7 · Part 7 – câu hỏi)* What does the price list indicate about bags?
+991. *(Test 7 · Part 7 – câu hỏi)* What is suggested about Mr. Barr?
+992. *(Test 7 · Part 7 – câu hỏi)* What problem does Mr. Barr describe?
+993. *(Test 7 · Part 7 – câu hỏi)* What is suggested on the Web page about Croydon Construction?
+994. *(Test 7 · Part 7 – câu hỏi)* According to the Web page, what should job applicants do?
+995. *(Test 7 · Part 7 – câu hỏi)* In the second e-mail, what problem does Ms. Rahija describe?
+996. *(Test 7 · Part 7 – câu hỏi)* What can be concluded about Mr. Makoare?
+997. *(Test 8 · Part 5)* Sydney Fashion Week drew thousands of excited visitors to the city last week.
+998. *(Test 8 · Part 5)* All visitors to the factory should use the entrance on the north side of the building.
+999. *(Test 8 · Part 5)* Unfortunately, we cannot provide an exact time for the delivery of the new laptops.
+1000. *(Test 8 · Part 5)* Tourists visiting Star Island are asked to respect the privacy of residents.
+1001. *(Test 8 · Part 5)* Rivlyn, Inc., has recycled nearly 11 million kilograms of paper waste over the past decade.
+1002. *(Test 8 · Part 5)* The new Dorvale 500 exercise machine is significantly heavier and sturdier than the previous model.
+1003. *(Test 8 · Part 5)* Beachside Inn is the perfect place to host an event for your corporate clients.
+1004. *(Test 8 · Part 5)* Advancements in cloud computing have transformed the gaming industry in many ways.
+1005. *(Test 8 · Part 5)* The addition of electric buses to our current fleet has made commuting much more pleasant.
+1006. *(Test 8 · Part 5)* Any remote employees wanting an additional computer monitor should ---Ms. Suzuki.
+1007. *(Test 8 · Part 5)* Customer loyalty programs are profitable for many retail businesses.
+1008. *(Test 8 · Part 5)* Prompt submission of travel vouchers to the accounts department will expedite refunds.
+1009. *(Test 8 · Part 5)* The Zwick Air Wave generates a powerful blast to cool your workspace quickly.
+1010. *(Test 8 · Part 5)* The Oak Hill Art Museum offers several permanent exhibits and a series of limited-time exhibits.
+1011. *(Test 8 · Part 5)* After extensively reviewing our hiring policies, the consultant recommended a simpler process.
+1012. *(Test 8 · Part 5)* The company decided to proceed cautiously with plans to expand into new sales territories.
+1013. *(Test 8 · Part 5)* Mr. Davis from the marketing department will attend Monday's meeting with the client.
+1014. *(Test 8 · Part 5)* Several outstanding reviews helped make the debut novel a best seller.
+1015. *(Test 8 · Part 5)* A survey of new car buyers asked them to rank features in order from most to least important.
+1016. *(Test 8 · Part 5)* As head of the Poels Museum, Mr. Ahuja oversaw the acquisition of several significant works of art.
+1017. *(Test 8 · Part 5)* Customer service representatives can be reached by calling 800-555-0121 between 8:00 A.M. and 4:00 P.M.
+1018. *(Test 8 · Part 6)* Alternatively, you may use the stairs to the left of the elevator.
+1019. *(Test 8 · Part 6)* The laboratory is the next door on the right.
+1020. *(Test 8 · Part 6)* That is why we are giving you extra time to submit your application for our Master of Business Administration (MBA) program.
+1021. *(Test 8 · Part 6)* We have extended our initial deadline to December 31.
+1022. *(Test 8 · Part 6)* Most significantly, we have corrected several issues with the previous version.
+1023. *(Test 8 · Part 6)* In particular, they commented on how simple it is to use the different features.
+1024. *(Test 8 · Part 6)* I have attached the app's specifications and a draft of the press release to this e-mail.
+1025. *(Test 8 · Part 6)* The official launch for the app and menu will be announced on Thursday, 25 September.
+1026. *(Test 8 · Part 7)* As some of you know, Sun-Yi Pak is transferring to our Seoul office.
+1027. *(Test 8 · Part 7)* Her going-away party will take place at 3:00 PM on 21 February in the second-floor conference room.
+1028. *(Test 8 · Part 7)* I hope to see you there to celebrate Sun-Yi!
+1029. *(Test 8 · Part 7)* Do you have lunch plans?
+1030. *(Test 8 · Part 7)* I was just going to grab a sandwich from the company café and eat at my desk.
+1031. *(Test 8 · Part 7)* Why do you ask?
+1032. *(Test 8 · Part 7)* That's a good idea.
+1033. *(Test 8 · Part 7)* I have some questions too—about the project's budget.
+1034. *(Test 8 · Part 7)* Maybe we should ask Maria Trujillo to join us as well?
+1035. *(Test 8 · Part 7)* Shall we meet in the lobby at 11:45?
+1036. *(Test 8 · Part 7)* I'll see you then.
+1037. *(Test 8 · Part 7)* Our parking area is free but fills quickly.
+1038. *(Test 8 · Part 7)* We encourage visitors to take public transportation.
+1039. *(Test 8 · Part 7)* Buses on both the orange and the blue routes stop at the zoo entrance.
+1040. *(Test 8 · Part 7)* During the summer months, extra buses run on these routes to accommodate visitors.
+1041. *(Test 8 · Part 7)* The second project will build residential housing on a large empty lot at the south end.
+1042. *(Test 8 · Part 7)* The new residential area and the new commercial area will be connected by a park with paved pathways.
+1043. *(Test 8 · Part 7)* "This area will include apartments as well as single-family homes."
+1044. *(Test 8 · Part 7)* All Barbados Airlines passengers may bring one personal item (for example, a handbag or laptop bag) into the cabin with them.
+1045. *(Test 8 · Part 7)* Child safety seats do not count toward a passenger's personal item allowance.
+1046. *(Test 8 · Part 7)* For a fee of €20, a passenger may take on board a carry-on item such as a suitcase or duffel bag.
+1047. *(Test 8 · Part 7)* Any carry-on item larger than these dimensions will be checked into the baggage hold and will incur a fee of €50.
+1048. *(Test 8 · Part 7)* With special permission, oversized items like sporting equipment and musical instruments can be taken into the cabin as carry-on items.
+1049. *(Test 8 · Part 7)* This year's staff gathering features a new twist: an online trivia competition to test your knowledge of popular culture, sports, and entertainment.
+1050. *(Test 8 · Part 7)* To foster company-wide collaboration, employees based in the London and Glasgow offices will sign into the Z-Hype room from their homes and be combined into virtual teams for this friendly competition.
+1051. *(Test 8 · Part 7)* Our virtual trivia night will last roughly two hours.
+1052. *(Test 8 · Part 7)* Day passes to Good Stuff Theme Park in Manchester will be awarded to the winning team.
+1053. *(Test 8 · Part 7)* Each prize winner will receive a gift card for a meal at Sondra's Grill.
+1054. *(Test 8 · Part 7)* Friends and family are welcome to participate.
+1055. *(Test 8 · Part 7)* We look forward to seeing you there!
+1056. *(Test 8 · Part 7)* Upon fulfillment of the agreement, Grotel Corporation agrees to pay the Event Speaker a fee of $1,250.
+1057. *(Test 8 · Part 7)* Grotel Corporation will reimburse the Event Speaker for lodging and transportation up to $500, provided that original receipts are submitted.
+1058. *(Test 8 · Part 7)* Grotel Corporation will provide the Event Speaker with the following equipment: projector, large screen, Internet connection, microphone. (Please see accompanying document for specific information.)
+1059. *(Test 8 · Part 7)* I just work at my computer all day.
+1060. *(Test 8 · Part 7)* We can hire professionals to edit it.
+1061. *(Test 8 · Part 7)* The son of a politician and a newspaper reporter, Mr. Maalim had originally planned to be an archaeologist.
+1062. *(Test 8 · Part 7)* He quickly rose to fame.
+1063. *(Test 8 · Part 7)* Over the next 30 years, Mr. Maalim became a household name, regularly appearing in motion pictures in Britain and the United States.
+1064. *(Test 8 · Part 7)* She sheds light on previously unknown details of Mr. Maalim's life, gathered from extensive interviews with his longtime agent.
+1065. *(Test 8 · Part 7)* Written in straightforward and accessible prose by an award-winning author, this book explores Mr. Maalim's life beginning with his childhood in India.
+1066. *(Test 8 · Part 7)* It is sure to inform and entertain all of his fans.
+1067. *(Test 8 · Part 7)* As a longtime fan of Ibra Maalim, I was looking forward to reading A Life in the Spotlight.
+1068. *(Test 8 · Part 7)* I was not disappointed.
+1069. *(Test 8 · Part 7)* Mackay paints a fascinating portrait of this enigmatic figure.
+1070. *(Test 8 · Part 7)* Mackay reveals Maalim's strengths and shortcomings, making the book more credible.
+1071. *(Test 8 · Part 7)* I only have two complaints.
+1072. *(Test 8 · Part 7)* The book says almost nothing about his childhood years or his relationships with his fellow University of Leeds students.
+1073. *(Test 8 · Part 7)* The excitement is all around you at Big Strike Lanes!
+1074. *(Test 8 · Part 7)* With 18 bowling lanes, state-of-the-art gaming consoles, and award-winning food, Big Strike Lanes has something for everyone.
+1075. *(Test 8 · Part 7)* I have many happy memories of good times there.
+1076. *(Test 8 · Part 7)* My only criticism of the place is the location.
+1077. *(Test 8 · Part 7)* Mayor Tremblay called the meeting to order at 6:30 P.M.
+1078. *(Test 8 · Part 7)* All members were present.
+1079. *(Test 8 · Part 7)* The council approved a resolution to earmark $1.5 million for costs related to establishing Winglite Airlines service at the Arlford Regional Airport.
+1080. *(Test 8 · Part 7)* The resolution, authorising an adjustment to the Airport Operating Fund, was passed by a vote of 7–0.
+1081. *(Test 8 · Part 7)* Winglite Airlines and the city will bear some costs equally.
+1082. *(Test 8 · Part 7)* Costs to be split include recruitment and training of additional security and emergency services workers.
+1083. *(Test 8 · Part 7)* Other expenses will be covered 100 percent by the city of Arlford.
+1084. *(Test 8 · Part 7)* Chief among these is the construction of another lane on Aviation Boulevard to accommodate the expected increase in airport traffic.
+1085. *(Test 8 · Part 7)* The meeting was adjourned at 7:25 P.M.
+1086. *(Test 8 · Part 7)* ARLFORD (18 March)—Darwin-based carrier Winglite Airlines has announced plans to begin nonstop daily flights between Arlford Regional Airport and Cranton.
+1087. *(Test 8 · Part 7)* According to Ms. Grewal, the airline has scheduled its inaugural flight from Arlford Regional Airport for 1 August.
+1088. *(Test 8 · Part 7)* Initially, Winglite will offer two daily flights to Cranton.
+1089. *(Test 8 · Part 7)* Additional destinations are being considered for the future, including Eider Bay and West Linport.
+1090. *(Test 8 · Part 7)* A decision regarding added routes is expected by 31 December.
+1091. *(Test 8 · Part 7)* At $850, including utilities, the monthly rent is just within my budget.
+1092. *(Test 8 · Part 7)* I work as a flight attendant with Winglite Airlines.
+1093. *(Test 8 · Part 7)* I will be in Arlford only half the time and will stay in a hotel near my destination airport for the rest of the week.
+1094. *(Test 8 · Part 7)* I took the forklift training class for recertification for my job at Able Industries last month.
+1095. *(Test 8 · Part 7)* The trainer, Ms. Gogh, was excellent.
+1096. *(Test 8 · Part 7)* I have a proposal for you.
+1097. *(Test 8 · Part 7)* You could also give them away after a show.
+1098. *(Test 8 · Part 7)* Our stickers are waterproof and resist fading.
+1099. *(Test 8 · Part 7)* They last a long time and will adhere to any surface.
+1100. *(Test 8 · Part 7)* You can choose from hundreds of templates or upload your own artwork.
+1101. *(Test 8 · Part 7)* Matt Grimm and the other band members love the stickers, which are selling very well.
+1102. *(Test 8 · Part 7)* They received the most comments on the group collage.
+1103. *(Test 8 · Part 7 – câu hỏi)* According to the e-mail, what should staff members do by February 16?
+1104. *(Test 8 · Part 7 – câu hỏi)* What is the purpose of the flyer?
+1105. *(Test 8 · Part 7 – câu hỏi)* What information is NOT included in the flyer?
+1106. *(Test 8 · Part 7 – câu hỏi)* What is most likely true about Ms. Trujillo?
+1107. *(Test 8 · Part 7 – câu hỏi)* What is NOT indicated about the Westover Zoo?
+1108. *(Test 8 · Part 7 – câu hỏi)* What is mentioned about transportation in the notice?
+1109. *(Test 8 · Part 7 – câu hỏi)* What is suggested about the town of Hillsdale?
+1110. *(Test 8 · Part 7 – câu hỏi)* What is indicated about the proposed commercial area?
+1111. *(Test 8 · Part 7 – câu hỏi)* What is NOT listed as a potential benefit?
+1112. *(Test 8 · Part 7 – câu hỏi)* According to the policy, what is considered a personal item?
+1113. *(Test 8 · Part 7 – câu hỏi)* What is indicated about carry-on items?
+1114. *(Test 8 · Part 7 – câu hỏi)* What is indicated about the staff event?
+1115. *(Test 8 · Part 7 – câu hỏi)* What do the event's three competitions have in common?
+1116. *(Test 8 · Part 7 – câu hỏi)* Why does the invitation mention Mr. Baxter?
+1117. *(Test 8 · Part 7 – câu hỏi)* What most likely is Z-Hype?
+1118. *(Test 8 · Part 7 – câu hỏi)* What information is included with the contract?
+1119. *(Test 8 · Part 7 – câu hỏi)* What is indicated about an event cancellation?
+1120. *(Test 8 · Part 7 – câu hỏi)* Why does Mr. Tennison want to make a video?
+1121. *(Test 8 · Part 7 – câu hỏi)* Why did Ms. Mehta not respond to an e-mail?
+1122. *(Test 8 · Part 7 – câu hỏi)* What is Mr. Maalim most famous for doing?
+1123. *(Test 8 · Part 7 – câu hỏi)* What does the advertisement indicate about Ms. Mackay?
+1124. *(Test 8 · Part 7 – câu hỏi)* In the advertisement, the word "accessible" in paragraph 2, line 4, is closest in meaning to
+1125. *(Test 8 · Part 7 – câu hỏi)* How most likely did Ms. Lugo know Mr. Maalim?
+1126. *(Test 8 · Part 7 – câu hỏi)* What can customers do at Big Strike Lanes?
+1127. *(Test 8 · Part 7 – câu hỏi)* According to the advertisement, what will happen on May 31?
+1128. *(Test 8 · Part 7 – câu hỏi)* What does Ms. Shaw suggest in her review?
+1129. *(Test 8 · Part 7 – câu hỏi)* How much did Ms. Shaw pay for entertainment activities?
+1130. *(Test 8 · Part 7 – câu hỏi)* In the review, the word "situated" in paragraph 3, line 2, is closest in meaning to
+1131. *(Test 8 · Part 7 – câu hỏi)* What does the article indicate about Winglite Airlines?
+1132. *(Test 8 · Part 7 – câu hỏi)* When should the Aviation Boulevard project be completed?
+1133. *(Test 8 · Part 7 – câu hỏi)* What is indicated about Forklift Training Academy courses?
+1134. *(Test 8 · Part 7 – câu hỏi)* What is suggested about Mr. Durand?
+1135. *(Test 8 · Part 7 – câu hỏi)* Who taught the course on April 14?
+1136. *(Test 8 · Part 7 – câu hỏi)* When did Ms. Dye take her course?
+1137. *(Test 8 · Part 7 – câu hỏi)* What can be concluded about Ms. Dye?
+1138. *(Test 8 · Part 7 – câu hỏi)* What can be concluded about Nick Beats' most popular sticker?
+1139. *(Test 8 · Part 7 – câu hỏi)* What is most likely true about Mr. Cheung?
+1140. *(Test 8 · Part 7 – câu hỏi)* What is indicated about the sticker ordered by Ms. Bledstone?
+1141. *(Test 9 · Part 5)* The main entrance to our office building will be closed on Tuesday because of construction.
+1142. *(Test 9 · Part 5)* The Lofstrom Shopping Center is seeking new tenants to rent vacant retail space.
+1143. *(Test 9 · Part 5)* Any document marked "Confidential" must be handled and stored carefully.
+1144. *(Test 9 · Part 5)* The new technology allows trains to switch quickly between electric and diesel modes.
+1145. *(Test 9 · Part 5)* The company picnic at Floral Park will begin at noon on Saturday and end around 4:00 P.M.
+1146. *(Test 9 · Part 5)* Last Monday, the department celebrated Mr. Okada's recent promotion to manager.
+1147. *(Test 9 · Part 5)* Ms. Xuan's proposal for reducing the company's energy consumption is worth considering.
+1148. *(Test 9 · Part 5)* Dr. Grayston enthusiastically accepted the position of school superintendent.
+1149. *(Test 9 · Part 5)* Austina Gallery is located at the northern end of Arch Street, opposite the Verdigris Bistro.
+1150. *(Test 9 · Part 5)* Once considered a specialty product, shoes made from recycled materials are now widely available.
+1151. *(Test 9 · Part 5)* Yuping University has formed partnerships with local businesses to create internship opportunities for its students.
+1152. *(Test 9 · Part 5)* Something is preventing the graphic artists from accessing the image files in the main database.
+1153. *(Test 9 · Part 5)* Despite a delay, Thaintech completed the renovation of its warehouse before the target date of April 7.
+1154. *(Test 9 · Part 5)* Nearly half of the toy manufacturers surveyed reported increased sales over the last two years.
+1155. *(Test 9 · Part 5)* Nonprofit groups may submit up to three applications for funding consideration during any given calendar year.
+1156. *(Test 9 · Part 5)* Critics reacted favorably to the new musical, praising the exciting design and impressive choreography.
+1157. *(Test 9 · Part 5)* Clausen's Notes is well-known among writers and publishers for its in-depth reviews of books.
+1158. *(Test 9 · Part 5)* The ongoing shortage of hardwood has caused the price of certain furniture items to soar.
+1159. *(Test 9 · Part 5)* In addition to fresh fruit and vegetables, vendors at the Wattville Farm Market also sell various handmade goods.
+1160. *(Test 9 · Part 6)* Retro Crafters focuses on furniture designs from the 1950s through the 1970s.
+1161. *(Test 9 · Part 6)* Our products are crafted to highlight the beauty of natural wood.
+1162. *(Test 9 · Part 6)* To us, small knots, tiny nicks, and color variations are not imperfections.
+1163. *(Test 9 · Part 6)* Our latest collection features a wall-mounted oak shelving system with narrow rails.
+1164. *(Test 9 · Part 6)* The rails can support shelves, cabinets, drawers, and even a desktop to create a customizable system.
+1165. *(Test 9 · Part 6)* Moreover, the wall-mounted design frees up floor space.
+1166. *(Test 9 · Part 6)* Our products are carried by furniture retailers in many urban centers around the country.
+1167. *(Test 9 · Part 6)* Furniture stores interested in offering our products should contact Nya Fernaut, sales director.
+1168. *(Test 9 · Part 6)* components are completely cooled down.
+1169. *(Test 9 · Part 6)* I took extensive notes 139.
+1170. *(Test 9 · Part 6)* I have attached five sketches for you.
+1171. *(Test 9 · Part 6)* I look forward to finalizing the design with you.
+1172. *(Test 9 · Part 6)* LONDON (2 June)—Locke and Jeeves, the owner of Fernsby Shoes and Athletic Footwear, announced today the acquisition of Shipley Designs for an undisclosed amount.
+1173. *(Test 9 · Part 6)* Five of the six Shipley stores will be part of the Locke and Jeeves deal, including the flagship store here in London.
+1174. *(Test 9 · Part 6)* Locke and Jeeves CEO Zachary Thayne has expressed enthusiasm about the deal.
+1175. *(Test 9 · Part 7)* After six months of inactivity, user accounts are automatically closed.
+1176. *(Test 9 · Part 7)* I have a furnace service appointment scheduled this morning.
+1177. *(Test 9 · Part 7)* My notes say 9:00 to 11:00 A.M. today.
+1178. *(Test 9 · Part 7)* I took time off from work.
+1179. *(Test 9 · Part 7)* I am sorry for any miscommunication.
+1180. *(Test 9 · Part 7)* A technician will be there later today.
+1181. *(Test 9 · Part 7)* But I need to get to the office soon.
+1182. *(Test 9 · Part 7)* I reached your technician.
+1183. *(Test 9 · Part 7)* She is finishing a job now and can be there within the hour.
+1184. *(Test 9 · Part 7)* You will receive a response as soon as possible but no later than Monday, May 8.
+1185. *(Test 9 · Part 7)* SYDNEY (21 March)—Electronics giant Teleteknic announced that it is launching three new models of its popular smartphone: the Strato, the Alto, and the Cirro.
+1186. *(Test 9 · Part 7)* The Cirro model also includes an electronic stylus for writing or drawing on the screen.
+1187. *(Test 9 · Part 7)* Most of the changes from Teleteknic's previous phone models are minor.
+1188. *(Test 9 · Part 7)* However, users will be impressed by a significant improvement to the camera.
+1189. *(Test 9 · Part 7)* All new models include an upgraded camera with advanced zoom features and automatic focus.
+1190. *(Test 9 · Part 7)* It also allows users to take better photos in lower light conditions.
+1191. *(Test 9 · Part 7)* Preorders are now being accepted at Teleteknic's online shop.
+1192. *(Test 9 · Part 7)* The new phones are expected to be on store shelves in November.
+1193. *(Test 9 · Part 7)* I am a documentary filmmaker working to tell the story of how Tottenton evolved from a decaying industrial town into a hub for environmentally responsible building initiatives and sustainable architectural design.
+1194. *(Test 9 · Part 7)* Personal statements are brief pieces of writing that showcase a job applicant's most notable talents, accomplishments, and qualities.
+1195. *(Test 9 · Part 7)* Therefore, when you are composing a personal statement, it is important to be thoughtful about issues such as word choice and tone.
+1196. *(Test 9 · Part 7)* One page is generally considered the maximum length.
+1197. *(Test 9 · Part 7)* This can be an effective way of demonstrating to a prospective employer your ability to overcome challenges.
+1198. *(Test 9 · Part 7)* It is also a good idea to give examples of how you work with or learn from others.
+1199. *(Test 9 · Part 7)* Karl, I am on-site at the Crosley Bridge now.
+1200. *(Test 9 · Part 7)* What do you think?
+1201. *(Test 9 · Part 7)* I still need to take pictures and finish the routine inspection.
+1202. *(Test 9 · Part 7)* Would it be possible for you to be back here for a 12:30 lunch meeting?
+1203. *(Test 9 · Part 7)* At that point, I will send you the applications with their respective résumés and a timeline for the hiring process.
+1204. *(Test 9 · Part 7)* For your time and effort, we will compensate you at the standard rate for external consultants.
+1205. *(Test 9 · Part 7)* DERRY (April 7)—The Regional History Museum (RHM) has upgraded many of its exhibits to include interactive technologies.
+1206. *(Test 9 · Part 7)* According to RHM director Ann Wert, interactive technology allows exhibits to present information and engage users through various audio and visual media.
+1207. *(Test 9 · Part 7)* “The changes reflect their wishes and ideas.”
+1208. *(Test 9 · Part 7)* The improved RHM exhibits also give the user control over the experience.
+1209. *(Test 9 · Part 7)* A touchscreen allows visitors to communicate electronically with an exhibit's unique database and target their interests.
+1210. *(Test 9 · Part 7)* Guide maps of the district are available in the museum's lobby.
+1211. *(Test 9 · Part 7)* Superra Cleaning is the leading provider of residential cleaning services in the Elmwood Valley region.
+1212. *(Test 9 · Part 7)* We have built our reputation on our thorough weekly, biweekly, and monthly house cleaning packages.
+1213. *(Test 9 · Part 7)* However, customers may not be familiar with our intensive special cleaning services.
+1214. *(Test 9 · Part 7)* These services require no long-term contract and are priced affordably.
+1215. *(Test 9 · Part 7)* A supervisor will oversee a three-person cleaning team to ensure your home is sparkling clean.
+1216. *(Test 9 · Part 7)* Under the guidance of a supervisor, a two-person team will handle all the necessary dusting and scrubbing.
+1217. *(Test 9 · Part 7)* Prices for each special service vary based on the size of the space.
+1218. *(Test 9 · Part 7)* The crew arrived on time and worked hard throughout the afternoon.
+1219. *(Test 9 · Part 7)* They did not mind the late notice.
+1220. *(Test 9 · Part 7)* The crew even swept off my front porch after cleaning my home's interior.
+1221. *(Test 9 · Part 7)* I would like to bring in some of my old books and use the shop credit to buy books for my six-year-old son.
+1222. *(Test 9 · Part 7)* May I stop in next Tuesday or Wednesday?
+1223. *(Test 9 · Part 7)* Mr. Rein is a graduate of Northburg University and has worked at Zelehost, Inc., and Dorfax Industries.
+1224. *(Test 9 · Part 7)* Mr. Rein will fulfill the role of an assistant manufacturing supervisor in our Large Appliance Division.
+1225. *(Test 9 · Part 7)* This will allow him to learn more about the various departments he will eventually be interacting with.
+1226. *(Test 9 · Part 7)* PRETORIA (22 March)—Blue Lapis, a producer of industrial videos, announced today that it is now contracting with two drone pilots to provide the company's clients with aerial videography.
+1227. *(Test 9 · Part 7)* “Whether for marketing, progress reporting, training, or something else, we offer our clients high-resolution videos from the sky.
+1228. *(Test 9 · Part 7)* The prices include basic editing in the Blue Lapis studio.
+1229. *(Test 9 · Part 7)* Piloting a drone for commercial use requires certification as a precondition of employment.
+1230. *(Test 9 · Part 7)* You should receive your certification card within ten business days.
+1231. *(Test 9 · Part 7)* The client requests a drone flight over the entire length of the highway demonstrating the scale of the project, hovering over the section currently under construction, and zooming in to capture action shots of the work.
+1232. *(Test 9 · Part 7)* Contact Ms. Shabanguo to review the flight plan and discuss other areas of focus along the highway.
+1233. *(Test 9 · Part 7)* Lunskip Construction is a long-time customer with high expectations.
+1234. *(Test 9 · Part 7 – câu hỏi)* What is the purpose of the event?
+1235. *(Test 9 · Part 7 – câu hỏi)* According to the invitation, what will happen at the event?
+1236. *(Test 9 · Part 7 – câu hỏi)* What is most likely true about Mr. Hong's account?
+1237. *(Test 9 · Part 7 – câu hỏi)* What must Mr. Hong do to maintain access to his account?
+1238. *(Test 9 · Part 7 – câu hỏi)* Why does Mr. Dakers contact HVAC Customer Service?
+1239. *(Test 9 · Part 7 – câu hỏi)* The word "ordinarily" in paragraph 1, line 1, is closest in meaning to
+1240. *(Test 9 · Part 7 – câu hỏi)* What is indicated about Bellerson Financial?
+1241. *(Test 9 · Part 7 – câu hỏi)* What is the deadline for requesting vacation time?
+1242. *(Test 9 · Part 7 – câu hỏi)* How does the Cirro model differ from the other new phone models?
+1243. *(Test 9 · Part 7 – câu hỏi)* What feature of the phones has had the greatest improvement?
+1244. *(Test 9 · Part 7 – câu hỏi)* Where can customers currently order the new phones?
+1245. *(Test 9 · Part 7 – câu hỏi)* What is Ms. Finley's film project about?
+1246. *(Test 9 · Part 7 – câu hỏi)* What does Ms. Finley want people to do?
+1247. *(Test 9 · Part 7 – câu hỏi)* For whom are the instructions most likely intended?
+1248. *(Test 9 · Part 7 – câu hỏi)* What is NOT mentioned as something to be considered when writing a personal statement?
+1249. *(Test 9 · Part 7 – câu hỏi)* What can be concluded about the final paragraph of a personal statement?
+1250. *(Test 9 · Part 7 – câu hỏi)* What is the main purpose of the text-message chain?
+1251. *(Test 9 · Part 7 – câu hỏi)* Where is Ms. Jeon at the time of the text-message chain?
+1252. *(Test 9 · Part 7 – câu hỏi)* What can be concluded about Mr. Scholz?
+1253. *(Test 9 · Part 7 – câu hỏi)* What is indicated about Mr. Fukiyama?
+1254. *(Test 9 · Part 7 – câu hỏi)* What does Ms. Acro offer to send to Mr. Fukiyama?
+1255. *(Test 9 · Part 7 – câu hỏi)* What is indicated in the article about the upgrades to exhibits?
+1256. *(Test 9 · Part 7 – câu hỏi)* What is suggested about Ms. Wert?
+1257. *(Test 9 · Part 7 – câu hỏi)* What does Ms. Wert encourage museum visitors to do?
+1258. *(Test 9 · Part 7 – câu hỏi)* What do the vendors in booths 101 and 103 have in common?
+1259. *(Test 9 · Part 7 – câu hỏi)* What is mentioned about Franny's Sensational Scents?
+1260. *(Test 9 · Part 7 – câu hỏi)* Where did Ms. McFarlan most likely purchase an item at the festival?
+1261. *(Test 9 · Part 7 – câu hỏi)* What is suggested about Ms. McFarlan's workplace?
+1262. *(Test 9 · Part 7 – câu hỏi)* What is suggested about Superra Cleaning?
+1263. *(Test 9 · Part 7 – câu hỏi)* According to the Web page, what do the special services have in common?
+1264. *(Test 9 · Part 7 – câu hỏi)* What did Superra Cleaning do recently?
+1265. *(Test 9 · Part 7 – câu hỏi)* What is most likely true about Mr. Singh?
+1266. *(Test 9 · Part 7 – câu hỏi)* In the online review, the word "just" in paragraph 2, line 2, is closest in meaning to
+1267. *(Test 9 · Part 7 – câu hỏi)* What is the purpose of the Web page?
+1268. *(Test 9 · Part 7 – câu hỏi)* What does the Web page suggest about Mr. Wu?
+1269. *(Test 9 · Part 7 – câu hỏi)* What does Mr. Townsend indicate in the e-mail?
+1270. *(Test 9 · Part 7 – câu hỏi)* When most likely will Mr. Townsend visit Beachside Used Books?
+1271. *(Test 9 · Part 7 – câu hỏi)* Why did Ms. Seung write the e-mail?
+1272. *(Test 9 · Part 7 – câu hỏi)* Who most likely is Mr. Aurinen?
+1273. *(Test 9 · Part 7 – câu hỏi)* Who will be Mr. Rein's director?
+1274. *(Test 9 · Part 7 – câu hỏi)* What is suggested by the contact list?
+1275. *(Test 9 · Part 7 – câu hỏi)* What is suggested about Mr. Hillman?
+1276. *(Test 9 · Part 7 – câu hỏi)* What is mentioned in the article about Blue Lapis?
+1277. *(Test 9 · Part 7 – câu hỏi)* According to the work order, why did Lunsklip Construction request a video?
+1278. *(Test 9 · Part 7 – câu hỏi)* What can be concluded about Ms. Rowley?
+1279. *(Test 9 · Part 7 – câu hỏi)* What is most likely true about Lunsklip Construction?
+1280. *(Test 10 · Part 5)* Sophia Hollinger was commended for her work on the Kala account.
+1281. *(Test 10 · Part 5)* Last summer, jazz musician Jay Deswani performed on the main concert stage at Waterfront Park.
+1282. *(Test 10 · Part 5)* The purchasing department ordered six additional cases of ink toner.
+1283. *(Test 10 · Part 5)* The minutes of last week's board meeting had only three minor errors.
+1284. *(Test 10 · Part 5)* The majority of the company's employees commute to work by train.
+1285. *(Test 10 · Part 5)* Line 73 is the oldest continuously operating bus line in Raymo City's history.
+1286. *(Test 10 · Part 5)* This message is a reminder to pick up your package at your local post office as soon as possible.
+1287. *(Test 10 · Part 5)* Carter Department Store allows customers to place items on hold for up to 24 hours.
+1288. *(Test 10 · Part 5)* Using unique colors and styles, the decor experts at Mamie's Interiors bring a fashionable look to homes.
+1289. *(Test 10 · Part 5)* Because of efficient project management, Sparkware's latest software program was released on time.
+1290. *(Test 10 · Part 5)* The summer line of outdoor furniture will be available at select stores as early as February.
+1291. *(Test 10 · Part 5)* There has been a noticeable decrease in requests for customer support this quarter.
+1292. *(Test 10 · Part 5)* Owing to the weather, we need to reschedule your appointment for tree removal service.
+1293. *(Test 10 · Part 5)* It will require a coordinated effort between the two countries to complete the railway line.
+1294. *(Test 10 · Part 5)* According to the restaurant's policy, guests must wait to be seated by the front-of-house staff.
+1295. *(Test 10 · Part 5)* Given Latoya Model Management's sound reputation, aspiring models can expect a flourishing career.
+1296. *(Test 10 · Part 5)* Glistonford Manufacturing cautions consumers not to buy inferior imitations of its adjustable desks.
+1297. *(Test 10 · Part 5)* Citing energy efficiency and cost reductions, the presenter made several convincing arguments for installing solar panels.
+1298. *(Test 10 · Part 5)* After leaving his official government role, Dr. Beasly was named Director of the Nanboro Youth Farming Program.
+1299. *(Test 10 · Part 6)* Beginning 1 April, Windquest Farms will use Flexmerge crates to transport our fruits and vegetables.
+1300. *(Test 10 · Part 6)* They are also highly durable.
+1301. *(Test 10 · Part 6)* Safety is our top priority here at Windquest Farms.
+1302. *(Test 10 · Part 6)* This political thriller is based on the book Whispered Illusions by Noriaki Arishima. 135.
+1303. *(Test 10 · Part 6)* Director Amber Randolph has responded to that criticism.
+1304. *(Test 10 · Part 6)* But they bring greater depth to the narrative.
+1305. *(Test 10 · Part 6)* It has been entered into our upcoming contest.
+1306. *(Test 10 · Part 6)* The winning recipes will appear on our product's packaging.
+1307. *(Test 10 · Part 6)* Contest winners will be notified in June.
+1308. *(Test 10 · Part 6)* Bingo Imprint creates designs for promotional products such as notebooks, refrigerator magnets, and apparel.
+1309. *(Test 10 · Part 6)* We allow our clients to determine their level of involvement in the design process.
+1310. *(Test 10 · Part 6)* perfectly, some submit a detailed sketch of the design.
+1311. *(Test 10 · Part 7)* This includes topsoil, compost, gravel, bark dust, firewood, and planting mixes.
+1312. *(Test 10 · Part 7)* For your convenience, we offer large- and small-volume deliveries Monday through Saturday.
+1313. *(Test 10 · Part 7)* Delivery rates vary based on volume, product, and location.
+1314. *(Test 10 · Part 7)* You do not need to be home for delivery.
+1315. *(Test 10 · Part 7)* Can you give me 45 minutes or so?
+1316. *(Test 10 · Part 7)* I'm in the middle of my monthly performance update.
+1317. *(Test 10 · Part 7)* I'll double-check the cost data in the meantime.
+1318. *(Test 10 · Part 7)* Those estimates can be tricky!
+1319. *(Test 10 · Part 7)* Can I stop by your office at 2:30?
+1320. *(Test 10 · Part 7)* You can ignore those.
+1321. *(Test 10 · Part 7)* "Otherwise it is hard to keep track of all the changes."
+1322. *(Test 10 · Part 7)* I am writing to you to share the exciting news that Aqua Voyage Cruise Lines will be expanding its fleet next July.
+1323. *(Test 10 · Part 7)* As part of our plan, we would welcome the opportunity to form a partnership with you.
+1324. *(Test 10 · Part 7)* You have established a solid reputation regarding your restaurant chain, Saffron Moon.
+1325. *(Test 10 · Part 7)* There are several benefits of entering into a partnership with us.
+1326. *(Test 10 · Part 7)* Aqua Voyage Cruise Lines will mention your top-rated chain in our brochures and feature it on our Web site.
+1327. *(Test 10 · Part 7)* Through our network of suppliers, we can help negotiate exceptionally low rates for recipe ingredients and restaurant equipment, thereby reducing your expenses.
+1328. *(Test 10 · Part 7)* To qualify for the award, hospitals must meet a set of criteria, including timely access to care, superior medical outcomes, extensive staff training, and exceptional patient satisfaction.
+1329. *(Test 10 · Part 7)* “Congratulations to KMC’s board of directors, management, and staff,” said Lee Cinder, president of the Valorcare Foundation.
+1330. *(Test 10 · Part 7)* Jamie Kerr asked me to fill in for him.
+1331. *(Test 10 · Part 7)* But no one has been here since 2:30.
+1332. *(Test 10 · Part 7)* Can I close the pool now?
+1333. *(Test 10 · Part 7)* I'm in the equipment shed.
+1334. *(Test 10 · Part 7)* I've been cleaning it up and straightening up the pool supplies here.
+1335. *(Test 10 · Part 7)* Founded over twenty years ago, Sagemont Services began as a start-up competing with larger businesses in a crowded field.
+1336. *(Test 10 · Part 7)* Subsequently, we have become a leader in the industry.
+1337. *(Test 10 · Part 7)* For example, with the online retailer Clothing Discounters rapidly expanding, we assisted the company in increasing its call-center capability.
+1338. *(Test 10 · Part 7)* “This solution eliminated the possibility of business disruption.”
+1339. *(Test 10 · Part 7)* Her new exhibition, Throwaways into Treasure, runs from today until November 4 at the Maurely City Art Center (MCAC).
+1340. *(Test 10 · Part 7)* Ms. Alonso had the idea for the project while reading about recycled plastic being made into park benches in the Journal for Professional Landscape Architects.
+1341. *(Test 10 · Part 7)* She then began to collect old plastic bottles and cardboard shipping boxes and innovatively combined them with commercially made, recyclable building materials.
+1342. *(Test 10 · Part 7)* For the exhibition, Ms. Alonso has created a life-size imitation of commercial offices, with cubicles and partitions made from recovered materials.
+1343. *(Test 10 · Part 7)* MCAC is open daily from 10:00 A.M. to 5:00 P.M. Admission to the art center is free.
+1344. *(Test 10 · Part 7)* TORONTO (3 July)—Consumer analysis giant Exelrate will soon begin construction of its new headquarters in Toronto.
+1345. *(Test 10 · Part 7)* Many well-known businesses use Exelrate's services to obtain an accurate understanding of their customers' experiences.
+1346. *(Test 10 · Part 7)* The company's entry into North American markets is a promising sign of expected growth in the coming years.
+1347. *(Test 10 · Part 7)* Exelrate's building will feature a ground-level courtyard with seating areas for public use, symbolising its insertion into the community.
+1348. *(Test 10 · Part 7)* The establishment of companies like Exelrate will help cement Toronto's fame as a centre for data and management consulting.
+1349. *(Test 10 · Part 7)* Every Monday evening from 7:00 P.M. to 8:30 P.M. we turn our kitchen over to a guest chef from one of Richmond's many fine restaurants.
+1350. *(Test 10 · Part 7)* Participants learn to prepare a different dish each week.
+1351. *(Test 10 · Part 7)* The fee for each class is $55.00.
+1352. *(Test 10 · Part 7)* There is a limit of 15 students per class.
+1353. *(Test 10 · Part 7)* Last week I learned how to prepare fish tacos with Mateo Bernal, head chef at Bernal's Restaurant.
+1354. *(Test 10 · Part 7)* We made every component of the tacos from scratch, including the corn tortillas, grilled tilapia, and tomatillo salsa.
+1355. *(Test 10 · Part 7)* Her innovations in treating eye diseases have benefited thousands of patients worldwide.
+1356. *(Test 10 · Part 7)* On April 17, Dr. Robbins will be in Berlin to receive the Kramer Medal for Medical Excellence at this year's conference of the International Center for Vision Advancement.
+1357. *(Test 10 · Part 7)* Your insights into recent advancements in eye-surgery techniques captured the attention of everyone in the room.
+1358. *(Test 10 · Part 7)* To take advantage of either option, e-mail us at programs@freewheeloasis.com to schedule an appointment.
+1359. *(Test 10 · Part 7)* You will receive a response from our customer service manager.
+1360. *(Test 10 · Part 7)* However, I only used it for the first three years.
+1361. *(Test 10 · Part 7)* Therefore, I would like to schedule an appointment.
+1362. *(Test 10 · Part 7)* Also, I recently accepted a job in Kuwait and will be leaving on November 30.
+1363. *(Test 10 · Part 7)* If not, how can I receive my portion of the selling price?
+1364. *(Test 10 · Part 7)* The season is just beginning.
+1365. *(Test 10 · Part 7)* It’s an opportunity to interact with your coworkers in an informal, nonworking environment.
+1366. *(Test 10 · Part 7)* I am excited about starting work.
+1367. *(Test 10 · Part 7)* I am about to gather the necessary information for the fourth item on the list.
+1368. *(Test 10 · Part 7)* I will bring everything to the office on Monday.
+1369. *(Test 10 · Part 7)* I'll have to think about whether I want to join the company softball team.
+1370. *(Test 10 · Part 7)* How much of a time commitment is it?
+1371. *(Test 10 · Part 7)* I played softball in college.
+1372. *(Test 10 · Part 7)* The company picnic sounds like fun.
+1373. *(Test 10 · Part 7)* I love Briarwood Park and look forward to the opportunity to get to know my coworkers better.
+1374. *(Test 10 · Part 7)* Or is the food being provided by a caterer?
+1375. *(Test 10 · Part 7 – câu hỏi)* What type of building did Crystal Brothers clean?
+1376. *(Test 10 · Part 7 – câu hỏi)* What is true about Hampton Landscaping?
+1377. *(Test 10 · Part 7 – câu hỏi)* In what situation would a customer be billed $50?
+1378. *(Test 10 · Part 7 – câu hỏi)* What will Ms. Fisk most likely do next?
+1379. *(Test 10 · Part 7 – câu hỏi)* What do both trips have in common?
+1380. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Lombardo ask Mr. Garza to do?
+1381. *(Test 10 · Part 7 – câu hỏi)* What is suggested about Ms. Yamaguchi?
+1382. *(Test 10 · Part 7 – câu hỏi)* The word "solid" in paragraph 2, line 1, is closest in meaning to
+1383. *(Test 10 · Part 7 – câu hỏi)* What is NOT mentioned as a benefit of the proposed partnership?
+1384. *(Test 10 · Part 7 – câu hỏi)* What is NOT indicated about KMC?
+1385. *(Test 10 · Part 7 – câu hỏi)* What can be concluded about Ms. Balog?
+1386. *(Test 10 · Part 7 – câu hỏi)* Why does Ms. Balog want to close the pool early?
+1387. *(Test 10 · Part 7 – câu hỏi)* What is implied about Rosemoor Park?
+1388. *(Test 10 · Part 7 – câu hỏi)* According to the Web page, what has Sagemont Services done recently?
+1389. *(Test 10 · Part 7 – câu hỏi)* What is indicated about Clothing Discounters?
+1390. *(Test 10 · Part 7 – câu hỏi)* What is indicated about Ms. Alonso?
+1391. *(Test 10 · Part 7 – câu hỏi)* What will happen on November 4?
+1392. *(Test 10 · Part 7 – câu hỏi)* According to the article, what will visitors to Ms. Alonso's exhibition be able to do?
+1393. *(Test 10 · Part 7 – câu hỏi)* What is indicated about MCAC?
+1394. *(Test 10 · Part 7 – câu hỏi)* What does the table indicate about customers' satisfaction with their overall experience?
+1395. *(Test 10 · Part 7 – câu hỏi)* What is suggested about Exelrate?
+1396. *(Test 10 · Part 7 – câu hỏi)* In the article, the word "directing" in paragraph 1, line 10, is closest in meaning to
+1397. *(Test 10 · Part 7 – câu hỏi)* Where was Ms. Akdemir's supervisor based in July?
+1398. *(Test 10 · Part 7 – câu hỏi)* What is Mr. Tsudama's area of expertise?
+1399. *(Test 10 · Part 7 – câu hỏi)* For whom is the notice most likely intended?
+1400. *(Test 10 · Part 7 – câu hỏi)* What is indicated in the notice about August's cooking classes at Richmond Supermarket?
+1401. *(Test 10 · Part 7 – câu hỏi)* When most likely did Ms. Klein participate in a Richmond Supermarket cooking class?
+1402. *(Test 10 · Part 7 – câu hỏi)* What ingredient is NOT mentioned in the review?
+1403. *(Test 10 · Part 7 – câu hỏi)* What is indicated about Dr. Robbins in the article?
+1404. *(Test 10 · Part 7 – câu hỏi)* Where did Dr. Robbins complete her postdoctoral residency?
+1405. *(Test 10 · Part 7 – câu hỏi)* Where most likely did Dr. Robbins receive the Kramer Medal?
+1406. *(Test 10 · Part 7 – câu hỏi)* Why did Ms. Raskin send the e-mail to Dr. Sohn?
+1407. *(Test 10 · Part 7 – câu hỏi)* When did Dr. Sohn most likely make a speech on April 17?
+1408. *(Test 10 · Part 7 – câu hỏi)* According to the Web page, what is suggested about Freewheel Oasis?
+1409. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Johnson indicate in her e-mail?
+1410. *(Test 10 · Part 7 – câu hỏi)* What can be concluded about Ms. Johnson?
+1411. *(Test 10 · Part 7 – câu hỏi)* What is one purpose of Mr. Moran's e-mail?
+1412. *(Test 10 · Part 7 – câu hỏi)* Who most likely is Mr. Moran?
+1413. *(Test 10 · Part 7 – câu hỏi)* What is the main purpose of the first e-mail?
+1414. *(Test 10 · Part 7 – câu hỏi)* Why might Ms. Kuroda need to submit a release form?
+1415. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Kuroda indicate about a company picnic?
+1416. *(Test 10 · Part 7 – câu hỏi)* What will Ms. Kuroda most likely do next?
 
 **🎧 Listening**
 
@@ -1198,36 +2020,517 @@
 562. *(Test 6 · Listening)* Could you look at the revised logo tomorrow?
 563. *(Test 6 · Listening)* Is the business local or national?
 564. *(Test 6 · Listening)* Who will fill the open manager position?
-565. *(Test 6 · Listening – đáp án)* A restaurant buffet is filled with food.
-566. *(Test 6 · Listening – đáp án)* Cups are sitting in a sink.
-567. *(Test 6 · Listening – đáp án)* A dining area is empty.
-568. *(Test 6 · Listening – đáp án)* Some candles have been lit.
-569. *(Test 6 · Listening – đáp án)* He's lifting up a machine.
-570. *(Test 6 · Listening – đáp án)* A man is tying his shoe.
-571. *(Test 6 · Listening – đáp án)* A woman is looking through her purse.
-572. *(Test 6 · Listening – đáp án)* A woman is lifting a suitcase onto a counter.
-573. *(Test 6 · Listening – đáp án)* A woman is writing on a piece of paper.
-574. *(Test 6 · Listening – đáp án)* A woman is leaning against a glass door.
-575. *(Test 6 · Listening – đáp án)* A woman is talking to a worker at a desk.
-576. *(Test 6 · Listening – đáp án)* There are curtains framing a doorway.
-577. *(Test 6 · Listening – đáp án)* I finished that book.
-578. *(Test 6 · Listening – đáp án)* I can drive you there.
-579. *(Test 6 · Listening – đáp án)* No, it was just shipped yesterday.
-580. *(Test 6 · Listening – đáp án)* I parked the car by the tree.
-581. *(Test 6 · Listening – đáp án)* Carlos and I are.
-582. *(Test 6 · Listening – đáp án)* Yes, I printed them.
-583. *(Test 6 · Listening – đáp án)* Right now, there are five.
-584. *(Test 6 · Listening – đáp án)* Can you change the channel?
-585. *(Test 6 · Listening – đáp án)* There are three tables in the lobby.
-586. *(Test 6 · Listening – đáp án)* Actually, I prefer to walk.
-587. *(Test 6 · Listening – đáp án)* I'd rather have a window.
-588. *(Test 6 · Listening – đáp án)* Did you check their Web site?
-589. *(Test 6 · Listening – đáp án)* The score was tied.
-590. *(Test 6 · Listening – đáp án)* I have time now.
-591. *(Test 6 · Listening – đáp án)* We have stores in every province.
-592. *(Test 6 · Listening – đáp án)* No, I bought it last month.
-593. *(Test 6 · Listening – đáp án)* I conduct market research.
-594. *(Test 6 · Listening – đáp án)* Interviews will take place next week.
+565. *(Test 6 · Listening)* Shouldn't we update our security protocol?
+566. *(Test 6 · Listening)* How does the man plan to address a problem?
+567. *(Test 6 · Listening)* You really deserve the honor!
+568. *(Test 6 · Listening)* I'd be happy to help!
+569. *(Test 6 · Listening)* And by the way, will you be Of course!
+570. *(Test 6 · Listening)* I'm looking forward to it.
+571. *(Test 6 · Listening)* What does the man ask the woman to help with?
+572. *(Test 6 · Listening)* What will take place next week?
+573. *(Test 6 · Listening)* We just received several copies of that, but shelves.
+574. *(Test 6 · Listening)* Could you help me?
+575. *(Test 6 · Listening)* Why is the woman unable to help?
+576. *(Test 6 · Listening)* Why is an item unavailable?
+577. *(Test 6 · Listening)* Who most likely are the speakers?
+578. *(Test 6 · Listening)* I could be back in about an hour.
+579. *(Test 6 · Listening)* Does that sound OK?
+580. *(Test 6 · Listening)* What will the man send the woman a link to?
+581. *(Test 6 · Listening)* I need to switch my destination.
+582. *(Test 6 · Listening)* Belmack City has one of the cargo each day.
+583. *(Test 6 · Listening)* Goods from the ships are usually distributed throughout the region by train or by truck.
+584. *(Test 6 · Listening)* I'll need you to start working as soon as possible.
+585. *(Test 6 · Listening)* According to the speaker, how can the listeners use a new service?
+586. *(Test 6 · Listening)* Greenchester is home to some rich find out.
+587. *(Test 6 · Listening)* There'll be a special workshop where you in front of the historical society building.
+588. *(Test 6 · Listening)* As for festival, and it will take longer to drive.
+589. *(Test 6 · Listening)* What event is the speaker mainly discussing?
+590. *(Test 6 · Listening – đáp án)* A restaurant buffet is filled with food.
+591. *(Test 6 · Listening – đáp án)* Cups are sitting in a sink.
+592. *(Test 6 · Listening – đáp án)* A dining area is empty.
+593. *(Test 6 · Listening – đáp án)* Some candles have been lit.
+594. *(Test 6 · Listening – đáp án)* He's lifting up a machine.
+595. *(Test 6 · Listening – đáp án)* A man is tying his shoe.
+596. *(Test 6 · Listening – đáp án)* A woman is looking through her purse.
+597. *(Test 6 · Listening – đáp án)* A woman is lifting a suitcase onto a counter.
+598. *(Test 6 · Listening – đáp án)* A woman is writing on a piece of paper.
+599. *(Test 6 · Listening – đáp án)* A woman is leaning against a glass door.
+600. *(Test 6 · Listening – đáp án)* A woman is talking to a worker at a desk.
+601. *(Test 6 · Listening – đáp án)* There are curtains framing a doorway.
+602. *(Test 6 · Listening – đáp án)* I finished that book.
+603. *(Test 6 · Listening – đáp án)* I can drive you there.
+604. *(Test 6 · Listening – đáp án)* No, it was just shipped yesterday.
+605. *(Test 6 · Listening – đáp án)* I parked the car by the tree.
+606. *(Test 6 · Listening – đáp án)* Carlos and I are.
+607. *(Test 6 · Listening – đáp án)* Yes, I printed them.
+608. *(Test 6 · Listening – đáp án)* Right now, there are five.
+609. *(Test 6 · Listening – đáp án)* Can you change the channel?
+610. *(Test 6 · Listening – đáp án)* There are three tables in the lobby.
+611. *(Test 6 · Listening – đáp án)* Actually, I prefer to walk.
+612. *(Test 6 · Listening – đáp án)* I'd rather have a window.
+613. *(Test 6 · Listening – đáp án)* Did you check their Web site?
+614. *(Test 6 · Listening – đáp án)* The score was tied.
+615. *(Test 6 · Listening – đáp án)* I have time now.
+616. *(Test 6 · Listening – đáp án)* We have stores in every province.
+617. *(Test 6 · Listening – đáp án)* No, I bought it last month.
+618. *(Test 6 · Listening – đáp án)* I conduct market research.
+619. *(Test 6 · Listening – đáp án)* Interviews will take place next week.
+620. *(Test 6 · Listening – đáp án)* I'd like a refill on my coffee, please.
+621. *(Test 6 · Listening – đáp án)* The desk should be in the corner.
+622. *(Test 6 · Listening – đáp án)* There are none left.
+623. *(Test 6 · Listening – đáp án)* We have a good plan in place.
+624. *(Test 6 · Listening – đáp án)* That was a long baseball game.
+625. *(Test 6 · Listening – đáp án)* She is new to the job.
+626. *(Test 6 · Listening – đáp án)* She is busy with another task.
+627. *(Test 6 · Listening – đáp án)* She needs to attend a workshop.
+628. *(Test 6 · Listening – đáp án)* It is sold out.
+629. *(Test 6 · Listening – đáp án)* It has not been unpacked yet.
+630. *(Test 6 · Listening – đáp án)* A shipment has been lost.
+631. *(Test 6 · Listening – đáp án)* A repair has not been made yet.
+632. *(Test 6 · Listening – đáp án)* His train was late.
+633. *(Test 6 · Listening – đáp án)* His car was being repaired.
+634. *(Test 6 · Listening – đáp án)* He was meeting with some clients.
+635. *(Test 6 · Listening – đáp án)* He managed a trade show booth.
+636. *(Test 6 · Listening – đáp án)* He attended a company picnic.
+637. *(Test 6 · Listening – đáp án)* He participated in a research project.
+638. *(Test 6 · Listening – đáp án)* He met with overseas clients.
+639. *(Test 6 · Listening – đáp án)* Her job title has changed.
+640. *(Test 6 · Listening – đáp án)* Her colleague is unavailable.
+641. *(Test 6 · Listening – đáp án)* She has more experience than the man.
+642. *(Test 6 · Listening – đáp án)* An invoice contains an error.
+643. *(Test 6 · Listening – đáp án)* He would like to hire the listener.
+644. *(Test 6 · Listening – đáp án)* A company would not be good to work for.
+645. *(Test 6 · Listening – đáp án)* A salary offer is too low.
+646. *(Test 6 · Listening – đáp án)* Storage space is not affordable.
+647. *(Test 6 · Listening – đáp án)* Trained workers are difficult to find.
+648. *(Test 6 · Listening – đáp án)* There is a shortage of supplies.
+649. *(Test 6 · Listening – đáp án)* The listeners will introduce themselves.
+650. *(Test 6 · Listening – đáp án)* The speaker will give a demonstration.
+651. *(Test 6 · Listening – đáp án)* The speaker will lead a tour.
+652. *(Test 6 · Listening – đáp án)* A client will visit.
+653. *(Test 6 · Listening – đáp án)* An office will close early.
+654. *(Test 6 · Listening – đáp án)* She does not want employees to be late.
+655. *(Test 6 · Listening – đáp án)* Several employees are on vacation.
+656. *(Test 6 · Listening – đáp án)* A task will take longer than usual.
+657. *(Test 6 · Listening – đáp án)* She read one of his books.
+658. *(Test 6 · Listening – đáp án)* She saw his comment on a social media post.
+659. *(Test 6 · Listening – đáp án)* She watched a documentary about his work.
+660. *(Test 6 · Listening – câu hỏi)* What industry do the speakers work in?
+661. *(Test 6 · Listening – câu hỏi)* What good news does the woman mention?
+662. *(Test 6 · Listening – câu hỏi)* What are the women excited about?
+663. *(Test 6 · Listening – câu hỏi)* What will the man research?
+664. *(Test 6 · Listening – câu hỏi)* What did the man do last month?
+665. *(Test 6 · Listening – câu hỏi)* Why is the company hosting a banquet?
+666. *(Test 6 · Listening – câu hỏi)* What has the woman recently purchased?
+667. *(Test 6 · Listening – câu hỏi)* What does the man ask the woman to do?
+668. *(Test 6 · Listening – câu hỏi)* According to the speaker, what would be useful?
+669. *(Test 6 · Listening – câu hỏi)* What is the news segment about?
+670. *(Test 6 · Listening – câu hỏi)* What is the focus of the workshop?
+671. *(Test 6 · Listening – câu hỏi)* What will most likely happen next?
+672. *(Test 6 · Listening – câu hỏi)* What service does the company provide?
+673. *(Test 6 · Listening – câu hỏi)* What does the speaker say about Friday?
+674. *(Test 6 · Listening – câu hỏi)* Who visited the business yesterday?
+675. *(Test 6 · Listening – câu hỏi)* What type of service is being advertised?
+676. *(Test 6 · Listening – câu hỏi)* What does the speaker recommend?
+677. *(Test 7 · Listening)* Does the company pay for our hotel rooms?
+678. *(Test 7 · Listening)* How do I log on to this computer?
+679. *(Test 7 · Listening)* When does the property manager arrive?
+680. *(Test 7 · Listening)* When will the reception for the artists start?
+681. *(Test 7 · Listening)* How often should I submit my travel expenses?
+682. *(Test 7 · Listening)* Our print shop is going to have a sale on shirts.
+683. *(Test 7 · Listening)* Do you want anything?
+684. *(Test 7 · Listening)* What complaint does the man make?
+685. *(Test 7 · Listening)* It'll make a great addition to our summer menu.
+686. *(Test 7 · Listening)* Should I get in touch with our fruit and vegetable supplier?
+687. *(Test 7 · Listening)* That'd be more convenient.
+688. *(Test 7 · Listening)* How do I do that?
+689. *(Test 7 · Listening)* Do you actually work on set?
+690. *(Test 7 · Listening)* In fact, 481'll be in Egypt next week, sailing down the Nile River.
+691. *(Test 7 · Listening)* What is the woman's current job?
+692. *(Test 7 · Listening)* Do you two have any suggestions?
+693. *(Test 7 · Listening)* Maybe we could use a dolphin jumping out of the water.
+694. *(Test 7 · Listening)* Junko, what do you think?
+695. *(Test 7 · Listening)* I'll start working on it immediately.
+696. *(Test 7 · Listening)* Parking is free this weekend.
+697. *(Test 7 · Listening)* Do you have a map of the park trails?
+698. *(Test 7 · Listening)* The city appreciates your be investing in this community in such a substantial way.
+699. *(Test 7 · Listening)* People spend a lot of time outside summer rush.
+700. *(Test 7 · Listening)* All of them will grab the attention of shoppers.
+701. *(Test 7 · Listening)* We have a large group coming in next week.
+702. *(Test 7 · Listening)* Which logo design does the man prefer?
+703. *(Test 7 · Listening)* Yes, with the extra growing space, we'd definitely increase our yield.
+704. *(Test 7 · Listening)* What crops do you think would be best?
+705. *(Test 7 · Listening)* And we could even add cabbage as a new crop in the spring.
+706. *(Test 7 · Listening)* Sure, that would be great.
+707. *(Test 7 · Listening)* When we return on Monday for our of the costumes and will be making last-minute first show on Tuesday night!
+708. *(Test 7 · Listening)* As you may know, several the world.
+709. *(Test 7 · Listening)* We apologize for any inconvenience.
+710. *(Test 7 · Listening – đáp án)* She's holding a water bottle.
+711. *(Test 7 · Listening – đáp án)* She's looking at a newspaper.
+712. *(Test 7 · Listening – đáp án)* A tire is leaning against a car.
+713. *(Test 7 · Listening – đáp án)* A chain has been left on the ground.
+714. *(Test 7 · Listening – đáp án)* A car is backing out of a garage.
+715. *(Test 7 · Listening – đáp án)* The woman is walking across the street.
+716. *(Test 7 · Listening – đáp án)* The woman is repairing a bicycle.
+717. *(Test 7 · Listening – đáp án)* The woman is wearing a helmet.
+718. *(Test 7 · Listening – đáp án)* The woman is getting into a vehicle.
+719. *(Test 7 · Listening – đáp án)* A worker is sweeping a dining area.
+720. *(Test 7 · Listening – đáp án)* Some window blinds have been raised.
+721. *(Test 7 · Listening – đáp án)* I have a layover in Dubai.
+722. *(Test 7 · Listening – đáp án)* No, we have to pay for them ourselves.
+723. *(Test 7 · Listening – đáp án)* His name is Alberto.
+724. *(Test 7 · Listening – đáp án)* Because I used a special camera lens.
+725. *(Test 7 · Listening – đáp án)* I'll send you a temporary password.
+726. *(Test 7 · Listening – đáp án)* No, he was late.
+727. *(Test 7 · Listening – đáp án)* Yes, I did that last week.
+728. *(Test 7 · Listening – đáp án)* No, he put it in the filing cabinet.
+729. *(Test 7 · Listening – đáp án)* My team is short-staffed right now.
+730. *(Test 7 · Listening – đáp án)* We met in the cafeteria.
+731. *(Test 7 · Listening – đáp án)* That job was completed yesterday.
+732. *(Test 7 · Listening – đáp án)* I live on Vine Street.
+733. *(Test 7 · Listening – đáp án)* No, they catered food last year.
+734. *(Test 7 · Listening – đáp án)* It should say on their Web site.
+735. *(Test 7 · Listening – đáp án)* Yes, I saw him at the convention.
+736. *(Test 7 · Listening – đáp án)* A room is too small.
+737. *(Test 7 · Listening – đáp án)* Some software is slow.
+738. *(Test 7 · Listening – đáp án)* A printer is broken.
+739. *(Test 7 · Listening – đáp án)* She has been promoted to manager.
+740. *(Test 7 · Listening – đáp án)* An advertising campaign was successful.
+741. *(Test 7 · Listening – đáp án)* An article about the company is positive.
+742. *(Test 7 · Listening – đáp án)* She is late for an appointment.
+743. *(Test 7 · Listening – đáp án)* She does not have a credit card.
+744. *(Test 7 · Listening – đáp án)* She did not reserve tickets.
+745. *(Test 7 · Listening – đáp án)* She is unfamiliar with a location.
+746. *(Test 7 · Listening – đáp án)* She read about it in the newspaper.
+747. *(Test 7 · Listening – đáp án)* She heard an announcement on the radio.
+748. *(Test 7 · Listening – đáp án)* She received a coupon in the mail.
+749. *(Test 7 · Listening – đáp án)* She saw an advertisement on TV.
+750. *(Test 7 · Listening – đáp án)* A busy season is approaching.
+751. *(Test 7 · Listening – đáp án)* A team is starting another project.
+752. *(Test 7 · Listening – đáp án)* A client has changed a deadline.
+753. *(Test 7 · Listening – đáp án)* A staff change will take place.
+754. *(Test 7 · Listening – đáp án)* Maintenance work is being done.
+755. *(Test 7 · Listening – đáp án)* She agrees with a choice.
+756. *(Test 7 · Listening – đáp án)* She needs volunteers to help.
+757. *(Test 7 · Listening – đáp án)* An electric train line was added.
+758. *(Test 7 · Listening – đáp án)* A construction project was interrupted.
+759. *(Test 7 · Listening – đáp án)* A wooden post is being painted.
+760. *(Test 7 · Listening – đáp án)* Arug has been spread out on the ground.
+761. *(Test 7 · Listening – đáp án)* Some cars are crossing an intersection.
+762. *(Test 7 · Listening – đáp án)* A woman is taping a flyer to a light pole.
+763. *(Test 7 · Listening – đáp án)* A man is standing behind a counter.
+764. *(Test 7 · Listening – đáp án)* A man is setting up a display of items.
+765. *(Test 7 · Listening – đáp án)* Customers are lined up at a cash register.
+766. *(Test 7 · Listening – câu hỏi)* What does the man remind the woman about?
+767. *(Test 7 · Listening – câu hỏi)* Why is the man going to make a phone call?
+768. *(Test 7 · Listening – câu hỏi)* What will the woman send by e-mail?
+769. *(Test 7 · Listening – câu hỏi)* What will the woman do next week?
+770. *(Test 7 · Listening – câu hỏi)* Why is the woman pleased?
+771. *(Test 7 · Listening – câu hỏi)* What event is taking place next month?
+772. *(Test 7 · Listening – câu hỏi)* Where is the conversation taking place?
+773. *(Test 7 · Listening – câu hỏi)* Where does the man most likely work?
+774. *(Test 7 · Listening – câu hỏi)* What motivated the woman to visit the business?
+775. *(Test 7 · Listening – câu hỏi)* Why should the woman check a manual?
+776. *(Test 7 · Listening – câu hỏi)* What does the woman ask about?
+777. *(Test 7 · Listening – câu hỏi)* Why does the speaker thank the listeners?
+778. *(Test 7 · Listening – câu hỏi)* What does the speaker recommend doing?
+779. *(Test 7 · Listening – câu hỏi)* What does the speaker say happened last week?
+780. *(Test 7 · Listening – câu hỏi)* What is the purpose of the talk?
+781. *(Test 7 · Listening – câu hỏi)* What is the broadcast mainly about?
+782. *(Test 7 · Listening – câu hỏi)* What goal does the speaker mention?
+783. *(Test 8 · Listening)* Can I pick up my prescription glasses here?
+784. *(Test 8 · Listening)* Where are the notes from the client meeting?
+785. *(Test 8 · Listening)* It'll be nice to get a bonus this month.
+786. *(Test 8 · Listening)* How often do you travel abroad?
+787. *(Test 8 · Listening)* How many books are in this mystery series?
+788. *(Test 8 · Listening)* Can we finalize the budget today?
+789. *(Test 8 · Listening)* When does the bookstore open?
+790. *(Test 8 · Listening)* Where can I find the eating utensils?
+791. *(Test 8 · Listening)* What can I do for you, ma'am?
+792. *(Test 8 · Listening)* Why is the conference in London this year?
+793. *(Test 8 · Listening)* The restaurant is finally getting a new stove.
+794. *(Test 8 · Listening)* It flickers off and on sometimes.
+795. *(Test 8 · Listening)* What do the speakers agree to do?
+796. *(Test 8 · Listening)* Did you leave the refrigerator door in the laboratory open this morning?
+797. *(Test 8 · Listening)* I just spoke with a representative from the with us next week.
+798. *(Test 8 · Listening)* How long will it take to get the results?
+799. *(Test 8 · Listening)* Do you have your sample with you?
+800. *(Test 8 · Listening)* I have it right here.
+801. *(Test 8 · Listening)* Is there a special menu for large groups?
+802. *(Test 8 · Listening)* What will the man do next?
+803. *(Test 8 · Listening)* What will the man check next?
+804. *(Test 8 · Listening)* Your car is ready.
+805. *(Test 8 · Listening)* I can assist you with that.
+806. *(Test 8 · Listening)* I also help set up for the sales sound equipment in the conference room.
+807. *(Test 8 · Listening)* We have a lot on our agenda today.
+808. *(Test 8 · Listening)* But for perspective, the city spends more than that every year to hire divers to repair broken equipment.
+809. *(Test 8 · Listening)* I've e-mailed her twice, but she them to her.
+810. *(Test 8 · Listening)* You can connect to maintenance work on the track ahead.
+811. *(Test 8 · Listening)* I'll continue to provide updates throughout our journey.
+812. *(Test 8 · Listening)* She can take your call.
+813. *(Test 8 · Listening)* I look forward to hearing back from you soon.
+814. *(Test 8 · Listening)* What does the speaker encourage the listeners to do?
+815. *(Test 8 · Listening)* When can the listeners book a tour today?
+816. *(Test 8 · Listening – đáp án)* A light fixture is hanging from the ceiling.
+817. *(Test 8 · Listening – đáp án)* A fence is visible through the window.
+818. *(Test 8 · Listening – đáp án)* One of the women is holding up a book.
+819. *(Test 8 · Listening – đáp án)* The window glass needs to be repaired.
+820. *(Test 8 · Listening – đáp án)* Yes, they'll be ready soon.
+821. *(Test 8 · Listening – đáp án)* Yes, I get alerts on my phone.
+822. *(Test 8 · Listening – đáp án)* I saved them on my laptop.
+823. *(Test 8 · Listening – đáp án)* She leaves at noon.
+824. *(Test 8 · Listening – đáp án)* The weather has been very nice.
+825. *(Test 8 · Listening – đáp án)* Shifts are from nine to five.
+826. *(Test 8 · Listening – đáp án)* Our customer satisfaction rates are high.
+827. *(Test 8 · Listening – đáp án)* It was a very interesting report.
+828. *(Test 8 · Listening – đáp án)* I love Italian food.
+829. *(Test 8 · Listening – đáp án)* Yes, we already have a lot of orders.
+830. *(Test 8 · Listening – đáp án)* He'll meet you next week.
+831. *(Test 8 · Listening – đáp án)* You can book an appointment online.
+832. *(Test 8 · Listening – đáp án)* Mr. Kim can help you.
+833. *(Test 8 · Listening – đáp án)* That meeting was productive.
+834. *(Test 8 · Listening – đáp án)* Abidemi is a better teacher.
+835. *(Test 8 · Listening – đáp án)* The meal was delicious.
+836. *(Test 8 · Listening – đáp án)* Tomorrow would be fine.
+837. *(Test 8 · Listening – đáp án)* My key card doesn't work.
+838. *(Test 8 · Listening – đáp án)* I saw him this morning.
+839. *(Test 8 · Listening – đáp án)* The recipe requires a saucepan.
+840. *(Test 8 · Listening – đáp án)* Can I have a salad for lunch?
+841. *(Test 8 · Listening – đáp án)* Some data are incomplete.
+842. *(Test 8 · Listening – đáp án)* Equipment might be faulty.
+843. *(Test 8 · Listening – đáp án)* A process will be faster.
+844. *(Test 8 · Listening – đáp án)* An organization will receive publicity.
+845. *(Test 8 · Listening – đáp án)* A kitchen appliance is broken.
+846. *(Test 8 · Listening – đáp án)* A space may not be available.
+847. *(Test 8 · Listening – đáp án)* A daily special is no longer offered.
+848. *(Test 8 · Listening – đáp án)* Her pillow is old.
+849. *(Test 8 · Listening – đáp án)* Her pillow is too small.
+850. *(Test 8 · Listening – đáp án)* She heard about a new model.
+851. *(Test 8 · Listening – đáp án)* She developed a pain in her neck.
+852. *(Test 8 · Listening – đáp án)* An expert will speak.
+853. *(Test 8 · Listening – đáp án)* A trip abroad has been approved.
+854. *(Test 8 · Listening – đáp án)* Some offices are too cold.
+855. *(Test 8 · Listening – đáp án)* Some construction is too noisy.
+856. *(Test 8 · Listening – đáp án)* It is available in many sizes.
+857. *(Test 8 · Listening – đáp án)* There are several framing options.
+858. *(Test 8 · Listening – đáp án)* The listeners cannot visit a specific station.
+859. *(Test 8 · Listening – đáp án)* The listeners will receive a ticket refund.
+860. *(Test 8 · Listening – đáp án)* She has a professional certification.
+861. *(Test 8 · Listening – đáp án)* She is an environmental expert.
+862. *(Test 8 · Listening – đáp án)* She will be available next week.
+863. *(Test 8 · Listening – đáp án)* She has recently been promoted.
+864. *(Test 8 · Listening – đáp án)* An employee could retire.
+865. *(Test 8 · Listening – đáp án)* An invoice could arrive.
+866. *(Test 8 · Listening – đáp án)* A project could begin.
+867. *(Test 8 · Listening – đáp án)* A price could increase.
+868. *(Test 8 · Listening – đáp án)* They list a schedule of holidays.
+869. *(Test 8 · Listening – câu hỏi)* What does the man like about a project?
+870. *(Test 8 · Listening – câu hỏi)* What does the man suggest doing?
+871. *(Test 8 · Listening – câu hỏi)* What are the speakers working on?
+872. *(Test 8 · Listening – câu hỏi)* Why are the men traveling to Toronto?
+873. *(Test 8 · Listening – câu hỏi)* What has the man been doing?
+874. *(Test 8 · Listening – câu hỏi)* Why does the woman want to buy a new pillow?
+875. *(Test 8 · Listening – câu hỏi)* According to the man, what did he recently do?
+876. *(Test 8 · Listening – câu hỏi)* What is the speaker mainly discussing?
+877. *(Test 8 · Listening – câu hỏi)* Who most likely is Marion?
+878. *(Test 8 · Listening – câu hỏi)* Where is the meeting taking place?
+879. *(Test 8 · Listening – câu hỏi)* Who is the advertisement intended for?
+880. *(Test 8 · Listening – câu hỏi)* How can the listeners receive a discount?
+881. *(Test 8 · Listening – câu hỏi)* What is the announcement mostly about?
+882. *(Test 8 · Listening – câu hỏi)* Who is the speaker?
+883. *(Test 8 · Listening – câu hỏi)* What does the speaker say about Lihong Hao?
+884. *(Test 8 · Listening – câu hỏi)* What is the talk mainly about?
+885. *(Test 9 · Listening)* How can we resolve the problem with our client?
+886. *(Test 9 · Listening)* Was the restaurant really expensive?
+887. *(Test 9 · Listening)* When will the dishwasher prototype be ready?
+888. *(Test 9 · Listening)* When are we meeting again?
+889. *(Test 9 · Listening)* Did you put the brochures in the lobby?
+890. *(Test 9 · Listening)* How soon will we be able to replace the furniture in the waiting room?
+891. *(Test 9 · Listening)* When should we order the gift baskets?
+892. *(Test 9 · Listening)* Why was the seminar agenda changed?
+893. *(Test 9 · Listening)* Ms. Lambert is responsible for the payroll.
+894. *(Test 9 · Listening)* Our standard day pass is twenty equipment like exercise mats and tennis
+895. *(Test 9 · Listening)* I'll just purchase the pass for now, thanks.
+896. *(Test 9 · Listening)* Would you like to join me and the advertising campaign for our client.
+897. *(Test 9 · Listening)* I only know about the one across town.
+898. *(Test 9 · Listening)* What have the speakers been working on?
+899. *(Test 9 · Listening)* That fabric is then available to create new products.
+900. *(Test 9 · Listening)* Sergey has a confident presence when speaks clearly and naturally.
+901. *(Test 9 · Listening)* However, 5'he also does some consulting as an extra source of income.
+902. *(Test 9 · Listening)* Why is the woman unsure about a candidate?
+903. *(Test 9 · Listening)* What is the conversation mainly about?
+904. *(Test 9 · Listening)* What will the woman do next?
+905. *(Test 9 · Listening)* So I decided to attend culinary school.
+906. *(Test 9 · Listening)* This has been an ongoing problem.
+907. *(Test 9 · Listening)* What do you think?
+908. *(Test 9 · Listening)* Which day does the woman want to change the special offer for?
+909. *(Test 9 · Listening)* That print is one of my favorites.
+910. *(Test 9 · Listening)* How much will the woman pay for an item?
+911. *(Test 9 · Listening)* What type of fence are you looking for?
+912. *(Test 9 · Listening)* A mesh fence might work well for you.
+913. *(Test 9 · Listening)* In fact, right now, we have a promotion on fences.
+914. *(Test 9 · Listening)* Can you give me a cost estimate?
+915. *(Test 9 · Listening)* Where does the woman want to install a fence?
+916. *(Test 9 · Listening)* Our route along the river provides a great view of the architecture.
+917. *(Test 9 · Listening)* What does the speaker say is available on board the boat?
+918. *(Test 9 · Listening)* The hope clothing is up twenty percent from last year.
+919. *(Test 9 · Listening)* The new gate will appear on screens throughout the terminal shortly.
+920. *(Test 9 · Listening)* What is the destination of the affected flight?
+921. *(Test 9 · Listening)* According to the announcement, what will Claudia provide at the counter?
+922. *(Test 9 · Listening – đáp án)* A picnic area is covered by a roof.
+923. *(Test 9 · Listening – đáp án)* A bin is filled with flowers.
+924. *(Test 9 · Listening – đáp án)* A picnic area is shaded by trees.
+925. *(Test 9 · Listening – đáp án)* A road leads to a picnic area.
+926. *(Test 9 · Listening – đáp án)* A man is bending over some wires.
+927. *(Test 9 · Listening – đáp án)* Some people are waiting in line to order.
+928. *(Test 9 · Listening – đáp án)* A menu board has been hung on a wall.
+929. *(Test 9 · Listening – đáp án)* A server is placing some food on a tray.
+930. *(Test 9 · Listening – đáp án)* A server is taking an order from a customer.
+931. *(Test 9 · Listening – đáp án)* One of the men is walking into a store.
+932. *(Test 9 · Listening – đáp án)* The woman is standing in front of a painting.
+933. *(Test 9 · Listening – đáp án)* No, the deadline is tomorrow.
+934. *(Test 9 · Listening – đáp án)* Yes, it is very expensive.
+935. *(Test 9 · Listening – đáp án)* Did you check the batteries?
+936. *(Test 9 · Listening – đáp án)* His office is on the third floor.
+937. *(Test 9 · Listening – đáp án)* I can pick up some today.
+938. *(Test 9 · Listening – đáp án)* Yes, it was a lot.
+939. *(Test 9 · Listening – đáp án)* My dentist has an office downtown.
+940. *(Test 9 · Listening – đáp án)* It was about two hours long.
+941. *(Test 9 · Listening – đáp án)* I prefer to use local suppliers.
+942. *(Test 9 · Listening – đáp án)* Dinner is at eight.
+943. *(Test 9 · Listening – đáp án)* We're waiting for the final cost estimate.
+944. *(Test 9 · Listening – đáp án)* The conference center is on Walnut Avenue.
+945. *(Test 9 · Listening – đáp án)* Do you have a reservation?
+946. *(Test 9 · Listening – đáp án)* Yes, I left them at the front desk.
+947. *(Test 9 · Listening – đáp án)* We'll do that at the end of the summer.
+948. *(Test 9 · Listening – đáp án)* The keys are on my desk.
+949. *(Test 9 · Listening – đáp án)* Yes, she gave a nice speech.
+950. *(Test 9 · Listening – đáp án)* Because an additional speaker was added.
+951. *(Test 9 · Listening – đáp án)* I brought my car today.
+952. *(Test 9 · Listening – đáp án)* I already have some.
+953. *(Test 9 · Listening – đáp án)* No, it shouldn't be too difficult.
+954. *(Test 9 · Listening – đáp án)* The car keys are on my desk.
+955. *(Test 9 · Listening – đáp án)* Our filing cabinets are full.
+956. *(Test 9 · Listening – đáp án)* We're waiting for a few more people.
+957. *(Test 9 · Listening – đáp án)* We need to find a new shipping partner.
+958. *(Test 9 · Listening – đáp án)* The food is fantastic.
+959. *(Test 9 · Listening – đáp án)* Some funding will become available.
+960. *(Test 9 · Listening – đáp án)* A fashion line will be popular.
+961. *(Test 9 · Listening – đáp án)* He lives too far from headquarters.
+962. *(Test 9 · Listening – đáp án)* He might have limited availability.
+963. *(Test 9 · Listening – đáp án)* He cannot provide any references.
+964. *(Test 9 · Listening – đáp án)* He does not have relevant experience.
+965. *(Test 9 · Listening – đáp án)* They appear in multiple languages.
+966. *(Test 9 · Listening – đáp án)* They explain how to measure ingredients.
+967. *(Test 9 · Listening – đáp án)* They list alternative cooking methods.
+968. *(Test 9 · Listening – đáp án)* Some posters have been distributed.
+969. *(Test 9 · Listening – đáp án)* A schedule has been printed.
+970. *(Test 9 · Listening – đáp án)* A park map has been updated.
+971. *(Test 9 · Listening – đáp án)* He misunderstood the timeline for a task.
+972. *(Test 9 · Listening – đáp án)* Some technical assistance is needed.
+973. *(Test 9 · Listening – đáp án)* It is too late to make a change.
+974. *(Test 9 · Listening – đáp án)* An immediate answer is required.
+975. *(Test 9 · Listening – đáp án)* An interview will take place.
+976. *(Test 9 · Listening – đáp án)* A shipment will arrive.
+977. *(Test 9 · Listening – đáp án)* Its services are free of charge.
+978. *(Test 9 · Listening – đáp án)* An advertising campaign was launched.
+979. *(Test 9 · Listening – đáp án)* A business partnership was formed.
+980. *(Test 9 · Listening – đáp án)* A new executive director was hired.
+981. *(Test 9 · Listening – câu hỏi)* What is done at the start of each shift?
+982. *(Test 9 · Listening – câu hỏi)* What does the woman offer to show the man?
+983. *(Test 9 · Listening – câu hỏi)* Why will the man visit the property on Saturday?
+984. *(Test 9 · Listening – câu hỏi)* What should the listeners be prepared to show?
+985. *(Test 9 · Listening – câu hỏi)* What is the speaker reporting on?
+986. *(Test 9 · Listening – câu hỏi)* What is causing a problem?
+987. *(Test 9 · Listening – câu hỏi)* What is the focus of a project?
+988. *(Test 9 · Listening – câu hỏi)* What kind of service is being advertised?
+989. *(Test 9 · Listening – câu hỏi)* Why should the listeners visit a Web site?
+990. *(Test 10 · Listening)* Do you want to review the report together, or on your own?
+991. *(Test 10 · Listening)* Where are the safety goggles kept?
+992. *(Test 10 · Listening)* When did this restaurant change its name?
+993. *(Test 10 · Listening)* How can we interest the client in our business?
+994. *(Test 10 · Listening)* Are you planning to work at home tomorrow?
+995. *(Test 10 · Listening)* What's the price of this printer?
+996. *(Test 10 · Listening)* Who has time to edit this article?
+997. *(Test 10 · Listening)* These train tickets are expensive.
+998. *(Test 10 · Listening)* What do you have in mind?
+999. *(Test 10 · Listening)* Well, I want to paint the walls with one of the colors from our new logo, either green or red.
+1000. *(Test 10 · Listening)* Do you have a copy of the logo with you?
+1001. *(Test 10 · Listening)* I can have the paint ready for you by Friday.
+1002. *(Test 10 · Listening)* How can I assist you?
+1003. *(Test 10 · Listening)* What does the woman ask to see?
+1004. *(Test 10 · Listening)* Who'd like to help me with that project?
+1005. *(Test 10 · Listening)* That bridge will take you there faster.
+1006. *(Test 10 · Listening)* My tank is almost empty.
+1007. *(Test 10 · Listening)* We have anice selection of arrangements that of the most popular, in a range of prices.
+1008. *(Test 10 · Listening)* Her opinion is highly valued.
+1009. *(Test 10 · Listening)* You considered inappropriate in business writing.
+1010. *(Test 10 · Listening)* Next, I want to inform everyone about an upcoming recommended safety workshop.
+1011. *(Test 10 · Listening)* Links to the registration form have been e-mailed.
+1012. *(Test 10 · Listening)* Finally, week, so you'll need to bring your lunch.
+1013. *(Test 10 · Listening – đáp án)* A chair is propped against the door.
+1014. *(Test 10 · Listening – đáp án)* A laptop has been left open.
+1015. *(Test 10 · Listening – đáp án)* He's holding up an umbrella.
+1016. *(Test 10 · Listening – đáp án)* Some men are removing a tire from a truck.
+1017. *(Test 10 · Listening – đáp án)* A building has a clock tower on top of it.
+1018. *(Test 10 · Listening – đáp án)* The bicycles are lined up in a row.
+1019. *(Test 10 · Listening – đáp án)* A bicycle path is being painted.
+1020. *(Test 10 · Listening – đáp án)* Some ahipa are moving under a bridge.
+1021. *(Test 10 · Listening – đáp án)* A ferryboat is traveling through a marina.
+1022. *(Test 10 · Listening – đáp án)* There are buildings along the side of a street.
+1023. *(Test 10 · Listening – đáp án)* They'll be busy at that time.
+1024. *(Test 10 · Listening – đáp án)* I'd prefer to look it over myself.
+1025. *(Test 10 · Listening – đáp án)* I need a room with a projector.
+1026. *(Test 10 · Listening – đáp án)* They're in the first-floor supply closet.
+1027. *(Test 10 · Listening – đáp án)* Yes, it is well-known.
+1028. *(Test 10 · Listening – đáp án)* He left an hour ago.
+1029. *(Test 10 · Listening – đáp án)* A technician has been notified.
+1030. *(Test 10 · Listening – đáp án)* These pens have our logo on them.
+1031. *(Test 10 · Listening – đáp án)* Yes, I like it a lot.
+1032. *(Test 10 · Listening – đáp án)* There should be 21 people.
+1033. *(Test 10 · Listening – đáp án)* She has an overnight flight.
+1034. *(Test 10 · Listening – đáp án)* Yes, it stops right outside.
+1035. *(Test 10 · Listening – đáp án)* The library is on Walton Street.
+1036. *(Test 10 · Listening – đáp án)* It was checked this morning.
+1037. *(Test 10 · Listening – đáp án)* The schedule is posted in the break room.
+1038. *(Test 10 · Listening – đáp án)* Did you complete the training?
+1039. *(Test 10 · Listening – đáp án)* He has an advanced degree in economics.
+1040. *(Test 10 · Listening – đáp án)* I really enjoyed that television program.
+1041. *(Test 10 · Listening – đáp án)* She'll be on vacation for the next month.
+1042. *(Test 10 · Listening – đáp án)* I'd love a cup of tea.
+1043. *(Test 10 · Listening – đáp án)* His office door is locked.
+1044. *(Test 10 · Listening – đáp án)* He passed his driving test.
+1045. *(Test 10 · Listening – đáp án)* It was too technical.
+1046. *(Test 10 · Listening – đáp án)* No, I took a different flight.
+1047. *(Test 10 · Listening – đáp án)* How was your business trip to Shanghai?
+1048. *(Test 10 · Listening – đáp án)* It is expensive to produce.
+1049. *(Test 10 · Listening – đáp án)* It is too bright.
+1050. *(Test 10 · Listening – đáp án)* It is very popular.
+1051. *(Test 10 · Listening – đáp án)* It has been in business for three years.
+1052. *(Test 10 · Listening – đáp án)* The listeners have a limited amount of time.
+1053. *(Test 10 · Listening – đáp án)* A schedule will not change.
+1054. *(Test 10 · Listening – đáp án)* It promises one-week delivery.
+1055. *(Test 10 · Listening – đáp án)* It merged with another company.
+1056. *(Test 10 · Listening – đáp án)* It started an internship program.
+1057. *(Test 10 · Listening – đáp án)* They sell athletic clothing.
+1058. *(Test 10 · Listening – đáp án)* They have similar logos.
+1059. *(Test 10 · Listening – câu hỏi)* What is the man concerned about?
+1060. *(Test 10 · Listening – câu hỏi)* What is Camille working on?
+1061. *(Test 10 · Listening – câu hỏi)* What does the man request?
+1062. *(Test 10 · Listening – câu hỏi)* What will the women most likely do next?
+1063. *(Test 10 · Listening – câu hỏi)* What does the man say about his company?
+1064. *(Test 10 · Listening – câu hỏi)* Why does the woman want to purchase flowers?
+1065. *(Test 10 · Listening – câu hỏi)* What additional item do the speakers discuss?
+1066. *(Test 10 · Listening – câu hỏi)* What does Schneider Technology produce?
+1067. *(Test 10 · Listening – câu hỏi)* What is causing a delay?
+1068. *(Test 10 · Listening – câu hỏi)* What project does the speaker mention?
+1069. *(Test 10 · Listening – câu hỏi)* What does the speaker assure the listeners of?
+1070. *(Test 10 · Listening – câu hỏi)* What does the company make?
+1071. *(Test 10 · Listening – câu hỏi)* What is the main topic of the workshop?
+1072. *(Test 10 · Listening – câu hỏi)* Why is Clementine Stores in the news report?
+1073. *(Test 10 · Listening – câu hỏi)* What is the speaker concerned about?
+1074. *(Test 10 · Listening – câu hỏi)* How does the speaker begin the meeting?
+1075. *(Test 10 · Listening – câu hỏi)* What does the speaker ask the listener to do?
 
 ---
 
@@ -1966,8 +3269,6 @@
 
 <small>605 câu Reading · 121 câu Listening</small>
 
-> Điểm này xuất hiện rất nhiều; dưới đây liệt kê 721 câu tiêu biểu (tối đa 600 câu mỗi phần).
-
 **📖 Reading**
 
 1. *(Test 1 · Part 5)* The lecture will take place at 6:00 P.M., after which attendees may ask questions.
@@ -2560,10 +3861,14 @@
 588. *(Test 10 · Part 7)* If the value specified is acceptable to you and you wish to trade in your bicycle, we deduct that amount from the purchase price of your new bicycle.
 589. *(Test 10 · Part 7)* If you prefer a consignment arrangement, we will sell your bicycle for the agreed-upon amount.
 590. *(Test 10 · Part 7)* I have tried to sell it myself but was not successful, so I would like to place it on consignment with you.
-591. *(Test 10 · Part 7 – câu hỏi)* At 1:20 P.M., what does Mr. Gerlin imply when he writes, "Can you give me 45 minutes or so"?
-592. *(Test 10 · Part 7 – câu hỏi)* The word "reflects" in paragraph 3, line 5, is closest in meaning to
-593. *(Test 10 · Part 7 – câu hỏi)* At 4:11 P.M., what does Ms. Balog most likely mean when she writes, "It has never looked so good"?
-594. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Klein say she intends to do?
+591. *(Test 10 · Part 7)* Do you expect that the bicycle will be sold by then?
+592. *(Test 10 · Part 7)* At the training for new hires this morning, we provided you with a checklist of the documents that we need to have on file.
+593. *(Test 10 · Part 7)* And thanks, too, for sending a copy of the checklist I received in the orientation session.
+594. *(Test 10 · Part 7)* If employees bring dishes for the picnic, I'd be happy to make something.
+595. *(Test 10 · Part 7 – câu hỏi)* At 1:20 P.M., what does Mr. Gerlin imply when he writes, "Can you give me 45 minutes or so"?
+596. *(Test 10 · Part 7 – câu hỏi)* The word "reflects" in paragraph 3, line 5, is closest in meaning to
+597. *(Test 10 · Part 7 – câu hỏi)* At 4:11 P.M., what does Ms. Balog most likely mean when she writes, "It has never looked so good"?
+598. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Klein say she intends to do?
 
 **🎧 Listening**
 

@@ -29,8 +29,6 @@
 
 <small>977 câu Reading · 239 câu Listening</small>
 
-> Điểm này xuất hiện rất nhiều; dưới đây liệt kê 839 câu tiêu biểu (tối đa 600 câu mỗi phần).
-
 **📖 Reading**
 
 1. *(Test 1 · Part 5)* Merryville residents will receive an online **status update** about the ongoing bridge construction project.
@@ -475,10 +473,310 @@
 440. *(Test 6 · Part 7)* I’m confident they can meet our **publication deadline**.
 441. *(Test 6 · Part 7)* Since you work closely with him in the **finance department**, I thought you might be well positioned to talk about him as a mentor, worker, and leader.
 442. *(Test 6 · Part 7)* Submit your **home garden** to be one of several stops on this year's Gorgeous Gardens Tour, scheduled for July 3!
-443. *(Test 6 · Part 7 – câu hỏi)* What is NOT mentioned about the **maintenance crew**?
-444. *(Test 6 · Part 7 – câu hỏi)* What is indicated about the small-**batch production** of games?
-445. *(Test 6 · Part 7 – câu hỏi)* What most likely will prevent Ms. Olton's garden from being selected as a **tour stop**?
-446. *(Test 6 · Part 7 – câu hỏi)* According to Mr. Jeong, what distinguishes Ms. Newsom from other **property owners**?
+443. *(Test 6 · Part 7)* This year's **tour theme** is Winged Paradise, with a focus on flowering plants favored by regional birds and butterflies, including the lesser goldfinch and the ringlet butterfly.
+444. *(Test 6 · Part 7)* All proceeds from **ticket sales** for this year's tour will go toward replanting the cottonwood forest in Presidio County Park.
+445. *(Test 6 · Part 7)* Hosting a **tour garden** is free for members of the Alamito Botanical Society.
+446. *(Test 6 · Part 7)* If you have questions regarding participating as a **tour stop**, please send an e-mail to info@alamitobotanicalsociety.org.
+447. *(Test 6 · Part 7)* I must admit that beautiful **lavender bushes** that are not native to the area were already growing on the property before I purchased it.
+448. *(Test 6 · Part 7)* However, lavender is not on the invasive-**species list**, and I continue to let them grow because the butterflies, bees, and other wildlife love the blooms.
+449. *(Test 6 · Part 7)* February: Schedule Your Salad - Get tips for establishing a **planting timetable** and for selecting delicious vegetables to grow.
+450. *(Test 6 · Part 7)* Terra Jaunts organizes **nature hikes**, farm stays, camping trips, athletic competitions, and other activities for company retreats.
+451. *(Test 6 · Part 7)* The site has adequate **parking space** for 50 cars or two buses.
+452. *(Test 6 · Part 7)* I would like to arrange a **site visit** with my associate Peter Cumberland either this week or next.
+453. *(Test 6 · Part 7)* The **hiking paths** on my property are quite overgrown, as your partner pointed out.
+454. *(Test 6 · Part 7 – câu hỏi)* What is NOT mentioned about the **maintenance crew**?
+455. *(Test 6 · Part 7 – câu hỏi)* What is indicated about the small-**batch production** of games?
+456. *(Test 6 · Part 7 – câu hỏi)* What most likely will prevent Ms. Olton's garden from being selected as a **tour stop**?
+457. *(Test 6 · Part 7 – câu hỏi)* According to Mr. Jeong, what distinguishes Ms. Newsom from other **property owners**?
+458. *(Test 7 · Part 5)* Because the new **branch office** was understaffed, more workers were hired.
+459. *(Test 7 · Part 5)* The scheduled **completion date** was September 4, but the job was finished two weeks ahead of schedule.
+460. *(Test 7 · Part 5)* Candidates for the entry-level **marketing position** need to have a basic understanding of consumer behavior.
+461. *(Test 7 · Part 5)* Ms. Persson was able to respond directly to **government leaders** about their concerns regarding the funding plan.
+462. *(Test 7 · Part 5)* Leigh Ainsley, the featured soloist in tonight's performance, began taking **violin lessons** at the age of five.
+463. *(Test 7 · Part 5)* From among the seven candidates for the **management position**, the hiring committee must choose only one.
+464. *(Test 7 · Part 5)* Contact the hotel's main office if you wish to receive daily **linen service**.
+465. *(Test 7 · Part 5)* Please familiarize yourself with the company's tuition-**reimbursement policy** before enrolling in any classes.
+466. *(Test 7 · Part 5)* The proposed **purchase agreement** is --- being evaluated by officials at Corlan Tech.
+467. *(Test 7 · Part 5)* Another convenient option for getting to the airport will be available once the **subway station** at the international terminal is completed.
+468. *(Test 7 · Part 5)* As Mr. Rzayev requested, the extra **wood pallets** have been stacked behind the old warehouse.
+469. *(Test 7 · Part 5)* A lack of clearly defined milestones was likely why the **software development** project failed.
+470. *(Test 7 · Part 5)* The **security officer** at the front gate will instruct delivery drivers as to where to drop off packages.
+471. *(Test 7 · Part 5)* Visitors must park in the designated **parking area** or risk having their vehicle towed.
+472. *(Test 7 · Part 5)* When Ms. Liu was hired, the intention was to train her to work in the **chemistry lab**.
+473. *(Test 7 · Part 5)* The new **payroll system** will send an e-mail to employees whenever a manager edits their time sheet.
+474. *(Test 7 · Part 5)* Even though the **fuel container** can hold up to a maximum of ten liters, the manufacturer recommends putting in only nine.
+475. *(Test 7 · Part 5)* Ever since the Unicycle Café opened for business last May, it has been hosting weekly live **music events**.
+476. *(Test 7 · Part 6)* Do you fancy **playing games** with your mates?
+477. *(Test 7 · Part 6)* Choose from our collection of **board games**, card games, trivia games, and more.
+478. *(Test 7 · Part 6)* The Devegas Peninsula features a wide range of **accommodation options**.
+479. *(Test 7 · Part 6)* More than twenty **luxury hotels** can be found along Devegas Beach, along with several moderately priced hotels in the Devegas Park neighborhood.
+480. *(Test 7 · Part 6)* In addition, a range of small inns and short-term **apartment rentals** are scattered throughout the area.
+481. *(Test 7 · Part 6)* Several inexpensive campsites and **youth hostels** are available throughout the year.
+482. *(Test 7 · Part 6)* For a detailed listing of **vacation properties** and hotels on the peninsula, see the back cover of this brochure.
+483. *(Test 7 · Part 6)* For any questions regarding the **signing process**, contact our customer support center at inquiries@nelsign.com.
+484. *(Test 7 · Part 7)* Thank you, Nathan Thielen, for joining Brice's Ice Creamery's **rewards program**.
+485. *(Test 7 · Part 7)* For every $1.00 you spend in one of our **ice cream** shops, you earn 1 point.
+486. *(Test 7 · Part 7)* Every 100 points you earn can be redeemed for $5.00 off your purchase of **ice cream** or store merchandise, including T-shirts and tote bags.
+487. *(Test 7 · Part 7)* As you know, it is our policy to charge the full **appointment fee** for missed appointments unless the patient notifies us at least 24 hours in advance of the scheduled visit.
+488. *(Test 7 · Part 7)* Your physician, Dr. Ramanathan, has created additional **appointment times** this month because he will be on vacation in February.
+489. *(Test 7 · Part 7)* Thousands of large companies use surveys to measure **customer satisfaction** with the goal of improving their business.
+490. *(Test 7 · Part 7)* Qualitekk Research serves its **client companies** by analyzing survey results and producing detailed reports containing insights about customers' preferences.
+491. *(Test 7 · Part 7)* If you would like to join, visit our Register page and complete the **member profile** questionnaire.
+492. *(Test 7 · Part 7)* All responses in Qualitekk Research surveys are confidential, and you will never be personally identified with **survey data**.
+493. *(Test 7 · Part 7)* “These numbers continue to grow as online **commerce increases**.”
+494. *(Test 7 · Part 7)* One of the more visible updates to the space is the Swansea Spotlight Bistro, a new restaurant with a large **seating area** that replaces our previous concession stand.
+495. *(Test 7 · Part 7)* Building Blocks is the newest employee-led **volunteer group** at Milos Tek Corporation.
+496. *(Test 7 · Part 7)* Unlike other **company groups** that organize charity fund-raisers or clean up local parks, Building Blocks asks its members to share their professional expertise with others.
+497. *(Test 7 · Part 7)* We offer free seminars on management, public relations, grant writing, and various types of **application software** to nonprofit organizations in Lalortown.
+498. *(Test 7 · Part 7)* These organizations include **youth clubs**, community sports leagues, the Lalortown Nature Center, and Lalortown's public radio station!
+499. *(Test 7 · Part 7)* Participation in Building Blocks generally involves more time than what is encouraged by other **volunteer groups** at Milos Tek.
+500. *(Test 7 · Part 7)* We will hold a 30-minute **information session** on Friday, May 3, at 12:30 P.M., in conference room B-2.
+501. *(Test 7 · Part 7)* For the first time in its 35-**year history**, the company is changing its top leadership; Mehan will soon welcome the first American and the first woman to hold the title of CEO.
+502. *(Test 7 · Part 7)* Within two years, the company promoted her to the position of chief **operating officer**.
+503. *(Test 7 · Part 7)* Ms. Loeb eventually left her position at Tafts Motors to become CEO of the British **car company** Norana, where she spearheaded the introduction of its popular subcompact EV, the Radar.
+504. *(Test 7 · Part 7)* We are known for our stock of high-end **racing bicycles**, but for a limited time every year, we offer a wide selection of secondhand mountain, road, and hybrid bicycles for all ages and abilities.
+505. *(Test 7 · Part 7)* I know you will be a great **store manager** when it is operational next month.
+506. *(Test 7 · Part 7)* Surf Bird Beachwear, Jaxon Shore's best shop for casual clothing and beach supplies, has openings for four full-**time workers**.
+507. *(Test 7 · Part 7)* Some early morning and **weekend work** is required.
+508. *(Test 7 · Part 7)* I believe these narrow-**body jets** represent the future of our airline.
+509. *(Test 7 · Part 7)* Perhaps we need to rethink our entire **hub system**.
+510. *(Test 7 · Part 7)* The seats are also more comfortable than most **airplane seats**.
+511. *(Test 7 · Part 7)* The exhibit will be open to members and private **group tours** starting August 15 and to the general public starting September 2.
+512. *(Test 7 · Part 7)* Upon leaving, they can discard the used bags in any nearby **trash can**.
+513. *(Test 7 · Part 7)* Purchase a PUW machine throughout November and receive a lightweight umbrella featuring our **company logo**.
+514. *(Test 7 · Part 7)* Perfect for large, high-foot-**traffic areas**.
+515. *(Test 7 · Part 7)* As the **facilities manager** of a medium-sized office building, I often have to deal with the inconvenience of wet floors caused by visitors entering with umbrellas.
+516. *(Test 7 · Part 7)* Then we tried an **umbrella stand** that included disposable plastic bags that visitors could tear off and put their umbrellas in.
+517. *(Test 7 · Part 7)* However, this method was ineffective because the bags were rather flimsy, thus failing to prevent **water leakage**.
+518. *(Test 7 · Part 7)* In Christchurch, we are building the Willoughby Medical Clinic on Grove Road, with a grand **opening date** of 1 November, and we are expanding the Blakefield Community Centre on Springdale Avenue.
+519. *(Test 7 · Part 7)* In Ashburton, we have nearly finished a 107-unit **apartment complex** on Passerine Way and have just broken ground on the new wing of the Dismus School on Sixth Street.
+520. *(Test 7 · Part 7)* The building's **completion date** cannot be postponed.
+521. *(Test 7 · Part 7)* A machine in our factory malfunctioned, creating flaws in the **window glass**.
+522. *(Test 7 · Part 7)* The machine has been repaired, and the factory is back to its usual **production schedule**.
+523. *(Test 7 · Part 7)* It will arrive at your medical clinic **construction site** on 20 August.
+524. *(Test 7 · Part 7 – câu hỏi)* What does the **text message** indicate about Brice's Ice Creamery?
+525. *(Test 7 · Part 7 – câu hỏi)* What did Mr. Thielen receive for signing up for the **rewards program**?
+526. *(Test 7 · Part 7 – câu hỏi)* What is suggested about the **secondhand bicycles**?
+527. *(Test 7 · Part 7 – câu hỏi)* Why did Mr. Talbert initiate the online **chat discussion**?
+528. *(Test 7 · Part 7 – câu hỏi)* What is NOT mentioned as a **job duty** in the advertisement?
+529. *(Test 7 · Part 7 – câu hỏi)* What is most likely true about the **job interviews**?
+530. *(Test 7 · Part 7 – câu hỏi)* How does the Trak-4 **jet compare** with the DB90 aircraft?
+531. *(Test 7 · Part 7 – câu hỏi)* What can be concluded about the Ventana Airlines **executive team**?
+532. *(Test 7 · Part 7 – câu hỏi)* What does the **price list** indicate about bags?
+533. *(Test 7 · Part 7 – câu hỏi)* According to the Web page, what should **job applicants** do?
+534. *(Test 8 · Part 5)* Ms. Choi was pleased to learn that she is a finalist in the **technology competition**.
+535. *(Test 8 · Part 5)* All visitors to the factory should use the entrance on the **north side** of the building.
+536. *(Test 8 · Part 5)* Rivlyn, Inc., has recycled nearly 11 million kilograms of **paper waste** over the past decade.
+537. *(Test 8 · Part 5)* The new Dorvale 500 **exercise machine** is significantly heavier and sturdier than the previous model.
+538. *(Test 8 · Part 5)* Advancements in **cloud computing** have transformed the gaming industry in many ways.
+539. *(Test 8 · Part 5)* If your **company computer** is not completely functional, please call the IT Department at extension 12.
+540. *(Test 8 · Part 5)* Any remote employees wanting an additional **computer monitor** should ---Ms. Suzuki.
+541. *(Test 8 · Part 5)* Customer **loyalty programs** are profitable for many retail businesses.
+542. *(Test 8 · Part 5)* Prompt submission of **travel vouchers** to the accounts department will expedite refunds.
+543. *(Test 8 · Part 5)* The Oak Hill Art Museum offers several permanent exhibits and a series of limited-**time exhibits**.
+544. *(Test 8 · Part 5)* The company decided to proceed cautiously with plans to expand into new **sales territories**.
+545. *(Test 8 · Part 5)* In order to access the building, enter the code listed on the **tenant directory**.
+546. *(Test 8 · Part 5)* Mr. Davis from the **marketing department** will attend Monday's meeting with the client.
+547. *(Test 8 · Part 5)* Please join us in welcoming Dr. Sito, who brings ten years of experience in the **aerospace industry** to his new position.
+548. *(Test 8 · Part 5)* A survey of new **car buyers** asked them to rank features in order from most to least important.
+549. *(Test 8 · Part 5)* Customer **service representatives** can be reached by calling 800-555-0121 between 8:00 A.M. and 4:00 P.M.
+550. *(Test 8 · Part 6)* Please contact our **admissions department** at apply@mapleglen.edu if you have any questions regarding the MBA program requirements.
+551. *(Test 8 · Part 6)* I am delighted to report that our **focus group** members gave the redesigned app great reviews.
+552. *(Test 8 · Part 6)* I have attached the app's specifications and a draft of the **press release** to this e-mail.
+553. *(Test 8 · Part 6)* The Tipti PX200 is intended for **video bloggers** and online content creators, but it is unsuitable for filmmakers needing a greater range of features.
+554. *(Test 8 · Part 7)* Her going-away party will take place at 3:00 PM on 21 February in the second-floor **conference room**.
+555. *(Test 8 · Part 7)* Power **washing beautifies** your home and helps maintain the integrity of your structure!
+556. *(Test 8 · Part 7)* Do you have **lunch plans**?
+557. *(Test 8 · Part 7)* Our **parking area** is free but fills quickly.
+558. *(Test 8 · Part 7)* Buses on both the orange and the blue routes stop at the **zoo entrance**.
+559. *(Test 8 · Part 7)* During the **summer months**, extra buses run on these routes to accommodate visitors.
+560. *(Test 8 · Part 7)* HILLSDALE (July 7)—To accommodate Hillsdale's ever-growing population, the town council announced on Thursday that two major **construction projects** are planned.
+561. *(Test 8 · Part 7)* One section of the area will be dedicated exclusively to restaurants and small stores, while the other will be reserved for **office space**.
+562. *(Test 8 · Part 7)* "This area will include apartments as well as single-**family homes**."
+563. *(Test 8 · Part 7)* All Barbados Airlines passengers may bring one personal item (for example, a handbag or **laptop bag**) into the cabin with them.
+564. *(Test 8 · Part 7)* Child **safety seats** do not count toward a passenger's personal item allowance.
+565. *(Test 8 · Part 7)* For a fee of €20, a passenger may take on board a carry-on item such as a suitcase or **duffel bag**.
+566. *(Test 8 · Part 7)* Any carry-on item larger than these dimensions will be checked into the **baggage hold** and will incur a fee of €50.
+567. *(Test 8 · Part 7)* With special permission, oversized items like **sporting equipment** and musical instruments can be taken into the cabin as carry-on items.
+568. *(Test 8 · Part 7)* “Before bringing large items like these on board, please contact a **customer service** representative.”
+569. *(Test 8 · Part 7)* This year's **staff gathering** features a new twist: an online trivia competition to test your knowledge of popular culture, sports, and entertainment.
+570. *(Test 8 · Part 7)* Once the **trivia competition** has finished, we will keep the Z-Hype room open for another hour so that employees can mingle.
+571. *(Test 8 · Part 7)* Each **prize winner** will receive a gift card for a meal at Sondra's Grill.
+572. *(Test 8 · Part 7)* The son of a politician and a **newspaper reporter**, Mr. Maalim had originally planned to be an archaeologist.
+573. *(Test 8 · Part 7)* While he was a **university student**, he had a chance encounter with the director Nina Chen, who cast Mr. Maalim in a small role in her film The Winds of Sorrento.
+574. *(Test 8 · Part 7)* Over the next 30 years, Mr. Maalim became a **household name**, regularly appearing in motion pictures in Britain and the United States.
+575. *(Test 8 · Part 7)* The book says almost nothing about his **childhood years** or his relationships with his fellow University of Leeds students.
+576. *(Test 8 · Part 7)* Bring your family and friends to bowl, play **video games**, try out our unique virtual-reality station, and savour delicious meals at our own restaurant.
+577. *(Test 8 · Part 7)* With 18 **bowling lanes**, state-of-the-art gaming consoles, and award-winning food, Big Strike Lanes has something for everyone.
+578. *(Test 8 · Part 7)* Enjoy one hour of bowling and a £25 **gaming credit**.
+579. *(Test 8 · Part 7)* Enjoy two hours of bowling and two virtual-**reality experiences**.
+580. *(Test 8 · Part 7)* Big Strike Lanes is situated in a large **shopping centre** next to a busy motorway, so the surroundings are not exactly inviting.
+581. *(Test 8 · Part 7)* Costs to be split include recruitment and training of additional security and emergency **services workers**.
+582. *(Test 8 · Part 7)* Chief among these is the construction of another lane on Aviation Boulevard to accommodate the expected increase in **airport traffic**.
+583. *(Test 8 · Part 7)* “We look forward to providing the region’s residents with affordable, convenient service to Cranton,” stated Savita Grewal, public **relations director** at Winglite Airlines.
+584. *(Test 8 · Part 7)* I work as a **flight attendant** with Winglite Airlines.
+585. *(Test 8 · Part 7)* I will be in Arlford only half the time and will stay in a hotel near my **destination airport** for the rest of the week.
+586. *(Test 8 · Part 7)* I took the **forklift training** class for recertification for my job at Able Industries last month.
+587. *(Test 8 · Part 7)* She answered all my questions and was attuned to the challenges that **forklift operators** face.
+588. *(Test 8 · Part 7)* My only recommendation for the Forklift Training Academy is that they offer more variety in **course days** and times.
+589. *(Test 8 · Part 7)* Matt Grimm and the other **band members** love the stickers, which are selling very well.
+590. *(Test 8 · Part 7)* They received the most comments on the **group collage**.
+591. *(Test 8 · Part 7 – câu hỏi)* According to the e-mail, what should **staff members** do by February 16?
+592. *(Test 8 · Part 7 – câu hỏi)* What is indicated about the **staff event**?
+593. *(Test 8 · Part 7 – câu hỏi)* What is indicated about an **event cancellation**?
+594. *(Test 8 · Part 7 – câu hỏi)* How much did Ms. Shaw pay for **entertainment activities**?
+595. *(Test 8 · Part 7 – câu hỏi)* For what activity will Winglite Airlines and the city of Arlford **share expenses**?
+596. *(Test 8 · Part 7 – câu hỏi)* How much does a sticker that features a **vehicle cost**?
+597. *(Test 9 · Part 5)* Our records indicate that your **company car** is due for regular service next month.
+598. *(Test 9 · Part 5)* The main entrance to our **office building** will be closed on Tuesday because of construction.
+599. *(Test 9 · Part 5)* The **company picnic** at Floral Park will begin at noon on Saturday and end around 4:00 P.M.
+600. *(Test 9 · Part 5)* Ms. Xuan's proposal for reducing the company's **energy consumption** is worth considering.
+601. *(Test 9 · Part 5)* Dr. Grayston enthusiastically accepted the position of **school superintendent**.
+602. *(Test 9 · Part 5)* Once considered a **specialty product**, shoes made from recycled materials are now widely available.
+603. *(Test 9 · Part 5)* Yuping University has formed partnerships with local businesses to create **internship opportunities** for its students.
+604. *(Test 9 · Part 5)* Our **market research** shows that buyers with limited knowledge of a product often look for information from expert sources.
+605. *(Test 9 · Part 5)* Something is preventing the graphic artists from accessing the **image files** in the main database.
+606. *(Test 9 · Part 5)* Despite a delay, Thaintech completed the renovation of its warehouse before the **target date** of April 7.
+607. *(Test 9 · Part 5)* While its **credit card** system is offline, the Lexler Department Store is effectively closed for business.
+608. *(Test 9 · Part 5)* Nearly half of the **toy manufacturers** surveyed reported increased sales over the last two years.
+609. *(Test 9 · Part 5)* Nonprofit groups may submit up to three applications for funding consideration during any given **calendar year**.
+610. *(Test 9 · Part 5)* The ongoing shortage of hardwood has caused the price of certain **furniture items** to soar.
+611. *(Test 9 · Part 5)* Attach the magnetic tray to any flat **steel surface** for easy storage of and access to household or automotive tools.
+612. *(Test 9 · Part 5)* Whichever route they choose, it should take the **management team** approximately four hours to drive to the hotel in Antibes.
+613. *(Test 9 · Part 5)* All Baraantec Ltd. **hand tools** undergo rigorous inspections to ensure they are free of defects.
+614. *(Test 9 · Part 6)* Retro Crafters focuses on **furniture designs** from the 1950s through the 1970s.
+615. *(Test 9 · Part 6)* To us, small knots, tiny nicks, and **color variations** are not imperfections.
+616. *(Test 9 · Part 6)* Our latest collection features a wall-mounted **oak shelving** system with narrow rails.
+617. *(Test 9 · Part 6)* Moreover, the wall-mounted design frees up **floor space**.
+618. *(Test 9 · Part 6)* Our products are carried by **furniture retailers** in many urban centers around the country.
+619. *(Test 9 · Part 6)* Furniture stores interested in offering our products should contact Nya Fernaut, **sales director**.
+620. *(Test 9 · Part 6)* Before cleaning your **rice cooker**, detach the power cord from the electrical outlet.
+621. *(Test 9 · Part 6)* The purchase comes as no surprise to shoe **industry insiders**, who have speculated for some time about Shipley's financial challenges.
+622. *(Test 9 · Part 6)* Five of the six Shipley stores will be part of the Locke and Jeeves deal, including the **flagship store** here in London.
+623. *(Test 9 · Part 6)* "Shipley is an iconic **design house** that will be adding much to the Locke and Jeeves portfolio in the area of reliably traditional footwear," said Mr. Thayne.
+624. *(Test 9 · Part 7)* After six months of inactivity, **user accounts** are automatically closed.
+625. *(Test 9 · Part 7)* To avoid **account deactivation** on 20 July, simply sign in to the app before that date.
+626. *(Test 9 · Part 7)* I have a **furnace service** appointment scheduled this morning.
+627. *(Test 9 · Part 7)* I will see if we can make some **schedule changes**.
+628. *(Test 9 · Part 7)* In terms of physical dimensions and **data storage**, the Strato is the smallest model, the Alto is in the middle, and the Cirro is the largest.
+629. *(Test 9 · Part 7)* Most of the changes from Teleteknic's previous **phone models** are minor.
+630. *(Test 9 · Part 7)* All new models include an upgraded camera with advanced **zoom features** and automatic focus.
+631. *(Test 9 · Part 7)* Another advancement is in the batteries: the latest phones have a longer **battery life** and charge faster.
+632. *(Test 9 · Part 7)* Consumers can get a glimpse of the phones in a promotional video posted on the company's Web site at www.teleteknic.com.au, or they can see the models in person at next month's technical **trade show**.
+633. *(Test 9 · Part 7)* The new phones are expected to be on **store shelves** in November.
+634. *(Test 9 · Part 7)* I am a documentary filmmaker working to tell the story of how Tottenton evolved from a decaying industrial town into a hub for environmentally responsible **building initiatives** and sustainable architectural design.
+635. *(Test 9 · Part 7)* I'll then send you a personal **release form** to fill out, and we can arrange to meet for a 30- to 45-minute interview.
+636. *(Test 9 · Part 7)* Personal statements are brief pieces of writing that showcase a **job applicant**'s most notable talents, accomplishments, and qualities.
+637. *(Test 9 · Part 7)* Therefore, when you are composing a personal statement, it is important to be thoughtful about issues such as **word choice** and tone.
+638. *(Test 9 · Part 7)* If the employer does not provide a **word count**, aim for between 300 and 500 words.
+639. *(Test 9 · Part 7)* Would it be possible for you to be back here for a 12:30 **lunch meeting**?
+640. *(Test 9 · Part 7)* Your previous in-depth report that led to the **repair work** on that bridge was excellent.
+641. *(Test 9 · Part 7)* As someone who held this role prior to your retirement four years ago, you know exactly what knowledge and skills are needed for this position, making you an ideal candidate for our **search committee**.
+642. *(Test 9 · Part 7)* The enhanced exhibitions opened on Monday, one week before the scheduled **completion date**.
+643. *(Test 9 · Part 7)* The director’s persistent efforts helped to determine the priorities for the project. “Every week in the **museum lobby**, I interview patrons and record their opinions,” said Ms. Wert.
+644. *(Test 9 · Part 7)* The improved RHM exhibits also give the **user control** over the experience.
+645. *(Test 9 · Part 7)* Ms. Wert suggests that guests stroll around the city's adjoining **heritage district** and admire its vintage architecture after they visit the museum.
+646. *(Test 9 · Part 7)* Superra Cleaning is the leading provider of residential **cleaning services** in the Elmwood Valley region.
+647. *(Test 9 · Part 7)* We have built our reputation on our thorough weekly, biweekly, and monthly **house cleaning** packages.
+648. *(Test 9 · Part 7)* However, customers may not be familiar with our intensive special **cleaning services**.
+649. *(Test 9 · Part 7)* These services require no long-**term contract** and are priced affordably.
+650. *(Test 9 · Part 7)* Under the guidance of a supervisor, a two-**person team** will handle all the necessary dusting and scrubbing.
+651. *(Test 9 · Part 7)* Contact us at (616) 555-0189 to request a **price quote**.
+652. *(Test 9 · Part 7)* At the last minute, a friend informed me that he would be visiting the next day, and I had fallen behind on my **house cleaning**.
+653. *(Test 9 · Part 7)* It was the first time that I had to use a professional **cleaning service**, and I am glad I chose Superra.
+654. *(Test 9 · Part 7)* Note that Superra can be quite busy during the **summer season**.
+655. *(Test 9 · Part 7)* I would like to bring in some of my old books and use the **shop credit** to buy books for my six-year-old son.
+656. *(Test 9 · Part 7)* In addition to the **picture books** he has outgrown, I also have some newer science fiction paperbacks in good condition, two first-edition classic novels inherited from my great-grandmother, and three cookbooks filled with recipes submitted by members of a charity I run.
+657. *(Test 9 · Part 7)* PRETORIA (22 March)—Blue Lapis, a producer of industrial videos, announced today that it is now contracting with two **drone pilots** to provide the company's clients with aerial videography.
+658. *(Test 9 · Part 7)* “We have always excelled at capturing breathtaking **video imagery** for a wide range of industries, but we can now do so from new perspectives,” said Yunus Maseko, the CEO of Blue Lapis.
+659. *(Test 9 · Part 7)* “Whether for marketing, **progress reporting**, training, or something else, we offer our clients high-resolution videos from the sky.
+660. *(Test 9 · Part 7)* You should receive your **certification card** within ten business days.
+661. *(Test 9 · Part 7)* The client requests a **drone flight** over the entire length of the highway demonstrating the scale of the project, hovering over the section currently under construction, and zooming in to capture action shots of the work.
+662. *(Test 9 · Part 7)* The objective is to present how the **highway project** is proceeding and highlight what has been completed thus far.
+663. *(Test 9 · Part 7)* Contact Ms. Shabanguo to review the **flight plan** and discuss other areas of focus along the highway.
+664. *(Test 9 · Part 7)* Include in the title credits the **client company**'s name, project name, and the date the flyover video was taken.
+665. *(Test 9 · Part 7)* Lunskip Construction is a long-**time customer** with high expectations.
+666. *(Test 9 · Part 7 – câu hỏi)* What is the deadline for requesting **vacation time**?
+667. *(Test 9 · Part 7 – câu hỏi)* How does the Cirro model differ from the other new **phone models**?
+668. *(Test 9 · Part 7 – câu hỏi)* What is Ms. Finley's **film project** about?
+669. *(Test 9 · Part 7 – câu hỏi)* What is the main purpose of the text-**message chain**?
+670. *(Test 9 · Part 7 – câu hỏi)* Where is Ms. Jeon at the time of the text-**message chain**?
+671. *(Test 9 · Part 7 – câu hỏi)* What does Ms. Wert encourage **museum visitors** to do?
+672. *(Test 9 · Part 7 – câu hỏi)* What is suggested by the **contact list**?
+673. *(Test 9 · Part 7 – câu hỏi)* According to the Web page, what is one **thing people** wishing to become drone pilots must do?
+674. *(Test 9 · Part 7 – câu hỏi)* According to the **work order**, why did Lunsklip Construction request a video?
+675. *(Test 10 · Part 5)* Last summer, **jazz musician** Jay Deswani performed on the main concert stage at Waterfront Park.
+676. *(Test 10 · Part 5)* The purchasing department ordered six additional cases of **ink toner**.
+677. *(Test 10 · Part 5)* The minutes of last week's **board meeting** had only three minor errors.
+678. *(Test 10 · Part 5)* Line 73 is the oldest continuously operating **bus line** in Raymo City's history.
+679. *(Test 10 · Part 5)* This message is a reminder to pick up your package at your local **post office** as soon as possible.
+680. *(Test 10 · Part 5)* Mr. Takajian may be an entry-**level employee**, but he does not hesitate to take initiative.
+681. *(Test 10 · Part 5)* Because of efficient **project management**, Sparkware's latest software program was released on time.
+682. *(Test 10 · Part 5)* The **summer line** of outdoor furniture will be available at select stores as early as February.
+683. *(Test 10 · Part 5)* There has been a noticeable decrease in requests for **customer support** this quarter.
+684. *(Test 10 · Part 5)* Owing to the weather, we need to reschedule your appointment for **tree removal** service.
+685. *(Test 10 · Part 5)* It will require a coordinated effort between the two countries to complete the **railway line**.
+686. *(Test 10 · Part 5)* Tickets for Saturday's **football game** sold out on Thursday, much sooner than organizers had anticipated.
+687. *(Test 10 · Part 5)* Renewing your **auto registration** online rather than at the motor vehicle office will save you time.
+688. *(Test 10 · Part 5)* Employees are asked to update their **contact information** so that the staff directory can be finalized.
+689. *(Test 10 · Part 5)* Citing **energy efficiency** and cost reductions, the presenter made several convincing arguments for installing solar panels.
+690. *(Test 10 · Part 5)* After leaving his official **government role**, Dr. Beasly was named Director of the Nanboro Youth Farming Program.
+691. *(Test 10 · Part 6)* Some reviewers of the **television series** believe that the third season might be even better than the previous ones.
+692. *(Test 10 · Part 6)* Bingo Imprint creates designs for promotional products such as notebooks, **refrigerator magnets**, and apparel.
+693. *(Test 10 · Part 6)* We allow our clients to determine their level of involvement in the **design process**.
+694. *(Test 10 · Part 7)* Hampton Landscaping offers customers the option of having **landscaping products** delivered to their residences or businesses.
+695. *(Test 10 · Part 7)* This includes topsoil, compost, gravel, **bark dust**, firewood, and planting mixes.
+696. *(Test 10 · Part 7)* Please note that the requested **delivery area** must be accessible for our trucks.
+697. *(Test 10 · Part 7)* I was wondering if you could check the **budget report** I've been working on before I submit it to Accounting later this afternoon.
+698. *(Test 10 · Part 7)* I'm in the middle of my monthly **performance update**.
+699. *(Test 10 · Part 7)* I'll double-check the **cost data** in the meantime.
+700. *(Test 10 · Part 7)* Please see the information below for **price cuts** on your preferred trips.
+701. *(Test 10 · Part 7)* You have established a solid reputation regarding your **restaurant chain**, Saffron Moon.
+702. *(Test 10 · Part 7)* Your commitment to offering your customers across Europe unique and delicious **menu items** aligns with our vision for providing cruise-ship passengers with distinct restaurant options.
+703. *(Test 10 · Part 7)* Since our **cruise excursions** attract a diverse group of people, an even more extensive group will become familiar with your restaurant chain.
+704. *(Test 10 · Part 7)* Through our network of suppliers, we can help negotiate exceptionally low rates for **recipe ingredients** and restaurant equipment, thereby reducing your expenses.
+705. *(Test 10 · Part 7)* To qualify for the award, hospitals must meet a set of criteria, including timely access to care, superior medical outcomes, extensive **staff training**, and exceptional patient satisfaction.
+706. *(Test 10 · Part 7)* “The centre has consistently demonstrated dedication to high-**quality care**; therefore, we are pleased to recognise it this year as one of the nation’s outstanding medical facilities.”
+707. *(Test 10 · Part 7)* Since KMC opened its doors, we have set high patient **care standards** and strive to maintain this goal every year.
+708. *(Test 10 · Part 7)* Alexa Balog (4:02 P.M.) I'm on **lifeguard duty** today at Rosemoor Park.
+709. *(Test 10 · Part 7)* I'm in the **equipment shed**.
+710. *(Test 10 · Part 7)* I've been cleaning it up and straightening up the **pool supplies** here.
+711. *(Test 10 · Part 7)* For example, with the online retailer Clothing Discounters rapidly expanding, we assisted the company in increasing its call-**center capability**.
+712. *(Test 10 · Part 7)* “This solution eliminated the possibility of **business disruption**.”
+713. *(Test 10 · Part 7)* Ms. Alonso had the idea for the project while reading about recycled plastic being made into **park benches** in the Journal for Professional Landscape Architects.
+714. *(Test 10 · Part 7)* She then began to collect old plastic bottles and **cardboard shipping** boxes and innovatively combined them with commercially made, recyclable building materials.
+715. *(Test 10 · Part 7)* For the exhibition, Ms. Alonso has created a life-**size imitation** of commercial offices, with cubicles and partitions made from recovered materials.
+716. *(Test 10 · Part 7)* “By means of my synthetic **office space**, I am hoping to highlight the idea that old, unwanted objects can take on a new purpose,” Ms. Alonso said.
+717. *(Test 10 · Part 7)* Guests who attend the **art show** will have the opportunity to bring in their own recyclable plastic items and place them in large collection bags set up around the perimeter of the exhibition room.
+718. *(Test 10 · Part 7)* MCAC is open daily from 10:00 A.M. to 5:00 P.M. Admission to the **art center** is free.
+719. *(Test 10 · Part 7)* In addition to Ms. Alonso's show, works by several local **art students** will be on view in MCAC's main gallery.
+720. *(Test 10 · Part 7)* The recently promoted **vice president** of development, Rosa Martin, will be directing this expansion once she wraps up her work running the Customer Solutions Team at Exelrate's current headquarters in Frankfurt at the end of this month.
+721. *(Test 10 · Part 7)* The new **office building** was designed by Frank Tsudama, whose latest project involved Seoul's futurist Global Trade Centre.
+722. *(Test 10 · Part 7)* Exelrate's building will feature a ground-**level courtyard** with seating areas for public use, symbolising its insertion into the community.
+723. *(Test 10 · Part 7)* Richmond Supermarket is now offering **cooking classes** in our own state-of-the-art kitchen, the same kitchen where we create flavourful soups, salads, and entrées for our prepared foods department.
+724. *(Test 10 · Part 7)* Every Monday evening from 7:00 P.M. to 8:30 P.M. we turn our kitchen over to a **guest chef** from one of Richmond's many fine restaurants.
+725. *(Test 10 · Part 7)* Last week I learned how to prepare **fish tacos** with Mateo Bernal, head chef at Bernal's Restaurant.
+726. *(Test 10 · Part 7)* We made every component of the tacos from scratch, including the **corn tortillas**, grilled tilapia, and tomatillo salsa.
+727. *(Test 10 · Part 7)* Before she arrived at the institute, Dr. Robbins was the founder and director of the **ophthalmology clinic** at Morseville Hospital.
+728. *(Test 10 · Part 7)* Her innovations in treating **eye diseases** have benefited thousands of patients worldwide.
+729. *(Test 10 · Part 7)* Your insights into recent advancements in eye-**surgery techniques** captured the attention of everyone in the room.
+730. *(Test 10 · Part 7)* If you opt for our **consignment program**, we will sell your bicycle for you.
+731. *(Test 10 · Part 7)* You will receive a response from our **customer service** manager.
+732. *(Test 10 · Part 7)* We take appointments during regular **business hours**, Monday through Saturday from 9:00 A.M. to 5:00 P.M. When you come in for your appointment, a technician will assess the condition of your bicycle, and a sales associate will determine its current value.
+733. *(Test 10 · Part 7)* If the value specified is acceptable to you and you wish to trade in your bicycle, we deduct that amount from the **purchase price** of your new bicycle.
+734. *(Test 10 · Part 7)* If you prefer a **consignment arrangement**, we will sell your bicycle for the agreed-upon amount.
+735. *(Test 10 · Part 7)* If not, how can I receive my portion of the **selling price**?
+736. *(Test 10 · Part 7)* Employees usually submit a copy of their driver’s license (front and back) or the personal **information page** from their passport, but any official government identification is acceptable.
+737. *(Test 10 · Part 7)* Our **company team** participates in a league, and it’s a great way to build rapport with the people you will be working alongside.
+738. *(Test 10 · Part 7)* And thanks, too, for sending a copy of the checklist I received in the **orientation session**.
+739. *(Test 10 · Part 7)* I'll have to think about whether I want to join the **company softball** team.
+740. *(Test 10 · Part 7)* How much of a **time commitment** is it?
+741. *(Test 10 · Part 7)* The **company picnic** sounds like fun.
+742. *(Test 10 · Part 7 – câu hỏi)* What part of the **cleaning service** was Ms. Hwang least satisfied with?
+743. *(Test 10 · Part 7 – câu hỏi)* What is indicated in the notice about August's **cooking classes** at Richmond Supermarket?
+744. *(Test 10 · Part 7 – câu hỏi)* When most likely did Ms. Klein participate in a Richmond Supermarket **cooking class**?
+745. *(Test 10 · Part 7 – câu hỏi)* Why might Ms. Kuroda need to submit a **release form**?
+746. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Kuroda indicate about a **company picnic**?
 
 **🎧 Listening**
 

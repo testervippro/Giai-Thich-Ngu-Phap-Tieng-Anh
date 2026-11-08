@@ -25,8 +25,6 @@
 
 <small>765 câu Reading · 156 câu Listening</small>
 
-> Điểm này xuất hiện rất nhiều; dưới đây liệt kê 756 câu tiêu biểu (tối đa 600 câu mỗi phần).
-
 **📖 Reading**
 
 1. *(Test 1 · Part 5)* As a result of her many years leading media organizations, Ms. Ayo was selected for the Dowel Journalism Prize. → *her years*
@@ -522,8 +520,147 @@
 491. *(Test 8 · Part 7)* Visit us for one of **our deals** today; they will not be available after 31 May!
 492. *(Test 8 · Part 7)* I was very sad when Freeside Bowling shut **its doors** last year.
 493. *(Test 8 · Part 7)* A few friends and I decided to visit and take advantage of a promotional offer, and I'm happy to say that **our experience** was better than expected.
-494. *(Test 8 · Part 7 – câu hỏi)* At 8:21 A.M., what does Ms. Mehta imply when she writes, "I just work at **my computer** all day"?
-495. *(Test 8 · Part 7 – câu hỏi)* What does Ms. Shaw suggest in **her review**?
+494. *(Test 8 · Part 7)* At the restaurant, **our servers** were friendly, and the food was delicious.
+495. *(Test 8 · Part 7)* My only criticism of the place is the location. → *My criticism*
+496. *(Test 8 · Part 7)* Work on the boulevard will start immediately so that it will be finished before the airline begins **its service**.
+497. *(Test 8 · Part 7)* According to Ms. Grewal, the airline has scheduled its inaugural flight from Arlford Regional Airport for 1 August. → *its flight*
+498. *(Test 8 · Part 7)* At $850, including utilities, the monthly rent is just within **my budget**.
+499. *(Test 8 · Part 7)* I will be in Arlford only half the time and will stay in a hotel near my destination airport for the rest of the week. → *my airport*
+500. *(Test 8 · Part 7)* I took the forklift training class for recertification for **my job** at Able Industries last month.
+501. *(Test 8 · Part 7)* I was concerned about taking the course online; however, it covered all the material from the on-site training that I had for my original certification—and more. → *my certification*
+502. *(Test 8 · Part 7)* It was also great that I did not have to travel to take the course and that I received **my recertification** that very same day!
+503. *(Test 8 · Part 7)* She answered all **my questions** and was attuned to the challenges that forklift operators face.
+504. *(Test 8 · Part 7)* My only recommendation for the Forklift Training Academy is that they offer more variety in course days and times. → *My recommendation*
+505. *(Test 8 · Part 7)* They are a very affordable product that you can sell to **your audiences**.
+506. *(Test 8 · Part 7)* **Our stickers** are waterproof and resist fading.
+507. *(Test 8 · Part 7)* You can choose from hundreds of templates or upload your own artwork. → *your artwork*
+508. *(Test 8 · Part 7)* In fact, I play in a band myself, and I try to model **my style** of playing after his.
+509. *(Test 8 · Part 7)* It really came out beautifully, and we appreciate **your help** with it.
+510. *(Test 8 · Part 7 – câu hỏi)* At 8:21 A.M., what does Ms. Mehta imply when she writes, "I just work at **my computer** all day"?
+511. *(Test 8 · Part 7 – câu hỏi)* What does Ms. Shaw suggest in **her review**?
+512. *(Test 9 · Part 5)* **Our records** indicate that your company car is due for regular service next month.
+513. *(Test 9 · Part 5)* The main entrance to our office building will be closed on Tuesday because of construction. → *our building*
+514. *(Test 9 · Part 5)* The painter Marion Settimi developed her distinctive style during the years she lived in Indonesia. → *her style*
+515. *(Test 9 · Part 5)* Yuping University has formed partnerships with local businesses to create internship opportunities for **its students**.
+516. *(Test 9 · Part 5)* Our market research shows that buyers with limited knowledge of a product often look for information from expert sources. → *Our research*
+517. *(Test 9 · Part 5)* Despite a delay, Thaintech completed the renovation of **its warehouse** before the target date of April 7.
+518. *(Test 9 · Part 5)* While its credit card system is offline, the Lexler Department Store is effectively closed for business. → *its system*
+519. *(Test 9 · Part 5)* Clausen's Notes is well-known among writers and publishers for its in-depth reviews of books. → *its reviews*
+520. *(Test 9 · Part 6)* **Our products** are crafted to highlight the beauty of natural wood.
+521. *(Test 9 · Part 6)* Our latest collection features a wall-mounted oak shelving system with narrow rails. → *Our collection*
+522. *(Test 9 · Part 6)* **Our products** are carried by furniture retailers in many urban centers around the country.
+523. *(Test 9 · Part 6)* Furniture stores interested in offering **our products** should contact Nya Fernaut, sales director.
+524. *(Test 9 · Part 6)* Before cleaning your rice cooker, detach the power cord from the electrical outlet. → *your cooker*
+525. *(Test 9 · Part 6)* Thank you for entrusting me with the design of the logo for **your business**.
+526. *(Test 9 · Part 7)* Is a technician on the way to **my house** yet?
+527. *(Test 9 · Part 7)* **Our system** shows that someone will be there today between 3:00 P.M. and 5:00 P.M.
+528. *(Test 9 · Part 7)* **My notes** say 9:00 to 11:00 A.M. today.
+529. *(Test 9 · Part 7)* I reached **your technician**.
+530. *(Test 9 · Part 7)* As you know, the period from June 1 through August 31 is ordinarily our busiest time. → *our time*
+531. *(Test 9 · Part 7)* Management is also well aware that summer is the time when many of **our employees** like to take time off from work.
+532. *(Test 9 · Part 7)* Still, we must have sufficient staff on hand to deliver service of the highest quality, a policy for which Bellerson Financial is highly regarded by **its customers**.
+533. *(Test 9 · Part 7)* Therefore, if you are planning to take a vacation between June 1 and August 31, kindly submit **your request** by Friday, April 28.
+534. *(Test 9 · Part 7)* Thank you for **your assistance**.
+535. *(Test 9 · Part 7)* SYDNEY (21 March)—Electronics giant Teleteknic announced that it is launching three new models of its popular smartphone: the Strato, the Alto, and the Cirro. → *its smartphone*
+536. *(Test 9 · Part 7)* When crafting a personal statement, provide concrete examples of times when you had to rely on your unique qualities. → *your qualities*
+537. *(Test 9 · Part 7)* This can be an effective way of demonstrating to a prospective employer **your ability** to overcome challenges.
+538. *(Test 9 · Part 7)* Your final paragraph is an ideal place for this information, as you can create a separate version of this paragraph for each position you apply for. → *Your paragraph*
+539. *(Test 9 · Part 7)* Finally, ensure that you have carefully proofread **your statement** before submitting it.
+540. *(Test 9 · Part 7)* “You might explain, for instance, how a person you respect had a positive impact on **your life**.”
+541. *(Test 9 · Part 7)* Is it something **our crews** can do, or do we need to contract it out?
+542. *(Test 9 · Part 7)* Nothing appears to be critical, but given **its age**, I expect some preventive work may be required.
+543. *(Test 9 · Part 7)* Your previous in-depth report that led to the repair work on that bridge was excellent. → *Your report*
+544. *(Test 9 · Part 7)* As you may have heard, Jake Harris left **our company** last month to start his own business, leaving us without anyone to head our Graphic Design department.
+545. *(Test 9 · Part 7)* As someone who held this role prior to **your retirement** four years ago, you know exactly what knowledge and skills are needed for this position, making you an ideal candidate for our search committee.
+546. *(Test 9 · Part 7)* At that point, I will send you the applications with their respective résumés and a timeline for the hiring process. → *their résumés*
+547. *(Test 9 · Part 7)* For **your time** and effort, we will compensate you at the standard rate for external consultants.
+548. *(Test 9 · Part 7)* Please let me know **your answer** as soon as possible.
+549. *(Test 9 · Part 7)* DERRY (April 7)—The Regional History Museum (RHM) has upgraded many of **its exhibits** to include interactive technologies.
+550. *(Test 9 · Part 7)* The director’s persistent efforts helped to determine the priorities for the project. “Every week in the museum lobby, I interview patrons and record **their opinions**,” said Ms. Wert.
+551. *(Test 9 · Part 7)* “The changes reflect **their wishes** and ideas.”
+552. *(Test 9 · Part 7)* A touchscreen allows visitors to communicate electronically with an exhibit's unique database and target **their interests**.
+553. *(Test 9 · Part 7)* Ms. Wert suggests that guests stroll around the city's adjoining heritage district and admire its vintage architecture after they visit the museum. → *its architecture*
+554. *(Test 9 · Part 7)* We have built **our reputation** on our thorough weekly, biweekly, and monthly house cleaning packages.
+555. *(Test 9 · Part 7)* However, customers may not be familiar with our intensive special cleaning services. → *our services*
+556. *(Test 9 · Part 7)* Here is a list of **our offerings** and a new feature all customers may enjoy.
+557. *(Test 9 · Part 7)* A supervisor will oversee a three-person cleaning team to ensure **your home** is sparkling clean.
+558. *(Test 9 · Part 7)* At the last minute, a friend informed me that he would be visiting the next day, and I had fallen behind on my house cleaning. → *my cleaning*
+559. *(Test 9 · Part 7)* The crew even swept off my front porch after cleaning my home's interior. → *my porch*
+560. *(Test 9 · Part 7)* Luckily, another customer had canceled a cleaning an hour or so before **my call**, but otherwise, Superra was booked up for the entire week.
+561. *(Test 9 · Part 7)* I would like to bring in some of my old books and use the shop credit to buy books for my six-year-old son. → *my books*
+562. *(Test 9 · Part 7)* In addition to the picture books he has outgrown, I also have some newer science fiction paperbacks in good condition, two first-edition classic novels inherited from my great-grandmother, and three cookbooks filled with recipes submitted by members of a charity I run. → *my grandmother*
+563. *(Test 9 · Part 7)* Mr. Rein will fulfill the role of an assistant manufacturing supervisor in our Large Appliance Division. → *our Division*
+564. *(Test 9 · Part 7)* “Whether for marketing, progress reporting, training, or something else, we offer **our clients** high-resolution videos from the sky.
+565. *(Test 9 · Part 7)* You should receive your certification card within ten business days. → *your card*
+566. *(Test 9 · Part 7 – câu hỏi)* What must Mr. Hong do to maintain access to **his account**?
+567. *(Test 10 · Part 5)* Sophia Hollinger was commended for **her work** on the Kala account.
+568. *(Test 10 · Part 5)* Please complete the questionnaire to help **our team** better understand the financial services you are interested in.
+569. *(Test 10 · Part 5)* Patrons are asked to silence **their phones** when the show begins.
+570. *(Test 10 · Part 5)* This message is a reminder to pick up **your package** at your local post office as soon as possible.
+571. *(Test 10 · Part 5)* Owing to the weather, we need to reschedule **your appointment** for tree removal service.
+572. *(Test 10 · Part 5)* Renewing your auto registration online rather than at the motor vehicle office will save you time. → *your registration*
+573. *(Test 10 · Part 5)* Employees are asked to update their contact information so that the staff directory can be finalized. → *their information*
+574. *(Test 10 · Part 5)* Glistonford Manufacturing cautions consumers not to buy inferior imitations of its adjustable desks. → *its desks*
+575. *(Test 10 · Part 5)* After leaving his official government role, Dr. Beasly was named Director of the Nanboro Youth Farming Program. → *his role*
+576. *(Test 10 · Part 6)* Beginning 1 April, Windquest Farms will use Flexmerge crates to transport **our fruits** and vegetables.
+577. *(Test 10 · Part 6)* Safety is our top priority here at Windquest Farms. → *our priority*
+578. *(Test 10 · Part 6)* In contrast, other reviewers argue that the series might lose **its appeal** with the introduction of so many new characters, resulting in a complicated and confusing plotline.
+579. *(Test 10 · Part 6)* Thank you for sharing your interesting recipe that uses our low-fat, sugar-free Fluffy Time Whipped Topping. → *your recipe*
+580. *(Test 10 · Part 6)* It has been entered into our upcoming contest. → *our contest*
+581. *(Test 10 · Part 6)* The winning recipes will appear on **our product**'s packaging.
+582. *(Test 10 · Part 6)* We are so glad you enjoy **our products**.
+583. *(Test 10 · Part 6)* We allow **our clients** to determine their level of involvement in the design process.
+584. *(Test 10 · Part 7)* Hampton Landscaping offers customers the option of having landscaping products delivered to **their residences** or businesses.
+585. *(Test 10 · Part 7)* For **your convenience**, we offer large- and small-volume deliveries Monday through Saturday.
+586. *(Test 10 · Part 7)* Please note that the requested delivery area must be accessible for **our trucks**.
+587. *(Test 10 · Part 7)* I want to make sure that **my estimates** are sound.
+588. *(Test 10 · Part 7)* I'm in the middle of my monthly performance update. → *my update*
+589. *(Test 10 · Part 7)* Can I stop by **your office** at 2:30?
+590. *(Test 10 · Part 7)* Please see the information below for price cuts on your preferred trips. → *your trips*
+591. *(Test 10 · Part 7)* Thank you for reviewing **my recipes** to ensure they are easy to follow.
+592. *(Test 10 · Part 7)* I am writing to you to share the exciting news that Aqua Voyage Cruise Lines will be expanding **its fleet** next July.
+593. *(Test 10 · Part 7)* As part of **our plan**, we would welcome the opportunity to form a partnership with you.
+594. *(Test 10 · Part 7)* You have established a solid reputation regarding your restaurant chain, Saffron Moon. → *your chain*
+595. *(Test 10 · Part 7)* **Your commitment** to offering your customers across Europe unique and delicious menu items aligns with our vision for providing cruise-ship passengers with distinct restaurant options.
+596. *(Test 10 · Part 7)* Since our cruise excursions attract a diverse group of people, an even more extensive group will become familiar with your restaurant chain. → *our excursions*
+597. *(Test 10 · Part 7)* Aqua Voyage Cruise Lines will mention your top-rated chain in our brochures and feature it on our Web site. → *your chain*
+598. *(Test 10 · Part 7)* Through **our network** of suppliers, we can help negotiate exceptionally low rates for recipe ingredients and restaurant equipment, thereby reducing your expenses.
+599. *(Test 10 · Part 7)* This award reflects **our commitment** to putting patient well-being at the forefront of everything we do.
+600. *(Test 10 · Part 7)* Since KMC opened **its doors**, we have set high patient care standards and strive to maintain this goal every year.
+601. *(Test 10 · Part 7)* For example, with the online retailer Clothing Discounters rapidly expanding, we assisted the company in increasing its call-center capability. → *its capability*
+602. *(Test 10 · Part 7)* Her new exhibition, Throwaways into Treasure, runs from today until November 4 at the Maurely City Art Center (MCAC). → *Her exhibition*
+603. *(Test 10 · Part 7)* “By means of my synthetic office space, I am hoping to highlight the idea that old, unwanted objects can take on a new purpose,” Ms. Alonso said. → *my space*
+604. *(Test 10 · Part 7)* Guests who attend the art show will have the opportunity to bring in their own recyclable plastic items and place them in large collection bags set up around the perimeter of the exhibition room. → *their items*
+605. *(Test 10 · Part 7)* Ms. Alonso also plans to add more recyclable material to **her installation** as the show progresses.
+606. *(Test 10 · Part 7)* TORONTO (3 July)—Consumer analysis giant Exelrate will soon begin construction of its new headquarters in Toronto. → *its headquarters*
+607. *(Test 10 · Part 7)* Many well-known businesses use Exelrate's services to obtain an accurate understanding of **their customers**' experiences.
+608. *(Test 10 · Part 7)* The recently promoted vice president of development, Rosa Martin, will be directing this expansion once she wraps up **her work** running the Customer Solutions Team at Exelrate's current headquarters in Frankfurt at the end of this month.
+609. *(Test 10 · Part 7)* Exelrate's building will feature a ground-level courtyard with seating areas for public use, symbolising **its insertion** into the community.
+610. *(Test 10 · Part 7)* Richmond Supermarket is now offering cooking classes in our own state-of-the-art kitchen, the same kitchen where we create flavourful soups, salads, and entrées for our prepared foods department. → *our kitchen*
+611. *(Test 10 · Part 7)* Every Monday evening from 7:00 P.M. to 8:30 P.M. we turn **our kitchen** over to a guest chef from one of Richmond's many fine restaurants.
+612. *(Test 10 · Part 7)* Learn new techniques you can bring home to delight **your friends** and family!
+613. *(Test 10 · Part 7)* Classes sell out quickly, so reserve **your spot** today.
+614. *(Test 10 · Part 7)* Dr. Robbins, who grew up in York, earned her medical degree at Labato School of Medicine and completed a postdoctoral residency at Petersen Medical Center. → *her degree*
+615. *(Test 10 · Part 7)* **Her innovations** in treating eye diseases have benefited thousands of patients worldwide.
+616. *(Test 10 · Part 7)* I am sure I am not alone in saying that the highlight of the conference was your keynote address. → *your address*
+617. *(Test 10 · Part 7)* **Your insights** into recent advancements in eye-surgery techniques captured the attention of everyone in the room.
+618. *(Test 10 · Part 7)* If you select our trade-in program, you give us your bicycle, and, in exchange, we give you credit toward the purchase of a new one. → *our program*
+619. *(Test 10 · Part 7)* If you opt for our consignment program, we will sell your bicycle for you. → *our program*
+620. *(Test 10 · Part 7)* In **your e**-mail, you should also indicate whether you wish to trade in your bicycle or place it on consignment.
+621. *(Test 10 · Part 7)* You will receive a response from our customer service manager. → *our manager*
+622. *(Test 10 · Part 7)* We take appointments during regular business hours, Monday through Saturday from 9:00 A.M. to 5:00 P.M. When you come in for **your appointment**, a technician will assess the condition of your bicycle, and a sales associate will determine its current value.
+623. *(Test 10 · Part 7)* If the value specified is acceptable to you and you wish to trade in **your bicycle**, we deduct that amount from the purchase price of your new bicycle.
+624. *(Test 10 · Part 7)* If you prefer a consignment arrangement, we will sell **your bicycle** for the agreed-upon amount.
+625. *(Test 10 · Part 7)* If not, how can I receive **my portion** of the selling price?
+626. *(Test 10 · Part 7)* Employees usually submit a copy of their driver’s license (front and back) or the personal information page from their passport, but any official government identification is acceptable. → *their license*
+627. *(Test 10 · Part 7)* Our company team participates in a league, and it’s a great way to build rapport with the people you will be working alongside. → *Our team*
+628. *(Test 10 · Part 7)* It’s an opportunity to interact with **your coworkers** in an informal, nonworking environment.
+629. *(Test 10 · Part 7)* Thank you for **your e**-mail.
+630. *(Test 10 · Part 7)* I don't drive, so I don't have a driver's license, but I can provide a copy of the page from **my passport**.
+631. *(Test 10 · Part 7)* I love Briarwood Park and look forward to the opportunity to get to know **my coworkers** better.
+632. *(Test 10 · Part 7 – câu hỏi)* What does the table indicate about customers' satisfaction with their overall experience? → *their experience*
+633. *(Test 10 · Part 7 – câu hỏi)* Where did Dr. Robbins complete her postdoctoral residency? → *her residency*
+634. *(Test 10 · Part 7 – câu hỏi)* What does Ms. Johnson indicate in **her e**-mail?
 
 **🎧 Listening**
 
