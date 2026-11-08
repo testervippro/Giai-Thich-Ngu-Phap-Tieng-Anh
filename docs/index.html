@@ -78,6 +78,28 @@ body::before {
   color: #059669;
 }
 
+/* TOEIC reading: nút xem đáp án dưới mỗi câu hỏi */
+.markdown-section details.ans {
+  margin: 0.4em 0 1.4em;
+  border: 1px solid #a7f3d0;
+  border-radius: 8px;
+  background: #f0fdf4;
+}
+.markdown-section details.ans > summary {
+  cursor: pointer;
+  padding: 0.35em 0.8em;
+  font-weight: 600;
+  color: #047857;
+  user-select: none;
+}
+.markdown-section details.ans[open] > summary {
+  border-bottom: 1px solid #a7f3d0;
+}
+.markdown-section details.ans .ans-line {
+  padding: 0.3em 0.9em;
+  line-height: 1.6;
+}
+
 /* TOEIC listening transcripts: preserve intentional line breaks. */
 .markdown-section .transcript {
   white-space: pre-line;

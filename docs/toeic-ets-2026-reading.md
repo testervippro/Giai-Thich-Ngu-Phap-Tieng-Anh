@@ -23,6 +23,11 @@ The lecture will take place at 6:00 P.M.,
 
 - D. among
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. after</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>after which</i> = "sau đó thì…": buổi giảng 6 giờ, <b>sau đó</b> khán giả được hỏi. <i>among which</i> phải đi với danh từ số nhiều.</div>
+</details>
+
 ##### Question 102
 The ----- antique shop in Pepper Valley will close down next month.
 
@@ -33,6 +38,11 @@ The ----- antique shop in Pepper Valley will close down next month.
 - C. lasted
 
 - D. lasting
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. last</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the last + N</i> = "(cửa hàng) cuối cùng còn lại". <i>lasting</i> = "lâu bền", không hợp nghĩa.</div>
+</details>
 
 ##### Question 103
 Merryville residents will receive an online status ----- about the ongoing bridge construction project.
@@ -45,6 +55,11 @@ Merryville residents will receive an online status ----- about the ongoing bridg
 
 - D. request
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. update</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>status update</i> = bản cập nhật tình hình (collocation cố định).</div>
+</details>
+
 ##### Question 105
 To stop the ----- of computer viruses, do not open suspicious e-mails.
 
@@ -55,6 +70,11 @@ To stop the ----- of computer viruses, do not open suspicious e-mails.
 - C. balance
 
 - D. surface
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. spread</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the spread of viruses</i> = sự lây lan của virus.</div>
+</details>
 
 ##### Question 106
 The hiring manager ----- considered each applicant's résumé and qualifications.
@@ -67,6 +87,11 @@ The hiring manager ----- considered each applicant's résumé and qualifications
 
 - D. carefulness
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. carefully</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chỗ trống đứng giữa chủ ngữ và động từ <i>considered</i> → cần trạng từ.</div>
+</details>
+
 ##### Question 104
 As a result of ----- many years leading media organizations, Ms. Ayo was selected for the Dowel Journalism Prize.
 
@@ -77,6 +102,11 @@ As a result of ----- many years leading media organizations, Ms. Ayo was selecte
 - C. hers
 
 - D. herself
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. her</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Tính từ sở hữu đứng trước cụm danh từ: <i>her many years (leading…)</i>.</div>
+</details>
 
 ##### Question 107
 In October, Mr. Sakamoto will leave for New Zealand ----- will oversee the opening of the new Auckland branch.
@@ -89,6 +119,11 @@ In October, Mr. Sakamoto will leave for New Zealand ----- will oversee the openi
 
 - D. prior to
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. and</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Hai vị ngữ cùng chủ ngữ: <i>will leave… <b>and</b> will oversee…</i>. <i>in addition</i> không nối được hai mệnh đề.</div>
+</details>
+
 ##### Question 108
 Tarateer Pharmaceuticals is varying its product ----- to include over-the-counter medications.
 
@@ -99,6 +134,11 @@ Tarateer Pharmaceuticals is varying its product ----- to include over-the-counte
 - C. lined
 
 - D. line
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. line</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>product line</i> = dòng sản phẩm.</div>
+</details>
 
 ##### Question 109
 Dynart, Inc., continuously ----- new ways to reduce its use of plastics.
@@ -111,6 +151,11 @@ Dynart, Inc., continuously ----- new ways to reduce its use of plastics.
 
 - D. seeking
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. seeks</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chủ ngữ số ít + trạng từ <i>continuously</i> → cần động từ chia: <i>seeks</i>.</div>
+</details>
+
 ##### Question 110
 The cash registers at Pirkle Books automatically ----- the remaining inventory of books available.
 
@@ -121,6 +166,11 @@ The cash registers at Pirkle Books automatically ----- the remaining inventory o
 - C. calculating
 
 - D. calculation
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. calculate</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chủ ngữ số nhiều <i>cash registers</i> + trạng từ → cần động từ nguyên thể <i>calculate</i>.</div>
+</details>
 
 ##### Question 111
 The product team is designing mapping software that can ----- locate underground minerals.
@@ -133,6 +183,11 @@ The product team is designing mapping software that can ----- locate underground
 
 - D. greatly
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. precisely</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>precisely locate</i> = định vị chính xác.</div>
+</details>
+
 ##### Question 112
 According to CEO Mayu Yamada, it would not be ----- responsible to expand the warehouse at this time.
 
@@ -144,6 +199,11 @@ According to CEO Mayu Yamada, it would not be ----- responsible to expand the wa
 
 - D. financing
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. financially</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa cho tính từ: <i>financially responsible</i> = có trách nhiệm về tài chính.</div>
+</details>
+
 ##### Question 113
 Analysts cannot say with any ----- what the regional demand for electric trucks will be.
 
@@ -154,6 +214,11 @@ Analysts cannot say with any ----- what the regional demand for electric trucks 
 - C. excellence
 
 - D. denial
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. certainty</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Cụm cố định <i>say with any certainty</i> = nói chắc chắn được.</div>
+</details>
 
 ##### Question 114
 As part of its marketing campaign,
@@ -170,6 +235,11 @@ feedback from customers.
 
 - D. cleanly
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. actively</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>actively soliciting feedback</i> = chủ động thu thập ý kiến.</div>
+</details>
+
 ##### Question 115
 Rain gardens are intended to ----- water to prevent flooding of local roads.
 
@@ -180,6 +250,11 @@ Rain gardens are intended to ----- water to prevent flooding of local roads.
 - C. absorb
 
 - D. overwhelm
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. absorb</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>absorb water</i> = hút/thấm nước, để chống ngập.</div>
+</details>
 
 ##### Question 116
 Theta Industries' training program aims to increase the ----- of its manufacturing systems.
@@ -192,6 +267,11 @@ Theta Industries' training program aims to increase the ----- of its manufacturi
 
 - D. productivity
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. productivity</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau <i>the</i> và trước <i>of</i> → cần danh từ chỉ khái niệm: <i>productivity</i> = năng suất.</div>
+</details>
+
 ##### Question 117
 The board of directors has voted to award Mr. Mitrakos a bonus for his role ----- obtaining the international contract.
 
@@ -202,6 +282,11 @@ The board of directors has voted to award Mr. Mitrakos a bonus for his role ----
 - C. except
 
 - D. apart
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. in</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>role in + V-ing/N</i> = vai trò trong việc…</div>
+</details>
 
 ##### Question 118
 The finance director gave his approval
@@ -216,6 +301,11 @@ The finance director gave his approval
 
 - D. so that
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. so that</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Nối hai mệnh đề, chỉ mục đích/kết quả: <i>…so that the project can move forward</i>.</div>
+</details>
+
 ##### Question 119
 The newspaper article describes ways job seekers can ----- for having little workplace experience.
 
@@ -226,6 +316,11 @@ The newspaper article describes ways job seekers can ----- for having little wor
 - C. compensate
 
 - D. accumulate
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. compensate</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>compensate for</i> = bù đắp cho (việc ít kinh nghiệm).</div>
+</details>
 
 ##### Question 120
 Mr. Ellis and Ms. Barnes were both highly qualified, but ----- got the job.
@@ -238,6 +333,11 @@ Mr. Ellis and Ms. Barnes were both highly qualified, but ----- got the job.
 
 - D. whoever
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. neither</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Both… qualified, but neither got the job</i> = không ai trong hai người được nhận.</div>
+</details>
+
 ##### Question 121
 Ennis Photography purchased at the new lighting equipment ----- the high cost.
 
@@ -248,6 +348,11 @@ Ennis Photography purchased at the new lighting equipment ----- the high cost.
 - C. until
 
 - D. despite
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. despite</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau chỗ trống là cụm danh từ (<i>the high cost</i>) → giới từ <i>despite</i>. <i>even though</i> phải theo sau là mệnh đề.</div>
+</details>
 
 ##### Question 122
 Marburton residents who wish to ----- a home should contact the award-winning team at Kwan Real Estate.
@@ -260,6 +365,11 @@ Marburton residents who wish to ----- a home should contact the award-winning te
 
 - D. selling
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. sell</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau <i>wish to</i> là động từ nguyên thể.</div>
+</details>
+
 ##### Question 123
 Maswa Bistro began a ----- agreement with local farmers to purchase a set amount of produce each week.
 
@@ -270,6 +380,11 @@ Maswa Bistro began a ----- agreement with local farmers to purchase a set amount
 - C. grateful
 
 - D. concerned
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. cooperative</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>cooperative agreement</i> = thỏa thuận hợp tác.</div>
+</details>
 
 ##### Question 124
 The City of Doyle's new downtown parking
@@ -286,6 +401,11 @@ residents and visitors.
 
 - D. restricting
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. restrictions</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chủ ngữ của <i>have been met</i> → danh từ số nhiều: <i>parking restrictions</i>.</div>
+</details>
+
 ##### Question 125
 The plumbing position requires extensive training, even for those who studied ---- in technical school.
 
@@ -296,6 +416,11 @@ The plumbing position requires extensive training, even for those who studied --
 - C. objectively
 
 - D. decidedly
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. diligently</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>studied diligently</i> = học chăm chỉ.</div>
+</details>
 
 ##### Question 126
 With its fixed price -----, Omega Cellular guarantees no phone bill increases for three years.
@@ -308,6 +433,11 @@ With its fixed price -----, Omega Cellular guarantees no phone bill increases fo
 
 - D. assures
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. assurance</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau <i>its fixed price</i> cần danh từ: <i>price assurance</i> = cam kết giữ giá.</div>
+</details>
+
 ##### Question 127
 As chief analytics officer, Mr. Ko has worked at Lochston Ltd. with great ----- for more than twenty years.
 
@@ -318,6 +448,11 @@ As chief analytics officer, Mr. Ko has worked at Lochston Ltd. with great ----- 
 - C. declaration
 
 - D. dedication
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. dedication</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>with great dedication</i> = với sự tận tụy lớn.</div>
+</details>
 
 ##### Question 128
 Milltown Hospital's cafeteria serves lunch seven days a week ----- only on weekdays.
@@ -330,6 +465,11 @@ Milltown Hospital's cafeteria serves lunch seven days a week ----- only on weekd
 
 - D. rather than
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. rather than</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>seven days a week <b>rather than</b> only on weekdays</i> = thay vì chỉ ngày thường.</div>
+</details>
+
 ##### Question 129
 The store's entire inventory of lumber comes from a nearby ----- supplier.
 
@@ -341,6 +481,11 @@ The store's entire inventory of lumber comes from a nearby ----- supplier.
 
 - D. commercial
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. commercial</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>commercial supplier</i> = nhà cung cấp thương mại.</div>
+</details>
+
 ##### Question 130
 For a $95 ----- fee, our mechanics will determine what repairs are needed.
 
@@ -351,6 +496,11 @@ For a $95 ----- fee, our mechanics will determine what repairs are needed.
 - C. diagnosable
 
 - D. diagnose
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. diagnostic</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Tính từ bổ nghĩa <i>fee</i>: <i>diagnostic fee</i> = phí chẩn đoán/kiểm tra.</div>
+</details>
 
 ### Part 6
 
@@ -371,6 +521,11 @@ Riessler Landscaping has everything you need to create your dream garden. We wil
 
 - D. Riessler Landscaping's goal is to make your vision a reality.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu trước nói "lắng nghe ý tưởng của bạn" → nối tự nhiên bằng "mục tiêu là biến ý tưởng của bạn thành hiện thực".</div>
+</details>
+
 ##### Question 132
 - A. years
 
@@ -379,6 +534,11 @@ Riessler Landscaping has everything you need to create your dream garden. We wil
 - C. beauty
 
 - D. moisture
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. beauty</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>add beauty (to your garden)</i>: cây hoa làm khu vườn thêm đẹp.</div>
+</details>
 
 ##### Question 133
 - A. also
@@ -389,6 +549,11 @@ Riessler Landscaping has everything you need to create your dream garden. We wil
 
 - D. nevertheless
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. also</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Bổ sung thêm một dịch vụ: <i>We are <b>also</b> equipped to…</i></div>
+</details>
+
 ##### Question 134
 - A. its
 
@@ -397,6 +562,11 @@ Riessler Landscaping has everything you need to create your dream garden. We wil
 - C. others
 
 - D. their
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. our</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Cả đoạn dùng <i>we</i> → <i>our expertise</i>.</div>
+</details>
 
 10 January
 
@@ -431,6 +601,11 @@ Brandrix Distribution Centre
 
 - D. You have been a valuable member of our team.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Thư chúc mừng 30 năm làm việc → "Bạn là thành viên quý giá của đội ngũ". Câu sau nói tiếp về <i>dedication, loyalty</i>.</div>
+</details>
+
 ##### Question 136
 - A. will show
 
@@ -439,6 +614,11 @@ Brandrix Distribution Centre
 - C. have shown
 
 - D. are showing
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. have shown</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Over the years</i> → hiện tại hoàn thành.</div>
+</details>
 
 ##### Question 137
 - A. then
@@ -449,6 +629,11 @@ Brandrix Distribution Centre
 
 - D. likewise
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. soon</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>will soon be receiving</i> = sắp nhận được (kỷ niệm chương gửi qua bưu điện).</div>
+</details>
+
 ##### Question 138
 - A. milestone
 
@@ -457,6 +642,11 @@ Brandrix Distribution Centre
 - C. destination
 
 - D. understanding
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. milestone</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>reaching this milestone</i> = đạt cột mốc này (30 năm).</div>
+</details>
 
 To: Kay Berman <kberman@xmail.com>
 
@@ -489,6 +679,11 @@ Ali Chaleby, Valencia Design
 
 - D. finalizes
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. finalizing</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau <i>in the process of</i> là V-ing.</div>
+</details>
+
 ##### Question 142
 - A. them
 
@@ -497,6 +692,11 @@ Ali Chaleby, Valencia Design
 - C. his
 
 - D. me
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. me</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Please let me know</i> (người viết là Ali).</div>
+</details>
 
 ##### Question 140
 - A. organizations
@@ -507,6 +707,11 @@ Ali Chaleby, Valencia Design
 
 - D. times
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. colors</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu trước nói về các loại sơn → <i>those new colors</i>.</div>
+</details>
+
 ##### Question 141
 - A. I have already begun drawing up plans for your kitchen.
 
@@ -515,6 +720,11 @@ Ali Chaleby, Valencia Design
 - C. Your living room is particularly spacious and airy.
 
 - D. We have not yet received your current payment.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu sau "Ý kiến của bạn giúp chúng tôi hoàn thiện thiết kế <b>trước khi bắt đầu</b>" → còn hai tuần nữa mới bắt đầu.</div>
+</details>
 
 To: Marsha Zalen <mzalen@mansfield.com>
 
@@ -547,6 +757,11 @@ Kaymar Primary Care Practice
 
 - D. satisfactorily
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. satisfactory</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>find + O + adj</i>: <i>found our services satisfactory</i> = thấy dịch vụ ổn, đạt yêu cầu.</div>
+</details>
+
 ##### Question 144
 - A. photo
 
@@ -555,6 +770,11 @@ Kaymar Primary Care Practice
 - C. summary
 
 - D. schedule
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. summary</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>a summary of your consultation</i> = bản tóm tắt buổi khám.</div>
+</details>
 
 ##### Question 146
 - A. We hope you will use this resource to manage your health-care needs.
@@ -565,6 +785,11 @@ Kaymar Primary Care Practice
 
 - D. We apologize for any confusion about your appointment time.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Kết đoạn về cổng thông tin: "hy vọng bạn sử dụng công cụ này để quản lý nhu cầu sức khỏe".</div>
+</details>
+
 ##### Question 145
 - A. To repeat
 
@@ -573,6 +798,11 @@ Kaymar Primary Care Practice
 - C. Otherwise
 
 - D. Consequently
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. For instance</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu sau liệt kê ví dụ cho <i>various activities</i>.</div>
+</details>
 
 ### Part 7
 
@@ -599,6 +829,14 @@ What is the purpose of the notice?
 
 - D. To announce an increase in parking fees
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thông báo việc rải lại mặt bãi đỗ xe vào 3–4/5.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Notice opens by announcing Riverside Paving will resurface the parking area May 3-4; whole text is advance information</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose = &quot;inform of an upcoming project&quot;; distractors (meeting, fees, feedback) not mentioned</i></div>
+</details>
+
 ##### Question 148
 What is suggested about High View Apartments?
 
@@ -609,6 +847,14 @@ What is suggested about High View Apartments?
 - C. It has the parking area repaved every year.
 
 - D. It assigns tenants specific parking spots.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "You will receive an e-mail if <b>your parking space</b> is moved…" → mỗi người có chỗ đỗ riêng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;You will receive an e-mail if your parking space is moved more than 20 meters from your previous one&quot; + &quot;some spaces could be moved&quot; implies each resident has an assigned space</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference from implied detail; distractors (fee, new manager, yearly repaving) have no basis</i></div>
+</details>
 
 Carol Barger (10:45 A.M.)
 
@@ -641,6 +887,14 @@ What most likely is Ms. Seang's job?
 
 - D. Program administrator
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bà Seang dạy lớp <i>mosaic workshop</i> → giáo viên mỹ thuật.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ms. Seang leads a mosaic workshop with 15 participants and supplies the materials</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Job inferred from activity; &quot;glassmaker&quot; is a distractor from sea glass; Barger (administrator) is the other speaker</i></div>
+</details>
+
 ##### Question 150
 At 11:23 A.M., what does Ms. Seang imply when she writes, "I have plenty to go around"?
 
@@ -651,6 +905,14 @@ At 11:23 A.M., what does Ms. Seang imply when she writes, "I have plenty to go a
 - C. She can share her sea glass with all the workshop participants.
 
 - D. She does not think she will use much of her sea glass.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>plenty to go around</i> = có đủ chia cho mọi người, trả lời câu "đủ vật liệu cho 15 người không?".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Barger asks if she has enough materials for 15 participants; &quot;plenty to go around&quot; answers that: enough sea glass to share among all</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Idiom &quot;plenty to go around&quot; = enough for everyone; distractors misread as size/years/little use</i></div>
+</details>
 
 #### Questions 151-152 refer to the following e-mail.
 
@@ -673,6 +935,14 @@ What is mentioned about Mr. Norton?
 
 - D. He will be moving to another company location.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "Jason Norton will <b>transfer</b> to our Kingston headquarters".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Jason Norton will transfer to our Kingston headquarters next month&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: transfer to headquarters = moving to another company location</i></div>
+</details>
+
 ##### Question 152
 What does Ms. Correa ask members of the sales team to do?
 
@@ -683,6 +953,14 @@ What does Ms. Correa ask members of the sales team to do?
 - C. Inform her of plans to attend an event
 
 - D. Help her decorate the office
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "Let me know by 12 October <b>whether you will be able to attend</b>".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Let me know by 12 October whether you will be able to attend&quot; the luncheon</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: let me know whether you can attend = inform of plans to attend an event; wrong: newsletter is only background</i></div>
+</details>
 
 ### Refurbished Theater Gives Town a Boost
 
@@ -701,6 +979,14 @@ What is the purpose of the article?
 
 - D. To advertise a new restaurant
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Rạp hát <i>is scheduled to reopen in June</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Lead: the 40-year-old Crown Coastal Theater is scheduled to reopen in June</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose = announce reopening; distractors (beach, premiere, new restaurant) are peripheral mentions</i></div>
+</details>
+
 ##### Question 154
 Who is Ms. Flanagan?
 
@@ -711,6 +997,14 @@ Who is Ms. Flanagan?
 - C. Ms. Lafferty's business partner
 
 - D. The writer of the article
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Lafferty và Flanagan cùng sở hữu Blue Bay Bistro và cùng mua rạp.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Paragraph 2: Lafferty and childhood friend Morgan Flanagan &quot;also own the popular Blue Bay Bistro&quot; and decided to buy the theater</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: friends who co-own = business partner</i></div>
+</details>
 
 #### Questions 155-157 refer to the following e-mail.
 
@@ -727,6 +1021,14 @@ What is the purpose of the e-mail?
 
 - D. To offer a substitute item
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Hàng đang <i>on back order</i> → gợi ý mẫu Belter thay thế.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ordered Makatasi is on back order; writer offers similar Belter BTR-1483</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose = offer substitute; &quot;payment&quot; is a distractor (refund is mentioned only as part of the switch)</i></div>
+</details>
+
 ##### Question 156
 What is mentioned about the Belter BTR-1483 telescope?
 
@@ -737,6 +1039,14 @@ What is mentioned about the Belter BTR-1483 telescope?
 - C. It includes a protective case.
 
 - D. It is the most expensive telescope of its type.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "all Belter telescopes include a <b>padded carrying case</b>".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;all Belter telescopes include a padded carrying case&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: padded carrying case = protective case; it is $200 cheaper, so &quot;most expensive&quot; is wrong</i></div>
+</details>
 
 ##### Question 157
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -750,6 +1060,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Vị trí [2] đứng ngay sau đoạn nêu thông số (120 mm aperture, lens hood) → "Xem đủ thông số trên web".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Specs sentence follows [2], which lists the aperture and lens hood (specifications) of the Belter; &quot;In addition&quot; then continues with the case</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Topic-continuity: &quot;full list of specifications&quot; after specs are named; [1] is back-order news, [3]/[4] are order procedures</i></div>
+</details>
 
 #### Questions 158-160 refer to the following e-mail.
 
@@ -766,6 +1084,14 @@ What is one purpose of the e-mail?
 
 - D. To indicate that Mr. Delpit is out of the office
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thư trả lời tự động: <i>I am currently on holiday</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Auto-reply: &quot;I am currently on holiday and will return to the office on 15 March&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Auto-reply purpose; other items (product release, newsletter) are extras, &quot;one purpose&quot; wording</i></div>
+</details>
+
 ##### Question 159
 What will happen on April 2?
 
@@ -777,6 +1103,14 @@ What will happen on April 2?
 
 - D. A Web site redesign will begin.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Phần mềm thiết kế mới <i>will be released on 2 April</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;our new graphic design software program will be released on 2 April&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: released = launched; job opening is mentioned separately and not linked to the date</i></div>
+</details>
+
 ##### Question 160
 How can people subscribe to a newsletter?
 
@@ -787,6 +1121,14 @@ How can people subscribe to a newsletter?
 - C. By visiting Hamerkoptech's Web site
 
 - D. By contacting the customer service department
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đăng ký nhận bản tin trên website (<i>sign up… on the home page</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Sign up for weekly newsletter on Hamerkoptech&#x27;s Web site home page</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractors: contacts listed in the previous paragraph (assistant, customer service)</i></div>
+</details>
 
 #### Questions 161-163 refer to the following article.
 
@@ -809,6 +1151,14 @@ What is one purpose of the article?
 
 - D. To introduce a recently hired executive
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ra mắt dòng thực phẩm đông lạnh Nutridinna.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article introduces the Nutridinna frozen-food line, sold from November</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>&quot;One purpose&quot; = announce new product line; the CEO is not newly hired</i></div>
+</details>
+
 ##### Question 162
 The word "just" in paragraph 1, line 8, is closest in meaning to
 
@@ -820,6 +1170,14 @@ The word "just" in paragraph 1, line 8, is closest in meaning to
 
 - D. only
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. only</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>not just about convenience</i> = không chỉ là tiện lợi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;not just about convenience&quot; = not only about convenience</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Common word with multiple senses; &quot;only&quot; fits</i></div>
+</details>
+
 ##### Question 163
 What does Ms. Martens suggest about flash-frozen food?
 
@@ -830,6 +1188,14 @@ What does Ms. Martens suggest about flash-frozen food?
 - C. It is as easy to ship as fresh food.
 
 - D. It is less flavorful than fresh food.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đông lạnh nhanh giữ lại <i>healthy vitamins and minerals</i> → bổ dưỡng như đồ tươi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Flash-freezing retains texture, flavour, &quot;healthy vitamins and minerals&quot; and freshness</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: retains vitamins and minerals = as nutritious; distractors reverse the claim</i></div>
+</details>
 
 #### Questions 164-167 refer to the following advertisement.
 
@@ -864,6 +1230,14 @@ According to the advertisement, who most likely is Ms. Navani?
 
 - D. A real estate agent
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Navani là <i>CEO and founder</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: the firm began ten years ago at the home of &quot;our current CEO and founder Shirin Navani&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: CEO and founder = business owner</i></div>
+</details>
+
 ##### Question 165
 What is indicated about Karning Creative Designs?
 
@@ -874,6 +1248,14 @@ What is indicated about Karning Creative Designs?
 - C. It was founded by Mr. Tomassin.
 
 - D. Its staff are permitted to work from home.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>began… as a two-person operation</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;began ten years ago as a two-person operation&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: two-person operation = initially employed two people; Tomassin is only the contact person (not founder)</i></div>
+</details>
 
 ##### Question 166
 What is required of job applicants?
@@ -886,6 +1268,14 @@ What is required of job applicants?
 
 - D. An ability to use certain software applications
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "<i>strong ability to work closely with colleagues</i>". Kinh nghiệm thiết kế chỉ là <i>a plus</i> (điểm cộng).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ideal candidate &quot;demonstrates a strong ability to work closely with colleagues&quot;; experience is &quot;a plus but not strictly necessary&quot;; a degree can be substituted</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trap: experience listed as optional; &quot;software&quot; and &quot;weekends&quot; never mentioned</i></div>
+</details>
+
 ##### Question 167
 What will happen on March 31?
 
@@ -896,6 +1286,14 @@ What will happen on March 31?
 - C. A graphic designer will relocate.
 
 - D. An application form will be made available.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "All applications must be received by March 31" → hạn chót.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;All applications must be received by March 31&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: application deadline = deadline occurs</i></div>
+</details>
 
 NEW HAVEN (June 1)—Marco's Italian Restaurant on Frontage Road will be reopening in late June. It closed three months ago after a water leak caused extensive damage to the kitchen. A significant amount of work needed to be done in the kitchen and dining areas.—[1]—. The restaurant will accommodate larger parties when it reopens.
 
@@ -914,6 +1312,14 @@ What does the article mention about Marco's Italian Restaurant?
 
 - D. It opened in a new location.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Rò nước gây hư hại nặng, cần sửa nhiều (<i>significant amount of work</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;A significant amount of work needed to be done in the kitchen and dining areas&quot; after water damage</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: significant work = major renovations; reopening is at the same location</i></div>
+</details>
+
 ##### Question 169
 What is indicated about Marco's Italian Market?
 
@@ -925,6 +1331,14 @@ What is indicated about Marco's Italian Market?
 
 - D. It is located next door to Marco's Italian Restaurant.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "We needed to add staff there <b>temporarily</b>" vào mùa cao điểm. (D sai vì hai cửa hàng nằm đối diện nhau, không sát vách.)</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Mr. Marco: &quot;We needed to add staff there temporarily&quot; right before its busy season</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference from temporary staff added in busy season; &quot;next door&quot; is wrong (opposite side of the street)</i></div>
+</details>
+
 ##### Question 170
 What will happen during the event on June 25?
 
@@ -935,6 +1349,14 @@ What will happen during the event on June 25?
 - C. Mr. Marco will celebrate his retirement.
 
 - D. The New Haven business community will honor Mr. Marco.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>a new tasting menu</i> = món đặc biệt.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Guests will enjoy live music and a new tasting menu&quot; on June 25</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: new tasting menu = special menu items</i></div>
+</details>
 
 ##### Question 171
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -948,6 +1370,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [1] đứng sau "sửa bếp và khu ăn uống" và trước "sẽ phục vụ được nhóm khách đông hơn".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>[1] follows the sentence about kitchen and dining area work and precedes &quot;will accommodate larger parties&quot; (added dining space)</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Logical flow: repairs, then added dining space, then larger parties</i></div>
+</details>
 
 #### Questions 172-175 refer to the following online chat discussion.
 
@@ -1000,6 +1430,14 @@ Why did Ms. Barry begin an online chat with Mr. Kubelski?
 
 - D. To ask for clarification about a request
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "I have a question for you first…" → hỏi lại cho rõ yêu cầu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Barry asks whether he needs all account holders&#x27; e-mails or only an age group</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: asks about the request scope = ask for clarification; no apology is given</i></div>
+</details>
+
 ##### Question 173
 Who will receive an e-mail from Mr. Kubelski?
 
@@ -1010,6 +1448,14 @@ Who will receive an e-mail from Mr. Kubelski?
 - C. Financial planners
 
 - D. All Mr. Kubelski's clients
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Khách hàng 55–65 tuổi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Kubelski wants to e-mail account holders aged 55 to 65</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: aged 55-65 = one age-group; distractors &quot;all clients&quot; is the original broader request</i></div>
+</details>
 
 ##### Question 174
 What does Ms. Choi offer to do?
@@ -1022,6 +1468,14 @@ What does Ms. Choi offer to do?
 
 - D. Revise a policy
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "We can update your current request form for you."</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Choi: &quot;We can update your current request form for you&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: update form = make a change to a form</i></div>
+</details>
+
 ##### Question 175
 At 10:22 A.M., what does Ms. Barry most likely mean when she writes, “There are several projects ahead of yours”?
 
@@ -1032,6 +1486,14 @@ At 10:22 A.M., what does Ms. Barry most likely mean when she writes, “There ar
 - C. Mr. Kubelski's request will not be the first job Ms. Barry completes.
 
 - D. Mr. Kubelski will need to assist with other projects first.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Còn nhiều dự án xếp trước → yêu cầu của ông ấy không được làm đầu tiên.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Answer to &quot;get me the list right away?&quot;; other projects are ahead in the queue, so his is not first</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied refusal of speed; trap: not moved to end of queue, not Kubelski helping</i></div>
+</details>
 
 #### Questions 176-180 refer to the following article and e-mail.
 
@@ -1060,6 +1522,14 @@ According to the article, what is one way that food truck owners traditionally a
 
 - D. From signs at food festivals
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "they often rely on <b>word of mouth</b> or social media".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article, first paragraph: owners &quot;often rely on word of mouth or social media&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Direct paraphrase; other options never mentioned</i></div>
+</details>
+
 ##### Question 177
 According to the article, what information does not need to appear on the Home page?
 
@@ -1070,6 +1540,14 @@ According to the article, what information does not need to appear on the Home p
 - C. Company name
 
 - D. Seasonal food items
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Món theo mùa thuộc trang <b>News</b>, không phải Home.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article Home page: bold graphics with truck name, locations and operating hours; seasonal items belong to News page</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question needing check of the Home-page paragraph vs the News-page paragraph</i></div>
+</details>
 
 ##### Question 178
 In what field does Mr. Abruzzo most likely work?
@@ -1082,6 +1560,14 @@ In what field does Mr. Abruzzo most likely work?
 
 - D. Package delivery
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ông Abruzzo làm website mẫu → thiết kế web.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: Vale thanks Abruzzo for creating the prototype Web site for his food truck; Article gives Web site design tips</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link: Abruzzo built the Web site (email) and sent the article about Web site design</i></div>
+</details>
+
 ##### Question 179
 In which section of the Web site will information most likely be added?
 
@@ -1093,6 +1579,14 @@ In which section of the Web site will information most likely be added?
 
 - D. The News page
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thông tin khuyến mãi (<i>promotion</i>) → trang News (bài báo: <i>upcoming promotions</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: new promotion (free dessert with sandwich) starting mid-April to be added; article: News page informs of &quot;upcoming promotions or special events&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: promotion in email = News page content in article</i></div>
+</details>
+
 ##### Question 180
 According to the e-mail, when will the Web site launch?
 
@@ -1103,6 +1597,14 @@ According to the e-mail, when will the Web site launch?
 - C. On April 5
 
 - D. On April 15
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "launch it as the official site on April 5".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;launch it as the official site on April 5&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractors: March 28/29 (call/email dates), mid-April (promotion start)</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 181-185 refer to the following e-mail and press release.</div> </div>
 
@@ -1127,6 +1629,14 @@ What is indicated about the Net Zero Initiative?
 
 - D. It will change the way an institution heats its buildings.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Giếng địa nhiệt dùng để sưởi/làm mát cả khuôn viên trường.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: geothermal wells for &quot;heating and cooling of our entire campus&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: campus = institution; wrong: funding/city power</i></div>
+</details>
+
 ##### Question 182
 In the e-mail, the word "conduct" in paragraph 2, line 1, is closest in meaning to
 
@@ -1137,6 +1647,14 @@ In the e-mail, the word "conduct" in paragraph 2, line 1, is closest in meaning 
 - C. transmit
 
 - D. carry out
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. carry out</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>conduct test drilling</i> = tiến hành khoan thử.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;we will conduct test drilling&quot; = carry out</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Verb sense of conduct</i></div>
+</details>
 
 ##### Question 183
 What can be concluded about the Red Hills Business District?
@@ -1149,6 +1667,14 @@ What can be concluded about the Red Hills Business District?
 
 - D. It is home to the offices of the Daily Gazette.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "drilling adjacent to the Red Hills Business District" + "near the campus".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: drilling on campus &quot;adjacent to the Red Hills Business District&quot;; press release: association based in Red Hills, contact Manny Green</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: same Business Association/district in both; Oak Street Apartments listed separately, so &quot;includes&quot; is wrong</i></div>
+</details>
+
 ##### Question 184
 Why most likely did the Red Hills Business Association change the dates of its concert series?
 
@@ -1160,6 +1686,14 @@ Why most likely did the Red Hills Business Association change the dates of its c
 
 - D. To prevent a conflict with a similar event
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why) + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Khoan từ 5/6, kéo dài 2 tuần, ồn ào → hòa nhạc dời từ tháng 6 sang tháng 7 (phải nối hai văn bản).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: drilling starting June 5 near the district (noise) during two weeks with hours 10 A.M.-3 P.M.; press release: June concerts moved to July, lunch hour on Oak Street</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: drilling in June at lunch hours vs concerts in June, moved to July; implicit reason, no explicit statement</i></div>
+</details>
+
 ##### Question 185
 What is mentioned in the press release about the Cultural Center?
 
@@ -1170,6 +1704,14 @@ What is mentioned in the press release about the Cultural Center?
 - C. It will offer arts-and-crafts workshops.
 
 - D. It will provide the stage for performers.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Người bán đồ thủ công <i>display their work on the lawn of the Cultural Center</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Press release: vendors &quot;display their work on the lawn of the Cultural Center&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: arts-and-crafts vendors display work = artwork for sale (property = lawn)</i></div>
+</details>
 
 #### Questions 186-190 refer to the following advertisement, form, and review.
 
@@ -1211,6 +1753,14 @@ According to the advertisement, what is one type of work performed by Lawal Home
 
 - D. Replacing heating systems
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>gutter restoration</i> = sửa máng xối.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: services include &quot;attic insulation and gutter restoration&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: gutter restoration = repairing gutters; heating systems not offered</i></div>
+</details>
+
 ##### Question 187
 What does Mr. Gerson indicate on the form about his roof?
 
@@ -1221,6 +1771,14 @@ What does Mr. Gerson indicate on the form about his roof?
 - C. It was not expensive to install.
 
 - D. It is under warranty for 30 years.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "water has begun to drip through the section over the patio".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Form: &quot;water has begun to drip through the section over the patio&quot;; roof over 30 years old</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trap: 25-year warranty applies to roofs installed by Lawal, not his roof</i></div>
+</details>
 
 ##### Question 188
 When did Lawal Home Service inspect Mr. Gerson's roof?
@@ -1233,6 +1791,14 @@ When did Lawal Home Service inspect Mr. Gerson's roof?
 
 - D. On December 20
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Form gửi ngày 12/12 + "came to inspect my roof the <b>very next day</b>" → 13/12.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Form dated December 12; review: estimator came &quot;the very next day&quot; after he left the description</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: form date + review; the work dates (Dec 19-20) are distractors</i></div>
+</details>
+
 ##### Question 189
 Who most likely is Ms. Perez?
 
@@ -1244,6 +1810,14 @@ Who most likely is Ms. Perez?
 
 - D. A booking agent
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Quảng cáo: <i>project supervisors are always on-site</i>; review: Perez <i>was on-site for the whole job</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: Diana Perez &quot;was on-site for the whole job as promised and answered all my questions&quot;; ad: project supervisors always on-site to answer questions</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: ad&#x27;s promise of on-site supervisors matches review action</i></div>
+</details>
+
 ##### Question 190
 According to the review, what surprised Mr. Gerson about the crew from Lawal Home Service?
 
@@ -1254,6 +1828,14 @@ According to the review, what surprised Mr. Gerson about the crew from Lawal Hom
 - C. The quality of their materials
 
 - D. The tools they used for a job
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Máy hút đinh bằng nam châm: "I had never seen anything like that!"</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: &quot;two magnetic devices resembling lawnmowers... I had never seen anything like that&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: magnetic devices = tools</i></div>
+</details>
 
 #### Questions 191-195 refer to the following e-mails and form.
 
@@ -1286,6 +1868,14 @@ What is one service that Darboury Company most likely provides?
 
 - D. Graphic design
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Darboury tạo bìa sổ theo yêu cầu → thiết kế đồ họa.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Pereira asks Balaji for help &quot;creating cover designs&quot;; he sends sample covers, tests colors</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference from service (cover design creation)</i></div>
+</details>
+
 ##### Question 192
 What sample was delayed?
 
@@ -1296,6 +1886,14 @@ What sample was delayed?
 - C. Lavender Bouquet
 
 - D. Sail Away
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>sticker art… against the original black background</i> → mẫu World Suitcase.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Second e-mail: sample delayed since &quot;sticker art did not show up well against original black background&quot;; first e-mail table: World Suitcase (stickers), Black</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: black background + travel stickers = World Suitcase</i></div>
+</details>
 
 ##### Question 193
 When is the deadline for Ms. Pereira to approve samples?
@@ -1308,6 +1906,14 @@ When is the deadline for Ms. Pereira to approve samples?
 
 - D. August 1
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "As long as you send your approval… by June 11".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Second e-mail: approval by June 11 so entire order ships before July 20</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractors: May 25 (e-mail date), July 20, Aug 1 (sale)</i></div>
+</details>
+
 ##### Question 194
 What does the form indicate about the Bun Bun Books order?
 
@@ -1319,6 +1925,14 @@ What does the form indicate about the Bun Bun Books order?
 
 - D. It will arrive late.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Đối chiếu bảng / biểu mẫu</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đơn có <i>Large metal display rack</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Order form: item D1 &quot;Large metal display rack&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: display rack = display stand; form says Standard shipping, not overnight</i></div>
+</details>
+
 ##### Question 195
 What is the background color on the cover of item N3-GT?
 
@@ -1329,6 +1943,14 @@ What is the background color on the cover of item N3-GT?
 - C. Yellow
 
 - D. White
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nối thông tin 2 văn bản + Đối chiếu bảng / biểu mẫu</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> N3-GT = Great Thoughts → nền xanh (Blue).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Form: N3-GT = Great Thoughts; first e-mail table: Great Thoughts background Blue</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: item code, then cover name, then color; not the changed World Suitcase</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 196-200 refer to the following e-mail, review, and notice.</div> </div>
 
@@ -1353,6 +1975,14 @@ What is the purpose of the e-mail?
 
 - D. To nominate a manager for an award
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "It is time to vote… respond… with your vote".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;time to vote... respond by Friday with your vote&quot; to managers</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: vote = ask for opinions; nominees are employees, not managers</i></div>
+</details>
+
 ##### Question 197
 According to the e-mail, who identified a technical problem?
 
@@ -1363,6 +1993,14 @@ According to the e-mail, who identified a technical problem?
 - C. Mr. Rhodes
 
 - D. Ms. Black
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Nick Salehi <i>found a glitch in our computer system</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;Nick Salehi found a glitch in our computer system&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: glitch = technical problem; the name is misspelled Almahdri in option B for other nominee</i></div>
+</details>
 
 ##### Question 198
 What can be concluded about Mr. Riggs?
@@ -1377,6 +2015,14 @@ What can be concluded about Mr. Riggs?
 
 - D. He negotiated with Ms. Black for a lower price.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> General manager (Charlotte Black) <i>agreed to sell… same price</i> as a competitor.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: &quot;general manager agreed to sell us the Excelera for the same price a competing dealership was advertising&quot;; email: Charlotte Black is General Manager</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: general manager = Ms. Black (different title vs name), so he negotiated the price</i></div>
+</details>
+
 ##### Question 199
 What is indicated in the notice about Ms. Boyd?
 
@@ -1388,6 +2034,14 @@ What is indicated in the notice about Ms. Boyd?
 
 - D. She recently completed a sales training course.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "encouraging satisfied customers to post comments… more great reviews".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Notice: Erica &quot;encouraging satisfied customers to post comments&quot;; more reviews than previous four months combined</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: post comments/great reviews = increase in customer feedback; she does not manage the social media pages</i></div>
+</details>
+
 ##### Question 200
 What is most likely true about Ms. Boyd?
 
@@ -1398,6 +2052,14 @@ What is most likely true about Ms. Boyd?
 - C. She has years of experience in the auto industry.
 
 - D. She was hired by Wilson Autos in April.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 3 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Muốn thắng phải có <i>at least three votes</i> (e-mail) + Erica thắng (thông báo).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: winner must receive at least three votes; notice: Erica is the winner; review Aug 22 says she was new; notice says three months (hired about June, not April)</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: Erica Boyd in all three docs; winner rule from e-mail; hired-in-April is a trap</i></div>
+</details>
 
 ETS토익정기시험
 
@@ -1430,6 +2092,11 @@ The all-new Amore sports sedan is engineered for maximum reliability ----- gas m
 
 - D. nor
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. and</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Nối hai danh từ cùng loại: <i>maximum reliability <b>and</b> gas mileage</i>.</div>
+</details>
+
 ##### Question 102
 The staff was grateful for the ----- that Mr. Schuller distributed at the meeting.
 
@@ -1440,6 +2107,11 @@ The staff was grateful for the ----- that Mr. Schuller distributed at the meetin
 - C. informs
 
 - D. inform
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. information</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau <i>the</i> là danh từ; <i>information</i> không đếm được.</div>
+</details>
 
 ##### Question 103
 The next meeting of the planning committee will be held ----- at 2 P.M.
@@ -1452,6 +2124,11 @@ The next meeting of the planning committee will be held ----- at 2 P.M.
 
 - D. promptly
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. promptly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>promptly at 2 P.M.</i> = đúng 2 giờ.</div>
+</details>
+
 ##### Question 104
 Reimbursement for travel expenses will be included in ----- October 1 paycheck.
 
@@ -1462,6 +2139,11 @@ Reimbursement for travel expenses will be included in ----- October 1 paycheck.
 - C. yours
 
 - D. yourself
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. your</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Tính từ sở hữu đứng trước cụm danh từ <i>October 1 paycheck</i>.</div>
+</details>
 
 ##### Question 105
 The ----- design engineer on the drone camera project is Iseul Bae.
@@ -1474,6 +2156,11 @@ The ----- design engineer on the drone camera project is Iseul Bae.
 
 - D. most
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. lead</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>lead design engineer</i> = kỹ sư thiết kế chính.</div>
+</details>
+
 ##### Question 106
 After reading several reviews, Mr. Kim was able to decide which printer ----- for the office.
 
@@ -1484,6 +2171,11 @@ After reading several reviews, Mr. Kim was able to decide which printer ----- fo
 - C. buy
 
 - D. to buy
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. to buy</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>decide which + to V</i> = quyết định nên mua cái nào.</div>
+</details>
 
 ##### Question 107
 Please remove the boxes left in the staff lounge ----- 5 P.M.
@@ -1496,6 +2188,11 @@ Please remove the boxes left in the staff lounge ----- 5 P.M.
 
 - D. by
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. by</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>by 5 P.M.</i> = trước/chậm nhất lúc 5 giờ (hạn chót).</div>
+</details>
+
 ##### Question 108
 The Southport ----- plant is expected to begin production in three days.
 
@@ -1506,6 +2203,11 @@ The Southport ----- plant is expected to begin production in three days.
 - C. manufacturing
 
 - D. manufactures
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. manufacturing</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>manufacturing plant</i> = nhà máy sản xuất (danh từ ghép).</div>
+</details>
 
 ##### Question 109
 After accepting a job offer, a candidate must ----- all onboarding tasks before the start date.
@@ -1518,6 +2220,11 @@ After accepting a job offer, a candidate must ----- all onboarding tasks before 
 
 - D. enlist
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. complete</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>complete tasks</i> = hoàn thành công việc. <i>proceed</i> phải đi với <i>with</i>.</div>
+</details>
+
 ##### Question 110
 Although ----- training has just begun, Ms. Yu has already mastered the company's proprietary accounting software.
 
@@ -1528,6 +2235,11 @@ Although ----- training has just begun, Ms. Yu has already mastered the company'
 - C. hers
 
 - D. herself
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. her</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Tính từ sở hữu + danh từ: <i>her training</i>.</div>
+</details>
 
 ##### Question 111
 Ms. Clayton was ----- to find that none of her files had been lost during the power failure.
@@ -1540,6 +2252,11 @@ Ms. Clayton was ----- to find that none of her files had been lost during the po
 
 - D. absolute
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. relieved</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>be relieved to find</i> = nhẹ nhõm khi thấy.</div>
+</details>
+
 ##### Question 112
 During Mr. Nagahori's tenure as CEO at Unten Properties, the company has grown ___.
 
@@ -1550,6 +2267,11 @@ During Mr. Nagahori's tenure as CEO at Unten Properties, the company has grown _
 - C. significant
 
 - D. significantly
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. significantly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa cho nội động từ <i>grown</i>.</div>
+</details>
 
 ##### Question 113
 Safety must always be the top ----- in each step of the glassblowing process.
@@ -1562,6 +2284,11 @@ Safety must always be the top ----- in each step of the glassblowing process.
 
 - D. position
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. priority</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>top priority</i> = ưu tiên hàng đầu.</div>
+</details>
+
 ##### Question 114
 Central Science Museum hosts online seminars by experts who ----- topics related to information technology.
 
@@ -1573,6 +2300,11 @@ Central Science Museum hosts online seminars by experts who ----- topics related
 
 - D. cover
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. cover</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mệnh đề quan hệ <i>who</i> + động từ chủ động chia theo chủ ngữ: <i>experts who cover topics</i>.</div>
+</details>
+
 ##### Question 115
 Conradia Computers ----- changed the direction of its marketing strategy last week.
 
@@ -1583,6 +2315,11 @@ Conradia Computers ----- changed the direction of its marketing strategy last we
 - C. formerly
 
 - D. frequently
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. abruptly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>abruptly changed</i> = thay đổi đột ngột. <i>formerly</i> không đi với thì quá khứ + <i>last week</i>.</div>
+</details>
 
 ##### Question 116
 Because of an abundance of -----
@@ -1599,6 +2336,11 @@ longer than expected to name a new CEO.
 
 - D. qualifies
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. qualified</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>qualified candidates</i> = ứng viên đủ tiêu chuẩn.</div>
+</details>
+
 ##### Question 117
 All of our tablet computers come with a one-year warranty ----- includes hardware repairs and replacements.
 
@@ -1609,6 +2351,11 @@ All of our tablet computers come with a one-year warranty ----- includes hardwar
 - C. what
 
 - D. it
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. that</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Đại từ quan hệ thay cho vật (<i>warranty</i>).</div>
+</details>
 
 ##### Question 118
 The Exprite Foundation Board of Directors is ----- of nine members who are elected annually by the public.
@@ -1621,6 +2368,11 @@ The Exprite Foundation Board of Directors is ----- of nine members who are elect
 
 - D. announced
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. composed</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>be composed of</i> = gồm có.</div>
+</details>
+
 ##### Question 119
 Mortgage brokers generally prefer to review all the financial documents ---- meeting with a new client.
 
@@ -1631,6 +2383,11 @@ Mortgage brokers generally prefer to review all the financial documents ---- mee
 - C. lately
 
 - D. before
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. before</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>before meeting…</i> = trước khi gặp.</div>
+</details>
 
 ##### Question 120
 Management ----- candidates for promotion by the end of the month.
@@ -1643,6 +2400,11 @@ Management ----- candidates for promotion by the end of the month.
 
 - D. to identify
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. will identify</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chủ ngữ cần động từ chia; <i>by the end of the month</i> → tương lai.</div>
+</details>
+
 ##### Question 121
 While we typically charge $25 for missed appointments, we understand that ----- circumstances may arise.
 
@@ -1653,6 +2415,11 @@ While we typically charge $25 for missed appointments, we understand that ----- 
 - C. approximate
 
 - D. acclaimed
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. unforeseen</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>unforeseen circumstances</i> = tình huống bất ngờ.</div>
+</details>
 
 ##### Question 122
 At Blu Hedge, clients receive 1 percent interest, pay no account fees, and can make unlimited -----.
@@ -1665,6 +2432,11 @@ At Blu Hedge, clients receive 1 percent interest, pay no account fees, and can m
 
 - D. transferring
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. transfers</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>unlimited transfers</i> = chuyển khoản không giới hạn (danh từ số nhiều).</div>
+</details>
+
 ##### Question 123
 Farist Bakery, which specializes in dessert catering, is located ----- the Liverpool Convention Complex.
 
@@ -1675,6 +2447,11 @@ Farist Bakery, which specializes in dessert catering, is located ----- the Liver
 - C. since
 
 - D. following
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. near</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>located near</i> = nằm gần.</div>
+</details>
 
 ##### Question 126
 Several Seoul-based companies have
@@ -1691,6 +2468,11 @@ more colorful and comfortable.
 
 - D. notably
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. notably</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ chen giữa <i>have… redesigned</i>: <i>notably</i> = đáng chú ý là.</div>
+</details>
+
 ##### Question 127
 The employee picnic will be postponed until next Friday because of the ----- cold temperatures this week.
 
@@ -1701,6 +2483,11 @@ The employee picnic will be postponed until next Friday because of the ----- col
 - C. irresponsibly
 
 - D. unseasonably
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. unseasonably</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>unseasonably cold</i> = lạnh bất thường so với mùa.</div>
+</details>
 
 ##### Question 124
 The presentations were ----- than we expected, so there was ample time left for questions.
@@ -1713,6 +2500,11 @@ The presentations were ----- than we expected, so there was ample time left for 
 
 - D. briefest
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. briefer</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Có <i>than</i> → so sánh hơn.</div>
+</details>
+
 ##### Question 128
 The accounting department is in first place in the office fund-raising challenge, ----- just two more days to go.
 
@@ -1724,6 +2516,11 @@ The accounting department is in first place in the office fund-raising challenge
 
 - D. else
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. with</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>with two more days to go</i> = khi chỉ còn hai ngày nữa.</div>
+</details>
+
 ##### Question 125
 According to our -----, your order will arrive in three days or we will refund 50 percent of the cost.
 
@@ -1734,6 +2531,11 @@ According to our -----, your order will arrive in three days or we will refund 5
 - C. exception
 
 - D. discount
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. guarantee</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>According to our guarantee</i> = theo cam kết (giao trong 3 ngày, không thì hoàn 50%).</div>
+</details>
 
 ##### Question 129
 Pink Geranium Coffee has struggled to
@@ -1750,6 +2552,11 @@ beverages on the market.
 
 - D. revoke
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. distinguish</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>distinguish A from B</i> = phân biệt/tạo khác biệt A với B.</div>
+</details>
+
 ##### Question 130
 ----- it is occasionally inconvenient, Mr. Ohtani expects all team members to attend his weekly meeting.
 
@@ -1760,6 +2567,11 @@ beverages on the market.
 - C. Because
 
 - D. When
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. Though</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Nhượng bộ: <i>Dù đôi khi bất tiện, vẫn yêu cầu mọi người dự</i>.</div>
+</details>
 
 ### Part 6
 
@@ -1782,6 +2594,11 @@ Today, Muffin Lady Muffins are made by hand  (133). the same original recipes de
 
 - D. Before long
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. Before long</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Before long</i> = chẳng bao lâu sau (bà bắt đầu chia bánh cho bất kỳ ai).</div>
+</details>
+
 ##### Question 133
 - A. using
 
@@ -1790,6 +2607,11 @@ Today, Muffin Lady Muffins are made by hand  (133). the same original recipes de
 - C. use
 
 - D. to use
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. using</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Phân từ chủ động: <i>made by hand using the same recipes</i>.</div>
+</details>
 
 ##### Question 132
 - A. With many savory options, muffins are not just for breakfast anymore.
@@ -1800,6 +2622,11 @@ Today, Muffin Lady Muffins are made by hand  (133). the same original recipes de
 
 - D. Unfortunately, it took nearly three hours to prepare a batch.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mạch truyện: chia bánh cho mọi người → mỗi tuần nướng loại mới cho người hâm mộ → được gọi là Muffin Lady.</div>
+</details>
+
 ##### Question 134
 - A. creates
 
@@ -1808,6 +2635,11 @@ Today, Muffin Lady Muffins are made by hand  (133). the same original recipes de
 - C. creatively
 
 - D. creations
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. creations</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau tính từ <i>delicious</i> cần danh từ: <i>our delicious creations</i>.</div>
+</details>
 
 ##### Teksheen Supply >> Products >> Natural Hand Soap
 
@@ -1822,6 +2654,11 @@ Many brands of hand soap contain unnecessary chemicals. For those who  _____ a s
 
 - D. preference
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. prefer</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>those who + V</i>: <i>those who prefer</i>.</div>
+</details>
+
 ##### Question 138
 - A. equipment
 
@@ -1830,6 +2667,11 @@ Many brands of hand soap contain unnecessary chemicals. For those who  _____ a s
 - C. issue
 
 - D. item
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. item</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>purchase this item in bulk</i> = mua sản phẩm này số lượng lớn.</div>
+</details>
 
 ##### Question 136
 - A. Its
@@ -1840,6 +2682,11 @@ Many brands of hand soap contain unnecessary chemicals. For those who  _____ a s
 
 - D. None
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. Its</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Its patented formula</i> (công thức của xà phòng).</div>
+</details>
+
 ##### Question 137
 - A. Many soaps have a fragrance that is too strong for customers.
 
@@ -1848,6 +2695,11 @@ Many brands of hand soap contain unnecessary chemicals. For those who  _____ a s
 - C. Several factors can influence the price of soap products.
 
 - D. All the ingredients are sourced from plants found in the wild.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Đang nói về thành phần tự nhiên → "mọi thành phần đều lấy từ cây mọc hoang".</div>
+</details>
 
 ##### Moortap Bistro Plans to Close Its Doors
 
@@ -1868,6 +2720,11 @@ Ellison intends to spend more time in her garden. She is searching for a buyer f
 
 - D. is offering
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. offered</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Kể chuyện quá khứ (<i>opened, wanted, worked</i>).</div>
+</details>
+
 ##### Question 140
 - A. field
 
@@ -1876,6 +2733,11 @@ Ellison intends to spend more time in her garden. She is searching for a buyer f
 - C. eatery
 
 - D. theater
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. eatery</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>eatery</i> = quán ăn (chỉ bistro).</div>
+</details>
 
 ##### Question 142
 - A. fast-paced
@@ -1886,6 +2748,11 @@ Ellison intends to spend more time in her garden. She is searching for a buyer f
 
 - D. family-oriented
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. fast-paced</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu sau "I'm finally ready to <b>slow down</b>" → môi trường nhịp độ nhanh.</div>
+</details>
+
 ##### Question 141
 - A. I update the menu quarterly based on diners' feedback.
 
@@ -1894,6 +2761,11 @@ Ellison intends to spend more time in her garden. She is searching for a buyer f
 - C. My parents managed the bistro before I was born.
 
 - D. But the time has come for something new.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> "Đã làm gần 50 năm… <b>Nhưng đã đến lúc làm điều gì mới</b>".</div>
+</details>
 
 To: Amelia Sanchez <amelia.sanchez@silvermail.co.uk>
 
@@ -1924,6 +2796,11 @@ Carlton Ames Paving
 
 - D. enough
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. several</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu sau nêu "The first…", "Alternatively…" → <i>in several ways</i>.</div>
+</details>
+
 ##### Question 146
 - A. yet
 
@@ -1932,6 +2809,11 @@ Carlton Ames Paving
 - C. until
 
 - D. besides
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. whenever</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>whenever it is convenient</i> = bất cứ khi nào tiện.</div>
+</details>
 
 ##### Question 144
 - A. Likewise
@@ -1942,6 +2824,11 @@ Carlton Ames Paving
 
 - D. Alternatively
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. Alternatively</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Đưa ra phương án thứ hai.</div>
+</details>
+
 ##### Question 145
 - A. We regularly repair both commercial and private driveways.
 
@@ -1950,6 +2837,11 @@ Carlton Ames Paving
 - C. Please consider posting a review on our Web site.
 
 - D. We will provide you with an itemized receipt.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau phương án 2 là lời khuyên, câu sau giải thích lý do sỏi tốt hơn.</div>
+</details>
 
 ### Part 7
 
@@ -1982,6 +2874,14 @@ What is NOT offered to Radial Tunes subscribers?
 
 - D. Audio interviews with popular musicians
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Liệt kê <i>songs, music videos, playlists by users</i>; không có phỏng vấn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Info: hundreds of songs, music videos, user playlists; interviews not mentioned</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question: three of four options are stated</i></div>
+</details>
+
 ##### Question 148
 What is indicated about Mr. Furuta?
 
@@ -1992,6 +2892,14 @@ What is indicated about Mr. Furuta?
 - C. He recently bought a Gregerson Pro Phone 13.
 
 - D. He is employed by PNE Retailers.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mẫu đơn dành cho người vừa mua Gregerson Pro Phone 13.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Congratulates on purchase of Gregerson Pro Phone 13; form shows PNE Retailers, Winnipeg</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference: purchase gift offer implies recent purchase; other details unsupported (moved, employee)</i></div>
+</details>
 
 #### MEMO
 
@@ -2018,6 +2926,14 @@ What prompted the need for the memo?
 
 - D. A complaint about paper quality
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Sáp nhập → <i>new corporate name</i> → phải in lại danh thiếp.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Memo: &quot;As a result of our merger with Frantum Corporation... new corporate name&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Cause chain: merger, then new name, then new cards; paper quality is only a side feature</i></div>
+</details>
+
 ##### Question 150
 What is suggested about the new business cards?
 
@@ -2028,6 +2944,14 @@ What is suggested about the new business cards?
 - C. They will be printed during the month of April.
 
 - D. They will include the original Frantum Corporation logo.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Memo 31/3, nhận thẻ trước 1/5 → in trong tháng 4.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Memo dated March 31; cards delivered by May 1, so printing likely in April; not mailed home (delivered to desk)</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference from date window; distractors contradict the memo (desk delivery, all employees)</i></div>
+</details>
 
 sion.
 
@@ -2044,6 +2968,11 @@ At 9:05 A.M., what does Ms. Begani imply when she writes, "I wouldn't miss it"?
 
 - D. She does not expect Mr. Oxley to return a document he borrowed.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📌 <b>Căn cứ:</b> (Đoạn chat chỉ có dạng ảnh, tôi đã đọc từ ảnh.) "Bạn còn định đến workshop chứ?" – "I wouldn't miss it!" → chắc chắn sẽ dự.</div>
+</details>
+
 ##### Question 152
 When most likely will Ms. Begani meet with the accounting department?
 
@@ -2054,6 +2983,14 @@ When most likely will Ms. Begani meet with the accounting department?
 - C. On September 4
 
 - D. On September 15
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Chỉ ở văn phòng ngày 2, 3, 4; ngày 2 có thể đóng cả ngày, ngày 4 có workshop → <i>only one sure date</i> = 3/9.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Chat image missing from the OCR text; date options are September 2, 3, 4, 15; answer is an unverified guess</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Date must be derived from chat; needs source image</i></div>
+</details>
 
 #### Questions 153-155 refer to the following e-mail.
 
@@ -2070,6 +3007,14 @@ What is the purpose of the e-mail?
 
 - D. To inform Mr. Tso about a change to his work schedule
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Nhắc những người chưa ký trang chấp nhận sổ tay nhân viên.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail is sent to employees &quot;who have not yet signed the handbook acceptance page&quot;; refers to earlier May 1 request</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Reminder of requirement; distractors (payment system) are consequence only</i></div>
+</details>
+
 ##### Question 154
 What does the e-mail indicate about Ms. Watkins?
 
@@ -2081,6 +3026,14 @@ What does the e-mail indicate about Ms. Watkins?
 
 - D. She is Mr. Tso's manager.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "was requested in an e-mail I sent on May 1".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;requested in an e-mail I sent on May 1&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: sent an e-mail on May 1; she is HR Officer, not manager</i></div>
+</details>
+
 ##### Question 155
 The word "points" in paragraph 2, line 2, is closest in meaning to
 
@@ -2091,6 +3044,14 @@ The word "points" in paragraph 2, line 2, is closest in meaning to
 - C. opinions
 
 - D. stages
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. details</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>key points</i> = các ý/chi tiết chính.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;chart summarizing the key points in the handbook&quot; = key details</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Common word with alternate senses (locations, stages)</i></div>
+</details>
 
 #### Questions 156-157 refer to the following Web page.
 
@@ -2111,6 +3072,14 @@ Executives in what industry would most likely read CVT Direct magazine?
 
 - D. Warehouse construction
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Tạp chí cho đại lý có đội xe chở hàng → vận tải hàng hóa.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: published by Lorne Transportation, largest freight vehicle corporation; readers are managers of dealerships with fleets for transporting goods</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference; commercial trucking = freight vehicle fleets</i></div>
+</details>
+
 ##### Question 157
 What is one topic the Web page addresses?
 
@@ -2121,6 +3090,14 @@ What is one topic the Web page addresses?
 - C. Requirements for ordering products
 
 - D. Why demand for a publication has increased
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đoạn 2 nói cách xử lý thông tin cá nhân.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Paragraph 2: personally identifiable information treated confidentially and may be used for more information about Lorne products</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: how subscriber information is used</i></div>
+</details>
 
 ##### Trust Gernack Home with Your Next Remodeling Project!
 
@@ -2141,6 +3118,14 @@ What is NOT indicated as a service provided by Gernack Home?
 
 - D. Home-addition building
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không nhắc đến <i>patio</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad lists kitchens, bathrooms, basements/garages into rooms/offices, additions; no patio</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question: three options in ad</i></div>
+</details>
+
 ##### Question 159
 The word "assure" in paragraph 2, line 1, is closest in meaning to ___
 
@@ -2152,6 +3137,14 @@ The word "assure" in paragraph 2, line 1, is closest in meaning to ___
 
 - D. support
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. promise</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>assure you that</i> = cam đoan với bạn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;We can assure you&quot; = promise</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Verb sense: assure = promise</i></div>
+</details>
+
 ##### Question 160
 What is a new offering provided by Gernack Home?
 
@@ -2162,6 +3155,14 @@ What is a new offering provided by Gernack Home?
 - C. A photo-sharing page
 
 - D. A mobile app for scheduling visits
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>latest feature: a virtual home renovation assistant</i> → công cụ hình dung phòng. (Showroom online đã có từ trước.)</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;our latest feature: a virtual home renovation assistant... build a virtual room&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: latest feature = new offering; virtual assistant = visualization tool; showroom already exists</i></div>
+</details>
 
 #### Questions 161-163 refer to the following e-mail.
 
@@ -2185,6 +3186,14 @@ What is one purpose of the e-mail?
 
 - D. To share personalized clothing recommendations
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>list of suggestions curated especially for you</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Suggests items on wardrobe page &quot;curated especially for you&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: curated for you = personalized recommendations</i></div>
+</details>
+
 ##### Question 162
 What is indicated about Ms. Woods?
 
@@ -2195,6 +3204,14 @@ What is indicated about Ms. Woods?
 - C. She prefers to wear casual clothing.
 
 - D. She works as a fashion designer.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>a Honey Canyon customer for so many years</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;thank you for being a Honey Canyon customer for so many years&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: many years = shopped before</i></div>
+</details>
 
 ##### Question 163
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -2208,6 +3225,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [4] đứng sau câu về giảm 20% → "sẽ tự động áp dụng khi thanh toán".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;This&quot; = the 20 percent discount, so it follows the discount sentence at [4] and precedes &quot;Simply place an order&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Pronoun reference; [3] is the code for suggestions</i></div>
+</details>
 
 #### Questions 164-167 refer to the following advertisement.
 
@@ -2234,6 +3259,14 @@ What is suggested about the XC-35?
 
 - D. It is good for driving on many types of surfaces.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>from the beach to the backwoods… roughest terrain</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;from the beach to the backwoods... smooth ride even on roughest terrain&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: various terrains = many types of surfaces; no sales or reviews data</i></div>
+</details>
+
 ##### Question 165
 What feature comes with all XC-35 SUVs?
 
@@ -2244,6 +3277,14 @@ What feature comes with all XC-35 SUVs?
 - C. A sunroof
 
 - D. Cruise control
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>All vehicles come standard with all-wheel drive</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;All vehicles come standard with all-wheel drive&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Standard vs option trap: sunroof, cruise control are options; hybrid is a choice</i></div>
+</details>
 
 ##### Question 166
 What is mentioned in the advertisement about the options for the XC-35?
@@ -2256,6 +3297,14 @@ What is mentioned in the advertisement about the options for the XC-35?
 
 - D. Some are available only if bought in a package.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>value packages</i> giúp tiết kiệm khi mua các tùy chọn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;save on the options you love... value packages&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: value packages = discounted options; D &quot;only if bought in package&quot; is unsupported</i></div>
+</details>
+
 ##### Question 167
 According to the advertisement, how can customers choose the look of their XC-35?
 
@@ -2266,6 +3315,14 @@ According to the advertisement, how can customers choose the look of their XC-35
 - C. By sending an e-mail
 
 - D. By reviewing automobile magazines
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>go to www.nibora.com/build and customize</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;go to www.nibora.com/build and customize the look&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: customize look = choose look</i></div>
+</details>
 
 ##### Koloa Music Education Collective
 
@@ -2288,6 +3345,14 @@ Who most likely is the intended audience of the advertisement?
 
 - D. Music store owners
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Lớp cho người lớn mới bắt đầu (<i>for beginners</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: private music program for adults, guitar and violin instruction &quot;for beginners&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Audience inferred from beginner focus; children&#x27;s lessons are background</i></div>
+</details>
+
 ##### Question 169
 What is indicated about Koloa Music Education Collective?
 
@@ -2299,6 +3364,14 @@ What is indicated about Koloa Music Education Collective?
 
 - D. It provides a complimentary musical instrument.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>hold at least a bachelor's degree in music</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;All our instructors hold at least a bachelor&#x27;s degree in music&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: bachelor&#x27;s = university degrees; students provide their own instruments</i></div>
+</details>
+
 ##### Question 170
 Who from Koloa Music Education Collective will first contact an interested customer?
 
@@ -2309,6 +3382,14 @@ Who from Koloa Music Education Collective will first contact an interested custo
 - C. An office administrator
 
 - D. An instructor
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>An instructor will contact you within 48 hours</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;An instructor will contact you within 48 hours&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Direct detail; other roles not mentioned</i></div>
+</details>
 
 ##### Question 171
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -2322,6 +3403,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - A. [1]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [2] đứng sau "học trực tiếp tại văn phòng hoặc nhà" → "Ngoài ra có thể học online".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Alternatively&quot; contrasts with in-person instruction at [2], after &quot;We can schedule in-person instruction&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Transition word &quot;Alternatively&quot; links to the preceding in-person format</i></div>
+</details>
 
 #### Questions 172-175 refer to the following online chat discussion.
 
@@ -2338,6 +3427,14 @@ Why does Ms. Walter want to have lunch with Mr. Hines and Ms. Au?
 
 - D. To plan a summer retreat for the sales team
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>on the same page about the new marketing campaign</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Walter: &quot;make sure we&#x27;re on the same page about the new marketing campaign&quot; for summer shoes</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Idiom; distractors (trip, pricing) are only mentioned in passing</i></div>
+</details>
+
 ##### Question 173
 Who is expected to attend the meeting at 3:00 P.M.?
 
@@ -2348,6 +3445,14 @@ Who is expected to attend the meeting at 3:00 P.M.?
 - C. Only sales managers
 
 - D. Only staff from the Boston office
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>only for people involved in the graphics</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Hines: meeting at 3:00 &quot;only for people involved in the graphics&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: graphics = graphic designers</i></div>
+</details>
 
 ##### Question 174
 At 4:52 P.M., what does Ms. Au most likely mean when she writes, "What a relief"?
@@ -2360,6 +3465,14 @@ At 4:52 P.M., what does Ms. Au most likely mean when she writes, "What a relief"
 
 - D. She is happy to meet with her friends.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không thấy cuộc họp trong lịch → thì ra mình không cần dự → lịch không sai.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Au could not find the meeting on her calendar; Hines says she need not attend, so her calendar is not missing anything</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Idiom &quot;what a relief&quot; following reassurance</i></div>
+</details>
+
 ##### Question 175
 Where will Ms. Au, Mr. Hines, and Ms. Walter meet tomorrow?
 
@@ -2370,6 +3483,14 @@ Where will Ms. Au, Mr. Hines, and Ms. Walter meet tomorrow?
 - C. In Ms. Walter's office
 
 - D. In the break room
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>at 1:30 in the lobby</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Walter: &quot;see you both tomorrow at 1:30 in the lobby&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractor: boardroom is the sales meeting location</i></div>
+</details>
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan="3">Greatford Curtains<br/>137 Chapel Way, Birmingham B8 3HU<br/>0121 496 0608</td></tr><tr><td colspan="3">Thank you for your order and for supporting our family&#x27;s small business. To show our appreciation, we are offering you 10 percent off your next order of £200 or more. Use coupon code NEWCURTAINS.</td></tr><tr><td colspan="3">Customer Information<br/>Nicola Grant<br/>17 Durst Place<br/>Whitstable CT5 1AH</td></tr><tr><td colspan="3">Date: 23 July</td></tr><tr><td colspan="3">Order Number: 19842</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Fabric Samples<br/>Cambridge</td><td style='text-align: center; word-wrap: break-word;'>Number<br/> $ x_1 $</td><td style='text-align: center; word-wrap: break-word;'>Price<br/>£ 8.00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Manchester</td><td style='text-align: center; word-wrap: break-word;'>$ x_1 $</td><td style='text-align: center; word-wrap: break-word;'>£ 8.00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Oxford</td><td style='text-align: center; word-wrap: break-word;'>$ x_1 $</td><td style='text-align: center; word-wrap: break-word;'>£ 8.00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Windsor</td><td style='text-align: center; word-wrap: break-word;'>$ x_1 $</td><td style='text-align: center; word-wrap: break-word;'>£ 8.00</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Shipping Subtotal</td><td colspan="2">£ 4.25<br/>£36.25</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>VAT</td><td colspan="2">£ 7.25</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Total</td><td colspan="2">£43.50</td></tr></table>
 
@@ -2386,6 +3507,14 @@ What is indicated about Greatford Curtains?
 
 - D. It offers free shipping.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>supporting our family's small business</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Invoice header: &quot;supporting our family&#x27;s small business&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: family business = family-owned; shipping is charged (4.25), and 17 Durst Place is the customer address</i></div>
+</details>
+
 ##### Question 177
 What does Ms. Grant request?
 
@@ -2396,6 +3525,14 @@ What does Ms. Grant request?
 - C. A price for a customized product
 
 - D. Express shipping on an order
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>get a quote for custom curtains</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;get a quote for custom curtains... how much will cost&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: quote = price; second request is samples</i></div>
+</details>
 
 ##### Question 178
 What is most likely true about the Cambridge fabric sample listed on the invoice?
@@ -2408,6 +3545,14 @@ What is most likely true about the Cambridge fabric sample listed on the invoice
 
 - D. It will be used in Ms. Grant's dining room.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mọi mẫu đã nhận đều có tông xanh dương (<i>shades of blue in all the samples</i>). Cambridge là một trong số đó.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Invoice lists Cambridge sample; e-mail says &quot;shades of blue in all the samples I received do not work&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: invoice items = samples received; all blue</i></div>
+</details>
+
 ##### Question 179
 What is suggested about order number 19842?
 
@@ -2419,6 +3564,14 @@ What is suggested about order number 19842?
 
 - D. It was placed online.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thẻ tín dụng <i>saved to my online profile during my last order on 23 July</i> → đặt online.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;the credit card I saved to my online profile during my last order on 23 July&quot;; invoice dated 23 July, order 19842</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: last order 23 July = invoice order 19842; saved profile implies online order</i></div>
+</details>
+
 ##### Question 180
 In the e-mail, the word "last" in paragraph 2, line 4, is closest in meaning to
 
@@ -2429,6 +3582,14 @@ In the e-mail, the word "last" in paragraph 2, line 4, is closest in meaning to
 - C. remaining
 
 - D. separate
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. previous</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>my last order</i> = đơn hàng lần trước.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;my last order on 23 July&quot; = previous</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Adjective sense; final would be a trap</i></div>
+</details>
 
 ## Join Us for the Portland Friends of the Wild Fourteenth Annual Dinner and Fund-Raiser Saturday, August 13, 5:00 to 9:00 P.M. At Golden Owl Hall, 926 Hope Street, Portland, OR 97035
 
@@ -2451,6 +3612,14 @@ What is indicated about Portland Friends of the Wild?
 
 - D. It focuses on protecting the environment.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>nonprofit environmental organization</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: &quot;nonprofit environmental organization working to preserve our city&#x27;s parks and green spaces&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: preserve green spaces = protecting the environment; founded 1981; event is annual</i></div>
+</details>
+
 ##### Question 182
 Where will Portland Friends of the Wild's event be held?
 
@@ -2461,6 +3630,14 @@ Where will Portland Friends of the Wild's event be held?
 - C. In an artist's studio
 
 - D. In Ms. Nguyen's home
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Golden Owl Hall</i> = sảnh tiệc.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: event at Golden Owl Hall</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference from hall = banquet hall; Hope Street is the event address not office</i></div>
+</details>
 
 ##### Question 183
 What is one purpose of the e-mail?
@@ -2473,6 +3650,14 @@ What is one purpose of the e-mail?
 
 - D. To confirm the receipt of tickets
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Xin chị Atkins tặng thêm một tác phẩm điêu khắc để đấu giá.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail asks Atkins to donate another sculpture</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: donate = contribution</i></div>
+</details>
+
 ##### Question 184
 What can be concluded about Green Earth Provisions?
 
@@ -2484,6 +3669,14 @@ What can be concluded about Green Earth Provisions?
 
 - D. It will provide the food for the fund-raiser for the first time.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> E-mail: <i>working with a new catering company this year</i>; tờ mời: bữa tối do Green Earth Provisions nấu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: dinner prepared by Green Earth Provisions; e-mail: &quot;working with a new catering company this year&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: caterer named in ad = new catering company in e-mail; dinner is vegetarian so chicken is wrong</i></div>
+</details>
+
 ##### Question 185
 What is true about Mr. Cleary?
 
@@ -2494,6 +3687,14 @@ What is true about Mr. Cleary?
 - C. He owns one of Ms. Atkins' sculptures.
 
 - D. He is an accomplished sculptor.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Cleary <i>was the head of fund-raising operations</i>, đúng vị trí Nguyen đang giữ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: Stefano Cleary &quot;was the head of fund-raising operations&quot;; Nguyen is the new head</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: previously worked in same position</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 186-190 refer to the following Web page and e-mails.</div> </div>
 
@@ -2516,6 +3717,14 @@ What is indicated on the Web page about the Artists of Delta City exhibit?
 
 - D. The paintings on view were created in the nineteenth century.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>displayed on a rotating basis</i> = luân phiên thay đổi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: pieces &quot;displayed on a rotating basis... on view for a limited time only&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: rotating = regularly changed</i></div>
+</details>
+
 ##### Question 187
 Where will Ms. Desnoyers' class most likely spend their time sketching?
 
@@ -2526,6 +3735,14 @@ Where will Ms. Desnoyers' class most likely spend their time sketching?
 - C. In the Techtmann Gallery
 
 - D. In the Zhang Atrium
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 3 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Lớp học vẽ cơ thể người → tượng → Techtmann Gallery.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: Art 103 studies human form, statues get attention; web page: statues of human subjects in Classical Greece and Beyond, Techtmann Gallery</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: statues in e-mail = Techtmann exhibit on web page; e-mail date May 2 in run of exhibit</i></div>
+</details>
 
 ##### Question 188
 According to Ms. Grady, what did Ms. Desnoyers' colleague correctly state?
@@ -2538,6 +3755,14 @@ According to Ms. Grady, what did Ms. Desnoyers' colleague correctly state?
 
 - D. That the museum allows private events
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>provides tours for local art students</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: &quot;Your colleague was correct: the museum does indeed provide that service&quot; refers to tours for local art students in e-mail 1</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: &quot;that service&quot; = class tours</i></div>
+</details>
+
 ##### Question 189
 What will Ms. Desnoyers most likely do as a result of the second e-mail?
 
@@ -2549,6 +3774,14 @@ What will Ms. Desnoyers most likely do as a result of the second e-mail?
 
 - D. She will expect a telephone call.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Việc sẽ làm tiếp theo</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>A staff member will contact you by phone</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: &quot;A staff member will contact you by phone&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: contact by phone = expect telephone call</i></div>
+</details>
+
 ##### Question 190
 What activity does Ms. Grady indicate is forbidden in the museum galleries?
 
@@ -2559,6 +3792,14 @@ What activity does Ms. Grady indicate is forbidden in the museum galleries?
 - C. Drawing with charcoal
 
 - D. Painting with watercolors
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>the use of paints, including watercolors, is prohibited</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: use of paints, including watercolors, is prohibited</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trap: pencils, charcoal, photo, video are permitted</i></div>
+</details>
 
 #### Questions 191-195 refer to the following article, letter, and invoice.
 
@@ -2585,6 +3826,14 @@ What does the article state about collapsible toothpaste tubes?
 
 - D. They were not included in a survey.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>nearly impossible to recycle them</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: because tubes have multiple layers, &quot;nearly impossible to recycle&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: nearly impossible = difficult</i></div>
+</details>
+
 ##### Question 192
 Why did Ms. Brown most likely send the letter?
 
@@ -2595,6 +3844,14 @@ Why did Ms. Brown most likely send the letter?
 - C. To follow up on a sales presentation
 
 - D. To place an order for a product
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Cảm ơn vì buổi gặp giới thiệu sản phẩm → thư follow-up.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Letter: &quot;Thank you for allowing me to speak with you and your team&quot;, followed by product info</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Follow-up to meeting/presentation; not placing an order</i></div>
+</details>
 
 ##### Question 193
 What is indicated about products sold in the type of packaging used by Green Globe?
@@ -2609,6 +3866,14 @@ What is indicated about products sold in the type of packaging used by Green Glo
 
 - D. Their share of the market is rising.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bao bì lọ thủy tinh thuộc loại tái chế được → đang giành thêm thị phần.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Letter: Green Globe uses glass jars; article: recyclable packaging including jars gaining share while tubes lose share</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: jar packaging in letter = jars in article</i></div>
+</details>
+
 ##### Question 194
 What does Ms. Brown indicate about Green Globe toothpaste?
 
@@ -2620,6 +3885,14 @@ What does Ms. Brown indicate about Green Globe toothpaste?
 
 - D. It comes in multiple flavors.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>sold in stores throughout the United States and Canada</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Letter: &quot;sold in stores throughout the United States and Canada&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: two countries; sold ten years ago in non-tubes so option A is wrong</i></div>
+</details>
+
 ##### Question 195
 What is most likely true about the order placed by Macker Drugstores?
 
@@ -2630,6 +3903,14 @@ What is most likely true about the order placed by Macker Drugstores?
 - C. The price was discounted significantly.
 
 - D. The shipping fee was refunded by Green Globe.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nối thông tin 2 văn bản + Đối chiếu bảng / biểu mẫu</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mua 2 thùng để <i>test sales in a single store</i>; hóa đơn không có giảm giá.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Letter: Macker wants two cases initially &quot;to test sales in a single store&quot;; invoice: 2 cases, discount $0.00</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: 2 cases in letter = invoice; discount only over ten cases; shipping charged</i></div>
+</details>
 
 #### Questions 196-200 refer to the following e-mail, schedule, and review.
 
@@ -2660,6 +3941,14 @@ What is the purpose of the e-mail?
 
 - D. To learn more about a hotel's social media account
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Could you please clarify how best to get to the hotel?</i></div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: asks how best to get to the hotel from Charlesville</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: clarify how to get = directions</i></div>
+</details>
+
 ##### Question 197
 What does the e-mail suggest about the Sleepy Time Hotel?
 
@@ -2670,6 +3959,14 @@ What does the e-mail suggest about the Sleepy Time Hotel?
 - C. It is part of a large hotel chain.
 
 - D. It mainly serves business travelers.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>spending a couple of nights right by the beach</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;spending a couple of nights right by the beach&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: by the beach = near body of water; other options unsupported</i></div>
+</details>
 
 ##### Question 198
 What is most likely true about the Dalton light-rail station?
@@ -2682,6 +3979,14 @@ What is most likely true about the Dalton light-rail station?
 
 - D. It is being renovated.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Khách xuống ở ga Dalton; review: ga <i>directly across the street from the hotel</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: Dalton station is where guests disembark; review: light-rail station &quot;directly across the street from the hotel&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: station named in e-mail matches review description</i></div>
+</details>
+
 ##### Question 199
 At what time did Mr. Cho's train most likely arrive in Charlesville?
 
@@ -2693,6 +3998,14 @@ At what time did Mr. Cho's train most likely arrive in Charlesville?
 
 - D. At 8:36 P.M.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đi chuyến 4:05 P.M. → đến lúc 5:41 P.M.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: took 4:05 P.M. train out of Johnstown; schedule: 4:05 P.M. arrives 5:41 P.M.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: 4:05 departure in review to arrival in the schedule; the answer needs computing arrival not stated in review</i></div>
+</details>
+
 ##### Question 200
 What does Mr. Cho mention in the review?
 
@@ -2703,6 +4016,14 @@ What does Mr. Cho mention in the review?
 - C. He visited a grocery store on August 26.
 
 - D. He recently completed a business trip.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>had just finished… three-day professional conference</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: just finished a three-day professional conference in Johnstown</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: professional conference = business trip; he bought food at grocery store, not restaurant, and the date Aug 26 is post date</i></div>
+</details>
 
 Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check your work.
 
@@ -2739,6 +4060,11 @@ Despite ----- youth, Ms. Cho is already quite popular on social media.
 
 - D. herself
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. her</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Despite + cụm danh từ</i>: <i>her youth</i> = tuổi trẻ của cô ấy.</div>
+</details>
+
 ##### Question 102
 Most of the materials distributed at last month's accounting conference are now ----- online.
 
@@ -2749,6 +4075,11 @@ Most of the materials distributed at last month's accounting conference are now 
 - C. comparable
 
 - D. decisive
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. available</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>available online</i> = có sẵn trên mạng.</div>
+</details>
 
 ##### Question 103
 A full-scale ----- will be conducted by the accounting department.
@@ -2761,6 +4092,11 @@ A full-scale ----- will be conducted by the accounting department.
 
 - D. reviews
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. review</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau tính từ <i>full-scale</i> cần danh từ số ít (có <i>A</i>).</div>
+</details>
+
 ##### Question 104
 Poshy Shoes vice president Lucille Jeris has been ----- to president of the company.
 
@@ -2771,6 +4107,11 @@ Poshy Shoes vice president Lucille Jeris has been ----- to president of the comp
 - C. promoted
 
 - D. responded
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. promoted</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>be promoted to president</i> = được thăng chức lên chủ tịch.</div>
+</details>
 
 ##### Question 105
 The report found that employees who take regular breaks are more ----- than those who take no breaks.
@@ -2783,6 +4124,11 @@ The report found that employees who take regular breaks are more ----- than thos
 
 - D. productive
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. productive</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>more + adj + than</i>: <i>more productive</i>.</div>
+</details>
+
 ##### Question 106
 Customers of Twins Photocopiers are encouraged to contact a ----- if their machines need repairs.
 
@@ -2793,6 +4139,11 @@ Customers of Twins Photocopiers are encouraged to contact a ----- if their machi
 - C. renewal
 
 - D. structure
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. technician</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Máy cần sửa thì liên hệ kỹ thuật viên.</div>
+</details>
 
 ##### Question 107
 The heavy traffic on the way to the airport
@@ -2807,6 +4158,11 @@ The heavy traffic on the way to the airport
 
 - D. nearness
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. nearly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>nearly caused her to miss</i> = suýt làm lỡ chuyến bay.</div>
+</details>
+
 ##### Question 108
 A news source suggested that the merger will ----- take place next year.
 
@@ -2818,6 +4174,11 @@ A news source suggested that the merger will ----- take place next year.
 
 - D. thoughtfully
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. probably</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>will probably take place</i> = có lẽ sẽ diễn ra (<i>suggested</i> → không chắc chắn).</div>
+</details>
+
 ##### Question 109
 The Seaborne Inn has ----- beautiful guest rooms that can be booked on a monthly basis.
 
@@ -2828,6 +4189,11 @@ The Seaborne Inn has ----- beautiful guest rooms that can be booked on a monthly
 - C. throughout
 
 - D. itself
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. various</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>various + danh từ số nhiều</i>.</div>
+</details>
 
 ##### Question 110
 Ahearn Accessories' retail shop is located
@@ -2842,6 +4208,11 @@ Ahearn Accessories' retail shop is located
 
 - D. aside from
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. at</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>at A Avenue and B Street</i> = tại góc giao giữa hai con đường.</div>
+</details>
+
 ##### Question 111
 A majority of the city's residents rated its transportation app as _____.
 
@@ -2853,6 +4224,11 @@ A majority of the city's residents rated its transportation app as _____.
 
 - D. accepting
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. acceptable</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>rate + O + as + adj</i>: đánh giá là chấp nhận được.</div>
+</details>
+
 ##### Question 112
 Dr. Cheung ----- Silk Valley Hospital at next weekend's medical fair.
 
@@ -2863,6 +4239,11 @@ Dr. Cheung ----- Silk Valley Hospital at next weekend's medical fair.
 - C. is representing
 
 - D. had represented
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. is representing</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>next weekend</i> → hiện tại tiếp diễn diễn tả kế hoạch đã sắp xếp.</div>
+</details>
 
 ##### Question 113
 Frankie's Boutique had a financially -----
@@ -2879,6 +4260,11 @@ costs.
 
 - D. additional
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. profitable</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>financially profitable quarter</i> = quý có lãi.</div>
+</details>
+
 ##### Question 115
 The Whitetail Institute is the only ----- that tracks deer populations in rapidly expanding suburban areas.
 
@@ -2889,6 +4275,11 @@ The Whitetail Institute is the only ----- that tracks deer populations in rapidl
 - C. official
 
 - D. organization
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. organization</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the only organization that tracks…</i></div>
+</details>
 
 ##### Question 114
 Because it submitted the lowest bid, Deb's Gifting has been chosen as the ----- of this year's holiday cards.
@@ -2901,6 +4292,11 @@ Because it submitted the lowest bid, Deb's Gifting has been chosen as the ----- 
 
 - D. supplying
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. supplier</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the supplier of</i> = nhà cung cấp (chỉ người/công ty).</div>
+</details>
+
 ##### Question 116
 The committee members ----- attended the meeting are listed in the appendix.
 
@@ -2911,6 +4307,11 @@ The committee members ----- attended the meeting are listed in the appendix.
 - C. when
 
 - D. some
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. who</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mệnh đề quan hệ chỉ người: <i>members who attended</i>.</div>
+</details>
 
 ##### Question 117
 Our new app is ----- designed to provide data-driven insights to investment professionals.
@@ -2923,6 +4324,11 @@ Our new app is ----- designed to provide data-driven insights to investment prof
 
 - D. specifically
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. specifically</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa <i>designed</i>: <i>specifically designed to</i> = được thiết kế riêng để.</div>
+</details>
+
 ##### Question 118
 The results of the study suggest that more people ----- with night driving than previously believed.
 
@@ -2934,6 +4340,11 @@ The results of the study suggest that more people ----- with night driving than 
 
 - D. struggle
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. struggle</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chủ ngữ số nhiều <i>more people</i> → <i>struggle</i>.</div>
+</details>
+
 ##### Question 119
 Each department has been asked to develop an action plan in ----- to the budget cuts announced last week.
 
@@ -2944,6 +4355,11 @@ Each department has been asked to develop an action plan in ----- to the budget 
 - C. apology
 
 - D. confirmation
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. response</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>in response to</i> = để đối phó với / đáp lại.</div>
+</details>
 
 ##### Question 120
 Our popular online training materials have
@@ -2960,6 +4376,11 @@ skills.
 
 - D. randomly
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. consistently</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>have consistently been shown</i> = luôn được chứng minh.</div>
+</details>
+
 ##### Question 121
 Ms. Yamada, ----- director of the Midlands Chamber of Commerce, was recently appointed to the state trade commission.
 
@@ -2971,6 +4392,11 @@ Ms. Yamada, ----- director of the Midlands Chamber of Commerce, was recently app
 
 - D. formality
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. former</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>former director</i> = cựu giám đốc.</div>
+</details>
+
 ##### Question 122
 The software uses computer memory efficiently, allowing users to open ----- five files simultaneously.
 
@@ -2981,6 +4407,11 @@ The software uses computer memory efficiently, allowing users to open ----- five
 - C. up to
 
 - D. out of
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. up to</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>up to five files</i> = tối đa năm tệp.</div>
+</details>
 
 ##### Question 123
 A monthly newsletter is an excellent way to
@@ -2995,6 +4426,11 @@ A monthly newsletter is an excellent way to
 
 - D. promote
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. promote</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>promote activities</i> = quảng bá hoạt động.</div>
+</details>
+
 ##### Question 124
 ----- the hotel does not have a restaurant on site, there are many dining options nearby.
 
@@ -3005,6 +4441,11 @@ A monthly newsletter is an excellent way to
 - C. Unless
 
 - D. Without
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. While</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>While</i> = mặc dù (theo sau là mệnh đề).</div>
+</details>
 
 ##### Question 125
 ----- a slight decline in revenue from the previous quarter, Blakely Components is moving forward with its expansion plan.
@@ -3017,6 +4458,11 @@ A monthly newsletter is an excellent way to
 
 - D. Often
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. Despite</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Despite + cụm danh từ</i>.</div>
+</details>
+
 ##### Question 126
 Abelia Dairy Company has undergone several changes in leadership ----- the past ten years.
 
@@ -3027,6 +4473,11 @@ Abelia Dairy Company has undergone several changes in leadership ----- the past 
 - C. since
 
 - D. beside
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. over</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>over the past ten years</i> = trong mười năm qua.</div>
+</details>
 
 ##### Question 127
 Opal City's Community Theater is holding
@@ -3043,6 +4494,11 @@ first week of December.
 
 - D. audition
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. auditions</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>hold auditions</i> = tổ chức thử giọng.</div>
+</details>
+
 ##### Question 128
 Mr. Kane said he packed so ---- this morning that he forgot to bring a suit and tie for tomorrow's dinner.
 
@@ -3053,6 +4509,11 @@ Mr. Kane said he packed so ---- this morning that he forgot to bring a suit and 
 - C. hastily
 
 - D. mysteriously
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. hastily</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>packed so hastily that he forgot…</i> = xếp đồ vội đến mức quên.</div>
+</details>
 
 ##### Question 129
 Long before the training program began, Ms. Morris ----- the schedule to allow her team to attend.
@@ -3065,6 +4526,11 @@ Long before the training program began, Ms. Morris ----- the schedule to allow h
 
 - D. has to revise
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. had revised</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Long before the training began</i> (quá khứ) → hành động trước đó dùng quá khứ hoàn thành.</div>
+</details>
+
 ##### Question 130
 Mr. Swan will return to the planning meeting ----- the interns have arrived.
 
@@ -3075,6 +4541,11 @@ Mr. Swan will return to the planning meeting ----- the interns have arrived.
 - C. whereas
 
 - D. regarding
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. once</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>once</i> = ngay khi.</div>
+</details>
 
 ### Part 6
 
@@ -3097,6 +4568,11 @@ ____. On February 1, cashback rewards will return to 2 per 50 transaction.
 
 - D. purchasing
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. purchase</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>every purchase of $50 or more</i> = mỗi giao dịch mua từ $50.</div>
+</details>
+
 ##### Question 132
 - A. automate
 
@@ -3105,6 +4581,11 @@ ____. On February 1, cashback rewards will return to 2 per 50 transaction.
 - C. automation
 
 - D. automatically
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. automatically</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ trong bị động: <i>will be automatically deposited</i>.</div>
+</details>
 
 ##### Question 133
 - A. Alternatively
@@ -3115,6 +4596,11 @@ ____. On February 1, cashback rewards will return to 2 per 50 transaction.
 
 - D. Frequently
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. Alternatively</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Lựa chọn khác: đăng ký qua app <b>hoặc</b> ghé chi nhánh.</div>
+</details>
+
 ##### Question 134
 - A. The use of double rewards is a common practice in the banking industry.
 
@@ -3123,6 +4609,11 @@ ____. On February 1, cashback rewards will return to 2 per 50 transaction.
 - C. Please make sure to check your credit card balance weekly.
 
 - D. Thank you for providing feedback on your recent transaction.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu sau: "Ngày 1/2 hoàn tiền trở về mức cũ" → "Đừng chờ, khuyến mãi hết ngày 31/1".</div>
+</details>
 
 To: Shipping Team
 
@@ -3159,6 +4650,11 @@ Croce Company
 
 - D. Moreover
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. Instead</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Không nghỉ việc, <b>thay vào đó</b> nhận vị trí mới.</div>
+</details>
+
 ##### Question 136
 - A. availability
 
@@ -3167,6 +4663,11 @@ Croce Company
 - C. cooperation
 
 - D. generosity
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. promotion</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Lên chức quản lý vùng → <i>promotion</i>.</div>
+</details>
 
 ##### Question 137
 - A. final
@@ -3177,6 +4678,11 @@ Croce Company
 
 - D. finally
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. final</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>her final day with us</i> = ngày làm cuối cùng.</div>
+</details>
+
 ##### Question 138
 - A. Our day will start at 8:00 A.M., as usual.
 
@@ -3185,6 +4691,11 @@ Croce Company
 - C. Please join us for coffee and cake.
 
 - D. The break room is currently closed for maintenance.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mời dự tiệc → "Mời mọi người cùng thưởng thức cà phê và bánh".</div>
+</details>
 
 ##### How to Pitch Your Start-up to a Potential Investor
 
@@ -3213,6 +4724,11 @@ you will likely acquire the  $ \underline{\text{142.}} $ you seek.
 
 - D. An infusion of cash is often necessary for growth.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> "Đừng bắt nhà đầu tư chờ" → "Hãy nêu thế mạnh lớn nhất ngay từ đầu"; câu sau nói <i>also… mention that early as well</i>.</div>
+</details>
+
 ##### Question 140
 - A. capable
 
@@ -3221,6 +4737,11 @@ you will likely acquire the  $ \underline{\text{142.}} $ you seek.
 - C. first
 
 - D. relevant
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. relevant</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>relevant to the product</i> = liên quan đến sản phẩm.</div>
+</details>
 
 ##### Question 141
 - A. it
@@ -3231,6 +4752,11 @@ you will likely acquire the  $ \underline{\text{142.}} $ you seek.
 
 - D. anything
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. what</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>what sets your company apart</i> = điều làm công ty bạn khác biệt (mệnh đề danh từ làm chủ ngữ).</div>
+</details>
+
 ##### Question 142
 - A. funding
 
@@ -3239,6 +4765,11 @@ you will likely acquire the  $ \underline{\text{142.}} $ you seek.
 - C. materials
 
 - D. awards
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. funding</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Nhà đầu tư → <i>acquire the funding you seek</i>.</div>
+</details>
 
 To: Botswana Mining Staff
 
@@ -3271,6 +4802,11 @@ Human Resources Director
 
 - D. plan
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. system</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Cổng lương (<i>portal</i>) = hệ thống.</div>
+</details>
+
 ##### Question 144
 - A. enabled
 
@@ -3279,6 +4815,11 @@ Human Resources Director
 - C. will enable
 
 - D. would have enabled
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. will enable</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trang sau nâng cấp → tương lai.</div>
+</details>
 
 ##### Question 145
 - A. This gathering will promote innovation among our employees.
@@ -3289,6 +4830,11 @@ Human Resources Director
 
 - D. This function will optimize the services offered by the department.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Nối với ý <i>live-chat function</i>: "Chức năng này sẽ tối ưu hóa dịch vụ của phòng".</div>
+</details>
+
 ##### Question 146
 - A. apart from
 
@@ -3297,6 +4843,11 @@ Human Resources Director
 - C. during
 
 - D. toward
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. during</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>during the period mentioned above</i> = trong khoảng thời gian nêu trên.</div>
+</details>
 
 ### Part 7
 
@@ -3329,6 +4880,14 @@ What service is NOT included with the special?
 
 - D. A car wash
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Gói gồm thay dầu, lọc dầu, kiểm tra xe; không có rửa xe.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad lists 3 services: oil change, premium oil filter change, complimentary inspection; car wash is not listed.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question: check every bullet; distractors A-C are the three listed items.</i></div>
+</details>
+
 ##### Question 148
 What is indicated about the coupon?
 
@@ -3339,6 +4898,14 @@ What is indicated about the coupon?
 - C. It must be used before the end of August.
 
 - D. It can be used multiple times.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>valid… through August 31</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Fine print: &quot;valid ... through August 31&quot; = must be used before end of August.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase (through Aug 31 = before end of August); distractors: A (only Smithville and Parkertown), D (limit one coupon per customer).</i></div>
+</details>
 
 #### Questions 149-150 refer to the following article.
 
@@ -3361,6 +4928,14 @@ What is the main purpose of the article?
 
 - D. To emphasize the important role of local artists
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Hội đồng duyệt kế hoạch cải tạo ga, <i>Work will begin in two weeks</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article opens with the station &quot;finally going to be renovated&quot; and states approval and &quot;Work will begin in two weeks&quot; = publicizing start of project.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose vs. detail: A wrong (station stays open); C and D are minor details only.</i></div>
+</details>
+
 ##### Question 150
 According to the article, what will happen in March?
 
@@ -3371,6 +4946,14 @@ According to the article, what will happen in March?
 - C. The city council will vote on a parking plan for River Avenue.
 
 - D. Artists will deliver wall decoration ideas.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Local artists… submit proposals in March</i> (tranh tường).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Para 2: local artists commissioned &quot;to submit proposals in March&quot; = deliver wall decoration ideas.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: murals/proposals = wall decoration ideas; B (roof) is planned work but not dated March.</i></div>
+</details>
 
 #### Questions 151-152 refer to the following e-mail.
 
@@ -3389,6 +4972,14 @@ What is the purpose of the e-mail?
 
 - D. To announce the opening of a new museum
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Your presence is requested at the official opening</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Your presence is requested at the official opening&quot; of Prosner Wing plus RSVP request = invitation.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose = invitation; D is the topic of the event, not what the e-mail does.</i></div>
+</details>
+
 ##### Question 152
 What is indicated about Mr. Sanchez?
 
@@ -3399,6 +4990,14 @@ What is indicated about Mr. Sanchez?
 - C. He displays his art throughout Oregon.
 
 - D. He has a membership at an art museum.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>limited to invaluable museum members like you</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;limited to invaluable museum members like you&quot; implies Mr. Sanchez is a member.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied fact: &quot;members like you&quot; = has a membership; distractors B and C are unsupported.</i></div>
+</details>
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//8213f194-d0f0-4c3c-9b23-8ed37c08909b/markdown_3/imgs/img_in_image_box_287_220_486_279.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-26T17%3A34%3A22Z%2F-1%2F%2Fab037b001623ac848e2484fda198aeaa79aeb44cbcdbf6116f9f56908e933c28" alt="Image" width="16%" /></div>
 
@@ -3441,6 +5040,14 @@ What are the writers mainly discussing?
 
 - D. Developing a mobile phone app
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý chính / chủ đề</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Tìm kho <i>temporary rental terms</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Chat: app finds storage location at 10 Maple Street, &quot;temporary rental terms&quot;, plan to check it and book the space.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Topic = renting temporary storage (paraphrase of storage space/temporary rental); app is only the tool (D trap).</i></div>
+</details>
+
 ##### Question 154
 At 9:05 A.M., what does Mr. Beiger most likely mean when he writes, "That's exactly what I was thinking"?
 
@@ -3451,6 +5058,14 @@ At 9:05 A.M., what does Mr. Beiger most likely mean when he writes, "That's exac
 - C. He is willing to drive a van to a location.
 
 - D. He will download a mobile phone app.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Câu trước "You could drive it over…" → ông đồng ý lái xe tới.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>9:04 Mehta: &quot;You could drive it [van] over&quot;; Beiger replies &quot;That&#x27;s exactly what I was thinking&quot; = agrees he will drive the van to the location.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Reference of &quot;that&quot; = the immediately preceding suggestion; B trap (van already loaded by Mehta).</i></div>
+</details>
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//efabe5a3-a646-4376-a98b-4bebe0126948/markdown_0/imgs/img_in_image_box_172_181_1019_852.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-26T17%3A34%3A21Z%2F-1%2F%2F4c6d4285500aa582cbf5b0081282bd963c7aa0b0bb65ac6e3335f19ec3fd9b04" alt="Image" width="69%" /></div>
 
@@ -3465,6 +5080,14 @@ What kind of business is Dannla Brothers?
 
 - D. A distributor of computer components
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> (Đoạn web chỉ có dạng ảnh.) <i>We manufacture ergonomic laptop stands, comfortable chairs, and adjustable standing desks</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page for Dannla Brothers is an image not captured in the OCR text; answer is an unverified guess. Needs original page image.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>OCR gap: cannot verify; treat as unresolved.</i></div>
+</details>
+
 ##### Question 156
 What are visitors to the Web page encouraged to do?
 
@@ -3476,6 +5099,11 @@ What are visitors to the Web page encouraged to do?
 
 - D. Read product reviews
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>visit our Testimonials page to review independent assessments</i>.</div>
+</details>
+
 ##### Question 157
 According to the Web page, why should someone send an e-mail?
 
@@ -3486,6 +5114,11 @@ According to the Web page, why should someone send an e-mail?
 - C. To obtain a price quote for a large order
 
 - D. To receive product assembly information
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>To receive a free price quote for a bulk order, please e-mail us</i>.</div>
+</details>
 
 #### MEMO
 
@@ -3514,6 +5147,14 @@ What did Ms. Paulsen do at a recent meeting?
 
 - D. She introduced some newly hired executives.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>congratulate you again on our sales increase</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Memo: &quot;congratulate you again on our sales increase&quot; (at last week&#x27;s meeting).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: sales increase = latest sales figures; D trap (positions announced in memo, not at meeting).</i></div>
+</details>
+
 ##### Question 159
 Who received a job promotion from within Osmond Microtronics Ltd.?
 
@@ -3525,6 +5166,14 @@ Who received a job promotion from within Osmond Microtronics Ltd.?
 
 - D. Mr. Sung
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>product designer Lewis Sung will now oversee his department as director</i> → thăng chức nội bộ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Only &quot;product designer Lewis Sung will now oversee his department as director of product design&quot; is an internal promotion; the other names are simply &quot;will be/serve&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference from role change; others are executive assignments with no prior role stated.</i></div>
+</details>
+
 ##### Question 160
 Why does Ms. Paulsen mention Pretoria?
 
@@ -3535,6 +5184,14 @@ Why does Ms. Paulsen mention Pretoria?
 - C. Most competitors are headquartered there.
 
 - D. The company's products are now available there.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bromley <i>plans to settle permanently in his native Pretoria</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Mr. Bromley retires and &quot;plans to settle permanently in his native Pretoria in June&quot; = colleague moving there.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: settle permanently = move; B/C/D are invented.</i></div>
+</details>
 
 #### Questions 161-163 refer to the following e-mail.
 
@@ -3551,6 +5208,14 @@ What is most likely true about Dr. Able?
 
 - D. He has vast experience as a corporate executive.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>researchers at the Borman Institute</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;individuals who work in academia&quot;, &quot;researchers at the Borman Institute&quot;, &quot;your study&quot; = conducts research at an institution.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym: academia/institute = institution; A and D not mentioned; C contradicted by &quot;new perspectives&quot;.</i></div>
+</details>
+
 ##### Question 162
 What does Ms. McGrath indicate that she would like to do in the future?
 
@@ -3561,6 +5226,14 @@ What does Ms. McGrath indicate that she would like to do in the future?
 - C. Offer Dr. Able a position at DGA
 
 - D. Collaborate with Dr. Able's team
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Việc sẽ làm tiếp theo</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>explore additional ways we could partner with you</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;DGA would like to explore additional ways we could partner with you or other researchers at the Borman Institute.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: partner with researchers = collaborate with Dr. Able&#x27;s team.</i></div>
+</details>
 
 ##### Question 163
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -3574,6 +5247,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [2] đứng sau câu về <i>your study</i> và trước câu xin bản bài báo.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Insert fits [2]: follows &quot;your study on the importance of word choice&quot; and precedes &quot;Would you mind providing us with a copy of the article?&quot; (complete report = article).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Cohesion: study mention leads to &quot;complete research report&quot;; [1] and [3] have no antecedent.</i></div>
+</details>
 
 #### Questions 164-167 refer to the following job posting.
 
@@ -3596,6 +5277,14 @@ What is indicated about the available position?
 
 - D. It is a trainee position.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>work-from-home position</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;This is a work-from-home position&quot; = remote.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: work-from-home = remote; C wrong (full-time).</i></div>
+</details>
+
 ##### Question 165
 What is listed as a job requirement?
 
@@ -3607,6 +5296,14 @@ What is listed as a job requirement?
 
 - D. Previous experience at Neveck Associates
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Strong interpersonal skills… are essential</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Strong interpersonal skills and the ability to communicate across company departments are essential.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; B trap (requires two years experience, not three editorial); A not required.</i></div>
+</details>
+
 ##### Question 166
 What does the job posting NOT mention?
 
@@ -3617,6 +5314,14 @@ What does the job posting NOT mention?
 - C. The starting date
 
 - D. The education requirements
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không nêu ngày bắt đầu làm.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Duties, hours (Mon-Fri 9-5), and bachelor&#x27;s degree are stated; no starting date appears.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question needs all-option check; each of A, B, D is present.</i></div>
+</details>
 
 ##### Question 167
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -3630,6 +5335,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [1] đứng sau câu về lương → chế độ phúc lợi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Benefits sentence follows &quot;Salary is commensurate with experience&quot; in [1].</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Compensation topic cohesion; other slots discuss duties or requirements.</i></div>
+</details>
 
 # New Garden Coming Soon to Raxford Park
 
@@ -3652,6 +5365,14 @@ What is mentioned about the FGS?
 
 - D. It is funded by the city government.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>offers guided nature tours and other educational programs</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>FGS &quot;offers guided nature tours and other educational programs&quot; = nature-related courses.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; D trap (relies entirely on donations, collaborates with parks department).</i></div>
+</details>
+
 ##### Question 169
 Why does the FGS want to build a garden in Raxford Park?
 
@@ -3662,6 +5383,14 @@ Why does the FGS want to build a garden in Raxford Park?
 - C. To create an outdoor nature laboratory
 
 - D. To attract a wide variety of birds
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>draw in more of the region's abundant birdlife</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Reynoso: goal is &quot;to draw in more of the region&#x27;s abundant birdlife.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: draw in birdlife = attract variety of birds; distractors reuse garden/school.</i></div>
+</details>
 
 ##### Question 170
 Who will select the plants for the new garden?
@@ -3674,6 +5403,14 @@ Who will select the plants for the new garden?
 
 - D. Schoolchildren and their teachers
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>selection… made by Elbart University faculty</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;The selection of plants will be made by Elbart University faculty.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym: faculty = university professors; D trap (schoolchildren enjoy the garden only).</i></div>
+</details>
+
 ##### Question 171
 What work will be done by Elbart City employees?
 
@@ -3684,6 +5421,14 @@ What work will be done by Elbart City employees?
 - C. Purchasing supplies
 
 - D. Preparing the ground for planting
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>parks department crews have laid fresh topsoil</i> (nhân viên thành phố chuẩn bị đất).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;parks department crews have laid fresh topsoil&quot; = city employees preparing ground.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: parks department crews = Elbart City employees; volunteers do planting, FGS raises funds.</i></div>
+</details>
 
 #### Questions 172-175 refer to the following online chat discussion.
 
@@ -3700,6 +5445,14 @@ What does Ms. Parkin want the board of directors to do?
 
 - D. Support a product-development strategy
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Họ lo <i>the board won't increase our budget</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Nijad: &quot;board won&#x27;t increase our budget&quot;; Parkin explains the presentation and marketing budget proposal, so she wants budget increase approved.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implicit goal; B/C not mentioned; D is the topic of concerns (product) but not what is requested.</i></div>
+</details>
+
 ##### Question 173
 What do the writers indicate about their product?
 
@@ -3710,6 +5463,14 @@ What do the writers indicate about their product?
 - C. It is not as popular as competitors' products.
 
 - D. It does not sell well at a certain time of year.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Sales usually slow down this time of year</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Naifeh: &quot;Sales usually slow down this time of year.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: sales slow this time of year = does not sell well at a certain time; C wrong (industry-wide trend).</i></div>
+</details>
 
 ##### Question 174
 At 3:05 P.M., what does Mr. Naifeh imply when he writes, "I have the details onscreen right now"?
@@ -3722,6 +5483,14 @@ At 3:05 P.M., what does Mr. Naifeh imply when he writes, "I have the details ons
 
 - D. He will share information on a competitor's product.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bà Parkin xin dữ liệu, ông có sẵn trên màn hình → đáp ứng được ngay.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>3:04 Parkin asks &quot;Could you send me any related data?&quot;; 3:05 &quot;I have the details on screen right now&quot; = can provide it.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Response to request; D and C not supported.</i></div>
+</details>
+
 ##### Question 175
 What kind of advertising did Ms. Tuan focus on at her previous job?
 
@@ -3732,6 +5501,14 @@ What kind of advertising did Ms. Tuan focus on at her previous job?
 - C. Newspaper
 
 - D. Social media
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mạng xã hội là <i>your specialty at your last job</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Parkin: social media &quot;was your specialty at your last job&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Reference through pronoun &quot;this kind of advertising&quot; = social media; radio/newspaper are the alternatives discussed.</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 176-180 refer to the following Web page and online review.</div> </div>
 
@@ -3754,6 +5531,14 @@ According to the Web page, what is true about Branxley Cycles?
 
 - D. It has won several awards for its products.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>parts made by local craftspeople</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: &quot;made by hand ... with parts made by local craftspeople.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: local craftspeople = locally sourced parts; A/B/D unmentioned. Single doc (Web page).</i></div>
+</details>
+
 ##### Question 177
 What does Branxley Cycles encourage its customers to do?
 
@@ -3764,6 +5549,14 @@ What does Branxley Cycles encourage its customers to do?
 - C. Visit a manufacturing facility
 
 - D. Attend a sales event
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>share the images via social media</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: invite customers &quot;to take photos ... and share the images via social media.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: share images via social media = post photos online. Single doc.</i></div>
+</details>
 
 ##### Question 178
 According to the review, how did Mr. Stewart learn about Branxley Cycles?
@@ -3776,6 +5569,14 @@ According to the review, how did Mr. Stewart learn about Branxley Cycles?
 
 - D. By traveling around the country
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>After talking with a coworker</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: &quot;After talking with a coworker, I learned about Branxley Cycles.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: coworker = colleague at work; C trap (he searched online but did not find it). Single doc (review).</i></div>
+</details>
+
 ##### Question 179
 What can be concluded about the reviewer?
 
@@ -3787,6 +5588,14 @@ What can be concluded about the reviewer?
 
 - D. He received his order sooner than he expected.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đặt hàng 20/8 → web báo chờ 10–12 tuần, nhưng nhận sau 2 tuần.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: ordered Aug 20, delivered in two weeks; Web page (30 Aug update): 10-12 weeks for orders on or after Aug 15, so he got it sooner than expected.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: order date August 20 falls in the &quot;on or after August 15&quot; window. Trap: review reader may think only two weeks is normal.</i></div>
+</details>
+
 ##### Question 180
 In the review, the word "meet" in paragraph 1, line 8, is closest in meaning to (A) reach
 
@@ -3795,6 +5604,14 @@ In the review, the word "meet" in paragraph 1, line 8, is closest in meaning to 
 - C. encounter
 
 - D. connect
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. satisfy</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>meet the demand</i> = đáp ứng nhu cầu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;hard to believe the company can meet the demand&quot; = satisfy demand.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Common word, different sense: meet = satisfy (not encounter/reach).</i></div>
+</details>
 
 EDINBURGH (2 July)—Jackson Milne says being part of a family business feels good. He jokes that he has a prime seat in his organisation—and, in a way, he does. The century-old company Milne Associates designs and supplies seats to theatres here in Edinburgh as well as in London and New York. It was founded by his great-grandfather Angus Milne. Jackson Milne has worked in every area of the business, from the factory floor to the executive suite. He became the company's director of design last year.
 
@@ -3821,6 +5638,14 @@ What is the purpose of the article?
 
 - D. To promote a current theater production
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Giới thiệu doanh nghiệp gia đình Milne Associates.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article profiles Jackson Milne and century-old Milne Associates, a family seat-design business.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose = profile; theatre and seating are content, not main aim.</i></div>
+</details>
+
 ##### Question 182
 What is indicated in the article about Angus Milne?
 
@@ -3832,10 +5657,18 @@ What is indicated in the article about Angus Milne?
 
 - D. He wrote a popular musical.
 
-- A. She went on a tour with her family in early July.
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>century-old company… founded by his great-grandfather</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: century-old company &quot;founded by his great-grandfather Angus Milne.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: century-old founded = created a company 100 years ago.</i></div>
+</details>
 
 ##### Question 183
 What does Ms. Nandi mention in her review?
+
+- A. She went on a tour with her family in early July.
 
 - B. She wants to return to Edinburgh.
 
@@ -3843,8 +5676,24 @@ What does Ms. Nandi mention in her review?
 
 - D. She used to live in Edinburgh's Old Town.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>already planning another trip</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: &quot;I&#x27;m already planning another trip&quot; = wants to return. (OCR jumbled choice order; A is a choice.)</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; A trap (took train with a friend, not family tour); C and D unsupported.</i></div>
+</details>
+
 ##### Question 184
 In the review, the word "appreciates" in paragraph 2, line 3, is closest in meaning to (A) values (B) increases (C) comprehends (D) knows
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. values</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>appreciates delicious food</i> = trân trọng, coi trọng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;anyone who appreciates delicious food at a reasonable price&quot; = values.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Multiple-meaning word: appreciates = values (not increases).</i></div>
+</details>
 
 ##### Question 185
 What can be concluded about Ms. Nandi?
@@ -3856,6 +5705,14 @@ What can be concluded about Ms. Nandi?
 - C. She frequently sees shows at the Wolff Theatre.
 
 - D. She had a good experience with a product from Milne Associates.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ghế mới, êm ở Wolff Theatre do Milne thiết kế.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: &quot;grateful for the theatre&#x27;s new, comfortable seating&quot; at Wolff Theatre; article: Milne designed seats for Wolff Theatre and company supplies seats to theatres.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: Wolff Theatre named in both. Trap: A/B/C; product is seating not named in review.</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 186-190 refer to the following Web page and e-mails.</div> </div>
 
@@ -3878,6 +5735,14 @@ According to the Web page, who made a recent discovery?
 
 - D. A photographer
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>stumbled upon by a farmer digging a well</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: site &quot;literally stumbled upon by a farmer digging a well.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trap: B (archaeologist discusses it, but a farmer found it).</i></div>
+</details>
+
 ##### Question 187
 Why are some objects unavailable to see in person during a lecture?
 
@@ -3888,6 +5753,14 @@ Why are some objects unavailable to see in person during a lecture?
 - C. They are too large.
 
 - D. They are at a different location.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>too delicate to be moved around</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: pieces &quot;too delicate to be moved around&quot; so shown in photographs.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: delicate = fragile.</i></div>
+</details>
 
 ##### Question 188
 What is suggested about the Chovey Community Room?
@@ -3900,6 +5773,14 @@ What is suggested about the Chovey Community Room?
 
 - D. It is near the museum's south entrance.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "Cần hơn 75 chỗ nên phải chuyển địa điểm" → phòng Chovey không đủ 75 chỗ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: lecture at 7 PM in the Chovey Community Room; e-mail 1 (Voll): &quot;need more than 75 seats, so let&#x27;s discuss moving the lecture&quot;, implying the room seats 75 or fewer.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: same lecture on October 18 and same event. Trap: D (north, not south, entrance).</i></div>
+</details>
+
 ##### Question 189
 According to the second e-mail, what does Professor Whitford want Dr. Fiallo to do?
 
@@ -3911,6 +5792,14 @@ According to the second e-mail, what does Professor Whitford want Dr. Fiallo to 
 
 - D. Collaborate on research projects
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>my invitation to collaborate with my team</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2 (Whitford): &quot;hope you will consider my invitation to collaborate with my team ... on research projects.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: collaborate on research projects. Trap: C (lecture already happened).</i></div>
+</details>
+
 ##### Question 190
 What is suggested about the tools that Professor Whitford's students looked at?
 
@@ -3921,6 +5810,14 @@ What is suggested about the tools that Professor Whitford's students looked at?
 - C. They are more than 800 years old.
 
 - D. They are still in use.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Công cụ đá nằm trong số đồ vật mới khai quật, <i>over 800 years ago</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: students impressed by stone tools &quot;among the items&quot; and &quot;these artifacts were so close by all this time&quot;; Web page: findings show life &quot;over 800 years ago&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: same discovery and display items (pottery and tools). Trap: B/D unsupported; A not mentioned.</i></div>
+</details>
 
 #### Questions 191-195 refer to the following calendar and e-mails.
 
@@ -3943,6 +5840,11 @@ When will Ms. Moreland return to the office?
 
 - D. On Friday
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Nội dung e-mail thứ nhất bị mất trong file; đáp án theo bảng đáp án gốc. Suy từ e-mail trả lời: các việc vào thứ Ba (họp ngân sách, phỏng vấn…) đều bị dời đi → bà về văn phòng từ thứ Tư.</div>
+</details>
+
 ##### Question 192
 Who most likely is Ms. Weaver?
 
@@ -3953,6 +5855,14 @@ Who most likely is Ms. Weaver?
 - C. An accountant
 
 - D. An executive assistant
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Cô Weaver sắp xếp lịch theo yêu cầu → trợ lý điều hành.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Weaver: &quot;working on your calendar per your request&quot;, moving meetings, contacting team members = executive assistant.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Role inferred from tasks.</i></div>
+</details>
 
 ##### Question 193
 According to the first e-mail, what will likely be discussed during the human resources meeting?
@@ -3965,6 +5875,14 @@ According to the first e-mail, what will likely be discussed during the human re
 
 - D. New eyewear models
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Phỏng vấn dời sang chiều thứ Sáu, họp nhân sự dời sang thứ Hai sau đó → bàn kết quả phỏng vấn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Interviews are held before the HR meeting (e-mail 2: interviews Friday afternoon, HR meeting Monday). First e-mail text missing from OCR.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>OCR gap; link between interviews and HR meeting is sequence.</i></div>
+</details>
+
 ##### Question 194
 What is the subject of Ms. Moreland's meeting with Mr. Kim?
 
@@ -3976,6 +5894,14 @@ What is the subject of Ms. Moreland's meeting with Mr. Kim?
 
 - D. Marketing strategies
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Họp với Kim lúc 2:00 P.M. thứ Sáu = ô <i>Technology updates</i> trên lịch.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: Eric Kim&#x27;s 2:00 PM Friday meeting; Calendar: Friday 2:00 PM &quot;Technology updates&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: time slot Friday 2 PM. Trap: D marketing (a separate item).</i></div>
+</details>
+
 ##### Question 195
 What does Ms. Weaver indicate she will do?
 
@@ -3986,6 +5912,14 @@ What does Ms. Weaver indicate she will do?
 - C. Place a new eyewear order
 
 - D. Check that Ms. Moreland's office has been cleaned
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>I will keep trying</i> (liên lạc với nhóm marketing).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: &quot;unable to get through to every marketing team member ... I will keep trying.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: keep trying = attempt to contact.</i></div>
+</details>
 
 #### Questions 196-200 refer to the following Web pages and e-mail.
 
@@ -4020,6 +5954,14 @@ What is indicated about Mr. Stolartz?
 
 - D. He is a former choir director.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Gradey City's own Jeffrey Stolartz</i> = người con của Gradey City.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;Gradey City&#x27;s own Jeffrey Stolartz&quot; = from Gradey City.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: own = native/originally from.</i></div>
+</details>
+
 ##### Question 197
 According to the e-mail, what is Mr. Ellis concerned about?
 
@@ -4030,6 +5972,14 @@ According to the e-mail, what is Mr. Ellis concerned about?
 - C. Learning parts of By the Meadow
 
 - D. Training a new choir director
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Phải thay hai ca sĩ trước tháng 8, <i>time constraints</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: replace two singers &quot;before rehearsals begin in August&quot;; &quot;Given our time constraints&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: time constraints = short notice.</i></div>
+</details>
 
 ##### Question 198
 What is one thing Mr. Ellis did on July 7?
@@ -4042,6 +5992,14 @@ What is one thing Mr. Ellis did on July 7?
 
 - D. He contacted Mr. Stolartz.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>I opened an account with MLP this morning</i> → phí mở tài khoản €300.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail (7 July): &quot;I opened an account with MLP this morning&quot;; MLP home page: recruiters pay initial fee of 300 euro.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: MLP account opening = initial fee. Trap: 150 euro is annual.</i></div>
+</details>
+
 ##### Question 199
 When do practice sessions for the autumn performances begin?
 
@@ -4052,6 +6010,14 @@ When do practice sessions for the autumn performances begin?
 - C. On August 4
 
 - D. On August 11
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>report to Neufried Auditorium on 11 August for… rehearsals</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: rehearsals begin in August; job listing: report to Neufried Auditorium on 11 August for rehearsals.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: autumn rehearsals in both. Traps: 8 July (posting), 21 July (deadline), 4 August (notification).</i></div>
+</details>
 
 ##### Question 200
 What do applicants need to do to audition for the Gradey City Choir?
@@ -4065,6 +6031,14 @@ What do applicants need to do to audition for the Gradey City Choir?
 - D. Visit the Resources page to upload a
 
 - D. Visit the Resources page to upload a video recording
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Applicants must supply an audition video. Simply follow the instructions on the Resources page</i>. (C sai: bài hát do nhà tuyển dụng chọn.)</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Job listing: &quot;Applicants must supply an audition video&quot;; home page: Resources page has instructions to create and upload it.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: audition video = video recording.</i></div>
+</details>
 
 Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check your work.
 
@@ -4101,6 +6075,11 @@ Ms. Chiu recently announced that ----- is planning to retire in September.
 
 - D. she
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. she</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mệnh đề <i>that</i> cần chủ ngữ: <i>that she is planning…</i></div>
+</details>
+
 ##### Question 102
 Mr. Kashnitz will interview the applicants
 
@@ -4114,6 +6093,11 @@ Mr. Kashnitz will interview the applicants
 
 - D. along
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. before</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>before the holiday</i> = trước kỳ nghỉ.</div>
+</details>
+
 ##### Question 103
 The real estate agent may ----- a buyer with a neighborhood analysis upon request.
 
@@ -4124,6 +6108,11 @@ The real estate agent may ----- a buyer with a neighborhood analysis upon reques
 - C. provided
 
 - D. provides
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. provide</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau động từ khuyết thiếu <i>may</i> là động từ nguyên thể. <i>provide sb with sth</i>.</div>
+</details>
 
 ##### Question 104
 The city's development committee is looking for a ----- to plant a community garden.
@@ -4136,6 +6125,11 @@ The city's development committee is looking for a ----- to plant a community gar
 
 - D. show
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. location</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Tìm <b>địa điểm</b> để làm vườn cộng đồng.</div>
+</details>
+
 ##### Question 105
 We hope our customer service team has answered your questions in a manner.
 
@@ -4146,6 +6140,11 @@ We hope our customer service team has answered your questions in a manner.
 - C. satisfaction
 
 - D. satisfactorily
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. satisfactory</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>in a satisfactory manner</i> = một cách thỏa đáng (đề OCR mất chữ trước <i>manner</i>).</div>
+</details>
 
 ##### Question 106
 Mr. Hanley expressed interest in the position ----- held by Ms. Akello.
@@ -4158,6 +6157,11 @@ Mr. Hanley expressed interest in the position ----- held by Ms. Akello.
 
 - D. loosely
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. previously</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the position previously held by</i> = vị trí trước đây do… đảm nhiệm.</div>
+</details>
+
 ##### Question 107
 Once Ms. Jeong ----- the contract, she will sign and return it to Allory Pharmaceuticals.
 
@@ -4168,6 +6172,11 @@ Once Ms. Jeong ----- the contract, she will sign and return it to Allory Pharmac
 - C. was received
 
 - D. receiving
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. receives</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mệnh đề thời gian với <i>Once</i> dùng hiện tại đơn thay cho tương lai.</div>
+</details>
 
 ##### Question 108
 Ten board members plan to attend, which is just ----- to approve the proposal.
@@ -4180,6 +6189,11 @@ Ten board members plan to attend, which is just ----- to approve the proposal.
 
 - D. those
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. enough</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>just enough to approve</i> = vừa đủ để thông qua.</div>
+</details>
+
 ##### Question 109
 Mr. Aziz is often alone in the shop while his partner is out making a -----.
 
@@ -4190,6 +6204,11 @@ Mr. Aziz is often alone in the shop while his partner is out making a -----.
 - C. delivered
 
 - D. delivering
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. delivery</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>make a delivery</i> = đi giao hàng.</div>
+</details>
 
 ##### Question 110
 The Pacific Coast Sunset Run has been
@@ -4206,6 +6225,11 @@ weather.
 
 - D. administered
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. rescheduled</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>rescheduled to August 31</i> = dời lịch sang.</div>
+</details>
+
 ##### Question 111
 Graber hair and nail growth supplements come in ----- pill and liquid form.
 
@@ -4216,6 +6240,11 @@ Graber hair and nail growth supplements come in ----- pill and liquid form.
 - C. almost
 
 - D. likely
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. both</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>both A and B</i>.</div>
+</details>
 
 ##### Question 112
 The posters must be completed soon ----
@@ -4230,6 +6259,11 @@ they can be put up in advance of the gala.
 
 - D. as if
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. so that</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chỉ mục đích: để kịp treo trước buổi dạ tiệc.</div>
+</details>
+
 ##### Question 113
 Mr. Olivero praised the film in his review, even though he ----- disliked its aesthetic style.
 
@@ -4241,6 +6275,11 @@ Mr. Olivero praised the film in his review, even though he ----- disliked its ae
 
 - D. person
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. personally</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa động từ <i>disliked</i>.</div>
+</details>
+
 ##### Question 114
 ----- weeks of record-setting rain, expect only blue skies this weekend.
 
@@ -4251,6 +6290,11 @@ Mr. Olivero praised the film in his review, even though he ----- disliked its ae
 - C. Opposite
 
 - D. Alongside
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. After</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>After weeks of rain</i> = sau nhiều tuần mưa.</div>
+</details>
 
 ##### Question 115
 The Serenica dining table comes with
@@ -4267,6 +6311,11 @@ surfaces.
 
 - D. to be ensured
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. to ensure</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>to V</i> chỉ mục đích.</div>
+</details>
+
 ##### Question 116
 Applicants to any open position at Allcrest Engineering can expect a ----- within three business days.
 
@@ -4277,6 +6326,11 @@ Applicants to any open position at Allcrest Engineering can expect a ----- withi
 - C. change
 
 - D. response
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. response</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>expect a response within three business days</i>.</div>
+</details>
 
 ##### Question 117
 ----- prepares the patient's medical records is required to maintain confidentiality.
@@ -4289,6 +6343,11 @@ Applicants to any open position at Allcrest Engineering can expect a ----- withi
 
 - D. What
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. Whoever</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Whoever prepares…</i> = bất kỳ ai chuẩn bị… (mệnh đề danh từ làm chủ ngữ).</div>
+</details>
+
 ##### Question 118
 Because of the high demand for our services, our office was ----- expanded last year.
 
@@ -4299,6 +6358,11 @@ Because of the high demand for our services, our office was ----- expanded last 
 - C. remotely
 
 - D. identically
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. significantly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>significantly expanded</i> = mở rộng đáng kể.</div>
+</details>
 
 ##### Question 119
 The Terry Hoig Prize for ----- architecture was awarded to Ms. Helblon on Tuesday.
@@ -4311,6 +6375,11 @@ The Terry Hoig Prize for ----- architecture was awarded to Ms. Helblon on Tuesda
 
 - D. sustains
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. sustainable</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>sustainable architecture</i> = kiến trúc bền vững.</div>
+</details>
+
 ##### Question 120
 We have been ----- problems with the thermostat in the western end of the warehouse.
 
@@ -4321,6 +6390,11 @@ We have been ----- problems with the thermostat in the western end of the wareho
 - C. repurposing
 
 - D. establishing
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. experiencing</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>experience problems</i> = gặp sự cố.</div>
+</details>
 
 ##### Question 121
 Two students from Wrisley University worked ----- on the design of the new library in North Park.
@@ -4333,6 +6407,11 @@ Two students from Wrisley University worked ----- on the design of the new libra
 
 - D. collaborated
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. collaboratively</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa cho <i>worked</i>.</div>
+</details>
+
 ##### Question 122
 The images displayed on our gallery's Web site may not reflect the ----- colors of the artwork for sale.
 
@@ -4344,6 +6423,11 @@ The images displayed on our gallery's Web site may not reflect the ----- colors 
 
 - D. exact
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. exact</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the exact colors</i> = màu chính xác.</div>
+</details>
+
 ##### Question 123
 At Beautyvale Cosmetics, our representatives answer customers' ---- within 24 hours of receipt.
 
@@ -4354,6 +6438,11 @@ At Beautyvale Cosmetics, our representatives answer customers' ---- within 24 ho
 - C. to inquire
 
 - D. inquiries
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. inquiries</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau sở hữu cách <i>customers'</i> là danh từ chỉ vật: <i>inquiries</i>.</div>
+</details>
 
 ##### Question 124
 We would like to attend the retreat, but
@@ -4368,6 +6457,11 @@ We would like to attend the retreat, but
 
 - D. annually
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. regrettably</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>regrettably</i> = rất tiếc là.</div>
+</details>
+
 ##### Question 126
 Beginning next month, all employees at Sartson Analytics will have the ----- of working from home two days per week.
 
@@ -4378,6 +6472,11 @@ Beginning next month, all employees at Sartson Analytics will have the ----- of 
 - C. range
 
 - D. option
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. option</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>have the option of V-ing</i> = có lựa chọn làm gì.</div>
+</details>
 
 ##### Question 125
 In celebration of Ms. Tseng's promotion, tea and cookies will be served ----- the meeting.
@@ -4390,6 +6489,11 @@ In celebration of Ms. Tseng's promotion, tea and cookies will be served ----- th
 
 - D. in case of
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. following</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>following the meeting</i> = sau buổi họp (giới từ).</div>
+</details>
+
 ##### Question 127
 The accounting department's new policy outlines the ---- process for the procurement of office equipment.
 
@@ -4400,6 +6504,11 @@ The accounting department's new policy outlines the ---- process for the procure
 - C. preferred
 
 - D. preferably
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. preferred</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the preferred process</i> = quy trình được ưu tiên dùng.</div>
+</details>
 
 ##### Question 128
 All documents ----- to the company merger will become available to the public within one year.
@@ -4412,6 +6521,11 @@ All documents ----- to the company merger will become available to the public wi
 
 - D. embarking
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. pertaining</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>pertaining to</i> = liên quan đến.</div>
+</details>
+
 ##### Question 129
 Granta Hospital has added several pediatric nurses to its staff as part of its new ----- with the Friel School of Nursing.
 
@@ -4423,6 +6537,11 @@ Granta Hospital has added several pediatric nurses to its staff as part of its n
 
 - D. affiliates
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. affiliation</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau <i>its new</i> là danh từ: <i>affiliation with</i> = liên kết với.</div>
+</details>
+
 ##### Question 130
 During checkout, cashiers must be able to scan purchased items accurately ----- field questions from customers.
 
@@ -4433,6 +6552,11 @@ During checkout, cashiers must be able to scan purchased items accurately ----- 
 - C. although
 
 - D. as well as
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. as well as</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>scan… accurately as well as field questions</i> = cũng như trả lời câu hỏi.</div>
+</details>
 
 ### Part 6
 
@@ -4469,6 +6593,11 @@ At the grand opening, diners echoed Chef Hoang's enthusiasm for the  _____. "Wit
 
 - D. was launching
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. has launched</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Vừa khai trương tuần trước, kết quả còn ở hiện tại → hiện tại hoàn thành.</div>
+</details>
+
 ##### Question 132
 - A. they
 
@@ -4477,6 +6606,11 @@ At the grand opening, diners echoed Chef Hoang's enthusiasm for the  _____. "Wit
 - C. where
 
 - D. which
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. which</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mệnh đề quan hệ không xác định thay cho <i>Plantains</i>.</div>
+</details>
 
 ##### Question 134
 - A. food
@@ -4487,6 +6621,11 @@ At the grand opening, diners echoed Chef Hoang's enthusiasm for the  _____. "Wit
 
 - D. performance
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. food</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu sau "some of the best I've ever <b>eaten</b>".</div>
+</details>
+
 ##### Question 133
 - A. San Francisco has many popular Vietnamese restaurants.
 
@@ -4495,6 +6634,11 @@ At the grand opening, diners echoed Chef Hoang's enthusiasm for the  _____. "Wit
 - C. The show is entering its fifth season.
 
 - D. He was thrilled to win that competition.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu trước nói thắng show; câu sau "After receiving the award…" → "Anh rất vui khi thắng cuộc thi".</div>
+</details>
 
 #### Questions 135-138 refer to the following notice.
 
@@ -4511,6 +6655,11 @@ Parking is 10 per hour unless you get your parking validated at a  (135). store.
 
 - D. participation
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. participating</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>participating store</i> = cửa hàng tham gia chương trình.</div>
+</details>
+
 ##### Question 137
 - A. Park only in specified spots.
 
@@ -4519,6 +6668,11 @@ Parking is 10 per hour unless you get your parking validated at a  (135). store.
 - C. We cannot accept cash at this time.
 
 - D. A cashier will gladly stamp it for you.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mang vé vào cửa hàng → thu ngân đóng dấu.</div>
+</details>
 
 ##### Question 136
 - A. any
@@ -4529,6 +6683,11 @@ Parking is 10 per hour unless you get your parking validated at a  (135). store.
 
 - D. either
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. any</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>any of these establishments</i> = bất kỳ cửa hàng nào.</div>
+</details>
+
 ##### Question 138
 - A. If not
 
@@ -4537,6 +6696,11 @@ Parking is 10 per hour unless you get your parking validated at a  (135). store.
 - C. In that case
 
 - D. Nevertheless
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. Then</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Giờ đầu miễn phí, <b>sau đó</b> $5/giờ.</div>
+</details>
 
 Lost Ocean Theater is thrilled to announce a unique offering coming to its downtown location next week. The talented comedian Maddy Chang  $ \underline{\text{139}} $. a one-person show based on her memoir, That's All I Wanted. Chang's book, filled with funny and engaging  $ \underline{\text{140}} $. is brought to life through this performance. Fans will enjoy experiencing Chang's brilliance in person, while newcomers to her work will receive a  $ \underline{\text{141}} $. introduction to her entertaining world. Show times are Thursday through Sunday at 7:00 P.M., with an additional matinee on Saturday at 1:00 P.M.  $ \underline{\text{142}} $. Additional information can be found at www.lostoceantheater.com.
 
@@ -4549,6 +6713,11 @@ Lost Ocean Theater is thrilled to announce a unique offering coming to its downt
 
 - D. performing
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. will perform</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>coming… next week</i> → tương lai.</div>
+</details>
+
 ##### Question 140
 - A. reasons
 
@@ -4557,6 +6726,11 @@ Lost Ocean Theater is thrilled to announce a unique offering coming to its downt
 - C. characters
 
 - D. signs
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. characters</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Hồi ký đầy những nhân vật hài hước, lôi cuốn.</div>
+</details>
 
 ##### Question 141
 - A. delight
@@ -4567,6 +6741,11 @@ Lost Ocean Theater is thrilled to announce a unique offering coming to its downt
 
 - D. delightful
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. delightful</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Tính từ trước danh từ <i>introduction</i>.</div>
+</details>
+
 ##### Question 142
 - A. The theater will close for renovations.
 
@@ -4575,6 +6754,11 @@ Lost Ocean Theater is thrilled to announce a unique offering coming to its downt
 - C. Chang's memoir is available online and at local booksellers.
 
 - D. Chang was raised in Southern California and attended college in Minnesota.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau giờ diễn → gọi số điện thoại để đặt vé.</div>
+</details>
 
 To: tvargas@sandelleinn.com
 
@@ -4603,6 +6787,11 @@ Moira Voss, Owner, Petals Aplenty
 
 - D. verify
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. approach</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>how I approach my work</i> = cách tôi tiếp cận công việc.</div>
+</details>
+
 ##### Question 144
 - A. Even so
 
@@ -4611,6 +6800,11 @@ Moira Voss, Owner, Petals Aplenty
 - C. On the contrary
 
 - D. As you suggested
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. Even so</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Dù không có ngân sách trang trí, <b>dù vậy</b> vẫn có thể hợp tác.</div>
+</details>
 
 ##### Question 145
 - A. refers
@@ -4621,6 +6815,11 @@ Moira Voss, Owner, Petals Aplenty
 
 - D. referable
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. referrals</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>list of referrals</i> = danh sách giới thiệu (nhà cung cấp).</div>
+</details>
+
 ##### Question 146
 - A. I want to thank you again for the nomination.
 
@@ -4629,6 +6828,11 @@ Moira Voss, Owner, Petals Aplenty
 - C. I think it was all just a misunderstanding.
 
 - D. I believe this arrangement can benefit us both.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Đề xuất quảng bá chéo → "thỏa thuận này có lợi cho cả đôi bên".</div>
+</details>
 
 ### Part 7
 
@@ -4649,6 +6853,14 @@ What is suggested about Zestful Cuisine?
 
 - D. It requires staff to attend a training session.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Toàn thời gian hoặc bán thời gian; ca ngày hoặc đêm → linh hoạt.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Posting: &quot;full-time or part-time position. Days and nights are available.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implication = schedule flexibility; C trap (career path but no six months), B contradicted (pay by experience).</i></div>
+</details>
+
 ##### Question 148
 According to the job posting, what is an essential quality for a candidate?
 
@@ -4659,6 +6871,14 @@ According to the job posting, what is an essential quality for a candidate?
 - C. Previous experience at a restaurant
 
 - D. Ability to communicate with customers
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>excellent customer service skills</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;excellent customer service skills&quot; = ability to communicate with customers.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; C trap (experience only affects pay); B trap (French and Spanish food, not languages).</i></div>
+</details>
 
 #### Questions 149-151 refer to the following article.
 
@@ -4679,6 +6899,14 @@ According to the article, who is responsible for engineering the device?
 
 - D. The government of Winnipeg
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>The device will be engineered…</i> (Alita được cấp tiền để phát triển).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Alita Technology has been awarded a grant to develop ... The device will be engineered&quot;; lab only collaborates and tests.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractor: A and C (testing and collaboration); D (Winnipeg is a place).</i></div>
+</details>
+
 ##### Question 150
 The word "initiative" in paragraph 2, line 3, is closest in meaning to
 
@@ -4690,6 +6918,14 @@ The word "initiative" in paragraph 2, line 3, is closest in meaning to
 
 - D. project
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. project</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>the initiative</i> = dự án.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;collaborating ... on the initiative&quot; = project.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Meaning fits the grant-funded development effort.</i></div>
+</details>
+
 ##### Question 151
 What is indicated about Dr. Jaris?
 
@@ -4700,6 +6936,14 @@ What is indicated about Dr. Jaris?
 - C. He assembles prototypes of sensing instruments.
 
 - D. He works as an engineer at Alita Technology.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>director of the lab's Remote Sensing Unit</i> (phòng thí nghiệm đại học).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Dr. Hugh Jaris, director of the lab&#x27;s Remote Sensing Unit&quot; at University of Southam.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: lab at university = employed by university laboratory.</i></div>
+</details>
 
 ### Stub Master—Your Ticket Source for Concerts, Sports, and Theater Hello, Mr. Sato,
 
@@ -4718,6 +6962,14 @@ What is mentioned about Stub Master tickets?
 
 - D. They are saved electronically.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Vé điện tử trong tài khoản/app, không in được.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;mobile ticket ... available in the Stub Master account ... may not be printed&quot; = electronic.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: mobile/app = saved electronically; A contradicted.</i></div>
+</details>
+
 ##### Question 153
 What is true about the event Mr. Sato will attend?
 
@@ -4728,6 +6980,14 @@ What is true about the event Mr. Sato will attend?
 - C. It will take place indoors.
 
 - D. It includes a free buffet.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>regular season baseball</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Event: &quot;regular season baseball&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Traps: A (June 25 not June 7), C (bleachers uncovered), D (buffet costs $15).</i></div>
+</details>
 
 #### Questions 154-156 refer to the following press release.
 
@@ -4754,6 +7014,14 @@ What is mentioned about Ms. Masondo?
 
 - D. She has been a product designer for 30 years.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>three-decades-long design career</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>President: &quot;In her three-decades-long design career&quot; = 30 years as designer.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Numeric paraphrase: three decades = 30 years.</i></div>
+</details>
+
 ##### Question 155
 What do Gulfbrook Creations and Deavora Dynamix have in common?
 
@@ -4764,6 +7032,14 @@ What do Gulfbrook Creations and Deavora Dynamix have in common?
 - C. Their years of operation
 
 - D. Their headquarters location
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Cả hai làm sản phẩm hỗ trợ sống độc lập (<i>accessibility products</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Deavora: &quot;accessibility products to enhance independent living&quot;; Gulfbrook: &quot;equipment that facilitates independent living.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: independent living products shared; headquarters differ (Durban vs. Johannesburg).</i></div>
+</details>
 
 ##### Question 156
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -4777,6 +7053,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [2] ngay sau "headed the materials development division at Deavora" → "giữ cương vị đó 10 năm".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;She served in that capacity&quot; refers to headed materials development division at Deavora in [2].</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Reference: &quot;that capacity&quot; and &quot;Deavora Dynamix&quot; follow [2].</i></div>
+</details>
 
 #### Questions 157-158 refer to the following text-message chain.
 
@@ -4819,6 +7103,14 @@ At 7:53 A.M., what does Mr. Fuentes imply when he writes, "I'm leaving the house
 
 - D. He already scanned a document.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Trả lời câu hỏi "Hôm nay anh có làm ở văn phòng không?" → đang trên đường đến.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Gao asks if he is working in office today; &quot;I&#x27;m leaving the house now&quot; = heading to office.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied answer to a question.</i></div>
+</details>
+
 ##### Question 158
 What problem does Ms. Gao have?
 
@@ -4829,6 +7121,14 @@ What problem does Ms. Gao have?
 - C. She needs help fixing her computer.
 
 - D. She forgot the number for a conference call.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ghi chú để quên trên bàn ở văn phòng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Notes needed for the call &quot;are on my desk&quot; while she works from home.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: notes on desk = left important information in office.</i></div>
+</details>
 
 ##### https://www.morrisville.gov.za/cityplanning/buildingpermits
 
@@ -4853,6 +7153,14 @@ What type of project would require a permit?
 
 - D. Enlarging an office building
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Cần giấy phép khi <i>adding to or expanding the size of a building</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Permit required for &quot;adding to or expanding the size of a building&quot;; interior plumbing, electrical, heating/cooling are exempt.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Traps: A, B, C are interior systems that do not need a permit.</i></div>
+</details>
+
 ##### Question 160
 According to the Web page, why should someone contact Mr. Abioye?
 
@@ -4864,6 +7172,14 @@ According to the Web page, why should someone contact Mr. Abioye?
 
 - D. To check on the status of an application
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>if you need assistance completing this application</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Please contact Ronald Abioye ... if you need assistance completing this application.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: application = form.</i></div>
+</details>
+
 ##### Question 161
 What is indicated on the Web page as a step in the preconstruction process?
 
@@ -4874,6 +7190,14 @@ What is indicated on the Web page as a step in the preconstruction process?
 - C. A plan is signed by an engineer.
 
 - D. The building owner receives an e-mail.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Giấy phép phải được <i>posted in an easily visible location</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Step 3: permit is &quot;posted in an easily visible location at the main entrance&quot; before work begins = document displayed.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: posted = displayed.</i></div>
+</details>
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Millsberg Summer Festival<br/>Millsberg&#x27;s annual Summer Festival returns this June for its sixtieth year!</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Opening Parade<br/>June 20, 10:00 A.M.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>This is the Summer Festival&#x27;s oldest and best-known event. The parade marks the official start of the festival and features elaborate floats and marching bands.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Children&#x27;s Fun Fair<br/>June 20–26, noon–8:00 P.M.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Carnival rides and entertainment at Millsberg Park</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Outdoor Concert Series<br/>June 20–26, 7:00 P.M.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Live music, including folk, jazz, and classical, at Greenrow Park</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Wood-fired pizza and other snacks will be available for purchase.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Open-Air Art Studio<br/>June 26, 3:00 P.M.–9:00 P.M.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>On the final day of the festival, local painters, photographers, and potters welcome the public to view their works at the park in front of the Riverside Art Complex.</td></tr></table>
 
@@ -4888,6 +7212,14 @@ What is indicated about the festival?
 
 - D. Its events are held at a single location.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Có hội chợ cho trẻ em, hòa nhạc, triển lãm → mọi lứa tuổi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Events range from children&#x27;s fair and parade to concerts and art viewing.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference; C wrong (outdoor), D wrong (Millsberg Park, Greenrow Park, Riverside).</i></div>
+</details>
+
 ##### Question 163
 At what event can visitors purchase food?
 
@@ -4898,6 +7230,14 @@ At what event can visitors purchase food?
 - C. Outdoor Concert Series
 
 - D. Open-Air Art Studio
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Pizza và đồ ăn nhẹ bán ở chuỗi hòa nhạc ngoài trời.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Outdoor Concert Series: &quot;Wood-fired pizza and other snacks will be available for purchase.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Location in listing.</i></div>
+</details>
 
 #### Watch the game you love for the price that's right!
 
@@ -4914,6 +7254,14 @@ Where would the information most likely be found?
 
 - D. In a basketball player's biography
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Quảng cáo gói xem bóng rổ → tạp chí thể thao.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad promotes TBC streaming plans, promotional language.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Source-of-info question; ad appears in general sports magazine.</i></div>
+</details>
+
 ##### Question 166
 What plan is designed for a subscriber who is only interested in a single team?
 
@@ -4924,6 +7272,14 @@ What plan is designed for a subscriber who is only interested in a single team?
 - C. The TBC Silver Plan
 
 - D. The TBC Copper Plan
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Silver Plan: games played by a team of your choice</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Silver: &quot;games played by your favorite TBC team&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: single team = favorite team.</i></div>
+</details>
 
 ##### Question 165
 What is unique about the TBC Platinum Plan?
@@ -4936,6 +7292,14 @@ What is unique about the TBC Platinum Plan?
 
 - D. It includes nationally televised games.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Chỉ gói Platinum có các trận phát sóng toàn quốc (<i>nationally televised games</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Platinum &quot;Includes nationally televised games&quot;; Gold and Silver exclude them. Note OCR prints Q166 before Q165.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Unique feature: ads-free and three devices shared with Gold.</i></div>
+</details>
+
 ##### Question 167
 How much is the TBC Gold Plan?
 
@@ -4946,6 +7310,14 @@ How much is the TBC Gold Plan?
 - C. $29 per year
 
 - D. $49 per year
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Con số / giá tiền</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Gold = $19/tháng hoặc $99/năm.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Gold Plan: $19/month or $99/year.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Price distractors from other plans.</i></div>
+</details>
 
 #### Questions 168-171 refer to the following blog post.
 
@@ -4970,6 +7342,14 @@ What topic is reported on in the blog post?
 
 - D. A grant given to Brentler Heights artists
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý chính / chủ đề</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>revitalization of the Brentler Heights waterfront district</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Blog focuses on &quot;revitalization of the Brentler Heights waterfront district&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Topic vs. details.</i></div>
+</details>
+
 ##### Question 169
 What is indicated about Ms. Skandar?
 
@@ -4981,6 +7361,14 @@ What is indicated about Ms. Skandar?
 
 - D. She creates large metal sculptures for gardens.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>I obtained many of her creations to sell at my shop</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Nguyen: &quot;I obtained many of her creations to sell at my shop&quot; = supplier.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; D trap (gardens have metal sculptures but not by Skandar).</i></div>
+</details>
+
 ##### Question 170
 What is true about the Brentler Heights Gallery?
 
@@ -4991,6 +7379,14 @@ What is true about the Brentler Heights Gallery?
 - C. It occupies two floors of a building.
 
 - D. It will be managed by Mr. Greeley.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Tòa nhà công nghiệp cũ được cải tạo, giữ nét cổ điển.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Greeley retained original features, &quot;vintage character&quot; = older, refurbished space.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trap: C (second floor only).</i></div>
+</details>
 
 ##### Question 171
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -5004,6 +7400,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [4] đứng sau "triển lãm đầu tiên trưng bày tác phẩm của Skandar" → "sau này sẽ trưng bày của nghệ sĩ khác".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Insert follows &quot;inaugural exhibit will showcase Ms. Skandar&#x27;s work&quot; in [4]; &quot;In the future&quot; contrasts with inaugural.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Time-sequence cohesion.</i></div>
+</details>
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//b7489399-7acc-405d-93ef-e0e1839ff48d/markdown_3/imgs/img_in_image_box_191_168_304_220.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-26T17%3A34%3A24Z%2F-1%2F%2F37d04930faccb6fc788cf135f77be2c90006fd8212d6bd0ff3a869d3b92c1de2" alt="Image" /></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Liz Yuen (8:58 A.M.)
 Hi, all. Thank you for your prompt feedback on the Web site content I sent out in the group e-mail. Everyone agrees that the photos and the accompanying content do not seem to market the calendars strongly enough.
@@ -5037,6 +7441,14 @@ What are the chat participants discussing?
 
 - D. What marketing firm to select
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý chính / chủ đề</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thảo luận nội dung và chức năng website.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Chat about Web site photos, content, and functionality.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Overall topic; customer content is just one idea.</i></div>
+</details>
+
 ##### Question 173
 What is indicated about Ms. Black?
 
@@ -5047,6 +7459,14 @@ What is indicated about Ms. Black?
 - C. She designed a popular office calendar.
 
 - D. She bought new office furniture recently.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>one of the days that I'm working from home</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Black: &quot;one of the days that I&#x27;m working from home.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: sometimes work from home.</i></div>
+</details>
 
 ##### Question 174
 At 9:07 A.M., what does Ms. Black imply when she writes, "I saw those"?
@@ -5059,6 +7479,14 @@ At 9:07 A.M., what does Ms. Black imply when she writes, "I saw those"?
 
 - D. She knows that a Web site is not working correctly.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Trả lời câu "còn lỗi chức năng của website?" → cô đã thấy lỗi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Yuen asks &quot;what about the problems with the functionality of the Web site?&quot;; Black: &quot;I saw those.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Reference: &quot;those&quot; = functionality problems; Spina then lists pop-up and links.</i></div>
+</details>
+
 ##### Question 175
 What does Ms. Yuen thank Mr. Spina for?
 
@@ -5069,6 +7497,14 @@ What does Ms. Yuen thank Mr. Spina for?
 - C. Reviewing Ms. Jee's performance
 
 - D. Taking photographs of a workspace
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Spina sẽ nói chuyện với Ryeo Jee để sửa lỗi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Spina: &quot;I&#x27;ll speak with Ryeo Jee ... Her team&quot;; Yuen: &quot;Thanks, Jeff.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: speak with = contact a colleague.</i></div>
+</details>
 
 #### Hillside House Is Ready for Business
 
@@ -5091,8 +7527,24 @@ What is indicated in the article about Hillside House?
 
 - D. It will be purchased by Mr. Isley.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Tường kính nhìn ra vườn, cửa sổ trần nhìn trời.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: glass walls give &quot;enchanted view of green gardens&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; A contradicted (minutes from city centre).</i></div>
+</details>
+
 ##### Question 177
 In the article, the word "function" in paragraph 3, line 7, is closest in meaning to (A) occupation (B) use (C) organization (D) gathering
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. gathering</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>corporate function</i> = sự kiện/buổi tiệc công ty.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;wedding or corporate function&quot; = gathering/event.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Multiple meaning: function = gathering.</i></div>
+</details>
 
 ##### Question 178
 What is one purpose of the e-mail?
@@ -5105,6 +7557,14 @@ What is one purpose of the e-mail?
 
 - D. To confirm a reservation for a party
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>16 June is available; your… celebration is now on our schedule</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;16 June is available; your ... celebration is now on our schedule&quot; = confirms booking.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: on schedule = reservation.</i></div>
+</details>
+
 ##### Question 179
 What did Ms. Taimona send with the e-mail?
 
@@ -5116,6 +7576,14 @@ What did Ms. Taimona send with the e-mail?
 
 - D. Designs for a corporate logo
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Đối chiếu bảng / biểu mẫu</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>attaching information about the menu options and pricing</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Attachment line and text: &quot;attaching information about the menu options and pricing.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Attachment content named in body; B is offered separately on request.</i></div>
+</details>
+
 ##### Question 180
 What can be concluded about Ms. Colling's corporate event?
 
@@ -5126,6 +7594,14 @@ What can be concluded about Ms. Colling's corporate event?
 - C. It will conclude with a presentation of awards to Kitchen Designs staff.
 
 - D. It will include music performed by a live band.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Chef Malik <i>a two-time Franklin Heard Foundation winner</i> phụ trách thực đơn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: Chef Malik &quot;two-time Franklin Heard Foundation winner&quot; oversees menus; e-mail: &quot;Chef Malik and his staff can also work with you&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: Chef Malik in both. Traps: D band only if requested; B/C unsupported.</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 181-185 refer to the following e-mails.</div> </div>
 
@@ -5144,6 +7620,14 @@ What problem is explained in the first e-mail?
 
 - D. An item was accidentally ordered in the wrong size.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Màu thật khác màu trên web.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Meyers: actual colour &quot;different from the colour pictured on your Web site.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; A and D wrong.</i></div>
+</details>
+
 ##### Question 182
 What does Ms. Meyers indicate?
 
@@ -5154,6 +7638,14 @@ What does Ms. Meyers indicate?
 - C. She had difficulty navigating a Web site.
 
 - D. She prefers dark-colored boots.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>purchased several pairs… in the past</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;purchased several pairs of boots from your company in the past.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: several pairs = frequent customer.</i></div>
+</details>
 
 ##### Question 183
 What color is currently NOT available for boots in the Erin style?
@@ -5166,6 +7658,14 @@ What color is currently NOT available for boots in the Erin style?
 
 - D. Terracotta
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Terracotta <i>out of stock</i>; chỉ còn sand và forest (ngoài màu chocolate đã mua).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1 requests terracotta; e-mail 2: that size, style, colour is out of stock; sand and forest are available.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: order 13783 and colour terracotta. Trap: chocolate is her purchased color.</i></div>
+</details>
+
 ##### Question 184
 What does the second e-mail suggest about Takem Boot Company?
 
@@ -5177,6 +7677,14 @@ What does the second e-mail suggest about Takem Boot Company?
 
 - D. It is the most popular boot company in the region.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Viola boots, our most popular style</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Viola boots, our most popular style.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: most popular style = sells a lot; B contradicted (postage-paid label).</i></div>
+</details>
+
 ##### Question 185
 What does Mr. Stephens offer to do?
 
@@ -5187,6 +7695,14 @@ What does Mr. Stephens offer to do?
 - C. Send a product catalog
 
 - D. Give a discount on new-style boots
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>send you a postage-paid return label via e-mail</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;I can send you a postage-paid return label via e-mail&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; A is what customer does.</i></div>
+</details>
 
 #### Questions 186-190 refer to the following e-mail, article, and Web page.
 
@@ -5227,6 +7743,14 @@ Why did Mr. Tanner write the e-mail?
 
 - D. To congratulate a new city council member
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> (E-mail này chỉ có dạng ảnh.) Nhà báo Tanner nhờ nghị viên mới cập nhật thông tin về bảo trì đường mòn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail is an image not in OCR; the article says residents raised concerns about trail conditions and Tanner covers it, so likely he asks for trail maintenance information.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>OCR gap: unverified.</i></div>
+</details>
+
 ##### Question 187
 What is suggested about Ms. Yancey?
 
@@ -5237,6 +7761,14 @@ What is suggested about Ms. Yancey?
 - C. She trains new park volunteers.
 
 - D. She is a fund-raising specialist.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> E-mail: ủy viên cũ Oscar Lunes sắp nghỉ hưu; bài báo: Yancey <i>newly appointed</i> sau khi <i>my predecessor stepped down</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: &quot;newly appointed parks commissioner Helen Yancey&quot;; &quot;my predecessor stepped down&quot;. E-mail (image, not readable) presumably names Lunes as previous commissioner.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: commissioner role. OCR gap.</i></div>
+</details>
 
 ##### Question 188
 What interrupted the maintenance of the Blue Trail?
@@ -5249,6 +7781,14 @@ What interrupted the maintenance of the Blue Trail?
 
 - D. An extended period of wet weather
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Chuyển từ nhân viên thành phố sang mô hình tình nguyện → tạm ngưng bảo trì.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: shift from city employees to all-volunteer model caused &quot;temporary suspension of maintenance on the Blue Trail.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: transition/model change = policy change.</i></div>
+</details>
+
 ##### Question 189
 What most likely is true about Trail Cleanup Day?
 
@@ -5260,6 +7800,14 @@ What most likely is true about Trail Cleanup Day?
 
 - D. The date of the trail cleanup was changed.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Mâu thuẫn giữa các văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bài báo hẹn 12/8, trang web nói tổ chức ngày 8/8 → đã đổi ngày.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article (July 12): Trail Cleanup Day scheduled August 12; Web page: held August 8.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: same event, different dates (later changed). Trap: B/C not stated.</i></div>
+</details>
+
 ##### Question 190
 According to the Web page, what did one nearby resident provide volunteers with?
 
@@ -5270,6 +7818,14 @@ According to the Web page, what did one nearby resident provide volunteers with?
 - C. Landscaping tools
 
 - D. Transportation to a park
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Jason Skoda cho mượn máy cắt cỏ, kéo tỉa, cào.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: Skoda, neighbor, lent &quot;power trimmer, pruning shears, and rakes&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: tools = landscaping tools; A is beverages, not breakfast.</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 191-195 refer to the following e-mails and chart.</div> </div>
 
@@ -5294,6 +7850,14 @@ What is the purpose of the first e-mail?
 
 - D. To share information about local artists
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thông báo buổi đấu giá tranh.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1 announces auction date, place and asks participation.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose vs. details.</i></div>
+</details>
+
 ##### Question 192
 Why does Ms. Noonan comment on the event venue?
 
@@ -5304,6 +7868,14 @@ Why does Ms. Noonan comment on the event venue?
 - C. To ensure guests dress accordingly
 
 - D. To explain why the firm is donating money
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>excellent lighting for our purposes</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;restaurant, which has excellent lighting for our purposes&quot; = venue suitable.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase.</i></div>
+</details>
 
 ##### Question 193
 What artist donated the centerpiece of the auction?
@@ -5316,6 +7888,14 @@ What artist donated the centerpiece of the auction?
 
 - D. Kim Cheung
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Tượng lớn là tâm điểm; chỉ nhận tượng dưới 50 cm → <i>Streetlight</i> 90 cm.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: one large sculpture is the centerpiece; only others under 50 cm; chart: Streetlight (sculpture) 90 cm by Michaela Green is the only large sculpture.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: &quot;sculpture&quot; and dimension in chart.</i></div>
+</details>
+
 ##### Question 194
 What is indicated about Mr. Orou?
 
@@ -5327,6 +7907,14 @@ What is indicated about Mr. Orou?
 
 - D. He has invited his parents to the event.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>contribute a piece of art again this year</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Orou: &quot;planning to contribute a piece of art again this year.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: again = donated in the past.</i></div>
+</details>
+
 ##### Question 195
 What piece of art is similar in subject to Mr. Orou's painting?
 
@@ -5337,6 +7925,14 @@ What piece of art is similar in subject to Mr. Orou's painting?
 - C. Shuki—Artist's Dog
 
 - D. Cornfield Sunrise
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Đối chiếu bảng / biểu mẫu + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Tranh vườn cây lúc mặt trời mọc ~ <i>Cornfield Sunrise</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: orchard at sunrise painting; chart (attachment) lists Cornfield Sunrise (painting) by Kim Cheung.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: sunrise/rural crop scene and medium (painting).</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 196-200 refer to the following e-mails and sign.</div> </div>
 
@@ -5373,6 +7969,14 @@ What is the purpose of the first e-mail?
 
 - D. To request a transfer to another office
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> E-mail kèm sơ yếu lý lịch, tiêu đề <i>Job 3723</i> → ứng tuyển.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>First e-mail body missing from OCR; subject &quot;Job 3723&quot;, attachment &quot;lennox_resumé&quot;, reply arranges interview.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Metadata-based; applicant expressing interest.</i></div>
+</details>
+
 ##### Question 197
 In the second e-mail, what does Ms. Maec request of Mr. Lennox?
 
@@ -5384,16 +7988,32 @@ In the second e-mail, what does Ms. Maec request of Mr. Lennox?
 
 - D. That he confirm an interview appointment
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>respond to this e-mail to verify your intention to participate</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: &quot;Please respond ... to verify your intention to participate.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: verify = confirm.</i></div>
+</details>
+
+##### Question 198
+What is indicated on the sign?
+
 - A. The Franta Exports Liverpool office is open on Sundays until 4 P.M.
 
 - B. Franta Exports is currently hiring an office manager.
 
 - C. Franta Exports has offices in multiple countries.
 
-##### Question 198
-What is indicated on the sign?
-
 - D. Franta Exports has eighteen offices in the United Kingdom.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>eighteen offices worldwide</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Sign: &quot;eighteen offices worldwide, including five in the United Kingdom&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Traps: A (Mon-Sat only), D (18 worldwide, not in UK).</i></div>
+</details>
 
 ##### Question 199
 What can be concluded about Mr. Lennox?
@@ -5406,6 +8026,14 @@ What can be concluded about Mr. Lennox?
 
 - D. He works at the same location as Ms. Scott does.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Biển hiệu ghi ông là quản lý văn phòng Liverpool. Nội dung e-mail đầu (chắc nói ông ở Liverpool) bị mất trong file; đáp án khớp bảng đáp án gốc.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: Lennox interviewed for office manager; sign: Lennox is Liverpool office manager (hired). Hometown not verifiable because e-mail 1 is missing.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: same name Jerome Lennox. Other options unsupported.</i></div>
+</details>
+
 ##### Question 200
 Where was Mr. Lennox's follow-up meeting held?
 
@@ -5416,6 +8044,14 @@ Where was Mr. Lennox's follow-up meeting held?
 - C. At 660 Richmond Avenue
 
 - D. At 42 Church Road
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Buổi gặp trực tiếp ở trụ sở Portsmouth = 732 Park Avenue.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: follow-up &quot;at our headquarters in Portsmouth&quot;; sign: Portsmouth is U.K. headquarters at 732 Park Avenue.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: headquarters.</i></div>
+</details>
 
 Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check your work.
 
@@ -5452,6 +8088,11 @@ Mr. Choi, who recently joined the advisory board, is an experienced accountant -
 
 - D. yet
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. and</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>an experienced accountant and investor</i> = vừa là kế toán vừa là nhà đầu tư.</div>
+</details>
+
 ##### Question 102
 The first 150 visitors to the new fitness park will each receive a complimentary water _____.
 
@@ -5462,6 +8103,11 @@ The first 150 visitors to the new fitness park will each receive a complimentary
 - C. bottling
 
 - D. to bottle
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. bottle</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>water bottle</i> = bình nước (danh từ ghép).</div>
+</details>
 
 ##### Question 103
 Operating instructions for the printer will be e-mailed to employees .....
@@ -5474,6 +8120,11 @@ Operating instructions for the printer will be e-mailed to employees .....
 
 - D. shortening
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. shortly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>be e-mailed shortly</i> = sẽ sớm được gửi.</div>
+</details>
+
 ##### Question 105
 Ms. Lim's best-selling novel has been ..... praised.
 
@@ -5484,6 +8135,11 @@ Ms. Lim's best-selling novel has been ..... praised.
 - C. unhappy
 
 - D. widely
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. widely</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>widely praised</i> = được khen ngợi rộng rãi.</div>
+</details>
 
 ##### Question 106
 The marketing manager, Ms. Abyola, plans to meet with the press following ---- meeting with the vice president.
@@ -5496,6 +8152,11 @@ The marketing manager, Ms. Abyola, plans to meet with the press following ---- m
 
 - D. herself
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. her</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>following her meeting with…</i> (tính từ sở hữu).</div>
+</details>
+
 ##### Question 104
 Dozens of ----- customers have posted positive reviews of Stellenbosch Cycle Works.
 
@@ -5506,6 +8167,11 @@ Dozens of ----- customers have posted positive reviews of Stellenbosch Cycle Wor
 - C. satisfaction
 
 - D. satisfies
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. satisfied</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>satisfied customers</i> = khách hàng hài lòng (V-ed chỉ cảm xúc của người).</div>
+</details>
 
 ##### Question 107
 Last weekend, Terriville Community Center held a ----- game night for neighborhood children.
@@ -5518,6 +8184,11 @@ Last weekend, Terriville Community Center held a ----- game night for neighborho
 
 - D. current
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. lively</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>a lively game night</i> = buổi chơi game sôi nổi.</div>
+</details>
+
 ##### Question 108
 Mr. Lenthe will distribute ----- of the workshop agenda to all managers by Tuesday morning.
 
@@ -5528,6 +8199,11 @@ Mr. Lenthe will distribute ----- of the workshop agenda to all managers by Tuesd
 - C. copy
 
 - D. copying
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. copies</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>distribute copies of the agenda</i>.</div>
+</details>
 
 ##### Question 109
 Employees are eligible for more vacation time ----- they have been employed for five years.
@@ -5540,6 +8216,11 @@ Employees are eligible for more vacation time ----- they have been employed for 
 
 - D. thus
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. after</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>after they have been employed for five years</i>.</div>
+</details>
+
 ##### Question 110
 Managers at Afton Accounting are urged to provide ----- feedback to employees on a regular basis.
 
@@ -5550,6 +8231,11 @@ Managers at Afton Accounting are urged to provide ----- feedback to employees on
 - C. constructive
 
 - D. construction
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. constructive</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>constructive feedback</i> = góp ý mang tính xây dựng.</div>
+</details>
 
 ##### Question 111
 Many farmers markets operate on a seasonal -----, opening in spring and closing in late autumn.
@@ -5562,6 +8248,11 @@ Many farmers markets operate on a seasonal -----, opening in spring and closing 
 
 - D. sum
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. basis</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>on a seasonal basis</i> = theo mùa.</div>
+</details>
+
 ##### Question 112
 ----- in the housing market has continued to drag down real estate profits.
 
@@ -5572,6 +8263,11 @@ Many farmers markets operate on a seasonal -----, opening in spring and closing 
 - C. Weakness
 
 - D. Weakened
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. Weakness</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chủ ngữ cần danh từ: <i>Weakness in the housing market</i>.</div>
+</details>
 
 ##### Question 113
 The sudden merger of Alvy Brothers and Craford Enterprises ----- most financial analysts.
@@ -5584,6 +8280,11 @@ The sudden merger of Alvy Brothers and Craford Enterprises ----- most financial 
 
 - D. suspected
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. surprised</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Vụ sáp nhập bất ngờ <b>làm ngạc nhiên</b> giới phân tích.</div>
+</details>
+
 ##### Question 114
 Of all the mistakes people make in the office, not proofreading their e-mails is one of the -----.
 
@@ -5594,6 +8295,11 @@ Of all the mistakes people make in the office, not proofreading their e-mails is
 - C. in common
 
 - D. more commonly
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. most common</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>one of the + so sánh nhất</i>.</div>
+</details>
 
 ##### Question 115
 Cayfair Global's ----- mission is to transport and deliver client goods in a timely manner.
@@ -5606,6 +8312,11 @@ Cayfair Global's ----- mission is to transport and deliver client goods in a tim
 
 - D. nearest
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. primary</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>primary mission</i> = sứ mệnh chính.</div>
+</details>
+
 ##### Question 116
 The department supervisor is ----- for ensuring that all safety gear is stowed properly at the end of the shift.
 
@@ -5616,6 +8327,11 @@ The department supervisor is ----- for ensuring that all safety gear is stowed p
 - C. responsibly
 
 - D. responsible
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. responsible</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>be responsible for</i> = chịu trách nhiệm về.</div>
+</details>
 
 ##### Question 117
 A three-year project deepened the ---, allowing it to accommodate the largest cargo ships.
@@ -5628,6 +8344,11 @@ A three-year project deepened the ---, allowing it to accommodate the largest ca
 
 - D. island
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. harbor</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Nạo sâu <b>bến cảng</b> để tàu hàng lớn vào được.</div>
+</details>
+
 ##### Question 118
 The experiment's initial results were ---- different from what was expected.
 
@@ -5638,6 +8359,11 @@ The experiment's initial results were ---- different from what was expected.
 - C. wildly
 
 - D. wildness
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. wildly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa tính từ: <i>wildly different</i> = khác hoàn toàn.</div>
+</details>
 
 ##### Question 119
 ----- critical reviews, the movie was a great success at the box office.
@@ -5650,6 +8376,11 @@ The experiment's initial results were ---- different from what was expected.
 
 - D. Over
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. Despite</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Dù bị chê vẫn thắng phòng vé.</div>
+</details>
+
 ##### Question 120
 The spray-on sealant ----- as a protective layer that keeps your tiles from getting scratched.
 
@@ -5660,6 +8391,11 @@ The spray-on sealant ----- as a protective layer that keeps your tiles from gett
 - C. action
 
 - D. actively
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. acts</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu thiếu động từ chính: <i>acts as</i> = đóng vai trò là.</div>
+</details>
 
 ##### Question 121
 The contract for the renovation of the park will not be awarded ----- all bids have been submitted.
@@ -5672,6 +8408,11 @@ The contract for the renovation of the park will not be awarded ----- all bids h
 
 - D. because
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. until</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>not… until</i> = mãi đến khi… mới.</div>
+</details>
+
 ##### Question 122
 A recent study showed that substituting refined sugars with maple syrup may have some important ----- benefits.
 
@@ -5682,6 +8423,11 @@ A recent study showed that substituting refined sugars with maple syrup may have
 - C. legal
 
 - D. health
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. health</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>health benefits</i> = lợi ích sức khỏe.</div>
+</details>
 
 ##### Question 123
 Margie Fung was ----- the winners at Sternetz Institute's art competition.
@@ -5694,6 +8440,11 @@ Margie Fung was ----- the winners at Sternetz Institute's art competition.
 
 - D. beyond
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. among</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>among the winners</i> = nằm trong số người thắng.</div>
+</details>
+
 ##### Question 124
 Posting updates too infrequently on social media can cause small businesses by their customers.
 
@@ -5704,6 +8455,11 @@ Posting updates too infrequently on social media can cause small businesses by t
 - C. been forgotten
 
 - D. to be forgotten
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. to be forgotten</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>cause + O + to V</i>; doanh nghiệp <b>bị</b> quên → bị động <i>to be forgotten</i>.</div>
+</details>
 
 ##### Question 125
 Ideal for conference rooms, our soundproof panels have been specially designed to ---- unwanted background noise.
@@ -5716,6 +8472,11 @@ Ideal for conference rooms, our soundproof panels have been specially designed t
 
 - D. remain
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. absorb</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>absorb noise</i> = hút âm.</div>
+</details>
+
 ##### Question 126
 Mr. Sato will call into the meeting ----- the hotel's wireless network.
 
@@ -5727,6 +8488,11 @@ Mr. Sato will call into the meeting ----- the hotel's wireless network.
 
 - D. had used
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. using</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>call into the meeting using the network</i> = gọi vào họp bằng mạng wifi.</div>
+</details>
+
 ##### Question 127
 Not only has Mr. Ogbu ----- worked on the project, but he has also trained Ms. Jeong to continue the work.
 
@@ -5737,6 +8503,11 @@ Not only has Mr. Ogbu ----- worked on the project, but he has also trained Ms. J
 - C. eventfully
 
 - D. completely
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. diligently</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>diligently worked</i> = làm chăm chỉ.</div>
+</details>
 
 ##### Question 128
 Belker Auto offers a ten-year warranty for
@@ -5751,6 +8522,11 @@ Belker Auto offers a ten-year warranty for
 
 - D. everyone
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. those</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>those who</i> = những ai.</div>
+</details>
+
 ##### Question 129
 After months of planning, the Lanton Bookstore school reading program will finally ----- in October.
 
@@ -5762,6 +8538,11 @@ After months of planning, the Lanton Bookstore school reading program will final
 
 - D. access
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. commence</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>commence</i> = bắt đầu.</div>
+</details>
+
 ##### Question 130
 Independent consultants can be a valuable source of ----- advice to new entrepreneurs.
 
@@ -5772,6 +8553,11 @@ Independent consultants can be a valuable source of ----- advice to new entrepre
 - C. obedient
 
 - D. impartial
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. impartial</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>impartial advice</i> = lời khuyên khách quan.</div>
+</details>
 
 ### Part 6
 
@@ -5808,6 +8594,11 @@ Human Resources Officer
 
 - D. warehouse
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. role</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>in this role</i> = ở vị trí này (art director).</div>
+</details>
+
 ##### Question 132
 - A. There
 
@@ -5816,6 +8607,11 @@ Human Resources Officer
 - C. Otherwise
 
 - D. Afterward
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. There</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>There</i> = ở đó (Paris).</div>
+</details>
 
 ##### Question 133
 - A. Let him know if you would like to apply.
@@ -5826,6 +8622,11 @@ Human Resources Officer
 
 - D. Spencer Design has lost revenue over the last two years.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu trước giới thiệu giám đốc mới → "Anh ấy sẽ về làm từ 12/1".</div>
+</details>
+
 ##### Question 134
 - A. will be
 
@@ -5834,6 +8635,11 @@ Human Resources Officer
 - C. has been
 
 - D. would have been
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. has been</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Đóng góp suốt 10 năm, đến giờ vẫn đúng → hiện tại hoàn thành.</div>
+</details>
 
 ##### The Tominos Team Leadership Seminar
 
@@ -5850,6 +8656,11 @@ In this seminar, you  $ \underline{137} $. how to better align your team members
 
 - D. as
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. as</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>success as a team leader</i> = thành công <b>với tư cách</b> trưởng nhóm.</div>
+</details>
+
 ##### Question 137
 - A. learned
 
@@ -5858,6 +8669,11 @@ In this seminar, you  $ \underline{137} $. how to better align your team members
 - C. had learned
 
 - D. will have learned
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. will learn</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Giới thiệu khóa học sắp tới → tương lai.</div>
+</details>
 
 ##### Question 136
 - A. One common problem is employee tardiness.
@@ -5868,6 +8684,11 @@ In this seminar, you  $ \underline{137} $. how to better align your team members
 
 - D. Sign up now and receive a ten percent discount on the registration fee.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Tiếp tục mô tả lãnh đạo giỏi: "giao tiếp thường xuyên để đội nắm thông tin".</div>
+</details>
+
 ##### Question 138
 - A. Authorities
 
@@ -5876,6 +8697,11 @@ In this seminar, you  $ \underline{137} $. how to better align your team members
 - C. Participants
 
 - D. Subscribers
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. Participants</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Participants in the seminar</i> = người tham dự.</div>
+</details>
 
 To: Kana Inoue <kana.inoue@mymail.co.uk>
 
@@ -5904,6 +8730,11 @@ Impressionise
 
 - D. since
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. within</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>within the next few months</i> = trong vài tháng tới.</div>
+</details>
+
 ##### Question 141
 - A. space
 
@@ -5912,6 +8743,11 @@ Impressionise
 - C. signal
 
 - D. moment
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. space</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>an inviting space</i> = không gian dễ chịu, mời gọi.</div>
+</details>
 
 ##### Question 140
 - A. Let us help you achieve these objectives.
@@ -5922,6 +8758,11 @@ Impressionise
 
 - D. A well-trained staff is all you need to succeed.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu trước nêu mong muốn → "Hãy để chúng tôi giúp bạn đạt các mục tiêu đó".</div>
+</details>
+
 ##### Question 142
 - A. educational
 
@@ -5930,6 +8771,11 @@ Impressionise
 - C. preventive
 
 - D. previous
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. previous</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>previous projects</i> (portfolio).</div>
+</details>
 
 Digital Chicory is a monthly magazine that provides resources and tutorials for Web designers. Digital Chicory accepts informative and well-written articles of 800 to 1,200 words.
 
@@ -5954,6 +8800,11 @@ are typically discouraged at the proposal stage. However, if you are a new write
 
 - D. Please allow four to six weeks for delivery.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau quy định 800–1.200 chữ → "Đôi khi bài dài hơn cũng được xét".</div>
+</details>
+
 ##### Question 144
 - A. In any event
 
@@ -5962,6 +8813,11 @@ are typically discouraged at the proposal stage. However, if you are a new write
 - C. Before you do
 
 - D. On the contrary
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. Before you do</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trước khi gửi đề xuất, hãy đọc tạp chí.</div>
+</details>
 
 ##### Question 145
 - A. We
@@ -5972,6 +8828,11 @@ are typically discouraged at the proposal stage. However, if you are a new write
 
 - D. These
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. We</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Ban biên tập (<i>we</i>) phản hồi nhanh.</div>
+</details>
+
 ##### Question 146
 - A. forms
 
@@ -5980,6 +8841,11 @@ are typically discouraged at the proposal stage. However, if you are a new write
 - C. contracts
 
 - D. schedules
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. drafts</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Full-length drafts</i> = bản thảo đầy đủ, không khuyến khích ở giai đoạn đề xuất.</div>
+</details>
 
 ### Part 7
 
@@ -6002,6 +8868,14 @@ What is the main purpose of the information?
 
 - D. To encourage people to buy newspaper subscriptions
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mời đăng quảng cáo: <i>spread the word about your business</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad for Clearpoint Times: &quot;Your Business Gets Noticed When You Advertise Here!... Prime advertising space is available&quot; -&gt; aimed at businesses wanting ad space.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase: advertise -&gt; &quot;promote their businesses&quot;; distractors A/B (&quot;space&quot;) and D (subscriptions) misread keywords.</i></div>
+</details>
+
 ##### Question 148
 What is suggested about the Clearpoint Times?
 
@@ -6012,6 +8886,14 @@ What is suggested about the Clearpoint Times?
 - C. It is a local weekly publication.
 
 - D. It is a national daily newspaper.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>reaches thousands of your neighbors each week</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Clearpoint Times reaches thousands of your neighbors each week&quot; = local (neighbors) + weekly.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: neighbors -&gt; local; each week -&gt; weekly. D is the opposite (national daily).</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 149-150 refer to the following e-mail.</div> </div>
 
@@ -6028,6 +8910,14 @@ What is the purpose of the e-mail?
 
 - D. To seek additional staff for some work
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>schedule a time to revisit your property</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail from D. Paltz: &quot;I would like to schedule a time to revisit your property and discuss your landscaping project.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: schedule a time to discuss -&gt; request a meeting; B/C are unsupported (&quot;price estimate&quot; is a future step).</i></div>
+</details>
+
 ##### Question 150
 What does Mr. Paltz ask Mr. and Ms. Witt to do?
 
@@ -6038,6 +8928,14 @@ What does Mr. Paltz ask Mr. and Ms. Witt to do?
 - C. Avoid parking near a job site
 
 - D. Provide him with landscaping ideas
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>brainstorm… design expectations and overall vision</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;it would be helpful if the two of you could brainstorm some of your design expectations and overall vision.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: brainstorm design expectations -&gt; provide landscaping ideas; distractors A/B/C not mentioned.</i></div>
+</details>
 
 # Cavalina Hotel
 
@@ -6060,6 +8958,14 @@ For whom is the advertisement most likely intended?
 
 - D. Hotel industry professionals
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Lướt ván, đi bộ đường dài, chèo kayak → người thích hoạt động ngoài trời.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad lists windsurfing, paddleboarding, hiking and biking trails, kayaking and fishing trips -&gt; outdoor lovers.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Target-audience inference; &quot;Jeel City&quot; (A) is only a location, and the hotel is escape from city life.</i></div>
+</details>
+
 ##### Question 152
 What is suggested about some of the rooms at Cavalina Hotel?
 
@@ -6070,6 +8976,14 @@ What is suggested about some of the rooms at Cavalina Hotel?
 - C. Guests can view them online.
 
 - D. Guests can prepare food in them.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>two-room suite with kitchen</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Room Types include &quot;two-room suite with kitchen&quot; -&gt; guests can prepare food.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Indirect paraphrase: kitchen -&gt; prepare food; B/C/A are unsupported.</i></div>
+</details>
 
 ##### Paul Cho (9:47 A.M.)
 
@@ -6108,6 +9022,14 @@ At 9:50 A.M., what does Mr. Cho most likely mean when he writes, "I know you'd b
 
 - D. He thinks Ms. Rosetti is a good candidate for a job.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>I know you'd be a great fit</i> = bạn rất hợp vị trí đó.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Previous lines: Yadav has an open position, Cho mentioned Rosetti, she should apply; &quot;great fit... check all the boxes&quot; = good candidate.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Idiom &quot;great fit&quot; -&gt; good candidate; A/C distractors misassign hiring/director role to Cho.</i></div>
+</details>
+
 ##### Question 154
 What is indicated about Mr. Cho?
 
@@ -6118,6 +9040,14 @@ What is indicated about Mr. Cho?
 - C. He will help Ms. Rosetti write a cover letter.
 
 - D. He is a director at a marketing firm.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Elise and I have been friends for years</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Cho: &quot;Elise and I have been friends for years.&quot; (Elise Mayer = Ms. Mayer)</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: friends for years -&gt; has known her a long time; B and D unsupported (Cho does not work at Yadav; Mayer is the director).</i></div>
+</details>
 
 ##### Product Launch Delayed
 
@@ -6136,6 +9066,14 @@ What kind of company most likely is Covered Bridge Industries?
 
 - D. A maker of electric fans
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ra mắt nước giải khát Balmy Breeze.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Balmy Breeze soft drink launch; ingredient mango extract -&gt; beverage manufacturer.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Category inference from product; A (ice cream) and D (fans) are summer-linked distractors.</i></div>
+</details>
+
 ##### Question 156
 Why did the leaders of Covered Bridge Industries not follow their original plan?
 
@@ -6147,6 +9085,14 @@ Why did the leaders of Covered Bridge Industries not follow their original plan?
 
 - D. An essential ingredient was unavailable.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thiếu chiết xuất xoài (<i>shortage of… mango extract</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;delay was caused by a shortage of one of the drink&#x27;s main components, mango extract.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: main component -&gt; essential ingredient; shortage -&gt; unavailable; B distractor (testing was postponed, not failed).</i></div>
+</details>
+
 ##### Question 157
 During what month will Covered Bridge Industries most likely launch a new product?
 
@@ -6157,6 +9103,14 @@ During what month will Covered Bridge Industries most likely launch a new produc
 - C. In November
 
 - D. In December
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Hoàn tất kiểm định tháng 11 → <i>launch the following month</i> = tháng 12.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Testing complete by November &quot;so that it can launch the product the following month&quot; = December.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Outdated info trap: June (original plan), August (testing), November (testing end); need calculation &quot;following month&quot;.</i></div>
+</details>
 
 #### MEMO
 
@@ -6181,6 +9135,14 @@ Why is the Zipvid app no longer being used?
 
 - D. It is not compatible with new computers.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Chương trình mới <i>less likely to crash</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Memo: Curtain Call is &quot;more reliable program that is less likely to crash&quot; -&gt; Zipvid crashed too often.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: crash -&gt; malfunctioned; unmentioned distractors A/B/D.</i></div>
+</details>
+
 ##### Question 159
 According to the memo, what can Mr. Costa help employees do?
 
@@ -6191,6 +9153,14 @@ According to the memo, what can Mr. Costa help employees do?
 - C. Order software
 
 - D. Complete a form
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Hỗ trợ việc chuyển đổi định dạng video.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;install the converter utility... For assistance with this process, please contact Manuel Costa&quot; (process = converting videos).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>&quot;This process&quot; reference to convert videos; B/C/D not mentioned.</i></div>
+</details>
 
 ##### Question 160
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -6204,6 +9174,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [2] đứng sau câu giới thiệu Curtain Call → "đã cài sẵn, dùng được ngay".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;It&quot; = Curtain Call, introduced in the sentence before [2] (&quot;We will instead be using Curtain Call...&quot;); &quot;already installed on all work computers, begin immediately&quot; logically follows before the converter instruction.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Pronoun reference (It = Curtain Call); [1] would refer to Zipvid; [3] follows library sentence.</i></div>
+</details>
 
 #### Questions 161-164 refer to the following article.
 
@@ -6234,6 +9212,14 @@ What type of business do Ms. Ohtani and Ms. Rivera most likely operate?
 
 - D. A media company
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>People here love books</i>; <i>events with authors</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ohtani manages stock, Rivera handles special events with authors; &quot;people here love books.&quot; A Thousand Stories = bookshop.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Clues scattered; distractor B (special events) and D (authors).</i></div>
+</details>
+
 ##### Question 162
 What is one similarity between A Thousand Stories and Rosier's Garden Center?
 
@@ -6244,6 +9230,14 @@ What is one similarity between A Thousand Stories and Rosier's Garden Center?
 - C. Both advertise primarily online.
 
 - D. Both struggled when they first opened.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Cả hai đều vất vả lúc đầu (<i>trial and error</i>, <i>first year… tough</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ohtani: &quot;lot of trial and error at the outset&quot;; Rosier: &quot;first year... tough.&quot; Both struggled initially.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: trial and error/tough first year -&gt; struggled; A wrong (Rosier owns alone); C only bookstore mentions social media.</i></div>
+</details>
 
 ##### Question 163
 The word "turn" in paragraph 5, line 4, is closest in meaning to
@@ -6256,6 +9250,14 @@ The word "turn" in paragraph 5, line 4, is closest in meaning to
 
 - D. reverse
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. gain</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>turn a profit</i> = có lãi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;It took a long time to turn a profit&quot; -&gt; gain/make a profit.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Common word, alternative meaning; distractors change/reverse are other senses of turn.</i></div>
+</details>
+
 ##### Question 164
 According to the article, what will Mr. Rosier most likely do soon?
 
@@ -6266,6 +9268,14 @@ According to the article, what will Mr. Rosier most likely do soon?
 - C. He will return to his previous career.
 
 - D. He will open another garden center.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Việc sẽ làm tiếp theo</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>looking at Morganville… for a second store</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;exploring opening another store&quot; in Morganville (second store).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: another store -&gt; another garden center; B/A/C distractors (considered shutting down earlier = outdated).</i></div>
+</details>
 
 ##### Important Information Regarding Employee Safety
 
@@ -6284,6 +9294,14 @@ What responsibility of a supervisor is mentioned in the notice?
 
 - D. Providing safety guidelines for specific jobs
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>additional safety guidelines provided by their supervisors</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Certain jobs require employees to follow the additional safety guidelines provided by their supervisors.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: certain jobs -&gt; specific jobs; B/C not mentioned (safety coordinator separate).</i></div>
+</details>
+
 ##### Question 166
 The word "measures" in paragraph 1, line 6, is closest in meaning to
 
@@ -6295,6 +9313,14 @@ The word "measures" in paragraph 1, line 6, is closest in meaning to
 
 - D. penalties
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. procedures</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>propose additional measures</i> = biện pháp.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;propose additional measures&quot; about protocols -&gt; procedures.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Multiple-meaning word; amounts/dimensions are other senses.</i></div>
+</details>
+
 ##### Question 167
 According to the notice, why should employees contact Ms. Schneider?
 
@@ -6305,6 +9331,14 @@ According to the notice, why should employees contact Ms. Schneider?
 - C. To suggest additional safety rules
 
 - D. To request a training schedule
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Hỏi <i>when trainings are held</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;For more information about when trainings are held, please contact Lynn Schneider&quot; = ask for training schedule.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: when trainings are held -&gt; training schedule; C belongs to safety coordinator (distractor).</i></div>
+</details>
 
 #### Dora County Department of Transportation Division of Administrative Services
 
@@ -6327,6 +9361,14 @@ What is suggested about Dora County?
 
 - D. It has many four-lane highways.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Có <i>snow-removal operations</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Highway supervisor organizes &quot;snow-removal operations&quot; -&gt; county gets snow.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Indirect inference; B/C/D unsupported.</i></div>
+</details>
+
 ##### Question 169
 According to the job description, what should the highway supervisor do if a serious problem with a crew member arises?
 
@@ -6338,6 +9380,14 @@ According to the job description, what should the highway supervisor do if a ser
 
 - D. Designate a liaison to explain the matter to management.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>informs the division director of major personnel problems</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;The supervisor informs the division director of major personnel problems.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: major personnel problems/serious problem with crew member; informs -&gt; notify. Distractor A (director recommends action).</i></div>
+</details>
+
 ##### Question 170
 What is NOT a responsibility of the highway supervisor?
 
@@ -6348,6 +9398,14 @@ What is NOT a responsibility of the highway supervisor?
 - C. Managing the monthly budget
 
 - D. Negotiating crew member salaries
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không nhắc đến thương lượng lương.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>A construction/maintenance work + equipment operation, B performance reviews, C monthly budget are stated; salary negotiation never mentioned.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question: verify three in text, one absent.</i></div>
+</details>
 
 ##### Question 171
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -6361,6 +9419,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [2] mở đầu đoạn về tuyển dụng, đào tạo, đánh giá nhân viên.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;several duties related to staff management&quot; introduces paragraph 2 starting at [2]: hiring, training, evaluations, safety instruction.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Topic sentence placement at start of paragraph; [1] is preceded by the construction duty.</i></div>
+</details>
 
 ## V
 
@@ -6407,6 +9473,14 @@ What is the purpose of the conversation?
 
 - D. To coordinate a work schedule
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Sắp xếp lịch tháo và lắp lại ống dẫn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Gollancz assigns Kaluza a 7 A.M. task, Gruyter&#x27;s crew arrives 8:00, return Monday - work scheduling.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose of chat = coordinate schedules; distractors B/C/A.</i></div>
+</details>
+
 ##### Question 173
 What can be concluded about 210 Leon Drive?
 
@@ -6417,6 +9491,14 @@ What can be concluded about 210 Leon Drive?
 - C. It is an apartment complex.
 
 - D. It is an industrial warehouse.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Nhà riêng của gia đình Brown.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Browns&#x27; house at 7:00... That&#x27;s 210 Leon Drive, right?&quot; - &quot;That&#x27;s right&quot;; Browns are on vacation.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link &quot;Browns&#x27; house&quot; to address; C Amadi&#x27;s apartment is a distractor.</i></div>
+</details>
 
 ##### Question 174
 What is suggested about the members of Mr. Gruyter's work crew?
@@ -6429,6 +9511,14 @@ What is suggested about the members of Mr. Gruyter's work crew?
 
 - D. They have already begun work on Mr. Amadi's apartment.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>It's an unusually large job</i> (3–4 ngày) → bình thường làm nhanh hơn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Gruyter: foundation work takes three or four days, &quot;It&#x27;s an unusually large job&quot; -&gt; usually shorter than three days.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Comparative implied by &quot;unusually large&quot;; D wrong (Amadi&#x27;s is Jennifer&#x27;s job).</i></div>
+</details>
+
 ##### Question 175
 At 3:25 P.M., what does Ms. Kaluza most likely mean when she writes, "You got it"?
 
@@ -6439,6 +9529,14 @@ At 3:25 P.M., what does Ms. Kaluza most likely mean when she writes, "You got it
 - C. She will send Mr. Gruyter a bill for some work.
 
 - D. She hopes Mr. Gollancz will contact the Brown family.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đồng ý đến sáng sớm thứ Hai.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Prior: &quot;Early on Monday would work&quot; for reinstalling ductwork at the Browns&#x27; (210 Leon Drive). &quot;You got it&quot; = agreed.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Idiom confirming agreement; distractors misread as confirmation of understanding.</i></div>
+</details>
 
 #### Questions 176-180 refer to the following Web page and e-mail.
 
@@ -6457,6 +9555,14 @@ What is indicated on the Web page?
 
 - D. All cement mixers have been discounted.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Một số mẫu <i>In-store pickup only</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: Easy Star (HCC-TX) and Big Mix (HTK-LM) are &quot;In-store pickup only,&quot; so they cannot be delivered.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: in-store pickup only -&gt; cannot be delivered; A Big Mix is available; B/D unsupported.</i></div>
+</details>
+
 ##### Question 177
 What item did Mr. Weaver order from JJ's Home and Garden Suppliers?
 
@@ -6467,6 +9573,14 @@ What item did Mr. Weaver order from JJ's Home and Garden Suppliers?
 - C. Big Mix
 
 - D. Max for Pros
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Máy 4 feet khối → Concretizer.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail (Weaver): &quot;my 4-cubic-foot cement mixer... delivered&quot; + Web page: PIT-RX Concretizer = 4 cubic feet, 5-day delivery, $499.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: 4 cubic feet; distractor Mr. Buddy (his backup) and pickups.</i></div>
+</details>
 
 ##### Question 178
 In the e-mail, the word "full" in paragraph 1, line 7, is closest in meaning to
@@ -6479,6 +9593,14 @@ In the e-mail, the word "full" in paragraph 1, line 7, is closest in meaning to
 
 - D. abundant
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. complete</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>full refund</i> = hoàn tiền toàn bộ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;provide me with a full refund&quot; = complete.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Multi-meaning word; supplied/occupied/abundant are other senses.</i></div>
+</details>
+
 ##### Question 179
 What is suggested about JJ's Home and Garden Suppliers?
 
@@ -6490,6 +9612,14 @@ What is suggested about JJ's Home and Garden Suppliers?
 
 - D. It has stores in more than one location.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Có cửa hàng ở New Gralen và Paloner.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;pick it up at either the New Gralen or the Paloner store&quot; -&gt; multiple store locations.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Indirect from e-mail; B/C not supported (delivery costs unstated).</i></div>
+</details>
+
 ##### Question 180
 What is the cost of a model CVY-XU cement mixer at Alliance Hardware Store?
 
@@ -6500,6 +9630,14 @@ What is the cost of a model CVY-XU cement mixer at Alliance Hardware Store?
 - C. $499
 
 - D. $629
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Con số / giá tiền + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mr. Buddy <i>at your same price</i> = $359.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: CVY-XU = Mr. Buddy, $359; e-mail: Mr. Buddy at Alliance in stock &quot;at your same price.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: model CVY-XU -&gt; name Mr. Buddy -&gt; &quot;same price&quot;; distractor $499 (Concretizer, his order).</i></div>
+</details>
 
 #### Questions 181-185 refer to the following Web page and e-mail.
 
@@ -6518,6 +9656,14 @@ What does the Web page indicate about guidelines for international trade?
 
 - D. They are stricter than they once were.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Guidelines vary from country to country</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: &quot;Guidelines vary from country to country.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: vary from country to country -&gt; different for each country.</i></div>
+</details>
+
 ##### Question 182
 What does the Web page mention about the cost of a monthly retainer?
 
@@ -6528,6 +9674,14 @@ What does the Web page mention about the cost of a monthly retainer?
 - C. It is set during an initial meeting.
 
 - D. It may be waived based on client needs.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>cost to be negotiated during the introductory session</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;monthly retainer at a cost to be negotiated during the introductory session.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: introductory session -&gt; initial meeting; B confuses with $329/hour.</i></div>
+</details>
 
 ##### Question 183
 Why does Mr. Yadav provide information about his company in the e-mail?
@@ -6540,6 +9694,14 @@ Why does Mr. Yadav provide information about his company in the e-mail?
 
 - D. He is unsure whether a questionnaire he completed was received.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>not sure that my form went through</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;not sure that my form went through. I never got a confirmation e-mail,&quot; so he repeats company info.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: form -&gt; questionnaire; B/C distractors.</i></div>
+</details>
+
 ##### Question 184
 Who will Mr. Yadav most likely work with?
 
@@ -6551,6 +9713,14 @@ Who will Mr. Yadav most likely work with?
 
 - D. Mr. Fadel
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Máy giặt, máy sấy → đồ gia dụng → Woodrow.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: Isvarani Ltd sells &quot;high-end washers and dryers&quot; -&gt; Web page: Jonah Woodrow handles household appliances.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: washers/dryers -&gt; household appliances; item category matching.</i></div>
+</details>
+
 ##### Question 185
 What is mentioned in the e-mail about Isvarani Ltd.?
 
@@ -6561,6 +9731,14 @@ What is mentioned in the e-mail about Isvarani Ltd.?
 - C. It has plans to expand its operations.
 
 - D. It needs more information about domestic cargo requirements.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Muốn mở rộng sang thương mại quốc tế ở châu Âu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;we want to venture into international trade, particularly throughout Europe&quot; (expand).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: venture into international trade -&gt; expand operations; D wrong: already well-informed about domestic cargo.</i></div>
+</details>
 
 # Customers' Corner
 
@@ -6607,6 +9785,14 @@ What is mentioned about Sonfaya Mutual's financial education programs?
 
 - D. They are held in partnership with AFR.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ngoài hỗ trợ thuế, các ưu đãi <i>provided at no expense</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: privileges include financial education programmes; &quot;Except for the assistance with tax paperwork, these offerings are provided at no expense&quot; -&gt; free.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Exception logic (only tax prep costs); paraphrase: no expense -&gt; free.</i></div>
+</details>
+
 ##### Question 187
 What is indicated in the article about Sonfaya Mutual?
 
@@ -6617,6 +9803,14 @@ What is indicated in the article about Sonfaya Mutual?
 - C. It updated its Web site recently.
 
 - D. It is an international company.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Có văn phòng ở Tanzania, Uganda, Zambia.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: headquartered in Kigali with offices in Tanzania, Uganda, Zambia -&gt; international company.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: offices in several countries -&gt; international; distractors on Web site update/minimum deposit.</i></div>
+</details>
 
 ##### Question 188
 Why is Ms. Chabinga looking for a previous AFR issue?
@@ -6629,6 +9823,14 @@ Why is Ms. Chabinga looking for a previous AFR issue?
 
 - D. To know more about Sonfaya Mutual's R△S△
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why) + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Số tháng 1 có bài về <i>origins, growth, and milestones</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail (Chabinga): looking for previous issue &quot;referenced in the article&quot;; article: January issue = origins, growth, milestones of Sonfaya Mutual.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: previous issue referenced in article -&gt; January issue on history; B is other topic.</i></div>
+</details>
+
 ##### Question 189
 What is suggested about Ms. Nirere?
 
@@ -6640,6 +9842,14 @@ What is suggested about Ms. Nirere?
 
 - D. She met with Mr. Akamanzi recently.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 3 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bà mới mở BASA → miễn phí quản lý 6 tháng đầu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: monthly fee waived for first six months for new BASA holders; letter (23 Nov): Nirere &quot;opening a business advantage savings account (BASA)&quot; recently. Link: BASA + new holder.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractor C (15-year checking customer, not new customer); requires combining article benefit with letter person.</i></div>
+</details>
+
 ##### Question 190
 What is a purpose of the letter?
 
@@ -6650,6 +9860,14 @@ What is a purpose of the letter?
 - C. To explain how online stock trading works
 
 - D. To provide a department's contact information
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thư mô tả cách chuyển tiền, rút tiền, giao dịch cổ phiếu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Letter: accounts joined for transfers, debit card at ATMs, stock-trading platform = options for managing funds.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Summary purpose; D wrong (only department named, no contact info); A/C over-specific.</i></div>
+</details>
 
 #### Questions 191-195 refer to the following e-mail, form, and receipt.
 
@@ -6710,6 +9928,14 @@ What can be concluded about Valley Road Bed and Breakfast?
 
 - D. It is no longer accepting reservations for April.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 3 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bà phải ăn sáng ở Eileen's Diner lúc 6:46 → B&amp;B không phục vụ trước 7 giờ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: Rodriguez must leave before 7 A.M. April 11 and asks about breakfast; receipt/form: she ate at Eileen&#x27;s Diner at 6:46 A.M. instead (breakfast $23.85 matches receipt total paid).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: date April 11 / amount 23.85; infers B&amp;B did not offer early breakfast; B/C unsupported.</i></div>
+</details>
+
 ##### Question 192
 According to the form, what are employees expected to do?
 
@@ -6720,6 +9946,14 @@ According to the form, what are employees expected to do?
 - C. E-mail expense reports to a manager
 
 - D. Submit receipts within 30 days of travel
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>upload their receipts within 30 days of travel</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Form: &quot;must fill out... and upload their receipts within 30 days of travel.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Exact paraphrase; B/A/C not stated (manager approval, not e-mail).</i></div>
+</details>
 
 ##### Question 193
 What is most likely true about the Digital Graphic Designers Conference?
@@ -6732,6 +9966,14 @@ What is most likely true about the Digital Graphic Designers Conference?
 
 - D. It provided meals to participants.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 3 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Hội nghị ở Ivor Hotel, địa chỉ Santa Clara.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: conference at Ivor Hotel and Conference Center; receipt: Eileen&#x27;s Diner located in Ivor Hotel and Conf. Center, Santa Clara, CA; form: trip purpose = the conference.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: Ivor Hotel name; A (three days) unsupported; D unsupported.</i></div>
+</details>
+
 ##### Question 194
 Based on the form, what is true about Ms. Park?
 
@@ -6743,6 +9985,14 @@ Based on the form, what is true about Ms. Park?
 
 - D. She owns a bed-and-breakfast.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mẫu đơn phải được <i>department manager</i> ký; Eun Park ký.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Form: &quot;approved and signed by the employee&#x27;s department manager&quot;; Approved by Eun Park (signature).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Role inferred from form rule; distractors A/B/D.</i></div>
+</details>
+
 ##### Question 195
 What is indicated on the receipt about Eileen's Diner?
 
@@ -6753,6 +10003,14 @@ What is indicated on the receipt about Eileen's Diner?
 - C. It has locations around the country.
 
 - D. It has been in business for more than twenty years.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Family-owned and operated for over two decades</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Receipt: &quot;Family-owned and operated for over two decades!&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: two decades -&gt; more than twenty years; only one location shown.</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 196-200 refer to the following e-mails and report.</div> </div>
 
@@ -6777,6 +10035,14 @@ What is the purpose of the first e-mail?
 
 - D. To encourage increased production
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Please send a technician</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1 (Landon): &quot;Please send a technician to check it as soon as possible.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose = request repair; C distractor (monthly inspection mentioned only as background).</i></div>
+</details>
+
 ##### Question 197
 What has Mr. Nahm decided to do to solve the problem in Building F?
 
@@ -6787,6 +10053,14 @@ What has Mr. Nahm decided to do to solve the problem in Building F?
 - C. Lease a new building
 
 - D. Purchase a new machine
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thuê Konner Services.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2 (Nahm): &quot;authorized Konner Services to send one of their technicians.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: Konner Services -&gt; outside company; A is a future step (new technicians, but not to solve this problem).</i></div>
+</details>
 
 ##### Question 199
 What company does Ms. Landon most likely work for?
@@ -6799,6 +10073,14 @@ What company does Ms. Landon most likely work for?
 
 - D. Haverford Industries
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Máy đặt tại Haverford Industries, Building F; Landon là quản lý sản xuất ở đó.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Q printed as 198 in OCR. E-mail 2: Nahm copies Alex Nadiner &quot;who may need to assign some line workers to put in overtime&quot;; report: &quot;line manager has been advised... personnel reassigned.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: role who assigns line workers = line manager; A is Nahm himself.</i></div>
+</details>
+
 ##### Question 198
 Who most likely is Mr. Nadiner?
 
@@ -6810,6 +10092,14 @@ Who most likely is Mr. Nadiner?
 
 - D. A line manager
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Nadiner có thể phân công công nhân làm thêm giờ; báo cáo: <i>The line manager has been advised</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Q printed as 199 in OCR (order swapped: text order shows company question before Nadiner). E-mail 1 (Landon, Production Manager) says machine in Building F; report: Location Haverford Industries, Building F.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: Building F / Quinar 5000 in e-mail and report; distractors Altran (customer), Konner (repair vendor).</i></div>
+</details>
+
 ##### Question 200
 Based on the report, what test resulted in the replacement of a machine part?
 
@@ -6820,6 +10110,14 @@ Based on the report, what test resulted in the replacement of a machine part?
 - C. 477
 
 - D. 488
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Đối chiếu bảng / biểu mẫu</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Test 477: công tắc hỏng → đã thay.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Report: Test 477 = faulty Baum X33 main switch; Comments: &quot;replaced the malfunctioning switch.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Match result line to comment; belts/hoses (488) only need replacement later (trap), cleaning was done.</i></div>
+</details>
 
 Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check your work.
 
@@ -6860,6 +10158,11 @@ Borstein.
 
 - D. fulfill
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. perform</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>perform a new work</i> = biểu diễn tác phẩm mới.</div>
+</details>
+
 ##### Question 102
 It is important to be especially ----- when in the company of new clients.
 
@@ -6870,6 +10173,11 @@ It is important to be especially ----- when in the company of new clients.
 - C. politest
 
 - D. politeness
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. polite</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau <i>be (especially)</i> cần tính từ.</div>
+</details>
 
 ##### Question 103
 Although Ms. Endou was not chosen for an award, ----- achievements were praised.
@@ -6882,6 +10190,11 @@ Although Ms. Endou was not chosen for an award, ----- achievements were praised.
 
 - D. herself
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. her</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>her achievements</i> (tính từ sở hữu).</div>
+</details>
+
 ##### Question 104
 At the end of the year, organizations face pressure to achieve their financial -----.
 
@@ -6892,6 +10205,11 @@ At the end of the year, organizations face pressure to achieve their financial -
 - C. season
 
 - D. bills
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. goals</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>achieve financial goals</i> = đạt mục tiêu tài chính.</div>
+</details>
 
 ##### Question 105
 Online ordering is ----- on Naito Café's Web site.
@@ -6904,6 +10222,11 @@ Online ordering is ----- on Naito Café's Web site.
 
 - D. available
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. available</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>available on the Web site</i> = có trên web.</div>
+</details>
+
 ##### Question 106
 Mayor Park plans to meet with his campaign staff ----- the televised debate.
 
@@ -6914,6 +10237,11 @@ Mayor Park plans to meet with his campaign staff ----- the televised debate.
 - C. from
 
 - D. under
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. following</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>following the debate</i> = sau buổi tranh luận.</div>
+</details>
 
 ##### Question 107
 Mr. Suh has requested that a more --- copy machine be purchased for the finance department.
@@ -6926,6 +10254,11 @@ Mr. Suh has requested that a more --- copy machine be purchased for the finance 
 
 - D. reliable
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. reliable</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>a more reliable copy machine</i> (tính từ).</div>
+</details>
+
 ##### Question 108
 Mr. Aponte's photograph of the autumn foliage will be featured on the front ----- of Outward Expansion Magazine.
 
@@ -6936,6 +10269,11 @@ Mr. Aponte's photograph of the autumn foliage will be featured on the front ----
 - C. covered
 
 - D. coverable
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. cover</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>front cover</i> = trang bìa.</div>
+</details>
 
 ##### Question 109
 Handi Office Supplies' new desk organizers serve ----- practical and stylish additions to any office workstation.
@@ -6948,6 +10286,11 @@ Handi Office Supplies' new desk organizers serve ----- practical and stylish add
 
 - D. until
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. as</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>serve as</i> = đóng vai trò là.</div>
+</details>
+
 ##### Question 110
 The efficient redesign of the airline terminal led to ----- flight delays.
 
@@ -6958,6 +10301,11 @@ The efficient redesign of the airline terminal led to ----- flight delays.
 - C. previous
 
 - D. fewer
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. fewer</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Thiết kế hiệu quả → <b>ít</b> chuyến trễ hơn.</div>
+</details>
 
 ##### Question 111
 Mr. Ogbu's editor appreciated his ability to approach the subject matter -----.
@@ -6970,6 +10318,11 @@ Mr. Ogbu's editor appreciated his ability to approach the subject matter -----.
 
 - D. objected
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. objectively</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa <i>approach</i>.</div>
+</details>
+
 ##### Question 112
 Mr. Nakayama was named Employee of the Year, ----- being new to the company.
 
@@ -6980,6 +10333,11 @@ Mr. Nakayama was named Employee of the Year, ----- being new to the company.
 - C. prior to
 
 - D. whether
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. despite</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>despite being new</i> = dù mới vào.</div>
+</details>
 
 ##### Question 113
 For the ----- selection of premium paints and art-making supplies anywhere, visit your nearest Painters' Best store.
@@ -6992,6 +10350,11 @@ For the ----- selection of premium paints and art-making supplies anywhere, visi
 
 - D. widely
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. widest</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the widest selection… anywhere</i> (so sánh nhất).</div>
+</details>
+
 ##### Question 114
 The Stallmain Corporation's latest survey was intended to ----- employee satisfaction in several key categories.
 
@@ -7002,6 +10365,11 @@ The Stallmain Corporation's latest survey was intended to ----- employee satisfa
 - C. deserve
 
 - D. determine
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. determine</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>determine employee satisfaction</i> = xác định mức hài lòng.</div>
+</details>
 
 ##### Question 115
 Garza's Restaurant is ----- decorated with paintings and photographs of southern Mexico.
@@ -7014,6 +10382,11 @@ Garza's Restaurant is ----- decorated with paintings and photographs of southern
 
 - D. elaboration
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. elaborately</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>elaborately decorated</i> = trang trí công phu.</div>
+</details>
+
 ##### Question 116
 Mr. Brighton's first ----- at Glynn Engineering was in the materials testing group.
 
@@ -7024,6 +10397,11 @@ Mr. Brighton's first ----- at Glynn Engineering was in the materials testing gro
 - C. assigning
 
 - D. assignment
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. assignment</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>first assignment</i> = nhiệm vụ đầu tiên.</div>
+</details>
 
 ##### Question 117
 The installation of new benches throughout
@@ -7038,6 +10416,11 @@ Haverford Park will cost ----- €5,000.
 
 - D. generously
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. roughly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>roughly €5,000</i> = khoảng.</div>
+</details>
+
 ##### Question 118
 ----- who is unable to attend the quarterly stakeholder meeting is welcome to appoint a representative.
 
@@ -7048,6 +10431,11 @@ Haverford Park will cost ----- €5,000.
 - C. Anyone
 
 - D. Those
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. Anyone</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Anyone who is…</i> + động từ số ít <i>is welcome</i>.</div>
+</details>
 
 ##### Question 119
 Singer Maria Stanley ----- today that she is scheduling a world tour.
@@ -7060,6 +10448,11 @@ Singer Maria Stanley ----- today that she is scheduling a world tour.
 
 - D. revealing
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. revealed</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu cần động từ chính; <i>today</i> → quá khứ.</div>
+</details>
+
 ##### Question 120
 Biographer Amber Bowen has been recognized for her distinctive writing -----.
 
@@ -7070,6 +10463,11 @@ Biographer Amber Bowen has been recognized for her distinctive writing -----.
 - C. stylish
 
 - D. style
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. style</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>writing style</i> = văn phong.</div>
+</details>
 
 ##### Question 121
 The award-winning stationery created by the artists at Paperi Designs is of ----- quality.
@@ -7082,6 +10480,11 @@ The award-winning stationery created by the artists at Paperi Designs is of ----
 
 - D. ambitious
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. exceptional</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>of exceptional quality</i> = chất lượng vượt trội.</div>
+</details>
+
 ##### Question 122
 During the past quarter, ----- all of Renafy Technology's sales came from one region.
 
@@ -7092,6 +10495,11 @@ During the past quarter, ----- all of Renafy Technology's sales came from one re
 - C. somewhat
 
 - D. next to
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. nearly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>nearly all</i> = gần như tất cả.</div>
+</details>
 
 ##### Question 123
 Commercial property insurance covers the
@@ -7110,6 +10518,11 @@ events.
 
 - D. opportunities
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. expenses</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Bảo hiểm chi trả <b>chi phí</b> sửa chữa.</div>
+</details>
+
 ##### Question 124
 The first-aid class usually fills up quickly, so prompt ----- is recommended.
 
@@ -7120,6 +10533,11 @@ The first-aid class usually fills up quickly, so prompt ----- is recommended.
 - C. information
 
 - D. certification
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. registration</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Lớp nhanh hết chỗ → nên đăng ký sớm.</div>
+</details>
 
 ##### Question 125
 Manufacturing all its products in-house allows Long Bridge Steel Corp. to ----- every aspect of the production process.
@@ -7132,6 +10550,11 @@ Manufacturing all its products in-house allows Long Bridge Steel Corp. to ----- 
 
 - D. control
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. control</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>control every aspect</i> = kiểm soát mọi khâu.</div>
+</details>
+
 ##### Question 126
 ----- its use on home-cooking shows, consumer demand for Silvershine Cookware has doubled.
 
@@ -7142,6 +10565,11 @@ Manufacturing all its products in-house allows Long Bridge Steel Corp. to ----- 
 - C. Even though
 
 - D. Because of
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. Because of</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Theo sau là cụm danh từ, quan hệ nguyên nhân.</div>
+</details>
 
 ##### Question 127
 Artists at Cavin Graphics work ----- with clients through all stages of the design process to ensure satisfaction.
@@ -7154,6 +10582,11 @@ Artists at Cavin Graphics work ----- with clients through all stages of the desi
 
 - D. collaborators
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. collaboratively</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa <i>work</i>.</div>
+</details>
+
 ##### Question 128
 Brile Construction's contract for the mall development project has finally been ----- by the city supervisor.
 
@@ -7164,6 +10597,11 @@ Brile Construction's contract for the mall development project has finally been 
 - C. verified
 
 - D. verification
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. verified</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Bị động: <i>has been verified</i>.</div>
+</details>
 
 ##### Question 129
 ----- 4,000 Urlvac trash removal systems are in use in the eastern region.
@@ -7176,6 +10614,11 @@ Brile Construction's contract for the mall development project has finally been 
 
 - D. Closely
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. Almost</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Almost 4,000</i> = gần 4.000.</div>
+</details>
+
 ##### Question 130
 The conference schedule will be posted online ----- mailed to attendees.
 
@@ -7186,6 +10629,11 @@ The conference schedule will be posted online ----- mailed to attendees.
 - C. in case
 
 - D. rather than
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. rather than</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Đăng online <b>thay vì</b> gửi bưu điện.</div>
+</details>
 
 ### Part 6
 
@@ -7206,12 +10654,24 @@ All Travelbee buses are now outfitted with exterior bicycle racks. This  $ \unde
 
 - D. application
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. equipment</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Giá để xe đạp = thiết bị.</div>
+</details>
+
 ##### Question 132
 - A. No additional fee will be charged for bringing a bicycle.
 
 - B. Always make sure to exit at the correct bus stop.
 
 - C. Special lanes for bicycles are now found on most highways.
+
+- D. Some passengers qualify for reduced bus fare.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chương trình <i>complimentary</i> → mang xe đạp không mất thêm phí.</div>
+</details>
 
 ##### Question 133
 - A. efficient
@@ -7222,9 +10682,10 @@ All Travelbee buses are now outfitted with exterior bicycle racks. This  $ \unde
 
 - D. permitted
 
-- D. Some passengers qualify for reduced
-
-bus fare.
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. permitted</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>however… electric bicycles are not permitted</i> = không được phép.</div>
+</details>
 
 ##### Question 134
 - A. were
@@ -7234,6 +10695,11 @@ bus fare.
 - C. had to be
 
 - D. will have been
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. can be</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>trails that can be accessed</i> = có thể tiếp cận (bị động, hiện tại).</div>
+</details>
 
 ##### Corporate Training News
 
@@ -7250,6 +10716,11 @@ of which is designed to represent a different geographic area that is part of Cr
 
 - D. implemented
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. implemented</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>implemented a training program</i> = triển khai.</div>
+</details>
+
 ##### Question 138
 - A. as well
 
@@ -7258,6 +10729,11 @@ of which is designed to represent a different geographic area that is part of Cr
 - C. after all
 
 - D. at that time
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. as well</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Lắp phòng thoát hiểm ở các nhà máy ngoài châu Âu <b>nữa</b>.</div>
+</details>
 
 ##### Question 136
 - A. each
@@ -7268,6 +10744,11 @@ of which is designed to represent a different geographic area that is part of Cr
 
 - D. another
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. each</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>four rooms, each of which…</i></div>
+</details>
+
 ##### Question 137
 - A. Constructing an escape room is surprisingly expensive.
 
@@ -7276,6 +10757,11 @@ of which is designed to represent a different geographic area that is part of Cr
 - C. The course must be completed within a half hour.
 
 - D. The company produces electronics and major home appliances.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mô tả luật chơi → "phải hoàn thành trong nửa giờ".</div>
+</details>
 
 To: allclients@yardleyriverdentalgroup.com
 
@@ -7320,6 +10806,11 @@ Tina Liu, Office Manager
 
 - D. label
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. carry out</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>carry out repairs</i> = tiến hành sửa chữa.</div>
+</details>
+
 ##### Question 140
 - A. Clients will comment on the uneven pavement in the parking area.
 
@@ -7328,6 +10819,11 @@ Tina Liu, Office Manager
 - C. It will be closed from Tuesday morning through Friday.
 
 - D. The group recently welcomed several new dentists and hygienists.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Nói rõ thời gian đóng cửa: từ sáng thứ Ba đến thứ Sáu.</div>
+</details>
 
 ##### Question 141
 - A. to lead
@@ -7338,6 +10834,11 @@ Tina Liu, Office Manager
 
 - D. was leading
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. leads</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mệnh đề quan hệ <i>that</i> + động từ chia: <i>a walkway that leads…</i></div>
+</details>
+
 ##### Question 142
 - A. inconvenience
 
@@ -7346,6 +10847,11 @@ Tina Liu, Office Manager
 - C. error
 
 - D. damage
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. inconvenience</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>apologize for the inconvenience</i>.</div>
+</details>
 
 #### Questions 143-146 refer to the following notice.
 
@@ -7364,6 +10870,11 @@ It is strongly recommended  $ \underline{\text{145}} $. employees contact sender
 
 - D. If so
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. As a result</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Thiếu người phòng thư → <b>kết quả là</b> không giao tận bàn.</div>
+</details>
+
 ##### Question 144
 - A. designated
 
@@ -7372,6 +10883,11 @@ It is strongly recommended  $ \underline{\text{145}} $. employees contact sender
 - C. should designate
 
 - D. was to designate
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. should designate</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Yêu cầu, quy định → <i>should</i>.</div>
+</details>
 
 ##### Question 145
 - A. since
@@ -7382,6 +10898,11 @@ It is strongly recommended  $ \underline{\text{145}} $. employees contact sender
 
 - D. whoever
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. that</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>It is strongly recommended that…</i></div>
+</details>
+
 ##### Question 146
 - A. Doing so will help streamline mail distribution.
 
@@ -7390,6 +10911,11 @@ It is strongly recommended  $ \underline{\text{145}} $. employees contact sender
 - C. The mail room can hold no more than four employees at one time.
 
 - D. Direct mail marketing can be an effective way to sell products.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> "Làm vậy sẽ giúp tinh gọn việc phân phát thư", câu sau: <i>It will also benefit…</i></div>
+</details>
 
 ### Part 7
 
@@ -7422,6 +10948,14 @@ What is indicated about Bumbleberry Farm?
 
 - D. It offers group discounts.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>We cater to families</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: &quot;We cater to families, but everyone is welcome!&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: cater to families -&gt; family-friendly; A wrong (closed Monday), D wrong (groups of up to 8, no discount).</i></div>
+</details>
+
 ##### Question 148
 What is NOT mentioned as a way to enjoy blueberries?
 
@@ -7432,6 +10966,14 @@ What is NOT mentioned as a way to enjoy blueberries?
 - C. On breakfast cereal
 
 - D. On ice cream
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không nhắc kem.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad mentions jams, baked goods, cereal; ice cream absent.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Check all listed uses.</i></div>
+</details>
 
 #### Tin Prices May Improve
 
@@ -7450,6 +10992,14 @@ According to the article, what is contributing to the demand for tin?
 
 - D. A global rise in the sale of canned foods
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>increasing… manufacturing of electronics</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;increasing worldwide demand for and manufacturing of electronics.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: manufacturing electronics -&gt; increased production of electronic goods.</i></div>
+</details>
+
 ##### Question 150
 The word "driven" in paragraph 1, line 5, is closest in meaning to
 
@@ -7461,6 +11011,14 @@ The word "driven" in paragraph 1, line 5, is closest in meaning to
 
 - D. caused
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. caused</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>price increases are driven by</i> = bị gây ra bởi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;The price increases are driven by reduced supply&quot; = caused by.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Multi-meaning; chased/transported are literal.</i></div>
+</details>
+
 ##### Question 151
 What is indicated about Chilean Smelting, Inc.?
 
@@ -7471,6 +11029,14 @@ What is indicated about Chilean Smelting, Inc.?
 - C. It is looking for new investors.
 
 - D. It regularly offers discounted pricing.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>a major producer</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Chilean Smelting, Inc., a major producer&quot; -&gt; a leading supplier.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym: major producer -&gt; leading supplier; B/C not stated.</i></div>
+</details>
 
 Langdale Exterior Solutions • 39 Alderson Road • Highfield, Sheffield S2 4UA
 
@@ -7507,6 +11073,14 @@ What is the main purpose of the letter?
 
 - D. To advise on local construction regulations
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Giới thiệu dịch vụ cảnh quan sân vườn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Letter from Langdale Exterior Solutions introduces its landscaping services and invites free consultation.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Promotional letter; A is only reason for contact (new home purchase).</i></div>
+</details>
+
 ##### Question 153
 What is NOT indicated about Langdale Exterior Solutions?
 
@@ -7517,6 +11091,14 @@ What is NOT indicated about Langdale Exterior Solutions?
 - B. They do not charge for a first meeting.
 
 - D. They specialize in the construction of houses.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không xây nhà.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>A samples brought to you, C help make design selections, B free initial consultation are stated; construction of houses not mentioned.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>OCR option order is A, C, B, D; NOT question.</i></div>
+</details>
 
 #### Questions 154-157 refer to the following letter.
 
@@ -7559,6 +11141,14 @@ Who most likely is Ms. Valdez?
 
 - D. A property manager
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Người nhận thư báo chuyển đi, trả tiền cọc → quản lý tòa nhà.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Sanu gives notice to move out, asks for security deposit return, lease agreement -&gt; landlord/property manager Ms. Valdez.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Role inference from lease notice; A/B/C unsupported.</i></div>
+</details>
+
 ##### Question 155
 What does the letter indicate about the laundry room at Cottonwood Apartments?
 
@@ -7569,6 +11159,14 @@ What does the letter indicate about the laundry room at Cottonwood Apartments?
 - C. It is unavailable in the morning hours.
 
 - D. It is available to nonresidents for a fee.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>plenty of machines available</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;plenty of machines available&quot; in the laundry room.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: plenty of machines -&gt; several washers and dryers.</i></div>
+</details>
 
 ##### Question 157
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -7583,6 +11181,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 
 - D. [4]
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [3] nằm giữa các ý khen tiện ích (phòng giặt → cảnh quan → bảo trì).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Printed as 156 in OCR. &quot;I also appreciate that the landscaping is always well maintained&quot; adds another liked feature after the laundry sentence [3] and before &quot;Most impressive, though, is your maintenance service.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Additive &quot;also&quot; placement; [2] follows &quot;enjoyed my three years.&quot;</i></div>
+</details>
+
 ##### Question 156
 What is NOT mentioned about the maintenance crew?
 
@@ -7593,6 +11199,14 @@ What is NOT mentioned about the maintenance crew?
 - C. They put clean filters in the furnaces.
 
 - D. They took extra steps to keep the apartments warm.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không nhắc sửa đồ bếp.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Printed as 157 in OCR, question order swapped. Crew replaced smoke detectors, changed furnace filters, weatherproofed windows (keep warm). Kitchen appliances not mentioned.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question; D is paraphrase of weatherproofing.</i></div>
+</details>
 
 #### Questions 158-159 refer to the following e-mail.
 
@@ -7609,6 +11223,14 @@ What is the purpose of the e-mail?
 
 - D. To request information about a product
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Giải thích nguyên nhân giao hàng trễ (hộp quá nhỏ).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail explains longer-than-expected wait: new packaging company supplied boxes too small; shipment now in transit.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose = explain cause of delay; brochure is secondary.</i></div>
+</details>
+
 ##### Question 159
 What did Ms. Schirmer provide with the e-mail?
 
@@ -7619,6 +11241,14 @@ What did Ms. Schirmer provide with the e-mail?
 - C. Revised box specifications
 
 - D. Information about a shipping warehouse
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>brochure of our new products with a detailed price list</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;attach a brochure of our new products with a detailed price list.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: brochure -&gt; list of new items for purchase.</i></div>
+</details>
 
 ##### Ervin Porter (10:04 A.M.)
 
@@ -7645,6 +11275,14 @@ In what industry do Mr. Porter and Ms. Warner most likely work?
 
 - D. Food distribution
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>open house… potential buyers</i> → bất động sản.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Open house at 431 Oakdale Lane, potential buyers -&gt; real estate.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Context clues; C/A distractors.</i></div>
+</details>
+
 ##### Question 161
 At 10:08 A.M., what does Mr. Porter most likely mean when he writes, "Consider it done"?
 
@@ -7655,6 +11293,14 @@ At 10:08 A.M., what does Mr. Porter most likely mean when he writes, "Consider i
 - C. He will purchase some baked goods.
 
 - D. He will help complete some paperwork.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Nhận lời đi mua bánh ngọt.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Warner asks Porter to buy pastries; &quot;Consider it done.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: pastries -&gt; baked goods; B (Warner bought water).</i></div>
+</details>
 
 #### Questions 162-164 refer to the following blog post.
 
@@ -7677,6 +11323,14 @@ What is most likely true about Mr. Torres?
 
 - D. He researched the answer to a question about 3-D printing.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Trả lời câu hỏi của độc giả về in 3-D.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Blog: &quot;A reader recently asked whether any innovations... In this month&#x27;s post, I am happy to report that some of the latest advances...&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Indirect inference; blog is monthly (B wrong); A/C unsupported.</i></div>
+</details>
+
 ##### Question 163
 What is indicated about the small-batch production of games?
 
@@ -7684,9 +11338,17 @@ What is indicated about the small-batch production of games?
 
 - B. It costs the same with or without 3-D printing.
 
+- C. It is most often used to make children's games.
+
 - D. It is useful in making multiple versions of a game.
 
-- C. It is most often used to make children's games.
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>ideal for limited-edition games and new versions</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Small batches are ideal for limited-edition games and new versions of existing games.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: new versions -&gt; multiple versions; OCR option order D before C.</i></div>
+</details>
 
 ##### Question 164
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -7700,6 +11362,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [3] đứng sau câu về vật liệu → "có thể chọn vật liệu phân hủy sinh học".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;materials that are biodegradable&quot; fits after &quot;Innovations in materials... offer range of textures&quot; ([3]).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Topic continuity (materials).</i></div>
+</details>
 
 ##### Stay in Style!
 
@@ -7730,6 +11400,14 @@ The word "space" in paragraph 1, line 2, is closest in meaning to
 
 - D. vacancy
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. area</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>a peaceful, comfortable space</i> = khu vực.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;peaceful, comfortable space where you can unwind&quot; = area.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Multi-meaning word; vacancy/distance distractors.</i></div>
+</details>
+
 ##### Question 166
 What is indicated about the Repose Lounge at QRN Airport?
 
@@ -7740,6 +11418,14 @@ What is indicated about the Repose Lounge at QRN Airport?
 - C. It is only for travelers flying internationally.
 
 - D. It has printers available.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Printing and copying services</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Amenities: &quot;Printing and copying services.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: printing services -&gt; printers; A wrong (5:00 A.M.-8:30 P.M.).</i></div>
+</details>
 
 ##### Question 167
 What is offered to Repose Lounge visitors?
@@ -7752,6 +11438,14 @@ What is offered to Repose Lounge visitors?
 
 - D. Computers
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Beverages, baked goods, and snacks</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Beverages, baked goods, and snacks.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: refreshments; B (newspapers/magazines, not books).</i></div>
+</details>
+
 ##### Question 168
 According to the notice, what will happen between March 15 and March 30?
 
@@ -7762,6 +11456,14 @@ According to the notice, what will happen between March 15 and March 30?
 - C. Terminal B will be closed.
 
 - D. A discount will be offered.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>passes at half price</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;passes at half price between March 15 and March 30.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: half price -&gt; discount.</i></div>
+</details>
 
 #### Questions 169-171 refer to the following article.
 
@@ -7790,6 +11492,14 @@ What will be posted to Misford's Web site?
 
 - D. A new-resident welcome packet
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ảnh chụp dọc đường mòn bên suối.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Committee will select ten best digital images from trails walk to post to village Web site.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: photographs of trails -&gt; photographs of a specified area; B maps not mentioned.</i></div>
+</details>
+
 ##### Question 170
 What is one goal of the Green Earth Committee?
 
@@ -7801,6 +11511,14 @@ What is one goal of the Green Earth Committee?
 
 - D. To advise village council members
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>reduce and recycle waste… fundamental goals</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;conserve energy and reduce and recycle waste. These are fundamental goals of the village and its Green Earth Committee.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: reduce waste -&gt; waste reduction.</i></div>
+</details>
+
 ##### Question 171
 What is NOT mentioned as a planned activity during Green Awareness Week?
 
@@ -7811,6 +11529,14 @@ What is NOT mentioned as a planned activity during Green Awareness Week?
 - C. Participating in a cleanup effort
 
 - D. Distributing cloth bags
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không có đạp xe.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Trees planted, cleanup, cloth bags distribution mentioned; walking on trails, not riding bicycles.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question; walk vs riding bicycles trap.</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 172-175 refer to the following online chat discussion.</div> </div>
 
@@ -7835,6 +11561,14 @@ What are the writers discussing?
 
 - D. A vacation itinerary
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý chính / chủ đề</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>department bulletin</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;department bulletin is going out tomorrow by e-mail&quot; = office newsletter.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym: bulletin -&gt; newsletter.</i></div>
+</details>
+
 ##### Question 173
 At 9:16 A.M., what does Mr. Nusaputra most likely mean when he writes, "I do have something"?
 
@@ -7845,6 +11579,14 @@ At 9:16 A.M., what does Mr. Nusaputra most likely mean when he writes, "I do hav
 - C. He can make a contribution.
 
 - D. He has finished an assignment.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Có bài nhắc quy trình xin nghỉ phép để đóng góp.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Radiss asks for anything to add; Nusaputra &quot;I do have something... a quick reminder.&quot; = contribution.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Idiom meaning; B/D distractors.</i></div>
+</details>
 
 ##### Question 174
 When will Ms. Karp's report most likely be sent to the staff?
@@ -7857,6 +11599,14 @@ When will Ms. Karp's report most likely be sent to the staff?
 
 - D. In a month
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Việc sẽ làm tiếp theo</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Báo cáo của Karp đưa vào số bản tin sau, mà bản tin ra hằng tháng (<i>this month</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Karp: &quot;report on current projects ready for the next bulletin&quot;; bulletin is monthly (&quot;this month&quot;).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Time inference; A (Nusaputra&#x27;s reminder).</i></div>
+</details>
+
 ##### Question 175
 What will Mr. Nusaputra probably do next?
 
@@ -7867,6 +11617,14 @@ What will Mr. Nusaputra probably do next?
 - C. Write to Ms. Karp
 
 - D. Finish drafting a reminder
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Việc sẽ làm tiếp theo</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>I'll just need an hour or so to finish it up</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Nusaputra: &quot;I&#x27;ll just need an hour or so to finish it up... I can send you the reminder before lunch.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: finish it up -&gt; finish drafting reminder; C wrong (send to Radiss).</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 176-180 refer to the following e-mails.</div> </div>
 
@@ -7885,6 +11643,14 @@ What is the purpose of the first e-mail?
 
 - D. To request work samples from an artist
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>a summary of the main points we discussed at today's meeting</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: &quot;summary of the main points we discussed at today&#x27;s meeting.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase directly; distractor A/C/D.</i></div>
+</details>
+
 ##### Question 177
 In the first e-mail, what is indicated about the magazine's special issue?
 
@@ -7895,6 +11661,14 @@ In the first e-mail, what is indicated about the magazine's special issue?
 - C. It will reprint articles from previous issues.
 
 - D. It will contain fewer advertisements than expected.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Phỏng vấn nghệ sĩ hoạt hình Bret Lusk.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: text of interview with animation artist Bret Lusk condensed.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: animation artist -&gt; animator; D wrong: advertisement deadline extended.</i></div>
+</details>
 
 ##### Question 178
 In the second e-mail, what is mentioned about Skllarr Press?
@@ -7907,6 +11681,14 @@ In the second e-mail, what is mentioned about Skllarr Press?
 
 - D. It is the oldest print service in the region.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>just as we did last year</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: &quot;use Skllarr Press ... just as we did last year&quot; for special issue (annual issue of Best Design Insights in e-mail 1).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: Skllarr Press / special issue; D not in text.</i></div>
+</details>
+
 ##### Question 179
 What most likely will add to the cost of printing this year's special issue?
 
@@ -7918,6 +11700,14 @@ What most likely will add to the cost of printing this year's special issue?
 
 - D. The placement of photographs on pages
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Yêu cầu tùy biến cho trang ghép ảnh (photomontage) → tốn thêm phí.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: photomontage layout, custom design request to printer; E-mail 2: &quot;customization request will probably incur an extra fee.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: custom design request/customization; B (advertising boost offsets), A/C distractors.</i></div>
+</details>
+
 ##### Question 180
 What will Ms. Xu probably do next?
 
@@ -7928,6 +11718,14 @@ What will Ms. Xu probably do next?
 - C. Survey staff about preferences for the cover design
 
 - D. Meet with a team of graphic designers
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Việc sẽ làm tiếp theo</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>remind our subscribers… via e-mail</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: &quot;Next on my agenda is to remind our subscribers.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; B done in meeting (outdated).</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 181-185 refer to the following e-mails.</div> </div>
 
@@ -7948,6 +11746,14 @@ Why did Ms. Rosen send an e-mail to Mr. Iqbal?
 
 - D. To ask him to give a speech at an event
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>say a few words about Walter during the event</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: &quot;would you be willing to say a few words about Walter&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose = ask for speech; A only background.</i></div>
+</details>
+
 ##### Question 182
 What is indicated about Mr. Iqbal?
 
@@ -7959,15 +11765,32 @@ What is indicated about Mr. Iqbal?
 
 - D. He works in the finance department.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>you work closely with him in the finance department</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: &quot;you work closely with him in the finance department.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; C wrong (Weber founded 25 years ago, Iqbal 15 years).</i></div>
+</details>
+
+##### Question 183
+*(Câu hỏi bị mất trong bản OCR — hỏi về ông Walter Weber.)*
+
 - A. He recently opened a new branch office.
 
 - B. He is planning to sell the company.
 
 - C. He was directly involved with Mr. Iqbal's hiring.
 
-- D. He will arrive late to the party on July 28
-
 - D. He will arrive late to the party on July 28.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> (Đề OCR mất câu hỏi, chỉ còn lựa chọn; câu hỏi về ông Weber.) <i>Walter actually interviewed me</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>OCR lost the stem (likely &quot;What is indicated about Mr. Weber?&quot;). E-mail 2: &quot;Walter actually interviewed me when I first applied&quot; (Iqbal); e-mail 1: Weber founded firm. Option D is Iqbal not Weber (duplicate line).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: Walter/Weber; stem missing so confidence reduced.</i></div>
+</details>
 
 ##### Question 184
 In the second e-mail, the word "note" in paragraph 2, line 1, is closest in meaning to
@@ -7980,6 +11803,14 @@ In the second e-mail, the word "note" in paragraph 2, line 1, is closest in mean
 
 - D. mention
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. be aware</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Please note</i> = xin lưu ý.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Please note that I have a meeting&quot; = be aware.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Multi-meaning word.</i></div>
+</details>
+
 ##### Question 185
 At approximately what time does Mr. Iqbal plan to arrive at the party?
 
@@ -7990,6 +11821,14 @@ At approximately what time does Mr. Iqbal plan to arrive at the party?
 - C. 7:30 P.M.
 
 - D. 8:30 P.M.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đến <i>just as the speeches begin</i> = 7:30 P.M.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: speeches start 7:30; E-mail 2: sales meeting at 5 P.M., &quot;arrive just as the speeches begin.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: speeches start time; distractor party start 6 P.M.</i></div>
+</details>
 
 ##### Alamito Botanical Society
 
@@ -8024,6 +11863,14 @@ In the announcement, what is mentioned about the Gorgeous Gardens Tour?
 
 - D. It will take place in May.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Tiền vé dùng để trồng lại rừng cây bông gòn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Announcement: proceeds go toward replanting the cottonwood forest in Presidio County Park.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: replanting forest -&gt; planting trees; C wrong (stops are gardens).</i></div>
+</details>
+
 ##### Question 187
 What does Ms. Olton mention in her e-mail?
 
@@ -8034,6 +11881,14 @@ What does Ms. Olton mention in her e-mail?
 - C. She wants to meet people who share her interest in plants.
 
 - D. She knows people who want to buy tickets for a tour.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>meet more people who value gardens</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;meet more people who value gardens as we members of the society do.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; A wrong (already a member).</i></div>
+</details>
 
 ##### Question 188
 What most likely will prevent Ms. Olton's garden from being selected as a tour stop?
@@ -8046,6 +11901,14 @@ What most likely will prevent Ms. Olton's garden from being selected as a tour s
 
 - D. It is located outside the tour area.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Chỉ được trồng cây bản địa; vườn bà có hoa oải hương không phải bản địa.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Announcement: gardens must include only native plants; e-mail: non-native lavender bushes exist on property.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: lavender non-native vs native-only rule; distractor D (she lives in county).</i></div>
+</details>
+
 ##### Question 189
 On the Web page, what is suggested about the lectures?
 
@@ -8057,6 +11920,14 @@ On the Web page, what is suggested about the lectures?
 
 - D. They are given at various locations.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>third Wednesday of the month</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: &quot;All lectures occur on the third Wednesday of the month.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; A wrong (public invited), B wrong (no registration).</i></div>
+</details>
+
 ##### Question 190
 What lecture is Ms. Olton most likely to be interested in?
 
@@ -8067,6 +11938,14 @@ What lecture is Ms. Olton most likely to be interested in?
 - C. Pest Deterrence
 
 - D. Pollen Transportation
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Dự án của bà là dùng cây bản địa thu hút chim thú → "Nourish the Neighbors".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: project to cover land with native plants to attract birds and animals; web page: March &quot;Nourish the Neighbors&quot; use native plants to create landscapes inviting to wildlife.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: native plants attract wildlife; May pollen is distractor.</i></div>
+</details>
 
 ##### Questions 191-195 refer to the following advertisement and e-mails.
 
@@ -8103,6 +11982,14 @@ What does the advertisement mention about Terra Jaunts?
 
 - D. It has a service contract with two bus companies.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Tổ chức hoạt động <i>for company retreats</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: organizes nature hikes, retreats &quot;for company retreats.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: company retreats -&gt; team-building for corporate clients.</i></div>
+</details>
+
 ##### Question 192
 What can be concluded about Pink Ridge Ranch?
 
@@ -8113,6 +12000,14 @@ What can be concluded about Pink Ridge Ranch?
 - C. It earned $300 for hosting a group of hikers.
 
 - D. It is located within 100 kilometers of an urban area.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Điều kiện số 1; ông Jeong chỉ chê bãi đỗ xe nhỏ → các tiêu chí khác đạt.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad requires site within 100 km of a city; e-mail 1 says the ranch has less parking but may suit smaller events -&gt; other criteria met.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: application criteria; A is trap (GPS app stopped, not wireless network).</i></div>
+</details>
 
 ##### Question 193
 According to Mr. Jeong, what distinguishes Ms. Newsom from other property owners?
@@ -8125,6 +12020,14 @@ According to Mr. Jeong, what distinguishes Ms. Newsom from other property owners
 
 - D. Her interest in art
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>illustrated list of all the native flowers and trees… none of our other hosts offers anything like this</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: &quot;illustrated list of all the native flowers and trees... none of our other hosts offers anything like this.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: list of plants -&gt; information about plants; B not stated.</i></div>
+</details>
+
 ##### Question 194
 What is suggested about Pink Ridge Ranch?
 
@@ -8136,6 +12039,14 @@ What is suggested about Pink Ridge Ranch?
 
 - D. It is a popular hiking destination.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Chỉ đường phức tạp, GPS mất tín hiệu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: &quot;complicated written directions... after your GPS app stopped working.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Indirect inference; D wrong (paths overgrown).</i></div>
+</details>
+
 ##### Question 195
 What is most likely true about Mr. Cumberland?
 
@@ -8146,6 +12057,14 @@ What is most likely true about Mr. Cumberland?
 - C. He owns an organic farm in Montana.
 
 - D. He left a voicemail for Ms. Newsom on April 22.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 3 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>paths… overgrown, as your partner pointed out</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: Jeong will visit with associate Peter Cumberland; e-mail 2: &quot;your partner pointed out&quot; overgrown hiking paths and &quot;meet you both.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: associate/partner = Cumberland; distractor D (Jeong left voicemail).</i></div>
+</details>
 
 #### Questions 196-200 refer to the following e-mails and schedule.
 
@@ -8166,6 +12085,14 @@ Who most likely is Mr. Harlington?
 
 - D. An executive assistant
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Theo lịch, phần 1:00–2:00 là <i>President</i>, trước phần của Tanaka; e-mail: phần trình bày của Harlington rồi đến Tanaka.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: presentations by Mr. Harlington and Tanaka respectively; schedule: 1:00-2:00 &quot;President.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: Harlington&#x27;s slot in the schedule = President; distractor A (Tanaka is COO of subsidiary).</i></div>
+</details>
+
 ##### Question 197
 According to the first e-mail, what should managers do as soon as possible?
 
@@ -8176,6 +12103,14 @@ According to the first e-mail, what should managers do as soon as possible?
 - C. Save a date for lunch
 
 - D. Indicate their availability for a meeting
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>let me know… whether you will be able to attend</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 1: &quot;let me know as soon as possible whether you will be able to attend.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: attend -&gt; indicate availability; A (draft schedule) is distractor.</i></div>
+</details>
 
 ##### Question 198
 According to the schedule, what happened in the third quarter?
@@ -8188,6 +12123,14 @@ According to the schedule, what happened in the third quarter?
 
 - D. New operational staff were hired.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>challenges faced by the subsidiary in the third quarter</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Schedule: distinguished visitor to update on &quot;operational successes and challenges faced by the subsidiary in the third quarter&quot;; e-mail 1 identifies Kanazawa as subsidiary.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase: challenges -&gt; difficulties; A/B unsupported.</i></div>
+</details>
+
 ##### Question 199
 What will Ms. Powell most likely do on October 14?
 
@@ -8199,6 +12142,14 @@ What will Ms. Powell most likely do on October 14?
 
 - D. She will take Mr. Tanaka out to lunch.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Việc sẽ làm tiếp theo + Nối thông tin 3 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bà xác nhận dự và báo cáo hoạt động marketing (phần <i>Departmental reports</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: Powell confirms availability and plans to update executives on marketing (department manager); e-mail 1/schedule: Departmental reports 3:00-5:00 P.M. by department managers.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: department manager status report slot; C wrong (tickets secured before visit), D not mentioned.</i></div>
+</details>
+
 ##### Question 200
 What does Ms. Powell request?
 
@@ -8209,6 +12160,14 @@ What does Ms. Powell request?
 - C. Rescheduling a meal
 
 - D. Arranging transportation to a stadium
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì + Mâu thuẫn giữa các văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đề nghị bắt đầu bữa tối sớm lúc 5 giờ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail 2: to attend baseball game, &quot;we would need to begin dinner at around 5:00 P.M.&quot;; schedule: dinner 6:00-9:00 P.M.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Link key: dinner time changed from 6:00 to 5:00; D trap (transportation not requested).</i></div>
+</details>
 
 Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check your work.
 
@@ -8243,6 +12202,11 @@ After Ms. Takido finishes ----- presentation, the audience will be permitted to 
 
 - D. herself
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. her</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>her presentation</i> (tính từ sở hữu).</div>
+</details>
+
 ##### Question 102
 Mike's Café offers a free ----- with every meal on Tuesdays from 11 A.M. to 7 P.M.
 
@@ -8254,6 +12218,11 @@ Mike's Café offers a free ----- with every meal on Tuesdays from 11 A.M. to 7 P
 
 - D. menu
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. drink</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>a free drink with every meal</i> = tặng đồ uống kèm mỗi bữa.</div>
+</details>
+
 ##### Question 103
 Mr. Ozawa generally prefers ----- to work by train instead of by car.
 
@@ -8264,6 +12233,11 @@ Mr. Ozawa generally prefers ----- to work by train instead of by car.
 - C. having commuted
 
 - D. is commuting
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. to commute</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>prefer to V</i> (hoặc V-ing). <i>having commuted</i> sai thời điểm.</div>
+</details>
 
 ##### Question 105
 Dumbbells, also known as free weights, are
@@ -8278,6 +12252,11 @@ Dumbbells, also known as free weights, are
 
 - D. useful
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. useful</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>be useful for</i> = hữu ích cho.</div>
+</details>
+
 ##### Question 104
 ----- the new branch office was understaffed, more workers were hired.
 
@@ -8288,6 +12267,11 @@ Dumbbells, also known as free weights, are
 - C. Usually
 
 - D. Following
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. Because</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Nối hai mệnh đề, chỉ nguyên nhân.</div>
+</details>
 
 ##### Question 106
 The scheduled completion date was September 4, but the job was finished two weeks ahead of schedule.
@@ -8300,6 +12284,11 @@ The scheduled completion date was September 4, but the job was finished two week
 
 - D. actually
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. actually</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>was… but actually finished early</i> = nhưng thực tế xong sớm.</div>
+</details>
+
 ##### Question 107
 Please click on the ----- below to subscribe to our monthly newsletter.
 
@@ -8310,6 +12299,11 @@ Please click on the ----- below to subscribe to our monthly newsletter.
 - C. linking
 
 - D. linkage
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. link</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>click on the link below</i>.</div>
+</details>
 
 ##### Question 108
 Candidates for the entry-level marketing position need to have a ----- understanding of consumer behavior.
@@ -8322,6 +12316,11 @@ Candidates for the entry-level marketing position need to have a ----- understan
 
 - D. considerate
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. basic</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>basic understanding</i> = hiểu biết cơ bản (vị trí <i>entry-level</i>).</div>
+</details>
+
 ##### Question 109
 Ms. Persson was able to respond ----- to government leaders about their concerns regarding the funding plan.
 
@@ -8332,6 +12331,11 @@ Ms. Persson was able to respond ----- to government leaders about their concerns
 - C. directions
 
 - D. directed
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. directly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa <i>respond</i>.</div>
+</details>
 
 ##### Question 110
 Leigh Ainsley, the featured soloist in tonight's performance, began taking violin lessons ----- the age of five.
@@ -8344,6 +12348,11 @@ Leigh Ainsley, the featured soloist in tonight's performance, began taking violi
 
 - D. along
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. at</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>at the age of five</i>.</div>
+</details>
+
 ##### Question 111
 From among the seven candidates for the management position, the hiring committee must choose only -----.
 
@@ -8354,6 +12363,11 @@ From among the seven candidates for the management position, the hiring committe
 - C. such
 
 - D. other
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. one</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>choose only one</i> (trong bảy ứng viên).</div>
+</details>
 
 ##### Question 112
 GT International Foods sells unique products that are difficult to find -----.
@@ -8366,6 +12380,11 @@ GT International Foods sells unique products that are difficult to find -----.
 
 - D. elsewhere
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. elsewhere</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>difficult to find elsewhere</i> = khó tìm ở nơi khác.</div>
+</details>
+
 ##### Question 113
 Contact the hotel's main office ---- you wish to receive daily linen service.
 
@@ -8376,6 +12395,11 @@ Contact the hotel's main office ---- you wish to receive daily linen service.
 - C. if
 
 - D. also
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. if</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu điều kiện.</div>
+</details>
 
 ##### Question 114
 Please ----- yourself with the company's tuition-reimbursement policy before enrolling in any classes.
@@ -8388,6 +12412,11 @@ Please ----- yourself with the company's tuition-reimbursement policy before enr
 
 - D. familiarize
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. familiarize</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>familiarize yourself with</i> = tự tìm hiểu cho quen.</div>
+</details>
+
 ##### Question 115
 The proposed purchase agreement is --- being evaluated by officials at Corlan Tech.
 
@@ -8398,6 +12427,11 @@ The proposed purchase agreement is --- being evaluated by officials at Corlan Te
 - C. activity
 
 - D. activate
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. actively</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>is actively being evaluated</i>.</div>
+</details>
 
 ##### Question 116
 Another ----- option for getting to the airport will be available once the subway station at the international terminal is completed.
@@ -8410,6 +12444,11 @@ Another ----- option for getting to the airport will be available once the subwa
 
 - D. traditional
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. convenient</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>convenient option</i> = lựa chọn tiện lợi.</div>
+</details>
+
 ##### Question 117
 Given the forecast for rain on Saturday, the ceremony ----- indoors at the Raheen Gallery.
 
@@ -8420,6 +12459,11 @@ Given the forecast for rain on Saturday, the ceremony ----- indoors at the Rahee
 - C. will be held
 
 - D. had been held
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. will be held</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Dự báo mưa thứ Bảy → tương lai, bị động.</div>
+</details>
 
 ##### Question 118
 As Mr. Rzayev requested, the extra wood pallets have been stacked ----- the old warehouse.
@@ -8432,6 +12476,11 @@ As Mr. Rzayev requested, the extra wood pallets have been stacked ----- the old 
 
 - D. behind
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. behind</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>stacked behind the old warehouse</i> = xếp phía sau kho.</div>
+</details>
+
 ##### Question 119
 Professor McNamara has published books on a ----- range of topics.
 
@@ -8442,6 +12491,11 @@ Professor McNamara has published books on a ----- range of topics.
 - C. diverse
 
 - D. diversify
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. diverse</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>a diverse range of</i> = nhiều loại đa dạng.</div>
+</details>
 
 ##### Question 120
 A ----- of clearly defined milestones was likely why the software development project failed.
@@ -8454,6 +12508,11 @@ A ----- of clearly defined milestones was likely why the software development pr
 
 - D. complex
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. lack</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>A lack of</i> = sự thiếu.</div>
+</details>
+
 ##### Question 121
 Rosemont Department Store employees are said to be very well-informed, -----, and responsive.
 
@@ -8464,6 +12523,11 @@ Rosemont Department Store employees are said to be very well-informed, -----, an
 - C. personify
 
 - D. personable
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. personable</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chuỗi tính từ: <i>well-informed, personable, and responsive</i> (dễ mến).</div>
+</details>
 
 ##### Question 122
 The security officer at the front gate will
@@ -8478,6 +12542,11 @@ The security officer at the front gate will
 
 - D. present
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. instruct</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>instruct sb as to where…</i> = chỉ dẫn.</div>
+</details>
+
 ##### Question 123
 ----- some tickets to the concert are still available, all the best seats have already been taken.
 
@@ -8488,6 +12557,11 @@ The security officer at the front gate will
 - C. Notice
 
 - D. After
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. Although</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Nhượng bộ: dù còn vé, chỗ đẹp đã hết.</div>
+</details>
 
 ##### Question 124
 Visitors must park in the designated parking area ----- risk having their vehicle towed.
@@ -8500,6 +12574,11 @@ Visitors must park in the designated parking area ----- risk having their vehicl
 
 - D. and
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. or</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>… or risk having their vehicle towed</i> = nếu không sẽ bị kéo xe.</div>
+</details>
+
 ##### Question 125
 When Ms. Liu was hired, the ----- was to train her to work in the chemistry lab.
 
@@ -8510,6 +12589,11 @@ When Ms. Liu was hired, the ----- was to train her to work in the chemistry lab.
 - C. intended
 
 - D. intentional
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. intention</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau <i>the</i> cần danh từ: <i>the intention was to…</i></div>
+</details>
 
 ##### Question 126
 A ----- effect of increased tourism in our city has been rapid growth in the number of hospitality-related jobs.
@@ -8522,6 +12606,11 @@ A ----- effect of increased tourism in our city has been rapid growth in the num
 
 - D. perceptive
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. favorable</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>a favorable effect</i> = tác động tích cực.</div>
+</details>
+
 ##### Question 127
 The new payroll system will send an e-mail to employees ----- a manager edits their time sheet.
 
@@ -8532,6 +12621,11 @@ The new payroll system will send an e-mail to employees ----- a manager edits th
 - C. despite
 
 - D. whenever
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. whenever</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Gửi e-mail <b>mỗi khi</b> quản lý sửa bảng chấm công.</div>
+</details>
 
 ##### Question 128
 The order of the speakers has been changed ----- Mr. Chen arrives late.
@@ -8544,6 +12638,11 @@ The order of the speakers has been changed ----- Mr. Chen arrives late.
 
 - D. in case
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. in case</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Đổi thứ tự <b>phòng khi</b> ông Chen đến muộn.</div>
+</details>
+
 ##### Question 129
 Even though the fuel container can hold up to a ----- of ten liters, the manufacturer recommends putting in only nine.
 
@@ -8555,6 +12654,11 @@ Even though the fuel container can hold up to a ----- of ten liters, the manufac
 
 - D. collection
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. maximum</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>a maximum of ten liters</i> = tối đa 10 lít.</div>
+</details>
+
 ##### Question 130
 Ever since the Unicycle Café opened for business last May, it ----- weekly live music events.
 
@@ -8565,6 +12669,11 @@ Ever since the Unicycle Café opened for business last May, it ----- weekly live
 - C. was hosted
 
 - D. will be hosting
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. has been hosting</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Ever since</i> + quá khứ → hiện tại hoàn thành tiếp diễn.</div>
+</details>
 
 ### Part 6
 
@@ -8583,6 +12692,11 @@ Do you fancy playing games with your mates? Do you enjoy tasty tea and snacks? I
 
 - D. lessons
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. laughter</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>fun and laughter</i> = niềm vui và tiếng cười.</div>
+</details>
+
 ##### Question 132
 - A. Or bring your own if you prefer.
 
@@ -8591,6 +12705,11 @@ Do you fancy playing games with your mates? Do you enjoy tasty tea and snacks? I
 - C. The most popular drink is our caramel latte.
 
 - D. We also have several openings for servers.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau "Chọn từ bộ sưu tập trò chơi" → "Hoặc mang trò của bạn tới".</div>
+</details>
 
 ##### Question 133
 - A. in contrast to
@@ -8601,6 +12720,11 @@ Do you fancy playing games with your mates? Do you enjoy tasty tea and snacks? I
 
 - D. as well as
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. as well as</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>tea… as well as our pastries</i>.</div>
+</details>
+
 ##### Question 134
 - A. is relaxing
 
@@ -8609,6 +12733,11 @@ Do you fancy playing games with your mates? Do you enjoy tasty tea and snacks? I
 - C. relaxes
 
 - D. relaxation
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. to relax</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the perfect opportunity to V</i>.</div>
+</details>
 
 To: Patton Henry <p.henry@xmail.com>
 
@@ -8637,6 +12766,11 @@ Joanna Kanarak, Kanarak Realty
 
 - D. membership
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. contract</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Gia hạn <b>hợp đồng</b> thuê nhà.</div>
+</details>
+
 ##### Question 136
 - A. I
 
@@ -8645,6 +12779,11 @@ Joanna Kanarak, Kanarak Realty
 - C. some
 
 - D. everyone
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. I</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Người viết: <i>I will assume</i>.</div>
+</details>
 
 ##### Question 137
 - A. In any event
@@ -8655,6 +12794,11 @@ Joanna Kanarak, Kanarak Realty
 
 - D. For instance
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. In that case</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <b>Trong trường hợp đó</b> (không trả lời), căn hộ sẽ được rao cho thuê.</div>
+</details>
+
 ##### Question 138
 - A. This business was started 22 years ago.
 
@@ -8663,6 +12807,11 @@ Joanna Kanarak, Kanarak Realty
 - C. You have occupied the current property for nearly two years.
 
 - D. Your apartment has three bedrooms and two bathrooms.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Kết thư: "Kanarak Realty luôn sẵn lòng hỗ trợ bạn".</div>
+</details>
 
 #### Questions 139-142 refer to the following brochure.
 
@@ -8679,6 +12828,11 @@ The Devegas Peninsula features a wide range of  (139) options. More than twenty 
 
 - D. accommodation
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. accommodation</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Cả đoạn nói về khách sạn, nhà trọ → chỗ ở.</div>
+</details>
+
 ##### Question 140
 - A. were
 
@@ -8687,6 +12841,11 @@ The Devegas Peninsula features a wide range of  (139) options. More than twenty 
 - C. would be
 
 - D. have been
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. can be</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>can be found</i> = có thể tìm thấy.</div>
+</details>
 
 ##### Question 141
 - A. After all
@@ -8697,6 +12856,11 @@ The Devegas Peninsula features a wide range of  (139) options. More than twenty 
 
 - D. Nevertheless
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. In addition</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Bổ sung thêm loại chỗ ở.</div>
+</details>
+
 ##### Question 142
 - A. Tourists flock to the peninsula during the summer months.
 
@@ -8705,6 +12869,11 @@ The Devegas Peninsula features a wide range of  (139) options. More than twenty 
 - C. Travelers on a budget also have options.
 
 - D. The Devegas Peninsula is more than ten kilometers long.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu sau nói chỗ cắm trại, hostel giá rẻ → "Khách du lịch tiết kiệm cũng có lựa chọn".</div>
+</details>
 
 ##### Nelsign
 
@@ -8723,6 +12892,11 @@ Once all parties have signed the Nelsign document, you will  (143). by e-mail. A
 
 - D. have notified
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. be notified</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Bạn <b>được</b> thông báo → bị động.</div>
+</details>
+
 ##### Question 146
 - A. around
 
@@ -8731,6 +12905,11 @@ Once all parties have signed the Nelsign document, you will  (143). by e-mail. A
 - C. regarding
 
 - D. assuming
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. regarding</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>questions regarding</i> = câu hỏi về.</div>
+</details>
 
 ##### Question 144
 - A. complete
@@ -8741,6 +12920,11 @@ Once all parties have signed the Nelsign document, you will  (143). by e-mail. A
 
 - D. completion
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. completion</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Upon completion</i> = khi hoàn tất.</div>
+</details>
+
 ##### Question 145
 - A. For those who need to create an account, simply visit our Web site.
 
@@ -8749,6 +12933,11 @@ Once all parties have signed the Nelsign document, you will  (143). by e-mail. A
 - C. The privacy terms are attached to the contract.
 
 - D. Our company is located in Utah.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu trước: "Nếu có tài khoản Nelsign…" → "Ai cần tạo tài khoản, vào web".</div>
+</details>
 
 ### Part 7
 
@@ -8777,6 +12966,17 @@ What is indicated about boxes of Truli crackers?
 
 - D. They cost $2.00 more than a package of Truli cheese.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>ONE box of Truli crackers (any size)</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Coupon: &quot;purchase of ONE box of Truli crackers (any size)&quot; implies boxes come in various sizes. (Note: OCR shows Q147&#x27;s options followed directly by Q148&#x27;s options.)</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase (any size = various sizes); distractor B flavors and C cafes-only not stated; D reverses the $2.00 savings</i></div>
+</details>
+
+##### Question 148
+*(Câu hỏi bị mất trong bản OCR — hỏi về phiếu giảm giá.)*
+
 - A. It can be used more than once.
 
 - B. It requires the purchase of another product.
@@ -8784,6 +12984,14 @@ What is indicated about boxes of Truli crackers?
 - C. It can be used for buying hot drinks.
 
 - D. It must be used before July 1.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Phải mua thêm HAI gói phô mai.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Save $2.00 on ONE box of crackers when you buy any TWO packages of Truli cheese&quot; means another product must be bought.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (buy cheese = purchase of another product); trap D &quot;before July 1&quot; vs actual &quot;Expires July 31&quot;; A contradicts &quot;limit one coupon&quot;</i></div>
+</details>
 
 ##### Brice's Ice Creamery
 
@@ -8808,6 +13016,14 @@ What does the text message indicate about Brice's Ice Creamery?
 
 - D. It rewards customers for referring friends.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>at any Brice's Ice Creamery</i> → nhiều cửa hàng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Text message: points earned &quot;in one of our ice cream shops&quot; and free scoop &quot;at any Brice&#x27;s Ice Creamery&quot; imply multiple locations.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implicit inference from plural &quot;shops/any&quot;; distractors B (parties), C ($5.00 is the reward value), D (referrals) not mentioned</i></div>
+</details>
+
 ##### Question 150
 What did Mr. Thielen receive for signing up for the rewards program?
 
@@ -8818,6 +13034,14 @@ What did Mr. Thielen receive for signing up for the rewards program?
 - C. 80 points
 
 - D. 100 points
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Con số / giá tiền</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Vừa đăng ký đã có 20 điểm.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;You have earned: 20 points&quot; for signing up; &quot;80 points away&quot; from the 100-point reward.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Number trap: 1 point per $1, 80 and 100 as distractors; points for signing up = 20</i></div>
+</details>
 
 #### Questions 151-152 refer to the following e-mail.
 
@@ -8838,6 +13062,14 @@ What is one purpose of the e-mail?
 
 - D. To provide a patient with the results of a recent physical exam
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>contact the office… to reschedule</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail tells Mr. Tran he missed his appointment, the fee is waived, and &quot;Please contact the office ... to reschedule&quot;; that is the &quot;one purpose&quot; (rescheduling).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>&quot;One purpose&quot; = a secondary aim; distractor A (the appointment is past, not upcoming), C (fee is waived, not charged), D (results not mentioned)</i></div>
+</details>
+
 ##### Question 152
 What is indicated about Dr. Ramanathan?
 
@@ -8848,6 +13080,14 @@ What is indicated about Dr. Ramanathan?
 - C. He earned his medical degree 24 years ago.
 
 - D. He is relocating his practice in February.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>he will be on vacation in February</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Dr. Ramanathan ... will be on vacation in February&quot; = taking time off soon.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase (vacation = time off); D relocating and C 24 years (24 hours confused) are distractors</i></div>
+</details>
 
 #### Questions 153-154 refer to the following text-message chain.
 
@@ -8882,6 +13122,14 @@ At 5:48 P.M., what does Mr. Lorck imply when he writes, "I was just packing up"?
 
 - D. He plans to work late this evening.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đang thu dọn đồ → chưa rời văn phòng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ikeda asks &quot;Are you still in the office?&quot; and Lorck answers &quot;I was just packing up,&quot; meaning he is still there but about to leave; she then asks him to adjust the thermostat on his way out.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Idiom in context; distractors A (trip) and D (work late) use the literal word &quot;packing&quot;</i></div>
+</details>
+
 ##### Question 154
 What is most likely true about Ms. Ikeda?
 
@@ -8892,6 +13140,14 @@ What is most likely true about Ms. Ikeda?
 - C. She regularly travels to Melbourne.
 
 - D. She thinks the office is too cold.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>I was supposed to do it</i>, giờ đã lên tàu → quên làm.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>The custodian is out and &quot;I was supposed to do it&quot; (adjust the thermostat) but she is on a train to Melbourne, so she did not do a task she was responsible for.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference from &quot;I was supposed to do it&quot;; distractors C (weekend trip only), B, D (cold not stated; setting lowered to 20)</i></div>
+</details>
 
 ##### https://www.qualitekkresearch.com/aboutus
 
@@ -8916,6 +13172,14 @@ What is indicated about Qualitekk Research?
 
 - D. It has been in business for twenty years.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>producing detailed reports</i> cho công ty khách hàng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Qualitekk Research serves its client companies by analyzing survey results and producing detailed reports.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase (producing detailed reports = produces reports for companies); D &quot;twenty years&quot; contradicts &quot;twelve years&quot;</i></div>
+</details>
+
 ##### Question 156
 What are Qualitekk Research's participants encouraged to do?
 
@@ -8926,6 +13190,14 @@ What are Qualitekk Research's participants encouraged to do?
 - C. Submit photos of preferred products
 
 - D. Update their member profiles if necessary
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>If your interests change, simply update your profile</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;If your interests change, simply update your profile.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (update profile = update member profiles if necessary); other options not mentioned</i></div>
+</details>
 
 ##### Question 157
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -8939,6 +13211,11 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📌 <b>Căn cứ:</b> (Đoạn 2 chỉ có trong ảnh.) [2] đứng sau "mỗi ngày người dùng làm hơn 20.000 khảo sát online" → "con số này tiếp tục tăng".</div>
+</details>
 
 #### MEMO
 
@@ -8969,6 +13246,14 @@ What is the purpose of the memo?
 
 - D. To report on problems with a heating and cooling system
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thông báo cải tạo xong, sắp mở cửa lại.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Memo tells staff about the imminent reopening after long renovations (seats, HVAC, bistro), i.e., an update on completed work.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractors: C (rehearsal mentioned only in passing), D (heating/cooling is only one improvement)</i></div>
+</details>
+
 ##### Question 159
 What is indicated about the Swansea Spotlight Bistro?
 
@@ -8980,6 +13265,14 @@ What is indicated about the Swansea Spotlight Bistro?
 
 - D. It needs more tables and chairs.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>replaces our previous concession stand</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;a new restaurant ... that replaces our previous concession stand.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Direct restatement; A contradicts &quot;menu will change with seasons&quot;; B contradicts &quot;open even when no performances&quot;</i></div>
+</details>
+
 ##### Question 160
 What is mentioned about October 2?
 
@@ -8990,6 +13283,14 @@ What is mentioned about October 2?
 - C. Blake's River will begin its run.
 
 - D. New costumes will be delivered for an upcoming play.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>a one-night musical showcase</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;On 2 October ... a one-night musical showcase&quot; = a single performance.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (one-night showcase = single performance); C is one week later (9 October)</i></div>
+</details>
 
 #### Questions 161-163 refer to the following company Web page.
 
@@ -9012,6 +13313,14 @@ For whom is the information most likely intended?
 
 - D. Milos Tek employees who want to mentor newly hired staff members
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Nhóm tình nguyện của nhân viên Milos Tek.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>The page is titled &quot;Join the Building Blocks Team&quot; and says it is an employee-led volunteer group at Milos Tek that serves the local community, so the target readers are Milos Tek employees who want to help locally.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Target-audience inference; A confuses the beneficiaries (nonprofits) with the audience</i></div>
+</details>
+
 ##### Question 162
 What is the main activity performed by Building Blocks?
 
@@ -9023,6 +13332,14 @@ What is the main activity performed by Building Blocks?
 
 - D. Organizing job fairs
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý chính / chủ đề</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>free seminars</i> cho các tổ chức phi lợi nhuận.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;free seminars on management, public relations, grant writing...&quot; = informational sessions.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase (seminars = informational sessions); B fund-raisers are what other groups do</i></div>
+</details>
+
 ##### Question 163
 What is required of Building Blocks members?
 
@@ -9033,6 +13350,14 @@ What is required of Building Blocks members?
 - C. They must hold advanced academic degrees.
 
 - D. They must attend a day-long seminar each month.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>about two hours each week</i>, nhiều hơn các nhóm khác.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Participation ... generally involves more time ... about two hours each week.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (more time/two hours a week = fairly large amount of time); A, C, D not required</i></div>
+</details>
 
 # Mehan Motors Appoints New CEO
 
@@ -9059,6 +13384,14 @@ What is the purpose of the article?
 
 - D. To explain how a company decision was made
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Giới thiệu CEO mới Dana Loeb.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>The article introduces Dana Loeb, her background, and her vision as incoming CEO.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Profile vs. distractors A (EV future) and C (price trends), which are peripheral details</i></div>
+</details>
+
 ##### Question 165
 Where was Ms. Loeb's first experience working on electric vehicles?
 
@@ -9069,6 +13402,14 @@ Where was Ms. Loeb's first experience working on electric vehicles?
 - C. At Norana
 
 - D. At Tafts Motors
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Lãnh đạo bộ phận xe điện ở Tafts Motors.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>She &quot;rose to lead the EV division at Tafts Motors&quot; (her first EV role); Norana and Mehan are later, and the university is where she studied.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Chronology trap (Norana Radar is famous but later; the university is education, not work)</i></div>
+</details>
 
 ##### Question 167
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -9083,6 +13424,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 
 - D. [4]
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [2] ngay sau câu về bằng kỹ sư điện → "cô cũng có chứng chỉ quản trị".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;She also earned a certificate in corporate management&quot; continues the education sentence &quot;completed a degree in electrical engineering,&quot; i.e., [2].</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Sentence continues the education topic; &quot;also&quot; links to the preceding degree</i></div>
+</details>
+
 ##### Question 166
 What is special about the Radar?
 
@@ -9093,6 +13442,14 @@ What is special about the Radar?
 - C. Its long battery life
 
 - D. Its low price
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>20% higher range on a single charge</i> → pin dùng được lâu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Radar achieved &quot;20% higher range on a single charge&quot; = long battery life. (Numbered 166 in OCR but printed after 167.)</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (higher range on one charge = long battery life); D price is Loeb&#x27;s future goal for Mehan, not the Radar</i></div>
+</details>
 
 Dan's Specialty Bicycles
 
@@ -9117,6 +13474,14 @@ What is the main purpose of the advertisement?
 
 - D. To invite people to attend a bicycle repair workshop
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Tenth Annual Sale</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad for the &quot;Tenth Annual Sale of Secondhand Bicycles&quot; with dates and discount aims to draw interest in an annual event.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Tenth &quot;annual&quot; signals it is not a grand opening; distractors B (race) and D (workshop) not mentioned</i></div>
+</details>
+
 ##### Question 169
 What is indicated about Dan's Specialty Bicycles?
 
@@ -9127,6 +13492,14 @@ What is indicated about Dan's Specialty Bicycles?
 - C. It is open seven days a week.
 
 - D. It will host a party in May.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Monday–Sunday</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Header hours &quot;Monday-Sunday 10 A.M.-6 P.M.&quot; = open seven days a week.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; A misreads the 10% discount; B only one address given</i></div>
+</details>
 
 ##### Question 170
 What is suggested about the secondhand bicycles?
@@ -9139,6 +13512,14 @@ What is suggested about the secondhand bicycles?
 
 - D. Some need to be repaired.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>for all ages</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Secondhand bicycles are offered &quot;for all ages and abilities,&quot; so some are designed for children.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (all ages = some for children); D contradicted by &quot;refurbished by a certified technician&quot;</i></div>
+</details>
+
 ##### Question 171
 What information is NOT included in the advertisement?
 
@@ -9149,6 +13530,14 @@ What information is NOT included in the advertisement?
 - C. How to save money on a purchase at Dan's Specialty Bicycles
 
 - D. Where to find bicycle trails in the London area
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không nói đường đạp xe.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Check each option: A racing bicycles are mentioned; B &quot;certified technician&quot; appears; C &quot;show this advertisement for 10% off&quot; appears; bike trails are never mentioned.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question: eliminate the three present items</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 172-175 refer to the following online chat discussion.</div> </div>
 
@@ -9165,6 +13554,14 @@ Why did Mr. Talbert initiate the online chat discussion?
 
 - D. To ask how to install equipment in a basement
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Hỏi kinh nghiệm để chọn mua.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Talbert opens the chat with &quot;Has anyone used ... Bam Booster?&quot; and later says &quot;I am looking for a reliable booster&quot; and &quot;Now I know what to get.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractors B and C (giving reviews or selling), D (basement belongs to Ms. Jones)</i></div>
+</details>
+
 ##### Question 173
 Who reported a negative experience with multiple products?
 
@@ -9175,6 +13572,14 @@ Who reported a negative experience with multiple products?
 - C. Mr. Keff
 
 - D. Ms. Walken
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ms. Jones đã thử <i>several Internet boosters</i>, không cái nào giúp được.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ms. Jones: &quot;I have tried several Internet boosters, but they haven&#x27;t helped at all. They&#x27;re just not worth the money.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Speaker-attribution trap: Keff and Walken are positive; Talbert is the asker</i></div>
+</details>
 
 ##### Question 174
 At 7:41 P.M., what does Ms. Leven imply when she writes, "That one is the best"?
@@ -9187,6 +13592,14 @@ At 7:41 P.M., what does Ms. Leven imply when she writes, "That one is the best"?
 
 - D. She is pleased with the device she uses.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bà đang dùng Bam Booster 10 và rất thích.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Leven says she has the Bam Booster 10 and loves it; &quot;That one is the best&quot; answers Talbert&#x27;s request for a reliable, easy-to-set-up booster, so she is pleased with her own device.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>&quot;That one&quot; refers to her own device (previous message)</i></div>
+</details>
+
 ##### Question 175
 What is indicated about the Zeertox Signal Booster?
 
@@ -9197,6 +13610,14 @@ What is indicated about the Zeertox Signal Booster?
 - C. It is better than the older version.
 
 - D. It is comparatively large.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>somewhat big and unsightly</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Walken: Zeertox is &quot;somewhat big and unsightly&quot; (also confirmed by Leven&#x27;s &quot;Bam Booster 10 is much smaller&quot;).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (big = comparatively large); A contradicts &quot;inexpensive&quot;; B contradicts &quot;it works&quot;</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 176-180 refer to the following e-mail and advertisement.</div> </div>
 
@@ -9219,6 +13640,14 @@ Why did Ms. Nguyen write the e-mail?
 
 - D. To ask a question about newspaper advertising
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Giao Mark phụ trách tuyển dụng mùa hè.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail (Nguyen to Schroeder): &quot;I hope you can take care of our summer hiring ... Please write a new advertisement,&quot; which assigns a task.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractor D (newspaper advertising is a detail, not a question asked)</i></div>
+</details>
+
 ##### Question 177
 What is suggested about the workers who were hired last year?
 
@@ -9229,6 +13658,14 @@ What is suggested about the workers who were hired last year?
 - C. They lived near Jaxon Shore.
 
 - D. They did not all work full-time.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>this time, all four should be full-time</i> → năm ngoái không phải ai cũng toàn thời gian.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail only: &quot;hire the same number of workers as last year, but this time, all four should be full-time,&quot; which implies not all four were full-time last year.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied contrast (&quot;this time&quot;)</i></div>
+</details>
 
 ##### Question 178
 What is NOT mentioned as a job duty in the advertisement?
@@ -9241,6 +13678,14 @@ What is NOT mentioned as a job duty in the advertisement?
 
 - D. Helping shoppers
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không có dỡ hàng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad duties: handling sales, stocking shelves (A), assisting customers (D), setting up displays (B); unloading deliveries is not listed.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question: paraphrase (stocking shelves = placing items on shelves; setting up displays = displaying merchandise; assisting customers = helping shoppers)</i></div>
+</details>
+
 ##### Question 179
 What is most likely true about the job interviews?
 
@@ -9252,6 +13697,14 @@ What is most likely true about the job interviews?
 
 - D. They will be conducted online.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Phỏng vấn ở cửa hàng Gravel Road do Mark quản lý, nhiệm vụ đầu tiên là tuyển người.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: Schroeder will be manager of the Gravel Road store and his first duty is building the staff. Ad: &quot;All interviews will be conducted at the Gravel Road store.&quot; Link key: Gravel Road store.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Two-doc link; distractor B (Pelican Inlet is the original store)</i></div>
+</details>
+
 ##### Question 180
 In the advertisement, the word "original" in paragraph 2, line 1, is closest in meaning to (A) first
 
@@ -9260,6 +13713,14 @@ In the advertisement, the word "original" in paragraph 2, line 1, is closest in 
 - C. imaginative
 
 - D. best
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. first</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>the original store</i> = cửa hàng đầu tiên.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;the original Pelican Inlet store&quot; contrasts with the new Gravel Road location; original = first.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Common-word meaning trap (unique, best)</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 181-185 refer to the following e-mail and blog post.</div> </div>
 
@@ -9278,6 +13739,14 @@ According to the e-mail, what will happen over the next twelve months?
 
 - D. Ventana Airlines will hire 76 additional staff.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>remaining jets will be delivered throughout the coming year</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;we will take possession of the first six of the twelve Trak-4 jets ... The remaining jets will be delivered throughout the coming year.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Restatement (jets = aircraft); D confuses 76 seats with staff</i></div>
+</details>
+
 ##### Question 182
 How does the Trak-4 jet compare with the DB90 aircraft?
 
@@ -9288,6 +13757,14 @@ How does the Trak-4 jet compare with the DB90 aircraft?
 - C. It can accommodate more passengers per flight.
 
 - D. It has no middle seats in its cabin.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Blog: máy bay mới chỉ có 2 ghế mỗi bên lối đi → không có ghế giữa.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: Trak-4 is the new narrow-body jet replacing the DB90s. Blog: new jets have &quot;only two seats on each side of the aisle, so everyone gets an aisle or window seat.&quot; Link key: Ventana&#x27;s new jets = Trak-4; old = DB90.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Answer is in a different doc than the aircraft name; C contradicts (smaller 76-seat capacity); A legroom only &quot;tight&quot; for tall people</i></div>
+</details>
 
 ##### Question 183
 What can be concluded about the Ventana Airlines executive team?
@@ -9300,6 +13777,14 @@ What can be concluded about the Ventana Airlines executive team?
 
 - D. It received an award for achieving its profitability goals.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Blog: có tuyến bay thẳng giữa hai thành phố nhỏ, không qua hub.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail (Oct 11): meeting to rethink the hub system and fly direct. Blog (Jan 20): Ventana now flies nonstop Silver City to Centerville, bypassing the hub. Link key: direct flights bypassing hubs.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Later doc shows the outcome; B is the blog date, not a meeting date</i></div>
+</details>
+
 ##### Question 184
 What does Mr. Ogawa dislike about connecting at a hub?
 
@@ -9311,6 +13796,14 @@ What does Mr. Ogawa dislike about connecting at a hub?
 
 - D. Boarding and deboarding the aircraft
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>hurrying between terminals</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Blog: &quot;hurrying between terminals at Midwest ... through a sea of fellow passengers.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (hurrying between terminals = rushing from one terminal to another)</i></div>
+</details>
+
 ##### Question 185
 What is most likely true about Mr. Ogawa?
 
@@ -9321,6 +13814,14 @@ What is most likely true about Mr. Ogawa?
 - C. He lives in Centerville.
 
 - D. He prefers a window seat.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>legroom was a little tight for a person my size</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Blog: &quot;legroom was a little tight for a person my size&quot; implies he is relatively tall.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference; D not supported (he likes not having a middle seat, not a stated window preference)</i></div>
+</details>
 
 #### Questions 186-190 refer to the following notice, e-mail, and schedule.
 
@@ -9349,6 +13850,14 @@ What is one purpose of the notice?
 
 - D. To explain a change in operating hours
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Gartner Wing… is currently closed</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Notice: &quot;The Gartner Wing ... is currently closed. We apologize for the inconvenience.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (currently closed = temporary closure); C is wrong because it is a new exhibit, not a grand opening</i></div>
+</details>
+
 ##### Question 187
 What is indicated about some of Renmark Solutions' interns?
 
@@ -9362,6 +13871,14 @@ What is indicated about some of Renmark Solutions' interns?
 
 - D. They assisted with the setup of an educational display.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Many of you have been on previous Renmark Solutions trips</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;Many of you have been on previous Renmark Solutions trips.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Direct paraphrase; A, B, D not mentioned</i></div>
+</details>
+
 ##### Question 188
 What is suggested about the trip on August 19?
 
@@ -9372,6 +13889,14 @@ What is suggested about the trip on August 19?
 - C. It includes a tour of Ms. Morishita's exhibit.
 
 - D. It must be paid for in advance by attendees.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Xem <i>The Power of Light</i> do Morishita thiết kế.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;We will see The Power of Light exhibit as part of our group tour.&quot; Notice: that exhibit was designed by curator Sachiko Morishita. Link key: The Power of Light.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Name in a different doc than the trip; A (trip led by Mr. Mun) is not stated</i></div>
+</details>
 
 ##### Question 189
 Why will the interns go to room 203?
@@ -9384,6 +13909,14 @@ Why will the interns go to room 203?
 
 - D. To watch a film by FK Institute of Technology
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> 1:45 P.M. ở phòng 203 = phim của FK Institute.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail schedule: 1:45-2:00 &quot;Meet in room 203.&quot; Museum Room 203 schedule: 1:45 P.M. &quot;Mirrors, Lenses, and Prisms,&quot; short film by FK Institute of Technology. Link key: room 203 and time 1:45.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Time-matching trap: 1:00 P.M. Solfis University presentation is earlier</i></div>
+</details>
+
 ##### Question 190
 According to the schedule, when will a company give a presentation about its merchandise?
 
@@ -9394,6 +13927,14 @@ According to the schedule, when will a company give a presentation about its mer
 - C. At 1:00 P.M.
 
 - D. At 2:45 P.M.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Product demonstrations by Bigham Industries</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Room 203 schedule: 2:45 P.M. &quot;New Platforms, New Products,&quot; product demonstrations by Bigham Industries.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (product demonstrations = presentation about its merchandise); the others are lectures or films</i></div>
+</details>
 
 #### Questions 191-195 refer to the following advertisement, price list, and review.
 
@@ -9428,6 +13969,14 @@ What does the advertisement suggest about PUW machines?
 
 - D. They contain a receptacle for used bags.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>The stand is mobile… can be rolled around</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: &quot;The stand is mobile and thus can be rolled around to different locations.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (mobile stand = wheels allow moving); B contradicts 1.5 seconds; D bags are discarded in trash cans, not in the machine</i></div>
+</details>
+
 ##### Question 192
 What does the price list indicate about bags?
 
@@ -9438,6 +13987,14 @@ What does the price list indicate about bags?
 - C. They are not included in the price of PUW machines.
 
 - D. They are sold in retail stores.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Hộp 3.000 hoặc 1.000 túi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Price list: bags sold in boxes of 3,000 ($100) or 1,000 ($35).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>C is wrong because PUW machines include bags (2,000/1,000); B only &quot;any of our units&quot;</i></div>
+</details>
 
 ##### Question 193
 What is suggested about Mr. Barr?
@@ -9450,6 +14007,14 @@ What is suggested about Mr. Barr?
 
 - D. He recently changed jobs.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mua tháng 11 → được tặng ô có logo.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: &quot;in November, we decided to try a PUW machine&quot; and bought one. Ad: &quot;Purchase a PUW machine throughout November and receive a lightweight umbrella.&quot; Link key: November purchase.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Date-match trap; A &quot;longtime customer&quot; is not supported</i></div>
+</details>
+
 ##### Question 194
 What is the cost of the product that Mr. Barr reviewed?
 
@@ -9461,6 +14026,14 @@ What is the cost of the product that Mr. Barr reviewed?
 
 - D. $450
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Con số / giá tiền + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Máy 2 đầu, inox → mã 143, giá $450.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: PUW machine &quot;with two devices&quot; in stainless steel. Price list: product 143 (two devices, stainless steel or black) is $450. Link key: two-device stainless machine = product 143.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Bag boxes ($35, $100) and one-device $350 are distractors</i></div>
+</details>
+
 ##### Question 195
 What problem does Mr. Barr describe?
 
@@ -9471,6 +14044,14 @@ What problem does Mr. Barr describe?
 - C. The lobby of his building is not clean.
 
 - D. Some disposable umbrella bags were too small.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>only a few people used it</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: &quot;We used to have a large umbrella stand ... but only a few people used it.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (only a few used it = not using); D flimsy bags, not too small</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 196-200 refer to the following Web page and e-mails.</div> </div>
 
@@ -9489,6 +14070,14 @@ What is suggested on the Web page about Croydon Construction?
 
 - D. It completes projects in countries outside of New Zealand.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Steve Kogler is our new chief site engineer</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: &quot;Steve Kogler is our new chief site engineer,&quot; so Croydon recently hired him.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>&quot;New&quot; = recently hired; B contradicts 25 years; C is wrong because headquarters are already in Christchurch</i></div>
+</details>
+
 ##### Question 197
 According to the Web page, what should job applicants do?
 
@@ -9499,6 +14088,14 @@ According to the Web page, what should job applicants do?
 - C. Contact the hiring manager by e-mail
 
 - D. Submit an application online
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Go to our Jobs page… to apply</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: &quot;Go to our Jobs page to view open positions and to apply.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (Jobs page apply = submit application online)</i></div>
+</details>
 
 ##### Question 198
 In the second e-mail, what problem does Ms. Rahija describe?
@@ -9511,6 +14108,14 @@ In the second e-mail, what problem does Ms. Rahija describe?
 
 - D. Some items in an order broke during transport.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>A machine in our factory malfunctioned</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Second e-mail: &quot;A machine in our factory malfunctioned, creating flaws in the window glass.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (machine malfunctioned = equipment did not operate properly); D broken in transport not stated</i></div>
+</details>
+
 ##### Question 199
 Where most likely will order 47992 be delivered?
 
@@ -9522,6 +14127,14 @@ Where most likely will order 47992 be delivered?
 
 - D. To Sixth Street
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Giao tới <i>medical clinic construction site</i> → Willoughby Medical Clinic, Grove Road.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Second e-mail: order 47992 &quot;will arrive at your medical clinic construction site.&quot; Web page: &quot;Willoughby Medical Clinic on Grove Road.&quot; Link key: medical clinic site.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Other addresses are other Croydon projects (distractors)</i></div>
+</details>
+
 ##### Question 200
 What can be concluded about Mr. Makoare?
 
@@ -9532,6 +14145,14 @@ What can be concluded about Mr. Makoare?
 - C. He will probably have to postpone a building's completion date.
 
 - D. He will soon pay a supplier in full.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Giữ lại số tiền còn lại đến khi nhận hàng; hàng tới 20/8 → sắp thanh toán đủ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>First e-mail: &quot;We shall withhold the balance of payment until the items have been received&quot; and the completion date cannot be postponed. Second e-mail: order arrives 20 August. Link key: order 47992.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Later e-mail resolves the delay, so payment will follow; C tempting but the shipment arrives before the 1 Nov opening; A misuses the 1 Nov clinic date</i></div>
+</details>
 
 ETS토익정기시험
 
@@ -9568,6 +14189,11 @@ Sydney Fashion Week drew thousands of
 
 - D. excitement
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. excited</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>excited visitors</i> = du khách háo hức (V-ed chỉ cảm xúc của người).</div>
+</details>
+
 ##### Question 102
 Ms. Choi was pleased to learn that ----- is a finalist in the technology competition.
 
@@ -9578,6 +14204,11 @@ Ms. Choi was pleased to learn that ----- is a finalist in the technology competi
 - C. hers
 
 - D. herself
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. she</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mệnh đề <i>that</i> cần chủ ngữ.</div>
+</details>
 
 ##### Question 103
 All visitors to the factory should use the _____ on the north side of the building.
@@ -9590,6 +14221,11 @@ All visitors to the factory should use the _____ on the north side of the buildi
 
 - D. entered
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. entrance</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau <i>the</i> cần danh từ: lối vào.</div>
+</details>
+
 ##### Question 104
 Unfortunately, we cannot provide an ----- time for the delivery of the new laptops.
 
@@ -9600,6 +14236,11 @@ Unfortunately, we cannot provide an ----- time for the delivery of the new lapto
 - C. absent
 
 - D. inspirational
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. exact</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>an exact time</i> = thời gian chính xác.</div>
+</details>
 
 ##### Question 105
 Tourists visiting Star Island are asked ----- the privacy of residents.
@@ -9612,6 +14253,11 @@ Tourists visiting Star Island are asked ----- the privacy of residents.
 
 - D. will respect
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. to respect</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>be asked to V</i>.</div>
+</details>
+
 ##### Question 106
 Rivlyn, Inc., has recycled ----- 11 million kilograms of paper waste over the past decade.
 
@@ -9622,6 +14268,11 @@ Rivlyn, Inc., has recycled ----- 11 million kilograms of paper waste over the pa
 - C. closely
 
 - D. freely
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. nearly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>nearly 11 million</i> = gần 11 triệu.</div>
+</details>
 
 ##### Question 107
 The new Dorvale 500 exercise machine is significantly heavier and sturdier than the previous -----.
@@ -9634,6 +14285,11 @@ The new Dorvale 500 exercise machine is significantly heavier and sturdier than 
 
 - D. class
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. model</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the previous model</i> = mẫu trước.</div>
+</details>
+
 ##### Question 108
 Beachside Inn is the perfect place to ----- an event for your corporate clients.
 
@@ -9644,6 +14300,11 @@ Beachside Inn is the perfect place to ----- an event for your corporate clients.
 - C. host
 
 - D. stay
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. host</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>host an event</i> = tổ chức sự kiện.</div>
+</details>
 
 ##### Question 109
 ----- in cloud computing have transformed the gaming industry in many ways.
@@ -9656,6 +14317,11 @@ Beachside Inn is the perfect place to ----- an event for your corporate clients.
 
 - D. Advancements
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. Advancements</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chủ ngữ số nhiều (<i>have transformed</i>).</div>
+</details>
+
 ##### Question 110
 To provide feedback ----- your recent dental appointment, please respond to this brief survey.
 
@@ -9666,6 +14332,11 @@ To provide feedback ----- your recent dental appointment, please respond to this
 - C. near
 
 - D. onto
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. about</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>feedback about</i> = phản hồi về.</div>
+</details>
 
 ##### Question 111
 If your company computer is not -----
@@ -9682,6 +14353,11 @@ If your company computer is not -----
 
 - D. completing
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. completely</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa tính từ <i>functional</i>.</div>
+</details>
+
 ##### Question 112
 The ----- of electric buses to our current fleet has made commuting much more pleasant.
 
@@ -9692,6 +14368,11 @@ The ----- of electric buses to our current fleet has made commuting much more pl
 - C. substitution
 
 - D. building
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. addition</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the addition of A to B</i> = việc bổ sung A vào B.</div>
+</details>
 
 ##### Question 115
 Any remote employees wanting an additional computer monitor should ---Ms. Suzuki.
@@ -9704,6 +14385,11 @@ Any remote employees wanting an additional computer monitor should ---Ms. Suzuki
 
 - D. notify
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. notify</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>notify Ms. Suzuki</i> = báo cho cô Suzuki.</div>
+</details>
+
 ##### Question 116
 Customer loyalty programs are ----- for many retail businesses.
 
@@ -9714,6 +14400,11 @@ Customer loyalty programs are ----- for many retail businesses.
 - C. profitably
 
 - D. profitability
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. profitable</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau <i>are</i> cần tính từ.</div>
+</details>
 
 ##### Question 117
 Prompt submission of travel vouchers ----- the accounts department will expedite refunds.
@@ -9726,6 +14417,11 @@ Prompt submission of travel vouchers ----- the accounts department will expedite
 
 - D. up
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. to</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>submission of vouchers to the accounts department</i> = nộp cho phòng kế toán.</div>
+</details>
+
 ##### Question 113
 The Zwick Air Wave generates a powerful blast to cool your workspace -----.
 
@@ -9736,6 +14432,11 @@ The Zwick Air Wave generates a powerful blast to cool your workspace -----.
 - C. quickens
 
 - D. quickly
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. quickly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa <i>cool</i>.</div>
+</details>
 
 ##### Question 114
 The Oak Hill Art Museum offers several
@@ -9752,6 +14453,11 @@ exhibits.
 
 - D. entire
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. permanent</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>permanent exhibits</i> đối lập <i>limited-time exhibits</i>.</div>
+</details>
+
 ##### Question 118
 After extensively ----- our hiring policies, the consultant recommended a simpler process.
 
@@ -9762,6 +14468,11 @@ After extensively ----- our hiring policies, the consultant recommended a simple
 - C. reviewing
 
 - D. reviews
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. reviewing</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>After + V-ing</i>.</div>
+</details>
 
 ##### Question 119
 Under the ----- of Ms. Kenu, the historical society's fund-raiser went very well this year.
@@ -9774,6 +14485,11 @@ Under the ----- of Ms. Kenu, the historical society's fund-raiser went very well
 
 - D. summary
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. direction</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Under the direction of</i> = dưới sự chỉ đạo của.</div>
+</details>
+
 ##### Question 120
 The company decided to proceed ---- with plans to expand into new sales territories.
 
@@ -9784,6 +14500,11 @@ The company decided to proceed ---- with plans to expand into new sales territor
 - C. cautious
 
 - D. cautiously
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. cautiously</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>proceed cautiously</i> = tiến hành thận trọng.</div>
+</details>
 
 ##### Question 121
 ----- access the building, enter the code listed on the tenant directory.
@@ -9796,6 +14517,11 @@ The company decided to proceed ---- with plans to expand into new sales territor
 
 - D. As a result of
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. In order to</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> + động từ nguyên thể <i>access</i>.</div>
+</details>
+
 ##### Question 122
 Mr. Davis ----- the marketing department will attend Monday's meeting with the client.
 
@@ -9806,6 +14532,11 @@ Mr. Davis ----- the marketing department will attend Monday's meeting with the c
 - C. so
 
 - D. from
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. from</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Mr. Davis from the marketing department</i> = ông Davis bên phòng marketing.</div>
+</details>
 
 ##### Question 123
 Several ----- reviews helped make the debut novel a best seller.
@@ -9818,6 +14549,11 @@ Several ----- reviews helped make the debut novel a best seller.
 
 - D. equivalent
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. outstanding</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>outstanding reviews</i> = đánh giá xuất sắc.</div>
+</details>
+
 ##### Question 124
 Please ----- us in welcoming Dr. Sito, who brings ten years of experience in the aerospace industry to his new position.
 
@@ -9828,6 +14564,11 @@ Please ----- us in welcoming Dr. Sito, who brings ten years of experience in the
 - C. joining
 
 - D. joined
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. join</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu mệnh lệnh: <i>Please join us in welcoming…</i></div>
+</details>
 
 ##### Question 125
 A survey of new car buyers asked them to
@@ -9842,6 +14583,11 @@ A survey of new car buyers asked them to
 
 - D. guide
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. rank</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>rank features in order</i> = xếp hạng.</div>
+</details>
+
 ##### Question 126
 As head of the Poels Museum, Mr. Ahuja oversaw the ----- of several significant works of art.
 
@@ -9852,6 +14598,11 @@ As head of the Poels Museum, Mr. Ahuja oversaw the ----- of several significant 
 - C. acquisition
 
 - D. acquisitional
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. acquisition</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau <i>the</i> cần danh từ: <i>acquisition</i> = việc mua lại (tác phẩm).</div>
+</details>
 
 ##### Question 127
 Later today, we will hold a meeting to discuss changes to protocols ----- they go into effect next month.
@@ -9864,6 +14615,11 @@ Later today, we will hold a meeting to discuss changes to protocols ----- they g
 
 - D. before
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. before</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Họp <b>trước khi</b> quy định có hiệu lực.</div>
+</details>
+
 ##### Question 128
 Customer service representatives can be reached ----- calling 800-555-0121 between 8:00 A.M. and 4:00 P.M.
 
@@ -9874,6 +14630,11 @@ Customer service representatives can be reached ----- calling 800-555-0121 betwe
 - C. ever
 
 - D. at
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. by</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>by calling</i> = bằng cách gọi.</div>
+</details>
 
 ##### Question 129
 Collaboration between multiple agencies is
@@ -9890,6 +14651,11 @@ consulting can simplify the process for you.
 
 - D. finally
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. often</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>is often challenging</i> = thường khó khăn.</div>
+</details>
+
 ##### Question 130
 The desserts we had at Giovanni's Bistro were not as delicious as ----- we enjoyed at Monteverdi's Taverna.
 
@@ -9900,6 +14666,11 @@ The desserts we had at Giovanni's Bistro were not as delicious as ----- we enjoy
 - C. which
 
 - D. them
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. those</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>those (= the desserts) we enjoyed</i>.</div>
+</details>
 
 ### Part 6
 
@@ -9920,6 +14691,11 @@ Enter through the main door at 3017 Bowman Street and sign in with the  _____gua
 
 - D. securing
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. security</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>security guard</i> = bảo vệ (danh từ ghép).</div>
+</details>
+
 ##### Question 132
 - A. Alternatively
 
@@ -9928,6 +14704,11 @@ Enter through the main door at 3017 Bowman Street and sign in with the  _____gua
 - C. Furthermore
 
 - D. Nevertheless
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. Alternatively</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Đi thang máy <b>hoặc</b> đi thang bộ.</div>
+</details>
 
 ##### Question 133
 - A. temporarily
@@ -9938,6 +14719,11 @@ Enter through the main door at 3017 Bowman Street and sign in with the  _____gua
 
 - D. immediately
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. immediately</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>turn left immediately</i> = rẽ trái ngay.</div>
+</details>
+
 ##### Question 134
 - A. The laboratory is the next door on the right.
 
@@ -9946,6 +14732,11 @@ Enter through the main door at 3017 Bowman Street and sign in with the  _____gua
 - C. The laboratory's speaker series is open to the public.
 
 - D. This year marks the laboratory's thirty-fifth anniversary.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Hướng dẫn kết thúc: "Phòng thí nghiệm là cửa kế tiếp bên phải".</div>
+</details>
 
 ##### Mapleglen University
 
@@ -9964,6 +14755,11 @@ At Mapleglen University, we understand that December is a  (135) time of year fo
 
 - D. sure
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. busy</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Tháng 12 bận rộn → nên gia hạn nộp hồ sơ.</div>
+</details>
+
 ##### Question 136
 - A. Being considered
 
@@ -9972,6 +14768,11 @@ At Mapleglen University, we understand that December is a  (135) time of year fo
 - C. Having been considered
 
 - D. Considering
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. To be considered</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chỉ mục đích: để được xét tuyển.</div>
+</details>
 
 ##### Question 137
 - A. between
@@ -9982,6 +14783,11 @@ At Mapleglen University, we understand that December is a  (135) time of year fo
 
 - D. regarding
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. regarding</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>questions regarding</i> = câu hỏi về.</div>
+</details>
+
 ##### Question 138
 - A. We look forward to reading your application.
 
@@ -9990,6 +14796,11 @@ At Mapleglen University, we understand that December is a  (135) time of year fo
 - C. We have added a course in public health.
 
 - D. A record number of prospective students have applied.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Kết thư tuyển sinh: "Chúng tôi mong được đọc hồ sơ của bạn".</div>
+</details>
 
 To: Senior executive staff
 
@@ -10012,6 +14823,11 @@ As you all know, to coincide with the upcoming launch of the restaurant's new me
 
 - D. Most significantly
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. Most significantly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Nêu thay đổi quan trọng nhất.</div>
+</details>
+
 ##### Question 140
 - A. I hope to have an update soon concerning the new location.
 
@@ -10020,6 +14836,11 @@ As you all know, to coincide with the upcoming launch of the restaurant's new me
 - C. Many restaurant apps now include online ordering.
 
 - D. The new items will be added to the menu next month.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Tiếp ý <i>corrected several issues</i>: "trong đó có lỗi màn hình bị đơ".</div>
+</details>
 
 ##### Question 141
 - A. we
@@ -10030,6 +14851,11 @@ As you all know, to coincide with the upcoming launch of the restaurant's new me
 
 - D. none
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. they</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Thay cho <i>focus group members</i>.</div>
+</details>
+
 ##### Question 142
 - A. has been announced
 
@@ -10038,6 +14864,11 @@ As you all know, to coincide with the upcoming launch of the restaurant's new me
 - C. announcing
 
 - D. announces
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. will be announced</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sự kiện tương lai, bị động.</div>
+</details>
 
 Let me disclose up front that I received a free Tipti PX200 digital camera in exchange for this post.
 
@@ -10066,6 +14897,11 @@ to post short videos online, this is an excellent option for the price.
 
 - D. To the contrary
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. However</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Được tặng máy, <b>tuy nhiên</b> vẫn nói thật.</div>
+</details>
+
 ##### Question 145
 - A. event
 
@@ -10074,6 +14910,11 @@ to post short videos online, this is an excellent option for the price.
 - C. credential
 
 - D. distinction
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. distinction</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>an important distinction</i> = sự phân biệt quan trọng.</div>
+</details>
 
 ##### Question 144
 - A. I am always honest when I review a product.
@@ -10084,6 +14925,11 @@ to post short videos online, this is an excellent option for the price.
 
 - D. Publishers also regularly offer free books to reviewers.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> "Tôi luôn trung thực khi đánh giá sản phẩm".</div>
+</details>
+
 ##### Question 146
 - A. easy
 
@@ -10092,6 +14938,11 @@ to post short videos online, this is an excellent option for the price.
 - C. easing
 
 - D. to ease
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. easy</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>make it easy to V</i>.</div>
+</details>
 
 ### Part 7
 
@@ -10120,6 +14971,14 @@ What is the purpose of the e-mail?
 
 - D. To announce the opening of the Seoul office
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mời dự tiệc chia tay.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: going-away party for Sun-Yi on 21 Feb, please RSVP, food provided.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (going-away party = social event); D Seoul office is not opening</i></div>
+</details>
+
 ##### Question 148
 According to the e-mail, what should staff members do by February 16?
 
@@ -10130,6 +14989,14 @@ According to the e-mail, what should staff members do by February 16?
 - C. Sign a card
 
 - D. Submit catering orders
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>reply to this e-mail by 16 February</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Please reply to this e-mail by 16 February to let me know if you plan to attend,&quot; and the sender is Ms. Rybak.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Deadline in the question, action = reply (E-mail Ms. Rybak); D distractor (food mentioned but no orders)</i></div>
+</details>
 
 # Johan's Power Washing Serving the Meadowbrook community for over 25 years!
 
@@ -10164,6 +15031,14 @@ What is the purpose of the flyer?
 
 - D. To notify residents about home maintenance regulations
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Tờ rơi quảng cáo dịch vụ rửa áp lực.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Flyer lists services, phone, website, and &quot;Call now for a free estimate.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Promotion vs distractors B, C, D</i></div>
+</details>
+
 ##### Question 150
 What information is NOT included in the flyer?
 
@@ -10174,6 +15049,14 @@ What information is NOT included in the flyer?
 - C. A phone number
 
 - D. A mailing address
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Có web, dịch vụ, điện thoại; không có địa chỉ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Flyer includes services list, phone number 506-555-0193, and www.johanspowerwashing.ca; no mailing address.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question: eliminate the three present items</i></div>
+</details>
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//f0de89aa-253c-4fb8-b122-1894774562b6/markdown_0/imgs/img_in_image_box_267_220_468_280.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-26T17%3A34%3A25Z%2F-1%2F%2F9e558b944d051f3dfbc65730d563c962f759cc3c662077ee0dbbcaf10d851cde" alt="Image" width="16%" /></div>
 
@@ -10212,6 +15095,14 @@ What is most likely true about Ms. Trujillo?
 
 - D. She is unable to meet with the client in the afternoon.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ông Snyder có câu hỏi về ngân sách → mời Trujillo (người nắm ngân sách).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Snyder has &quot;questions ... about the project&#x27;s budget. Maybe we should ask Maria Trujillo to join us,&quot; implying she has budget information.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference from the invitation reason; A supervisor not stated</i></div>
+</details>
+
 ##### Question 152
 At 10:10 A.M., what does Ms. Kim most likely mean when she writes, "I'll handle it"?
 
@@ -10222,6 +15113,14 @@ At 10:10 A.M., what does Ms. Kim most likely mean when she writes, "I'll handle 
 - C. She will ask the Sunny Owl Restaurant to deliver some food.
 
 - D. She remembered something she should bring to the client meeting.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "Mình sẽ lo việc đó" = mời Trujillo đi ăn trưa.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Snyder suggests asking Trujillo to join; Kim replies &quot;I&#x27;ll handle it,&quot; i.e., she will invite Trujillo to lunch.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>&quot;it&quot; = asking Trujillo; C and D are unrelated</i></div>
+</details>
 
 #### Welcome to the Westover Zoo!
 
@@ -10244,6 +15143,14 @@ What is NOT indicated about the Westover Zoo?
 
 - D. Visitors to the zoo may use paper or electronic tickets.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không nói chỉ mở mùa hè (chỉ nói hè có thêm xe buýt).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>A: infants require tickets; C: westoverzoo.org; D: printed or electronic; &quot;open only in summer&quot; is not stated (extra buses run in summer).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question; trap from &quot;during the summer months, extra buses&quot;</i></div>
+</details>
+
 ##### Question 154
 What is mentioned about transportation in the notice?
 
@@ -10254,6 +15161,14 @@ What is mentioned about transportation in the notice?
 - C. There is limited parking available for visitors.
 
 - D. There is a taxi stand for visitors at the zoo entrance.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>parking area is free but fills quickly</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Our parking area is free but fills quickly&quot; = limited parking.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (fills quickly = limited); A contradicts &quot;free&quot;; B free bus rides not stated</i></div>
+</details>
 
 #### Questions 155-157 refer to the following article.
 
@@ -10278,6 +15193,14 @@ What is suggested about the town of Hillsdale?
 
 - D. It has undergone much construction in recent years.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>ever-growing population</i> + dự án nhà ở mới.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: &quot;To accommodate Hillsdale&#x27;s ever-growing population&quot; the council plans residential housing on an empty lot.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference from purpose clause; A/B/D not stated</i></div>
+</details>
+
 ##### Question 156
 What is indicated about the proposed commercial area?
 
@@ -10288,6 +15211,14 @@ What is indicated about the proposed commercial area?
 - C. It will be built after the new housing is finished.
 
 - D. It will be built on land currently used as a park.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Hai khu nối với nhau bằng công viên có lối đi bộ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: the residential and commercial areas are &quot;connected by a park with paved pathways,&quot; both at the south end.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference; D park is between the areas (not on park land), C timing not sequenced</i></div>
+</details>
 
 ##### Question 157
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -10301,6 +15232,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [3] ngay sau câu về khu dân cư mới.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;This area will include apartments as well as single-family homes&quot; follows the sentence about the residential housing on the empty lot, i.e., [3].</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>&quot;This area&quot; refers to the residential area</i></div>
+</details>
 
 # Mirei Hair Care
 
@@ -10323,6 +15262,14 @@ For whom is the information most likely intended?
 
 - D. The customers who buy Mirei Hair Care products
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Phương án đầu tư cho công ty con → ban điều hành.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Chart lists investment options for a subsidiary with costs and benefits (build facility, buy competitor), a decision for the executives of the parent company.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Audience inference; A investors is plausible but the options are strategic decisions</i></div>
+</details>
+
 ##### Question 159
 What strategy is proposed to make the company more widely known by the public?
 
@@ -10334,6 +15281,14 @@ What strategy is proposed to make the company more widely known by the public?
 
 - D. Option 5
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Better brand awareness</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Option 2, increase advertising budget: main benefit &quot;Better brand awareness.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (brand awareness = widely known by the public)</i></div>
+</details>
+
 ##### Question 160
 What is NOT listed as a potential benefit?
 
@@ -10344,6 +15299,14 @@ What is NOT listed as a potential benefit?
 - C. Lower costs
 
 - D. Higher sales
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không có lợi ích về chỗ trống tuyển dụng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Benefits: larger production capacity (A), lower per-item cost (C), increased sales (D); nothing about job vacancies.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question; paraphrase of the other three</i></div>
+</details>
 
 #### Questions 161-163 refer to the following policy.
 
@@ -10368,6 +15331,14 @@ According to the policy, what is considered a personal item?
 
 - D. A child seat
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>a handbag</i> = túi xách.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Policy: personal item example &quot;a handbag or laptop bag&quot;; a purse = handbag.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase; D &quot;child seats do not count&quot;</i></div>
+</details>
+
 ##### Question 162
 What is indicated about carry-on items?
 
@@ -10378,6 +15349,14 @@ What is indicated about carry-on items?
 - C. They cannot have wheels.
 
 - D. They do not include sporting equipment.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>must not exceed 56 × 36 × 23 cm</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Carry-on &quot;must not exceed 56 x 36 x 23 centimetres.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (must not exceed = maximum size); A contradicts the 20 euro fee</i></div>
+</details>
 
 ##### Question 163
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -10391,6 +15370,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [4] ngay sau câu về đồ cồng kềnh (dụng cụ thể thao, nhạc cụ).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Before bringing large items like these on board, please contact...&quot; follows the sentence about oversized items with special permission, i.e., [4].</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>&quot;large items like these&quot; refers to sports equipment and musical instruments</i></div>
+</details>
 
 #### Questions 164-167 refer to the following invitation.
 
@@ -10417,6 +15404,14 @@ What is indicated about the staff event?
 
 - D. It will take place on April 11.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>11 April</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Invitation: &quot;11 April, 7 to 10 P.M.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Date restatement; A contradicts roughly two hours plus one; B virtual; C friends and family welcome</i></div>
+</details>
+
 ##### Question 165
 What do the event's three competitions have in common?
 
@@ -10428,6 +15423,14 @@ What do the event's three competitions have in common?
 
 - D. They have been featured at previous
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đội thắng đố vui được vé; trang phục và hình nền đẹp nhất được thẻ quà.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Trivia winners get day passes; the attire and virtual-background contests give prizes (&quot;Each prize winner will receive a gift card&quot;).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Common feature = prizes; C only trivia; D trivia is new this year</i></div>
+</details>
+
 ##### Question 166
 Why does the invitation mention Mr. Baxter?
 
@@ -10435,13 +15438,17 @@ Why does the invitation mention Mr. Baxter?
 
 - B. To address an attendee's concerns
 
-- C. To give an example of how people have
+- C. To give an example of how people have participated in the past
 
-participated in the past
+- D. To announce a longtime employee's promotion
 
-- D. To announce a longtime employee's
-
-promotion
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ví dụ năm ngoái về hình nền sáng tạo.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Remember last year when Gerard Baxter sported a white tuxedo ... from the rings of Saturn?&quot; is an example of creative past participation.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Example function of the anecdote</i></div>
+</details>
 
 ##### Question 167
 What most likely is Z-Hype?
@@ -10453,6 +15460,14 @@ What most likely is Z-Hype?
 - C. An e-mail service
 
 - D. An online survey company
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đăng nhập phòng Z-Hype từ nhà, có hình nền ảo → nền tảng họp video.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Employees &quot;sign into the Z-Hype room from their homes&quot; and it hosts virtual backgrounds = a video conferencing platform.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Context inference of an unknown term; B amusement park is Good Stuff Theme Park</i></div>
+</details>
 
 ##### Grotel Corporation
 
@@ -10487,6 +15502,14 @@ For what type of event has Mr. Kolman most likely been hired?
 
 - D. A corporate training workshop
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Annual Employee Recognition and Honors</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Event name &quot;Annual Employee Recognition and Honors&quot; = awards ceremony.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference from event title</i></div>
+</details>
+
 ##### Question 169
 What is indicated about the payment Mr. Kolman will receive?
 
@@ -10497,6 +15520,14 @@ What is indicated about the payment Mr. Kolman will receive?
 - C. It may be increased if the event takes longer than an hour.
 
 - D. It may include transportation costs.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>reimburse… for lodging and transportation up to $500</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Agreement: fee $1,250 plus reimbursement &quot;for lodging and transportation up to $500.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; C not stated (60 minutes fixed)</i></div>
+</details>
 
 ##### Question 170
 What information is included with the contract?
@@ -10509,6 +15540,14 @@ What information is included with the contract?
 
 - D. An agenda for the event
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>see accompanying document</i> về thiết bị.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Clause 2: &quot;Please see accompanying document for specific information&quot; about equipment.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (accompanying document = information included with the contract)</i></div>
+</details>
+
 ##### Question 171
 What is indicated about an event cancellation?
 
@@ -10519,6 +15558,14 @@ What is indicated about an event cancellation?
 - C. It will not be accepted unless a valid reason is provided.
 
 - D. It will not be permitted if the event is two weeks away.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Phải báo trước ít nhất 30 ngày → hai tuần trước thì không được hủy.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Clause 3: cancellation needs written notice at least 30 days before; two weeks is less than 30 days, so it is not permitted.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Calculation trap with 30 days; B phone conflicts with &quot;written&quot;</i></div>
+</details>
 
 #### Questions 172-175 refer to the following online chat discussion.
 
@@ -10535,6 +15582,14 @@ Why does Mr. Tennison want to make a video?
 
 - D. To announce a change in leadership
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>generate business</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Tennison: video could &quot;help potential clients relate better to our team and generate business.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (generate business = generate new business)</i></div>
+</details>
+
 ##### Question 173
 Why did Ms. Mehta not respond to an e-mail?
 
@@ -10545,6 +15600,14 @@ Why did Ms. Mehta not respond to an e-mail?
 - C. She believed her input was not needed.
 
 - D. She misunderstood the contents of the e-mail.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>I wanted to go over it in my mind before sharing</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Mehta: &quot;I drafted an e-mail in response, but I haven&#x27;t sent it yet. I wanted to go over it in my mind before sharing.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (go over it in mind = needed more time to think)</i></div>
+</details>
 
 ##### Question 174
 At 8:21 A.M., what does Ms. Mehta imply when she writes, "I just work at my computer all day"?
@@ -10557,6 +15620,14 @@ At 8:21 A.M., what does Ms. Mehta imply when she writes, "I just work at my comp
 
 - D. She thinks a video about her job would be boring.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> "Ai muốn xem cảnh đó?" → video sẽ nhàm chán.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;I&#x27;m not convinced ... Who would want to watch that?&quot; implies her job would be boring on video.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied meaning; A/B/C not indicated</i></div>
+</details>
+
 ##### Question 175
 What does Ms. Gammon suggest the writers do with a video?
 
@@ -10567,6 +15638,14 @@ What does Ms. Gammon suggest the writers do with a video?
 - C. Make multiple versions of it
 
 - D. Include a company history in it
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>make a few… a short one… a longer one</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Gammon: &quot;Why don&#x27;t we make a few ... a short one ... and a longer one&quot; = multiple versions.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (a few = multiple versions)</i></div>
+</details>
 
 ### Coming soon from Meridian Press! A Life in the Spotlight: The True Story of Ibra Maalim by Helena Mackay
 
@@ -10591,6 +15670,14 @@ What is Mr. Maalim most famous for doing?
 
 - D. Acting in films
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Diễn viên điện ảnh nổi tiếng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: Maalim &quot;created some of the most memorable characters on the big screen&quot; and appeared in motion pictures.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (created characters on screen = acting in films); A/C reflect his original plan and his father</i></div>
+</details>
+
 ##### Question 177
 What does the advertisement indicate about Ms. Mackay?
 
@@ -10601,6 +15688,14 @@ What does the advertisement indicate about Ms. Mackay?
 - C. She worked as a newspaper reporter.
 
 - D. She has collaborated on projects with Ms. Chen.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>her numerous biographical subjects</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: &quot;giving balanced, objective views of her numerous biographical subjects&quot; and &quot;award-winning author.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (numerous biographical subjects = many biographies)</i></div>
+</details>
 
 ##### Question 178
 In the advertisement, the word "accessible" in paragraph 2, line 4, is closest in meaning to
@@ -10613,6 +15708,14 @@ In the advertisement, the word "accessible" in paragraph 2, line 4, is closest i
 
 - D. fashionable
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. understandable</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>accessible prose</i> = văn dễ hiểu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Written in straightforward and accessible prose&quot; = understandable.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractor &quot;open&quot; is a common meaning</i></div>
+</details>
+
 ##### Question 179
 How most likely did Ms. Lugo know Mr. Maalim?
 
@@ -10624,6 +15727,14 @@ How most likely did Ms. Lugo know Mr. Maalim?
 
 - D. She was his favorite director.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Quảng cáo: thông tin lấy từ phỏng vấn người đại diện (<i>agent</i>); review: phỏng vấn Alidia Lugo.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: anecdotes &quot;gathered from extensive interviews with his longtime agent.&quot; Review: &quot;interviews with Alidia Lugo, who knew Maalim well.&quot; Link key: the interviewee who provided the anecdotes.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Role identified in the ad and the name in the review</i></div>
+</details>
+
 ##### Question 180
 According to the review, what is one problem with A Life in the Spotlight?
 
@@ -10634,6 +15745,14 @@ According to the review, what is one problem with A Life in the Spotlight?
 - C. It is too expensive.
 
 - D. It repeats too many well-known anecdotes.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>more than two photographs</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: &quot;I also wish there were more than two photographs.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (more than two photographs = not enough photographs)</i></div>
+</details>
 
 #### Big Strike Lanes
 
@@ -10678,6 +15797,14 @@ What can customers do at Big Strike Lanes?
 
 - D. Reserve the site for parties
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Có nhà hàng tại chỗ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: &quot;savour delicious meals at our own restaurant.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (own restaurant = eat on-site); D not stated</i></div>
+</details>
+
 ##### Question 182
 According to the advertisement, what will happen on May 31?
 
@@ -10688,6 +15815,14 @@ According to the advertisement, what will happen on May 31?
 - C. A special menu will become available.
 
 - D. A game arcade will open.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ưu đãi hết hạn sau 31/5.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ad: deals &quot;will not be available after 31 May!&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (deals no longer available = price reduction ends); B review is dated 16 May</i></div>
+</details>
 
 ##### Question 183
 What does Ms. Shaw suggest in her review?
@@ -10700,6 +15835,14 @@ What does Ms. Shaw suggest in her review?
 
 - D. She used to work in a restaurant as a server.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>I was very sad when Freeside Bowling shut its doors</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: &quot;I was very sad when Freeside Bowling shut its doors last year.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (very sad it closed = regrets); B contradicts her taste</i></div>
+</details>
+
 ##### Question 184
 How much did Ms. Shaw pay for entertainment activities?
 
@@ -10711,6 +15854,14 @@ How much did Ms. Shaw pay for entertainment activities?
 
 - D. £50
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Con số / giá tiền + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Có chơi VR → gói Platinum £40.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: she used a promotional offer and enjoyed &quot;the bowling ... and the virtual reality.&quot; Ad: Platinum Deal (two hours of bowling and two VR experiences) costs 40 pounds; Gold has gaming credit, not VR. Link key: virtual reality.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trap: the values (50 pounds) are &quot;value&quot; not price; Gold is 30</i></div>
+</details>
+
 ##### Question 185
 In the review, the word "situated" in paragraph 3, line 2, is closest in meaning to
 
@@ -10721,6 +15872,14 @@ In the review, the word "situated" in paragraph 3, line 2, is closest in meaning
 - C. parked
 
 - D. positioned
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. positioned</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>situated</i> = nằm ở.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Big Strike Lanes is situated in a large shopping centre&quot; = positioned/located.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Common-meaning trap (established, arranged)</i></div>
+</details>
 
 ### Minutes of the Special Meeting of the Arlford City Council 14 January
 
@@ -10755,6 +15914,14 @@ For what activity will Winglite Airlines and the city of Arlford share expenses?
 
 - D. Paying for more security personnel
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Chia đôi chi phí tuyển và đào tạo nhân viên an ninh, cấp cứu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Minutes: costs to be split include &quot;recruitment and training of additional security and emergency services workers.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trap C (road) is covered 100 percent by the city; A/B not mentioned</i></div>
+</details>
+
 ##### Question 187
 What does the article indicate about Winglite Airlines?
 
@@ -10765,6 +15932,14 @@ What does the article indicate about Winglite Airlines?
 - C. It has been in operation for many decades.
 
 - D. It currently offers flights from Arlford to several destinations.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>flying to smaller markets… not served by the main airlines</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: Winglite is a start-up &quot;specialising in flying to smaller markets ... not served by the main airlines,&quot; i.e., less popular airports.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (smaller markets = less popular airports); C contradicts start-up; D &quot;currently&quot; contradicts the future plan</i></div>
+</details>
 
 ##### Question 188
 When should the Aviation Boulevard project be completed?
@@ -10777,6 +15952,14 @@ When should the Aviation Boulevard project be completed?
 
 - D. By December 31
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Làm xong trước khi hãng khai trương, chuyến đầu ngày 1/8.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Minutes (14 Jan): work on the boulevard will be &quot;finished before the airline begins its service.&quot; Article (18 March): inaugural flight &quot;1 August.&quot; Link key: Winglite Airlines start of service.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Date trap: 14 Jan, 18 Mar, 31 Dec are other dates</i></div>
+</details>
+
 ##### Question 189
 According to the e-mail, what will Mr. Girard do if he moves into the apartment?
 
@@ -10788,6 +15971,14 @@ According to the e-mail, what will Mr. Girard do if he moves into the apartment?
 
 - D. Share a bathroom
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đặt cọc một tháng tiền thuê = $850.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: rent is &quot;$850, including utilities&quot; and &quot;security deposit of one month&#x27;s rent&quot; = $850.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Calculation by inference; A/B/D contradict the features he wants (parking, furnished, private bath)</i></div>
+</details>
+
 ##### Question 190
 Where will Mr. Girard usually stay when he is not in Arlford?
 
@@ -10798,6 +15989,14 @@ Where will Mr. Girard usually stay when he is not in Arlford?
 - C. In Eider Bay
 
 - D. In West Linport
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 3 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Tuyến mới của hãng chỉ bay Arlford – Cranton → ở khách sạn gần sân bay Cranton.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: he works for Winglite on &quot;the airline&#x27;s new route out of Arlford&quot; and stays in a hotel near the destination airport half the week. Article (18 March): Winglite&#x27;s route from Arlford is to Cranton. Minutes: airline service is set to start at Arlford. Link key: Winglite&#x27;s new Arlford route/destination.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Eider Bay and West Linport are future or personal locations (distractors); Darwin is only the airline base</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 191-195 refer to the following Web pages and online review.</div> </div>
 
@@ -10824,6 +16023,14 @@ What is indicated about Forklift Training Academy courses?
 
 - D. They are difficult to pass.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> (Trang web chỉ có dạng ảnh.) <i>transitioned from in-person to online courses only</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: &quot;I was concerned about taking the course online.&quot; (Web page image was not OCR&#x27;d; the answer is supported by the review only.)</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Detail from the review; the web page content is missing in the OCR</i></div>
+</details>
+
 ##### Question 192
 What is suggested about Mr. Durand?
 
@@ -10834,6 +16041,11 @@ What is suggested about Mr. Durand?
 - C. His exam scores were posted online.
 
 - D. His certification was about to expire.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Phải đặt và trả tiền trước ít nhất 3 ngày.</div>
+</details>
 
 ##### Question 193
 Who taught the course on April 14?
@@ -10846,6 +16058,14 @@ Who taught the course on April 14?
 
 - D. Mr. Minors
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Theo trang đăng ký, ngày 14/4 do Ms. Baldwin dạy.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Needs the course schedule (image, not OCR&#x27;d) showing who taught on April 14; the review only names Ms. Gogh. Answer is a guess.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Instructor name is in the schedule (missing); Gogh is a distractor from the review</i></div>
+</details>
+
 ##### Question 194
 When did Ms. Dye take her course?
 
@@ -10857,6 +16077,14 @@ When did Ms. Dye take her course?
 
 - D. On April 21
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bà Dye học lớp <b>cấp lại chứng chỉ</b> với Ms. Gogh → 7/4.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review (May 18): &quot;last month&quot; (April), trainer Ms. Gogh, certificate the same day. The schedule (image) would show Ms. Gogh&#x27;s April date. Answer is a guess. Link key: Ms. Gogh.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trainer name links to the date; missing image</i></div>
+</details>
+
 ##### Question 195
 What can be concluded about Ms. Dye?
 
@@ -10867,6 +16095,14 @@ What can be concluded about Ms. Dye?
 - C. She writes reviews for a living.
 
 - D. She is an experienced forklift operator.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Học cấp lại chứng chỉ → đã có kinh nghiệm lái xe nâng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: took the class for &quot;recertification&quot; and mentions &quot;my original certification&quot; and the challenges forklift operators face.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference (recertification = experienced operator); C is wrong</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 196-200 refer to the following e-mails and chart.</div> </div>
 
@@ -10887,6 +16123,14 @@ What is suggested in the first e-mail about products made by Stickers Be Yours?
 
 - D. They remain sticky even in wet weather.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>waterproof… adhere to any surface</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>First e-mail: stickers are &quot;waterproof and resist fading&quot; (adhere to any surface), i.e., remain sticky even in wet weather.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (waterproof = wet weather); B contradicts &quot;any surface&quot;; C contradicts &quot;sell to audiences&quot;; numbered 196 (Q199 printed next in OCR)</i></div>
+</details>
+
 ##### Question 199
 What can be concluded about Nick Beats' most popular sticker?
 
@@ -10897,6 +16141,14 @@ What can be concluded about Nick Beats' most popular sticker?
 - C. It was designed with the help of Mr. Cheung.
 
 - D. It features Ms. Farina's signature.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 3 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mẫu ghép ảnh được nhiều lời khen nhất, <i>we appreciate your help with it</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Second e-mail: the &quot;group collage&quot; got the most comments, &quot;we appreciate your help with it,&quot; and Farina did the original photography. Chart: item 1028 &quot;Portrait Shots&quot; = collage of all five musicians. First e-mail: Cheung offers to make stickers. Link key: group collage = item 1028.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractor D (Farina took the photographs, no signature) and A (given away not stated)</i></div>
+</details>
 
 ##### Question 197
 What is most likely true about Mr. Cheung?
@@ -10909,6 +16161,14 @@ What is most likely true about Mr. Cheung?
 
 - D. He met Ms. Bledstone at a Nick Beats performance.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bắt chước phong cách của Grimm; Grimm là tay trống (sticker <i>drum set</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>First e-mail: he models his playing style on Matt Grimm. Chart: item 1022 &quot;Matt Grimm&#x27;s drum set and signature.&quot; Link key: Matt Grimm = drummer.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Two-step identification; B is Bledstone&#x27;s role</i></div>
+</details>
+
 ##### Question 200
 What is indicated about the sticker ordered by Ms. Bledstone?
 
@@ -10920,6 +16180,14 @@ What is indicated about the sticker ordered by Ms. Bledstone?
 
 - D. It is the most expensive sticker sold.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Con số / giá tiền + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đặt thêm mã 1056 = $4.99, đắt nhất.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Second e-mail: reorder item &quot;1056.&quot; Chart: 1056 &quot;Nick Beats Band&quot; at $4.99, the highest price. Link key: item number 1056.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Item code matching; B album cover is item 1042; C &quot;reordered before&quot; (the e-mail is the first reorder)</i></div>
+</details>
+
 ##### Question 198
 How much does a sticker that features a vehicle cost?
 
@@ -10930,6 +16198,14 @@ How much does a sticker that features a vehicle cost?
 - C. $3.45
 
 - D. $4.99
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Con số / giá tiền</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Tour Bus</i> $2.99.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Chart: item 1035 &quot;Tour Bus&quot; (the group&#x27;s famous striped bus) retails at $2.99.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Vehicle = tour bus</i></div>
+</details>
 
 Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check your work.
 
@@ -10966,6 +16242,11 @@ Our ----- indicate that your company car is due for regular service next month.
 
 - D. recordable
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. records</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Our records indicate…</i> = theo hồ sơ của chúng tôi.</div>
+</details>
+
 ##### Question 102
 The ----- entrance to our office building will be closed on Tuesday because of construction.
 
@@ -10976,6 +16257,11 @@ The ----- entrance to our office building will be closed on Tuesday because of c
 - C. sure
 
 - D. early
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. main</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>main entrance</i> = lối vào chính.</div>
+</details>
 
 ##### Question 105
 The Chocobonne Corporation says it plans to open 28 new ----- in the next three years.
@@ -10988,6 +16274,11 @@ The Chocobonne Corporation says it plans to open 28 new ----- in the next three 
 
 - D. storage
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. stores</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>28 new stores</i> (danh từ số nhiều).</div>
+</details>
+
 ##### Question 106
 The Lofstrom Shopping Center is ---- new tenants to rent vacant retail space.
 
@@ -10998,6 +16289,11 @@ The Lofstrom Shopping Center is ---- new tenants to rent vacant retail space.
 - C. facing
 
 - D. relating
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. seeking</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>seeking new tenants</i> = tìm người thuê mới.</div>
+</details>
 
 ##### Question 103
 Any document marked "Confidential" must be handled and stored -----.
@@ -11010,6 +16306,11 @@ Any document marked "Confidential" must be handled and stored -----.
 
 - D. more careful
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. carefully</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa <i>handled and stored</i>.</div>
+</details>
+
 ##### Question 104
 The new technology ----- trains to switch quickly between electric and diesel modes.
 
@@ -11020,6 +16321,11 @@ The new technology ----- trains to switch quickly between electric and diesel mo
 - C. allows
 
 - D. conducts
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. allows</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>allow + O + to V</i>.</div>
+</details>
 
 ##### Question 107
 The painter Marion Settimi developed ----- distinctive style during the years she lived in Indonesia.
@@ -11032,6 +16338,11 @@ The painter Marion Settimi developed ----- distinctive style during the years sh
 
 - D. she
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. her</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>her distinctive style</i>.</div>
+</details>
+
 ##### Question 108
 The company picnic at Floral Park will begin at noon on Saturday and end ----- 4:00 P.M.
 
@@ -11042,6 +16353,11 @@ The company picnic at Floral Park will begin at noon on Saturday and end ----- 4
 - C. outside
 
 - D. within
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. around</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>end around 4:00 P.M.</i> = kết thúc khoảng 4 giờ.</div>
+</details>
 
 ##### Question 109
 Last Monday, the department ----- Mr. Okada's recent promotion to manager.
@@ -11054,6 +16370,11 @@ Last Monday, the department ----- Mr. Okada's recent promotion to manager.
 
 - D. celebrates
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. celebrated</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Last Monday</i> → quá khứ đơn.</div>
+</details>
+
 ##### Question 110
 Ms. Xuan's ----- for reducing the company's energy consumption is worth considering.
 
@@ -11064,6 +16385,11 @@ Ms. Xuan's ----- for reducing the company's energy consumption is worth consider
 - C. meaning
 
 - D. proposal
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. proposal</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>proposal for reducing…</i> = đề xuất giảm…</div>
+</details>
 
 ##### Question 111
 Dr. Grayston ----- accepted the position of school superintendent.
@@ -11076,6 +16402,11 @@ Dr. Grayston ----- accepted the position of school superintendent.
 
 - D. enthusiasm
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. enthusiastically</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa <i>accepted</i>.</div>
+</details>
+
 ##### Question 112
 Austina Gallery is located at the northern end of Arch Street, ----- the Verdigris Bistro.
 
@@ -11086,6 +16417,11 @@ Austina Gallery is located at the northern end of Arch Street, ----- the Verdigr
 - C. across
 
 - D. plus
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. opposite</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>opposite the Bistro</i> = đối diện (giới từ). <i>across</i> phải đi với <i>from</i>.</div>
+</details>
 
 ##### Question 113
 Mr. Garcia promised ----- a mentor to Ms. Winston after he retired.
@@ -11098,6 +16434,11 @@ Mr. Garcia promised ----- a mentor to Ms. Winston after he retired.
 
 - D. had become
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. to become</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>promise to V</i>.</div>
+</details>
+
 ##### Question 114
 Once considered a specialty product, shoes made from recycled materials are now ----- available.
 
@@ -11108,6 +16449,11 @@ Once considered a specialty product, shoes made from recycled materials are now 
 - C. enough
 
 - D. closely
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. widely</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>widely available</i> = có bán rộng rãi.</div>
+</details>
 
 ##### Question 115
 Yuping University has formed ----- with local businesses to create internship opportunities for its students.
@@ -11120,6 +16466,11 @@ Yuping University has formed ----- with local businesses to create internship op
 
 - D. partnerships
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. partnerships</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>form partnerships with</i> = thiết lập quan hệ hợp tác.</div>
+</details>
+
 ##### Question 116
 Our market research shows that buyers with limited ----- of a product often look for information from expert sources.
 
@@ -11130,6 +16481,11 @@ Our market research shows that buyers with limited ----- of a product often look
 - C. perception
 
 - D. consideration
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. knowledge</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>limited knowledge of a product</i> = hiểu biết hạn chế về sản phẩm.</div>
+</details>
 
 ##### Question 117
 ----- is preventing the graphic artists from accessing the image files in the main database.
@@ -11142,6 +16498,11 @@ Our market research shows that buyers with limited ----- of a product often look
 
 - D. Whoever
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. Something</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Something is preventing…</i> = có gì đó đang chặn.</div>
+</details>
+
 ##### Question 118
 ----- a delay, Thaintech completed the renovation of its warehouse before the target date of April 7.
 
@@ -11152,6 +16513,11 @@ Our market research shows that buyers with limited ----- of a product often look
 - C. According to
 
 - D. However
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. Despite</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Despite + danh từ</i>.</div>
+</details>
 
 ##### Question 119
 While its credit card system is offline, the Lexler Department Store is ----- closed for business.
@@ -11164,6 +16530,11 @@ While its credit card system is offline, the Lexler Department Store is ----- cl
 
 - D. effectively
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. effectively</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>is effectively closed</i> = coi như đóng cửa.</div>
+</details>
+
 ##### Question 120
 Nearly half of the toy manufacturers surveyed reported increased sales ---- the last two years.
 
@@ -11174,6 +16545,11 @@ Nearly half of the toy manufacturers surveyed reported increased sales ---- the 
 - C. against
 
 - D. over
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. over</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>over the last two years</i>.</div>
+</details>
 
 ##### Question 121
 Nonprofit groups ----- up to three applications for funding consideration during any given calendar year.
@@ -11186,6 +16562,11 @@ Nonprofit groups ----- up to three applications for funding consideration during
 
 - D. may submit
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. may submit</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu cần động từ chính, chủ động.</div>
+</details>
+
 ##### Question 122
 Critics reacted ----- to the new musical, praising the exciting design and impressive choreography.
 
@@ -11196,6 +16577,11 @@ Critics reacted ----- to the new musical, praising the exciting design and impre
 - C. uncertainly
 
 - D. continuously
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. favorably</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>reacted favorably</i> = phản ứng tích cực (khen ngợi).</div>
+</details>
 
 ##### Question 123
 Clausen's Notes is well-known ----- writers and publishers for its in-depth reviews of books.
@@ -11208,6 +16594,11 @@ Clausen's Notes is well-known ----- writers and publishers for its in-depth revi
 
 - D. in between
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. among</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>well-known among writers</i> = nổi tiếng trong giới nhà văn.</div>
+</details>
+
 ##### Question 124
 The ongoing shortage of hardwood has caused the price of certain furniture items to -----.
 
@@ -11218,6 +16609,11 @@ The ongoing shortage of hardwood has caused the price of certain furniture items
 - C. soar
 
 - D. fling
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. soar</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Giá <b>tăng vọt</b>.</div>
+</details>
 
 ##### Question 125
 Attach the ----- tray to any flat steel surface for easy storage of and access to household or automotive tools.
@@ -11230,6 +16626,11 @@ Attach the ----- tray to any flat steel surface for easy storage of and access t
 
 - D. magnetically
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. magnetic</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>magnetic tray</i> = khay nam châm.</div>
+</details>
+
 ##### Question 126
 The customer ----- to buy an extended warranty on the dishwasher, so it is not eligible for a free repair.
 
@@ -11240,6 +16641,11 @@ The customer ----- to buy an extended warranty on the dishwasher, so it is not e
 - C. omitted
 
 - D. dismissed
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. neglected</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>neglect to V</i> = quên/bỏ qua không làm.</div>
+</details>
 
 ##### Question 127
 Although much of the material was technical in nature, the audience appeared to remain ----- throughout Ms. Sharma's presentation.
@@ -11252,6 +16658,11 @@ Although much of the material was technical in nature, the audience appeared to 
 
 - D. engagement
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. engaged</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>remain engaged</i> = vẫn tập trung, cuốn hút.</div>
+</details>
+
 ##### Question 128
 ----- fresh fruit and vegetables, vendors at the Wattville Farm Market also sell various handmade goods.
 
@@ -11263,6 +16674,11 @@ Although much of the material was technical in nature, the audience appeared to 
 
 - D. As a result of
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. In addition to</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Ngoài rau quả, còn bán đồ thủ công.</div>
+</details>
+
 ##### Question 129
 ----- route they choose, it should take the management team approximately four hours to drive to the hotel in Antibes.
 
@@ -11273,6 +16689,11 @@ Although much of the material was technical in nature, the audience appeared to 
 - C. Somewhere
 
 - D. Whichever
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. Whichever</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Whichever route they choose</i> = dù chọn đường nào.</div>
+</details>
 
 ##### Question 130
 All Baraantec Ltd. hand tools undergo
@@ -11288,6 +16709,11 @@ defects.
 - C. returnable
 
 - D. portable
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. rigorous</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>rigorous inspections</i> = kiểm tra nghiêm ngặt.</div>
+</details>
 
 ### Part 6
 
@@ -11306,6 +16732,11 @@ Retro Crafters focuses on furniture designs from the 1950s through the 1970s. Ou
 
 - D. light
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. wood</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Mắt gỗ, vết xước → gỗ tự nhiên.</div>
+</details>
+
 ##### Question 132
 - A. They can easily be covered by paint.
 
@@ -11314,6 +16745,11 @@ Retro Crafters focuses on furniture designs from the 1950s through the 1970s. Ou
 - C. They can reduce the value of an item.
 
 - D. They are what makes each piece unique.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> "Không phải khuyết điểm. <b>Chúng làm mỗi món đồ trở nên độc nhất</b>".</div>
+</details>
 
 ##### Question 133
 - A. Moreover
@@ -11324,6 +16760,11 @@ Retro Crafters focuses on furniture designs from the 1950s through the 1970s. Ou
 
 - D. Regardless
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. Moreover</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Bổ sung thêm ưu điểm (tiết kiệm diện tích sàn).</div>
+</details>
+
 ##### Question 134
 - A. retail
 
@@ -11332,6 +16773,11 @@ Retro Crafters focuses on furniture designs from the 1950s through the 1970s. Ou
 - C. retailers
 
 - D. retailed
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. retailers</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>furniture retailers</i> = nhà bán lẻ đồ nội thất.</div>
+</details>
 
 ##### Caring for Your Rice Cooker
 
@@ -11356,6 +16802,11 @@ cooker should never be submerged in water.  $ \underline{\text{138}} $. , gently
 
 - D. components
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. components</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chờ các <b>bộ phận</b> nguội hẳn.</div>
+</details>
+
 ##### Question 136
 - A. was
 
@@ -11364,6 +16815,11 @@ cooker should never be submerged in water.  $ \underline{\text{138}} $. , gently
 - C. is being
 
 - D. has been
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. can be</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>can be damaged</i> = có thể bị hỏng.</div>
+</details>
 
 ##### Question 138
 - A. If not
@@ -11374,6 +16830,11 @@ cooker should never be submerged in water.  $ \underline{\text{138}} $. , gently
 
 - D. In that case
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. Instead</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Không ngâm nước, <b>thay vào đó</b> lau bằng khăn ẩm.</div>
+</details>
+
 ##### Question 137
 - A. Then, use a soft brush or sponge to finish cleaning.
 
@@ -11382,6 +16843,11 @@ cooker should never be submerged in water.  $ \underline{\text{138}} $. , gently
 - C. Finally, place the cooker back in its box.
 
 - D. A light will go on when the rice is cooked.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sau khi ngâm → "dùng bàn chải mềm hoặc miếng bọt biển để rửa nốt".</div>
+</details>
 
 To: Britta Gehring <bgehring@gehringaccounting.com>
 
@@ -11420,6 +16886,11 @@ Zubiondo Design
 
 - D. extensively
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. extensive</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>extensive notes</i> = ghi chép kỹ.</div>
+</details>
+
 ##### Question 140
 - A. Someone
 
@@ -11428,6 +16899,11 @@ Zubiondo Design
 - C. Theirs
 
 - D. Each
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. Each</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Each represents…</i> (mỗi bản phác thảo).</div>
+</details>
 
 ##### Question 142
 - A. researching
@@ -11438,6 +16914,11 @@ Zubiondo Design
 
 - D. finalizing
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. finalizing</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>finalizing the design</i> = hoàn thiện thiết kế.</div>
+</details>
+
 ##### Question 141
 - A. Nonetheless, they all give an impression of trustworthiness and precision.
 
@@ -11446,6 +16927,11 @@ Zubiondo Design
 - C. Even so, designing a logo can be a costly process.
 
 - D. I recommend using fewer colors than were initially requested.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Câu trước nói các mẫu khác nhau → "Dù vậy, tất cả đều toát lên sự đáng tin và chính xác".</div>
+</details>
 
 LONDON (2 June)—Locke and Jeeves, the owner of Fernsby Shoes and Athletic Footwear, announced today the acquisition of Shipley Designs for an  (143) amount. The  (144) comes as no surprise to shoe industry insiders, who have speculated for some time about Shipley's financial challenges. Five of the six Shipley stores will be part of the Locke and Jeeves deal, including the flagship store here in London.  (145)
 
@@ -11460,6 +16946,11 @@ Locke and Jeeves CEO Zachary Thayne has expressed enthusiasm about the deal. "Sh
 
 - D. undisclosed
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. undisclosed</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>an undisclosed amount</i> = số tiền không công bố.</div>
+</details>
+
 ##### Question 144
 - A. trade
 
@@ -11468,6 +16959,11 @@ Locke and Jeeves CEO Zachary Thayne has expressed enthusiasm about the deal. "Sh
 - C. purchase
 
 - D. appointment
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. purchase</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Thương vụ mua lại.</div>
+</details>
 
 ##### Question 146
 - A. will be adding
@@ -11478,6 +16974,11 @@ Locke and Jeeves CEO Zachary Thayne has expressed enthusiasm about the deal. "Sh
 
 - D. would have added
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. will be adding</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Dự đoán đóng góp trong tương lai.</div>
+</details>
+
 ##### Question 145
 - A. The fate of the shop in Leeds is still unknown.
 
@@ -11486,6 +16987,11 @@ Locke and Jeeves CEO Zachary Thayne has expressed enthusiasm about the deal. "Sh
 - C. Customers can now take advantage of a great deal.
 
 - D. All London locations are open seven days a week.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Năm trong sáu cửa hàng được mua → "Số phận cửa hàng ở Leeds chưa rõ".</div>
+</details>
 
 ### Part 7
 
@@ -11518,6 +17024,14 @@ What is the purpose of the event?
 
 - D. To introduce a new company executive to employees
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>welcome Ms. Misun Lee as Chief Financial Officer</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Invitation: &quot;welcome Ms. Misun Lee as Chief Financial Officer&quot; = introduce a new executive to colleagues.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase (CFO -&gt; company executive; colleagues -&gt; employees); distractor A/C (management position/conference)</i></div>
+</details>
+
 ##### Question 148
 According to the invitation, what will happen at the event?
 
@@ -11528,6 +17042,14 @@ According to the invitation, what will happen at the event?
 - C. Financial reports will be distributed.
 
 - D. The chief financial officer will receive an award.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>pastries and coffee</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;pastries and coffee&quot; = refreshments.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Hypernym paraphrase; B/C/D are unsupported (host is President&#x27;s Office, no speech/award stated)</i></div>
+</details>
 
 #### Questions 149-150 refer to the following e-mail.
 
@@ -11544,6 +17066,14 @@ What is most likely true about Mr. Hong's account?
 
 - D. It has not been used in a few months.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>After six months of inactivity…</i></div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;have not logged in recently&quot;; accounts close after six months inactivity; deactivation 20 July (sent 20 June), so about 5 months unused = &quot;a few months&quot;.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Vague-quantity paraphrase; distractor B reuses the date &quot;June 20&quot;; A reuses password sentence</i></div>
+</details>
+
 ##### Question 150
 What must Mr. Hong do to maintain access to his account?
 
@@ -11554,6 +17084,14 @@ What must Mr. Hong do to maintain access to his account?
 - C. Renew his annual membership
 
 - D. Speak with a customer service agent
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>sign in to the app before that date</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;avoid account deactivation on 20 July, simply sign in ... before that date&quot; = sign in before July 20.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Rephrased date; distractor A (reply) and D (contact support is only optional)</i></div>
+</details>
 
 #### Questions 151-152 refer to the following online chat discussion.
 
@@ -11595,7 +17133,8 @@ John Dakers [9:43 A.M.]
 
 Thank you very much. I appreciate it.
 
-51. Why does Mr. Dakers contact HVAC Customer Service?
+##### Question 151
+Why does Mr. Dakers contact HVAC Customer Service?
 
 - A. To express displeasure over the quality of work
 
@@ -11604,6 +17143,14 @@ Thank you very much. I appreciate it.
 - C. To ensure that a service will be provided as planned
 
 - D. To cancel a service he no longer needs
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Hỏi kỹ thuật viên đã trên đường đến chưa.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Chat opening: appointment scheduled this morning, asks if technician is on the way = make sure the service happens as planned. (OCR prints number as &quot;51&quot;.)</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase of intent; distractor D cancel, A complaint arises later only about timing</i></div>
+</details>
 
 ##### Question 152
 At 9:36 A.M., what does Mr. Dakers most likely mean when he writes, "But I need to get to the office soon"?
@@ -11615,6 +17162,14 @@ At 9:36 A.M., what does Mr. Dakers most likely mean when he writes, "But I need 
 - C. A technician should go to Mr. Dakers' workplace.
 
 - D. An afternoon appointment is unacceptable.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không thể chờ đến buổi chiều.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Agent says technician comes 3-5 P.M.; Dakers had taken morning off and &quot;need(s) to get to the office soon&quot; = afternoon slot unacceptable.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied meaning; literal-reading trap (B far away, C technician to office)</i></div>
+</details>
 
 #### MEMO
 
@@ -11647,6 +17202,14 @@ The word "ordinarily" in paragraph 1, line 1, is closest in meaning to
 
 - D. minimally
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. typically</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>ordinarily</i> = thường thường.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;the period ... is ordinarily our busiest time&quot; = typically.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Common-word synonym; distractor A/C/D are other senses</i></div>
+</details>
+
 ##### Question 154
 What is indicated about Bellerson Financial?
 
@@ -11658,6 +17221,14 @@ What is indicated about Bellerson Financial?
 
 - D. It has built a reputation among customers for its excellent service.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>a policy for which Bellerson Financial is highly regarded</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Memo: &quot;a policy for which Bellerson Financial is highly regarded by its customers&quot; (service of the highest quality) = reputation for excellent service.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase (highly regarded -&gt; built a reputation); distractor C extended hours</i></div>
+</details>
+
 ##### Question 155
 What is the deadline for requesting vacation time?
 
@@ -11668,6 +17239,14 @@ What is the deadline for requesting vacation time?
 - C. June 1
 
 - D. August 31
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>submit your request by Friday, April 28</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;kindly submit your request by Friday, April 28.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trap: May 8 is the reply date; June 1/Aug 31 are the vacation period</i></div>
+</details>
 
 # Teleteknic Unveils New Phone Models
 
@@ -11688,6 +17267,14 @@ How does the Cirro model differ from the other new phone models?
 
 - D. It has a screen on the front and the back.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Cirro có bút cảm ứng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: Cirro &quot;also includes an electronic stylus&quot; = additional tool.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase (stylus -&gt; tool); distractors on memory/screen unsupported</i></div>
+</details>
+
 ##### Question 157
 What feature of the phones has had the greatest improvement?
 
@@ -11699,6 +17286,14 @@ What feature of the phones has had the greatest improvement?
 
 - D. The speaker
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>significant improvement to the camera</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;significant improvement to the camera.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Other features described only as minor/battery</i></div>
+</details>
+
 ##### Question 158
 Where can customers currently order the new phones?
 
@@ -11709,6 +17304,14 @@ Where can customers currently order the new phones?
 - C. At technical trade shows
 
 - D. At the company's online shop
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Preorders… at Teleteknic's online shop</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Preorders are now being accepted at Teleteknic&#x27;s online shop.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Time trap: store shelves only in November; trade show is next month</i></div>
+</details>
 
 #### Questions 159-160 refer to the following online post.
 
@@ -11729,6 +17332,14 @@ What is Ms. Finley's film project about?
 
 - D. A manufacturing company's innovative policies
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý chính / chủ đề</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Từ thị trấn công nghiệp xuống cấp thành trung tâm xây dựng xanh.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Post: film on how Tottenton evolved from decaying industrial town to sustainable-building hub = town&#x27;s transformation over time.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Abstract paraphrase; distractor D (manufacturing) taken from &#x27;industrial&#x27;</i></div>
+</details>
+
 ##### Question 160
 What does Ms. Finley want people to do?
 
@@ -11739,6 +17350,14 @@ What does Ms. Finley want people to do?
 - C. Provide constructive criticism
 
 - D. Avoid entering an area during filming
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Kể lại trải nghiệm trong giai đoạn chuyển đổi.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Seeks residents 50+ who &quot;can tell me what it was like&quot;, call and interview = share memories.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; A screening/C criticism unsupported</i></div>
+</details>
 
 ##### Personal Statements
 
@@ -11761,6 +17380,14 @@ For whom are the instructions most likely intended?
 
 - D. Human resources staff
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Hướng dẫn viết bản giới thiệu bản thân khi xin việc.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Text explains how to compose a personal statement for a job applicant.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Audience inferred from topic; distractor C (writers)</i></div>
+</details>
+
 ##### Question 162
 What is NOT mentioned as something to be considered when writing a personal statement?
 
@@ -11772,6 +17399,14 @@ What is NOT mentioned as something to be considered when writing a personal stat
 
 - D. Examples of past challenges
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không nhắc học vấn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Mentioned: word count (A), word choice/tone (B), examples of challenges (D). Education details never mentioned.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question requires checking all options</i></div>
+</details>
+
 ##### Question 163
 What can be concluded about the final paragraph of a personal statement?
 
@@ -11782,6 +17417,14 @@ What can be concluded about the final paragraph of a personal statement?
 - C. It should appear on the second page.
 
 - D. It should be easily customizable.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>create a separate version of this paragraph for each position</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;you can create a separate version of this paragraph for each position you apply for&quot; = easily customizable.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (separate version per job -&gt; customizable); B contradicts proofreading advice</i></div>
+</details>
 
 ##### Question 164
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -11795,6 +17438,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [3] ngay sau câu về làm việc và học hỏi từ người khác.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Sentence gives an example of learning from others; fits after &quot;examples of how you work with or learn from others&quot; = [3].</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Discourse cue: &quot;You might explain, for instance&quot; follows the general advice sentence</i></div>
+</details>
 
 ## V
 
@@ -11843,6 +17494,14 @@ What is the main purpose of the text-message chain?
 
 - D. To thank a coworker for an in-depth report
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý chính / chủ đề</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bắt đầu bằng cập nhật tình trạng cầu Crosley.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Jeon reports on-site on Crosley Bridge condition, maintenance needs, inspection suggestion; scheduling of lunch and Lentox trip is secondary. Note A is a plausible competitor.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Multi-topic chat; choose dominant thread; C is only asked (Karl), never resolved</i></div>
+</details>
+
 ##### Question 166
 Where is Ms. Jeon at the time of the text-message chain?
 
@@ -11853,6 +17512,14 @@ Where is Ms. Jeon at the time of the text-message chain?
 - C. At the Crosley Bridge
 
 - D. At a site in Lentox County
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>I am on-site at the Crosley Bridge now</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>8:04 &quot;I am on-site at the Crosley Bridge now.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractor D (Lentox County) is later plan; cafeteria is the 12:30 lunch</i></div>
+</details>
 
 ##### Question 167
 What can be concluded about Mr. Scholz?
@@ -11865,6 +17532,14 @@ What can be concluded about Mr. Scholz?
 
 - D. He directs Ms. Jeon's work.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ông giao việc cho Jeon (<i>I asked you to go to Lentox County</i>).</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Karl asks her to check a bridge in Lentox County (&quot;I know I asked you&quot;) and lets her defer = he directs her work.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied role from behavior; B/A distractors relate to Ana Vega</i></div>
+</details>
+
 ##### Question 168
 At 8:18 A.M., what does Ms. Jeon most likely mean when she writes, "I'll be there by 12:30"?
 
@@ -11875,6 +17550,14 @@ At 8:18 A.M., what does Ms. Jeon most likely mean when she writes, "I'll be ther
 - C. She intends to be at a meeting.
 
 - D. She will arrive after her lunch break.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đồng ý dự cuộc họp lúc 12:30.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ana asked for a &quot;12:30 lunch meeting&quot; about bridge inspection; Jeon replies she will be there = will attend meeting.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Literal-meaning trap: lunch (D) vs. meeting</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 169-171 refer to the following e-mail.</div> </div>
 
@@ -11891,6 +17574,14 @@ What is the purpose of the e-mail?
 
 - D. To welcome a recently hired employee
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mời tham gia hội đồng tuyển chọn, trả phí như chuyên gia tư vấn bên ngoài.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail asks him to join search committee, &quot;compensate you at the standard rate for external consultants&quot; = consulting opportunity.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Job-opening (C) trap: the opening exists but the e-mail is about committee, not announcing it</i></div>
+</details>
+
 ##### Question 170
 What is indicated about Mr. Fukiyama?
 
@@ -11902,6 +17593,14 @@ What is indicated about Mr. Fukiyama?
 
 - D. He often serves on search committees.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Từng giữ vị trí Senior Director trước khi nghỉ hưu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;held this role prior to your retirement&quot; (Senior Director of Graphic Design) = former senior executive.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Title paraphrase (Senior Director -&gt; senior executive); C is Jake Harris</i></div>
+</details>
+
 ##### Question 171
 What does Ms. Acro offer to send to Mr. Fukiyama?
 
@@ -11912,6 +17611,14 @@ What does Ms. Acro offer to send to Mr. Fukiyama?
 - C. A collection of résumés
 
 - D. A revised meeting agenda
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>send you the applications with their respective résumés</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;I will send you the applications with their respective résumés and a timeline.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym (applications with résumés -&gt; collection of résumés); timeline is not a payment schedule</i></div>
+</details>
 
 #### Questions 172-175 refer to the following article.
 
@@ -11938,6 +17645,14 @@ What is indicated in the article about the upgrades to exhibits?
 
 - D. They led to an increase in ticket prices
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>one week before the scheduled completion date</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;opened on Monday, one week before the scheduled completion date&quot; = ahead of schedule.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; B trap: Arnsby funded, not designed</i></div>
+</details>
+
 ##### Question 173
 What is suggested about Ms. Wert?
 
@@ -11949,6 +17664,14 @@ What is suggested about Ms. Wert?
 
 - D. She previously worked for a technology
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Every week… I interview patrons</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ms. Wert: &quot;Every week in the museum lobby, I interview patrons&quot; = meets visitors in person.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Inference from action; distractors on career history unsupported</i></div>
+</details>
+
 ##### Question 174
 What does Ms. Wert encourage museum visitors to do?
 
@@ -11959,6 +17682,14 @@ What does Ms. Wert encourage museum visitors to do?
 - C. Visit a nearby historic neighborhood
 
 - D. Post photos of their visit on social media
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>stroll around the city's adjoining heritage district</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Wert suggests guests stroll the adjoining heritage district = visit a nearby historic neighborhood.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (heritage district -&gt; historic neighborhood)</i></div>
+</details>
 
 ##### Question 175
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -11972,6 +17703,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [4] sau câu "người dùng được kiểm soát trải nghiệm".</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Sentence follows [4]&#x27;s idea of user control; next sentence &quot;A touchscreen allows visitors ... target their interests&quot; elaborates it.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Logical sequence: general (control) -&gt; new sentence (choose topics) -&gt; specifics (touchscreen)</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Sixth Annual Arts and Crafts Festival Somerville Park, Broad Avenue, Springdale</div> </div>
 
@@ -11990,6 +17729,14 @@ What do the vendors in booths 101 and 103 have in common?
 
 - D. They sell items for the kitchen.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bát salad, thớt; cốc, bát, đĩa → đồ dùng nhà bếp.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Booth list only: 101 Great Woods (salad bowls, serving utensils, cutting boards) and 103 Fairy Dust (mugs, bowls, plates, pitchers) both = kitchen items. Link within festival list (two rows).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Category paraphrase (kitchenware -&gt; items for the kitchen); A &#x27;exclusively recycled&#x27; overreach (&#x27;salvaged&#x27; only for 101)</i></div>
+</details>
+
 ##### Question 177
 What is mentioned about Franny's Sensational Scents?
 
@@ -12000,6 +17747,14 @@ What is mentioned about Franny's Sensational Scents?
 - C. Its items are also sold online.
 
 - D. Its items contain parts of plants.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>infused with herbs and flowers</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Booth 104: soaps infused with herbs and flowers = contain parts of plants.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (herbs and flowers -&gt; plant parts); A candles/B annual/C online unsupported</i></div>
+</details>
 
 ##### Question 178
 Why did Ms. McFarlan e-mail Mr. Cho?
@@ -12012,6 +17767,14 @@ Why did Ms. McFarlan e-mail Mr. Cho?
 
 - D. To propose a partnership
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ông Cho từng bảo có vấn đề thì liên hệ → hỏi về dịch vụ sửa.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: Cho said on his card to contact him if any problems; piece broke; asks how to have repaired = follow up on offered service.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (offered service = repair); B/D unrelated</i></div>
+</details>
+
 ##### Question 179
 Where did Ms. McFarlan most likely purchase an item at the festival?
 
@@ -12023,6 +17786,14 @@ Where did Ms. McFarlan most likely purchase an item at the festival?
 
 - D. At booth 105
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mặt dây chuyền làm từ trang sách gấp → Folding Designs.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: pendant is &quot;an artistically folded page from a book&quot; bought from Mr. Cho at the festival; festival list: booth 102 Folding Designs = paper art incl. jewelry. Link key: pendant/paper art. Note email addressed to &#x27;Mr. Cho&#x27; but list has no owner name.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractor booth 105 (glass jewelry, also pendants/wearable art)</i></div>
+</details>
+
 ##### Question 180
 What is suggested about Ms. McFarlan's workplace?
 
@@ -12033,6 +17804,14 @@ What is suggested about Ms. McFarlan's workplace?
 - C. It is on Broad Avenue.
 
 - D. It is a publishing company.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>on the same street where the festival took place</i> = Broad Avenue.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: works in Springdale &quot;on the same street where the festival took place&quot;; festival header: Somerville Park, Broad Avenue = Broad Avenue. Link key: street of festival.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Info split across two docs; B (near Cho&#x27;s home) unsupported; A/D not stated</i></div>
+</details>
 
 #### Questions 181-185 refer to the following Web page and online review.
 
@@ -12069,6 +17848,14 @@ What is suggested about Superra Cleaning?
 
 - D. It has lowered the prices of its services.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>We have built our reputation on our… house cleaning packages</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: &quot;built our reputation on our thorough weekly, biweekly, and monthly house cleaning packages&quot; = best known for regular service packages.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (reputation -&gt; best known); special services are secondary</i></div>
+</details>
+
 ##### Question 182
 According to the Web page, what do the special services have in common?
 
@@ -12079,6 +17866,14 @@ According to the Web page, what do the special services have in common?
 - C. Options for weekend service
 
 - D. Discounts for first-time clients
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Dịch vụ nào cũng có giám sát.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Every special service lists supervisor: post-event (crew plus supervisor), one-time (supervisor oversees), move-out (under guidance of supervisor).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Common-feature question needs all-item check; B contradicts &#x27;no long-term contract&#x27;</i></div>
+</details>
 
 ##### Question 183
 What did Superra Cleaning do recently?
@@ -12091,6 +17886,14 @@ What did Superra Cleaning do recently?
 
 - D. It published instructional content.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>posted video tutorials</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Over the past two months, we have posted video tutorials featuring ... cleaning tips&quot; = published instructional content.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase (video tutorials -&gt; instructional content)</i></div>
+</details>
+
 ##### Question 184
 What is most likely true about Mr. Singh?
 
@@ -12102,6 +17905,14 @@ What is most likely true about Mr. Singh?
 
 - D. He is a regular client of Superra Cleaning.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Dọn nhà một lần trước khi có khách → đội ba người.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: friend visiting next day, first professional cleaning, house interior cleaned = hosting guests; web page: one-time house cleaning uses a supervisor over a three-person team. Link key: service matching his situation.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trap: post-event cleaning (two-person crew); D contradicted (first time); B: a different customer canceled</i></div>
+</details>
+
 ##### Question 185
 In the online review, the word "just" in paragraph 2, line 2, is closest in meaning to
 
@@ -12112,6 +17923,14 @@ In the online review, the word "just" in paragraph 2, line 2, is closest in mean
 - C. simply
 
 - D. possibly
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. exactly</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>at just the right time</i> = đúng lúc.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;I managed to contact them at just the right time&quot; = exactly the right time.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Multi-meaning adverb (just: only/simply/exactly)</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 186-190 refer to the following Web page, e-mail, and sign.</div> </div>
 
@@ -12146,6 +17965,14 @@ What is the purpose of the Web page?
 
 - D. To collect used books for donation
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Quy định đổi sách lấy tín dụng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page states criteria for accepting books for store credit = explain store policy.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractor A/C/D not offered; page is standards list</i></div>
+</details>
+
 ##### Question 187
 What does the Web page suggest about Mr. Wu?
 
@@ -12156,6 +17983,14 @@ What does the Web page suggest about Mr. Wu?
 - C. He repairs damaged books.
 
 - D. He is a regular customer of Beachside Used Books.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>a celebrity chef such as Ian Wu</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: cookbooks accepted &quot;except those by a celebrity chef such as Ian Wu&quot; = Mr. Wu is famous.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Phrase paraphrase (celebrity -&gt; famous person); B &#x27;restaurant&#x27; leap</i></div>
+</details>
 
 ##### Question 188
 What items offered by Mr. Townsend will Beachside Used Books most likely accept?
@@ -12168,6 +18003,14 @@ What items offered by Mr. Townsend will Beachside Used Books most likely accept?
 
 - D. The cookbooks
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Sách bìa cứng, bản in đầu được ưu tiên; sách tranh, sách mới bìa mềm, sách nấu ăn không phải của đầu bếp nổi tiếng → không nhận.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: hardbacks only; favours first editions; no picture books, no non-celebrity cookbooks; e-mail: picture books (no), sci-fi paperbacks (no, not hardback), two first-edition classic novels (yes), charity cookbooks (no). Link key: item type vs acceptance rules.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Each option is disqualified by a different rule; &#x27;paperbacks&#x27; vs &#x27;hardback&#x27; is the trap; hardback status of novels is inferred</i></div>
+</details>
+
 ##### Question 189
 What does Mr. Townsend indicate in the e-mail?
 
@@ -12179,6 +18022,14 @@ What does Mr. Townsend indicate in the e-mail?
 
 - D. He oversees a charity organization.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>a charity I run</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;members of a charity I run&quot; = oversees a charity organization.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase (run -&gt; oversee); B reversed (neighbour mentioned the shop to him)</i></div>
+</details>
+
 ##### Question 190
 When most likely will Mr. Townsend visit Beachside Used Books?
 
@@ -12189,6 +18040,14 @@ When most likely will Mr. Townsend visit Beachside Used Books?
 - C. On Saturday
 
 - D. On Sunday
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thứ Ba đóng cửa; cuối tuần mở sau 9 giờ → thứ Tư.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: proposes next Tuesday or Wednesday, else Sat/Sun before 9 A.M.; hours sign: Tue closed, Wed 9-8 open, Sat opens 10, Sun noon. Only Wednesday works. Link key: days/times proposed vs opening hours.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Outdated/conflicting preference vs constraint in another doc; &#x27;before 9&#x27; excludes weekend</i></div>
+</details>
 
 #### Questions 191-195 refer to the following e-mail, contact list, and schedule.
 
@@ -12211,6 +18070,14 @@ Why did Ms. Seung write the e-mail?
 
 - D. To approve an employee's vacation time
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Sắp xếp lịch cho nhân viên mới.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: new employee starts May 6; asks Max to prepare paperwork and arrange schedule of first two weeks = outline plan for new staff member.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose via task description; distractor A (recommend applicant) from background info</i></div>
+</details>
+
 ##### Question 192
 Who most likely is Mr. Aurinen?
 
@@ -12221,6 +18088,14 @@ Who most likely is Mr. Aurinen?
 - C. A client of Dorfax Industries
 
 - D. An administrative assistant at Edwil Durables, Inc.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Được giao chuẩn bị giấy tờ, lịch → trợ lý hành chính.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Seung (HR Director) tells Aurinen to prepare onboarding paperwork and schedule = administrative assistant at Edwil. Address at edwildurables.com.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Role from tasks; other companies named are Rein&#x27;s past employers</i></div>
+</details>
 
 ##### Question 193
 Who will be Mr. Rein's director?
@@ -12233,6 +18108,14 @@ Who will be Mr. Rein's director?
 
 - D. Mr. Martin
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bộ phận đồ gia dụng lớn → Latisha Lake.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: Rein is assistant manufacturing supervisor in Large Appliance Division; contact list: Latisha Lake = Director, Large Appliance Division. Schedule (May 7 shadowing Lake) is consistent. Link key: division name.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Title-to-name matching; distractors are directors of other divisions</i></div>
+</details>
+
 ##### Question 194
 What is suggested by the contact list?
 
@@ -12244,6 +18127,14 @@ What is suggested by the contact list?
 
 - D. Some directors share an office.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ardmore, Winston West/East, Meisner.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Contact list locations: Ardmore, Winston West, Winston East, Meisner = several buildings.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Data-in-table inference; C/D unsupported (each has own room)</i></div>
+</details>
+
 ##### Question 195
 What is suggested about Mr. Hillman?
 
@@ -12254,6 +18145,14 @@ What is suggested about Mr. Hillman?
 - C. He was recently promoted.
 
 - D. He works in the human resources department.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Lịch có buổi với Hillman ngày 9/5 → ông đã về đúng hạn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: schedule prototype day only if Hillman returns on time from Thailand; schedule lists Hillman on May 9 = presumably returned in time. Link key: name Amos Hillman.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Conditional in e-mail resolved by schedule; A/C/D unsupported</i></div>
+</details>
 
 #### Questions 196-200 refer to the following article, Web page, and work order.
 
@@ -12303,6 +18202,14 @@ What is mentioned in the article about Blue Lapis?
 
 - D. It is hiring several video editors.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>marketing, progress reporting, training, or something else</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: video for &quot;marketing, progress reporting, training, or something else&quot; = many business purposes.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; B/C/D not stated (Maseko is already CEO)</i></div>
+</details>
+
 ##### Question 197
 According to the Web page, what is one thing people wishing to become drone pilots must do?
 
@@ -12314,9 +18221,13 @@ According to the Web page, what is one thing people wishing to become drone pilo
 
 - D. Submit professional references
 
-- B. She is a construction supervisor with Lunsklip Construction.
-
-- C. She registered some equipment with an aviation authority.
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>completing an interview with a flight examiner</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: certification requires &quot;completing an interview with a flight examiner.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Only one step matches; B online test not stated (only online application)</i></div>
+</details>
 
 ##### Question 198
 According to the work order, why did Lunsklip Construction request a video?
@@ -12329,23 +18240,51 @@ According to the work order, why did Lunsklip Construction request a video?
 
 - D. To map the land features in an area
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>present how the highway project is proceeding</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Work order: &quot;The objective is to present how the highway project is proceeding&quot; for investors = show progress.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; D map land features unsupported</i></div>
+</details>
+
 ##### Question 199
 What can be concluded about Ms. Rowley?
 
 - A. She has worked with Ms. Shabangu for many years.
 
+- B. She is a construction supervisor with Lunsklip Construction.
+
+- C. She registered some equipment with an aviation authority.
+
 - D. She is a flight examiner.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Có thẻ chứng nhận phi công → đã đăng ký thiết bị với cơ quan hàng không.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Work order gives Rowley &quot;Card No. 01562&quot;; Web page: card requires registering equipment with civil aviation authority. Link key: certification card. OCR scrambled option letters; solved by content (registered equipment).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Hidden prerequisite from another doc; other options invented</i></div>
+</details>
+
+##### Question 200
+What is most likely true about Lunsklip Construction?
 
 - A. It did not suggest plans for the video.
 
 - B. It will not need to pay an additional hourly fee.
 
-##### Question 200
-What is most likely true about Lunsklip Construction?
-
 - C. It is in a partnership with Kwanduma Realty Ltd.
 
 - D. It is a new client of Blue Lapis.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không cần hiệu ứng hay chỉnh sửa thêm → không trả phí theo giờ. (D sai: <i>long-time customer</i>.)</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: extra hourly fee for extensive editing or special effects; work order: &quot;No special effects or extra editing is wanted&quot; = no extra fee. Link key: editing/effects condition. OCR scrambled option letters.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trap: D &#x27;new client&#x27; contradicted by &#x27;long-time customer&#x27;; Kwanduma is another client</i></div>
+</details>
 
 Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check your work.
 
@@ -12380,6 +18319,11 @@ Sophia Hollinger was commended for ---- work on the Kala account.
 
 - D. herself
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. her</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>commended for her work</i> (tính từ sở hữu).</div>
+</details>
+
 ##### Question 102
 Last summer, jazz musician Jay Deswani
 
@@ -12395,6 +18339,11 @@ Waterfront Park.
 
 - D. performed
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. performed</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>performed on the main stage</i> = biểu diễn trên sân khấu chính.</div>
+</details>
+
 ##### Question 103
 The purchasing department ordered six
 
@@ -12408,6 +18357,11 @@ The purchasing department ordered six
 
 - D. adding
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. additional</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Tính từ bổ nghĩa <i>cases</i>: <i>six additional cases</i> = thêm sáu thùng.</div>
+</details>
+
 ##### Question 104
 Please complete the questionnaire to help our team ----- understand the financial services you are interested in.
 
@@ -12418,6 +18372,11 @@ Please complete the questionnaire to help our team ----- understand the financia
 - C. very
 
 - D. surely
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. better</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>help sb better understand</i> = giúp hiểu rõ hơn.</div>
+</details>
 
 ##### Question 105
 ----- of the garments will begin two weeks after the contract is signed.
@@ -12430,6 +18389,11 @@ Please complete the questionnaire to help our team ----- understand the financia
 
 - D. Production
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. Production</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Chủ ngữ là danh từ: <i>Production of the garments</i>.</div>
+</details>
+
 ##### Question 106
 The minutes of last week's board meeting had only three ----- errors.
 
@@ -12440,6 +18404,11 @@ The minutes of last week's board meeting had only three ----- errors.
 - C. soft
 
 - D. light
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. minor</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>minor errors</i> = lỗi nhỏ.</div>
+</details>
 
 ##### Question 107
 Patrons are asked to silence their phones
@@ -12454,6 +18423,11 @@ Patrons are asked to silence their phones
 
 - D. why
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. when</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>when the show begins</i>.</div>
+</details>
+
 ##### Question 108
 The majority of the company's employees commute to work ----- train.
 
@@ -12464,6 +18438,11 @@ The majority of the company's employees commute to work ----- train.
 - C. in
 
 - D. from
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. by</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>by train</i> = bằng tàu.</div>
+</details>
 
 ##### Question 109
 Line 73 is the oldest ----- operating bus line in Raymo City's history.
@@ -12476,6 +18455,11 @@ Line 73 is the oldest ----- operating bus line in Raymo City's history.
 
 - D. continuously
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. continuously</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa <i>operating</i>: <i>continuously operating</i> = hoạt động liên tục.</div>
+</details>
+
 ##### Question 110
 This message is a ----- to pick up your package at your local post office as soon as possible.
 
@@ -12486,6 +18470,11 @@ This message is a ----- to pick up your package at your local post office as soo
 - C. process
 
 - D. report
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. reminder</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>a reminder to V</i> = lời nhắc.</div>
+</details>
 
 ##### Question 111
 Pet Orbit customers ----- want receipts
@@ -12500,6 +18489,11 @@ delivered by e-mail can opt for this service.
 
 - D. whoever
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. who</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>customers who want…</i></div>
+</details>
+
 ##### Question 112
 Mr. Takajian may be an entry-level employee, ----- he does not hesitate to take initiative.
 
@@ -12510,6 +18504,11 @@ Mr. Takajian may be an entry-level employee, ----- he does not hesitate to take 
 - C. equally
 
 - D. accordingly
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. but</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>may be…, but…</i> = có thể là…, nhưng…</div>
+</details>
 
 ##### Question 113
 Carter Department Store allows customers
@@ -12524,6 +18523,11 @@ Carter Department Store allows customers
 
 - D. to be placed
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. to place</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>allow + O + to V</i>.</div>
+</details>
+
 ##### Question 114
 Using unique colors and styles, the decor experts at Mamie's Interiors bring a ----- look to homes.
 
@@ -12534,6 +18538,11 @@ Using unique colors and styles, the decor experts at Mamie's Interiors bring a -
 - C. motivational
 
 - D. fashionable
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. fashionable</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>a fashionable look</i> = vẻ thời thượng.</div>
+</details>
 
 ##### Question 115
 ----- efficient project management, Sparkware's latest software program was released on time.
@@ -12546,6 +18555,11 @@ Using unique colors and styles, the decor experts at Mamie's Interiors bring a -
 
 - D. Subsequent
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. Because of</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Nguyên nhân: nhờ quản lý dự án tốt nên phát hành đúng hạn.</div>
+</details>
+
 ##### Question 116
 The summer line of outdoor furniture will be available ----- select stores as early as February.
 
@@ -12556,6 +18570,11 @@ The summer line of outdoor furniture will be available ----- select stores as ea
 - C. over
 
 - D. before
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. at</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>available at select stores</i> = có tại một số cửa hàng.</div>
+</details>
 
 ##### Question 117
 There has been a ----- decrease in requests for customer support this quarter.
@@ -12568,6 +18587,11 @@ There has been a ----- decrease in requests for customer support this quarter.
 
 - D. noticeably
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. noticeable</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Tính từ bổ nghĩa <i>decrease</i>: giảm rõ rệt.</div>
+</details>
+
 ##### Question 118
 Bina Dal always wanted to become a diplomat, ----- she studied international relations at university.
 
@@ -12578,6 +18602,11 @@ Bina Dal always wanted to become a diplomat, ----- she studied international rel
 - C. overall
 
 - D. whereas
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. so</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Kết quả: muốn làm nhà ngoại giao <b>nên</b> học quan hệ quốc tế.</div>
+</details>
 
 ##### Question 119
 Thank you for responding ----- with information about the T-Max 400 printer and scanner.
@@ -12590,6 +18619,11 @@ Thank you for responding ----- with information about the T-Max 400 printer and 
 
 - D. prompts
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. promptly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Trạng từ bổ nghĩa <i>responding</i>.</div>
+</details>
+
 ##### Question 120
 Owing to the weather, we need to ----- your appointment for tree removal service.
 
@@ -12600,6 +18634,11 @@ Owing to the weather, we need to ----- your appointment for tree removal service
 - C. contain
 
 - D. reconstruct
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. reschedule</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Do thời tiết → dời lịch hẹn.</div>
+</details>
 
 ##### Question 121
 It will require a ----- effort between the two countries to complete the railway line.
@@ -12612,6 +18651,11 @@ It will require a ----- effort between the two countries to complete the railway
 
 - D. coordination
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. coordinated</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>a coordinated effort</i> = nỗ lực phối hợp.</div>
+</details>
+
 ##### Question 122
 According to the restaurant's -----, guests must wait to be seated by the front-of-house staff.
 
@@ -12622,6 +18666,11 @@ According to the restaurant's -----, guests must wait to be seated by the front-
 - C. bill
 
 - D. policy
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. policy</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>According to the restaurant's policy</i>.</div>
+</details>
 
 ##### Question 123
 Tickets for Saturday's football game sold out on Thursday, much sooner than organizers -----.
@@ -12634,6 +18683,11 @@ Tickets for Saturday's football game sold out on Thursday, much sooner than orga
 
 - D. to anticipate
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. had anticipated</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Dự đoán xảy ra trước việc bán hết vé (quá khứ) → quá khứ hoàn thành.</div>
+</details>
+
 ##### Question 124
 Renewing your auto registration online ----- at the motor vehicle office will save you time.
 
@@ -12644,6 +18698,11 @@ Renewing your auto registration online ----- at the motor vehicle office will sa
 - C. at any rate
 
 - D. rather than
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. rather than</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Gia hạn online <b>thay vì</b> tại văn phòng.</div>
+</details>
 
 ##### Question 125
 ----- Latoya Model Management's sound reputation, aspiring models can expect a flourishing career.
@@ -12656,6 +18715,11 @@ Renewing your auto registration online ----- at the motor vehicle office will sa
 
 - D. Provided that
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. Given</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Given</i> = xét đến (danh tiếng vững chắc).</div>
+</details>
+
 ##### Question 126
 Employees are asked to update their contact information ---- the staff directory can be finalized.
 
@@ -12666,6 +18730,11 @@ Employees are asked to update their contact information ---- the staff directory
 - C. namely
 
 - D. likewise
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. so that</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Để danh bạ được hoàn thiện.</div>
+</details>
 
 ##### Question 127
 Glistonford Manufacturing cautions consumers not to buy inferior ----- of its adjustable desks.
@@ -12678,6 +18747,11 @@ Glistonford Manufacturing cautions consumers not to buy inferior ----- of its ad
 
 - D. imitations
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. imitations</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>inferior imitations</i> = hàng nhái kém chất lượng.</div>
+</details>
+
 ##### Question 128
 ----- the fact that the use of social media is widespread, many people still rely on newspapers for fact-checked information.
 
@@ -12688,6 +18762,11 @@ Glistonford Manufacturing cautions consumers not to buy inferior ----- of its ad
 - C. Unlike
 
 - D. Despite
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. Despite</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Despite the fact that…</i></div>
+</details>
 
 ##### Question 129
 Citing energy efficiency and cost reductions, the presenter made several ----- arguments for installing solar panels.
@@ -12700,6 +18779,11 @@ Citing energy efficiency and cost reductions, the presenter made several ----- a
 
 - D. intrigued
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. convincing</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>convincing arguments</i> = lập luận thuyết phục.</div>
+</details>
+
 ##### Question 130
 After leaving his official government role, Dr. Beasly was ----- Director of the Nanboro Youth Farming Program.
 
@@ -12710,6 +18794,11 @@ After leaving his official government role, Dr. Beasly was ----- Director of the
 - C. admitted
 
 - D. established
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. named</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>was named Director</i> = được bổ nhiệm làm giám đốc.</div>
+</details>
 
 ### Part 6
 
@@ -12746,6 +18835,11 @@ replacement of crates. Finally, they are designed with ergonomic features, there
 
 - D. containers
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. containers</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>crates</i> = thùng chứa.</div>
+</details>
+
 ##### Question 133
 - A. to
 
@@ -12754,6 +18848,11 @@ replacement of crates. Finally, they are designed with ergonomic features, there
 - C. among
 
 - D. besides
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. for</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>the need for</i> = nhu cầu.</div>
+</details>
 
 ##### Question 132
 - A. We will need more of them in the months ahead.
@@ -12764,6 +18863,11 @@ replacement of crates. Finally, they are designed with ergonomic features, there
 
 - D. Soon more of them will be available on our Web site.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Gập lại được, tiết kiệm chỗ → "nhờ đó chở được nhiều thùng rỗng hơn lên xe".</div>
+</details>
+
 ##### Question 134
 - A. reducing
 
@@ -12772,6 +18876,11 @@ replacement of crates. Finally, they are designed with ergonomic features, there
 - C. reduced
 
 - D. reducer
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. reducing</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>thereby + V-ing</i> = nhờ đó giảm.</div>
+</details>
 
 ##### Popular TV Show Returns for Third Season
 
@@ -12790,6 +18899,11 @@ Director Amber Randolph has responded to that  _____. "The abundance of new char
 
 - D. is based
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. is based</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Sự thật hiện tại: <i>is based on the book</i>.</div>
+</details>
+
 ##### Question 136
 - A. From here on
 
@@ -12798,6 +18912,11 @@ Director Amber Randolph has responded to that  _____. "The abundance of new char
 - C. To be specific
 
 - D. To sum up
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. In contrast</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Ngược lại với ý khen ở câu trước.</div>
+</details>
 
 ##### Question 137
 - A. advertisement
@@ -12808,6 +18927,11 @@ Director Amber Randolph has responded to that  _____. "The abundance of new char
 
 - D. need
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. criticism</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Phản hồi lời chê (<i>lose its appeal</i>).</div>
+</details>
+
 ##### Question 138
 - A. But they succeeded despite many difficulties.
 
@@ -12816,6 +18940,11 @@ Director Amber Randolph has responded to that  _____. "The abundance of new char
 - C. But it will be a useful learning experience.
 
 - D. But it brought them closer together.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> "Nhiều nhân vật khó theo dõi… <b>Nhưng họ làm câu chuyện sâu sắc hơn</b>".</div>
+</details>
 
 To: Jee-Wah Cho <cho8876@sunmail.com>
 
@@ -12848,6 +18977,11 @@ Fluffy Time Industries
 
 - D. shares
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. sharing</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>Thank you for + V-ing</i>.</div>
+</details>
+
 ##### Question 142
 - A. briefly
 
@@ -12856,6 +18990,11 @@ Fluffy Time Industries
 - C. temporarily
 
 - D. shortly
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. shortly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>receive shortly</i> = sắp nhận được.</div>
+</details>
 
 ##### Question 140
 - A. It
@@ -12866,6 +19005,11 @@ Fluffy Time Industries
 
 - D. Theirs
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. It</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Thay cho <i>your recipe</i>.</div>
+</details>
+
 ##### Question 141
 - A. Fluffy Time is a favorite of children everywhere.
 
@@ -12874,6 +19018,11 @@ Fluffy Time Industries
 - C. We are sorry that you were disappointed.
 
 - D. You may want to try our chocolate cream recipe.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Thông tin cuộc thi: "Người thắng sẽ được báo vào tháng 6".</div>
+</details>
 
 Bingo Imprint creates designs for promotional products such as notebooks, refrigerator magnets, and apparel. We allow our clients to determine their level of involvement in the design process.
 
@@ -12898,6 +19047,11 @@ You can count  _____ Bingo Imprint for unique designs, competitive pricing, and 
 
 - D. In the meantime
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C. As a result</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Khách tự chọn mức tham gia → <b>do đó</b>, có người gửi phác thảo chi tiết.</div>
+</details>
+
 ##### Question 144
 - A. perfect
 
@@ -12906,6 +19060,11 @@ You can count  _____ Bingo Imprint for unique designs, competitive pricing, and 
 - C. perfection
 
 - D. perfectly
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. perfectly</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>perfectly content to</i> = hoàn toàn hài lòng để…</div>
+</details>
 
 ##### Question 146
 - A. along
@@ -12916,6 +19075,11 @@ You can count  _____ Bingo Imprint for unique designs, competitive pricing, and 
 
 - D. on
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D. on</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> <i>count on</i> = tin cậy vào.</div>
+</details>
+
 ##### Question 145
 - A. This step facilitates communication among employees.
 
@@ -12924,6 +19088,11 @@ You can count  _____ Bingo Imprint for unique designs, competitive pricing, and 
 - C. Customers appreciate the company's suggested alternative.
 
 - D. Customers have greeted this measure with great concern.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">📖 <b>Giải thích:</b> Bước duyệt của khách → "đảm bảo sản phẩm đạt kỳ vọng".</div>
+</details>
 
 ### Part 7
 
@@ -12946,6 +19115,14 @@ What type of building did Crystal Brothers clean?
 
 - D. A home
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Đối chiếu bảng / biểu mẫu</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Phòng khách, bếp, phòng ngủ → nhà ở.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Survey form rates living room, kitchen, dining room, bedroom(s); lobby and conference room rows are left unmarked = a home.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Data inferred from marked rows; distractor C (office)</i></div>
+</details>
+
 ##### Question 148
 What part of the cleaning service was Ms. Hwang least satisfied with?
 
@@ -12956,6 +19133,14 @@ What part of the cleaning service was Ms. Hwang least satisfied with?
 - C. The customizing
 
 - D. The staffs punctuality
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Đối chiếu bảng / biểu mẫu</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Câu đặt lịch hẹn được chấm 1 điểm.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Circled 1 (lowest) for &quot;Was it easy to make an appointment?&quot; = scheduling; cost 5, instructions 5, information 4.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Form-score reading; punctuality (D) is not on form</i></div>
+</details>
 
 https://www.hamptonlandscaping.com/productdelivery
 
@@ -12974,6 +19159,14 @@ What is true about Hampton Landscaping?
 
 - D. It makes deliveries seven days a week.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>large- and small-volume deliveries</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;large- and small-volume deliveries&quot; = orders of varying sizes.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; D contradicted (Monday through Saturday); C rates vary</i></div>
+</details>
+
 ##### Question 150
 In what situation would a customer be billed $50?
 
@@ -12984,6 +19177,14 @@ In what situation would a customer be billed $50?
 - C. When the delivery address is not within the metro area
 
 - D. When a delivery driver cannot access a drop-off location
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Xe không vào được → phí $50.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;$50 restocking fee&quot; if delivery area not accessible for trucks = driver cannot access drop-off location.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; B distractor (need not be home)</i></div>
+</details>
 
 ##### Hannah Fisk (1:18 P.M.)
 
@@ -13020,6 +19221,14 @@ At 1:20 P.M., what does Mr. Gerlin imply when he writes, "Can you give me 45 min
 
 - D. He will complete the budget report himself.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Đang bận, khoảng 45 phút nữa sẽ giúp.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Asked to check report, he asks for 45 minutes and later agrees to meet at 2:30 = will help later.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied willingness; D contradicts (Ms. Fisk checks it)</i></div>
+</details>
+
 ##### Question 152
 What will Ms. Fisk most likely do next?
 
@@ -13030,6 +19239,14 @@ What will Ms. Fisk most likely do next?
 - C. She will contact another colleague for advice.
 
 - D. She will review a portion of the budget report.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Việc sẽ làm tiếp theo</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>I'll double-check the cost data in the meantime</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>1:22 &quot;I&#x27;ll double-check the cost data in the meantime&quot; = review part of budget report.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (cost data -&gt; portion of report); A is Gerlin&#x27;s task</i></div>
+</details>
 
 #### Questions 153-154 refer to the following e-mail.
 
@@ -13057,7 +19274,8 @@ Nonstop
 Average price: $518
 Current price: $436</td></tr></table>
 
-3. What is the purpose of the e-mail
+##### Question 153
+What is the purpose of the e-mail?
 
 - A. To confirm a purchase
 
@@ -13066,6 +19284,14 @@ Current price: $436</td></tr></table>
 - C. To request a seat upgrade
 
 - D. To cancel a reservation
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Thông báo giá vé giảm.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail is a price alert listing current and average fares.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose from subject/content; A/C/D not present</i></div>
+</details>
 
 ##### Question 154
 What do both trips have in common?
@@ -13077,6 +19303,14 @@ What do both trips have in common?
 - C. The choice of airlines
 
 - D. The type of seating
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Cả hai chuyến đều có Nomata và Blue Range.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Both trips list Nomata Airlines and Blue Range Airways; dates, cities, and seat types (economy vs comfort-plus) differ.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Compare-across-columns; every other option differs</i></div>
+</details>
 
 #### Questions 155-157 refer to the following e-mail.
 
@@ -13093,6 +19327,14 @@ What does Ms. Lombardo ask Mr. Garza to do?
 
 - D. Help her format a final manuscript
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Yêu cầu / đề nghị làm gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>ensure they are easy to follow</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Thanks him &quot;for reviewing my recipes to ensure they are easy to follow&quot; = make sure recipes are clear.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym paraphrase; B/C/D not requested</i></div>
+</details>
+
 ##### Question 156
 What do boxes marked with a red X indicate?
 
@@ -13103,6 +19345,14 @@ What do boxes marked with a red X indicate?
 - C. Images that need to be replaced
 
 - D. Terms that should be defined
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Nhắc chụp lại ảnh tốt hơn.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Red X boxes are reminders to take better pictures to insert later = images to be replaced.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (pictures -&gt; images; insert better -&gt; replaced)</i></div>
+</details>
 
 ##### Question 157
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -13116,6 +19366,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [4] sau yêu cầu ghi nhận xét trong lề cùng một tệp.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Sentence explains why comments should be in the margins (&quot;Otherwise ... changes&quot;), so it follows the request in [4].</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Cue word &quot;Otherwise&quot; refers to the preceding request</i></div>
+</details>
 
 Priscilla Yamaguchi
 
@@ -13152,6 +19410,14 @@ What is suggested about Ms. Yamaguchi?
 
 - D. She is planning to revise her restaurant chain's menu.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>your customers across Europe</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Letter: her restaurant chain Saffron Moon serves &quot;customers across Europe&quot; = restaurants in multiple European locations.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; A/B/D unsupported</i></div>
+</details>
+
 ##### Question 159
 The word "solid" in paragraph 2, line 1, is closest in meaning to
 
@@ -13163,6 +19429,14 @@ The word "solid" in paragraph 2, line 1, is closest in meaning to
 
 - D. thorough
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. reliable</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>solid reputation</i> = danh tiếng vững chắc.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;solid reputation&quot; = reliable.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Secondary meaning of solid</i></div>
+</details>
+
 ##### Question 160
 What is NOT mentioned as a benefit of the proposed partnership?
 
@@ -13173,6 +19447,14 @@ What is NOT mentioned as a benefit of the proposed partnership?
 - C. Exposure to a new customer base
 
 - D. Quality training programs
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không nhắc đào tạo.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Benefits: brochure/Web site mention (A), cheaper ingredients/equipment (B), wider group aware of chain (C). Training not mentioned.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question requires checking all options</i></div>
+</details>
 
 #### Questions 161-163 refer to the following article.
 
@@ -13195,6 +19477,14 @@ What is one purpose of the article?
 
 - D. To emphasize the need for high-quality care
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bệnh viện nhận giải.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article reports award and quotes congratulations = praise for organization.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose via tone; A/C/D not in text</i></div>
+</details>
+
 ##### Question 162
 What is NOT indicated about KMC?
 
@@ -13206,6 +19496,14 @@ What is NOT indicated about KMC?
 
 - D. It has received many honors over the years.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không nói đã nhận nhiều giải.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>A: 47 years (over four decades); B: exceptional patient satisfaction among criteria; C: Dr. Nguyen became CEO last March; D: only this award is mentioned, not many over years.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Overgeneralization trap; A needs arithmetic (47 &gt; 40)</i></div>
+</details>
+
 ##### Question 163
 The word "reflects" in paragraph 3, line 5, is closest in meaning to
 
@@ -13216,6 +19514,14 @@ The word "reflects" in paragraph 3, line 5, is closest in meaning to
 - C. imitates
 
 - D. recommends
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A. shows</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>reflects our commitment</i> = thể hiện.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;This award reflects our commitment&quot; = shows.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym in context</i></div>
+</details>
 
 #### Questions 164-167 refer to the following online chat discussion.
 
@@ -13242,6 +19548,14 @@ What can be concluded about Ms. Balog?
 
 - D. She works at Rosemoor Park every Thursday.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> (Một phần đoạn chat bị mất.) Bà áp dụng <i>the rule for Pool Guardian lifeguards</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Diego cites &quot;rule for Pool Guardian lifeguards&quot; and Balog is on lifeguard duty = works for Pool Guardian; Kerr is who she is covering for.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied affiliation; D (every Thursday) unsupported</i></div>
+</details>
+
 ##### Question 165
 Why does Ms. Balog want to close the pool early?
 
@@ -13252,6 +19566,14 @@ Why does Ms. Balog want to close the pool early?
 - C. Because she is not allowed to swim
 
 - D. Because no guests are currently using the pool
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>no one has been here since 2:30</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Balog: &quot;no one has been here since 2:30. Can I close the pool now?&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; A stems from later cleaning</i></div>
+</details>
 
 ##### Question 166
 What is implied about Rosemoor Park?
@@ -13264,6 +19586,14 @@ What is implied about Rosemoor Park?
 
 - D. It would like to hire Ms. Balog to work full-time.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Nhân viên cứu hộ do công ty Pool Guardian cung cấp.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Lifeguards belong to Pool Guardian and cover Rosemoor Park&#x27;s pool = park contracts a company for lifeguards.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied arrangement; B closed only several times</i></div>
+</details>
+
 ##### Question 167
 At 4:11 P.M., what does Ms. Balog most likely mean when she writes, "It has never looked so good"?
 
@@ -13274,6 +19604,14 @@ At 4:11 P.M., what does Ms. Balog most likely mean when she writes, "It has neve
 - C. The rain has finally stopped.
 
 - D. The water in the pool is extremely clear.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý định người viết (chat)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bà vừa dọn dẹp, sắp xếp lại kho dụng cụ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>The 4:11 message is missing from OCR text; context: she is cleaning and straightening the equipment shed at 4:09, so &quot;It has never looked so good&quot; refers to shed.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>OCR gap lowers confidence; A/D unsupported</i></div>
+</details>
 
 #### Questions 168-171 refer to the following Web page.
 
@@ -13290,6 +19628,14 @@ What kind of business is Sagemont Services?
 
 - D. An executive recruiting service
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Ý chính / chủ đề</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Giải pháp CNTT theo yêu cầu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;custom-tailored information technology solutions to clients in various industries&quot; = technology consulting firm.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Service description to category; B/C plausible distractors</i></div>
+</details>
+
 ##### Question 169
 According to the Web page, what has Sagemont Services done recently?
 
@@ -13301,6 +19647,14 @@ According to the Web page, what has Sagemont Services done recently?
 
 - D. It has completed projects within a short time period.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>complete technology projects on tight deadlines</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;helped several businesses complete technology projects on tight deadlines in the past few months&quot; = projects within short time.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (tight deadlines -&gt; short time period)</i></div>
+</details>
+
 ##### Question 170
 What is indicated about Clothing Discounters?
 
@@ -13311,6 +19665,14 @@ What is indicated about Clothing Discounters?
 - C. It is less than one year old.
 
 - D. It plans to open physical stores.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>rapidly expanding</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;online retailer Clothing Discounters rapidly expanding&quot; = growing quickly.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Adjective paraphrase; D contradicts online retailer</i></div>
+</details>
 
 ##### Question 171
 In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
@@ -13324,6 +19686,14 @@ In which of the positions marked [1], [2], [3], and [4] does the following sente
 - C. [3]
 
 - D. [4]
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Điền câu vào vị trí [1]–[4]</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> [3] sau giải pháp cho nhân viên tổng đài làm tại nhà.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Sentence refers to the solution (agents handle calls from home in two days); fits after that description = [3].</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Referent &#x27;This solution&#x27; points to preceding sentence</i></div>
+</details>
 
 # MCAC to Exhibit Alonso's Works
 
@@ -13346,6 +19716,14 @@ What is indicated about Ms. Alonso?
 
 - D. She works part-time as an interior designer.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Lấy ý tưởng từ một bài trên tạp chí ngành.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Idea came from &quot;the Journal for Professional Landscape Architects&quot; = article in a trade publication.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (professional journal -&gt; trade publication)</i></div>
+</details>
+
 ##### Question 174
 What will happen on November 4?
 
@@ -13356,6 +19734,14 @@ What will happen on November 4?
 - C. Winners of a slogan contest will be announced.
 
 - D. An art center will close for renovations.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ngày cuối, tác phẩm được tháo dỡ và chở đến nhà máy Flyner.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Final day (Nov 4): recyclables shipped to Flyner Industries facility = parts of exhibition taken to an industrial plant.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; exhibition runs &#x27;until November 4&#x27;</i></div>
+</details>
 
 ##### Question 173
 According to the article, what will visitors to Ms. Alonso's exhibition be able to do?
@@ -13368,6 +19754,14 @@ According to the article, what will visitors to Ms. Alonso's exhibition be able 
 
 - D. Purchase repurposed paper products
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bỏ đồ nhựa tái chế vào túi thu gom.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Guests can bring recyclable plastic items and place them in collection bags = drop off recyclable plastics.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; A/C/D unsupported</i></div>
+</details>
+
 ##### Question 175
 What is indicated about MCAC?
 
@@ -13378,6 +19772,14 @@ What is indicated about MCAC?
 - C. It displays works by art students.
 
 - D. It sponsors its own art workshops.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Có trưng bày tác phẩm của sinh viên.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Local art students&#x27; works on view in main gallery; entry free (B contradicted).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT-style elimination; B contradicts &#x27;Admission is free&#x27;</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 176-180 refer to the following table and article.</div> </div>
 
@@ -13400,6 +19802,14 @@ What does the table indicate about customers' satisfaction with their overall ex
 
 - D. It decreased by five percent in June.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Overall +7% so với tháng 5.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Table: overall experience 87%, +7% from May = improved.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Table data reading; D is Reception (-5%)</i></div>
+</details>
+
 ##### Question 177
 What is suggested about Exelrate?
 
@@ -13410,6 +19820,14 @@ What is suggested about Exelrate?
 - C. It renovates industrial buildings.
 
 - D. It was founded in Toronto.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>Collected and analysed by… Exelrate</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Table: &quot;Collected and analysed by ... Exelrate&quot;; article: Exelrate is consumer analysis firm helping businesses understand customer experiences. Link key: name Exelrate.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Trap: B (Superb Hotels is the client); D (founded in Frankfurt/moving to Toronto)</i></div>
+</details>
 
 ##### Question 178
 In the article, the word "directing" in paragraph 1, line 10, is closest in meaning to
@@ -13422,6 +19840,14 @@ In the article, the word "directing" in paragraph 1, line 10, is closest in mean
 
 - D. addressing
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B. leading</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Từ đồng nghĩa trong ngữ cảnh</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>directing this expansion</i> = lãnh đạo.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;Rosa Martin will be directing this expansion&quot; = leading.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Synonym in context</i></div>
+</details>
+
 ##### Question 179
 Where was Ms. Akdemir's supervisor based in July?
 
@@ -13433,6 +19859,14 @@ Where was Ms. Akdemir's supervisor based in July?
 
 - D. In Seoul
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Akdemir thuộc nhóm Customer Solutions; trưởng nhóm Rosa Martin làm ở Frankfurt đến hết tháng 7.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Table: Akdemir works in Customer Solutions at Exelrate; article: Rosa Martin runs the Customer Solutions Team in Frankfurt until end of July. Link key: Customer Solutions team.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractors: Lisbon (hotel), Toronto (future HQ); time detail: still Frankfurt in July</i></div>
+</details>
+
 ##### Question 180
 What is Mr. Tsudama's area of expertise?
 
@@ -13443,6 +19877,14 @@ What is Mr. Tsudama's area of expertise?
 - C. Architecture
 
 - D. Hospitality
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ông thiết kế tòa nhà → kiến trúc.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: building designed by Frank Tsudama, whose latest project was Seoul&#x27;s Global Trade Centre = architect.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Role inferred from action (designed building); D/B unsupported</i></div>
+</details>
 
 # WELCOME TO RICHMOND SUPERMARKET!
 
@@ -13475,6 +19917,14 @@ For whom is the notice most likely intended?
 
 - D. Cookbook authors
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Biển chào khách trong siêu thị.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Notice invites shoppers to register for cooking classes at the store.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Audience inferred; chefs/workers are class leaders</i></div>
+</details>
+
 ##### Question 182
 What is indicated in the notice about August's cooking classes at Richmond Supermarket?
 
@@ -13485,6 +19935,14 @@ What is indicated in the notice about August's cooking classes at Richmond Super
 - C. They are taught by supermarket employees.
 
 - D. They require students to register in person.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Món của Ấn Độ, Thái Lan, Mexico, Ý.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Dishes from India, Thailand, Mexico, Italy.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (country in parentheses -&gt; different countries); B contradicts (every Monday), D (phone or Web)</i></div>
+</details>
 
 ##### Question 183
 When most likely did Ms. Klein participate in a Richmond Supermarket cooking class?
@@ -13497,6 +19955,14 @@ When most likely did Ms. Klein participate in a Richmond Supermarket cooking cla
 
 - D. On August 23
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Học làm taco cá → 16/8.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review: learned fish tacos with Mateo Bernal; notice: 16 August Fish Tacos (Mexico). Link key: dish.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Date not in review; must map dish to notice schedule</i></div>
+</details>
+
 ##### Question 184
 What ingredient is NOT mentioned in the review?
 
@@ -13508,6 +19974,14 @@ What ingredient is NOT mentioned in the review?
 
 - D. Shredded cabbage
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Câu hỏi NOT (tìm ý không có)</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Không có bắp cải bào.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Review lists corn tortillas, grilled tilapia, tomatillo salsa; shredded cabbage not mentioned.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>NOT question; check all items</i></div>
+</details>
+
 ##### Question 185
 What does Ms. Klein say she intends to do?
 
@@ -13518,6 +19992,14 @@ What does Ms. Klein say she intends to do?
 - C. Attend more cooking classes
 
 - D. Collect recipes in a notebook
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Việc sẽ làm tiếp theo</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>go back again and again</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;clear my Monday evenings so I can go back again and again&quot; = attend more classes.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase; D trap (notebooks were given, not planned)</i></div>
+</details>
 
 ##### New Dean Appointed at Institute
 
@@ -13546,6 +20028,14 @@ What is indicated about Dr. Robbins in the article?
 
 - D. She has taught classes in Berlin.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Vừa nhận chức trưởng khoa.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: accepted dean position &quot;effective immediately&quot;, before which she directed a clinic = starting a new job.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied from announcement; B (grew up in York) not owning house</i></div>
+</details>
+
 ##### Question 187
 Where did Dr. Robbins complete her postdoctoral residency?
 
@@ -13556,6 +20046,14 @@ Where did Dr. Robbins complete her postdoctoral residency?
 - C. At Petersen Medical Center
 
 - D. At Morseville Hospital
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Nội trú ở Petersen Medical Center.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: postdoctoral residency at Petersen Medical Center.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Distractors are other institutions in same sentence</i></div>
+</details>
 
 ##### Question 188
 Where most likely did Dr. Robbins receive the Kramer Medal?
@@ -13568,10 +20066,26 @@ Where most likely did Dr. Robbins receive the Kramer Medal?
 
 - D. In the Regal Ballroom
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Lễ trao giải ở Regal Ballroom.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Article: medal on April 17 at ICVA conference in Berlin; schedule Day 1 (17 April): 9:00-9:30 P.M. dessert and awards ceremony, Regal Ballroom. Link key: date/conference name and awards ceremony.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Item in schedule not named in article; keynote hall a distractor</i></div>
+</details>
+
 ##### Question 189
 Why did Ms. Raskin send the e-mail to Dr. Sohn?
 
 - A. To ask him to join the board of the ICVA (B) To invite him to speak at a conference (C) To request information about his surgical techniques (D) To express gratitude for his participation in an event
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Cảm ơn bài phát biểu.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: &quot;thank you again for speaking at the ICVA conference.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose in first line; A/B distractors (past board membership, already spoke)</i></div>
+</details>
 
 ##### Question 190
 When did Dr. Sohn most likely make a speech on April 17?
@@ -13583,6 +20097,14 @@ When did Dr. Sohn most likely make a speech on April 17?
 - C. At 11:15 A.M.
 
 - D. At 3:45 P.M.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Thời gian / hạn chót + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Bài phát biểu chính (<i>keynote address</i>) lúc 10:00 A.M.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: highlight was his keynote address at ICVA Berlin conference; schedule 17 April: 10:00-11:00 A.M. welcome and keynote. Link key: keynote address and conference. Article date/April 17 aligns.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Time only in schedule; breakfast/session times as distractors</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 191-195 refer to the following Web page and e-mails.</div> </div>
 
@@ -13603,6 +20125,14 @@ According to the Web page, what is suggested about Freewheel Oasis?
 
 - D. It is open daily.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Kỹ thuật viên đánh giá tình trạng xe.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: &quot;a technician will assess the condition of your bicycle&quot; = inspection; open Mon-Sat (not daily).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (assess condition -&gt; perform inspections); D contradicts hours</i></div>
+</details>
+
 ##### Question 192
 What does Ms. Johnson indicate in her e-mail?
 
@@ -13613,6 +20143,14 @@ What does Ms. Johnson indicate in her e-mail?
 - C. She prefers an appointment on November 30.
 
 - D. She has made repairs to the bicycle by herself.
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>now six years old</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: bicycle is six years old, used first three years = she got it six years ago.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Number trap (used three years); D unsupported</i></div>
+</details>
 
 ##### Question 193
 What can be concluded about Ms. Johnson?
@@ -13625,6 +20163,14 @@ What can be concluded about Ms. Johnson?
 
 - D. She plans to buy a bicycle from Freewheel Oasis.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Suy luận + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Ký gửi → chịu phí dịch vụ 15%.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Ms. Johnson chooses consignment; Web page: consignment withholds 15% service fee. Link key: consignment program terms. By elimination: leaving for Kuwait Nov 30 (A wrong), no prior business (B), consignment not purchase (D).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Implied acceptance of policy; low explicitness</i></div>
+</details>
+
 ##### Question 194
 What is one purpose of Mr. Moran's e-mail?
 
@@ -13636,6 +20182,14 @@ What is one purpose of Mr. Moran's e-mail?
 
 - D. To state a company rule
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>D</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Nêu quy định trả tiền vào tài khoản ngân hàng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Moran&#x27;s reply: &quot;Our consignment policy stipulates ... must be paid into the person&#x27;s bank account&quot; and sale date not guaranteed = state company rule.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose among several (also schedules); B wrong (he schedules, not reschedules)</i></div>
+</details>
+
 ##### Question 195
 Who most likely is Mr. Moran?
 
@@ -13646,6 +20200,14 @@ Who most likely is Mr. Moran?
 - C. A sales associate
 
 - D. A bicycle repair technician
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Nhân vật là ai / làm nghề gì + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Web: e-mail sẽ được <i>customer service manager</i> trả lời.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Web page: e-mail programs@ and &quot;You will receive a response from our customer service manager&quot;; reply arrives from programs@ signed Peter Moran. Link key: response from the programs e-mail.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Role from process description; technician/sales associate are in-store roles</i></div>
+</details>
 
 <div style="text-align: center;"><div style="text-align: center;">Questions 196-200 refer to the following e-mails and checklist.</div> </div>
 
@@ -13704,6 +20266,14 @@ What is the main purpose of the first e-mail?
 
 - D. To schedule an appointment
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Mục đích</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Yêu cầu bổ sung giấy tờ.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>First e-mail: &quot;We still need a few things for your personnel file&quot; (identity, banking info) = request documents.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Purpose vs. side topics (softball, picnic); D chat is an offer</i></div>
+</details>
+
 ##### Question 197
 Where most likely was Ms. Kuroda on the morning of May 12?
 
@@ -13714,6 +20284,14 @@ Where most likely was Ms. Kuroda on the morning of May 12?
 - C. At a security office
 
 - D. At a college reunion
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>A</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>At the training for new hires this morning</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>&quot;At the training for new hires this morning&quot; (e-mail sent 1:30 P.M. May 12).</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Time-inferred location; C is office referenced</i></div>
+</details>
 
 ##### Question 198
 Why might Ms. Kuroda need to submit a release form?
@@ -13726,6 +20304,14 @@ Why might Ms. Kuroda need to submit a release form?
 
 - D. If she gets a promotion
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Lý do (Why) + Nối thông tin 2 văn bản</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mục 6 (<i>if required</i>) = mục cuối, chỉ cần khi chơi softball.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>E-mail: last checklist item is only needed if she joins softball team; checklist item 6 &quot;Release of liability form (if required)&quot;. Link key: &#x27;final item&#x27; on checklist.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Requirement hidden in attachment; C picnic distractor</i></div>
+</details>
+
 ##### Question 199
 What does Ms. Kuroda indicate about a company picnic?
 
@@ -13737,6 +20323,14 @@ What does Ms. Kuroda indicate about a company picnic?
 
 - D. She would be happy to organize the catering for it.
 
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>C</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Chi tiết</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> <i>look forward to… get to know my coworkers</i>.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Reply: &quot;look forward to the opportunity to get to know my coworkers better.&quot;</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Paraphrase (get to know -&gt; meet); D she only offers to cook</i></div>
+</details>
+
 ##### Question 200
 What will Ms. Kuroda most likely do next?
 
@@ -13747,6 +20341,14 @@ What will Ms. Kuroda most likely do next?
 - C. E-mail a list to Mr. Cady
 
 - D. Ask Mr. Cady about applying for a passport
+
+<details class="ans"><summary>💡 Xem đáp án</summary>
+<div class="ans-line">✅ <b>Đáp án:</b> <b>B</b></div>
+<div class="ans-line">🏷️ <b>Dạng câu hỏi:</b> Việc sẽ làm tiếp theo + Đối chiếu bảng / biểu mẫu</div>
+<div class="ans-line">📌 <b>Căn cứ:</b> Mục 4 = thông tin tài khoản ngân hàng.</div>
+<div class="ans-line">🔎 <b>Trích dẫn / cách suy luận:</b> <i>Reply: &quot;about to gather the necessary information for the fourth item on the list&quot;; checklist item 4 = bank account information form. Link key: item number 4.</i></div>
+<div class="ans-line">⚠️ <b>Paraphrase &amp; bẫy:</b> <i>Number reference to attachment; passport copy already available (D)</i></div>
+</details>
 
 Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check your work.
 
