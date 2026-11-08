@@ -38,28 +38,28 @@
 
 ## 1. 🔤 DANH TỪ
 
-> 📚 Lý thuyết: [DANH TỪ](Danh%20T%E1%BB%AB.md) · 2,068 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [DANH TỪ](Danh%20T%E1%BB%AB.md) · 2,068 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-noun.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Danh từ ghép (N + N) | 977 | 239 |
-| Danh từ không đếm được (không thêm -s, không dùng a/an) | 234 | 80 |
-| Sở hữu cách ('s) | 252 | 3 |
-| Đồng vị ngữ (N, N bổ sung) | 179 | 3 |
-| 🎯 Đáp án là DANH TỪ làm tân ngữ của (đứng sau) | 25 | 0 |
-| 🎯 Đáp án là DANH TỪ sau giới từ (đứng sau) | 25 | 0 |
-| Danh từ ghép V-ing + N (danh động từ bổ nghĩa) | 13 | 0 |
-| 🎯 Đáp án là DANH TỪ làm chủ ngữ (đứng sau) | 10 | 0 |
-| 🎯 Đáp án là DANH TỪ sau giới từ | 7 | 0 |
-| 🎯 Đáp án là DANH TỪ | 5 | 0 |
-| 🎯 Đáp án là DANH TỪ làm tân ngữ của | 4 | 0 |
-| 🎯 Đáp án là DANH TỪ đứng trước danh từ (danh từ ghép) | 4 | 0 |
-| 🎯 Đáp án là DANH TỪ (đứng sau) | 4 | 0 |
-| 🎯 Đáp án là DANH TỪ làm chủ ngữ | 4 | 0 |
+| [Danh từ ghép (N + N)](ets-ngu-phap-full-noun.md?id=p1) | 977 | 239 |
+| [Danh từ không đếm được (không thêm -s, không dùng a/an)](ets-ngu-phap-full-noun.md?id=p2) | 234 | 80 |
+| [Sở hữu cách ('s)](ets-ngu-phap-full-noun.md?id=p3) | 252 | 3 |
+| [Đồng vị ngữ (N, N bổ sung)](ets-ngu-phap-full-noun.md?id=p4) | 179 | 3 |
+| [🎯 Đáp án là DANH TỪ làm tân ngữ của (đứng sau)](ets-ngu-phap-full-noun.md?id=p5) | 25 | 0 |
+| [🎯 Đáp án là DANH TỪ sau giới từ (đứng sau)](ets-ngu-phap-full-noun.md?id=p6) | 25 | 0 |
+| [Danh từ ghép V-ing + N (danh động từ bổ nghĩa)](ets-ngu-phap-full-noun.md?id=p7) | 13 | 0 |
+| [🎯 Đáp án là DANH TỪ làm chủ ngữ (đứng sau)](ets-ngu-phap-full-noun.md?id=p8) | 10 | 0 |
+| [🎯 Đáp án là DANH TỪ sau giới từ](ets-ngu-phap-full-noun.md?id=p9) | 7 | 0 |
+| [🎯 Đáp án là DANH TỪ](ets-ngu-phap-full-noun.md?id=p10) | 5 | 0 |
+| [🎯 Đáp án là DANH TỪ làm tân ngữ của](ets-ngu-phap-full-noun.md?id=p11) | 4 | 0 |
+| [🎯 Đáp án là DANH TỪ đứng trước danh từ (danh từ ghép)](ets-ngu-phap-full-noun.md?id=p12) | 4 | 0 |
+| [🎯 Đáp án là DANH TỪ (đứng sau)](ets-ngu-phap-full-noun.md?id=p13) | 4 | 0 |
+| [🎯 Đáp án là DANH TỪ làm chủ ngữ](ets-ngu-phap-full-noun.md?id=p14) | 4 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Danh từ ghép (N + N)** <small>(977 câu Reading · 239 câu Listening)</small>
+**▸ Danh từ ghép (N + N)** <small>(977 câu Reading · 239 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p1)
 
 - 📖 *(Test 1)* We will listen to your ideas and offer suggestions that match your **gardening desires**.
 - 📖 *(Test 1)* It closed three months ago after a **water leak** caused extensive damage to the kitchen.
@@ -76,7 +76,7 @@
 
 </details>
 
-**▸ Danh từ không đếm được (không thêm -s, không dùng a/an)** <small>(234 câu Reading · 80 câu Listening)</small>
+**▸ Danh từ không đếm được (không thêm -s, không dùng a/an)** <small>(234 câu Reading · 80 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p2)
 
 - 📖 *(Test 1)* Ennis Photography purchased at the new lighting **equipment** despite the high cost.
 - 📖 *(Test 5)* For **assistance** with this process, please contact Manuel Costa in Technology Support.
@@ -93,7 +93,7 @@
 
 </details>
 
-**▸ Sở hữu cách ('s)** <small>(252 câu Reading · 3 câu Listening)</small>
+**▸ Sở hữu cách ('s)** <small>(252 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p3)
 
 - 📖 *(Test 7)* **Mike's Café** offers a free drink with every meal on Tuesdays from 11 A.M. to 7 P.M.
 - 📖 *(Test 8)* I have been assigned to the **airline's new route** out of Arlford that begins next month.
@@ -107,7 +107,7 @@
 
 </details>
 
-**▸ Đồng vị ngữ (N, N bổ sung)** <small>(179 câu Reading · 3 câu Listening)</small>
+**▸ Đồng vị ngữ (N, N bổ sung)** <small>(179 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p4)
 
 - 📖 *(Test 1)* The few questions she was unable to answer were quickly addressed by her **mentor, Max**.
 - 📖 *(Test 10)* Maxwell Diego (4:04 P.M.) Then you'll have to wait ten more minutes before reopening. → *Diego, ( 4:04 P.M.*
@@ -122,7 +122,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là DANH TỪ làm tân ngữ của (đứng sau)** <small>(25 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là DANH TỪ làm tân ngữ của (đứng sau)** <small>(25 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p5)
 
 - 📖 *(Test 7)* Mike's Café offers a free **drink** with every meal on Tuesdays from 11 A.M. to 7 P.M.
 - 📖 *(Test 4)* Mr. Aziz is often alone in the shop while his partner is out making a **delivery**.
@@ -135,7 +135,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là DANH TỪ sau giới từ (đứng sau)** <small>(25 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là DANH TỪ sau giới từ (đứng sau)** <small>(25 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p6)
 
 - 📖 *(Test 6)* Biographer Amber Bowen has been recognized for her distinctive writing **style**.
 - 📖 *(Test 4)* The city's development committee is looking for a **location** to plant a community garden.
@@ -148,7 +148,7 @@
 
 </details>
 
-**▸ Danh từ ghép V-ing + N (danh động từ bổ nghĩa)** <small>(13 câu Reading · 0 câu Listening)</small>
+**▸ Danh từ ghép V-ing + N (danh động từ bổ nghĩa)** <small>(13 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p7)
 
 - 📖 *(Test 1)* The **hiring manager** carefully considered each applicant's résumé and qualifications.
 - 📖 *(Test 3)* Hiring decision notifications will be sent to your personal e-mail address on 4 August. → *Hiring notifications*
@@ -161,7 +161,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là DANH TỪ làm chủ ngữ (đứng sau)** <small>(10 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là DANH TỪ làm chủ ngữ (đứng sau)** <small>(10 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p8)
 
 - 📖 *(Test 9)* Our **records** indicate that your company car is due for regular service next month.
 - 📖 *(Test 2)* The **eatery** became one of the area's most successful venues and remains so now.
@@ -174,7 +174,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là DANH TỪ sau giới từ** <small>(7 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là DANH TỪ sau giới từ** <small>(7 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p9)
 
 - 📖 *(Test 4)* Would you consider including my company, Petals Aplenty, on your list of **referrals**.?
 - 📖 *(Test 7)* The order of the speakers has been changed **in case** Mr. Chen arrives late.
@@ -187,7 +187,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là DANH TỪ** <small>(5 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là DANH TỪ** <small>(5 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p10)
 
 - 📖 *(Test 6)* Please note, however, that electric bicycles are not **equipment**.
 - 📖 *(Test 8)* **distinction**, I never hesitate to share my candid opinion, even when I receive free cameras and equipment.
@@ -200,7 +200,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là DANH TỪ làm tân ngữ của** <small>(4 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là DANH TỪ làm tân ngữ của** <small>(4 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p11)
 
 - 📖 *(Test 5)* Mr. Lenthe will distribute **copies** of the workshop agenda to all managers by Tuesday morning.
 - 📖 *(Test 1)* You are guaranteed to find something that will add **beauty**.
@@ -212,7 +212,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là DANH TỪ đứng trước danh từ (danh từ ghép)** <small>(4 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là DANH TỪ đứng trước danh từ (danh từ ghép)** <small>(4 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p12)
 
 - 📖 *(Test 2)* The Southport **manufacturing** plant is expected to begin production in three days.
 - 📖 *(Test 7)* The Devegas Peninsula features a wide range of **accommodation** options.
@@ -224,7 +224,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là DANH TỪ (đứng sau)** <small>(4 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là DANH TỪ (đứng sau)** <small>(4 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p13)
 
 - 📖 *(Test 2)* Safety must always be the top **priority** in each step of the glassblowing process.
 - 📖 *(Test 5)* The spray-on sealant **acts** as a protective layer that keeps your tiles from getting scratched.
@@ -236,7 +236,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là DANH TỪ làm chủ ngữ** <small>(4 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là DANH TỪ làm chủ ngữ** <small>(4 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-noun.md?id=p14)
 
 - 📖 *(Test 8)* **Advancements** in cloud computing have transformed the gaming industry in many ways.
 - 📖 *(Test 5)* **Weakness** in the housing market has continued to drag down real estate profits.
@@ -254,24 +254,24 @@
 
 ## 2. 👤 ĐẠI TỪ
 
-> 📚 Lý thuyết: [ĐẠI TỪ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md) · 1,139 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [ĐẠI TỪ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md) · 1,139 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-pron.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Tính từ sở hữu + N | 765 | 156 |
-| Đại từ chỉ định (this/that/these/those) | 56 | 35 |
-| Đại từ bất định | 52 | 14 |
-| 🎯 Đáp án là ĐẠI TỪ / TÍNH TỪ SỞ HỮU | 27 | 0 |
-| Đại từ phản thân | 6 | 4 |
-| one/ones thay cho danh từ | 9 | 1 |
-| those who … (những người mà) | 7 | 0 |
-| Đại từ sở hữu | 1 | 3 |
-| Đại từ hỗ tương | 1 | 1 |
-| that/those of (thay cho danh từ đã nhắc) | 1 | 0 |
+| [Tính từ sở hữu + N](ets-ngu-phap-full-pron.md?id=p1) | 765 | 156 |
+| [Đại từ chỉ định (this/that/these/those)](ets-ngu-phap-full-pron.md?id=p2) | 56 | 35 |
+| [Đại từ bất định](ets-ngu-phap-full-pron.md?id=p3) | 52 | 14 |
+| [🎯 Đáp án là ĐẠI TỪ / TÍNH TỪ SỞ HỮU](ets-ngu-phap-full-pron.md?id=p4) | 27 | 0 |
+| [Đại từ phản thân](ets-ngu-phap-full-pron.md?id=p5) | 6 | 4 |
+| [one/ones thay cho danh từ](ets-ngu-phap-full-pron.md?id=p6) | 9 | 1 |
+| [those who … (những người mà)](ets-ngu-phap-full-pron.md?id=p7) | 7 | 0 |
+| [Đại từ sở hữu](ets-ngu-phap-full-pron.md?id=p8) | 1 | 3 |
+| [Đại từ hỗ tương](ets-ngu-phap-full-pron.md?id=p9) | 1 | 1 |
+| [that/those of (thay cho danh từ đã nhắc)](ets-ngu-phap-full-pron.md?id=p10) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Tính từ sở hữu + N** <small>(765 câu Reading · 156 câu Listening)</small>
+**▸ Tính từ sở hữu + N** <small>(765 câu Reading · 156 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pron.md?id=p1)
 
 - 📖 *(Test 1)* We will listen to **your ideas** and offer suggestions that match your gardening desires.
 - 📖 *(Test 1)* The few questions she was unable to answer were quickly addressed by **her mentor**, Max.
@@ -288,7 +288,7 @@
 
 </details>
 
-**▸ Đại từ chỉ định (this/that/these/those)** <small>(56 câu Reading · 35 câu Listening)</small>
+**▸ Đại từ chỉ định (this/that/these/those)** <small>(56 câu Reading · 35 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pron.md?id=p2)
 
 - 📖 *(Test 2)* We would likely schedule you on a Tuesday, since **that** is typically our least busy day.
 - 📖 *(Test 6)* **This** allows components with intricate designs to be tailored to specific themes.
@@ -305,7 +305,7 @@
 
 </details>
 
-**▸ Đại từ bất định** <small>(52 câu Reading · 14 câu Listening)</small>
+**▸ Đại từ bất định** <small>(52 câu Reading · 14 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pron.md?id=p3)
 
 - 📖 *(Test 6)* I will gladly recommend the Cottonwood Apartments to **anyone** looking to rent in the area.
 - 📖 *(Test 1)* The sand has smoothed all the sharp edges, so they're perfectly safe for **everyone** to use.
@@ -322,7 +322,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là ĐẠI TỪ / TÍNH TỪ SỞ HỮU** <small>(27 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐẠI TỪ / TÍNH TỪ SỞ HỮU** <small>(27 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pron.md?id=p4)
 
 - 📖 *(Test 5)* Belker Auto offers a ten-year warranty for **those** who want greater peace of mind.
 - 📖 *(Test 8)* In particular, **they** commented on how simple it is to use the different features.
@@ -335,7 +335,7 @@
 
 </details>
 
-**▸ Đại từ phản thân** <small>(6 câu Reading · 4 câu Listening)</small>
+**▸ Đại từ phản thân** <small>(6 câu Reading · 4 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pron.md?id=p5)
 
 - 📖 *(Test 1)* Lawal Home Service **prides itself** on transparent communication and attention to detail.
 - 📖 *(Test 8)* In fact, I play in a band myself, and I try to model my style of playing after his. → *play myself*
@@ -350,7 +350,7 @@
 
 </details>
 
-**▸ one/ones thay cho danh từ** <small>(9 câu Reading · 1 câu Listening)</small>
+**▸ one/ones thay cho danh từ** <small>(9 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pron.md?id=p6)
 
 - 📖 *(Test 3)* I searched online and inquired at local shops, but no **one** had quite what I wanted.
 - 📖 *(Test 10)* Some reviewers of the television series believe that the third season might be even better than the previous **ones**.
@@ -364,7 +364,7 @@
 
 </details>
 
-**▸ those who … (những người mà)** <small>(7 câu Reading · 0 câu Listening)</small>
+**▸ those who … (những người mà)** <small>(7 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pron.md?id=p7)
 
 - 📖 *(Test 5)* Belker Auto offers a ten-year warranty for **those who** want greater peace of mind.
 - 📖 *(Test 7)* For **those who** need to create an account, simply visit our Web site.
@@ -377,7 +377,7 @@
 
 </details>
 
-**▸ Đại từ sở hữu** <small>(1 câu Reading · 3 câu Listening)</small>
+**▸ Đại từ sở hữu** <small>(1 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pron.md?id=p8)
 
 - 📖 *(Test 8)* Whether you want to use stickers as giveaways or to make extra cash, Stickers Be **Yours** has you covered.
 - 🎧 *(Test 1)* You can borrow **mine**.
@@ -389,12 +389,12 @@
 
 </details>
 
-**▸ Đại từ hỗ tương** <small>(1 câu Reading · 1 câu Listening)</small>
+**▸ Đại từ hỗ tương** <small>(1 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pron.md?id=p9)
 
 - 📖 *(Test 1)* Please take a moment to congratulate **each other**.
 - 🎧 *(Test 3)* They're seated next to **each other**.
 
-**▸ that/those of (thay cho danh từ đã nhắc)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ that/those of (thay cho danh từ đã nhắc)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pron.md?id=p10)
 
 - 📖 *(Test 4)* I am planning to contribute a piece of art again this year, but I've noticed its subject is very similar to **that of** another piece listed in your e-mail attachment.
 
@@ -404,24 +404,24 @@
 
 ## 3. 🤝 SỰ HÒA HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ
 
-> 📚 Lý thuyết: [SỰ HÒA HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) · 266 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [SỰ HÒA HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) · 266 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-sva.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Chủ ngữ chính đứng trước cụm giới từ xen giữa → chia theo chủ ngữ chính | 99 | 19 |
-| There + be + N (động từ chia theo danh từ phía sau) | 20 | 20 |
-| Danh từ tập hợp làm chủ ngữ (staff/team/committee…) | 18 | 18 |
-| Chủ ngữ chính đứng trước mệnh đề/cụm phân từ xen giữa → chia theo chủ ngữ chính | 25 | 0 |
-| Chủ ngữ ghép A and B → động từ số nhiều | 18 | 1 |
-| Đại từ bất định làm chủ ngữ → động từ số ít | 10 | 5 |
-| most/all/half/majority of + N → động từ chia theo N sau of | 8 | 0 |
-| Each/Every + N số ít → động từ số ít | 3 | 0 |
-| V-ing làm chủ ngữ → động từ số ít | 1 | 0 |
-| none of + N → động từ (thường) số ít | 1 | 0 |
+| [Chủ ngữ chính đứng trước cụm giới từ xen giữa → chia theo chủ ngữ chính](ets-ngu-phap-full-sva.md?id=p1) | 99 | 19 |
+| [There + be + N (động từ chia theo danh từ phía sau)](ets-ngu-phap-full-sva.md?id=p2) | 20 | 20 |
+| [Danh từ tập hợp làm chủ ngữ (staff/team/committee…)](ets-ngu-phap-full-sva.md?id=p3) | 18 | 18 |
+| [Chủ ngữ chính đứng trước mệnh đề/cụm phân từ xen giữa → chia theo chủ ngữ chính](ets-ngu-phap-full-sva.md?id=p4) | 25 | 0 |
+| [Chủ ngữ ghép A and B → động từ số nhiều](ets-ngu-phap-full-sva.md?id=p5) | 18 | 1 |
+| [Đại từ bất định làm chủ ngữ → động từ số ít](ets-ngu-phap-full-sva.md?id=p6) | 10 | 5 |
+| [most/all/half/majority of + N → động từ chia theo N sau of](ets-ngu-phap-full-sva.md?id=p7) | 8 | 0 |
+| [Each/Every + N số ít → động từ số ít](ets-ngu-phap-full-sva.md?id=p8) | 3 | 0 |
+| [V-ing làm chủ ngữ → động từ số ít](ets-ngu-phap-full-sva.md?id=p9) | 1 | 0 |
+| [none of + N → động từ (thường) số ít](ets-ngu-phap-full-sva.md?id=p10) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Chủ ngữ chính đứng trước cụm giới từ xen giữa → chia theo chủ ngữ chính** <small>(99 câu Reading · 19 câu Listening)</small>
+**▸ Chủ ngữ chính đứng trước cụm giới từ xen giữa → chia theo chủ ngữ chính** <small>(99 câu Reading · 19 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sva.md?id=p1)
 
 - 📖 *(Test 9)* As you know, the **period** from June 1 through August 31 is ordinarily our busiest time.
 - 📖 *(Test 8)* **Advancements** in cloud computing have transformed the gaming industry in many ways.
@@ -438,7 +438,7 @@
 
 </details>
 
-**▸ There + be + N (động từ chia theo danh từ phía sau)** <small>(20 câu Reading · 20 câu Listening)</small>
+**▸ There + be + N (động từ chia theo danh từ phía sau)** <small>(20 câu Reading · 20 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sva.md?id=p2)
 
 - 📖 *(Test 10)* There has been a noticeable decrease in requests for customer support this quarter. → *There has a noticeable decrease…*
 - 📖 *(Test 9)* Though **there is no set length** for personal statements, employers sometimes offer guidelines.
@@ -455,7 +455,7 @@
 
 </details>
 
-**▸ Danh từ tập hợp làm chủ ngữ (staff/team/committee…)** <small>(18 câu Reading · 18 câu Listening)</small>
+**▸ Danh từ tập hợp làm chủ ngữ (staff/team/committee…)** <small>(18 câu Reading · 18 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sva.md?id=p3)
 
 - 📖 *(Test 1)* My design **team** **is** in the process of finalizing the plans for your living room.
 - 📖 *(Test 6)* The first-aid **class** usually **fills** up quickly, so prompt registration is recommended.
@@ -472,7 +472,7 @@
 
 </details>
 
-**▸ Chủ ngữ chính đứng trước mệnh đề/cụm phân từ xen giữa → chia theo chủ ngữ chính** <small>(25 câu Reading · 0 câu Listening)</small>
+**▸ Chủ ngữ chính đứng trước mệnh đề/cụm phân từ xen giữa → chia theo chủ ngữ chính** <small>(25 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sva.md?id=p4)
 
 - 📖 *(Test 1)* The few **questions** she was unable to answer were quickly addressed by her mentor, Max.
 - 📖 *(Test 9)* Your previous in-depth **report** that led to the repair work on that bridge was excellent.
@@ -485,7 +485,7 @@
 
 </details>
 
-**▸ Chủ ngữ ghép A and B → động từ số nhiều** <small>(18 câu Reading · 1 câu Listening)</small>
+**▸ Chủ ngữ ghép A and B → động từ số nhiều** <small>(18 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sva.md?id=p5)
 
 - 📖 *(Test 8)* Matt **Grimm and** the other band members **love** the stickers, which are selling very well.
 - 📖 *(Test 5)* Free first aid **training and** certification **are** available twice yearly to all employees.
@@ -499,7 +499,7 @@
 
 </details>
 
-**▸ Đại từ bất định làm chủ ngữ → động từ số ít** <small>(10 câu Reading · 5 câu Listening)</small>
+**▸ Đại từ bất định làm chủ ngữ → động từ số ít** <small>(10 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sva.md?id=p6)
 
 - 📖 *(Test 4)* **Whoever** **prepares** the patient's medical records is required to maintain confidentiality.
 - 📖 *(Test 9)* **Nothing** **appears** to be critical, but given its age, I expect some preventive work may be required.
@@ -516,7 +516,7 @@
 
 </details>
 
-**▸ most/all/half/majority of + N → động từ chia theo N sau of** <small>(8 câu Reading · 0 câu Listening)</small>
+**▸ most/all/half/majority of + N → động từ chia theo N sau of** <small>(8 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sva.md?id=p7)
 
 - 📖 *(Test 9)* **Most of** the changes from Teleteknic's previous phone models **are** minor.
 - 📖 *(Test 10)* The **majority of** the company's employees **commute** to work by train.
@@ -529,17 +529,17 @@
 
 </details>
 
-**▸ Each/Every + N số ít → động từ số ít** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ Each/Every + N số ít → động từ số ít** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sva.md?id=p8)
 
 - 📖 *(Test 7)* **Each bicycle** **has** been refurbished by a certified technician to ensure a smooth, safe ride.
 - 📖 *(Test 7)* While **each seminar** **is** typically one hour long, planning and preparation are also part of our activities.
 - 📖 *(Test 3)* **Each department** **has** been asked to develop an action plan in response to the budget cuts announced last week.
 
-**▸ V-ing làm chủ ngữ → động từ số ít** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ V-ing làm chủ ngữ → động từ số ít** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sva.md?id=p9)
 
 - 📖 *(Test 6)* **Manufacturing** all its products in-house **allows** Long Bridge Steel Corp. to control every aspect of the production process.
 
-**▸ none of + N → động từ (thường) số ít** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ none of + N → động từ (thường) số ít** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sva.md?id=p10)
 
 - 📖 *(Test 6)* We appreciate your having created an illustrated list of all the native flowers and trees growing wild on your property; **none of** our other hosts **offers** anything like this.
 
@@ -549,27 +549,27 @@
 
 ## 4. 🎨 TÍNH TỪ
 
-> 📚 Lý thuyết: [TÍNH TỪ](T%C3%ADnh%20T%E1%BB%AB.md) · 1,213 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [TÍNH TỪ](T%C3%ADnh%20T%E1%BB%AB.md) · 1,213 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-adj.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Tính từ làm bổ ngữ sau be | 373 | 137 |
-| Tính từ + giới từ | 194 | 29 |
-| Tính từ dạng V3/-ed (phân từ quá khứ) | 100 | 9 |
-| Tính từ đuôi -ed (cảm nhận / bị tác động) | 92 | 13 |
-| Tính từ ghép có gạch nối | 60 | 4 |
-| Tính từ dạng V-ing (phân từ hiện tại) | 59 | 4 |
-| Tính từ đuôi -ing (tính chất / gây ra) | 35 | 11 |
-| 🎯 Đáp án là TÍNH TỪ bổ nghĩa cho danh từ | 44 | 0 |
-| Tính từ sau động từ nối (become/remain/seem…) | 18 | 6 |
-| 🎯 Đáp án là TÍNH TỪ làm bổ ngữ sau | 11 | 0 |
-| Tính từ sau tân ngữ (make/keep/find + O + adj) | 8 | 2 |
-| 🎯 Đáp án là TÍNH TỪ | 3 | 0 |
-| 🎯 Đáp án là V3/-ed (phân từ quá khứ — mang nghĩa bị động) | 1 | 0 |
+| [Tính từ làm bổ ngữ sau be](ets-ngu-phap-full-adj.md?id=p1) | 373 | 137 |
+| [Tính từ + giới từ](ets-ngu-phap-full-adj.md?id=p2) | 194 | 29 |
+| [Tính từ dạng V3/-ed (phân từ quá khứ)](ets-ngu-phap-full-adj.md?id=p3) | 100 | 9 |
+| [Tính từ đuôi -ed (cảm nhận / bị tác động)](ets-ngu-phap-full-adj.md?id=p4) | 92 | 13 |
+| [Tính từ ghép có gạch nối](ets-ngu-phap-full-adj.md?id=p5) | 60 | 4 |
+| [Tính từ dạng V-ing (phân từ hiện tại)](ets-ngu-phap-full-adj.md?id=p6) | 59 | 4 |
+| [Tính từ đuôi -ing (tính chất / gây ra)](ets-ngu-phap-full-adj.md?id=p7) | 35 | 11 |
+| [🎯 Đáp án là TÍNH TỪ bổ nghĩa cho danh từ](ets-ngu-phap-full-adj.md?id=p8) | 44 | 0 |
+| [Tính từ sau động từ nối (become/remain/seem…)](ets-ngu-phap-full-adj.md?id=p9) | 18 | 6 |
+| [🎯 Đáp án là TÍNH TỪ làm bổ ngữ sau](ets-ngu-phap-full-adj.md?id=p10) | 11 | 0 |
+| [Tính từ sau tân ngữ (make/keep/find + O + adj)](ets-ngu-phap-full-adj.md?id=p11) | 8 | 2 |
+| [🎯 Đáp án là TÍNH TỪ](ets-ngu-phap-full-adj.md?id=p12) | 3 | 0 |
+| [🎯 Đáp án là V3/-ed (phân từ quá khứ — mang nghĩa bị động)](ets-ngu-phap-full-adj.md?id=p13) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Tính từ làm bổ ngữ sau be** <small>(373 câu Reading · 137 câu Listening)</small>
+**▸ Tính từ làm bổ ngữ sau be** <small>(373 câu Reading · 137 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p1)
 
 - 📖 *(Test 1)* The few questions she **was unable** to answer were quickly addressed by her mentor, Max.
 - 📖 *(Test 6)* Small batches **are ideal** for limited-edition games and new versions of existing games.
@@ -586,7 +586,7 @@
 
 </details>
 
-**▸ Tính từ + giới từ** <small>(194 câu Reading · 29 câu Listening)</small>
+**▸ Tính từ + giới từ** <small>(194 câu Reading · 29 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p2)
 
 - 📖 *(Test 6)* Small batches are **ideal for** limited-edition games and new versions of existing games.
 - 📖 *(Test 7)* The vehicles must be offered at a price that is **reasonable for** the average consumer.”
@@ -603,7 +603,7 @@
 
 </details>
 
-**▸ Tính từ dạng V3/-ed (phân từ quá khứ)** <small>(100 câu Reading · 9 câu Listening)</small>
+**▸ Tính từ dạng V3/-ed (phân từ quá khứ)** <small>(100 câu Reading · 9 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p3)
 
 - 📖 *(Test 3)* That is where the hit musical Skyscraping is now playing to packed houses most nights. → *hit Skyscraping*
 - 📖 *(Test 6)* Mayor Park plans to meet with his campaign staff following the **televised debate**.
@@ -620,7 +620,7 @@
 
 </details>
 
-**▸ Tính từ đuôi -ed (cảm nhận / bị tác động)** <small>(92 câu Reading · 13 câu Listening)</small>
+**▸ Tính từ đuôi -ed (cảm nhận / bị tác động)** <small>(92 câu Reading · 13 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p4)
 
 - 📖 *(Test 6)* Small batches are ideal for limited-edition games and new versions of existing games. → *limited edition*
 - 📖 *(Test 1)* We are **delighted** to celebrate your 30th anniversary with Brandrix Distribution Centre.
@@ -637,7 +637,7 @@
 
 </details>
 
-**▸ Tính từ ghép có gạch nối** <small>(60 câu Reading · 4 câu Listening)</small>
+**▸ Tính từ ghép có gạch nối** <small>(60 câu Reading · 4 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p5)
 
 - 📖 *(Test 6)* Small batches are ideal for **limited-edition** games and new versions of existing games.
 - 📖 *(Test 2)* The new cards will be printed on a **higher-quality** paper stock, as many of you requested.
@@ -654,7 +654,7 @@
 
 </details>
 
-**▸ Tính từ dạng V-ing (phân từ hiện tại)** <small>(59 câu Reading · 4 câu Listening)</small>
+**▸ Tính từ dạng V-ing (phân từ hiện tại)** <small>(59 câu Reading · 4 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p6)
 
 - 📖 *(Test 8)* Day passes to Good Stuff Theme Park in Manchester will be awarded to the **winning team**.
 - 📖 *(Test 10)* In the event that this requirement is not met, a $50 **restocking fee** will be charged.
@@ -670,7 +670,7 @@
 
 </details>
 
-**▸ Tính từ đuôi -ing (tính chất / gây ra)** <small>(35 câu Reading · 11 câu Listening)</small>
+**▸ Tính từ đuôi -ing (tính chất / gây ra)** <small>(35 câu Reading · 11 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p7)
 
 - 📖 *(Test 6)* Small batches are ideal for limited-edition games and new versions of **existing games**.
 - 📖 *(Test 4)* We encourage residents to visit this page often to learn about upcoming volunteer events. → *upcoming events*
@@ -687,7 +687,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là TÍNH TỪ bổ nghĩa cho danh từ** <small>(44 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là TÍNH TỪ bổ nghĩa cho danh từ** <small>(44 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p8)
 
 - 📖 *(Test 1)* The store's entire inventory of lumber comes from a nearby **commercial** supplier.
 - 📖 *(Test 1)* For a $95 **diagnostic** fee, our mechanics will determine what repairs are needed.
@@ -700,7 +700,7 @@
 
 </details>
 
-**▸ Tính từ sau động từ nối (become/remain/seem…)** <small>(18 câu Reading · 6 câu Listening)</small>
+**▸ Tính từ sau động từ nối (become/remain/seem…)** <small>(18 câu Reading · 6 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p9)
 
 - 📖 *(Test 3)* EDINBURGH (2 July)—Jackson Milne says being part of a family business **feels good**.
 - 📖 *(Test 2)* I felt so relaxed when I finally returned to my office and got back to work. → *felt relaxed*
@@ -714,7 +714,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là TÍNH TỪ làm bổ ngữ sau** <small>(11 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là TÍNH TỪ làm bổ ngữ sau** <small>(11 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p10)
 
 - 📖 *(Test 4)* Ten board members plan to attend, which is just **enough** to approve the proposal.
 - 📖 *(Test 6)* It is important to be especially **polite** when in the company of new clients.
@@ -727,7 +727,7 @@
 
 </details>
 
-**▸ Tính từ sau tân ngữ (make/keep/find + O + adj)** <small>(8 câu Reading · 2 câu Listening)</small>
+**▸ Tính từ sau tân ngữ (make/keep/find + O + adj)** <small>(8 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p11)
 
 - 📖 *(Test 8)* Mackay reveals Maalim's strengths and shortcomings, **making** the book more **credible**.
 - 📖 *(Test 1)* We hope you **found** our services **satisfactory**, and we welcome suggestions for improvement.
@@ -742,13 +742,13 @@
 
 </details>
 
-**▸ 🎯 Đáp án là TÍNH TỪ** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là TÍNH TỪ** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p12)
 
 - 📖 *(Test 7)* Rosemont Department Store employees are said to be very well-informed, **personable**, and responsive.
 - 📖 *(Test 5)* Of all the mistakes people make in the office, not proofreading their e-mails is one of the **most common**.
 - 📖 *(Test 2)* We could address this drainage issue in **several**.
 
-**▸ 🎯 Đáp án là V3/-ed (phân từ quá khứ — mang nghĩa bị động)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là V3/-ed (phân từ quá khứ — mang nghĩa bị động)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adj.md?id=p13)
 
 - 📖 *(Test 2)* It's such a **fast-paced** environment.
 
@@ -758,30 +758,30 @@
 
 ## 5. ⚡ TRẠNG TỪ
 
-> 📚 Lý thuyết: [TRẠNG TỪ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md) · 747 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [TRẠNG TỪ](Tr%E1%BA%A1ng%20T%E1%BB%AB.md) · 747 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-adv.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Trạng từ chỉ thời gian (already/recently/soon…) | 137 | 53 |
-| Trạng từ đứng giữa trợ động từ và động từ chính | 75 | 9 |
-| Trạng từ đứng trước động từ | 60 | 12 |
-| Trạng từ chỉ mức độ + tính từ/trạng từ | 45 | 24 |
-| Trạng từ đứng sau động từ/tân ngữ | 49 | 14 |
-| Trạng từ bổ nghĩa cho tính từ | 42 | 7 |
-| 🎯 Đáp án là TRẠNG TỪ bổ nghĩa cho động từ | 48 | 0 |
-| Trạng từ tần suất | 38 | 9 |
-| also (vị trí: sau be/trợ động từ, trước động từ thường) | 40 | 3 |
-| Trạng từ đầu câu bổ nghĩa cả câu | 20 | 5 |
-| Trạng từ nhấn mạnh only | 14 | 2 |
-| Trạng từ chỉ mức độ xấp xỉ (nearly/almost/approximately) | 11 | 2 |
-| Trạng từ nhấn mạnh even | 9 | 2 |
-| 🎯 Đáp án là TRẠNG TỪ | 10 | 0 |
-| 🎯 Đáp án là TRẠNG TỪ bổ nghĩa cho tính từ | 5 | 0 |
-| Trạng từ bổ nghĩa cho trạng từ | 2 | 0 |
+| [Trạng từ chỉ thời gian (already/recently/soon…)](ets-ngu-phap-full-adv.md?id=p1) | 137 | 53 |
+| [Trạng từ đứng giữa trợ động từ và động từ chính](ets-ngu-phap-full-adv.md?id=p2) | 75 | 9 |
+| [Trạng từ đứng trước động từ](ets-ngu-phap-full-adv.md?id=p3) | 60 | 12 |
+| [Trạng từ chỉ mức độ + tính từ/trạng từ](ets-ngu-phap-full-adv.md?id=p4) | 45 | 24 |
+| [Trạng từ đứng sau động từ/tân ngữ](ets-ngu-phap-full-adv.md?id=p5) | 49 | 14 |
+| [Trạng từ bổ nghĩa cho tính từ](ets-ngu-phap-full-adv.md?id=p6) | 42 | 7 |
+| [🎯 Đáp án là TRẠNG TỪ bổ nghĩa cho động từ](ets-ngu-phap-full-adv.md?id=p7) | 48 | 0 |
+| [Trạng từ tần suất](ets-ngu-phap-full-adv.md?id=p8) | 38 | 9 |
+| [also (vị trí: sau be/trợ động từ, trước động từ thường)](ets-ngu-phap-full-adv.md?id=p9) | 40 | 3 |
+| [Trạng từ đầu câu bổ nghĩa cả câu](ets-ngu-phap-full-adv.md?id=p10) | 20 | 5 |
+| [Trạng từ nhấn mạnh only](ets-ngu-phap-full-adv.md?id=p11) | 14 | 2 |
+| [Trạng từ chỉ mức độ xấp xỉ (nearly/almost/approximately)](ets-ngu-phap-full-adv.md?id=p12) | 11 | 2 |
+| [Trạng từ nhấn mạnh even](ets-ngu-phap-full-adv.md?id=p13) | 9 | 2 |
+| [🎯 Đáp án là TRẠNG TỪ](ets-ngu-phap-full-adv.md?id=p14) | 10 | 0 |
+| [🎯 Đáp án là TRẠNG TỪ bổ nghĩa cho tính từ](ets-ngu-phap-full-adv.md?id=p15) | 5 | 0 |
+| [Trạng từ bổ nghĩa cho trạng từ](ets-ngu-phap-full-adv.md?id=p16) | 2 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Trạng từ chỉ thời gian (already/recently/soon…)** <small>(137 câu Reading · 53 câu Listening)</small>
+**▸ Trạng từ chỉ thời gian (already/recently/soon…)** <small>(137 câu Reading · 53 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p1)
 
 - 📖 *(Test 6)* **Finally**, on Saturday, 500 tree saplings will be offered to residents free of charge.
 - 📖 *(Test 4)* Ten board members plan to attend, which is **just** enough to approve the proposal.
@@ -798,7 +798,7 @@
 
 </details>
 
-**▸ Trạng từ đứng giữa trợ động từ và động từ chính** <small>(75 câu Reading · 9 câu Listening)</small>
+**▸ Trạng từ đứng giữa trợ động từ và động từ chính** <small>(75 câu Reading · 9 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p2)
 
 - 📖 *(Test 1)* The few questions she was unable to answer **were quickly addressed** by her mentor, Max.
 - 📖 *(Test 2)* We **would likely schedule** you on a Tuesday, since that is typically our least busy day.
@@ -815,7 +815,7 @@
 
 </details>
 
-**▸ Trạng từ đứng trước động từ** <small>(60 câu Reading · 12 câu Listening)</small>
+**▸ Trạng từ đứng trước động từ** <small>(60 câu Reading · 12 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p3)
 
 - 📖 *(Test 9)* To avoid account deactivation on 20 July, **simply sign** in to the app before that date.
 - 📖 *(Test 9)* It **definitely needs** routine maintenance, and we may have to plan some additional work.
@@ -830,7 +830,7 @@
 
 </details>
 
-**▸ Trạng từ chỉ mức độ + tính từ/trạng từ** <small>(45 câu Reading · 24 câu Listening)</small>
+**▸ Trạng từ chỉ mức độ + tính từ/trạng từ** <small>(45 câu Reading · 24 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p4)
 
 - 📖 *(Test 8)* Matt Grimm and the other band members love the stickers, which are selling **very well**.
 - 📖 *(Test 3)* I hadn't been to the city in quite a while—more than 25 years—and **so much** has changed!
@@ -847,7 +847,7 @@
 
 </details>
 
-**▸ Trạng từ đứng sau động từ/tân ngữ** <small>(49 câu Reading · 14 câu Listening)</small>
+**▸ Trạng từ đứng sau động từ/tân ngữ** <small>(49 câu Reading · 14 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p5)
 
 - 📖 *(Test 9)* As you know, the period from June 1 through August 31 **is** **ordinarily** our busiest time.
 - 📖 *(Test 6)* We will even **bring** samples **directly** to you to help you make your design selections.
@@ -864,7 +864,7 @@
 
 </details>
 
-**▸ Trạng từ bổ nghĩa cho tính từ** <small>(42 câu Reading · 7 câu Listening)</small>
+**▸ Trạng từ bổ nghĩa cho tính từ** <small>(42 câu Reading · 7 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p6)
 
 - 📖 *(Test 5)* Free first aid training and certification are available twice yearly to all employees. → *yearly available*
 - 📖 *(Test 10)* MCAC is open daily from 10:00 A.M. to 5:00 P.M. Admission to the art center is free. → *daily open*
@@ -881,7 +881,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là TRẠNG TỪ bổ nghĩa cho động từ** <small>(48 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là TRẠNG TỪ bổ nghĩa cho động từ** <small>(48 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p7)
 
 - 📖 *(Test 7)* GT International Foods sells unique products that are difficult to find **elsewhere**.
 - 📖 *(Test 1)* The hiring manager **carefully** considered each applicant's résumé and qualifications.
@@ -894,7 +894,7 @@
 
 </details>
 
-**▸ Trạng từ tần suất** <small>(38 câu Reading · 9 câu Listening)</small>
+**▸ Trạng từ tần suất** <small>(38 câu Reading · 9 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p8)
 
 - 📖 *(Test 2)* Safety must **always be** the top priority in each step of the glassblowing process.
 - 📖 *(Test 2)* We would likely schedule you on a Tuesday, since that **is typically** our least busy day.
@@ -911,7 +911,7 @@
 
 </details>
 
-**▸ also (vị trí: sau be/trợ động từ, trước động từ thường)** <small>(40 câu Reading · 3 câu Listening)</small>
+**▸ also (vị trí: sau be/trợ động từ, trước động từ thường)** <small>(40 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p9)
 
 - 📖 *(Test 4)* They could **also send** us a picture of their home office with our calendar in the image.
 - 📖 *(Test 9)* The Cirro model **also includes** an electronic stylus for writing or drawing on the screen.
@@ -927,7 +927,7 @@
 
 </details>
 
-**▸ Trạng từ đầu câu bổ nghĩa cả câu** <small>(20 câu Reading · 5 câu Listening)</small>
+**▸ Trạng từ đầu câu bổ nghĩa cả câu** <small>(20 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p10)
 
 - 📖 *(Test 8)* **Unfortunately**, we cannot provide an exact time for the delivery of the new laptops.
 - 📖 *(Test 3)* **Additionally**, MLP gives us the option of having candidates audition by providing video recordings.
@@ -943,7 +943,7 @@
 
 </details>
 
-**▸ Trạng từ nhấn mạnh only** <small>(14 câu Reading · 2 câu Listening)</small>
+**▸ Trạng từ nhấn mạnh only** <small>(14 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p11)
 
 - 📖 *(Test 2)* We can assure you that Gernack Home installs **only products** of the highest quality.
 - 📖 *(Test 2)* The code is valid for one-time use **only and** expires 24 hours after being sent.
@@ -957,7 +957,7 @@
 
 </details>
 
-**▸ Trạng từ chỉ mức độ xấp xỉ (nearly/almost/approximately)** <small>(11 câu Reading · 2 câu Listening)</small>
+**▸ Trạng từ chỉ mức độ xấp xỉ (nearly/almost/approximately)** <small>(11 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p12)
 
 - 📖 *(Test 6)* The installation of new benches throughout Haverford Park will cost **roughly €**5,000.
 - 📖 *(Test 6)* **Almost 4,000** Urlvac trash removal systems are in use in the eastern region.
@@ -971,7 +971,7 @@
 
 </details>
 
-**▸ Trạng từ nhấn mạnh even** <small>(9 câu Reading · 2 câu Listening)</small>
+**▸ Trạng từ nhấn mạnh even** <small>(9 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p13)
 
 - 📖 *(Test 6)* We will **even bring** samples directly to you to help you make your design selections.
 - 📖 *(Test 7)* You are **even entitled** to a free scoop at any Brice's Ice Creamery on your birthday.
@@ -986,7 +986,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là TRẠNG TỪ** <small>(10 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là TRẠNG TỪ** <small>(10 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p14)
 
 - 📖 *(Test 6)* The installation of new benches throughout Haverford Park will cost **roughly** €5,000.
 - 📖 *(Test 6)* The conference schedule will be posted online **rather than** mailed to attendees.
@@ -999,7 +999,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là TRẠNG TỪ bổ nghĩa cho tính từ** <small>(5 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là TRẠNG TỪ bổ nghĩa cho tính từ** <small>(5 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p15)
 
 - 📖 *(Test 5)* The experiment's initial results were **wildly** different from what was expected.
 - 📖 *(Test 9)* Once considered a specialty product, shoes made from recycled materials are now **widely** available.
@@ -1012,7 +1012,7 @@
 
 </details>
 
-**▸ Trạng từ bổ nghĩa cho trạng từ** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ Trạng từ bổ nghĩa cho trạng từ** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-adv.md?id=p16)
 
 - 📖 *(Test 9)* Finally, ensure that you have **carefully proofread** your statement before submitting it.
 - 📖 *(Test 4)* Everyone agrees that the photos and the accompanying content do not seem to market the calendars **strongly enough**.
@@ -1023,27 +1023,27 @@
 
 ## 6. 📊 SO SÁNH CỦA TÍNH TỪ VÀ TRẠNG TỪ
 
-> 📚 Lý thuyết: [SO SÁNH CỦA TÍNH TỪ VÀ TRẠNG TỪ](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md) · 413 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [SO SÁNH CỦA TÍNH TỪ VÀ TRẠNG TỪ](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md) · 413 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-comp.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| So sánh nhất (the … -est / the most …) | 186 | 52 |
-| So sánh hơn (không có than) | 58 | 17 |
-| So sánh hơn với danh từ (more/fewer/less + N) | 23 | 5 |
-| So sánh hơn (… than) | 23 | 1 |
-| Từ nhấn mạnh so sánh hơn (much/even/far/significantly) | 15 | 2 |
-| So sánh ngang bằng (as … as) | 8 | 3 |
-| more/less than + số lượng | 9 | 1 |
-| Cấu trúc so sánh khác (similar to/different from…) | 4 | 0 |
-| one of the + so sánh nhất + N số nhiều | 2 | 0 |
-| as many/much + N + as | 1 | 0 |
-| by far + so sánh nhất | 1 | 0 |
-| the same (N) as | 1 | 0 |
-| So sánh không bằng (not as … as) | 1 | 0 |
+| [So sánh nhất (the … -est / the most …)](ets-ngu-phap-full-comp.md?id=p1) | 186 | 52 |
+| [So sánh hơn (không có than)](ets-ngu-phap-full-comp.md?id=p2) | 58 | 17 |
+| [So sánh hơn với danh từ (more/fewer/less + N)](ets-ngu-phap-full-comp.md?id=p3) | 23 | 5 |
+| [So sánh hơn (… than)](ets-ngu-phap-full-comp.md?id=p4) | 23 | 1 |
+| [Từ nhấn mạnh so sánh hơn (much/even/far/significantly)](ets-ngu-phap-full-comp.md?id=p5) | 15 | 2 |
+| [So sánh ngang bằng (as … as)](ets-ngu-phap-full-comp.md?id=p6) | 8 | 3 |
+| [more/less than + số lượng](ets-ngu-phap-full-comp.md?id=p7) | 9 | 1 |
+| [Cấu trúc so sánh khác (similar to/different from…)](ets-ngu-phap-full-comp.md?id=p8) | 4 | 0 |
+| [one of the + so sánh nhất + N số nhiều](ets-ngu-phap-full-comp.md?id=p9) | 2 | 0 |
+| [as many/much + N + as](ets-ngu-phap-full-comp.md?id=p10) | 1 | 0 |
+| [by far + so sánh nhất](ets-ngu-phap-full-comp.md?id=p11) | 1 | 0 |
+| [the same (N) as](ets-ngu-phap-full-comp.md?id=p12) | 1 | 0 |
+| [So sánh không bằng (not as … as)](ets-ngu-phap-full-comp.md?id=p13) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ So sánh nhất (the … -est / the most …)** <small>(186 câu Reading · 52 câu Listening)</small>
+**▸ So sánh nhất (the … -est / the most …)** <small>(186 câu Reading · 52 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p1)
 
 - 📖 *(Test 9)* As you know, the period from June 1 through August 31 is ordinarily our **busiest** time.
 - 📖 *(Test 2)* We would likely schedule you on a Tuesday, since that is typically our **least** busy day.
@@ -1060,7 +1060,7 @@
 
 </details>
 
-**▸ So sánh hơn (không có than)** <small>(58 câu Reading · 17 câu Listening)</small>
+**▸ So sánh hơn (không có than)** <small>(58 câu Reading · 17 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p2)
 
 - 📖 *(Test 10)* Maxwell Diego (4:04 P.M.) Then you'll have to wait ten **more** minutes before reopening.
 - 📖 *(Test 5)* Belker Auto offers a ten-year warranty for those who want **greater** peace of mind.
@@ -1077,7 +1077,7 @@
 
 </details>
 
-**▸ So sánh hơn với danh từ (more/fewer/less + N)** <small>(23 câu Reading · 5 câu Listening)</small>
+**▸ So sánh hơn với danh từ (more/fewer/less + N)** <small>(23 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p3)
 
 - 📖 *(Test 6)* Mr. Suh has requested that a more --- copy machine be purchased for the finance department. → *more machine*
 - 📖 *(Test 6)* The efficient redesign of the airline terminal led to fewer flight delays. → *fewer delays*
@@ -1092,7 +1092,7 @@
 
 </details>
 
-**▸ So sánh hơn (… than)** <small>(23 câu Reading · 1 câu Listening)</small>
+**▸ So sánh hơn (… than)** <small>(23 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p4)
 
 - 📖 *(Test 7)* If you want to move to an apartment larger or smaller than your current one, just let me know. → *larger than*
 - 📖 *(Test 2)* The presentations were **briefer than** we expected, so there was ample time left for questions.
@@ -1106,7 +1106,7 @@
 
 </details>
 
-**▸ Từ nhấn mạnh so sánh hơn (much/even/far/significantly)** <small>(15 câu Reading · 2 câu Listening)</small>
+**▸ Từ nhấn mạnh so sánh hơn (much/even/far/significantly)** <small>(15 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p5)
 
 - 📖 *(Test 2)* The new cards will be printed on **a higher**-quality paper stock, as many of you requested.
 - 📖 *(Test 6)* Mr. Suh has requested that **a more** --- copy machine be purchased for the finance department.
@@ -1120,7 +1120,7 @@
 
 </details>
 
-**▸ So sánh ngang bằng (as … as)** <small>(8 câu Reading · 3 câu Listening)</small>
+**▸ So sánh ngang bằng (as … as)** <small>(8 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p6)
 
 - 📖 *(Test 9)* You will receive a response **as soon as** possible but no later than Monday, May 8.
 - 📖 *(Test 1)* Please take a few minutes to complete the form with **as much detail as** possible.
@@ -1136,7 +1136,7 @@
 
 </details>
 
-**▸ more/less than + số lượng** <small>(9 câu Reading · 1 câu Listening)</small>
+**▸ more/less than + số lượng** <small>(9 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p7)
 
 - 📖 *(Test 3)* I hadn't been to the city in quite a while—**more than 25** years—and so much has changed!
 - 📖 *(Test 1)* With **more than 40** years in the landscape-design business, our expertise is unmatched.
@@ -1150,7 +1150,7 @@
 
 </details>
 
-**▸ Cấu trúc so sánh khác (similar to/different from…)** <small>(4 câu Reading · 0 câu Listening)</small>
+**▸ Cấu trúc so sánh khác (similar to/different from…)** <small>(4 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p8)
 
 - 📖 *(Test 5)* The experiment's initial results were wildly **different from** what was expected.
 - 📖 *(Test 1)* If you would **prefer not to** wait, we have a similar telescope made by another manufacturer, Belter Telescopes.
@@ -1162,23 +1162,23 @@
 
 </details>
 
-**▸ one of the + so sánh nhất + N số nhiều** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ one of the + so sánh nhất + N số nhiều** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p9)
 
 - 📖 *(Test 3)* The 100-year-old station is **one of the busiest in** the city, and it is in desperate need of repair.
 
-**▸ as many/much + N + as** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ as many/much + N + as** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p10)
 
 - 📖 *(Test 1)* Please take a few minutes to complete the form with **as much detail as** possible.
 
-**▸ by far + so sánh nhất** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ by far + so sánh nhất** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p11)
 
 - 📖 *(Test 4)* **By far**, the most impressive result of this program is the renovation of a former industrial building on Paxton Street.
 
-**▸ the same (N) as** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ the same (N) as** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p12)
 
 - 📖 *(Test 7)* We should hire **the same** number of workers **as** last year, but this time, all four should be full-time.
 
-**▸ So sánh không bằng (not as … as)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ So sánh không bằng (not as … as)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-comp.md?id=p13)
 
 - 📖 *(Test 8)* The desserts we had at Giovanni's Bistro were not **as delicious as** those we enjoyed at Monteverdi's Taverna.
 
@@ -1188,31 +1188,31 @@
 
 ## 7. 🏃 ĐỘNG TỪ
 
-> 📚 Lý thuyết: [ĐỘNG TỪ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) · 571 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [ĐỘNG TỪ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) · 571 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-verb.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Động từ khuyết thiếu can + V nguyên mẫu | 118 | 65 |
-| Động từ khuyết thiếu would + V nguyên mẫu | 51 | 18 |
-| Động từ + 2 tân ngữ (V + IO + DO) | 34 | 20 |
-| Động từ khuyết thiếu should + V nguyên mẫu | 32 | 22 |
-| Động từ khuyết thiếu could + V nguyên mẫu | 23 | 22 |
-| Động từ khuyết thiếu may + V nguyên mẫu | 37 | 6 |
-| Liên động từ (linking verb) + bổ ngữ | 31 | 8 |
-| Động từ khuyết thiếu must + V nguyên mẫu | 25 | 2 |
-| Động từ khuyết thiếu 'd + V nguyên mẫu | 5 | 10 |
-| Động từ khuyết thiếu might + V nguyên mẫu | 7 | 7 |
-| 🎯 Đáp án là ĐỘNG TỪ nguyên mẫu (sau modal/to/make/help…) | 10 | 0 |
-| Thể sai khiến have/get + O + V3 | 6 | 4 |
-| Câu giả định (suggest/require that + S + V nguyên mẫu) | 2 | 1 |
-| Động từ khuyết thiếu ’d + V nguyên mẫu | 2 | 0 |
-| Động từ khuyết thiếu ’ll + V nguyên mẫu | 1 | 0 |
-| Động từ khuyết thiếu ca + V nguyên mẫu | 0 | 1 |
-| Modal + have + V3 (may have done) | 1 | 0 |
+| [Động từ khuyết thiếu can + V nguyên mẫu](ets-ngu-phap-full-verb.md?id=p1) | 118 | 65 |
+| [Động từ khuyết thiếu would + V nguyên mẫu](ets-ngu-phap-full-verb.md?id=p2) | 51 | 18 |
+| [Động từ + 2 tân ngữ (V + IO + DO)](ets-ngu-phap-full-verb.md?id=p3) | 34 | 20 |
+| [Động từ khuyết thiếu should + V nguyên mẫu](ets-ngu-phap-full-verb.md?id=p4) | 32 | 22 |
+| [Động từ khuyết thiếu could + V nguyên mẫu](ets-ngu-phap-full-verb.md?id=p5) | 23 | 22 |
+| [Động từ khuyết thiếu may + V nguyên mẫu](ets-ngu-phap-full-verb.md?id=p6) | 37 | 6 |
+| [Liên động từ (linking verb) + bổ ngữ](ets-ngu-phap-full-verb.md?id=p7) | 31 | 8 |
+| [Động từ khuyết thiếu must + V nguyên mẫu](ets-ngu-phap-full-verb.md?id=p8) | 25 | 2 |
+| [Động từ khuyết thiếu 'd + V nguyên mẫu](ets-ngu-phap-full-verb.md?id=p9) | 5 | 10 |
+| [Động từ khuyết thiếu might + V nguyên mẫu](ets-ngu-phap-full-verb.md?id=p10) | 7 | 7 |
+| [🎯 Đáp án là ĐỘNG TỪ nguyên mẫu (sau modal/to/make/help…)](ets-ngu-phap-full-verb.md?id=p11) | 10 | 0 |
+| [Thể sai khiến have/get + O + V3](ets-ngu-phap-full-verb.md?id=p12) | 6 | 4 |
+| [Câu giả định (suggest/require that + S + V nguyên mẫu)](ets-ngu-phap-full-verb.md?id=p13) | 2 | 1 |
+| [Động từ khuyết thiếu ’d + V nguyên mẫu](ets-ngu-phap-full-verb.md?id=p14) | 2 | 0 |
+| [Động từ khuyết thiếu ’ll + V nguyên mẫu](ets-ngu-phap-full-verb.md?id=p15) | 1 | 0 |
+| [Động từ khuyết thiếu ca + V nguyên mẫu](ets-ngu-phap-full-verb.md?id=p16) | 0 | 1 |
+| [Modal + have + V3 (may have done)](ets-ngu-phap-full-verb.md?id=p17) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Động từ khuyết thiếu can + V nguyên mẫu** <small>(118 câu Reading · 65 câu Listening)</small>
+**▸ Động từ khuyết thiếu can + V nguyên mẫu** <small>(118 câu Reading · 65 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p1)
 
 - 📖 *(Test 10)* "The abundance of new characters **can make** the story challenging to follow," she said.
 - 📖 *(Test 2)* You **can request** the instructor of your choice, or we can match you with an instructor.
@@ -1229,7 +1229,7 @@
 
 </details>
 
-**▸ Động từ khuyết thiếu would + V nguyên mẫu** <small>(51 câu Reading · 18 câu Listening)</small>
+**▸ Động từ khuyết thiếu would + V nguyên mẫu** <small>(51 câu Reading · 18 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p2)
 
 - 📖 *(Test 10)* As part of our plan, we **would welcome** the opportunity to form a partnership with you.
 - 📖 *(Test 2)* We **would likely schedule** you on a Tuesday, since that is typically our least busy day.
@@ -1246,7 +1246,7 @@
 
 </details>
 
-**▸ Động từ + 2 tân ngữ (V + IO + DO)** <small>(34 câu Reading · 20 câu Listening)</small>
+**▸ Động từ + 2 tân ngữ (V + IO + DO)** <small>(34 câu Reading · 20 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p3)
 
 - 📖 *(Test 4)* They could also **send us** a **picture** of their home office with our calendar in the image.
 - 📖 *(Test 2)* Please **give me** a **call** whenever it is convenient so that we can talk about next steps.
@@ -1263,7 +1263,7 @@
 
 </details>
 
-**▸ Động từ khuyết thiếu should + V nguyên mẫu** <small>(32 câu Reading · 22 câu Listening)</small>
+**▸ Động từ khuyết thiếu should + V nguyên mẫu** <small>(32 câu Reading · 22 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p4)
 
 - 📖 *(Test 8)* All visitors to the factory **should use** the entrance on the north side of the building.
 - 📖 *(Test 4)* Her team **should be** able to get the pop-up window and social media links working again soon.
@@ -1280,7 +1280,7 @@
 
 </details>
 
-**▸ Động từ khuyết thiếu could + V nguyên mẫu** <small>(23 câu Reading · 22 câu Listening)</small>
+**▸ Động từ khuyết thiếu could + V nguyên mẫu** <small>(23 câu Reading · 22 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p5)
 
 - 📖 *(Test 4)* They **could also send** us a picture of their home office with our calendar in the image.
 - 📖 *(Test 4)* And I **could write** an explanation of how using the calendar helps me keep track of things.
@@ -1297,7 +1297,7 @@
 
 </details>
 
-**▸ Động từ khuyết thiếu may + V nguyên mẫu** <small>(37 câu Reading · 6 câu Listening)</small>
+**▸ Động từ khuyết thiếu may + V nguyên mẫu** <small>(37 câu Reading · 6 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p6)
 
 - 📖 *(Test 1)* The lecture will take place at 6:00 P.M., after which attendees **may ask** questions.
 - 📖 *(Test 9)* It definitely needs routine maintenance, and we **may have** to plan some additional work.
@@ -1312,7 +1312,7 @@
 
 </details>
 
-**▸ Liên động từ (linking verb) + bổ ngữ** <small>(31 câu Reading · 8 câu Listening)</small>
+**▸ Liên động từ (linking verb) + bổ ngữ** <small>(31 câu Reading · 8 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p7)
 
 - 📖 *(Test 2)* The eatery **became one of the area**'s most successful venues and remains so now.
 - 📖 *(Test 3)* EDINBURGH (2 July)—Jackson Milne says being part of a family business **feels good**.
@@ -1327,7 +1327,7 @@
 
 </details>
 
-**▸ Động từ khuyết thiếu must + V nguyên mẫu** <small>(25 câu Reading · 2 câu Listening)</small>
+**▸ Động từ khuyết thiếu must + V nguyên mẫu** <small>(25 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p8)
 
 - 📖 *(Test 2)* Safety **must always be** the top priority in each step of the glassblowing process.
 - 📖 *(Test 7)* Visitors **must park** in the designated parking area or risk having their vehicle towed.
@@ -1342,7 +1342,7 @@
 
 </details>
 
-**▸ Động từ khuyết thiếu 'd + V nguyên mẫu** <small>(5 câu Reading · 10 câu Listening)</small>
+**▸ Động từ khuyết thiếu 'd + V nguyên mẫu** <small>(5 câu Reading · 10 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p9)
 
 - 📖 *(Test 8)* I**'d love** to talk to you about the McMillan project before we meet with the client this afternoon.
 - 📖 *(Test 10)* If employees bring dishes for the picnic, I**'d be** happy to make something.
@@ -1358,7 +1358,7 @@
 
 </details>
 
-**▸ Động từ khuyết thiếu might + V nguyên mẫu** <small>(7 câu Reading · 7 câu Listening)</small>
+**▸ Động từ khuyết thiếu might + V nguyên mẫu** <small>(7 câu Reading · 7 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p10)
 
 - 📖 *(Test 2)* We wanted to take the opportunity to suggest some other items you **might like**.
 - 📖 *(Test 9)* “You **might explain**, for instance, how a person you respect had a positive impact on your life.”
@@ -1375,7 +1375,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ nguyên mẫu (sau modal/to/make/help…)** <small>(10 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ nguyên mẫu (sau modal/to/make/help…)** <small>(10 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p11)
 
 - 📖 *(Test 4)* The real estate agent may **provide** a buyer with a neighborhood analysis upon request.
 - 📖 *(Test 7)* **can be**, it will be In addition listed as a rental available to a new tenant on April 1.
@@ -1388,7 +1388,7 @@
 
 </details>
 
-**▸ Thể sai khiến have/get + O + V3** <small>(6 câu Reading · 4 câu Listening)</small>
+**▸ Thể sai khiến have/get + O + V3** <small>(6 câu Reading · 4 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p12)
 
 - 📖 *(Test 7)* Visitors must park in the designated parking area or risk **having** their vehicle **towed**.
 - 📖 *(Test 4)* Parking is 10 per hour unless you **get** your parking **validated** at a participating store.
@@ -1403,26 +1403,26 @@
 
 </details>
 
-**▸ Câu giả định (suggest/require that + S + V nguyên mẫu)** <small>(2 câu Reading · 1 câu Listening)</small>
+**▸ Câu giả định (suggest/require that + S + V nguyên mẫu)** <small>(2 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p13)
 
 - 📖 *(Test 9)* In any case, I **suggest** you **consider** moving up the date of the next in-depth inspection.
 - 📖 *(Test 6)* It is strongly **recommended** that employees **contact** senders of unwanted or junk mail and ask to be removed from those mailing lists.
 - 🎧 *(Test 7)* What **do**es the woman **suggest** the man do?
 
-**▸ Động từ khuyết thiếu ’d + V nguyên mẫu** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ Động từ khuyết thiếu ’d + V nguyên mẫu** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p14)
 
 - 📖 *(Test 5)* “I**’d like** to reach customers beyond the Greenwood area,” he said.
 - 📖 *(Test 4)* Helen Black (9:04 A.M.) I**’d be** happy to share a photo of my own setup—from one of the days that I’m working from home.
 
-**▸ Động từ khuyết thiếu ’ll + V nguyên mẫu** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Động từ khuyết thiếu ’ll + V nguyên mẫu** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p15)
 
 - 📖 *(Test 4)* Jeff Spina (9:08 A.M.) I**’ll speak** with Ryeo Jee about that.
 
-**▸ Động từ khuyết thiếu ca + V nguyên mẫu** <small>(0 câu Reading · 1 câu Listening)</small>
+**▸ Động từ khuyết thiếu ca + V nguyên mẫu** <small>(0 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p16)
 
 - 🎧 *(Test 8)* Can't you help me install this furniture? → *Ca n't help*
 
-**▸ Modal + have + V3 (may have done)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Modal + have + V3 (may have done)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-verb.md?id=p17)
 
 - 📖 *(Test 9)* As you **may have heard**, Jake Harris left our company last month to start his own business, leaving us without anyone to head our Graphic Design department.
 
@@ -1432,15 +1432,15 @@
 
 ## 8. 🧷 CỤM ĐỘNG TỪ
 
-> 📚 Lý thuyết: [CỤM ĐỘNG TỪ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) · 163 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [CỤM ĐỘNG TỪ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) · 163 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-phr.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Cụm động từ (V + tiểu từ) | 102 | 61 |
+| [Cụm động từ (V + tiểu từ)](ets-ngu-phap-full-phr.md?id=p1) | 102 | 61 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Cụm động từ (V + tiểu từ)** <small>(102 câu Reading · 61 câu Listening)</small>
+**▸ Cụm động từ (V + tiểu từ)** <small>(102 câu Reading · 61 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-phr.md?id=p1)
 
 - 📖 *(Test 9)* To avoid account deactivation on 20 July, simply **sign in** to the app before that date.
 - 📖 *(Test 1)* They are pieces of brown, green, and blue bottles that have washed up on the beach. → *wash up*
@@ -1463,33 +1463,33 @@
 
 ## 9. 🔁 CÂU BỊ ĐỘNG
 
-> 📚 Lý thuyết: [CÂU BỊ ĐỘNG](C%C3%A2u%20B%E1%BB%8B%20%C4%90%E1%BB%99ng.md) · 657 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [CÂU BỊ ĐỘNG](C%C3%A2u%20B%E1%BB%8B%20%C4%90%E1%BB%99ng.md) · 657 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-pass.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Bị động – hiện tại đơn | 247 | 37 |
-| Bị động – quá khứ đơn | 39 | 28 |
-| Bị động với động từ khuyết thiếu (modal + be + V3) | 54 | 1 |
-| Bị động – hiện tại hoàn thành | 28 | 25 |
-| Bị động – tương lai đơn | 50 | 1 |
-| Bị động + to V (be asked/required/expected to V) | 40 | 1 |
-| Bị động dạng nguyên mẫu (to be + V3) | 14 | 7 |
-| Bị động – hiện tại tiếp diễn | 3 | 17 |
-| Bị động | 17 | 1 |
-| Bị động – hiện tại đơn + by tác nhân | 10 | 5 |
-| Bị động – quá khứ đơn + by tác nhân | 9 | 1 |
-| Bị động – tương lai đơn + by tác nhân | 10 | 0 |
-| Bị động với động từ khuyết thiếu (modal + be + V3) + by tác nhân | 3 | 0 |
-| Bị động + by tác nhân | 3 | 0 |
-| Bị động – hiện tại hoàn thành + by tác nhân | 2 | 0 |
-| Bị động – quá khứ hoàn thành | 1 | 0 |
-| Bị động – quá khứ tiếp diễn | 0 | 1 |
-| Bị động dạng nguyên mẫu (to be + V3) + by tác nhân | 1 | 0 |
-| 🎯 Đáp án là V3/-ed (phân từ quá khứ — mang nghĩa bị động) | 1 | 0 |
+| [Bị động – hiện tại đơn](ets-ngu-phap-full-pass.md?id=p1) | 247 | 37 |
+| [Bị động – quá khứ đơn](ets-ngu-phap-full-pass.md?id=p2) | 39 | 28 |
+| [Bị động với động từ khuyết thiếu (modal + be + V3)](ets-ngu-phap-full-pass.md?id=p3) | 54 | 1 |
+| [Bị động – hiện tại hoàn thành](ets-ngu-phap-full-pass.md?id=p4) | 28 | 25 |
+| [Bị động – tương lai đơn](ets-ngu-phap-full-pass.md?id=p5) | 50 | 1 |
+| [Bị động + to V (be asked/required/expected to V)](ets-ngu-phap-full-pass.md?id=p6) | 40 | 1 |
+| [Bị động dạng nguyên mẫu (to be + V3)](ets-ngu-phap-full-pass.md?id=p7) | 14 | 7 |
+| [Bị động – hiện tại tiếp diễn](ets-ngu-phap-full-pass.md?id=p8) | 3 | 17 |
+| [Bị động](ets-ngu-phap-full-pass.md?id=p9) | 17 | 1 |
+| [Bị động – hiện tại đơn + by tác nhân](ets-ngu-phap-full-pass.md?id=p10) | 10 | 5 |
+| [Bị động – quá khứ đơn + by tác nhân](ets-ngu-phap-full-pass.md?id=p11) | 9 | 1 |
+| [Bị động – tương lai đơn + by tác nhân](ets-ngu-phap-full-pass.md?id=p12) | 10 | 0 |
+| [Bị động với động từ khuyết thiếu (modal + be + V3) + by tác nhân](ets-ngu-phap-full-pass.md?id=p13) | 3 | 0 |
+| [Bị động + by tác nhân](ets-ngu-phap-full-pass.md?id=p14) | 3 | 0 |
+| [Bị động – hiện tại hoàn thành + by tác nhân](ets-ngu-phap-full-pass.md?id=p15) | 2 | 0 |
+| [Bị động – quá khứ hoàn thành](ets-ngu-phap-full-pass.md?id=p16) | 1 | 0 |
+| [Bị động – quá khứ tiếp diễn](ets-ngu-phap-full-pass.md?id=p17) | 0 | 1 |
+| [Bị động dạng nguyên mẫu (to be + V3) + by tác nhân](ets-ngu-phap-full-pass.md?id=p18) | 1 | 0 |
+| [🎯 Đáp án là V3/-ed (phân từ quá khứ — mang nghĩa bị động)](ets-ngu-phap-full-pass.md?id=p19) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Bị động – hiện tại đơn** <small>(247 câu Reading · 37 câu Listening)</small>
+**▸ Bị động – hiện tại đơn** <small>(247 câu Reading · 37 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p1)
 
 - 📖 *(Test 2)* The Southport manufacturing plant **is expected** to begin production in three days.
 - 📖 *(Test 10)* In the event that this requirement **is not met**, a $50 restocking fee will be charged.
@@ -1506,7 +1506,7 @@
 
 </details>
 
-**▸ Bị động – quá khứ đơn** <small>(39 câu Reading · 28 câu Listening)</small>
+**▸ Bị động – quá khứ đơn** <small>(39 câu Reading · 28 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p2)
 
 - 📖 *(Test 3)* My students **were thrilled** to see some of the pottery up close on the display table.
 - 📖 *(Test 5)* The experiment's initial results were wildly different from what **was expected**.
@@ -1523,7 +1523,7 @@
 
 </details>
 
-**▸ Bị động với động từ khuyết thiếu (modal + be + V3)** <small>(54 câu Reading · 1 câu Listening)</small>
+**▸ Bị động với động từ khuyết thiếu (modal + be + V3)** <small>(54 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p3)
 
 - 📖 *(Test 7)* The vehicles **must be offered** at a price that is reasonable for the average consumer.”
 - 📖 *(Test 4)* The posters **must be completed** soon so that they can be put up in advance of the gala.
@@ -1537,7 +1537,7 @@
 
 </details>
 
-**▸ Bị động – hiện tại hoàn thành** <small>(28 câu Reading · 25 câu Listening)</small>
+**▸ Bị động – hiện tại hoàn thành** <small>(28 câu Reading · 25 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p4)
 
 - 📖 *(Test 8)* I **have been assigned** to the airline's new route out of Arlford that begins next month.
 - 📖 *(Test 7)* The machine **has been repaired**, and the factory is back to its usual production schedule.
@@ -1553,7 +1553,7 @@
 
 </details>
 
-**▸ Bị động – tương lai đơn** <small>(50 câu Reading · 1 câu Listening)</small>
+**▸ Bị động – tương lai đơn** <small>(50 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p5)
 
 - 📖 *(Test 6)* Finally, on Saturday, 500 tree saplings **will be offered** to residents free of charge.
 - 📖 *(Test 8)* Day passes to Good Stuff Theme Park in Manchester **will be awarded** to the winning team.
@@ -1567,7 +1567,7 @@
 
 </details>
 
-**▸ Bị động + to V (be asked/required/expected to V)** <small>(40 câu Reading · 1 câu Listening)</small>
+**▸ Bị động + to V (be asked/required/expected to V)** <small>(40 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p6)
 
 - 📖 *(Test 2)* The Southport manufacturing plant **is expected to begin** production in three days.
 - 📖 *(Test 3)* My students **were thrilled to see** some of the pottery up close on the display table.
@@ -1581,7 +1581,7 @@
 
 </details>
 
-**▸ Bị động dạng nguyên mẫu (to be + V3)** <small>(14 câu Reading · 7 câu Listening)</small>
+**▸ Bị động dạng nguyên mẫu (to be + V3)** <small>(14 câu Reading · 7 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p7)
 
 - 📖 *(Test 6)* This allows components with intricate designs **to be tailored** to specific themes.
 - 📖 *(Test 1)* A significant amount of work needed **to be done** in the kitchen and dining areas.
@@ -1595,7 +1595,7 @@
 
 </details>
 
-**▸ Bị động – hiện tại tiếp diễn** <small>(3 câu Reading · 17 câu Listening)</small>
+**▸ Bị động – hiện tại tiếp diễn** <small>(3 câu Reading · 17 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p8)
 
 - 📖 *(Test 8)* Additional destinations **are being considered** for the future, including Eider Bay and West Linport.
 - 📖 *(Test 9)* Preorders **are now being accepted** at Teleteknic's online shop.
@@ -1610,7 +1610,7 @@
 
 </details>
 
-**▸ Bị động** <small>(17 câu Reading · 1 câu Listening)</small>
+**▸ Bị động** <small>(17 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p9)
 
 - 📖 *(Test 2)* A gravel bed allows rainwater to pass into the underlying soil and **be reabsorbed**.
 - 📖 *(Test 6)* Mr. Suh has requested that a more --- copy machine **be purchased** for the finance department.
@@ -1624,7 +1624,7 @@
 
 </details>
 
-**▸ Bị động – hiện tại đơn + by tác nhân** <small>(10 câu Reading · 5 câu Listening)</small>
+**▸ Bị động – hiện tại đơn + by tác nhân** <small>(10 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p10)
 
 - 📖 *(Test 9)* Our products **are carried** by furniture retailers in many urban centers around the country.
 - 📖 *(Test 2)* Today, Muffin Lady Muffins **are made** by hand using the same original recipes developed by Arianna Sweeney.
@@ -1638,7 +1638,7 @@
 
 </details>
 
-**▸ Bị động – quá khứ đơn + by tác nhân** <small>(9 câu Reading · 1 câu Listening)</small>
+**▸ Bị động – quá khứ đơn + by tác nhân** <small>(9 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p11)
 
 - 📖 *(Test 1)* The few questions she was unable to answer **were quickly addressed** by her mentor, Max.
 - 📖 *(Test 3)* They **were especially impressed** by the stone tools included among the items.
@@ -1652,7 +1652,7 @@
 
 </details>
 
-**▸ Bị động – tương lai đơn + by tác nhân** <small>(10 câu Reading · 0 câu Listening)</small>
+**▸ Bị động – tương lai đơn + by tác nhân** <small>(10 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p12)
 
 - 📖 *(Test 7)* Once all parties have signed the Nelsign document, you **will be notified** by e-mail.
 - 📖 *(Test 4)* I am pleased to report that the second floor **will be occupied** by the Brentler Heights Gallery.
@@ -1665,36 +1665,36 @@
 
 </details>
 
-**▸ Bị động với động từ khuyết thiếu (modal + be + V3) + by tác nhân** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ Bị động với động từ khuyết thiếu (modal + be + V3) + by tác nhân** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p13)
 
 - 📖 *(Test 1)* All vehicles **must be removed** by 8 A.M. on May 3 for the work to commence.
 - 📖 *(Test 1)* Reservations are required for the day of the celebration and **can be made** by calling 203-555-0124.
 - 📖 *(Test 8)* Customer service representatives **can be reached** by calling 800-555-0121 between 8:00 A.M. and 4:00 P.M.
 
-**▸ Bị động + by tác nhân** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ Bị động + by tác nhân** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p14)
 
 - 📖 *(Test 7)* The proposed purchase agreement is --- **being evaluated** by officials at Corlan Tech.
 - 📖 *(Test 10)* Or is the food **being provided** by a caterer?
 - 📖 *(Test 4)* “Trail maintenance is transitioning from **being performed** by city employees to an all-volunteer model,” said newly appointed parks commissioner Helen Yancey.
 
-**▸ Bị động – hiện tại hoàn thành + by tác nhân** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ Bị động – hiện tại hoàn thành + by tác nhân** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p15)
 
 - 📖 *(Test 7)* Each bicycle **has been refurbished** by a certified technician to ensure a smooth, safe ride.
 - 📖 *(Test 6)* Brile Construction's contract for the mall development project **has finally been verified** by the city supervisor.
 
-**▸ Bị động – quá khứ hoàn thành** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Bị động – quá khứ hoàn thành** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p16)
 
 - 📖 *(Test 2)* Ms. Clayton was relieved to find that none of her files **had been lost** during the power failure.
 
-**▸ Bị động – quá khứ tiếp diễn** <small>(0 câu Reading · 1 câu Listening)</small>
+**▸ Bị động – quá khứ tiếp diễn** <small>(0 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p17)
 
 - 🎧 *(Test 6)* His car **was being repaired**.
 
-**▸ Bị động dạng nguyên mẫu (to be + V3) + by tác nhân** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Bị động dạng nguyên mẫu (to be + V3) + by tác nhân** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p18)
 
 - 📖 *(Test 10)* According to the restaurant's policy, guests must wait **to be seated** by the front-of-house staff.
 
-**▸ 🎯 Đáp án là V3/-ed (phân từ quá khứ — mang nghĩa bị động)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là V3/-ed (phân từ quá khứ — mang nghĩa bị động)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-pass.md?id=p19)
 
 - 📖 *(Test 10)* **Given** Latoya Model Management's sound reputation, aspiring models can expect a flourishing career.
 
@@ -1704,35 +1704,35 @@
 
 ## 10. ✳️ ĐỘNG TỪ NGUYÊN MẪU VÀ DANH ĐỘNG TỪ
 
-> 📚 Lý thuyết: [ĐỘNG TỪ NGUYÊN MẪU VÀ DANH ĐỘNG TỪ](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) · 1,073 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [ĐỘNG TỪ NGUYÊN MẪU VÀ DANH ĐỘNG TỪ](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) · 1,073 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-inf.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Động từ + to V | 190 | 68 |
-| To V chỉ mục đích | 193 | 20 |
-| Giới từ + V-ing | 124 | 14 |
-| Danh từ/đại từ + to V (bổ nghĩa) | 65 | 15 |
-| Tính từ + to V | 65 | 15 |
-| Động từ + O + to V | 51 | 17 |
-| Từ để hỏi + to V (how/what/where/which to V) | 16 | 17 |
-| let + O + V nguyên mẫu (không to) | 21 | 11 |
-| help + O + V nguyên mẫu (không to) | 21 | 5 |
-| Động từ + V-ing | 17 | 8 |
-| be + to V | 19 | 2 |
-| V-ing (danh động từ) làm chủ ngữ | 19 | 1 |
-| 🎯 Đáp án là to V | 19 | 0 |
-| To (giới từ) + V-ing (look forward to / committed to…) | 17 | 1 |
-| To V (nguyên mẫu có to) | 11 | 6 |
-| 🎯 Đáp án là V-ing (danh động từ/phân từ) | 13 | 0 |
-| too/enough + to V | 5 | 1 |
-| have + O + V nguyên mẫu (không to) | 2 | 0 |
-| see + O + V nguyên mẫu (không to) | 2 | 0 |
-| make + O + V nguyên mẫu (không to) | 0 | 1 |
-| In order to / so as to + V (mục đích) | 1 | 0 |
+| [Động từ + to V](ets-ngu-phap-full-inf.md?id=p1) | 190 | 68 |
+| [To V chỉ mục đích](ets-ngu-phap-full-inf.md?id=p2) | 193 | 20 |
+| [Giới từ + V-ing](ets-ngu-phap-full-inf.md?id=p3) | 124 | 14 |
+| [Danh từ/đại từ + to V (bổ nghĩa)](ets-ngu-phap-full-inf.md?id=p4) | 65 | 15 |
+| [Tính từ + to V](ets-ngu-phap-full-inf.md?id=p5) | 65 | 15 |
+| [Động từ + O + to V](ets-ngu-phap-full-inf.md?id=p6) | 51 | 17 |
+| [Từ để hỏi + to V (how/what/where/which to V)](ets-ngu-phap-full-inf.md?id=p7) | 16 | 17 |
+| [let + O + V nguyên mẫu (không to)](ets-ngu-phap-full-inf.md?id=p8) | 21 | 11 |
+| [help + O + V nguyên mẫu (không to)](ets-ngu-phap-full-inf.md?id=p9) | 21 | 5 |
+| [Động từ + V-ing](ets-ngu-phap-full-inf.md?id=p10) | 17 | 8 |
+| [be + to V](ets-ngu-phap-full-inf.md?id=p11) | 19 | 2 |
+| [V-ing (danh động từ) làm chủ ngữ](ets-ngu-phap-full-inf.md?id=p12) | 19 | 1 |
+| [🎯 Đáp án là to V](ets-ngu-phap-full-inf.md?id=p13) | 19 | 0 |
+| [To (giới từ) + V-ing (look forward to / committed to…)](ets-ngu-phap-full-inf.md?id=p14) | 17 | 1 |
+| [To V (nguyên mẫu có to)](ets-ngu-phap-full-inf.md?id=p15) | 11 | 6 |
+| [🎯 Đáp án là V-ing (danh động từ/phân từ)](ets-ngu-phap-full-inf.md?id=p16) | 13 | 0 |
+| [too/enough + to V](ets-ngu-phap-full-inf.md?id=p17) | 5 | 1 |
+| [have + O + V nguyên mẫu (không to)](ets-ngu-phap-full-inf.md?id=p18) | 2 | 0 |
+| [see + O + V nguyên mẫu (không to)](ets-ngu-phap-full-inf.md?id=p19) | 2 | 0 |
+| [make + O + V nguyên mẫu (không to)](ets-ngu-phap-full-inf.md?id=p20) | 0 | 1 |
+| [In order to / so as to + V (mục đích)](ets-ngu-phap-full-inf.md?id=p21) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Động từ + to V** <small>(190 câu Reading · 68 câu Listening)</small>
+**▸ Động từ + to V** <small>(190 câu Reading · 68 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p1)
 
 - 📖 *(Test 6)* After further consideration, I have decided not to pursue this opportunity after all. → *decided to pursue*
 - 📖 *(Test 10)* Maxwell Diego (4:04 P.M.) Then you'll **have to wait** ten more minutes before reopening.
@@ -1749,7 +1749,7 @@
 
 </details>
 
-**▸ To V chỉ mục đích** <small>(193 câu Reading · 20 câu Listening)</small>
+**▸ To V chỉ mục đích** <small>(193 câu Reading · 20 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p2)
 
 - 📖 *(Test 9)* **To avoid account deactivation on** 20 July, simply sign in to the app before that date.
 - 📖 *(Test 10)* "The abundance of new characters can make the story challenging **to follow**," she said.
@@ -1766,7 +1766,7 @@
 
 </details>
 
-**▸ Giới từ + V-ing** <small>(124 câu Reading · 14 câu Listening)</small>
+**▸ Giới từ + V-ing** <small>(124 câu Reading · 14 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p3)
 
 - 📖 *(Test 10)* Maxwell Diego (4:04 P.M.) Then you'll have to wait ten more minutes **before reopening**.
 - 📖 *(Test 7)* Reserve your spot **by ringing** 01555-672212 or visiting www.cheztournoi.co.uk/gamenight.
@@ -1783,7 +1783,7 @@
 
 </details>
 
-**▸ Danh từ/đại từ + to V (bổ nghĩa)** <small>(65 câu Reading · 15 câu Listening)</small>
+**▸ Danh từ/đại từ + to V (bổ nghĩa)** <small>(65 câu Reading · 15 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p4)
 
 - 📖 *(Test 3)* Thanks for **meeting to discuss** our presentation to the board of directors next Friday.
 - 📖 *(Test 10)* As part of our plan, we would welcome the **opportunity to form** a partnership with you.
@@ -1800,7 +1800,7 @@
 
 </details>
 
-**▸ Tính từ + to V** <small>(65 câu Reading · 15 câu Listening)</small>
+**▸ Tính từ + to V** <small>(65 câu Reading · 15 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p5)
 
 - 📖 *(Test 1)* The few questions she was **unable to answer** were quickly addressed by her mentor, Max.
 - 📖 *(Test 1)* We are **delighted to celebrate** your 30th anniversary with Brandrix Distribution Centre.
@@ -1817,7 +1817,7 @@
 
 </details>
 
-**▸ Động từ + O + to V** <small>(51 câu Reading · 17 câu Listening)</small>
+**▸ Động từ + O + to V** <small>(51 câu Reading · 17 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p6)
 
 - 📖 *(Test 10)* Carter Department Store **allows customers to place** items on hold for up to 24 hours.
 - 📖 *(Test 10)* We allow our clients to determine their level of involvement in the design process. → *allow clients to determine*
@@ -1834,7 +1834,7 @@
 
 </details>
 
-**▸ Từ để hỏi + to V (how/what/where/which to V)** <small>(16 câu Reading · 17 câu Listening)</small>
+**▸ Từ để hỏi + to V (how/what/where/which to V)** <small>(16 câu Reading · 17 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p7)
 
 - 📖 *(Test 2)* Wherever you **want to go**, from the beach to the backwoods, the Nibora XC-35 can take you there!
 - 📖 *(Test 10)* Last week I learned **how to prepare** fish tacos with Mateo Bernal, head chef at Bernal's Restaurant.
@@ -1851,7 +1851,7 @@
 
 </details>
 
-**▸ let + O + V nguyên mẫu (không to)** <small>(21 câu Reading · 11 câu Listening)</small>
+**▸ let + O + V nguyên mẫu (không to)** <small>(21 câu Reading · 11 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p8)
 
 - 📖 *(Test 2)* Please **let me know** how much that will cost and when I can expect to receive them.
 - 📖 *(Test 1)* Please take a moment to go through it and **let us know** if you have any questions.
@@ -1867,7 +1867,7 @@
 
 </details>
 
-**▸ help + O + V nguyên mẫu (không to)** <small>(21 câu Reading · 5 câu Listening)</small>
+**▸ help + O + V nguyên mẫu (không to)** <small>(21 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p9)
 
 - 📖 *(Test 8)* Power washing beautifies your home and **helps maintain** the integrity of your structure!
 - 📖 *(Test 6)* We will even bring samples directly to you to **help you make** your design selections.
@@ -1884,7 +1884,7 @@
 
 </details>
 
-**▸ Động từ + V-ing** <small>(17 câu Reading · 8 câu Listening)</small>
+**▸ Động từ + V-ing** <small>(17 câu Reading · 8 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p10)
 
 - 📖 *(Test 9)* In any case, I suggest you **consider moving** up the date of the next in-depth inspection.
 - 📖 *(Test 2)* Please **stop distributing** the old business cards when the new cards are delivered.
@@ -1900,7 +1900,7 @@
 
 </details>
 
-**▸ be + to V** <small>(19 câu Reading · 2 câu Listening)</small>
+**▸ be + to V** <small>(19 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p11)
 
 - 📖 *(Test 6)* It is up to the department head to determine how best to assign this responsibility. → *is to determine*
 - 📖 *(Test 8)* In particular, they commented on how simple it **is to use** the different features.
@@ -1915,7 +1915,7 @@
 
 </details>
 
-**▸ V-ing (danh động từ) làm chủ ngữ** <small>(19 câu Reading · 1 câu Listening)</small>
+**▸ V-ing (danh động từ) làm chủ ngữ** <small>(19 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p12)
 
 - 📖 *(Test 1)* **Karning Creative Designs** is expanding, and with our success comes your opportunity.
 - 📖 *(Test 5)* **Our work patching and** waterproofing the foundation will likely take three or four days.
@@ -1929,7 +1929,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là to V** <small>(19 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là to V** <small>(19 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p13)
 
 - 📖 *(Test 8)* Beachside Inn is the perfect place to **host** an event for your corporate clients.
 - 📖 *(Test 10)* Carter Department Store allows customers **to place** items on hold for up to 24 hours.
@@ -1942,7 +1942,7 @@
 
 </details>
 
-**▸ To (giới từ) + V-ing (look forward to / committed to…)** <small>(17 câu Reading · 1 câu Listening)</small>
+**▸ To (giới từ) + V-ing (look forward to / committed to…)** <small>(17 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p14)
 
 - 📖 *(Test 8)* As a longtime fan of Ibra Maalim, I was looking forward to reading A Life in the Spotlight. → *looking to reading*
 - 📖 *(Test 2)* We are **committed to baking** Muffin Lady Muffins authentically with only the finest ingredients.
@@ -1956,7 +1956,7 @@
 
 </details>
 
-**▸ To V (nguyên mẫu có to)** <small>(11 câu Reading · 6 câu Listening)</small>
+**▸ To V (nguyên mẫu có to)** <small>(11 câu Reading · 6 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p15)
 
 - 📖 *(Test 2)* After reading several reviews, Mr. Kim was able to decide which printer **to buy** for the office.
 - 📖 *(Test 9)* Contact Ms. Shabanguo **to review** the flight plan and discuss other areas of focus along the highway.
@@ -1972,7 +1972,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là V-ing (danh động từ/phân từ)** <small>(13 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là V-ing (danh động từ/phân từ)** <small>(13 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p16)
 
 - 📖 *(Test 6)* Mayor Park plans to meet with his campaign staff **following** the televised debate.
 - 📖 *(Test 1)* My design team is in the process of **finalizing** the plans for your living room.
@@ -1985,7 +1985,7 @@
 
 </details>
 
-**▸ too/enough + to V** <small>(5 câu Reading · 1 câu Listening)</small>
+**▸ too/enough + to V** <small>(5 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p17)
 
 - 📖 *(Test 4)* Ten board members plan to attend, which is just **enough** **to approve** the proposal.
 - 📖 *(Test 1)* Remember that your photos should be **big** enough **to look** appealing on larger computer monitors.
@@ -1999,21 +1999,21 @@
 
 </details>
 
-**▸ have + O + V nguyên mẫu (không to)** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ have + O + V nguyên mẫu (không to)** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p18)
 
 - 📖 *(Test 3)* Additionally, MLP gives us the option of **having candidates audition** by providing video recordings.
 - 📖 *(Test 10)* I don't drive, so I don't have a driver's license, but I can provide a copy of the page from my passport. → *have I drive*
 
-**▸ see + O + V nguyên mẫu (không to)** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ see + O + V nguyên mẫu (không to)** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p19)
 
 - 📖 *(Test 5)* “I’m currently looking at Morganville to see if that would be the best location for a second store.” → *see that be*
 - 📖 *(Test 9)* I will see if we can make some schedule changes. → *see we make*
 
-**▸ make + O + V nguyên mẫu (không to)** <small>(0 câu Reading · 1 câu Listening)</small>
+**▸ make + O + V nguyên mẫu (không to)** <small>(0 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p20)
 
 - 🎧 *(Test 3)* We need better ways to make our brand stand more direct input from athletes who use our gear. → *make brand stand*
 
-**▸ In order to / so as to + V (mục đích)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ In order to / so as to + V (mục đích)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inf.md?id=p21)
 
 - 📖 *(Test 8)* **In order to access** the building, enter the code listed on the tenant directory.
 
@@ -2023,53 +2023,53 @@
 
 ## 11. 📍 GIỚI TỪ
 
-> 📚 Lý thuyết: [GIỚI TỪ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md) · 1,378 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [GIỚI TỪ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md) · 1,378 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-prep.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Động từ + giới từ (collocation) | 209 | 70 |
-| Giới từ kép / cụm giới từ | 154 | 15 |
-| Giới từ chỉ nơi chốn (in) | 101 | 17 |
-| Giới từ chỉ nơi chốn (at) | 98 | 14 |
-| Danh từ + giới từ (collocation) | 82 | 7 |
-| Giới từ chỉ thời gian (on) | 79 | 7 |
-| Giới từ chỉ thời gian (at) | 61 | 11 |
-| Giới từ chỉ nơi chốn (on) | 43 | 22 |
-| Giới từ chỉ thời gian (in) | 47 | 7 |
-| Giới từ chỉ thời gian (for) | 38 | 9 |
-| Giới từ chỉ nơi chốn (into) | 26 | 6 |
-| 🎯 Đáp án là GIỚI TỪ (+ danh từ/V-ing) | 28 | 0 |
-| Giới từ chỉ thời gian (by) | 23 | 2 |
-| Giới từ chỉ thời gian (from) | 18 | 1 |
-| Giới từ chỉ thời gian (during) | 14 | 0 |
-| Giới từ chỉ thời gian (within) | 13 | 1 |
-| Giới từ chỉ thời gian (over) | 12 | 1 |
-| Giới từ chỉ nơi chốn (between) | 11 | 2 |
-| Giới từ chỉ thời gian (before) | 11 | 1 |
-| Giới từ chỉ nơi chốn (throughout) | 8 | 4 |
-| Giới từ chỉ thời gian (after) | 11 | 0 |
-| Giới từ chỉ nơi chốn (near) | 7 | 3 |
-| Giới từ chỉ thời gian (through) | 9 | 1 |
-| such as (ví dụ như) + N | 9 | 0 |
-| Giới từ chỉ nơi chốn (under) | 6 | 3 |
-| Giới từ chỉ nơi chốn (among) | 8 | 0 |
-| Giới từ chỉ thời gian (until) | 6 | 1 |
-| Giới từ chỉ nơi chốn (along) | 4 | 3 |
-| Giới từ chỉ nơi chốn (across) | 3 | 3 |
-| Giới từ chỉ thời gian (between) | 6 | 0 |
-| Giới từ chỉ thời gian (throughout) | 5 | 0 |
-| by + phương tiện/cách thức (không mạo từ) | 3 | 1 |
-| Giới từ chỉ nơi chốn (behind) | 2 | 2 |
-| Giới từ chỉ nơi chốn (outside) | 1 | 1 |
-| Giới từ chỉ nơi chốn (onto) | 1 | 1 |
-| Giới từ chỉ nơi chốn (toward) | 2 | 0 |
-| Giới từ chỉ nơi chốn (above) | 1 | 0 |
-| Giới từ chỉ nơi chốn (beyond) | 1 | 0 |
-| Giới từ chỉ nơi chốn (opposite) | 1 | 0 |
+| [Động từ + giới từ (collocation)](ets-ngu-phap-full-prep.md?id=p1) | 209 | 70 |
+| [Giới từ kép / cụm giới từ](ets-ngu-phap-full-prep.md?id=p2) | 154 | 15 |
+| [Giới từ chỉ nơi chốn (in)](ets-ngu-phap-full-prep.md?id=p3) | 101 | 17 |
+| [Giới từ chỉ nơi chốn (at)](ets-ngu-phap-full-prep.md?id=p4) | 98 | 14 |
+| [Danh từ + giới từ (collocation)](ets-ngu-phap-full-prep.md?id=p5) | 82 | 7 |
+| [Giới từ chỉ thời gian (on)](ets-ngu-phap-full-prep.md?id=p6) | 79 | 7 |
+| [Giới từ chỉ thời gian (at)](ets-ngu-phap-full-prep.md?id=p7) | 61 | 11 |
+| [Giới từ chỉ nơi chốn (on)](ets-ngu-phap-full-prep.md?id=p8) | 43 | 22 |
+| [Giới từ chỉ thời gian (in)](ets-ngu-phap-full-prep.md?id=p9) | 47 | 7 |
+| [Giới từ chỉ thời gian (for)](ets-ngu-phap-full-prep.md?id=p10) | 38 | 9 |
+| [Giới từ chỉ nơi chốn (into)](ets-ngu-phap-full-prep.md?id=p11) | 26 | 6 |
+| [🎯 Đáp án là GIỚI TỪ (+ danh từ/V-ing)](ets-ngu-phap-full-prep.md?id=p12) | 28 | 0 |
+| [Giới từ chỉ thời gian (by)](ets-ngu-phap-full-prep.md?id=p13) | 23 | 2 |
+| [Giới từ chỉ thời gian (from)](ets-ngu-phap-full-prep.md?id=p14) | 18 | 1 |
+| [Giới từ chỉ thời gian (during)](ets-ngu-phap-full-prep.md?id=p15) | 14 | 0 |
+| [Giới từ chỉ thời gian (within)](ets-ngu-phap-full-prep.md?id=p16) | 13 | 1 |
+| [Giới từ chỉ thời gian (over)](ets-ngu-phap-full-prep.md?id=p17) | 12 | 1 |
+| [Giới từ chỉ nơi chốn (between)](ets-ngu-phap-full-prep.md?id=p18) | 11 | 2 |
+| [Giới từ chỉ thời gian (before)](ets-ngu-phap-full-prep.md?id=p19) | 11 | 1 |
+| [Giới từ chỉ nơi chốn (throughout)](ets-ngu-phap-full-prep.md?id=p20) | 8 | 4 |
+| [Giới từ chỉ thời gian (after)](ets-ngu-phap-full-prep.md?id=p21) | 11 | 0 |
+| [Giới từ chỉ nơi chốn (near)](ets-ngu-phap-full-prep.md?id=p22) | 7 | 3 |
+| [Giới từ chỉ thời gian (through)](ets-ngu-phap-full-prep.md?id=p23) | 9 | 1 |
+| [such as (ví dụ như) + N](ets-ngu-phap-full-prep.md?id=p24) | 9 | 0 |
+| [Giới từ chỉ nơi chốn (under)](ets-ngu-phap-full-prep.md?id=p25) | 6 | 3 |
+| [Giới từ chỉ nơi chốn (among)](ets-ngu-phap-full-prep.md?id=p26) | 8 | 0 |
+| [Giới từ chỉ thời gian (until)](ets-ngu-phap-full-prep.md?id=p27) | 6 | 1 |
+| [Giới từ chỉ nơi chốn (along)](ets-ngu-phap-full-prep.md?id=p28) | 4 | 3 |
+| [Giới từ chỉ nơi chốn (across)](ets-ngu-phap-full-prep.md?id=p29) | 3 | 3 |
+| [Giới từ chỉ thời gian (between)](ets-ngu-phap-full-prep.md?id=p30) | 6 | 0 |
+| [Giới từ chỉ thời gian (throughout)](ets-ngu-phap-full-prep.md?id=p31) | 5 | 0 |
+| [by + phương tiện/cách thức (không mạo từ)](ets-ngu-phap-full-prep.md?id=p32) | 3 | 1 |
+| [Giới từ chỉ nơi chốn (behind)](ets-ngu-phap-full-prep.md?id=p33) | 2 | 2 |
+| [Giới từ chỉ nơi chốn (outside)](ets-ngu-phap-full-prep.md?id=p34) | 1 | 1 |
+| [Giới từ chỉ nơi chốn (onto)](ets-ngu-phap-full-prep.md?id=p35) | 1 | 1 |
+| [Giới từ chỉ nơi chốn (toward)](ets-ngu-phap-full-prep.md?id=p36) | 2 | 0 |
+| [Giới từ chỉ nơi chốn (above)](ets-ngu-phap-full-prep.md?id=p37) | 1 | 0 |
+| [Giới từ chỉ nơi chốn (beyond)](ets-ngu-phap-full-prep.md?id=p38) | 1 | 0 |
+| [Giới từ chỉ nơi chốn (opposite)](ets-ngu-phap-full-prep.md?id=p39) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Động từ + giới từ (collocation)** <small>(209 câu Reading · 70 câu Listening)</small>
+**▸ Động từ + giới từ (collocation)** <small>(209 câu Reading · 70 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p1)
 
 - 📖 *(Test 1)* We will **listen to** your ideas and offer suggestions that match your gardening desires.
 - 📖 *(Test 6)* Mayor Park plans to **meet with** his campaign staff following the televised debate.
@@ -2086,7 +2086,7 @@
 
 </details>
 
-**▸ Giới từ kép / cụm giới từ** <small>(154 câu Reading · 15 câu Listening)</small>
+**▸ Giới từ kép / cụm giới từ** <small>(154 câu Reading · 15 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p2)
 
 - 📖 *(Test 10)* **As part of** our plan, we would welcome the opportunity to form a partnership with you.
 - 📖 *(Test 1)* Ennis Photography purchased at the new lighting equipment **despite** the high cost.
@@ -2103,7 +2103,7 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (in)** <small>(101 câu Reading · 17 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (in)** <small>(101 câu Reading · 17 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p3)
 
 - 📖 *(Test 5)* For assistance with this process, please contact Manuel Costa **in Technology Support**.
 - 📖 *(Test 8)* Day passes to Good Stuff Theme Park **in Manchester** will be awarded to the winning team.
@@ -2120,7 +2120,7 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (at)** <small>(98 câu Reading · 14 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (at)** <small>(98 câu Reading · 14 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p4)
 
 - 📖 *(Test 7)* Building Blocks is the newest employee-led volunteer group **at Milos Tek Corporation**.
 - 📖 *(Test 4)* I always admired her work, and I obtained many of her creations to sell **at my shop**.
@@ -2137,7 +2137,7 @@
 
 </details>
 
-**▸ Danh từ + giới từ (collocation)** <small>(82 câu Reading · 7 câu Listening)</small>
+**▸ Danh từ + giới từ (collocation)** <small>(82 câu Reading · 7 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p5)
 
 - 📖 *(Test 1)* It closed three months ago after a water leak caused extensive **damage to** the kitchen.
 - 📖 *(Test 10)* As part of our plan, we would welcome the opportunity to form a **partnership with** you.
@@ -2154,7 +2154,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (on)** <small>(79 câu Reading · 7 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (on)** <small>(79 câu Reading · 7 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p6)
 
 - 📖 *(Test 9)* To avoid account deactivation **on 20 July**, simply sign in to the app before that date.
 - 📖 *(Test 2)* We would likely schedule you **on a Tuesday**, since that is typically our least busy day.
@@ -2171,7 +2171,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (at)** <small>(61 câu Reading · 11 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (at)** <small>(61 câu Reading · 11 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p7)
 
 - 📖 *(Test 1)* The lecture will take place **at 6:00 P.M**., after which attendees may ask questions.
 - 📖 *(Test 8)* The second project will build residential housing on a large empty lot **at the south end**.
@@ -2188,7 +2188,7 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (on)** <small>(43 câu Reading · 22 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (on)** <small>(43 câu Reading · 22 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p8)
 
 - 📖 *(Test 1)* Diana Perez was on-site for the whole job as promised and answered all my questions. → *on site*
 - 📖 *(Test 3)* My students were thrilled to see some of the pottery up close **on the display table**.
@@ -2205,7 +2205,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (in)** <small>(47 câu Reading · 7 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (in)** <small>(47 câu Reading · 7 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p9)
 
 - 📖 *(Test 2)* The Southport manufacturing plant is expected to begin production **in three days**.
 - 📖 *(Test 4)* “**In the future**, Ms. Skandar plans to feature collections from other local artists.”
@@ -2222,7 +2222,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (for)** <small>(38 câu Reading · 9 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (for)** <small>(38 câu Reading · 9 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p10)
 
 - 📖 *(Test 5)* They informed me that the equipment may be down **for up to two hours** because of testing.
 - 📖 *(Test 10)* Carter Department Store allows customers to place items on hold **for up to 24 hours**.
@@ -2239,7 +2239,7 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (into)** <small>(26 câu Reading · 6 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (into)** <small>(26 câu Reading · 6 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p11)
 
 - 📖 *(Test 2)* A gravel bed allows rainwater to pass **into the underlying soil** and be reabsorbed.
 - 📖 *(Test 5)* Mr. Sato will call **into the meeting** using the hotel's wireless network.
@@ -2255,7 +2255,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là GIỚI TỪ (+ danh từ/V-ing)** <small>(28 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là GIỚI TỪ (+ danh từ/V-ing)** <small>(28 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p12)
 
 - 📖 *(Test 1)* The lecture will take place at 6:00 P.M., **after** which attendees may ask questions.
 - 📖 *(Test 8)* **In order to** access the building, enter the code listed on the tenant directory.
@@ -2268,7 +2268,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (by)** <small>(23 câu Reading · 2 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (by)** <small>(23 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p13)
 
 - 📖 *(Test 8)* Please reply to this e-mail **by 16 February** to let me know if you plan to attend.
 - 📖 *(Test 2)* Management will identify candidates for promotion **by the end** of the month.
@@ -2283,7 +2283,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (from)** <small>(18 câu Reading · 1 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (from)** <small>(18 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p14)
 
 - 📖 *(Test 9)* As you know, the period **from June 1** through August 31 is ordinarily our busiest time.
 - 📖 *(Test 7)* Mike's Café offers a free drink with every meal on Tuesdays **from 11 A.M**. to 7 P.M.
@@ -2297,7 +2297,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (during)** <small>(14 câu Reading · 0 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (during)** <small>(14 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p15)
 
 - 📖 *(Test 8)* **During the summer months**, extra buses run on these routes to accommodate visitors.
 - 📖 *(Test 6)* **During the past quarter**, nearly all of Renafy Technology's sales came from one region.
@@ -2310,7 +2310,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (within)** <small>(13 câu Reading · 1 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (within)** <small>(13 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p16)
 
 - 📖 *(Test 7)* **Within two years**, the company promoted her to the position of chief operating officer.
 - 📖 *(Test 9)* You should receive your certification card **within ten business days**.
@@ -2324,7 +2324,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (over)** <small>(12 câu Reading · 1 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (over)** <small>(12 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p17)
 
 - 📖 *(Test 1)* **Over the years**, you have shown great initiative, creativity, and leadership.
 - 📖 *(Test 3)* Abelia Dairy Company has undergone several changes in leadership **over the past ten years**.
@@ -2338,7 +2338,7 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (between)** <small>(11 câu Reading · 2 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (between)** <small>(11 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p18)
 
 - 📖 *(Test 7)* Passengers flying **between smaller cities** must change planes at one of these hubs.
 - 📖 *(Test 9)* The new technology allows trains to switch quickly between electric and diesel modes. → *between electric modes*
@@ -2352,7 +2352,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (before)** <small>(11 câu Reading · 1 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (before)** <small>(11 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p19)
 
 - 📖 *(Test 9)* To avoid account deactivation on 20 July, simply sign in to the app **before that date**.
 - 📖 *(Test 9)* The enhanced exhibitions opened on Monday, one week **before the scheduled completion date**.
@@ -2366,7 +2366,7 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (throughout)** <small>(8 câu Reading · 4 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (throughout)** <small>(8 câu Reading · 4 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p20)
 
 - 📖 *(Test 6)* The installation of new benches **throughout Haverford Park** will cost roughly €5,000.
 - 📖 *(Test 9)* Please consult with Ms. Shabangu throughout the filming and editing process. → *throughout the process*
@@ -2382,7 +2382,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (after)** <small>(11 câu Reading · 0 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (after)** <small>(11 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p21)
 
 - 📖 *(Test 3)* **After our long day** around town, we were grateful for the theatre's new, comfortable seating.
 - 📖 *(Test 8)* Visit us for one of our deals today; they will not be available **after 31 May**!
@@ -2395,7 +2395,7 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (near)** <small>(7 câu Reading · 3 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (near)** <small>(7 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p22)
 
 - 📖 *(Test 4)* I've painted an orchard **near my parents' house** as it looks just when the sun is rising above it.
 - 📖 *(Test 5)* If not, what restaurants **near the conference** would you recommend that would be open at that time?
@@ -2409,7 +2409,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (through)** <small>(9 câu Reading · 1 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (through)** <small>(9 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p23)
 
 - 📖 *(Test 9)* As you know, the period from June 1 **through August 31** is ordinarily our busiest time.
 - 📖 *(Test 10)* For your convenience, we offer large- and small-volume deliveries Monday **through Saturday**.
@@ -2423,7 +2423,7 @@
 
 </details>
 
-**▸ such as (ví dụ như) + N** <small>(9 câu Reading · 0 câu Listening)</small>
+**▸ such as (ví dụ như) + N** <small>(9 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p24)
 
 - 📖 *(Test 8)* For a fee of €20, a passenger may take on board a carry-on item **such as** a suitcase or duffel bag.
 - 📖 *(Test 1)* The text must prominently display key information, **such as** your truck's locations and operating hours.
@@ -2436,7 +2436,7 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (under)** <small>(6 câu Reading · 3 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (under)** <small>(6 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p25)
 
 - 📖 *(Test 5)* Arthur's foundation-repair crew will need to access that area of the crawl space **under the house**.
 - 📖 *(Test 8)* **Under the direction** of Ms. Kenu, the historical society's fund-raiser went very well this year.
@@ -2449,7 +2449,7 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (among)** <small>(8 câu Reading · 0 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (among)** <small>(8 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p26)
 
 - 📖 *(Test 5)* Margie Fung was **among the winners** at Sternetz Institute's art competition.
 - 📖 *(Test 3)* They were especially impressed by the stone tools included **among the items**.
@@ -2462,7 +2462,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (until)** <small>(6 câu Reading · 1 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (until)** <small>(6 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p27)
 
 - 📖 *(Test 7)* These seasonal positions will be available from the beginning of June **until the end** of August.
 - 📖 *(Test 5)* I’m scheduled to work at Mr. Amadi’s apartment on Friday—can the Browns’ ductwork wait **until Monday**?
@@ -2476,7 +2476,7 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (along)** <small>(4 câu Reading · 3 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (along)** <small>(4 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p28)
 
 - 📖 *(Test 6)* On Monday, residents are encouraged to walk **along the trails** and take photographs.
 - 📖 *(Test 9)* Contact Ms. Shabanguo to review the flight plan and discuss other areas of focus **along the highway**.
@@ -2491,7 +2491,7 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (across)** <small>(3 câu Reading · 3 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (across)** <small>(3 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p29)
 
 - 📖 *(Test 3)* Strong interpersonal skills and the ability to communicate **across company departments** are essential.
 - 📖 *(Test 2)* I then boarded a light-rail train and rode it to the station directly **across the street** from the hotel.
@@ -2504,7 +2504,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (between)** <small>(6 câu Reading · 0 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (between)** <small>(6 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p30)
 
 - 📖 *(Test 9)* Our system shows that someone will be there today **between 3:00 P.M. and 5:00** P.M.
 - 📖 *(Test 6)* The Repose Lounge is open daily **between 5:00 A.M. and 8:30** P.M. and features the following amenities.
@@ -2517,7 +2517,7 @@
 
 </details>
 
-**▸ Giới từ chỉ thời gian (throughout)** <small>(5 câu Reading · 0 câu Listening)</small>
+**▸ Giới từ chỉ thời gian (throughout)** <small>(5 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p31)
 
 - 📖 *(Test 9)* The crew arrived on time and worked hard **throughout the afternoon**.
 - 📖 *(Test 7)* Purchase a PUW machine **throughout November** and receive a lightweight umbrella featuring our company logo.
@@ -2530,7 +2530,7 @@
 
 </details>
 
-**▸ by + phương tiện/cách thức (không mạo từ)** <small>(3 câu Reading · 1 câu Listening)</small>
+**▸ by + phương tiện/cách thức (không mạo từ)** <small>(3 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p32)
 
 - 📖 *(Test 7)* Mr. Ozawa generally prefers to commute to work **by train** instead of by car.
 - 📖 *(Test 1)* You will soon be receiving a commemorative plaque **by post**.
@@ -2542,36 +2542,36 @@
 
 </details>
 
-**▸ Giới từ chỉ nơi chốn (behind)** <small>(2 câu Reading · 2 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (behind)** <small>(2 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p33)
 
 - 📖 *(Test 7)* As Mr. Rzayev requested, the extra wood pallets have been stacked **behind the old warehouse**.
 - 📖 *(Test 4)* She was the driving force **behind that company's mission** to develop accessibility products to enhance independent living in South Africa's domestic market.
 - 🎧 *(Test 2)* A woman is pulling her luggage **behind her**.
 
-**▸ Giới từ chỉ nơi chốn (outside)** <small>(1 câu Reading · 1 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (outside)** <small>(1 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p34)
 
 - 📖 *(Test 6)* To obtain a pass or make a reservation, go to www.qrnairport.com/repose or visit the service desk just **outside the lounge** in terminal B.
 - 🎧 *(Test 7)* People spend a lot of time **outside summer rush**.
 
-**▸ Giới từ chỉ nơi chốn (onto)** <small>(1 câu Reading · 1 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (onto)** <small>(1 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p35)
 
 - 📖 *(Test 10)* This feature minimizes the need Accordingly, more of them can be loaded **onto trucks** when empty frequent 132.
 - 🎧 *(Test 6)* A woman is lifting a suitcase **onto a counter**.
 
-**▸ Giới từ chỉ nơi chốn (toward)** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (toward)** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p36)
 
 - 📖 *(Test 8)* Child safety seats do not count **toward a passenger's personal** item allowance.
 - 📖 *(Test 10)* If you select our trade-in program, you give us your bicycle, and, in exchange, we give you credit **toward the purchase** of a new one.
 
-**▸ Giới từ chỉ nơi chốn (above)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (above)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p37)
 
 - 📖 *(Test 4)* I've painted an orchard near my parents' house as it looks just when the sun is rising **above it**.
 
-**▸ Giới từ chỉ nơi chốn (beyond)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (beyond)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p38)
 
 - 📖 *(Test 5)* “I’d like to reach customers **beyond the Greenwood area**,” he said.
 
-**▸ Giới từ chỉ nơi chốn (opposite)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Giới từ chỉ nơi chốn (opposite)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-prep.md?id=p39)
 
 - 📖 *(Test 9)* Austina Gallery is located at the northern end of Arch Street, **opposite the Verdigris Bistro**.
 
@@ -2581,30 +2581,30 @@
 
 ## 12. 🧩 LIÊN TỪ
 
-> 📚 Lý thuyết: [LIÊN TỪ](Li%C3%AAn%20T%E1%BB%AB.md) · 806 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [LIÊN TỪ](Li%C3%AAn%20T%E1%BB%AB.md) · 806 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-conj.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Liên từ phụ thuộc | 228 | 25 |
-| and nối 2 động từ/cụm động từ song song | 175 | 12 |
-| Liên từ đẳng lập (or) | 86 | 14 |
-| Liên từ đẳng lập nối 2 mệnh đề (and) | 79 | 5 |
-| Trạng từ liên kết đầu câu | 50 | 6 |
-| Liên từ đẳng lập nối 2 mệnh đề (but) | 31 | 1 |
-| 🎯 Đáp án là LIÊN TỪ (+ mệnh đề) | 31 | 0 |
-| Liên từ đẳng lập (but) | 18 | 7 |
-| as well as (cũng như) | 12 | 0 |
-| Liên từ tương quan both … and | 7 | 0 |
-| Liên từ đẳng lập nối 2 mệnh đề (or) | 5 | 1 |
-| Trạng từ liên kết giữa câu | 4 | 0 |
-| rather than (thay vì) | 3 | 0 |
-| Liên từ tương quan either … or | 2 | 1 |
-| Liên từ tương quan whether … or | 2 | 0 |
-| Liên từ tương quan not only … but (also) | 1 | 0 |
+| [Liên từ phụ thuộc](ets-ngu-phap-full-conj.md?id=p1) | 228 | 25 |
+| [and nối 2 động từ/cụm động từ song song](ets-ngu-phap-full-conj.md?id=p2) | 175 | 12 |
+| [Liên từ đẳng lập (or)](ets-ngu-phap-full-conj.md?id=p3) | 86 | 14 |
+| [Liên từ đẳng lập nối 2 mệnh đề (and)](ets-ngu-phap-full-conj.md?id=p4) | 79 | 5 |
+| [Trạng từ liên kết đầu câu](ets-ngu-phap-full-conj.md?id=p5) | 50 | 6 |
+| [Liên từ đẳng lập nối 2 mệnh đề (but)](ets-ngu-phap-full-conj.md?id=p6) | 31 | 1 |
+| [🎯 Đáp án là LIÊN TỪ (+ mệnh đề)](ets-ngu-phap-full-conj.md?id=p7) | 31 | 0 |
+| [Liên từ đẳng lập (but)](ets-ngu-phap-full-conj.md?id=p8) | 18 | 7 |
+| [as well as (cũng như)](ets-ngu-phap-full-conj.md?id=p9) | 12 | 0 |
+| [Liên từ tương quan both … and](ets-ngu-phap-full-conj.md?id=p10) | 7 | 0 |
+| [Liên từ đẳng lập nối 2 mệnh đề (or)](ets-ngu-phap-full-conj.md?id=p11) | 5 | 1 |
+| [Trạng từ liên kết giữa câu](ets-ngu-phap-full-conj.md?id=p12) | 4 | 0 |
+| [rather than (thay vì)](ets-ngu-phap-full-conj.md?id=p13) | 3 | 0 |
+| [Liên từ tương quan either … or](ets-ngu-phap-full-conj.md?id=p14) | 2 | 1 |
+| [Liên từ tương quan whether … or](ets-ngu-phap-full-conj.md?id=p15) | 2 | 0 |
+| [Liên từ tương quan not only … but (also)](ets-ngu-phap-full-conj.md?id=p16) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Liên từ phụ thuộc** <small>(228 câu Reading · 25 câu Listening)</small>
+**▸ Liên từ phụ thuộc** <small>(228 câu Reading · 25 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p1)
 
 - 📖 *(Test 1)* It closed three months ago **after** a water leak caused extensive damage to the kitchen.
 - 📖 *(Test 9)* **As** you know, the period from June 1 through August 31 is ordinarily our busiest time.
@@ -2621,7 +2621,7 @@
 
 </details>
 
-**▸ and nối 2 động từ/cụm động từ song song** <small>(175 câu Reading · 12 câu Listening)</small>
+**▸ and nối 2 động từ/cụm động từ song song** <small>(175 câu Reading · 12 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p2)
 
 - 📖 *(Test 1)* We will **listen** to your ideas **and offer** suggestions that match your gardening desires.
 - 📖 *(Test 1)* Diana Perez **was** on-site for the whole job as promised **and answered** all my questions.
@@ -2638,7 +2638,7 @@
 
 </details>
 
-**▸ Liên từ đẳng lập (or)** <small>(86 câu Reading · 14 câu Listening)</small>
+**▸ Liên từ đẳng lập (or)** <small>(86 câu Reading · 14 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p3)
 
 - 📖 *(Test 7)* Reserve your spot by ringing 01555-**672212 or visiting** www.cheztournoi.co.uk/gamenight.
 - 📖 *(Test 1)* **Or do** you need the e-mail addresses of account holders only within a certain age-group?
@@ -2655,7 +2655,7 @@
 
 </details>
 
-**▸ Liên từ đẳng lập nối 2 mệnh đề (and)** <small>(79 câu Reading · 5 câu Listening)</small>
+**▸ Liên từ đẳng lập nối 2 mệnh đề (and)** <small>(79 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p4)
 
 - 📖 *(Test 3)* I hadn't been to the city in quite a while—more than 25 years—**and so much** has changed!
 - 📖 *(Test 9)* It definitely needs routine maintenance, **and we may** have to plan some additional work.
@@ -2672,7 +2672,7 @@
 
 </details>
 
-**▸ Trạng từ liên kết đầu câu** <small>(50 câu Reading · 6 câu Listening)</small>
+**▸ Trạng từ liên kết đầu câu** <small>(50 câu Reading · 6 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p5)
 
 - 📖 *(Test 6)* **Finally**, on Saturday, 500 tree saplings will be offered to residents free of charge.
 - 📖 *(Test 9)* **However**, customers may not be familiar with our intensive special cleaning services.
@@ -2689,7 +2689,7 @@
 
 </details>
 
-**▸ Liên từ đẳng lập nối 2 mệnh đề (but)** <small>(31 câu Reading · 1 câu Listening)</small>
+**▸ Liên từ đẳng lập nối 2 mệnh đề (but)** <small>(31 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p6)
 
 - 📖 *(Test 3)* I searched online and inquired at local shops, **but no one** had quite what I wanted.
 - 📖 *(Test 4)* We would like to attend the retreat, **but regrettably we** are unavailable on that date.
@@ -2703,7 +2703,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là LIÊN TỪ (+ mệnh đề)** <small>(31 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là LIÊN TỪ (+ mệnh đề)** <small>(31 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p7)
 
 - 📖 *(Test 1)* Ennis Photography purchased at the new lighting equipment **despite** the high cost.
 - 📖 *(Test 2)* The all-new Amore sports sedan is engineered for maximum reliability **and** gas mileage.
@@ -2716,7 +2716,7 @@
 
 </details>
 
-**▸ Liên từ đẳng lập (but)** <small>(18 câu Reading · 7 câu Listening)</small>
+**▸ Liên từ đẳng lập (but)** <small>(18 câu Reading · 7 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p8)
 
 - 📖 *(Test 1)* Mr. Ellis and Ms. Barnes were both highly qualified, **but neither** got the job.
 - 📖 *(Test 9)* You will receive a response as soon as **possible but no** later than Monday, May 8.
@@ -2733,7 +2733,7 @@
 
 </details>
 
-**▸ as well as (cũng như)** <small>(12 câu Reading · 0 câu Listening)</small>
+**▸ as well as (cũng như)** <small>(12 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p9)
 
 - 📖 *(Test 8)* We'll want the video to show our personalities **as well as** what it is that we do.
 - 📖 *(Test 7)* While you play, you can savour our freshly brewed tea, coffee, and hot chocolate **as well as**.
@@ -2746,7 +2746,7 @@
 
 </details>
 
-**▸ Liên từ tương quan both … and** <small>(7 câu Reading · 0 câu Listening)</small>
+**▸ Liên từ tương quan both … and** <small>(7 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p10)
 
 - 📖 *(Test 4)* Graber hair and nail growth supplements come in **both pill and** liquid form.
 - 📖 *(Test 8)* Buses on **both the orange and** the blue routes stop at the zoo entrance.
@@ -2759,7 +2759,7 @@
 
 </details>
 
-**▸ Liên từ đẳng lập nối 2 mệnh đề (or)** <small>(5 câu Reading · 1 câu Listening)</small>
+**▸ Liên từ đẳng lập nối 2 mệnh đề (or)** <small>(5 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p11)
 
 - 📖 *(Test 2)* You can request the instructor of your choice, **or we can** match you with an instructor.
 - 📖 *(Test 9)* I could bring the item to you if you live in the area, **or I could** mail it to you.
@@ -2772,29 +2772,29 @@
 
 </details>
 
-**▸ Trạng từ liên kết giữa câu** <small>(4 câu Reading · 0 câu Listening)</small>
+**▸ Trạng từ liên kết giữa câu** <small>(4 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p12)
 
 - 📖 *(Test 6)* Please note, **however**, that electric bicycles are not equipment.
 - 📖 *(Test 5)* We are, **furthermore**, pleased that you strengthened your relationship with us by opening a business advantage savings account (BASA).
 - 📖 *(Test 8)* I was concerned about taking the course online; **however**, it covered all the material from the on-site training that I had for my original certification—and more.
 
-**▸ rather than (thay vì)** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ rather than (thay vì)** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p13)
 
 - 📖 *(Test 6)* The conference schedule will be posted online **rather than** mailed to attendees.
 - 📖 *(Test 1)* Milltown Hospital's cafeteria serves lunch seven days a week **rather than** only on weekdays.
 - 📖 *(Test 10)* Renewing your auto registration online **rather than** at the motor vehicle office will save you time.
 
-**▸ Liên từ tương quan either … or** <small>(2 câu Reading · 1 câu Listening)</small>
+**▸ Liên từ tương quan either … or** <small>(2 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p14)
 
 - 📖 *(Test 6)* I would like to arrange a site visit with my associate Peter Cumberland **either this week or** next.
 - 🎧 *(Test 10)* Well, I want to paint the walls with one of the colors from our new logo, **either green or** red.
 
-**▸ Liên từ tương quan whether … or** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ Liên từ tương quan whether … or** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p15)
 
 - 📖 *(Test 8)* **Whether you want to use stickers as giveaways or** to make extra cash, Stickers Be Yours has you covered.
 - 📖 *(Test 10)* In your e-mail, you should also indicate **whether you wish to trade in your bicycle or** place it on consignment.
 
-**▸ Liên từ tương quan not only … but (also)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Liên từ tương quan not only … but (also)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-conj.md?id=p16)
 
 - 📖 *(Test 5)* Not **only** has Mr. Ogbu diligently worked on the project, but he has also trained Ms. Jeong to continue the work.
 
@@ -2804,20 +2804,20 @@
 
 ## 13. 🅰️ MẠO TỪ
 
-> 📚 Lý thuyết: [MẠO TỪ](M%E1%BA%A1o%20T%E1%BB%AB.md) · 396 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [MẠO TỪ](M%E1%BA%A1o%20T%E1%BB%AB.md) · 396 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-art.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| an + nguyên âm | 106 | 70 |
-| the + so sánh nhất / số thứ tự / only / same / following | 138 | 27 |
-| Cụm cố định không dùng mạo từ | 19 | 23 |
-| a + âm /j/ hoặc /w/ (a unique/a university/a one-) | 6 | 0 |
-| Không dùng mạo từ: by + phương tiện | 3 | 1 |
-| an + h câm (an hour/an honor) | 2 | 1 |
+| [an + nguyên âm](ets-ngu-phap-full-art.md?id=p1) | 106 | 70 |
+| [the + so sánh nhất / số thứ tự / only / same / following](ets-ngu-phap-full-art.md?id=p2) | 138 | 27 |
+| [Cụm cố định không dùng mạo từ](ets-ngu-phap-full-art.md?id=p3) | 19 | 23 |
+| [a + âm /j/ hoặc /w/ (a unique/a university/a one-)](ets-ngu-phap-full-art.md?id=p4) | 6 | 0 |
+| [Không dùng mạo từ: by + phương tiện](ets-ngu-phap-full-art.md?id=p5) | 3 | 1 |
+| [an + h câm (an hour/an honor)](ets-ngu-phap-full-art.md?id=p6) | 2 | 1 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ an + nguyên âm** <small>(106 câu Reading · 70 câu Listening)</small>
+**▸ an + nguyên âm** <small>(106 câu Reading · 70 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-art.md?id=p1)
 
 - 📖 *(Test 2)* You can request the instructor of your choice, or we can match you with **an instructor**.
 - 📖 *(Test 8)* Unfortunately, we cannot provide **an exact** time for the delivery of the new laptops.
@@ -2834,7 +2834,7 @@
 
 </details>
 
-**▸ the + so sánh nhất / số thứ tự / only / same / following** <small>(138 câu Reading · 27 câu Listening)</small>
+**▸ the + so sánh nhất / số thứ tự / only / same / following** <small>(138 câu Reading · 27 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-art.md?id=p2)
 
 - 📖 *(Test 1)* Diana Perez was on-site for **the whole** job as promised and answered all my questions.
 - 📖 *(Test 2)* Safety must always be **the top** priority in each step of the glassblowing process.
@@ -2851,7 +2851,7 @@
 
 </details>
 
-**▸ Cụm cố định không dùng mạo từ** <small>(19 câu Reading · 23 câu Listening)</small>
+**▸ Cụm cố định không dùng mạo từ** <small>(19 câu Reading · 23 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-art.md?id=p3)
 
 - 📖 *(Test 7)* Once all parties have signed the Nelsign document, you will be notified **by e-mail**.
 - 📖 *(Test 7)* Mr. Ozawa generally prefers to commute to work **by train** instead of by car.
@@ -2868,7 +2868,7 @@
 
 </details>
 
-**▸ a + âm /j/ hoặc /w/ (a unique/a university/a one-)** <small>(6 câu Reading · 0 câu Listening)</small>
+**▸ a + âm /j/ hoặc /w/ (a unique/a university/a one-)** <small>(6 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-art.md?id=p4)
 
 - 📖 *(Test 4)* All Stub Master tickets contain **a unique** barcode and may not be printed, copied, or shared.
 - 📖 *(Test 2)* All of our tablet computers come with **a one**-year warranty that includes hardware repairs and replacements.
@@ -2881,7 +2881,7 @@
 
 </details>
 
-**▸ Không dùng mạo từ: by + phương tiện** <small>(3 câu Reading · 1 câu Listening)</small>
+**▸ Không dùng mạo từ: by + phương tiện** <small>(3 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-art.md?id=p5)
 
 - 📖 *(Test 7)* Mr. Ozawa generally prefers to commute to work **by train** instead of by car.
 - 📖 *(Test 1)* You will soon be receiving a commemorative plaque **by post**.
@@ -2893,7 +2893,7 @@
 
 </details>
 
-**▸ an + h câm (an hour/an honor)** <small>(2 câu Reading · 1 câu Listening)</small>
+**▸ an + h câm (an hour/an honor)** <small>(2 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-art.md?id=p6)
 
 - 📖 *(Test 9)* Luckily, another customer had canceled a cleaning **an hour** or so before my call, but otherwise, Superra was booked up for the entire week.
 - 🎧 *(Test 10)* He left **an hour** ago.
@@ -2904,74 +2904,74 @@
 
 ## 14. 🔢 LƯỢNG TỪ
 
-> 📚 Lý thuyết: [LƯỢNG TỪ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md) · 591 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [LƯỢNG TỪ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md) · 591 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-quant.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| all + N | 83 | 5 |
-| some + N | 28 | 55 |
-| any + N | 35 | 7 |
-| several + N số nhiều | 31 | 4 |
-| one of + the/tính từ sở hữu + N | 18 | 14 |
-| other + N (số nhiều/không đếm được) | 27 | 3 |
-| each + N số ít/không đếm được | 25 | 3 |
-| many + N số nhiều | 18 | 7 |
-| no + N | 23 | 1 |
-| another + N (số ít) | 12 | 6 |
-| every + N số ít/không đếm được | 13 | 4 |
-| some of + the/tính từ sở hữu + N | 12 | 3 |
-| most of + the/tính từ sở hữu + N | 10 | 2 |
-| the whole/entire + N | 10 | 1 |
-| many of + the/tính từ sở hữu + N | 9 | 2 |
-| a few + N | 6 | 2 |
-| a lot of + N | 1 | 7 |
-| all of + the/tính từ sở hữu + N | 6 | 2 |
-| various + N số nhiều | 7 | 0 |
-| multiple + N số nhiều | 4 | 2 |
-| both + N số nhiều | 5 | 0 |
-| enough + N | 3 | 1 |
-| much + N số ít/không đếm được | 4 | 0 |
-| either + N số ít/không đếm được | 3 | 1 |
-| some dùng như đại từ | 1 | 3 |
-| most + N (hầu hết) | 4 | 0 |
-| thousands of + the/tính từ sở hữu + N | 4 | 0 |
-| half + N số ít/không đếm được | 4 | 0 |
-| plenty of + N | 2 | 1 |
-| adj/adv + enough | 2 | 1 |
-| few + N số nhiều | 3 | 0 |
-| a range of + the/tính từ sở hữu + N | 2 | 1 |
-| none of + the/tính từ sở hữu + N | 2 | 0 |
-| hundreds of + the/tính từ sở hữu + N | 2 | 0 |
-| lots of + N | 0 | 2 |
-| a little + N | 1 | 1 |
-| a couple of + the/tính từ sở hữu + N | 2 | 0 |
-| any of + the/tính từ sở hữu + N | 2 | 0 |
-| numerous + N số nhiều | 2 | 0 |
-| dozens of + the/tính từ sở hữu + N | 2 | 0 |
-| a wide range of + the/tính từ sở hữu + N | 2 | 0 |
-| much of + the/tính từ sở hữu + N | 2 | 0 |
-| little + N số ít/không đếm được | 1 | 0 |
-| many dùng như đại từ | 1 | 0 |
-| all dùng như đại từ | 1 | 0 |
-| a number of + N | 0 | 1 |
-| several dùng như đại từ | 1 | 0 |
-| both + N số ít/không đếm được | 1 | 0 |
-| several of + the/tính từ sở hữu + N | 0 | 1 |
-| a majority of + the/tính từ sở hữu + N | 1 | 0 |
-| a selection of + the/tính từ sở hữu + N | 0 | 1 |
-| the number of + N | 1 | 0 |
-| every + N số nhiều | 1 | 0 |
-| several + N số ít/không đếm được | 0 | 1 |
-| a series of + the/tính từ sở hữu + N | 1 | 0 |
-| the rest of + the/tính từ sở hữu + N | 1 | 0 |
-| half of + the/tính từ sở hữu + N | 1 | 0 |
-| 🎯 Đáp án là TỪ HẠN ĐỊNH / LƯỢNG TỪ | 1 | 0 |
-| the majority of + the/tính từ sở hữu + N | 1 | 0 |
-| few of + the/tính từ sở hữu + N | 1 | 0 |
+| [all + N](ets-ngu-phap-full-quant.md?id=p1) | 83 | 5 |
+| [some + N](ets-ngu-phap-full-quant.md?id=p2) | 28 | 55 |
+| [any + N](ets-ngu-phap-full-quant.md?id=p3) | 35 | 7 |
+| [several + N số nhiều](ets-ngu-phap-full-quant.md?id=p4) | 31 | 4 |
+| [one of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p5) | 18 | 14 |
+| [other + N (số nhiều/không đếm được)](ets-ngu-phap-full-quant.md?id=p6) | 27 | 3 |
+| [each + N số ít/không đếm được](ets-ngu-phap-full-quant.md?id=p7) | 25 | 3 |
+| [many + N số nhiều](ets-ngu-phap-full-quant.md?id=p8) | 18 | 7 |
+| [no + N](ets-ngu-phap-full-quant.md?id=p9) | 23 | 1 |
+| [another + N (số ít)](ets-ngu-phap-full-quant.md?id=p10) | 12 | 6 |
+| [every + N số ít/không đếm được](ets-ngu-phap-full-quant.md?id=p11) | 13 | 4 |
+| [some of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p12) | 12 | 3 |
+| [most of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p13) | 10 | 2 |
+| [the whole/entire + N](ets-ngu-phap-full-quant.md?id=p14) | 10 | 1 |
+| [many of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p15) | 9 | 2 |
+| [a few + N](ets-ngu-phap-full-quant.md?id=p16) | 6 | 2 |
+| [a lot of + N](ets-ngu-phap-full-quant.md?id=p17) | 1 | 7 |
+| [all of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p18) | 6 | 2 |
+| [various + N số nhiều](ets-ngu-phap-full-quant.md?id=p19) | 7 | 0 |
+| [multiple + N số nhiều](ets-ngu-phap-full-quant.md?id=p20) | 4 | 2 |
+| [both + N số nhiều](ets-ngu-phap-full-quant.md?id=p21) | 5 | 0 |
+| [enough + N](ets-ngu-phap-full-quant.md?id=p22) | 3 | 1 |
+| [much + N số ít/không đếm được](ets-ngu-phap-full-quant.md?id=p23) | 4 | 0 |
+| [either + N số ít/không đếm được](ets-ngu-phap-full-quant.md?id=p24) | 3 | 1 |
+| [some dùng như đại từ](ets-ngu-phap-full-quant.md?id=p25) | 1 | 3 |
+| [most + N (hầu hết)](ets-ngu-phap-full-quant.md?id=p26) | 4 | 0 |
+| [thousands of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p27) | 4 | 0 |
+| [half + N số ít/không đếm được](ets-ngu-phap-full-quant.md?id=p28) | 4 | 0 |
+| [plenty of + N](ets-ngu-phap-full-quant.md?id=p29) | 2 | 1 |
+| [adj/adv + enough](ets-ngu-phap-full-quant.md?id=p30) | 2 | 1 |
+| [few + N số nhiều](ets-ngu-phap-full-quant.md?id=p31) | 3 | 0 |
+| [a range of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p32) | 2 | 1 |
+| [none of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p33) | 2 | 0 |
+| [hundreds of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p34) | 2 | 0 |
+| [lots of + N](ets-ngu-phap-full-quant.md?id=p35) | 0 | 2 |
+| [a little + N](ets-ngu-phap-full-quant.md?id=p36) | 1 | 1 |
+| [a couple of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p37) | 2 | 0 |
+| [any of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p38) | 2 | 0 |
+| [numerous + N số nhiều](ets-ngu-phap-full-quant.md?id=p39) | 2 | 0 |
+| [dozens of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p40) | 2 | 0 |
+| [a wide range of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p41) | 2 | 0 |
+| [much of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p42) | 2 | 0 |
+| [little + N số ít/không đếm được](ets-ngu-phap-full-quant.md?id=p43) | 1 | 0 |
+| [many dùng như đại từ](ets-ngu-phap-full-quant.md?id=p44) | 1 | 0 |
+| [all dùng như đại từ](ets-ngu-phap-full-quant.md?id=p45) | 1 | 0 |
+| [a number of + N](ets-ngu-phap-full-quant.md?id=p46) | 0 | 1 |
+| [several dùng như đại từ](ets-ngu-phap-full-quant.md?id=p47) | 1 | 0 |
+| [both + N số ít/không đếm được](ets-ngu-phap-full-quant.md?id=p48) | 1 | 0 |
+| [several of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p49) | 0 | 1 |
+| [a majority of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p50) | 1 | 0 |
+| [a selection of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p51) | 0 | 1 |
+| [the number of + N](ets-ngu-phap-full-quant.md?id=p52) | 1 | 0 |
+| [every + N số nhiều](ets-ngu-phap-full-quant.md?id=p53) | 1 | 0 |
+| [several + N số ít/không đếm được](ets-ngu-phap-full-quant.md?id=p54) | 0 | 1 |
+| [a series of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p55) | 1 | 0 |
+| [the rest of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p56) | 1 | 0 |
+| [half of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p57) | 1 | 0 |
+| [🎯 Đáp án là TỪ HẠN ĐỊNH / LƯỢNG TỪ](ets-ngu-phap-full-quant.md?id=p58) | 1 | 0 |
+| [the majority of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p59) | 1 | 0 |
+| [few of + the/tính từ sở hữu + N](ets-ngu-phap-full-quant.md?id=p60) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ all + N** <small>(83 câu Reading · 5 câu Listening)</small>
+**▸ all + N** <small>(83 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p1)
 
 - 📖 *(Test 1)* Diana Perez was on-site for the whole job as promised and answered all my questions. → *all questions*
 - 📖 *(Test 5)* Free first aid training and certification are available twice yearly to **all employees**.
@@ -2986,7 +2986,7 @@
 
 </details>
 
-**▸ some + N** <small>(28 câu Reading · 55 câu Listening)</small>
+**▸ some + N** <small>(28 câu Reading · 55 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p2)
 
 - 📖 *(Test 9)* It definitely needs routine maintenance, and we may have to plan some additional work. → *some work*
 - 📖 *(Test 1)* Note that all parking spaces will be widened, and **some spaces** could be moved during the work.
@@ -3003,7 +3003,7 @@
 
 </details>
 
-**▸ any + N** <small>(35 câu Reading · 7 câu Listening)</small>
+**▸ any + N** <small>(35 câu Reading · 7 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p3)
 
 - 📖 *(Test 7)* You are even entitled to a free scoop at **any Brice**'s Ice Creamery on your birthday.
 - 📖 *(Test 9)* In **any case**, I suggest you consider moving up the date of the next in-depth inspection.
@@ -3019,7 +3019,7 @@
 
 </details>
 
-**▸ several + N số nhiều** <small>(31 câu Reading · 4 câu Listening)</small>
+**▸ several + N số nhiều** <small>(31 câu Reading · 4 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p4)
 
 - 📖 *(Test 8)* Most significantly, we have corrected **several issues** with the previous version.
 - 📖 *(Test 7)* Several inexpensive campsites and youth hostels are available throughout the year. → *Several campsites*
@@ -3034,7 +3034,7 @@
 
 </details>
 
-**▸ one of + the/tính từ sở hữu + N** <small>(18 câu Reading · 14 câu Listening)</small>
+**▸ one of + the/tính từ sở hữu + N** <small>(18 câu Reading · 14 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p5)
 
 - 📖 *(Test 2)* The eatery became **one of the area's** most successful venues and remains so now.
 - 📖 *(Test 7)* Passengers flying between smaller cities must change planes at **one of these hubs**.
@@ -3051,7 +3051,7 @@
 
 </details>
 
-**▸ other + N (số nhiều/không đếm được)** <small>(27 câu Reading · 3 câu Listening)</small>
+**▸ other + N (số nhiều/không đếm được)** <small>(27 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p6)
 
 - 📖 *(Test 8)* Matt Grimm and the other band members love the stickers, which are selling very well. → *other members*
 - 📖 *(Test 4)* “In the future, Ms. Skandar plans to feature collections from other local artists.” → *other artists*
@@ -3067,7 +3067,7 @@
 
 </details>
 
-**▸ each + N số ít/không đếm được** <small>(25 câu Reading · 3 câu Listening)</small>
+**▸ each + N số ít/không đếm được** <small>(25 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p7)
 
 - 📖 *(Test 2)* Safety must always be the top priority in **each step** of the glassblowing process.
 - 📖 *(Test 1)* The hiring manager carefully considered **each applicant**'s résumé and qualifications.
@@ -3083,7 +3083,7 @@
 
 </details>
 
-**▸ many + N số nhiều** <small>(18 câu Reading · 7 câu Listening)</small>
+**▸ many + N số nhiều** <small>(18 câu Reading · 7 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p8)
 
 - 📖 *(Test 8)* Advancements in cloud computing have transformed the gaming industry in **many ways**.
 - 📖 *(Test 3)* While the hotel does not have a restaurant on site, there are many dining options nearby. → *many options*
@@ -3100,7 +3100,7 @@
 
 </details>
 
-**▸ no + N** <small>(23 câu Reading · 1 câu Listening)</small>
+**▸ no + N** <small>(23 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p9)
 
 - 📖 *(Test 3)* I searched online and inquired at local shops, but **no one** had quite what I wanted.
 - 📖 *(Test 9)* Though there is no set length for personal statements, employers sometimes offer guidelines. → *no length*
@@ -3114,7 +3114,7 @@
 
 </details>
 
-**▸ another + N (số ít)** <small>(12 câu Reading · 6 câu Listening)</small>
+**▸ another + N (số ít)** <small>(12 câu Reading · 6 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p10)
 
 - 📖 *(Test 5)* Now that the business is doing well, he is exploring opening **another store**.
 - 📖 *(Test 3)* One day was not enough to see everything, so I'm already planning **another trip** for later in the summer.
@@ -3128,7 +3128,7 @@
 
 </details>
 
-**▸ every + N số ít/không đếm được** <small>(13 câu Reading · 4 câu Listening)</small>
+**▸ every + N số ít/không đếm được** <small>(13 câu Reading · 4 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p11)
 
 - 📖 *(Test 7)* Mike's Café offers a free drink with **every meal** on Tuesdays from 11 A.M. to 7 P.M.
 - 📖 *(Test 3)* This means that the schoolchildren will be able to enjoy the garden **every day**.
@@ -3144,7 +3144,7 @@
 
 </details>
 
-**▸ some of + the/tính từ sở hữu + N** <small>(12 câu Reading · 3 câu Listening)</small>
+**▸ some of + the/tính từ sở hữu + N** <small>(12 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p12)
 
 - 📖 *(Test 3)* My students were thrilled to see **some of the pottery** up close on the display table.
 - 📖 *(Test 4)* "Without a doubt, it was **some of the best** I've ever eaten," said customer Judy Blackburn.
@@ -3160,7 +3160,7 @@
 
 </details>
 
-**▸ most of + the/tính từ sở hữu + N** <small>(10 câu Reading · 2 câu Listening)</small>
+**▸ most of + the/tính từ sở hữu + N** <small>(10 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p13)
 
 - 📖 *(Test 9)* **Most of** the changes from Teleteknic's previous phone models are minor.
 - 📖 *(Test 1)* **Most of those employees** have now returned to work in the restaurant.
@@ -3174,7 +3174,7 @@
 
 </details>
 
-**▸ the whole/entire + N** <small>(10 câu Reading · 1 câu Listening)</small>
+**▸ the whole/entire + N** <small>(10 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p14)
 
 - 📖 *(Test 1)* Diana Perez was on-site for the **whole job** as promised and answered all my questions.
 - 📖 *(Test 1)* The store's **entire inventory** of lumber comes from a nearby commercial supplier.
@@ -3188,7 +3188,7 @@
 
 </details>
 
-**▸ many of + the/tính từ sở hữu + N** <small>(9 câu Reading · 2 câu Listening)</small>
+**▸ many of + the/tính từ sở hữu + N** <small>(9 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p15)
 
 - 📖 *(Test 4)* I always admired her work, and I obtained **many of her creations** to sell at my shop.
 - 📖 *(Test 2)* The new cards will be printed on a higher-quality paper stock, as **many of you requested**.
@@ -3202,7 +3202,7 @@
 
 </details>
 
-**▸ a few + N** <small>(6 câu Reading · 2 câu Listening)</small>
+**▸ a few + N** <small>(6 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p16)
 
 - 📖 *(Test 8)* Then Big Strike Lanes opened **a few months ago**, and I wondered how it would compare.
 - 📖 *(Test 1)* Please take **a few minutes to** complete the form with as much detail as possible.
@@ -3217,7 +3217,7 @@
 
 </details>
 
-**▸ a lot of + N** <small>(1 câu Reading · 7 câu Listening)</small>
+**▸ a lot of + N** <small>(1 câu Reading · 7 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p17)
 
 - 📖 *(Test 5)* “There was **a lot of trial and** error at the outset, but we finally figured it out,” said Liz Ohtani, who, together with Sandra Rivera, owns A Thousand Stories.
 - 🎧 *(Test 5)* There's **a lot of information to** include.
@@ -3230,7 +3230,7 @@
 
 </details>
 
-**▸ all of + the/tính từ sở hữu + N** <small>(6 câu Reading · 2 câu Listening)</small>
+**▸ all of + the/tính từ sở hữu + N** <small>(6 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p18)
 
 - 📖 *(Test 6)* During the past quarter, nearly **all of Renafy Technology's** sales came from one region.
 - 📖 *(Test 7)* I believe that **all of us who** work in the theatre will enjoy the changes as well.
@@ -3245,7 +3245,7 @@
 
 </details>
 
-**▸ various + N số nhiều** <small>(7 câu Reading · 0 câu Listening)</small>
+**▸ various + N số nhiều** <small>(7 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p19)
 
 - 📖 *(Test 3)* The Seaborne Inn has various beautiful guest rooms that can be booked on a monthly basis. → *various rooms*
 - 📖 *(Test 1)* As a reminder, you can log in to the portal for **various activities**.
@@ -3258,7 +3258,7 @@
 
 </details>
 
-**▸ multiple + N số nhiều** <small>(4 câu Reading · 2 câu Listening)</small>
+**▸ multiple + N số nhiều** <small>(4 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p20)
 
 - 📖 *(Test 8)* Collaboration between **multiple agencies** is often challenging, but our project-based consulting can simplify the process for you.
 - 📖 *(Test 2)* Collapsible toothpaste tubes continue to lead the market overall, but because they are composed of **multiple layers**, it is nearly impossible to recycle them.
@@ -3272,13 +3272,13 @@
 
 </details>
 
-**▸ both + N số nhiều** <small>(5 câu Reading · 0 câu Listening)</small>
+**▸ both + N số nhiều** <small>(5 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p21)
 
 - 📖 *(Test 8)* City planners hope **both projects** will begin within the next month, with businesses and residents moving in late next year.
 - 📖 *(Test 3)* **Both classes** are studying how to identify and analyze historical artifacts, so he was very happy with the topic of our lecture this month.
 - 📖 *(Test 3)* For more than 40 years, we have been building high-quality, eco-friendly bicycles that are good for the health of **both people** and the planet.
 
-**▸ enough + N** <small>(3 câu Reading · 1 câu Listening)</small>
+**▸ enough + N** <small>(3 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p22)
 
 - 📖 *(Test 8)* The company will provide pizza and cake, and we want to make sure that there is **enough food** for everyone.
 - 📖 *(Test 1)* Do you have **enough materials** on hand for that many participants?
@@ -3290,19 +3290,19 @@
 
 </details>
 
-**▸ much + N số ít/không đếm được** <small>(4 câu Reading · 0 câu Listening)</small>
+**▸ much + N số ít/không đếm được** <small>(4 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p23)
 
 - 📖 *(Test 1)* Please take a few minutes to complete the form with as **much detail** as possible.
 - 📖 *(Test 1)* Online forms with fields to fill out, such as reservation requests for special events or services, give new visitors too much visual information. → *much information*
 - 📖 *(Test 8)* How much does a sticker that features a vehicle cost? → *much sticker*
 
-**▸ either + N số ít/không đếm được** <small>(3 câu Reading · 1 câu Listening)</small>
+**▸ either + N số ít/không đếm được** <small>(3 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p24)
 
 - 📖 *(Test 10)* To take advantage of **either option**, e-mail us at programs@freewheeloasis.com to schedule an appointment.
 - 📖 *(Test 6)* Two teams of volunteers will work on **either side** of the stream to pick up any rubbish and clear the paths of fallen branches.
 - 🎧 *(Test 2)* **Either way** is fine.
 
-**▸ some dùng như đại từ** <small>(1 câu Reading · 3 câu Listening)</small>
+**▸ some dùng như đại từ** <small>(1 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p25)
 
 - 📖 *(Test 10)* perfectly, **some** submit a detailed sketch of the design.
 - 🎧 *(Test 5)* Yes, I bought **some** there yesterday.
@@ -3314,7 +3314,7 @@
 
 </details>
 
-**▸ most + N (hầu hết)** <small>(4 câu Reading · 0 câu Listening)</small>
+**▸ most + N (hầu hết)** <small>(4 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p26)
 
 - 📖 *(Test 3)* That is where the hit musical Skyscraping is now playing to packed houses **most nights**.
 - 📖 *(Test 5)* The sudden merger of Alvy Brothers and Craford Enterprises surprised most financial analysts. → *most analysts*
@@ -3326,7 +3326,7 @@
 
 </details>
 
-**▸ thousands of + the/tính từ sở hữu + N** <small>(4 câu Reading · 0 câu Listening)</small>
+**▸ thousands of + the/tính từ sở hữu + N** <small>(4 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p27)
 
 - 📖 *(Test 10)* Her innovations in treating eye diseases have benefited **thousands of patients worldwide**.
 - 📖 *(Test 8)* Sydney Fashion Week drew **thousands of excited visitors** to the city last week.
@@ -3338,7 +3338,7 @@
 
 </details>
 
-**▸ half + N số ít/không đếm được** <small>(4 câu Reading · 0 câu Listening)</small>
+**▸ half + N số ít/không đếm được** <small>(4 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p28)
 
 - 📖 *(Test 6)* Admission to the fields is $2.00 per person, with a cost of $2.50 for each **half liter** of berries picked.
 - 📖 *(Test 6)* The course must be completed within a **half hour**.
@@ -3350,144 +3350,144 @@
 
 </details>
 
-**▸ plenty of + N** <small>(2 câu Reading · 1 câu Listening)</small>
+**▸ plenty of + N** <small>(2 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p29)
 
 - 📖 *(Test 1)* Christine Lafferty said that she and her childhood friend Morgan Flanagan spent **plenty of time at** the theater while growing up.
 - 📖 *(Test 6)* One thing I have really liked is that I have never had to wait long to use a washer or dryer in the laundry room since there are **plenty of machines available**.
 - 🎧 *(Test 7)* We have **plenty of plants that** do well in shade or partial sun.
 
-**▸ adj/adv + enough** <small>(2 câu Reading · 1 câu Listening)</small>
+**▸ adj/adv + enough** <small>(2 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p30)
 
 - 📖 *(Test 1)* Remember that your photos should be **big enough** to look appealing on larger computer monitors.
 - 📖 *(Test 4)* Everyone agrees that the photos and the accompanying content do not seem to market the calendars strongly enough. → *market enough*
 - 🎧 *(Test 5)* A shop is not **big enough** for everyone.
 
-**▸ few + N số nhiều** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ few + N số nhiều** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p31)
 
 - 📖 *(Test 1)* The **few questions** she was unable to answer were quickly addressed by her mentor, Max.
 - 📖 *(Test 5)* Our research indicates that you are planning to open a physiotherapy practice in Queen's Point within the next **few months**.
 
-**▸ a range of + the/tính từ sở hữu + N** <small>(2 câu Reading · 1 câu Listening)</small>
+**▸ a range of + the/tính từ sở hữu + N** <small>(2 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p32)
 
 - 📖 *(Test 7)* In addition, **a range of small inns** and short-term apartment rentals are scattered throughout the area.
 - 🎧 *(Test 10)* We have anice selection of arrangements that of the most popular, in **a range of prices**.
 
-**▸ none of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ none of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p33)
 
 - 📖 *(Test 2)* Ms. Clayton was relieved to find that **none of her files** had been lost during the power failure.
 
-**▸ hundreds of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ hundreds of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p34)
 
 - 📖 *(Test 8)* You can choose from **hundreds of templates or** upload your own artwork.
 - 📖 *(Test 2)* As a Radial Tunes subscriber, you can access **hundreds of songs, music** videos, and playlists specially curated by other users.
 
-**▸ lots of + N** <small>(0 câu Reading · 2 câu Listening)</small>
+**▸ lots of + N** <small>(0 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p35)
 
 - 🎧 *(Test 2)* We need someone to choose and it said you have **lots of experience scouting** factories.
 - 🎧 *(Test 2)* We have **lots of community residents** to volunteer to help with building sets, painting, and setting up the check into that for next year.
 
-**▸ a little + N** <small>(1 câu Reading · 1 câu Listening)</small>
+**▸ a little + N** <small>(1 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p36)
 
 - 📖 *(Test 10)* It's taking **a little longer than** I had expected.
 - 🎧 *(Test 2)* I like **a little milk in** mine.
 
-**▸ a couple of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ a couple of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p37)
 
 - 📖 *(Test 3)* There are **a couple of alternative spaces**, right?
 - 📖 *(Test 5)* GREENWOOD (July 6)—Why a particular business succeeds is often a mystery, but **a couple of local shops** appear to have learned the secret.
 
-**▸ any of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ any of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p38)
 
 - 📖 *(Test 4)* Just bring your entrance ticket to **any of these establishments**.
 - 📖 *(Test 5)* Moreover, if you wish to withdraw funds from your BASA, you can use your debit card at **any of our ATMs**.
 
-**▸ numerous + N số nhiều** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ numerous + N số nhiều** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p39)
 
 - 📖 *(Test 4)* "In her three-decades-long design career, Ms. Masondo has designed **numerous products** that reflect inclusiveness and self-sufficiency.
 - 📖 *(Test 8)* Ms. Mackay is known for giving balanced, objective views of her numerous biographical subjects, and A Life in the Spotlight is no exception. → *numerous subjects*
 
-**▸ dozens of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ dozens of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p40)
 
 - 📖 *(Test 5)* **Dozens of satisfied customers** have posted positive reviews of Stellenbosch Cycle Works.
 - 📖 *(Test 8)* There are **dozens of interesting anecdotes** about his life on and off set, most of which were told to Mackay in interviews with Alidia Lugo, who knew Maalim well.
 
-**▸ a wide range of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ a wide range of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p41)
 
 - 📖 *(Test 7)* The Devegas Peninsula features **a wide range of accommodation options**.
 
-**▸ much of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ much of + the/tính từ sở hữu + N** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p42)
 
 - 📖 *(Test 9)* Although **much of the material** was technical in nature, the audience appeared to remain engaged throughout Ms. Sharma's presentation.
 
-**▸ little + N số ít/không đếm được** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ little + N số ít/không đếm được** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p43)
 
 - 📖 *(Test 1)* The newspaper article describes ways job seekers can compensate for having little workplace experience. → *little experience*
 
-**▸ many dùng như đại từ** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ many dùng như đại từ** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p44)
 
 - 📖 *(Test 1)* **Many** were saddened when the former theater owners decided to close the venue over a year ago, citing the cost of needed renovations.
 
-**▸ all dùng như đại từ** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ all dùng như đại từ** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p45)
 
 - 📖 *(Test 1)* If **all** goes according to schedule, the crew will be drilling adjacent to the Red Hills Business District and Oak Street Apartments starting Wednesday, June 5.
 
-**▸ a number of + N** <small>(0 câu Reading · 1 câu Listening)</small>
+**▸ a number of + N** <small>(0 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p46)
 
 - 🎧 *(Test 1)* No, unfortunately you'll have to bring everything list **a number of companies that** can remove and dispose of the items for you.
 
-**▸ several dùng như đại từ** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ several dùng như đại từ** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p47)
 
 - 📖 *(Test 2)* We could address this drainage issue in **several**.
 
-**▸ both + N số ít/không đếm được** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ both + N số ít/không đếm được** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p48)
 
 - 📖 *(Test 2)* I'll see you **both tomorrow** at 1:30 in the lobby.
 
-**▸ several of + the/tính từ sở hữu + N** <small>(0 câu Reading · 1 câu Listening)</small>
+**▸ several of + the/tính từ sở hữu + N** <small>(0 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p49)
 
 - 🎧 *(Test 2)* He has **several of them**.
 
-**▸ a majority of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ a majority of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p50)
 
 - 📖 *(Test 3)* **A majority of the city's** residents rated its transportation app as acceptable.
 
-**▸ a selection of + the/tính từ sở hữu + N** <small>(0 câu Reading · 1 câu Listening)</small>
+**▸ a selection of + the/tính từ sở hữu + N** <small>(0 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p51)
 
 - 🎧 *(Test 3)* **A selection of luggage is** on display.
 
-**▸ the number of + N** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ the number of + N** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p52)
 
 - 📖 *(Test 7)* A favorable effect of increased tourism in our city has been rapid growth in **the number of hospitality-related jobs**.
 
-**▸ every + N số nhiều** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ every + N số nhiều** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p53)
 
 - 📖 *(Test 7)* Every 100 points you earn can be redeemed for $5.00 off your purchase of ice cream or store merchandise, including T-shirts and tote bags. → *Every points*
 
-**▸ several + N số ít/không đếm được** <small>(0 câu Reading · 1 câu Listening)</small>
+**▸ several + N số ít/không đếm được** <small>(0 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p54)
 
 - 🎧 *(Test 7)* As you may know, several the world. → *several world*
 
-**▸ a series of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ a series of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p55)
 
 - 📖 *(Test 8)* The Oak Hill Art Museum offers several permanent exhibits and **a series of limited-time exhibits**.
 
-**▸ the rest of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ the rest of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p56)
 
 - 📖 *(Test 8)* I will be in Arlford only half the time and will stay in a hotel near my destination airport for **the rest of the week**.
 
-**▸ half of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ half of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p57)
 
 - 📖 *(Test 9)* Nearly **half of the toy** manufacturers surveyed reported increased sales over the last two years.
 
-**▸ 🎯 Đáp án là TỪ HẠN ĐỊNH / LƯỢNG TỪ** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là TỪ HẠN ĐỊNH / LƯỢNG TỪ** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p58)
 
 - 📖 *(Test 9)* **Whichever** route they choose, it should take the management team approximately four hours to drive to the hotel in Antibes.
 
-**▸ the majority of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ the majority of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p59)
 
 - 📖 *(Test 10)* **The majority of the company's** employees commute to work by train.
 
-**▸ few of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ few of + the/tính từ sở hữu + N** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-quant.md?id=p60)
 
 - 📖 *(Test 10)* Before leaving, each attendee received a small notebook containing the recipe we made that day as well as a **few of Mr. Bernal's** other favourite recipes.
 
@@ -3497,37 +3497,37 @@
 
 ## 15. ⏱️ CÁC THÌ ĐỘNG TỪ
 
-> 📚 Lý thuyết: [CÁC THÌ ĐỘNG TỪ](TENSES.md) · 3,987 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [CÁC THÌ ĐỘNG TỪ](TENSES.md) · 3,987 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-tense.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Hiện tại đơn | 1562 | 664 |
-| Quá khứ đơn | 513 | 221 |
-| Tương lai đơn | 330 | 129 |
-| Hiện tại tiếp diễn | 97 | 141 |
-| Hiện tại hoàn thành | 167 | 54 |
-| Tương lai tiếp diễn | 22 | 2 |
-| Quá khứ tiếp diễn | 12 | 5 |
-| Quá khứ hoàn thành | 12 | 0 |
-| Hiện tại hoàn thành tiếp diễn | 7 | 2 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại đơn | 8 | 0 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì tương lai đơn | 6 | 0 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ đơn | 6 | 0 |
-| Tương lai gần (be going to) | 1 | 5 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành (bị động) | 3 | 0 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì tương lai đơn (bị động) | 3 | 0 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành | 2 | 0 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ đơn (bị động) | 2 | 0 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại đơn (bị động) | 2 | 0 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại tiếp diễn | 2 | 0 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ hoàn thành | 2 | 0 |
-| Quá khứ tiếp diễn (was going to) | 1 | 1 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành tiếp diễn | 2 | 0 |
-| 🎯 Đáp án là ĐỘNG TỪ chia thì tương lai tiếp diễn | 1 | 0 |
+| [Hiện tại đơn](ets-ngu-phap-full-tense.md?id=p1) | 1562 | 664 |
+| [Quá khứ đơn](ets-ngu-phap-full-tense.md?id=p2) | 513 | 221 |
+| [Tương lai đơn](ets-ngu-phap-full-tense.md?id=p3) | 330 | 129 |
+| [Hiện tại tiếp diễn](ets-ngu-phap-full-tense.md?id=p4) | 97 | 141 |
+| [Hiện tại hoàn thành](ets-ngu-phap-full-tense.md?id=p5) | 167 | 54 |
+| [Tương lai tiếp diễn](ets-ngu-phap-full-tense.md?id=p6) | 22 | 2 |
+| [Quá khứ tiếp diễn](ets-ngu-phap-full-tense.md?id=p7) | 12 | 5 |
+| [Quá khứ hoàn thành](ets-ngu-phap-full-tense.md?id=p8) | 12 | 0 |
+| [Hiện tại hoàn thành tiếp diễn](ets-ngu-phap-full-tense.md?id=p9) | 7 | 2 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại đơn](ets-ngu-phap-full-tense.md?id=p10) | 8 | 0 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì tương lai đơn](ets-ngu-phap-full-tense.md?id=p11) | 6 | 0 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ đơn](ets-ngu-phap-full-tense.md?id=p12) | 6 | 0 |
+| [Tương lai gần (be going to)](ets-ngu-phap-full-tense.md?id=p13) | 1 | 5 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành (bị động)](ets-ngu-phap-full-tense.md?id=p14) | 3 | 0 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì tương lai đơn (bị động)](ets-ngu-phap-full-tense.md?id=p15) | 3 | 0 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành](ets-ngu-phap-full-tense.md?id=p16) | 2 | 0 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ đơn (bị động)](ets-ngu-phap-full-tense.md?id=p17) | 2 | 0 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại đơn (bị động)](ets-ngu-phap-full-tense.md?id=p18) | 2 | 0 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại tiếp diễn](ets-ngu-phap-full-tense.md?id=p19) | 2 | 0 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ hoàn thành](ets-ngu-phap-full-tense.md?id=p20) | 2 | 0 |
+| [Quá khứ tiếp diễn (was going to)](ets-ngu-phap-full-tense.md?id=p21) | 1 | 1 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành tiếp diễn](ets-ngu-phap-full-tense.md?id=p22) | 2 | 0 |
+| [🎯 Đáp án là ĐỘNG TỪ chia thì tương lai tiếp diễn](ets-ngu-phap-full-tense.md?id=p23) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Hiện tại đơn** <small>(1562 câu Reading · 664 câu Listening)</small>
+**▸ Hiện tại đơn** <small>(1562 câu Reading · 664 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p1)
 
 - 📖 *(Test 1)* We will listen to your ideas and offer suggestions that **match** your gardening desires.
 - 📖 *(Test 1)* We **are** delighted to celebrate your 30th anniversary with Brandrix Distribution Centre.
@@ -3544,7 +3544,7 @@
 
 </details>
 
-**▸ Quá khứ đơn** <small>(513 câu Reading · 221 câu Listening)</small>
+**▸ Quá khứ đơn** <small>(513 câu Reading · 221 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p2)
 
 - 📖 *(Test 1)* It **closed** three months ago after a water leak caused extensive damage to the kitchen.
 - 📖 *(Test 1)* The few questions she **was** unable to answer were quickly addressed by her mentor, Max.
@@ -3561,7 +3561,7 @@
 
 </details>
 
-**▸ Tương lai đơn** <small>(330 câu Reading · 129 câu Listening)</small>
+**▸ Tương lai đơn** <small>(330 câu Reading · 129 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p3)
 
 - 📖 *(Test 1)* We **will listen** to your ideas and offer suggestions that match your gardening desires.
 - 📖 *(Test 10)* Maxwell Diego (4:04 P.M.) Then you**'ll have** to wait ten more minutes before reopening.
@@ -3578,7 +3578,7 @@
 
 </details>
 
-**▸ Hiện tại tiếp diễn** <small>(97 câu Reading · 141 câu Listening)</small>
+**▸ Hiện tại tiếp diễn** <small>(97 câu Reading · 141 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p4)
 
 - 📖 *(Test 8)* Matt Grimm and the other band members love the stickers, which **are selling** very well.
 - 📖 *(Test 3)* That is where the hit musical Skyscraping **is now playing** to packed houses most nights.
@@ -3595,7 +3595,7 @@
 
 </details>
 
-**▸ Hiện tại hoàn thành** <small>(167 câu Reading · 54 câu Listening)</small>
+**▸ Hiện tại hoàn thành** <small>(167 câu Reading · 54 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p5)
 
 - 📖 *(Test 6)* After further consideration, I **have decided** not to pursue this opportunity after all.
 - 📖 *(Test 3)* I hadn't been to the city in quite a while—more than 25 years—and so much **has changed**!
@@ -3612,7 +3612,7 @@
 
 </details>
 
-**▸ Tương lai tiếp diễn** <small>(22 câu Reading · 2 câu Listening)</small>
+**▸ Tương lai tiếp diễn** <small>(22 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p6)
 
 - 📖 *(Test 3)* I am excited to share the news that Winnie Liu, our longtime team captain, **will be moving** on.
 - 📖 *(Test 4)* I was delighted to learn that she **will be managing** this high-profile gallery.
@@ -3626,7 +3626,7 @@
 
 </details>
 
-**▸ Quá khứ tiếp diễn** <small>(12 câu Reading · 5 câu Listening)</small>
+**▸ Quá khứ tiếp diễn** <small>(12 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p7)
 
 - 📖 *(Test 8)* As a longtime fan of Ibra Maalim, I **was looking** forward to reading A Life in the Spotlight.
 - 📖 *(Test 4)* I **was hoping** you could scan them and e-mail them to me since you usually get to the office early.
@@ -3641,7 +3641,7 @@
 
 </details>
 
-**▸ Quá khứ hoàn thành** <small>(12 câu Reading · 0 câu Listening)</small>
+**▸ Quá khứ hoàn thành** <small>(12 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p8)
 
 - 📖 *(Test 3)* I **hadn't been** to the city in quite a while—more than 25 years—and so much has changed!
 - 📖 *(Test 8)* The bowling was great, and I really enjoyed the virtual reality, which I **had never tried** before.
@@ -3654,7 +3654,7 @@
 
 </details>
 
-**▸ Hiện tại hoàn thành tiếp diễn** <small>(7 câu Reading · 2 câu Listening)</small>
+**▸ Hiện tại hoàn thành tiếp diễn** <small>(7 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p9)
 
 - 📖 *(Test 4)* We **have been experiencing** problems with the thermostat in the western end of the warehouse.
 - 📖 *(Test 10)* I**'ve been cleaning** it up and straightening up the pool supplies here.
@@ -3669,7 +3669,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại đơn** <small>(8 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại đơn** <small>(8 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p10)
 
 - 📖 *(Test 9)* The new technology **allows** trains to switch quickly between electric and diesel modes.
 - 📖 *(Test 1)* Dynart, Inc., continuously **seeks** new ways to reduce its use of plastics.
@@ -3682,7 +3682,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì tương lai đơn** <small>(6 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì tương lai đơn** <small>(6 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p11)
 
 - 📖 *(Test 2)* Management **will identify** candidates for promotion by the end of the month.
 - 📖 *(Test 6)* On Saturday, the Edbridge Orchestra will **perform** a new work by local composer Nina Borstein.
@@ -3695,7 +3695,7 @@
 
 </details>
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ đơn** <small>(6 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ đơn** <small>(6 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p12)
 
 - 📖 *(Test 9)* Last Monday, the department **celebrated** Mr. Okada's recent promotion to manager.
 - 📖 *(Test 6)* Singer Maria Stanley **revealed** today that she is scheduling a world tour.
@@ -3708,7 +3708,7 @@
 
 </details>
 
-**▸ Tương lai gần (be going to)** <small>(1 câu Reading · 5 câu Listening)</small>
+**▸ Tương lai gần (be going to)** <small>(1 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p13)
 
 - 📖 *(Test 3)* (2 February)—Commuters are relieved that the River Avenue Railway Station **is finally going** to be renovated.
 - 🎧 *(Test 7)* Why is the man going to make a phone call? → *is going*
@@ -3721,54 +3721,54 @@
 
 </details>
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành (bị động)** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành (bị động)** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p14)
 
 - 📖 *(Test 4)* The Pacific Coast Sunset Run has been **rescheduled** to August 31 because of bad weather.
 - 📖 *(Test 3)* Poshy Shoes vice president Lucille Jeris has been **promoted** to president of the company.
 - 📖 *(Test 6)* Brile Construction's contract for the mall development project has finally been **verified** by the city supervisor.
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì tương lai đơn (bị động)** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì tương lai đơn (bị động)** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p15)
 
 - 📖 *(Test 7)* Once all parties have signed the Nelsign document, you will **be notified** by e-mail.
 - 📖 *(Test 8)* The official launch for the app and menu **will be announced** on Thursday, 25 September.
 - 📖 *(Test 7)* Given the forecast for rain on Saturday, the ceremony **will be held** indoors at the Raheen Gallery.
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p16)
 
 - 📖 *(Test 1)* Over the years, you **have shown** great initiative, creativity, and leadership.
 - 📖 *(Test 5)* She **has been** a key factor in our agency's success.
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ đơn (bị động)** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ đơn (bị động)** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p17)
 
 - 📖 *(Test 2)* Ms. Clayton was **relieved** to find that none of her files had been lost during the power failure.
 - 📖 *(Test 10)* After leaving his official government role, Dr. Beasly was **named** Director of the Nanboro Youth Farming Program.
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại đơn (bị động)** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại đơn (bị động)** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p18)
 
 - 📖 *(Test 10)* This political thriller **is based** on the book Whispered Illusions by Noriaki Arishima. 135.
 - 📖 *(Test 2)* The Exprite Foundation Board of Directors is **composed** of nine members who are elected annually by the public.
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại tiếp diễn** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại tiếp diễn** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p19)
 
 - 📖 *(Test 9)* The Lofstrom Shopping Center is **seeking** new tenants to rent vacant retail space.
 - 📖 *(Test 3)* Dr. Cheung **is representing** Silk Valley Hospital at next weekend's medical fair.
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ hoàn thành** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì quá khứ hoàn thành** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p20)
 
 - 📖 *(Test 10)* Tickets for Saturday's football game sold out on Thursday, much sooner than organizers **had anticipated**.
 - 📖 *(Test 3)* Long before the training program began, Ms. Morris **had revised** the schedule to allow her team to attend.
 
-**▸ Quá khứ tiếp diễn (was going to)** <small>(1 câu Reading · 1 câu Listening)</small>
+**▸ Quá khứ tiếp diễn (was going to)** <small>(1 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p21)
 
 - 📖 *(Test 8)* I **was just going** to grab a sandwich from the company café and eat at my desk.
 - 🎧 *(Test 3)* I **was just going** to scan them and send them to you by e-mail.
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành tiếp diễn** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì hiện tại hoàn thành tiếp diễn** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p22)
 
 - 📖 *(Test 4)* We have been **experiencing** problems with the thermostat in the western end of the warehouse.
 - 📖 *(Test 7)* Ever since the Unicycle Café opened for business last May, it **has been hosting** weekly live music events.
 
-**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì tương lai tiếp diễn** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ 🎯 Đáp án là ĐỘNG TỪ chia thì tương lai tiếp diễn** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-tense.md?id=p23)
 
 - 📖 *(Test 9)* "Shipley is an iconic design house that **will be adding** much to the Locke and Jeeves portfolio in the area of reliably traditional footwear," said Mr. Thayne.
 
@@ -3778,60 +3778,60 @@
 
 ## 16. 🔗 MỆNH ĐỀ
 
-> 📚 Lý thuyết: [MỆNH ĐỀ](Menh%20De.md) · 948 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [MỆNH ĐỀ](Menh%20De.md) · 948 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-clause.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Rút gọn MĐQH bị động (N + V3) | 98 | 11 |
-| Mệnh đề danh từ với that | 91 | 8 |
-| MĐQH với that | 69 | 7 |
-| MĐQH lược bỏ đại từ quan hệ (tân ngữ) | 65 | 11 |
-| Mệnh đề danh từ (lược that) | 46 | 17 |
-| MĐ trạng ngữ chỉ thời gian | 57 | 6 |
-| Rút gọn MĐQH chủ động (N + V-ing) | 48 | 11 |
-| Rút gọn MĐ trạng ngữ bằng V-ing (phân từ hiện tại) | 46 | 2 |
-| Mệnh đề danh từ sau giới từ | 29 | 10 |
-| MĐQH với who | 33 | 3 |
-| Mệnh đề danh từ với từ để hỏi (what) | 16 | 17 |
-| MĐ trạng ngữ với as (vì/khi/như) | 30 | 3 |
-| MĐ trạng ngữ với while (trong khi/mặc dù) | 18 | 3 |
-| Rút gọn MĐ trạng ngữ bằng V3 (phân từ quá khứ) | 17 | 1 |
-| MĐQH với who (không xác định, có dấu phẩy) | 17 | 0 |
-| MĐQH với which (không xác định, có dấu phẩy) | 14 | 1 |
-| MĐ trạng ngữ chỉ nguyên nhân/thời gian | 11 | 3 |
-| MĐ trạng ngữ chỉ nhượng bộ | 14 | 0 |
-| MĐ trạng ngữ chỉ mục đích | 11 | 2 |
-| MĐ trạng ngữ chỉ nguyên nhân | 12 | 1 |
-| Mệnh đề danh từ với if | 10 | 1 |
-| Mệnh đề danh từ với từ để hỏi (when) | 9 | 0 |
-| MĐQH với where | 8 | 1 |
-| Mệnh đề danh từ làm chủ ngữ | 8 | 0 |
-| Mệnh đề danh từ với từ để hỏi (how) | 7 | 0 |
-| MĐQH với where (không xác định, có dấu phẩy) | 5 | 2 |
-| Mệnh đề danh từ với whether | 3 | 2 |
-| Rút gọn MĐ trạng ngữ (liên từ + V-ing) | 4 | 0 |
-| MĐQH giới từ + which | 3 | 0 |
-| MĐQH với when | 3 | 0 |
-| MĐQH với whose (không xác định, có dấu phẩy) | 3 | 0 |
-| Mệnh đề danh từ với từ để hỏi (who) | 1 | 1 |
-| Mệnh đề danh từ với từ để hỏi (that) | 2 | 0 |
-| MĐ trạng ngữ với whether (dù... hay không) | 2 | 0 |
-| MĐ trạng ngữ chỉ thể cách | 0 | 2 |
-| Mệnh đề danh từ với từ để hỏi (why) | 2 | 0 |
-| Đại từ/trạng từ quan hệ kép (whatever) | 1 | 0 |
-| MĐQH với whatever | 1 | 0 |
-| Đại từ/trạng từ quan hệ kép (whenever) | 0 | 1 |
-| Đại từ/trạng từ quan hệ kép (wherever) | 1 | 0 |
-| Mệnh đề danh từ với từ để hỏi (where) | 0 | 1 |
-| Đại từ/trạng từ quan hệ kép (whoever) | 1 | 0 |
-| MĐ trạng ngữ chỉ điều kiện (phòng khi) | 1 | 0 |
-| Đại từ/trạng từ quan hệ kép (whichever) | 1 | 0 |
-| Mệnh đề danh từ với từ để hỏi (which) | 1 | 0 |
-| MĐ trạng ngữ chỉ thời gian (since + mốc) | 1 | 0 |
+| [Rút gọn MĐQH bị động (N + V3)](ets-ngu-phap-full-clause.md?id=p1) | 98 | 11 |
+| [Mệnh đề danh từ với that](ets-ngu-phap-full-clause.md?id=p2) | 91 | 8 |
+| [MĐQH với that](ets-ngu-phap-full-clause.md?id=p3) | 69 | 7 |
+| [MĐQH lược bỏ đại từ quan hệ (tân ngữ)](ets-ngu-phap-full-clause.md?id=p4) | 65 | 11 |
+| [Mệnh đề danh từ (lược that)](ets-ngu-phap-full-clause.md?id=p5) | 46 | 17 |
+| [MĐ trạng ngữ chỉ thời gian](ets-ngu-phap-full-clause.md?id=p6) | 57 | 6 |
+| [Rút gọn MĐQH chủ động (N + V-ing)](ets-ngu-phap-full-clause.md?id=p7) | 48 | 11 |
+| [Rút gọn MĐ trạng ngữ bằng V-ing (phân từ hiện tại)](ets-ngu-phap-full-clause.md?id=p8) | 46 | 2 |
+| [Mệnh đề danh từ sau giới từ](ets-ngu-phap-full-clause.md?id=p9) | 29 | 10 |
+| [MĐQH với who](ets-ngu-phap-full-clause.md?id=p10) | 33 | 3 |
+| [Mệnh đề danh từ với từ để hỏi (what)](ets-ngu-phap-full-clause.md?id=p11) | 16 | 17 |
+| [MĐ trạng ngữ với as (vì/khi/như)](ets-ngu-phap-full-clause.md?id=p12) | 30 | 3 |
+| [MĐ trạng ngữ với while (trong khi/mặc dù)](ets-ngu-phap-full-clause.md?id=p13) | 18 | 3 |
+| [Rút gọn MĐ trạng ngữ bằng V3 (phân từ quá khứ)](ets-ngu-phap-full-clause.md?id=p14) | 17 | 1 |
+| [MĐQH với who (không xác định, có dấu phẩy)](ets-ngu-phap-full-clause.md?id=p15) | 17 | 0 |
+| [MĐQH với which (không xác định, có dấu phẩy)](ets-ngu-phap-full-clause.md?id=p16) | 14 | 1 |
+| [MĐ trạng ngữ chỉ nguyên nhân/thời gian](ets-ngu-phap-full-clause.md?id=p17) | 11 | 3 |
+| [MĐ trạng ngữ chỉ nhượng bộ](ets-ngu-phap-full-clause.md?id=p18) | 14 | 0 |
+| [MĐ trạng ngữ chỉ mục đích](ets-ngu-phap-full-clause.md?id=p19) | 11 | 2 |
+| [MĐ trạng ngữ chỉ nguyên nhân](ets-ngu-phap-full-clause.md?id=p20) | 12 | 1 |
+| [Mệnh đề danh từ với if](ets-ngu-phap-full-clause.md?id=p21) | 10 | 1 |
+| [Mệnh đề danh từ với từ để hỏi (when)](ets-ngu-phap-full-clause.md?id=p22) | 9 | 0 |
+| [MĐQH với where](ets-ngu-phap-full-clause.md?id=p23) | 8 | 1 |
+| [Mệnh đề danh từ làm chủ ngữ](ets-ngu-phap-full-clause.md?id=p24) | 8 | 0 |
+| [Mệnh đề danh từ với từ để hỏi (how)](ets-ngu-phap-full-clause.md?id=p25) | 7 | 0 |
+| [MĐQH với where (không xác định, có dấu phẩy)](ets-ngu-phap-full-clause.md?id=p26) | 5 | 2 |
+| [Mệnh đề danh từ với whether](ets-ngu-phap-full-clause.md?id=p27) | 3 | 2 |
+| [Rút gọn MĐ trạng ngữ (liên từ + V-ing)](ets-ngu-phap-full-clause.md?id=p28) | 4 | 0 |
+| [MĐQH giới từ + which](ets-ngu-phap-full-clause.md?id=p29) | 3 | 0 |
+| [MĐQH với when](ets-ngu-phap-full-clause.md?id=p30) | 3 | 0 |
+| [MĐQH với whose (không xác định, có dấu phẩy)](ets-ngu-phap-full-clause.md?id=p31) | 3 | 0 |
+| [Mệnh đề danh từ với từ để hỏi (who)](ets-ngu-phap-full-clause.md?id=p32) | 1 | 1 |
+| [Mệnh đề danh từ với từ để hỏi (that)](ets-ngu-phap-full-clause.md?id=p33) | 2 | 0 |
+| [MĐ trạng ngữ với whether (dù... hay không)](ets-ngu-phap-full-clause.md?id=p34) | 2 | 0 |
+| [MĐ trạng ngữ chỉ thể cách](ets-ngu-phap-full-clause.md?id=p35) | 0 | 2 |
+| [Mệnh đề danh từ với từ để hỏi (why)](ets-ngu-phap-full-clause.md?id=p36) | 2 | 0 |
+| [Đại từ/trạng từ quan hệ kép (whatever)](ets-ngu-phap-full-clause.md?id=p37) | 1 | 0 |
+| [MĐQH với whatever](ets-ngu-phap-full-clause.md?id=p38) | 1 | 0 |
+| [Đại từ/trạng từ quan hệ kép (whenever)](ets-ngu-phap-full-clause.md?id=p39) | 0 | 1 |
+| [Đại từ/trạng từ quan hệ kép (wherever)](ets-ngu-phap-full-clause.md?id=p40) | 1 | 0 |
+| [Mệnh đề danh từ với từ để hỏi (where)](ets-ngu-phap-full-clause.md?id=p41) | 0 | 1 |
+| [Đại từ/trạng từ quan hệ kép (whoever)](ets-ngu-phap-full-clause.md?id=p42) | 1 | 0 |
+| [MĐ trạng ngữ chỉ điều kiện (phòng khi)](ets-ngu-phap-full-clause.md?id=p43) | 1 | 0 |
+| [Đại từ/trạng từ quan hệ kép (whichever)](ets-ngu-phap-full-clause.md?id=p44) | 1 | 0 |
+| [Mệnh đề danh từ với từ để hỏi (which)](ets-ngu-phap-full-clause.md?id=p45) | 1 | 0 |
+| [MĐ trạng ngữ chỉ thời gian (since + mốc)](ets-ngu-phap-full-clause.md?id=p46) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Rút gọn MĐQH bị động (N + V3)** <small>(98 câu Reading · 11 câu Listening)</small>
+**▸ Rút gọn MĐQH bị động (N + V3)** <small>(98 câu Reading · 11 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p1)
 
 - 📖 *(Test 8)* In order to access the building, enter the **code listed** on the tenant directory.
 - 📖 *(Test 10)* Pet Orbit customers who want **receipts delivered** by e-mail can opt for this service.
@@ -3848,7 +3848,7 @@
 
 </details>
 
-**▸ Mệnh đề danh từ với that** <small>(91 câu Reading · 8 câu Listening)</small>
+**▸ Mệnh đề danh từ với that** <small>(91 câu Reading · 8 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p2)
 
 - 📖 *(Test 9)* Our records **indicate that your company car** is due for regular service next month.
 - 📖 *(Test 5)* They informed me that the equipment may be down for up to two hours because of testing. → *informed that the equipment may*
@@ -3865,7 +3865,7 @@
 
 </details>
 
-**▸ MĐQH với that** <small>(69 câu Reading · 7 câu Listening)</small>
+**▸ MĐQH với that** <small>(69 câu Reading · 7 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p3)
 
 - 📖 *(Test 1)* We will listen to your ideas and offer **suggestions that match your** gardening desires.
 - 📖 *(Test 7)* The vehicles must be offered at a **price that is reasonable** for the average consumer.”
@@ -3882,7 +3882,7 @@
 
 </details>
 
-**▸ MĐQH lược bỏ đại từ quan hệ (tân ngữ)** <small>(65 câu Reading · 11 câu Listening)</small>
+**▸ MĐQH lược bỏ đại từ quan hệ (tân ngữ)** <small>(65 câu Reading · 11 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p4)
 
 - 📖 *(Test 1)* The few **questions she was unable to** answer were quickly addressed by her mentor, Max.
 - 📖 *(Test 10)* In the **event that this requirement is** not met, a $50 restocking fee will be charged.
@@ -3899,7 +3899,7 @@
 
 </details>
 
-**▸ Mệnh đề danh từ (lược that)** <small>(46 câu Reading · 17 câu Listening)</small>
+**▸ Mệnh đề danh từ (lược that)** <small>(46 câu Reading · 17 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p5)
 
 - 📖 *(Test 7)* I am thrilled about the imminent reopening of our theatre, and I **hope you are too**.
 - 📖 *(Test 5)* Do you **think Ms. Mayer would** want to see a cover letter in addition to my résumé?
@@ -3916,7 +3916,7 @@
 
 </details>
 
-**▸ MĐ trạng ngữ chỉ thời gian** <small>(57 câu Reading · 6 câu Listening)</small>
+**▸ MĐ trạng ngữ chỉ thời gian** <small>(57 câu Reading · 6 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p6)
 
 - 📖 *(Test 1)* It closed three months ago **after a water leak** caused extensive damage to the kitchen.
 - 📖 *(Test 7)* **Once all parties have** signed the Nelsign document, you will be notified by e-mail.
@@ -3933,7 +3933,7 @@
 
 </details>
 
-**▸ Rút gọn MĐQH chủ động (N + V-ing)** <small>(48 câu Reading · 11 câu Listening)</small>
+**▸ Rút gọn MĐQH chủ động (N + V-ing)** <small>(48 câu Reading · 11 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p7)
 
 - 📖 *(Test 6)* I will gladly recommend the Cottonwood Apartments to **anyone looking** to rent in the area.
 - 📖 *(Test 7)* **Passengers flying** between smaller cities must change planes at one of these hubs.
@@ -3948,7 +3948,7 @@
 
 </details>
 
-**▸ Rút gọn MĐ trạng ngữ bằng V-ing (phân từ hiện tại)** <small>(46 câu Reading · 2 câu Listening)</small>
+**▸ Rút gọn MĐ trạng ngữ bằng V-ing (phân từ hiện tại)** <small>(46 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p8)
 
 - 📖 *(Test 3)* **When planning a presentation** for potential investors, do not keep them in suspense.
 - 📖 *(Test 2)* **Beginning on August 28**, we will offer guitar and violin instruction for beginners.
@@ -3963,7 +3963,7 @@
 
 </details>
 
-**▸ Mệnh đề danh từ sau giới từ** <small>(29 câu Reading · 10 câu Listening)</small>
+**▸ Mệnh đề danh từ sau giới từ** <small>(29 câu Reading · 10 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p9)
 
 - 📖 *(Test 8)* In particular, they commented **on how** simple it is to use the different features.
 - 📖 *(Test 5)* The experiment's initial results were wildly different **from what** was expected.
@@ -3980,7 +3980,7 @@
 
 </details>
 
-**▸ MĐQH với who** <small>(33 câu Reading · 3 câu Listening)</small>
+**▸ MĐQH với who** <small>(33 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p10)
 
 - 📖 *(Test 5)* Belker Auto offers a ten-year warranty for **those who want greater** peace of mind.
 - 📖 *(Test 3)* We appreciate new perspectives, particularly from **individuals who work in** academia.
@@ -3996,7 +3996,7 @@
 
 </details>
 
-**▸ Mệnh đề danh từ với từ để hỏi (what)** <small>(16 câu Reading · 17 câu Listening)</small>
+**▸ Mệnh đề danh từ với từ để hỏi (what)** <small>(16 câu Reading · 17 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p11)
 
 - 📖 *(Test 1)* For a $95 diagnostic fee, our mechanics will **determine what repairs are needed**.
 - 📖 *(Test 3)* I searched online and inquired at local shops, but no one had quite what I wanted. → *had what I wanted .*
@@ -4010,7 +4010,7 @@
 
 </details>
 
-**▸ MĐ trạng ngữ với as (vì/khi/như)** <small>(30 câu Reading · 3 câu Listening)</small>
+**▸ MĐ trạng ngữ với as (vì/khi/như)** <small>(30 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p12)
 
 - 📖 *(Test 9)* **As you know**, the period from June 1 through August 31 is ordinarily our busiest time.
 - 📖 *(Test 1)* Diana Perez was on-site for the whole job **as promised and answered** all my questions.
@@ -4025,7 +4025,7 @@
 
 </details>
 
-**▸ MĐ trạng ngữ với while (trong khi/mặc dù)** <small>(18 câu Reading · 3 câu Listening)</small>
+**▸ MĐ trạng ngữ với while (trong khi/mặc dù)** <small>(18 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p13)
 
 - 📖 *(Test 4)* Mr. Aziz is often alone in the shop **while his partner is** out making a delivery.
 - 📖 *(Test 9)* Two have a classic, timeless look, **while the others are** minimalist and modern.
@@ -4039,7 +4039,7 @@
 
 </details>
 
-**▸ Rút gọn MĐ trạng ngữ bằng V3 (phân từ quá khứ)** <small>(17 câu Reading · 1 câu Listening)</small>
+**▸ Rút gọn MĐ trạng ngữ bằng V3 (phân từ quá khứ)** <small>(17 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p14)
 
 - 📖 *(Test 1)* Diana Perez was on-site for the whole job **as promised** and answered all my questions.
 - 📖 *(Test 5)* **If interested**, please reply to this e-mail to schedule a free consultation.
@@ -4053,7 +4053,7 @@
 
 </details>
 
-**▸ MĐQH với who (không xác định, có dấu phẩy)** <small>(17 câu Reading · 0 câu Listening)</small>
+**▸ MĐQH với who (không xác định, có dấu phẩy)** <small>(17 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p15)
 
 - 📖 *(Test 5)* Mr. Choi, who recently joined the advisory board, is an experienced accountant and investor. → *Choi who recently joined*
 - 📖 *(Test 8)* Please join us in welcoming Dr. Sito, who brings ten years of experience in the aerospace industry to his new position. → *Sito who brings ten*
@@ -4066,7 +4066,7 @@
 
 </details>
 
-**▸ MĐQH với which (không xác định, có dấu phẩy)** <small>(14 câu Reading · 1 câu Listening)</small>
+**▸ MĐQH với which (không xác định, có dấu phẩy)** <small>(14 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p16)
 
 - 📖 *(Test 8)* Matt Grimm and the other band members love the stickers, which are selling very well. → *stickers which are selling*
 - 📖 *(Test 10)* Flexmerge crates are collapsible, which means they are easy to stack and they save space. → *crates which means they*
@@ -4080,7 +4080,7 @@
 
 </details>
 
-**▸ MĐ trạng ngữ chỉ nguyên nhân/thời gian** <small>(11 câu Reading · 3 câu Listening)</small>
+**▸ MĐ trạng ngữ chỉ nguyên nhân/thời gian** <small>(11 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p17)
 
 - 📖 *(Test 2)* We would likely schedule you on a Tuesday, **since that is typically** our least busy day.
 - 📖 *(Test 4)* I was hoping you could scan them and e-mail them to me **since you usually get** to the office early.
@@ -4096,7 +4096,7 @@
 
 </details>
 
-**▸ MĐ trạng ngữ chỉ nhượng bộ** <small>(14 câu Reading · 0 câu Listening)</small>
+**▸ MĐ trạng ngữ chỉ nhượng bộ** <small>(14 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p18)
 
 - 📖 *(Test 6)* **Although Ms. Endou was** not chosen for an award, her achievements were praised.
 - 📖 *(Test 9)* **Though there is no** set length for personal statements, employers sometimes offer guidelines.
@@ -4109,7 +4109,7 @@
 
 </details>
 
-**▸ MĐ trạng ngữ chỉ mục đích** <small>(11 câu Reading · 2 câu Listening)</small>
+**▸ MĐ trạng ngữ chỉ mục đích** <small>(11 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p19)
 
 - 📖 *(Test 2)* Please give me a call whenever it is convenient **so that** we can talk about next steps.
 - 📖 *(Test 4)* The posters must be completed soon **so that** they can be put up in advance of the gala.
@@ -4123,7 +4123,7 @@
 
 </details>
 
-**▸ MĐ trạng ngữ chỉ nguyên nhân** <small>(12 câu Reading · 1 câu Listening)</small>
+**▸ MĐ trạng ngữ chỉ nguyên nhân** <small>(12 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p20)
 
 - 📖 *(Test 4)* **Because we are a** small company, our inventory is not always fully available.
 - 📖 *(Test 7)* **Because the new branch** office was understaffed, more workers were hired.
@@ -4137,7 +4137,7 @@
 
 </details>
 
-**▸ Mệnh đề danh từ với if** <small>(10 câu Reading · 1 câu Listening)</small>
+**▸ Mệnh đề danh từ với if** <small>(10 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p21)
 
 - 📖 *(Test 1)* Please take a moment to go through it and let us **know if you have any** questions.
 - 📖 *(Test 8)* Please reply to this e-mail by 16 February to let me **know if you plan to** attend.
@@ -4151,7 +4151,7 @@
 
 </details>
 
-**▸ Mệnh đề danh từ với từ để hỏi (when)** <small>(9 câu Reading · 0 câu Listening)</small>
+**▸ Mệnh đề danh từ với từ để hỏi (when)** <small>(9 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p22)
 
 - 📖 *(Test 8)* At 10:10 A.M., what does Ms. Kim most likely **mean when she writes**, "I'll handle it"?
 - 📖 *(Test 1)* At 11:23 A.M., what does Ms. Seang **imply when she writes**, "I have plenty to go around"?
@@ -4164,7 +4164,7 @@
 
 </details>
 
-**▸ MĐQH với where** <small>(8 câu Reading · 1 câu Listening)</small>
+**▸ MĐQH với where** <small>(8 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p23)
 
 - 📖 *(Test 5)* Cavalina Hotel is a breathtaking **sanctuary where guests can** escape the hectic bustle of city life.
 - 📖 *(Test 7)* We currently have seven regional urban **hubs where our flights** connect.
@@ -4178,7 +4178,7 @@
 
 </details>
 
-**▸ Mệnh đề danh từ làm chủ ngữ** <small>(8 câu Reading · 0 câu Listening)</small>
+**▸ Mệnh đề danh từ làm chủ ngữ** <small>(8 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p24)
 
 - 📖 *(Test 4)* **Whoever prepares the patient's** medical records is required to maintain confidentiality.
 - 📖 *(Test 5)* **Posting updates too infrequently on** social media can cause small businesses by their customers.
@@ -4191,7 +4191,7 @@
 
 </details>
 
-**▸ Mệnh đề danh từ với từ để hỏi (how)** <small>(7 câu Reading · 0 câu Listening)</small>
+**▸ Mệnh đề danh từ với từ để hỏi (how)** <small>(7 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p25)
 
 - 📖 *(Test 8)* Then Big Strike Lanes opened a few months ago, and I **wondered how it would compare**.
 - 📖 *(Test 2)* Please let me **know how much that will** cost and when I can expect to receive them.
@@ -4204,7 +4204,7 @@
 
 </details>
 
-**▸ MĐQH với where (không xác định, có dấu phẩy)** <small>(5 câu Reading · 2 câu Listening)</small>
+**▸ MĐQH với where (không xác định, có dấu phẩy)** <small>(5 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p26)
 
 - 📖 *(Test 2)* Once I arrived at Charlesville Central Station, I rode the elevator to the basement, where the light-rail train platforms are located. → *basement where the light*
 - 📖 *(Test 7)* Ms. Loeb graduated with top honors from Clover University of Technology in Boston, where she completed a degree in electrical engineering. → *Boston where she completed*
@@ -4217,7 +4217,7 @@
 
 </details>
 
-**▸ Mệnh đề danh từ với whether** <small>(3 câu Reading · 2 câu Listening)</small>
+**▸ Mệnh đề danh từ với whether** <small>(3 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p27)
 
 - 📖 *(Test 6)* A reader recently **asked whether any innovations in** 3-D printing are pertinent to the board game industry.
 - 📖 *(Test 1)* Let me know by 12 October whether you will be able to attend. → *know whether you will be*
@@ -4230,7 +4230,7 @@
 
 </details>
 
-**▸ Rút gọn MĐ trạng ngữ (liên từ + V-ing)** <small>(4 câu Reading · 0 câu Listening)</small>
+**▸ Rút gọn MĐ trạng ngữ (liên từ + V-ing)** <small>(4 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p28)
 
 - 📖 *(Test 8)* Remember last year when Gerard Baxter sported a white tuxedo **while phoning** in from the rings of Saturn?
 - 📖 *(Test 1)* Christine Lafferty said that she and her childhood friend Morgan Flanagan spent plenty of time at the theater **while growing** up.
@@ -4242,84 +4242,84 @@
 
 </details>
 
-**▸ MĐQH giới từ + which** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ MĐQH giới từ + which** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p29)
 
 - 📖 *(Test 1)* The lecture will take place at 6:00 **P.M., after which** attendees may ask questions.
 - 📖 *(Test 7)* It automatically wraps the umbrella in a clear plastic **bag, after which** visitors can take their umbrellas.
 - 📖 *(Test 9)* Still, we must have sufficient staff on hand to deliver service of the highest quality, a policy for which Bellerson Financial is highly regarded by its customers. → *policy, for which …*
 
-**▸ MĐQH với when** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ MĐQH với when** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p30)
 
 - 📖 *(Test 8)* Remember last **year when Gerard Baxter** sported a white tuxedo while phoning in from the rings of Saturn?
 - 📖 *(Test 3)* Please suggest a convenient **time when I could** call you to discuss how we can work together in the future.
 - 📖 *(Test 9)* Management is also well aware that summer is the **time when many of** our employees like to take time off from work.
 
-**▸ MĐQH với whose (không xác định, có dấu phẩy)** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ MĐQH với whose (không xác định, có dấu phẩy)** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p31)
 
 - 📖 *(Test 10)* The new office building was designed by Frank Tsudama, whose latest project involved Seoul's futurist Global Trade Centre. → *Tsudama whose latest project*
 - 📖 *(Test 5)* Mr. Rosier, whose store specializes in native plants and flowers, admitted that his first year with the garden center was tough. → *Rosier whose store specializes*
 
-**▸ Mệnh đề danh từ với từ để hỏi (who)** <small>(1 câu Reading · 1 câu Listening)</small>
+**▸ Mệnh đề danh từ với từ để hỏi (who)** <small>(1 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p32)
 
 - 📖 *(Test 5)* “There was a lot of trial and error at the outset, but we finally figured it out,” said Liz Ohtani, who, together with Sandra Rivera, owns A Thousand Stories. → *said who , together with*
 - 🎧 *(Test 2)* We'll need to **decide who we want to** send to represent our company at the trade show.
 
-**▸ Mệnh đề danh từ với từ để hỏi (that)** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ Mệnh đề danh từ với từ để hỏi (that)** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p33)
 
 - 📖 *(Test 9)* I found myself in a situation recently that required one of Superra Cleaning's special services. → *found that required one of*
 - 📖 *(Test 3)* I ordered a three-wheeled cargo bicycle from them on August 20 that was delivered in only two weeks. → *ordered that was delivered in*
 
-**▸ MĐ trạng ngữ với whether (dù... hay không)** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ MĐ trạng ngữ với whether (dù... hay không)** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p34)
 
 - 📖 *(Test 8)* **Whether you want to** use stickers as giveaways or to make extra cash, Stickers Be Yours has you covered.
 - 📖 *(Test 4)* Chef Malik oversees Hillside House's menus, **whether the event hosts** choose eclectic small plates, a family-style dinner, or a buffet brunch.
 
-**▸ MĐ trạng ngữ chỉ thể cách** <small>(0 câu Reading · 2 câu Listening)</small>
+**▸ MĐ trạng ngữ chỉ thể cách** <small>(0 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p35)
 
 - 🎧 *(Test 8)* It looks **like I billed sign** you up for our rewards program.
 
-**▸ Mệnh đề danh từ với từ để hỏi (why)** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ Mệnh đề danh từ với từ để hỏi (why)** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p36)
 
 - 📖 *(Test 9)* Do not forget to mention the specific job you are applying for and **explain why you would be** a good fit.
 - 📖 *(Test 8)* That **is why we are giving** you extra time to submit your application for our Master of Business Administration (MBA) program.
 
-**▸ Đại từ/trạng từ quan hệ kép (whatever)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Đại từ/trạng từ quan hệ kép (whatever)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p37)
 
 - 📖 *(Test 1)* And as our name suggests, we can take on more ambitious landscaping projects—**whatever you need**!
 
-**▸ MĐQH với whatever** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ MĐQH với whatever** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p38)
 
 - 📖 *(Test 1)* And as our name suggests, we can take on more ambitious landscaping projects—whatever you need! → *projects whatever you need*
 
-**▸ Đại từ/trạng từ quan hệ kép (whenever)** <small>(0 câu Reading · 1 câu Listening)</small>
+**▸ Đại từ/trạng từ quan hệ kép (whenever)** <small>(0 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p39)
 
 - 🎧 *(Test 1)* **Whenever** the light turns red.
 
-**▸ Đại từ/trạng từ quan hệ kép (wherever)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Đại từ/trạng từ quan hệ kép (wherever)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p40)
 
 - 📖 *(Test 2)* Wherever you want to go, from the beach to the backwoods, the Nibora XC-35 can take you there! → *Wherever to go*
 
-**▸ Mệnh đề danh từ với từ để hỏi (where)** <small>(0 câu Reading · 1 câu Listening)</small>
+**▸ Mệnh đề danh từ với từ để hỏi (where)** <small>(0 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p41)
 
 - 🎧 *(Test 2)* You'll just need to note those days on your calendar, so everyone **knows where you are**.
 
-**▸ Đại từ/trạng từ quan hệ kép (whoever)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Đại từ/trạng từ quan hệ kép (whoever)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p42)
 
 - 📖 *(Test 4)* **Whoever prepares the patient**'s medical records is required to maintain confidentiality.
 
-**▸ MĐ trạng ngữ chỉ điều kiện (phòng khi)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ MĐ trạng ngữ chỉ điều kiện (phòng khi)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p43)
 
 - 📖 *(Test 7)* The order of the speakers has been changed **in case** Mr. Chen arrives late.
 
-**▸ Đại từ/trạng từ quan hệ kép (whichever)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Đại từ/trạng từ quan hệ kép (whichever)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p44)
 
 - 📖 *(Test 9)* **Whichever route** they choose, it should take the management team approximately four hours to drive to the hotel in Antibes.
 
-**▸ Mệnh đề danh từ với từ để hỏi (which)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Mệnh đề danh từ với từ để hỏi (which)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p45)
 
 - 📖 *(Test 9)* Once you review the sketches, let me **know which you like and** what changes I should make, if any.
 
-**▸ MĐ trạng ngữ chỉ thời gian (since + mốc)** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ MĐ trạng ngữ chỉ thời gian (since + mốc)** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-clause.md?id=p46)
 
 - 📖 *(Test 10)* **Since KMC opened its** doors, we have set high patient care standards and strive to maintain this goal every year.
 
@@ -4329,34 +4329,34 @@
 
 ## 17. 📝 CÂU
 
-> 📚 Lý thuyết: [CÂU](SENTENCES.md) · 4,777 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [CÂU](SENTENCES.md) · 4,777 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-sent.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Câu đơn | 1440 | 1121 |
-| Câu hỏi Wh- | 432 | 363 |
-| Câu phức (mệnh đề chính + mệnh đề phụ) | 605 | 121 |
-| Câu mệnh lệnh | 100 | 25 |
-| Câu hỏi trần thuật (câu khẳng định + ?) | 89 | 19 |
-| Câu điều kiện | 72 | 5 |
-| Câu ghép (2 mệnh đề độc lập) | 65 | 4 |
-| Câu hỏi Yes/No | 22 | 37 |
-| Câu điều kiện loại 1 (If + hiện tại, will/can/mệnh lệnh) | 47 | 5 |
-| Câu phức hợp (ghép + phức) | 45 | 2 |
-| Câu cảm thán (!) | 38 | 5 |
-| Câu mệnh lệnh (Please + V) | 34 | 9 |
-| Câu hỏi đề nghị / yêu cầu lịch sự | 8 | 19 |
-| Chủ ngữ giả It (It is + adj/N + to V/that) | 13 | 1 |
-| Câu điều kiện loại 0 (sự thật hiển nhiên) | 8 | 0 |
-| Câu hỏi lựa chọn (… or …?) | 2 | 5 |
-| Câu hỏi đuôi / câu hỏi xác nhận (…, right?) | 2 | 3 |
-| Câu hỏi phủ định (Isn't/Don't/Shouldn't…?) | 0 | 5 |
-| Câu đề nghị Let's + V | 2 | 1 |
-| Câu điều kiện lịch sự (If you would like…) | 3 | 0 |
+| [Câu đơn](ets-ngu-phap-full-sent.md?id=p1) | 1440 | 1121 |
+| [Câu hỏi Wh-](ets-ngu-phap-full-sent.md?id=p2) | 432 | 363 |
+| [Câu phức (mệnh đề chính + mệnh đề phụ)](ets-ngu-phap-full-sent.md?id=p3) | 605 | 121 |
+| [Câu mệnh lệnh](ets-ngu-phap-full-sent.md?id=p4) | 100 | 25 |
+| [Câu hỏi trần thuật (câu khẳng định + ?)](ets-ngu-phap-full-sent.md?id=p5) | 89 | 19 |
+| [Câu điều kiện](ets-ngu-phap-full-sent.md?id=p6) | 72 | 5 |
+| [Câu ghép (2 mệnh đề độc lập)](ets-ngu-phap-full-sent.md?id=p7) | 65 | 4 |
+| [Câu hỏi Yes/No](ets-ngu-phap-full-sent.md?id=p8) | 22 | 37 |
+| [Câu điều kiện loại 1 (If + hiện tại, will/can/mệnh lệnh)](ets-ngu-phap-full-sent.md?id=p9) | 47 | 5 |
+| [Câu phức hợp (ghép + phức)](ets-ngu-phap-full-sent.md?id=p10) | 45 | 2 |
+| [Câu cảm thán (!)](ets-ngu-phap-full-sent.md?id=p11) | 38 | 5 |
+| [Câu mệnh lệnh (Please + V)](ets-ngu-phap-full-sent.md?id=p12) | 34 | 9 |
+| [Câu hỏi đề nghị / yêu cầu lịch sự](ets-ngu-phap-full-sent.md?id=p13) | 8 | 19 |
+| [Chủ ngữ giả It (It is + adj/N + to V/that)](ets-ngu-phap-full-sent.md?id=p14) | 13 | 1 |
+| [Câu điều kiện loại 0 (sự thật hiển nhiên)](ets-ngu-phap-full-sent.md?id=p15) | 8 | 0 |
+| [Câu hỏi lựa chọn (… or …?)](ets-ngu-phap-full-sent.md?id=p16) | 2 | 5 |
+| [Câu hỏi đuôi / câu hỏi xác nhận (…, right?)](ets-ngu-phap-full-sent.md?id=p17) | 2 | 3 |
+| [Câu hỏi phủ định (Isn't/Don't/Shouldn't…?)](ets-ngu-phap-full-sent.md?id=p18) | 0 | 5 |
+| [Câu đề nghị Let's + V](ets-ngu-phap-full-sent.md?id=p19) | 2 | 1 |
+| [Câu điều kiện lịch sự (If you would like…)](ets-ngu-phap-full-sent.md?id=p20) | 3 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Câu đơn** <small>(1440 câu Reading · 1121 câu Listening)</small>
+**▸ Câu đơn** <small>(1440 câu Reading · 1121 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p1)
 
 - 📖 *(Test 1)* Ennis Photography purchased at the new lighting equipment despite the high cost.
 - 📖 *(Test 1)* We are delighted to celebrate your 30th anniversary with Brandrix Distribution Centre.
@@ -4373,7 +4373,7 @@
 
 </details>
 
-**▸ Câu hỏi Wh-** <small>(432 câu Reading · 363 câu Listening)</small>
+**▸ Câu hỏi Wh-** <small>(432 câu Reading · 363 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p2)
 
 - 📖 *(Test 2)* **Where did you** purchase your Gregerson product?
 - 📖 *(Test 4)* **What if we** ask customers to send us their written comments on how they use our calendars to help them organize their home offices?
@@ -4390,7 +4390,7 @@
 
 </details>
 
-**▸ Câu phức (mệnh đề chính + mệnh đề phụ)** <small>(605 câu Reading · 121 câu Listening)</small>
+**▸ Câu phức (mệnh đề chính + mệnh đề phụ)** <small>(605 câu Reading · 121 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p3)
 
 - 📖 *(Test 1)* We will listen to your ideas and offer suggestions that match your gardening desires.
 - 📖 *(Test 1)* It closed three months ago after a water leak caused extensive damage to the kitchen.
@@ -4407,7 +4407,7 @@
 
 </details>
 
-**▸ Câu mệnh lệnh** <small>(100 câu Reading · 25 câu Listening)</small>
+**▸ Câu mệnh lệnh** <small>(100 câu Reading · 25 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p4)
 
 - 📖 *(Test 9)* To avoid account deactivation on 20 July, simply **sign in** to the app before that date.
 - 📖 *(Test 5)* For assistance with this process, **please contact Manuel** Costa in Technology Support.
@@ -4424,7 +4424,7 @@
 
 </details>
 
-**▸ Câu hỏi trần thuật (câu khẳng định + ?)** <small>(89 câu Reading · 19 câu Listening)</small>
+**▸ Câu hỏi trần thuật (câu khẳng định + ?)** <small>(89 câu Reading · 19 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p5)
 
 - 📖 *(Test 1)* **Or do you** need the e-mail addresses of account holders only within a certain age-group?
 - 📖 *(Test 3)* **Remember that mobile** app I told you about—the one for finding available storage locations?
@@ -4441,7 +4441,7 @@
 
 </details>
 
-**▸ Câu điều kiện** <small>(72 câu Reading · 5 câu Listening)</small>
+**▸ Câu điều kiện** <small>(72 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p6)
 
 - 📖 *(Test 9)* **If the employer does** not provide a word count, aim for between 300 and 500 words.
 - 📖 *(Test 9)* I could bring the item to you **if you live in** the area, or I could mail it to you.
@@ -4458,7 +4458,7 @@
 
 </details>
 
-**▸ Câu ghép (2 mệnh đề độc lập)** <small>(65 câu Reading · 4 câu Listening)</small>
+**▸ Câu ghép (2 mệnh đề độc lập)** <small>(65 câu Reading · 4 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p7)
 
 - 📖 *(Test 2)* You can request the instructor of your choice, or we can match you with an instructor.
 - 📖 *(Test 3)* I hadn't been to the city in quite a while—more than 25 years—and so much has changed!
@@ -4475,7 +4475,7 @@
 
 </details>
 
-**▸ Câu hỏi Yes/No** <small>(22 câu Reading · 37 câu Listening)</small>
+**▸ Câu hỏi Yes/No** <small>(22 câu Reading · 37 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p8)
 
 - 📖 *(Test 5)* **Do you think** Ms. Mayer would want to see a cover letter in addition to my résumé?
 - 📖 *(Test 1)* **Are you willing** to put your education, your experience, and your imagination to great use?
@@ -4492,7 +4492,7 @@
 
 </details>
 
-**▸ Câu điều kiện loại 1 (If + hiện tại, will/can/mệnh lệnh)** <small>(47 câu Reading · 5 câu Listening)</small>
+**▸ Câu điều kiện loại 1 (If + hiện tại, will/can/mệnh lệnh)** <small>(47 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p9)
 
 - 📖 *(Test 7)* Contact the hotel's main office **if you wish to receive** daily linen service.
 - 📖 *(Test 7)* In the meantime, **if you have questions**, please contact Min-Gyu Byun at byun003@milostek.com.
@@ -4509,7 +4509,7 @@
 
 </details>
 
-**▸ Câu phức hợp (ghép + phức)** <small>(45 câu Reading · 2 câu Listening)</small>
+**▸ Câu phức hợp (ghép + phức)** <small>(45 câu Reading · 2 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p10)
 
 - 📖 *(Test 8)* Then Big Strike Lanes opened a few months ago, and I wondered how it would compare.
 - 📖 *(Test 3)* I searched online and inquired at local shops, but no one had quite what I wanted.
@@ -4524,7 +4524,7 @@
 
 </details>
 
-**▸ Câu cảm thán (!)** <small>(38 câu Reading · 5 câu Listening)</small>
+**▸ Câu cảm thán (!)** <small>(38 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p11)
 
 - 📖 *(Test 3)* I hadn't been to the city in quite a while—more than 25 years—and so much has changed! → *!*
 - 📖 *(Test 8)* Power washing beautifies your home and helps maintain the integrity of your structure! → *!*
@@ -4539,7 +4539,7 @@
 
 </details>
 
-**▸ Câu mệnh lệnh (Please + V)** <small>(34 câu Reading · 9 câu Listening)</small>
+**▸ Câu mệnh lệnh (Please + V)** <small>(34 câu Reading · 9 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p12)
 
 - 📖 *(Test 7)* **Please be patient** as we prepare the space for our next exhibit, The Power of Light.
 - 📖 *(Test 1)* **Please review the** attached file and decide whether you like those new colors.
@@ -4555,7 +4555,7 @@
 
 </details>
 
-**▸ Câu hỏi đề nghị / yêu cầu lịch sự** <small>(8 câu Reading · 19 câu Listening)</small>
+**▸ Câu hỏi đề nghị / yêu cầu lịch sự** <small>(8 câu Reading · 19 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p13)
 
 - 📖 *(Test 4)* **Would you consider** including my company, Petals Aplenty, on your list of referrals.?
 - 📖 *(Test 2)* **Could you please** send me samples of your Edinburgh and Norwich fabrics?
@@ -4572,7 +4572,7 @@
 
 </details>
 
-**▸ Chủ ngữ giả It (It is + adj/N + to V/that)** <small>(13 câu Reading · 1 câu Listening)</small>
+**▸ Chủ ngữ giả It (It is + adj/N + to V/that)** <small>(13 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p14)
 
 - 📖 *(Test 8)* In particular, they commented on **how simple it is to** use the different features.
 - 📖 *(Test 3)* **It is hard to believe** the company can meet the demand, but they manage to do it.
@@ -4586,7 +4586,7 @@
 
 </details>
 
-**▸ Câu điều kiện loại 0 (sự thật hiển nhiên)** <small>(8 câu Reading · 0 câu Listening)</small>
+**▸ Câu điều kiện loại 0 (sự thật hiển nhiên)** <small>(8 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p15)
 
 - 📖 *(Test 9)* **If the employer does not** provide a word count, aim for between 300 and 500 words.
 - 📖 *(Test 4)* Parking is 10 per hour **unless you get your parking** validated at a participating store.
@@ -4599,7 +4599,7 @@
 
 </details>
 
-**▸ Câu hỏi lựa chọn (… or …?)** <small>(2 câu Reading · 5 câu Listening)</small>
+**▸ Câu hỏi lựa chọn (… or …?)** <small>(2 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p16)
 
 - 📖 *(Test 9)* **Is it something** our crews can do, or do we need to contract it out?
 - 📖 *(Test 9)* **May I stop** in next Tuesday or Wednesday?
@@ -4613,7 +4613,7 @@
 
 </details>
 
-**▸ Câu hỏi đuôi / câu hỏi xác nhận (…, right?)** <small>(2 câu Reading · 3 câu Listening)</small>
+**▸ Câu hỏi đuôi / câu hỏi xác nhận (…, right?)** <small>(2 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p17)
 
 - 📖 *(Test 3)* There are a couple of alternative spaces, **right?**
 - 🎧 *(Test 4)* You think we should focus on advertising on social media, **right?**
@@ -4625,7 +4625,7 @@
 
 </details>
 
-**▸ Câu hỏi phủ định (Isn't/Don't/Shouldn't…?)** <small>(0 câu Reading · 5 câu Listening)</small>
+**▸ Câu hỏi phủ định (Isn't/Don't/Shouldn't…?)** <small>(0 câu Reading · 5 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p18)
 
 - 🎧 *(Test 3)* **Didn't she** return from her trip last week?
 - 🎧 *(Test 4)* **Isn't there** a discount on this computer monitor?
@@ -4637,13 +4637,13 @@
 
 </details>
 
-**▸ Câu đề nghị Let's + V** <small>(2 câu Reading · 1 câu Listening)</small>
+**▸ Câu đề nghị Let's + V** <small>(2 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p19)
 
 - 📖 *(Test 3)* **Let's** check out the particulars together later today after we complete our inventory work.
 - 📖 *(Test 5)* Let us help you achieve these objectives. → *Let's*
 - 🎧 *(Test 8)* **Let's** register right away.
 
-**▸ Câu điều kiện lịch sự (If you would like…)** <small>(3 câu Reading · 0 câu Listening)</small>
+**▸ Câu điều kiện lịch sự (If you would like…)** <small>(3 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-sent.md?id=p20)
 
 - 📖 *(Test 9)* I could bring the item to you **if you live in the** area, or I could mail it to you.
 - 📖 *(Test 5)* **If not, what restaurants** near the conference would you recommend that would be open at that time?
@@ -4655,19 +4655,19 @@
 
 ## 18. ⏩ PHỐI HỢP THÌ
 
-> 📚 Lý thuyết: [PHỐI HỢP THÌ](SEQUENCE%20OF%20TENSES.md) · 78 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [PHỐI HỢP THÌ](SEQUENCE%20OF%20TENSES.md) · 78 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-seq.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Không lùi thì (sự việc vẫn đúng/chưa xảy ra) | 29 | 3 |
-| MĐ thời gian dùng hiện tại thay cho tương lai | 18 | 1 |
-| Lùi thì sau động từ tường thuật ở quá khứ | 12 | 1 |
-| MĐ điều kiện/thời gian dùng hiện tại thay cho tương lai | 8 | 0 |
-| Quá khứ hoàn thành (xảy ra trước) + quá khứ đơn | 6 | 0 |
+| [Không lùi thì (sự việc vẫn đúng/chưa xảy ra)](ets-ngu-phap-full-seq.md?id=p1) | 29 | 3 |
+| [MĐ thời gian dùng hiện tại thay cho tương lai](ets-ngu-phap-full-seq.md?id=p2) | 18 | 1 |
+| [Lùi thì sau động từ tường thuật ở quá khứ](ets-ngu-phap-full-seq.md?id=p3) | 12 | 1 |
+| [MĐ điều kiện/thời gian dùng hiện tại thay cho tương lai](ets-ngu-phap-full-seq.md?id=p4) | 8 | 0 |
+| [Quá khứ hoàn thành (xảy ra trước) + quá khứ đơn](ets-ngu-phap-full-seq.md?id=p5) | 6 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Không lùi thì (sự việc vẫn đúng/chưa xảy ra)** <small>(29 câu Reading · 3 câu Listening)</small>
+**▸ Không lùi thì (sự việc vẫn đúng/chưa xảy ra)** <small>(29 câu Reading · 3 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-seq.md?id=p1)
 
 - 📖 *(Test 3)* A news source **suggested** that the merger **will probably take** place next year.
 - 📖 *(Test 4)* “It **is** a tremendous honour and privilege to be appointed Gulfbrook's CDO,” Ms. Masondo **said**.
@@ -4683,7 +4683,7 @@
 
 </details>
 
-**▸ MĐ thời gian dùng hiện tại thay cho tương lai** <small>(18 câu Reading · 1 câu Listening)</small>
+**▸ MĐ thời gian dùng hiện tại thay cho tương lai** <small>(18 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-seq.md?id=p2)
 
 - 📖 *(Test 7)* **Once all parties have signed** the Nelsign document, you will be notified by e-mail.
 - 📖 *(Test 10)* Production of the garments will begin two weeks **after the contract is signed**.
@@ -4697,7 +4697,7 @@
 
 </details>
 
-**▸ Lùi thì sau động từ tường thuật ở quá khứ** <small>(12 câu Reading · 1 câu Listening)</small>
+**▸ Lùi thì sau động từ tường thuật ở quá khứ** <small>(12 câu Reading · 1 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-seq.md?id=p3)
 
 - 📖 *(Test 4)* "Without a doubt, it **was** some of the best I've ever eaten," **said** customer Judy Blackburn.
 - 📖 *(Test 3)* Recently, I **decided** I **needed** a bicycle to bring bulky items home from stores.
@@ -4711,7 +4711,7 @@
 
 </details>
 
-**▸ MĐ điều kiện/thời gian dùng hiện tại thay cho tương lai** <small>(8 câu Reading · 0 câu Listening)</small>
+**▸ MĐ điều kiện/thời gian dùng hiện tại thay cho tương lai** <small>(8 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-seq.md?id=p4)
 
 - 📖 *(Test 10)* **If you prefer a consignment** arrangement, we will sell your bicycle for the agreed-upon amount.
 - 📖 *(Test 10)* **If you opt for our** consignment program, we will sell your bicycle for you.
@@ -4724,7 +4724,7 @@
 
 </details>
 
-**▸ Quá khứ hoàn thành (xảy ra trước) + quá khứ đơn** <small>(6 câu Reading · 0 câu Listening)</small>
+**▸ Quá khứ hoàn thành (xảy ra trước) + quá khứ đơn** <small>(6 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-seq.md?id=p5)
 
 - 📖 *(Test 8)* The bowling was great, and I really enjoyed the virtual reality, which I had never tried before. → *had V3 … V2*
 - 📖 *(Test 2)* Ms. Clayton was relieved to find that none of her files had been lost during the power failure. → *had V3 … V2*
@@ -4743,17 +4743,17 @@
 
 ## 19. 🔄 ĐẢO NGỮ
 
-> 📚 Lý thuyết: [ĐẢO NGỮ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md) · 771 lần xuất hiện trong 10 đề
+> 📚 Lý thuyết: [ĐẢO NGỮ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md) · 771 lần xuất hiện trong 10 đề · 📋 [**Xem FULL toàn bộ câu của chương**](ets-ngu-phap-full-inv.md)
 
-| Điểm ngữ pháp | 📖 Reading | 🎧 Listening |
+| Điểm ngữ pháp (bấm để xem full câu) | 📖 Reading | 🎧 Listening |
 |---|---|---|
-| Đảo ngữ trong câu hỏi (trợ động từ + S) | 391 | 377 |
-| Đảo ngữ trong câu khẳng định (trợ động từ + S) | 2 | 0 |
-| Đảo ngữ Here is/are + N | 1 | 0 |
+| [Đảo ngữ trong câu hỏi (trợ động từ + S)](ets-ngu-phap-full-inv.md?id=p1) | 391 | 377 |
+| [Đảo ngữ trong câu khẳng định (trợ động từ + S)](ets-ngu-phap-full-inv.md?id=p2) | 2 | 0 |
+| [Đảo ngữ Here is/are + N](ets-ngu-phap-full-inv.md?id=p3) | 1 | 0 |
 
 ### 📌 Ví dụ cho từng điểm ngữ pháp
 
-**▸ Đảo ngữ trong câu hỏi (trợ động từ + S)** <small>(391 câu Reading · 377 câu Listening)</small>
+**▸ Đảo ngữ trong câu hỏi (trợ động từ + S)** <small>(391 câu Reading · 377 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inv.md?id=p1)
 
 - 📖 *(Test 4)* **Would you** consider including my company, Petals Aplenty, on your list of referrals.?
 - 📖 *(Test 5)* **Do you** think Ms. Mayer would want to see a cover letter in addition to my résumé?
@@ -4770,11 +4770,11 @@
 
 </details>
 
-**▸ Đảo ngữ trong câu khẳng định (trợ động từ + S)** <small>(2 câu Reading · 0 câu Listening)</small>
+**▸ Đảo ngữ trong câu khẳng định (trợ động từ + S)** <small>(2 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inv.md?id=p2)
 
 - 📖 *(Test 2)* **So I was** able to purchase some food and have a picnic on the beach.
 - 📖 *(Test 5)* **Not only has Mr**. Ogbu diligently worked on the project, but he has also trained Ms. Jeong to continue the work.
 
-**▸ Đảo ngữ Here is/are + N** <small>(1 câu Reading · 0 câu Listening)</small>
+**▸ Đảo ngữ Here is/are + N** <small>(1 câu Reading · 0 câu Listening)</small> · [📋 xem full](ets-ngu-phap-full-inv.md?id=p3)
 
 - 📖 *(Test 9)* **Here is** a list of our offerings and a new feature all customers may enjoy.
