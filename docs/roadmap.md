@@ -77,7 +77,7 @@
 **Mục tiêu:** tốc độ + độ chính xác, đặc biệt Part 7 vì chiếm nhiều thời gian nhất và quyết định việc có kịp giờ hay không.
 
 1. [Ngữ pháp Part 5 & 6](toeic-part5-6-grammar.md) — luyện theo dạng bẫy ngữ pháp hay gặp.
-   - [Reading — Cấu trúc ngữ pháp hay gặp (quét từ đề)](toeic-reading-grammar-structures.md) — các khung câu (verb/adj + giới từ, verb + to V/V-ing, liên từ cặp...) kèm ví dụ thật trích từ 10 đề.
+   - [Reading & Listening — Cấu trúc ngữ pháp hay gặp (quét từ đề)](toeic-reading-grammar-structures.md) — các khung câu (verb/adj + giới từ, verb + to V/V-ing, liên từ cặp...) kèm ví dụ thật trích từ cả 10 đề Reading lẫn transcript Listening.
 2. [Reading — Cụm từ & Fixed Expressions](toeic-ets-2026-reading-all-phrases.md) — học cụm từ xuất hiện nhiều trong các đoạn văn Part 7.
 3. Part 7 — học theo thứ tự:
    - [Part 7 — Pattern câu hỏi](toeic-part7-question-patterns.md) — nhận diện dạng câu hỏi trước khi đọc đoạn văn (Detail, Inference, Cross-reference, Insert-sentence...).
