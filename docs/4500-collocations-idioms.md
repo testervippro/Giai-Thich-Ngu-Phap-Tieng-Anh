@@ -1,5 +1,7 @@
 # 4500 English Collocations and Idioms — danh sách cụm từ
 
+> 🎯 **Ôn TOEIC 990?** Xem [bản lọc 378 cụm cần cho TOEIC](4500-collocations-toeic-990.md). Bản lọc ưu tiên các cụm đã xuất hiện trong đề ETS 2026, có kèm câu trích từ đề.
+
 > Trích tự động (OCR) từ cột cụm từ / thành ngữ trong các bảng của sách; có thể còn
 > lỗi chính tả, đối chiếu với PDF khi cần. Cột nghĩa lấy dòng đầu của ô nghĩa.
 >
