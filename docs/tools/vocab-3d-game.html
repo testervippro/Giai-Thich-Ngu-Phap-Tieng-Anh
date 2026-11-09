@@ -94,6 +94,9 @@ h1,h2,h3{font-family:'Baloo 2',system-ui,sans-serif; margin:0}
 .stats{display:flex; gap:10px; align-items:center; white-space:nowrap; font-weight:700}
 .hint{position:absolute; left:12px; bottom:12px; background:rgba(0,0,0,.6); color:#fff; font-size:12.5px; padding:7px 11px; border-radius:10px; pointer-events:none; max-width:min(420px,70%)}
 @media(max-width:600px){ .hint{display:none} }
+.pad{position:absolute; left:12px; bottom:56px; display:grid; grid-template-areas:'. u .' 'l d r'; gap:6px; z-index:3}
+.pad button{width:52px; height:52px; border-radius:14px; border:1px solid var(--border); background:color-mix(in srgb, var(--surface) 85%, transparent); font-size:20px; font-weight:800; cursor:pointer; touch-action:none; user-select:none}
+@media(hover:hover) and (pointer:fine){ .pad{opacity:.75} }
 .stage-actions{position:absolute; right:12px; bottom:12px; display:flex; gap:8px; flex-wrap:wrap; justify-content:flex-end}
 .act{border:none; background:var(--accent); color:var(--accent-ink); font-weight:700; font-family:'Baloo 2'; font-size:14px; padding:9px 14px; border-radius:12px; cursor:pointer; box-shadow:var(--shadow)}
 .act.ghost{background:var(--surface); color:var(--text); border:1px solid var(--border)}
@@ -187,6 +190,9 @@ footer.note{margin-top:16px; font-size:12px; color:var(--text-dim); line-height:
         <div class="hud-card stats" id="stats" hidden></div>
       </div>
       <div class="hint" id="hint">Kéo để xoay · cuộn/chụm để phóng to · bấm vào thẻ để lật & nghe</div>
+      <div class="pad" id="pad" hidden>
+        <button data-k="f" style="grid-area:u">▲</button><button data-k="tl" style="grid-area:l">⟲</button><button data-k="b" style="grid-area:d">▼</button><button data-k="tr" style="grid-area:r">⟳</button>
+      </div>
       <div class="spell-box" id="spellBox" hidden>
         <input id="spellInput" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Gõ từ tiếng Anh rồi Enter" aria-label="Gõ từ tiếng Anh">
         <button class="act" id="spellGo">OK</button>
@@ -230,7 +236,7 @@ const $ = id => document.getElementById(id);
 if(!D || !window.THREE){ document.body.insertAdjacentHTML('afterbegin','<p style="padding:16px">Không tải được dữ liệu hoặc thư viện 3D. Hãy kiểm tra kết nối mạng rồi tải lại trang.</p>'); return; }
 
 /* ---------- data ---------- */
-const W = D.words.map((w,i)=>({i, en:w[0], pos:w[1], vi:w[2], units:w[3], v:w[4]}));
+const W = D.words.map((w,i)=>({i, en:w[0], pos:w[1], vi:w[2], units:w[3], v:w[4], e:w[5]||''}));
 const UNITS = D.units.map(u=>({id:u[0], en:u[1], vi:u[2], sec:u[3]}));
 const SECTIONS = D.sections.map(s=>({vi:s[0], en:s[1], icon:s[2], from:s[3], to:s[4]}));
 const byUnit = {};
@@ -284,7 +290,7 @@ const shuffle = a => { for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.ra
 
 /* ---------- state ---------- */
 let curUnit = prefs.unit || 1, mode = 'explore', page = 0, listFilter='all', selected=null;
-const PAGE = 36;
+const PAGE = 24;
 
 /* ---------- Three.js scene ---------- */
 const box = $('canvasBox');
@@ -343,7 +349,7 @@ function cardTexture(main, sub, opt){
   return t;
 }
 function clearWorld(){
-  while(world.children.length){ const o=world.children.pop(); o.traverse(n=>{ if(n.geometry) n.geometry.dispose(); if(n.material && !n.material._shared){ if(Array.isArray(n.material)) n.material.forEach(m=>m.dispose()); else n.material.dispose(); } }); }
+  while(world.children.length){ const o=world.children.pop(); o.traverse(n=>{ if(n.geometry && !n.geometry._shared) n.geometry.dispose(); if(n.material && !n.material._shared){ if(Array.isArray(n.material)) n.material.forEach(m=>m.dispose()); else n.material.dispose(); } }); }
   pickables.length=0; anims.length=0; particles.length=0;
 }
 const pickables=[]; const anims=[]; const particles=[];
@@ -366,49 +372,240 @@ renderer.domElement.addEventListener('pointerup', e=>{
 /* ---------- EXPLORE ---------- */
 function unitWords(){ return byUnit[curUnit]||[]; }
 let focusWi=null;
-function buildExplore(){
+function buildOrbit(){
   clearWorld();
   const list = unitWords(); const pages=Math.max(1,Math.ceil(list.length/PAGE)); page=Math.min(page,pages-1);
   const slice = list.slice(page*PAGE, page*PAGE+PAGE);
-  // center pillar with unit title
   const u=UNITS[curUnit-1];
-  const pillar=new THREE.Mesh(new THREE.CylinderGeometry(0.9,1.1,2.4,40), new THREE.MeshStandardMaterial({color:css('--teal'), roughness:.4, metalness:.2}));
-  pillar.position.y=1.2; world.add(pillar);
-  const orb=new THREE.Mesh(new THREE.IcosahedronGeometry(0.75,1), new THREE.MeshStandardMaterial({color:css('--accent'), emissive:css('--accent'), emissiveIntensity:.35, flatShading:true}));
-  orb.position.y=3.1; world.add(orb); anims.push(t=>{ orb.rotation.y=t*0.6; orb.position.y=3.1+Math.sin(t*1.4)*0.12; });
+  // centre: pillar + the unit's own 3D icon
+  const pillar=new THREE.Mesh(new THREE.CylinderGeometry(0.9,1.1,1.6,40), new THREE.MeshStandardMaterial({color:css('--teal'), roughness:.4, metalness:.2}));
+  pillar.position.y=0.8; world.add(pillar);
+  const icon=voxelModel(D.unitEmoji[curUnit-1], 2.2); icon.position.y=2.9; world.add(icon);
+  anims.push(t=>{ icon.rotation.y=t*0.5; icon.position.y=2.9+Math.sin(t*1.3)*0.12; });
   const title=new THREE.Sprite(new THREE.SpriteMaterial({map:cardTexture(unitLabel(curUnit)+(pages>1?' ('+(page+1)+'/'+pages+')':''), u.en, {bg:css('--surface')||'#fff', fg:css('--text'), subFg:css('--text-dim'), border:css('--accent')}), transparent:true}));
-  title.scale.set(3.2,1.8,1); title.position.y=4.7; world.add(title);
-  // helix of cards
-  const n=slice.length, perRing=12;
+  title.scale.set(3.2,1.8,1); title.position.y=5.0; world.add(title);
+  const n=slice.length, perRing=PAGE;
   slice.forEach((wi,k)=>{
     const w=W[wi];
-    const ring=Math.floor(k/perRing), idx=k%perRing;
-    const ang = (idx/perRing)*Math.PI*2 + ring*0.26;
-    const rad = 5.2 + (ring%2)*0.35;
+    const ring=0, idx=k;
+    const ang = (idx/Math.max(n,6))*Math.PI*2;
+    const rad = 6.6;
     const g=new THREE.Group();
-    const mFront=new THREE.MeshBasicMaterial({map:cardTexture(w.en, w.pos+(w.v?' · '+w.v:''), {border: known(wi)?'#2f9e6b':'#1f8a7a', tag: known(wi)?'✓':''}), side:THREE.FrontSide, transparent:true});
-    const mBack=new THREE.MeshBasicMaterial({map:cardTexture(w.vi, w.en, {bg:'#1f8a7a', fg:'#ffffff', subFg:'#d6f5ef', border:'#ef7d4e'}), side:THREE.FrontSide, transparent:true});
-    const front=new THREE.Mesh(cardGeo,mFront); const back=new THREE.Mesh(cardGeo,mBack); back.rotation.y=Math.PI; back.position.z=-0.005;
-    g.add(front); g.add(back);
-    g.position.set(Math.sin(ang)*rad, 0.85+ring*1.25, Math.cos(ang)*rad);
+    const ped=new THREE.Mesh(pedGeo, known(wi)?pedMatKnown:pedMat); ped.position.y=0.09; g.add(ped);
+    const specific=!!w.e;
+    const model=specific? voxelModel(w.e, 1.6) : letterCube(w.en); model.position.y=specific?1.1:0.75; g.add(model);
+    const labEn=cardTexture(w.en, w.pos+(w.v?' · '+w.v:''), {border: known(wi)?'#2f9e6b':'#1f8a7a', tag: known(wi)?'✓':''});
+    const labVi=cardTexture(w.vi, w.en, {bg:'#1f8a7a', fg:'#ffffff', subFg:'#d6f5ef', border:'#ef7d4e'});
+    const lab=new THREE.Sprite(new THREE.SpriteMaterial({map:labEn, transparent:true}));
+    lab.scale.set(1.8,1.01,1); lab.position.y=2.5; g.add(lab);
+    g.position.set(Math.sin(ang)*rad, ring*2.75, Math.cos(ang)*rad);
     g.lookAt(0, g.position.y, 0); g.rotateY(Math.PI);
-    g.userData={wi, flipped:false, target:0, base:g.rotation.y, onPick:o=>{
-      o.userData.flipped=!o.userData.flipped; o.userData.target = o.userData.flipped?Math.PI:0;
+    const ph=Math.random()*6;
+    g.userData={wi, flipped:false, hop:0, onPick:o=>{
+      const d=o.userData; d.flipped=!d.flipped; lab.material.map = d.flipped?labVi:labEn; lab.material.needsUpdate=true; d.hop=1;
       speak(w.en); markSeen(wi); showWord(wi);
     }};
-    const ph=Math.random()*6;
-    anims.push(t=>{ const d=g.userData; d.cur=(d.cur||0)+((d.target)-(d.cur||0))*0.15; g.rotation.y=d.base+d.cur; g.children[0].visible=d.cur<Math.PI-0.05; g.children[1].visible=d.cur>0.05; g.children[0].position.y=g.children[1].position.y=Math.sin(t*1.2+ph)*0.05; });
+    const y0=model.position.y;
+    anims.push((t,dt)=>{ const d=g.userData; d.hop=Math.max(0,d.hop-dt*1.6); model.position.y=y0+Math.sin(t*1.2+ph)*0.06+Math.sin(d.hop*Math.PI)*0.5; model.rotation.y=Math.sin(t*0.7+ph)*0.6+(1-d.hop)*0+d.hop*Math.PI*2; });
     world.add(g); pickables.push(g);
-    if(wi===focusWi){ g.userData.flipped=true; g.userData.target=Math.PI; const dirv=new THREE.Vector3(g.position.x,0,g.position.z).normalize(); camera.position.set(dirv.x*12, g.position.y+2.2, dirv.z*12); controls.autoRotate=false; }
+    if(wi===focusWi){ g.userData.onPick(g); const dirv=new THREE.Vector3(g.position.x,0,g.position.z).normalize(); camera.position.set(dirv.x*13.5, 7.5, dirv.z*13.5); controls.autoRotate=false; }
   });
   focusWi=null;
   const rings=Math.ceil(n/perRing);
-  controls.target.set(0, Math.max(2.2, 0.85+(rings-1)*0.62+0.6), 0);
-  setHint('Kéo để xoay · cuộn/chụm để phóng to · bấm vào thẻ để lật xem nghĩa & nghe');
+  controls.target.set(0, 1.6, 0);
+  setHint('Kéo để xoay · cuộn/chụm để phóng to · bấm vào mô hình để xem nghĩa & nghe');
   setActions(pages>1 ? [
     ['◀ Trang trước', ()=>{ if(page>0){page--; buildExplore();} }, 'ghost', page===0],
     ['Trang sau ▶', ()=>{ if(page<pages-1){page++; buildExplore();} }, '', page>=pages-1],
   ] : []);
+}
+
+const cubeTex={};
+function letterCube(en){
+  const ch=(en.match(/[A-Za-z]/)||['?'])[0].toUpperCase();
+  if(!cubeTex[ch]){ const c=document.createElement('canvas'); c.width=c.height=128; const g=c.getContext('2d'); g.fillStyle='#e9dcc4'; g.fillRect(0,0,128,128); g.strokeStyle='#b89b6c'; g.lineWidth=10; g.strokeRect(5,5,118,118); g.fillStyle='#7a5a32'; g.font='800 78px "Baloo 2", system-ui'; g.textAlign='center'; g.textBaseline='middle'; g.fillText(ch,64,70); cubeTex[ch]=new THREE.CanvasTexture(c); }
+  const m=new THREE.Mesh(boxGeo, new THREE.MeshStandardMaterial({map:cubeTex[ch], roughness:.7}));
+  m.scale.setScalar(1.0); const g=new THREE.Group(); g.add(m); return g;
+}
+function showClueModel(w,x,y,z,size){
+  if(!w.e) return;
+  const m=voxelModel(w.e,size); m.position.set(x,y,z); world.add(m);
+  anims.push(t=>{ m.rotation.y=Math.sin(t*0.8)*0.7; m.position.y=y+Math.sin(t*1.5)*0.12; });
+}
+
+/* ---------- WALK MODE: đi bộ trong phòng / phố / thiên nhiên ---------- */
+const walk={on:false, yaw:0, pitch:-0.06, keys:{}, len:20, halfW:3.4, items:[], near:null, drag:null};
+function envKind(){ const sec=UNITS[curUnit-1].sec; if(sec===4||sec===8) return 'street'; if(sec===9||sec===11||sec===12) return 'nature'; return 'room'; }
+function canvasTex(w,h,draw,rep){ const c=document.createElement('canvas'); c.width=w; c.height=h; draw(c.getContext('2d'),w,h); const t=new THREE.CanvasTexture(c); if(rep){ t.wrapS=t.wrapT=THREE.RepeatWrapping; t.repeat.set(rep[0],rep[1]); } return t; }
+function plane(w,h,mat,x,y,z,rx,ry){ const m=new THREE.Mesh(new THREE.PlaneGeometry(w,h),mat); m.position.set(x,y,z); m.rotation.set(rx||0,ry||0,0); world.add(m); return m; }
+function boxAt(w,h,d,color,x,y,z,extra){ const m=new THREE.Mesh(new THREE.BoxGeometry(w,h,d), new THREE.MeshStandardMaterial(Object.assign({color, roughness:.8},extra||{}))); m.position.set(x,y,z); world.add(m); return m; }
+function buildEnvironment(kind, len){
+  const hw=walk.halfW, zEnd=-len;
+  if(kind==='room'){
+    const wood=canvasTex(128,128,(g,w,h)=>{ g.fillStyle='#9c6b40'; g.fillRect(0,0,w,h); for(let i=0;i<4;i++){ g.fillStyle=i%2?'#8d5f37':'#a8764a'; g.fillRect(0,i*32,w,30); } g.strokeStyle='rgba(0,0,0,.12)'; for(let i=0;i<4;i++){ g.beginPath(); g.moveTo(((i*53)%128),i*32); g.lineTo(((i*53)%128),i*32+30); g.stroke(); } },[hw*2/2, len/2]);
+    plane(hw*2+0.4, len+2, new THREE.MeshStandardMaterial({map:wood, roughness:.8}), 0,0,zEnd/2+0.5,-Math.PI/2);
+    plane(hw*2+0.4, len+2, new THREE.MeshStandardMaterial({color:0xf7f3ec}), 0,3.4,zEnd/2+0.5,Math.PI/2);
+    const wallMat=new THREE.MeshStandardMaterial({color:0xeee4d3, roughness:.9});
+    plane(len+2,3.4,wallMat,-hw-0.2,1.7,zEnd/2+0.5,0,Math.PI/2);
+    plane(len+2,3.4,wallMat, hw+0.2,1.7,zEnd/2+0.5,0,-Math.PI/2);
+    boxAt(0.06,0.18,len+2,0xb08a62,-hw-0.15,0.09,zEnd/2+0.5); boxAt(0.06,0.18,len+2,0xb08a62,hw+0.15,0.09,zEnd/2+0.5);
+    plane(hw*2+0.4,3.4,wallMat,0,1.7,1.5,0,Math.PI);
+    for(let z=-2; z>zEnd; z-=5){ boxAt(1.2,0.06,0.5,0xffffff,0,3.36,z,{emissive:0xfff3d0, emissiveIntensity:.9}); }
+    plane(len+2,0.9,new THREE.MeshStandardMaterial({color:0xd9c9ae}),-hw-0.19,0.45,zEnd/2+0.5,0,Math.PI/2);
+    plane(len+2,0.9,new THREE.MeshStandardMaterial({color:0xd9c9ae}), hw+0.19,0.45,zEnd/2+0.5,0,-Math.PI/2);
+  } else if(kind==='street'){
+    plane(hw*2+0.4,len+30,new THREE.MeshStandardMaterial({color:0xcfc8bc}),0,0,zEnd/2,-Math.PI/2);
+    const asphalt=new THREE.MeshStandardMaterial({color:0x4d5156, roughness:.95});
+    plane(7,len+30,asphalt,-hw-3.7,0.005,zEnd/2,-Math.PI/2); plane(7,len+30,asphalt,hw+3.7,0.005,zEnd/2,-Math.PI/2);
+    for(let z=4; z>zEnd-14; z-=4){ boxAt(0.15,0.01,1.6,0xf2e6a0,-hw-3.7,0.012,z); boxAt(0.15,0.01,1.6,0xf2e6a0,hw+3.7,0.012,z); }
+    const winTex=canvasTex(64,128,(g,w,h)=>{ g.fillStyle='#8aa0b4'; g.fillRect(0,0,w,h); for(let y=6;y<h;y+=20) for(let x=6;x<w;x+=20){ g.fillStyle=Math.random()<.35?'#ffe9a8':'#cfe4f2'; g.fillRect(x,y,12,13); } });
+    const cols=[0xd98f6b,0x8fb3c9,0xe1c48a,0xa7c79b,0xc9a7c9,0xb7b2a8];
+    for(const side of [-1,1]) for(let z=6; z>zEnd-16; z-=5.5){ const h=6+Math.random()*12, x=side*(hw+10+Math.random()*1.5);
+      const b=boxAt(6,h,4.8,cols[Math.floor(Math.random()*cols.length)],x,h/2,z); const f=new THREE.MeshStandardMaterial({map:winTex.clone()}); f.map.needsUpdate=true; f.map.wrapS=f.map.wrapT=THREE.RepeatWrapping; f.map.repeat.set(2,Math.max(1,Math.round(h/5)));
+      plane(5.6,h-1,f,x-side*3.01,h/2,z,0,side<0?Math.PI/2:-Math.PI/2); }
+    for(let z=-1; z>zEnd; z-=7){ for(const side of [-1,1]){ const x=side*(hw-0.1); boxAt(0.1,3.2,0.1,0x3d4248,x,1.6,z); const bulb=boxAt(0.5,0.12,0.3,0xffffff,x-side*0.25,3.2,z,{emissive:0xffe7a8,emissiveIntensity:.8}); } }
+  } else {
+    const grass=new THREE.MeshStandardMaterial({color:0x86b96f, roughness:1});
+    plane(80,len+60,grass,0,0,zEnd/2,-Math.PI/2);
+    plane(hw*2-0.6,len+4,new THREE.MeshStandardMaterial({color:0xb99c6b, roughness:1}),0,0.01,zEnd/2+0.5,-Math.PI/2);
+    const trunk=new THREE.MeshStandardMaterial({color:0x7a5534}), leaf=[0x4f9a4a,0x3f8a52,0x6aae4f].map(c=>new THREE.MeshStandardMaterial({color:c, flatShading:true}));
+    for(let i=0;i<Math.max(30,len*1.6);i++){ const side=Math.random()<.5?-1:1; const x=side*(hw+1.5+Math.random()*14), z=4-Math.random()*(len+16);
+      const tr=new THREE.Mesh(new THREE.CylinderGeometry(.12,.18,1.4,8),trunk); tr.position.set(x,.7,z); world.add(tr);
+      const top=Math.random()<.5? new THREE.Mesh(new THREE.ConeGeometry(.9+Math.random()*.5,2.4,8),leaf[i%3]) : new THREE.Mesh(new THREE.IcosahedronGeometry(1+Math.random()*.4,0),leaf[i%3]); top.position.set(x,2.4,z); world.add(top); }
+    for(let i=0;i<14;i++){ const r=new THREE.Mesh(new THREE.DodecahedronGeometry(.3+Math.random()*.4,0),new THREE.MeshStandardMaterial({color:0x9a9a92, flatShading:true})); r.position.set((Math.random()<.5?-1:1)*(hw+0.4+Math.random()*3),.2,2-Math.random()*len); world.add(r); }
+  }
+}
+function doorAt(z, label, onPick, facing){
+  const g=new THREE.Group(); g.position.set(0,0,z); if(facing) g.rotation.y=facing;
+  const frame=new THREE.MeshStandardMaterial({color:0x6b4a2e}); 
+  const d=new THREE.Mesh(new THREE.BoxGeometry(1.5,2.4,0.12), new THREE.MeshStandardMaterial({color:0xb8763d, roughness:.6})); d.position.y=1.2; g.add(d);
+  const k=new THREE.Mesh(new THREE.SphereGeometry(.06,12,8), new THREE.MeshStandardMaterial({color:0xe3c060, metalness:.6})); k.position.set(.55,1.15,.08); g.add(k);
+  [[-0.8,1.25,0.1,2.6],[0.8,1.25,0.1,2.6]].forEach(a=>{ const f=new THREE.Mesh(new THREE.BoxGeometry(a[2],a[3],0.2),frame); f.position.set(a[0],a[1],0); g.add(f); });
+  const top=new THREE.Mesh(new THREE.BoxGeometry(1.7,0.12,0.2),frame); top.position.y=2.5; g.add(top);
+  const sign=new THREE.Sprite(new THREE.SpriteMaterial({map:cardTexture(label,'',{bg:'#ef7d4e',fg:'#ffffff',border:'#ffffff'}),transparent:true})); sign.scale.set(2.2,1.24,1); sign.position.y=3.2; g.add(sign);
+  g.userData={onPick, door:true}; world.add(g); pickables.push(g); return g;
+}
+function buildExplore(){
+  clearWorld(); walk.items=[]; walk.near=null;
+  const list=unitWords(); const pages=Math.max(1,Math.ceil(list.length/PAGE)); page=Math.min(page,pages-1);
+  const slice=list.slice(page*PAGE, page*PAGE+PAGE);
+  const kind=envKind(); const spacing=2.5; const perSide=Math.ceil(slice.length/2);
+  const len=perSide*spacing+5; walk.len=len;
+  floor.visible=false; controls.enabled=false; walk.on=true;
+  scene.fog=new THREE.Fog(new THREE.Color(css('--sky-bottom')), kind==='room'?14:22, kind==='room'?40:70);
+  buildEnvironment(kind,len);
+  // entrance title
+  const u=UNITS[curUnit-1];
+  const title=new THREE.Sprite(new THREE.SpriteMaterial({map:cardTexture(D.unitEmoji[curUnit-1]+' '+unitLabel(curUnit)+(pages>1?' ('+(page+1)+'/'+pages+')':''), u.en, {bg:'#ffffff', fg:'#172a27', subFg:'#55706b', border:'#ef7d4e'}), transparent:true}));
+  title.scale.set(3.4,1.9,1); title.position.set(0,2.6,-len+0.9); world.add(title);
+  const nextLabel = page<pages-1 ? 'Phòng tiếp ▶ ('+(page+2)+'/'+pages+')' : 'Chủ đề tiếp ▶';
+  doorAt(-len+0.3, nextLabel, ()=>{ if(page<pages-1){ page++; buildExplore(); } else gotoUnit(curUnit<180?curUnit+1:1); });
+  if(page>0) doorAt(1.3, '◀ Phòng trước', ()=>{ page--; buildExplore(); walk.pos.set(0,1.65,-walk.len+2.5); walk.yaw=Math.PI; }, Math.PI);
+  slice.forEach((wi,k)=>{
+    const w=W[wi]; const side=k%2?1:-1, idx=Math.floor(k/2);
+    const x=side*(walk.halfW-0.85), z=-(2.6+idx*spacing);
+    const g=new THREE.Group(); g.position.set(x,0,z);
+    const ped=new THREE.Mesh(pedGeoTall, known(wi)?pedMatKnown:pedMat); ped.position.y=0.45; g.add(ped);
+    const specific=!!w.e;
+    const model=specific? voxelModel(w.e,1.05) : letterCube(w.en); if(!specific) model.scale.setScalar(.62);
+    model.position.y=specific?1.5:1.25; model.rotation.y=side<0?Math.PI/2:-Math.PI/2; g.add(model);
+    const labEn=cardTexture(w.en, w.pos+(w.v?' · '+w.v:''), {border: known(wi)?'#2f9e6b':'#1f8a7a', tag: known(wi)?'✓':''});
+    const labVi=cardTexture(w.vi, w.en, {bg:'#1f8a7a', fg:'#ffffff', subFg:'#d6f5ef', border:'#ef7d4e'});
+    const lab=new THREE.Sprite(new THREE.SpriteMaterial({map:labEn, transparent:true})); lab.scale.set(1.1,0.62,1); lab.position.y=2.25; g.add(lab);
+    const ph=Math.random()*6, base=model.rotation.y, y0=model.position.y;
+    g.userData={wi, flipped:false, hop:0, lab, labEn, labVi, onPick:o=>{ const d=o.userData; d.flipped=!d.flipped; lab.material.map=d.flipped?labVi:labEn; lab.material.needsUpdate=true; d.hop=1; speak(w.en); markSeen(wi); showWord(wi); }};
+    anims.push((t,dt)=>{ const d=g.userData; d.hop=Math.max(0,d.hop-dt*1.5); model.position.y=y0+Math.sin(t*1.3+ph)*0.05+Math.sin(d.hop*Math.PI)*0.35; model.rotation.y=base+Math.sin(t*0.6+ph)*0.45+d.hop*Math.PI*2; });
+    world.add(g); pickables.push(g); walk.items.push(g);
+    if(wi===focusWi){ walk.pos=new THREE.Vector3(0,1.65,z+1.6); walk.yaw=side<0?0.9:-0.9; walk.focusSet=true; g.userData.onPick(g); }
+  });
+  if(!walk.focusSet){ walk.pos=new THREE.Vector3(0,1.65,0.4); walk.yaw=0; } walk.focusSet=false; focusWi=null;
+  walk.pitch=-0.06;
+  setHint('W/A/S/D hoặc ↑↓←→ để đi · kéo chuột để nhìn quanh · đến gần đồ vật để nghe · bấm vào đồ vật để lật nghĩa · đi tới cửa cuối phòng để sang phòng tiếp');
+  setActions(pages>1 ? [
+    ['◀ Phòng trước', ()=>{ if(page>0){page--; buildExplore();} }, 'ghost', page===0],
+    ['Phòng sau ▶', ()=>{ if(page<pages-1){page++; buildExplore();} }, '', page>=pages-1],
+  ] : []);
+  $('pad').hidden=false; $('hint').hidden=true; setPrompt(WALK_HELP);
+  if(!walk.lit){ walk.lit=true; }
+}
+function leaveWalk(){ $('hint').hidden=false; walk.on=false; scene.fog=null; floor.visible=true; controls.enabled=true; $('pad').hidden=true; walk.keys={}; }
+const fwd=new THREE.Vector3(), rightV=new THREE.Vector3();
+function updateWalk(dt){
+  const k=walk.keys; const sp=(k.shift?5.2:3.0)*dt;
+  let mf=(k.f?1:0)-(k.b?1:0), ms=(k.r?1:0)-(k.l?1:0);
+  if(k.tl) walk.yaw+=1.8*dt; if(k.tr) walk.yaw-=1.8*dt;
+  fwd.set(-Math.sin(walk.yaw),0,-Math.cos(walk.yaw)); rightV.set(Math.cos(walk.yaw),0,-Math.sin(walk.yaw));
+  walk.pos.addScaledVector(fwd,mf*sp).addScaledVector(rightV,ms*sp);
+  walk.pos.x=Math.max(-walk.halfW+0.45, Math.min(walk.halfW-0.45, walk.pos.x));
+  walk.pos.z=Math.max(-walk.len+0.9, Math.min(page>0?0.9:0.9, walk.pos.z));
+  camera.position.copy(walk.pos); camera.position.y=1.65+Math.sin(t*9)*0.025*Math.min(1,Math.abs(mf)+Math.abs(ms));
+  camera.rotation.order='YXZ'; camera.rotation.set(walk.pitch, walk.yaw, 0);
+  // nearest object
+  let best=null, bd=3.3;
+  for(const g of walk.items){ const d=Math.hypot(g.position.x-walk.pos.x, g.position.z-walk.pos.z); if(d<bd){ bd=d; best=g; } }
+  if(best!==walk.near){
+    if(walk.near) walk.near.userData.lab.scale.set(1.1,0.62,1);
+    walk.near=best;
+    if(best){ const w=W[best.userData.wi]; best.userData.lab.scale.set(1.4,0.79,1);
+      setPrompt(`<div class="q">${w.e?`<img src="${twemojiUrl(w.e)}" width="22" height="22" style="vertical-align:-5px"> `:''}Đồ vật gần bạn · bấm vào để lật nghĩa</div><div class="big">${esc(w.en)} <span style="font-size:.62em;color:var(--text-dim);font-family:Inter">${esc(w.pos)}</span></div><div style="font-weight:700;color:var(--text);font-size:15px">${esc(w.vi)}</div>`);
+      speak(w.en); markSeen(w.i); showWord(w.i);
+    } else setPrompt(WALK_HELP);
+  }
+}
+const WALK_HELP='<div class="q">Cách đi</div><div style="font-size:13px;line-height:1.5"><b>W/↑</b> đi tới · <b>S/↓</b> lùi · <b>A/D</b> bước ngang · <b>←/→</b> quay · kéo chuột để nhìn · <b>Space</b> lật nghĩa đồ vật gần nhất</div>';
+const KEYMAP={KeyW:'f',ArrowUp:'f',KeyS:'b',ArrowDown:'b',KeyA:'l',KeyD:'r',ArrowLeft:'tl',ArrowRight:'tr',KeyQ:'tl',KeyE:'tr',ShiftLeft:'shift',ShiftRight:'shift'};
+window.addEventListener('keydown',e=>{ if(!walk.on) return; const a=document.activeElement; if(a && (a.tagName==='INPUT'||a.tagName==='SELECT')) return; const m=KEYMAP[e.code]; if(m){ walk.keys[m]=true; e.preventDefault(); } if(e.code==='Space' && walk.near){ e.preventDefault(); walk.near.userData.onPick(walk.near); } });
+window.addEventListener('keyup',e=>{ const m=KEYMAP[e.code]; if(m) walk.keys[m]=false; });
+window.addEventListener('blur',()=>{ walk.keys={}; });
+renderer.domElement.addEventListener('pointerdown',e=>{ if(walk.on){ walk.drag=[e.clientX,e.clientY]; renderer.domElement.setPointerCapture(e.pointerId); } });
+renderer.domElement.addEventListener('pointermove',e=>{ if(!walk.on||!walk.drag) return; const dx=e.clientX-walk.drag[0], dy=e.clientY-walk.drag[1]; walk.drag=[e.clientX,e.clientY]; walk.yaw-=dx*0.005; walk.pitch=Math.max(-1.1,Math.min(0.9,walk.pitch-dy*0.004)); });
+renderer.domElement.addEventListener('pointerup',()=>{ walk.drag=null; });
+renderer.domElement.addEventListener('wheel',e=>{ if(!walk.on) return; e.preventDefault(); fwd.set(-Math.sin(walk.yaw),0,-Math.cos(walk.yaw)); walk.pos.addScaledVector(fwd,-Math.sign(e.deltaY)*0.6); },{passive:false});
+
+/* ---------- VOXEL 3D MODELS (Twemoji → khối 3D) ---------- */
+const VOX=22;
+const boxGeo=new THREE.BoxGeometry(1,1,1); boxGeo._shared=true;
+const pedGeo=new THREE.CylinderGeometry(0.62,0.7,0.18,32); pedGeo._shared=true;
+const pedGeoTall=new THREE.CylinderGeometry(0.38,0.45,0.9,24); pedGeoTall._shared=true;
+const pedMat=new THREE.MeshStandardMaterial({color:0xb9c9c4, roughness:.6}); pedMat._shared=true;
+const pedMatKnown=new THREE.MeshStandardMaterial({color:0x7fd3a8, roughness:.6}); pedMatKnown._shared=true;
+function emojiOf(w){ return w.e || D.unitEmoji[w.units[0]-1]; }
+function twemojiUrl(e){ const s2 = e.indexOf('‍')<0 ? e.replace(/️/g,'') : e; return 'https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/72x72/'+[...s2].map(c=>c.codePointAt(0).toString(16)).join('-')+'.png'; }
+const imgCache=new Map(), voxCache=new Map();
+function loadEmoji(e){
+  if(imgCache.has(e)) return imgCache.get(e);
+  const pr=new Promise(res=>{
+    const fallback=()=>{ const c=document.createElement('canvas'); c.width=c.height=72; const g=c.getContext('2d'); g.font='58px "Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif'; g.textAlign='center'; g.textBaseline='middle'; g.fillText(e,36,40); res(c); };
+    const img=new Image(); img.crossOrigin='anonymous'; img.onload=()=>res(img); img.onerror=fallback; img.src=twemojiUrl(e);
+  });
+  imgCache.set(e,pr); return pr;
+}
+function voxData(e){
+  if(voxCache.has(e)) return voxCache.get(e);
+  const pr=loadEmoji(e).then(img=>{
+    const N=VOX, c=document.createElement('canvas'); c.width=c.height=N; const g=c.getContext('2d'); g.drawImage(img,0,0,N,N);
+    let px; try{ px=g.getImageData(0,0,N,N).data; }catch(err){ return null; }
+    const dist=new Uint8Array(N*N); for(let i=0;i<N*N;i++) dist[i]=px[i*4+3]>110?1:0;
+    for(let it=1;it<5;it++) for(let y=0;y<N;y++) for(let x=0;x<N;x++){ const i=y*N+x; if(dist[i]!==it) continue; let ok=true;
+      for(const q of [[1,0],[-1,0],[0,1],[0,-1]]){ const xx=x+q[0], yy=y+q[1]; if(xx<0||yy<0||xx>=N||yy>=N||dist[yy*N+xx]<it){ ok=false; break; } } if(ok) dist[i]=it+1; }
+    const items=[]; for(let y=0;y<N;y++) for(let x=0;x<N;x++){ const i=y*N+x; if(dist[i]) items.push([x,y,dist[i],px[i*4]/255,px[i*4+1]/255,px[i*4+2]/255]); }
+    return items.length?items:null;
+  });
+  voxCache.set(e,pr); return pr;
+}
+const greyC=new THREE.Color(0.78,0.8,0.8);
+function voxelModel(e, size, opts){
+  const g=new THREE.Group();
+  voxData(e).then(items=>{
+    if(!items) return;
+    const N=VOX, sc=size/N;
+    const m=new THREE.InstancedMesh(boxGeo, new THREE.MeshStandardMaterial({roughness:.5, metalness:.05}), items.length);
+    const M4=new THREE.Matrix4(), col=new THREE.Color();
+    items.forEach((it,k)=>{ const depth=Math.min(it[2],4)*0.85+0.7; M4.makeScale(sc,sc,sc*depth); M4.setPosition((it[0]-N/2+0.5)*sc,(N/2-it[1]-0.5)*sc,0); m.setMatrixAt(k,M4); col.setRGB(it[3],it[4],it[5]); if(opts&&opts.dim) col.lerp(greyC,0.3); m.setColorAt(k,col); });
+    m.instanceMatrix.needsUpdate=true; if(m.instanceColor) m.instanceColor.needsUpdate=true;
+    g.add(m);
+  });
+  return g;
 }
 
 /* ---------- GAME MODES ---------- */
@@ -475,6 +672,7 @@ function roundBalloon(wi){
   const w=W[wi];
   setPrompt(`<div class="q">Bắn quả bóng mang từ tiếng Anh có nghĩa:</div><div class="big">${esc(w.vi)}</div>`);
   setHint('Bấm vào quả bóng đúng (hoặc nhấn phím 1–4) trước khi nó bay mất!');
+  showClueModel(w, 0, 7.4, -4, 2.4);
   const opts=shuffle([wi, ...distractors(wi,3)]);
   opts.forEach((oi,k)=>{
     const g=new THREE.Group();
@@ -530,6 +728,7 @@ function roundSpell(wi){
     m.position.set((k-(total-1)/2)*span, 3, 0); world.add(m); tiles.push(m);
   });
   game.tiles=tiles;
+  showClueModel(w, 0, 5.4, -1, 2.0);
   controls.target.set(0,3,0); camera.position.set(0,3.6,Math.max(8, total*span*0.9)); controls.autoRotate=false;
   const inp=$('spellInput'); $('spellBox').hidden=false; inp.value=''; setTimeout(()=>inp.focus(),50);
   const check=()=>{
@@ -585,7 +784,7 @@ function showWord(wi){
   selected=wi; const w=W[wi]; const L=lvl(wi);
   const unitsHtml = w.units.map(u=>`<a data-u="${u}">${esc(unitLabel(u))}</a>`).join(' · ');
   $('wordPanel').innerHTML = `
-    <div class="word-head"><h2>${esc(w.en)}</h2><span class="pos">${esc(w.pos)}</span>${w.v?`<span class="var">${esc(w.v)}</span>`:''}
+    <div class="word-head">${w.e?`<img src="${twemojiUrl(w.e)}" alt="" width="44" height="44">`:''}<h2>${esc(w.en)}</h2><span class="pos">${esc(w.pos)}</span>${w.v?`<span class="var">${esc(w.v)}</span>`:''}
       <button class="speak" data-r="0.92">🔊 Nghe</button><button class="speak" data-r="0.6">🐢 Chậm</button></div>
     <div class="word-vi">${esc(w.vi)}</div>
     <div class="word-meta">Mức thuộc: <span class="mastery">${[0,1,2].map(k=>`<i class="${L>k?'on':''}"></i>`).join('')}</span> ${known(wi)?'· <b style="color:var(--good)">Đã thuộc</b>':''}<br>
@@ -649,8 +848,9 @@ function setMode(m){
   mode=m; game=null; $('spellBox').hidden=true; hideOverlay();
   $('modes').querySelectorAll('.mode').forEach(x=>x.classList.toggle('active', x.dataset.mode===m));
   setPrompt(null); setStats(null);
-  if(m==='explore'){ camera.position.set(0,4.5,13); controls.autoRotate=true; buildExplore(); }
+  if(m==='explore'){ buildExplore(); }
   else{
+    leaveWalk(); camera.rotation.order='XYZ'; camera.position.set(0,4.5,13); controls.target.set(0,2.4,0);
     const intro={balloon:['🎈','Bắn bóng','Mỗi lượt 20 câu, 3 mạng. Đọc nghĩa tiếng Việt và bắn quả bóng mang từ tiếng Anh đúng.'],
                  listen:['🎧','Nghe & chọn','Nghe phát âm rồi chọn đúng từ. Luyện tai cho Part 1–2 TOEIC.'],
                  spell:['⌨️','Chính tả','Đọc nghĩa tiếng Việt, gõ đúng từ tiếng Anh. Có gợi ý từng chữ.'],
@@ -687,11 +887,13 @@ function loop(){
   const dt=Math.min(clock.getDelta(),0.05); t+=dt;
   anims.forEach(f=>f(t,dt));
   for(let k=particles.length-1;k>=0;k--){ const q=particles[k]; q.life-=dt; q.v.y-=9*dt; q.p.position.addScaledVector(q.v,dt); q.p.scale.setScalar(Math.max(q.life,0.01)); if(q.life<=0){ world.remove(q.p); particles.splice(k,1); } }
-  controls.update(); renderer.render(scene,camera);
+  if(walk.on) updateWalk(dt); else controls.update();
+  renderer.render(scene,camera);
   requestAnimationFrame(loop);
 }
 
 /* ---------- init ---------- */
+$('pad').querySelectorAll('button').forEach(b=>{ const k=b.dataset.k; const on=e=>{ e.preventDefault(); walk.keys[k]=true; }, off=()=>{ walk.keys[k]=false; }; b.addEventListener('pointerdown',on); b.addEventListener('pointerup',off); b.addEventListener('pointerleave',off); b.addEventListener('pointercancel',off); });
 $('badge').textContent = W.length.toLocaleString('vi-VN')+' TỪ · '+UNITS.length+' CHỦ ĐỀ';
 fillUnitSelect();
 resize(); recolorScene();
