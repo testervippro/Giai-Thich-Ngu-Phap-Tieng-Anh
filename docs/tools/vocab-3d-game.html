@@ -221,13 +221,14 @@ footer.note{margin-top:16px; font-size:12px; color:var(--text-dim); line-height:
     Dữ liệu: toàn bộ Word List của <i>English for Everyone – Illustrated English Dictionary</i> (DK), 8.949 mục từ trong 180 chủ đề; nghĩa tiếng Việt được dịch cho từng mục.
     Từ đánh dấu <b>US</b>/<b>UK</b> là cách dùng riêng của Anh–Mỹ. Một từ được tính là <b>đã thuộc</b> khi bạn trả lời đúng 2 lần (●●○); trả lời sai sẽ trừ 1 nấc và đưa từ vào mục <b>Ôn từ sai</b>.
     Tiến độ được lưu trong trình duyệt này.
-    Hình 3D: <a href="https://github.com/microsoft/fluentui-emoji" style="color:inherit">Microsoft Fluent Emoji</a> (MIT) và khối voxel từ <a href="https://github.com/jdecked/twemoji" style="color:inherit">Twemoji</a> (CC-BY 4.0) cho cờ các nước. Từ chưa có hình riêng được hiển thị bằng khối chữ cái.
+    Mô hình 3D thật: <a href="https://poly.pizza" style="color:inherit">Poly Pizza</a> (CC0 / CC-BY, tên tác giả ghi ở ô thông tin của từng từ). Ảnh thật: Wikipedia / Wikimedia Commons (giấy phép tự do, tác giả ghi ở trang gốc của từng ảnh). Hình 3D: <a href="https://github.com/microsoft/fluentui-emoji" style="color:inherit">Microsoft Fluent Emoji</a> (MIT) và khối voxel từ <a href="https://github.com/jdecked/twemoji" style="color:inherit">Twemoji</a> (CC-BY 4.0) cho cờ các nước. Từ chưa có hình riêng được hiển thị bằng khối chữ cái.
   </footer>
 </div>
 <div class="toast" id="toast"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/GLTFLoader.js"></script>
 <script src="vocab-3d-data.js"></script>
 <script>
 (function(){
@@ -429,8 +430,8 @@ function letterCube(en){
   m.scale.setScalar(1.0); const g=new THREE.Group(); g.add(m); return g;
 }
 function showClueModel(w,x,y,z,size){
-  if(!w.e) return;
-  const m=objectModel(w.e,size); m.position.set(x,y,z); world.add(m);
+  if(!w.e && !MODELS[w.i] && !WIKI[w.i]) return;
+  const m=wordModel(w,size); m.position.set(x,y,z); world.add(m);
   anims.push(t=>{ m.rotation.y=Math.sin(t*0.8)*0.7; m.position.y=y+Math.sin(t*1.5)*0.12; });
 }
 
@@ -508,14 +509,14 @@ function buildExplore(){
     const g=new THREE.Group(); g.position.set(x,0,z);
     const ped=new THREE.Mesh(pedGeoTall, known(wi)?pedMatKnown:pedMat); ped.position.y=0.45; g.add(ped);
     const specific=!!w.e;
-    const model=specific? objectModel(w.e,1.05) : letterCube(w.en); if(!specific) model.scale.setScalar(.62);
-    model.position.y=specific?1.5:1.25; model.rotation.y=side<0?Math.PI/2:-Math.PI/2; g.add(model);
+    const model=wordModel(w,1.05);
+    model.position.y=1.5; model.rotation.y=side<0?Math.PI/2:-Math.PI/2; g.add(model);
     const labEn=cardTexture(w.en, w.pos+(w.v?' · '+w.v:''), {border: known(wi)?'#2f9e6b':'#1f8a7a', tag: known(wi)?'✓':''});
     const labVi=cardTexture(w.vi, w.en, {bg:'#1f8a7a', fg:'#ffffff', subFg:'#d6f5ef', border:'#ef7d4e'});
     const lab=new THREE.Sprite(new THREE.SpriteMaterial({map:labEn, transparent:true})); lab.scale.set(1.1,0.62,1); lab.position.y=2.25; g.add(lab);
     const ph=Math.random()*6, base=model.rotation.y, y0=model.position.y;
     g.userData={wi, flipped:false, hop:0, lab, labEn, labVi, onPick:o=>{ const d=o.userData; d.flipped=!d.flipped; lab.material.map=d.flipped?labVi:labEn; lab.material.needsUpdate=true; d.hop=1; speak(w.en); markSeen(wi); showWord(wi); }};
-    anims.push((t,dt)=>{ const d=g.userData; d.hop=Math.max(0,d.hop-dt*1.5); model.position.y=y0+Math.sin(t*1.3+ph)*0.05+Math.sin(d.hop*Math.PI)*0.35; model.rotation.y=base+Math.sin(t*0.6+ph)*0.45+d.hop*Math.PI*2; });
+    anims.push((t,dt)=>{ const d=g.userData; d.hop=Math.max(0,d.hop-dt*1.5); model.position.y=y0+Math.sin(t*1.3+ph)*0.05+Math.sin(d.hop*Math.PI)*0.35; model.rotation.y=(model.userData.isGlb? t*0.5+ph : base+Math.sin(t*0.6+ph)*(model.userData.isPhoto?0.25:0.45))+d.hop*Math.PI*2; });
     world.add(g); pickables.push(g); walk.items.push(g);
     if(wi===focusWi){ walk.pos=new THREE.Vector3(0,1.65,z+1.6); walk.yaw=side<0?0.9:-0.9; walk.focusSet=true; g.userData.onPick(g); }
   });
@@ -579,6 +580,50 @@ function objectModel(e,size){
   return g;
 }
 const imgUrl=e=>fluUrl(e)||twemojiUrl(e);
+/* Wikipedia / Wikimedia Commons: ảnh thật minh họa đúng khái niệm */
+const WIKI=D.wiki||{};
+function wikiUrl(i){ const v=WIKI[i]; if(!v) return null; const s2=v[0]; if(s2.startsWith('http')) return s2; const [path,px]=s2.split('|'); const fn=path.split('/').pop(); return 'https://upload.wikimedia.org/wikipedia/commons/thumb/'+path+'/'+px+'px-'+fn; }
+function wikiPage(i){ const v=WIKI[i]; return v? 'https://en.wikipedia.org/wiki/'+encodeURIComponent(v[1].replace(/ /g,'_')) : null; }
+const frameMat=new THREE.MeshStandardMaterial({color:0x5a3d26, roughness:.6}); frameMat._shared=true;
+function photoFrame(url,size){
+  const g=new THREE.Group();
+  texLoader.load(url, tx=>{
+    tx.anisotropy=4; const a=(tx.image.width||4)/(tx.image.height||3);
+    const w=a>=1? size*1.25 : size*1.25*a, h=a>=1? size*1.25/a : size*1.25;
+    const fr=new THREE.Mesh(new THREE.BoxGeometry(w+0.1,h+0.1,0.06),frameMat); g.add(fr);
+    const mat=new THREE.MeshBasicMaterial({map:tx});
+    const f=new THREE.Mesh(new THREE.PlaneGeometry(w,h),mat); f.position.z=0.032; g.add(f);
+    const b=new THREE.Mesh(new THREE.PlaneGeometry(w,h),mat); b.position.z=-0.032; b.rotation.y=Math.PI; g.add(b);
+  });
+  g.userData.isPhoto=true; return g;
+}
+/* Poly Pizza: mô hình 3D thật (.glb, CC0 / CC-BY) cho danh từ cụ thể */
+const MODELS=D.models||{};
+const gltfLoader = THREE.GLTFLoader ? new THREE.GLTFLoader() : null; if(gltfLoader) gltfLoader.setCrossOrigin('anonymous');
+const glbCache=new Map();
+function loadGLB(uuid){
+  if(glbCache.has(uuid)) return glbCache.get(uuid);
+  const pr=new Promise(res=>{ if(!gltfLoader) return res(null);
+    gltfLoader.load('https://static.poly.pizza/'+uuid+'.glb', g=>{ g.scene.traverse(n=>{ if(n.isMesh){ n.geometry._shared=true; (Array.isArray(n.material)?n.material:[n.material]).forEach(m=>m._shared=true); } }); res(g.scene); }, undefined, ()=>res(null)); });
+  glbCache.set(uuid,pr); return pr;
+}
+function wordModel(w,size){
+  const g=new THREE.Group();
+  const m=MODELS[w.i];
+  const wu=wikiUrl(w.i);
+  const ph = wu ? photoFrame(wu,size) : (w.e ? objectModel(w.e,size) : letterCube(w.en)); if(!wu && !w.e) ph.scale.setScalar(.62*size/1.05);
+  g.add(ph); g.userData.isGlb=false; g.userData.isPhoto=!!wu;
+  if(m){
+    loadGLB(m[0]).then(sc=>{ if(!sc) return;
+      const obj=sc.clone(true); const box=new THREE.Box3().setFromObject(obj); const sz=box.getSize(new THREE.Vector3()); const mx=Math.max(sz.x,sz.y,sz.z)||1;
+      const k=size*1.15/mx; obj.scale.setScalar(k); const c=box.getCenter(new THREE.Vector3());
+      obj.position.set(-c.x*k, -c.y*k, -c.z*k);
+      const holder=new THREE.Group(); holder.add(obj);
+      g.remove(ph); g.add(holder); g.userData.isGlb=true;
+    });
+  }
+  return g;
+}
 
 /* ---------- VOXEL 3D MODELS (Twemoji → khối 3D) ---------- */
 const VOX=22;
@@ -805,6 +850,8 @@ function showWord(wi){
     <div class="word-head">${w.e?`<img src="${imgUrl(w.e)}" alt="" width="56" height="56">`:''}<h2>${esc(w.en)}</h2><span class="pos">${esc(w.pos)}</span>${w.v?`<span class="var">${esc(w.v)}</span>`:''}
       <button class="speak" data-r="0.92">🔊 Nghe</button><button class="speak" data-r="0.6">🐢 Chậm</button></div>
     <div class="word-vi">${esc(w.vi)}</div>
+    ${wikiUrl(wi)?`<a href="${wikiPage(wi)}" target="_blank" rel="noopener" title="Ảnh từ Wikipedia / Wikimedia Commons – bấm để xem tác giả & giấy phép"><img src="${wikiUrl(wi)}" alt="${esc(w.en)}" loading="lazy" style="display:block;margin-top:10px;max-width:100%;max-height:220px;border-radius:12px;border:1px solid var(--border)"></a><div style="font-size:11.5px;color:var(--text-dim);margin-top:4px">Ảnh: Wikipedia – ${esc(WIKI[wi][1])} (bấm ảnh để xem tác giả &amp; giấy phép)</div>`:''}
+    ${MODELS[wi]?`<div style="font-size:11.5px;color:var(--text-dim);margin-top:4px">Mô hình 3D: “${esc(MODELS[wi][1])}” – ${esc(MODELS[wi][2])} (Poly Pizza, ${MODELS[wi][3]?'CC-BY 4.0':'CC0'})</div>`:''}
     <div class="word-meta">Mức thuộc: <span class="mastery">${[0,1,2].map(k=>`<i class="${L>k?'on':''}"></i>`).join('')}</span> ${known(wi)?'· <b style="color:var(--good)">Đã thuộc</b>':''}<br>
     Có trong chủ đề: ${unitsHtml}</div>`;
   $('wordPanel').querySelectorAll('.speak').forEach(b=>b.onclick=()=>speak(w.en, parseFloat(b.dataset.r)));
