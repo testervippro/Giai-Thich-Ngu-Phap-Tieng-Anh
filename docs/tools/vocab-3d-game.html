@@ -221,7 +221,7 @@ footer.note{margin-top:16px; font-size:12px; color:var(--text-dim); line-height:
     Dữ liệu: toàn bộ Word List của <i>English for Everyone – Illustrated English Dictionary</i> (DK), 8.949 mục từ trong 180 chủ đề; nghĩa tiếng Việt được dịch cho từng mục.
     Từ đánh dấu <b>US</b>/<b>UK</b> là cách dùng riêng của Anh–Mỹ. Một từ được tính là <b>đã thuộc</b> khi bạn trả lời đúng 2 lần (●●○); trả lời sai sẽ trừ 1 nấc và đưa từ vào mục <b>Ôn từ sai</b>.
     Tiến độ được lưu trong trình duyệt này.
-    Mô hình 3D dựng từ biểu tượng <a href="https://github.com/jdecked/twemoji" style="color:inherit">Twemoji</a> (© Twitter/X và cộng đồng, giấy phép CC-BY 4.0). Từ chưa có hình riêng được hiển thị bằng khối chữ cái.
+    Hình 3D: <a href="https://github.com/microsoft/fluentui-emoji" style="color:inherit">Microsoft Fluent Emoji</a> (MIT) và khối voxel từ <a href="https://github.com/jdecked/twemoji" style="color:inherit">Twemoji</a> (CC-BY 4.0) cho cờ các nước. Từ chưa có hình riêng được hiển thị bằng khối chữ cái.
   </footer>
 </div>
 <div class="toast" id="toast"></div>
@@ -430,7 +430,7 @@ function letterCube(en){
 }
 function showClueModel(w,x,y,z,size){
   if(!w.e) return;
-  const m=voxelModel(w.e,size); m.position.set(x,y,z); world.add(m);
+  const m=objectModel(w.e,size); m.position.set(x,y,z); world.add(m);
   anims.push(t=>{ m.rotation.y=Math.sin(t*0.8)*0.7; m.position.y=y+Math.sin(t*1.5)*0.12; });
 }
 
@@ -508,7 +508,7 @@ function buildExplore(){
     const g=new THREE.Group(); g.position.set(x,0,z);
     const ped=new THREE.Mesh(pedGeoTall, known(wi)?pedMatKnown:pedMat); ped.position.y=0.45; g.add(ped);
     const specific=!!w.e;
-    const model=specific? voxelModel(w.e,1.05) : letterCube(w.en); if(!specific) model.scale.setScalar(.62);
+    const model=specific? objectModel(w.e,1.05) : letterCube(w.en); if(!specific) model.scale.setScalar(.62);
     model.position.y=specific?1.5:1.25; model.rotation.y=side<0?Math.PI/2:-Math.PI/2; g.add(model);
     const labEn=cardTexture(w.en, w.pos+(w.v?' · '+w.v:''), {border: known(wi)?'#2f9e6b':'#1f8a7a', tag: known(wi)?'✓':''});
     const labVi=cardTexture(w.vi, w.en, {bg:'#1f8a7a', fg:'#ffffff', subFg:'#d6f5ef', border:'#ef7d4e'});
@@ -548,7 +548,7 @@ function updateWalk(dt){
     if(walk.near) walk.near.userData.lab.scale.set(1.1,0.62,1);
     walk.near=best;
     if(best){ const w=W[best.userData.wi]; best.userData.lab.scale.set(1.4,0.79,1);
-      setPrompt(`<div class="q">${w.e?`<img src="${twemojiUrl(w.e)}" width="22" height="22" style="vertical-align:-5px"> `:''}Đồ vật gần bạn · bấm vào để lật nghĩa</div><div class="big">${esc(w.en)} <span style="font-size:.62em;color:var(--text-dim);font-family:Inter">${esc(w.pos)}</span></div><div style="font-weight:700;color:var(--text);font-size:15px">${esc(w.vi)}</div>`);
+      setPrompt(`<div class="q">${w.e?`<img src="${imgUrl(w.e)}" width="26" height="26" style="vertical-align:-7px"> `:''}Đồ vật gần bạn · bấm vào để lật nghĩa</div><div class="big">${esc(w.en)} <span style="font-size:.62em;color:var(--text-dim);font-family:Inter">${esc(w.pos)}</span></div><div style="font-weight:700;color:var(--text);font-size:15px">${esc(w.vi)}</div>`);
       speak(w.en); markSeen(w.i); showWord(w.i);
     } else setPrompt(WALK_HELP);
   }
@@ -562,6 +562,23 @@ renderer.domElement.addEventListener('pointerdown',e=>{ if(walk.on){ walk.drag=[
 renderer.domElement.addEventListener('pointermove',e=>{ if(!walk.on||!walk.drag) return; const dx=e.clientX-walk.drag[0], dy=e.clientY-walk.drag[1]; walk.drag=[e.clientX,e.clientY]; walk.yaw-=dx*0.005; walk.pitch=Math.max(-1.1,Math.min(0.9,walk.pitch-dy*0.004)); });
 renderer.domElement.addEventListener('pointerup',()=>{ walk.drag=null; });
 renderer.domElement.addEventListener('wheel',e=>{ if(!walk.on) return; e.preventDefault(); fwd.set(-Math.sin(walk.yaw),0,-Math.cos(walk.yaw)); walk.pos.addScaledVector(fwd,-Math.sign(e.deltaY)*0.6); },{passive:false});
+
+
+/* Fluent Emoji 3D (Microsoft, MIT): ảnh render 3D, dùng làm vật thể billboard */
+const FLU=D.fluent||{}, FLUB=D.fluentBase||'';
+const fluKey=e=>e.replace(/️/g,'');
+const fluUrl=e=>{ const p=FLU[fluKey(e)]; return p? FLUB+p.split('/').map(encodeURIComponent).join('/') : null; };
+const texLoader=new THREE.TextureLoader(); texLoader.setCrossOrigin('anonymous');
+const fluTex=new Map();
+function objectModel(e,size){
+  const url=fluUrl(e);
+  if(!url) return voxelModel(e,size);
+  const g=new THREE.Group();
+  let tx=fluTex.get(url); if(!tx){ tx=texLoader.load(url); tx.anisotropy=4; fluTex.set(url,tx); }
+  const sp=new THREE.Sprite(new THREE.SpriteMaterial({map:tx, transparent:true, alphaTest:0.05})); sp.scale.set(size*1.25,size*1.25,1); g.add(sp);
+  return g;
+}
+const imgUrl=e=>fluUrl(e)||twemojiUrl(e);
 
 /* ---------- VOXEL 3D MODELS (Twemoji → khối 3D) ---------- */
 const VOX=22;
@@ -785,7 +802,7 @@ function showWord(wi){
   selected=wi; const w=W[wi]; const L=lvl(wi);
   const unitsHtml = w.units.map(u=>`<a data-u="${u}">${esc(unitLabel(u))}</a>`).join(' · ');
   $('wordPanel').innerHTML = `
-    <div class="word-head">${w.e?`<img src="${twemojiUrl(w.e)}" alt="" width="44" height="44">`:''}<h2>${esc(w.en)}</h2><span class="pos">${esc(w.pos)}</span>${w.v?`<span class="var">${esc(w.v)}</span>`:''}
+    <div class="word-head">${w.e?`<img src="${imgUrl(w.e)}" alt="" width="56" height="56">`:''}<h2>${esc(w.en)}</h2><span class="pos">${esc(w.pos)}</span>${w.v?`<span class="var">${esc(w.v)}</span>`:''}
       <button class="speak" data-r="0.92">🔊 Nghe</button><button class="speak" data-r="0.6">🐢 Chậm</button></div>
     <div class="word-vi">${esc(w.vi)}</div>
     <div class="word-meta">Mức thuộc: <span class="mastery">${[0,1,2].map(k=>`<i class="${L>k?'on':''}"></i>`).join('')}</span> ${known(wi)?'· <b style="color:var(--good)">Đã thuộc</b>':''}<br>
