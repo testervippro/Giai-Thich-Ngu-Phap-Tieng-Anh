@@ -108,6 +108,7 @@
 - [Word families & đồng nghĩa (5000 từ)](WordFamilies.md)
 - [🔧 Công cụ: Word Families 5000 (tra cứu tương tác)](tools/word-families-5000.html)
 - [🔧 Công cụ: 10.000 từ vựng theo chủ đề](tools/word-families-by-topic.html)
+- [🎮 Game 3D: 8.949 từ vựng DK Illustrated Dictionary](tools/vocab-3d-game.html)
 
 ---
 
