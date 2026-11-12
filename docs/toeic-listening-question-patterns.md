@@ -7,7 +7,7 @@
 ## 0. Độ tin cậy của phân tích (đọc trước)
 
 - **Đáp án là đáp án chính thức**, đọc từ trang "LC ANSWERS" trong sách giải ETS 2026. Phần này khác Part 7, nơi đáp án do AI tự giải. Mình đã kiểm tra chéo với lời giải tiếng Hàn của sách: khớp 288/298 câu Part 1–2 và 327/331 câu Part 3–4. Các câu lệch là do OCR đọc nhầm chữ cái.
-- **Nhãn bẫy** ("유사 발음 오답" = bẫy phát âm giống, "연상 단어 오답" = bẫy từ liên tưởng, "동사 오답" = sai động từ, v.v.) lấy từ lời giải của sách. Bản OCR tiếng Hàn khớp được 974/1.000 câu, nên số đếm có thể thiếu vài câu.
+- **Nhãn bẫy** (bẫy phát âm giống, bẫy từ liên tưởng, bẫy sai động từ, v.v.) lấy từ lời giải của sách. Bản OCR lời giải khớp được 974/1.000 câu, nên số đếm có thể thiếu vài câu.
 - **Dạng câu hỏi Part 2–4** do mình phân loại tự động theo câu hỏi tiếng Anh (regex), rồi xem lại bằng mắt. Ranh giới có chỗ mờ, ví dụ "What does the woman ask about?" có thể là Chi tiết hoặc Yêu cầu. Hãy dùng số liệu như xu hướng.
 - Câu chữ trong ví dụ lấy từ transcript nghe/OCR, có thể lệch vài chữ so với sách.
 
@@ -49,7 +49,7 @@ Dạng động từ trong **đáp án đúng** và **đáp án sai**:
 
 | Bẫy | Số lần | Ví dụ thật |
 |---|---|---|
-| **Sai động từ (동사 오답):** đúng người/vật, sai hành động/trạng thái | 125 | T1-4: đúng là "A wooden crate is filled with vegetables"; sai "One of the men is **putting** vegetables into a shopping bag" |
+| **Sai động từ:** đúng người/vật, sai hành động/trạng thái | 125 | T1-4: đúng là "A wooden crate is filled with vegetables"; sai "One of the men is **putting** vegetables into a shopping bag" |
 | **Danh từ không có trong tranh** | ~38 | T1-6: "Some **cyclists** are riding through a field" (tranh không có người đi xe đạp) |
 | **Sai vị trí** | 3 | T1-5: "Cans of paint have been placed **on a step stool**" (sơn ở trên sàn) |
 
@@ -79,11 +79,11 @@ Ví dụ đáp án đúng ở tranh đồ vật/phong cảnh:
 
 ### 3.2 Pattern đáp án đúng
 
-1. **Wh- không bao giờ trả lời bằng Yes/No:** 0/107 đáp án đúng bắt đầu bằng Yes/No. Sách có hẳn nhãn "Yes/No 불가 오답" cho đáp án sai (46 lần), nên nghe "Who/When/Where…" là loại ngay đáp án Yes/No.
+1. **Wh- không bao giờ trả lời bằng Yes/No:** 0/107 đáp án đúng bắt đầu bằng Yes/No. Sách đánh dấu riêng bẫy "trả lời Yes/No cho câu Wh-" ở đáp án sai (46 lần), nên nghe "Who/When/Where…" là loại ngay đáp án Yes/No.
 2. **Câu hỏi Yes/No, phủ định, đuôi:** chỉ 26/66 câu (39%) có đáp án đúng bắt đầu bằng Yes/No/Sure. **61% trả lời thẳng vào nội dung**, không có Yes/No.
    - "Can't you update the database today?" → *I did it yesterday.*
    - (Kiểu 39% có Yes) "Have you always commuted by train?" → *Yes, because I don't have a car.*
-3. **Trả lời gián tiếp:** sách ghi "우회적으로" (trả lời vòng) cho **56/250 câu (22%)**. Kiểu hay gặp:
+3. **Trả lời gián tiếp:** sách ghi là trả lời vòng cho **56/250 câu (22%)**. Kiểu hay gặp:
 
 | Kiểu trả lời vòng | Ví dụ thật (câu hỏi → đáp án đúng) |
 |---|---|
@@ -110,9 +110,9 @@ Ví dụ đáp án đúng ở tranh đồ vật/phong cảnh:
 | Bẫy | Số lần | Nhận biết | Ví dụ thật |
 |---|---|---|---|
 | **Không liên quan / trả lời câu hỏi khác** | ~266 | Thường là câu trả lời đúng cho **một từ hỏi khác** (hỏi When nhưng đáp án trả lời Where) hoặc dùng *he/she/they* khi chưa ai được nhắc | T1-7 "Where is the conference…?" → sai: *A three-day vacation.* (trả lời How long) |
-| **Từ liên tưởng (연상 단어)** | 109 | Từ cùng chủ đề với câu hỏi nhưng không trả lời câu hỏi | "There's a dental clinic on Main Street…" → *A toothbrush and toothpaste.* · "Who sent the meeting minutes to the accounting department?" → *Cash and credit cards.* |
+| **Từ liên tưởng** | 109 | Từ cùng chủ đề với câu hỏi nhưng không trả lời câu hỏi | "There's a dental clinic on Main Street…" → *A toothbrush and toothpaste.* · "Who sent the meeting minutes to the accounting department?" → *Cash and credit cards.* |
 | **Yes/No cho câu Wh-** | 46 | Yes/No/Sure trả lời câu Wh- | "When does the warehouse manager arrive?" → *Sure, no problem.* |
-| **Phát âm giống (유사 발음)** | 33 | Từ nghe na ná: *accounting/account, finance/finally, park/parking, train/training, promotional/promoted, project manager/projector* | "Have you always commuted by **train**?" → *The **training** starts at 2:00.* |
+| **Phát âm giống** | 33 | Từ nghe na ná: *accounting/account, finance/finally, park/parking, train/training, promotional/promoted, project manager/projector* | "Have you always commuted by **train**?" → *The **training** starts at 2:00.* |
 | **Lặp lại từ** | 19 | Lặp nguyên từ trong câu hỏi | "Which **meeting** room…?" → *The **meeting** was fun.* |
 | **Từ phái sinh** | 10 | Cùng gốc từ: *starts/start, product/products, patients/patient, pick up/pick, lead/leading* | "The tour **starts** at noon…" → *Please **start** this washing machine.* |
 
