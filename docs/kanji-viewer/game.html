@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Kanji Game</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#faf7f2; --card:#fff; --ink:#1c1917; --dim:#78716c; --line:#e7e2da;
+  --accent:#b45309; --accentbg:#fff7e6; --ok:#15803d; --okbg:#e9f9ee; --bad:#b91c1c; --badbg:#fdecec;
+  --shadow:0 1px 2px rgba(0,0,0,.05),0 4px 14px rgba(0,0,0,.05);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#171412; --card:#24201d; --ink:#f5f5f4; --dim:#a8a29e; --line:#3b3531;
+  --accent:#fbbf24; --accentbg:#2c2416; --ok:#4ade80; --okbg:#14291c; --bad:#f87171; --badbg:#321a1a;
+  --shadow:none;
+}}
+:root[data-theme="dark"]{
+  --bg:#171412; --card:#24201d; --ink:#f5f5f4; --dim:#a8a29e; --line:#3b3531;
+  --accent:#fbbf24; --accentbg:#2c2416; --ok:#4ade80; --okbg:#14291c; --bad:#f87171; --badbg:#321a1a;
+  --shadow:none;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{font-family:-apple-system,system-ui,"Segoe UI",Roboto,sans-serif;min-height:100vh;
+  padding:14px 16px 40px;display:flex;justify-content:center}
+.wrap{width:100%;max-width:640px}
+.jp{font-family:"Noto Serif JP","Hiragino Mincho ProN","Yu Mincho",serif}
+button{font:inherit;color:inherit;cursor:pointer}
+.hidden{display:none!important}
+header{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+header h1{font-size:18px;margin:0;flex:1}
+header a,.iconbtn{border:1px solid var(--line);background:var(--card);border-radius:9px;
+  padding:7px 11px;font-size:13px;color:inherit;text-decoration:none}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;
+  box-shadow:var(--shadow);margin-bottom:12px}
+.panel h2{font-size:14px;margin:0 0 10px;color:var(--dim);font-weight:600}
+select,input[type=number]{font:inherit;color:inherit;background:var(--bg);border:1px solid var(--line);
+  border-radius:9px;padding:9px 10px;width:100%}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.row>*{flex:1;min-width:0}
+.small{font-size:12.5px;color:var(--dim)}
+.modes{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.mode{border:1px solid var(--line);background:var(--card);border-radius:13px;padding:13px 12px;text-align:left;
+  box-shadow:var(--shadow);transition:transform .08s,border-color .15s}
+.mode:hover{border-color:var(--accent)}
+.mode:active{transform:scale(.98)}
+.mode b{display:block;font-size:15px;margin-bottom:3px}
+.mode span{font-size:12.5px;color:var(--dim);line-height:1.35;display:block}
+.mode .best{margin-top:6px;color:var(--accent);font-weight:600}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;text-align:center}
+.stats div{background:var(--bg);border-radius:10px;padding:8px 4px}
+.stats b{display:block;font-size:18px}
+.stats span{font-size:11.5px;color:var(--dim)}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:5px 11px;font-size:13px}
+.chip.on{background:var(--accentbg);border-color:var(--accent);color:var(--accent);font-weight:700}
+
+/* play */
+.topbar{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.prog{flex:1;height:7px;background:var(--line);border-radius:4px;overflow:hidden}
+.prog i{display:block;height:100%;width:0;background:var(--accent);transition:width .25s}
+.score{font-weight:700;font-variant-numeric:tabular-nums;min-width:52px;text-align:right}
+.hearts{letter-spacing:1px}
+.combo{font-size:12.5px;color:var(--accent);font-weight:700;min-height:18px;text-align:center}
+.qcard{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);
+  padding:18px 16px;text-align:center;margin-bottom:12px;min-height:190px;display:flex;flex-direction:column;
+  justify-content:center;align-items:center;position:relative}
+.qlabel{font-size:12.5px;color:var(--dim);margin-bottom:6px}
+.qkanji{font-size:112px;line-height:1.1}
+.qtext{font-size:22px;font-weight:700;line-height:1.35}
+.qsub{font-size:16px;color:var(--dim);margin-top:4px}
+.qstory{font-size:17px;line-height:1.55;max-width:520px}
+.qstory .mask{display:inline-block;min-width:1.2em;border-bottom:2px solid var(--accent);color:var(--accent)}
+.say{position:absolute;top:10px;right:10px;border:1px solid var(--line);background:var(--bg);border-radius:8px;
+  padding:4px 8px;font-size:14px}
+.opts{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.opt{border:1.5px solid var(--line);background:var(--card);border-radius:13px;padding:14px 10px;min-height:62px;
+  font-size:17px;font-weight:600;line-height:1.3;box-shadow:var(--shadow);position:relative;transition:transform .06s}
+.opt:active{transform:scale(.98)}
+.opt .k{position:absolute;top:5px;left:8px;font-size:11px;color:var(--dim);font-weight:500}
+.opt.big{font-size:44px;font-weight:500;padding:8px}
+.opt.ok{background:var(--okbg);border-color:var(--ok);color:var(--ok)}
+.opt.bad{background:var(--badbg);border-color:var(--bad);color:var(--bad)}
+.opt[disabled]{cursor:default}
+.fb{margin-top:12px;border-radius:14px;padding:12px;border:1px solid var(--line);background:var(--card)}
+.fb.ok{border-color:var(--ok)}
+.fb.bad{border-color:var(--bad)}
+.fbhead{display:flex;align-items:center;gap:12px}
+.fbk{font-size:54px;line-height:1}
+.fbhv{font-size:18px;font-weight:800}
+.fbmean{font-size:15px}
+.fbtag{font-size:11.5px;color:var(--dim)}
+.fbstory{font-size:14.5px;line-height:1.5;margin-top:8px;color:var(--ink)}
+.fbimg{width:100%;border-radius:9px;margin-top:10px;background:#fff;display:block}
+.fbbtns{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+.fbbtns button{flex:1;border:1px solid var(--line);background:var(--bg);border-radius:9px;padding:9px;font-size:13.5px}
+.fbbtns .primary{background:var(--accent);color:#fff;border-color:var(--accent);font-weight:700}
+:root[data-theme="dark"] .fbbtns .primary{color:#1c1917}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .fbbtns .primary{color:#1c1917}}
+
+/* match */
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.tile{aspect-ratio:1/1;border:1.5px solid var(--line);background:var(--card);border-radius:12px;
+  display:flex;align-items:center;justify-content:center;text-align:center;padding:4px;box-shadow:var(--shadow);
+  font-size:14px;font-weight:700;line-height:1.2;transition:opacity .25s,transform .1s}
+.tile.kj{font-size:40px;font-weight:500}
+.tile.sel{border-color:var(--accent);background:var(--accentbg)}
+.tile.done{opacity:0;pointer-events:none}
+.tile.wrong{border-color:var(--bad);background:var(--badbg);animation:shake .3s}
+@keyframes shake{25%{transform:translateX(-4px)}75%{transform:translateX(4px)}}
+
+/* result */
+.big-score{font-size:44px;font-weight:800;text-align:center;margin:6px 0 0}
+.wlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:8px}
+.witem{background:var(--bg);border-radius:10px;padding:8px;display:flex;gap:8px;align-items:center}
+.witem .jp{font-size:32px}
+.witem div{font-size:12.5px;line-height:1.3}
+.btns{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.btns button{flex:1;min-width:140px;border:1px solid var(--line);background:var(--card);border-radius:10px;padding:11px;font-weight:600}
+.btns .primary{background:var(--accent);border-color:var(--accent);color:#fff}
+:root[data-theme="dark"] .btns .primary{color:#1c1917}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .btns .primary{color:#1c1917}}
+@media (max-width:420px){
+  .qkanji{font-size:96px}
+  .opt{font-size:15.5px;padding:12px 8px}
+  .opt.big{font-size:38px}
+  .stats b{font-size:16px}
+  .tile.kj{font-size:32px}
+  .tile{font-size:12.5px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<!-- ============ HOME ============ -->
+<section id="home">
+  <header>
+    <h1>🀄 Kanji Game — 2.136 chữ</h1>
+    <a href="index.html">🃏 Xem thẻ</a>
+    <button class="iconbtn" id="themeBtn" title="Đổi giao diện sáng/tối">◐</button>
+  </header>
+
+  <div class="panel">
+    <h2>Tiến độ của bạn</h2>
+    <div class="stats">
+      <div><b id="stSeen">0</b><span>chữ đã gặp</span></div>
+      <div><b id="stMaster">0</b><span>chữ đã thuộc</span></div>
+      <div><b id="stWeak">0</b><span>chữ hay sai</span></div>
+      <div><b id="stAcc">–</b><span>tỉ lệ đúng</span></div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h2>Chọn bộ chữ</h2>
+    <div class="row">
+      <select id="setSel">
+        <option value="all">Tất cả (2.161 chữ)</option>
+        <option value="p1">Tập 1 — thẻ 1–1050</option>
+        <option value="p2">Tập 2 — thẻ 1051–2165</option>
+        <option value="N5">JLPT N5</option>
+        <option value="N4">JLPT N4</option>
+        <option value="N3">JLPT N3</option>
+        <option value="N2">JLPT N2</option>
+        <option value="N1">JLPT N1</option>
+        <option value="unknown">Chữ chưa đánh dấu "Đã nhớ" (trang Xem thẻ)</option>
+        <option value="starred">Chữ ⭐ Khó nhớ (trang Xem thẻ)</option>
+        <option value="weak">Chữ hay sai trong game</option>
+        <option value="range">Khoảng số thẻ tự chọn…</option>
+      </select>
+    </div>
+    <div class="row hidden" id="rangeRow" style="margin-top:8px">
+      <input type="number" id="rFrom" min="1" max="2165" value="1" aria-label="Từ thẻ">
+      <span style="flex:0">→</span>
+      <input type="number" id="rTo" min="1" max="2165" value="100" aria-label="Đến thẻ">
+    </div>
+    <div class="row" style="margin-top:10px;align-items:center">
+      <span class="small" style="flex:0 0 auto">Số câu mỗi lượt:</span>
+      <div class="chips" id="lenChips" style="flex:1">
+        <button class="chip" data-len="10">10</button>
+        <button class="chip" data-len="20">20</button>
+        <button class="chip" data-len="50">50</button>
+      </div>
+    </div>
+    <div class="small" id="poolInfo" style="margin-top:8px"></div>
+  </div>
+
+  <div class="modes">
+    <button class="mode" data-mode="hv"><b>🀄 Kanji → Hán Việt</b><span>Nhìn chữ, chọn âm Hán Việt đúng.</span><div class="best small" data-best="hv"></div></button>
+    <button class="mode" data-mode="mean"><b>💬 Kanji → Nghĩa</b><span>Nhìn chữ, chọn nghĩa tiếng Việt.</span><div class="best small" data-best="mean"></div></button>
+    <button class="mode" data-mode="rev"><b>🔍 Nghĩa → Kanji</b><span>Chọn đúng chữ trong 4 chữ trông na ná nhau.</span><div class="best small" data-best="rev"></div></button>
+    <button class="mode" data-mode="story"><b>📖 Câu chuyện → Kanji</b><span>Đọc câu chuyện nhớ chữ, đoán chữ bị che.</span><div class="best small" data-best="story"></div></button>
+    <button class="mode" data-mode="match"><b>🃏 Ghép cặp</b><span>Ghép 6 chữ với Hán Việt, càng nhanh càng tốt.</span><div class="best small" data-best="match"></div></button>
+    <button class="mode" data-mode="survival"><b>⚡ Sinh tồn</b><span>Trộn mọi dạng, 3 mạng, combo nhân điểm.</span><div class="best small" data-best="survival"></div></button>
+  </div>
+  <p class="small" style="margin-top:14px;line-height:1.5">Phím tắt: <b>1–4</b> chọn đáp án, <b>Enter</b> sang câu tiếp. Chữ bạn hay sai sẽ được hỏi lại nhiều hơn. Tiến độ lưu trong trình duyệt này. Dữ liệu: bảng 2136 Kanji (Hán Việt, nghĩa, JLPT, câu chuyện nhớ chữ) và ảnh thẻ trong thư mục này.</p>
+</section>
+
+<!-- ============ PLAY (quiz) ============ -->
+<section id="play" class="hidden">
+  <div class="topbar">
+    <button class="iconbtn" id="quitBtn" aria-label="Thoát">✕</button>
+    <div class="prog"><i id="progBar"></i></div>
+    <span class="hearts" id="hearts"></span>
+    <span class="score" id="score">0</span>
+  </div>
+  <div class="combo" id="combo"></div>
+  <div class="qcard" id="qcard"></div>
+  <div class="opts" id="opts"></div>
+  <div id="fb"></div>
+</section>
+
+<!-- ============ MATCH ============ -->
+<section id="match" class="hidden">
+  <div class="topbar">
+    <button class="iconbtn" id="mQuit" aria-label="Thoát">✕</button>
+    <div class="prog"><i id="mBar"></i></div>
+    <span class="score" id="mTime">0.0s</span>
+  </div>
+  <div class="combo" id="mInfo">Bàn 1/3 — chạm 1 chữ Kanji rồi chạm Hán Việt của nó</div>
+  <div class="grid" id="grid"></div>
+</section>
+
+<!-- ============ RESULT ============ -->
+<section id="result" class="hidden">
+  <div class="panel" style="text-align:center">
+    <div class="small" id="rTitle"></div>
+    <div class="big-score" id="rScore"></div>
+    <div class="small" id="rSub" style="margin-top:4px"></div>
+  </div>
+  <div class="panel" id="rWrongPanel">
+    <h2>Chữ cần ôn lại</h2>
+    <div class="wlist" id="rWrong"></div>
+  </div>
+  <div class="btns">
+    <button id="rRetryWrong">🔁 Ôn lại chữ sai</button>
+    <button class="primary" id="rAgain">▶ Chơi tiếp</button>
+    <button id="rHome">🏠 Menu</button>
+  </div>
+</section>
+
+</div>
+
+<script src="kanji-game-data.js"></script>
+<script>
+(function(){
+"use strict";
+const $=id=>document.getElementById(id);
+const ALL=(window.KANJI||[]).map(r=>({n:r[0],k:r[1],hv:r[2],m:r[3],j:r[4],s:r[5],img:r[6]}));
+const BY_N=new Map(ALL.map(x=>[x.n,x]));
+const IDX=new Map(ALL.map((x,i)=>[x.n,i]));
+
+// ---------- storage (safe) ----------
+function lsGet(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v);}catch(e){return d;}}
+function lsSet(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}
+const SKEY="kanjiGame_v1";
+let ST=lsGet(SKEY,{s:{},best:{},len:20,set:"p1",from:1,to:100});
+ST.s=ST.s||{};ST.best=ST.best||{};
+function save(){lsSet(SKEY,ST);}
+// shared with the card viewer (index.html): keys are image paths
+const viewerKnown=()=>lsGet("kanjiViewerKnown",{});
+const viewerStar=()=>lsGet("kanjiViewerStarred",{});
+
+// ---------- theme ----------
+const theme=lsGet("kanjiGameTheme",null);
+if(theme) document.documentElement.setAttribute("data-theme",theme);
+$("themeBtn").onclick=()=>{
+  const cur=document.documentElement.getAttribute("data-theme")||
+    (matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");
+  const nx=cur==="dark"?"light":"dark";
+  document.documentElement.setAttribute("data-theme",nx);lsSet("kanjiGameTheme",nx);
+};
+
+// ---------- helpers ----------
+const rnd=n=>Math.floor(Math.random()*n);
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=rnd(i+1);[a[i],a[j]]=[a[j],a[i]];}return a;}
+function stat(n){return ST.s[n]||(ST.s[n]=[0,0,0]);} // [correct, wrong, streak]
+function isWeak(n){const s=ST.s[n];return s&&s[1]>0&&s[2]<2;}
+function isMaster(n){const s=ST.s[n];return s&&s[2]>=3;}
+function esc(t){return String(t).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+function cap(t){return t?t.charAt(0).toUpperCase()+t.slice(1):t;}
+
+// ---------- pool ----------
+function pool(){
+  const set=ST.set;let p;
+  if(set==="all") p=ALL;
+  else if(set==="p1") p=ALL.filter(x=>x.n<=1050);
+  else if(set==="p2") p=ALL.filter(x=>x.n>1050);
+  else if(/^N\d$/.test(set)) p=ALL.filter(x=>x.j===set);
+  else if(set==="unknown"){const k=viewerKnown();p=ALL.filter(x=>!(x.img&&k[x.img]));}
+  else if(set==="starred"){const s=viewerStar();p=ALL.filter(x=>x.img&&s[x.img]);}
+  else if(set==="weak") p=ALL.filter(x=>isWeak(x.n));
+  else if(set==="range"){const a=Math.min(ST.from,ST.to),b=Math.max(ST.from,ST.to);p=ALL.filter(x=>x.n>=a&&x.n<=b);}
+  else p=ALL;
+  return p;
+}
+function weight(x){
+  const s=ST.s[x.n];
+  if(!s) return 1.4;
+  let w=1+s[1]*1.5-s[2]*0.35;
+  if(isWeak(x.n)) w+=2;
+  return Math.max(0.15,w);
+}
+function pickTargets(p,count){
+  const items=p.slice();const out=[];
+  const ws=items.map(weight);
+  for(let t=0;t<count&&items.length;t++){
+    let tot=0;for(const w of ws) tot+=w;
+    let r=Math.random()*tot,i=0;
+    for(;i<ws.length-1;i++){r-=ws[i];if(r<=0)break;}
+    out.push(items[i]);items.splice(i,1);ws.splice(i,1);
+  }
+  return out;
+}
+
+// distractors: neighbours in the book look alike (争 浄 静…), then same JLPT, then random
+function distractors(t,field,n){
+  const i=IDX.get(t.n);const seen=new Set([norm(t[field])]);const out=[];
+  const tryAdd=x=>{if(!x||x.n===t.n)return;const v=norm(x[field]);if(!v||seen.has(v))return;
+    if(field!=="k"&&(x.k===t.k))return;seen.add(v);out.push(x);};
+  const near=[];for(let d=1;d<=10;d++){near.push(ALL[i-d],ALL[i+d]);}
+  for(const x of shuffle(near.filter(Boolean))){if(out.length>=Math.ceil(n*0.67))break;tryAdd(x);}
+  const same=ALL.filter(x=>x.j&&x.j===t.j);
+  for(let g=0;g<60&&out.length<n;g++) tryAdd(same[rnd(same.length)]);
+  for(let g=0;g<200&&out.length<n;g++) tryAdd(ALL[rnd(ALL.length)]);
+  return out.slice(0,n);
+}
+function norm(v){return String(v||"").toLowerCase().replace(/\s+/g," ").trim();}
+
+// ---------- home ----------
+function refreshHome(){
+  $("setSel").value=ST.set;
+  $("rangeRow").classList.toggle("hidden",ST.set!=="range");
+  $("rFrom").value=ST.from;$("rTo").value=ST.to;
+  document.querySelectorAll("#lenChips .chip").forEach(b=>b.classList.toggle("on",+b.dataset.len===ST.len));
+  const p=pool();
+  $("poolInfo").textContent=p.length?`Bộ này có ${p.length} chữ.`+(p.length<4?" Cần ít nhất 4 chữ để chơi.":""):"Bộ này đang trống. Hãy chọn bộ khác.";
+  let seen=0,master=0,weak=0,c=0,w=0;
+  for(const n in ST.s){const s=ST.s[n];if(s[0]+s[1]>0)seen++;if(s[2]>=3)master++;if(s[1]>0&&s[2]<2)weak++;c+=s[0];w+=s[1];}
+  $("stSeen").textContent=seen;$("stMaster").textContent=master;$("stWeak").textContent=weak;
+  $("stAcc").textContent=c+w?Math.round(100*c/(c+w))+"%":"–";
+  document.querySelectorAll("[data-best]").forEach(el=>{
+    const b=ST.best[el.dataset.best];
+    el.textContent=b==null?"":(el.dataset.best==="match"?`🏆 Nhanh nhất: ${b.toFixed(1)}s`:`🏆 Kỷ lục: ${b}`);
+  });
+}
+$("setSel").onchange=e=>{ST.set=e.target.value;save();refreshHome();};
+$("rFrom").onchange=e=>{ST.from=Math.max(1,Math.min(2165,+e.target.value||1));save();refreshHome();};
+$("rTo").onchange=e=>{ST.to=Math.max(1,Math.min(2165,+e.target.value||1));save();refreshHome();};
+document.querySelectorAll("#lenChips .chip").forEach(b=>b.onclick=()=>{ST.len=+b.dataset.len;save();refreshHome();});
+document.querySelectorAll(".mode").forEach(b=>b.onclick=()=>start(b.dataset.mode));
+
+function show(id){["home","play","match","result"].forEach(s=>$(s).classList.toggle("hidden",s!==id));window.scrollTo(0,0);}
+
+// ---------- quiz game ----------
+let G=null;
+function start(mode,customList){
+  const p=customList||pool();
+  if(p.length<4&&mode!=="match"){alert("Bộ chữ này có ít hơn 4 chữ. Hãy chọn bộ lớn hơn.");return;}
+  if(mode==="match"){if(p.length<6){alert("Cần ít nhất 6 chữ để ghép cặp.");return;}startMatch(p);return;}
+  const survival=mode==="survival";
+  const len=survival?Infinity:Math.min(ST.len,p.length);
+  G={mode,pool:p,len,i:0,score:0,combo:0,maxCombo:0,right:0,wrong:[],hearts:survival?3:null,
+     queue:survival?[]:pickTargets(p,len),used:new Set(),lock:false,custom:!!customList};
+  show("play");next();
+}
+function nextTarget(){
+  if(G.mode!=="survival") return G.queue[G.i];
+  if(!G.queue.length){G.queue=pickTargets(G.pool.filter(x=>!G.used.has(x.n)),20);if(!G.queue.length){G.used.clear();G.queue=pickTargets(G.pool,20);}}
+  return G.queue.shift();
+}
+function next(){
+  $("fb").innerHTML="";
+  if(G.mode!=="survival"&&G.i>=G.len){return finish();}
+  if(G.mode==="survival"&&G.hearts<=0){return finish();}
+  const t=nextTarget();G.used.add(t.n);G.cur=t;G.lock=false;
+  let qm=G.mode;
+  if(qm==="survival"){const opts=["hv","mean","rev"];if(t.s)opts.push("story");qm=opts[rnd(opts.length)];}
+  if(qm==="story"&&!t.s) qm="rev";
+  G.qm=qm;
+  renderTop();
+  const qc=$("qcard");
+  if(qm==="hv"){
+    qc.innerHTML=`<div class="qlabel">Âm Hán Việt của chữ này là gì?</div><div class="qkanji jp">${esc(t.k)}</div>`;
+  }else if(qm==="mean"){
+    qc.innerHTML=`<div class="qlabel">Chữ này nghĩa là gì?</div><div class="qkanji jp">${esc(t.k)}</div>`;
+  }else if(qm==="rev"){
+    qc.innerHTML=`<div class="qlabel">Chữ Kanji nào có nghĩa này?</div><div class="qtext">${esc(cap(t.m))}</div><div class="qsub">Hán Việt: <b>${esc(t.hv)}</b></div>`;
+  }else{
+    const masked=esc(t.s).split(esc(t.k)).join('<span class="mask">?</span>');
+    qc.innerHTML=`<div class="qlabel">Câu chuyện nhớ chữ này nói về chữ nào?</div><div class="qstory">${masked}</div>`;
+  }
+  if(jaVoice()&&(qm==="hv"||qm==="mean")){
+    const b=document.createElement("button");b.className="say";b.textContent="🔊";b.title="Nghe cách đọc tiếng Nhật";
+    b.onclick=()=>sayJa(t.k);qc.appendChild(b);
+  }
+  const field=qm==="hv"?"hv":qm==="mean"?"m":"k";
+  const ds=distractors(t,field,3);
+  const choices=shuffle([t,...ds]);G.choices=choices;
+  const box=$("opts");box.innerHTML="";
+  choices.forEach((c,ix)=>{
+    const b=document.createElement("button");
+    b.className="opt"+(field==="k"?" big jp":"");
+    b.innerHTML=`<span class="k">${ix+1}</span>${esc(field==="m"?cap(c.m):c[field])}`;
+    b.onclick=()=>answer(ix);
+    box.appendChild(b);
+  });
+}
+function renderTop(){
+  const sv=G.mode==="survival";
+  $("progBar").style.width=sv?Math.min(100,G.right*2)+"%":(100*G.i/G.len)+"%";
+  $("hearts").textContent=sv?"❤️".repeat(Math.max(0,G.hearts))+"🤍".repeat(Math.max(0,3-G.hearts)):`${Math.min(G.i+1,G.len)}/${G.len}`;
+  $("score").textContent=G.score;
+  $("combo").textContent=G.combo>=3?`🔥 Combo ×${G.combo}`:"";
+}
+function answer(ix){
+  if(G.lock)return;G.lock=true;
+  const t=G.cur;const ok=G.choices[ix].n===t.n;
+  const btns=[...document.querySelectorAll("#opts .opt")];
+  btns.forEach((b,i)=>{b.disabled=true;if(G.choices[i].n===t.n)b.classList.add("ok");});
+  const s=stat(t.n);
+  if(ok){
+    s[0]++;s[2]++;G.right++;G.combo++;G.maxCombo=Math.max(G.maxCombo,G.combo);
+    G.score+=10+Math.min(G.combo-1,10)*(G.mode==="survival"?3:2);
+  }else{
+    btns[ix].classList.add("bad");
+    s[1]++;s[2]=0;G.combo=0;G.wrong.push(t);
+    if(G.mode==="survival")G.hearts--;
+  }
+  s[3]=Date.now();save();
+  G.i++;renderTop();
+  feedback(t,ok);
+}
+function feedback(t,ok){
+  const fb=$("fb");
+  const story=t.s?`<div class="fbstory">📖 ${esc(t.s)}</div>`:"";
+  const img=(!ok&&t.img)?`<img class="fbimg" src="${esc(t.img)}" alt="Thẻ ${t.n}: ${esc(t.k)}" loading="lazy">`:"";
+  const known=viewerKnown();
+  fb.innerHTML=`<div class="fb ${ok?"ok":"bad"}">
+    <div class="fbhead"><div class="fbk jp">${esc(t.k)}</div>
+      <div><div class="fbhv">${ok?"✅":"❌"} ${esc(t.hv)}</div><div class="fbmean">${esc(cap(t.m))}</div>
+      <div class="fbtag">Thẻ ${t.n}${t.j?" · "+t.j:""}</div></div></div>
+    ${story}${img}
+    <div class="fbbtns">
+      ${t.img?`<button id="fbKnown">${known[t.img]?"✅ Đã nhớ":"☑️ Đánh dấu đã nhớ"}</button><button id="fbStar">${viewerStar()[t.img]?"⭐ Bỏ khó nhớ":"☆ Khó nhớ"}</button>`:""}
+      <button class="primary" id="fbNext">Tiếp ↵</button>
+    </div></div>`;
+  $("fbNext").onclick=next;
+  if(t.img){
+    $("fbKnown").onclick=e=>{const k=viewerKnown();if(k[t.img])delete k[t.img];else k[t.img]=true;lsSet("kanjiViewerKnown",k);e.target.textContent=k[t.img]?"✅ Đã nhớ":"☑️ Đánh dấu đã nhớ";};
+    $("fbStar").onclick=e=>{const s=viewerStar();if(s[t.img])delete s[t.img];else s[t.img]=true;lsSet("kanjiViewerStarred",s);e.target.textContent=s[t.img]?"⭐ Bỏ khó nhớ":"☆ Khó nhớ";};
+  }
+  if(ok){clearTimeout(G.auto);G.auto=setTimeout(()=>{if(G&&G.lock&&$("fbNext"))next();},1400);}
+  else fb.scrollIntoView({behavior:"smooth",block:"nearest"});
+}
+function finish(){
+  clearTimeout(G&&G.auto);
+  const sv=G.mode==="survival";
+  const key=G.mode;
+  let rec=false;
+  if(!G.custom&&(ST.best[key]==null||G.score>ST.best[key])){ST.best[key]=G.score;rec=true;}
+  save();
+  const total=sv?G.right+G.wrong.length:G.len;
+  const names={hv:"Kanji → Hán Việt",mean:"Kanji → Nghĩa",rev:"Nghĩa → Kanji",story:"Câu chuyện → Kanji",survival:"Sinh tồn"};
+  $("rTitle").textContent=names[G.mode]+(rec&&G.score>0?" · 🏆 Kỷ lục mới!":"");
+  $("rScore").textContent=G.score+" điểm";
+  $("rSub").textContent=`Đúng ${G.right}/${total} câu · combo dài nhất ×${G.maxCombo}`;
+  renderWrong(G.wrong);
+  G.last={mode:G.mode};
+  show("result");
+}
+function renderWrong(list){
+  const uniq=[...new Map(list.map(x=>[x.n,x])).values()];
+  $("rWrongPanel").classList.toggle("hidden",!uniq.length);
+  $("rRetryWrong").classList.toggle("hidden",uniq.length<4);
+  $("rWrong").innerHTML=uniq.map(x=>`<div class="witem"><span class="jp">${esc(x.k)}</span><div><b>${esc(x.hv)}</b><br>${esc(cap(x.m))}</div></div>`).join("");
+  RES.wrong=uniq;
+}
+const RES={wrong:[]};
+$("rAgain").onclick=()=>start(G.last.mode);
+$("rHome").onclick=()=>{refreshHome();show("home");};
+$("rRetryWrong").onclick=()=>{
+  const m=G.last.mode==="match"?"hv":(G.last.mode==="survival"?"hv":G.last.mode);
+  start(m,RES.wrong);
+};
+$("quitBtn").onclick=()=>{clearTimeout(G&&G.auto);if(G&&G.i>0&&confirm("Kết thúc lượt này và xem kết quả?"))finish();else{refreshHome();show("home");}};
+
+// ---------- match game ----------
+let M=null;
+function startMatch(p){
+  M={pool:p,round:0,rounds:3,t0:performance.now(),miss:0,wrong:[],sel:null,left:0,timer:null};
+  show("match");matchRound();
+  M.timer=setInterval(()=>{$("mTime").textContent=((performance.now()-M.t0)/1000).toFixed(1)+"s";},100);
+}
+function matchRound(){
+  const ts=pickTargets(M.pool,6);
+  const hvSeen=new Set();const pick=[];
+  for(const t of ts){if(!hvSeen.has(t.hv)){hvSeen.add(t.hv);pick.push(t);}}
+  const tiles=shuffle(pick.flatMap(t=>[{t,kind:"kj"},{t,kind:"hv"}]));
+  M.left=pick.length;M.pairs=(M.pairs||0)+pick.length;M.sel=null;
+  $("mInfo").textContent=`Bàn ${M.round+1}/${M.rounds}: chạm 1 chữ Kanji rồi chạm âm Hán Việt của nó`;
+  $("mBar").style.width=(100*M.round/M.rounds)+"%";
+  const g=$("grid");g.innerHTML="";
+  tiles.forEach(o=>{
+    const d=document.createElement("button");
+    d.className="tile"+(o.kind==="kj"?" kj jp":"");
+    d.textContent=o.kind==="kj"?o.t.k:o.t.hv;
+    d.onclick=()=>tapTile(d,o);
+    g.appendChild(d);
+  });
+}
+function tapTile(el,o){
+  if(el.classList.contains("done"))return;
+  if(!M.sel){M.sel={el,o};el.classList.add("sel");return;}
+  if(M.sel.el===el){el.classList.remove("sel");M.sel=null;return;}
+  const a=M.sel;M.sel=null;a.el.classList.remove("sel");
+  if(a.o.kind!==o.kind&&a.o.t.n===o.t.n){
+    a.el.classList.add("done");el.classList.add("done");
+    const s=stat(o.t.n);s[0]++;s[2]++;save();
+    if(--M.left===0){M.round++;if(M.round>=M.rounds)return endMatch();setTimeout(matchRound,250);}
+  }else if(a.o.kind===o.kind){
+    M.sel={el,o};el.classList.add("sel");
+  }else{
+    M.miss++;
+    [a,{el,o}].forEach(x=>{const s=stat(x.o.t.n);s[1]++;s[2]=0;M.wrong.push(x.o.t);});save();
+    a.el.classList.add("wrong");el.classList.add("wrong");
+    setTimeout(()=>{a.el.classList.remove("wrong");el.classList.remove("wrong");},350);
+  }
+}
+function endMatch(){
+  clearInterval(M.timer);
+  const sec=(performance.now()-M.t0)/1000+M.miss*2;
+  let rec=false;
+  if(ST.best.match==null||sec<ST.best.match){ST.best.match=sec;rec=true;}
+  save();
+  $("rTitle").textContent="Ghép cặp"+(rec?" · 🏆 Kỷ lục mới!":"");
+  $("rScore").textContent=sec.toFixed(1)+"s";
+  $("rSub").textContent=`${M.pairs} cặp · ghép nhầm ${M.miss} lần (+2s mỗi lần)`;
+  G={last:{mode:"match"}};
+  renderWrong(M.wrong);
+  $("rAgain").onclick=()=>start("match");
+  show("result");
+}
+$("mQuit").onclick=()=>{clearInterval(M&&M.timer);refreshHome();show("home");};
+
+// ---------- Japanese TTS (optional) ----------
+let JA=null;
+function jaVoice(){
+  if(!("speechSynthesis" in window))return null;
+  if(JA)return JA;
+  JA=speechSynthesis.getVoices().find(v=>/^ja/i.test(v.lang))||null;
+  return JA;
+}
+if("speechSynthesis" in window) speechSynthesis.onvoiceschanged=()=>{JA=null;jaVoice();};
+function sayJa(t){try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang="ja-JP";const v=jaVoice();if(v)u.voice=v;u.rate=.9;speechSynthesis.speak(u);}catch(e){}}
+
+// ---------- keyboard ----------
+document.addEventListener("keydown",e=>{
+  if($("play").classList.contains("hidden"))return;
+  if(/^[1-4]$/.test(e.key)&&G&&!G.lock){answer(+e.key-1);e.preventDefault();}
+  else if(e.key==="Enter"&&G&&G.lock&&$("fbNext")){next();e.preventDefault();}
+});
+
+// fix: result "again" must point back to quiz after a match game
+const origStart=start;
+start=function(mode,list){$("rAgain").onclick=()=>start(G&&G.last?G.last.mode:mode);return origStart(mode,list);};
+
+refreshHome();
+})();
+</script>
+</body>
+</html>
