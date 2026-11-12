@@ -161,6 +161,7 @@ select,input[type=number]{font:inherit;color:inherit;background:var(--bg);border
         <option value="all">Tất cả (2.161 chữ)</option>
         <option value="p1">Tập 1 — thẻ 1–1050</option>
         <option value="p2">Tập 2 — thẻ 1051–2165</option>
+        <option value="c1000">1000 chữ thông dụng (954 chữ có thẻ)</option>
         <option value="N5">JLPT N5</option>
         <option value="N4">JLPT N4</option>
         <option value="N3">JLPT N3</option>
@@ -289,6 +290,7 @@ function pool(){
   if(set==="all") p=ALL;
   else if(set==="p1") p=ALL.filter(x=>x.n<=1050);
   else if(set==="p2") p=ALL.filter(x=>x.n>1050);
+  else if(set==="c1000") p=(window.KANJI_C1000||[]).map(n=>BY_N.get(n)).filter(Boolean);
   else if(/^N\d$/.test(set)) p=ALL.filter(x=>x.j===set);
   else if(set==="unknown"){const k=viewerKnown();p=ALL.filter(x=>!(x.img&&k[x.img]));}
   else if(set==="starred"){const s=viewerStar();p=ALL.filter(x=>x.img&&s[x.img]);}
