@@ -85,6 +85,7 @@
 - [🎵 Playlist bài hát gốc học từ vựng](toeic-vocabulary-playlist-songs.md)
 - [Listening — Cụm từ & Fixed Expressions](toeic-ets-2026-listening-phrases.md)
 - [Listening — Luyện nghe Part 1–4](toeic-listening-practice.md)
+- [Listening — Pattern câu hỏi, đáp án & bẫy (Part 1–4)](toeic-listening-question-patterns.md)
 - [Reading & Listening — Cấu trúc ngữ pháp hay gặp (quét từ đề)](toeic-reading-grammar-structures.md)
 - [🗺️ Bản đồ ngữ pháp ETS — map 3.645 câu vào 19 chương](ets-ngu-phap-ban-do.md)
   - [Test 1 — phân tích từng câu](ets-ngu-phap-test-01.md)
