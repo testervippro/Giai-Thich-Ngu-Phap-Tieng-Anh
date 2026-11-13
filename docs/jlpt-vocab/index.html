@@ -29,7 +29,11 @@
     td.hv { font-weight:700; }
     td.note { color:var(--muted); font-size:13px; }
     tr:last-child td { border-bottom:0; }
-    table.nohv th:nth-child(4), table.nohv td:nth-child(4) { display:none; }
+    table.nohv th:nth-child(5), table.nohv td:nth-child(5) { display:none; }
+    td.ro { white-space:nowrap; color:var(--muted); }
+    .say { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:8px; padding:2px 7px; margin-right:6px; font-size:13px; }
+    .say:hover { border-color:var(--accent); }
+    .wi .ro { color:var(--muted); font-size:12.5px; }
     mark { background:var(--accentbg); color:inherit; border-radius:3px; }
     .wlist { margin-top:10px; display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:8px; }
     .wi { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:8px 10px; }
@@ -57,7 +61,7 @@
     <div class="wlist" id="wlist" hidden></div>
     <div class="table-wrap" id="twrap">
       <table>
-        <thead><tr><th>Bộ</th><th>Từ</th><th>Cách đọc</th><th>Hán Việt</th><th>Nghĩa</th><th>Loại</th><th>Chữ viết</th></tr></thead>
+        <thead><tr><th>Bộ</th><th>Từ</th><th>Cách đọc</th><th>Phát âm</th><th>Hán Việt</th><th>Nghĩa</th><th>Loại</th><th>Chữ viết</th></tr></thead>
         <tbody id="rows"></tbody>
       </table>
     </div>
@@ -82,6 +86,35 @@
         (function step(){ if (my !== job || i >= html.length) return;
           el.insertAdjacentHTML('beforeend', html.slice(i, i + 800).join('')); i += 800; requestAnimationFrame(step); })();
       }
+      // ---- Kana → romaji (Hepburn) ----
+      const K2R = (() => {
+        const base = {'あ':'a','い':'i','う':'u','え':'e','お':'o','か':'ka','き':'ki','く':'ku','け':'ke','こ':'ko','さ':'sa','し':'shi','す':'su','せ':'se','そ':'so','た':'ta','ち':'chi','つ':'tsu','て':'te','と':'to','な':'na','に':'ni','ぬ':'nu','ね':'ne','の':'no','は':'ha','ひ':'hi','ふ':'fu','へ':'he','ほ':'ho','ま':'ma','み':'mi','む':'mu','め':'me','も':'mo','や':'ya','ゆ':'yu','よ':'yo','ら':'ra','り':'ri','る':'ru','れ':'re','ろ':'ro','わ':'wa','ゐ':'i','ゑ':'e','を':'o','ん':'n','が':'ga','ぎ':'gi','ぐ':'gu','げ':'ge','ご':'go','ざ':'za','じ':'ji','ず':'zu','ぜ':'ze','ぞ':'zo','だ':'da','ぢ':'ji','づ':'zu','で':'de','ど':'do','ば':'ba','び':'bi','ぶ':'bu','べ':'be','ぼ':'bo','ぱ':'pa','ぴ':'pi','ぷ':'pu','ぺ':'pe','ぽ':'po','ぁ':'a','ぃ':'i','ぅ':'u','ぇ':'e','ぉ':'o','ゔ':'vu'};
+        const yo = {'ゃ':'a','ゅ':'u','ょ':'o'};
+        const toHira = s => s.replace(/[\u30a1-\u30f6]/g, c => String.fromCharCode(c.charCodeAt(0) - 0x60));
+        return function(src){
+          const s = toHira(String(src || '')); let out = '', i = 0;
+          while (i < s.length){
+            const c = s[i], n = s[i+1];
+            if (c === 'っ' || c === 'ッ'){ const nx = K2Rone(s.slice(i+1)); out += nx ? (nx[0]==='c' ? 't' : nx[0]) : ''; i++; continue; }
+            if (c === 'ー'){ const m = out.match(/[aeiou]$/); out += m ? m[0] : ''; i++; continue; }
+            if (n && yo[n] && base[c] && /i$/.test(base[c])){
+              let b = base[c].slice(0,-1); if (b==='sh'||b==='ch'||b==='j') out += b + yo[n]; else out += b + 'y' + yo[n]; i += 2; continue; }
+            if (n && 'ぁぃぅぇぉ'.indexOf(n) >= 0 && base[c] && c !== n){ out += base[c].replace(/[aeiou]$/,'') + base[n]; i += 2; continue; }
+            if (base[c]){ out += (c==='ん' && /^[aiueoy]/.test(K2Rone(s.slice(i+1))||'')) ? "n'" : base[c]; i++; continue; }
+            out += /[\u4e00-\u9fff]/.test(c) ? '' : (/[～〜―‐]/.test(c) ? '~' : c); i++;
+          }
+          return out.replace(/\s+/g,' ').trim();
+        };
+        function K2Rone(s){ const c = s[0]; if (!c) return ''; return base[c] || ''; }
+      })();
+      const kanaOf = r => (r[2] && /^[\u3040-\u30ff\s・～〜ー―‐（）()、。]+$/.test(r[2])) ? r[2] : (r[7]!=='k' ? r[1] : '');
+      const roOf = r => { const k = kanaOf(r); return k ? K2R(k) : ''; };
+      let JA = null;
+      function jaVoice(){ if (!('speechSynthesis' in window)) return null; JA = JA || speechSynthesis.getVoices().find(v => /^ja/i.test(v.lang)) || null; return JA; }
+      if ('speechSynthesis' in window) speechSynthesis.onvoiceschanged = () => { JA = null; };
+      function say(text){ try { speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.lang = 'ja-JP'; const v = jaVoice(); if (v) u.voice = v; u.rate = .85; speechSynthesis.speak(u); } catch(e) {} }
+      document.addEventListener('click', e => { const b = e.target.closest('.say'); if (b) say(b.dataset.t); });
+      const sayBtn = r => { const t = (kanaOf(r) || r[1]).replace(/[（(].*?[)）]|[～〜]/g,''); return 'speechSynthesis' in window ? `<button class="say" data-t="${esc(t)}" title="Nghe phát âm" aria-label="Nghe phát âm">🔊</button>` : ''; };
       const inSet = (r,v) => v==='all' || r[0]===v;
       const inScr = (r,v) => v==='all' || (v==='kana' ? (r[7]==='h'||r[7]==='c'||r[7]==='m') : r[7]===v);
       function hl(text, q){
@@ -103,8 +136,8 @@
         chipRow($('scripts'), 'Chữ viết:', SCR, scr, v => data.filter(r => inSet(r,set) && inScr(r,v)).length);
         const q = $('q').value.trim(), ql = q.toLowerCase();
         const list = data.filter(r => inSet(r,set) && inScr(r,scr) && (!ql || [r[1],r[2],r[3],r[4],r[6]].some(c => String(c).toLowerCase().includes(ql))));
-        if (view === 'list') paint($('wlist'), list.map(r => `<div class="wi"><b>${hl(r[1],q)}</b>${r[2]?`<span class="r">${hl(r[2],q)}</span>`:''}<div class="m">${hl(r[4],q)}</div></div>`));
-        else paint($('rows'), list.map(r => `<tr><td class="set"><span>${esc(SETNAME[r[0]]||r[0])}</span></td><td class="w">${hl(r[1],q)}</td><td class="r">${hl(r[2],q)}</td>` +
+        if (view === 'list') paint($('wlist'), list.map(r => `<div class="wi">${sayBtn(r)}<b>${hl(r[1],q)}</b>${r[2]?`<span class="r">${hl(r[2],q)}</span>`:''}<div class="ro">${esc(roOf(r))}</div><div class="m">${hl(r[4],q)}</div></div>`));
+        else paint($('rows'), list.map(r => `<tr><td class="set"><span>${esc(SETNAME[r[0]]||r[0])}</span></td><td class="w">${hl(r[1],q)}</td><td class="r">${hl(r[2],q)}</td><td class="ro">${sayBtn(r)}${esc(roOf(r))}</td>` +
           `<td class="hv">${hl(r[3],q)}</td><td>${hl(r[4],q)}${r[6]?`<div class="note">${hl(r[6],q)}</div>`:''}</td><td class="note">${esc(r[5])}</td>` +
           `<td class="sc"><span class="${r[7]}">${SCNAME[r[7]]||''}</span></td></tr>`));
         $('status').textContent = list.length === data.length
