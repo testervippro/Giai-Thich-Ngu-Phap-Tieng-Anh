@@ -686,7 +686,7 @@ function renderView(){
     $("tK").textContent = r ? r[1] : "?";
     $("tHV").textContent = r ? r[2] : "";
     $("tM").textContent = r ? r[3] : "(chưa có dữ liệu chữ cho thẻ này)";
-    $("tTag").textContent = "Thẻ " + (+cardNumber(list[i])) + (r && r[4] ? " · " + r[4] : "");
+    $("tTag").textContent = "#" + (i + 1) + " / " + list.length + " · Thẻ " + (+cardNumber(list[i])) + (r && r[4] ? " · " + r[4] : "");
     $("tS").textContent = r && r[5] ? "📖 " + r[5] : "";
   }
   if (isList) renderPlainList();
@@ -698,9 +698,9 @@ function renderPlainList(){
   plainListFor = key;
   const rows = list.map((p, ix) => {
     const r = KTXT.get(cardNumber(p));
-    if (!r) return `<div style="padding:8px 0;border-bottom:1px solid var(--line)">${ix + 1}. Thẻ ${+cardNumber(p)} (chưa có dữ liệu chữ)</div>`;
-    return `<div style="padding:8px 0;border-bottom:1px solid var(--line)"><span style="font-size:26px;font-family:'Hiragino Mincho ProN','Yu Mincho','Noto Serif JP',serif">${escT(r[1])}</span>
-      <b>${escT(r[2])}</b> – ${escT(r[3])} <span class="stat">(${ix + 1} · thẻ ${r[0]}${r[4] ? " · " + r[4] : ""})</span>
+    if (!r) return `<div style="padding:8px 0;border-bottom:1px solid var(--line)"><span style="display:inline-block;min-width:2.6em;margin-right:8px;padding:2px 8px;border-radius:999px;background:var(--accentbg);color:var(--accent);font-weight:700;font-size:14px;text-align:center;vertical-align:middle">${ix + 1}</span> Thẻ ${+cardNumber(p)} (chưa có dữ liệu chữ)</div>`;
+    return `<div style="padding:8px 0;border-bottom:1px solid var(--line)"><span style="display:inline-block;min-width:2.6em;margin-right:8px;padding:2px 8px;border-radius:999px;background:var(--accentbg);color:var(--accent);font-weight:700;font-size:14px;text-align:center;vertical-align:middle">${ix + 1}</span><span style="font-size:26px;font-family:'Hiragino Mincho ProN','Yu Mincho','Noto Serif JP',serif">${escT(r[1])}</span>
+      <b>${escT(r[2])}</b> – ${escT(r[3])} <span class="stat">(thẻ ${r[0]}${r[4] ? " · " + r[4] : ""})</span>
       ${r[5] ? `<div style="font-size:14px;line-height:1.5;margin-top:2px">📖 ${escT(r[5])}</div>` : ""}</div>`;
   });
   $("plainList").innerHTML = `<div class="stat" style="margin:0 0 6px">${list.length} chữ · bấm vào chữ nào để mở thẻ đó</div>` + rows.join("");
