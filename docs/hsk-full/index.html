@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bảng HSK1–6 FULL</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1280px; margin:auto; padding:6px 16px 48px; }
+    h1 { margin:0; }
+    .sub, #status { color:var(--muted); margin:5px 0 12px; }
+    .tools { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:8px 0 4px; }
+    .tools input[type=search] { flex:1; min-width:220px; padding:9px 11px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; }
+    .chips { display:flex; gap:6px; flex-wrap:wrap; }
+    .chip { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:999px; padding:6px 12px; font:inherit; font-size:13px; }
+    .chip.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .table-wrap { margin-top:10px; overflow:auto; border:1px solid var(--line); border-radius:12px; background:var(--card); max-height:calc(100vh - 230px); }
+    table { width:100%; min-width:1100px; border-collapse:collapse; }
+    th, td { padding:9px 11px; text-align:left; vertical-align:top; border-bottom:1px solid var(--line); }
+    th { position:sticky; top:0; z-index:1; background:var(--card); color:var(--muted); font-size:13px; font-weight:600; white-space:nowrap; }
+    td.num { color:var(--muted); font-variant-numeric:tabular-nums; white-space:nowrap; }
+    td.lv span { display:inline-block; border:1px solid var(--line); border-radius:6px; padding:1px 7px; font-size:12px; color:var(--muted); white-space:nowrap; }
+    td.w { font-size:22px; max-width:170px; white-space:normal; line-height:1.15; font-family:"PingFang SC","Hiragino Sans GB","Noto Sans SC",sans-serif; white-space:nowrap; }
+    td.hv { font-weight:700; min-width:96px; max-width:150px; }
+    td.py { white-space:nowrap; }
+    td.en { color:var(--muted); font-size:13.5px; min-width:180px; }
+    td.ex { min-width:220px; }
+    td.ex .zh { font-family:"PingFang SC","Hiragino Sans GB","Noto Sans SC",sans-serif; }
+    td.ex .p { color:var(--muted); font-style:italic; font-size:13px; }
+    tr:last-child td { border-bottom:0; }
+    mark { background:var(--accentbg); color:inherit; border-radius:3px; }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Trung" data-title="Bảng HSK1–6 FULL"></script>
+</head>
+<body>
+  <main>
+    <h1>📊 Bảng HSK1–6 FULL</h1>
+    <p class="sub">Toàn bộ 4.896 từ HSK1–6 trên một bảng: âm Hán Việt, phiên âm, nghĩa tiếng Việt, nghĩa tiếng Anh, câu ví dụ có phiên âm và bản dịch. Xem trực tiếp trên web, không cần tải file.</p>
+    <div class="tools">
+      <input type="search" id="q" placeholder="Tìm: chữ Hán, Hán Việt, pinyin, nghĩa Việt/Anh, ví dụ…" aria-label="Tìm kiếm">
+      <div class="chips" id="lv"></div>
+    </div>
+    <p id="status">Đang tải dữ liệu…</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Cấp</th><th>#</th><th>Từ</th><th>Hán Việt</th><th>Phiên âm</th><th>Nghĩa</th><th>English</th><th>Ví dụ</th><th>Dịch</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <p class="sub" style="margin-top:12px">Nghĩa tiếng Anh: <a href="https://cc-cedict.org/" target="_blank" rel="noopener">CC-CEDICT</a> (CC BY-SA 4.0). Âm Hán Việt HSK5–6 ghép theo từng chữ, chữ đa âm có thể chưa đúng âm theo nghĩa. · <a href="../HSK1-6%20FULL.xlsx" download>⬇ Tải file Excel gốc</a> · <a href="../tools/hsk-quiz.html">🎮 Quiz HSK</a> · <a href="../#/hsk-audio">🎧 Audio HSK</a></p>
+  </main>
+  <script src="data.js"></script>
+  <script>
+    (() => {
+      const $ = id => document.getElementById(id);
+      const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      const data = (window.HSK || []).map(r => r.map(c => String(c ?? '').trim()));
+      const LV = ['all','HSK1','HSK2','HSK3','HSK4','HSK5','HSK6'];
+      let level = 'all';
+      function hl(text, q){
+        const s = esc(text); if (!q) return s;
+        const e = esc(q), i = s.toLowerCase().indexOf(e.toLowerCase());
+        return i < 0 ? s : s.slice(0,i) + '<mark>' + s.slice(i,i+e.length) + '</mark>' + s.slice(i+e.length);
+      }
+      function chips(){
+        $('lv').innerHTML = LV.map(l => `<button class="chip${l===level?' on':''}" data-l="${l}">${l==='all'?'Tất cả':l} · ${(l==='all'?data.length:data.filter(r=>r[0]===l).length).toLocaleString('vi-VN')}</button>`).join('');
+      }
+      function render(){
+        const q = $('q').value.trim(), ql = q.toLowerCase();
+        const list = data.filter(r => (level==='all' || r[0]===level) && (!ql || r.some(c => c.toLowerCase().includes(ql))));
+        $('rows').innerHTML = list.map(r => `<tr><td class="lv"><span>${esc(r[0])}</span></td><td class="num">${esc(r[1])}</td>` +
+          `<td class="w">${hl(r[2],q)}</td><td class="hv">${hl(r[3],q)}</td><td class="py">${hl(r[4],q)}</td><td>${hl(r[5],q)}</td>` +
+          `<td class="en">${hl(r[6],q)}</td><td class="ex"><div class="zh">${hl(r[7],q)}</div>${r[8]?`<div class="p">${hl(r[8],q)}</div>`:''}</td><td>${hl(r[9],q)}</td></tr>`).join('');
+        $('status').textContent = list.length === data.length
+          ? `Đang hiển thị đầy đủ ${data.length.toLocaleString('vi-VN')} từ`
+          : `${list.length.toLocaleString('vi-VN')} / ${data.length.toLocaleString('vi-VN')} từ`;
+      }
+      $('lv').addEventListener('click', e => { const b = e.target.closest('.chip'); if (!b) return; level = b.dataset.l; chips(); render(); });
+      let t; $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(render, 180); });
+      if (!data.length) { $('status').textContent = 'Không tải được dữ liệu. Hãy tải lại trang rồi thử lại.'; return; }
+      chips(); render();
+    })();
+  </script>
+</body>
+</html>

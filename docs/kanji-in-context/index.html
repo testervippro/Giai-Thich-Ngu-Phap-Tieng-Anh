@@ -5,19 +5,32 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Kanji in Context</title>
   <style>
-    :root { color-scheme: light dark; --bg:#faf7f2; --card:#fff; --ink:#1c1917; --muted:#78716c; --line:#e7e2da; --accent:#b45309; }
-    @media (prefers-color-scheme: dark) { :root { --bg:#171412; --card:#24201d; --ink:#f5f5f4; --muted:#a8a29e; --line:#3b3531; --accent:#fbbf24; } }
+    :root { color-scheme: light dark; }
     * { box-sizing:border-box; }
     body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
-    main { max-width:1120px; margin:auto; padding:22px 16px 48px; }
-    h1 { margin:0; font-size:24px; }
-    .sub, #status { color:var(--muted); margin:5px 0 16px; }
-    .table-wrap { margin-top:14px; overflow:auto; border:1px solid var(--line); border-radius:10px; background:var(--card); }
-    table { width:100%; min-width:760px; border-collapse:collapse; }
+    main { max-width:1120px; margin:auto; padding:6px 16px 48px; }
+    h1 { margin:0; }
+    .sub, #status { color:var(--muted); margin:5px 0 12px; }
+    .tools { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:8px 0 4px; }
+    .tools input[type=search] { flex:1; min-width:220px; padding:9px 11px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; }
+    .tools select { padding:9px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; font-size:14px; }
+    .chips { display:flex; gap:6px; flex-wrap:wrap; margin-top:8px; }
+    .chips .lbl { color:var(--muted); font-size:13px; align-self:center; margin-right:2px; }
+    .chip { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:999px; padding:6px 12px; font:inherit; font-size:13px; }
+    .chip.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .table-wrap { margin-top:10px; overflow:auto; border:1px solid var(--line); border-radius:12px; background:var(--card); max-height:calc(100vh - 250px); }
+    table { width:100%; min-width:860px; border-collapse:collapse; }
     th, td { padding:9px 11px; text-align:left; vertical-align:top; border-bottom:1px solid var(--line); }
-    th { position:sticky; top:0; background:var(--card); color:var(--muted); font-size:13px; }
-    td:nth-child(2) { font-size:20px; font-family:"Hiragino Mincho ProN","Yu Mincho",serif; white-space:nowrap; }
+    th { position:sticky; top:0; z-index:1; background:var(--card); color:var(--muted); font-size:13px; font-weight:600; }
+    td.hv { font-weight:700; white-space:nowrap; }
+    td.w { font-size:20px; font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; white-space:nowrap; }
+    td.lu span { display:inline-block; border-radius:6px; padding:1px 8px; font-size:12px; white-space:nowrap; border:1px solid var(--line); }
+    td.lu span.l3 { background:var(--badbg); color:var(--bad); border-color:transparent; font-weight:700; }
+    td.lu span.l2 { background:var(--accentbg); color:var(--accent); border-color:transparent; }
+    td.why { min-width:220px; }
     tr:last-child td { border-bottom:0; }
+    mark { background:var(--accentbg); color:inherit; border-radius:3px; }
+    .more { display:block; margin:12px auto 0; padding:9px 18px; border:1px solid var(--accent); color:var(--accent); background:var(--accentbg); border-radius:9px; font:inherit; font-weight:700; }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Kanji in Context"></script>
@@ -25,7 +38,19 @@
 <body>
   <main>
     <h1>📖 Kanji in Context — Hán Việt</h1>
-    <p class="sub">Toàn bộ 9.279 mục: Hán Việt, từ tiếng Nhật, cách đọc và nghĩa tiếng Anh.</p>
+    <p class="sub">Toàn bộ bảng: Hán Việt, từ tiếng Nhật, cách đọc, nghĩa tiếng Anh, độ lú (âm Hán Việt dễ gây hiểu nhầm) và lý do.</p>
+    <div class="tools">
+      <input type="search" id="q" placeholder="Tìm: Hán Việt, từ, cách đọc, nghĩa, lý do…" aria-label="Tìm kiếm">
+      <select id="field" aria-label="Tìm trong cột">
+        <option value="all">Tìm trong mọi cột</option>
+        <option value="0">Chỉ cột Hán Việt</option>
+        <option value="1">Chỉ cột Từ</option>
+        <option value="3">Chỉ cột Nghĩa tiếng Anh</option>
+        <option value="5">Chỉ cột Vì sao lú</option>
+      </select>
+    </div>
+    <div class="chips" id="lu"></div>
+    <div class="chips" id="why"></div>
     <p id="status">Đang tải dữ liệu…</p>
     <div class="table-wrap">
       <table>
@@ -33,29 +58,69 @@
         <tbody id="rows"></tbody>
       </table>
     </div>
+    <button class="more" id="more" hidden>Xem thêm</button>
   </main>
   <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
   <script>
     (() => {
-      const rows = document.getElementById('rows');
-      const status = document.getElementById('status');
-      let data = [];
-      const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;', "'":'&#39;'}[char]));
-
-      function render() {
-        rows.innerHTML = data.map(item => `<tr>${item.map(cell => `<td>${escapeHtml(cell)}</td>`).join('')}</tr>`).join('');
-        status.textContent = `Đang hiển thị đầy đủ ${data.length.toLocaleString('vi-VN')} mục`;
+      const $ = id => document.getElementById(id);
+      const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      const PAGE = Infinity;   // show every row (no paging)
+      let data = [], list = [], shown = 0, lu = 'all', why = 'all';
+      const LU = [['all','Tất cả'],['3','3 · LÚ'],['2','2 · mơ hồ'],['none','Không lú']];
+      const WHY = [['all','Tất cả'],['has','Có giải thích'],['none','Chưa có giải thích']];
+      const luOf = r => String(r[4]).trim().charAt(0);   // "3 · LÚ" → "3"
+      function hl(text, q){
+        const s = esc(text); if (!q) return s;
+        const e = esc(q), i = s.toLowerCase().indexOf(e.toLowerCase());
+        return i < 0 ? s : s.slice(0,i) + '<mark>' + s.slice(i,i+e.length) + '</mark>' + s.slice(i+e.length);
       }
-
+      function chipRow(el, label, opts, cur, count){
+        el.innerHTML = `<span class="lbl">${label}</span>` + opts.map(([v,n]) =>
+          `<button class="chip${v===cur?' on':''}" data-v="${v}">${n} · ${count(v).toLocaleString('vi-VN')}</button>`).join('');
+      }
+      const matchLu = (r,v) => v==='all' || (v==='none' ? !luOf(r) : luOf(r)===v);
+      const matchWhy = (r,v) => v==='all' || (v==='has' ? !!String(r[5]).trim() : !String(r[5]).trim());
+      function chips(){
+        chipRow($('lu'), 'Độ lú:', LU, lu, v => data.filter(r => matchLu(r,v) && matchWhy(r,why)).length);
+        chipRow($('why'), 'Vì sao lú:', WHY, why, v => data.filter(r => matchLu(r,lu) && matchWhy(r,v)).length);
+      }
+      function apply(){
+        const q = $('q').value.trim(), ql = q.toLowerCase(), f = $('field').value;
+        list = data.filter(r => matchLu(r,lu) && matchWhy(r,why) &&
+          (!ql || (f==='all' ? r.some(c => String(c).toLowerCase().includes(ql)) : String(r[+f]).toLowerCase().includes(ql))));
+        shown = 0; $('rows').innerHTML = ''; more();
+        $('status').textContent = list.length === data.length
+          ? `Đang hiển thị đầy đủ ${data.length.toLocaleString('vi-VN')} mục`
+          : `${list.length.toLocaleString('vi-VN')} / ${data.length.toLocaleString('vi-VN')} mục`;
+        chips();
+      }
+      function more(){
+        const q = $('q').value.trim(), f = $('field').value;
+        const h = (c,i) => (f==='all' || +f===i) ? hl(c,q) : esc(c);
+        const part = list.slice(shown, shown + PAGE); shown += part.length;
+        $('rows').insertAdjacentHTML('beforeend', part.map(r => {
+          const l = luOf(r);
+          return `<tr><td class="hv">${h(r[0],0)}</td><td class="w">${h(r[1],1)}</td><td>${h(r[2],2)}</td><td>${h(r[3],3)}</td>` +
+                 `<td class="lu">${r[4] ? `<span class="l${l}">${esc(r[4])}</span>` : ''}</td><td class="why">${h(r[5],5)}</td></tr>`;
+        }).join(''));
+        $('more').hidden = shown >= list.length;
+        $('more').textContent = `Xem thêm (${(list.length - shown).toLocaleString('vi-VN')} mục còn lại)`;
+      }
+      $('lu').addEventListener('click', e => { const b = e.target.closest('.chip'); if (b){ lu = b.dataset.v; apply(); } });
+      $('why').addEventListener('click', e => { const b = e.target.closest('.chip'); if (b){ why = b.dataset.v; apply(); } });
+      $('more').addEventListener('click', more);
+      $('field').addEventListener('change', apply);
+      let t; $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(apply, 180); });
       fetch('../Kanji%20in%20Context%20%28Han%20Viet%29.xlsx')
-        .then(response => { if (!response.ok) throw new Error(response.status); return response.arrayBuffer(); })
-        .then(buffer => {
-          const workbook = XLSX.read(buffer, { type: 'array' });
-          const sheet = workbook.Sheets[workbook.SheetNames[0]];
-          data = XLSX.utils.sheet_to_json(sheet, { header: 1, defval: '' }).slice(1);
-          render();
+        .then(r => { if (!r.ok) throw new Error(r.status); return r.arrayBuffer(); })
+        .then(buf => {
+          const wb = XLSX.read(buf, { type:'array' });
+          const sh = wb.Sheets[wb.SheetNames[0]];
+          data = XLSX.utils.sheet_to_json(sh, { header:1, defval:'' }).slice(1).map(r => r.slice(0,6).map(c => String(c).trim()));
+          apply();
         })
-        .catch(() => { status.textContent = 'Không thể tải dữ liệu. Hãy tải lại trang rồi thử lại.'; });
+        .catch(() => { $('status').textContent = 'Không tải được dữ liệu. Hãy tải lại trang rồi thử lại.'; });
     })();
   </script>
 </body>
