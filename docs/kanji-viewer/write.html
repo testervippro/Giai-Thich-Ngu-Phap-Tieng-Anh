@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Luyện viết Kanji</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1080px; margin:auto; padding:4px 16px 40px; }
+    h1 { margin:0 0 8px; }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:10px; }
+    select, input[type=number], input[type=search] { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; }
+    .btn:hover { border-color:var(--accent); }
+    .btn.on, .btn.primary { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .layout { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+    @media (max-width:760px){ .layout { grid-template-columns:1fr; } }
+    .panel { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:12px; }
+    .panel h2 { font-size:13px; color:var(--muted); margin:0 0 8px; font-weight:600; display:flex; justify-content:space-between; align-items:center; gap:8px; }
+    .info { display:flex; gap:14px; align-items:center; margin-bottom:10px; }
+    .info .big { font-size:64px; line-height:1; font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
+    .info .hv { font-size:22px; font-weight:800; color:var(--accent); }
+    .info .m { font-size:16px; }
+    .info .tag { font-size:12.5px; color:var(--muted); }
+    .story { font-size:14px; color:var(--muted); margin:-2px 0 10px; }
+    .box { position:relative; width:100%; aspect-ratio:1/1; border-radius:12px; background:#fffdf8; overflow:hidden; touch-action:none; }
+    :root[data-theme="dark"] .box { background:#1d1a17; }
+    @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) .box { background:#1d1a17; } }
+    .box svg, .box canvas { position:absolute; inset:0; width:100%; height:100%; }
+    .grid line { stroke:#e2b5a8; stroke-width:.4; stroke-dasharray:2 2; }
+    .grid rect { fill:none; stroke:#d6a395; stroke-width:.8; }
+    .stroke { fill:none; stroke-linecap:round; stroke-linejoin:round; }
+    .num { font-size:7px; fill:#c2410c; font-family:system-ui,sans-serif; }
+    .hidden { display:none !important; }
+    .count { font-size:13.5px; color:var(--muted); margin-top:8px; display:flex; justify-content:space-between; gap:8px; flex-wrap:wrap; }
+    .count b { color:var(--ink); }
+    .ok { color:var(--good,#15803d) !important; } .warn { color:var(--bad,#b91c1c) !important; }
+    .tools { display:flex; gap:6px; flex-wrap:wrap; margin-top:8px; }
+    .note { color:var(--muted); font-size:12.5px; margin-top:14px; line-height:1.5; }
+    .quiz .big { visibility:hidden; }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Luyện viết Kanji"></script>
+</head>
+<body>
+<main>
+  <h1>✍️ Luyện viết Kanji</h1>
+  <div class="bar">
+    <select id="set" aria-label="Bộ chữ">
+      <option value="all">Tất cả 2.136 chữ</option>
+      <option value="p1">Tập 1 (thẻ 1–1050)</option>
+      <option value="p2">Tập 2 (thẻ 1051–2165)</option>
+      <option value="c1000">1000 chữ thông dụng</option>
+      <option value="N5">JLPT N5</option><option value="N4">JLPT N4</option><option value="N3">JLPT N3</option><option value="N2">JLPT N2</option><option value="N1">JLPT N1</option>
+    </select>
+    <button class="btn" id="prev" title="Chữ trước (←)">← Trước</button>
+    <span id="pos" style="font-size:13.5px;color:var(--muted)"></span>
+    <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
+    <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
+    <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
+  </div>
+
+  <div class="info" id="info">
+    <div class="big" id="kBig"></div>
+    <div><div class="hv" id="kHv"></div><div class="m" id="kM"></div><div class="tag" id="kTag"></div></div>
+  </div>
+  <div class="story" id="kStory"></div>
+
+  <div class="layout">
+    <section class="panel">
+      <h2><span>📖 Mẫu &amp; thứ tự nét</span><span id="sCount"></span></h2>
+      <div class="box" id="modelBox"><svg id="model" viewBox="0 0 109 109"></svg></div>
+      <div class="tools">
+        <button class="btn primary" id="play">▶ Xem cách viết</button>
+        <button class="btn" id="stepBtn">Từng nét ⏭</button>
+        <button class="btn on" id="numsBtn">Số thứ tự nét</button>
+      </div>
+    </section>
+    <section class="panel">
+      <h2><span>✍️ Ô luyện viết</span><span id="drawInfo"></span></h2>
+      <div class="box" id="padBox">
+        <svg id="padGrid" viewBox="0 0 109 109"></svg>
+        <svg id="ghost" viewBox="0 0 109 109"></svg>
+        <canvas id="pad"></canvas>
+      </div>
+      <div class="count"><span>Đã vẽ <b id="drawn">0</b> / <b id="total">0</b> nét</span><span id="verdict"></span></div>
+      <div class="tools">
+        <button class="btn on" id="ghostBtn">👻 Chữ mờ để tô</button>
+        <button class="btn" id="hintBtn">💡 Gợi ý nét tiếp</button>
+        <button class="btn" id="undo">↶ Xóa nét</button>
+        <button class="btn" id="clear">🗑 Xóa hết</button>
+        <button class="btn" id="check">✔ So với mẫu</button>
+        <button class="btn" id="quizBtn">🙈 Viết từ trí nhớ</button>
+      </div>
+    </section>
+  </div>
+  <p class="note">Phím tắt: <b>←/→</b> đổi chữ · <b>Space</b> xem cách viết · <b>Z</b> xóa nét · <b>C</b> xóa hết · <b>H</b> gợi ý nét.
+  Chế độ <b>Viết từ trí nhớ</b> ẩn chữ mẫu và chữ mờ, chỉ còn Hán Việt và nghĩa. Viết xong bấm <b>So với mẫu</b> để đối chiếu.
+  Dữ liệu nét chữ: <a href="https://kanjivg.tagaini.net" target="_blank" rel="noopener">KanjiVG</a> © Ulrich Apel, giấy phép <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC BY-SA 3.0</a>. Máy chỉ đếm số nét, không chấm điểm hình dạng nét.</p>
+</main>
+<script src="kanji-game-data.js"></script>
+<script>
+(() => {
+  "use strict";
+  const $ = id => document.getElementById(id);
+  const ALL = (window.KANJI || []).map(r => ({ n:r[0], k:r[1], hv:r[2], m:r[3], j:r[4], s:r[5] }));
+  const BYN = new Map(ALL.map(x => [x.n, x]));
+  const KVG = 'https://cdn.jsdelivr.net/gh/KanjiVG/kanjivg@r20260714/kanji/';
+  const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
+  const st = Object.assign({ set:'all', pos:{}, ghost:true, nums:true, quiz:false }, ls.get('kanjiWrite', {}));
+  const cache = new Map();
+  let list = [], i = 0, strokes = [], drawn = [], cur = null, timer = null, stepAt = 0;
+
+  function pool(){
+    if (st.set === 'p1') return ALL.filter(x => x.n <= 1050);
+    if (st.set === 'p2') return ALL.filter(x => x.n > 1050);
+    if (st.set === 'c1000') return (window.KANJI_C1000 || []).map(n => BYN.get(n)).filter(Boolean);
+    if (/^N\d$/.test(st.set)) return ALL.filter(x => x.j === st.set);
+    return ALL;
+  }
+  const save = () => { st.pos[st.set] = i; ls.set('kanjiWrite', st); };
+  const cap = s => s ? s.charAt(0).toUpperCase() + s.slice(1) : '';
+
+  // ---------- grid (田字格) ----------
+  function gridSvg(svg){
+    svg.innerHTML = '<g class="grid"><rect x="1" y="1" width="107" height="107" rx="4"/><line x1="54.5" y1="2" x2="54.5" y2="107"/><line x1="2" y1="54.5" x2="107" y2="54.5"/><line x1="2" y1="2" x2="107" y2="107"/><line x1="107" y1="2" x2="2" y2="107"/></g>';
+  }
+  gridSvg($('padGrid'));
+
+  // ---------- KanjiVG ----------
+  async function load(ch){
+    if (cache.has(ch)) return cache.get(ch);
+    const code = ch.codePointAt(0).toString(16).padStart(5, '0');
+    const p = fetch(KVG + code + '.svg').then(r => { if (!r.ok) throw new Error(r.status); return r.text(); }).then(txt => {
+      const doc = new DOMParser().parseFromString(txt.replace(/<!DOCTYPE[\s\S]*?]>/, ''), 'image/svg+xml');
+      const paths = [...doc.querySelectorAll('path')].map(p => p.getAttribute('d')).filter(Boolean);
+      const nums = [...doc.querySelectorAll('text')].map(t => ({ t:t.textContent, tr:t.getAttribute('transform') }));
+      return { paths, nums };
+    });
+    cache.set(ch, p);
+    p.catch(() => cache.delete(ch));
+    return p;
+  }
+
+  function drawModel(upto){
+    const svg = $('model'); gridSvg(svg);
+    const g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+    strokes.forEach((d, idx) => {
+      const p = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      p.setAttribute('d', d); p.setAttribute('class', 'stroke');
+      const done = upto == null || idx < upto;
+      p.setAttribute('stroke', done ? 'currentColor' : 'rgba(150,140,130,.25)');
+      p.setAttribute('stroke-width', '3.4');
+      g.appendChild(p);
+    });
+    svg.appendChild(g);
+    svg.style.color = 'var(--ink)';
+    if (st.nums) cur.nums.forEach(n => {
+      const t = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      t.textContent = n.t; t.setAttribute('class', 'num'); if (n.tr) t.setAttribute('transform', n.tr);
+      svg.appendChild(t);
+    });
+  }
+
+  function animate(){
+    clearInterval(timer);
+    const svg = $('model'); gridSvg(svg);
+    const g = document.createElementNS('http://www.w3.org/2000/svg', 'g'); svg.appendChild(g);
+    let k = 0;
+    const next = () => {
+      if (k >= strokes.length){ drawModel(); return; }
+      const p = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      p.setAttribute('d', strokes[k]); p.setAttribute('class', 'stroke'); p.setAttribute('stroke', k === strokes.length-1 ? 'currentColor' : 'currentColor'); p.setAttribute('stroke-width', '3.4');
+      g.appendChild(p);
+      const L = p.getTotalLength();
+      p.style.strokeDasharray = L; p.style.strokeDashoffset = L;
+      p.getBoundingClientRect();
+      p.style.transition = `stroke-dashoffset ${Math.max(.25, L/120)}s linear`;
+      p.style.strokeDashoffset = 0;
+      k++;
+      timer = setTimeout(next, Math.max(300, L/120*1000) + 120);
+    };
+    svg.style.color = 'var(--accent)';
+    next();
+  }
+
+  // ---------- ghost / hint ----------
+  function drawGhost(hintIdx){
+    const svg = $('ghost'); svg.innerHTML = '';
+    const showAll = st.ghost && !st.quiz;
+    strokes.forEach((d, idx) => {
+      if (!showAll && idx !== hintIdx) return;
+      const p = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      p.setAttribute('d', d); p.setAttribute('class', 'stroke');
+      p.setAttribute('stroke', idx === hintIdx ? 'rgba(4,120,87,.55)' : 'rgba(150,140,130,.22)');
+      p.setAttribute('stroke-width', idx === hintIdx ? '5' : '4.2');
+      svg.appendChild(p);
+    });
+  }
+
+  // ---------- drawing pad ----------
+  const cv = $('pad'), ctx = cv.getContext('2d');
+  function fit(){
+    const r = cv.getBoundingClientRect(), d = window.devicePixelRatio || 1;
+    cv.width = Math.round(r.width * d); cv.height = Math.round(r.height * d);
+    redraw();
+  }
+  function redraw(){
+    ctx.clearRect(0, 0, cv.width, cv.height);
+    const w = cv.width, lw = w * 0.035;
+    ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+    ctx.strokeStyle = getComputedStyle(document.documentElement).getPropertyValue('--ui-ink').trim() || '#1c1917';
+    drawn.forEach(s => { ctx.lineWidth = lw; ctx.beginPath(); s.forEach((pt, k) => k ? ctx.lineTo(pt[0]*w, pt[1]*w) : ctx.moveTo(pt[0]*w, pt[1]*w)); if (s.length === 1) ctx.lineTo(s[0][0]*w+.1, s[0][1]*w); ctx.stroke(); });
+    $('drawn').textContent = drawn.length;
+    const total = strokes.length, v = $('verdict');
+    v.className = ''; v.textContent = '';
+    if (drawn.length && drawn.length === total){ v.textContent = '✓ Đủ số nét'; v.className = 'ok'; }
+    else if (drawn.length > total){ v.textContent = `Thừa ${drawn.length-total} nét`; v.className = 'warn'; }
+  }
+  const ptOf = e => { const r = cv.getBoundingClientRect(); return [(e.clientX - r.left)/r.width, (e.clientY - r.top)/r.height]; };
+  cv.addEventListener('pointerdown', e => { e.preventDefault(); cv.setPointerCapture(e.pointerId); drawn.push([ptOf(e)]); redraw(); });
+  cv.addEventListener('pointermove', e => { if (!cv.hasPointerCapture(e.pointerId)) return; drawn[drawn.length-1].push(ptOf(e)); redraw(); });
+  const up = e => { if (cv.hasPointerCapture && cv.hasPointerCapture(e.pointerId)) cv.releasePointerCapture(e.pointerId); if (hintOn) drawGhost(drawn.length < strokes.length ? drawn.length : -1); };
+  cv.addEventListener('pointerup', up); cv.addEventListener('pointercancel', up);
+  window.addEventListener('resize', fit);
+
+  let hintOn = false;
+  function setHint(on){ hintOn = on; $('hintBtn').classList.toggle('on', on); drawGhost(on ? Math.min(drawn.length, strokes.length-1) : -1); }
+
+  // ---------- show a kanji ----------
+  async function show(){
+    clearInterval(timer); clearTimeout(timer);
+    list = pool();
+    if (!list.length) return;
+    i = Math.max(0, Math.min(i, list.length - 1));
+    const x = list[i];
+    $('kBig').textContent = x.k; $('kHv').textContent = x.hv; $('kM').textContent = cap(x.m);
+    $('kTag').textContent = `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`;
+    $('kStory').textContent = x.s ? '📖 ' + x.s : '';
+    $('pos').textContent = `${i + 1} / ${list.length}`;
+    document.body.classList.toggle('quiz', st.quiz);
+    $('modelBox').classList.toggle('hidden', st.quiz);
+    drawn = []; stepAt = 0; setHint(false);
+    $('model').innerHTML = ''; $('ghost').innerHTML = '';
+    $('sCount').textContent = 'Đang tải nét…'; $('total').textContent = '…';
+    save();
+    try {
+      cur = await load(x.k);
+      if (list[i] !== x) return;          // user moved on meanwhile
+      strokes = cur.paths;
+      $('sCount').textContent = `${strokes.length} nét`; $('total').textContent = strokes.length;
+      drawModel(); drawGhost(-1); fit();
+      // prefetch neighbours
+      [list[i+1], list[i-1]].forEach(y => y && load(y.k).catch(() => {}));
+    } catch (e) {
+      strokes = []; cur = { paths:[], nums:[] };
+      $('sCount').textContent = 'Không tải được nét chữ (kiểm tra mạng)'; $('total').textContent = '?'; fit();
+    }
+  }
+  const go = d => { i = (i + d + list.length) % list.length; show(); };
+
+  // ---------- controls ----------
+  $('set').value = st.set;
+  $('set').onchange = e => { st.set = e.target.value; i = st.pos[st.set] || 0; show(); };
+  $('prev').onclick = () => go(-1); $('next').onclick = () => go(1);
+  $('rand').onclick = () => { i = Math.floor(Math.random() * list.length); show(); };
+  $('play').onclick = animate;
+  $('stepBtn').onclick = () => { stepAt = stepAt >= strokes.length ? 1 : stepAt + 1; drawModel(stepAt); $('sCount').textContent = `Nét ${stepAt} / ${strokes.length}`; };
+  $('numsBtn').onclick = () => { st.nums = !st.nums; $('numsBtn').classList.toggle('on', st.nums); drawModel(); save(); };
+  $('ghostBtn').onclick = () => { st.ghost = !st.ghost; $('ghostBtn').classList.toggle('on', st.ghost); drawGhost(hintOn ? drawn.length : -1); save(); };
+  $('hintBtn').onclick = () => setHint(!hintOn);
+  $('undo').onclick = () => { drawn.pop(); redraw(); if (hintOn) drawGhost(drawn.length); };
+  $('clear').onclick = () => { drawn = []; redraw(); if (hintOn) drawGhost(0); };
+  $('check').onclick = () => {
+    const svg = $('ghost'); svg.innerHTML = '';
+    strokes.forEach(d => { const p = document.createElementNS('http://www.w3.org/2000/svg', 'path'); p.setAttribute('d', d); p.setAttribute('class', 'stroke'); p.setAttribute('stroke', 'rgba(194,65,12,.45)'); p.setAttribute('stroke-width', '4'); svg.appendChild(p); });
+    if (st.quiz){ document.body.classList.remove('quiz'); $('modelBox').classList.remove('hidden'); drawModel(); }
+  };
+  $('quizBtn').onclick = () => { st.quiz = !st.quiz; $('quizBtn').classList.toggle('on', st.quiz); show(); };
+  $('find').addEventListener('change', e => {
+    const q = e.target.value.trim().toLowerCase(); if (!q) return;
+    let idx = list.findIndex(x => x.k === q || String(x.n) === q || x.hv.toLowerCase() === q);
+    if (idx < 0) idx = list.findIndex(x => x.hv.toLowerCase().includes(q) || x.m.toLowerCase().includes(q));
+    if (idx < 0 && st.set !== 'all'){ st.set = 'all'; $('set').value = 'all'; list = pool(); idx = list.findIndex(x => x.k === q || String(x.n) === q || x.hv.toLowerCase().includes(q)); }
+    if (idx >= 0){ i = idx; show(); } else e.target.value = '';
+  });
+  document.addEventListener('keydown', e => {
+    if (e.target.matches('input, select')) return;
+    if (e.key === 'ArrowRight') go(1); else if (e.key === 'ArrowLeft') go(-1);
+    else if (e.key === ' '){ e.preventDefault(); animate(); }
+    else if (e.key === 'z' || e.key === 'Z'){ drawn.pop(); redraw(); }
+    else if (e.key === 'c' || e.key === 'C'){ drawn = []; redraw(); }
+    else if (e.key === 'h' || e.key === 'H') setHint(!hintOn);
+  });
+  window.addEventListener('ui-theme-change', () => { redraw(); });
+  $('numsBtn').classList.toggle('on', st.nums); $('ghostBtn').classList.toggle('on', st.ghost); $('quizBtn').classList.toggle('on', st.quiz);
+  i = st.pos[st.set] || 0;
+  // deep link: write.html#泣 or #104
+  const h = decodeURIComponent(location.hash.slice(1));
+  if (h){ const L = pool(); const k = L.findIndex(x => x.k === h || String(x.n) === h); if (k >= 0) i = k; }
+  show();
+})();
+</script>
+</body>
+</html>
