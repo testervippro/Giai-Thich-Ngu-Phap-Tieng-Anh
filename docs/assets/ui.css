@@ -1,0 +1,85 @@
+/* ==========================================================================
+   Shared UI for every tool page in this site (one design system).
+   Load AFTER the page's own <style>. Selectors use :root:root:root so these
+   tokens win over each page's local :root / dark-mode rules.
+   ========================================================================== */
+
+/* ---- 1. Design tokens (light) ---------------------------------------- */
+:root:root:root{
+  --ui-bg:#faf9f7;         /* page background (warm stone) */
+  --ui-surface:#ffffff;    /* cards, panels */
+  --ui-ink:#1c1917;        /* main text */
+  --ui-dim:#6b6560;        /* secondary text (AA on bg) */
+  --ui-line:#e7e5e4;       /* borders */
+  --ui-accent:#047857;     /* brand: emerald 700 (same as site + PWA) */
+  --ui-accent-soft:#ecfdf5;
+  --ui-on-accent:#ffffff;
+  --ui-ok:#15803d; --ui-ok-soft:#dcfce7;
+  --ui-bad:#b91c1c; --ui-bad-soft:#fee2e2;
+  --ui-radius:12px;
+  --ui-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --ui-font-cjk:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP","Noto Serif SC",serif;
+
+}
+/* Map each page's local variable names onto the shared tokens
+   (skip pages that keep their own palette, e.g. the 3D game). */
+:root:root:root:not(.ui-own-palette){
+  /* aliases used by the existing pages (stone family: kanji / hsk / jp2000) */
+  --bg:var(--ui-bg); --card:var(--ui-surface); --ink:var(--ui-ink);
+  --dim:var(--ui-dim); --muted:var(--ui-dim); --line:var(--ui-line);
+  --accent:var(--ui-accent); --accentbg:var(--ui-accent-soft);
+  --good:var(--ui-ok); --goodbg:var(--ui-ok-soft); --ok:var(--ui-ok); --okbg:var(--ui-ok-soft);
+  --bad:var(--ui-bad); --badbg:var(--ui-bad-soft);
+  /* aliases for the word-families pages */
+  --panel:var(--ui-surface); --text:var(--ui-ink); --border:var(--ui-line); --chip:var(--ui-accent-soft);
+}
+
+/* ---- 2. Dark tokens: follow the OS unless the user picked a theme ---- */
+@media (prefers-color-scheme:dark){
+  :root:root:root:not([data-theme="light"]):not([data-t="light"]){
+    --ui-bg:#161412; --ui-surface:#221f1c; --ui-ink:#f5f5f4; --ui-dim:#a8a29e; --ui-line:#3a3532;
+    --ui-accent:#34d399; --ui-accent-soft:#0f2a22; --ui-on-accent:#06281e;
+    --ui-ok:#4ade80; --ui-ok-soft:#0f2a1a; --ui-bad:#f87171; --ui-bad-soft:#3a1717;
+  }
+}
+:root:root:root[data-theme="dark"], :root:root:root[data-t="dark"]{
+  --ui-bg:#161412; --ui-surface:#221f1c; --ui-ink:#f5f5f4; --ui-dim:#a8a29e; --ui-line:#3a3532;
+  --ui-accent:#34d399; --ui-accent-soft:#0f2a22; --ui-on-accent:#06281e;
+  --ui-ok:#4ade80; --ui-ok-soft:#0f2a1a; --ui-bad:#f87171; --ui-bad-soft:#3a1717;
+}
+
+/* ---- 3. Base ---------------------------------------------------------- */
+html{background:var(--ui-bg)}
+body{font-family:var(--ui-font)}
+::selection{background:var(--ui-accent-soft);color:var(--ui-ink)}
+a{color:var(--ui-accent)}
+:focus-visible{outline:2px solid var(--ui-accent);outline-offset:2px}
+button,select,input,label{font-family:inherit}
+button:not(:disabled),select,[role="button"]{cursor:pointer}
+
+/* ---- 4. App bar (inserted by ui.js on every tool page) ---------------- */
+.ui-bar{
+  position:sticky;top:0;z-index:50;
+  display:flex;align-items:center;gap:8px;
+  margin:0 0 12px;padding:8px 12px;
+  background:color-mix(in srgb,var(--ui-bg) 88%,transparent);
+  -webkit-backdrop-filter:saturate(1.4) blur(8px);backdrop-filter:saturate(1.4) blur(8px);
+  border-bottom:1px solid var(--ui-line);
+  font:500 13.5px/1.2 var(--ui-font);color:var(--ui-ink);
+  width:100%;box-sizing:border-box;
+}
+.ui-bar a,.ui-bar button{
+  display:inline-flex;align-items:center;gap:6px;min-height:34px;
+  padding:6px 11px;border:1px solid var(--ui-line);border-radius:9px;
+  background:var(--ui-surface);color:var(--ui-ink);text-decoration:none;font:inherit;
+}
+.ui-bar a:hover,.ui-bar button:hover{border-color:var(--ui-accent);color:var(--ui-accent)}
+.ui-bar .ui-crumb{flex:1;min-width:0;color:var(--ui-dim);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ui-bar .ui-crumb b{color:var(--ui-ink);font-weight:650}
+@media (max-width:480px){ .ui-bar .ui-home-label{display:none} }
+/* pages whose own layout is a full-width column: let the bar span edge to edge */
+body.ui-has-bar{margin-top:0}
+
+/* ---- 5. Consistent page heading + native controls ------------------- */
+body.ui-has-bar h1{font-size:20px;font-weight:700;letter-spacing:-.01em;color:var(--ui-ink)}
+input[type="range"],input[type="checkbox"],input[type="radio"],progress{accent-color:var(--ui-accent)}

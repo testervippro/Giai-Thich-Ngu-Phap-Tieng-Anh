@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="vi">
+<html lang="vi" class="ui-own-palette">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Thế Giới Từ Vựng 3D</title>
+<title>Game 3D từ vựng</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -142,6 +142,8 @@ footer.note{margin-top:16px; font-size:12px; color:var(--text-dim); line-height:
 .toast{position:fixed; left:50%; bottom:24px; transform:translateX(-50%); background:var(--text); color:var(--bg); padding:10px 16px; border-radius:12px; font-weight:600; font-size:14px; z-index:60; opacity:0; transition:opacity .25s; pointer-events:none}
 .toast.show{opacity:1}
 </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Từ vựng tiếng Anh" data-title="Game 3D từ vựng"></script>
 </head>
 <body>
 <div class="wrap">
@@ -263,9 +265,9 @@ try{ prefs = JSON.parse(localStorage.getItem('dk3d_prefs')||'{}')||{}; }catch(e)
 function savePrefs(){ try{ localStorage.setItem('dk3d_prefs', JSON.stringify(prefs)); }catch(e){} }
 
 /* ---------- theme ---------- */
-function applyTheme(){ if(prefs.theme) document.documentElement.setAttribute('data-theme', prefs.theme); else document.documentElement.removeAttribute('data-theme'); }
-applyTheme();
-$('themeBtn').onclick=()=>{ const dark = getComputedStyle(document.documentElement).getPropertyValue('--bg').trim()==='#0f1a18'; prefs.theme = dark?'light':'dark'; savePrefs(); applyTheme(); recolorScene(); };
+// theme: shared with the whole site via the app bar (../assets/ui.js, key "uiTheme")
+$('themeBtn').style.display='none';
+window.addEventListener('ui-theme-change', ()=>recolorScene());
 const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 
 /* ---------- speech ---------- */

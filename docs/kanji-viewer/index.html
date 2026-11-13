@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Xem ảnh kanji_p1 / kanji_p2</title>
+<title>Xem thẻ Kanji</title>
 <style>
 :root{
   --bg:#faf9f7; --card:#fff; --ink:#1c1917; --dim:#78716c; --line:#e7e5e4;
@@ -45,10 +45,12 @@ img{max-width:100%;max-height:70vh;border-radius:8px;background:#fff;
 </style>
 <script src="https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js"></script>
 <script src="kanji-game-data.js"></script>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Xem thẻ Kanji"></script>
 </head>
 <body>
 <div class="wrap">
-  <h1>Kanji thẻ — kanji_p1 / kanji_p2 / JLPT</h1>
+  <h1>🃏 Xem thẻ Kanji</h1>
   <a href="game.html" style="display:block;text-align:center;margin:-4px 0 12px;padding:10px;border:1px solid var(--accent);border-radius:9px;background:var(--accentbg);color:var(--accent);font-weight:700;text-decoration:none">🎮 Chơi game Kanji (trắc nghiệm, ghép cặp, sinh tồn)</a>
   <select id="setSelect" class="setselect">
     <option value="p1">Tập 1</option>

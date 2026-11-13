@@ -132,6 +132,8 @@ select,input[type=number]{font:inherit;color:inherit;background:var(--bg);border
   .tile{font-size:12.5px}
 }
 </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Kanji Game"></script>
 </head>
 <body>
 <div class="wrap">
@@ -141,7 +143,6 @@ select,input[type=number]{font:inherit;color:inherit;background:var(--bg);border
   <header>
     <h1>🀄 Kanji Game — 2.136 chữ</h1>
     <a href="index.html">🃏 Xem thẻ</a>
-    <button class="iconbtn" id="themeBtn" title="Đổi giao diện sáng/tối">◐</button>
   </header>
 
   <div class="panel">
@@ -265,15 +266,7 @@ function save(){lsSet(SKEY,ST);}
 const viewerKnown=()=>lsGet("kanjiViewerKnown",{});
 const viewerStar=()=>lsGet("kanjiViewerStarred",{});
 
-// ---------- theme ----------
-const theme=lsGet("kanjiGameTheme",null);
-if(theme) document.documentElement.setAttribute("data-theme",theme);
-$("themeBtn").onclick=()=>{
-  const cur=document.documentElement.getAttribute("data-theme")||
-    (matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");
-  const nx=cur==="dark"?"light":"dark";
-  document.documentElement.setAttribute("data-theme",nx);lsSet("kanjiGameTheme",nx);
-};
+// theme: handled by the shared app bar (../assets/ui.js)
 
 // ---------- helpers ----------
 const rnd=n=>Math.floor(Math.random()*n);
