@@ -127,6 +127,7 @@
 - [📊 Bảng tham khảo: 2136 Kanji — xem trên web](kanji-2136/index.html)
 - [🖼️ Poster 2136 Kanji (xem trên web, in A0, hình nền)](kanji-poster/index.html)
 - [📖 Kanji in Context (Hán Việt) — xem trên web](kanji-in-context/index.html)
+  - [🧠 Mẹo nhớ từ Hán Việt dễ lú (5 kiểu + phương pháp khoa học)](kanji-meo-nho.md)
 
 ---
 
