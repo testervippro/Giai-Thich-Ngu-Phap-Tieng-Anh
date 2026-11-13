@@ -4,3 +4,4 @@
 # Files that GitHub Pages must serve directly (LFS objects are not served by Pages)
 docs/hsk-audio/*.mp3 !filter !diff !merge binary
 docs/HSK1-6*.xlsx !filter !diff !merge binary
+docs/jp2000-audio/*.mp3 !filter !diff !merge binary
