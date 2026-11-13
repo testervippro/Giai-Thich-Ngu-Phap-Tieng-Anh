@@ -117,6 +117,18 @@ body::before {
   <div id="app">Loading...</div>
 
   <script>
+    // Old/shared links like #/jlpt-vocab/index.html: open the real tool page
+    // instead of letting docsify load the HTML file as markdown.
+    (function(){
+      function go(){
+        var m = location.hash.match(/^#\/(.+?\.html)(\?.*)?$/);
+        if (m) location.replace(m[1]);
+      }
+      go(); window.addEventListener('hashchange', go);
+    })();
+  </script>
+
+  <script>
     window.$docsify = {
       name: '📚Giải thích ngữ pháp tiếng anh',
       repo: '',
@@ -126,7 +138,7 @@ body::before {
       auto2top: true,
       // Link tới công cụ HTML / file tham khảo .xlsx: điều hướng thẳng,
       // không cho router SPA của docsify nuốt vào rồi tải như markdown.
-      noCompileLinks: ['tools/.*', 'kanji-viewer/.*', 'kanji-in-context/.*', 'jp2000-full/.*', '.*\\.xlsx$']
+      noCompileLinks: ['.*\\.html(\\?.*)?$', '.*\\.xlsx$', '.*\\.mp3$']
     }
   </script>
 
