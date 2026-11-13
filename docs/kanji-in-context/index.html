@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kanji in Context — Hán Việt</title>
+  <style>
+    :root { color-scheme: light dark; --bg:#faf7f2; --card:#fff; --ink:#1c1917; --muted:#78716c; --line:#e7e2da; --accent:#b45309; }
+    @media (prefers-color-scheme: dark) { :root { --bg:#171412; --card:#24201d; --ink:#f5f5f4; --muted:#a8a29e; --line:#3b3531; --accent:#fbbf24; } }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1120px; margin:auto; padding:22px 16px 48px; }
+    h1 { margin:0; font-size:24px; }
+    .sub, #status { color:var(--muted); margin:5px 0 16px; }
+    input { width:100%; padding:11px 13px; border:1px solid var(--line); border-radius:10px; color:var(--ink); background:var(--card); font:inherit; }
+    .table-wrap { margin-top:14px; overflow:auto; border:1px solid var(--line); border-radius:10px; background:var(--card); }
+    table { width:100%; min-width:760px; border-collapse:collapse; }
+    th, td { padding:9px 11px; text-align:left; vertical-align:top; border-bottom:1px solid var(--line); }
+    th { position:sticky; top:0; background:var(--card); color:var(--muted); font-size:13px; }
+    td:nth-child(2) { font-size:20px; font-family:"Hiragino Mincho ProN","Yu Mincho",serif; white-space:nowrap; }
+    tr:last-child td { border-bottom:0; }
+    .more { display:block; margin:16px auto 0; padding:9px 17px; border:1px solid var(--accent); border-radius:9px; background:transparent; color:var(--accent); font:inherit; font-weight:700; cursor:pointer; }
+    .more[hidden] { display:none; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>📖 Kanji in Context — Hán Việt</h1>
+    <p class="sub">Tra cứu trực tiếp 9.279 mục: Hán Việt, từ tiếng Nhật, cách đọc và nghĩa tiếng Anh.</p>
+    <input id="query" type="search" placeholder="Tìm Hán Việt, Kanji, cách đọc hoặc nghĩa tiếng Anh…" autocomplete="off">
+    <p id="status">Đang tải dữ liệu…</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Hán Việt</th><th>Từ</th><th>Cách đọc</th><th>Nghĩa tiếng Anh</th><th>Độ lú</th><th>Vì sao lú</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <button id="more" class="more" hidden>Xem thêm</button>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  <script>
+    (() => {
+      const pageSize = 150;
+      const query = document.getElementById('query');
+      const rows = document.getElementById('rows');
+      const status = document.getElementById('status');
+      const more = document.getElementById('more');
+      let data = [], filtered = [], shown = 0;
+      const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;', "'":'&#39;'}[char]));
+
+      function render(reset = false) {
+        if (reset) { shown = 0; rows.innerHTML = ''; }
+        const part = filtered.slice(shown, shown + pageSize);
+        shown += part.length;
+        rows.insertAdjacentHTML('beforeend', part.map(item => `<tr>${item.map(cell => `<td>${escapeHtml(cell)}</td>`).join('')}</tr>`).join(''));
+        status.textContent = `${filtered.length.toLocaleString('vi-VN')} mục${filtered.length !== data.length ? ' khớp với tìm kiếm' : ''}`;
+        more.hidden = shown >= filtered.length;
+      }
+
+      function search() {
+        const term = query.value.trim().toLocaleLowerCase();
+        filtered = term ? data.filter(item => item.join(' ').toLocaleLowerCase().includes(term)) : data;
+        render(true);
+      }
+
+      more.addEventListener('click', () => render());
+      let timer;
+      query.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(search, 160); });
+
+      fetch('../Kanji%20in%20Context%20%28Han%20Viet%29.xlsx')
+        .then(response => { if (!response.ok) throw new Error(response.status); return response.arrayBuffer(); })
+        .then(buffer => {
+          const workbook = XLSX.read(buffer, { type: 'array' });
+          const sheet = workbook.Sheets[workbook.SheetNames[0]];
+          data = XLSX.utils.sheet_to_json(sheet, { header: 1, defval: '' }).slice(1);
+          filtered = data;
+          render(true);
+        })
+        .catch(() => { status.textContent = 'Không thể tải dữ liệu. Hãy tải lại trang rồi thử lại.'; });
+    })();
+  </script>
+</body>
+</html>

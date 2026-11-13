@@ -123,7 +123,7 @@
 - [🎮 Game Kanji: 2.136 chữ (Hán Việt, nghĩa, câu chuyện, ghép cặp)](kanji-viewer/game.html)
 - [🗣️ 2000 từ tiếng Nhật đầy đủ (kèm ví dụ)](jp2000-full/index.html)
 - [📊 Bảng tham khảo: 2136 Kanji](kanji-2136.xlsx)
-- [📊 Bảng tham khảo: Kanji in Context (Hán Việt)](Kanji%20in%20Context%20%28Han%20Viet%29.xlsx)
+- [📖 Kanji in Context (Hán Việt) — xem trên web](kanji-in-context/index.html)
 
 ---
 
