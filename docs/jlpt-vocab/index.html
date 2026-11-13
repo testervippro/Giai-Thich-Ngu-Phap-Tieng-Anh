@@ -29,6 +29,7 @@
     td.hv { font-weight:700; }
     td.note { color:var(--muted); font-size:13px; }
     tr:last-child td { border-bottom:0; }
+    table.nohv th:nth-child(4), table.nohv td:nth-child(4) { display:none; }
     mark { background:var(--accentbg); color:inherit; border-radius:3px; }
     .wlist { margin-top:10px; display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:8px; }
     .wi { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:8px 10px; }
@@ -96,6 +97,8 @@
         try { localStorage.setItem('jlptVocabFilter', JSON.stringify({set, scr, view})); } catch(e) {}
         $('vTable').classList.toggle('on', view==='table'); $('vList').classList.toggle('on', view==='list');
         $('twrap').hidden = view!=='table'; $('wlist').hidden = view!=='list';
+        // Words without Kanji have no Hán Việt reading: hide that column for kana-only filters.
+        $('twrap').querySelector('table').classList.toggle('nohv', scr==='kana' || scr==='h' || scr==='c');
         chipRow($('sets'), 'Bộ:', SETS, set, v => data.filter(r => inSet(r,v) && inScr(r,scr)).length);
         chipRow($('scripts'), 'Chữ viết:', SCR, scr, v => data.filter(r => inSet(r,set) && inScr(r,v)).length);
         const q = $('q').value.trim(), ql = q.toLowerCase();
