@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Poster 2136 Kanji</title>
+  <style>
+    :root { color-scheme: light dark; --cell: 92px;
+      --n5:#047857; --n4:#1d4ed8; --n3:#b45309; --n2:#c2410c; --n1:#1c1917; --nx:#78716c; }
+    @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){ --n5:#34d399; --n4:#60a5fa; --n3:#facc15; --n2:#fb923c; --n1:#f5f5f4; --nx:#a8a29e; } }
+    :root[data-theme="dark"]{ --n5:#34d399; --n4:#60a5fa; --n3:#facc15; --n2:#fb923c; --n1:#f5f5f4; --nx:#a8a29e; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { padding:6px 16px 40px; }
+    h1 { margin:0 0 4px; }
+    .sub { color:var(--muted); margin:0 0 10px; }
+    .tools { display:flex; gap:10px; flex-wrap:wrap; align-items:center; position:sticky; top:52px; z-index:5; background:var(--bg); padding:8px 0; }
+    .tools input[type=search] { flex:1; min-width:200px; padding:8px 11px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; }
+    .chip { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:999px; padding:6px 11px; font:inherit; font-size:13px; }
+    .chip.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .chip i { display:inline-block; width:10px; height:10px; border-radius:2px; margin-right:5px; vertical-align:middle; }
+    label.sz { display:flex; align-items:center; gap:6px; font-size:13px; color:var(--muted); }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:7px 12px; font:inherit; font-size:13.5px; }
+    .btn.primary { background:var(--accent); border-color:var(--accent); color:var(--ui-on-accent,#fff); font-weight:700; }
+    #status { color:var(--muted); font-size:13px; margin:2px 0 8px; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(var(--cell), 1fr)); gap:3px; }
+    .c { position:relative; background:var(--card); border:1px solid var(--line); border-radius:6px; padding:calc(var(--cell)*.04) 3px calc(var(--cell)*.05);
+         text-align:center; min-width:0; overflow:hidden; }
+    .c .n { position:absolute; top:2px; left:4px; font-size:calc(var(--cell)*.11); color:var(--muted); }
+    .c .k { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-weight:600; font-size:calc(var(--cell)*.52); line-height:1.15; margin-top:calc(var(--cell)*.06); }
+    .c .hv { font-weight:800; font-size:calc(var(--cell)*.13); color:var(--accent); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; letter-spacing:.01em; }
+    .c .m { font-size:calc(var(--cell)*.115); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .c.N5 .k{color:var(--n5)} .c.N4 .k{color:var(--n4)} .c.N3 .k{color:var(--n3)} .c.N2 .k{color:var(--n2)} .c.N1 .k{color:var(--n1)} .c.x .k{color:var(--nx)}
+    .c mark { background:var(--accentbg); color:inherit; }
+    body.no-n .c .n, body.no-hv .c .hv, body.no-m .c .m { display:none; }
+    .dl { margin-top:14px; color:var(--muted); font-size:13.5px; }
+    /* ---- print: one sheet, white, compact ---- */
+    @media print {
+      @page { size: A0 portrait; margin: 10mm; }
+      .ui-bar, .tools, .sub, #status, .dl, h1 .noprint { display:none !important; }
+      :root, body { background:#fff !important; color:#1c1917 !important; }
+      main { padding:0; }
+      .grid { grid-template-columns:repeat(37, 1fr); gap:0; }
+      .c { border-color:#d6d3d1; border-radius:0; background:#fff; --cell: 22mm; padding:1mm 1px; break-inside:avoid; }
+      .c .n { color:#78716c; } .c .hv { color:#047857; } .c .m { color:#1c1917; }
+      .c.N5 .k{color:#047857} .c.N4 .k{color:#1d4ed8} .c.N3 .k{color:#b45309} .c.N2 .k{color:#c2410c} .c.N1 .k{color:#1c1917} .c.x .k{color:#78716c}
+    }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Poster 2136 Kanji"></script>
+</head>
+<body>
+  <main>
+    <h1>🖼️ Poster 2136 Kanji</h1>
+    <p class="sub">Toàn bộ chữ trên một trang: số thẻ (STT), chữ Kanji tô màu theo cấp JLPT, âm Hán Việt và nghĩa. Kéo thanh <b>Cỡ chữ</b> để phóng to, thu nhỏ. Bấm <b>In poster</b> để in khổ A0 từ trình duyệt.</p>
+    <div class="tools">
+      <input type="search" id="q" placeholder="Tìm: chữ, Hán Việt, nghĩa, số thẻ…" aria-label="Tìm kiếm">
+      <span id="lv"></span>
+      <label class="sz">Cỡ chữ <input type="range" id="sz" min="56" max="200" step="4" value="92"></label>
+      <button class="chip" id="tN" title="Hiện/ẩn số thẻ">STT</button>
+      <button class="chip" id="tHV" title="Hiện/ẩn Hán Việt">Hán Việt</button>
+      <button class="chip" id="tM" title="Hiện/ẩn nghĩa">Nghĩa</button>
+      <button class="btn primary" id="print">🖨 In poster</button>
+    </div>
+    <div id="status">Đang tải…</div>
+    <div class="grid" id="grid"></div>
+    <p class="dl">Tải file in sẵn: <a href="poster-2136-kanji-A0.pdf" download>⬇ PDF khổ A0</a> · <a href="poster-2136-kanji-A0.jpg" download>⬇ JPG 9933×14043</a> · Hình nền: <a href="wallpaper-1-mac-16x10.jpg" download>⬇ thẻ 1–1081 (16:10)</a> · <a href="wallpaper-2-16x9.jpg" download>⬇ thẻ 1082–2165 (16:9)</a></p>
+  </main>
+  <script src="../kanji-viewer/kanji-game-data.js"></script>
+  <script>
+    (() => {
+      const $ = id => document.getElementById(id);
+      const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      const data = (window.KANJI || []).map(r => ({n:r[0], k:r[1], hv:r[2], m:r[3], j:r[4]}));
+      const LV = [['all','Tất cả',''],['N5','N5','var(--n5)'],['N4','N4','var(--n4)'],['N3','N3','var(--n3)'],['N2','N2','var(--n2)'],['N1','N1','var(--n1)'],['x','Chưa xếp cấp','var(--nx)']];
+      const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
+      const st = Object.assign({ lv:'all', sz:92, n:true, hv:true, m:true }, ls.get('kanjiPoster', {}));
+      const cap = s => s ? s.charAt(0).toUpperCase() + s.slice(1) : '';
+      function hl(t, q){ const s = esc(t); if (!q) return s; const e = esc(q), i = s.toLowerCase().indexOf(e.toLowerCase());
+        return i < 0 ? s : s.slice(0,i) + '<mark>' + s.slice(i,i+e.length) + '</mark>' + s.slice(i+e.length); }
+      function apply(){
+        ls.set('kanjiPoster', st);
+        document.documentElement.style.setProperty('--cell', st.sz + 'px'); $('sz').value = st.sz;
+        document.body.classList.toggle('no-n', !st.n); document.body.classList.toggle('no-hv', !st.hv); document.body.classList.toggle('no-m', !st.m);
+        $('tN').classList.toggle('on', st.n); $('tHV').classList.toggle('on', st.hv); $('tM').classList.toggle('on', st.m);
+        $('lv').innerHTML = LV.map(([v,lab,c]) => {
+          const cnt = v==='all' ? data.length : data.filter(r => v==='x' ? !r.j : r.j===v).length;
+          return `<button class="chip${v===st.lv?' on':''}" data-v="${v}">${c?`<i style="background:${c}"></i>`:''}${lab} · ${cnt.toLocaleString('vi-VN')}</button>`;
+        }).join(' ');
+        const q = $('q').value.trim(), ql = q.toLowerCase();
+        const list = data.filter(r => (st.lv==='all' || (st.lv==='x' ? !r.j : r.j===st.lv)) &&
+          (!ql || r.k.includes(q) || r.hv.toLowerCase().includes(ql) || r.m.toLowerCase().includes(ql) || String(r.n)===q));
+        $('grid').innerHTML = list.map(r => `<div class="c ${r.j||'x'}" title="Thẻ ${r.n} · ${esc(r.hv)} · ${esc(r.m)}${r.j?' · '+r.j:''}">` +
+          `<span class="n">${r.n}</span><div class="k">${esc(r.k)}</div><div class="hv">${hl(r.hv,q)}</div><div class="m">${hl(cap(r.m),q)}</div></div>`).join('');
+        $('status').textContent = list.length === data.length ? `Đang hiển thị đủ ${data.length.toLocaleString('vi-VN')} chữ` : `${list.length.toLocaleString('vi-VN')} / ${data.length.toLocaleString('vi-VN')} chữ`;
+      }
+      $('lv').addEventListener('click', e => { const b = e.target.closest('.chip'); if (b){ st.lv = b.dataset.v; apply(); } });
+      $('sz').addEventListener('input', e => { st.sz = +e.target.value; document.documentElement.style.setProperty('--cell', st.sz + 'px'); ls.set('kanjiPoster', st); });
+      $('tN').onclick = () => { st.n = !st.n; apply(); }; $('tHV').onclick = () => { st.hv = !st.hv; apply(); }; $('tM').onclick = () => { st.m = !st.m; apply(); };
+      $('print').onclick = () => window.print();
+      let t; $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(apply, 180); });
+      if (!data.length){ $('status').textContent = 'Không tải được dữ liệu. Hãy tải lại trang.'; return; }
+      apply();
+    })();
+  </script>
+</body>
+</html>
