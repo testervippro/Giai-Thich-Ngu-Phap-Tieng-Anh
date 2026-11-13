@@ -7,3 +7,4 @@ docs/HSK1-6*.xlsx !filter !diff !merge binary
 docs/jp2000-audio/*.mp3 !filter !diff !merge binary
 docs/kanji-2136.xlsx !filter !diff !merge binary
 docs/Kanji[[:space:]]in[[:space:]]Context*.xlsx !filter !diff !merge binary
+docs/zh1000-audio/*.mp3 !filter !diff !merge binary

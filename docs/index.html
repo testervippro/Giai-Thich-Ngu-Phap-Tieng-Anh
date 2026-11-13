@@ -145,6 +145,38 @@ body::before {
   <!-- Docsify -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
+  <!-- 🔊 buttons in markdown pages: <button class="say-btn" data-lang="zh-CN" data-t="...">🔊</button> -->
+  <style>
+    .markdown-section .say-btn{border:1px solid #d6d3d1;background:#fff;border-radius:8px;padding:2px 8px;cursor:pointer;font-size:14px;line-height:1.4}
+    .markdown-section .say-btn:hover{border-color:#047857}
+    .markdown-section .say-btn.playing{background:#ecfdf5;border-color:#047857}
+  </style>
+  <script>
+    (function(){
+      if (!('speechSynthesis' in window)) return;
+      var cache = {};
+      function voiceFor(lang){
+        if (cache[lang]) return cache[lang];
+        var p = lang.slice(0,2).toLowerCase(), vs = speechSynthesis.getVoices();
+        cache[lang] = vs.find(function(v){ return v.lang.replace('_','-').toLowerCase() === lang.toLowerCase(); }) ||
+                      vs.find(function(v){ return v.lang.toLowerCase().indexOf(p) === 0; }) || null;
+        return cache[lang];
+      }
+      speechSynthesis.onvoiceschanged = function(){ cache = {}; };
+      document.addEventListener('click', function(e){
+        var b = e.target.closest && e.target.closest('.say-btn'); if (!b) return;
+        e.preventDefault();
+        speechSynthesis.cancel();
+        document.querySelectorAll('.say-btn.playing').forEach(function(x){ x.classList.remove('playing'); });
+        var lang = b.getAttribute('data-lang') || 'zh-CN';
+        var u = new SpeechSynthesisUtterance(b.getAttribute('data-t') || '');
+        u.lang = lang; var v = voiceFor(lang); if (v) u.voice = v; u.rate = 0.85;
+        b.classList.add('playing'); u.onend = u.onerror = function(){ b.classList.remove('playing'); };
+        speechSynthesis.speak(u);
+      });
+    })();
+  </script>
+
   <!-- PWA: register service worker for offline support -->
   <script>
     if ('serviceWorker' in navigator) {
