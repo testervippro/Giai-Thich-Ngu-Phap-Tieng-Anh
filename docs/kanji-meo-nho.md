@@ -108,7 +108,7 @@ Một số từ dùng chữ Hán chỉ để ghi âm hoặc mang nghĩa riêng c
 
 ### Lịch học gợi ý: 20 phút mỗi ngày
 
-1. **5 phút học mới:** 10 chữ trong [danh sách chữ nghĩa lạ](#_4-danh-sách-chữ-nghĩa-lạ-trong-bộ-2136-kanji) (mục 4). Với mỗi chữ: che nghĩa → **tự đoán** → xem nghĩa thật → tìm một từ Hán Việt quen làm "móc".
+1. **5 phút học mới:** 10 chữ trong **danh sách chữ nghĩa lạ** (mục 4 bên dưới). Với mỗi chữ: che nghĩa → **tự đoán** → xem nghĩa thật → tìm một từ Hán Việt quen làm "móc".
 2. **10 phút ôn:** các chữ đến hạn theo lịch 1-3-7-14-30 ngày. Dùng [🎮 Game Kanji](kanji-viewer/game.html) (chữ hay sai sẽ tự quay lại nhiều hơn).
 3. **5 phút từ lú:** lọc **"3 · LÚ"** trên [Kanji in Context](kanji-in-context/index.html), che cột nghĩa và tự giải thích.
 
