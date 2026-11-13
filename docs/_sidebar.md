@@ -136,6 +136,8 @@
   - [HSK4](hsk4-tu-vung.md)
   - [HSK5](hsk5-tu-vung.md)
   - [HSK6](hsk6-tu-vung.md)
+- [🎧 Audio từ vựng HSK1–HSK4](hsk-audio.md)
+- [🎮 Quiz HSK1–HSK4 (trắc nghiệm)](tools/hsk-quiz.html)
 - [📊 Bảng tham khảo: HSK1–6 FULL](HSK1-6%20FULL.xlsx)
 
 ---
