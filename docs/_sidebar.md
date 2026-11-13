@@ -129,6 +129,14 @@
 # 🇨🇳 TIẾNG TRUNG
 
 - [1000 câu ngắn tiếng Trung – tiếng Anh](1000-short-phrases-Chinese-English.md)
+- [📚 Từ vựng HSK1–HSK6 (4.896 từ)](hsk-tu-vung.md)
+  - [HSK1](hsk1-tu-vung.md)
+  - [HSK2](hsk2-tu-vung.md)
+  - [HSK3](hsk3-tu-vung.md)
+  - [HSK4](hsk4-tu-vung.md)
+  - [HSK5](hsk5-tu-vung.md)
+  - [HSK6](hsk6-tu-vung.md)
+- [📊 Bảng tham khảo: HSK1–6 FULL](HSK1-6%20FULL.xlsx)
 
 ---
 
