@@ -9,3 +9,6 @@ build/
 /English for Everyone Illustrated English Dictionary - DK.pdf
 /GIẢI THÍCH NGỮ PHÁP TIẾNG ANH (MAI LAN HƯƠNG) 📚𝙱𝚇𝙻.pdf
 __pycache__/
+
+# Bản riêng chỉ để trên máy (nội dung sách có bản quyền) — không push
+private/
