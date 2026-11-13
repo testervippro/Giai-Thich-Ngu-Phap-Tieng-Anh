@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Từ vựng JLPT N5–N1</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1180px; margin:auto; padding:6px 16px 48px; }
+    h1 { margin:0; }
+    .sub, #status { color:var(--muted); margin:5px 0 12px; }
+    .tools { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:8px 0 4px; }
+    .tools input[type=search] { flex:1; min-width:220px; padding:9px 11px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; }
+    .chips { display:flex; gap:6px; flex-wrap:wrap; margin-top:8px; align-items:center; }
+    .chips .lbl { color:var(--muted); font-size:13px; margin-right:2px; min-width:64px; }
+    .chip { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:999px; padding:6px 12px; font:inherit; font-size:13px; }
+    .chip.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .table-wrap { margin-top:10px; overflow:auto; border:1px solid var(--line); border-radius:12px; background:var(--card); max-height:calc(100vh - 280px); }
+    table { width:100%; min-width:820px; border-collapse:collapse; }
+    th, td { padding:9px 11px; text-align:left; vertical-align:top; border-bottom:1px solid var(--line); }
+    th { position:sticky; top:0; z-index:1; background:var(--card); color:var(--muted); font-size:13px; font-weight:600; white-space:nowrap; }
+    td.set span, td.sc span { display:inline-block; border:1px solid var(--line); border-radius:6px; padding:1px 7px; font-size:12px; color:var(--muted); white-space:nowrap; }
+    td.sc span.h { background:var(--accentbg); color:var(--accent); border-color:transparent; }
+    td.sc span.c { background:var(--badbg); color:var(--bad); border-color:transparent; }
+    td.w { font-size:21px; line-height:1.2; font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
+    td.r { font-family:"Hiragino Sans","Yu Gothic",sans-serif; white-space:nowrap; }
+    td.hv { font-weight:700; }
+    td.note { color:var(--muted); font-size:13px; }
+    tr:last-child td { border-bottom:0; }
+    mark { background:var(--accentbg); color:inherit; border-radius:3px; }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Từ vựng JLPT N5–N1"></script>
+</head>
+<body>
+  <main>
+    <h1>🎌 Từ vựng JLPT N5–N1</h1>
+    <p class="sub">Toàn bộ từ vựng trong file <i>TU-VUNG-NGU-PHAP-N5-1.xlsx</i>: N5 → N1, từ ghép N2–N3, từ láy, phó từ và bộ thủ. Mỗi từ gồm cách viết, cách đọc, âm Hán Việt (nếu file có) và nghĩa tiếng Việt.</p>
+    <div class="tools">
+      <input type="search" id="q" placeholder="Tìm: chữ, cách đọc, Hán Việt, nghĩa…" aria-label="Tìm kiếm">
+    </div>
+    <div class="chips" id="sets"></div>
+    <div class="chips" id="scripts"></div>
+    <p id="status">Đang tải dữ liệu…</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Bộ</th><th>Từ</th><th>Cách đọc</th><th>Hán Việt</th><th>Nghĩa</th><th>Loại</th><th>Chữ viết</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <p class="sub" style="margin-top:12px">Dữ liệu giữ nguyên như file Excel (cột Hán Việt ở N5/N4 đôi khi ghi theo nghĩa). Chữ viết: <b>Hiragana</b> = chữ mềm, <b>Katakana</b> = chữ cứng.</p>
+  </main>
+  <script src="data.js"></script>
+  <script>
+    (() => {
+      const $ = id => document.getElementById(id);
+      const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      const data = window.JLPT || [];
+      const SETS = [['all','Tất cả'],['N5','N5'],['N4','N4'],['N3','N3'],['N2','N2'],['N1','N1'],['ghep','Từ ghép N2–N3'],['lay','Từ láy'],['tro','Phó từ'],['bo','Bộ thủ']];
+      const SETNAME = Object.fromEntries(SETS);
+      const SCR = [['all','Tất cả'],['k','Có Kanji'],['kana','Không có Kanji (chỉ kana)'],['h','Chỉ hiragana (chữ mềm)'],['c','Chỉ katakana (chữ cứng)']];
+      const SCNAME = {k:'Kanji', h:'Hiragana', c:'Katakana', m:'Hira + Kata', o:'Khác'};
+      let set = 'all', scr = 'all';
+      try { const s = JSON.parse(localStorage.getItem('jlptVocabFilter') || '{}'); if (s.set) set = s.set; if (s.scr) scr = s.scr; } catch(e) {}
+      const inSet = (r,v) => v==='all' || r[0]===v;
+      const inScr = (r,v) => v==='all' || (v==='kana' ? (r[7]==='h'||r[7]==='c'||r[7]==='m') : r[7]===v);
+      function hl(text, q){
+        const s = esc(text); if (!q) return s;
+        const e = esc(q), i = s.toLowerCase().indexOf(e.toLowerCase());
+        return i < 0 ? s : s.slice(0,i) + '<mark>' + s.slice(i,i+e.length) + '</mark>' + s.slice(i+e.length);
+      }
+      function chipRow(el, label, opts, cur, count){
+        el.innerHTML = `<span class="lbl">${label}</span>` + opts.map(([v,n]) =>
+          `<button class="chip${v===cur?' on':''}" data-v="${v}">${n} · ${count(v).toLocaleString('vi-VN')}</button>`).join('');
+      }
+      function render(){
+        try { localStorage.setItem('jlptVocabFilter', JSON.stringify({set, scr})); } catch(e) {}
+        chipRow($('sets'), 'Bộ:', SETS, set, v => data.filter(r => inSet(r,v) && inScr(r,scr)).length);
+        chipRow($('scripts'), 'Chữ viết:', SCR, scr, v => data.filter(r => inSet(r,set) && inScr(r,v)).length);
+        const q = $('q').value.trim(), ql = q.toLowerCase();
+        const list = data.filter(r => inSet(r,set) && inScr(r,scr) && (!ql || [r[1],r[2],r[3],r[4],r[6]].some(c => String(c).toLowerCase().includes(ql))));
+        $('rows').innerHTML = list.map(r => `<tr><td class="set"><span>${esc(SETNAME[r[0]]||r[0])}</span></td><td class="w">${hl(r[1],q)}</td><td class="r">${hl(r[2],q)}</td>` +
+          `<td class="hv">${hl(r[3],q)}</td><td>${hl(r[4],q)}${r[6]?`<div class="note">${hl(r[6],q)}</div>`:''}</td><td class="note">${esc(r[5])}</td>` +
+          `<td class="sc"><span class="${r[7]}">${SCNAME[r[7]]||''}</span></td></tr>`).join('');
+        $('status').textContent = list.length === data.length
+          ? `Đang hiển thị đầy đủ ${data.length.toLocaleString('vi-VN')} mục`
+          : `${list.length.toLocaleString('vi-VN')} / ${data.length.toLocaleString('vi-VN')} mục`;
+      }
+      $('sets').addEventListener('click', e => { const b = e.target.closest('.chip'); if (b){ set = b.dataset.v; render(); } });
+      $('scripts').addEventListener('click', e => { const b = e.target.closest('.chip'); if (b){ scr = b.dataset.v; render(); } });
+      let t; $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(render, 180); });
+      if (!data.length) { $('status').textContent = 'Không tải được dữ liệu. Hãy tải lại trang rồi thử lại.'; return; }
+      render();
+    })();
+  </script>
+</body>
+</html>

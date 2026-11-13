@@ -121,6 +121,7 @@
 - [2136 Kanji — Học qua câu chuyện](KanjiStory.md)
 - [🔧 Công cụ: Xem thẻ Kanji (kanji_p1/p2 + JLPT N1–N5)](kanji-viewer/index.html)
 - [🎮 Game Kanji: 2.136 chữ (Hán Việt, nghĩa, câu chuyện, ghép cặp)](kanji-viewer/game.html)
+- [🎌 Từ vựng JLPT N5–N1 (lọc chữ mềm/cứng)](jlpt-vocab/index.html)
 - [🗣️ 2000 từ tiếng Nhật đầy đủ (kèm ví dụ)](jp2000-full/index.html)
   - [🔤 Từ chỉ viết bằng kana (không chữ Hán)](jp2000-kana.md)
 - [📊 Bảng tham khảo: 2136 Kanji — xem trên web](kanji-2136/index.html)
