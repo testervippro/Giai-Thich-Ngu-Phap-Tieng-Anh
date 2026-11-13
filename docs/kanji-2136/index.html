@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bảng 2136 Kanji</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1120px; margin:auto; padding:6px 16px 48px; }
+    h1 { margin:0; }
+    .sub, #status { color:var(--muted); margin:5px 0 12px; }
+    .tools { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:8px 0 4px; }
+    .tools input[type=search] { flex:1; min-width:220px; padding:9px 11px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; }
+    .chips { display:flex; gap:6px; flex-wrap:wrap; }
+    .chip { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:999px; padding:6px 12px; font:inherit; font-size:13px; }
+    .chip.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .table-wrap { margin-top:10px; overflow:auto; border:1px solid var(--line); border-radius:12px; background:var(--card); max-height:calc(100vh - 230px); }
+    table { width:100%; min-width:820px; border-collapse:collapse; }
+    th, td { padding:9px 11px; text-align:left; vertical-align:top; border-bottom:1px solid var(--line); }
+    th { position:sticky; top:0; z-index:1; background:var(--card); color:var(--muted); font-size:13px; font-weight:600; }
+    td.num { color:var(--muted); font-variant-numeric:tabular-nums; white-space:nowrap; }
+    td.k { font-size:26px; line-height:1.1; font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; white-space:nowrap; }
+    td.hv { font-weight:700; white-space:nowrap; }
+    td.j span { display:inline-block; border:1px solid var(--line); border-radius:6px; padding:1px 7px; font-size:12px; color:var(--muted); }
+    td.s { min-width:280px; }
+    td.note { color:var(--muted); font-size:13px; }
+    tr:last-child td { border-bottom:0; }
+    mark { background:var(--accentbg); color:inherit; border-radius:3px; }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Bảng 2136 Kanji"></script>
+</head>
+<body>
+  <main>
+    <h1>📊 Bảng 2136 Kanji</h1>
+    <p class="sub">Toàn bộ bảng tham khảo <i>kanji-2136.xlsx</i>: số thẻ, Kanji, âm Hán Việt, nghĩa, cấp JLPT và câu chuyện nhớ chữ. Xem trực tiếp trên web, không cần tải file.</p>
+    <div class="tools">
+      <input type="search" id="q" placeholder="Tìm: chữ, Hán Việt, nghĩa, câu chuyện…" aria-label="Tìm kiếm">
+      <div class="chips" id="lv"></div>
+    </div>
+    <p id="status">Đang tải dữ liệu…</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Thẻ</th><th>Kanji</th><th>Hán Việt</th><th>Nghĩa</th><th>JLPT</th><th>Câu chuyện nhớ chữ</th><th>Ghi chú</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <p class="sub" style="margin-top:12px"><a href="../kanji-2136.xlsx" download>⬇ Tải file Excel gốc</a> · <a href="../kanji-viewer/index.html">🃏 Xem thẻ Kanji</a> · <a href="../kanji-viewer/game.html">🎮 Game Kanji</a></p>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  <script>
+    (() => {
+      const $ = id => document.getElementById(id);
+      const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+      let data = [], level = 'all';
+      const LV = ['all','N5','N4','N3','N2','N1','none'];
+      const LVNAME = {all:'Tất cả', none:'Chưa xếp cấp'};
+      function hl(text, q){
+        const s = esc(text);
+        if (!q) return s;
+        const i = s.toLowerCase().indexOf(esc(q).toLowerCase());
+        return i < 0 ? s : s.slice(0,i) + '<mark>' + s.slice(i, i+esc(q).length) + '</mark>' + s.slice(i+esc(q).length);
+      }
+      function render(){
+        const q = $('q').value.trim();
+        const ql = q.toLowerCase();
+        const list = data.filter(r => (level==='all' || (level==='none' ? !r[4] : r[4]===level))
+          && (!ql || r.some(c => String(c).toLowerCase().includes(ql))));
+        $('rows').innerHTML = list.map(r => `<tr><td class="num">${esc(r[0])}</td><td class="k">${hl(r[1],q)}</td><td class="hv">${hl(r[2],q)}</td><td>${hl(r[3],q)}</td><td class="j">${r[4]?`<span>${esc(r[4])}</span>`:''}</td><td class="s">${hl(r[6],q)}</td><td class="note">${esc(r[5])}</td></tr>`).join('');
+        $('status').textContent = list.length === data.length
+          ? `Đang hiển thị đầy đủ ${data.length.toLocaleString('vi-VN')} chữ`
+          : `${list.length.toLocaleString('vi-VN')} / ${data.length.toLocaleString('vi-VN')} chữ`;
+      }
+      function chips(){
+        $('lv').innerHTML = LV.map(l => {
+          const n = l==='all' ? data.length : data.filter(r => l==='none' ? !r[4] : r[4]===l).length;
+          return `<button class="chip${l===level?' on':''}" data-l="${l}">${LVNAME[l]||l} · ${n}</button>`;
+        }).join('');
+      }
+      $('lv').addEventListener('click', e => { const b = e.target.closest('.chip'); if (!b) return; level = b.dataset.l; chips(); render(); });
+      let t; $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(render, 150); });
+      fetch('../kanji-2136.xlsx')
+        .then(r => { if (!r.ok) throw new Error(r.status); return r.arrayBuffer(); })
+        .then(buf => {
+          const wb = XLSX.read(buf, { type:'array' });
+          const sh = wb.Sheets[wb.SheetNames[0]];
+          data = XLSX.utils.sheet_to_json(sh, { header:1, defval:'' }).slice(1)
+            .filter(r => r[0] !== '' && r[1] !== '')
+            .map(r => r.slice(0,7).map(c => String(c).trim()));
+          chips(); render();
+        })
+        .catch(() => { $('status').textContent = 'Không tải được dữ liệu. Hãy tải lại trang rồi thử lại.'; });
+    })();
+  </script>
+</body>
+</html>
