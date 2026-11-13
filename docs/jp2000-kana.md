@@ -1,6 +1,6 @@
 # 🔤 Từ chỉ viết bằng kana (không có chữ Hán) — trong 2000 từ tiếng Nhật
 
-Lọc từ [2000 từ tiếng Nhật thông dụng](jp2000-tu-vung.md): những từ **không có chữ Kanji nào**, chỉ viết bằng hiragana (chữ mềm) hoặc katakana (chữ cứng). Số # là thứ tự tần suất trong danh sách 2000 từ.
+Lọc từ [2000 từ tiếng Nhật thông dụng](jp2000-full/index.html): những từ **không có chữ Kanji nào**, chỉ viết bằng hiragana (chữ mềm) hoặc katakana (chữ cứng). Số # là thứ tự tần suất trong danh sách 2000 từ.
 
 | Nhóm | Số từ |
 |---|---|
