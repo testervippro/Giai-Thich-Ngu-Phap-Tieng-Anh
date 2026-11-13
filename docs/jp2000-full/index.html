@@ -69,7 +69,7 @@ $("hideEn").checked=ls.get("jp2000HideEn",false);
 document.body.classList.toggle("hideEn",$("hideEn").checked);
 $("hideEn").onchange=e=>{document.body.classList.toggle("hideEn",e.target.checked);ls.set("jp2000HideEn",e.target.checked);};
 let shown=0,cur=[];
-const PAGE=100;
+const PAGE=Infinity;   // show all words at once
 function jaVoice(){return speechSynthesis.getVoices().find(v=>/^ja/i.test(v.lang));}
 function say(t){try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang="ja-JP";const v=jaVoice();if(v)u.voice=v;u.rate=.9;speechSynthesis.speak(u);}catch(e){}}
 function filter(){
