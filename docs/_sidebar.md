@@ -125,6 +125,7 @@
 - [🗣️ 2000 từ tiếng Nhật đầy đủ (kèm ví dụ)](jp2000-full/index.html)
   - [🔤 Từ chỉ viết bằng kana (không chữ Hán)](jp2000-kana.md)
 - [📊 Bảng tham khảo: 2136 Kanji — xem trên web](kanji-2136/index.html)
+- [🖼️ Poster in A0 + hình nền 2136 Kanji](kanji-poster.md)
 - [📖 Kanji in Context (Hán Việt) — xem trên web](kanji-in-context/index.html)
 
 ---
