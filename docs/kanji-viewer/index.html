@@ -865,13 +865,7 @@ function renderRadPanel(){
       <button id="radClose" style="margin-left:auto">✕</button></div>
       <div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:10px">${nums.map(n => { const k = KTXT.get(String(n).padStart(4, "0")); return k ? `<button class="radKanji" data-num="${n}" title="${esc(k[2])} – ${esc(k[3])}" style="padding:4px 8px;min-width:0"><span style="${F};font-size:22px">${esc(k[1])}</span><br><span style="font-size:11px">${esc(k[2])}</span></button>` : ""; }).join("")}</div></div>`;
   }
-  // Lộ trình: chặng -> 5 mảnh mới -> các chữ mở khoá
-  html += `<div style="margin:6px 0 8px;font-weight:800;font-size:18px">🗺️ Lộ trình ${STAGES.length} chặng theo câu chuyện</div><div class="stat" style="margin:-4px 0 10px">Mỗi chữ học sau các mảnh mà câu chuyện của nó nhắc tới (vd 夫 → 失). Bấm chữ để mở thẻ.</div>`;
-  STAGES.forEach((st, si) => {
-    html += `<div style="margin:0 0 12px;padding:10px 12px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px">${stageHead(si)}
-      <div style="display:flex;flex-wrap:wrap;gap:5px;margin-top:8px">${st.k.map(n => { const k = KTXT.get(String(n).padStart(4, "0")); return k ? `<button class="radKanji" data-num="${n}" title="${esc(k[2])} – ${esc(k[3])}" style="padding:3px 7px;min-width:0"><span style="${F};font-size:21px">${esc(k[1])}</span><br><span style="font-size:10.5px">${esc(k[2])}</span></button>` : ""; }).join("")}</div></div>`;
-  });
-  html += `<details style="margin-top:16px"><summary style="cursor:pointer;font-weight:800;font-size:16px">📚 Tra cứu cả ${rads.length} mảnh theo độ hay gặp</summary>`;
+  html += `<div style="margin:6px 0 0;font-weight:800;font-size:18px">🧱 Cả ${rads.length} mảnh theo độ hay gặp</div>`;
   tiers.forEach(([t, title]) => {
     const rs = rads.filter(r => r.t === t);
     if (!rs.length) return;
@@ -880,6 +874,12 @@ function renderRadPanel(){
         <div style="${F};font-size:34px;line-height:1.1">${esc(r.k)}${r.f.length ? `<span style="font-size:18px;color:var(--muted)"> ${r.f.map(esc).join(" ")}</span>` : ""}</div>
         <div style="font-weight:800;font-size:13px">${esc(r.n)}</div><div style="font-size:12px;color:var(--muted)">${esc(r.m)}</div>
         <div style="font-size:12px;font-weight:700;color:var(--accent)">${r.c} chữ</div></button>`).join("") + `</div>`;
+  });
+  // Lộ trình: chặng -> 5 mảnh mới -> các chữ mở khoá
+  html += `<details style="margin-top:18px"><summary style="cursor:pointer;font-weight:800;font-size:18px">🗺️ Lộ trình ${STAGES.length} chặng theo câu chuyện</summary><div class="stat" style="margin:6px 0 10px">Mỗi chữ học sau các mảnh mà câu chuyện của nó nhắc tới (vd 夫 → 失). Bấm chữ để mở thẻ.</div>`;
+  STAGES.forEach((st, si) => {
+    html += `<div style="margin:0 0 12px;padding:10px 12px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px">${stageHead(si)}
+      <div style="display:flex;flex-wrap:wrap;gap:5px;margin-top:8px">${st.k.map(n => { const k = KTXT.get(String(n).padStart(4, "0")); return k ? `<button class="radKanji" data-num="${n}" title="${esc(k[2])} – ${esc(k[3])}" style="padding:3px 7px;min-width:0"><span style="${F};font-size:21px">${esc(k[1])}</span><br><span style="font-size:10.5px">${esc(k[2])}</span></button>` : ""; }).join("")}</div></div>`;
   });
   html += `</details>`;
   $("plainList").innerHTML = html;
