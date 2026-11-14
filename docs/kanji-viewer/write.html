@@ -83,6 +83,7 @@
     <span id="pos" style="font-size:13.5px;color:var(--muted)"></span>
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
+    <a class="btn" id="mmLink" href="mindmap.html" title="Mind map: mảnh ghép + từ vựng của chữ này" style="text-decoration:none">🧠 Mind map</a>
     <button class="btn on" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện của chữ">🖼 Ảnh: bật</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
@@ -334,6 +335,7 @@
     [list[i+1], list[i-1]].forEach(y => { if (y && y.img){ const im = new Image(); im.src = y.img; } });
     $('pos').textContent = `${i + 1} / ${list.length}`;
     showWords(x.k);
+    $('mmLink').href = 'mindmap.html#' + encodeURIComponent(x.k);
     document.body.classList.toggle('quiz', st.quiz);
     $('modelBox').classList.toggle('hidden', st.quiz);
     drawn = []; stepAt = 0; setHint(false);

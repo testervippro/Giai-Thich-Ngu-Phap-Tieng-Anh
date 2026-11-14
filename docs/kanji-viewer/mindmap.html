@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Mind map Kanji</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1180px; margin:auto; padding:4px 16px 40px; }
+    h1 { margin:0 0 8px; font-size:22px; }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:10px; }
+    input[type=search] { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; flex:1; min-width:180px; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; cursor:pointer; }
+    .btn:disabled { opacity:.45; cursor:default; }
+    .hint { color:var(--muted); font-size:13px; }
+    .wrap { position:relative; overflow:auto; border:1px solid var(--line); border-radius:14px; background:var(--card); }
+    .map { position:relative; margin:0 auto; }
+    .map svg { position:absolute; inset:0; overflow:visible; pointer-events:none; }
+    .map path { fill:none; stroke-width:2; opacity:.55; }
+    .node { position:absolute; transform:translate(-50%,-50%); border:1.5px solid var(--line); background:var(--bg); color:inherit; border-radius:12px; padding:4px 10px; cursor:pointer; white-space:nowrap; text-align:center; font:inherit; line-height:1.15; transition:box-shadow .15s; }
+    .node:hover { box-shadow:0 2px 10px rgba(0,0,0,.12); }
+    .node .k { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:22px; display:block; }
+    .node .t { font-size:11.5px; font-weight:700; color:var(--muted); display:block; }
+    .node.center { padding:8px 18px; border-width:2.5px; border-color:var(--accent); }
+    .node.center .k { font-size:52px; }
+    .node.center .t { font-size:15px; color:var(--accent); }
+    .node.part { border-color:#d97706; }
+    .node.word { border-color:#2563eb; }
+    .node.sub { border-style:dashed; }
+    .node.more { font-size:12.5px; color:var(--muted); border-style:dashed; }
+    .node.sel { box-shadow:0 0 0 3px var(--accentbg); outline:2px solid var(--accent); }
+    .node b.hl { color:var(--accent); font-weight:inherit; }
+    .label { position:absolute; transform:translate(-50%,-50%); font-size:12px; font-weight:800; letter-spacing:.3px; text-transform:uppercase; }
+    .info { margin-top:12px; padding:12px 14px; border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:12px; background:var(--card); min-height:64px; }
+    .info .big { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:40px; line-height:1; margin-right:12px; float:left; }
+    .info .hv { font-weight:800; color:var(--accent); font-size:17px; }
+    .info .s { color:var(--muted); margin-top:3px; }
+    .info .acts { clear:both; display:flex; gap:6px; flex-wrap:wrap; padding-top:8px; }
+    .legend { display:flex; gap:14px; flex-wrap:wrap; font-size:12.5px; color:var(--muted); margin:8px 2px 0; }
+    .legend i { display:inline-block; width:12px; height:12px; border-radius:3px; border:2px solid; vertical-align:-2px; margin-right:4px; }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Mind map Kanji"></script>
+</head>
+<body>
+<main>
+  <h1>🧠 Mind map Kanji</h1>
+  <div class="bar">
+    <button class="btn" id="back" title="Chữ xem trước đó">← Quay lại</button>
+    <input type="search" id="find" placeholder="Nhập chữ / Hán Việt / số thẻ rồi Enter (vd 肺, PHẾ, 584)" aria-label="Tìm chữ">
+    <button class="btn" id="rand">🎲 Ngẫu nhiên</button>
+    <a class="btn" id="write" href="write.html" style="text-decoration:none">✍️ Luyện viết chữ này</a>
+  </div>
+  <div class="wrap"><div class="map" id="map"></div></div>
+  <div class="legend">
+    <span><i style="border-color:#d97706"></i>Mảnh ghép theo câu chuyện (bấm ⊕ để mở tiếp)</span>
+    <span><i style="border-color:#2563eb"></i>Từ ghép (bấm để xem nghĩa + các chữ còn lại)</span>
+    <span>Bấm đúp một chữ để đặt nó vào giữa</span>
+  </div>
+  <div class="info" id="info"></div>
+</main>
+<script src="kanji-game-data.js"></script>
+<script src="kanji-roadmap.js"></script>
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const esc = t => String(t ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const cap = s => s ? s.charAt(0).toUpperCase() + s.slice(1) : '';
+  const ALL = (window.KANJI || []).map(r => ({ n:r[0], k:r[1], hv:r[2], m:r[3], j:r[4], s:r[5] }));
+  const BYK = new Map(); ALL.forEach(x => { if (!BYK.has(x.k) || (!BYK.get(x.k).s && x.s)) BYK.set(x.k, x); });
+  const RADK = new Map(((window.ROADMAP || {}).radw || []).map(r => [r[0], { k:r[0], hv:r[1], m:r[2] }]));
+  const CJK = /[⺀-⿟々゠-ヿ㐀-鿿豈-﫿]/g;
+  let WORDS = [];
+
+  const info = c => BYK.get(c) || RADK.get(c) || null;
+  // các mảnh câu chuyện nhắc tới (bỏ chính nó)
+  function parts(c){
+    const x = BYK.get(c); if (!x || !x.s) return [];
+    const seen = new Set([c]), out = [];
+    (x.s.match(CJK) || []).forEach(p => { if (!seen.has(p)){ seen.add(p); out.push(p); } });
+    return out;
+  }
+  const wordsOf = c => WORDS.filter(w => w[0].includes(c));
+
+  let center = null, hist = [], open = new Set(), showAll = false, sel = null;
+
+  function setCenter(c, push = true){
+    if (!info(c)) return;
+    if (push && center && center !== c) hist.push(center);
+    center = c; open = new Set(); showAll = false; sel = { type:'kanji', c };
+    $('back').disabled = !hist.length;
+    $('write').href = 'write.html#' + encodeURIComponent(c);
+    try { history.replaceState(null, '', '#' + encodeURIComponent(c)); } catch {}
+    render();
+  }
+
+  function render(){
+    const map = $('map');
+    const W = Math.max(860, $('map').parentElement.clientWidth - 2);
+    // ---- cột trái: mảnh ghép (mở tiếp được 1–2 tầng)
+    const left = [];
+    const addParts = (c, depth, parent) => parts(c).forEach(p => {
+      const id = parent + '>' + p;
+      left.push({ id, c:p, depth, parent });
+      if (open.has(id) && depth < 3) addParts(p, depth + 1, id);
+    });
+    addParts(center, 1, 'C');
+    // ---- cột phải: từ ghép (mở ra các chữ còn lại trong từ)
+    const ws = wordsOf(center), LIM = 10;
+    const shown = showAll ? ws : ws.slice(0, LIM);
+    const right = [];
+    shown.forEach((w, i) => {
+      const id = 'W' + i;
+      right.push({ id, w, depth:1 });
+      if (open.has(id)){
+        const seen = new Set([center]);
+        (w[0].match(CJK) || []).forEach(p => { if (!seen.has(p) && info(p)){ seen.add(p); right.push({ id:id + '>' + p, c:p, depth:2, parent:id }); } });
+      }
+    });
+    if (ws.length > LIM) right.push({ id:'MORE', more:true, depth:1 });
+
+    const ROW = 54, n = Math.max(left.length, right.length, 3);
+    const H = Math.max(360, n * ROW + 60), cx = W / 2, cy = H / 2;
+    const place = (arr, side) => {
+      const y0 = cy - (arr.length - 1) * ROW / 2;
+      arr.forEach((o, i) => { o.y = y0 + i * ROW; o.x = cx + side * (180 + (o.depth - 1) * 150 + (o.depth === 1 && side > 0 ? 40 : 0)); });
+    };
+    place(left, -1); place(right, 1);
+    const pos = new Map([['C', { x:cx, y:cy }]]);
+    left.concat(right).forEach(o => pos.set(o.id, o));
+
+    map.style.width = W + 'px'; map.style.height = H + 'px';
+    const curve = (a, b, col) => {
+      const mx = (a.x + b.x) / 2;
+      return `<path d="M${a.x},${a.y} C${mx},${a.y} ${mx},${b.y} ${b.x},${b.y}" stroke="${col}"/>`;
+    };
+    let svg = `<svg width="${W}" height="${H}">`;
+    left.forEach(o => svg += curve(pos.get(o.parent), o, '#d97706'));
+    right.forEach(o => svg += curve(o.parent ? pos.get(o.parent) : pos.get('C'), o, '#2563eb'));
+    svg += '</svg>';
+
+    const ci = info(center);
+    let html = svg + `<button class="node center" data-k="${esc(center)}" style="left:${cx}px;top:${cy}px"><span class="k">${esc(center)}</span><span class="t">${esc(ci.hv)}</span></button>`;
+    if (left.length) html += `<div class="label" style="left:${cx - 180}px;top:${left[0].y - 36}px;color:#d97706">🧩 Ghép từ</div>`;
+    if (right.length) html += `<div class="label" style="left:${cx + 220}px;top:${right[0].y - 36}px;color:#2563eb">📚 Từ vựng (${ws.length})</div>`;
+    const isSel = (t, v) => sel && sel.type === t && sel.v === v ? ' sel' : '';
+    left.forEach(o => {
+      const x = info(o.c), can = parts(o.c).length && o.depth < 3;
+      html += `<button class="node part${o.depth > 1 ? ' sub' : ''}${isSel('part', o.id)}" data-part="${esc(o.id)}" data-k="${esc(o.c)}" style="left:${o.x}px;top:${o.y}px"><span class="k">${esc(o.c)}${can ? ` <small style="font-size:13px;color:#d97706">${open.has(o.id) ? '⊖' : '⊕'}</small>` : ''}</span><span class="t">${esc(x ? x.hv : '')}</span></button>`;
+    });
+    right.forEach(o => {
+      if (o.more){ html += `<button class="node more" data-more="1" style="left:${o.x}px;top:${o.y}px">${showAll ? 'Thu gọn' : `+${ws.length - LIM} từ nữa`}</button>`; return; }
+      if (o.w){
+        const wd = esc(o.w[0]).split(center).join(`<b class="hl">${esc(center)}</b>`);
+        html += `<button class="node word${isSel('word', o.id)}" data-word="${esc(o.id)}" style="left:${o.x}px;top:${o.y}px"><span class="k" style="font-size:20px">${wd}</span><span class="t">${esc(o.w[3])}</span></button>`;
+      } else {
+        const x = info(o.c);
+        html += `<button class="node sub${isSel('part', o.id)}" data-part="${esc(o.id)}" data-k="${esc(o.c)}" style="left:${o.x}px;top:${o.y}px;border-color:#2563eb"><span class="k" style="font-size:19px">${esc(o.c)}</span><span class="t">${esc(x ? x.hv : '')}</span></button>`;
+      }
+    });
+    map.innerHTML = html;
+
+    // ---- sự kiện
+    map.querySelectorAll('.node').forEach(b => {
+      b.onclick = () => {
+        if (b.dataset.more){ showAll = !showAll; render(); return; }
+        if (b.classList.contains('center')){ sel = { type:'kanji', c:center }; showInfo(); render(); return; }
+        const id = b.dataset.part || b.dataset.word;
+        if (b.dataset.word){
+          sel = { type:'word', v:id, w:right.find(o => o.id === id).w };
+          open.has(id) ? open.delete(id) : open.add(id);
+        } else {
+          sel = { type:'part', v:id, c:b.dataset.k };
+          if (parts(b.dataset.k).length) open.has(id) ? open.delete(id) : open.add(id);
+        }
+        render();
+      };
+      if (b.dataset.k) b.ondblclick = () => setCenter(b.dataset.k);
+    });
+    showInfo();
+  }
+
+  function showInfo(){
+    const el = $('info');
+    if (!sel){ el.innerHTML = ''; return; }
+    if (sel.type === 'word'){
+      const w = sel.w;
+      const ks = [...new Set(w[0].match(CJK) || [])].filter(k => k !== center && info(k));
+      el.innerHTML = `<span class="big">${esc(w[0])}</span><div class="hv">${esc(w[3])}</div><div>${esc(w[1])} — ${esc(w[2])}</div>
+        <div class="acts">${ks.map(k => `<button class="btn" data-go="${esc(k)}">${esc(k)} ${esc(info(k).hv)} → đặt vào giữa</button>`).join('')}</div>`;
+    } else {
+      const c = sel.c || center, x = info(c);
+      el.innerHTML = `<span class="big">${esc(c)}</span><div class="hv">${esc(x.hv)} <span style="font-weight:400;color:inherit">– ${esc(cap(x.m))}</span></div>
+        <div class="s">${x.s ? '📖 ' + esc(x.s) : (BYK.has(c) ? '' : 'Mảnh ghép (bộ thủ / dạng biến thể)')}</div>
+        <div class="acts">${c !== center ? `<button class="btn" data-go="${esc(c)}">Đặt ${esc(c)} vào giữa</button>` : ''}${BYK.has(c) ? `<a class="btn" style="text-decoration:none" href="write.html#${encodeURIComponent(c)}">✍️ Luyện viết ${esc(c)}</a>` : ''}</div>`;
+    }
+    el.querySelectorAll('[data-go]').forEach(b => b.onclick = () => setCenter(b.dataset.go));
+  }
+
+  $('back').onclick = () => { if (hist.length) setCenter(hist.pop(), false); };
+  $('rand').onclick = () => { const c = ALL.filter(x => x.s); setCenter(c[Math.floor(Math.random() * c.length)].k); };
+  $('find').addEventListener('change', e => {
+    const q = e.target.value.trim(); if (!q) return;
+    const ql = q.toLowerCase();
+    const x = BYK.get(q) || RADK.get(q) || ALL.find(x => String(x.n) === q || x.hv.toLowerCase() === ql) || ALL.find(x => x.hv.toLowerCase().includes(ql) || x.m.toLowerCase().includes(ql));
+    if (x) setCenter(x.k);
+  });
+  addEventListener('resize', () => center && render());
+
+  const start = decodeURIComponent(location.hash.slice(1)) || '肺';
+  fetch('kic-words.json').then(r => r.json()).then(d => WORDS = d).catch(() => {}).finally(() => setCenter(info(start) ? start : '肺', false));
+})();
+</script>
+</body>
