@@ -44,6 +44,11 @@
     .card img { display:block; width:100%; max-width:640px; height:auto; aspect-ratio:784/252; border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
     .card.zoom img { max-width:none; cursor:zoom-out; }
     .quiz .card { display:none; }
+    .sub { margin:-4px 0 12px; display:flex; flex-direction:column; gap:4px; }
+    .sub:empty { display:none; }
+    .sub div { font-size:13.5px; color:var(--muted); padding:5px 10px; border-left:3px solid var(--accent); background:var(--card); border-radius:0 8px 8px 0; cursor:pointer; }
+    .sub b { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:19px; color:var(--ink); }
+    .sub .hv2 { font-weight:800; color:var(--accent); }
     .info { flex-wrap:wrap; align-items:flex-start; }
     .words { flex:1 1 380px; min-width:0; margin:0 0 0 12px; padding:8px 10px; }
     .words h2 { margin-bottom:4px; }
@@ -91,6 +96,7 @@
     </section>
   </div>
   <div class="story" id="kStory"></div>
+  <div class="sub" id="kSub"></div>
   <figure class="card" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
 
   <div class="layout">
@@ -141,6 +147,19 @@
 
   // Bộ nền: các mảnh ghép nên mọi chữ (bộ thủ + dạng biến thể + mảnh phụ), xếp theo độ hay gặp
   const RADW = ((window.ROADMAP || {}).radw || []).map((r, ix) => ({ n: ix + 1, k: r[0], hv: r[1], m: r[2], j: '', s: '', img: null, tag: `Mảnh ${ix + 1} · ${['', '🥇 tầng 1', '🥈 tầng 2', '🥉 tầng 3', 'tầng 4'][r[3]]}` }));
+  // chữ → thẻ có câu chuyện (để hiện câu chuyện của các chữ được nhắc trong câu chuyện)
+  const BYK = new Map(); ALL.forEach(x => { if (x.s && !BYK.has(x.k)) BYK.set(x.k, x); });
+  const RADK = new Map(RADW.map(r => [r.k, r]));
+  function subStories(x){
+    const seen = new Set([x.k]), out = [];
+    (String(x.s || '').match(/[\u2E80-\u2FDF\u3005\u30A0-\u30FF\u3400-\u9FFF\uF900-\uFAFF]/g) || []).forEach(c => {
+      if (seen.has(c)) return; seen.add(c);
+      const y = BYK.get(c), r = RADK.get(c);
+      if (y) out.push(`<div data-k="${c}" title="Bấm để luyện chữ này"><b>${c}</b> <span class="hv2">${escH(y.hv)}</span> – ${escH(cap(y.m))}: ${escH(y.s)}</div>`);
+      else if (r) out.push(`<div data-k="${c}"><b>${c}</b> <span class="hv2">${escH(r.hv)}</span> – ${escH(r.m)} <span style="opacity:.75">(mảnh ghép)</span></div>`);
+    });
+    return out.join('');
+  }
   function pool(){
     if (st.set === 'rad') return RADW;
     if (st.set === 'p1') return ALL.filter(x => x.n <= 1050);
@@ -292,6 +311,8 @@
     $('kBig').textContent = x.k; $('kHv').textContent = x.hv; $('kM').textContent = cap(x.m);
     $('kTag').textContent = x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`;
     $('kStory').textContent = x.s ? '📖 ' + x.s : '';
+    $('kSub').innerHTML = subStories(x);
+    $('kSub').querySelectorAll('[data-k]').forEach(d => d.onclick = () => jumpTo(d.dataset.k));
     // Ảnh thẻ câu chuyện (hình minh hoạ + chữ) — nhìn hình nhớ nhanh hơn chỉ đọc chữ.
     $('kCard').classList.toggle('hidden', !(st.card && x.img));
     if (x.img){ $('kImg').src = x.img; $('kImg').alt = `Ảnh câu chuyện thẻ ${x.n}: ${x.k}`; }
@@ -341,6 +362,12 @@
   $('cardBtn').onclick = () => { st.card = !st.card; cardLabel(); save(); show(); };
   $('kImg').onclick = () => $('kCard').classList.toggle('zoom');
   $('quizBtn').onclick = () => { st.quiz = !st.quiz; $('quizBtn').classList.toggle('on', st.quiz); show(); };
+  function jumpTo(c){
+    let idx = list.findIndex(x => x.k === c);
+    if (idx < 0){ const ns = BYK.has(c) ? 'all' : 'rad'; st.set = ns; $('set').value = ns; list = pool(); idx = list.findIndex(x => x.k === c); }
+    if (idx < 0) return;
+    i = idx; show(); window.scrollTo(0, 0);
+  }
   $('find').addEventListener('change', e => {
     const q = e.target.value.trim().toLowerCase(); if (!q) return;
     let idx = list.findIndex(x => x.k === q || String(x.n) === q || x.hv.toLowerCase() === q);
