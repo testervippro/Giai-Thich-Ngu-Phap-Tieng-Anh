@@ -274,7 +274,7 @@ Một số từ dùng chữ Hán chỉ để ghi âm hoặc mang nghĩa riêng c
 | 633 | **控** | KHỐNG | Khống chế | **控える** (ひかえる): "khống" là kiêng bớt, hoặc chờ ở ngoài | N1 |
 | 637 | **提** | ĐỀ | Đề án | **提げる** (さげる): "đề" là xách trên tay | N1 |
 | 639 | **拾** | THẬP | Thu thập | **拾う** (ひろう): "thập" nghĩa là nhặt lên | N2 |
-| 644 | **倉** | THƯƠNG | Thương khó | **倉** (くら): "thương" là nhà kho | N1 |
+| 644 | **倉** | THƯƠNG | Thương khố | **倉** (くら): "thương" là nhà kho | N1 |
 | 646 | **外** | NGOẠI | Bên ngoài | **外れる** (はずれる): "ngoại" là trật, tuột ra | N5 |
 | 656 | **額** | NGẠCH | Kim ngạch | **額、額** (がく、ひたい): "ngạch" là khung tranh, hoặc cái trán | N2 |
 | 671 | **澄** | TRỪNG | Làm sạch | **澄む** (すむ): "trừng" là trong veo<br>**澄ます** (すます): "trừng" là làm ra vẻ, hoặc lắng tai nghe | N1 |
