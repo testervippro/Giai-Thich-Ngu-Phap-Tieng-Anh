@@ -40,12 +40,13 @@ audio{width:100%}
 <body>
 <div class="wrap">
   <h1>🗾 2000 Most Common Japanese Words in Context</h1>
-  <div class="dim">Bản riêng trên máy (không có trên GitHub). Nội dung lấy từ sách Lingo Mastery bạn đã có.</div>
+  <div class="dim" id="sub">Bản riêng trên máy (không có trên GitHub). Nội dung lấy từ sách Lingo Mastery bạn đã có.</div>
 
 
 
   <div class="bar">
     <input type="search" id="q" placeholder="Tìm: từ, romaji, nghĩa, câu ví dụ…">
+    <select id="set"><option value="jp">📚 2000 từ thông dụng</option><option value="it">💻 1800 từ vựng IT</option></select>
     <select id="range"></select>
     <label><input type="checkbox" id="hideEn"> Che bản dịch</label>
   </div>
@@ -54,17 +55,27 @@ audio{width:100%}
   <button class="more" id="more">Xem thêm</button>
 </div>
 <script src="data.js"></script>
+<script src="it1800.js"></script>
 <script>
 (function(){
 const $=id=>document.getElementById(id);
-const D=(window.JP2000||[]).map(r=>({n:r[0],w:r[1],r:r[2],p:r[3],m:r[4],jp:r[5],en:r[6]}));
+const SETS={jp:(window.JP2000||[]).map(r=>({n:r[0],w:r[1],r:r[2],p:r[3],m:r[4],jp:r[5],en:r[6]})),
+  it:(window.JPIT||[]).map(r=>({n:r[0],w:r[1],r:r[2],p:r[3],m:r[4]}))};
+let D=SETS.jp;
 const ls={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v);}catch(e){return d;}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}};
 const esc=s=>String(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 // list
 const rangeSel=$("range");
-rangeSel.innerHTML='<option value="all">Tất cả</option>'+Array.from({length:10},(_,c)=>`<option value="${c}">${c*200+1}–${(c+1)*200}</option>`).join("");
-rangeSel.value=ls.get("jp2000Range","all");
+const setSel=$("set");setSel.value=/[?&#]set=it\b/.test(location.href)?"it":"jp";
+function useSet(){
+  D=SETS[setSel.value];const n=Math.ceil(D.length/200);
+  rangeSel.innerHTML='<option value="all">Tất cả</option>'+Array.from({length:n},(_,c)=>`<option value="${c}">${c*200+1}–${Math.min((c+1)*200,D.length)}</option>`).join("");
+  const sub=$("sub");sub.dataset.jp=sub.dataset.jp||sub.textContent;sub.textContent=setSel.value==="it"?"Từ vựng tiếng Nhật chuyên ngành IT (BrSE, lập trình, kiểm thử, dự án): từ · cách đọc · Hán Việt · nghĩa. Bấm 🔊 để nghe.":sub.dataset.jp;
+  document.querySelector("h1").textContent=setSel.value==="it"?"💻 1800 từ vựng tiếng Nhật ngành IT":"🗾 2000 Most Common Japanese Words in Context";
+}
+useSet();
+rangeSel.value=ls.get("jp2000Range_"+setSel.value,"all");if(!rangeSel.value)rangeSel.value="all";
 $("hideEn").checked=ls.get("jp2000HideEn",false);
 document.body.classList.toggle("hideEn",$("hideEn").checked);
 $("hideEn").onchange=e=>{document.body.classList.toggle("hideEn",e.target.checked);ls.set("jp2000HideEn",e.target.checked);};
@@ -82,8 +93,8 @@ function more(){
   const part=cur.slice(shown,shown+PAGE);shown+=part.length;
   $("list").insertAdjacentHTML("beforeend",part.map(x=>`<div class="item">
     <div class="head"><span class="num">${x.n}</span><span class="w">${esc(x.w)}</span>
-      <button class="say" data-t="${esc(x.w)}" title="Nghe từ">🔊</button>
-      <span class="r">${esc(x.r)}</span><span class="p">${esc(x.p)}</span><span class="m">${esc(x.m)}</span></div>
+      <button class="say" data-t="${esc(x.r&&!/[a-z]/i.test(x.r)?x.r:x.w)}" title="Nghe từ">🔊</button>
+      <span class="r">${esc(x.r)}</span>${x.p?`<span class="p">${esc(x.p)}</span>`:""}<span class="m">${esc(x.m)}</span></div>
     ${x.jp?`<div class="jp">${esc(x.jp)} <button class="say" data-t="${esc(x.jp)}" title="Nghe câu">🔊</button></div><div class="en">${esc(x.en)}</div>`:""}
   </div>`).join(""));
   $("more").style.display=shown<cur.length?"":"none";
@@ -91,7 +102,8 @@ function more(){
 $("list").addEventListener("click",e=>{const b=e.target.closest(".say");if(b)say(b.dataset.t);});
 $("more").onclick=more;
 let tmr;$("q").oninput=()=>{clearTimeout(tmr);tmr=setTimeout(filter,200);};
-rangeSel.onchange=()=>{ls.set("jp2000Range",rangeSel.value);filter();};
+rangeSel.onchange=()=>{ls.set("jp2000Range_"+setSel.value,rangeSel.value);filter();};
+setSel.onchange=()=>{try{history.replaceState(null,"",location.pathname+(setSel.value==="it"?"?set=it":""));}catch(e){}useSet();rangeSel.value=ls.get("jp2000Range_"+setSel.value,"all");if(!rangeSel.value)rangeSel.value="all";filter();};
 filter();
 })();
 </script>

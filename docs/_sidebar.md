@@ -127,6 +127,7 @@
 - [🧱 Bộ nền & 🗺️ Lộ trình Kanji (252 mảnh ghép nên mọi chữ, học thành phần trước)](kanji-viewer/index.html?set=road&view=rad)
 - [🎌 Từ vựng JLPT N5–N1 (lọc chữ mềm/cứng)](jlpt-vocab/index.html)
 - [🗣️ 2000 từ tiếng Nhật đầy đủ (kèm ví dụ)](jp2000-full/index.html)
+- [💻 1800 từ vựng tiếng Nhật IT (cách đọc, Hán Việt, nghĩa)](jp2000-full/index.html?set=it)
   - [🔤 Từ chỉ viết bằng kana (không chữ Hán)](jp2000-kana.md)
 - [📊 Bảng tham khảo: 2136 Kanji — xem trên web](kanji-2136/index.html)
 - [🖼️ Poster 2136 Kanji (xem trên web, in A0, hình nền)](kanji-poster/index.html)
