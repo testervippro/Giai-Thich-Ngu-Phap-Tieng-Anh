@@ -39,6 +39,24 @@
     .info .hv { font-weight:800; color:var(--accent); font-size:17px; }
     .info .s { color:var(--muted); margin-top:3px; }
     .info .acts { clear:both; display:flex; gap:6px; flex-wrap:wrap; padding-top:8px; }
+    .hidden { display:none !important; }
+    .btn.on { border-color:var(--accent); background:var(--accentbg); color:var(--accent); font-weight:700; }
+    .full { overflow-x:auto; padding:10px; border:1px solid var(--line); border-radius:14px; background:var(--card); }
+    .full .g { margin:0 0 6px; }
+    .tr { display:flex; align-items:center; }
+    .kids { display:flex; flex-direction:column; gap:3px; margin-left:16px; padding-left:14px; border-left:2px solid #f0c48a; position:relative; }
+    .kids > .tr, .kids > .lv { position:relative; }
+    .kids > .tr::before, .kids > .lv::before { content:""; position:absolute; left:-14px; top:50%; width:12px; border-top:2px solid #f0c48a; }
+    .lv { display:flex; flex-wrap:wrap; gap:3px; max-width:720px; }
+    .n { border:1.5px solid var(--line); background:var(--bg); color:inherit; border-radius:8px; padding:1px 6px; font:inherit; cursor:pointer; line-height:1.1; text-align:center; min-width:38px; }
+    .n .k { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:20px; display:block; }
+    .n .t { font-size:9.5px; font-weight:700; color:var(--muted); display:block; white-space:nowrap; }
+    .n.root { border-color:#d97706; border-width:2px; }
+    .n.root .k { font-size:26px; }
+    .n.piece { border-style:dashed; }
+    .n.hit { outline:3px solid var(--accent); background:var(--accentbg); }
+    .solo { display:flex; flex-wrap:wrap; gap:3px; }
+    body.all .info { position:sticky; bottom:8px; box-shadow:0 4px 18px rgba(0,0,0,.15); }
     .legend { display:flex; gap:14px; flex-wrap:wrap; font-size:12.5px; color:var(--muted); margin:8px 2px 0; }
     .legend i { display:inline-block; width:12px; height:12px; border-radius:3px; border:2px solid; vertical-align:-2px; margin-right:4px; }
   </style>
@@ -49,12 +67,18 @@
 <main>
   <h1>🧠 Mind map Kanji</h1>
   <div class="bar">
+    <button class="btn on" id="modeOne" title="Mind map của một chữ">🎯 Một chữ</button>
+    <button class="btn" id="modeAll" title="Cả 2136 chữ trên một mind map">🌳 Toàn bộ 2136 chữ</button>
     <button class="btn" id="back" title="Chữ xem trước đó">← Quay lại</button>
     <input type="search" id="find" placeholder="Nhập chữ / Hán Việt / số thẻ rồi Enter (vd 肺, PHẾ, 584)" aria-label="Tìm chữ">
     <button class="btn" id="rand">🎲 Ngẫu nhiên</button>
     <a class="btn" id="write" href="write.html" style="text-decoration:none">✍️ Luyện viết chữ này</a>
   </div>
-  <div class="wrap"><div class="map" id="map"></div></div>
+  <div class="wrap" id="oneWrap"><div class="map" id="map"></div></div>
+  <div id="allWrap" class="hidden">
+    <div class="hint" id="allHint" style="margin:0 2px 8px"></div>
+    <div class="full" id="full"></div>
+  </div>
   <div class="legend">
     <span><i style="border-color:#d97706"></i>🧩 Ghép từ: các mảnh câu chuyện nhắc tới, tách tới bộ gốc (bấm ⊖/⊕ thu/mở)</span>
     <span><i style="border-color:#2563eb"></i>➕ Ghép thành: các chữ có câu chuyện dùng chữ này (bấm ⊕ mở tiếp)</span>
@@ -191,22 +215,75 @@
     el.innerHTML = `<span class="big">${esc(c)}</span><div class="hv">${esc(x.hv)} <span style="font-weight:400;color:inherit">– ${esc(cap(x.m))}</span></div>
       <div class="s">${x.s ? '📖 ' + esc(x.s) : (BYK.has(c) ? '' : 'Mảnh ghép (bộ thủ / dạng biến thể)')}</div>
       ${ps.length ? `<div class="s">🧩 ${esc(c)} = ${ps.map(p => `${esc(p)} ${esc(info(p) ? info(p).hv : '')}`).join(' + ')}</div>` : ''}
-      <div class="acts">${c !== center ? `<button class="btn" data-go="${esc(c)}">Đặt ${esc(c)} vào giữa</button>` : ''}${BYK.has(c) ? `<a class="btn" style="text-decoration:none" href="write.html#${encodeURIComponent(c)}">✍️ Luyện viết ${esc(c)}</a>` : ''}</div>`;
-    el.querySelectorAll('[data-go]').forEach(b => b.onclick = () => setCenter(b.dataset.go));
+      <div class="acts">${c !== center || mode === 'all' ? `<button class="btn" data-go="${esc(c)}">🎯 Mind map riêng của ${esc(c)}</button>` : ''}${BYK.has(c) ? `<a class="btn" style="text-decoration:none" href="write.html#${encodeURIComponent(c)}">✍️ Luyện viết ${esc(c)}</a>` : ''}</div>`;
+    el.querySelectorAll('[data-go]').forEach(b => b.onclick = () => { if (mode === 'all') setMode('one'); setCenter(b.dataset.go); window.scrollTo(0, 0); });
   }
 
+  // ================= 🌳 Toàn bộ: rừng câu chuyện cho cả 2136 chữ =================
+  // Mỗi chữ treo dưới mảnh "lớn nhất" (tầng sâu nhất) mà câu chuyện của nó nhắc tới,
+  // nên đi từ gốc ra là thấy chữ được ghép dần lên: 二,日 → 車 → 重 → 動 → 働.
+  let fullBuilt = false;
+  function buildFull(){
+    if (fullBuilt) return; fullBuilt = true;
+    const DEP = new Map();
+    const dep = (c, st) => { if (DEP.has(c)) return DEP.get(c); if (st.has(c)) return 0; st.add(c);
+      const ps = parts(c); const d = ps.length ? 1 + Math.max(...ps.map(p => dep(p, st))) : 0; st.delete(c); DEP.set(c, d); return d; };
+    const ks = [...BYK.keys()]; ks.forEach(k => dep(k, new Set()));
+    const kids = new Map(), par = new Map();
+    ks.forEach(k => { const ps = parts(k); if (!ps.length) return;
+      const p = ps.reduce((a, b) => (DEP.get(b) || 0) > (DEP.get(a) || 0) ? b : a);
+      par.set(k, p); if (!kids.has(p)) kids.set(p, []); kids.get(p).push(k); });
+    const nodes = new Set(ks); par.forEach(p => nodes.add(p));
+    const size = new Map(); const sz = c => { if (size.has(c)) return size.get(c); size.set(c, 1); const v = 1 + (kids.get(c) || []).reduce((t, k) => t + sz(k), 0); size.set(c, v); return v; };
+    const roots = [...nodes].filter(n => !par.has(n)).sort((a, b) => sz(b) - sz(a));
+    const btn = (c, cls) => { const x = info(c); return `<button class="n ${cls || ''}${BYK.has(c) ? '' : ' piece'}" data-k="${esc(c)}" title="${esc(x ? x.hv + ' – ' + cap(x.m) + (x.s ? '\n' + x.s : '') : '')}"><span class="k">${esc(c)}</span><span class="t">${esc(x ? x.hv : '')}</span></button>`; };
+    const tree = (c, cls) => {
+      const ch = (kids.get(c) || []).slice().sort((a, b) => sz(b) - sz(a));
+      if (!ch.length) return btn(c, cls);
+      const sub = ch.filter(k => kids.has(k)), leaf = ch.filter(k => !kids.has(k));
+      return `<div class="tr">${btn(c, cls)}<div class="kids">${sub.map(k => `<div class="tr">${tree(k)}</div>`).join('')}${leaf.length ? `<div class="lv">${leaf.map(k => btn(k)).join('')}</div>` : ''}</div></div>`;
+    };
+    const big = roots.filter(r => kids.has(r)), solo = roots.filter(r => !kids.has(r));
+    $('full').innerHTML = big.map(r => `<div class="g">${tree(r, 'root')}</div>`).join('') +
+      (solo.length ? `<div class="g" style="margin-top:12px"><div class="hint" style="margin-bottom:4px">Chữ đứng riêng (câu chuyện không nhắc mảnh nào, cũng chưa dùng để ghép chữ khác) · ${solo.length} chữ</div><div class="solo">${solo.map(k => btn(k)).join('')}</div></div>` : '');
+    $('allHint').textContent = `${ks.length} chữ + ${nodes.size - ks.length} mảnh ghép · ${big.length} gốc (bộ/chữ cơ bản), mỗi chữ treo dưới mảnh lớn nhất trong câu chuyện của nó. Bấm 1 lần xem câu chuyện, bấm đúp mở mind map riêng. Gõ chữ vào ô tìm để nhảy tới.`;
+    $('full').addEventListener('click', e => { const b = e.target.closest('.n'); if (!b) return;
+      $('full').querySelectorAll('.n.hit').forEach(x => x.classList.remove('hit')); b.classList.add('hit');
+      sel = { v:'F', c:b.dataset.k }; showInfo(); });
+    $('full').addEventListener('dblclick', e => { const b = e.target.closest('.n'); if (b){ setMode('one'); setCenter(b.dataset.k); } });
+  }
+  function jumpFull(c){
+    const b = $('full').querySelector(`.n[data-k="${CSS.escape(c)}"]`); if (!b) return false;
+    $('full').querySelectorAll('.n.hit').forEach(x => x.classList.remove('hit')); b.classList.add('hit');
+    b.scrollIntoView({ behavior:'smooth', block:'center', inline:'center' }); sel = { v:'F', c }; showInfo(); return true;
+  }
+  let mode = 'one';
+  function setMode(m){
+    mode = m; document.body.classList.toggle('all', m === 'all');
+    $('modeOne').classList.toggle('on', m === 'one'); $('modeAll').classList.toggle('on', m === 'all');
+    $('oneWrap').classList.toggle('hidden', m !== 'one'); document.querySelector('.legend').classList.toggle('hidden', m !== 'one');
+    $('allWrap').classList.toggle('hidden', m !== 'all'); $('back').classList.toggle('hidden', m !== 'one');
+    if (m === 'all'){ buildFull(); if (center) jumpFull(center); }
+    else render();
+    try { history.replaceState(null, '', m === 'all' ? '#all' : '#' + encodeURIComponent(center)); } catch {}
+  }
+  $('modeOne').onclick = () => setMode('one');
+  $('modeAll').onclick = () => setMode('all');
+
   $('back').onclick = () => { if (hist.length) setCenter(hist.pop(), false); };
-  $('rand').onclick = () => { const c = ALL.filter(x => x.s); setCenter(c[Math.floor(Math.random() * c.length)].k); };
+  $('rand').onclick = () => { const c = ALL.filter(x => x.s), k = c[Math.floor(Math.random() * c.length)].k; if (mode === 'all') jumpFull(k); else setCenter(k); };
   $('find').addEventListener('change', e => {
     const q = e.target.value.trim(); if (!q) return;
     const ql = q.toLowerCase();
     const x = BYK.get(q) || RADK.get(q) || ALL.find(x => String(x.n) === q || x.hv.toLowerCase() === ql) || ALL.find(x => x.hv.toLowerCase().includes(ql) || x.m.toLowerCase().includes(ql));
-    if (x) setCenter(x.k);
+    if (!x) return;
+    if (mode === 'all') jumpFull(x.k); else setCenter(x.k);
   });
-  addEventListener('resize', () => center && render());
+  addEventListener('resize', () => center && mode === 'one' && render());
 
   const start = decodeURIComponent(location.hash.slice(1)) || '肺';
   setCenter(info(start) ? start : '肺', false);
+  if (start === 'all' || /[?&]all=1/.test(location.search)) setMode('all');
 })();
 </script>
 </body>
