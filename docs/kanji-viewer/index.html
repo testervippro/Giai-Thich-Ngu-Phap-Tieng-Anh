@@ -173,7 +173,11 @@ const ROAD = window.ROADMAP || { order: [], parts: {}, newp: {}, use: {} };
   const inRoad = new Set(D.road);
   D.road.push(...D.p12.filter(p => !inRoad.has(p)));   // thẻ không có trong dữ liệu chữ: để cuối, không bỏ sót
 }
-const ROAD_STAGE = 50;   // mỗi chặng 50 chữ
+// Chặng của lộ trình: mỗi chặng học 5 mảnh bộ nền mới rồi các chữ ghép hoàn toàn từ mảnh đã biết
+const STAGES = ROAD.stages || [];
+const STAGE_OF = new Map();
+STAGES.forEach((st, si) => st.k.forEach(n => STAGE_OF.set(n, si)));
+function stageOf(path){ const n = +((String(path).match(/(\d{4})[^/]*\.webp$/) || [])[1]); return STAGE_OF.has(n) ? STAGE_OF.get(n) : -1; }
 // "= 走 (TẨU) + 亻→人 (NHÂN)": thành phần của chữ, kèm âm Hán Việt nếu là chữ đã có trong bộ
 const KBYCHAR = new Map((window.KANJI || []).map(r => [r[1], r]));
 function roadPartsHtml(num, withNew){
@@ -820,12 +824,20 @@ function renderView(){
   $("roadInfo").style.display = showRoad ? "" : "none";
   if (showRoad){
     $("roadInfo").innerHTML = (set === "road"
-      ? `<div><b>🗺️ Chặng ${Math.floor(i / ROAD_STAGE) + 1}</b> · ` + (roadPartsHtml(num, true) || "🧩 Chữ nền — không ghép từ chữ nào khác") + "</div>"
+      ? `<div><b>🗺️ Chặng ${stageOf(list[i]) + 1}/${STAGES.length}</b> · ` + (roadPartsHtml(num, true) || "🧩 Chữ nền — không ghép từ chữ nào khác") + "</div>"
       : "") + `<div style="margin-top:4px">${radLeafHtml(num)}</div>`;
   }
   if (view === "rad") renderRadPanel(); else if (isList) renderPlainList();
 }
 let radSel = null;
+const FJ = "font-family:'Hiragino Mincho ProN','Yu Mincho','Noto Serif JP',serif";
+function stageHead(si){
+  const st = STAGES[si]; if (!st) return "";
+  const esc = s => String(s || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const cum = STAGES.slice(0, si + 1).reduce((a, x) => a + x.k.length, 0);
+  return `<div style="font-weight:800;font-size:16px;color:var(--accent)">🗺️ Chặng ${si + 1}/${STAGES.length} · mở khoá ${st.k.length} chữ <span class="stat" style="font-weight:400">(cộng dồn ${cum})</span></div>
+    <div style="margin-top:4px">🧱 Mảnh mới: ${st.p.map(k => { const r = RADMAP.get(k); return `<a href="#" class="radLink" data-rad="${esc(k)}" style="text-decoration:none;color:inherit;white-space:nowrap"><span style="${FJ};font-size:22px">${esc(k)}</span>${r && r.f.length ? `<span class="stat">${r.f.map(esc).join("")}</span>` : ""} <b>${esc(r ? r.n : "")}</b> <span class="stat">${esc(r ? r.m : "")}</span></a>`; }).join(" · ")}</div>`;
+}
 function renderRadPanel(){
   plainListFor = null;
   const esc = s => String(s || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -853,6 +865,13 @@ function renderRadPanel(){
       <button id="radClose" style="margin-left:auto">✕</button></div>
       <div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:10px">${nums.map(n => { const k = KTXT.get(String(n).padStart(4, "0")); return k ? `<button class="radKanji" data-num="${n}" title="${esc(k[2])} – ${esc(k[3])}" style="padding:4px 8px;min-width:0"><span style="${F};font-size:22px">${esc(k[1])}</span><br><span style="font-size:11px">${esc(k[2])}</span></button>` : ""; }).join("")}</div></div>`;
   }
+  // Lộ trình: chặng -> 5 mảnh mới -> các chữ mở khoá
+  html += `<div style="margin:6px 0 8px;font-weight:800;font-size:18px">🗺️ Lộ trình ${STAGES.length} chặng</div>`;
+  STAGES.forEach((st, si) => {
+    html += `<div style="margin:0 0 12px;padding:10px 12px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px">${stageHead(si)}
+      <div style="display:flex;flex-wrap:wrap;gap:5px;margin-top:8px">${st.k.map(n => { const k = KTXT.get(String(n).padStart(4, "0")); return k ? `<button class="radKanji" data-num="${n}" title="${esc(k[2])} – ${esc(k[3])}" style="padding:3px 7px;min-width:0"><span style="${F};font-size:21px">${esc(k[1])}</span><br><span style="font-size:10.5px">${esc(k[2])}</span></button>` : ""; }).join("")}</div></div>`;
+  });
+  html += `<details style="margin-top:16px"><summary style="cursor:pointer;font-weight:800;font-size:16px">📚 Tra cứu cả ${rads.length} mảnh theo độ hay gặp</summary>`;
   tiers.forEach(([t, title]) => {
     const rs = rads.filter(r => r.t === t);
     if (!rs.length) return;
@@ -862,6 +881,7 @@ function renderRadPanel(){
         <div style="font-weight:800;font-size:13px">${esc(r.n)}</div><div style="font-size:12px;color:var(--muted)">${esc(r.m)}</div>
         <div style="font-size:12px;font-weight:700;color:var(--accent)">${r.c} chữ</div></button>`).join("") + `</div>`;
   });
+  html += `</details>`;
   $("plainList").innerHTML = html;
   $("plainList").querySelectorAll(".radTile").forEach(b => b.onclick = () => { radSel = b.dataset.rad; renderRadPanel(); $("radDetail")?.scrollIntoView({ behavior: "smooth", block: "start" }); });
   if ($("radClose")) $("radClose").onclick = () => { radSel = null; renderRadPanel(); };
@@ -889,12 +909,14 @@ function renderPlainList(){
       ${r[5] ? `<div style="font-size:14px;line-height:1.5;margin-top:2px">📖 ${escT(r[5])}</div>` : ""}</div>`;
   });
   const head = set === "road"
-    ? `<div style="margin:0 0 10px;padding:10px 12px;border-radius:10px;background:var(--accentbg);font-size:14.5px;line-height:1.55">🗺️ <b>Lộ trình học</b>: mỗi chữ đều đứng <b>sau</b> các thành phần của nó (lấy đúng theo câu chuyện trong thẻ, vd 徒 = 走 + 亻), nên tới chữ ghép là đã biết sẵn các mảnh. Chữ nền học trước, chữ dễ (N5) và chữ làm thành phần cho nhiều chữ khác được ưu tiên. Chia ${Math.ceil(list.length / ROAD_STAGE)} chặng, mỗi chặng ${ROAD_STAGE} chữ.</div>`
+    ? `<div style="margin:0 0 10px;padding:10px 12px;border-radius:10px;background:var(--accentbg);font-size:14.5px;line-height:1.55">🗺️ <b>Lộ trình học</b>: ${STAGES.length} chặng. Mỗi chặng học <b>5 mảnh bộ nền mới</b>, rồi học ngay các chữ <b>ghép hoàn toàn</b> từ những mảnh đã biết — tới chữ nào cũng đã biết hết các mảnh của nó. Mảnh được chọn sao cho mở khoá nhiều chữ nhất (ưu tiên N5, N4).</div>`
     : "";
   const out = [];
+  let lastSi = -1;
   rows.forEach((row, ix) => {
-    if (set === "road" && ix % ROAD_STAGE === 0)
-      out.push(`<div class="roadStage" style="margin:16px 0 4px;font-weight:800;font-size:16px;color:var(--accent)">🗺️ Chặng ${ix / ROAD_STAGE + 1} · chữ ${ix + 1}–${Math.min(ix + ROAD_STAGE, rows.length)}</div>`);
+    const si = set === "road" ? stageOf(list[ix]) : -1;
+    if (set === "road" && si >= 0 && si !== lastSi && (lastSi = si) >= 0)
+      out.push(`<div class="roadStage" style="margin:18px 0 6px;padding:10px 12px;border-left:4px solid var(--accent);background:var(--accentbg);border-radius:8px">${stageHead(si)}</div>`);
     out.push(row);
   });
   $("plainList").innerHTML = head + `<div class="stat" style="margin:0 0 6px">${list.length} chữ · bấm vào chữ nào để mở thẻ đó</div>` + out.join("");

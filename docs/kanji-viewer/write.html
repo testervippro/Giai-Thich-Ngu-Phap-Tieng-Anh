@@ -63,6 +63,7 @@
     <span id="pos" style="font-size:13.5px;color:var(--muted)"></span>
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
+    <button class="btn on" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện của chữ">🖼 Ảnh: bật</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
 
@@ -81,7 +82,6 @@
         <button class="btn primary" id="play">▶ Xem cách viết</button>
         <button class="btn" id="stepBtn">Từng nét ⏭</button>
         <button class="btn on" id="numsBtn">Số thứ tự nét</button>
-        <button class="btn on" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện của chữ">🖼 Ảnh câu chuyện</button>
       </div>
     </section>
     <section class="panel">
@@ -294,7 +294,8 @@
     strokes.forEach(d => { const p = document.createElementNS('http://www.w3.org/2000/svg', 'path'); p.setAttribute('d', d); p.setAttribute('class', 'stroke'); p.setAttribute('stroke', 'rgba(194,65,12,.45)'); p.setAttribute('stroke-width', '4'); svg.appendChild(p); });
     if (st.quiz){ document.body.classList.remove('quiz'); $('modelBox').classList.remove('hidden'); drawModel(); }
   };
-  $('cardBtn').onclick = () => { st.card = !st.card; $('cardBtn').classList.toggle('on', st.card); save(); show(); };
+  const cardLabel = () => { $('cardBtn').classList.toggle('on', st.card); $('cardBtn').textContent = st.card ? '🖼 Ảnh: bật' : '🖼 Ảnh: tắt'; };
+  $('cardBtn').onclick = () => { st.card = !st.card; cardLabel(); save(); show(); };
   $('kImg').onclick = () => $('kCard').classList.toggle('zoom');
   $('quizBtn').onclick = () => { st.quiz = !st.quiz; $('quizBtn').classList.toggle('on', st.quiz); show(); };
   $('find').addEventListener('change', e => {
@@ -313,7 +314,7 @@
     else if (e.key === 'h' || e.key === 'H') setHint(!hintOn);
   });
   window.addEventListener('ui-theme-change', () => { redraw(); });
-  $('numsBtn').classList.toggle('on', st.nums); $('ghostBtn').classList.toggle('on', st.ghost); $('quizBtn').classList.toggle('on', st.quiz); $('cardBtn').classList.toggle('on', st.card);
+  $('numsBtn').classList.toggle('on', st.nums); $('ghostBtn').classList.toggle('on', st.ghost); $('quizBtn').classList.toggle('on', st.quiz); cardLabel();
   i = st.pos[st.set] || 0;
   // deep link: write.html#泣 or #104
   const h = decodeURIComponent(location.hash.slice(1));
