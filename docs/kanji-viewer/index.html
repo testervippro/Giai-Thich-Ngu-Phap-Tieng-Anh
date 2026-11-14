@@ -151,12 +151,20 @@ img{max-width:100%;max-height:70vh;border-radius:8px;background:#fff;
     </select>
   </div>
   <div class="speed">
-    <span>Giọng đọc:</span>
+    <span>Giọng Anh:</span>
     <select id="voiceSelect" class="setselect" style="margin:0;width:auto;flex:1;padding:6px 8px;font-size:13px">
       <option value="kokoro:af_heart">⭐ Heart (nữ Mỹ)</option>
       <option value="kokoro:af_bella">⭐ Bella (nữ Mỹ)</option>
       <option value="kokoro:am_michael">⭐ Michael (nam Mỹ)</option>
       <option value="kokoro:bf_emma">⭐ Emma (nữ Anh)</option>
+    </select>
+  </div>
+  <div class="speed">
+    <span>Giọng Việt:</span>
+    <select id="viVoiceSelect" class="setselect" style="margin:0;width:auto;flex:1;padding:6px 8px;font-size:13px">
+      <option value="vi_huyen">⭐ Ngọc Huyền (nữ Bắc, tự nhiên)</option>
+      <option value="vi_dang">⭐ Hải Đăng (nam Bắc, tự nhiên)</option>
+      <option value="system">Giọng của máy</option>
     </select>
   </div>
 </div>
@@ -387,6 +395,9 @@ function kokoroKey(t){
 function stopKokoro(){
   if (kokoroAudio){ kokoroAudio.onended = kokoroAudio.onerror = null; kokoroAudio.pause(); kokoroAudio = null; }
 }
+// Giọng Việt tự nhiên (VieNeu-TTS) tạo sẵn ở tts/vi_huyen, tts/vi_dang; "system" = giọng máy.
+let viVoiceName = localStorage.getItem("kanjiViewerViVoice") || "vi_huyen";
+function viVoice(){ return viVoiceName === "system" ? null : viVoiceName; }
 function kokoroVoice(){
   const v = $("voiceSelect").value || savedVoiceName;
   return v && v.startsWith("kokoro:") ? v.slice(7) : null;
@@ -578,7 +589,7 @@ async function speakCurrent(){
   if (speakLang === "en" && enText){ text = enText; readLang = "en"; }
 
   stopKokoro();
-  const kv = readLang === "en" ? kokoroVoice() : null;
+  const kv = readLang === "en" ? kokoroVoice() : viVoice();
   if (kv){
     if ("speechSynthesis" in window && (speechSynthesis.speaking || speechSynthesis.pending)) speechSynthesis.cancel();
     const done = () => {
@@ -1017,6 +1028,14 @@ $("fastCap").addEventListener("input", (e) => {
 $("speakLang").addEventListener("change", (e) => {
   speakLang = e.target.value === "en" ? "en" : "vi";
   localStorage.setItem("kanjiViewerSpeakLang", speakLang);
+  speakDurations.length = 0;
+  if (speakOn) speakCurrent();
+});
+$("viVoiceSelect").value = viVoiceName;
+$("viVoiceSelect").addEventListener("change", (e) => {
+  viVoiceName = e.target.value;
+  localStorage.setItem("kanjiViewerViVoice", viVoiceName);
+  if (speakLang !== "vi"){ speakLang = "vi"; $("speakLang").value = "vi"; localStorage.setItem("kanjiViewerSpeakLang", speakLang); }
   speakDurations.length = 0;
   if (speakOn) speakCurrent();
 });
