@@ -139,12 +139,17 @@
   async function load(ch){
     if (cache.has(ch)) return cache.get(ch);
     const code = ch.codePointAt(0).toString(16).padStart(5, '0');
-    const p = fetch(KVG + code + '.svg').then(r => { if (!r.ok) throw new Error(r.status); return r.text(); }).then(txt => {
+    // Nét chữ lưu sẵn trên trang (kvg/<mã>.json, trích từ KanjiVG) — CDN jsdelivr hay
+    // từ chối kho KanjiVG (vượt giới hạn 50 MB) nên chỉ dùng CDN khi thiếu file.
+    const fromCdn = () => fetch(KVG + code + '.svg').then(r => { if (!r.ok) throw new Error(r.status); return r.text(); }).then(txt => {
       const doc = new DOMParser().parseFromString(txt.replace(/<!DOCTYPE[\s\S]*?]>/, ''), 'image/svg+xml');
       const paths = [...doc.querySelectorAll('path')].map(p => p.getAttribute('d')).filter(Boolean);
       const nums = [...doc.querySelectorAll('text')].map(t => ({ t:t.textContent, tr:t.getAttribute('transform') }));
       return { paths, nums };
     });
+    const p = fetch('kvg/' + code + '.json').then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(d => { if (!d.paths || !d.paths.length) throw new Error('empty'); return d; })
+      .catch(fromCdn);
     cache.set(ch, p);
     p.catch(() => cache.delete(ch));
     return p;
