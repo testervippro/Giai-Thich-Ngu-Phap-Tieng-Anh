@@ -44,15 +44,19 @@
     .card img { display:block; width:100%; max-width:640px; height:auto; aspect-ratio:784/252; border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
     .card.zoom img { max-width:none; cursor:zoom-out; }
     .quiz .card { display:none; }
-    .words { margin-top:14px; }
+    .info { flex-wrap:wrap; align-items:flex-start; }
+    .words { flex:1 1 380px; min-width:0; margin:0 0 0 12px; padding:8px 10px; }
+    .words h2 { margin-bottom:4px; }
+    .wScroll { max-height:210px; overflow-y:auto; overscroll-behavior:contain; }
+    @media (max-width:700px){ .words { margin:4px 0 0; flex-basis:100%; } }
     .words table { width:100%; border-collapse:collapse; font-size:14.5px; }
-    .words td { padding:6px 8px; border-top:1px solid var(--line); vertical-align:top; }
-    .words .w { font-size:20px; white-space:nowrap; font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
+    .words td { padding:5px 8px; border-top:1px solid var(--line); vertical-align:top; }
+    .words .w { font-size:19px; white-space:nowrap; font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
     .words .w b { color:var(--accent); }
     .words .r { color:var(--muted); white-space:nowrap; }
     .words .h { font-weight:700; font-size:13px; white-space:nowrap; }
     .quiz .words { display:none; }
-    .words .w { width:1%; }
+    .words .w { width:1%; padding-right:14px; white-space:normal; min-width:4.2em; max-width:7.5em; } .words td + td { width:100%; }
     @media (max-width:560px){ .words .r, .words .h { white-space:normal; } .words td { padding:5px 4px; } }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
@@ -81,6 +85,10 @@
   <div class="info" id="info">
     <div class="big" id="kBig"></div>
     <div><div class="hv" id="kHv"></div><div class="m" id="kM"></div><div class="tag" id="kTag"></div></div>
+    <section class="panel words hidden" id="words">
+      <h2><span>📚 Từ vựng có chữ này <span style="font-weight:400">(Kanji in Context)</span></span><span id="wCount"></span></h2>
+      <div class="wScroll"><table><tbody id="wBody"></tbody></table></div>
+    </section>
   </div>
   <div class="story" id="kStory"></div>
   <figure class="card" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
@@ -113,11 +121,6 @@
       </div>
     </section>
   </div>
-  <section class="panel words hidden" id="words">
-    <h2><span>📚 Từ vựng có chữ này <span style="font-weight:400">(Kanji in Context)</span></span><span id="wCount"></span></h2>
-    <table><tbody id="wBody"></tbody></table>
-    <div class="tools"><button class="btn hidden" id="wMore"></button></div>
-  </section>
   <p class="note">Phím tắt: <b>←/→</b> đổi chữ · <b>Space</b> sang chữ tiếp theo · <b>A</b> xem cách viết · <b>Z</b> xóa nét · <b>C</b> xóa hết · <b>H</b> gợi ý nét.
   Chế độ <b>Viết từ trí nhớ</b> ẩn chữ mẫu và chữ mờ, chỉ còn Hán Việt và nghĩa. Viết xong bấm <b>So với mẫu</b> để đối chiếu.
   Dữ liệu nét chữ: <a href="https://kanjivg.tagaini.net" target="_blank" rel="noopener">KanjiVG</a> © Ulrich Apel, giấy phép <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC BY-SA 3.0</a>. Máy chỉ đếm số nét, không chấm điểm hình dạng nét.</p>
@@ -273,12 +276,10 @@
     const hit = WORDS.filter(w => w[0].includes(k));
     $('words').classList.toggle('hidden', !hit.length);
     if (!hit.length) return;
-    const N = 12, rows = wAll ? hit : hit.slice(0, N);
+    const rows = hit;
     $('wCount').textContent = `${hit.length} từ`;
     $('wBody').innerHTML = rows.map(w => `<tr><td class="w">${escH(w[0]).split(k).join('<b>' + k + '</b>')}</td><td><div><span class="r">${escH(w[1])}</span> · <span class="h">${escH(w[3])}</span></div><div>${escH(w[2])}</div></td></tr>`).join('');
-    $('wMore').classList.toggle('hidden', hit.length <= N);
-    $('wMore').textContent = wAll ? 'Thu gọn' : `Xem thêm ${hit.length - N} từ`;
-    $('wMore').onclick = () => { wAll = !wAll; showWords(k, true); };
+    $('wBody').closest('.wScroll').scrollTop = 0;
   }
 
   // ---------- show a kanji ----------
