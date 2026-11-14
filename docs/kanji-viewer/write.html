@@ -40,6 +40,10 @@
     .tools { display:flex; gap:6px; flex-wrap:wrap; margin-top:8px; }
     .note { color:var(--muted); font-size:12.5px; margin-top:14px; line-height:1.5; }
     .quiz .big { visibility:hidden; }
+    .card { margin:0 0 12px; }
+    .card img { display:block; width:100%; max-width:640px; height:auto; aspect-ratio:784/252; border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
+    .card.zoom img { max-width:none; cursor:zoom-out; }
+    .quiz .card { display:none; }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Luyện viết Kanji"></script>
@@ -67,6 +71,7 @@
     <div><div class="hv" id="kHv"></div><div class="m" id="kM"></div><div class="tag" id="kTag"></div></div>
   </div>
   <div class="story" id="kStory"></div>
+  <figure class="card" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
 
   <div class="layout">
     <section class="panel">
@@ -76,6 +81,7 @@
         <button class="btn primary" id="play">▶ Xem cách viết</button>
         <button class="btn" id="stepBtn">Từng nét ⏭</button>
         <button class="btn on" id="numsBtn">Số thứ tự nét</button>
+        <button class="btn on" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện của chữ">🖼 Ảnh câu chuyện</button>
       </div>
     </section>
     <section class="panel">
@@ -105,11 +111,11 @@
 (() => {
   "use strict";
   const $ = id => document.getElementById(id);
-  const ALL = (window.KANJI || []).map(r => ({ n:r[0], k:r[1], hv:r[2], m:r[3], j:r[4], s:r[5] }));
+  const ALL = (window.KANJI || []).map(r => ({ n:r[0], k:r[1], hv:r[2], m:r[3], j:r[4], s:r[5], img:r[6] }));
   const BYN = new Map(ALL.map(x => [x.n, x]));
   const KVG = 'https://cdn.jsdelivr.net/gh/KanjiVG/kanjivg@r20260714/kanji/';
   const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
-  const st = Object.assign({ set:'all', pos:{}, ghost:true, nums:true, quiz:false }, ls.get('kanjiWrite', {}));
+  const st = Object.assign({ set:'all', pos:{}, ghost:true, nums:true, quiz:false, card:true }, ls.get('kanjiWrite', {}));
   const cache = new Map();
   let list = [], i = 0, strokes = [], drawn = [], cur = null, timer = null, stepAt = 0;
 
@@ -239,6 +245,11 @@
     $('kBig').textContent = x.k; $('kHv').textContent = x.hv; $('kM').textContent = cap(x.m);
     $('kTag').textContent = `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`;
     $('kStory').textContent = x.s ? '📖 ' + x.s : '';
+    // Ảnh thẻ câu chuyện (hình minh hoạ + chữ) — nhìn hình nhớ nhanh hơn chỉ đọc chữ.
+    $('kCard').classList.toggle('hidden', !(st.card && x.img));
+    if (x.img){ $('kImg').src = x.img; $('kImg').alt = `Ảnh câu chuyện thẻ ${x.n}: ${x.k}`; }
+    else $('kImg').removeAttribute('src');
+    [list[i+1], list[i-1]].forEach(y => { if (y && y.img){ const im = new Image(); im.src = y.img; } });
     $('pos').textContent = `${i + 1} / ${list.length}`;
     document.body.classList.toggle('quiz', st.quiz);
     $('modelBox').classList.toggle('hidden', st.quiz);
@@ -278,6 +289,8 @@
     strokes.forEach(d => { const p = document.createElementNS('http://www.w3.org/2000/svg', 'path'); p.setAttribute('d', d); p.setAttribute('class', 'stroke'); p.setAttribute('stroke', 'rgba(194,65,12,.45)'); p.setAttribute('stroke-width', '4'); svg.appendChild(p); });
     if (st.quiz){ document.body.classList.remove('quiz'); $('modelBox').classList.remove('hidden'); drawModel(); }
   };
+  $('cardBtn').onclick = () => { st.card = !st.card; $('cardBtn').classList.toggle('on', st.card); save(); show(); };
+  $('kImg').onclick = () => $('kCard').classList.toggle('zoom');
   $('quizBtn').onclick = () => { st.quiz = !st.quiz; $('quizBtn').classList.toggle('on', st.quiz); show(); };
   $('find').addEventListener('change', e => {
     const q = e.target.value.trim().toLowerCase(); if (!q) return;
@@ -295,7 +308,7 @@
     else if (e.key === 'h' || e.key === 'H') setHint(!hintOn);
   });
   window.addEventListener('ui-theme-change', () => { redraw(); });
-  $('numsBtn').classList.toggle('on', st.nums); $('ghostBtn').classList.toggle('on', st.ghost); $('quizBtn').classList.toggle('on', st.quiz);
+  $('numsBtn').classList.toggle('on', st.nums); $('ghostBtn').classList.toggle('on', st.ghost); $('quizBtn').classList.toggle('on', st.quiz); $('cardBtn').classList.toggle('on', st.card);
   i = st.pos[st.set] || 0;
   // deep link: write.html#泣 or #104
   const h = decodeURIComponent(location.hash.slice(1));
