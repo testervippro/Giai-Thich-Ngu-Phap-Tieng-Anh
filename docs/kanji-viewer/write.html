@@ -50,16 +50,16 @@
     .sub b { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:19px; color:var(--ink); }
     .sub .hv2 { font-weight:800; color:var(--accent); }
     .info { flex-wrap:wrap; align-items:flex-start; }
-    .words { flex:1 1 380px; min-width:0; margin:0 0 0 12px; padding:8px 10px; }
+    .words { flex:1 1 380px; min-width:0; margin:0 0 0 12px; padding:6px 8px; }
     .words h2 { margin-bottom:4px; }
-    .wScroll { max-height:210px; overflow-y:auto; overscroll-behavior:contain; }
+    .wScroll { max-height:150px; overflow-y:auto; overscroll-behavior:contain; }
     @media (max-width:700px){ .words { margin:4px 0 0; flex-basis:100%; } }
-    .words table { width:100%; border-collapse:collapse; font-size:14.5px; }
-    .words td { padding:5px 8px; border-top:1px solid var(--line); vertical-align:top; }
-    .words .w { font-size:19px; white-space:nowrap; font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
+    .words table { width:100%; border-collapse:collapse; font-size:13.5px; }
+    .words td { padding:2px 6px; line-height:1.35; border-top:1px solid var(--line); vertical-align:top; }
+    .words .w { font-size:17px; white-space:nowrap; font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
     .words .w b { color:var(--accent); }
-    .words .r { color:var(--muted); white-space:nowrap; }
-    .words .h { font-weight:700; font-size:13px; white-space:nowrap; }
+    .words .r { color:var(--muted); }
+    .words .h { font-weight:700; font-size:12px; }
     .quiz .words { display:none; }
     .words .w { width:1%; padding-right:14px; white-space:normal; min-width:4.2em; max-width:7.5em; } .words td + td { width:100%; }
     @media (max-width:560px){ .words .r, .words .h { white-space:normal; } .words td { padding:5px 4px; } }
@@ -297,7 +297,7 @@
     if (!hit.length) return;
     const rows = hit;
     $('wCount').textContent = `${hit.length} từ`;
-    $('wBody').innerHTML = rows.map(w => `<tr><td class="w">${escH(w[0]).split(k).join('<b>' + k + '</b>')}</td><td><div><span class="r">${escH(w[1])}</span> · <span class="h">${escH(w[3])}</span></div><div>${escH(w[2])}</div></td></tr>`).join('');
+    $('wBody').innerHTML = rows.map(w => `<tr><td class="w">${escH(w[0]).split(k).join('<b>' + k + '</b>')}</td><td><span class="r">${escH(w[1])}</span> · <span class="h">${escH(w[3])}</span> — ${escH(w[2])}</td></tr>`).join('');
     $('wBody').closest('.wScroll').scrollTop = 0;
   }
 
