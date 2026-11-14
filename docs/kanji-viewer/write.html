@@ -53,6 +53,7 @@
   <h1>✍️ Luyện viết Kanji</h1>
   <div class="bar">
     <select id="set" aria-label="Bộ chữ">
+      <option value="rad">🧱 Bộ nền (280 mảnh, hay gặp trước)</option>
       <option value="all">Tất cả 2.136 chữ</option>
       <option value="p1">Tập 1 (thẻ 1–1050)</option>
       <option value="p2">Tập 2 (thẻ 1051–2165)</option>
@@ -102,11 +103,12 @@
       </div>
     </section>
   </div>
-  <p class="note">Phím tắt: <b>←/→</b> đổi chữ · <b>Space</b> xem cách viết · <b>Z</b> xóa nét · <b>C</b> xóa hết · <b>H</b> gợi ý nét.
+  <p class="note">Phím tắt: <b>←/→</b> đổi chữ · <b>Space</b> sang chữ tiếp theo · <b>A</b> xem cách viết · <b>Z</b> xóa nét · <b>C</b> xóa hết · <b>H</b> gợi ý nét.
   Chế độ <b>Viết từ trí nhớ</b> ẩn chữ mẫu và chữ mờ, chỉ còn Hán Việt và nghĩa. Viết xong bấm <b>So với mẫu</b> để đối chiếu.
   Dữ liệu nét chữ: <a href="https://kanjivg.tagaini.net" target="_blank" rel="noopener">KanjiVG</a> © Ulrich Apel, giấy phép <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC BY-SA 3.0</a>. Máy chỉ đếm số nét, không chấm điểm hình dạng nét.</p>
 </main>
 <script src="kanji-game-data.js"></script>
+<script src="kanji-roadmap.js"></script>
 <script>
 (() => {
   "use strict";
@@ -119,7 +121,10 @@
   const cache = new Map();
   let list = [], i = 0, strokes = [], drawn = [], cur = null, timer = null, stepAt = 0;
 
+  // Bộ nền: các mảnh ghép nên mọi chữ (bộ thủ + dạng biến thể + mảnh phụ), xếp theo độ hay gặp
+  const RADW = ((window.ROADMAP || {}).radw || []).map((r, ix) => ({ n: ix + 1, k: r[0], hv: r[1], m: r[2], j: '', s: '', img: null, tag: `Mảnh ${ix + 1} · ${['', '🥇 tầng 1', '🥈 tầng 2', '🥉 tầng 3', 'tầng 4'][r[3]]}` }));
   function pool(){
+    if (st.set === 'rad') return RADW;
     if (st.set === 'p1') return ALL.filter(x => x.n <= 1050);
     if (st.set === 'p2') return ALL.filter(x => x.n > 1050);
     if (st.set === 'c1000') return (window.KANJI_C1000 || []).map(n => BYN.get(n)).filter(Boolean);
@@ -248,7 +253,7 @@
     i = Math.max(0, Math.min(i, list.length - 1));
     const x = list[i];
     $('kBig').textContent = x.k; $('kHv').textContent = x.hv; $('kM').textContent = cap(x.m);
-    $('kTag').textContent = `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`;
+    $('kTag').textContent = x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`;
     $('kStory').textContent = x.s ? '📖 ' + x.s : '';
     // Ảnh thẻ câu chuyện (hình minh hoạ + chữ) — nhìn hình nhớ nhanh hơn chỉ đọc chữ.
     $('kCard').classList.toggle('hidden', !(st.card && x.img));
@@ -308,7 +313,8 @@
   document.addEventListener('keydown', e => {
     if (e.target.matches('input, select')) return;
     if (e.key === 'ArrowRight') go(1); else if (e.key === 'ArrowLeft') go(-1);
-    else if (e.key === ' '){ e.preventDefault(); animate(); }
+    else if (e.key === ' '){ e.preventDefault(); go(1); }          // phím cách: sang chữ tiếp theo
+    else if (e.key === 'a' || e.key === 'A') animate();
     else if (e.key === 'z' || e.key === 'Z'){ drawn.pop(); redraw(); }
     else if (e.key === 'c' || e.key === 'C'){ drawn = []; redraw(); }
     else if (e.key === 'h' || e.key === 'H') setHint(!hintOn);
