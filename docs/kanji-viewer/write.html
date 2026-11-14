@@ -70,6 +70,7 @@
 <body>
 <main>
   <h1>✍️ Luyện viết Kanji</h1>
+  <div class="tag" id="extraNote" style="font-size:13px;margin:-2px 0 6px;color:var(--muted)">🆕 14/11/2026: đã thêm <b>17 chữ ngoài bộ 2136</b> có trong 1800 từ vựng IT và 2000 từ thông dụng: 齟 齬 聘 紐 雛 挽 洩 脆 詫 閾 遽 揃 汲 嗜 迄 嬉 遥 — <a href="#" id="extraGo">luyện ngay →</a></div>
   <div class="bar">
     <select id="set" aria-label="Bộ chữ">
       <option value="rad">🧱 Bộ nền (280 mảnh, hay gặp trước)</option>
@@ -77,6 +78,7 @@
       <option value="p1">Tập 1 (thẻ 1–1050)</option>
       <option value="p2">Tập 2 (thẻ 1051–2165)</option>
       <option value="c1000">1000 chữ thông dụng</option>
+      <option value="extra">🆕 17 chữ ngoài 2136 (IT · 2000 từ)</option>
       <option value="N5">JLPT N5</option><option value="N4">JLPT N4</option><option value="N3">JLPT N3</option><option value="N2">JLPT N2</option><option value="N1">JLPT N1</option>
     </select>
     <button class="btn" id="prev" title="Chữ trước (←)">← Trước</button>
@@ -134,6 +136,7 @@
 </main>
 <script src="kanji-game-data.js"></script>
 <script src="kanji-roadmap.js"></script>
+<script src="kanji-extra.js"></script>
 <script>
 (() => {
   "use strict";
@@ -149,7 +152,9 @@
   // Bộ nền: các mảnh ghép nên mọi chữ (bộ thủ + dạng biến thể + mảnh phụ), xếp theo độ hay gặp
   const RADW = ((window.ROADMAP || {}).radw || []).map((r, ix) => ({ n: ix + 1, k: r[0], hv: r[1], m: r[2], j: '', s: '', img: null, tag: `Mảnh ${ix + 1} · ${['', '🥇 tầng 1', '🥈 tầng 2', '🥉 tầng 3', 'tầng 4'][r[3]]}` }));
   // chữ → thẻ có câu chuyện (để hiện câu chuyện của các chữ được nhắc trong câu chuyện)
-  const BYK = new Map(); ALL.forEach(x => { if (x.s && !BYK.has(x.k)) BYK.set(x.k, x); });
+  // 17 chữ ngoài 2136 (kanji-extra.js): [chữ, HV, nghĩa, câu chuyện, cách đọc, từ, nguồn]
+  const EXTRA = (window.KANJI_EXTRA || []).map((r, ix) => ({ n: 'N' + (ix + 1), k: r[0], hv: r[1], m: r[2], j: '', s: r[3], img: null, tag: `🆕 Ngoài 2136 · ${ix + 1}/17 · ${r[6]} · ${r[4]} · ${r[5]}` }));
+  const BYK = new Map(); ALL.concat(EXTRA).forEach(x => { if (x.s && !BYK.has(x.k)) BYK.set(x.k, x); });
   const RADK = new Map(RADW.map(r => [r.k, r]));
   function subStories(x){
     const seen = new Set([x.k]), out = [];
@@ -163,6 +168,7 @@
   }
   function pool(){
     if (st.set === 'rad') return RADW;
+    if (st.set === 'extra') return EXTRA;
     if (st.set === 'p1') return ALL.filter(x => x.n <= 1050);
     if (st.set === 'p2') return ALL.filter(x => x.n > 1050);
     if (st.set === 'c1000') return (window.KANJI_C1000 || []).map(n => BYN.get(n)).filter(Boolean);
@@ -360,6 +366,7 @@
   // ---------- controls ----------
   $('set').value = st.set;
   $('set').onchange = e => { st.set = e.target.value; i = st.pos[st.set] || 0; show(); };
+  $('extraGo').onclick = e => { e.preventDefault(); st.set = 'extra'; $('set').value = 'extra'; i = st.pos.extra || 0; show(); };
   $('prev').onclick = () => go(-1); $('next').onclick = () => go(1);
   $('rand').onclick = () => { i = Math.floor(Math.random() * list.length); show(); };
   $('play').onclick = animate;
@@ -380,7 +387,7 @@
   $('quizBtn').onclick = () => { st.quiz = !st.quiz; $('quizBtn').classList.toggle('on', st.quiz); show(); };
   function jumpTo(c){
     let idx = list.findIndex(x => x.k === c);
-    if (idx < 0){ const ns = BYK.has(c) ? 'all' : 'rad'; st.set = ns; $('set').value = ns; list = pool(); idx = list.findIndex(x => x.k === c); }
+    if (idx < 0){ const ns = EXTRA.some(x => x.k === c) ? 'extra' : BYK.has(c) ? 'all' : 'rad'; st.set = ns; $('set').value = ns; list = pool(); idx = list.findIndex(x => x.k === c); }
     if (idx < 0) return;
     i = idx; show(); window.scrollTo(0, 0);
   }
