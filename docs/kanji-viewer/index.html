@@ -146,7 +146,10 @@ img{max-width:100%;max-height:70vh;border-radius:8px;background:#fff;
   <div class="speed">
     <span>Giọng đọc:</span>
     <select id="voiceSelect" class="setselect" style="margin:0;width:auto;flex:1;padding:6px 8px;font-size:13px">
-      <option value="">Mặc định hệ thống</option>
+      <option value="kokoro:af_heart">⭐ Heart (nữ Mỹ)</option>
+      <option value="kokoro:af_bella">⭐ Bella (nữ Mỹ)</option>
+      <option value="kokoro:am_michael">⭐ Michael (nam Mỹ)</option>
+      <option value="kokoro:bf_emma">⭐ Emma (nữ Anh)</option>
     </select>
   </div>
 </div>
@@ -209,6 +212,7 @@ let speakVolume = localStorage.getItem("kanjiViewerSpeakVolume") !== null
 let fastMode = localStorage.getItem("kanjiViewerFastMode") === "1";
 let fastCapSec = +localStorage.getItem("kanjiViewerFastCapSec") || 1.5;
 let savedVoiceName = localStorage.getItem("kanjiViewerVoiceName") || "";
+if (!savedVoiceName.startsWith("kokoro:")) savedVoiceName = "kokoro:af_heart";
 let chosenVoice = null;
 let speakLang = localStorage.getItem("kanjiViewerSpeakLang") === "en" ? "en" : "vi";
 // Giọng dùng thật sự: tiếng Anh thì chỉ nhận giọng "en", không thì lấy giọng en đầu tiên
@@ -279,18 +283,11 @@ function pickVoice(){
 
   const sel = $("voiceSelect");
   const keepValue = sel.value || savedVoiceName;
-  while (sel.options.length > 1) sel.remove(1);
+  // Chỉ 4 giọng Kokoro trong ô chọn; đọc tiếng Việt thì tự dùng giọng Việt của máy.
   const vi = vs.filter(v => v.lang && v.lang.toLowerCase().startsWith("vi"));
-  const rest = vs.filter(v => !vi.includes(v));
-  for (const v of [...vi, ...rest]){
-    const opt = document.createElement("option");
-    opt.value = v.name;
-    opt.textContent = v.name + " (" + v.lang + ")";
-    sel.appendChild(opt);
-  }
-  if (keepValue && vs.some(v => v.name === keepValue)) sel.value = keepValue;
+  if (keepValue && keepValue.startsWith("kokoro:")) sel.value = keepValue;
 
-  chosenVoice = vs.find(v => v.name === sel.value) || vi[0] || null;
+  chosenVoice = vi[0] || null;
 }
 if ("speechSynthesis" in window){
   pickVoice();
@@ -309,7 +306,42 @@ function cardNumber(path){
   const m = path.match(/(\d{4})\.webp$/);
   return m ? m[1] : null;
 }
+// ---- Giọng AI Kokoro: audio tạo sẵn cho từng câu tiếng Anh (tts/<giọng>/<mã>.mp3) ----
+// Mã = FNV-1a 32-bit trên các ký tự UTF-16 của câu — app remind voca dùng đúng cách này.
+let kokoroAudio = null;
+function kokoroKey(t){
+  let h = 0x811c9dc5;
+  for (let i = 0; i < t.length; i++){ h ^= t.charCodeAt(i); h = Math.imul(h, 0x01000193); }
+  return (h >>> 0).toString(16).padStart(8, "0");
+}
+function stopKokoro(){
+  if (kokoroAudio){ kokoroAudio.onended = kokoroAudio.onerror = null; kokoroAudio.pause(); kokoroAudio = null; }
+}
+function kokoroVoice(){
+  const v = $("voiceSelect").value || savedVoiceName;
+  return v && v.startsWith("kokoro:") ? v.slice(7) : null;
+}
+// Phát câu bằng Kokoro; lỗi (thiếu file, mất mạng) thì gọi fallback để đọc bằng giọng máy.
+function playKokoro(voice, text, onDone, fallback){
+  stopKokoro();
+  const a = new Audio("tts/" + voice + "/" + kokoroKey(text.trim()) + ".mp3");
+  a.playbackRate = speakRate;
+  a.volume = speakVolume;
+  kokoroAudio = a;
+  let started = false;
+  a.onplaying = () => { started = true; showTtsStatus(""); hideTtsUnlock(); };
+  a.onended = () => { if (kokoroAudio === a) kokoroAudio = null; onDone(); };
+  a.onerror = () => { if (kokoroAudio === a) kokoroAudio = null; if (!started) fallback(); else onDone(); };
+  a.play().catch(err => {
+    if (kokoroAudio !== a) return;
+    kokoroAudio = null;
+    if (err && err.name === "NotAllowedError") showTtsUnlock(); else fallback();
+  });
+  return a;
+}
+
 function stopSpeaking(){
+  stopKokoro();
   speakGen++;   // vô hiệu hoá mọi lượt đọc đang dở
   if ("speechSynthesis" in window && speechSynthesis.speaking) speechSynthesis.cancel();
 }
@@ -469,11 +501,34 @@ async function speakCurrent(){
   if (enText){ enEl.textContent = enText; enEl.style.display = "block"; }
   else { enEl.textContent = ""; enEl.style.display = "none"; }
 
-  if (!speakOn || !("speechSynthesis" in window)) return;
+  if (!speakOn) return;
 
   // Đọc tiếng Anh nếu được chọn và có bản dịch; thiếu bản dịch thì lùi về tiếng Việt.
   let readLang = "vi";
   if (speakLang === "en" && enText){ text = enText; readLang = "en"; }
+
+  stopKokoro();
+  const kv = readLang === "en" ? kokoroVoice() : null;
+  if (kv){
+    if ("speechSynthesis" in window && (speechSynthesis.speaking || speechSynthesis.pending)) speechSynthesis.cancel();
+    const done = () => {
+      if (gen !== speakGen) return;
+      recordDuration(gen);
+      if (!playing || !speakOn) return;
+      setTimeout(() => { if (gen === speakGen && playing && speakOn) step(1); }, SPEAK_GAP_MS);
+    };
+    let fellBack = false;
+    speakStartedAt = performance.now();
+    const a = playKokoro(kv, text, done, () => { fellBack = true; if (gen === speakGen) speakWithSystem(gen, text, readLang); });
+    if (fastMode) setTimeout(() => { if (gen === speakGen && !fellBack && kokoroAudio === a){ stopKokoro(); done(); } }, fastCapSec * 1000);
+    return;
+  }
+  speakWithSystem(gen, text, readLang);
+}
+
+// Đọc bằng giọng của hệ thống (Web Speech API).
+function speakWithSystem(gen, text, readLang){
+  if (!("speechSynthesis" in window)) return;
 
   const wasSpeaking = speechSynthesis.speaking || speechSynthesis.pending;
   if (wasSpeaking) speechSynthesis.cancel();
@@ -811,8 +866,13 @@ $("speakLang").addEventListener("change", (e) => {
 $("voiceSelect").addEventListener("change", (e) => {
   savedVoiceName = e.target.value;
   localStorage.setItem("kanjiViewerVoiceName", savedVoiceName);
+  if (savedVoiceName.startsWith("kokoro:") && speakLang !== "en"){
+    // Giọng Kokoro chỉ đọc bản tiếng Anh — tự chuyển ngôn ngữ đọc sang English.
+    speakLang = "en"; $("speakLang").value = "en";
+    localStorage.setItem("kanjiViewerSpeakLang", speakLang);
+  }
   const vs = ("speechSynthesis" in window) ? speechSynthesis.getVoices() : [];
-  chosenVoice = vs.find(v => v.name === savedVoiceName) || null;
+  chosenVoice = vs.find(v => v.lang && v.lang.toLowerCase().startsWith("vi")) || null;
   if (speakOn) speakCurrent();   // đổi giọng thì nghe thấy ngay ở thẻ đang hiện
 });
 
@@ -821,6 +881,7 @@ $("speedTxt").textContent = secs.toFixed(1) + "s / ảnh";
 $("speakRate").value = speakRate;
 $("speakRateTxt").textContent = speakRate.toFixed(1) + "x";
 $("speakLang").value = speakLang;
+$("voiceSelect").value = savedVoiceName;
 $("speakVolume").value = speakVolume;
 $("speakVolumeTxt").textContent = Math.round(speakVolume * 100) + "%";
 $("speak").textContent = speakOn ? "🔊 Đang đọc" : "🔇 Đọc to";
