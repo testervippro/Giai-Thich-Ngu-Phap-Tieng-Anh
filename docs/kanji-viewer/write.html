@@ -44,6 +44,16 @@
     .card img { display:block; width:100%; max-width:640px; height:auto; aspect-ratio:784/252; border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
     .card.zoom img { max-width:none; cursor:zoom-out; }
     .quiz .card { display:none; }
+    .words { margin-top:14px; }
+    .words table { width:100%; border-collapse:collapse; font-size:14.5px; }
+    .words td { padding:6px 8px; border-top:1px solid var(--line); vertical-align:top; }
+    .words .w { font-size:20px; white-space:nowrap; font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
+    .words .w b { color:var(--accent); }
+    .words .r { color:var(--muted); white-space:nowrap; }
+    .words .h { font-weight:700; font-size:13px; white-space:nowrap; }
+    .quiz .words { display:none; }
+    .words .w { width:1%; }
+    @media (max-width:560px){ .words .r, .words .h { white-space:normal; } .words td { padding:5px 4px; } }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Luyện viết Kanji"></script>
@@ -103,6 +113,11 @@
       </div>
     </section>
   </div>
+  <section class="panel words hidden" id="words">
+    <h2><span>📚 Từ vựng có chữ này <span style="font-weight:400">(Kanji in Context)</span></span><span id="wCount"></span></h2>
+    <table><tbody id="wBody"></tbody></table>
+    <div class="tools"><button class="btn hidden" id="wMore"></button></div>
+  </section>
   <p class="note">Phím tắt: <b>←/→</b> đổi chữ · <b>Space</b> sang chữ tiếp theo · <b>A</b> xem cách viết · <b>Z</b> xóa nét · <b>C</b> xóa hết · <b>H</b> gợi ý nét.
   Chế độ <b>Viết từ trí nhớ</b> ẩn chữ mẫu và chữ mờ, chỉ còn Hán Việt và nghĩa. Viết xong bấm <b>So với mẫu</b> để đối chiếu.
   Dữ liệu nét chữ: <a href="https://kanjivg.tagaini.net" target="_blank" rel="noopener">KanjiVG</a> © Ulrich Apel, giấy phép <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener">CC BY-SA 3.0</a>. Máy chỉ đếm số nét, không chấm điểm hình dạng nét.</p>
@@ -245,6 +260,27 @@
   let hintOn = false;
   function setHint(on){ hintOn = on; $('hintBtn').classList.toggle('on', on); drawGhost(on ? Math.min(drawn.length, strokes.length-1) : -1); }
 
+  // ---------- từ vựng (Kanji in Context) ----------
+  let WORDS = null, wordsReq = null, wAll = false;
+  const escH = t => String(t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  async function showWords(k, keep){
+    if (!keep) wAll = false;
+    if (!WORDS){
+      wordsReq = wordsReq || fetch('kic-words.json').then(r => r.json()).then(d => WORDS = d).catch(() => { wordsReq = null; });
+      await wordsReq;
+      if (!WORDS || list[i]?.k !== k) return;
+    }
+    const hit = WORDS.filter(w => w[0].includes(k));
+    $('words').classList.toggle('hidden', !hit.length);
+    if (!hit.length) return;
+    const N = 12, rows = wAll ? hit : hit.slice(0, N);
+    $('wCount').textContent = `${hit.length} từ`;
+    $('wBody').innerHTML = rows.map(w => `<tr><td class="w">${escH(w[0]).split(k).join('<b>' + k + '</b>')}</td><td><div><span class="r">${escH(w[1])}</span> · <span class="h">${escH(w[3])}</span></div><div>${escH(w[2])}</div></td></tr>`).join('');
+    $('wMore').classList.toggle('hidden', hit.length <= N);
+    $('wMore').textContent = wAll ? 'Thu gọn' : `Xem thêm ${hit.length - N} từ`;
+    $('wMore').onclick = () => { wAll = !wAll; showWords(k, true); };
+  }
+
   // ---------- show a kanji ----------
   async function show(){
     clearInterval(timer); clearTimeout(timer);
@@ -261,6 +297,7 @@
     else $('kImg').removeAttribute('src');
     [list[i+1], list[i-1]].forEach(y => { if (y && y.img){ const im = new Image(); im.src = y.img; } });
     $('pos').textContent = `${i + 1} / ${list.length}`;
+    showWords(x.k);
     document.body.classList.toggle('quiz', st.quiz);
     $('modelBox').classList.toggle('hidden', st.quiz);
     drawn = []; stepAt = 0; setHint(false);
