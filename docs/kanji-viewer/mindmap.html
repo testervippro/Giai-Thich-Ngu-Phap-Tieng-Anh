@@ -56,9 +56,9 @@
   </div>
   <div class="wrap"><div class="map" id="map"></div></div>
   <div class="legend">
-    <span><i style="border-color:#d97706"></i>Mảnh ghép theo câu chuyện (bấm ⊖/⊕ để thu/mở)</span>
-    <span><i style="border-color:#2563eb"></i>Từ ghép (bấm để xem nghĩa + các chữ còn lại)</span>
-    <span>Bấm đúp một chữ để đặt nó vào giữa</span>
+    <span><i style="border-color:#d97706"></i>🧩 Ghép từ: các mảnh câu chuyện nhắc tới, tách tới bộ gốc (bấm ⊖/⊕ thu/mở)</span>
+    <span><i style="border-color:#2563eb"></i>➕ Ghép thành: các chữ có câu chuyện dùng chữ này (bấm ⊕ mở tiếp)</span>
+    <span>Bấm 1 lần xem câu chuyện · bấm đúp đặt vào giữa</span>
   </div>
   <div class="info" id="info"></div>
 </main>
@@ -73,7 +73,6 @@
   const BYK = new Map(); ALL.forEach(x => { if (!BYK.has(x.k) || (!BYK.get(x.k).s && x.s)) BYK.set(x.k, x); });
   const RADK = new Map(((window.ROADMAP || {}).radw || []).map(r => [r[0], { k:r[0], hv:r[1], m:r[2] }]));
   const CJK = /[⺀-⿟々゠-ヿ㐀-鿿豈-﫿]/g;
-  let WORDS = [];
 
   const info = c => BYK.get(c) || RADK.get(c) || null;
   // các mảnh câu chuyện nhắc tới (bỏ chính nó)
@@ -83,14 +82,17 @@
     (x.s.match(CJK) || []).forEach(p => { if (!seen.has(p)){ seen.add(p); out.push(p); } });
     return out;
   }
-  const wordsOf = c => WORDS.filter(w => w[0].includes(c));
+  // chữ nào có câu chuyện nhắc tới c (c được dùng để ghép thành chữ đó), theo thứ tự thẻ
+  const USED = new Map();
+  ALL.forEach(x => { if (!x.s) return; new Set(x.s.match(CJK) || []).forEach(p => { if (p === x.k) return; if (!USED.has(p)) USED.set(p, []); const a = USED.get(p); if (!a.includes(x.k)) a.push(x.k); }); });
+  const usedIn = c => USED.get(c) || [];
 
-  let center = null, hist = [], closed = new Set(), showAll = true, sel = null;
+  let center = null, hist = [], closed = new Set(), opened = new Set(), showAll = false, sel = null;
 
   function setCenter(c, push = true){
     if (!info(c)) return;
     if (push && center && center !== c) hist.push(center);
-    center = c; closed = new Set(); showAll = true; sel = { type:'kanji', c };
+    center = c; closed = new Set(); opened = new Set(); showAll = false; sel = { v:'C', c };
     $('back').disabled = !hist.length;
     $('write').href = 'write.html#' + encodeURIComponent(c);
     try { history.replaceState(null, '', '#' + encodeURIComponent(c)); } catch {}
@@ -99,83 +101,81 @@
 
   function render(){
     const map = $('map');
-    const W = Math.max(1000, $('map').parentElement.clientWidth - 2);
-    // ---- cột trái: mảnh ghép (mở tiếp được 1–2 tầng)
+    // ---- trái: chữ được ghép từ đâu (theo câu chuyện), tách tiếp tới bộ gốc
     const left = [];
-    const addParts = (c, depth, parent) => parts(c).forEach(p => {
+    const addParts = (c, depth, parent, anc) => parts(c).forEach(p => {
+      if (anc.has(p)) return;                 // tránh vòng lặp A nhắc B, B nhắc A
       const id = parent + '>' + p;
       left.push({ id, c:p, depth, parent });
-      if (!closed.has(id) && depth < 3) addParts(p, depth + 1, id);
+      if (!closed.has(id) && depth < 6) addParts(p, depth + 1, id, new Set([...anc, p]));
     });
-    addParts(center, 1, 'C');
-    // ---- cột phải: từ ghép (mở ra các chữ còn lại trong từ)
-    const ws = wordsOf(center), LIM = 10;
-    const shown = showAll ? ws : ws.slice(0, LIM);
+    addParts(center, 1, 'C', new Set([center]));
+    const maxL = left.reduce((m, o) => Math.max(m, o.depth), 0);
+    // ---- phải: chữ này được dùng để ghép thành chữ nào (bấm để mở tiếp 1 tầng)
+    const us = usedIn(center), LIM = 20;
     const right = [];
-    shown.forEach((w, i) => {
-      const id = 'W' + i;
-      right.push({ id, w, depth:1 });
-      if (!closed.has(id)){
-        const seen = new Set([center]);
-        (w[0].match(CJK) || []).forEach(p => { if (!seen.has(p) && info(p)){ seen.add(p); right.push({ id:id + '>' + p, c:p, depth:2, parent:id }); } });
-      }
+    (showAll ? us : us.slice(0, LIM)).forEach(c => {
+      const id = 'U>' + c;
+      right.push({ id, c, depth:1, parent:'C' });
+      if (opened.has(id)) usedIn(c).slice(0, 12).forEach(c2 => { if (c2 !== center) right.push({ id:id + '>' + c2, c:c2, depth:2, parent:id }); });
     });
-    if (ws.length > LIM) right.push({ id:'MORE', more:true, depth:1 });
+    if (us.length > LIM) right.push({ id:'MORE', more:true, depth:1, parent:'C' });
+    const maxR = right.reduce((m, o) => Math.max(m, o.depth), 0);
 
-    const ROW = 66, n = Math.max(left.length, right.length, 3);
-    const H = Math.max(360, n * ROW + 60), cx = W / 2, cy = H / 2;
+    const ROW = 66, STEP = 165;
+    const leaves = arr => arr.filter(o => !arr.some(q => q.parent === o.id)).length;
+    const n = Math.max(leaves(left), leaves(right), 3);
+    const W = Math.max($('map').parentElement.clientWidth - 2, 200 + (maxL + maxR) * STEP + 120);
+    const H = Math.max(360, n * ROW + 70);
+    const cx = Math.max(110 + maxL * STEP, Math.min(W / 2, W - 110 - maxR * STEP)), cy = H / 2;
+    // cây gọn: mỗi lá 1 hàng, nút cha nằm giữa các con
     const place = (arr, side) => {
-      const y0 = cy - (arr.length - 1) * ROW / 2;
-      arr.forEach((o, i) => { o.y = y0 + i * ROW; o.x = cx + side * (190 + (o.depth - 1) * 170 + (o.depth === 1 && side > 0 ? 50 : 0)); });
+      const kids = new Map(); arr.forEach(o => { if (!kids.has(o.parent)) kids.set(o.parent, []); kids.get(o.parent).push(o); });
+      let row = 0;
+      const lay = id => { const ks = kids.get(id) || []; ks.forEach(o => { const cs = kids.get(o.id); if (cs && cs.length){ lay(o.id); o.r = (cs[0].r + cs[cs.length - 1].r) / 2; } else o.r = row++; }); };
+      lay('C');
+      const top = (kids.get('C') || []), mid = top.length ? (top[0].r + top[top.length - 1].r) / 2 : 0;
+      arr.forEach(o => { o.y = cy + (o.r - mid) * ROW; o.x = cx + side * o.depth * STEP; });
     };
     place(left, -1); place(right, 1);
     const pos = new Map([['C', { x:cx, y:cy }]]);
     left.concat(right).forEach(o => pos.set(o.id, o));
 
     map.style.width = W + 'px'; map.style.height = H + 'px';
-    const curve = (a, b, col) => {
-      const mx = (a.x + b.x) / 2;
-      return `<path d="M${a.x},${a.y} C${mx},${a.y} ${mx},${b.y} ${b.x},${b.y}" stroke="${col}"/>`;
-    };
+    const curve = (a, b, col) => { const mx = (a.x + b.x) / 2; return `<path d="M${a.x},${a.y} C${mx},${a.y} ${mx},${b.y} ${b.x},${b.y}" stroke="${col}"/>`; };
     let svg = `<svg width="${W}" height="${H}">`;
     left.forEach(o => svg += curve(pos.get(o.parent), o, '#d97706'));
-    right.forEach(o => svg += curve(o.parent ? pos.get(o.parent) : pos.get('C'), o, '#2563eb'));
+    right.forEach(o => svg += curve(pos.get(o.parent), o, '#2563eb'));
     svg += '</svg>';
 
     const ci = info(center);
-    let html = svg + `<button class="node center" data-k="${esc(center)}" style="left:${cx}px;top:${cy}px"><span class="k">${esc(center)}</span><span class="t">${esc(ci.hv)}</span><span class="m" style="font-size:13px;max-width:none">${esc(cap(ci.m))}</span></button>`;
-    if (left.length) html += `<div class="label" style="left:${cx - 180}px;top:${left[0].y - 36}px;color:#d97706">🧩 Ghép từ</div>`;
-    if (right.length) html += `<div class="label" style="left:${cx + 220}px;top:${right[0].y - 36}px;color:#2563eb">📚 Từ vựng (${ws.length})</div>`;
-    const isSel = (t, v) => sel && sel.type === t && sel.v === v ? ' sel' : '';
+    const isSel = id => sel && sel.v === id ? ' sel' : '';
+    const node = (o, cls, extra) => {
+      const x = info(o.c);
+      return `<button class="node ${cls}${isSel(o.id)}" data-id="${esc(o.id)}" data-k="${esc(o.c)}" title="${esc(x && x.s ? x.s : '')}" style="left:${o.x}px;top:${o.y}px"><span class="k">${esc(o.c)}${extra || ''}</span><span class="t">${esc(x ? x.hv : '')}</span><span class="m">${esc(x ? cap(x.m) : '')}</span></button>`;
+    };
+    let html = svg + `<button class="node center${isSel('C')}" data-id="C" data-k="${esc(center)}" style="left:${cx}px;top:${cy}px"><span class="k">${esc(center)}</span><span class="t">${esc(ci.hv)}</span><span class="m" style="font-size:13px;max-width:none">${esc(cap(ci.m))}</span></button>`;
+    html += `<div class="label" style="left:${cx - STEP}px;top:${(left.length ? Math.min(...left.map(o => o.y)) : cy) - 40}px;color:#d97706">🧩 Ghép từ</div>`;
+    if (right.length) html += `<div class="label" style="left:${cx + STEP}px;top:${Math.min(...right.map(o => o.y)) - 40}px;color:#2563eb">➕ Ghép thành (${us.length})</div>`;
+    if (!left.length) html += `<div class="label" style="left:${cx - STEP}px;top:${cy}px;color:var(--muted);text-transform:none;font-weight:600">Chữ gốc — không tách nhỏ hơn</div>`;
     left.forEach(o => {
-      const x = info(o.c), can = parts(o.c).length && o.depth < 3;
-      html += `<button class="node part${o.depth > 1 ? ' sub' : ''}${isSel('part', o.id)}" data-part="${esc(o.id)}" data-k="${esc(o.c)}" style="left:${o.x}px;top:${o.y}px"><span class="k">${esc(o.c)}${can ? ` <small style="font-size:13px;color:#d97706">${closed.has(o.id) ? '⊕' : '⊖'}</small>` : ''}</span><span class="t">${esc(x ? x.hv : '')}</span><span class="m">${esc(x ? cap(x.m) : '')}</span></button>`;
+      const can = parts(o.c).length && o.depth < 6;
+      html += node(o, 'part' + (o.depth > 1 ? ' sub' : ''), can ? ` <small style="font-size:13px;color:#d97706">${closed.has(o.id) ? '⊕' : '⊖'}</small>` : '');
     });
     right.forEach(o => {
-      if (o.more){ html += `<button class="node more" data-more="1" style="left:${o.x}px;top:${o.y}px">${showAll ? 'Thu gọn' : `+${ws.length - LIM} từ nữa`}</button>`; return; }
-      if (o.w){
-        const wd = esc(o.w[0]).split(center).join(`<b class="hl">${esc(center)}</b>`);
-        html += `<button class="node word${isSel('word', o.id)}" data-word="${esc(o.id)}" style="left:${o.x}px;top:${o.y}px"><span class="k" style="font-size:20px">${wd}</span><span class="t">${esc(o.w[3])}</span><span class="m">${esc(o.w[2])}</span></button>`;
-      } else {
-        const x = info(o.c);
-        html += `<button class="node sub${isSel('part', o.id)}" data-part="${esc(o.id)}" data-k="${esc(o.c)}" style="left:${o.x}px;top:${o.y}px;border-color:#2563eb"><span class="k" style="font-size:19px">${esc(o.c)}</span><span class="t">${esc(x ? x.hv : '')}</span><span class="m">${esc(x ? cap(x.m) : '')}</span></button>`;
-      }
+      if (o.more){ html += `<button class="node more" data-more="1" style="left:${o.x}px;top:${o.y}px">${showAll ? 'Thu gọn' : `+${us.length - LIM} chữ nữa`}</button>`; return; }
+      const can = o.depth === 1 && usedIn(o.c).some(c2 => c2 !== center);
+      html += node(o, 'word' + (o.depth > 1 ? ' sub' : ''), can ? ` <small style="font-size:13px;color:#2563eb">${opened.has(o.id) ? '⊖' : '⊕'}</small>` : '');
     });
     map.innerHTML = html;
 
-    // ---- sự kiện
     map.querySelectorAll('.node').forEach(b => {
       b.onclick = () => {
         if (b.dataset.more){ showAll = !showAll; render(); return; }
-        if (b.classList.contains('center')){ sel = { type:'kanji', c:center }; showInfo(); render(); return; }
-        const id = b.dataset.part || b.dataset.word;
-        if (b.dataset.word){
-          sel = { type:'word', v:id, w:right.find(o => o.id === id).w };
-          closed.has(id) ? closed.delete(id) : closed.add(id);
-        } else {
-          sel = { type:'part', v:id, c:b.dataset.k };
-          if (parts(b.dataset.k).length) closed.has(id) ? closed.delete(id) : closed.add(id);
-        }
+        const id = b.dataset.id, c = b.dataset.k;
+        sel = { v:id, c };
+        if (id.startsWith('U>')){ if (id.split('>').length === 2 && usedIn(c).length) opened.has(id) ? opened.delete(id) : opened.add(id); }
+        else if (id !== 'C' && parts(c).length) closed.has(id) ? closed.delete(id) : closed.add(id);
         render();
       };
       if (b.dataset.k) b.ondblclick = () => setCenter(b.dataset.k);
@@ -185,18 +185,13 @@
 
   function showInfo(){
     const el = $('info');
-    if (!sel){ el.innerHTML = ''; return; }
-    if (sel.type === 'word'){
-      const w = sel.w;
-      const ks = [...new Set(w[0].match(CJK) || [])].filter(k => k !== center && info(k));
-      el.innerHTML = `<span class="big">${esc(w[0])}</span><div class="hv">${esc(w[3])}</div><div>${esc(w[1])} — ${esc(w[2])}</div>
-        <div class="acts">${ks.map(k => `<button class="btn" data-go="${esc(k)}">${esc(k)} ${esc(info(k).hv)} → đặt vào giữa</button>`).join('')}</div>`;
-    } else {
-      const c = sel.c || center, x = info(c);
-      el.innerHTML = `<span class="big">${esc(c)}</span><div class="hv">${esc(x.hv)} <span style="font-weight:400;color:inherit">– ${esc(cap(x.m))}</span></div>
-        <div class="s">${x.s ? '📖 ' + esc(x.s) : (BYK.has(c) ? '' : 'Mảnh ghép (bộ thủ / dạng biến thể)')}</div>
-        <div class="acts">${c !== center ? `<button class="btn" data-go="${esc(c)}">Đặt ${esc(c)} vào giữa</button>` : ''}${BYK.has(c) ? `<a class="btn" style="text-decoration:none" href="write.html#${encodeURIComponent(c)}">✍️ Luyện viết ${esc(c)}</a>` : ''}</div>`;
-    }
+    const c = (sel && sel.c) || center, x = info(c);
+    if (!x){ el.innerHTML = ''; return; }
+    const ps = parts(c);
+    el.innerHTML = `<span class="big">${esc(c)}</span><div class="hv">${esc(x.hv)} <span style="font-weight:400;color:inherit">– ${esc(cap(x.m))}</span></div>
+      <div class="s">${x.s ? '📖 ' + esc(x.s) : (BYK.has(c) ? '' : 'Mảnh ghép (bộ thủ / dạng biến thể)')}</div>
+      ${ps.length ? `<div class="s">🧩 ${esc(c)} = ${ps.map(p => `${esc(p)} ${esc(info(p) ? info(p).hv : '')}`).join(' + ')}</div>` : ''}
+      <div class="acts">${c !== center ? `<button class="btn" data-go="${esc(c)}">Đặt ${esc(c)} vào giữa</button>` : ''}${BYK.has(c) ? `<a class="btn" style="text-decoration:none" href="write.html#${encodeURIComponent(c)}">✍️ Luyện viết ${esc(c)}</a>` : ''}</div>`;
     el.querySelectorAll('[data-go]').forEach(b => b.onclick = () => setCenter(b.dataset.go));
   }
 
@@ -211,7 +206,7 @@
   addEventListener('resize', () => center && render());
 
   const start = decodeURIComponent(location.hash.slice(1)) || '肺';
-  fetch('kic-words.json').then(r => r.json()).then(d => WORDS = d).catch(() => {}).finally(() => setCenter(info(start) ? start : '肺', false));
+  setCenter(info(start) ? start : '肺', false);
 })();
 </script>
 </body>

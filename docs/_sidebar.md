@@ -122,7 +122,7 @@
 - [🔧 Công cụ: Xem thẻ Kanji (kanji_p1/p2 + JLPT N1–N5)](kanji-viewer/index.html)
 - [🎮 Game Kanji: 2.136 chữ (Hán Việt, nghĩa, câu chuyện, ghép cặp)](kanji-viewer/game.html)
 - [✍️ Luyện viết 2136 Kanji (thứ tự nét + ô tập viết)](kanji-viewer/write.html)
-- [🧠 Mind map Kanji (chữ ↔ mảnh ghép ↔ từ vựng)](kanji-viewer/mindmap.html)
+- [🧠 Mind map Kanji theo câu chuyện (ghép từ bộ nào → ghép thành chữ nào)](kanji-viewer/mindmap.html)
 - [🧱 Bộ nền & 🗺️ Lộ trình Kanji (252 mảnh ghép nên mọi chữ, học thành phần trước)](kanji-viewer/index.html?set=road&view=rad)
 - [🎌 Từ vựng JLPT N5–N1 (lọc chữ mềm/cứng)](jlpt-vocab/index.html)
 - [🗣️ 2000 từ tiếng Nhật đầy đủ (kèm ví dụ)](jp2000-full/index.html)
