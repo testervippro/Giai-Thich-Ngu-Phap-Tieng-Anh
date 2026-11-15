@@ -139,6 +139,7 @@
   const $ = id => document.getElementById(id);
   const ALL = (window.HANZI || []).map(r => ({ n:r[0], tap:r[1], k:r[2], t:r[3], py:r[4], hsk:r[5], hv:r[6], m:r[7], story:r[8], parts:r[9], words:r[10] }));
   const BYN = new Map(ALL.map(x => [x.n, x]));
+  const BYK = new Map(); ALL.forEach(x => { if (x.k && !BYK.has(x.k)) BYK.set(x.k, x); });
   const store = { get(k, d){ try { const v = localStorage.getItem('hzw.' + k); return v == null ? d : JSON.parse(v); } catch(e){ return d; } },
                   set(k, v){ try { localStorage.setItem('hzw.' + k, JSON.stringify(v)); } catch(e){} } };
   const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -171,10 +172,12 @@
     $('kTag').textContent = 'Thẻ ' + x.n + ' · Tập ' + x.tap + (x.hsk ? ' · ' + x.hsk : '');
     $('kStory').innerHTML = x.story ? '📖 ' + storyHtml(x.story) : '';
     // mảnh ghép: ô bộ thủ trên thẻ, tra sang thẻ của mảnh đó
+    // n > 0: số thẻ; n < 0: số trong bảng bộ thủ của sách -> tra thẻ có cùng chữ (nếu có)
     $('kSub').innerHTML = (x.parts || []).map(([p, n]) => {
-      const y = BYN.get(n);
-      return '<div data-n="' + n + '"><b class="zh">' + esc(p) + '</b> <span class="hv2">' + esc(y ? y.hv : '') + '</span>'
-        + (y ? ' – ' + esc(y.m) + (y.story ? ': ' + storyHtml(y.story) : '') : '') + ' <span style="opacity:.7">(thẻ ' + n + ')</span></div>';
+      const y = n > 0 ? BYN.get(n) : BYK.get(p);
+      const tag = n > 0 ? 'thẻ ' + n : 'bộ thủ số ' + (-n) + (y ? ' · thẻ ' + y.n : '');
+      return '<div' + (y ? ' data-n="' + y.n + '"' : '') + '><b class="zh">' + esc(p) + '</b> <span class="hv2">' + esc(y ? y.hv : '') + '</span>'
+        + (y ? ' – ' + esc(y.m) + (y.story ? ': ' + storyHtml(y.story) : '') : '') + ' <span style="opacity:.7">(' + tag + ')</span></div>';
     }).join('');
     const ws = (x.words || []).filter(w => w[0]);
     $('words').classList.toggle('hidden', !ws.length);
