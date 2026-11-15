@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Luyện viết Chữ Hán</title>
+  <style>
+    :root { color-scheme: light dark; --bg:#f7f6f3; --ink:#1d1d1f; --muted:#6b6b70; --line:#e2dfd8; --card:#fff; --accent:#0f7a4f; --accentbg:#e5f4ec; --good:#15803d; --bad:#b91c1c; }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg:#141416; --ink:#ececef; --muted:#9a9aa2; --line:#2c2c31; --card:#1d1d21; --accent:#4ade80; --accentbg:#16301f; } }
+    :root[data-theme="dark"] { --bg:#141416; --ink:#ececef; --muted:#9a9aa2; --line:#2c2c31; --card:#1d1d21; --accent:#4ade80; --accentbg:#16301f; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1080px; margin:auto; padding:4px 16px 40px; }
+    h1 { margin:0 0 8px; font-size:26px; }
+    .zh { font-family:"PingFang SC","Hiragino Sans GB","Noto Sans CJK SC","Microsoft YaHei",sans-serif; }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:10px; }
+    select, input[type=search] { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; cursor:pointer; text-decoration:none; }
+    .btn:hover { border-color:var(--accent); }
+    .btn.on, .btn.primary { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .layout { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+    @media (max-width:760px){ .layout { grid-template-columns:1fr; } }
+    .panel { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:12px; }
+    .panel h2 { font-size:13px; color:var(--muted); margin:0 0 8px; font-weight:600; display:flex; justify-content:space-between; align-items:center; gap:8px; }
+    .info { display:flex; gap:14px; align-items:flex-start; margin-bottom:10px; flex-wrap:wrap; }
+    .info .big { font-size:72px; line-height:1; }
+    .info .hv { font-size:24px; font-weight:800; color:var(--accent); }
+    .info .py { font-size:17px; color:var(--muted); }
+    .info .m { font-size:16px; }
+    .info .tag { font-size:12.5px; color:var(--muted); }
+    .story { font-size:15px; color:var(--muted); margin:-2px 0 10px; }
+    .story b { color:var(--ink); }
+    .box { position:relative; width:100%; margin:0 auto; aspect-ratio:1/1; border-radius:12px; background:#fffdf8; overflow:hidden; touch-action:none; }
+    :root[data-theme="dark"] .box { background:#1d1a17; }
+    @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) .box { background:#1d1a17; } }
+    .box svg.grid { position:absolute; inset:0; width:100%; height:100%; pointer-events:none; }
+    .grid line { stroke:#e2b5a8; stroke-width:.4; stroke-dasharray:2 2; }
+    .grid rect { fill:none; stroke:#d6a395; stroke-width:.8; }
+    .box > div { position:absolute; inset:0; }
+    .hidden { display:none !important; }
+    .count { font-size:13.5px; color:var(--muted); margin-top:8px; display:flex; justify-content:space-between; gap:8px; flex-wrap:wrap; }
+    .count b { color:var(--ink); }
+    .ok { color:var(--good) !important; } .warn { color:var(--bad) !important; }
+    .tools { display:flex; gap:6px; flex-wrap:wrap; margin-top:8px; }
+    .note { color:var(--muted); font-size:12.5px; margin-top:14px; line-height:1.5; }
+    .quiz .big, .quiz .py, .quiz .words, .quiz .card { visibility:hidden; }
+    .card { margin:0 0 12px; }
+    .card img { display:block; width:100%; max-width:720px; height:auto; border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
+    .card.zoom img { max-width:none; cursor:zoom-out; }
+    .sub { margin:-4px 0 12px; display:flex; flex-direction:column; gap:4px; }
+    .sub:empty { display:none; }
+    .sub div { font-size:13.5px; color:var(--muted); padding:3px 10px; border-left:3px solid var(--accent); background:var(--card); border-radius:0 8px 8px 0; cursor:pointer; }
+    .sub b { font-size:19px; color:var(--ink); }
+    .sub .hv2 { font-weight:800; color:var(--accent); }
+    .words { flex:1 1 380px; min-width:0; margin:0 0 0 12px; padding:6px 8px; }
+    @media (max-width:700px){ .words { margin:4px 0 0; flex-basis:100%; } }
+    .words table { width:100%; border-collapse:collapse; font-size:13.5px; }
+    .words td { padding:3px 6px; line-height:1.35; border-top:1px solid var(--line); vertical-align:top; }
+    .words .w { font-size:18px; white-space:nowrap; width:1%; padding-right:14px; }
+    .words .w b { color:var(--accent); }
+    .words .w small { font-size:12px; color:var(--muted); }
+    .words .r { color:var(--muted); }
+    .words .h { font-weight:700; font-size:12px; }
+    .box .nums { position:absolute; pointer-events:none; }
+    .box .nums text { font:600 44px system-ui,sans-serif; fill:#c2410c; }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Trung" data-title="Luyện viết Chữ Hán"></script>
+</head>
+<body>
+<main>
+  <h1>✍️ Luyện viết Chữ Hán</h1>
+  <div class="tag" style="font-size:13px;margin:-2px 0 8px;color:var(--muted)">Hack Não 3000 Chữ Hán — 3 tập. Chữ, pinyin, nghĩa, câu chuyện lấy bằng OCR từ ảnh thẻ nên có thể sai sót; bật <b>🖼 Ảnh</b> để đối chiếu thẻ gốc.</div>
+  <div class="bar">
+    <select id="set" aria-label="Bộ chữ">
+      <option value="1">Tập 1 (thẻ 1–1000)</option>
+      <option value="2">Tập 2 (thẻ 1001–2002)</option>
+      <option value="3">Tập 3 (thẻ 2003–3123)</option>
+      <option value="all">Tất cả 3 tập</option>
+      <option value="HSK1">HSK1</option><option value="HSK2">HSK2</option><option value="HSK3">HSK3</option>
+      <option value="HSK4">HSK4</option><option value="HSK5">HSK5</option><option value="HSK6">HSK6</option><option value="HSK7">HSK7–9</option>
+    </select>
+    <button class="btn" id="prev" title="Chữ trước (←)">← Trước</button>
+    <span id="pos" style="font-size:13.5px;color:var(--muted)"></span>
+    <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
+    <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
+    <button class="btn" id="cardBtn" title="Hiện/ẩn ảnh thẻ gốc">🖼 Ảnh: tắt</button>
+    <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / pinyin / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
+  </div>
+
+  <div id="root">
+    <div class="info">
+      <div class="big zh" id="kBig"></div>
+      <div><div class="hv" id="kHv"></div><div class="py" id="kPy"></div><div class="m" id="kM"></div><div class="tag" id="kTag"></div></div>
+      <section class="panel words hidden" id="words">
+        <h2><span>📚 Từ vựng có chữ này (trên thẻ)</span><span id="wCount"></span></h2>
+        <table><tbody id="wBody"></tbody></table>
+      </section>
+    </div>
+    <div class="story" id="kStory"></div>
+    <div class="sub" id="kSub"></div>
+    <figure class="card hidden" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
+
+    <div class="layout">
+      <section class="panel">
+        <h2><span>📖 Mẫu &amp; thứ tự nét</span><span id="sCount"></span></h2>
+        <div class="box" id="modelBox"><svg class="grid" viewBox="0 0 100 100"><rect x="1" y="1" width="98" height="98"/><line x1="50" y1="0" x2="50" y2="100"/><line x1="0" y1="50" x2="100" y2="50"/><line x1="0" y1="0" x2="100" y2="100"/><line x1="100" y1="0" x2="0" y2="100"/></svg><div id="model"></div><svg class="nums" id="nums" viewBox="0 0 1024 1024"></svg></div>
+        <div class="tools">
+          <button class="btn primary" id="play">▶ Xem cách viết</button>
+          <button class="btn" id="stepBtn">Từng nét ⏭</button>
+          <button class="btn on" id="numsBtn">Số thứ tự nét</button>
+          <button class="btn" id="loop">🔁 Lặp</button>
+          <button class="btn" id="tradBtn" title="Đổi sang dạng phồn thể (nếu có)">繁 Phồn thể</button>
+        </div>
+      </section>
+      <section class="panel">
+        <h2><span>✍️ Ô luyện viết</span><span id="drawInfo"></span></h2>
+        <div class="box"><svg class="grid" viewBox="0 0 100 100"><rect x="1" y="1" width="98" height="98"/><line x1="50" y1="0" x2="50" y2="100"/><line x1="0" y1="50" x2="100" y2="50"/><line x1="0" y1="0" x2="100" y2="100"/><line x1="100" y1="0" x2="0" y2="100"/></svg><div id="pad"></div></div>
+        <div class="count"><span>Đúng <b id="drawn">0</b> / <b id="total">0</b> nét · sai <b id="miss">0</b></span><span id="verdict"></span></div>
+        <div class="tools">
+          <button class="btn on" id="ghostBtn">👻 Chữ mờ để tô</button>
+          <button class="btn" id="hintBtn">💡 Gợi ý nét tiếp</button>
+          <button class="btn" id="clear">🗑 Viết lại</button>
+          <button class="btn" id="check">✔ So với mẫu</button>
+          <button class="btn" id="quizBtn">🙈 Viết từ trí nhớ</button>
+        </div>
+      </section>
+    </div>
+  </div>
+  <p class="note">Phím tắt: <b>←/→</b> đổi chữ · <b>Space</b> chữ tiếp theo · <b>A</b> xem cách viết · <b>C</b> viết lại · <b>H</b> gợi ý nét.
+  Ô luyện viết chấm từng nét: viết sai thứ tự hoặc sai hướng sẽ không được nhận; sai 3 lần thì hiện gợi ý.
+  Chế độ <b>Viết từ trí nhớ</b> ẩn chữ mẫu, chữ mờ, pinyin, từ vựng và ảnh, chỉ còn Hán Việt + nghĩa + câu chuyện.
+  Dữ liệu nét: <a href="https://hanziwriter.org" target="_blank" rel="noopener">Hanzi Writer</a> (Make Me a Hanzi, Arphic PL). Dữ liệu thẻ: OCR từ sách Hack Não 3000 Chữ Hán.</p>
+</main>
+<script src="hanzi-cards.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.7.2/dist/hanzi-writer.min.js"></script>
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const ALL = (window.HANZI || []).map(r => ({ n:r[0], tap:r[1], k:r[2], t:r[3], py:r[4], hsk:r[5], hv:r[6], m:r[7], story:r[8], parts:r[9], words:r[10] }));
+  const BYN = new Map(ALL.map(x => [x.n, x]));
+  const store = { get(k, d){ try { const v = localStorage.getItem('hzw.' + k); return v == null ? d : JSON.parse(v); } catch(e){ return d; } },
+                  set(k, v){ try { localStorage.setItem('hzw.' + k, JSON.stringify(v)); } catch(e){} } };
+  const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  let set = store.get('set', '1'), i = 0, showCard = store.get('card', true), nums = store.get('nums', true), step = -1, total = 0, ghost = true, quiz = false, loop = false, useTrad = false;
+  let model = null, pad = null, loopTimer = null, misses = 0, PAD = 12;
+
+  function pool(){
+    if (set === 'all') return ALL;
+    if (/^[123]$/.test(set)) return ALL.filter(x => String(x.tap) === set);
+    if (set === 'HSK7') return ALL.filter(x => /HSK[789]/.test(x.hsk));
+    return ALL.filter(x => x.hsk === set);
+  }
+  function cur(){ const L = pool(); return L[Math.max(0, Math.min(i, L.length - 1))]; }
+  let EXT = '.webp';   // trên site: ảnh webp; trong thư mục china/: ảnh jpg (tự đổi khi lỗi)
+  function imgPath(x){ return 'tap' + x.tap + '/' + String(x.n).padStart(4, '0') + EXT; }
+  function hl(word, k){ return esc(word).split(k).join('<b>' + esc(k) + '</b>'); }
+  function storyHtml(s){ return esc(s).replace(/\(([㐀-鿿豈-﫿]+)\)/g, '(<b class="zh">$1</b>)'); }
+
+  function render(){
+    const L = pool(); if (!L.length) return;
+    i = (i + L.length) % L.length;
+    const x = L[i];
+    store.set('set', set); store.set('pos.' + set, i);
+    location.hash = encodeURIComponent(x.n);
+    $('pos').textContent = (i + 1) + ' / ' + L.length;
+    $('kBig').textContent = x.k;
+    $('kHv').textContent = x.hv;
+    $('kPy').textContent = x.py ? x.py + (x.t && x.t !== x.k ? '  ·  phồn thể ' + x.t : '') : (x.t && x.t !== x.k ? 'phồn thể ' + x.t : '');
+    $('kM').textContent = x.m;
+    $('kTag').textContent = 'Thẻ ' + x.n + ' · Tập ' + x.tap + (x.hsk ? ' · ' + x.hsk : '');
+    $('kStory').innerHTML = x.story ? '📖 ' + storyHtml(x.story) : '';
+    // mảnh ghép: ô bộ thủ trên thẻ, tra sang thẻ của mảnh đó
+    $('kSub').innerHTML = (x.parts || []).map(([p, n]) => {
+      const y = BYN.get(n);
+      return '<div data-n="' + n + '"><b class="zh">' + esc(p) + '</b> <span class="hv2">' + esc(y ? y.hv : '') + '</span>'
+        + (y ? ' – ' + esc(y.m) + (y.story ? ': ' + storyHtml(y.story) : '') : '') + ' <span style="opacity:.7">(thẻ ' + n + ')</span></div>';
+    }).join('');
+    const ws = (x.words || []).filter(w => w[0]);
+    $('words').classList.toggle('hidden', !ws.length);
+    $('wCount').textContent = ws.length + ' từ';
+    $('wBody').innerHTML = ws.map(([w, tr, py, hv, m]) =>
+      '<tr><td class="w zh">' + hl(w, x.k) + (tr && tr !== w ? ' <small>【' + esc(tr) + '】</small>' : '') + '</td>'
+      + '<td><span class="r">' + esc(py) + '</span> · <span class="h">' + esc(hv) + '</span>' + (m ? ' — ' + esc(m) : '') + '</td></tr>').join('');
+    $('kCard').classList.toggle('hidden', !showCard);
+    if (showCard) $('kImg').src = imgPath(x);
+    $('cardBtn').textContent = '🖼 Ảnh: ' + (showCard ? 'bật' : 'tắt');
+    $('cardBtn').classList.toggle('on', showCard);
+    $('tradBtn').classList.toggle('hidden', !(x.t && x.t !== x.k));
+    $('tradBtn').classList.toggle('on', useTrad);
+    setupWriters(useTrad && x.t ? x.t : x.k);
+  }
+
+  function boxSize(el){ return Math.floor(el.getBoundingClientRect().width) || 300; }
+  function setupWriters(ch){
+    clearTimeout(loopTimer);
+    $('model').innerHTML = ''; $('pad').innerHTML = '';
+    misses = 0; $('drawn').textContent = '0'; $('miss').textContent = '0'; $('total').textContent = '…'; $('verdict').textContent = '';
+    if (!window.HanziWriter) { $('verdict').textContent = 'Không tải được Hanzi Writer (cần mạng).'; return; }
+    const sz = boxSize($('modelBox'));
+    $('nums').innerHTML = ''; step = -1; total = 0;
+    model = HanziWriter.create('model', ch, { width:sz, height:sz, padding:PAD, showOutline:true, strokeColor:'#c2410c',
+      radicalColor:'#0f7a4f', delayBetweenStrokes:250, strokeAnimationSpeed:1.2,
+      onLoadCharDataSuccess: d => { total = d.strokes.length; $('total').textContent = total; $('sCount').textContent = total + ' nét'; drawNums(d, sz); },
+      onLoadCharDataError: () => { $('sCount').textContent = 'chưa có dữ liệu nét cho chữ này'; } });
+    const ps = boxSize($('pad').parentNode);
+    pad = HanziWriter.create('pad', ch, { width:ps, height:ps, padding:12, showCharacter:false, showOutline:ghost && !quiz,
+      showHintAfterMisses:3, highlightOnComplete:true, drawingWidth:22, strokeColor:'#1d1d1f' });
+    startQuiz();
+  }
+  // số thứ tự nét: đặt ở điểm đầu của mỗi nét (medians, toạ độ 1024, trục y ngược, gốc 900)
+  function drawNums(d, sz){
+    const svg = $('nums'), inner = sz - 2 * PAD;
+    svg.style.left = svg.style.top = PAD + 'px'; svg.style.width = svg.style.height = inner + 'px';
+    svg.innerHTML = d.medians.map((m, k) => {
+      const [x, y] = m[0];
+      return '<text x="' + Math.max(30, x - 46) + '" y="' + Math.min(1010, 900 - y + 16) + '">' + (k + 1) + '</text>';
+    }).join('');
+    svg.style.display = nums ? '' : 'none';
+  }
+  function stepStroke(){
+    if (!model || !total) return;
+    clearTimeout(loopTimer);
+    if (step < 0 || step >= total) { model.hideCharacter({ duration:0 }); step = 0; }
+    model.animateStroke(step); step++;
+    $('sCount').textContent = 'nét ' + step + ' / ' + total;
+  }
+  function startQuiz(){
+    if (!pad) return;
+    pad.quiz({
+      onCorrectStroke: s => { $('drawn').textContent = s.strokeNum + 1; },
+      onMistake: () => { misses++; $('miss').textContent = misses; },
+      onComplete: s => { $('verdict').innerHTML = s.totalMistakes === 0 ? '<span class="ok">✔ Chuẩn, không sai nét nào</span>' : '<span class="warn">Xong · sai ' + s.totalMistakes + ' lần</span>'; },
+    });
+  }
+  function play(){
+    if (!model) return;
+    clearTimeout(loopTimer);
+    model.animateCharacter({ onComplete: () => { if (loop) loopTimer = setTimeout(play, 900); } });
+  }
+  function go(d){ i += d; useTrad = false; render(); }
+  function find(q){
+    q = q.trim().toLowerCase(); if (!q) return;
+    const norm = s => (s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').toLowerCase();
+    const L = pool();
+    let k = L.findIndex(x => x.k === q || x.t === q || String(x.n) === q);
+    if (k < 0) k = L.findIndex(x => norm(x.hv).split(/[ ,]+/).includes(norm(q)) || norm(x.py) === norm(q));
+    if (k < 0) {   // không có trong bộ đang chọn -> tìm trong cả 3 tập
+      const j = ALL.findIndex(x => x.k === q || x.t === q || String(x.n) === q || norm(x.hv).split(/[ ,]+/).includes(norm(q)));
+      if (j >= 0) { set = 'all'; $('set').value = 'all'; k = j; }
+    }
+    if (k >= 0) { i = k; useTrad = false; render(); }
+  }
+
+  $('set').value = set;
+  $('set').onchange = () => { set = $('set').value; i = store.get('pos.' + set, 0); render(); };
+  $('prev').onclick = () => go(-1);
+  $('next').onclick = () => go(1);
+  $('rand').onclick = () => { i = Math.floor(Math.random() * pool().length); useTrad = false; render(); };
+  $('cardBtn').onclick = () => { showCard = !showCard; store.set('card', showCard); render(); };
+  $('kImg').onclick = () => $('kCard').classList.toggle('zoom');
+  $('kImg').onerror = () => { if (EXT === '.webp') { EXT = '.jpg'; $('kImg').src = imgPath(cur()); } };
+  $('find').onkeydown = e => { if (e.key === 'Enter') find(e.target.value); };
+  $('play').onclick = () => { step = -1; play(); };
+  $('stepBtn').onclick = stepStroke;
+  $('numsBtn').classList.toggle('on', nums);
+  $('numsBtn').onclick = () => { nums = !nums; store.set('nums', nums); $('numsBtn').classList.toggle('on', nums); $('nums').style.display = nums ? '' : 'none'; };
+  $('check').onclick = () => { if (!pad) return; pad.showCharacter({ duration:300 }); setTimeout(() => pad.hideCharacter({ duration:300 }), 1600); };
+  $('loop').onclick = () => { loop = !loop; $('loop').classList.toggle('on', loop); if (loop) play(); else clearTimeout(loopTimer); };
+  $('tradBtn').onclick = () => { useTrad = !useTrad; render(); };
+  $('ghostBtn').onclick = () => { ghost = !ghost; $('ghostBtn').classList.toggle('on', ghost); pad && (ghost && !quiz ? pad.showOutline() : pad.hideOutline()); };
+  $('hintBtn').onclick = () => { if (!pad) return; pad.showOutline(); setTimeout(() => { if (!(ghost && !quiz)) pad.hideOutline(); }, 1200); };
+  $('clear').onclick = () => { misses = 0; $('drawn').textContent = '0'; $('miss').textContent = '0'; $('verdict').textContent = ''; startQuiz(); };
+  $('quizBtn').onclick = () => { quiz = !quiz; $('quizBtn').classList.toggle('on', quiz); $('root').classList.toggle('quiz', quiz);
+    $('model').style.visibility = quiz ? 'hidden' : ''; pad && (ghost && !quiz ? pad.showOutline() : pad.hideOutline()); };
+  $('kSub').onclick = e => { const d = e.target.closest('[data-n]'); if (d) find(d.dataset.n); };
+  document.addEventListener('keydown', e => {
+    if (e.target.tagName === 'INPUT' || e.metaKey || e.ctrlKey) return;
+    if (e.key === 'ArrowLeft') go(-1);
+    else if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); go(1); }
+    else if (e.key === 'a' || e.key === 'A') play();
+    else if (e.key === 'c' || e.key === 'C') $('clear').click();
+    else if (e.key === 'h' || e.key === 'H') $('hintBtn').click();
+  });
+  let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(render, 250); });
+
+  // mở theo #số thẻ hoặc vị trí lần trước
+  const h = decodeURIComponent(location.hash.slice(1));
+  i = store.get('pos.' + set, 0);
+  if (h) { const k = pool().findIndex(x => String(x.n) === h || x.k === h); if (k >= 0) i = k; else { set = 'all'; $('set').value = 'all'; const j = ALL.findIndex(x => String(x.n) === h || x.k === h); if (j >= 0) i = j; } }
+  render();
+})();
+</script>
+</body>
+</html>

@@ -140,6 +140,7 @@
 
 - [🗣️ Phát âm tiếng Trung (pinyin) — guide có audio](tieng-trung-phat-am.md)
 - [1000 câu ngắn tiếng Trung – tiếng Anh](1000-short-phrases-Chinese-English.md)
+- [✍️ Luyện viết 3000 Chữ Hán (Hack Não, 3 tập — thứ tự nét + ô tập viết)](hanzi-viewer/write.html)
 - [📚 Từ vựng HSK1–HSK6 (4.896 từ)](hsk-tu-vung.md)
   - [HSK1](hsk1-tu-vung.md)
   - [HSK2](hsk2-tu-vung.md)
