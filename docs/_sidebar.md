@@ -107,6 +107,22 @@
 
 ---
 
+# 📘 IELTS READING (Cambridge 10–20)
+
+- [🗺️ Bản đồ ngữ pháp IELTS Reading — map 5.027 câu (44 đề) vào 19 chương](ielts-ngu-phap-ban-do.md)
+  - [Cam 10 — phân tích từng câu](ielts-ngu-phap-cam-10.md)
+  - [Cam 11 — phân tích từng câu](ielts-ngu-phap-cam-11.md)
+  - [Cam 12 — phân tích từng câu](ielts-ngu-phap-cam-12.md)
+  - [Cam 13 — phân tích từng câu](ielts-ngu-phap-cam-13.md)
+  - [Cam 14 — phân tích từng câu](ielts-ngu-phap-cam-14.md)
+  - [Cam 15 — phân tích từng câu](ielts-ngu-phap-cam-15.md)
+  - [Cam 16 — phân tích từng câu](ielts-ngu-phap-cam-16.md)
+  - [Cam 17 — phân tích từng câu](ielts-ngu-phap-cam-17.md)
+  - [Cam 18 — phân tích từng câu](ielts-ngu-phap-cam-18.md)
+  - [Cam 19 — phân tích từng câu](ielts-ngu-phap-cam-19.md)
+  - [Cam 20 — phân tích từng câu](ielts-ngu-phap-cam-20.md)
+- [📖 Luyện đề IELTS Reading & Listening (site riêng)](https://testervippro.github.io/Ielts-Reading/)
+
 # 🔤 TỪ VỰNG (WORD FAMILIES)
 
 - [Word families & đồng nghĩa (5000 từ)](WordFamilies.md)
