@@ -77,6 +77,9 @@
       <option value="2">Tập 2 (thẻ 1001–2002)</option>
       <option value="3">Tập 3 (thẻ 2003–3123)</option>
       <option value="all">Tất cả 3 tập</option>
+      <option value="HSK1-2">HSK1 – HSK2</option><option value="HSK1-3">HSK1 – HSK3</option>
+      <option value="HSK1-4">HSK1 – HSK4</option><option value="HSK1-5">HSK1 – HSK5</option>
+      <option value="HSK1-6">HSK1 – HSK6</option><option value="HSK1-9">HSK1 – HSK7–9 (tất cả có HSK)</option>
       <option value="HSK1">HSK1</option><option value="HSK2">HSK2</option><option value="HSK3">HSK3</option>
       <option value="HSK4">HSK4</option><option value="HSK5">HSK5</option><option value="HSK6">HSK6</option><option value="HSK7">HSK7–9</option>
     </select>
@@ -132,7 +135,7 @@
   Chế độ <b>Viết từ trí nhớ</b> ẩn chữ mẫu, chữ mờ, pinyin, từ vựng và ảnh, chỉ còn Hán Việt + nghĩa + câu chuyện.
   Dữ liệu nét: <a href="https://hanziwriter.org" target="_blank" rel="noopener">Hanzi Writer</a> (Make Me a Hanzi, Arphic PL). Dữ liệu thẻ: OCR từ sách Hack Não 3000 Chữ Hán.</p>
 </main>
-<script src="hanzi-cards.js"></script>
+<script src="hanzi-cards.js?v=20261116"></script>
 <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.7.2/dist/hanzi-writer.min.js"></script>
 <script>
 (() => {
@@ -150,6 +153,8 @@
     if (set === 'all') return ALL;
     if (/^[123]$/.test(set)) return ALL.filter(x => String(x.tap) === set);
     if (set === 'HSK7') return ALL.filter(x => /HSK[789]/.test(x.hsk));
+    const range = set.match(/^HSK1-(\d)$/);   // gộp HSK1 → HSKn (vd HSK1-4)
+    if (range) { const hi = +range[1]; return ALL.filter(x => { const lv = +(x.hsk || '').replace('HSK', ''); return lv >= 1 && lv <= hi; }); }
     return ALL.filter(x => x.hsk === set);
   }
   function cur(){ const L = pool(); return L[Math.max(0, Math.min(i, L.length - 1))]; }
