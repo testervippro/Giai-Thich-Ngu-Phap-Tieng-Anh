@@ -109,6 +109,7 @@
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
     <button class="btn" id="cardBtn" title="Hiện/ẩn ảnh thẻ gốc">🖼 Ảnh: tắt</button>
+    <button class="btn" id="warnBtn" title="Hiện/ẩn ô cảnh báo OCR (bộ “⚠️ Thẻ cần kiểm tra” luôn hiện)">⚠️ Cảnh báo: tắt</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / pinyin / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
 
@@ -170,7 +171,7 @@
   const store = { get(k, d){ try { const v = localStorage.getItem('hzw.' + k); return v == null ? d : JSON.parse(v); } catch(e){ return d; } },
                   set(k, v){ try { localStorage.setItem('hzw.' + k, JSON.stringify(v)); } catch(e){} } };
   const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  let set = store.get('set', '1'), i = 0, showCard = store.get('card', true), nums = store.get('nums', true), step = -1, total = 0, ghost = true, quiz = false, loop = false, useTrad = false;
+  let set = store.get('set', '1'), i = 0, showCard = store.get('card', true), showWarn = store.get('warnBox', false), nums = store.get('nums', true), step = -1, total = 0, ghost = true, quiz = false, loop = false, useTrad = false;
   let model = null, pad = null, loopTimer = null, misses = 0, PAD = 12;
 
   function pool(){
@@ -199,7 +200,7 @@
     if (w.g) items.push('Chữ <b class="zh guess">' + esc(w.g.split('').join(' ')) + '</b> trong câu chuyện do máy tự suy ra (từ ô bộ thủ / tên bộ / OCR lại) — đối chiếu ảnh thẻ.');
     if (w.d) items.push('Chữ chính <b class="zh">' + esc(x.k) + '</b> trùng với thẻ ' + w.d.map(n => '<a href="#' + n + '" data-go="' + n + '">' + n + '</a>').join(', ') + ' — một trong các thẻ có thể bị OCR đọc sai chữ.');
     if (w.w) items.push('Không đọc được bảng từ ví dụ của thẻ này.');
-    if (!items.length) { box.classList.add('hidden'); return; }
+    if (!items.length || (!showWarn && set !== 'warn')) { box.classList.add('hidden'); return; }
     const done = store.get('checked', {});
     box.classList.remove('hidden');
     box.classList.toggle('ok', !!done[x.n]);
@@ -359,6 +360,9 @@
   $('next').onclick = () => go(1);
   $('rand').onclick = () => { i = Math.floor(Math.random() * pool().length); useTrad = false; render(); };
   $('cardBtn').onclick = () => { showCard = !showCard; store.set('card', showCard); render(); };
+  const warnLabel = () => { $('warnBtn').textContent = '⚠️ Cảnh báo: ' + (showWarn ? 'bật' : 'tắt'); $('warnBtn').classList.toggle('on', showWarn); };
+  $('warnBtn').onclick = () => { showWarn = !showWarn; store.set('warnBox', showWarn); warnLabel(); renderWarn(cur()); };
+  warnLabel();
   $('kImg').onclick = () => $('kCard').classList.toggle('zoom');
   $('kImg').onerror = () => { if (EXT === '.webp') { EXT = '.jpg'; $('kImg').src = imgPath(cur()); } };
   $('find').onkeydown = e => { if (e.key === 'Enter') find(e.target.value); };
