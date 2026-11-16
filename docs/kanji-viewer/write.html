@@ -73,7 +73,7 @@
   <div class="tag" id="extraNote" style="font-size:13px;margin:-2px 0 6px;color:var(--muted)">🆕 14/11/2026: đã thêm <b>17 chữ ngoài bộ 2136</b> có trong 1800 từ vựng IT và 2000 từ thông dụng: 齟 齬 聘 紐 雛 挽 洩 脆 詫 閾 遽 揃 汲 嗜 迄 嬉 遥 — <a href="#" id="extraGo">luyện ngay →</a></div>
   <div class="bar">
     <select id="set" aria-label="Bộ chữ">
-      <option value="rad">🧱 Bộ nền (280 mảnh, hay gặp trước)</option>
+      <option value="rad" id="radOpt">🧱 Bộ nền (280 mảnh, hay gặp trước)</option>
       <option value="all">Tất cả 2.136 chữ</option>
       <option value="p1">Tập 1 (thẻ 1–1050)</option>
       <option value="p2">Tập 2 (thẻ 1051–2165)</option>
@@ -156,6 +156,12 @@
   const EXTRA = (window.KANJI_EXTRA || []).map((r, ix) => ({ n: 'N' + (ix + 1), k: r[0], hv: r[1], m: r[2], j: '', s: r[3], img: null, tag: `🆕 Ngoài 2136 · ${ix + 1}/17 · ${r[6]} · ${r[4]} · ${r[5]}` }));
   const BYK = new Map(); ALL.concat(EXTRA).forEach(x => { if (x.s && !BYK.has(x.k)) BYK.set(x.k, x); });
   const RADK = new Map(RADW.map(r => [r.k, r]));
+  // Bộ nền thêm các chữ trong 2136 chưa scan được câu chuyện (s rỗng) và chưa có trong 280 mảnh
+  // -> luyện viết + xem ảnh thẻ để tự đọc câu chuyện.
+  const NOSTORY = ALL.filter(x => !String(x.s || '').trim() && !RADK.has(x.k))
+    .map((x, ix) => Object.assign({}, x, { tag: `📝 Chưa scan được câu chuyện · ${ix + 1} · thẻ ${x.n}${x.j ? ' · ' + x.j : ''}` }));
+  const RADSET = RADW.concat(NOSTORY);
+  { const o = document.getElementById('radOpt'); if (o) o.textContent = `🧱 Bộ nền (${RADW.length} mảnh + ${NOSTORY.length} chữ chưa có câu chuyện)`; }
   function subStories(x){
     const seen = new Set([x.k]), out = [];
     (String(x.s || '').match(/[\u2E80-\u2FDF\u3005\u30A0-\u30FF\u3400-\u9FFF\uF900-\uFAFF]/g) || []).forEach(c => {
@@ -167,7 +173,7 @@
     return out.join('');
   }
   function pool(){
-    if (st.set === 'rad') return RADW;
+    if (st.set === 'rad') return RADSET;
     if (st.set === 'extra') return EXTRA;
     if (st.set === 'p1') return ALL.filter(x => x.n <= 1050);
     if (st.set === 'p2') return ALL.filter(x => x.n > 1050);
