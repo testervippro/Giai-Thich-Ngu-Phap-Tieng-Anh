@@ -47,6 +47,14 @@
     .card { margin:0 0 12px; }
     .card img { display:block; width:100%; max-width:720px; height:auto; border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
     .card.zoom img { max-width:none; cursor:zoom-out; }
+    .warnbox { margin:-4px 0 12px; padding:8px 12px; border:1px solid #fcd34d; background:#fffbeb; color:#78350f;
+               border-radius:10px; font-size:13.5px; line-height:1.5; }
+    :root[data-theme="dark"] .warnbox { background:#2a2110; border-color:#a16207; color:#fcd34d; }
+    @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) .warnbox { background:#2a2110; border-color:#a16207; color:#fcd34d; } }
+    .warnbox.ok { border-color:#86efac; background:#f0fdf4; color:#166534; }
+    .warnbox ul { margin:4px 0 6px 18px; padding:0; }
+    .guess { text-decoration:underline dotted #d97706 2px; text-underline-offset:3px; }
+    .qmark { color:#d97706; font-weight:700; }
     .sub { margin:-4px 0 12px; display:flex; flex-direction:column; gap:4px; }
     .sub:empty { display:none; }
     .sub div { font-size:13.5px; color:var(--muted); padding:3px 10px; border-left:3px solid var(--accent); background:var(--card); border-radius:0 8px 8px 0; cursor:pointer; }
@@ -77,6 +85,7 @@
       <option value="2">Tập 2 (thẻ 1001–2002)</option>
       <option value="3">Tập 3 (thẻ 2003–3123)</option>
       <option value="all">Tất cả 3 tập</option>
+      <option value="warn">⚠️ Thẻ cần kiểm tra (OCR chưa chắc)</option>
       <option value="HSK1-2">HSK1 – HSK2</option><option value="HSK1-3">HSK1 – HSK3</option>
       <option value="HSK1-4">HSK1 – HSK4</option><option value="HSK1-5">HSK1 – HSK5</option>
       <option value="HSK1-6">HSK1 – HSK6</option><option value="HSK1-9">HSK1 – HSK7–9 (tất cả có HSK)</option>
@@ -101,6 +110,7 @@
       </section>
     </div>
     <div class="story" id="kStory"></div>
+    <div class="warnbox hidden" id="kWarn"></div>
     <div class="sub" id="kSub"></div>
     <figure class="card hidden" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
 
@@ -135,12 +145,13 @@
   Chế độ <b>Viết từ trí nhớ</b> ẩn chữ mẫu, chữ mờ, pinyin, từ vựng và ảnh, chỉ còn Hán Việt + nghĩa + câu chuyện.
   Dữ liệu nét: <a href="https://hanziwriter.org" target="_blank" rel="noopener">Hanzi Writer</a> (Make Me a Hanzi, Arphic PL). Dữ liệu thẻ: OCR từ sách Hack Não 3000 Chữ Hán.</p>
 </main>
-<script src="hanzi-cards.js?v=20261116b"></script>
+<script src="hanzi-cards.js?v=20261116c"></script>
 <script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.7.2/dist/hanzi-writer.min.js"></script>
 <script>
 (() => {
   const $ = id => document.getElementById(id);
-  const ALL = (window.HANZI || []).map(r => ({ n:r[0], tap:r[1], k:r[2], t:r[3], py:r[4], hsk:r[5], hv:r[6], m:r[7], story:r[8], parts:r[9], words:r[10] }));
+  const ALL = (window.HANZI || []).map(r => ({ n:r[0], tap:r[1], k:r[2], t:r[3], py:r[4], hsk:r[5], hv:r[6], m:r[7], story:r[8], parts:r[9], words:r[10], w:r[11] || {} }));
+  const hasWarn = x => Object.keys(x.w).length > 0;
   const BYN = new Map(ALL.map(x => [x.n, x]));
   const BYK = new Map(); ALL.forEach(x => { if (x.k && !BYK.has(x.k)) BYK.set(x.k, x); });
   const store = { get(k, d){ try { const v = localStorage.getItem('hzw.' + k); return v == null ? d : JSON.parse(v); } catch(e){ return d; } },
@@ -151,6 +162,7 @@
 
   function pool(){
     if (set === 'all') return ALL;
+    if (set === 'warn') { const done = store.get('checked', {}); return ALL.filter(x => hasWarn(x) && !done[x.n]); }
     if (/^[123]$/.test(set)) return ALL.filter(x => String(x.tap) === set);
     if (set === 'HSK7') return ALL.filter(x => /HSK[789]/.test(x.hsk));
     const range = set.match(/^HSK1-(\d)$/);   // gộp HSK1 → HSKn (vd HSK1-4)
@@ -161,7 +173,34 @@
   let EXT = '.webp';   // trên site: ảnh webp; trong thư mục china/: ảnh jpg (tự đổi khi lỗi)
   function imgPath(x){ return 'tap' + x.tap + '/' + String(x.n).padStart(4, '0') + EXT; }
   function hl(word, k){ return esc(word).split(k).join('<b>' + esc(k) + '</b>'); }
-  function storyHtml(s){ return esc(s).replace(/\(([㐀-鿿豈-﫿]+)\)/g, '(<b class="zh">$1</b>)'); }
+  function storyHtml(s, guess){
+    guess = guess || '';
+    return esc(s).replace(/\(([⺀-⿟㐀-鿿豈-﫿]+)\)/g, (m, c) =>
+        '(<b class="zh' + (guess.includes(c) ? ' guess" title="Chữ do máy tự suy ra — đối chiếu ảnh thẻ' : '') + '">' + c + '</b>)')
+      .replace(/\(\?\)/g, '(<span class="qmark" title="OCR chưa đọc được chữ này — xem ảnh thẻ">?</span>)');
+  }
+  // ô cảnh báo OCR + nút "Đã kiểm tra" (lưu trong trình duyệt)
+  function renderWarn(x){
+    const box = $('kWarn'), w = x.w, items = [];
+    if (w.q) items.push('Câu chuyện còn chỗ <span class="qmark">(?)</span> — OCR chưa đọc được chữ trong ngoặc.');
+    if (w.g) items.push('Chữ <b class="zh guess">' + esc(w.g.split('').join(' ')) + '</b> trong câu chuyện do máy tự suy ra (từ ô bộ thủ / tên bộ / OCR lại) — đối chiếu ảnh thẻ.');
+    if (w.d) items.push('Chữ chính <b class="zh">' + esc(x.k) + '</b> trùng với thẻ ' + w.d.map(n => '<a href="#' + n + '" data-go="' + n + '">' + n + '</a>').join(', ') + ' — một trong các thẻ có thể bị OCR đọc sai chữ.');
+    if (w.w) items.push('Không đọc được bảng từ ví dụ của thẻ này.');
+    if (!items.length) { box.classList.add('hidden'); return; }
+    const done = store.get('checked', {});
+    box.classList.remove('hidden');
+    box.classList.toggle('ok', !!done[x.n]);
+    box.innerHTML = (done[x.n] ? '✓ <b>Đã kiểm tra</b> — các cảnh báo OCR của thẻ này:' : '⚠️ <b>Có thể OCR sai</b> — kiểm tra với ảnh thẻ bên dưới:')
+      + '<ul><li>' + items.join('</li><li>') + '</li></ul>'
+      + '<button class="btn" id="checkBtn">' + (done[x.n] ? '↩ Bỏ đánh dấu' : '✓ Đã kiểm tra') + '</button>'
+      + ' <span style="opacity:.75">Còn ' + ALL.filter(y => hasWarn(y) && !done[y.n]).length + ' thẻ chưa kiểm tra.</span>';
+    $('checkBtn').onclick = () => {
+      const d = store.get('checked', {});
+      if (d[x.n]) delete d[x.n]; else d[x.n] = 1;
+      store.set('checked', d);
+      if (set === 'warn' && d[x.n]) render(); else renderWarn(x);
+    };
+  }
 
   function render(){
     const L = pool(); if (!L.length) return;
@@ -175,7 +214,8 @@
     $('kPy').textContent = x.py ? x.py + (x.t && x.t !== x.k ? '  ·  phồn thể ' + x.t : '') : (x.t && x.t !== x.k ? 'phồn thể ' + x.t : '');
     $('kM').textContent = x.m;
     $('kTag').textContent = 'Thẻ ' + x.n + ' · Tập ' + x.tap + (x.hsk ? ' · ' + x.hsk : '');
-    $('kStory').innerHTML = x.story ? '📖 ' + storyHtml(x.story) : '';
+    $('kStory').innerHTML = x.story ? '📖 ' + storyHtml(x.story, x.w.g) : '';
+    renderWarn(x);
     // mảnh ghép: ô bộ thủ trên thẻ, tra sang thẻ của mảnh đó
     // n > 0: số thẻ; n < 0: số trong bảng bộ thủ của sách -> tra thẻ có cùng chữ (nếu có)
     $('kSub').innerHTML = (x.parts || []).map(([p, n]) => {
@@ -282,6 +322,7 @@
   $('quizBtn').onclick = () => { quiz = !quiz; $('quizBtn').classList.toggle('on', quiz); $('root').classList.toggle('quiz', quiz);
     $('model').style.visibility = quiz ? 'hidden' : ''; pad && (ghost && !quiz ? pad.showOutline() : pad.hideOutline()); };
   $('kSub').onclick = e => { const d = e.target.closest('[data-n]'); if (d) find(d.dataset.n); };
+  $('kWarn').addEventListener('click', e => { const a = e.target.closest('[data-go]'); if (a) { e.preventDefault(); find(a.dataset.go); } });
   document.addEventListener('keydown', e => {
     if (e.target.tagName === 'INPUT' || e.metaKey || e.ctrlKey) return;
     if (e.key === 'ArrowLeft') go(-1);
