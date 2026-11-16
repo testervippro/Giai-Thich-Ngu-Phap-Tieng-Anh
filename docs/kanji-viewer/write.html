@@ -44,6 +44,20 @@
     .card img { display:block; width:100%; max-width:640px; height:auto; aspect-ratio:784/252; border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
     .card.zoom img { max-width:none; cursor:zoom-out; }
     .quiz .card { display:none; }
+    .xl { background:var(--card); border:1px solid var(--line); border-left:4px solid #dc2626; border-radius:0 12px 12px 0; padding:8px 12px; margin:0 0 12px; font-size:13.5px; }
+    .xl .xh { font-size:12.5px; color:var(--muted); font-weight:600; margin-bottom:4px; display:flex; justify-content:space-between; gap:8px; flex-wrap:wrap; }
+    .xl .xr { display:flex; gap:12px; align-items:flex-start; padding:4px 0; }
+    .xl .xr + .xr { border-top:1px dashed var(--line); }
+    .xl .xb { font-size:40px; line-height:1.05; font-family:"PingFang SC","Noto Serif SC","Songti SC",serif; min-width:1.1em; }
+    .xl .xb.jp { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
+    .xl .hv2 { font-weight:800; color:var(--accent); }
+    .xl .diff { color:#b91c1c; font-weight:700; }
+    .xl .same { color:#15803d; font-weight:600; }
+    .xl .xs { color:var(--muted); }
+    .xl a { white-space:nowrap; }
+    .xl .xi { display:block; max-width:420px; width:100%; margin-top:6px; border-radius:8px; border:1px solid var(--line); cursor:zoom-in; }
+    .xl .xi.zoom { max-width:none; }
+    .quiz .xl { display:none; }
     .sub { margin:-4px 0 12px; display:flex; flex-direction:column; gap:4px; }
     .sub:empty { display:none; }
     .sub div { font-size:13.5px; color:var(--muted); padding:3px 10px; border-left:3px solid var(--accent); background:var(--card); border-radius:0 8px 8px 0; cursor:pointer; }
@@ -101,6 +115,7 @@
   <div class="story" id="kStory"></div>
   <div class="sub" id="kSub"></div>
   <figure class="card" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
+  <div class="xl hidden" id="xZh"></div>
 
   <div class="layout">
     <section class="panel">
@@ -329,6 +344,51 @@
   }
 
   // ---------- show a kanji ----------
+
+  // ---------- 🇨🇳 chữ Trung tương ứng (Hack Não 3000 Chữ Hán) ----------
+  const HZV = '20261116c';
+  const loadJs = src => new Promise((ok, no) => { const e = document.createElement('script'); e.src = src; e.onload = ok; e.onerror = no; document.head.appendChild(e); });
+  let HZ = null;
+  function hanzi(){
+    if (!HZ) HZ = loadJs('../hanzi-viewer/kanji-hanzi-map.js?v=' + HZV).then(() => loadJs('../hanzi-viewer/hanzi-cards.js?v=' + HZV)).then(() => {
+      const rows = window.HANZI || [], byN = new Map(), byK = new Map();
+      rows.forEach(r => { byN.set(r[0], r); [r[2], r[3]].forEach(c => { if (c && !byK.has(c)) byK.set(c, r); }); });
+      return { byN, byK, map: window.KANJI_HANZI || {} };
+    });
+    HZ.catch(() => { HZ = null; });
+    return HZ;
+  }
+  async function crossZh(x){
+    const box = $('xZh');
+    let H; try { H = await hanzi(); } catch (e) { box.classList.add('hidden'); return; }
+    if (list[i] !== x) return;
+    let rs = (H.map[x.k] || []).map(n => H.byN.get(n)).filter(Boolean);
+    if (!rs.length && H.byK.get(x.k)) rs = [H.byK.get(x.k)];
+    const inKanji = typeof x.n === 'number' && !x.tag;
+    if (!rs.length){
+      box.classList.toggle('hidden', !inKanji);
+      box.innerHTML = '<div class="xh"><span>🇨🇳 Tiếng Trung</span></div><span class="xs">Không có trong Hack Não 3000 Chữ Hán (có thể là chữ Nhật tự tạo hoặc chữ ít dùng trong tiếng Trung).</span>';
+      return;
+    }
+    box.classList.remove('hidden');
+    box.innerHTML = '<div class="xh"><span>🇨🇳 Tiếng Trung — chữ này trong Hack Não 3000 Chữ Hán</span><a href="../hanzi-viewer/kanji-vs-3000.html">So sánh 2136 vs 3000 →</a></div>' + rs.map(r => {
+      const [n, tap, k, t, py, hsk, hv, m, story, , words] = r;
+      const same = k === x.k || t === x.k;
+      const ws = (words || []).filter(w => w[0]).slice(0, 3).map(w => '<b>' + escH(w[0]) + '</b> <span class="xs">' + escH(w[2] || '') + '</span> ' + escH(w[4] || '')).join(' · ');
+      const img = '../hanzi-viewer/tap' + tap + '/' + String(n).padStart(4, '0') + '.webp';
+      return '<div class="xr"><div class="xb">' + escH(k) + '</div><div style="flex:1;min-width:0">'
+        + '<span class="hv2">' + escH(hv) + '</span> · ' + escH(py || '') + (hsk ? ' · ' + escH(hsk) : '')
+        + (t && t !== k ? ' · phồn thể <b>' + escH(t) + '</b>' : '')
+        + ' · ' + (k === x.k ? '<span class="same">viết giống tiếng Nhật</span>' : '<span class="diff">viết khác: Nhật ' + escH(x.k) + ' ↔ Trung ' + escH(k) + '</span>')
+        + '<br>' + escH(m || '')
+        + (story ? '<br><span class="xs">📖 ' + escH(story) + '</span>' : '')
+        + (ws ? '<br><span class="xs">Từ:</span> ' + ws : '')
+        + '<br><a href="../hanzi-viewer/write.html#' + n + '">✍️ Luyện viết chữ Trung (thẻ ' + n + ') →</a>'
+        + (st.card ? '<img class="xi" loading="lazy" src="' + img + '" alt="Thẻ chữ Hán ' + n + '">' : '')
+        + '</div></div>';
+    }).join('');
+    box.querySelectorAll('.xi').forEach(im => { im.onclick = () => im.classList.toggle('zoom'); im.onerror = () => im.remove(); });
+  }
   async function show(){
     clearInterval(timer); clearTimeout(timer);
     list = pool();
@@ -347,6 +407,7 @@
     [list[i+1], list[i-1]].forEach(y => { if (y && y.img){ const im = new Image(); im.src = y.img; } });
     $('pos').textContent = `${i + 1} / ${list.length}`;
     showWords(x.k);
+    crossZh(x);
     $('mmLink').href = 'mindmap.html#' + encodeURIComponent(x.k);
     document.body.classList.toggle('quiz', st.quiz);
     $('modelBox').classList.toggle('hidden', st.quiz);

@@ -44,6 +44,18 @@
     .tools { display:flex; gap:6px; flex-wrap:wrap; margin-top:8px; }
     .note { color:var(--muted); font-size:12.5px; margin-top:14px; line-height:1.5; }
     .quiz .big, .quiz .py, .quiz .words, .quiz .card { visibility:hidden; }
+    .xl { background:var(--card); border:1px solid var(--line); border-left:4px solid #2563eb; border-radius:0 12px 12px 0; padding:8px 12px; margin:0 0 12px; font-size:13.5px; }
+    .xl .xh { font-size:12.5px; color:var(--muted); font-weight:600; margin-bottom:4px; display:flex; justify-content:space-between; gap:8px; flex-wrap:wrap; }
+    .xl .xr { display:flex; gap:12px; align-items:flex-start; padding:4px 0; }
+    .xl .xr + .xr { border-top:1px dashed var(--line); }
+    .xl .xb { font-size:40px; line-height:1.05; font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; min-width:1.1em; }
+    .xl .hv2 { font-weight:800; color:var(--accent); }
+    .xl .diff { color:#b91c1c; font-weight:700; }
+    .xl .same { color:#15803d; font-weight:600; }
+    .xl .xs { color:var(--muted); }
+    .xl .xi { display:block; max-width:420px; width:100%; margin-top:6px; border-radius:8px; border:1px solid var(--line); cursor:zoom-in; }
+    .xl .xi.zoom { max-width:none; }
+    .quiz .xl { visibility:hidden; }
     .card { margin:0 0 12px; }
     .card img { display:block; width:100%; max-width:720px; height:auto; border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
     .card.zoom img { max-width:none; cursor:zoom-out; }
@@ -113,6 +125,7 @@
     <div class="warnbox hidden" id="kWarn"></div>
     <div class="sub" id="kSub"></div>
     <figure class="card hidden" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
+    <div class="xl hidden" id="xJp"></div>
 
     <div class="layout">
       <section class="panel">
@@ -202,6 +215,45 @@
     };
   }
 
+
+  // ---------- 🇯🇵 chữ Kanji tương ứng (2136 Kanji) ----------
+  const loadJs = src => new Promise((ok, no) => { const e = document.createElement('script'); e.src = src; e.onload = ok; e.onerror = no; document.head.appendChild(e); });
+  let KJ = null;
+  function kanji(){
+    if (!KJ) KJ = loadJs('kanji-hanzi-map.js?v=20261116c').then(() => loadJs('../kanji-viewer/kanji-game-data.js')).then(() => {
+      const byK = new Map((window.KANJI || []).map(r => [r[1], r])), byCard = new Map();
+      Object.entries(window.KANJI_HANZI || {}).forEach(([k, ns]) => ns.forEach(n => { if (!byCard.has(n)) byCard.set(n, []); byCard.get(n).push(k); }));
+      return { byK, byCard };
+    });
+    KJ.catch(() => { KJ = null; });
+    return KJ;
+  }
+  async function crossJp(x){
+    const box = $('xJp');
+    let K; try { K = await kanji(); } catch (e) { box.classList.add('hidden'); return; }
+    if (cur() !== x) return;
+    let ks = K.byCard.get(x.n) || [];
+    if (!ks.length) ks = [x.k, x.t].filter((c, j, a) => c && a.indexOf(c) === j && K.byK.has(c));
+    const rs = ks.map(k => K.byK.get(k)).filter(Boolean);
+    box.classList.remove('hidden');
+    if (!rs.length){
+      box.innerHTML = '<div class="xh"><span>🇯🇵 Tiếng Nhật</span></div><span class="xs">Không có trong 2136 Kanji thường dùng của tiếng Nhật.</span>';
+      return;
+    }
+    box.innerHTML = '<div class="xh"><span>🇯🇵 Tiếng Nhật — chữ này trong 2136 Kanji</span><a href="kanji-vs-3000.html">So sánh 2136 vs 3000 →</a></div>' + rs.map(r => {
+      const [n, k, hv, m, jlpt, story, img] = r;
+      const same = k === x.k || k === x.t;
+      return '<div class="xr"><div class="xb">' + esc(k) + '</div><div style="flex:1;min-width:0">'
+        + '<span class="hv2">' + esc(hv) + '</span>' + (jlpt ? ' · ' + esc(jlpt) : '') + ' · thẻ Kanji ' + n
+        + ' · ' + (same ? '<span class="same">viết giống ' + (k === x.k ? 'chữ Trung' : 'phồn thể ' + esc(x.t)) + '</span>' : '<span class="diff">viết khác: Trung ' + esc(x.k) + ' ↔ Nhật ' + esc(k) + '</span>')
+        + '<br>' + esc(m ? m.charAt(0).toUpperCase() + m.slice(1) : '')
+        + (story ? '<br><span class="xs">📖 ' + esc(story) + '</span>' : '')
+        + '<br><a href="../kanji-viewer/write.html#' + encodeURIComponent(k) + '">✍️ Luyện viết Kanji →</a>'
+        + (showCard && img ? '<img class="xi" loading="lazy" src="../kanji-viewer/' + esc(img) + '" alt="Thẻ Kanji ' + n + '">' : '')
+        + '</div></div>';
+    }).join('');
+    box.querySelectorAll('.xi').forEach(im => { im.onclick = () => im.classList.toggle('zoom'); im.onerror = () => im.remove(); });
+  }
   function render(){
     const L = pool(); if (!L.length) return;
     i = (i + L.length) % L.length;
@@ -216,6 +268,7 @@
     $('kTag').textContent = 'Thẻ ' + x.n + ' · Tập ' + x.tap + (x.hsk ? ' · ' + x.hsk : '');
     $('kStory').innerHTML = x.story ? '📖 ' + storyHtml(x.story, x.w.g) : '';
     renderWarn(x);
+    crossJp(x);
     // mảnh ghép: ô bộ thủ trên thẻ, tra sang thẻ của mảnh đó
     // n > 0: số thẻ; n < 0: số trong bảng bộ thủ của sách -> tra thẻ có cùng chữ (nếu có)
     $('kSub').innerHTML = (x.parts || []).map(([p, n]) => {
