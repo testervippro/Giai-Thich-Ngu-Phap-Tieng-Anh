@@ -192,6 +192,11 @@ def main():
         list(ex.map(work, todo))
     json.dump(cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False)
 
+    merged, dup = merged_rows(ets, idx)
+    render_merged(merged, cache, dup)
+
+
+def merged_rows(ets, idx):
     # gộp 2 danh sách, BỎ TRÙNG theo từ khoá tìm kiếm (vd "A as well as B" == "as well as")
     merged, pos = [], {}
     for r in ets:
@@ -213,10 +218,10 @@ def main():
         pos[r["q"]] = len(merged)
         merged.append(dict(term=r["term"], q=r["q"], ets="", mean=r["info"], src="Hackers"))
     print("gop: %d muc (bo %d muc trung)" % (len(merged), len(ets) + len(idx) - len(merged)))
-    render_merged(merged, cache, dup)
+    return merged, dup
 
 
-def render_merged(rows, cache, dup):
+def render_merged(rows, cache, dup, playlist_fn=None):
     found = sum(1 for r in rows if cache.get(r["q"]))
     n_ets = sum(1 for r in rows if r["ets"])
     L = ["# 🎤 Từ vựng TOEIC trong LỜI BÀI HÁT — ETS 2026 + Hackers Index (đã bỏ trùng)\n",
@@ -251,7 +256,9 @@ def render_merged(rows, cache, dup):
                 L.append(base + " — | | | %s |" % yg)
                 continue
             rx = re.compile(r"(?<![A-Za-z'])(%s)(?![A-Za-z'])" % re.escape(r["q"]).replace(r"\ ", r"\s+"), re.I)
-            songs = "<br>".join("*%s* – %s" % (md_esc(h["track"]), md_esc(h["artist"])) for h in hits)
+            songs = "<br>".join("*%s* – %s%s" % (md_esc(h["track"]), md_esc(h["artist"]),
+                                                  " · [🎧 #%d](toeic-songs-playlist.md#b%d)" % (h["pl"], h["pl"]) if h.get("pl") else "")
+                                for h in hits)
             def bold(h):
                 r2 = re.compile(r"(?<![A-Za-z'])(%s)(?![A-Za-z'])" % re.escape(h["word"]).replace(r"\ ", r"\s+"), re.I) if h.get("word") else rx
                 t = r2.sub(lambda m: "**" + m.group(1) + "**", md_esc(h["line"]), count=1)
@@ -272,7 +279,7 @@ def render_merged(rows, cache, dup):
         "# 🎤 Phần 2 — mục chỉ có trong Hackers TOEIC Index: bài hát có từ trong LỜI HÁT\n\n"
         "> Tiếp theo [Phần 1 — từ trong đề ETS 2026](toeic-songs-lyrics.md) (đã bỏ trùng: từ có ở cả hai danh sách "
         "chỉ nằm ở Phần 1). Cách tìm và chú thích: xem đầu Phần 1.\n" + text[i2:])
-    export_playlists(rows, cache)
+    (playlist_fn or export_playlists)(rows, cache)
     print("toeic-songs-lyrics.md (+ -hackers)", found, "/", len(rows))
 
 
