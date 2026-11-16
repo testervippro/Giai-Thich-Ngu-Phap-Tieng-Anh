@@ -1,0 +1,623 @@
+# Cụm giao tiếp hay dùng trong phim — nghĩa tiếng Việt (dùng bởi tools/movie_phrases.py)
+# cột 1: cụm (chữ thường, như khi đếm; "alright"→"all right", "ok"→"okay"); cột 2: nghĩa; cột 3 (tuỳ chọn): nhóm
+# Nhóm: chao = chào hỏi/tạm biệt · camxuc = cảm xúc/cảm thán · phanung = phản hồi/đồng ý/từ chối · hoi = câu hỏi hay gặp
+#       yeucau = yêu cầu/ra lệnh/khuyên · noi = cụm nối/mở lời khi nói · an = an ủi/động viên/xin lỗi/cảm ơn
+you know	bạn biết đấy (từ đệm khi nói)	noi
+all right	được rồi / ổn chứ	phanung
+i know	tôi biết mà	phanung
+i mean	ý tôi là	noi
+thank you	cảm ơn	an
+come on	thôi nào / nhanh lên / đi mà	yeucau
+i don't know	tôi không biết	phanung
+my god	trời ơi (Oh my God)	camxuc
+oh my god	trời ơi	camxuc
+you know what	biết gì không (mở lời nói điều mới)	noi
+i'm sorry	xin lỗi / tôi rất tiếc	an
+of course	tất nhiên rồi	phanung
+what are you doing	bạn đang làm gì vậy	hoi
+excuse me	xin lỗi (cho qua / gọi ai / ngắt lời)	chao
+let's go	đi thôi	yeucau
+what's going on	có chuyện gì vậy	hoi
+you're right	bạn nói đúng	phanung
+it's okay	không sao đâu	an
+uh huh	ừ hử (đồng ý, đang nghe)	phanung
+what happened	chuyện gì đã xảy ra	hoi
+i love you	anh/em yêu em/anh; mình thương bạn	camxuc
+here we go	bắt đầu nào / lại nữa rồi	noi
+what's up	có chuyện gì thế / khoẻ không (chào thân mật)	chao
+hold on	khoan đã / chờ chút	yeucau
+that's it	thế thôi / đúng rồi / đủ rồi đấy	phanung
+got it	hiểu rồi	phanung
+come here	lại đây	yeucau
+damn it	chết tiệt	camxuc
+stop it	dừng lại đi / thôi đi	yeucau
+i don't care	tôi không quan tâm	phanung
+that's great	tuyệt quá	camxuc
+mm hmm	ừm (đồng ý, đang nghe)	phanung
+that's right	đúng vậy	phanung
+no way	không đời nào / không thể nào	phanung
+wait a minute	khoan đã	yeucau
+what the hell	cái quái gì vậy	camxuc
+why not	sao lại không	phanung
+i am not	tôi không phải / tôi không (nhấn mạnh)	phanung
+you okay	bạn ổn chứ	hoi
+if you want	nếu bạn muốn	noi
+how are you	bạn khoẻ không	chao
+me too	tôi cũng vậy	phanung
+you don't have to	bạn không cần phải	an
+good luck	chúc may mắn	chao
+i told you	tôi đã bảo rồi mà	phanung
+don't worry	đừng lo	an
+what do you think	bạn nghĩ sao	hoi
+by the way	nhân tiện	noi
+that's okay	không sao đâu	an
+there you go	đấy, được rồi đấy / của bạn đây	phanung
+in fact	thật ra / thực tế là	noi
+i'm so sorry	tôi rất xin lỗi / rất tiếc	an
+what are you doing here	bạn làm gì ở đây vậy	hoi
+what is it	chuyện gì vậy / cái gì thế	hoi
+i got it	tôi hiểu rồi / để tôi lo	phanung
+i was thinking	tôi đang nghĩ là… (mở lời đề xuất)	noi
+are you kidding	đùa à	camxuc
+i'm gonna go	tôi đi đây	chao
+what do you mean	ý bạn là sao	hoi
+i know that	tôi biết điều đó	phanung
+i don't want to	tôi không muốn	phanung
+are you sure	bạn chắc chứ	hoi
+i'm fine	tôi ổn	phanung
+what the fuck	cái quái gì vậy (tục)	camxuc
+shut up	im đi / thôi đi (ngạc nhiên)	yeucau
+very good	rất tốt	camxuc
+i understand	tôi hiểu	phanung
+what's that	cái gì thế	hoi
+what are you talking about	bạn đang nói gì vậy	hoi
+good night	chúc ngủ ngon	chao
+let's see	để xem nào	noi
+i gotta go	tôi phải đi rồi	chao
+look at that	nhìn kìa	camxuc
+are you okay	bạn ổn không	hoi
+right here	ngay đây	noi
+thank you so much	cảm ơn rất nhiều	an
+what's wrong	có chuyện gì vậy / sao thế	hoi
+how you doing	khoẻ không (chào thân mật)	chao
+isn't it	phải không	hoi
+go ahead	cứ làm đi / mời bạn	yeucau
+i did not	tôi không hề (làm)	phanung
+it's fine	không sao	an
+i get it	tôi hiểu rồi	phanung
+thank you very much	cảm ơn rất nhiều	an
+here you go	của bạn đây	noi
+what is that	cái gì vậy	hoi
+thank god	ơn trời	camxuc
+i'll see you	gặp lại sau	chao
+look at this	nhìn này	camxuc
+what do you want	bạn muốn gì	hoi
+my friend	bạn tôi / anh bạn (gọi)	noi
+what is this	cái gì đây	hoi
+i promise	tôi hứa	phanung
+it's me	là tôi đây	noi
+guess what	đoán xem	noi
+i want you	tôi muốn bạn (… làm gì)	yeucau
+check it out	xem này / thử xem đi	yeucau
+sit down	ngồi xuống	yeucau
+what do you say	bạn thấy sao (rủ, đề nghị)	hoi
+i have to go	tôi phải đi	chao
+forget it	thôi bỏ đi	phanung
+how did you	sao bạn (biết/làm được)…	hoi
+no problem	không vấn đề gì	an
+you're welcome	không có gì	an
+let me see	để tôi xem	noi
+i don't understand	tôi không hiểu	phanung
+where are you	bạn đang ở đâu	hoi
+i'm not going	tôi không đi đâu	phanung
+i don't think so	tôi không nghĩ vậy	phanung
+nice to meet you	rất vui được gặp bạn	chao
+come in	vào đi	yeucau
+are you serious	bạn nghiêm túc đấy à	camxuc
+see you later	hẹn gặp lại	chao
+you ready	sẵn sàng chưa	hoi
+i swear	tôi thề	phanung
+how's it going	dạo này thế nào	chao
+it's just that	chỉ là…	noi
+you see	bạn thấy đấy	noi
+uh oh	thôi chết	camxuc
+believe me	tin tôi đi	noi
+let's do it	làm thôi	yeucau
+you got it	được thôi / bạn hiểu rồi đấy	phanung
+look at me	nhìn tôi này	yeucau
+that's good	tốt đấy	camxuc
+i knew it	biết ngay mà	camxuc
+i did it	tôi làm được rồi	camxuc
+what's this	cái gì đây	hoi
+i'm good	tôi ổn / thôi, không cần đâu	phanung
+it doesn't matter	không quan trọng	phanung
+i'm telling you	tôi nói thật đấy	noi
+what was that	vừa rồi là gì vậy	hoi
+what's the matter	có chuyện gì vậy	hoi
+very nice	rất hay / đẹp lắm	camxuc
+that's true	đúng thế	phanung
+listen to me	nghe tôi nói này	yeucau
+look at you	nhìn bạn kìa (khen / trêu)	camxuc
+what are you gonna do	bạn định làm gì	hoi
+fuck you	đồ khốn (tục)	camxuc
+you don't know	bạn không biết đâu	phanung
+calm down	bình tĩnh nào	an
+it's great	tuyệt lắm	camxuc
+it's good	tốt / ngon	camxuc
+i can't believe you	không thể tin nổi bạn (lại làm thế)	camxuc
+why don't we	sao chúng ta không… (rủ)	yeucau
+go on	tiếp đi / nói tiếp đi	yeucau
+how do you know	sao bạn biết	hoi
+good morning	chào buổi sáng	chao
+i do not	tôi không (nhấn mạnh)	phanung
+think about it	nghĩ đi / nghĩ kỹ xem	yeucau
+it's not that	không phải là…	noi
+i love it	tôi rất thích	camxuc
+ladies and gentlemen	thưa quý vị	chao
+bye bye	tạm biệt	chao
+get out of here	ra khỏi đây / thôi đi (không tin)	yeucau
+you too	bạn cũng vậy	chao
+i just thought	tôi chỉ nghĩ là	noi
+and you know what	và biết gì không	noi
+good bye	tạm biệt	chao
+come on in	vào đi	yeucau
+i'm not sure	tôi không chắc	phanung
+have a seat	mời ngồi	yeucau
+holy shit	trời đất ơi (tục)	camxuc
+if you don't	nếu bạn không…	noi
+trust me	tin tôi đi	noi
+are you kidding me	bạn đùa tôi à	camxuc
+for what	để làm gì / vì cái gì	hoi
+this is it	chính là nó / đến lúc rồi	camxuc
+that's fine	được thôi	phanung
+who are you	bạn là ai	hoi
+hang on	khoan đã	yeucau
+i can't believe this	không thể tin nổi	camxuc
+this is great	tuyệt thật	camxuc
+i like it	tôi thích nó	camxuc
+there he is	anh ấy đây rồi	chao
+i'm really sorry	tôi thật sự xin lỗi	an
+i didn't know	tôi đã không biết	phanung
+not really	không hẳn	phanung
+i'm okay	tôi ổn	phanung
+wait a second	khoan đã	yeucau
+have fun	chơi vui nhé	chao
+it's over	kết thúc rồi	camxuc
+that's funny	buồn cười thật / lạ thật	camxuc
+why would i	sao tôi lại phải…	hoi
+i'd love to	tôi rất muốn	phanung
+i would love to	tôi rất muốn	phanung
+what else	còn gì nữa	hoi
+it's true	đúng vậy	phanung
+not at all	không hề / không có gì	phanung
+don't you think	bạn không thấy sao	hoi
+i just wanna	tôi chỉ muốn	noi
+i'm just saying	tôi chỉ nói vậy thôi	noi
+good to see you	vui được gặp bạn	chao
+my gosh	trời ơi (Oh my gosh)	camxuc
+i can't wait	nóng lòng quá	camxuc
+just do it	cứ làm đi	yeucau
+watch this	xem này	yeucau
+i see	tôi hiểu rồi	phanung
+it looks like	có vẻ như	noi
+i don't know why	tôi không biết tại sao	phanung
+i'm so glad	tôi rất mừng	camxuc
+i used to	tôi từng…	noi
+he's right	anh ấy nói đúng	phanung
+will do	sẽ làm ngay	phanung
+that's what she said	"cô ấy cũng nói thế đấy" (câu đùa tục của Michael)	camxuc
+don't worry about it	đừng lo chuyện đó	an
+so what	thì sao	phanung
+don't do that	đừng làm thế	yeucau
+very well	rất tốt / được thôi	phanung
+shall we	chúng ta (đi/bắt đầu) chứ	yeucau
+how could you	sao bạn có thể…	camxuc
+get up	đứng dậy	yeucau
+that's not true	không đúng	phanung
+check this out	xem này	yeucau
+what about you	còn bạn thì sao	hoi
+i was going to	tôi đã định…	noi
+aren't you	phải không	hoi
+here's the thing	vấn đề là thế này	noi
+not yet	chưa	phanung
+why did you	sao bạn lại…	hoi
+have you ever	bạn đã bao giờ…	hoi
+i'll tell you	để tôi nói bạn nghe	noi
+let's do this	làm thôi	yeucau
+why don't you just	sao bạn không… luôn đi	yeucau
+there we go	được rồi đấy	phanung
+who else	còn ai nữa	hoi
+listen up	nghe này (cả nhóm)	yeucau
+i tell you	tôi nói cho mà biết	noi
+what am i gonna do	tôi biết làm sao đây	hoi
+there you are	bạn đây rồi	chao
+like what	như cái gì	hoi
+thanks for coming	cảm ơn đã đến	an
+first of all	trước hết	noi
+do you understand	bạn hiểu không	hoi
+what does that mean	thế nghĩa là sao	hoi
+i think we should	tôi nghĩ chúng ta nên	yeucau
+good for you	tốt cho bạn / giỏi lắm	camxuc
+can i ask	tôi hỏi được không	hoi
+i got you	tôi hiểu / có tôi đây	phanung
+there's no way	không đời nào	phanung
+not now	không phải lúc này	phanung
+i agree	tôi đồng ý	phanung
+i can't believe it	không thể tin được	camxuc
+let me just	để tôi…	noi
+we'll see	để xem đã	phanung
+who cares	ai thèm quan tâm	phanung
+i gotta tell you	phải nói với bạn là	noi
+you're kidding	bạn đùa à	camxuc
+that's me	là tôi đấy	noi
+you were right	bạn đã đúng	phanung
+who knows	ai mà biết được	phanung
+eat it	ăn đi / chịu đi	yeucau
+did you see	bạn có thấy…	hoi
+you and me	bạn và tôi	noi
+it's weird	lạ thật	camxuc
+thank you for	cảm ơn vì…	an
+i have no idea	tôi chẳng biết gì cả	phanung
+so long	tạm biệt	chao
+do you have any	bạn có… nào không	hoi
+i'll see you later	gặp lại sau	chao
+speaking of	nhân nói về…	noi
+that's so sweet	dễ thương quá	camxuc
+i am so sorry	tôi vô cùng xin lỗi	an
+what if i	nếu tôi… thì sao	hoi
+what are we	chúng ta là gì / ta đang…	hoi
+do you mind	bạn có phiền không	hoi
+number one	số một	noi
+i will not	tôi sẽ không	phanung
+i was wondering	tôi đang tự hỏi… (hỏi lịch sự)	noi
+i love that	tôi thích thế	camxuc
+i'm serious	tôi nghiêm túc đấy	noi
+i love you too	anh/em cũng yêu em/anh	camxuc
+please stop	làm ơn dừng lại	yeucau
+you all right	bạn ổn chứ	hoi
+sounds good	nghe được đấy	phanung
+let me ask you	cho tôi hỏi	noi
+i like that	tôi thích điều đó	camxuc
+how did you know	sao bạn biết	hoi
+woo hoo	hú hú (vui sướng)	camxuc
+is that you	bạn đấy à	hoi
+sorry about that	xin lỗi nhé	an
+what is going on	có chuyện gì vậy	hoi
+did you hear	bạn có nghe…	hoi
+i'll be back	tôi sẽ quay lại	chao
+me neither	tôi cũng không	phanung
+that's nice	hay đấy	camxuc
+how about you	còn bạn thì sao	hoi
+who is it	ai đấy	hoi
+what are we gonna do	chúng ta làm gì đây	hoi
+i don't know what to say	tôi không biết nói gì	camxuc
+where have you been	bạn đã ở đâu vậy	hoi
+did you know that	bạn có biết là…	hoi
+maybe you should	có lẽ bạn nên	yeucau
+how'd it go	mọi chuyện thế nào	hoi
+what are you guys doing	các bạn đang làm gì thế	hoi
+i think so	tôi nghĩ vậy	phanung
+maybe we should	có lẽ chúng ta nên	yeucau
+you bet	chắc chắn rồi	phanung
+sorry i'm late	xin lỗi tôi đến muộn	an
+to be honest	thành thật mà nói	noi
+are you saying	ý bạn là…	hoi
+i'll give you	tôi sẽ cho bạn…	noi
+it's funny	buồn cười thật / lạ thật	camxuc
+i can tell	nhìn là biết	phanung
+it's cool	ổn mà / được thôi	phanung
+i can't do this	tôi không làm được	camxuc
+great job	làm tốt lắm	an
+not bad	không tệ	phanung
+you're fired	bạn bị sa thải	camxuc
+that's all right	không sao đâu	an
+it's no big deal	không có gì to tát	an
+i really do	tôi thật sự (như vậy)	phanung
+do you really	bạn thật sự…	hoi
+from now on	từ giờ trở đi	noi
+what do you do	bạn làm nghề gì	hoi
+i'm ready	tôi sẵn sàng	phanung
+we were just	chúng tôi chỉ đang…	noi
+you're on	chịu chơi / được, chơi luôn	phanung
+not so much	không nhiều lắm	phanung
+i can't do it	tôi không làm được	camxuc
+you look great	trông bạn tuyệt lắm	camxuc
+i'll get it	để tôi (lấy/nghe máy)	phanung
+god damn it	chết tiệt	camxuc
+good one	hay đấy / câu hay đấy	camxuc
+who is this	ai đây	hoi
+absolutely not	tuyệt đối không	phanung
+too late	muộn rồi	phanung
+suck it	chịu đi (khiêu khích)	camxuc
+see ya	gặp sau nhé	chao
+what is wrong with you	bạn bị sao vậy	camxuc
+i love this	tôi thích cái này	camxuc
+i've been thinking	tôi đã nghĩ (về chuyện này)	noi
+so this is	vậy đây là…	noi
+hold on a second	chờ một chút	yeucau
+it's you	là bạn à	chao
+you know what i mean	bạn hiểu ý tôi chứ	hoi
+i'll call you	tôi sẽ gọi cho bạn	chao
+no reason	không có lý do gì	phanung
+it could be	có thể là	noi
+i'm in	tôi tham gia	phanung
+i know it	tôi biết mà	phanung
+not me	không phải tôi	phanung
+where are we	chúng ta đang ở đâu	hoi
+whoo hoo	hú hú (vui sướng)	camxuc
+can i help	tôi giúp được không	hoi
+i can do that	tôi làm được	phanung
+didn't i	phải không (tôi đã…)	hoi
+that'd be great	thế thì tuyệt	phanung
+just so you know	chỉ để bạn biết	noi
+in a minute	lát nữa	noi
+i'm so happy	tôi rất vui	camxuc
+that would be	thế thì sẽ…	noi
+never mind	thôi bỏ đi / không có gì	phanung
+can you believe	bạn tin nổi không	camxuc
+good work	làm tốt lắm	an
+you can't do that	bạn không được làm thế	yeucau
+very funny	hài hước ghê (mỉa)	camxuc
+that's cool	hay đấy / được đấy	phanung
+how did it go	mọi chuyện thế nào	hoi
+you and i	bạn và tôi	noi
+i'm done	tôi xong rồi / tôi chán rồi	phanung
+can i help you	tôi giúp gì được bạn	chao
+i can't even	tôi thậm chí không…	camxuc
+sounds great	nghe hay đấy	phanung
+it's going to be	sẽ…	noi
+shut it	câm miệng	yeucau
+that would be great	thế thì tuyệt	phanung
+fuck it	kệ mẹ nó (tục)	camxuc
+just kidding	đùa thôi	noi
+for real	thật à / thật đấy	camxuc
+you know why	bạn biết tại sao không	hoi
+everything okay	mọi thứ ổn chứ	hoi
+that's weird	lạ thật	camxuc
+we're good	chúng ta ổn / không sao	phanung
+i'm just gonna	tôi sẽ chỉ…	noi
+good news	tin vui	noi
+what's happening	chuyện gì đang xảy ra	hoi
+have you seen	bạn có thấy… không	hoi
+i would say	tôi cho là	noi
+you can't just	bạn không thể cứ…	yeucau
+let me tell you	để tôi nói cho bạn nghe	noi
+that's crazy	điên thật	camxuc
+at the end of the day	rốt cuộc thì / suy cho cùng	noi
+you know who	bạn biết ai không	hoi
+of course not	tất nhiên là không	phanung
+i suppose	tôi cho là vậy	phanung
+follow me	theo tôi	yeucau
+do you want to	bạn có muốn…	hoi
+is there anything	có gì… không	hoi
+my goodness	trời ơi	camxuc
+what the fuck is going on	chuyện quái gì đang xảy ra (tục)	camxuc
+are you fucking kidding me	đùa tôi đấy à (tục)	camxuc
+fuck me	chết tiệt (tục)	camxuc
+which one	cái nào	hoi
+that's enough	đủ rồi đấy	yeucau
+jesus christ	trời ơi	camxuc
+it turns out	hoá ra là	noi
+didn't you	phải không (bạn đã…)	hoi
+fuck yeah	tuyệt vời (tục)	camxuc
+what can i do	tôi làm gì được	hoi
+the point is	vấn đề là	noi
+which is why	đó là lý do	noi
+no offense	không có ý xúc phạm	an
+after all	rốt cuộc / dù sao thì	noi
+i'm out	tôi rút / tôi không chơi nữa	phanung
+in exchange	đổi lại	noi
+fuck this	mặc kệ (tục)	camxuc
+my name is	tên tôi là	chao
+here it is	đây rồi	noi
+all of it	tất cả	noi
+not exactly	không hẳn	phanung
+i feel like	tôi cảm thấy như	noi
+what the fuck are you doing	bạn làm cái quái gì vậy (tục)	camxuc
+i just want	tôi chỉ muốn	noi
+am i right	tôi nói đúng không	hoi
+all of them	tất cả bọn họ	noi
+we need to talk	chúng ta cần nói chuyện	yeucau
+i have to say	phải nói là	noi
+let me get this straight	để tôi nói lại cho rõ	noi
+i should have	lẽ ra tôi nên	noi
+hit me	nói đi / cho tôi thêm (lá bài)	yeucau
+that's all	thế thôi	phanung
+doesn't matter	không quan trọng	phanung
+what do we do	chúng ta làm gì đây	hoi
+you really think	bạn thật sự nghĩ…	hoi
+all good	ổn cả	phanung
+and yet	vậy mà	noi
+i'm pretty sure	tôi khá chắc	phanung
+one time	một lần	noi
+i need your help	tôi cần bạn giúp	yeucau
+the truth is	sự thật là	noi
+whatever it is	dù là gì đi nữa	noi
+tell you what	thế này nhé (đưa đề nghị)	noi
+let me guess	để tôi đoán	noi
+anything else	còn gì nữa không	hoi
+back to work	quay lại làm việc	yeucau
+son of a bitch	đồ khốn (tục)	camxuc
+we should probably	có lẽ ta nên	yeucau
+shut the fuck up	câm mồm (tục)	yeucau
+what do i do	tôi phải làm gì	hoi
+for once	lần này thôi / ít nhất một lần	noi
+is that right	thật vậy sao	hoi
+one second	một giây thôi	yeucau
+oh yeah	ồ đúng rồi / thế à	phanung
+it worked	thành công rồi	camxuc
+we both know	cả hai ta đều biết	noi
+one more thing	một điều nữa	noi
+what can i do for you	tôi giúp gì được bạn	chao
+how do you	sao bạn…	hoi
+good day	chúc một ngày tốt lành	chao
+what are we doing	chúng ta đang làm gì vậy	hoi
+any questions	có câu hỏi nào không	hoi
+fuck off	cút đi (tục)	yeucau
+it's done	xong rồi	phanung
+as you can see	như bạn thấy	noi
+do you know what	bạn có biết… gì không	hoi
+well done	làm tốt lắm	an
+that can't be	không thể nào	camxuc
+even better	còn tốt hơn	camxuc
+back up	lùi lại / hỗ trợ	yeucau
+i want to know	tôi muốn biết	noi
+of course i do	tất nhiên là có	phanung
+i found out	tôi phát hiện ra	noi
+i'm not doing it	tôi không làm đâu	phanung
+for now	tạm thời	noi
+i'm going to	tôi sẽ	noi
+don't move	đứng yên	yeucau
+i just did	tôi vừa làm rồi	phanung
+as you know	như bạn biết	noi
+do you have any idea	bạn có biết… không	hoi
+enjoy it	tận hưởng đi	chao
+at this point	đến lúc này	noi
+do you see	bạn thấy không	hoi
+i should probably	có lẽ tôi nên	noi
+good question	câu hỏi hay	phanung
+why don't i	hay là tôi…	yeucau
+my man	anh bạn của tôi	chao
+that's awesome	tuyệt vời	camxuc
+i don't have to	tôi không cần phải	phanung
+i think you should	tôi nghĩ bạn nên	yeucau
+good job	làm tốt lắm	an
+i said it	tôi nói rồi đấy	phanung
+i just want to	tôi chỉ muốn	noi
+for fuck's sake	trời đất (tục, bực mình)	camxuc
+i think i know	tôi nghĩ tôi biết	phanung
+we're fucked	chúng ta tiêu rồi (tục)	camxuc
+so i think	nên tôi nghĩ	noi
+what did you say	bạn vừa nói gì	hoi
+just stop	dừng lại đi	yeucau
+fair enough	hợp lý	phanung
+what just happened	vừa có chuyện gì vậy	hoi
+i might have	có lẽ tôi đã	noi
+for the record	nói cho rõ / để ghi nhận	noi
+in that case	nếu vậy thì	noi
+i appreciate that	tôi rất cảm kích	an
+where are we going	chúng ta đi đâu	hoi
+i trust you	tôi tin bạn	phanung
+thank you for coming	cảm ơn đã đến	an
+what the fuck is that	cái quái gì thế (tục)	camxuc
+what did he say	anh ấy nói gì	hoi
+i owe you	tôi nợ bạn	an
+i can't do that	tôi không làm thế được	phanung
+you wanted to see me	bạn muốn gặp tôi à	hoi
+my best friend	bạn thân nhất của tôi	noi
+what did you just say	bạn vừa nói gì cơ	hoi
+how dare you	sao bạn dám	camxuc
+what's going on here	ở đây có chuyện gì vậy	hoi
+too soon	sớm quá (đùa chưa đúng lúc)	phanung
+too bad	tiếc quá	camxuc
+all i'm saying is	tôi chỉ muốn nói là	noi
+you said it	bạn nói đúng đấy	phanung
+i missed you	tôi nhớ bạn	camxuc
+no more questions	không còn câu hỏi (toà án)	noi
+you hear me	nghe rõ chưa	hoi
+did you hear what i said	bạn có nghe tôi nói không	hoi
+how'd you know	sao bạn biết	hoi
+don't give me that	đừng nói với tôi kiểu đó	yeucau
+don't tell me	đừng nói là…	camxuc
+i believe you	tôi tin bạn	phanung
+either way	đằng nào thì	noi
+i don't want you to	tôi không muốn bạn…	yeucau
+i don't have time	tôi không có thời gian	phanung
+the rest of your life	phần đời còn lại của bạn	noi
+i told you that	tôi đã nói với bạn rồi	phanung
+what does that have to do with	thế thì liên quan gì đến…	hoi
+just to be clear	nói cho rõ nhé	noi
+you have no idea	bạn không biết đâu	noi
+something like that	đại loại vậy	phanung
+what now	giờ sao đây	hoi
+why would i do that	sao tôi lại làm thế	hoi
+i win	tôi thắng	camxuc
+you don't know that	bạn đâu biết chắc	phanung
+where are you going	bạn đi đâu đấy	hoi
+as i said	như tôi đã nói	noi
+for example	ví dụ	noi
+between us	giữa chúng ta (bí mật)	noi
+it's good to see you	vui được gặp bạn	chao
+what can i say	biết nói gì đây	phanung
+not anymore	không còn nữa	phanung
+got a minute	rảnh một phút không	hoi
+why would you do that	sao bạn lại làm thế	hoi
+let's get to it	bắt tay vào thôi	yeucau
+get out of my office	ra khỏi văn phòng tôi	yeucau
+all of a sudden	đột nhiên	noi
+don't say it	đừng nói ra	yeucau
+what the hell is going on	chuyện quái gì vậy	camxuc
+the question is	câu hỏi là	noi
+before you go	trước khi bạn đi	noi
+what do you want me to say	bạn muốn tôi nói gì	hoi
+you're under arrest	bạn bị bắt	camxuc
+i get that	tôi hiểu điều đó	phanung
+if not	nếu không	noi
+at the same time	đồng thời	noi
+i gotta say	phải nói là	noi
+you're an idiot	bạn là đồ ngốc	camxuc
+i would never do that	tôi sẽ không bao giờ làm thế	phanung
+the answer is no	câu trả lời là không	phanung
+a few years ago	vài năm trước	noi
+of course i did	tất nhiên là tôi đã làm	phanung
+i lied	tôi đã nói dối	phanung
+you know what i think	bạn biết tôi nghĩ gì không	noi
+get the hell out of my office	cút khỏi văn phòng tôi	yeucau
+i just wanted to say	tôi chỉ muốn nói	noi
+you know damn well	bạn thừa biết	noi
+what do you need	bạn cần gì	hoi
+give it to me	đưa nó cho tôi	yeucau
+just one thing	chỉ một điều	noi
+you're bluffing	bạn đang doạ suông	camxuc
+maybe not	có lẽ không	phanung
+you got to be kidding me	đùa tôi chắc	camxuc
+truth be told	nói thật thì	noi
+in this case	trong trường hợp này	noi
+we got him	tóm được hắn rồi	camxuc
+what the hell is wrong with you	bạn bị cái quái gì vậy	camxuc
+as your friend	với tư cách bạn bè	noi
+tomorrow morning	sáng mai	noi
+blah blah	vân vân, bla bla	noi
+there's a lot of	có rất nhiều	noi
+and of course	và tất nhiên	noi
+what's on your mind	bạn đang nghĩ gì vậy	hoi
+i admit	tôi thừa nhận	phanung
+i need to think	tôi cần suy nghĩ	phanung
+deep down	sâu thẳm trong lòng	noi
+i don't believe you	tôi không tin bạn	phanung
+whatever you want	tuỳ bạn	phanung
+it's late	muộn rồi	noi
+we good	ta ổn chứ (hết giận chưa)	hoi
+the other day	hôm trước	noi
+admit it	thừa nhận đi	yeucau
+more than anyone	hơn bất kỳ ai	noi
+wouldn't have it any other way	không muốn khác đi chút nào	phanung
+how can i help you	tôi giúp gì được bạn	chao
+i don't know what to do	tôi không biết phải làm gì	camxuc
+i wish i could	ước gì tôi có thể	an
+what happened to you	bạn bị sao vậy	hoi
+here you are	bạn đây rồi / của bạn đây	noi
+do it anyway	cứ làm đi	yeucau
+i think you do	tôi nghĩ là có đấy	phanung
+i'll help	tôi sẽ giúp	phanung
+i thought we were friends	tôi tưởng chúng ta là bạn	camxuc
+it's about you	là về bạn	noi
+i don't need to	tôi không cần	phanung
+that's a good	đó là một… hay	noi
+i'm not going to	tôi sẽ không	phanung
+over the years	qua nhiều năm	noi
+a few months ago	vài tháng trước	noi
+i'm calling from	tôi gọi từ…	chao
+where are we going	chúng ta đi đâu	hoi
+i have not	tôi chưa	phanung
+i didn't ask	tôi đâu có hỏi	phanung
+i trust you	tôi tin bạn	phanung
+you can have	bạn có thể lấy…	noi
+i think that	tôi nghĩ rằng	noi
+i thought you were	tôi tưởng bạn…	noi
+i was thinking about	tôi đang nghĩ về	noi
+i really don't	tôi thật sự không	phanung
+i thought it was	tôi tưởng là	noi
+some of us	một vài người trong chúng ta	noi
+i'm not here	tôi không ở đây (để…)	noi
+how can i help you	tôi giúp gì được bạn	chao

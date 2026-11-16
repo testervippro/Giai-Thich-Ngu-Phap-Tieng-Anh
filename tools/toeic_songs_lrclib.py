@@ -35,7 +35,7 @@ lock = threading.Lock()
 
 def load_ets():
     rows = []
-    for line in open(os.path.join(DOCS, "toeic-vocabulary-songs-real-ets.md"), encoding="utf-8"):
+    for line in open(os.path.join(ROOT, "tools", "data", "toeic_ets_words.md"), encoding="utf-8"):
         m = re.match(r"^\| (\d+) \| \*\*(.+?)\*\* \| (\d+) lần", line)
         if m:
             rows.append(dict(n=int(m.group(1)), term=m.group(2).strip(), info="%s lần trong đề" % m.group(3)))

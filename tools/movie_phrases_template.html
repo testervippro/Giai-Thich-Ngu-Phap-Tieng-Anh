@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Cụm giao tiếp trong phim</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1040px; margin:auto; padding:4px 16px 48px; }
+    h1 { margin:0 0 6px; font-size:26px; }
+    .lead, .note { color:var(--muted); }
+    .lead b { color:var(--ink); }
+    .note { font-size:13px; }
+    .tabs { display:flex; gap:6px; flex-wrap:wrap; margin:14px 0 10px; }
+    .tab { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:999px; padding:7px 14px; font:inherit; font-size:14px; cursor:pointer; }
+    .tab span { color:var(--muted); font-size:12.5px; margin-left:4px; }
+    .tab.on { border-color:var(--accent); background:var(--accentbg); font-weight:700; }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:0 0 10px; }
+    input[type=search], select { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; }
+    input[type=search] { flex:1; min-width:180px; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; cursor:pointer; }
+    .btn:hover { border-color:var(--accent); }
+    table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; font-variant-numeric:tabular-nums; }
+    th, td { padding:9px 12px; text-align:left; border-bottom:1px solid var(--line); vertical-align:top; }
+    th { font-size:13px; color:var(--muted); font-weight:600; }
+    td.p { font-weight:700; white-space:nowrap; }
+    td.p .g { display:block; font-weight:400; font-size:12px; color:var(--muted); }
+    .num { text-align:right; white-space:nowrap; }
+    .bar-pct { height:4px; background:var(--accentbg); border-radius:2px; margin-top:4px; }
+    .bar-pct i { display:block; height:100%; background:var(--accent); border-radius:2px; }
+    .ex { font-size:14px; }
+    .ex b { color:var(--accent); }
+    .ex .src { font-size:12px; color:var(--muted); }
+    td a { font-size:12.5px; white-space:nowrap; }
+    .say { border:0; background:none; cursor:pointer; font-size:15px; padding:0 2px; }
+    @media (max-width:640px) { .hide-sm { display:none; } th, td { padding:8px 8px; } td.p { white-space:normal; } }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Cụm giao tiếp trong phim"></script>
+</head>
+<body>
+<main>
+  <h1>🎬 Cụm giao tiếp hay dùng nhất trong từng phim</h1>
+  <p class="lead" id="lead"></p>
+  <div class="tabs" id="tabs" role="tablist"></div>
+  <p class="note" id="about"></p>
+  <div class="bar">
+    <input type="search" id="q" placeholder="Tìm cụm / nghĩa…" aria-label="Tìm cụm">
+    <select id="grp" aria-label="Lọc theo nhóm"></select>
+    <label class="note"><input type="checkbox" id="clean"> Ẩn cụm tục</label>
+    <span class="note" id="cnt"></span>
+  </div>
+  <table>
+    <thead><tr><th>Cụm</th><th>Nghĩa</th><th class="num" id="thPct">Có trong % tập</th><th class="num hide-sm">Số lần</th><th>Câu thoại ví dụ</th><th class="hide-sm">Nghe</th></tr></thead>
+    <tbody id="body"></tbody>
+  </table>
+  <p style="text-align:center"><button class="btn" id="more">Xem thêm 150 cụm</button></p>
+  <p class="note">Cách lọc: đếm mọi cụm 2–7 từ trong phụ đề; giữ cụm hay được nói thành một câu trọn (“I don't know.”, “Come on!”) hoặc hay mở đầu câu (“I can't believe…”). Danh sách đã duyệt tay để bỏ tên nhân vật và cụm cụt, rồi dịch nghĩa. Mỗi cụm chỉ trích 1 câu thoại ngắn để minh hoạ; lời thoại thuộc bản quyền của hãng phim.</p>
+</main>
+<script>
+(() => {
+  "use strict";
+  const D = /*DATA*/null;
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fmt = n => n.toLocaleString('vi-VN');
+  const ls = { get(k, d){ try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch(e){ return d; } },
+               set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch(e){} } };
+  const totalEps = D.shows.reduce((a, s) => a + s.eps, 0);
+  $('lead').innerHTML = `Dò phụ đề <b>${fmt(totalEps)} tập / phim</b>. Mỗi phim liệt kê <b>tất cả cụm giao tiếp</b> xuất hiện từ 2 tập trở lên, `
+    + `xếp theo <b>% số tập có cụm đó</b> — cụm đứng đầu là cụm nhân vật nói gần như tập nào cũng có.`;
+  let cur = Math.min(ls.get('mp-show', 0), D.shows.length - 1), shown = 150;
+  $('tabs').innerHTML = D.shows.map((s, i) => `<button class="tab" role="tab" data-i="${i}">${esc(s.name)}<span>${s.rows.length}</span></button>`).join('');
+  $('grp').innerHTML = '<option value="">Mọi nhóm</option>' + Object.entries(D.groups).map(([k, v]) => `<option value="${k}">${esc(v)}</option>`).join('');
+  $('clean').checked = ls.get('mp-clean', false);
+  const RUDE = /fuck|shit|bitch|damn|hell|suck/i;
+  const yg = t => 'https://youglish.com/pronounce/' + encodeURIComponent(t.replace(/[…()]/g, '').trim()) + '/english';
+  function bold(line, ph){
+    const words = ph.replace(/[()]/g, '').toLowerCase().split(' ').map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/'/g, "['’]"));
+    let src = words.join('[\\s,]+').replace("all[\\s,]+right", "(?:all[\\s,]+right|alright)").replace(/\bokay\b/g, '(?:okay|ok)');
+    const m = new RegExp('(^|[^A-Za-z\'])(' + src + ')(?![A-Za-z\'])', 'i').exec(line);
+    if (!m) return esc(line);
+    const a = m.index + m[1].length, b = a + m[2].length;
+    return esc(line.slice(0, a)) + '<b>' + esc(line.slice(a, b)) + '</b>' + esc(line.slice(b));
+  }
+  function draw(){
+    const S = D.shows[cur];
+    document.querySelectorAll('.tab').forEach(b => b.classList.toggle('on', +b.dataset.i === cur));
+    $('about').textContent = S.series
+      ? `${S.name}: ${fmt(S.eps)} tập · ${fmt(S.rows.length)} cụm. Cột “Có trong % tập” = số tập có cụm đó / ${fmt(S.eps)} tập.`
+      : `${S.name}: phim lẻ / video · ${fmt(S.rows.length)} cụm nói từ 2 lần trở lên, xếp theo số lần.`;
+    $('thPct').textContent = S.series ? `Có trong % tập (/${fmt(S.eps)})` : 'Số lần';
+    const q = $('q').value.trim().toLowerCase(), g = $('grp').value, clean = $('clean').checked;
+    const L = S.rows.filter(r => (!q || r[0].toLowerCase().includes(q) || r[1].toLowerCase().includes(q)) && (!g || r[2] === g) && !(clean && RUDE.test(r[0])));
+    $('cnt').textContent = `${fmt(L.length)} cụm`;
+    $('body').innerHTML = L.slice(0, shown).map(([ph, mean, grp, df, tf, line, src]) => {
+      const pct = Math.round(100 * df / S.eps);
+      const c3 = S.series ? `${pct}%<div class="bar-pct"><i style="width:${pct}%"></i></div><div class="note">${fmt(df)} tập</div>` : fmt(tf);
+      return `<tr><td class="p">${esc(ph)} <button class="say" data-t="${esc(ph.replace(/[()]/g, ''))}" title="Đọc thử" aria-label="Đọc ${esc(ph)}">🔊</button><span class="g">${esc(D.groups[grp] || '')}</span></td>`
+        + `<td>${esc(mean)}</td><td class="num">${c3}</td><td class="num hide-sm">${fmt(tf)}</td>`
+        + `<td class="ex">“${bold(line, ph)}”<div class="src">${esc(src)}</div></td>`
+        + `<td class="hide-sm"><a href="${yg(ph)}" target="_blank" rel="noopener">▶ YouGlish</a></td></tr>`;
+    }).join('');
+    $('more').style.display = L.length > shown ? '' : 'none';
+  }
+  $('tabs').addEventListener('click', e => {
+    const b = e.target.closest('.tab'); if (!b) return;
+    cur = +b.dataset.i; ls.set('mp-show', cur); shown = 150; draw();
+  });
+  ['q', 'grp'].forEach(id => $(id).addEventListener('input', () => { shown = 150; draw(); }));
+  $('clean').addEventListener('change', () => { ls.set('mp-clean', $('clean').checked); shown = 150; draw(); });
+  $('more').onclick = () => { shown += 150; draw(); };
+  $('body').addEventListener('click', e => {
+    const b = e.target.closest('.say'); if (!b || !window.speechSynthesis) return;
+    const u = new SpeechSynthesisUtterance(b.dataset.t); u.lang = 'en-US'; speechSynthesis.cancel(); speechSynthesis.speak(u);
+  });
+  draw();
+})();
+</script>
+</body>
+</html>

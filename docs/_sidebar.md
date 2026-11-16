@@ -82,6 +82,8 @@
 - [Part 7 — Pattern câu hỏi](toeic-part7-question-patterns.md)
 - [Part 7 — Pattern đáp án đúng](toeic-part7-answer-patterns.md)
 - [Part 7 — Phân tích từng câu (phụ lục)](toeic-part7-per-question-analysis.md)
+- [🎬 Từ TOEIC trong PHIM — Friends, The Office, Silicon Valley, Suits (xem ít tập nhất gặp nhiều từ nhất)](movie-viewer/toeic-phim.html)
+  - [💬 Cụm giao tiếp hay dùng nhất trong từng phim (Friends, The Office, Silicon Valley, Suits LA)](movie-viewer/cum-giao-tiep.html)
 - [Listening — Cụm từ & Fixed Expressions](toeic-ets-2026-listening-phrases.md)
 - [Listening — Luyện nghe Part 1–4](toeic-listening-practice.md)
 - [Listening — Pattern câu hỏi, đáp án & bẫy (Part 1–4)](toeic-listening-question-patterns.md)
