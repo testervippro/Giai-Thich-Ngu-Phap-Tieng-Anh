@@ -24,6 +24,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import toeic_songs_lrclib as L  # noqa: E402
 import toeic_songs_corpus as C  # noqa: E402
 
+NCORPUS = [0]
 TOK = re.compile(r"[a-z][a-z']*")
 PLDIR = os.path.join(L.DOCS, "toeic-songs-playlist")
 
@@ -45,6 +46,16 @@ def read_corpus():
     return rows
 
 
+def hit_line(v, q, corpus):
+    """v là (dòng, dạng) hoặc chỉ số bài trong kho -> tìm lại dòng hát chứa từ."""
+    if not isinstance(v, int):
+        return v
+    pl = corpus[v]["l"]
+    exact = re.compile(r"(?<![A-Za-z'])%s(?![A-Za-z'])" % re.escape(q).replace(r"\ ", r"\s+"), re.I)
+    m = exact.search(pl) or C.form_rx(q).search(pl)
+    return (line_of(pl, m), m.group(0)) if m else ("", "")
+
+
 def line_of(pl, m):
     s = pl.rfind("\n", 0, m.start()) + 1
     e = pl.find("\n", m.end())
@@ -58,6 +69,7 @@ def main():
     rows, dup = L.merged_rows(ets, idx)
     cache = json.load(open(L.CACHE, encoding="utf-8"))
     corpus = read_corpus()
+    NCORPUS[0] = len(corpus)
     print("kho loi: %d bai" % len(corpus), flush=True)
 
     # ---- bài nào chứa từ nào ----
@@ -71,34 +83,54 @@ def main():
             songs.append(dict(key=k, track=track, artist=artist, es=es, hits={}))
         return songs[key2s[k]]
 
-    index = defaultdict(set)  # token -> corpus song idx
-    toks = []
+    # chỉ đánh chỉ mục các token có trong từ khoá (đỡ tốn RAM: kho 89k bài)
+    def forms_of(ws, j, w):
+        return C.variants(w) if (j in (0, len(ws) - 1) and len(w) >= 4) else {w}
+    plain = lambda ws: all(re.fullmatch(r"[a-z][a-z']*", w) for w in ws)
+    need_tok = set()
+    for r in rows:
+        ws = r["q"].split()
+        if plain(ws):
+            for j, w in enumerate(ws):
+                need_tok |= forms_of(ws, j, w)
+    index = defaultdict(list)  # token -> [corpus idx]
     for i, r in enumerate(corpus):
-        t = set(TOK.findall(r["l"].lower()))
-        toks.append(t)
-        for w in t:
-            index[w].add(i)
+        for w in set(TOK.findall(r["l"].lower())) & need_tok:
+            index[w].append(i)
+    print("chi muc xong: %d token" % len(index), flush=True)
+    es_cache = {}
+
+    def es_of(ci):
+        if ci not in es_cache:
+            es_cache[ci] = L.english_score(corpus[ci]["l"])
+        return es_cache[ci]
+
+    allc = range(len(corpus))
     for ri, r in enumerate(rows):
         q = r["q"]
         ws = q.split()
-        if not all(re.fullmatch(r"[a-z][a-z'\-]*", w) for w in ws):
-            cand = range(len(corpus))
+        if not plain(ws):
+            cand = allc
         else:
-            sets = []
+            cand = None
             for j, w in enumerate(ws):
-                forms = C.variants(w) if (j in (0, len(ws) - 1) and len(w) >= 4) else {w}
-                sets.append(set().union(*(index.get(f, set()) for f in forms)) if "-" not in w else set(range(len(corpus))))
-            cand = set.intersection(*sets) if sets else set()
+                st = set()
+                for f in forms_of(ws, j, w):
+                    st.update(index.get(f, ()))
+                cand = st if cand is None else cand & st
+                if not cand:
+                    break
         if not cand:
             continue
         exact = re.compile(r"(?<![A-Za-z'])%s(?![A-Za-z'])" % re.escape(q).replace(r"\ ", r"\s+"), re.I)
         rx = C.form_rx(q)
         for ci in cand:
             pl = corpus[ci]["l"]
-            m = exact.search(pl) or rx.search(pl)
-            if m:
-                s = song(corpus[ci]["t"], corpus[ci]["a"], L.english_score(pl))
-                s["hits"][ri] = (line_of(pl, m), m.group(0))
+            if exact.search(pl) or rx.search(pl):
+                song(corpus[ci]["t"], corpus[ci]["a"], es_of(ci))["hits"][ri] = ci  # dòng hát tính sau
+        if ri % 500 == 0:
+            print("  do %d/%d tu, %d bai" % (ri, len(rows), len(songs)), flush=True)
+    del index
     # bài từ vòng 1 (chỉ biết chứa đúng từ đó)
     for ri, r in enumerate(rows):
         for h in cache.get(r["q"]) or []:
@@ -112,34 +144,17 @@ def main():
         r = rows[ri]
         return 1.0 + math.log10(1 + int(r["ets"])) if r["ets"] else 1.0
 
-    import heapq
-    chosen, covered = [], set()
-    used = set()
-    for phase in ("ets", "hackers"):
-        need = {ri for ri in coverable if bool(rows[ri]["ets"]) == (phase == "ets")} - covered
-
-        def score(si):
-            return sum(weight(ri) for ri in songs[si]["hits"] if ri in need)
-
-        heap = [(-score(si), -songs[si]["es"], si) for si in range(len(songs)) if si not in used]
-        heap = [h for h in heap if h[0] < 0]
-        heapq.heapify(heap)
-        while need and heap:  # lazy greedy: điểm chỉ giảm dần nên tính lại khi lấy ra
-            sc, es, si = heapq.heappop(heap)
-            cur = score(si)
-            if cur <= 0:
-                continue
-            if heap and -cur > heap[0][0]:
-                heapq.heappush(heap, (-cur, es, si))
-                continue
-            s = songs[si]
-            used.add(si)
-            new = [ri for ri in s["hits"] if ri not in covered]
-            covered |= set(new)
-            need -= set(new)
-            chosen.append(dict(song=s, phase=phase, new=sorted(new), all=sorted(s["hits"])))
-            if len(chosen) % 200 == 0:
-                print("  %d bai, phu %d" % (len(chosen), len(covered)), flush=True)
+    sel = min_cover(songs, coverable)
+    # xếp thứ tự trong bộ đã chọn: mỗi lượt lấy bài có nhiều từ mới nhất (từ ETS nặng hơn) -> nghe từ hay gặp trước
+    chosen, covered, left = [], set(), set(sel)
+    while left:
+        si = max(left, key=lambda j: (sum(weight(ri) for ri in songs[j]["hits"] if ri not in covered), songs[j]["es"]))
+        left.discard(si)
+        s = songs[si]
+        new = sorted(ri for ri in s["hits"] if ri not in covered)
+        covered |= set(new)
+        has_ets = any(rows[ri]["ets"] for ri in new)
+        chosen.append(dict(song=s, phase="ets" if has_ets else "hackers", new=new, all=sorted(s["hits"])))
     print("playlist toi uu: %d bai phu %d muc" % (len(chosen), len(covered)), flush=True)
 
     # ---- gán bài cho từng từ: bài trong playlist đứng đầu, rồi 1 bài khác ca sĩ ----
@@ -153,7 +168,7 @@ def main():
             continue
         k, c = first[ri]
         s = c["song"]
-        line, word = s["hits"][ri]
+        line, word = hit_line(s["hits"][ri], rows[ri]["q"], corpus)
         hits = [dict(track=s["track"], artist=s["artist"], line=line, word=word, pl=k)]
         for h in cache.get(r["q"]) or []:
             if h["artist"].lower() != s["artist"].lower():
@@ -167,6 +182,87 @@ def main():
 
 def fmt(n):
     return "{:,}".format(n).replace(",", ".")
+
+
+def min_cover(songs, U):
+    """Set cover: tham lam (không chia pha) -> bỏ bài thừa -> đổi 2 bài lấy 1 bài phủ đủ, lặp tới khi hết cải thiện."""
+    import heapq
+    S = [set(s["hits"]) & U for s in songs]
+    inv = defaultdict(set)
+    for j, st in enumerate(S):
+        for w in st:
+            inv[w].add(j)
+    # 1) tham lam lười
+    need, sel = set(U), set()
+    heap = [(-len(st), -songs[j]["es"], j) for j, st in enumerate(S) if st]
+    heapq.heapify(heap)
+    while need and heap:
+        sc, es, j = heapq.heappop(heap)
+        cur = len(S[j] & need)
+        if cur == 0:
+            continue
+        if heap and -cur > heap[0][0]:
+            heapq.heappush(heap, (-cur, es, j))
+            continue
+        sel.add(j)
+        need -= S[j]
+    print("  tham lam: %d bai" % len(sel), flush=True)
+    cnt = defaultdict(int)
+    for j in sel:
+        for w in S[j]:
+            cnt[w] += 1
+
+    def prune():
+        for j in sorted(sel, key=lambda j: len(S[j])):
+            if all(cnt[w] >= 2 for w in S[j]):
+                sel.discard(j)
+                for w in S[j]:
+                    cnt[w] -= 1
+
+    prune()
+    print("  bo bai thua: %d bai" % len(sel), flush=True)
+    # 2) đổi 2 -> 1
+    improved = True
+    while improved:
+        improved = False
+        owner = {}
+        for j in sel:
+            for w in S[j]:
+                if cnt[w] == 1:
+                    owner[w] = j
+        uniq = defaultdict(set)
+        for w, j in owner.items():
+            uniq[j].add(w)
+        for a in sorted(sel, key=lambda j: len(uniq[j])):
+            if a not in sel or not uniq[a]:
+                continue
+            w0 = next(iter(uniq[a]))
+            done = False
+            for k in inv[w0]:
+                if k in sel or not uniq[a] <= S[k]:
+                    continue
+                for b in {owner[w] for w in S[k] if w in owner} - {a}:
+                    if b in sel and uniq[b] <= S[k]:
+                        for j in (a, b):
+                            sel.discard(j)
+                            for w in S[j]:
+                                cnt[w] -= 1
+                        sel.add(k)
+                        for w in S[k]:
+                            cnt[w] += 1
+                        done = improved = True
+                        break
+                if done:
+                    break
+            if done:
+                break  # tính lại owner/uniq
+        if improved:
+            prune()
+            if len(sel) % 10 == 0:
+                print("  doi 2->1: %d bai" % len(sel), flush=True)
+    assert all(cnt[w] >= 1 for w in U)
+    print("  ket qua: %d bai" % len(sel), flush=True)
+    return sel
 
 
 def tiers(rows, chosen, total):
@@ -197,12 +293,12 @@ def write_playlist(rows, chosen, total, size=200):
     n_ets = sum(1 for c in chosen if c["phase"] == "ets")
     E = L.md_esc
     out = ["# 🎧 Playlist TOEIC tối ưu — ít bài nhất, phủ hết từ\n",
-           "> Một bài hát thường chứa nhiều từ TOEIC, nên playlist được rút gọn: mỗi lượt chọn bài có **nhiều từ chưa được "
-           "phủ nhất** (ưu tiên từ hay gặp trong đề ETS). Kết quả **%s bài** phủ **%s mục** từ vựng (trước đây cần ~8.900 bài). "
-           "Bài 1–%d phủ từ trong đề ETS 2026, các bài sau phủ thêm từ chỉ có trong Hackers Index.\n>\n"
+           "> Một bài hát thường chứa nhiều từ TOEIC, nên playlist được tối ưu để có **ít bài nhất mà vẫn phủ mọi từ đã tìm được**: "
+           "chọn bài phủ nhiều từ nhất, bỏ bài thừa, rồi thử đổi 2 bài lấy 1 bài phủ đủ cả hai (dò trong kho %s bài hát có lời). "
+           "Kết quả **%s bài** phủ **%s mục** từ vựng (lúc đầu là ~8.900 bài). Thứ tự đã xếp để **từ hay gặp trong đề ETS được nghe trước**.\n>\n"
            "> Mỗi bài ghi **từ mới** (lần đầu gặp trong playlist, in đậm) và các từ TOEIC khác có trong lời. "
-           "Nghe theo thứ tự = học từ hay gặp trước. Xem câu hát chứa từ ở trang [🎤 Từ vựng TOEIC trong lời bài hát](toeic-songs-lyrics.md).\n"
-           % (fmt(len(chosen)), fmt(total), n_ets),
+           "Xem câu hát chứa từ ở trang [🎤 Từ vựng TOEIC trong lời bài hát](toeic-songs-lyrics.md).\n"
+           % (fmt(NCORPUS[0]), fmt(len(chosen)), fmt(total)),
            "## Nghe bao nhiêu bài thì phủ bao nhiêu từ?\n",
            "Danh sách đã xếp theo hiệu quả: các bài đầu chứa nhiều từ nhất. Không cần nghe hết — chọn một mức:\n",
            "| Nghe bài 1 → | Phủ (mục) | Tỉ lệ | Trong đó từ ETS |", "|---|---|---|---|"] + tiers(rows, chosen, total) + [
