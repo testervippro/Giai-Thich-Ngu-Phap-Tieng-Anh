@@ -34,14 +34,21 @@ UA = "Mozilla/5.0 (kanji-study personal notes)"
 lock = threading.Lock()
 
 
+BLOCKED = [0]  # số lần liên tiếp bị 403/429 -> dừng hẳn (máy chủ đã chặn, không cố lách)
+
+
 def get(url, tries=4):
     for a in range(tries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=30) as r:
+                BLOCKED[0] = 0
                 return r.read()
         except urllib.error.HTTPError as e:
-            if e.code in (404, 410, 403):
+            if e.code in (403, 429):
+                BLOCKED[0] += 1
+                return None
+            if e.code in (404, 410):
                 return None
             time.sleep(3 + 3 * a)
         except Exception:
@@ -82,17 +89,21 @@ class Body(HTMLParser):
         self.text = []
         self.title = ""
         self._t = False
+        self.robots = ""
 
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
         if tag == "title":
             self._t = True
+        if tag == "meta" and (a.get("name") or "").lower() == "robots":
+            self.robots += (a.get("content") or "").lower()
         if self.depth:
             if tag == "div":
                 self.depth += 1
             if tag in ("pre", "code", "script", "style"):
                 self.skip += 1
-        elif tag == "div" and a.get("id") == "personal-public-article-body":
+        elif tag == "div" and (a.get("id") == "personal-public-article-body"            # Qiita
+                               or "entry-content" in (a.get("class") or "").split()):  # Hatena Blog
             self.depth = 1
 
     def handle_endtag(self, tag):
@@ -118,6 +129,8 @@ def scan(url, jouyou):
         return dict(u=url, ok=0)
     p = Body()
     p.feed(raw.decode("utf-8", "replace"))
+    if "noai" in p.robots or "noindex" in p.robots:
+        return dict(u=url, ok=0, why="robots")  # tác giả không muốn bị máy đọc -> bỏ qua
     txt = "".join(p.text)
     ks = sorted({c for c in txt if c in jouyou})
     jp = len(re.findall(r"[぀-ヿ一-鿿]", txt))
@@ -155,6 +168,72 @@ def crawl(n, jobs, jouyou, seed=2136):
     f.close()
 
 
+HOUT = os.path.join(DATA, "hatena_kanji.jsonl")
+HURLS = os.path.join(DATA, "hatena_urls.txt")
+HPORTAL = ["", "ranking", "staff_picks", "kodawari_blogs"] + ["topics/" + t for t in (
+    "anime", "board_game", "career", "childcare", "cooking", "cosmetics", "creation", "diy", "fave", "gadget", "game",
+    "gourmet", "journal", "learning", "life", "movie", "music", "book", "travel", "sports", "health", "money",
+    "fashion", "pet", "outdoor", "photo", "history", "science", "society", "nature", "art", "comic", "idol", "car")]
+ENTRY = re.compile(r'https://[a-z0-9-]+\.(?:hatenablog\.(?:com|jp)|hateblo\.jp|hatenadiary\.(?:com|jp|org))/entry/[^"?#<\s]+')
+
+
+def hatena_urls(per_blog=12, expand=False):
+    """Bài từ cổng hatena.blog (xếp hạng, chủ đề); expand=True: thêm vài bài khác của mỗi blog (sitemap của blog)."""
+    seen = open(HURLS, encoding="utf-8").read().split() if os.path.exists(HURLS) else []
+    if not seen:
+        for pth in HPORTAL:
+            raw = get("https://hatena.blog/" + pth)
+            time.sleep(2)
+            if raw:
+                seen += ENTRY.findall(raw.decode("utf-8", "replace"))
+        seen = list(dict.fromkeys(seen))
+        open(HURLS, "w", encoding="utf-8").write("\n".join(seen))
+    if not expand:
+        return seen
+    hosts = list(dict.fromkeys(u.split("/")[2] for u in seen))
+    print("  cong: %d bai, %d blog" % (len(seen), len(hosts)), flush=True)
+    rnd = random.Random(2136)
+    for h in hosts:
+        if BLOCKED[0] >= 5:
+            break
+        raw = get("https://%s/sitemap_index.xml" % h)
+        time.sleep(1.5)
+        if not raw:
+            continue
+        sms = re.findall(r"<loc>([^<]+)</loc>", raw.decode("utf-8", "replace"))[:1]
+        ents = []
+        for sm in sms:
+            r2 = get(sm)
+            time.sleep(1.5)
+            if r2:
+                ents += [u for u in re.findall(r"<loc>([^<]+)</loc>", r2.decode("utf-8", "replace")) if "/entry/" in u]
+        rnd.shuffle(ents)
+        seen += ents[:per_blog]
+    seen = list(dict.fromkeys(seen))
+    open(HURLS, "w", encoding="utf-8").write("\n".join(seen))
+    print("  tong %d bai Hatena" % len(seen), flush=True)
+    return seen
+
+
+def crawl_hatena(n, jouyou, delay=1.5, expand=False):
+    urls = hatena_urls(expand=expand)
+    done = set()
+    if os.path.exists(HOUT):
+        done = {json.loads(l)["u"] for l in open(HOUT, encoding="utf-8") if l.strip()}
+    todo = [u for u in urls if u not in done][:n]
+    print("Hatena: %d bai trong danh sach, can tai %d" % (len(urls), len(todo)), flush=True)
+    with open(HOUT, "a", encoding="utf-8") as f:
+        for k, u in enumerate(todo, 1):
+            if BLOCKED[0] >= 5:
+                print("  !! may chu tra 403/429 lien tiep -> DUNG (khong co lach)", flush=True)
+                break
+            f.write(json.dumps(scan(u, jouyou), ensure_ascii=False) + "\n")
+            time.sleep(delay)
+            if k % 100 == 0:
+                f.flush()
+                print("  %d/%d" % (k, len(todo)), flush=True)
+
+
 def cover(arts, U):
     """Ít bài nhất, phủ nhiều kanji nhất: dùng lại min_cover của playlist TOEIC
     (tham lam -> bỏ bài thừa -> đổi 2 bài lấy 1 bài phủ đủ cả hai)."""
@@ -180,14 +259,16 @@ def render(jouyou, arts, sel):
         cov |= set(new)
         order.append((j, new))
     total = len(cov)
-    L = ["# 📰 Đọc ít bài Qiita nhất mà gặp đủ 2136 Kanji\n",
-         "> Quét **%s bài viết Qiita** (chọn ngẫu nhiên từ sitemap công khai; chỉ tính phần chữ, **bỏ khối code**), rồi chọn "
+    nq = sum(1 for a in arts if a["src"] == "Qiita")
+    L = ["# 📰 Đọc ít bài nhất (Qiita + Hatena Blog) mà gặp nhiều Kanji nhất\n",
+         "> Quét **%s bài viết** — %s bài Qiita (IT) + %s bài Hatena Blog (nhật ký, nấu ăn, du lịch, sách, phim…); chỉ tính "
+         "phần chữ của bài, **bỏ khối code**, bỏ bài tác giả đặt *noai/noindex* — rồi chọn "
          "**ít bài nhất** mà đọc hết thì gặp nhiều Kanji thường dùng nhất (bài toán set cover: mỗi lượt lấy bài có nhiều chữ "
          "chưa gặp nhất, rồi bỏ bài thừa). Kết quả: **%s bài** phủ **%s/%s chữ** của bộ 2136 Kanji (%d%%). Thứ tự đã xếp để chữ JLPT "
          "N5→N1 (hay gặp) xuất hiện trước.\n>\n"
-         "> Qiita là trang kỹ thuật (IT) nên rất hợp với [1800 từ vựng IT](kanji-viewer/write.html), nhưng một số chữ ít "
-         "dùng trong văn kỹ thuật (thường gặp trong văn học, địa danh, cổ văn) sẽ không có — xem danh sách cuối trang.\n"
-         % (fmt(len(arts)), fmt(len(sel)), fmt(total), fmt(len(U)), round(100 * total / len(U))),
+         "> Qiita là trang kỹ thuật (IT); Hatena Blog là blog đời sống nên bù thêm chữ văn chương, đời thường. Chữ quá "
+         "hiếm (cổ văn, địa danh, tên riêng) vẫn có thể không gặp — xem danh sách cuối trang.\n"
+         % (fmt(len(arts)), fmt(nq), fmt(len(arts) - nq), fmt(len(sel)), fmt(total), fmt(len(U)), round(100 * total / len(U))),
          "## Đọc bao nhiêu bài thì gặp bao nhiêu Kanji?\n",
          "| Đọc bài 1 → | Số Kanji khác nhau đã gặp | %% cả bộ (%s chữ) | Riêng chữ N5–N3 đã gặp |" % fmt(len(U)), "|---|---|---|---|"]
     n53 = {c for c in U if jouyou[c]["j"] in ("N5", "N4", "N3")}
@@ -199,31 +280,75 @@ def render(jouyou, arts, sel):
             L.append("| **%s bài** | %s | %d%% | %s/%s (%d%%) |" % (fmt(k), fmt(len(cum)), round(100 * len(cum) / len(U)),
                      fmt(len(cum & n53)), fmt(len(n53)), round(100 * len(cum & n53) / max(1, len(n53)))))
     L += ["\n## Danh sách bài (đọc theo thứ tự)\n",
-          "| # | Bài viết | Kanji mới gặp | Số chữ mới |", "|---|---|---|---|"]
+          "| # | Nguồn | Bài viết | Kanji mới gặp | Số chữ mới |", "|---|---|---|---|---|"]
     for k, (j, new) in enumerate(order, 1):
         a = arts[j]
         new_s = sorted(new, key=lambda c: jouyou[c]["n"])
-        L.append("| %d | [%s](%s) | %s | %d |" % (k, E(a["t"]), a["u"], " ".join(new_s), len(new)))
+        L.append("| %d | %s | [%s](%s) | %s | %d |" % (k, a["src"], E(a["t"]), a["u"], " ".join(new_s), len(new)))
     miss = sorted(U - seen_any, key=lambda c: jouyou[c]["n"])
     L += ["\n## %s Kanji không gặp trong %s bài đã quét\n" % (fmt(len(miss)), fmt(len(arts))),
-          "Bấm chữ để luyện viết. Đây là các chữ hiếm trong văn kỹ thuật — nên học qua [thẻ Kanji](kanji-viewer/write.html).\n",
+          "Bấm chữ để luyện viết. Đây là các chữ hiếm trong bài viết trên mạng — nên học qua [thẻ Kanji](kanji-viewer/write.html).\n",
           " ".join("[%s](kanji-viewer/write.html#%s ':ignore')" % (c, c) for c in miss), ""]
     open(os.path.join(DOCS, "qiita-kanji-2136.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
+    render_html(jouyou, arts, order, miss, U)
     print("bai chon %d, phu %d/2136, khong gap %d" % (len(sel), total, len(miss)))
+
+
+def load_arts():
+    arts = []
+    for path, src in ((OUT, "Qiita"), (HOUT, "Hatena")):
+        if os.path.exists(path):
+            for l in open(path, encoding="utf-8"):
+                try:
+                    x = json.loads(l)
+                except ValueError:
+                    continue  # dòng đang ghi dở (vừa tải vừa xem)
+                if x.get("ok") and x.get("k"):
+                    x["src"] = src
+                    arts.append(x)
+    return list({x["u"]: x for x in arts}.values())
+
+
+def render_html(jouyou, arts, order, miss, U):
+    """Trang tương tác docs/kanji-viewer/doc-bao.html: bảng mức đọc (bấm để xem bài) + thẻ học các chữ chưa gặp."""
+    n53 = {c for c in U if jouyou[c]["j"] in ("N5", "N4", "N3")}
+    marks = [m for m in (5, 10, 30, 50) if m < len(order)] + [len(order)]
+    levels, cum, prev = [], set(), 0
+    for k, (j, new) in enumerate(order, 1):
+        cum |= set(new)
+        if k in marks:
+            levels.append(dict(n=k, a=prev + 1, seen=len(cum), pct=round(100 * len(cum) / len(U)),
+                               n53=round(100 * len(cum & n53) / max(1, len(n53)))))
+            prev = k
+    data = dict(
+        total=len(U), scanned=len(arts), nq=sum(1 for a in arts if a["src"] == "Qiita"),
+        levels=levels,
+        arts=[dict(s=arts[j]["src"], t=arts[j]["t"], u=arts[j]["u"],
+                   k="".join(sorted(new, key=lambda c: jouyou[c]["n"]))) for j, new in order],
+        miss=[[c, jouyou[c]["hv"], jouyou[c]["m"], jouyou[c]["j"], jouyou[c]["n"]] for c in miss])
+    open(os.path.join(DOCS, "kanji-viewer", "kanji-miss.js"), "w", encoding="utf-8").write(
+        "// Kanji không gặp trong các bài Qiita + Hatena đã quét (sinh bởi tools/qiita_kanji_cover.py)\n"
+        "window.KANJI_MISS = " + json.dumps([m[0] for m in data["miss"]], ensure_ascii=False) + ";\n")
+    tpl = open(os.path.join(ROOT, "tools", "doc_bao_template.html"), encoding="utf-8").read()
+    open(os.path.join(DOCS, "kanji-viewer", "doc-bao.html"), "w", encoding="utf-8").write(
+        tpl.replace("/*DATA*/null", json.dumps(data, ensure_ascii=False)))
+    print("html: doc-bao.html,", len(levels), "muc,", len(miss), "chu chua gap")
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--n", type=int, default=6000)
-    ap.add_argument("--jobs", type=int, default=3)
-    ap.add_argument("--no-fetch", action="store_true")
+    ap.add_argument("--source", choices=("qiita", "hatena", "none"), default="hatena")
+    ap.add_argument("--n", type=int, default=3000)
+    ap.add_argument("--jobs", type=int, default=1)
+    ap.add_argument("--expand", action="store_true", help="Hatena: thêm bài khác của mỗi blog (đọc sitemap, chậm)")
     a = ap.parse_args()
     jouyou = load_kanji()
     print("kanji:", len(jouyou), flush=True)
-    if not a.no_fetch:
+    if a.source == "qiita":
         crawl(a.n, a.jobs, jouyou)
-    arts = [json.loads(l) for l in open(OUT, encoding="utf-8")]
-    arts = [x for x in {x["u"]: x for x in arts if x.get("ok") and x.get("k")}.values()]
+    elif a.source == "hatena":
+        crawl_hatena(a.n, jouyou, expand=a.expand)
+    arts = load_arts()
     print("bai co kanji:", len(arts), flush=True)
     sel = cover(arts, set(jouyou))
     render(jouyou, arts, sel)

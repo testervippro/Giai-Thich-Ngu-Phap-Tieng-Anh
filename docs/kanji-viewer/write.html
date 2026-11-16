@@ -93,6 +93,7 @@
       <option value="p2">Tập 2 (thẻ 1051–2165)</option>
       <option value="c1000">1000 chữ thông dụng</option>
       <option value="extra">🆕 17 chữ ngoài 2136 (IT · 2000 từ)</option>
+      <option value="miss" id="missOpt">🎯 Chữ không gặp khi đọc báo (học thuộc)</option>
       <option value="N5">JLPT N5</option><option value="N4">JLPT N4</option><option value="N3">JLPT N3</option><option value="N2">JLPT N2</option><option value="N1">JLPT N1</option>
     </select>
     <button class="btn" id="prev" title="Chữ trước (←)">← Trước</button>
@@ -152,6 +153,7 @@
 <script src="kanji-game-data.js"></script>
 <script src="kanji-roadmap.js"></script>
 <script src="kanji-extra.js"></script>
+<script src="kanji-miss.js"></script>
 <script>
 (() => {
   "use strict";
@@ -190,6 +192,7 @@
   function pool(){
     if (st.set === 'rad') return RADSET;
     if (st.set === 'extra') return EXTRA;
+    if (st.set === 'miss'){ const B = new Map(ALL.map(x => [x.k, x])); return (window.KANJI_MISS || []).map(k => B.get(k)).filter(Boolean); }
     if (st.set === 'p1') return ALL.filter(x => x.n <= 1050);
     if (st.set === 'p2') return ALL.filter(x => x.n > 1050);
     if (st.set === 'c1000') return (window.KANJI_C1000 || []).map(n => BYN.get(n)).filter(Boolean);
@@ -476,6 +479,8 @@
   });
   window.addEventListener('ui-theme-change', () => { redraw(); });
   $('numsBtn').classList.toggle('on', st.nums); $('ghostBtn').classList.toggle('on', st.ghost); $('quizBtn').classList.toggle('on', st.quiz); cardLabel();
+  { const q = new URLSearchParams(location.search).get('set'); if (q && [...$('set').options].some(o => o.value === q)){ st.set = q; $('set').value = q; } }
+  { const o = $('missOpt'); if (o && window.KANJI_MISS) o.textContent = `🎯 ${window.KANJI_MISS.length} chữ không gặp khi đọc báo (học thuộc)`; }
   i = st.pos[st.set] || 0;
   // deep link: write.html#泣 or #104
   const h = decodeURIComponent(location.hash.slice(1));

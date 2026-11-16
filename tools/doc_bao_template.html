@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Đọc bài gặp đủ Kanji</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:980px; margin:auto; padding:4px 16px 48px; }
+    h1 { margin:0 0 6px; font-size:26px; }
+    h2 { margin:28px 0 8px; font-size:19px; }
+    .lead { color:var(--muted); margin:0 0 16px; }
+    .lead b { color:var(--ink); }
+    table.lv { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; font-variant-numeric:tabular-nums; }
+    .lv th, .lv td { padding:10px 14px; text-align:left; border-bottom:1px solid var(--line); }
+    .lv th { font-size:13px; color:var(--muted); font-weight:600; }
+    .lv tr.row { cursor:pointer; }
+    .lv tr.row:hover td { background:var(--accentbg); }
+    .lv tr.row td:first-child::before { content:"▸"; display:inline-block; width:1.1em; color:var(--accent); transition:transform .15s; }
+    .lv tr.row.open td:first-child::before { transform:rotate(90deg); }
+    .lv tr.hi td { font-weight:700; }
+    .lv tr.list td { padding:0; background:var(--bg); }
+    .lv tr.list.hidden { display:none; }
+    .arts { list-style:none; margin:0; padding:6px 10px 10px; }
+    .arts li { display:grid; grid-template-columns:2.6em 4.6em 1fr; gap:4px 10px; padding:8px 4px; border-bottom:1px dashed var(--line); }
+    .arts li:last-child { border-bottom:0; }
+    .arts .no { color:var(--muted); text-align:right; }
+    .arts .src { font-size:11.5px; font-weight:700; border-radius:6px; padding:1px 6px; height:fit-content; text-align:center; }
+    .src.Qiita { background:#e6f4ea; color:#2e7d32; } .src.Hatena { background:#e8f0fe; color:#1a56b0; }
+    .arts a { color:var(--ink); font-weight:600; text-decoration:none; } .arts a:hover { color:var(--accent); text-decoration:underline; }
+    .arts .nk { grid-column:3; font-size:13px; color:var(--muted); }
+    .arts .nk span { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:16px; color:var(--ink); letter-spacing:2px; }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:0 0 12px; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; cursor:pointer; text-decoration:none; }
+    .btn:hover { border-color:var(--accent); }
+    .btn.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(150px, 1fr)); gap:10px; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:10px 12px; display:flex; flex-direction:column; gap:2px; color:inherit; text-decoration:none; }
+    .card:hover { border-color:var(--accent); }
+    .card .k { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:44px; line-height:1.1; }
+    .card .hv { font-weight:800; color:var(--accent); }
+    .card .m { font-size:13.5px; }
+    .card .j { font-size:12px; color:var(--muted); }
+    .quiz .card .hv, .quiz .card .m { visibility:hidden; }
+    .quiz .card.show .hv, .quiz .card.show .m { visibility:visible; }
+    .card .done { font-size:12px; color:var(--good,#15803d); }
+    .card.ok { opacity:.55; }
+    .note { color:var(--muted); font-size:13px; margin-top:12px; }
+    @media (max-width:560px) { .arts li { grid-template-columns:2em 1fr; } .arts .src { grid-column:2; width:fit-content; } .arts a, .arts .nk { grid-column:2; } .lv th, .lv td { padding:8px 8px; } }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Đọc bài gặp đủ Kanji"></script>
+</head>
+<body>
+<main>
+  <h1>📰 Đọc ít bài nhất mà gặp đủ Kanji</h1>
+  <p class="lead" id="lead"></p>
+
+  <table class="lv" id="lv">
+    <thead><tr><th>Đọc từ bài 1 đến</th><th>Số kanji gặp được</th><th>% cả bộ</th><th>Riêng chữ N5–N3</th></tr></thead>
+    <tbody id="lvBody"></tbody>
+  </table>
+  <p class="note">Bấm vào từng mức để xem danh sách bài cần đọc thêm ở mức đó. Mỗi bài ghi các <b>kanji mới gặp</b> (lần đầu xuất hiện trong lộ trình).</p>
+
+  <h2 id="missTitle"></h2>
+  <p class="lead">Các chữ này không xuất hiện trong bài nào đã quét — phải <b>học thuộc</b> bằng thẻ. Bấm thẻ để mở trang luyện viết chữ đó.</p>
+  <div class="bar">
+    <a class="btn" id="writeAll" href="write.html?set=miss">✍️ Luyện viết cả bộ</a>
+    <button class="btn" id="quizBtn">🙈 Tự kiểm tra (ẩn Hán Việt + nghĩa)</button>
+    <button class="btn" id="hideOk">✓ Ẩn chữ đã thuộc</button>
+    <span id="okCount" class="note" style="margin:0"></span>
+  </div>
+  <div class="grid" id="grid"></div>
+  <p class="note">Nguồn bài: Qiita (IT) và Hatena Blog (đời sống), quét phần chữ của bài (bỏ khối code, bỏ bài tác giả đặt noai/noindex). Mỗi lượt chọn bài có nhiều chữ chưa gặp nhất, rồi bỏ bài thừa (bài toán set cover).</p>
+</main>
+<script>
+(() => {
+  "use strict";
+  const D = /*DATA*/null;
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fmt = n => n.toLocaleString('vi-VN');
+  const ls = { get(k, d){ try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch(e){ return d; } },
+               set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch(e){} } };
+  const last = D.levels[D.levels.length - 1];
+  $('lead').innerHTML = `Quét <b>${fmt(D.scanned)} bài</b> (${fmt(D.nq)} Qiita + ${fmt(D.scanned - D.nq)} Hatena Blog). Đọc <b>${fmt(last.n)} bài</b> là gặp <b>${fmt(last.seen)}/${fmt(D.total)} kanji (${last.pct}%)</b>; còn <b>${D.miss.length} chữ</b> phải học thuộc.`;
+
+  // ---- bảng mức đọc ----
+  const hi = new Set([10, last.n]);
+  $('lvBody').innerHTML = D.levels.map((L, ix) => {
+    const items = D.arts.slice(L.a - 1, L.n).map((a, k) => {
+      const no = L.a + k;
+      return `<li><span class="no">${no}</span><span class="src ${esc(a.s)}">${esc(a.s)}</span>`
+        + `<a href="${esc(a.u)}" target="_blank" rel="noopener">${esc(a.t || a.u)}</a>`
+        + `<div class="nk">+${a.k.length} chữ mới: <span>${esc(a.k)}</span></div></li>`;
+    }).join('');
+    const head = L.a === 1 ? `Bài 1–${L.n}` : `Thêm bài ${L.a}–${L.n} (bài 1–${L.a - 1} ở các mức trên)`;
+    return `<tr class="row${hi.has(L.n) ? ' hi' : ''}" data-i="${ix}"><td>${fmt(L.n)} bài</td><td>${fmt(L.seen)}</td><td>${L.pct}%</td><td>${L.n53}%</td></tr>`
+      + `<tr class="list hidden" id="lv${ix}"><td colspan="4"><div class="note" style="margin:8px 14px 0">${head}</div><ul class="arts">${items}</ul></td></tr>`;
+  }).join('');
+  $('lvBody').addEventListener('click', e => {
+    const tr = e.target.closest('tr.row'); if (!tr) return;
+    const open = tr.classList.toggle('open');
+    $('lv' + tr.dataset.i).classList.toggle('hidden', !open);
+  });
+
+  // ---- chữ chưa gặp ----
+  $('missTitle').textContent = `🎯 ${D.miss.length} kanji không gặp trong bài đọc — học thuộc`;
+  let ok = ls.get('docbao.ok', {}), hideOk = ls.get('docbao.hideOk', false), quiz = false;
+  const cap = s => s ? s.charAt(0).toUpperCase() + s.slice(1) : '';
+  function draw(){
+    $('grid').innerHTML = D.miss.filter(m => !(hideOk && ok[m[0]])).map(([k, hv, m, j, n]) =>
+      `<div class="card${ok[k] ? ' ok' : ''}" data-k="${esc(k)}">`
+      + `<a href="write.html#${encodeURIComponent(k)}" class="k" style="color:inherit;text-decoration:none" title="Luyện viết">${esc(k)}</a>`
+      + `<span class="hv">${esc(hv)}</span><span class="m">${esc(cap(m))}</span>`
+      + `<span class="j">Thẻ ${n}${j ? ' · ' + esc(j) : ''}</span>`
+      + `<label class="done"><input type="checkbox" ${ok[k] ? 'checked' : ''}> đã thuộc</label></div>`).join('');
+    const nOk = D.miss.filter(m => ok[m[0]]).length;
+    $('okCount').textContent = `Đã thuộc ${nOk}/${D.miss.length}`;
+    $('hideOk').classList.toggle('on', hideOk);
+  }
+  $('grid').addEventListener('change', e => {
+    const c = e.target.closest('.card'); if (!c) return;
+    if (e.target.checked) ok[c.dataset.k] = 1; else delete ok[c.dataset.k];
+    ls.set('docbao.ok', ok); draw();
+  });
+  $('grid').addEventListener('click', e => {
+    if (!quiz || e.target.closest('a,input,label')) return;
+    const c = e.target.closest('.card'); if (c) c.classList.toggle('show');
+  });
+  $('quizBtn').onclick = () => { quiz = !quiz; document.body.classList.toggle('quiz', quiz); $('quizBtn').classList.toggle('on', quiz); };
+  $('hideOk').onclick = () => { hideOk = !hideOk; ls.set('docbao.hideOk', hideOk); draw(); };
+  draw();
+})();
+</script>
+</body>
+</html>
