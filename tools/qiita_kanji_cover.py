@@ -318,10 +318,10 @@ def render_html(jouyou, arts, order, miss, U):
         cum |= set(new)
         if k in marks:
             levels.append(dict(n=k, a=prev + 1, seen=len(cum), pct=round(100 * len(cum) / len(U)),
-                               n53=round(100 * len(cum & n53) / max(1, len(n53)))))
+                               n53=100 * len(cum & n53) // max(1, len(n53)), n53n=len(cum & n53)))
             prev = k
     data = dict(
-        total=len(U), scanned=len(arts), nq=sum(1 for a in arts if a["src"] == "Qiita"),
+        total=len(U), n53tot=len(n53), scanned=len(arts), nq=sum(1 for a in arts if a["src"] == "Qiita"),
         levels=levels,
         arts=[dict(s=arts[j]["src"], t=arts[j]["t"], u=arts[j]["u"],
                    k="".join(sorted(new, key=lambda c: jouyou[c]["n"]))) for j, new in order],

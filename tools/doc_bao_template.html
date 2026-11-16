@@ -59,9 +59,10 @@
   <p class="lead" id="lead"></p>
 
   <table class="lv" id="lv">
-    <thead><tr><th>Đọc từ bài 1 đến</th><th>Số kanji gặp được</th><th>% cả bộ</th><th>Riêng chữ N5–N3</th></tr></thead>
+    <thead><tr><th>Đọc từ bài 1 đến</th><th>Số kanji đã gặp</th><th id="thAll">% trên tổng số kanji</th><th id="thN53">Đã gặp bao nhiêu % chữ cơ bản N5–N3</th></tr></thead>
     <tbody id="lvBody"></tbody>
   </table>
+  <p class="note" id="lvNote"></p>
   <p class="note">Bấm vào từng mức để xem danh sách bài cần đọc thêm ở mức đó. Mỗi bài ghi các <b>kanji mới gặp</b> (lần đầu xuất hiện trong lộ trình).</p>
 
   <h2 id="missTitle"></h2>
@@ -88,6 +89,9 @@
   $('lead').innerHTML = `Quét <b>${fmt(D.scanned)} bài</b> (${fmt(D.nq)} Qiita + ${fmt(D.scanned - D.nq)} Hatena Blog). Đọc <b>${fmt(last.n)} bài</b> là gặp <b>${fmt(last.seen)}/${fmt(D.total)} kanji (${last.pct}%)</b>; còn <b>${D.miss.length} chữ</b> phải học thuộc.`;
 
   // ---- bảng mức đọc ----
+  $('thAll').textContent = `% trên tổng ${fmt(D.total)} kanji`;
+  $('thN53').textContent = `Đã gặp bao nhiêu % trong ${fmt(D.n53tot)} chữ N5–N3`;
+  $('lvNote').innerHTML = `<b>Lưu ý:</b> bộ kanji gồm <b>${fmt(D.total)} chữ</b> ở mọi trình độ (N5 → N1 và cả chữ ngoài JLPT), <b>không phải chỉ N5–N3</b>. Cột cuối chỉ đo riêng nhóm <b>${fmt(D.n53tot)} chữ cơ bản N5–N3</b> nằm trong bộ: đọc đến mức đó thì đã gặp bao nhiêu % nhóm này. Ví dụ “100%” nghĩa là đã gặp đủ mọi chữ N5–N3; các chữ mới gặp sau đó đều là chữ N2, N1 hoặc chữ hiếm.`;
   const hi = new Set([10, last.n]);
   $('lvBody').innerHTML = D.levels.map((L, ix) => {
     const items = D.arts.slice(L.a - 1, L.n).map((a, k) => {
@@ -97,7 +101,7 @@
         + `<div class="nk">+${a.k.length} chữ mới: <span>${esc(a.k)}</span></div></li>`;
     }).join('');
     const head = L.a === 1 ? `Bài 1–${L.n}` : `Thêm bài ${L.a}–${L.n} (bài 1–${L.a - 1} ở các mức trên)`;
-    return `<tr class="row${hi.has(L.n) ? ' hi' : ''}" data-i="${ix}"><td>${fmt(L.n)} bài</td><td>${fmt(L.seen)}</td><td>${L.pct}%</td><td>${L.n53}%</td></tr>`
+    return `<tr class="row${hi.has(L.n) ? ' hi' : ''}" data-i="${ix}"><td>${fmt(L.n)} bài</td><td>${fmt(L.seen)}</td><td>${L.pct}% <span class="j">(${fmt(L.seen)}/${fmt(D.total)})</span></td><td>${L.n53}% <span class="j">(${fmt(L.n53n)}/${fmt(D.n53tot)})</span></td></tr>`
       + `<tr class="list hidden" id="lv${ix}"><td colspan="4"><div class="note" style="margin:8px 14px 0">${head}</div><ul class="arts">${items}</ul></td></tr>`;
   }).join('');
   $('lvBody').addEventListener('click', e => {
