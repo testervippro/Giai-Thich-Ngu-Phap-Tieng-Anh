@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Từ vựng và ngữ pháp</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1040px; margin:auto; padding:4px 16px 48px; }
+    h1 { margin:4px 0 6px; font-size:22px; line-height:1.35; }
+    h2 { margin:26px 0 8px; font-size:19px; }
+    .lead, .note { color:var(--muted); }
+    .lead b { color:var(--ink); }
+    .note { font-size:13px; }
+    .nav { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:6px 0 10px; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:7px 12px; font:inherit; font-size:14px; cursor:pointer; text-decoration:none; }
+    .btn:hover { border-color:var(--accent); }
+    .btn[aria-disabled="true"] { opacity:.4; pointer-events:none; }
+    select, input[type=search] { padding:7px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; }
+    input[type=search] { flex:1; min-width:160px; }
+    .src { font-size:12px; border-radius:6px; padding:1px 7px; border:1px solid var(--line); color:var(--muted); }
+    .stats { display:flex; gap:10px; flex-wrap:wrap; margin:10px 0; }
+    .stat { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:8px 14px; }
+    .stat b { display:block; font-size:20px; }
+    .stat span { font-size:12.5px; color:var(--muted); }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:0 0 10px; }
+    table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; }
+    th, td { padding:8px 11px; text-align:left; border-bottom:1px solid var(--line); vertical-align:top; }
+    th { font-size:13px; color:var(--muted); font-weight:600; }
+    .jp { font-family:"Hiragino Sans","Yu Gothic","Noto Sans JP",sans-serif; }
+    td.w { font-size:19px; white-space:nowrap; }
+    td.w a { color:inherit; text-decoration:none; }
+    td.w a:hover { color:var(--accent); }
+    .rd { font-size:13px; color:var(--muted); display:block; }
+    .hv { font-weight:700; color:var(--accent); font-size:13px; }
+    .new { font-size:11.5px; color:var(--accent); border:1px solid var(--accent); border-radius:5px; padding:0 5px; margin-left:4px; white-space:nowrap; }
+    .ghep { font-size:11.5px; color:var(--muted); }
+    .num { text-align:right; white-space:nowrap; font-variant-numeric:tabular-nums; }
+    .lv { font-weight:700; font-size:12.5px; border-radius:6px; padding:1px 7px; white-space:nowrap; }
+    .N5 { background:#dcfce7; color:#166534; } .N4 { background:#dbeafe; color:#1e40af; } .N3 { background:#fef9c3; color:#854d0e; }
+    .N2 { background:#ffedd5; color:#9a3412; } .N1 { background:#fee2e2; color:#991b1b; }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .lv { filter:brightness(.8) saturate(1.3); } }
+    .ex { font-size:15px; }
+    .ex b { color:var(--accent); }
+    .pat { font-weight:700; white-space:nowrap; }
+    .say { border:0; background:none; cursor:pointer; font-size:14px; padding:0 2px; }
+    @media (max-width:640px) { .hide-sm { display:none; } th, td { padding:7px 7px; } td.w { font-size:17px; } .pat { white-space:normal; } }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Từ vựng và ngữ pháp"></script>
+</head>
+<body>
+<main>
+  <div class="nav">
+    <a class="btn" href="doc-bao.html">← 133 bài</a>
+    <a class="btn" id="prev">‹ Bài trước</a>
+    <select id="jump" aria-label="Chọn bài"></select>
+    <a class="btn" id="next">Bài sau ›</a>
+  </div>
+  <h1 class="jp" id="title">Đang tải…</h1>
+  <p class="lead" id="lead"></p>
+  <div class="stats" id="stats"></div>
+
+  <h2>📘 Ngữ pháp trong bài</h2>
+  <div class="bar">
+    <select id="glv" aria-label="Lọc cấp ngữ pháp"><option value="">Mọi cấp</option><option>N5</option><option>N4</option><option>N3</option><option>N2</option><option>N1</option></select>
+    <span class="note" id="gcnt"></span>
+  </div>
+  <table>
+    <thead><tr><th>Cấp</th><th>Mẫu</th><th>Nghĩa</th><th class="num hide-sm">Số câu</th><th>Câu trong bài</th></tr></thead>
+    <tbody id="gBody"></tbody>
+  </table>
+
+  <h2>📗 Từ vựng có Kanji trong bài</h2>
+  <div class="bar">
+    <input type="search" id="q" placeholder="Tìm từ / cách đọc / nghĩa…" aria-label="Tìm từ">
+    <select id="wf" aria-label="Lọc từ">
+      <option value="">Tất cả</option>
+      <option value="new">Chỉ từ MỚI (chưa gặp ở bài trước)</option>
+      <option value="dict">Chỉ từ có trong từ điển</option>
+      <option value="ghep">Chỉ từ ghép tự tách (chưa có trong từ điển)</option>
+    </select>
+    <select id="ws" aria-label="Sắp xếp">
+      <option value="c">Hay gặp trong bài trước</option>
+      <option value="o">Theo thứ tự xuất hiện</option>
+    </select>
+    <span class="note" id="wcnt"></span>
+  </div>
+  <table>
+    <thead><tr><th>Từ</th><th>Hán Việt</th><th>Nghĩa</th><th class="num hide-sm">Lần</th></tr></thead>
+    <tbody id="wBody"></tbody>
+  </table>
+  <p style="text-align:center"><button class="btn" id="more">Xem thêm 150 từ</button></p>
+  <p class="note">Từ vựng dò theo từ điển 9.279 từ của bộ Kanji (cách đọc, nghĩa tiếng Anh, Hán Việt), tính cả dạng chia của động từ / tính từ (使う → 使われる). Từ ghép Kanji chưa có trong từ điển được tách tự động và ghi âm Hán Việt + nghĩa từng chữ, nên có thể có từ bị tách chưa chuẩn. Ngữ pháp dò theo danh sách mẫu N5–N1; một số mẫu ngắn (〜ほど, 〜ように…) có thể bắt nhầm. Chỉ trích 1 câu ngắn cho mỗi mẫu; đọc toàn bài ở link gốc.</p>
+</main>
+<script>
+(() => {
+  "use strict";
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fmt = n => n.toLocaleString('vi-VN');
+  const params = new URLSearchParams(location.search);
+  let n = Math.max(1, parseInt(params.get('n'), 10) || 1), D = null, IDX = [], shown = 150;
+  const pad = k => String(k).padStart(3, '0');
+  function say(t){
+    if (!window.speechSynthesis) return;
+    const u = new SpeechSynthesisUtterance(t); u.lang = 'ja-JP'; speechSynthesis.cancel(); speechSynthesis.speak(u);
+  }
+  function nav(){
+    const ok = IDX.filter(r => r.ok).map(r => r.n);
+    const i = ok.indexOf(n);
+    const set = (el, k) => { if (k) { el.href = 'bai.html?n=' + k; el.removeAttribute('aria-disabled'); } else { el.removeAttribute('href'); el.setAttribute('aria-disabled', 'true'); } };
+    set($('prev'), i > 0 ? ok[i - 1] : 0); set($('next'), i >= 0 && i < ok.length - 1 ? ok[i + 1] : 0);
+    $('jump').innerHTML = IDX.map(r => `<option value="${r.n}"${r.n === n ? ' selected' : ''}${r.ok ? '' : ' disabled'}>Bài ${r.n}${r.ok ? '' : ' (không lấy được)'} — ${esc((r.t || '').slice(0, 40))}</option>`).join('');
+  }
+  $('jump').addEventListener('change', e => { location.search = '?n=' + e.target.value; });
+  function drawG(){
+    const lv = $('glv').value;
+    const G = D.grammar.filter(g => !lv || g[0] === lv);
+    $('gcnt').textContent = `${G.length} mẫu`;
+    $('gBody').innerHTML = G.map(([l, pat, mean, c, ex, sp]) => {
+      const exh = sp ? esc(ex.slice(0, sp[0])) + '<b>' + esc(ex.slice(sp[0], sp[1])) + '</b>' + esc(ex.slice(sp[1])) : esc(ex);
+      return `<tr><td><span class="lv ${l}">${l}</span></td><td class="pat jp">${esc(pat)}</td><td>${esc(mean)}</td><td class="num hide-sm">${c}</td>`
+        + `<td class="ex jp">${exh} <button class="say" data-t="${esc(ex)}" aria-label="Đọc câu">🔊</button></td></tr>`;
+    }).join('') || '<tr><td colspan="5" class="note">Không tìm thấy mẫu nào.</td></tr>';
+  }
+  function drawW(){
+    const q = $('q').value.trim().toLowerCase(), f = $('wf').value;
+    let W = D.words.map((w, i) => [...w, i]).filter(([w, rd, en, hv, c, isNew, kind]) =>
+      (!q || w.includes(q) || rd.includes(q) || en.toLowerCase().includes(q) || hv.toLowerCase().includes(q))
+      && (!f || (f === 'new' && isNew) || (f === 'dict' && kind !== 'ghep') || (f === 'ghep' && kind === 'ghep')));
+    if ($('ws').value === 'o') W = W.slice().sort((a, b) => a[7] - b[7]);
+    $('wcnt').textContent = `${fmt(W.length)} từ`;
+    $('wBody').innerHTML = W.slice(0, shown).map(([w, rd, en, hv, c, isNew, kind]) =>
+      `<tr><td class="w jp"><a href="write.html?k=${encodeURIComponent(w)}" title="Luyện viết">${esc(w)}</a> <button class="say" data-t="${esc(rd || w)}" aria-label="Đọc ${esc(w)}">🔊</button>`
+      + `${isNew ? '<span class="new">mới</span>' : ''}<span class="rd">${esc(rd)}</span></td>`
+      + `<td class="hv">${esc(hv)}</td><td>${esc(en)}${kind === 'ghep' ? '<div class="ghep">từ ghép tự tách — nghĩa từng chữ</div>' : ''}</td><td class="num hide-sm">${c}</td></tr>`).join('');
+    $('more').style.display = W.length > shown ? '' : 'none';
+  }
+  function draw(){
+    document.title = `Bài ${n}: từ vựng và ngữ pháp`;
+    $('title').textContent = `Bài ${n}. ${D.t || D.u}`;
+    $('lead').innerHTML = `<span class="src">${esc(D.s)}</span> <a href="${esc(D.u)}" target="_blank" rel="noopener">Đọc bài gốc ↗</a>`
+      + (D.k ? ` · Kanji mới gặp ở bài này trong lộ trình: <span class="jp">${esc(D.k)}</span>` : '');
+    const nNew = D.words.filter(w => w[5]).length, gl = lv => D.grammar.filter(g => g[0] === lv).length;
+    $('stats').innerHTML = [
+      [fmt(D.words.length), 'từ có Kanji'], [fmt(nNew), 'từ mới so với các bài trước'], [D.grammar.length, 'mẫu ngữ pháp'],
+      [`${gl('N5') + gl('N4')} / ${gl('N3')} / ${gl('N2') + gl('N1')}`, 'mẫu N5–N4 / N3 / N2–N1'], [fmt(D.chars), 'ký tự tiếng Nhật']
+    ].map(([b, s]) => `<div class="stat"><b>${b}</b><span>${s}</span></div>`).join('');
+    drawG(); drawW();
+  }
+  $('glv').addEventListener('input', drawG);
+  ['q', 'wf', 'ws'].forEach(id => $(id).addEventListener('input', () => { shown = 150; drawW(); }));
+  $('more').onclick = () => { shown += 150; drawW(); };
+  document.addEventListener('click', e => { const b = e.target.closest('.say'); if (b) say(b.dataset.t); });
+  fetch('bai/index.json').then(r => r.json()).then(d => { IDX = d; nav(); }).catch(() => {});
+  fetch(`bai/${pad(n)}.json`).then(r => { if (!r.ok) throw 0; return r.json(); }).then(d => { D = d; draw(); })
+    .catch(() => { $('title').textContent = `Bài ${n}: không có dữ liệu`; $('lead').textContent = 'Bài này không tải được (tác giả chặn máy đọc hoặc bài đã bị xoá).'; });
+})();
+</script>
+</body>
+</html>

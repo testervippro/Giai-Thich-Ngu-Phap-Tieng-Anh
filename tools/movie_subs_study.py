@@ -4,8 +4,7 @@
 Đầu vào : ~/remind voca/movies/*.zip (+ .srt/.vtt lẻ). Phụ đề gốc CHỈ dùng trên máy.
 Trên máy : movies/_study/  — bản phụ đề đã định dạng để học (mỗi tập 1 trang HTML: lời thoại sạch,
            mốc thời gian, từ TOEIC tô màu + nghĩa). KHÔNG đưa lên git (lời thoại có bản quyền).
-Lên web  : docs/movie-viewer/toeic-phim.html — chỉ phần tự làm ra: thống kê, lộ trình ÍT tập nhất
-           gặp nhiều từ TOEIC nhất (bấm từng mức xem tập), bảng từ + 1 câu thoại ngắn làm ví dụ.
+Lên web  : không (trang cụm giao tiếp do tools/movie_phrases.py tạo).
 
     python3 tools/movie_subs_study.py
 """
@@ -21,7 +20,6 @@ from collections import defaultdict
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import toeic_songs_lrclib as L  # noqa: E402
 import toeic_songs_corpus as C  # noqa: E402
-from toeic_songs_optimize import min_cover  # noqa: E402
 
 SRC = os.path.expanduser("~/remind voca/movies")
 STUDY = os.path.join(SRC, "_study")
@@ -145,61 +143,7 @@ def main():
     found = [ri for ri in range(len(rows)) if hits[ri]]
     print("tu TOEIC gap trong phim: %d/%d" % (len(found), len(rows)), flush=True)
 
-    # ---- lộ trình: ít tập nhất phủ nhiều từ nhất ----
-    items = [dict(hits={ri: 1 for ri in found if ei in hits[ri]}, es=-len(e["lines"])) for ei, e in enumerate(eps)]
-    sel = min_cover(items, set(found))
-    w = lambda ri: 1.0 + (len(rows[ri]["ets"]) and min(3, int(rows[ri]["ets"]) ** 0.25))
-    order, cov, left = [], set(), set(sel)
-    while left:
-        ei = max(left, key=lambda j: sum(w(ri) for ri in items[j]["hits"] if ri not in cov))
-        left.discard(ei)
-        new = [ri for ri in items[ei]["hits"] if ri not in cov]
-        cov |= set(new)
-        order.append((ei, new))
-    print("lo trinh: %d tap phu %d tu" % (len(order), len(cov)), flush=True)
-    write_web(rows, eps, hits, found, order)
     write_study(rows, eps, hits)
-
-
-def line_score(ep, line, rk):
-    """Câu ví dụ tốt: câu trọn vẹn (viết hoa đầu, có dấu câu cuối), dài vừa phải, ưu tiên phim bộ
-    (phụ đề tự động của video hay bị cắt nửa câu), rồi tới tập trong lộ trình. Nhỏ hơn = tốt hơn."""
-    sc = abs(len(line) - 60) / 10
-    if not (line[:1].isupper() and line.rstrip('"\'')[-1:] in ".!?"):
-        sc += 6
-    if ep["show"].startswith("Phim"):
-        sc += 8
-    if rk is None:
-        sc += 1
-    return sc
-
-
-def write_web(rows, eps, hits, found, order):
-    os.makedirs(WEB, exist_ok=True)
-    rank = {ei: k for k, (ei, _) in enumerate(order, 1)}
-    shows = sorted({e["show"] for e in eps}, key=lambda s: (s.startswith("Phim"), s))
-    words = []
-    for ri in found:
-        hs = hits[ri]
-        ei = min(hs, key=lambda j: line_score(eps[j], hs[j][1], rank.get(j)))
-        t, line, form = hs[ei]
-        r = rows[ri]
-        per = defaultdict(int)
-        for j in hs:
-            per[eps[j]["show"]] += 1
-        words.append([r["term"], r["mean"], int(r["ets"] or 0), len(hs), ei, line[:160], form,
-                      [per.get(s, 0) for s in shows]])
-    data = dict(
-        shows=[dict(name=s, eps=sum(1 for e in eps if e["show"] == s),
-                    words=len({ri for ri in found for j in hits[ri] if eps[j]["show"] == s})) for s in shows],
-        total=len(rows), found=len(found),
-        eps=[[e["show"], code(e), e["title"]] for e in eps],
-        order=[[ei, [rows[ri]["term"] for ri in sorted(new, key=lambda ri: -int(rows[ri]["ets"] or 0))]] for ei, new in order],
-        words=sorted(words, key=lambda x: (-x[2], -x[3])))
-    tpl = open(os.path.join(L.ROOT, "tools", "toeic_phim_template.html"), encoding="utf-8").read()
-    out = os.path.join(WEB, "toeic-phim.html")
-    open(out, "w", encoding="utf-8").write(tpl.replace("/*DATA*/null", json.dumps(data, ensure_ascii=False, separators=(",", ":"))))
-    print("web:", out, os.path.getsize(out) // 1024, "KB")
 
 
 import movie_phrases as P  # noqa: E402

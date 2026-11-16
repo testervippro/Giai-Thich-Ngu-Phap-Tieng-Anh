@@ -31,6 +31,9 @@
     .src.Qiita { background:#e6f4ea; color:#2e7d32; } .src.Hatena { background:#e8f0fe; color:#1a56b0; }
     .arts a { color:var(--ink); font-weight:600; text-decoration:none; } .arts a:hover { color:var(--accent); text-decoration:underline; }
     .arts .nk { grid-column:3; font-size:13px; color:var(--muted); }
+    .arts .vg { grid-column:3; }
+    .arts a.vgl { display:inline-block; font-size:13px; font-weight:600; color:var(--accent); border:1px solid var(--line); border-radius:8px; padding:3px 9px; margin-top:2px; }
+    .arts a.vgl:hover { border-color:var(--accent); text-decoration:none; }
     .arts .nk span { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:16px; color:var(--ink); letter-spacing:2px; }
     .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:0 0 12px; }
     .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; cursor:pointer; text-decoration:none; }
@@ -48,7 +51,7 @@
     .card .done { font-size:12px; color:var(--good,#15803d); }
     .card.ok { opacity:.55; }
     .note { color:var(--muted); font-size:13px; margin-top:12px; }
-    @media (max-width:560px) { .arts li { grid-template-columns:2em 1fr; } .arts .src { grid-column:2; width:fit-content; } .arts a, .arts .nk { grid-column:2; } .lv th, .lv td { padding:8px 8px; } }
+    @media (max-width:560px) { .arts li { grid-template-columns:2em 1fr; } .arts .src { grid-column:2; width:fit-content; } .arts a, .arts .nk, .arts .vg { grid-column:2; } .lv th, .lv td { padding:8px 8px; } }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Đọc bài gặp đủ Kanji"></script>
@@ -63,7 +66,7 @@
     <tbody id="lvBody"></tbody>
   </table>
   <p class="note" id="lvNote"></p>
-  <p class="note">Bấm vào từng mức để xem danh sách bài cần đọc thêm ở mức đó. Mỗi bài ghi các <b>kanji mới gặp</b> (lần đầu xuất hiện trong lộ trình).</p>
+  <p class="note">Bấm vào từng mức để xem danh sách bài cần đọc thêm ở mức đó. Mỗi bài ghi các <b>kanji mới gặp</b> (lần đầu xuất hiện trong lộ trình) và có nút <b>📖 Từ vựng &amp; ngữ pháp</b> — trang liệt kê từ có Kanji (cách đọc, Hán Việt, nghĩa) và các mẫu ngữ pháp N5–N1 trong bài. Mở nhanh: <a href="bai.html?n=1">bài 1</a>.</p>
 
   <h2 id="missTitle"></h2>
   <p class="lead">Các chữ này không xuất hiện trong bài nào đã quét — phải <b>học thuộc</b> bằng thẻ. Bấm thẻ để mở trang luyện viết chữ đó.</p>
@@ -98,7 +101,8 @@
       const no = L.a + k;
       return `<li><span class="no">${no}</span><span class="src ${esc(a.s)}">${esc(a.s)}</span>`
         + `<a href="${esc(a.u)}" target="_blank" rel="noopener">${esc(a.t || a.u)}</a>`
-        + `<div class="nk">+${a.k.length} chữ mới: <span>${esc(a.k)}</span></div></li>`;
+        + `<div class="nk">+${a.k.length} chữ mới: <span>${esc(a.k)}</span></div>`
+        + `<div class="vg"><a class="vgl" href="bai.html?n=${no}">📖 Từ vựng &amp; ngữ pháp bài ${no}</a></div></li>`;
     }).join('');
     const head = L.a === 1 ? `Bài 1–${L.n}` : `Thêm bài ${L.a}–${L.n} (bài 1–${L.a - 1} ở các mức trên)`;
     return `<tr class="row${hi.has(L.n) ? ' hi' : ''}" data-i="${ix}"><td>${fmt(L.n)} bài</td><td>${fmt(L.seen)}</td><td>${L.pct}% <span class="j">(${fmt(L.seen)}/${fmt(D.total)})</span></td><td>${L.n53}% <span class="j">(${fmt(L.n53n)}/${fmt(D.n53tot)})</span></td></tr>`
