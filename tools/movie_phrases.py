@@ -114,6 +114,95 @@ def ex_score(line):
     return sc
 
 
+# ---------------- toàn bộ từ của từng phim ----------------
+def load_vi():
+    """Nghĩa tiếng Việt: file tự soạn > DK Illustrated Dictionary > TOEIC index. -> ({từ: nghĩa}, {tên riêng})"""
+    vi, names = {}, set()
+    for l in open(os.path.join(HERE, "data", "en_vi_movie_words.tsv"), encoding="utf-8"):
+        if l.startswith("#") or "\t" not in l:
+            continue
+        w, m = l.rstrip("\n").split("\t", 1)
+        if m == "=tên":
+            names.add(w)
+        else:
+            vi.setdefault(w, m)
+    s = open(os.path.join(ROOT, "docs", "tools", "vocab-3d-data.js"), encoding="utf-8").read()
+    for r in json.JSONDecoder().raw_decode(s[s.index("{"):])[0]["words"]:
+        for w in r[0].split(","):
+            vi.setdefault(w.strip().lower(), r[2])
+    for l in open(os.path.join(ROOT, "docs", "toeic-vocabulary-index.md"), encoding="utf-8"):
+        m = re.match(r"\| \d+ \| ([^|]+) \| ([^|]+) \|", l)
+        if m:
+            vi.setdefault(m.group(1).strip().lower(), "; ".join(m.group(2).strip().split(";")[:2]))
+    return vi, names
+
+
+_LEM = {}
+IRREG = {"is": "be", "am": "be", "are": "be", "was": "be", "were": "be", "been": "be", "being": "be", "saw": "see", "has": "have", "had": "have", "does": "do", "did": "do", "went": "go", "gone": "go",
+         "men": "man", "women": "woman", "children": "child", "people": "people", "better": "better", "best": "best"}
+KEEP = set("""as its us his this yes always perhaps sometimes news means clothes glasses pants thanks guys
+species series physics politics jeans scissors"""
+           .split()) | {"morning", "evening", "nothing", "something", "anything", "everything", "wedding", "building",
+                        "feeling", "meeting", "during", "excited", "interested", "married", "tired", "bored", "boring",
+                        "scared", "surprised", "worried", "confused", "embarrassed", "amazing", "interesting", "exciting",
+                        "missing", "darling", "ceiling", "beginning", "kidding", "fucking", "freaking", "supposed",
+                        "used", "red", "bed", "need", "speed", "seed", "feed", "weed", "bring", "king", "ring",
+                        "sing", "thing", "spring", "string", "swing", "wing", "ceiling", "sibling", "pudding"}
+
+
+def lemma(w, vi):
+    """went -> go, apologizing -> apologize, clothes -> clothes (WordNet; giữ nguyên dạng có trong từ điển)."""
+    if w in _LEM:
+        return _LEM[w]
+    r = IRREG.get(w, w)
+    if r == w and "'" not in w and w not in KEEP and not w.endswith(("ss", "us", "is")) and (w not in vi or w.endswith(("s", "ed", "ing"))):
+        from nltk.stem import WordNetLemmatizer
+        from nltk.corpus import wordnet as wn
+        L = _LEM.setdefault("__L", WordNetLemmatizer())
+        order = "nva" if w.endswith("s") else "vna"
+        cands = [L.lemmatize(w, p) for p in order]
+        cands = [c for c in cands if c != w]
+        good = [c for c in cands if c in vi] or [c for c in cands if wn.synsets(c)]
+        if w in vi and w.endswith("s") and not w.endswith(("ed", "ing")):
+            good = [c for c in good if c in vi]  # danh từ số nhiều: chỉ gộp khi số ít cũng có trong từ điển
+        if good:
+            r = good[0]
+    _LEM[w] = r
+    return r
+
+
+def show_words(eps_g, vi, names):
+    """-> rows [từ gốc, 'dạng khác', số lần, số tập, nghĩa, loại] ; loại: '' | 'ten' (tên riêng)"""
+    tf, df, forms, cap = defaultdict(int), defaultdict(int), defaultdict(lambda: defaultdict(int)), defaultdict(int)
+    for e in eps_g:
+        seen = set()
+        for _, line in e["lines"]:
+            for m in TOK.finditer(line):
+                raw = m.group(0)
+                w = raw.lower().replace("’", "'")
+                if len(w) == 1 and w not in "ai":
+                    continue
+                lm = lemma(w, vi)
+                tf[lm] += 1
+                forms[lm][w] += 1
+                seen.add(lm)
+                if raw[0].isupper() and w != "i" and m.start() > 0 and not re.search(r"[.!?\"\-♪]\s*$", line[:m.start()]):
+                    cap[lm] += 1
+        for lm in seen:
+            df[lm] += 1
+    rows = []
+    for lm, n in tf.items():
+        name = lm in names or (lm not in vi and cap[lm] >= max(1, 0.6 * n))
+        fs = [f for f, _ in sorted(forms[lm].items(), key=lambda x: -x[1]) if f != lm][:5]
+        rows.append([lm, ", ".join(fs), n, df[lm], "" if name else vi.get(lm, ""), "ten" if name else ""])
+    rows.sort(key=lambda r: (-r[2], r[0]))
+    return rows
+
+
+def slug(s):
+    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:40]
+
+
 def main():
     sys.path.insert(0, HERE)
     import movie_subs_study as M
@@ -122,19 +211,27 @@ def main():
     res = count(eps, gloss)
     shows = sorted(res, key=lambda g: (g not in M.SHOW_NAMES.values(), -sum(1 for e in eps if group_name(e) == g)))
     data = dict(groups=GROUPS, shows=[])
+    vi, names = load_vi()
+    wdir = os.path.join(ROOT, "docs", "movie-viewer", "tu")
+    os.makedirs(wdir, exist_ok=True)
     for g in shows:
         n_eps = sum(1 for e in eps if group_name(e) == g)
         series = n_eps >= 5
+        wrows = show_words([e for e in eps if group_name(e) == g], vi, names)
+        wfile = slug(g) + ".json"
+        json.dump(wrows, open(os.path.join(wdir, wfile), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+        nw = sum(1 for r in wrows if r[5] != "ten")
+        nvi = sum(1 for r in wrows if r[5] != "ten" and r[4])
         rows = []
         for ph, s in res[g].items():
-            if (series and s["df"] < 2) or (not series and s["tf"] < 2):
+            if series and s["df"] < 2:  # phim bộ: cụm có từ 2 tập; phim lẻ: mọi cụm có trong phim
                 continue
             ei, t, line = s["ex"]
             rows.append([display(ph), gloss[ph][0], gloss[ph][1], s["df"], s["tf"], line[:140],
                          "%s · %d:%02d" % (M.code(eps[ei]) if series else "lúc", t // 60, t % 60)])
         rows.sort(key=lambda r: (-r[3], -r[4]) if series else (-r[4],))
-        data["shows"].append(dict(name=g, eps=n_eps, series=series, rows=rows))
-        print("%-45s %3d tap  %4d cum" % (g[:45], n_eps, len(rows)))
+        data["shows"].append(dict(name=g, eps=n_eps, series=series, rows=rows, words=wfile, nw=nw, nvi=nvi))
+        print("%-45s %3d tap  %4d cum  %5d tu (%d co nghia)" % (g[:45], n_eps, len(rows), nw, nvi))
     tpl = open(os.path.join(HERE, "movie_phrases_template.html"), encoding="utf-8").read()
     out = os.path.join(ROOT, "docs", "movie-viewer", "cum-giao-tiep.html")
     open(out, "w", encoding="utf-8").write(tpl.replace("/*DATA*/null", json.dumps(data, ensure_ascii=False, separators=(",", ":"))))
