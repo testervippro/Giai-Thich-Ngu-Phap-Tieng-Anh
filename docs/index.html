@@ -78,6 +78,56 @@ body::before {
   color: #047857;
 }
 
+/* sidebar: nhóm thu gọn / mở rộng */
+#sb-tools {
+  position: sticky; top: 0; z-index: 2;
+  padding: 8px 14px 8px;
+  background: rgba(255,255,255,0.98);
+  border-bottom: 1px solid #e5e7eb;
+}
+#sb-q {
+  width: 100%; box-sizing: border-box;
+  padding: 7px 10px; font-size: 14px;
+  border: 1px solid #d1d5db; border-radius: 8px; outline: none;
+}
+#sb-q:focus { border-color: #047857; }
+#sb-tools .sb-row { display: flex; gap: 6px; margin-top: 6px; }
+#sb-tools .sb-row button {
+  flex: 1; padding: 4px 6px; font-size: 12.5px; cursor: pointer;
+  border: 1px solid #d1d5db; border-radius: 6px; background: #fff; color: #374151;
+}
+#sb-tools .sb-row button:hover { border-color: #047857; color: #047857; }
+.sidebar-nav > ul { margin-bottom: 6px; }
+.sb-group { border-top: 1px solid #eef0f2; }
+.sb-head {
+  display: flex; align-items: center; gap: 6px; width: 100%;
+  padding: 10px 8px; margin: 0;
+  background: none; border: 0; border-radius: 8px; cursor: pointer;
+  font: inherit; font-size: 14.5px; font-weight: 700; color: #111827; text-align: left;
+}
+.sb-head:hover { background: #ecfdf5; color: #047857; }
+.sb-arrow::before, .sb-caret::before {
+  content: '▾'; display: inline-block; width: 1em; color: #6b7280; transition: transform .15s;
+}
+.sb-closed > .sb-head .sb-arrow::before,
+li.sb-closed > .sb-caret::before { transform: rotate(-90deg); }
+.sb-group.sb-closed > .sb-body { display: none; }
+.sb-body { padding-bottom: 6px; }
+.sb-caret {
+  padding: 0; margin: 0 2px 0 -2px; vertical-align: baseline;
+  border: 0; background: none; cursor: pointer; font-size: 12px;
+}
+.sb-lab { cursor: pointer; font-weight: 600; color: #1f2937; user-select: none; }
+.sb-lab:hover { color: #047857; }
+.sb-n {
+  font-size: 11px; font-weight: 600; color: #6b7280;
+  background: #f3f4f6; border-radius: 9px; padding: 0 6px; margin-left: 2px;
+}
+li.sb-sub.sb-closed > ul { display: none; }
+.sb-filtering .sb-group.sb-closed > .sb-body,
+.sb-filtering li.sb-sub.sb-closed > ul { display: block; }
+.sb-hide { display: none !important; }
+
 /* TOEIC reading: nút xem đáp án dưới mỗi câu hỏi */
 .markdown-section details.ans {
   margin: 0.4em 0 1.4em;
@@ -141,6 +191,9 @@ body::before {
       noCompileLinks: ['.*\\.html(\\?.*)?$', '.*\\.xlsx$', '.*\\.mp3$']
     }
   </script>
+
+  <!-- Sidebar: nhóm thu gọn / mở rộng + tìm trong menu (đăng ký plugin, phải đứng sau window.$docsify) -->
+  <script src="assets/sidebar.js"></script>
 
   <!-- Docsify -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
