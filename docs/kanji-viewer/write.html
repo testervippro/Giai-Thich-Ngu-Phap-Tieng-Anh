@@ -77,6 +77,17 @@
     .quiz .words { display:none; }
     .words .w { width:1%; padding-right:14px; white-space:nowrap; } .words td + td { width:100%; }
     @media (max-width:560px){ .words .r, .words .h { white-space:normal; } .words td { padding:5px 4px; } }
+    /* Chế độ gọn: chỉ câu chuyện + mảnh ghép (P1) rồi tới chữ (P2) */
+    body.lite main { display:flex; flex-direction:column; }
+    body.lite #info { order:1; margin-top:6px; }
+    body.lite #info .big { font-size:110px; }
+    body.lite #info .hv { font-size:30px; }
+    body.lite #info .m { font-size:20px; }
+    body.lite #info .tag { font-size:14px; }
+    body.lite .story { font-size:17px; color:var(--ink); margin:4px 0 10px; }
+    body.lite .sub div { font-size:16px; padding:6px 12px; }
+    body.lite .sub b { font-size:26px; }
+    body.lite .card, body.lite .xl, body.lite .layout, body.lite .words, body.lite .note, body.lite #extraNote { display:none !important; }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Luyện viết Kanji"></script>
@@ -101,6 +112,7 @@
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
     <a class="btn" id="mmLink" href="mindmap.html" title="Mind map câu chuyện: chữ này ghép từ bộ nào, ghép thành chữ nào" style="text-decoration:none">🧠 Mind map</a>
+    <button class="btn" id="liteBtn" title="Chỉ hiện câu chuyện + mảnh ghép, rồi tới chữ (ẩn ảnh, ô viết, từ vựng)">📖 Chỉ chữ + câu chuyện</button>
     <button class="btn on" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện của chữ">🖼 Ảnh: bật</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
@@ -453,6 +465,9 @@
   };
   const cardLabel = () => { $('cardBtn').classList.toggle('on', st.card); $('cardBtn').textContent = st.card ? '🖼 Ảnh: bật' : '🖼 Ảnh: tắt'; };
   $('cardBtn').onclick = () => { st.card = !st.card; cardLabel(); save(); show(); };
+  const liteApply = () => { document.body.classList.toggle('lite', !!st.lite); $('liteBtn').classList.toggle('on', !!st.lite); };
+  $('liteBtn').onclick = () => { st.lite = !st.lite; liteApply(); save(); fit(); };
+  liteApply();
   $('kImg').onclick = () => $('kCard').classList.toggle('zoom');
   $('quizBtn').onclick = () => { st.quiz = !st.quiz; $('quizBtn').classList.toggle('on', st.quiz); show(); };
   function jumpTo(c){
