@@ -62,7 +62,7 @@
   <p class="lead" id="lead"></p>
 
   <table class="lv" id="lv">
-    <thead><tr><th>Đọc từ bài 1 đến</th><th>Số kanji đã gặp</th><th id="thAll">% trên tổng số kanji</th><th id="thN53">Đã gặp bao nhiêu % chữ cơ bản N5–N3</th></tr></thead>
+    <thead><tr><th>Đọc từ bài 1 đến</th><th>Số kanji đã gặp</th><th id="thAll">% trên tổng số kanji</th><th id="thN53">Đã gặp bao nhiêu % chữ cơ bản N5–N3</th><th id="thW1k">% trong 1000 từ thông dụng</th></tr></thead>
     <tbody id="lvBody"></tbody>
   </table>
   <p class="note" id="lvNote"></p>
@@ -94,7 +94,8 @@
   // ---- bảng mức đọc ----
   $('thAll').textContent = `% trên tổng ${fmt(D.total)} kanji`;
   $('thN53').textContent = `Đã gặp bao nhiêu % trong ${fmt(D.n53tot)} chữ N5–N3`;
-  $('lvNote').innerHTML = `<b>Lưu ý:</b> bộ kanji gồm <b>${fmt(D.total)} chữ</b> ở mọi trình độ (N5 → N1 và cả chữ ngoài JLPT), <b>không phải chỉ N5–N3</b>. Cột cuối chỉ đo riêng nhóm <b>${fmt(D.n53tot)} chữ cơ bản N5–N3</b> nằm trong bộ: đọc đến mức đó thì đã gặp bao nhiêu % nhóm này. Ví dụ “100%” nghĩa là đã gặp đủ mọi chữ N5–N3; các chữ mới gặp sau đó đều là chữ N2, N1 hoặc chữ hiếm.`;
+  $('thW1k').textContent = `Đã gặp bao nhiêu % trong ${fmt(D.w1ktot)} từ thông dụng`;
+  $('lvNote').innerHTML = `<b>Lưu ý:</b> bộ kanji gồm <b>${fmt(D.total)} chữ</b> ở mọi trình độ (N5 → N1 và cả chữ ngoài JLPT), <b>không phải chỉ N5–N3</b>. Cột <b>“% trong 1000 từ thông dụng”</b>: lấy ${fmt(D.w1ktot)} từ đầu của <a href="../jp2000-full/index.html">danh sách 2000 từ tiếng Nhật thông dụng</a> (xếp theo tần suất, gồm cả từ chỉ viết kana như する, ここ, とても), đếm xem đọc đến mức đó đã gặp bao nhiêu từ — động từ / tính từ tính cả dạng chia (使う → 使って).${D.w1kmiss.length ? ` <details style="display:inline"><summary style="display:inline;cursor:pointer;color:var(--accent)">Xem ${fmt(D.w1kmiss.length)} từ chưa gặp sau ${fmt(D.arts.length)} bài</summary><span class="j">${D.w1kmiss.map(esc).join(' · ')}</span></details>` : ''} Cột “N5–N3” chỉ đo riêng nhóm <b>${fmt(D.n53tot)} chữ cơ bản N5–N3</b> nằm trong bộ: đọc đến mức đó thì đã gặp bao nhiêu % nhóm này. Ví dụ “100%” nghĩa là đã gặp đủ mọi chữ N5–N3; các chữ mới gặp sau đó đều là chữ N2, N1 hoặc chữ hiếm.`;
   const hi = new Set([10, last.n]);
   $('lvBody').innerHTML = D.levels.map((L, ix) => {
     const items = D.arts.slice(L.a - 1, L.n).map((a, k) => {
@@ -105,8 +106,8 @@
         + `<div class="vg"><a class="vgl" href="bai.html?n=${no}">📖 Từ vựng &amp; ngữ pháp bài ${no}</a></div></li>`;
     }).join('');
     const head = L.a === 1 ? `Bài 1–${L.n}` : `Thêm bài ${L.a}–${L.n} (bài 1–${L.a - 1} ở các mức trên)`;
-    return `<tr class="row${hi.has(L.n) ? ' hi' : ''}" data-i="${ix}"><td>${fmt(L.n)} bài</td><td>${fmt(L.seen)}</td><td>${L.pct}% <span class="j">(${fmt(L.seen)}/${fmt(D.total)})</span></td><td>${L.n53}% <span class="j">(${fmt(L.n53n)}/${fmt(D.n53tot)})</span></td></tr>`
-      + `<tr class="list hidden" id="lv${ix}"><td colspan="4"><div class="note" style="margin:8px 14px 0">${head}</div><ul class="arts">${items}</ul></td></tr>`;
+    return `<tr class="row${hi.has(L.n) ? ' hi' : ''}" data-i="${ix}"><td>${fmt(L.n)} bài</td><td>${fmt(L.seen)}</td><td>${L.pct}% <span class="j">(${fmt(L.seen)}/${fmt(D.total)})</span></td><td>${L.n53}% <span class="j">(${fmt(L.n53n)}/${fmt(D.n53tot)})</span></td><td>${L.w1k == null ? '–' : `${L.w1k}% <span class="j">(${fmt(L.w1kn)}/${fmt(D.w1ktot)})</span>`}</td></tr>`
+      + `<tr class="list hidden" id="lv${ix}"><td colspan="5"><div class="note" style="margin:8px 14px 0">${head}</div><ul class="arts">${items}</ul></td></tr>`;
   }).join('');
   $('lvBody').addEventListener('click', e => {
     const tr = e.target.closest('tr.row'); if (!tr) return;

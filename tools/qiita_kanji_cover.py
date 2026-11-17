@@ -309,19 +309,58 @@ def load_arts():
     return list({x["u"]: x for x in arts}.values())
 
 
+def common_words(n=1000):
+    """1000 từ đầu trong danh sách 2000 từ tiếng Nhật thông dụng (docs/jp2000-full, xếp theo tần suất)
+    -> [(từ, regex)]: động từ / tính từ -i khớp cả dạng chia (使う → 使っ, 使わ…)."""
+    s = open(os.path.join(DOCS, "jp2000-full", "data.js"), encoding="utf-8").read()
+    rows = json.loads(s[s.index("["):s.rindex("]") + 1])[:n]
+    out = []
+    for r in rows:
+        alts = []
+        for w in re.split(r"[、,（）()]\s*", r[1].replace("(する)", "").replace("（する）", "")):
+            w = w.strip()
+            if not w:
+                continue
+            if r[3] == "v" and w.endswith("する") and len(w) > 2:
+                alts.append(re.escape(w[:-2]) + "(?:する|し|さ|せ)")
+            elif r[3] == "v" and len(w) >= 2:
+                alts.append(re.escape(w[:-1]) + "[ぁ-ゖ]")
+            elif r[3] == "i-adj" and len(w) >= 2:
+                alts.append(re.escape(w[:-1]) + "[いくかけさそ]")
+            else:
+                alts.append(re.escape(w))
+        out.append((r[1], re.compile("|".join(alts))))
+    return out
+
+
 def render_html(jouyou, arts, order, miss, U):
     """Trang tương tác docs/kanji-viewer/doc-bao.html: bảng mức đọc (bấm để xem bài) + thẻ học các chữ chưa gặp."""
     n53 = {c for c in U if jouyou[c]["j"] in ("N5", "N4", "N3")}
     marks = [m for m in (5, 10, 30, 50) if m < len(order)] + [len(order)]
+    # % trong 1000 từ thông dụng: cần chữ của bài (chỉ có trên máy, private/doc_bao_texts.jsonl — tools/doc_bao_vocab.py)
+    texts, cw = {}, common_words()
+    cache = os.path.join(ROOT, "private", "doc_bao_texts.jsonl")
+    if os.path.exists(cache):
+        for l in open(cache, encoding="utf-8"):
+            x = json.loads(l)
+            if x.get("ok"):
+                texts[x["u"]] = x["text"]
+    have_w = len(texts) > 0
+    wseen = set()
     levels, cum, prev = [], set(), 0
     for k, (j, new) in enumerate(order, 1):
         cum |= set(new)
+        t = texts.get(arts[j]["u"], "")
+        if t:
+            wseen |= {w for w, rx in cw if w not in wseen and rx.search(t)}
         if k in marks:
             levels.append(dict(n=k, a=prev + 1, seen=len(cum), pct=round(100 * len(cum) / len(U)),
-                               n53=100 * len(cum & n53) // max(1, len(n53)), n53n=len(cum & n53)))
+                               n53=100 * len(cum & n53) // max(1, len(n53)), n53n=len(cum & n53),
+                               w1k=(100 * len(wseen) // len(cw)) if have_w else None, w1kn=len(wseen)))
             prev = k
     data = dict(
-        total=len(U), n53tot=len(n53), scanned=len(arts), nq=sum(1 for a in arts if a["src"] == "Qiita"),
+        total=len(U), n53tot=len(n53), w1ktot=len(cw),
+        w1kmiss=[w for w, _ in cw if w not in wseen] if have_w else [], scanned=len(arts), nq=sum(1 for a in arts if a["src"] == "Qiita"),
         levels=levels,
         arts=[dict(s=arts[j]["src"], t=arts[j]["t"], u=arts[j]["u"],
                    k="".join(sorted(new, key=lambda c: jouyou[c]["n"]))) for j, new in order],
