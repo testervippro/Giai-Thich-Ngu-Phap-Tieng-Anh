@@ -77,9 +77,7 @@
     .quiz .words { display:none; }
     .words .w { width:1%; padding-right:14px; white-space:nowrap; } .words td + td { width:100%; }
     @media (max-width:560px){ .words .r, .words .h { white-space:normal; } .words td { padding:5px 4px; } }
-    /* Chế độ gọn: chỉ câu chuyện + mảnh ghép (P1) rồi tới chữ (P2) */
-    body.lite main { display:flex; flex-direction:column; }
-    body.lite #info { order:1; margin-top:6px; }
+    /* Chế độ danh sách: chữ trước, câu chuyện + mảnh ghép sau */
     body.lite #info .big { font-size:110px; }
     body.lite #info .hv { font-size:30px; }
     body.lite #info .m { font-size:20px; }
@@ -87,7 +85,20 @@
     body.lite .story { font-size:17px; color:var(--ink); margin:4px 0 10px; }
     body.lite .sub div { font-size:16px; padding:6px 12px; }
     body.lite .sub b { font-size:26px; }
-    body.lite .card, body.lite .xl, body.lite .layout, body.lite .words, body.lite .note, body.lite #extraNote { display:none !important; }
+    body.lite .card, body.lite .xl, body.lite .layout, body.lite .words, body.lite .note, body.lite #extraNote,
+    body.lite #info, body.lite #kStory, body.lite #kSub, body.lite #prev, body.lite #next, body.lite #pos, body.lite #rand { display:none !important; }
+    #liteList { display:none; }
+    body.lite #liteList { display:block; }
+    .li { padding:14px 0 16px; border-bottom:2px solid var(--line); content-visibility:auto; contain-intrinsic-size:auto 260px; }
+    .li.hl { background:var(--accentbg); border-radius:10px; }
+    .li .info { margin:0 0 8px; }
+    .li .story { margin:0 0 8px; }
+    .li .sub { margin:0; }
+    .li .big { font-size:96px; }
+    .li .hv { font-size:28px; }
+    .li .m { font-size:19px; }
+    .li .tag { font-size:14px; }
+    .liteHead { font-size:13.5px; color:var(--muted); margin:2px 0 4px; }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Luyện viết Kanji"></script>
@@ -112,7 +123,7 @@
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
     <a class="btn" id="mmLink" href="mindmap.html" title="Mind map câu chuyện: chữ này ghép từ bộ nào, ghép thành chữ nào" style="text-decoration:none">🧠 Mind map</a>
-    <button class="btn" id="liteBtn" title="Chỉ hiện câu chuyện + mảnh ghép, rồi tới chữ (ẩn ảnh, ô viết, từ vựng)">📖 Chỉ chữ + câu chuyện</button>
+    <button class="btn" id="liteBtn" title="Danh sách cả bộ: mỗi chữ hiện chữ Hán trước, rồi câu chuyện + mảnh ghép (ẩn ảnh, ô viết, từ vựng)">📖 Danh sách chữ + câu chuyện</button>
     <button class="btn on" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện của chữ">🖼 Ảnh: bật</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
@@ -129,6 +140,7 @@
   <div class="sub" id="kSub"></div>
   <figure class="card" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
   <div class="xl hidden" id="xZh"></div>
+  <div id="liteList"></div>
 
   <div class="layout">
     <section class="panel">
@@ -421,6 +433,7 @@
     else $('kImg').removeAttribute('src');
     [list[i+1], list[i-1]].forEach(y => { if (y && y.img){ const im = new Image(); im.src = y.img; } });
     $('pos').textContent = `${i + 1} / ${list.length}`;
+    if (st.lite) renderLite();
     showWords(x.k);
     crossZh(x);
     $('mmLink').href = 'mindmap.html#' + encodeURIComponent(x.k);
@@ -465,8 +478,30 @@
   };
   const cardLabel = () => { $('cardBtn').classList.toggle('on', st.card); $('cardBtn').textContent = st.card ? '🖼 Ảnh: bật' : '🖼 Ảnh: tắt'; };
   $('cardBtn').onclick = () => { st.card = !st.card; cardLabel(); save(); show(); };
+  // Chế độ danh sách: cả bộ hiện 1 lần, mỗi chữ = chữ Hán trước, rồi câu chuyện + mảnh ghép
+  let liteFor = null;
+  function renderLite(){
+    const key = st.set + '|' + list.length;
+    if (liteFor !== key){
+      liteFor = key;
+      $('liteList').innerHTML = `<div class="liteHead">${list.length.toLocaleString('vi-VN')} chữ · bấm dòng mảnh ghép để nhảy tới chữ đó</div>` + list.map((x, ix) =>
+        `<div class="li" id="li${ix}">`
+        + `<div class="info"><div class="big">${escH(x.k)}</div><div><div class="hv">${escH(x.hv)}</div><div class="m">${escH(cap(x.m))}</div><div class="tag">${escH(x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`)} · #${ix + 1}</div></div></div>`
+        + (x.s ? `<div class="story">📖 ${escH(x.s)}</div>` : '')
+        + `<div class="sub">${subStories(x)}</div></div>`).join('');
+      $('liteList').querySelectorAll('.sub [data-k]').forEach(d => d.onclick = () => {
+        const ix = list.findIndex(y => y.k === d.dataset.k);
+        if (ix >= 0) liteScroll(ix); else { st.lite = false; liteApply(); save(); jumpTo(d.dataset.k); }
+      });
+    }
+  }
+  function liteScroll(ix){
+    const el = $('li' + ix); if (!el) return;
+    $('liteList').querySelectorAll('.li.hl').forEach(e => e.classList.remove('hl'));
+    el.classList.add('hl'); el.scrollIntoView({ block:'start' });
+  }
   const liteApply = () => { document.body.classList.toggle('lite', !!st.lite); $('liteBtn').classList.toggle('on', !!st.lite); };
-  $('liteBtn').onclick = () => { st.lite = !st.lite; liteApply(); save(); fit(); };
+  $('liteBtn').onclick = () => { st.lite = !st.lite; liteApply(); save(); if (st.lite){ renderLite(); liteScroll(i); } else { window.scrollTo(0, 0); fit(); } };
   liteApply();
   $('kImg').onclick = () => $('kCard').classList.toggle('zoom');
   $('quizBtn').onclick = () => { st.quiz = !st.quiz; $('quizBtn').classList.toggle('on', st.quiz); show(); };
@@ -481,10 +516,10 @@
     let idx = list.findIndex(x => x.k === q || String(x.n) === q || x.hv.toLowerCase() === q);
     if (idx < 0) idx = list.findIndex(x => x.hv.toLowerCase().includes(q) || x.m.toLowerCase().includes(q));
     if (idx < 0 && st.set !== 'all'){ st.set = 'all'; $('set').value = 'all'; list = pool(); idx = list.findIndex(x => x.k === q || String(x.n) === q || x.hv.toLowerCase().includes(q)); }
-    if (idx >= 0){ i = idx; show(); } else e.target.value = '';
+    if (idx >= 0){ i = idx; show(); if (st.lite) liteScroll(i); } else e.target.value = '';
   });
   document.addEventListener('keydown', e => {
-    if (e.target.matches('input, select')) return;
+    if (e.target.matches('input, select') || st.lite) return;
     if (e.key === 'ArrowRight') go(1); else if (e.key === 'ArrowLeft') go(-1);
     else if (e.key === ' '){ e.preventDefault(); go(1); }          // phím cách: sang chữ tiếp theo
     else if (e.key === 'a' || e.key === 'A') animate();
