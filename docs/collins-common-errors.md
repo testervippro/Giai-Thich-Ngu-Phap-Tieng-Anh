@@ -2782,7 +2782,7 @@ Remember that *neither … nor* is rather formal. In speech or informal writing,
 - ✅ I didn’t see Suzi or Jane.
 - ❌ ~~I didn’t see Suzi and Jane.~~
 
-After a negative word, use *or<i>, not </i>and* to link two things.
+After a negative word, use *or*, not *and* to link two things.
 
 #### Unless — Unless (= if not, không dùng thêm not)
 
@@ -4264,7 +4264,7 @@ Don’t forget the *r<i> after the </i>b*.
 | **lightning** | Don’t be tempted to add an *e<i> after </i>light*. |
 |---|---|
 | **manoeuvre** | The British spelling of this word (both the noun and the verb) has the complicated set of vowels -*oeu-* in it. The US English spelling of this word is *maneuver*. |
-| **mediaeval<b> </b>*or<i><b> </b>medieva</i>l*** | Formerly, UK English used the first of these spellings, but the second is now used commonly. US English uses *medieval*. |
+| **mediaeval** *or* **medieval** | Formerly, UK English used the first of these spellings, but the second is now used commonly. US English uses *medieval*. |
 | **millennium** | Double *l<i> and double </i>n*. |
 | **miniature** | Don’t forget the second *i*. |
 | **minuscule** | Note that the second vowel is *u<i>, not </i>i<i>. Try to think of it as beginning with </i>minus-*, not *mini-*. |
