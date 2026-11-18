@@ -25,6 +25,9 @@
     .info .m { font-size:16px; }
     .info .tag { font-size:12.5px; color:var(--muted); }
     .story { font-size:14px; color:var(--muted); margin:-2px 0 10px; }
+    .rtkStory { color:var(--ink); line-height:1.6; padding:10px 12px; border:1px solid var(--line, rgba(127,127,127,.25)); border-radius:10px; }
+    .rtkStory i { color:var(--accent); }
+    .rtkPrim { margin-top:8px; font-size:13px; color:var(--muted); }
     .box { position:relative; width:100%; max-width:var(--boxmax, none); margin:0 auto; aspect-ratio:1/1; border-radius:12px; background:#fffdf8; overflow:hidden; touch-action:none; }
     :root[data-theme="dark"] .box { background:#1d1a17; }
     @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) .box { background:#1d1a17; } }
@@ -109,6 +112,7 @@
   <div class="tag" id="extraNote" style="font-size:13px;margin:-2px 0 6px;color:var(--muted)">🆕 14/11/2026: đã thêm <b>17 chữ ngoài bộ 2136</b> có trong 1800 từ vựng IT và 2000 từ thông dụng: 齟 齬 聘 紐 雛 挽 洩 脆 詫 閾 遽 揃 汲 嗜 迄 嬉 遥 — <a href="#" id="extraGo">luyện ngay →</a></div>
   <div class="bar">
     <select id="set" aria-label="Bộ chữ">
+      <option value="rtk">📘 Heisig RTK — học theo 3 sách trước (thứ tự + câu chuyện gốc)</option>
       <option value="rad" id="radOpt">🧱 Bộ nền (280 mảnh, hay gặp trước)</option>
       <option value="all">Tất cả 2.136 chữ</option>
       <option value="p1">Tập 1 (thẻ 1–1050)</option>
@@ -179,6 +183,7 @@
 <script src="kanji-roadmap.js"></script>
 <script src="kanji-extra.js"></script>
 <script src="kanji-miss.js"></script>
+<script src="rtk-data.js"></script>
 <script>
 (() => {
   "use strict";
@@ -187,7 +192,7 @@
   const BYN = new Map(ALL.map(x => [x.n, x]));
   const KVG = 'https://cdn.jsdelivr.net/gh/KanjiVG/kanjivg@r20260714/kanji/';
   const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
-  const st = Object.assign({ set:'all', pos:{}, ghost:true, nums:true, quiz:false, card:true }, ls.get('kanjiWrite', {}));
+  const st = Object.assign({ set:'rtk', pos:{}, ghost:true, nums:true, quiz:false, card:true }, ls.get('kanjiWrite', {}));
   const cache = new Map();
   let list = [], i = 0, strokes = [], drawn = [], cur = null, timer = null, stepAt = 0;
 
@@ -214,7 +219,18 @@
     });
     return out.join('');
   }
+  // Heisig RTK (rtk-data.js): [chữ, frame, keyword, tập, bài, câu chuyện html, ghi chú mảnh html, số nét]
+  const VARK = { '頰':'頬', '籠':'篭', '剝':'剥', '𠮟':'叱', '塡':'填', '頬':'頰', '篭':'籠', '剥':'剝', '叱':'𠮟', '填':'塡' };
+  const BYCH = new Map(ALL.map(x => [x.k, x]));
+  const RTK = (window.RTK || []).map(r => {
+    const a = BYCH.get(r[0]) || BYCH.get(VARK[r[0]]) || {};
+    const where = r[3] === 1 ? `Tập 1 · Bài ${r[4]}` : r[3] === 3 ? 'Tập 3' : 'ngoài sách';
+    return { n: a.n || ('F' + r[1]), k: r[0], hv: r[2], m: [a.hv, a.m].filter(Boolean).join(' · '), j: a.j || '', s: '',
+      html: (r[5] || '') + (r[6] ? `<div class="rtkPrim">${r[6]}</div>` : ''), img: a.img || null,
+      tag: `📘 Frame ${r[1] || '—'} · ${where}${r[7] ? ' · ' + r[7] + ' nét' : ''}${a.j ? ' · ' + a.j : ''}` };
+  });
   function pool(){
+    if (st.set === 'rtk') return RTK;
     if (st.set === 'rad') return RADSET;
     if (st.set === 'extra') return EXTRA;
     if (st.set === 'miss'){ const B = new Map(ALL.map(x => [x.k, x])); return (window.KANJI_MISS || []).map(k => B.get(k)).filter(Boolean); }
@@ -425,7 +441,8 @@
     const x = list[i];
     $('kBig').textContent = x.k; $('kHv').textContent = x.hv; $('kM').textContent = cap(x.m);
     $('kTag').textContent = x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`;
-    $('kStory').textContent = x.s ? '📖 ' + x.s : '';
+    if (x.html != null) $('kStory').innerHTML = x.html ? '<div class="rtkStory">📖 ' + x.html + '</div>' : '';
+    else $('kStory').textContent = x.s ? '📖 ' + x.s : '';
     $('kSub').innerHTML = subStories(x);
     $('kSub').querySelectorAll('[data-k]').forEach(d => d.onclick = () => jumpTo(d.dataset.k));
     // Ảnh thẻ câu chuyện (hình minh hoạ + chữ) — nhìn hình nhớ nhanh hơn chỉ đọc chữ.
@@ -489,7 +506,7 @@
       $('liteList').innerHTML = `<div class="liteHead">${list.length.toLocaleString('vi-VN')} chữ · bấm dòng mảnh ghép để nhảy tới chữ đó</div>` + list.map((x, ix) =>
         `<div class="li" id="li${ix}">`
         + `<div class="info"><div class="big">${escH(x.k)}</div><div><div class="hv">${escH(x.hv)}</div><div class="m">${escH(cap(x.m))}</div><div class="tag">${escH(x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`)} · #${ix + 1}</div></div></div>`
-        + (x.s ? `<div class="story">📖 ${escH(x.s)}</div>` : '')
+        + (x.html ? `<div class="story"><div class="rtkStory">📖 ${x.html}</div></div>` : x.s ? `<div class="story">📖 ${escH(x.s)}</div>` : '')
         + `<div class="sub">${subStories(x)}</div></div>`).join('');
       $('liteList').querySelectorAll('.sub [data-k]').forEach(d => d.onclick = () => {
         const ix = list.findIndex(y => y.k === d.dataset.k);
