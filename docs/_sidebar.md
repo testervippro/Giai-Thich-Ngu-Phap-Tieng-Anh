@@ -24,6 +24,9 @@
 - [Chương 4: Câu](SENTENCES.md)
 - [Chương 5: Phối hợp thì](SEQUENCE%20OF%20TENSES.md)
 - [Chương 6: Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md)
+- **❌ Lỗi sai thường gặp**
+  - [📕 Collins Common Errors in English (lỗi của người học, ✅/❌ theo từ loại)](collins-common-errors.md)
+  - [❌ 100 Tragically Common Mistakes (100 lỗi kinh điển, có câu sửa)](100-tragically-common-mistakes.md)
 - **📐 Dạng bảng (tra nhanh)**
   - [Danh từ](Danh%20T%E1%BB%AB%20%28B%E1%BA%A3ng%29.md)
   - [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB%20%28B%E1%BA%A3ng%29.md)
@@ -47,6 +50,7 @@
 
 - [🧭 Nói như người bản xứ: phương pháp & lộ trình 12 tuần (tổng hợp từ 6 sách)](speaking-nhu-nguoi-ban-xu.md)
 - [💬 Cụm giao tiếp hay dùng nhất trong từng phim (Friends, The Office, Silicon Valley, Suits LA)](movie-viewer/cum-giao-tiep.html)
+- [💬 650+ English Phrases for Everyday Speaking (40 chủ đề, song ngữ)](650-english-phrases-everyday-speaking.md)
 - [700+ câu nói ngắn hàng ngày của người bản xứ](daily-native-expressions.md)
 - [🗣️ Conversational American English (4.766 câu, 464 tình huống)](tools/conversational-american-english.html)
 - [500 Spoken English Structures (+ IELTS Speaking patterns)](500_spoken_english_structures.md)

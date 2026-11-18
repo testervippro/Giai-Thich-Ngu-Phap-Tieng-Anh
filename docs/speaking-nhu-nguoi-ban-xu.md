@@ -187,7 +187,7 @@ Một lưu ý quan trọng: **chỉ xem phim thì không đủ, phải làm gì 
 
 | Tuần | Săn cụm | Luyện nói |
 |---|---|---|
-| 1 | [Conversational American English](tools/conversational-american-english.html), phần 1: chào hỏi, chuyện phiếm, giới thiệu, tạm biệt | Mỗi ngày tự giới thiệu bản thân theo kiểu *Practice Makes Perfect* chương 1. Nói theo giờ 30 giây với chủ đề *Free Time, Hobbies, Jobs, Meeting New People* |
+| 1 | [Conversational American English](tools/conversational-american-english.html), phần 1: chào hỏi, chuyện phiếm, giới thiệu, tạm biệt + [650+ English Phrases](650-english-phrases-everyday-speaking.md) (40 chủ đề cơ bản, có dịch) | Mỗi ngày tự giới thiệu bản thân theo kiểu *Practice Makes Perfect* chương 1. Nói theo giờ 30 giây với chủ đề *Free Time, Hobbies, Jobs, Meeting New People* |
 | 2 | Phần đồng ý / không đồng ý, thu hút chú ý, bắt đầu câu chuyện + [700+ câu nói ngắn](daily-native-expressions.md) | Bắt đầu kỹ thuật **4-3-2** với chủ đề công việc của bạn |
 | 3 | Phần lịch sự: xin lỗi, cảm ơn, đáp lời cảm ơn + câu đệm phản hồi (*You're having me on! / No way! / Seriously?*) | **Video đầu tiên** 1–2 phút: "A typical day for me". Tự xem lại theo quy trình 6 bước |
 | 4 | Các cụm xã giao mở đầu và kết thúc cuộc nói chuyện (*Give us a shout…, I'm up for that*) | Ôn toàn bộ cụm của 3 tuần trước, lần ôn "sau 2 tuần" |
@@ -208,7 +208,7 @@ Một lưu ý quan trọng: **chỉ xem phim thì không đủ, phải làm gì 
 | 9 | [Cụm giao tiếp trong phim](movie-viewer/cum-giao-tiep.html): chọn 1 phim hợp với bạn, săn câu xã giao và câu nghĩa ngầm | Chép chính tả tính giờ: 2 phút phim chép trong 20 phút |
 | 10 | Thành ngữ trong hội thoại kiểu *Advanced English Conversations*, mỗi ngày 1 bài | Dùng ngay 2 thành ngữ mới trong một cuộc chat hoặc nói chuyện thật |
 | 11 | Ngôn ngữ Loại 2 cho ngành của bạn ([IT English Patterns](IT%20English%20Patterns.md) nếu làm IT) | Mô phỏng phỏng vấn hoặc họp, chú ý văn hoá: nói về thành tích một cách tích cực, không tự hạ mình |
-| 12 | Ôn toàn bộ sổ cụm, bỏ những cụm không bao giờ dùng (Loại 3) | **Thử thách công khai**: video đăng lên mạng, quay ngoài trời, hoặc nói chuyện với người lạ. Áp lực càng cao càng tốt |
+| 12 | Ôn toàn bộ sổ cụm, bỏ những cụm không bao giờ dùng (Loại 3). Rà lỗi hay mắc với [Collins Common Errors](collins-common-errors.md) | **Thử thách công khai**: video đăng lên mạng, quay ngoài trời, hoặc nói chuyện với người lạ. Áp lực càng cao càng tốt |
 
 **Sau 12 tuần:** duy trì **3 cụm mỗi ngày**, mỗi ngày nói ít nhất 3 chủ đề mới, viết 1–3 bình luận mỗi ngày trên diễn đàn đúng sở thích, quay 1 video mỗi tuần, và lặp lại 4-3-2 với chủ đề mới.
 
