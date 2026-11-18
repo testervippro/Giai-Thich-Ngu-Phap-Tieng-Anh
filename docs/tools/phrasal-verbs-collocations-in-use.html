@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Phrasal verbs Collocations in Use</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1040px; margin:auto; padding:4px 16px 48px; }
+    h1 { margin:0 0 6px; font-size:24px; }
+    .lead { color:var(--muted); margin:0 0 10px; font-size:14px; }
+    .lead b { color:var(--ink); }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; position:sticky; top:0; z-index:3; background:var(--bg); padding:8px 0; }
+    input[type=search], select { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; max-width:100%; }
+    input[type=search] { flex:1 1 220px; min-width:0; }
+    .bar select { flex:0 1 auto; min-width:0; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; cursor:pointer; }
+    .btn.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .stat { color:var(--muted); font-size:13px; margin:2px 0 10px; }
+    .az { display:flex; flex-wrap:wrap; gap:4px; margin:0 0 12px; }
+    .az a { font-size:12.5px; padding:2px 9px; border:1px solid var(--line); border-radius:999px; text-decoration:none; color:inherit; background:var(--card); }
+    .pv { background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:0 12px 12px 0; padding:9px 12px; margin:0 0 10px; scroll-margin-top:64px; }
+    .pv.prep { border-left-color:#7c3aed; }
+    .h { display:flex; gap:8px; align-items:baseline; flex-wrap:wrap; }
+    .h .w { font-size:19px; font-weight:800; }
+    .h .vi { font-size:15px; }
+    .say { border:0; background:none; cursor:pointer; font-size:15px; padding:2px 4px; border-radius:6px; }
+    .say:hover { background:var(--accentbg); }
+    .kind { font-size:11.5px; padding:0 7px; border-radius:999px; border:1px solid var(--line); color:var(--muted); }
+    .cols { margin:6px 0 0; padding:0; list-style:none; }
+    .cols li { padding:2px 0; font-size:15px; }
+    .cols li b { font-weight:600; }
+    .src { font-size:12px; color:var(--muted); margin-left:6px; }
+    .src i { font-style:normal; padding:0 6px; border-radius:999px; background:var(--accentbg); color:var(--accent); font-weight:700; }
+    .ex { margin:6px 0 0; padding:6px 10px; border-radius:8px; background:var(--bg); font-size:14px; color:var(--muted); font-style:italic; }
+    .ex div + div { margin-top:3px; }
+    body.noex .ex { display:none; }
+    mark { background:#fde68a; color:inherit; border-radius:3px; }
+    .foot { color:var(--muted); font-size:12.5px; margin-top:24px; }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Phrasal verbs (Collocations in Use)"></script>
+</head>
+<body>
+<main>
+  <h1>🔗 Phrasal verbs trong English Collocations in Use</h1>
+  <p class="lead">Toàn bộ phrasal verb được dạy trong 2 cuốn <i>English Collocations in Use</i> (<b>Intermediate</b> và <b>Advanced</b>, McCarthy &amp; O’Dell): <b id="nPv">…</b> phrasal verb (động từ + tiểu từ: <i>carry out, pass up, come up with</i>…) và <b id="nPr">…</b> cụm động từ + giới từ thường được xếp chung (<i>abide by, dip into, burst into</i>…). Mỗi mục có nghĩa tiếng Việt, <b>đúng các collocation mà sách dạy</b> kèm số bài, và câu ví dụ trích từ sách khi có.</p>
+  <div class="bar">
+    <input type="search" id="q" placeholder="Tìm phrasal verb, collocation hoặc nghĩa tiếng Việt" aria-label="Tìm">
+    <select id="book" aria-label="Sách"><option value="">Cả 2 sách</option><option value="int">Intermediate</option><option value="adv">Advanced</option></select>
+    <select id="kind" aria-label="Loại"><option value="">Mọi loại</option><option value="pv">Động từ + tiểu từ</option><option value="prep">Động từ + giới từ</option></select>
+    <button class="btn on" id="exBtn">💬 Ví dụ</button>
+  </div>
+  <div class="stat" id="stat"></div>
+  <div class="az" id="az"></div>
+  <div id="out"></div>
+  <p class="foot">Nguồn: Michael McCarthy, Felicity O’Dell, <i>English Collocations in Use</i> Intermediate &amp; Advanced (Cambridge University Press, 2nd ed.). Danh sách lấy từ Index và nội dung các bài; nghĩa tiếng Việt do trang này biên soạn theo đúng ngữ cảnh collocation trong sách. INT = Intermediate, ADV = Advanced, số = số bài (unit).</p>
+</main>
+<script src="pv-ciu-data.js"></script>
+<script>
+(() => {
+  "use strict";
+  const $ = id => document.getElementById(id);
+  const esc = t => String(t || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fold = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/[’‘]/g, "'");
+  const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
+  const st = Object.assign({ book:'', kind:'', ex:true }, ls.get('pvCiu', {}));
+  const D = (window.PVCIU || []).slice().sort((a, b) => a.pv.localeCompare(b.pv));
+  D.forEach(d => d.key = fold([d.pv, d.vi, ...d.c.map(c => c[0]), ...d.ex].join(' ')));
+  $('nPv').textContent = D.filter(d => d.t === 'pv').length;
+  $('nPr').textContent = D.filter(d => d.t === 'prep').length;
+  const hi = (t, fq) => { const s = String(t); if (!fq || fq.length < 2) return esc(s); const i = fold(s).indexOf(fq); return i < 0 ? esc(s) : esc(s.slice(0, i)) + '<mark>' + esc(s.slice(i, i + fq.length)) + '</mark>' + esc(s.slice(i + fq.length)); };
+  const BK = { int:'INT', adv:'ADV' };
+  function render(){
+    const fq = fold($('q').value.trim());
+    const V = D.filter(d => (!st.kind || d.t === st.kind) && (!st.book || d.c.some(c => c[1] === st.book)) && (!fq || d.key.includes(fq)));
+    $('stat').textContent = `Đang hiện ${V.length} / ${D.length} mục · ${V.reduce((a, d) => a + d.c.filter(c => !st.book || c[1] === st.book).length, 0)} collocation`;
+    const letters = [...new Set(V.map(d => d.pv[0].toUpperCase()))];
+    $('az').innerHTML = letters.map(l => `<a href="#L${l}">${l}</a>`).join('');
+    let last = '';
+    $('out').innerHTML = V.map(d => {
+      const L = d.pv[0].toUpperCase(), anchor = L !== last ? ` id="L${L}"` : ''; last = L;
+      const cols = d.c.filter(c => !st.book || c[1] === st.book);
+      return `<section class="pv ${d.t}"${anchor}><div class="h"><button class="say" data-t="${esc(d.pv)}" title="Nghe">🔊</button><span class="w">${hi(d.pv, fq)}</span><span class="kind">${d.t === 'pv' ? 'phrasal verb' : 'động từ + giới từ'}</span><span class="vi">${hi(d.vi, fq)}</span></div>
+        <ul class="cols">${cols.map(c => `<li><button class="say" data-t="${esc(c[0].replace(/[()]/g, ''))}" title="Nghe">🔊</button><b>${hi(c[0], fq)}</b><span class="src"><i>${BK[c[1]]}</i> Unit ${c[2].join(', ')}${c[3] ? ' · ' + esc(c[3]) : ''}</span></li>`).join('')}</ul>
+        ${d.ex.length ? `<div class="ex">${d.ex.map(e => `<div>${hi(e, fq)}</div>`).join('')}</div>` : ''}</section>`;
+    }).join('') || '<p class="stat">Không có mục nào khớp.</p>';
+  }
+  $('out').addEventListener('click', e => {
+    const b = e.target.closest('.say'); if (!b || !window.speechSynthesis) return;
+    const u = new SpeechSynthesisUtterance(b.dataset.t); u.lang = 'en-GB'; u.rate = 0.95; speechSynthesis.cancel(); speechSynthesis.speak(u);
+  });
+  let tm = null;
+  $('q').addEventListener('input', () => { clearTimeout(tm); tm = setTimeout(render, 150); });
+  $('book').value = st.book; $('kind').value = st.kind;
+  $('book').onchange = e => { st.book = e.target.value; ls.set('pvCiu', st); render(); };
+  $('kind').onchange = e => { st.kind = e.target.value; ls.set('pvCiu', st); render(); };
+  const exLbl = () => { $('exBtn').classList.toggle('on', st.ex); document.body.classList.toggle('noex', !st.ex); };
+  $('exBtn').onclick = () => { st.ex = !st.ex; exLbl(); ls.set('pvCiu', st); };
+  exLbl(); render();
+})();
+</script>
+</body>
+</html>
