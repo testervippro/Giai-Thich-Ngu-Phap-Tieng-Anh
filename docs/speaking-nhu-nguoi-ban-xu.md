@@ -1,6 +1,6 @@
 # 🗣️ NÓI TIẾNG ANH NHƯ NGƯỜI BẢN XỨ — PHƯƠNG PHÁP & LỘ TRÌNH 12 TUẦN
 
-> Trang này tổng hợp từ **6 cuốn sách** trong thư mục `books/`, rồi nối mỗi phương pháp với tài liệu luyện tập đã có sẵn trên site. Mục tiêu là **nói tự nhiên, trôi chảy như người bản xứ** trong giao tiếp thật. Điểm TOEIC Listening sẽ tăng theo như một hệ quả phụ.
+> Trang này tổng hợp từ **7 cuốn sách** trong thư mục `books/`, rồi nối mỗi phương pháp với tài liệu luyện tập đã có sẵn trên site. Mục tiêu là **nói tự nhiên, trôi chảy như người bản xứ** trong giao tiếp thật. Điểm TOEIC Listening sẽ tăng theo như một hệ quả phụ.
 
 | Sách | Tác giả | Đóng góp chính cho trang này |
 |---|---|---|
@@ -9,12 +9,13 @@
 | *Practice Makes Perfect: English Conversation* | Jean Yates (McGraw-Hill, 2020) | 14 **chức năng giao tiếp**, kèm hội thoại mẫu và giải thích cách dùng từng câu |
 | *Advanced English Conversations: Speak like a Native Speaker* | Jackie Bolen (2023) | Gần 60 hội thoại ngắn chứa thành ngữ, cụm từ bản xứ trình độ cao |
 | *English Collocations in Use* Intermediate + Advanced | McCarthy & O'Dell (Cambridge) | Collocation và phrasal verb, tức các "cụm" mà người bản xứ dùng sẵn |
+| *1,000 Conversation Questions* | Larry Pitts (2016) | 1.433 câu hỏi gợi chuyện trong 134 chủ đề: **đề bài** cho các bài luyện nói có bấm giờ |
 
 ---
 
 ## 1. Tư duy cốt lõi: người bản xứ nói bằng CỤM, không ghép từng từ
 
-Đây là ý quan trọng nhất trong cả 6 cuốn sách. Northbrook viết: *"Native speakers do not construct their language using grammar rules and individual words – they simply store chunks in memory and use them as is."*
+Đây là ý quan trọng nhất rút ra từ các cuốn sách này. Northbrook viết: *"Native speakers do not construct their language using grammar rules and individual words – they simply store chunks in memory and use them as is."*
 
 - Cụm từ giống **phím tắt trên máy tính**. Bạn vẫn có thể bấm qua từng menu để "Save", nhưng bấm `Cmd+S` thì nhanh hơn nhiều. Ghép câu từ ngữ pháp và từ lẻ là cách "bấm menu". Nói bằng cụm mới là cách người bản xứ nói.
 - Nhiều câu **đúng ngữ pháp vẫn nghe "lạ"**. Ví dụ *"Pleasant first half of the day!"* không sai nhưng không ai nói vậy, người ta nói *"Good morning!"*. Tương tự, người ta nói *plastic surgery* chứ không nói *plastic operation*, nói *heavy rain* chứ không nói *thick rain*. Nói tự nhiên nghĩa là nói **đúng cái người nghe đang chờ đợi**.
@@ -104,7 +105,7 @@ Northbrook so sánh với tập tạ: **phải tăng tải dần (progressive ov
 
 | Bài tập | Cách làm |
 |---|---|
-| ⏱ **Nói theo giờ** | Chọn một chủ đề, bấm giờ 30 giây, cố nói hết ý trước khi chuông reo |
+| ⏱ **Nói theo giờ** | Chọn một chủ đề, bấm giờ 30 giây, cố nói hết ý trước khi chuông reo. Lấy đề ngẫu nhiên ở trang [❓ 1000 Conversation Questions](tools/conversation-questions.html), trang này có sẵn đồng hồ 30 giây, 1 phút, 2 phút và chế độ 4-3-2 |
 | 🔁 **Kỹ thuật 4-3-2** | Nói về một chủ đề trong **4 phút**, rồi nói lại đúng nội dung đó trong **3 phút**, rồi trong **2 phút**. Bài này buộc bạn nói gọn và không kịp dịch trong đầu |
 | ✍️ **Chép chính tả tính giờ** | Nghe một đoạn hội thoại 2 phút và chép lại toàn bộ trong 20 phút. Rất mệt nhưng rèn tai cực tốt |
 | 📧 **Bấm giờ việc hằng ngày** | Trả lời mỗi email trong 30 giây, viết bài trong 5 phút. Theo Northbrook, công việc luôn phình ra cho kín thời gian bạn cho phép |
@@ -169,7 +170,20 @@ Northbrook bổ sung một lưu ý: thành ngữ giúp nói tự nhiên hơn và
 
 ---
 
-## 10. Chọn tài liệu: phải có đủ L + K + C
+## 10. Đề tài để nói: 1000 Conversation Questions
+
+Một lý do khiến nhiều người "bí" là **không biết nói về cái gì**. Sách của Larry Pitts có **1.433 câu hỏi trong 134 chủ đề** đời thường, từ *Advice, Food, Jobs, Money* tới *Dreaming, Luck, Secrets*. Lời khuyên của tác giả (vốn viết cho lớp học, nhưng áp dụng được khi tự học):
+
+- Mỗi câu dành **1–3 phút**. Cứ 10 câu thì mất khoảng 20 phút.
+- **Sai không sao**: *"If they aren't making mistakes, they aren't trying hard enough."* Nói sai bằng tiếng Anh vẫn tốt hơn nói đúng bằng tiếng mẹ đẻ.
+- **Để câu chuyện tự trôi**: nói lan sang chuyện khác là dấu hiệu của hội thoại tự nhiên. Không cần trả lời hết danh sách. Không thấy câu nào thú vị thì tự đặt câu hỏi.
+- **Ghi lại các lỗi lặp đi lặp lại** (ngữ pháp, phát âm, dùng từ) rồi sửa sau. Khi tự học, quay video là cách thay cho giáo viên ghi chép.
+
+👉 Trang [❓ 1000 Conversation Questions](tools/conversation-questions.html) có chế độ **rút câu ngẫu nhiên kèm đồng hồ** (30 giây, 1 phút, 2 phút, 4-3-2), đọc to câu hỏi, đánh dấu câu đã luyện, và gợi ý cụm mở đầu câu trả lời cho tự nhiên.
+
+---
+
+## 11. Chọn tài liệu: phải có đủ L + K + C
 
 Tài liệu tốt là **tiếng Anh thật, làm cho người bản xứ**, và **khớp với mục tiêu của bạn**: video YouTube, phim, phim tài liệu, show truyền hình. Northbrook cho rằng phần lớn video dạy kiểu "mỗi tuần một cụm" cho người học thì không tốt bằng.
 
@@ -179,15 +193,15 @@ Một lưu ý quan trọng: **chỉ xem phim thì không đủ, phải làm gì 
 
 ---
 
-## 11. 🗓️ LỘ TRÌNH 12 TUẦN (45–60 phút/ngày)
+## 12. 🗓️ LỘ TRÌNH 12 TUẦN (45–60 phút/ngày)
 
-> Mỗi ngày gồm 3 phần: **Săn cụm 20'** (Nhận ra và Học), **Luyện nói 20'** (Tự động hoá), **Ôn 10'** (lặp lại ngắt quãng). Ghi mọi cụm mới vào một cuốn sổ hoặc Anki: cụm, câu ví dụ thật, và tình huống dùng.
+> Mỗi ngày gồm 3 phần: **Săn cụm 20'** (Nhận ra và Học), **Luyện nói 20'** (Tự động hoá), **Ôn 10'** (lặp lại ngắt quãng). Phần luyện nói luôn có thể lấy đề ở [1000 Conversation Questions](tools/conversation-questions.html): rút 3–5 câu, mỗi câu 1–2 phút, cố dùng các cụm vừa học. Ghi mọi cụm mới vào một cuốn sổ hoặc Anki: cụm, câu ví dụ thật, và tình huống dùng.
 
 ### Giai đoạn 1 (tuần 1–4): Ngôn ngữ Loại 1, giao tiếp hằng ngày
 
 | Tuần | Săn cụm | Luyện nói |
 |---|---|---|
-| 1 | [Conversational American English](tools/conversational-american-english.html), phần 1: chào hỏi, chuyện phiếm, giới thiệu, tạm biệt | Mỗi ngày tự giới thiệu bản thân theo kiểu *Practice Makes Perfect* chương 1. Nói theo giờ 30 giây |
+| 1 | [Conversational American English](tools/conversational-american-english.html), phần 1: chào hỏi, chuyện phiếm, giới thiệu, tạm biệt | Mỗi ngày tự giới thiệu bản thân theo kiểu *Practice Makes Perfect* chương 1. Nói theo giờ 30 giây với chủ đề *Free Time, Hobbies, Jobs, Meeting New People* |
 | 2 | Phần đồng ý / không đồng ý, thu hút chú ý, bắt đầu câu chuyện + [700+ câu nói ngắn](daily-native-expressions.md) | Bắt đầu kỹ thuật **4-3-2** với chủ đề công việc của bạn |
 | 3 | Phần lịch sự: xin lỗi, cảm ơn, đáp lời cảm ơn + câu đệm phản hồi (*You're having me on! / No way! / Seriously?*) | **Video đầu tiên** 1–2 phút: "A typical day for me". Tự xem lại theo quy trình 6 bước |
 | 4 | Các cụm xã giao mở đầu và kết thúc cuộc nói chuyện (*Give us a shout…, I'm up for that*) | Ôn toàn bộ cụm của 3 tuần trước, lần ôn "sau 2 tuần" |
@@ -210,21 +224,21 @@ Một lưu ý quan trọng: **chỉ xem phim thì không đủ, phải làm gì 
 | 11 | Ngôn ngữ Loại 2 cho ngành của bạn ([IT English Patterns](IT%20English%20Patterns.md) nếu làm IT) | Mô phỏng phỏng vấn hoặc họp, chú ý văn hoá: nói về thành tích một cách tích cực, không tự hạ mình |
 | 12 | Ôn toàn bộ sổ cụm, bỏ những cụm không bao giờ dùng (Loại 3) | **Thử thách công khai**: video đăng lên mạng, quay ngoài trời, hoặc nói chuyện với người lạ. Áp lực càng cao càng tốt |
 
-**Sau 12 tuần:** duy trì **3 cụm mỗi ngày**, viết 1–3 bình luận mỗi ngày trên diễn đàn đúng sở thích, quay 1 video mỗi tuần, và lặp lại 4-3-2 với chủ đề mới.
+**Sau 12 tuần:** duy trì **3 cụm mỗi ngày**, mỗi ngày trả lời ít nhất 3 câu trong [1000 Conversation Questions](tools/conversation-questions.html) (bật "Bỏ qua câu đã luyện" để đi hết 134 chủ đề), viết 1–3 bình luận mỗi ngày trên diễn đàn đúng sở thích, quay 1 video mỗi tuần, và lặp lại 4-3-2 với chủ đề mới.
 
 ---
 
-## 12. ✅ Checklist thói quen hằng ngày
+## 13. ✅ Checklist thói quen hằng ngày
 
 - [ ] Ghi được **3 cụm mới** từ tài liệu thật, kèm câu ví dụ
 - [ ] **Ôn lại** cụm của hôm qua, của vài ngày trước và của 2 tuần trước
-- [ ] **Nói có áp lực** ít nhất 10 phút: theo giờ, 4-3-2 hoặc quay video
+- [ ] **Nói có áp lực** ít nhất 10 phút: rút câu ở [1000 Conversation Questions](tools/conversation-questions.html), nói theo giờ, 4-3-2 hoặc quay video
 - [ ] Tra từ bằng **từ điển Anh-Anh hoặc Google Images**, không dịch trong đầu
 - [ ] Không chắc một cụm có tự nhiên không thì **tìm "cụm đó" trong ngoặc kép**
 - [ ] Đọc hoặc nghe thả nổi một chút để **gặp lại** các cụm đã học
 - [ ] Nạp thêm "Knowledge": một bài báo hoặc video về chủ đề bạn muốn nói được
 
-## 13. ❌ Những niềm tin sai Northbrook chỉ ra
+## 14. ❌ Những niềm tin sai Northbrook chỉ ra
 
 - *"Mình không bao giờ giỏi được"* hay *"chỉ trẻ con mới học ngoại ngữ giỏi"*: sai.
 - *"Chỉ cần nghe nhiều là sẽ nói được"*: sai. Nghe giúp hiểu, còn nói phải **luyện nói**, giống như muốn có cơ bắp thì phải tập tạ.

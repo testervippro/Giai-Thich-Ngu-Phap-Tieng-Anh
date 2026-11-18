@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Conversation Questions</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1040px; margin:auto; padding:4px 16px 48px; }
+    h1 { margin:0 0 6px; font-size:24px; }
+    h2 { font-size:18px; margin:22px 0 8px; }
+    .lead { color:var(--muted); margin:0 0 12px; font-size:14px; }
+    .lead b { color:var(--ink); }
+    select, input[type=search] { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; max-width:100%; min-width:0; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; cursor:pointer; }
+    .btn:hover { border-color:var(--accent); }
+    .btn.on, .btn.primary { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+    /* luyện nói */
+    .drill { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:14px; }
+    .qbox { font-size:22px; font-weight:700; line-height:1.4; margin:12px 0 4px; min-height:2.8em; }
+    .qmeta { color:var(--muted); font-size:13px; }
+    .clock { font-size:44px; font-weight:800; font-variant-numeric:tabular-nums; color:var(--accent); line-height:1; }
+    .clock.low { color:#dc2626; }
+    .phase { font-size:13px; color:var(--muted); }
+    .bar2 { height:6px; border-radius:99px; background:var(--line); overflow:hidden; margin:8px 0 10px; }
+    .bar2 i { display:block; height:100%; width:0; background:var(--accent); transition:width .25s linear; }
+    details.help { margin-top:12px; font-size:14px; }
+    details.help summary { cursor:pointer; font-weight:700; }
+    .chunks { display:flex; flex-wrap:wrap; gap:6px; margin-top:8px; }
+    .chunks span { font-size:13px; padding:3px 9px; border-radius:999px; border:1px solid var(--line); background:var(--bg); }
+    /* danh sách */
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; position:sticky; top:0; z-index:3; background:var(--bg); padding:8px 0; }
+    .bar input[type=search] { flex:1 1 220px; }
+    .stat { color:var(--muted); font-size:13px; margin:2px 0 10px; }
+    .toc { display:flex; flex-wrap:wrap; gap:4px; margin:0 0 12px; }
+    .toc a { font-size:12.5px; padding:2px 9px; border:1px solid var(--line); border-radius:999px; text-decoration:none; color:inherit; background:var(--card); }
+    .tp { background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:0 12px 12px 0; padding:8px 12px; margin:0 0 10px; scroll-margin-top:64px; content-visibility:auto; contain-intrinsic-size:auto 360px; }
+    .th { display:flex; gap:8px; align-items:baseline; flex-wrap:wrap; margin-bottom:4px; }
+    .th .vi { font-weight:800; font-size:16px; }
+    .th .en { color:var(--muted); font-size:13px; }
+    .th .go { margin-left:auto; font-size:13px; padding:4px 10px; }
+    ol.qs { margin:0; padding-left:26px; }
+    ol.qs li { padding:3px 0; border-top:1px dashed var(--line); }
+    ol.qs li:first-child { border-top:0; }
+    ol.qs li.done { color:var(--muted); }
+    ol.qs li.done::after { content:" ✓"; color:var(--accent); font-weight:700; }
+    .say { border:0; background:none; cursor:pointer; font-size:14px; padding:0 4px; border-radius:6px; }
+    .say:hover { background:var(--accentbg); }
+    mark { background:#fde68a; color:inherit; border-radius:3px; }
+    .foot { color:var(--muted); font-size:12.5px; margin-top:24px; }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Anh" data-title="1000 Conversation Questions"></script>
+</head>
+<body>
+<main>
+  <h1>❓ 1000 Conversation Questions</h1>
+  <p class="lead">Toàn bộ <b id="nQ">…</b> câu hỏi gợi chuyện trong <b id="nT">…</b> chủ đề của sách <i>1,000 Conversation Questions</i> (Larry Pitts). Dùng để <b>luyện nói có áp lực</b> theo trang <a href="../#/speaking-nhu-nguoi-ban-xu">Nói như người bản xứ</a>: rút một câu hỏi, bấm giờ, trả lời to thành tiếng. Tác giả khuyên mỗi câu dành <b>1–3 phút</b>, cứ nói lan sang chuyện khác cũng được, và <b>sai không sao, miễn là nói bằng tiếng Anh</b>.</p>
+
+  <section class="drill" id="drill">
+    <div class="row">
+      <select id="dTopic" aria-label="Chủ đề luyện"><option value="">🎲 Mọi chủ đề</option></select>
+      <select id="dMode" aria-label="Kiểu bấm giờ">
+        <option value="30">⏱ 30 giây</option>
+        <option value="60" selected>⏱ 1 phút</option>
+        <option value="120">⏱ 2 phút</option>
+        <option value="432">🔁 4-3-2 (4 phút → 3 → 2)</option>
+        <option value="0">Không bấm giờ</option>
+      </select>
+      <label class="row" style="gap:6px;font-size:14px"><input type="checkbox" id="dRead" checked> Đọc to câu hỏi</label>
+      <label class="row" style="gap:6px;font-size:14px"><input type="checkbox" id="dSkip"> Bỏ qua câu đã luyện</label>
+    </div>
+    <div class="qbox" id="qText">Bấm <b>Rút câu hỏi</b> để bắt đầu.</div>
+    <div class="qmeta" id="qMeta"></div>
+    <div class="bar2"><i id="qBar"></i></div>
+    <div class="row">
+      <span class="clock" id="clock">–:––</span>
+      <span class="phase" id="phase"></span>
+      <span style="flex:1"></span>
+      <button class="btn primary" id="drawBtn">🎲 Rút câu hỏi</button>
+      <button class="btn" id="startBtn">▶ Bắt đầu</button>
+      <button class="btn" id="doneBtn" title="Đánh dấu đã luyện câu này">✓ Đã luyện</button>
+    </div>
+    <details class="help">
+      <summary>💡 Cụm mở đầu câu trả lời cho tự nhiên (đừng bắt đầu bằng "Ừm…")</summary>
+      <div class="chunks">
+        <span>That's a tough one.</span><span>Let me think…</span><span>Off the top of my head, …</span><span>To be honest, …</span><span>I'd say …</span>
+        <span>It depends on …</span><span>The first thing that comes to mind is …</span><span>I've never really thought about it, but …</span>
+        <span>On the one hand … on the other hand …</span><span>For me, personally, …</span><span>I'm not sure, but I guess …</span><span>Funnily enough, …</span>
+        <span>The thing is, …</span><span>At the end of the day, …</span><span>That reminds me of the time …</span><span>What about you?</span>
+      </div>
+      <p style="margin:8px 0 0;color:var(--muted)">Mẹo từ sách: không cần trả lời đúng câu hỏi, cứ kể chuyện thật của mình (nạp phần <b>Knowledge</b>). Nếu chọn 4-3-2 thì trả lời một câu trong 4 phút, rồi nói lại đúng ý đó trong 3 phút, rồi 2 phút. Quay video lại rồi xem lại để tự sửa.</p>
+    </details>
+  </section>
+
+  <h2>📚 Toàn bộ câu hỏi theo chủ đề</h2>
+  <div class="bar">
+    <input type="search" id="q" placeholder="Tìm câu hỏi hoặc chủ đề (vd: travel, du lịch, money)" aria-label="Tìm">
+    <button class="btn" id="hideDone">Ẩn câu đã luyện</button>
+  </div>
+  <div class="stat" id="stat"></div>
+  <div class="toc" id="toc"></div>
+  <div id="out"></div>
+  <p class="foot">Nguồn: Larry Pitts, <i>1,000 Conversation Questions: Designed for Use in the ESL or EFL Classroom</i> (ECQ Publishing, 2016), câu hỏi từ eslconversationquestions.com. Tên chủ đề tiếng Việt do trang này dịch. Dấu ✓ "đã luyện" chỉ lưu trên trình duyệt của bạn.</p>
+</main>
+<script src="cq-data.js"></script>
+<script>
+(() => {
+  "use strict";
+  const $ = id => document.getElementById(id);
+  const esc = t => String(t || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fold = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/[’‘]/g, "'");
+  const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
+  const T = (window.CQ || []).map(([en, vi, qs], i) => ({ i, en, vi, qs, key: fold(en + ' ' + vi) }));
+  const ALL = T.flatMap(t => t.qs.map((q, j) => ({ t, j, q, id: t.i + ':' + j, key: fold(q) })));
+  const st = Object.assign({ topic:'', mode:'60', read:true, skip:false, hide:false }, ls.get('cqView', {}));
+  let done = ls.get('cqDone', {}) || {};
+  $('nQ').textContent = ALL.length.toLocaleString('vi-VN'); $('nT').textContent = T.length;
+  T.forEach(t => { const o = document.createElement('option'); o.value = t.i; o.textContent = `${t.vi} (${t.en})`; $('dTopic').appendChild(o); });
+  const save = () => ls.set('cqView', st);
+
+  // ---------- đọc to ----------
+  function speak(text){
+    if (!window.speechSynthesis) return;
+    try { speechSynthesis.cancel(); } catch (e) {}
+    const u = new SpeechSynthesisUtterance(text); u.lang = 'en-US'; u.rate = 0.95;
+    const v = speechSynthesis.getVoices().find(v => /en[-_]US/i.test(v.lang) && /Samantha|Google US|Aria|Jenny|Ava/i.test(v.name)) || speechSynthesis.getVoices().find(v => /en[-_]US/i.test(v.lang));
+    if (v) u.voice = v;
+    speechSynthesis.speak(u);
+  }
+
+  // ---------- luyện nói ----------
+  let cur = null, timer = null, phases = [], pi = 0, left = 0, total = 0;
+  const fmt = s => Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0');
+  function stopTimer(){ clearInterval(timer); timer = null; $('startBtn').textContent = '▶ Bắt đầu'; }
+  function show(item){
+    stopTimer(); cur = item;
+    $('qText').textContent = item.q;
+    $('qMeta').innerHTML = `${esc(item.t.vi)} · ${esc(item.t.en)} · câu ${item.j + 1}/${item.t.qs.length}${done[item.id] ? ' · <b>đã luyện ✓</b>' : ''}`;
+    setupPhases(); $('qBar').style.width = '0';
+    if (st.read) speak(item.q);
+  }
+  function setupPhases(){
+    const m = +st.mode;
+    phases = m === 432 ? [240, 180, 120] : m ? [m] : [];
+    pi = 0; left = phases[0] || 0; total = left;
+    $('clock').textContent = phases.length ? fmt(left) : '–:––'; $('clock').classList.remove('low');
+    $('phase').textContent = m === 432 ? 'Lượt 1/3 · 4 phút' : '';
+  }
+  function draw(){
+    const pool = ALL.filter(x => (st.topic === '' || x.t.i === +st.topic) && !(st.skip && done[x.id]));
+    if (!pool.length){ $('qText').textContent = 'Đã luyện hết câu trong chủ đề này 🎉 Bỏ chọn "Bỏ qua câu đã luyện" để luyện lại.'; $('qMeta').textContent = ''; return; }
+    let pick; do { pick = pool[Math.floor(Math.random() * pool.length)]; } while (pool.length > 1 && cur && pick.id === cur.id);
+    show(pick);
+  }
+  function beep(){ try { const a = new (window.AudioContext || window.webkitAudioContext)(), o = a.createOscillator(), g = a.createGain(); o.connect(g); g.connect(a.destination); o.frequency.value = 880; g.gain.value = .15; o.start(); o.stop(a.currentTime + .35); } catch (e) {} }
+  function tick(){
+    left--; $('clock').textContent = fmt(Math.max(0, left)); $('clock').classList.toggle('low', left <= 10);
+    $('qBar').style.width = (100 * (total - left) / total) + '%';
+    if (left > 0) return;
+    beep();
+    if (pi + 1 < phases.length){
+      pi++; left = total = phases[pi]; $('qBar').style.width = '0';
+      $('phase').textContent = `Lượt ${pi + 1}/3 · ${phases[pi] / 60} phút: nói lại đúng ý đó, gọn hơn`;
+      $('clock').textContent = fmt(left); $('clock').classList.remove('low');
+    } else { stopTimer(); $('phase').textContent = 'Hết giờ! Bấm ✓ nếu đã trả lời trọn vẹn.'; }
+  }
+  $('startBtn').onclick = () => {
+    if (!cur) draw();
+    if (!phases.length) return;
+    if (timer){ stopTimer(); return; }
+    if (left <= 0) setupPhases();
+    try { speechSynthesis.cancel(); } catch (e) {}
+    timer = setInterval(tick, 1000); $('startBtn').textContent = '⏸ Tạm dừng';
+  };
+  $('drawBtn').onclick = draw;
+  $('doneBtn').onclick = () => { if (!cur) return; done[cur.id] = 1; ls.set('cqDone', done); show(cur); stopTimer(); render(); };
+  $('dTopic').value = st.topic; $('dMode').value = st.mode; $('dRead').checked = st.read; $('dSkip').checked = st.skip;
+  $('dTopic').onchange = e => { st.topic = e.target.value; save(); draw(); };
+  $('dMode').onchange = e => { st.mode = e.target.value; save(); stopTimer(); setupPhases(); };
+  $('dRead').onchange = e => { st.read = e.target.checked; save(); };
+  $('dSkip').onchange = e => { st.skip = e.target.checked; save(); };
+
+  // ---------- danh sách ----------
+  const hi = (t, fq) => { const s = String(t); if (!fq || fq.length < 2) return esc(s); const i = fold(s).indexOf(fq); return i < 0 ? esc(s) : esc(s.slice(0, i)) + '<mark>' + esc(s.slice(i, i + fq.length)) + '</mark>' + esc(s.slice(i + fq.length)); };
+  function render(){
+    const fq = fold($('q').value.trim());
+    $('hideDone').classList.toggle('on', st.hide);
+    const V = T.map(t => {
+      const th = fq && t.key.includes(fq);
+      const qs = t.qs.map((q, j) => ({ q, j, id: t.i + ':' + j })).filter(x => !(st.hide && done[x.id]) && (!fq || th || fold(x.q).includes(fq)));
+      return { t, qs };
+    }).filter(v => v.qs.length);
+    const nDone = Object.keys(done).length;
+    $('stat').textContent = `Đang hiện ${V.length} chủ đề · ${V.reduce((a, v) => a + v.qs.length, 0)} câu · đã luyện ${nDone}/${ALL.length}`;
+    $('toc').innerHTML = V.map(v => `<a href="#cq${v.t.i}">${esc(v.t.vi)}</a>`).join('');
+    $('out').innerHTML = V.map(({ t, qs }) => `<section class="tp" id="cq${t.i}"><div class="th"><span class="vi">${hi(t.vi, fq)}</span><span class="en">${hi(t.en, fq)} · ${t.qs.length} câu</span><button class="btn go" data-t="${t.i}">🎲 Luyện chủ đề này</button></div>
+      <ol class="qs">${qs.map(x => `<li value="${x.j + 1}" class="${done[x.id] ? 'done' : ''}"><button class="say" data-q="${esc(x.q)}" title="Nghe">🔊</button>${hi(x.q, fq)}</li>`).join('')}</ol></section>`).join('') || '<p class="stat">Không có câu nào khớp.</p>';
+  }
+  $('out').addEventListener('click', e => {
+    const s = e.target.closest('.say'); if (s){ speak(s.dataset.q); return; }
+    const g = e.target.closest('.go');
+    if (g){ st.topic = g.dataset.t; $('dTopic').value = st.topic; save(); draw(); $('drill').scrollIntoView({ behavior:'smooth', block:'start' }); }
+  });
+  let tm = null;
+  $('q').addEventListener('input', () => { clearTimeout(tm); tm = setTimeout(render, 150); });
+  $('hideDone').onclick = () => { st.hide = !st.hide; save(); render(); };
+  setupPhases(); render();
+})();
+</script>
+</body>
+</html>

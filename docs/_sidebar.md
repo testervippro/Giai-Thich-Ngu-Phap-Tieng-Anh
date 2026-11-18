@@ -45,10 +45,11 @@
 
 # 🗣️ Giao tiếp & Speaking
 
-- [🧭 Nói như người bản xứ: phương pháp & lộ trình 12 tuần (tổng hợp từ 6 sách)](speaking-nhu-nguoi-ban-xu.md)
+- [🧭 Nói như người bản xứ: phương pháp & lộ trình 12 tuần (tổng hợp từ 7 sách)](speaking-nhu-nguoi-ban-xu.md)
 - [💬 Cụm giao tiếp hay dùng nhất trong từng phim (Friends, The Office, Silicon Valley, Suits LA)](movie-viewer/cum-giao-tiep.html)
 - [700+ câu nói ngắn hàng ngày của người bản xứ](daily-native-expressions.md)
 - [🗣️ Conversational American English (4.766 câu, 464 tình huống)](tools/conversational-american-english.html)
+- [❓ 1000 Conversation Questions (1.433 câu hỏi luyện nói, có bấm giờ)](tools/conversation-questions.html)
 - [500 Spoken English Structures (+ IELTS Speaking patterns)](500_spoken_english_structures.md)
 - [IT English Patterns — Speaking & Writing](IT%20English%20Patterns.md)
 
