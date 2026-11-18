@@ -136,6 +136,7 @@
   - [✍️ Luyện viết 2136 Kanji](kanji-viewer/write.html)
   - [🧠 Mind map theo câu chuyện](kanji-viewer/mindmap.html)
   - [🌳 Mind map toàn bộ 2136 chữ](kanji-viewer/mindmap.html?all=1)
+  - [🔀 Kanji đồng âm Hán Việt (501 âm trùng)](kanji-viewer/dong-am.html)
   - [🧠 Mẹo nhớ từ Hán Việt dễ lú](kanji-meo-nho.md)
 - **📰 Đọc báo (133 bài · 2.089 chữ)**
   - [Lộ trình đọc + từ vựng & ngữ pháp từng bài](kanji-viewer/doc-bao.html)

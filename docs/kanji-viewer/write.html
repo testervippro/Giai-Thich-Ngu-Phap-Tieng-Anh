@@ -123,6 +123,7 @@
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
     <a class="btn" id="mmLink" href="mindmap.html" title="Mind map câu chuyện: chữ này ghép từ bộ nào, ghép thành chữ nào" style="text-decoration:none">🧠 Mind map</a>
+    <a class="btn" id="daLink" href="dong-am.html" title="Các chữ cùng âm Hán Việt nhưng khác chữ, khác nghĩa" style="text-decoration:none">🔀 Đồng âm</a>
     <button class="btn" id="liteBtn" title="Danh sách cả bộ: mỗi chữ hiện chữ Hán trước, rồi câu chuyện + mảnh ghép (ẩn ảnh, ô viết, từ vựng)">📖 Danh sách chữ + câu chuyện</button>
     <button class="btn on" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện của chữ">🖼 Ảnh: bật</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
@@ -437,6 +438,7 @@
     showWords(x.k);
     crossZh(x);
     $('mmLink').href = 'mindmap.html#' + encodeURIComponent(x.k);
+    $('daLink').href = 'dong-am.html#' + encodeURIComponent(String(x.hv).split(/[\/,;]/)[0].trim().toLowerCase());
     document.body.classList.toggle('quiz', st.quiz);
     $('modelBox').classList.toggle('hidden', st.quiz);
     drawn = []; stepAt = 0; setHint(false);

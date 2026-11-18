@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Kanji đồng âm Hán Việt</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1080px; margin:auto; padding:4px 16px 40px; }
+    h1 { margin:0 0 6px; font-size:22px; }
+    .lead { color:var(--muted); font-size:14px; margin:0 0 10px; }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:8px; position:sticky; top:0; z-index:2; background:var(--bg); padding:6px 0; }
+    select, input[type=search] { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; }
+    input[type=search] { flex:1; min-width:180px; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; cursor:pointer; }
+    .btn.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .stat { color:var(--muted); font-size:13px; margin:0 0 10px; }
+    .idx { display:flex; flex-wrap:wrap; gap:4px; margin:0 0 14px; }
+    .idx a { font-size:12.5px; padding:2px 7px; border:1px solid var(--line); border-radius:999px; text-decoration:none; color:inherit; background:var(--card); }
+    .idx a b { color:var(--accent); }
+    .g { background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:0 12px 12px 0; padding:8px 12px; margin:0 0 12px; content-visibility:auto; contain-intrinsic-size:auto 220px; scroll-margin-top:60px; }
+    .gh { font-size:20px; font-weight:800; color:var(--accent); margin:0 0 4px; display:flex; gap:10px; align-items:baseline; flex-wrap:wrap; }
+    .gh .ks { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-weight:400; color:var(--ink); font-size:22px; letter-spacing:4px; }
+    .gh .n { font-size:13px; font-weight:600; color:var(--muted); }
+    .r { display:flex; gap:12px; align-items:flex-start; padding:6px 0; }
+    .r + .r { border-top:1px dashed var(--line); }
+    .r .k { font-size:44px; line-height:1.05; min-width:1.1em; font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; text-decoration:none; color:inherit; }
+    .r .m { font-size:16.5px; font-weight:700; }
+    .r .t { font-size:12.5px; color:var(--muted); }
+    .r .s { font-size:14px; color:var(--muted); margin-top:2px; }
+    .r .hv2 { color:var(--accent); font-weight:700; font-size:13px; }
+    body.nostory .r .s { display:none; }
+    mark { background:#fde68a; color:inherit; border-radius:3px; }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Kanji đồng âm Hán Việt"></script>
+</head>
+<body>
+<main>
+  <h1>🔀 Kanji đồng âm Hán Việt</h1>
+  <p class="lead">Trong 2.136 chữ, nhiều chữ có <b>cùng âm Hán Việt nhưng là chữ khác, nghĩa khác</b> (vd KÌ: 期 kì hạn · 旗 lá cờ · 奇 kì lạ · 棋 cờ tướng…). Trang này gom chúng theo từng âm để so sánh và phân biệt. Chữ có 2 âm (vd TƯƠNG/TƯỚNG) xuất hiện ở cả 2 nhóm. Bấm chữ để mở luyện viết.</p>
+  <div class="bar">
+    <input type="search" id="q" placeholder="Tìm âm Hán Việt / chữ / nghĩa (vd: kì, 期, cờ)" aria-label="Tìm">
+    <select id="jl" aria-label="Cấp JLPT">
+      <option value="">Mọi cấp</option><option>N5</option><option>N4</option><option>N3</option><option>N2</option><option>N1</option>
+    </select>
+    <select id="sort" aria-label="Sắp xếp">
+      <option value="n">Nhiều chữ trùng nhất trước</option>
+      <option value="a">Theo vần A → Z</option>
+    </select>
+    <button class="btn on" id="storyBtn">📖 Câu chuyện: bật</button>
+  </div>
+  <div class="stat" id="stat"></div>
+  <div class="idx" id="idx"></div>
+  <div id="out"></div>
+</main>
+<script src="kanji-game-data.js"></script>
+<script>
+(() => {
+  "use strict";
+  const $ = id => document.getElementById(id);
+  const esc = t => String(t || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const cap = s => s ? s.charAt(0).toUpperCase() + s.slice(1) : '';
+  const fold = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd');
+  const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
+  const st = Object.assign({ sort:'n', story:true, jl:'' }, ls.get('kanjiDongAm', {}));
+  const K = (window.KANJI || []).map(r => ({ n:r[0], k:r[1], hv:r[2], m:r[3], j:r[4], s:r[5] }));
+  // nhóm theo từng âm (chữ nhiều âm "A/B" vào cả 2 nhóm)
+  const G = new Map();
+  K.forEach(x => String(x.hv).split(/[\/,;]\s*/).map(h => h.trim().toUpperCase()).filter(Boolean).forEach(h => {
+    if (!G.has(h)) G.set(h, []);
+    if (!G.get(h).some(y => y.k === x.k)) G.get(h).push(x);
+  }));
+  const ALLG = [...G].filter(([, a]) => a.length > 1).map(([h, a]) => ({ h, a: a.sort((p, q) => p.n - q.n) }));
+  const nK = new Set(ALLG.flatMap(g => g.a.map(x => x.k))).size;
+
+  function render(){
+    const q = $('q').value.trim(), fq = fold(q);
+    let gs = ALLG.map(g => ({ h: g.h, a: st.jl ? g.a.filter(x => x.j === st.jl) : g.a })).filter(g => g.a.length > 1);
+    // gõ đúng dấu (vd "kì") -> chỉ đúng âm đó; gõ không dấu (vd "ki") -> mọi âm bắt đầu bằng "ki"
+    const exact = q && gs.filter(g => g.h.toLowerCase() === q.toLowerCase());
+    if (exact && exact.length) gs = exact;
+    else if (q) gs = gs.filter(g => fold(g.h).startsWith(fq) || g.a.some(x => x.k === q || fold(x.m).includes(fq)));
+    gs.sort(st.sort === 'a' ? (p, q2) => p.h.localeCompare(q2.h, 'vi') : (p, q2) => q2.a.length - p.a.length || p.h.localeCompare(q2.h, 'vi'));
+    const cnt = new Set(gs.flatMap(g => g.a.map(x => x.k))).size;
+    $('stat').innerHTML = `Toàn bộ: <b>${ALLG.length}</b> âm bị trùng · <b>${nK.toLocaleString('vi-VN')}</b> chữ. Đang hiện: <b>${gs.length}</b> âm · <b>${cnt.toLocaleString('vi-VN')}</b> chữ${st.jl ? ' (chỉ tính chữ ' + st.jl + ')' : ''}.`;
+    $('idx').innerHTML = gs.length > 1 ? gs.map((g, ix) => `<a href="#g${ix}">${esc(g.h)} <b>${g.a.length}</b></a>`).join('') : '';
+    const hi = t => { const s = esc(t); if (!q || fq.length < 2) return s; const i = fold(t).indexOf(fq); return i < 0 ? s : esc(t.slice(0, i)) + '<mark>' + esc(t.slice(i, i + q.length)) + '</mark>' + esc(t.slice(i + q.length)); };
+    $('out').innerHTML = gs.map((g, ix) => `<section class="g" id="g${ix}">
+      <div class="gh">${esc(g.h)} <span class="ks">${g.a.map(x => esc(x.k)).join('')}</span> <span class="n">${g.a.length} chữ khác nhau</span></div>
+      ${g.a.map(x => `<div class="r"><a class="k" href="write.html#${encodeURIComponent(x.k)}" title="Luyện viết ${esc(x.k)}">${esc(x.k)}</a><div>
+        <div class="m">${hi(cap(x.m))}${x.hv.toUpperCase() !== g.h ? ` <span class="hv2">(${esc(x.hv)})</span>` : ''}</div>
+        <div class="t">Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}</div>
+        ${x.s ? `<div class="s">📖 ${esc(x.s)}</div>` : ''}</div></div>`).join('')}
+    </section>`).join('') || '<p class="stat">Không có âm nào khớp.</p>';
+  }
+  const storyLabel = () => { $('storyBtn').classList.toggle('on', st.story); $('storyBtn').textContent = st.story ? '📖 Câu chuyện: bật' : '📖 Câu chuyện: tắt'; document.body.classList.toggle('nostory', !st.story); };
+  $('storyBtn').onclick = () => { st.story = !st.story; storyLabel(); ls.set('kanjiDongAm', st); };
+  $('sort').value = st.sort; $('jl').value = st.jl;
+  $('sort').onchange = e => { st.sort = e.target.value; ls.set('kanjiDongAm', st); render(); };
+  $('jl').onchange = e => { st.jl = e.target.value; ls.set('kanjiDongAm', st); render(); };
+  $('q').addEventListener('input', render);
+  const h = decodeURIComponent(location.hash.slice(1)); if (h && !/^g\d+$/.test(h)) $('q').value = h;
+  storyLabel(); render();
+})();
+</script>
+</body>
+</html>
