@@ -209,7 +209,10 @@ function roadPartsHtml(num, withNew){
     const r = link && KBYCHAR.get(link);
     const glyph = `<span style="font-family:'Hiragino Mincho ProN','Yu Mincho','Noto Serif JP',serif;font-size:1.25em">${esc(g)}</span>`;
     if (!r) return glyph;
-    return glyph + (link !== g ? `→${esc(link)}` : "") + ` <span style="color:var(--accent);font-weight:700">${esc(r[2])}</span>`;
+    // tầng con: mảnh của chính mảnh này (vd 幺 → 厶), để thấy cả chuỗi nhớ
+    const sub = (ROAD.parts[String(r[0])] || []).map(([g2, l2]) => esc(g2) + (l2 && KBYCHAR.get(l2) ? ` <span style="font-size:.85em">${esc(KBYCHAR.get(l2)[2])}</span>` : "")).join(" + ");
+    return glyph + (link !== g ? `→${esc(link)}` : "") + ` <span style="color:var(--accent);font-weight:700">${esc(r[2])}</span>`
+      + (sub ? ` <span class="stat">(${sub})</span>` : "");
   });
   const fresh = withNew && (ROAD.newp[String(+num)] || []).length
     ? ` <span class="stat">· 🆕 nét/bộ mới: ${ROAD.newp[String(+num)].map(esc).join(" ")}</span>` : "";

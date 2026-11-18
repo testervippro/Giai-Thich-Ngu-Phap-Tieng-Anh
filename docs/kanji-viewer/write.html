@@ -61,6 +61,18 @@
     .xl .xi { display:block; max-width:420px; width:100%; margin-top:6px; border-radius:8px; border:1px solid var(--line); cursor:zoom-in; }
     .xl .xi.zoom { max-width:none; }
     .quiz .xl { display:none; }
+    .chain { font-size:13.5px; color:var(--muted); margin:-4px 0 10px; line-height:2.1; }
+    .chain:empty { display:none; }
+    .chain .ch { display:inline-block; padding:0 7px; margin:0 2px 2px 0; border-radius:7px; border:1px solid rgba(127,127,127,.35); background:var(--card); color:var(--ink); cursor:pointer; line-height:1.7; }
+    .chain .ch b { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:18px; }
+    .chain .ch small { color:var(--accent); font-weight:700; font-size:11.5px; }
+    .chain .later { border-color:#d97706; background:rgba(217,119,6,.10); }
+    .chain .base { border-style:dashed; }
+    .chain .kid { font-size:12.5px; }
+    .chain .kid b { font-size:15px; }
+    .chain .leg { font-size:12px; }
+    body.lite #kChain { display:none !important; }
+    .li .chain { margin:0 0 6px; }
     .sub { margin:-4px 0 12px; display:flex; flex-direction:column; gap:4px; }
     .sub:empty { display:none; }
     .sub div { font-size:13.5px; color:var(--muted); padding:3px 10px; border-left:3px solid var(--accent); background:var(--card); border-radius:0 8px 8px 0; cursor:pointer; }
@@ -113,6 +125,7 @@
   <div class="bar">
     <select id="set" aria-label="Bộ chữ">
       <option value="rtk">📘 Heisig RTK — học theo 3 sách trước (thứ tự + câu chuyện gốc)</option>
+      <option value="road" id="roadOpt">🗺️ Lộ trình p1+p2: mảnh trước, chữ ghép sau</option>
       <option value="rad" id="radOpt">🧱 Bộ nền (280 mảnh, hay gặp trước)</option>
       <option value="all">Tất cả 2.136 chữ</option>
       <option value="p1">Tập 1 (thẻ 1–1050)</option>
@@ -122,6 +135,7 @@
       <option value="miss" id="missOpt">🎯 Chữ không gặp khi đọc báo (học thuộc)</option>
       <option value="N5">JLPT N5</option><option value="N4">JLPT N4</option><option value="N3">JLPT N3</option><option value="N2">JLPT N2</option><option value="N1">JLPT N1</option>
     </select>
+    <select id="stage" class="hidden" aria-label="Chặng của lộ trình"></select>
     <button class="btn" id="prev" title="Chữ trước (←)">← Trước</button>
     <span id="pos" style="font-size:13.5px;color:var(--muted)"></span>
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
@@ -142,6 +156,7 @@
     </section>
   </div>
   <div class="story" id="kStory"></div>
+  <div class="chain" id="kChain"></div>
   <div class="sub" id="kSub"></div>
   <figure class="card" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
   <div class="xl hidden" id="xZh"></div>
@@ -229,7 +244,43 @@
       html: (r[5] || '') + (r[6] ? `<div class="rtkPrim">${r[6]}</div>` : ''), img: a.img || null,
       tag: `📘 Frame ${r[1] || '—'} · ${where}${r[7] ? ' · ' + r[7] + ' nét' : ''}${a.j ? ' · ' + a.j : ''}` };
   });
+  // 🗺️ Lộ trình p1+p2 (kanji-roadmap.js): mọi chữ đứng sau các mảnh mà câu chuyện của nó nhắc tới, chia chặng 40 chữ
+  const RM = window.ROADMAP || {}, STAGES = RM.stages || [], STG = new Map();
+  STAGES.forEach((sg, si) => sg.k.forEach(n => STG.set(n, si)));
+  const ROADSET = (RM.order || []).map(n => BYN.get(n)).filter(Boolean)
+    .map(x => Object.assign({}, x, { stg: STG.get(x.n), tag: `🗺️ Chặng ${STG.has(x.n) ? STG.get(x.n) + 1 : '–'}/${STAGES.length} · thẻ ${x.n}${x.j ? ' · ' + x.j : ''}` }));
+  // Chuỗi nhớ: các mảnh câu chuyện nhắc tới, tách tiếp 2 tầng; ✅ đã học (đứng trước trong bộ đang học),
+  // ⏳ học sau, 🧱 mảnh nền (không phải thẻ trong bộ này)
+  const KCH = /[\u2E80-\u2FDF\u3005\u30A0-\u30FF\u3400-\u9FFF\uF900-\uFAFF]/g;
+  const partsOf = (k, s) => [...new Set((String(s == null ? (BYK.get(k) || {}).s || '' : s).match(KCH) || []).filter(c => c !== k))];
+  let idxFor = null, IDX = new Map();
+  function chainHtml(x, here){
+    if (idxFor !== list){ idxFor = list; IDX = new Map(); list.forEach((y, ix) => { if (!IDX.has(y.k)) IDX.set(y.k, ix); }); }
+    const top = partsOf(x.k, x.s);
+    if (!top.length) return '';
+    const seen = new Set([x.k]);
+    const node = (c, depth) => {
+      if (seen.has(c)) return ''; seen.add(c);
+      const at = IDX.get(c), y = BYK.get(c) || RADK.get(c) || BYCH.get(c);
+      const cls = at == null ? 'base' : at < here ? 'ok' : 'later';
+      const mark = cls === 'base' ? '🧱' : cls === 'ok' ? '✅' : '⏳';
+      const tip = cls === 'base' ? 'Mảnh nền' : cls === 'ok' ? `Đã học (#${at + 1})` : `Học sau (#${at + 1}) — nên xem trước`;
+      const kids = depth < 2 ? partsOf(c).map(d => node(d, depth + 1)).filter(Boolean) : [];
+      return `<span class="ch ${cls}${depth ? ' kid' : ''}" data-k="${c}" title="${tip}">${mark} <b>${c}</b>${y && y.hv ? ` <small>${escH(y.hv)}</small>` : ''}</span>`
+        + (kids.length ? `<span class="kid">( ${kids.join(' ')} )</span> ` : ' ');
+    };
+    return `🧩 Chuỗi nhớ: ${top.map(c => node(c, 0)).join('')} <span class="leg">· ✅ đã học · ⏳ học sau · 🧱 mảnh nền</span>`;
+  }
+  function stageUi(){
+    const sel = $('stage'), on = st.set === 'road' && STAGES.length;
+    sel.classList.toggle('hidden', !on);
+    if (!on) return;
+    if (!sel.options.length) sel.innerHTML = STAGES.map((sg, si) => `<option value="${si}">Chặng ${si + 1}/${STAGES.length} · ${sg.k.slice(0, 8).map(n => (BYN.get(n) || {}).k || '').join('')}…</option>`).join('');
+    const x = list[i]; if (x && x.stg != null) sel.value = String(x.stg);
+  }
+  $('stage').onchange = e => { const si = +e.target.value; const ix = list.findIndex(x => x.stg === si); if (ix >= 0){ i = ix; show(); if (st.lite) liteScroll(i); } };
   function pool(){
+    if (st.set === 'road') return ROADSET;
     if (st.set === 'rtk') return RTK;
     if (st.set === 'rad') return RADSET;
     if (st.set === 'extra') return EXTRA;
@@ -443,6 +494,9 @@
     $('kTag').textContent = x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`;
     if (x.html != null) $('kStory').innerHTML = x.html ? '<div class="rtkStory">📖 ' + x.html + '</div>' : '';
     else $('kStory').textContent = x.s ? '📖 ' + x.s : '';
+    $('kChain').innerHTML = chainHtml(x, i);
+    $('kChain').querySelectorAll('[data-k]').forEach(d => d.onclick = () => jumpTo(d.dataset.k));
+    stageUi();
     $('kSub').innerHTML = subStories(x);
     $('kSub').querySelectorAll('[data-k]').forEach(d => d.onclick = () => jumpTo(d.dataset.k));
     // Ảnh thẻ câu chuyện (hình minh hoạ + chữ) — nhìn hình nhớ nhanh hơn chỉ đọc chữ.
@@ -507,7 +561,12 @@
         `<div class="li" id="li${ix}">`
         + `<div class="info"><div class="big">${escH(x.k)}</div><div><div class="hv">${escH(x.hv)}</div><div class="m">${escH(cap(x.m))}</div><div class="tag">${escH(x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`)} · #${ix + 1}</div></div></div>`
         + (x.html ? `<div class="story"><div class="rtkStory">📖 ${x.html}</div></div>` : x.s ? `<div class="story">📖 ${escH(x.s)}</div>` : '')
+        + (st.set === 'road' ? `<div class="chain">${chainHtml(x, ix)}</div>` : '')
         + `<div class="sub">${subStories(x)}</div></div>`).join('');
+      $('liteList').querySelectorAll('.chain [data-k]').forEach(d => d.onclick = () => {
+        const ix = list.findIndex(y => y.k === d.dataset.k);
+        if (ix >= 0) liteScroll(ix); else { st.lite = false; liteApply(); save(); jumpTo(d.dataset.k); }
+      });
       $('liteList').querySelectorAll('.sub [data-k]').forEach(d => d.onclick = () => {
         const ix = list.findIndex(y => y.k === d.dataset.k);
         if (ix >= 0) liteScroll(ix); else { st.lite = false; liteApply(); save(); jumpTo(d.dataset.k); }
@@ -549,6 +608,7 @@
   window.addEventListener('ui-theme-change', () => { redraw(); });
   $('numsBtn').classList.toggle('on', st.nums); $('ghostBtn').classList.toggle('on', st.ghost); $('quizBtn').classList.toggle('on', st.quiz); cardLabel();
   { const q = new URLSearchParams(location.search).get('set'); if (q && [...$('set').options].some(o => o.value === q)){ st.set = q; $('set').value = q; } }
+  { const o = $('roadOpt'); if (o && STAGES.length) o.textContent = `🗺️ Lộ trình p1+p2: mảnh trước, chữ ghép sau (${ROADSET.length} chữ · ${STAGES.length} chặng)`; }
   { const o = $('missOpt'); if (o && window.KANJI_MISS) o.textContent = `🎯 ${window.KANJI_MISS.length} chữ không gặp khi đọc báo (học thuộc)`; }
   i = st.pos[st.set] || 0;
   // deep link: write.html#泣 or #104
