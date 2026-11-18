@@ -136,6 +136,7 @@
 # 🗾 Tiếng Nhật — Kanji
 
 - **Học chữ Kanji**
+  - [📘 Học theo 3 sách Heisig (RTK) trước — 2136 chữ](kanji-viewer/index.html?set=rtk&view=text)
   - [2136 Kanji — học qua câu chuyện](KanjiStory.md)
   - [🧱 Bộ nền & lộ trình (252 mảnh ghép, học thành phần trước)](kanji-viewer/index.html?set=road&view=rad)
   - [🔧 Xem thẻ Kanji (JLPT N5–N1)](kanji-viewer/index.html)
