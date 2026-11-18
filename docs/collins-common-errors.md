@@ -664,7 +664,7 @@ burned *or* burnt
 | ***deal*** | dealt | dealt |
 | ***dig*** | dug | dug |
 | ***draw*** | drew | drawn |
-| ***dream*** | dreamed *or<i> dreamt | dreamed </i>or* dreamt |
+| ***dream*** | dreamed *or* dreamt | dreamed *or* dreamt |
 | ***drink*** | drank | drunk |
 | ***drive*** | drove | driven |
 | ***eat*** | ate | eaten |
@@ -696,18 +696,18 @@ had
 | ***hold*** | held | held |
 | ***hurt*** | hurt | hurt |
 | ***keep*** | kept | kept |
-| ***kneel*** | kneeled *or<i> knelt | kneeled </i>or* knelt |
+| ***kneel*** | kneeled *or* knelt | kneeled *or* knelt |
 | ***know*** | knew | known |
 | ***lay*** | laid | laid |
 | ***lead*** | led | led |
-| ***lean*** | leaned *or<i> leant | leaned </i>or* leant |
-| ***leap*** | leapt *or<i> leaped | leapt </i>or* leaped |
-| ***learn*** | learned *or<i> learnt | learned </i>or* learnt |
+| ***lean*** | leaned *or* leant | leaned *or* leant |
+| ***leap*** | leapt *or* leaped | leapt *or* leaped |
+| ***learn*** | learned *or* learnt | learned *or* learnt |
 | ***leave*** | left | left |
 | ***lend*** | lent | lent |
 | ***let*** | let | let |
 | ***lie*** (on back) | lay | lain |
-| ***light*** | lit *or<i> lighted | lit </i>or* lighted |
+| ***light*** | lit *or* lighted | lit *or* lighted |
 | ***lose*** | lost | lost |
 | ***make*** | made | made |
 | ***mean*** | meant | meant |
@@ -747,11 +747,11 @@ ridden
 | ***sit*** | sat | sat |
 | ***sleep*** | slept | slept |
 | ***slide*** | slid | slid |
-| ***smell*** | smelled *or<i> smelt | smelled </i>or* smelt |
+| ***smell*** | smelled *or* smelt | smelled *or* smelt |
 | ***speak*** | spoke | spoken |
-| ***spell*** | spelled *or<i> spelt | spelled </i>or* spelt |
+| ***spell*** | spelled *or* spelt | spelled *or* spelt |
 | ***spend*** | spent | spent |
-| ***spill*** | spilled *or<i> spilt | spilled </i>or* spilt |
+| ***spill*** | spilled *or* spilt | spilled *or* spilt |
 | ***spin*** | span | spun |
 | ***spit*** | spat | spat |
 | ***split*** | split | split |
