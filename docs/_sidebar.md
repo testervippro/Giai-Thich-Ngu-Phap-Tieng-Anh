@@ -45,6 +45,7 @@
 
 # 🗣️ Giao tiếp & Speaking
 
+- [🧭 Nói như người bản xứ: phương pháp & lộ trình 12 tuần (tổng hợp từ 6 sách)](speaking-nhu-nguoi-ban-xu.md)
 - [💬 Cụm giao tiếp hay dùng nhất trong từng phim (Friends, The Office, Silicon Valley, Suits LA)](movie-viewer/cum-giao-tiep.html)
 - [700+ câu nói ngắn hàng ngày của người bản xứ](daily-native-expressions.md)
 - [🗣️ Conversational American English (4.766 câu, 464 tình huống)](tools/conversational-american-english.html)
