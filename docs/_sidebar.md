@@ -47,6 +47,7 @@
 
 - [💬 Cụm giao tiếp hay dùng nhất trong từng phim (Friends, The Office, Silicon Valley, Suits LA)](movie-viewer/cum-giao-tiep.html)
 - [700+ câu nói ngắn hàng ngày của người bản xứ](daily-native-expressions.md)
+- [🗣️ Conversational American English (4.766 câu, 464 tình huống)](tools/conversational-american-english.html)
 - [500 Spoken English Structures (+ IELTS Speaking patterns)](500_spoken_english_structures.md)
 - [IT English Patterns — Speaking & Writing](IT%20English%20Patterns.md)
 

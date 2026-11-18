@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Conversational American English</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1040px; margin:auto; padding:4px 16px 48px; }
+    h1 { margin:0 0 6px; font-size:24px; }
+    .lead { color:var(--muted); margin:0 0 10px; font-size:14px; }
+    .lead b { color:var(--ink); }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; position:sticky; top:0; z-index:3; background:var(--bg); padding:8px 0; }
+    input[type=search], select { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; max-width:100%; }
+    input[type=search] { flex:1 1 220px; min-width:0; }
+    .bar select { flex:0 1 auto; min-width:0; width:auto; max-width:100%; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; cursor:pointer; }
+    .btn:hover { border-color:var(--accent); }
+    .btn.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .stat { color:var(--muted); font-size:13px; margin:2px 0 10px; }
+    details.toc { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:8px 12px; margin:0 0 14px; }
+    details.toc > summary { cursor:pointer; font-weight:700; }
+    .toc .c { margin:10px 0 2px; font-weight:800; color:var(--accent); }
+    .toc .s { margin:4px 0 2px 8px; font-weight:700; font-size:13.5px; }
+    .toc .ts { display:flex; flex-wrap:wrap; gap:4px; margin:0 0 0 8px; }
+    .toc a { font-size:12.5px; padding:2px 8px; border:1px solid var(--line); border-radius:999px; text-decoration:none; color:inherit; background:var(--bg); }
+    .toc a b { color:var(--muted); font-weight:600; }
+    .ch { margin:22px 0 4px; padding:10px 14px; border-radius:12px; background:var(--accentbg); }
+    .ch h2 { margin:0; font-size:19px; color:var(--accent); }
+    .ch .en { font-size:13px; color:var(--muted); }
+    .sh { margin:14px 0 6px; font-size:16px; font-weight:800; }
+    .sh .en { font-weight:400; font-size:13px; color:var(--muted); }
+    .tp { background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:0 12px 12px 0; padding:8px 12px; margin:0 0 10px; content-visibility:auto; contain-intrinsic-size:auto 300px; scroll-margin-top:64px; }
+    .th { display:flex; gap:8px; align-items:baseline; flex-wrap:wrap; margin:0 0 4px; }
+    .th .no { color:var(--muted); font-size:12.5px; font-weight:700; }
+    .th .vi { font-weight:800; font-size:16px; }
+    .th .en { color:var(--muted); font-size:13px; }
+    .th .sp { margin-left:auto; font-size:13px; padding:4px 10px; }
+    .x { display:flex; gap:8px; align-items:flex-start; padding:4px 0; border-top:1px dashed var(--line); }
+    .x:first-of-type { border-top:0; }
+    .say { flex:none; border:0; background:none; cursor:pointer; font-size:15px; padding:2px 4px; border-radius:6px; line-height:1.3; }
+    .say:hover { background:var(--accentbg); }
+    .x .t { font-size:16px; }
+    .x.now { background:var(--accentbg); border-radius:6px; }
+    .tag { display:inline-block; font-size:11.5px; padding:0 7px; margin-left:4px; border-radius:999px; border:1px solid var(--line); color:var(--muted); vertical-align:1px; white-space:nowrap; }
+    .tag.r1 { border-color:#d97706; color:#b45309; }
+    .tag.r2 { border-color:#dc2626; color:#b91c1c; }
+    .tag.r3 { border-color:#2563eb; color:#1d4ed8; }
+    .nt { display:block; font-size:13px; color:var(--muted); font-style:italic; }
+    body.nonotes .nt { display:none; }
+    mark { background:#fde68a; color:inherit; border-radius:3px; }
+    .src { color:var(--muted); font-size:12.5px; margin-top:24px; }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Conversational American English"></script>
+</head>
+<body>
+<main>
+  <h1>🗣️ Conversational American English</h1>
+  <p class="lead">Toàn bộ <b id="nX">…</b> câu nói trong sách <i>McGraw-Hill’s Conversational American English</i>, chia theo <b>464 tình huống</b> (11 phần lớn). Sách không dịch từng câu: <b>mọi câu trong cùng một tình huống đều mang cùng một ý</b>, nên chỉ cần đọc tên tình huống (đã dịch tiếng Việt) là hiểu câu dùng để làm gì. Nhãn màu cho biết sắc thái (<span class="tag r3">trang trọng</span> <span class="tag">thân mật</span> <span class="tag r1">tiếng lóng</span> <span class="tag r2">hơi thô</span>…). Bấm 🔊 để nghe từng câu, hoặc <b>▶ Đọc cả nhóm</b> để luyện nói theo.</p>
+  <div class="bar">
+    <input type="search" id="q" placeholder="Tìm câu tiếng Anh hoặc tình huống tiếng Việt (vd: how are you, xin lỗi, bill)" aria-label="Tìm">
+    <select id="cat" aria-label="Phần"><option value="">Tất cả 11 phần</option></select>
+    <select id="reg" aria-label="Sắc thái">
+      <option value="">Mọi sắc thái</option>
+      <option value="_plain">Chỉ câu trung tính (không nhãn)</option>
+      <option value="formal">Trang trọng</option>
+      <option value="informal">Thân mật</option>
+      <option value="slang">Tiếng lóng</option>
+      <option value="cliché">Câu sáo</option>
+      <option value="idiomatic">Thành ngữ</option>
+      <option value="_rude">Thô tục, thô lỗ (nên tránh)</option>
+    </select>
+    <button class="btn on" id="noteBtn" title="Hiện/ẩn chú thích nghĩa từ">📝 Chú thích</button>
+    <button class="btn" id="randBtn" title="Mở một tình huống ngẫu nhiên">🎲</button>
+  </div>
+  <div class="stat" id="stat"></div>
+  <details class="toc" id="toc"><summary>📑 Mục lục 464 tình huống</summary><div id="tocBody"></div></details>
+  <div id="out"></div>
+  <p class="src">Nguồn: Richard A. Spears, Betty Birner, Steven Kleinedler, <i>McGraw-Hill’s Conversational American English: The Illustrated Guide to the Everyday Expressions of American English</i> (McGraw-Hill, 2011). Trích để tự học; tên tình huống tiếng Việt do trang này dịch.</p>
+</main>
+<script src="cae-data.js"></script>
+<script>
+(() => {
+  "use strict";
+  const $ = id => document.getElementById(id);
+  const esc = t => String(t || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fold = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/[’‘]/g, "'");
+  const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
+  const st = Object.assign({ notes:true, cat:'', reg:'' }, ls.get('caeView', {}));
+  const D = window.CAE, REG = D.reg;
+  const RUDE = new Set(['mildly vulgar','vulgar','taboo','rude','oath','mild oath']);
+  const T = D.t.map(([c, s, n, en, vi, xs]) => ({ c, s, n, en, vi, xs: xs.map(([t, g, nt]) => ({ t, g: g || [], nt: nt || [] })) }));
+  T.forEach(tp => { tp.key = fold(tp.en + ' ' + tp.vi); tp.xs.forEach(x => x.key = fold(x.t + ' ' + x.nt.join(' '))); });
+  const total = T.reduce((a, tp) => a + tp.xs.length, 0);
+  $('nX').textContent = total.toLocaleString('vi-VN');
+  D.cats.forEach(([en, vi], i) => { const o = document.createElement('option'); o.value = i; o.textContent = `${i + 1}. ${vi} (${en})`; $('cat').appendChild(o); });
+  const tagCls = g => RUDE.has(g) ? 'r2' : (g === 'slang' ? 'r1' : g === 'formal' ? 'r3' : '');
+  const regOk = x => {
+    if (!st.reg) return true;
+    if (st.reg === '_plain') return !x.g.length;
+    if (st.reg === '_rude') return x.g.some(g => RUDE.has(g));
+    return x.g.includes(st.reg);
+  };
+  function hi(t, fq){
+    const s = String(t);
+    if (!fq || fq.length < 2) return esc(s);
+    const i = fold(s).indexOf(fq);
+    return i < 0 ? esc(s) : esc(s.slice(0, i)) + '<mark>' + esc(s.slice(i, i + fq.length)) + '</mark>' + esc(s.slice(i + fq.length));
+  }
+  function view(){
+    const fq = fold($('q').value.trim());
+    return T.filter(tp => st.cat === '' || tp.c === +st.cat).map(tp => {
+      const topicHit = fq && tp.key.includes(fq);
+      const xs = tp.xs.filter(x => regOk(x) && (!fq || topicHit || x.key.includes(fq)));
+      return { tp, xs };
+    }).filter(v => v.xs.length);
+  }
+  function render(){
+    const fq = fold($('q').value.trim());
+    const V = view();
+    const n = V.reduce((a, v) => a + v.xs.length, 0);
+    $('stat').textContent = `Đang hiện ${V.length} tình huống · ${n.toLocaleString('vi-VN')} / ${total.toLocaleString('vi-VN')} câu`;
+    // mục lục
+    let toc = '', lc = -1, lsb = -1;
+    V.forEach(({ tp }) => {
+      if (tp.c !== lc){ if (lc >= 0) toc += '</div>'; lc = tp.c; lsb = -1; toc += `<div class="c">${tp.c + 1}. ${esc(D.cats[tp.c][1])}</div>`; }
+      if (tp.s !== lsb){ if (lsb >= 0) toc += '</div>'; lsb = tp.s; toc += `<div class="s">${esc(D.subs[tp.s][1])}</div><div class="ts">`; }
+      toc += `<a href="#t${tp.n}"><b>${tp.n}</b> ${esc(tp.vi)}</a>`;
+    });
+    $('tocBody').innerHTML = toc + (V.length ? '</div>' : '');
+    // nội dung
+    let html = ''; lc = -1; lsb = -1;
+    V.forEach(({ tp, xs }) => {
+      if (tp.c !== lc){ lc = tp.c; lsb = -1; html += `<div class="ch"><h2>${tp.c + 1}. ${esc(D.cats[tp.c][1])}</h2><div class="en">${esc(D.cats[tp.c][0])}</div></div>`; }
+      if (tp.s !== lsb){ lsb = tp.s; html += `<div class="sh">${esc(D.subs[tp.s][1])} <span class="en">· ${esc(D.subs[tp.s][0])}</span></div>`; }
+      html += `<section class="tp" id="t${tp.n}"><div class="th"><span class="no">#${tp.n}</span><span class="vi">${hi(tp.vi, fq)}</span><span class="en">${hi(tp.en, fq)}</span><button class="btn sp" data-n="${tp.n}">▶ Đọc cả nhóm</button></div>`
+        + xs.map(x => `<div class="x"><button class="say" title="Nghe">🔊</button><div><span class="t">${hi(x.t, fq)}</span>${x.g.map(g => `<span class="tag ${tagCls(g)}" title="${esc(g)}">${esc(REG[g] || g)}</span>`).join('')}${x.nt.map(t => `<span class="nt">${hi(t, fq)}</span>`).join('')}</div></div>`).join('')
+        + `</section>`;
+    });
+    $('out').innerHTML = html || '<p class="stat">Không có câu nào khớp.</p>';
+  }
+  // đọc to
+  let queue = [], playing = null;
+  const clean = t => t.replace(/\s*\.\s*\.\s*\./g, '…').replace(/\(([^)]*)\)/g, '$1').replace(/\s\/\s/g, ', ');
+  function stop(){ queue = []; if (playing) playing.textContent = '▶ Đọc cả nhóm'; playing = null; document.querySelectorAll('.x.now').forEach(e => e.classList.remove('now')); try { speechSynthesis.cancel(); } catch (e) {} }
+  function speak(text, onend){
+    if (!window.speechSynthesis) return;
+    const u = new SpeechSynthesisUtterance(clean(text)); u.lang = 'en-US'; u.rate = 0.95;
+    const v = speechSynthesis.getVoices().find(v => /en[-_]US/i.test(v.lang) && /Samantha|Google US|Aria|Jenny|Ava/i.test(v.name)) || speechSynthesis.getVoices().find(v => /en[-_]US/i.test(v.lang));
+    if (v) u.voice = v;
+    if (onend) u.onend = onend;
+    speechSynthesis.speak(u);
+  }
+  function next(){
+    document.querySelectorAll('.x.now').forEach(e => e.classList.remove('now'));
+    const row = queue.shift();
+    if (!row){ stop(); return; }
+    row.classList.add('now'); row.scrollIntoView({ block:'nearest' });
+    speak(row.querySelector('.t').textContent, () => setTimeout(() => { if (playing) next(); }, 500));
+  }
+  $('out').addEventListener('click', e => {
+    const s = e.target.closest('.say');
+    if (s){ stop(); speak(s.parentElement.querySelector('.t').textContent); return; }
+    const b = e.target.closest('.sp');
+    if (b){
+      const was = playing === b; stop(); if (was) return;
+      playing = b; b.textContent = '⏹ Dừng'; queue = [...b.closest('.tp').querySelectorAll('.x')]; next();
+    }
+  });
+  if (window.speechSynthesis) speechSynthesis.onvoiceschanged = () => {};
+  // điều khiển
+  let tm = null;
+  $('q').addEventListener('input', () => { clearTimeout(tm); tm = setTimeout(render, 200); });
+  $('cat').value = st.cat; $('reg').value = st.reg;
+  $('cat').onchange = e => { st.cat = e.target.value; ls.set('caeView', st); render(); };
+  $('reg').onchange = e => { st.reg = e.target.value; ls.set('caeView', st); render(); };
+  const noteLbl = () => { $('noteBtn').classList.toggle('on', st.notes); document.body.classList.toggle('nonotes', !st.notes); };
+  $('noteBtn').onclick = () => { st.notes = !st.notes; noteLbl(); ls.set('caeView', st); };
+  $('randBtn').onclick = () => { const V = view(); if (!V.length) return; const v = V[Math.floor(Math.random() * V.length)]; document.getElementById('t' + v.tp.n).scrollIntoView({ block:'start' }); };
+  noteLbl(); render();
+  if (/^#t\d+$/.test(location.hash)) setTimeout(() => document.querySelector(location.hash)?.scrollIntoView(), 50);
+})();
+</script>
+</body>
+</html>
