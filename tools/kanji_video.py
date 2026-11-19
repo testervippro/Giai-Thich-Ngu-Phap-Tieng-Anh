@@ -32,6 +32,8 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 from kanji_audio_text import js_value, title  # noqa: E402
+import numpy as np  # noqa: E402
+import kanji_draw  # noqa: E402
 
 KV = ROOT / "docs/kanji-viewer"
 OUT = ROOT / "build/kanji-video"
@@ -199,6 +201,10 @@ def draw_rich(d: ImageDraw.ImageDraw, x0: int, y: int, text: str, size: int, wid
     return y
 
 
+def mix(col, q):
+    return tuple(int(BG[i] + (col[i] - BG[i]) * q) for i in range(3))
+
+
 def ease(t: float) -> float:
     t = max(0.0, min(1.0, t))
     return 1 - (1 - t) ** 3
@@ -315,6 +321,35 @@ def card_img(rel: str | None, max_w: int, max_h: int) -> Image.Image | None:
     return im.resize((int(im.width * s), int(im.height * s)), Image.LANCZOS)
 
 
+class Drawer:
+    """Hình minh hoạ của thẻ được 'vẽ tay' dần: nét đen -> tô màu -> nét đỏ (theo lời đọc)."""
+    def __init__(self, rel, max_w, max_h):
+        self.ok = False
+        if not rel or not (KV / rel).exists():
+            return
+        ill = kanji_draw.illustration(KV / rel)
+        if ill is None:
+            return
+        self.arr = np.asarray(ill.convert("RGB"))
+        self.T, self.R = kanji_draw.draw_plan(ill)
+        self.has_red = bool(np.isfinite(self.R).any() and (~np.isnan(self.R)).any())
+        s = min(max_w / ill.width, max_h / ill.height)
+        self.size = (int(ill.width * s), int(ill.height * s))
+        self.scale = s
+        self.ok = True
+
+    def image(self, p, pr):
+        im, pen = kanji_draw.frame(self.arr, self.T, self.R, p, pr)
+        im = im.resize(self.size, Image.LANCZOS).convert("RGBA")
+        if pen:
+            d = ImageDraw.Draw(im)
+            x, y = pen[0] * self.scale, pen[1] * self.scale
+            d.line([(x, y), (x + 34, y - 46)], fill=(60, 60, 60), width=7)          # cây bút
+            d.line([(x + 34, y - 46), (x + 44, y - 60)], fill=HL, width=7)
+            d.ellipse([x - 5, y - 5, x + 5, y + 5], fill=HL)
+        return im
+
+
 class Video:
     def __init__(self):
         self.scenes = []          # (dur, fn(t)->Image, audio path|None)
@@ -387,7 +422,6 @@ def make_video(row, info, dest: Path):
     pieces = parts_of(k, s)[:6]
     when = {c: (lead + pos.get(c, 0)) / total_chars * speech for c in pieces + [k]}
     when[k] = max(when.get(k, 0), max(when[c] for c in pieces) + 0.4) if pieces else when.get(k, 0)
-    card = card_img(img, 1000, 330)
     tiles = [glyph_tile(c, 92, INK, title(info[c]["hv"]) if c in info else "") for c in pieces]
     res = glyph_tile(k, 92, HL, title(hv))
     plus = font(F_BOLD, 54)
@@ -400,28 +434,55 @@ def make_video(row, info, dest: Path):
         res = res.resize((int(res.width * scale), int(res.height * scale)), Image.LANCZOS)
         gap = int(gap * scale)
         row_w = sum(t.width for t in tiles) + res.width + gap * 2 * len(tiles) + 40
+    drw = Drawer(img, 700, 470)
+    card = None if drw.ok else card_img(img, 1000, 330)
+    t_draw0, t_draw1 = 0.15, max(1.5, speech * 0.72)
+    t_red = min((when[c] for c in pieces), default=speech * 0.5)
+    hv_f, row_h = font(F_BOLD, 30), 74
     st_base = base()
+    if drw.ok:
+        sd = ImageDraw.Draw(st_base)
+        px, py = 40 + (720 - drw.size[0]) // 2, 30 + (490 - drw.size[1]) // 2
+        sd.rounded_rectangle([40, 30, 760, 520], 18, fill=CARD, outline=(225, 215, 205), width=2)
 
     def f_story(t):
         im = st_base.copy()
-        if card:
-            z = 1 + 0.05 * (t / d2)
-            c2 = card.resize((int(card.width * z), int(card.height * z)), Image.BILINEAR)
-            x = (W - c2.width) // 2
-            im.alpha_composite(c2, (x, 22 - (c2.height - card.height) // 2))
         d = ImageDraw.Draw(im)
-        y0 = 372
-        x = (W - row_w) / 2
-        for idx, (c, tile) in enumerate(zip(pieces, tiles)):
-            p = ease((t - when[c]) / 0.35)
-            paste_alpha(im, tile, (x, y0 + 26 * (1 - p)), p)
-            x += tile.width + gap
-            sym = "+" if idx < len(pieces) - 1 else "→"
-            if p > 0:
-                d.text((x, y0 + 70 * scale), sym, font=plus, fill=MUTED, anchor="lm")
-            x += gap + (20 if idx == len(pieces) - 1 else 0)
-        p = ease((t - when[k]) / 0.4)
-        paste_alpha(im, res, (x, y0 + 26 * (1 - p)), p)
+        if drw.ok:
+            p = 0.86 * ease((t - t_draw0) / (t_draw1 - t_draw0)) if t < t_draw1 else 1.0
+            pr = (t - t_red) / 1.4 if drw.has_red else 0
+            im.alpha_composite(drw.image(p, max(0.0, min(1.0, pr))), (px, py))
+            # các mảnh xếp dọc bên phải, hiện đúng lúc lời đọc nhắc tới
+            y = 40
+            for c in pieces:
+                q = ease((t - when[c]) / 0.35)
+                if q > 0:
+                    a_ = int(255 * q)
+                    tile = glyph_tile(c, 62, INK)
+                    paste_alpha(im, tile, (800 + 20 * (1 - q), y - 8), q)
+                    d.text((890, y + 44), title(info[c]["hv"]) if c in info else "", font=hv_f, fill=mix(ACC, q), anchor="ls")
+                y += row_h
+            q = ease((t - when[k]) / 0.4)
+            if q > 0:
+                d.line([(800, y + 6), (1230, y + 6)], fill=(210, 200, 190), width=2)
+                paste_alpha(im, glyph_tile(k, 70, HL), (800, y + 10 - 20 * (1 - q)), q)
+                d.text((895, y + 66), title(hv), font=font(F_BOLD, 36), fill=mix(HL, q), anchor="ls")
+        else:
+            if card:
+                z = 1 + 0.05 * (t / d2)
+                c2 = card.resize((int(card.width * z), int(card.height * z)), Image.BILINEAR)
+                im.alpha_composite(c2, ((W - c2.width) // 2, 22 - (c2.height - card.height) // 2))
+            y0 = 372
+            x = (W - row_w) / 2
+            for idx, (c, tile) in enumerate(zip(pieces, tiles)):
+                p = ease((t - when[c]) / 0.35)
+                paste_alpha(im, tile, (x, y0 + 26 * (1 - p)), p)
+                x += tile.width + gap
+                if p > 0:
+                    d.text((x, y0 + 70 * scale), "+" if idx < len(pieces) - 1 else "→", font=plus, fill=MUTED, anchor="lm")
+                x += gap + (20 if idx == len(pieces) - 1 else 0)
+            p = ease((t - when[k]) / 0.4)
+            paste_alpha(im, res, (x, y0 + 26 * (1 - p)), p)
         said = {c for c in pieces + [k] if t >= when[c]}
         draw_rich(d, 70, 548, s, 30, W - 140, hl=said, center=True, line_h=1.4)
         return im
@@ -442,16 +503,23 @@ def make_video(row, info, dest: Path):
         d = ImageDraw.Draw(sb)
         draw_rich(d, 40, 30, f"Câu chuyện con · mảnh của {k} ({title(hv)})", 26, 900, color=MUTED)
         tile = glyph_tile(c, 260)
-        cimg = card_img(ci["img"], 780, 260) if ci["s"] else None
+        cdrw = Drawer(ci["img"], 520, 250) if ci["s"] else None
+        cimg = None if (cdrw and cdrw.ok) else (card_img(ci["img"], 780, 260) if ci["s"] else None)
         d.text((440, 140), title(ci["hv"]), font=font(F_BOLD, 60), fill=ACC, anchor="ls")
         draw_rich(d, 440, 166, ci["m"][:1].upper() + ci["m"][1:], 36, 780)
         if cimg:
             sb.alpha_composite(cimg, (440, 230))
-        story_y = 230 + (cimg.height + 30 if cimg else 20)
+        if cdrw and cdrw.ok:
+            ImageDraw.Draw(sb).rounded_rectangle([440, 222, 440 + cdrw.size[0] + 16, 222 + cdrw.size[1] + 16], 14, fill=CARD, outline=(225, 215, 205), width=2)
+        story_y = 230 + (cimg.height + 30 if cimg else cdrw.size[1] + 36 if (cdrw and cdrw.ok) else 20)
         draw_rich(d, 440, story_y, ci["s"] or "(mảnh ghép, không có câu chuyện riêng)", 32, 800, hl=set(), color=INK if ci["s"] else MUTED)
 
-        def f_sub(t, sb=sb, tile=tile):
+        def f_sub(t, sb=sb, tile=tile, cdrw=cdrw, dur=dur):
             im = sb.copy()
+            if cdrw and cdrw.ok:
+                p = 0.86 * ease((t - 0.1) / max(0.8, dur * 0.6)) if t < dur * 0.6 + 0.1 else 1.0
+                pr = (t - dur * 0.45) / 1.0 if cdrw.has_red else 0
+                im.alpha_composite(cdrw.image(p, max(0.0, min(1.0, pr))), (448, 230))
             paste_alpha(im, tile, (60, 130 + 20 * (1 - ease(t / 0.4))), ease(t / 0.35))
             return im
         v.add(dur, f_sub, a)
