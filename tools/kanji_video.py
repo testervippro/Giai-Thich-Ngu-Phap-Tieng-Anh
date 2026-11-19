@@ -5,7 +5,7 @@ Cảnh trong mỗi video (giọng đọc tiếng Việt, độ dài cảnh theo 
   1. Giới thiệu: chữ to + âm Hán Việt + nghĩa.
   2. Câu chuyện: ảnh thẻ (lia chậm) + các mảnh ghép hiện lên ĐÚNG LÚC lời đọc nhắc tới
      (木 + 幺 + 白 → 楽) + phụ đề, mảnh đã nhắc được tô màu.
-  3. Câu chuyện con: mỗi mảnh một cảnh (chữ mảnh + Hán Việt + câu chuyện của mảnh).
+  3. (tắt) Câu chuyện con của từng mảnh — bật bằng SUBSTORIES = True.
   4. Cách viết: vẽ từng nét theo KanjiVG.
 
 Bỏ qua chữ đơn giản: chưa có câu chuyện, chính là mảnh bộ nền, hoặc câu chuyện ghép < 2 mảnh.
@@ -42,6 +42,7 @@ FFMPEG = "/opt/homebrew/bin/ffmpeg"
 FFPROBE = "/opt/homebrew/bin/ffprobe"
 W, H, FPS = 1280, 720, 24
 VOICE = "vi-VN-HoaiMyNeural"
+SUBSTORIES = False      # True = thêm cảnh câu chuyện con của từng mảnh ghép
 
 BG, INK, MUTED, ACC, HL, CARD = (250, 247, 242), (34, 30, 28), (120, 112, 104), (14, 116, 92), (217, 119, 6), (255, 255, 255)
 CJK = re.compile(r"[⺀-⿟々゠-ヿ㐀-鿿豈-﫿]")
@@ -502,8 +503,8 @@ def make_video(row, info, dest: Path):
         return im
     v.add(d2, f_story, a)
 
-    # 3. Câu chuyện con của từng mảnh
-    for c in parts_of(k, s):
+    # 3. Câu chuyện con của từng mảnh: TẮT (chỉ giữ câu chuyện chính cho video gọn)
+    for c in (parts_of(k, s) if SUBSTORIES else []):
         if c not in info:
             continue
         ci = info[c]
