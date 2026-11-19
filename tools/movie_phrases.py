@@ -83,7 +83,7 @@ def count(eps, gloss):
             seen = set()
             for t, line in eps[ei]["lines"]:
                 for ws in chunks(line):
-                    for n in range(2, min(maxn, len(ws)) + 1):
+                    for n in range(3, min(maxn, len(ws)) + 1):
                         for i in range(len(ws) - n + 1):
                             ph = " ".join(ws[i:i + n])
                             if ph not in gloss:
@@ -199,6 +199,85 @@ def show_words(eps_g, vi, names):
     return rows
 
 
+# ---------------- 700 câu nói hàng ngày (docs/daily-native-expressions.md) dò qua mọi phim ----------------
+DAILY_MD = os.path.join(ROOT, "docs", "daily-native-expressions.md")
+
+
+def daily_norm(text):
+    """'brb (be right back)' -> 'be right back' ; 'Would you mind...?' -> 'would you mind' ; 'Wow, really?' -> 'wow really'."""
+    m = re.match(r"^\s*[a-z]{2,5}\s*\(([^)]+)\)\s*$", text)
+    if m:
+        text = m.group(1)
+    text = re.sub(r"\([^)]*\)", " ", text)
+    return " ".join(NORM.get(w, w) for w in (x.lower().replace("’", "'") for x in TOK.findall(text)))
+
+
+def daily_rows(eps, shows):
+    """-> rows [số thứ tự, câu, nghĩa, [nhóm], tổng số lần, [[phim, số lần]], câu ví dụ, nguồn] — đã gộp câu trùng."""
+    items, by = [], {}
+    sec = ""
+    for l in open(DAILY_MD, encoding="utf-8"):
+        m = re.match(r"## \d+\. (.*)", l)
+        if m:
+            sec = m.group(1).strip()
+            continue
+        m = re.match(r"\| (\d+) \| ([^|]+) \| ([^|]+) \|", l)
+        if not m:
+            continue
+        key = daily_norm(m.group(2))
+        if not key:
+            continue
+        if key in by:  # câu trùng (cùng chữ, khác dấu câu/nhóm) -> gộp
+            it = by[key]
+            if sec not in it["secs"]:
+                it["secs"].append(sec)
+            continue
+        it = by[key] = dict(n=int(m.group(1)), text=m.group(2).strip(), mean=m.group(3).strip(), secs=[sec],
+                            tf=defaultdict(int), ex=None, sc=1e9)
+        items.append(it)
+    multi = {k for k in by if len(k.split()) >= 3}
+    short = {k for k in by if len(k.split()) <= 2}
+    filler = {"oh", "well", "yeah", "okay", "uh", "um", "so", "and", "but", "hey", "no", "yes", "ah", "oh"}
+    maxn = max(len(k.split()) for k in by)
+    for ei, e in enumerate(eps):
+        g = group_name(e)
+        for t, line in e["lines"]:
+            ws = [NORM.get(w, w) for w in (x.lower().replace("’", "'") for x in TOK.findall(line))]
+            ws = " ".join(ws).split()
+            hit = set()
+            for n in range(3, min(maxn, len(ws)) + 1):
+                for i in range(len(ws) - n + 1):
+                    k = " ".join(ws[i:i + n])
+                    if k in multi:
+                        hit.add(k)
+            # câu 1–2 từ ("Deal", "Got it", "Hold on"): chỉ tính khi được nói thành nguyên một vế câu
+            # (bỏ qua "oh/well/yeah…" đứng trước) — tránh đếm nhầm "Ross got it for me", "hold on to it"
+            for c in chunks(line):
+                while len(c) > 1 and c[0] in filler and " ".join(c) not in short:
+                    c = c[1:]
+                if len(c) <= 2 and " ".join(c) in short:
+                    hit.add(" ".join(c))
+            for k in hit:
+                it = by[k]
+                it["tf"][g] += 1
+                sc = ex_score(line)
+                if sc < it["sc"]:
+                    it["sc"], it["ex"] = sc, (ei, t, line)
+    order = {g: i for i, g in enumerate(shows)}
+    rows = []
+    for it in items:
+        per = sorted(([order[g], n] for g, n in it["tf"].items()), key=lambda x: -x[1])
+        ex, src = "", ""
+        if it["ex"]:
+            ei, t, line = it["ex"]
+            e = eps[ei]
+            ex = line[:140]
+            src = "%s %s · %d:%02d" % (group_name(e), "S%02dE%02d" % (e["s"], e["e"]) if e["s"] else "", t // 60, t % 60)
+            src = re.sub(r"\s+", " ", src)
+        rows.append([it["n"], it["text"], it["mean"], it["secs"], sum(it["tf"].values()), per, ex, src])
+    return rows
+
+
 def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:40]
 
@@ -232,6 +311,9 @@ def main():
         rows.sort(key=lambda r: (-r[3], -r[4]) if series else (-r[4],))
         data["shows"].append(dict(name=g, eps=n_eps, series=series, rows=rows, words=wfile, nw=nw, nvi=nvi))
         print("%-45s %3d tap  %4d cum  %5d tu (%d co nghia)" % (g[:45], n_eps, len(rows), nw, nvi))
+    data["daily"] = daily_rows(eps, shows)
+    nd = sum(1 for r in data["daily"] if r[4])
+    print("700 cau hang ngay: %d cau (sau khi bo trung), %d cau co trong phim" % (len(data["daily"]), nd))
     tpl = open(os.path.join(HERE, "movie_phrases_template.html"), encoding="utf-8").read()
     out = os.path.join(ROOT, "docs", "movie-viewer", "cum-giao-tiep.html")
     open(out, "w", encoding="utf-8").write(tpl.replace("/*DATA*/null", json.dumps(data, ensure_ascii=False, separators=(",", ":"))))

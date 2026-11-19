@@ -43,7 +43,10 @@
     td.w .f { display:block; font-weight:400; font-size:12px; color:var(--muted); }
     td.rk { color:var(--muted); font-size:12.5px; width:1%; }
     .nomean { color:var(--muted); font-style:italic; }
-    .wbox[hidden], .pbox[hidden] { display:none; }
+    .wbox[hidden], .pbox[hidden], .dbox[hidden], .tabs[hidden] { display:none; }
+    .chips { display:flex; flex-wrap:wrap; gap:4px; }
+    .chip { font-size:12px; border:1px solid var(--line); border-radius:999px; padding:1px 8px; white-space:nowrap; }
+    tr.zero td { opacity:.55; }
     @media (max-width:640px) { .hide-sm { display:none; } th, td { padding:8px 8px; } td.p { white-space:normal; } }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
@@ -57,6 +60,7 @@
   <div class="modes" role="tablist">
     <button class="mode" data-m="p">💬 Cụm giao tiếp</button>
     <button class="mode" data-m="w">📚 Toàn bộ từ trong phim</button>
+    <button class="mode" data-m="d">🗣️ 700 câu hàng ngày · mọi phim</button>
   </div>
   <p class="note" id="about"></p>
   <div class="pbox">
@@ -84,6 +88,20 @@
   </table>
   <p class="note">Toàn bộ từ trong phụ đề, gộp về từ gốc (went, going → go). Nghĩa tiếng Việt lấy từ bộ từ của trang (DK Illustrated Dictionary, TOEIC index) và danh sách tự soạn; từ chưa có nghĩa có nút <b>Dịch ↗</b> mở Google Dịch. Chỉ liệt kê từ, không chép lời thoại.</p>
   </div>
+  <div class="dbox" hidden>
+  <div class="bar">
+    <input type="search" id="dq" placeholder="Tìm câu / nghĩa…" aria-label="Tìm câu">
+    <select id="dsec" aria-label="Lọc theo nhóm"></select>
+    <select id="dsort" aria-label="Sắp xếp"><option value="n">Hay gặp nhất trước</option><option value="no">Theo thứ tự danh sách</option><option value="az">A → Z</option></select>
+    <select id="dhas" aria-label="Lọc"><option value="">Tất cả câu</option><option value="y">Chỉ câu có trong phim</option><option value="n">Chỉ câu chưa gặp trong phim</option></select>
+    <span class="note" id="dcnt"></span>
+  </div>
+  <table>
+    <thead><tr><th class="hide-sm">#</th><th>Câu</th><th>Nghĩa</th><th class="num">Số lần</th><th class="hide-sm">Có trong phim</th><th>Câu thoại ví dụ</th><th class="hide-sm">Nghe</th></tr></thead>
+    <tbody id="dbody"></tbody>
+  </table>
+  <p class="note">Lấy toàn bộ câu trong <a href="../daily-native-expressions.md">700+ câu nói ngắn hàng ngày</a>, gộp các câu trùng nhau (cùng chữ, chỉ khác dấu câu hoặc nằm ở 2 nhóm), rồi dò qua phụ đề của <b>mọi phim</b>. Câu viết tắt kiểu “brb (be right back)” được dò theo dạng nói đầy đủ; câu chỉ có 1–2 từ (“Deal”, “Got it”, “Hold on”) chỉ tính khi được nói thành nguyên một vế câu, để không đếm nhầm kiểu “Ross <i>got it</i> for me”.</p>
+  </div>
   <p class="note">Cách lọc: đếm mọi cụm 2–7 từ trong phụ đề; giữ cụm hay được nói thành một câu trọn (“I don't know.”, “Come on!”) hoặc hay mở đầu câu (“I can't believe…”). Danh sách đã duyệt tay để bỏ tên nhân vật và cụm cụt, rồi dịch nghĩa. Mỗi cụm chỉ trích 1 câu thoại ngắn để minh hoạ; lời thoại thuộc bản quyền của hãng phim.</p>
 </main>
 <script>
@@ -102,7 +120,7 @@
   const WC = {};
   const UP = new URLSearchParams(location.search);  // ?phim=intern&xem=tu
   if (UP.get('phim')) { const k = D.shows.findIndex(s => s.name.toLowerCase().includes(UP.get('phim').toLowerCase())); if (k >= 0) cur = k; }
-  if (UP.get('xem')) mode = UP.get('xem') === 'tu' ? 'w' : 'p';
+  if (UP.get('xem')) mode = UP.get('xem') === 'tu' ? 'w' : UP.get('xem') === '700' ? 'd' : 'p';
   $('tabs').innerHTML = D.shows.map((s, i) => `<button class="tab" role="tab" data-i="${i}">${esc(s.name)}<span>${s.rows.length} cụm · ${fmt(s.nw)} từ</span></button>`).join('');
   $('grp').innerHTML = '<option value="">Mọi nhóm</option>' + Object.entries(D.groups).map(([k, v]) => `<option value="${k}">${esc(v)}</option>`).join('');
   $('clean').checked = ls.get('mp-clean', false);
@@ -139,12 +157,36 @@
       + `<td class="num">${fmt(tf)}</td>` + (S.series ? `<td class="num hide-sm">${fmt(df)}/${fmt(S.eps)}</td>` : '<td class="hide-sm" style="display:none"></td>')
       + `<td class="hide-sm"><a href="${yg(w)}" target="_blank" rel="noopener">▶ YouGlish</a></td></tr>`).join('');
   }
+  const DL = D.daily || [];
+  const secs = [...new Set(DL.flatMap(r => r[3]))];
+  $('dsec').innerHTML = '<option value="">Mọi nhóm</option>' + secs.map(v => `<option>${esc(v)}</option>`).join('');
+  function drawDaily(){
+    const nHit = DL.filter(r => r[4]).length;
+    $('about').textContent = `${fmt(DL.length)} câu (đã bỏ trùng) dò qua ${fmt(totalEps)} tập / phim của ${D.shows.length} phim: ${fmt(nHit)} câu có xuất hiện, ${fmt(DL.length - nHit)} câu chưa gặp.`;
+    const q = $('dq').value.trim().toLowerCase(), sc = $('dsec').value, so = $('dsort').value, has = $('dhas').value;
+    let L = DL.filter(r => (!q || r[1].toLowerCase().includes(q) || r[2].toLowerCase().includes(q)) && (!sc || r[3].includes(sc))
+      && (!has || (has === 'y') === r[4] > 0));
+    if (so === 'n') L = L.slice().sort((a, b) => b[4] - a[4] || a[0] - b[0]);
+    if (so === 'az') L = L.slice().sort((a, b) => a[1].localeCompare(b[1]));
+    $('dcnt').textContent = `${fmt(L.length)} câu`;
+    $('dbody').innerHTML = L.map(([no, ph, mean, sec, tf, per, line, src]) => {
+      const say = ph.replace(/\([^)]*\)|\.\.\.|…/g, '').trim();
+      return `<tr${tf ? '' : ' class="zero"'}><td class="rk hide-sm">${no}</td><td class="p">${esc(ph)} <button class="say" data-t="${esc(say)}" aria-label="Đọc ${esc(ph)}">🔊</button><span class="g">${esc(sec.join(' · '))}</span></td>`
+        + `<td>${esc(mean)}</td><td class="num">${tf ? fmt(tf) : '—'}</td>`
+        + `<td class="hide-sm"><div class="chips">${per.map(([i, n]) => `<span class="chip">${esc(D.shows[i].name)} ${fmt(n)}</span>`).join('')}</div></td>`
+        + `<td class="ex">${line ? `“${bold(line, say.replace(/[^A-Za-z' ]/g, ' ').replace(/\s+/g, ' ').trim())}”<div class="src">${esc(src)}</div>` : '<span class="nomean">chưa gặp trong phim</span>'}</td>`
+        + `<td class="hide-sm"><a href="${yg(say)}" target="_blank" rel="noopener">▶ YouGlish</a></td></tr>`;
+    }).join('');
+  }
   function draw(){
     const S = D.shows[cur];
     document.querySelectorAll('.tab').forEach(b => b.classList.toggle('on', +b.dataset.i === cur));
     document.querySelectorAll('.mode').forEach(b => b.classList.toggle('on', b.dataset.m === mode));
     document.querySelector('.pbox').hidden = mode !== 'p';
     document.querySelector('.wbox').hidden = mode !== 'w';
+    document.querySelector('.dbox').hidden = mode !== 'd';
+    $('tabs').hidden = mode === 'd';
+    if (mode === 'd') return drawDaily();
     if (mode === 'w') return drawWords();
     $('about').textContent = S.series
       ? `${S.name}: ${fmt(S.eps)} tập · ${fmt(S.rows.length)} cụm. Cột “Có trong % tập” = số tập có cụm đó / ${fmt(S.eps)} tập.`
@@ -173,6 +215,11 @@
   });
   ['wq', 'wsort', 'wname'].forEach(id => $(id).addEventListener('input', () => { wshown = Infinity; drawWords(); }));
   $('wbody').addEventListener('click', e => {
+    const b = e.target.closest('.say'); if (!b || !window.speechSynthesis) return;
+    const u = new SpeechSynthesisUtterance(b.dataset.t); u.lang = 'en-US'; speechSynthesis.cancel(); speechSynthesis.speak(u);
+  });
+  ['dq', 'dsec', 'dsort', 'dhas'].forEach(id => $(id).addEventListener('input', drawDaily));
+  $('dbody').addEventListener('click', e => {
     const b = e.target.closest('.say'); if (!b || !window.speechSynthesis) return;
     const u = new SpeechSynthesisUtterance(b.dataset.t); u.lang = 'en-US'; speechSynthesis.cancel(); speechSynthesis.speak(u);
   });
