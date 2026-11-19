@@ -278,6 +278,41 @@ def daily_rows(eps, shows):
     return rows
 
 
+def all_rows(data):
+    """Gộp cụm giao tiếp của mọi phim + 700 câu hàng ngày, bỏ trùng.
+    -> rows [thứ tự, cụm, nghĩa, [nhóm], tổng số lần, [[phim, số lần]], câu ví dụ, nguồn, 'p'|'d'|'pd']"""
+    by, order = {}, []
+    for si, sh in enumerate(data["shows"]):
+        for ph, mean, grp, df, tf, line, src in sh["rows"]:
+            k = daily_norm(ph)
+            it = by.get(k)
+            if not it:
+                it = by[k] = dict(ph=ph, mean=mean, secs=[data["groups"].get(grp, "")], per={}, ex="", src="", best=-1, tag="p")
+                order.append(k)
+            it["per"][si] = it["per"].get(si, 0) + tf
+            if tf > it["best"]:
+                it["best"], it["ex"] = tf, line
+                it["src"] = sh["name"] + " " + src if sh["series"] else sh["name"] + " " + src.replace("lúc ", "")
+    for no, ph, mean, secs, tf, per, line, src in data["daily"]:
+        k = daily_norm(ph)
+        it = by.get(k)
+        if it:
+            it["tag"] = "pd"
+            it["secs"] += [x for x in secs if x not in it["secs"]]
+            continue
+        by[k] = dict(ph=ph, mean=mean, secs=list(secs), per=dict(per), ex=line, src=src, tag="d")
+        order.append(k)
+    rows = []
+    for k in order:
+        it = by[k]
+        per = sorted(([i, n] for i, n in it["per"].items()), key=lambda x: -x[1])
+        rows.append([0, it["ph"], it["mean"], it["secs"], sum(n for _, n in per), per, it["ex"], it["src"], it["tag"]])
+    rows.sort(key=lambda r: -r[4])
+    for i, r in enumerate(rows, 1):
+        r[0] = i
+    return rows
+
+
 def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:40]
 
@@ -314,6 +349,8 @@ def main():
     data["daily"] = daily_rows(eps, shows)
     nd = sum(1 for r in data["daily"] if r[4])
     print("700 cau hang ngay: %d cau (sau khi bo trung), %d cau co trong phim" % (len(data["daily"]), nd))
+    data["all"] = all_rows(data)
+    print("tat ca cum (phim + 700 cau, bo trung): %d" % len(data["all"]))
     tpl = open(os.path.join(HERE, "movie_phrases_template.html"), encoding="utf-8").read()
     out = os.path.join(ROOT, "docs", "movie-viewer", "cum-giao-tiep.html")
     open(out, "w", encoding="utf-8").write(tpl.replace("/*DATA*/null", json.dumps(data, ensure_ascii=False, separators=(",", ":"))))

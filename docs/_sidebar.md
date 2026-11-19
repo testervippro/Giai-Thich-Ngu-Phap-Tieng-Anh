@@ -53,6 +53,7 @@
 - [💬 650+ English Phrases for Everyday Speaking (40 chủ đề, song ngữ)](650-english-phrases-everyday-speaking.md)
 - [700+ câu nói ngắn hàng ngày của người bản xứ](daily-native-expressions.md)
   - [🗣️ 700 câu hàng ngày — dò trong mọi phim (bỏ trùng)](movie-viewer/cum-giao-tiep.html?xem=700)
+  - [🌐 Tất cả 1.824 cụm giao tiếp (phim + 700 câu, bỏ trùng)](movie-viewer/cum-giao-tiep.html?xem=tatca)
 - [🗣️ Conversational American English (4.766 câu, 464 tình huống)](tools/conversational-american-english.html)
 - [500 Spoken English Structures (+ IELTS Speaking patterns)](500_spoken_english_structures.md)
 - [IT English Patterns — Speaking & Writing](IT%20English%20Patterns.md)
