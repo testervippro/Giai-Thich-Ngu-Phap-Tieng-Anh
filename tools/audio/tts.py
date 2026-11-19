@@ -291,7 +291,7 @@ async def render(txt: Path, args, cache: Path) -> Path | None:
         async with sem:
             try:
                 if args.engine == "edge":
-                    await synth_edge(text, voice, args.rate, paths[i], timeout=args.timeout)
+                    await synth_edge(text, voice, args.rate, paths[i], retries=args.retries, timeout=args.timeout)
                 else:
                     await asyncio.to_thread(synth_say, text, voice, args.rate, paths[i])
             except Exception as exc:                    # noqa: BLE001
@@ -330,6 +330,7 @@ async def amain() -> int:
     ap.add_argument("--max-chars", type=int, default=2000, help="Ký tự tối đa mỗi khối văn bản")
     ap.add_argument("--req-chars", type=int, default=1200, help="Ký tự tối đa mỗi request TTS")
     ap.add_argument("-j", "--jobs", type=int, default=6, help="Số request chạy song song")
+    ap.add_argument("--retries", type=int, default=2, help="Số lần thử lại mỗi request edge (dịch vụ hay trả rỗng ngẫu nhiên)")
     ap.add_argument("--timeout", type=float, default=60.0, help="Timeout mỗi request TTS (giây)")
     ap.add_argument("--cache", type=Path, default=Path("build/audio-cache"))
     ap.add_argument("--force", action="store_true", help="Render lại cả file mp3 đã có")

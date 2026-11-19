@@ -24,6 +24,9 @@
     .info .hv { font-size:22px; font-weight:800; color:var(--accent); }
     .info .m { font-size:16px; }
     .info .tag { font-size:12.5px; color:var(--muted); }
+    .lu { font-size:14.5px; line-height:1.6; margin:-2px 0 10px; padding:8px 12px; border-radius:10px; border-left:4px solid #d97706; background:rgba(217,119,6,.10); color:var(--ink); }
+    .lu b { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
+    body.lite #kLu { display:none !important; }
     .story { font-size:14px; color:var(--muted); margin:-2px 0 10px; }
     .rtkStory { color:var(--ink); line-height:1.6; padding:10px 12px; border:1px solid var(--line, rgba(127,127,127,.25)); border-radius:10px; }
     .rtkStory i { color:var(--accent); }
@@ -125,6 +128,7 @@
   <div class="bar">
     <select id="set" aria-label="Bộ chữ">
       <option value="rtk">📘 Heisig RTK — học theo 3 sách trước (thứ tự + câu chuyện gốc)</option>
+      <option value="lu">🤯 Kanji khó nhớ — nghĩa khác tiếng Việt (507 chữ LÚ + 318 chữ mơ hồ)</option>
       <option value="road" id="roadOpt">🗺️ Lộ trình p1+p2: mảnh trước, chữ ghép sau</option>
       <option value="rad" id="radOpt">🧱 Bộ nền (280 mảnh, hay gặp trước)</option>
       <option value="all">Tất cả 2.136 chữ</option>
@@ -140,7 +144,6 @@
     <span id="pos" style="font-size:13.5px;color:var(--muted)"></span>
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
-    <a class="btn" id="mmLink" href="mindmap.html" title="Mind map câu chuyện: chữ này ghép từ bộ nào, ghép thành chữ nào" style="text-decoration:none">🧠 Mind map</a>
     <a class="btn" id="daLink" href="dong-am.html" title="Các chữ cùng âm Hán Việt nhưng khác chữ, khác nghĩa" style="text-decoration:none">🔀 Đồng âm</a>
     <button class="btn" id="liteBtn" title="Danh sách cả bộ: mỗi chữ hiện chữ Hán trước, rồi câu chuyện + mảnh ghép (ẩn ảnh, ô viết, từ vựng)">📖 Danh sách chữ + câu chuyện</button>
     <button class="btn on" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện của chữ">🖼 Ảnh: bật</button>
@@ -155,6 +158,7 @@
       <div class="wScroll"><table><tbody id="wBody"></tbody></table></div>
     </section>
   </div>
+  <div class="lu hidden" id="kLu"></div>
   <div class="story" id="kStory"></div>
   <div class="chain" id="kChain"></div>
   <div class="sub" id="kSub"></div>
@@ -199,6 +203,7 @@
 <script src="kanji-extra.js"></script>
 <script src="kanji-miss.js"></script>
 <script src="rtk-data.js"></script>
+<script src="kanji-lu.js"></script>
 <script>
 (() => {
   "use strict";
@@ -279,7 +284,13 @@
     const x = list[i]; if (x && x.stg != null) sel.value = String(x.stg);
   }
   $('stage').onchange = e => { const si = +e.target.value; const ix = list.findIndex(x => x.stg === si); if (ix >= 0){ i = ix; show(); if (st.lite) liteScroll(i); } };
+  // 🤯 Kanji nghĩa khác tiếng Việt (kanji-lu.js, từ kanji-meo-nho.md): LÚ trước, mơ hồ sau, theo số thẻ
+  const LU = new Map((window.KANJI_LU || []).map(r => [r[0], r]));
+  const LUSET = [...LU.values()].sort((a, b) => b[1] - a[1] || a[0] - b[0]).map(r => BYN.get(r[0])).filter(Boolean)
+    .map(x => Object.assign({}, x, { tag: `${LU.get(x.n)[1] === 3 ? '🤯 LÚ' : '🤔 mơ hồ'} · thẻ ${x.n}${x.j ? ' · ' + x.j : ''}` }));
+  const luHtml = x => { const r = typeof x.n === 'number' && LU.get(x.n); return r ? `${r[1] === 3 ? '🤯 <strong>Dễ hiểu sai</strong>' : '🤔 <strong>Nghĩa lệch một phần</strong>'} — tiếng Nhật thường dùng:<br>${r[2]}` : ''; };
   function pool(){
+    if (st.set === 'lu') return LUSET;
     if (st.set === 'road') return ROADSET;
     if (st.set === 'rtk') return RTK;
     if (st.set === 'rad') return RADSET;
@@ -494,6 +505,7 @@
     $('kTag').textContent = x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`;
     if (x.html != null) $('kStory').innerHTML = x.html ? '<div class="rtkStory">📖 ' + x.html + '</div>' : '';
     else $('kStory').textContent = x.s ? '📖 ' + x.s : '';
+    $('kLu').innerHTML = luHtml(x); $('kLu').classList.toggle('hidden', !$('kLu').innerHTML);
     $('kChain').innerHTML = chainHtml(x, i);
     $('kChain').querySelectorAll('[data-k]').forEach(d => d.onclick = () => jumpTo(d.dataset.k));
     stageUi();
@@ -508,7 +520,6 @@
     if (st.lite) renderLite();
     showWords(x.k);
     crossZh(x);
-    $('mmLink').href = 'mindmap.html#' + encodeURIComponent(x.k);
     $('daLink').href = 'dong-am.html#' + encodeURIComponent(String(x.hv).split(/[\/,;]/)[0].trim().toLowerCase());
     document.body.classList.toggle('quiz', st.quiz);
     $('modelBox').classList.toggle('hidden', st.quiz);
@@ -561,6 +572,7 @@
         `<div class="li" id="li${ix}">`
         + `<div class="info"><div class="big">${escH(x.k)}</div><div><div class="hv">${escH(x.hv)}</div><div class="m">${escH(cap(x.m))}</div><div class="tag">${escH(x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`)} · #${ix + 1}</div></div></div>`
         + (x.html ? `<div class="story"><div class="rtkStory">📖 ${x.html}</div></div>` : x.s ? `<div class="story">📖 ${escH(x.s)}</div>` : '')
+        + (luHtml(x) ? `<div class="lu">${luHtml(x)}</div>` : '')
         + (st.set === 'road' ? `<div class="chain">${chainHtml(x, ix)}</div>` : '')
         + `<div class="sub">${subStories(x)}</div></div>`).join('');
       $('liteList').querySelectorAll('.chain [data-k]').forEach(d => d.onclick = () => {

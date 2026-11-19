@@ -142,8 +142,7 @@
   - [🔧 Xem thẻ Kanji (JLPT N5–N1)](kanji-viewer/index.html)
   - [🎮 Game Kanji 2.136 chữ](kanji-viewer/game.html)
   - [✍️ Luyện viết 2136 Kanji](kanji-viewer/write.html)
-  - [🧠 Mind map theo câu chuyện](kanji-viewer/mindmap.html)
-  - [🌳 Mind map toàn bộ 2136 chữ](kanji-viewer/mindmap.html?all=1)
+  - [🤯 Kanji khó nhớ — nghĩa khác tiếng Việt (825 chữ)](kanji-viewer/write.html?set=lu)
   - [🔀 Kanji đồng âm Hán Việt (501 âm trùng)](kanji-viewer/dong-am.html)
   - [🧠 Mẹo nhớ từ Hán Việt dễ lú](kanji-meo-nho.md)
 - **📰 Đọc báo (133 bài · 2.089 chữ)**
