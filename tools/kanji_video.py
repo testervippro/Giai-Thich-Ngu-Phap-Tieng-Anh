@@ -95,15 +95,20 @@ def eligible(kanji, radk):
 
 
 def spoken(text: str, info) -> tuple[str, dict[str, int]]:
-    """Chữ Hán -> âm Hán Việt; trả về câu đọc + vị trí (ký tự) lần đầu nhắc mỗi chữ."""
-    out, pos = "", {}
+    """Câu đọc = lời kể, BỎ phần trong ngoặc (chữ Hán chú thích);
+    trả thêm vị trí (ký tự) lời đọc lúc mỗi chữ trong ngoặc được nhắc tới."""
+    out, pos, depth = "", {}, 0
     for ch in text:
-        if CJK.match(ch):
+        if ch == "(":
+            depth += 1
+        elif ch == ")":
+            depth = max(0, depth - 1)
+        elif CJK.match(ch):
             pos.setdefault(ch, len(out))
-            out += title(info[ch]["hv"]) if ch in info and info[ch]["hv"] else ""
-        else:
+            if not depth:                      # chữ Hán đứng ngoài ngoặc -> đọc âm Hán Việt
+                out += title(info[ch]["hv"]) if ch in info and info[ch]["hv"] else ""
+        elif not depth:
             out += ch
-    out = re.sub(r"\(\s*\)", "", out)
     out = re.sub(r"\s+([,.;:!?])", r"\1", out)
     return re.sub(r"\s{2,}", " ", out).strip(), pos
 

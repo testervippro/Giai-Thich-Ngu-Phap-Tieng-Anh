@@ -46,7 +46,8 @@ def main() -> None:
         def rep(mo):
             c = mo.group(0)
             return title(hv_of[c]) if hv_of.get(c) else ""
-        t = CJK.sub(rep, text)
+        t = re.sub(r"\s*\([^()]*\)", "", text)   # chỉ đọc lời kể, bỏ chữ chú thích trong ngoặc
+        t = CJK.sub(rep, t)
         t = re.sub(r"\(\s*\)", "", t)              # ngoặc chỉ còn rỗng (mảnh không có âm)
         # "Yêu (Yêu)": chữ đứng trước đã trùng âm Hán Việt -> bỏ phần ngoặc cho đỡ lặp
         t = re.sub(r"(\w+)\s*\((\w+)\)", lambda mo: mo.group(1) if mo.group(1).lower() == mo.group(2).lower() else mo.group(0), t)
