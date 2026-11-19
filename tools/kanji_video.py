@@ -434,7 +434,10 @@ def make_video(row, info, dest: Path):
         res = res.resize((int(res.width * scale), int(res.height * scale)), Image.LANCZOS)
         gap = int(gap * scale)
         row_w = sum(t.width for t in tiles) + res.width + gap * 2 * len(tiles) + 40
-    drw = Drawer(img, 700, 470)
+    # Ảnh AI vẽ theo câu chuyện (build/kanji-ai/NNNN-0.png, -1.png …, tạo bằng tools/kanji_ai_images.py)
+    ai = [Image.open(q).convert("RGBA").resize((470, 470), Image.LANCZOS)
+          for q in sorted((ROOT / "build/kanji-ai").glob(f"{n:04d}-*.png"))]
+    drw = Drawer(img, 700, 470) if not ai else type("NoDraw", (), {"ok": False})()
     card = None if drw.ok else card_img(img, 1000, 330)
     t_draw0, t_draw1 = 0.15, max(1.5, speech * 0.72)
     t_red = min((when[c] for c in pieces), default=speech * 0.5)
@@ -448,16 +451,23 @@ def make_video(row, info, dest: Path):
     def f_story(t):
         im = st_base.copy()
         d = ImageDraw.Draw(im)
-        if drw.ok:
-            p = 0.86 * ease((t - t_draw0) / (t_draw1 - t_draw0)) if t < t_draw1 else 1.0
-            pr = (t - t_red) / 1.4 if drw.has_red else 0
-            im.alpha_composite(drw.image(p, max(0.0, min(1.0, pr))), (px, py))
-            # các mảnh xếp dọc bên phải, hiện đúng lúc lời đọc nhắc tới
+        if ai:
+            # mỗi ảnh một đoạn của lời kể, lia/zoom chậm, chuyển cảnh mờ dần
+            seg = speech / len(ai)
+            k_ = min(len(ai) - 1, int(t / seg)) if seg > 0 else 0
+            for idx in ([k_ - 1, k_] if k_ > 0 and t - k_ * seg < 0.5 else [k_]):
+                lt = t - idx * seg
+                z = 1 + 0.08 * min(1, lt / max(seg, 0.1))
+                sz = int(470 * z)
+                img_ = ai[idx].resize((sz, sz), Image.BILINEAR).crop(((sz - 470) // 2, (sz - 470) // 2 + (idx % 2) * (sz - 470) // 3, (sz - 470) // 2 + 470, (sz - 470) // 2 + (idx % 2) * (sz - 470) // 3 + 470))
+                al = 1.0 if idx < k_ or k_ == 0 or t - k_ * seg >= 0.5 or idx != k_ else (t - k_ * seg) / 0.5
+                paste_alpha(im, img_, (165, 40), al)
+            ImageDraw.Draw(im).rounded_rectangle([163, 38, 637, 512], 16, outline=(225, 215, 205), width=3)
+        if ai or drw.ok:
             y = 40
             for c in pieces:
                 q = ease((t - when[c]) / 0.35)
                 if q > 0:
-                    a_ = int(255 * q)
                     tile = glyph_tile(c, 62, INK)
                     paste_alpha(im, tile, (800 + 20 * (1 - q), y - 8), q)
                     d.text((890, y + 44), title(info[c]["hv"]) if c in info else "", font=hv_f, fill=mix(ACC, q), anchor="ls")
@@ -467,7 +477,11 @@ def make_video(row, info, dest: Path):
                 d.line([(800, y + 6), (1230, y + 6)], fill=(210, 200, 190), width=2)
                 paste_alpha(im, glyph_tile(k, 70, HL), (800, y + 10 - 20 * (1 - q)), q)
                 d.text((895, y + 66), title(hv), font=font(F_BOLD, 36), fill=mix(HL, q), anchor="ls")
-        else:
+        if drw.ok:
+            p = 0.86 * ease((t - t_draw0) / (t_draw1 - t_draw0)) if t < t_draw1 else 1.0
+            pr = (t - t_red) / 1.4 if drw.has_red else 0
+            im.alpha_composite(drw.image(p, max(0.0, min(1.0, pr))), (px, py))
+        elif not ai:
             if card:
                 z = 1 + 0.05 * (t / d2)
                 c2 = card.resize((int(card.width * z), int(card.height * z)), Image.BILINEAR)
