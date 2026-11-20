@@ -738,7 +738,7 @@ def main():
     _init()
     prepare_bgs()
     kanji = KV.js_value(KV.KV / "kanji-game-data.js", "KANJI")
-    only = [c for a in args for c in a] if args else [r[1] for r in kanji]
+    only = [c for a in args for c in a] if args else [r[1] for r in kanji if r[5]]   # chỉ thẻ có câu chuyện
     t0, done, errs = time.time(), 0, []
     with mp.get_context("spawn").Pool(jobs, initializer=_init) as pool:
         for i, (k, st, msg) in enumerate(pool.imap_unordered(_job, [(k, force) for k in only]), 1):
