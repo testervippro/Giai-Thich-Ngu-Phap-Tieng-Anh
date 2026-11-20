@@ -1,0 +1,19 @@
+# từ khóa trong lời kể (regex, chữ thường)	phông cảnh (tiếng Anh) — dùng khi chuyện không có mảnh bối cảnh; dòng trên ưu tiên trước
+\bnhà\b|phòng|giường|\bngủ\b|tủ	inside a cozy japanese house under a wooden roof
+\bnúi\b	tall green mountains under a blue sky
+\bsông\b|suối	a winding river through green fields
+biển|sóng|bãi cát	a sunny beach with blue sea waves
+ruộng|lúa|gạo|cày	terraced green rice fields filled with water, countryside, blue sky
+trường|học|sách|đọc|viết|thầy|bút	a bright classroom with a blackboard and wooden desks
+chợ|\bbán\b|\bmua\b|tiền|giàu|bảo bối	a busy village market street with wooden stalls
+bệnh|thuốc|bác sĩ|đau	a clean hospital room with a bed and a window
+\băn\b|uống|nấu|bếp|cơm|rượu|đĩa	a cozy kitchen with a wooden dining table
+đêm|trăng|\bsao\b|tối	a quiet village at night under the moon and stars
+mưa|\bnước\b|hồ	a calm blue lake shore with gentle waves
+vua|cung điện|\bquan\b|triều|kinh đô	an ancient royal palace hall with red pillars
+chùa|thần|phật|tiên|thánh	a japanese temple with a pagoda roof
+công ty|làm việc|giám đốc|công nhân|quản lý	a modern office with desks and computers
+chiến|lính|\bquân\b|giặc|kẻ thù|đánh|cung tên|binh	an ancient battlefield with flags and tents
+trời|\bbay\b|chim|mây	a wide blue sky with fluffy clouds
+rừng|\bcây\b|hoa|cỏ	a green meadow with flowers and a few trees
+\bđi\b|đường|\bxe\b|dẫn	a country road through green hills

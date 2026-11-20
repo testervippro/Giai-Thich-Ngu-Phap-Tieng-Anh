@@ -126,7 +126,24 @@ def how_many(body: str, start: int) -> int:
     return max(1, min(4, n))
 
 
-def auto_shot(k: str, info: dict, bg: str) -> dict:
+BG_KEYS = [(l.split("\t")[0], l.split("\t")[1].strip())
+           for l in (ROOT / "tools/data/kanji_bg_keywords.tsv").read_text(encoding="utf-8").splitlines()
+           if l.strip() and not l.startswith("#")]
+BG_DEFAULT = ["a sunny park with grass and trees", "a quiet village street with wooden houses",
+              "a green meadow with flowers and a few trees"]
+
+
+def keyword_bg(k: str, body: str) -> Path:
+    import kanji_assets as KA
+    prompt = next((pr for rx, pr in BG_KEYS if re.search(rx, body)), BG_DEFAULT[ord(k) % len(BG_DEFAULT)])
+    return ASSETS / "bc" / f"{KA.slug(prompt)}.png"
+
+
+def all_bg_prompts() -> list[str]:
+    return [pr for _, pr in BG_KEYS] + BG_DEFAULT
+
+
+def auto_shot(k: str, info: dict, bg: str | None) -> dict:
     """Tự dàn cảnh:
     - mảnh có chữ gọi tên nhân vật đứng trước ('Ông vua (主)', 'Nguyệt (月)') -> vai theo chữ đó, không có thì theo mảnh;
     - nhân vật chỉ có trong lời kể -> vào đúng lúc được nhắc;
@@ -200,6 +217,8 @@ def auto_shot(k: str, info: dict, bg: str) -> dict:
     if "💀" in {x[1] for x in fx} and out:
         fx.append((next(x[0] for x in fx if x[1] == "💀"), "lie"))
     fx = fx[:5]
+    if not bgfile and not bg:
+        bgfile = keyword_bg(k, body)
     pp = [(c, (i + 1) / (len(chipl) + 1), 0.11) for i, c in enumerate(chipl)]
     return dict(bg=bg, bgfile=str(bgfile) if bgfile else None, actors=out, props=pp, objs=objs, fx=fx)
 
@@ -329,19 +348,22 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
     d0 = info[k]
     say, pos = spoken(d0["s"], info)
     intro = f"{title(d0['hv'])}. {KV.end(d0['m'].split(';')[0])}"
-    a_intro, a_story = tts(intro), tts(say)
+    a_intro = tts(intro)
+    a_story = tts(say) if say else None        # thẻ không có câu chuyện: chỉ tiêu đề + viết từng nét
+    has_pieces = bool(KV.parts_of(k, d0["s"]))
+    tail, write_at = (TAIL, WRITE_AT) if has_pieces else (3.6, 0.3)
     t_intro = duration(a_intro)
     on_, kun_ = READINGS.get(k, [[], []])
     kun_txt = [x.replace(".", "").replace("-", "") for x in kun_]
     ja_say = "、".join(kun_txt[:1] + on_[:1])
-    a_ja = jtts(ja_say) if ja_say else None
+    a_ja = None          # bỏ giọng đọc tiếng Nhật (chỉ hiện chữ cách đọc ở góc)
     t_ja = duration(a_ja) if a_ja else 0.0
     t_vi = t_intro + 0.15
     lead = max(LEAD, t_vi + (t_ja + 0.35 if a_ja else 0.15))
     ja_line = "  ".join(([f"訓 {kun_txt[0]}"] if kun_txt else []) + ([f"音 {kata(on_[0])}"] if on_ else []))
     jlpt = info[k].get("j") or ""
-    dur_s = duration(a_story)
-    total = lead + dur_s + TAIL
+    dur_s = duration(a_story) if a_story else 0.0
+    total = lead + dur_s + tail
     L = max(1, len(say))
     at = {c: lead + dur_s * min(1.0, p / L) for c, p in pos.items()}   # lúc lời kể nhắc tới mảnh
     acts = []
@@ -495,7 +517,7 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
             fl = math.sin(t * 2.5 + x) * 4
             scene.alpha_composite(oi.resize((ow, oh), Image.LANCZOS),
                                   (int(min(SCENE - ow, max(0, x - ow / 2))), int(yb - oh + fl)))
-            if t <= total - TAIL + 0.2:
+            if t <= total - tail + 0.2:
                 cp = small_chip[c]
                 scene.alpha_composite(cp, (int(min(SCENE - cp.width, max(0, x - cp.width / 2))), int(min(SCENE - cp.height, yb + 4 + fl))))
         # --- đêm / mưa
@@ -541,7 +563,7 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
             if c not in at or c in obj_pieces:
                 continue
             q = pop((t - at[c]) / 0.45)
-            if q <= 0 or t > total - TAIL + 0.2:
+            if q <= 0 or t > total - tail + 0.2:
                 continue
             ap = anchor_of(c) or (SCENE * (0.2 + 0.6 * pieces.index(c) / max(1, len(pieces) - 1)), SCENE * 0.12)
             cp = chips[c]
@@ -550,7 +572,7 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
             float_y = math.sin(t * 3 + pieces.index(c)) * 5
             scene.alpha_composite(cpz, (int(min(SCENE - cw - 6, max(6, ap[0] - cw / 2))), int(max(6, ap[1] - ch_ / 2 + float_y))))
         # --- đoạn cuối: tối phông, các mảnh ghép thành chữ
-        te = t - (total - TAIL)
+        te = t - (total - tail)
         if te > 0:
             dim = Image.new("RGBA", scene.size, (250, 247, 242, int(215 * ease(te / 0.5))))
             scene.alpha_composite(dim)
@@ -559,7 +581,8 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
             items = []
             for c in pieces:
                 items += [("p", c), ("+", "+")]
-            items[-1] = ("=", "=")
+            if items:
+                items[-1] = ("=", "=")
             items.append(("k", k))
             ws = [120 if kind in "pk" else 50 for kind, _ in items]
             zf = min(1.0, (SCENE - 40) / sum(ws))
@@ -578,9 +601,9 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
                     q = pop((te - 0.9) / 0.5)
                     if q > 0:
                         sd.text((cx, SCENE / 2 + 45), c, font=kfont(max(1, int(130 * q * zf))), fill=HL, anchor="ms")
-            if te > WRITE_AT - 0.3:
+            if te > write_at - 0.3:
                 # che phần ghép chữ, viết chữ từng nét trong ô kẻ
-                a_ = ease((te - (WRITE_AT - 0.3)) / 0.3)
+                a_ = ease((te - (write_at - 0.3)) / 0.3)
                 scene.alpha_composite(Image.new("RGBA", scene.size, (250, 247, 242, int(255 * a_))))
                 sd = ImageDraw.Draw(scene)
                 bx, by, bs = (SCENE - 440) / 2, 70, 440
@@ -589,7 +612,7 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
                     sd.line([bx + bs * q_, by, bx + bs * q_, by + bs], fill=(232, 224, 216), width=2)
                     sd.line([bx, by + bs * q_, bx + bs, by + bs * q_], fill=(232, 224, 216), width=2)
                 n_st = max(1, len(strokes))
-                prog = max(0.0, (te - WRITE_AT) / (TAIL - WRITE_AT - 0.5)) * n_st
+                prog = max(0.0, (te - write_at) / (tail - write_at - 0.5)) * n_st
                 for si, pts in enumerate(strokes):
                     fr = min(1.0, prog - si)
                     if fr <= 0:
@@ -606,8 +629,9 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
                 if not strokes and a_ >= 1:
                     sd.text((SCENE / 2, by + bs * 0.82), k, font=kfont(360), fill=INK, anchor="ms")
                 sd.text((SCENE / 2, by + bs + 60), f"{len(strokes)} nét" if strokes else "", font=font(F_BOLD, 34), fill=MUTED, anchor="ms")
-                sd.text((SCENE / 2, by + bs + 108), " + ".join(title(info[c]["hv"]) if c in info and info[c]["hv"] else c for c in pieces) + " = " + title(d0["hv"]),
-                        font=font(F_BOLD, 32), fill=ACC, anchor="ms")
+                if pieces:
+                    sd.text((SCENE / 2, by + bs + 108), " + ".join(title(info[c]["hv"]) if c in info and info[c]["hv"] else c for c in pieces) + " = " + title(d0["hv"]),
+                            font=font(F_BOLD, 32), fill=ACC, anchor="ms")
             elif te > 1.2:
                 sd.text((SCENE / 2, SCENE / 2 + 140), " + ".join(title(info[c]["hv"]) if c in info and info[c]["hv"] else c for c in pieces) + " = " + title(d0["hv"]),
                         font=font(F_BOLD, 34), fill=ACC, anchor="ms")
@@ -649,33 +673,83 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
         v.add(lead - t_vi, lambda tt: frame(t_vi + tt), a_ja)
     else:
         v.add(lead - t_vi, lambda tt: frame(t_vi + tt))
-    v.add(dur_s + TAIL, lambda tt: frame(lead + tt), a_story)
+    v.add(dur_s + tail, lambda tt: frame(lead + tt), a_story)
     v.render(dest)
 
 
-def main():
-    kanji, info, _ = KV.load_data()
+def _job(args):
+    k, force = args
+    try:
+        dest = OUT / f"{_INFO[k]['n']:04d}-{k}.mp4"
+        if dest.exists() and not force:
+            return k, "skip", ""
+        shot = auto_shot(k, _INFO, _SCENES.get(k, {}).get("bg"))
+        make_short(k, _INFO, shot, dest)
+        return k, "ok", " ".join(a[1] for a in shot["actors"])
+    except Exception as e:  # noqa: BLE001
+        return k, "ERR", repr(e)[:200]
+
+
+def _init():
+    global _INFO, _SCENES
+    kanji, _INFO, _ = KV.load_data()
     for r in kanji:
-        info[r[1]].setdefault("j", r[4])
-    OUT.mkdir(parents=True, exist_ok=True)
-    scenes = {}
+        _INFO[r[1]].setdefault("j", r[4])
+    _SCENES = {}
     if SCENES.exists():
         for l in SCENES.read_text(encoding="utf-8").splitlines():
             if l.strip():
                 r = json.loads(l)
-                scenes[r["k"]] = r
+                _SCENES[r["k"]] = r
+
+
+def prepare_bgs():
+    """Vẽ trước các phông cảnh theo từ khóa (sd-turbo) để các tiến trình song song không phải nạp mô hình."""
+    import kanji_assets as KA
+    todo = [pr for pr in all_bg_prompts() if not (ASSETS / "bc" / f"{KA.slug(pr)}.png").exists()]
+    if not todo:
+        return
+    import torch
+    from diffusers import AutoPipelineForText2Image
+    pipe = AutoPipelineForText2Image.from_pretrained("stabilityai/sd-turbo", torch_dtype=torch.float16,
+                                                     variant="fp16").to("mps")
+    pipe.set_progress_bar_config(disable=True)
+    for pr in todo:
+        pipe(prompt=pr + BG_STYLE, num_inference_steps=2, guidance_scale=0.0, height=512, width=512,
+             generator=torch.Generator("cpu").manual_seed(5)).images[0].save(ASSETS / "bc" / f"{KA.slug(pr)}.png")
+        print("phông:", pr, flush=True)
+
+
+def main():
+    """  kanji_shorts.py                 # mọi thẻ (2.161), bỏ qua video đã có
+         kanji_shorts.py -j 6 --force   # chạy 6 tiến trình, dựng lại hết
+         kanji_shorts.py 休塩           # vài chữ"""
+    import multiprocessing as mp
+    import time
     args = sys.argv[1:]
     force = "--force" in args
+    jobs = 6
+    if "-j" in args:
+        jobs = int(args[args.index("-j") + 1])
+        del args[args.index("-j"):args.index("-j") + 2]
     args = [a for a in args if a != "--force"]
-    only = [c for a in args for c in a] if args else list(scenes)
-    for i, k in enumerate(only, 1):
-        dest = OUT / f"{info[k]['n']:04d}-{k}.mp4"
-        if dest.exists() and not force:
-            continue
-        shot = auto_shot(k, info, scenes.get(k, {}).get("bg", "a simple sunny park"))
-        make_short(k, info, shot, dest)
-        print(f"[{i}/{len(only)}]", dest.relative_to(ROOT), f"{duration(dest):.1f}s",
-              " ".join(a[1] for a in shot["actors"]), flush=True)
+    OUT.mkdir(parents=True, exist_ok=True)
+    _init()
+    prepare_bgs()
+    kanji = KV.js_value(KV.KV / "kanji-game-data.js", "KANJI")
+    only = [c for a in args for c in a] if args else [r[1] for r in kanji]
+    t0, done, errs = time.time(), 0, []
+    with mp.get_context("spawn").Pool(jobs, initializer=_init) as pool:
+        for i, (k, st, msg) in enumerate(pool.imap_unordered(_job, [(k, force) for k in only]), 1):
+            if st == "ERR":
+                errs.append((k, msg))
+                print(f"[{i}/{len(only)}] {k} LỖI {msg}", flush=True)
+            elif st == "ok":
+                done += 1
+                if done % 25 == 0 or len(only) < 60:
+                    el = time.time() - t0
+                    print(f"[{i}/{len(only)}] {k} {msg} · còn ~{el / i * (len(only) - i) / 60:.0f} phút", flush=True)
+    print(f"xong {done} video, {len(errs)} lỗi, {(time.time() - t0) / 60:.0f} phút", flush=True)
 
 
 if __name__ == "__main__":
