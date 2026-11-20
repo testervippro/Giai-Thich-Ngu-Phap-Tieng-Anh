@@ -35,7 +35,17 @@ W, H, FPS = 720, 1280, 24
 SCENE_Y, SCENE = 300, 720          # phông cảnh vuông 720×720
 BG_STYLE = (", wide establishing shot, no people, no animals, empty scene, cute flat cartoon background, "
             "children's picture book style, soft pastel colors, clean lines, no text")
-LEAD, TAIL = 1.4, 3.4              # giây trước lời kể (tiêu đề) / sau lời kể (ghép chữ)
+LEAD, TAIL = 1.4, 5.2              # giây trước lời kể (tiêu đề) / sau lời kể (ghép chữ 2 s + viết từng nét)
+WRITE_AT = 2.1                     # giây (tính từ đầu đoạn cuối) bắt đầu viết từng nét
+READINGS = json.loads((ROOT / "tools/data/kanji_readings.json").read_text(encoding="utf-8"))["r"]
+JA_VOICE = "ja-JP-NanamiNeural"
+F_KANA = "/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc"
+FUNC = set("là có dùng trên dưới ở đi để của và với cầm mang bị được thì trong ra vào lên xuống đang rất sẽ nhiều "
+           "các những một qua khi nên mà cho từ tới đến phải không cả lại làm nói ăn thấy nhìn đã vẫn hay như "
+           "giao đóng xem nuôi gặp bắt chơi đè dẫn tạo".split())
+# tên người trong lời kể (chữ đứng ngay trước mảnh): 'Hòa (禾)', 'Tì', '2 Em (⺕)', 'cô Tấm (受)'
+GLOSS_RX = {"nhan": r"\b(hòa|hoà|tì|tỉ|chí|anh chí|các vị|họ tào|người)\s*$", "bo": r"\bem\s*$",
+            "nu": r"cô tấm|cô nương\s*$"}
 
 # Kịch bản thử: phông cảnh + nhân vật (mảnh, id, x giữa 0..1, chân y 0..1, cao 0..1, kiểu vào) + mảnh đạo cụ (x, y)
 SHOTS = {
@@ -134,7 +144,9 @@ def auto_shot(k: str, info: dict, bg: str) -> dict:
         prev = m.end()
         if c == k or not KV.CJK.fullmatch(c[:1]):
             continue
-        cid = next((r for r, rx in TEXT_RX.items() if re.search(rx, gloss)), None) or PIECE2ID.get(c)
+        g2 = gloss.strip()
+        cid = (next((r for r, rx in GLOSS_RX.items() if re.search(rx, g2)), None)
+               or next((r for r, rx in TEXT_RX.items() if re.search(rx, gloss)), None) or PIECE2ID.get(c))
         if cid and cid not in seen:
             seen.add(cid)
             actors.append([c[:1], cid, None])
@@ -256,13 +268,78 @@ def wrap(text: str, f, width: int) -> list[str]:
     return lines + ([cur] if cur else [])
 
 
+def kata(s: str) -> str:
+    return "".join(chr(ord(c) + 0x60) if "ぁ" <= c <= "ゖ" else c for c in s)
+
+
+def jtts(text: str) -> Path:
+    """Đọc tiếng Nhật (edge ja-JP-NanamiNeural; hỏng thì giọng Kyoko của macOS), có cache."""
+    import asyncio
+    import hashlib
+    import subprocess
+    import tempfile
+    KV.CACHE.mkdir(parents=True, exist_ok=True)
+    dest = KV.CACHE / (hashlib.sha1(f"{JA_VOICE}|{text}".encode()).hexdigest()[:16] + ".mp3")
+    if dest.exists() and dest.stat().st_size > 512:
+        return dest
+
+    async def go():
+        import edge_tts
+        for _ in range(8):
+            try:
+                data = bytearray()
+                async for msg in edge_tts.Communicate(text, JA_VOICE).stream():
+                    if msg["type"] == "audio":
+                        data += msg["data"]
+                if len(data) > 512:
+                    dest.write_bytes(bytes(data))
+                    return True
+            except Exception:  # noqa: BLE001
+                await asyncio.sleep(1.5)
+        return False
+    if not asyncio.run(go()):
+        with tempfile.NamedTemporaryFile(suffix=".aiff", delete=False) as t:
+            aiff = Path(t.name)
+        subprocess.run(["say", "-v", "Kyoko", "-o", str(aiff), text], check=True)
+        subprocess.run([KV.FFMPEG, "-y", "-loglevel", "error", "-i", str(aiff), "-b:a", "64k", str(dest)], check=True)
+        aiff.unlink(missing_ok=True)
+    return dest
+
+
+def key_words(story: str, k: str, say: str) -> set[int]:
+    """Chỉ số các từ trong lời đọc là chữ gọi tên mảnh ('trái tim (心)' -> 2 từ, 'cây (木)' -> 1 từ)."""
+    words = [re.sub(r"[^\w]", "", w.lower()) for w in say.split(" ")]
+    out, prev, cur = set(), 0, 0
+    for m in re.finditer(r"\(([^)]+)\)", story):
+        g = re.findall(r"[^\W_]+", story[prev:m.start()].lower())
+        prev = m.end()
+        if m.group(1)[:1] == k or not g:
+            continue
+        n = 2 if len(g) >= 2 and g[-2] not in FUNC and not g[-2].isdigit() else 1
+        tgt = g[-n:]
+        for i in range(cur, len(words) - n + 1):
+            if words[i:i + n] == tgt:
+                out.update(range(i, i + n))
+                cur = i + n
+                break
+    return out
+
+
 def make_short(k: str, info: dict, shot: dict, dest: Path):
     d0 = info[k]
     say, pos = spoken(d0["s"], info)
     intro = f"{title(d0['hv'])}. {KV.end(d0['m'].split(';')[0])}"
     a_intro, a_story = tts(intro), tts(say)
     t_intro = duration(a_intro)
-    lead = max(LEAD, t_intro + 0.3)
+    on_, kun_ = READINGS.get(k, [[], []])
+    kun_txt = [x.replace(".", "").replace("-", "") for x in kun_]
+    ja_say = "、".join(kun_txt[:1] + on_[:1])
+    a_ja = jtts(ja_say) if ja_say else None
+    t_ja = duration(a_ja) if a_ja else 0.0
+    t_vi = t_intro + 0.15
+    lead = max(LEAD, t_vi + (t_ja + 0.35 if a_ja else 0.15))
+    ja_line = "  ".join(([f"訓 {kun_txt[0]}"] if kun_txt else []) + ([f"音 {kata(on_[0])}"] if on_ else []))
+    jlpt = info[k].get("j") or ""
     dur_s = duration(a_story)
     total = lead + dur_s + TAIL
     L = max(1, len(say))
@@ -342,6 +419,9 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
     chips = {c: chip(c, title(info[c]["hv"]) if c in info and info[c]["hv"] else "") for c in pieces}
     f_hv, f_m, f_sub = font(F_BOLD, 44), font(F_TXT, 34), font(F_BOLD, 40)
     sub_lines = wrap(say, f_sub, W - 90)
+    strokes = KV.strokes_of(k)
+    # từ gọi tên mảnh trong phụ đề: tô xanh đậm + gạch chân khi đọc tới (nối chữ ↔ mảnh)
+    key_idx = key_words(d0["s"], k, say)
 
     def anchor_of(ch):
         for c, cid, x, y, h, how, _, _ in acts:
@@ -361,6 +441,12 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
         d.text((W / 2, 150), k, font=kfont(int(150 * (0.8 + 0.2 * a))), fill=INK, anchor="ms")
         d.text((W / 2, 212), title(d0["hv"]).upper(), font=f_hv, fill=ACC, anchor="ms")
         d.text((W / 2, 262), d0["m"].split(";")[0], font=f_m, fill=MUTED, anchor="ms")
+        if ja_line:
+            on_now = t_vi <= t <= t_vi + t_ja + 0.2
+            d.text((W - 26, 52), ja_line, font=font(F_KANA, 30), fill=HL if on_now else ACC, anchor="rs")
+        if jlpt:
+            d.rounded_rectangle([22, 24, 98, 66], 12, fill=ACC)
+            d.text((60, 56), jlpt, font=font(F_BOLD, 28), fill=(255, 255, 255), anchor="ms")
         # --- phông cảnh: Ken Burns chậm
         z = t / total
         ox, oy = int(40 * z), int(40 * (1 - z))
@@ -492,7 +578,37 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
                     q = pop((te - 0.9) / 0.5)
                     if q > 0:
                         sd.text((cx, SCENE / 2 + 45), c, font=kfont(max(1, int(130 * q * zf))), fill=HL, anchor="ms")
-            if te > 1.2:
+            if te > WRITE_AT - 0.3:
+                # che phần ghép chữ, viết chữ từng nét trong ô kẻ
+                a_ = ease((te - (WRITE_AT - 0.3)) / 0.3)
+                scene.alpha_composite(Image.new("RGBA", scene.size, (250, 247, 242, int(255 * a_))))
+                sd = ImageDraw.Draw(scene)
+                bx, by, bs = (SCENE - 440) / 2, 70, 440
+                sd.rectangle([bx, by, bx + bs, by + bs], outline=(214, 205, 196), width=3)
+                for q_ in (0.5,):
+                    sd.line([bx + bs * q_, by, bx + bs * q_, by + bs], fill=(232, 224, 216), width=2)
+                    sd.line([bx, by + bs * q_, bx + bs, by + bs * q_], fill=(232, 224, 216), width=2)
+                n_st = max(1, len(strokes))
+                prog = max(0.0, (te - WRITE_AT) / (TAIL - WRITE_AT - 0.5)) * n_st
+                for si, pts in enumerate(strokes):
+                    fr = min(1.0, prog - si)
+                    if fr <= 0:
+                        break
+                    pp = [(bx + px * bs / 109, by + py * bs / 109) for px, py in KV.partial(pts, fr)]
+                    col = HL if fr < 1 else INK
+                    if len(pp) > 1:
+                        sd.line(pp, fill=col, width=26, joint="curve")
+                    for px, py in (pp[0], pp[-1]):
+                        sd.ellipse([px - 13, py - 13, px + 13, py + 13], fill=col)
+                    if fr >= 1 and pts:
+                        sx, sy = bx + pts[0][0] * bs / 109, by + pts[0][1] * bs / 109
+                        sd.text((sx - 16, sy - 16), str(si + 1), font=font(F_BOLD, 22), fill=ACC, anchor="mm")
+                if not strokes and a_ >= 1:
+                    sd.text((SCENE / 2, by + bs * 0.82), k, font=kfont(360), fill=INK, anchor="ms")
+                sd.text((SCENE / 2, by + bs + 60), f"{len(strokes)} nét" if strokes else "", font=font(F_BOLD, 34), fill=MUTED, anchor="ms")
+                sd.text((SCENE / 2, by + bs + 108), " + ".join(title(info[c]["hv"]) if c in info and info[c]["hv"] else c for c in pieces) + " = " + title(d0["hv"]),
+                        font=font(F_BOLD, 32), fill=ACC, anchor="ms")
+            elif te > 1.2:
                 sd.text((SCENE / 2, SCENE / 2 + 140), " + ".join(title(info[c]["hv"]) if c in info and info[c]["hv"] else c for c in pieces) + " = " + title(d0["hv"]),
                         font=font(F_BOLD, 34), fill=ACC, anchor="ms")
         # bo góc phông cảnh
@@ -505,15 +621,22 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
             prog = min(1.0, (t - lead) / max(0.1, dur_s))
             spoken_n = prog * L
             y = SCENE_Y + SCENE + 64
-            done = 0
+            done, wi = 0, 0
             for line in sub_lines:
                 lw = f_sub.getlength(line)
                 x = (W - lw) / 2
                 for wd in line.split(" "):
-                    col = HL if done + len(wd) / 2 <= spoken_n else INK
+                    said = done + len(wd) / 2 <= spoken_n
+                    if wi in key_idx:
+                        col = ACC
+                        if said:
+                            d.line([x, y + 8, x + f_sub.getlength(wd.rstrip(".,!?")), y + 8], fill=ACC, width=4)
+                    else:
+                        col = HL if said else INK
                     d.text((x, y), wd, font=f_sub, fill=col, anchor="ls")
                     x += f_sub.getlength(wd + " ")
                     done += len(wd) + 1
+                    wi += 1
                 y += 54
         d.rectangle([0, H - 8, W, H], fill=ACC)
         return im
@@ -521,13 +644,19 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
     v = KV.Video()
     KV.W, KV.H, KV.FPS = W, H, FPS          # Video.render dùng kích thước của module
     # cảnh 1: tiêu đề (đọc âm + nghĩa), cảnh 2: lời kể + phần ghép chữ
-    v.add(lead, frame, a_intro)
+    v.add(t_vi, frame, a_intro)
+    if a_ja:
+        v.add(lead - t_vi, lambda tt: frame(t_vi + tt), a_ja)
+    else:
+        v.add(lead - t_vi, lambda tt: frame(t_vi + tt))
     v.add(dur_s + TAIL, lambda tt: frame(lead + tt), a_story)
     v.render(dest)
 
 
 def main():
-    _, info, _ = KV.load_data()
+    kanji, info, _ = KV.load_data()
+    for r in kanji:
+        info[r[1]].setdefault("j", r[4])
     OUT.mkdir(parents=True, exist_ok=True)
     scenes = {}
     if SCENES.exists():
