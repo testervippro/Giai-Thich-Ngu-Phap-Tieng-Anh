@@ -51,6 +51,22 @@ CAST = {
     "rong": ("竜龍", "Rồng", "a cute green chinese dragon with small horns, side view"),
 }
 SEEDS = [11, 22, 33, 44]
+# Nhận nhân vật trong LỜI KỂ (khi chuyện không ghi mảnh trong ngoặc), so trên chữ thường, đã bỏ phần trong ngoặc
+TEXT_RX = {
+    "nhan": r"\bngười\b(?! (phụ nữ|con gái|con trai|yêu|đàn ông|chết))|\bnhân\b",
+    "nu": r"phụ nữ|con gái|cô gái|\bvợ\b|\bmẹ\b|\bbà\b",
+    "vuong": r"\bvua\b|hoàng đế", "si": r"binh sĩ|\blính\b|quân đội|chiến binh|kẻ sỹ|\btướng\b",
+    "khuyen": r"\bchó\b", "dieu": r"\bchim\b|\bgà\b|\bquạ\b", "duong": r"\bdê\b|\bcừu\b", "nguu": r"\btrâu\b|\bbò\b",
+    "nguyet": r"nguyệt", "thao": r"cô thảo", "bo": r"\bbồ\b|người yêu", "chu": r"ông chủ|giám đốc|\bquan\b(?! hệ| trọng| sát| tâm)|ông lí",
+    "trung": r"côn trùng|\bsâu\b", "tre": r"trẻ con|đứa trẻ|em bé|\bcháu\b|nhi đồng", "xac": r"xác chết|người chết",
+    "than": r"ông thần|thần thánh", "ong": r"anh trai|\bbố\b|\bông già\b", "thu": r"kẻ thù|\bgiặc\b",
+    "sinh": r"tiên sinh|\bthầy\b|hòa thượng|hoà thượng|nhà sư|tác giả", "ma": r"\bma\b(?! sát)|\bquỷ\b",
+    "chong": r"\bchồng\b", "lon": r"\blợn\b|\bheo\b", "ngua": r"\bngựa\b", "cong": r"công nhân|\bthợ\b",
+    "ca": r"\bcá\b", "ho": r"\bhổ\b", "rong": r"\brồng\b",
+}
+# chiều cao sprite so với phông cảnh
+SIZE = {"dieu": 0.24, "trung": 0.18, "ca": 0.2, "ma": 0.3, "tre": 0.3, "khuyen": 0.3, "duong": 0.34, "lon": 0.3,
+        "nguu": 0.36, "ngua": 0.4, "ho": 0.32, "rong": 0.36}
 
 
 def pipe():
