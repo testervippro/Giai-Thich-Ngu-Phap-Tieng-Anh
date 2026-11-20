@@ -351,7 +351,8 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
     a_intro = tts(intro)
     a_story = tts(say) if say else None        # thẻ không có câu chuyện: chỉ tiêu đề + viết từng nét
     has_pieces = bool(KV.parts_of(k, d0["s"]))
-    tail, write_at = (TAIL, WRITE_AT) if has_pieces else (3.6, 0.3)
+    # bỏ phần viết từng nét: chuyện có mảnh -> chỉ ghép chữ (3,2 s); thẻ không chuyện -> hiện chữ to 2,4 s
+    tail, write_at = (3.2, 99.0) if has_pieces else (2.4, 0.3)
     t_intro = duration(a_intro)
     on_, kun_ = READINGS.get(k, [[], []])
     kun_txt = [x.replace(".", "").replace("-", "") for x in kun_]
@@ -441,7 +442,7 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
     chips = {c: chip(c, title(info[c]["hv"]) if c in info and info[c]["hv"] else "") for c in pieces}
     f_hv, f_m, f_sub = font(F_BOLD, 44), font(F_TXT, 34), font(F_BOLD, 40)
     sub_lines = wrap(say, f_sub, W - 90)
-    strokes = KV.strokes_of(k)
+    strokes = []                               # không vẽ từng nét nữa
     # từ gọi tên mảnh trong phụ đề: tô xanh đậm + gạch chân khi đọc tới (nối chữ ↔ mảnh)
     key_idx = key_words(d0["s"], k, say)
 
