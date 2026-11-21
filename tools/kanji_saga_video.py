@@ -435,39 +435,22 @@ def ts(t: float, sep=",") -> str:
     return f"{int(t // 3600):02d}:{int(t % 3600 // 60):02d}:{int(t % 60):02d}{sep}{int(t * 1000 % 1000):03d}"
 
 
-REV_N, REV_ASK, REV_SHOW, REV_TITLE = 12, 3.5, 3.0, 2.0   # ôn lại: 12 chữ/trang, nhớ 3.5 s, đáp án 3 s
+END_IMG = 3.0                                    # cuối mỗi đề mục: ảnh minh hoạ toàn màn hình 3 s
 
 
-def review_frame(img: str, title_: str, page: int, pages: int, keys: list, reveal: bool, dest: Path) -> None:
-    """Màn ôn lại: lưới 4x3 chữ Kanji của đề mục vừa nghe; lúc đầu chỉ có chữ, sau hiện âm HV + nghĩa."""
+def full_frame(img: str, title_: str, dest: Path) -> None:
+    """Ảnh minh hoạ của đề mục, to hết màn hình (nền mờ), tên đề mục ở dưới."""
     pic = Image.open(IMG / f"{img}.webp").convert("RGB")
     r = max(W / pic.width, H / pic.height)
     im = pic.resize((int(pic.width * r) + 1, int(pic.height * r) + 1)).crop((0, 0, W, H))
-    im = im.filter(ImageFilter.GaussianBlur(30)).point(lambda v: int(v * 0.25))
+    im = im.filter(ImageFilter.GaussianBlur(30)).point(lambda v: int(v * 0.3))
+    fg = pic.resize((W, int(W * pic.height / pic.width)), Image.LANCZOS)
+    if fg.height > H - 80:
+        fg = pic.resize((int((H - 80) * pic.width / pic.height), H - 80), Image.LANCZOS)
+    im.paste(fg, ((W - fg.width) // 2, (H - 60 - fg.height) // 2))
     d = ImageDraw.Draw(im)
-    d.text((W // 2, 34), f"ÔN LẠI · {title_}", font=ImageFont.truetype(FONT, 28), fill=(255, 214, 120), anchor="mm")
-    hint = "Nhớ âm Hán Việt và nghĩa…" if not reveal else "Đáp án"
-    d.text((W // 2, 72), f"{hint}   ({page}/{pages})", font=ImageFont.truetype(FONT, 22),
-           fill=(200, 200, 200) if not reveal else (120, 220, 170), anchor="mm")
-    D = kdata()
-    cols, cw, chh, x0, y0 = 4, 296, 196, 24, 98
-    for i, k in enumerate(keys):
-        r_, c_ = divmod(i, cols)
-        x, y = x0 + c_ * (cw + 10), y0 + r_ * (chh + 10)
-        d.rounded_rectangle([x, y, x + cw, y + chh], 18, fill=(250, 248, 244))
-        if not reveal:
-            d.text((x + cw / 2, y + chh / 2 + 42), k, font=S.KS.kf(k, 120), fill=INK_, anchor="ms")
-        else:
-            x_ = D.get(k, {})
-            d.text((x + 70, y + 118), k, font=S.KS.kf(k, 100), fill=INK_, anchor="ms")
-            hv = (x_.get("hv") or "").split(",")[0].upper()
-            fz = 30
-            while fz > 18 and ImageFont.truetype(FONT, fz).getlength(hv) > cw - 140:
-                fz -= 2
-            d.text((x + 132, y + 70), hv, font=ImageFont.truetype(FONT, fz), fill=GREEN, anchor="ls")
-            mixed(d, (x + 132, y + 82), cap1((x_.get("m") or "").split(";")[0]), 20, INK_, cw - 145, max_lines=3, lh=25)
-            d.text((x + cw / 2, y + chh - 16), f"Thẻ {x_.get('n') or '—'} · {x_.get('j') or ''}".strip(" ·"),
-                   font=ImageFont.truetype(F_TXT, 17), fill=GREY, anchor="ms")
+    d.text((W // 2, H - 34), title_, font=ImageFont.truetype(FONT, 30), fill=(255, 214, 120), anchor="mm",
+           stroke_width=2, stroke_fill=(0, 0, 0))
     im.save(dest, compress_level=1)
 
 
@@ -561,21 +544,14 @@ def main() -> None:
 
         def review(sec_i: int, at_local: float):
             nonlocal seg_from, k_
-            ks = [x[2] for x in show if x[5] == sec_i]
-            if not ks:
-                return
             aparts.append((cw_, seg_from, at_local))
             seg_from = at_local
             sec = ch["s"][sec_i]
-            pages = [ks[i:i + REV_N] for i in range(0, len(ks), REV_N)]
-            dur = 0.0
-            for pi, pk in enumerate(pages, 1):
-                for reveal, dd in ((False, REV_ASK), (True, REV_SHOW)):
-                    png = frames / f"{k_:06d}.png"
-                    review_frame(sec["img"], sec["t"], pi, len(pages), pk, reveal, png)
-                    emit(png, dd)
-                    k_ += 1
-                    dur += dd
+            png = frames / f"{k_:06d}.png"
+            full_frame(sec["img"], sec["t"], png)
+            emit(png, END_IMG)
+            k_ += 1
+            dur = END_IMG
             aparts.append((silence, 0.0, dur))
             gmap.append((at_local, gt))
 
