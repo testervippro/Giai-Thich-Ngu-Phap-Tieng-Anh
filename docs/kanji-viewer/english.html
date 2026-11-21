@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Kanji in English</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:860px; margin:auto; padding:4px 16px 60px; }
+    h1 { margin:0 0 6px; font-size:22px; line-height:1.3; }
+    .lead { color:var(--muted); font-size:14px; line-height:1.55; margin:0 0 10px; }
+    .tabs { display:flex; gap:6px; flex-wrap:wrap; margin:0 0 8px; }
+    .tab { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:999px; padding:7px 14px; font:inherit; font-size:14px; font-weight:600; cursor:pointer; }
+    .tab.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+    .tab small { font-weight:500; opacity:.8; margin-left:4px; }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; position:sticky; top:0; z-index:2; background:var(--bg); padding:6px 0; }
+    input[type=search] { flex:1; min-width:160px; padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; font-size:14px; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; cursor:pointer; }
+    .btn.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .stat { color:var(--muted); font-size:13px; margin:4px 0 10px; }
+    .li { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:12px 16px; margin:0 0 12px; scroll-margin-top:64px; content-visibility:auto; contain-intrinsic-size:auto 260px; }
+    .li.hl { border-color:var(--accent); box-shadow:0 0 0 2px var(--accentbg); }
+    .info { display:flex; gap:16px; align-items:center; }
+    .big { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:72px; line-height:1; min-width:80px; text-align:center; }
+    .m { font-size:22px; font-weight:800; color:var(--accent); line-height:1.25; }
+    .hv { font-size:13px; color:var(--muted); font-weight:600; letter-spacing:.02em; }
+    body.nohv .hv { display:none; }
+    .tag { font-size:12.5px; color:var(--muted); }
+    .tag a { color:var(--accent); text-decoration:none; margin-left:6px; }
+    .story { font-size:16px; margin:10px 0 8px; }
+    .zh, .sub b { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
+    .sub { display:flex; flex-direction:column; gap:4px; }
+    .sub div { font-size:14px; color:var(--muted); padding:5px 10px; border-left:3px solid var(--accent); background:var(--bg); border-radius:0 8px 8px 0; }
+    .sub div[data-k] { cursor:pointer; }
+    .sub b { font-size:20px; color:var(--ink); margin-right:6px; }
+    .sub .em { color:var(--ink); font-weight:700; }
+    /* Self-test: hide the English until you tap the card */
+    body.quiz .li:not(.open) .m, body.quiz .li:not(.open) .story, body.quiz .li:not(.open) .sub { filter:blur(6px); user-select:none; }
+    body.quiz .li { cursor:pointer; }
+    .empty { color:var(--muted); text-align:center; padding:30px 0; }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Kanji in English"></script>
+</head>
+<body>
+<main>
+  <h1>🇬🇧 Kanji in English</h1>
+  <p class="lead">Every kanji card from <b>Book 1</b>, <b>Book 2</b> and the <b>280 base kanji</b> (building blocks), with its English meaning, memory story and the parts it is built from. Tap a part to jump to it. Turn on <b>Self-test</b> to hide the English and guess first.</p>
+  <div class="tabs" id="tabs"></div>
+  <div class="bar">
+    <input type="search" id="q" placeholder="Search kanji, English or card no. (e.g. 楽, music, 1051)" aria-label="Search">
+    <button class="btn" id="quizBtn">🙈 Self-test</button>
+    <button class="btn on" id="hvBtn" title="Show the Sino-Vietnamese reading">Hán Việt</button>
+  </div>
+  <div class="stat" id="stat"></div>
+  <div id="out"></div>
+</main>
+<script src="kanji-game-data.js"></script>
+<script src="kanji-roadmap.js"></script>
+<script src="kanji-en.js"></script>
+<script>
+(() => {
+  "use strict";
+  const $ = id => document.getElementById(id);
+  const esc = t => String(t || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const cap = t => String(t || '').replace(/^./, c => c.toUpperCase());
+  const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
+  const st = Object.assign({ tab:'p1', quiz:false, hv:true }, ls.get('kanjiEnglish', {}));
+  const save = () => ls.set('kanjiEnglish', st);
+  const EN = window.KANJI_EN || {};
+  const CJK = /[⺀-⿟々゠-ヿ㐀-鿿豈-﫿]|[\uD840-\uD87F][\uDC00-\uDFFF]/g;
+
+  // cards: [n, kanji, HV, meaning VI, JLPT, story VI, img]; base: [kanji, HV, meaning VI, tier]
+  const CARDS = (window.KANJI || []).map(r => ({ n:r[0], k:r[1], hv:r[2], j:r[4], s:r[5] }));
+  const BASE = (((window.ROADMAP || {}).radw) || []).map((r, ix) => ({ n:'B' + (ix + 1), k:r[0], hv:r[1], j:'', s:'', tier:r[3] }));
+  const BYK = new Map(); CARDS.forEach(x => { if (x.s && !BYK.has(x.k)) BYK.set(x.k, x); });
+  const BASEK = new Map(BASE.map(x => [x.k, x]));
+  const TABS = [
+    { id:'p1', label:'Book 1', sub:'cards 1–1050', list:CARDS.filter(x => x.n <= 1050) },
+    { id:'p2', label:'Book 2', sub:'cards 1051–2165', list:CARDS.filter(x => x.n > 1050) },
+    { id:'base', label:'Base kanji', sub:'280 parts', list:BASE },
+    { id:'all', label:'All', sub:'', list:CARDS.concat(BASE.filter(b => !BYK.has(b.k))) },
+  ];
+  const enM = k => (EN[k] || [])[0] || '';
+  const enS = k => (EN[k] || [])[1] || '';
+  // English story: put the kanji of each part back in brackets is not possible word-by-word,
+  // so list the parts below the story instead.
+  const zh = t => esc(t).replace(CJK, c => `<span class="zh">${c}</span>`);
+
+  function parts(x){
+    const seen = new Set([x.k]), out = [];
+    (String(x.s || '').match(CJK) || []).forEach(c => {
+      if (seen.has(c)) return; seen.add(c);
+      const y = BYK.get(c), b = BASEK.get(c);
+      if (!y && !b) return;
+      const m = enM(c) || '—', s = y ? enS(c) : '';
+      out.push(`<div data-k="${esc(c)}" title="Jump to ${esc(c)}"><b>${esc(c)}</b><span class="em">${esc(m)}</span>${s ? ' — ' + esc(s) : ' <span style="opacity:.75">(part)</span>'}</div>`);
+    });
+    return out.join('');
+  }
+  function item(x, ix){
+    const tier = x.tier ? ` · ${['', '🥇 level 1', '🥈 level 2', '🥉 level 3', 'level 4'][x.tier] || ''}` : '';
+    const meta = typeof x.n === 'number' ? `Card ${x.n}${x.j ? ' · ' + x.j : ''}` : `Base kanji ${String(x.n).slice(1)}${tier}`;
+    const story = x.s ? enS(x.k) : '';
+    const write = typeof x.n === 'number' ? `<a href="write.html#${encodeURIComponent(x.k)}">✍️ write</a>` : '';
+    return `<div class="li" id="k-${esc(x.k)}" data-ix="${ix}">`
+      + `<div class="info"><div class="big">${esc(x.k)}</div><div>`
+      + `<div class="m">${esc(cap(enM(x.k)) || '—')}</div><div class="hv">${esc(x.hv)}</div>`
+      + `<div class="tag">${esc(meta)} · #${ix + 1}${write}</div></div></div>`
+      + (story ? `<div class="story">📖 ${zh(story)}</div>` : '')
+      + `<div class="sub">${parts(x)}</div></div>`;
+  }
+
+  function tabObj(){ return TABS.find(t => t.id === st.tab) || TABS[0]; }
+  function render(){
+    $('tabs').innerHTML = TABS.map(t => `<button class="tab${t.id === st.tab ? ' on' : ''}" data-tab="${t.id}">${t.label}<small>${t.list.length.toLocaleString('en-US')}</small></button>`).join('');
+    const q = $('q').value.trim().toLowerCase();
+    let L = tabObj().list;
+    if (q) L = L.filter(x => x.k === q || String(x.n) === q || enM(x.k).toLowerCase().includes(q)
+      || enS(x.k).toLowerCase().includes(q) || String(x.hv).toLowerCase() === q);
+    $('stat').textContent = `${L.length.toLocaleString('en-US')} kanji${q ? ' found' : ''} · ${tabObj().sub}`;
+    $('out').innerHTML = L.length ? L.map(item).join('') : '<p class="empty">No kanji match.</p>';
+  }
+  function jump(k){
+    let el = document.getElementById('k-' + k);
+    if (!el){ st.tab = 'all'; $('q').value = ''; save(); render(); el = document.getElementById('k-' + k); }
+    if (!el) return;
+    document.querySelectorAll('.li.hl').forEach(e => e.classList.remove('hl'));
+    el.classList.add('hl', 'open');
+    el.scrollIntoView({ block:'start', behavior:'smooth' });
+  }
+  const apply = () => {
+    document.body.classList.toggle('quiz', st.quiz); $('quizBtn').classList.toggle('on', st.quiz);
+    document.body.classList.toggle('nohv', !st.hv); $('hvBtn').classList.toggle('on', st.hv);
+  };
+  $('tabs').addEventListener('click', e => { const b = e.target.closest('[data-tab]'); if (!b) return; st.tab = b.dataset.tab; save(); render(); window.scrollTo({ top:0 }); });
+  $('out').addEventListener('click', e => {
+    const p = e.target.closest('.sub [data-k]'); if (p){ jump(p.dataset.k); return; }
+    const li = e.target.closest('.li'); if (li && st.quiz && !e.target.closest('a')) li.classList.toggle('open');
+  });
+  let t; $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(render, 150); });
+  $('quizBtn').onclick = () => { st.quiz = !st.quiz; save(); apply(); };
+  $('hvBtn').onclick = () => { st.hv = !st.hv; save(); apply(); };
+  apply(); render();
+  const h = decodeURIComponent(location.hash.slice(1)); if (h) jump(h);
+})();
+</script>
+</body>
+</html>
