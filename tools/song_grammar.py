@@ -414,6 +414,16 @@ def main():
             used[it[1]] += 1
         chosen[pid] = pick
 
+    # ---- link YouTube phát đúng đoạn (song_grammar_yt.py); --no-yt: chỉ link tìm kiếm
+    ytl = {}
+    if "--no-yt" not in sys.argv:
+        import song_grammar_yt as SY
+        yitems = [(it[5], clean_title(it[6], it[7]), it[7], it[2]) for pk in chosen.values() for it in pk]
+        SY.links(yitems)
+        SY.retry(yitems)
+        ytl = SY.links(yitems)
+        print("có mốc thời gian: %d/%d câu" % (len(ytl), sum(len(v) for v in chosen.values())), flush=True)
+
     # ---- ghi file
     stats = []
     by_ch = defaultdict(list)
@@ -427,7 +437,7 @@ def main():
                "> Mỗi mẫu ngữ pháp của chương (theo đúng thứ tự phần lý thuyết) kèm **câu hát thật** "
                "có chứa mẫu đó, lấy từ kho lời bài hát [LRCLIB](https://lrclib.net/) (~89.000 bài, 1,07 triệu dòng lời). "
                "Phần ngữ pháp được **in đậm**; con số cạnh mỗi mẫu là số dòng lời có mẫu đó. "
-               "Bấm tên bài để nghe trên YouTube.",
+               "Bấm **▶ tên bài · phút:giây** để mở YouTube phát ngay đúng câu đó; bài không có ▶ là link tìm trên YouTube.",
                ">",
                "> ⚠️ Câu được máy dò tự động (spaCy + mẫu từ khóa) nên có thể sai khoảng 5–10%.", ""]
         cur_g = None
@@ -449,7 +459,13 @@ def main():
                 out.append("- _(chưa tìm thấy câu hát phù hợp trong kho lời)_")
             for sc, key, text, s, e, sid, t, a in pick:
                 tt = clean_title(t, a)
-                out.append("- 🎵 “%s” — [%s · %s](%s)" % (render_line(text, s, e), esc(tt), esc(a), yt(tt, a)))
+                u = ytl.get((sid, text))
+                if u:
+                    sec = int(u.rsplit("=", 1)[1][:-1]) + 1
+                    out.append("- 🎵 “%s” — [▶ %s · %s · %d:%02d](%s)" % (
+                        render_line(text, s, e), esc(tt), esc(a), sec // 60, sec % 60, u))
+                else:
+                    out.append("- 🎵 “%s” — [%s · %s](%s)" % (render_line(text, s, e), esc(tt), esc(a), yt(tt, a)))
             out.append("")
         stats.append((ch, n_ok, n_all))
         sfn = song_fn(fn)
