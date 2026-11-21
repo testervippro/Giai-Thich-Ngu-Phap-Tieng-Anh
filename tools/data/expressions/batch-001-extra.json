@@ -1,0 +1,66 @@
+{
+"comparisons": [
+{"id":"CMP-0001","a":"find out","b":"figure out","refs":["PHR-0002","PHR-0001"],"diff":"find out = BIẾT ĐƯỢC một thông tin có sẵn ở đâu đó (hỏi, đọc, nghe, tra). figure out = TỰ SUY LUẬN để hiểu/giải quyết (cần động não). Mẹo: nếu có thể “Google” ra → find out; nếu phải ngồi nghĩ → figure out.","exA":"I found out the meeting was cancelled. (ai đó báo / đọc email)","exB":"I figured out why the meeting kept getting cancelled. (tự suy ra nguyên nhân)","tip":"Bug report: “I found out the test fails on Safari” (quan sát) → “I figured out it fails because of date parsing” (phân tích)."},
+{"id":"CMP-0002","a":"look into","b":"look up","refs":["PRO-PHR-0001","PHR-0003"],"diff":"look into = ĐIỀU TRA một vấn đề (mất thời gian, nhiều bước), KHÔNG tách. look up = TRA một thông tin cụ thể (từ, số điện thoại, mã lỗi), TÁCH được (look it up).","exA":"I'll look into the login failures. (điều tra)","exB":"I'll look up the error code. (tra nghĩa mã lỗi)","tip":"Trả lời ticket: “I'll look into it” chuẩn hơn “I'll look it up”."},
+{"id":"CMP-0003","a":"bring up","b":"point out","refs":["PHR-0004","PHR-0005"],"diff":"bring up = ĐƯA MỘT CHỦ ĐỀ ra bàn (mở cuộc thảo luận). point out = CHỈ RA một sự thật/chi tiết cụ thể mà người khác chưa thấy (thường đi với that-clause).","exA":"She brought up the budget in the meeting. (nêu chủ đề)","exB":"She pointed out that the budget was 20% over. (chỉ ra sự thật)","tip":"Bring up + chủ đề (topic); point out + that + sự thật (fact)."},
+{"id":"CMP-0004","a":"put off","b":"call off","refs":["PHR-0006","PHR-0007"],"diff":"put off = HOÃN, sẽ làm sau (postpone). call off = HỦY HẲN (cancel). Cả hai đều tách được.","exA":"We put off the release until Monday. (vẫn release, chỉ muộn hơn)","exB":"We called off the release. (không release nữa)","tip":"Thêm “until/till + thời gian” thì gần như chắc chắn là put off."},
+{"id":"CMP-0005","a":"carry out","b":"follow through","refs":["PRO-PHR-0002","PRO-PHR-0003"],"diff":"carry out = THỰC HIỆN một việc cụ thể (test, survey, plan) — có tân ngữ, hay ở bị động. follow through (on) = KIÊN TRÌ LÀM ĐẾN CÙNG điều đã hứa/bắt đầu — nhấn vào tính cam kết, nội động từ.","exA":"We carried out regression testing on Friday.","exB":"We promised a fix by Friday, and we followed through.","tip":"Nói về lời hứa → follow through; nói về một hoạt động/kế hoạch → carry out."},
+{"id":"CMP-0006","a":"deal with","b":"cope with","refs":["PHR-0008","PHR-0009"],"diff":"deal with = HÀNH ĐỘNG xử lý vấn đề/người (giải quyết cho xong). cope with = CHỊU ĐỰNG, XOAY XỞ được trong hoàn cảnh khó (về tinh thần/năng lực).","exA":"I'll deal with the angry customer. (xử lý)","exB":"I can't cope with so many angry customers. (không chịu nổi)","tip":"“Cope” hay đi với stress/pressure/workload/loss; không nói “cope up with”."},
+{"id":"CMP-0007","a":"take over","b":"take on","refs":["PRO-PHR-0004","PRO-PHR-0005"],"diff":"take over = TIẾP QUẢN thứ người khác đang làm/nắm (thay thế họ). take on = NHẬN THÊM việc/trách nhiệm/thử thách mới (không nhất thiết thay ai).","exA":"I'll take over the project while Nam is on leave.","exB":"I can't take on another project right now.","tip":"take over FROM someone; take on MORE work."},
+{"id":"CMP-0008","a":"come across","b":"run into","refs":["PHR-0010","PHR-0011"],"diff":"Cả hai = tình cờ gặp. come across hay dùng với VẬT/THÔNG TIN (article, photo, bug). run into hay dùng với NGƯỜI và RẮC RỐI (problems, trouble, an issue).","exA":"I came across an interesting blog post about Playwright.","exB":"I ran into my old manager / We ran into a timeout issue.","tip":"come across as + adj = tạo ấn tượng — run into không có nghĩa này."},
+{"id":"CMP-0009","a":"give up","b":"give in","refs":["PHR-0012","PHR-0013"],"diff":"give up = TỰ BỎ CUỘC, ngừng cố gắng / bỏ thói quen. give in = CHỊU THUA, NHƯỢNG BỘ trước áp lực của người/khác (give in to sb/sth).","exA":"I gave up trying to fix it. (tự dừng)","exB":"I gave in and let the kids stay up late. (nhượng bộ)","tip":"Có “to + áp lực/người” → give in; có “+ V-ing / thói quen” → give up."},
+{"id":"CMP-0010","a":"work out","b":"sort out","refs":["PHR-0014","PHR-0015"],"diff":"work out = TÌM RA lời giải/kế hoạch bằng suy nghĩ, tính toán (gần figure out); còn nghĩa “ổn thỏa” và “tập thể dục”. sort out = DỌN DẸP, XỬ LÝ một mớ rắc rối/hiểu lầm/thủ tục cho gọn.","exA":"We worked out a new test strategy. (nghĩ ra)","exB":"I sorted out the permissions problem with IT. (xử lý xong)","tip":"Toán/kế hoạch/lời giải → work out; lộn xộn/thủ tục/mâu thuẫn → sort out."}
+],
+"exercises": {
+"translate": [
+{"q":"Bạn có thể xem xét lỗi này rồi báo lại cho tôi không?","a":"Could you look into this bug and get back to me?","why":"look into = điều tra vấn đề; không dùng look up."},
+{"q":"Chúng ta phải dời ngày phát hành sang thứ Hai.","a":"We have to push back the release to Monday. / We have to push the release back to Monday.","why":"push back = dời muộn hơn; tách được."},
+{"q":"Tôi vừa biết được là cô ấy sắp chuyển nhà.","a":"I just found out (that) she's moving.","why":"Nhận được thông tin → find out."},
+{"q":"Tôi không hiểu nổi tại sao bài test này chỉ lỗi trên Firefox.","a":"I can't figure out why this test only fails on Firefox.","why":"Phải tự suy luận → figure out + why-clause."},
+{"q":"Họ đã hủy cuộc họp vì sếp bị ốm.","a":"They called off the meeting because the boss was sick.","why":"Hủy hẳn → call off."},
+{"q":"Trước khi bắt đầu, hãy chắc rằng chúng ta thống nhất về phạm vi.","a":"Before we start, let's make sure we're on the same page about the scope.","why":"be on the same page (about)."},
+{"q":"Tôi xin nhận toàn bộ trách nhiệm về lỗi này.","a":"I take full responsibility for this mistake.","why":"take responsibility FOR."},
+{"q":"Mất ba ngày chúng tôi mới lần ra lỗi rò rỉ bộ nhớ.","a":"It took us three days to track down the memory leak.","why":"track down = truy tìm đến cùng."},
+{"q":"Nói thì dễ, làm mới khó.","a":"That's easier said than done.","why":"Thành ngữ cố định."},
+{"q":"Theo tôi biết thì cửa hàng mở đến 10 giờ.","a":"As far as I know, the store is open until ten.","why":"Rào đón thông tin không chắc 100%."}
+],
+"complete": [
+{"q":"I'll set ___ a test environment for you this afternoon.","a":"up","why":"set up an environment."},
+{"q":"Stop putting ___ your homework!","a":"off","why":"put off + V-ing/N = trì hoãn."},
+{"q":"We need to address ___ issue of flaky tests. (điền mạo từ hoặc để trống nếu cần giới từ)","a":"the (address the issue — không có giới từ)","why":"address là ngoại động từ, không cần to."},
+{"q":"Several users raised concerns ___ the new privacy policy.","a":"about","why":"raise concerns about/over."},
+{"q":"I think you've hit the nail on the ___.","a":"head","why":"Thành ngữ cố định."},
+{"q":"How do you cope ___ so much pressure?","a":"with","why":"cope with (không có up)."},
+{"q":"The fix didn't work, so we're back to square ___.","a":"one","why":"back to square one."},
+{"q":"We've narrowed it ___ to two possible causes.","a":"down","why":"narrow down (to)."},
+{"q":"It turned ___ that the server clock was wrong.","a":"out","why":"it turned out (that)."},
+{"q":"Let's get the ball ___ on the new project.","a":"rolling","why":"get the ball rolling (V-ing)."}
+],
+"choose": [
+{"q":"Minh will ___ the project while I'm on maternity leave.","opts":["take on","take over","take up"],"a":"take over","why":"Tiếp quản việc người khác đang làm."},
+{"q":"I ___ my old classmate at the airport yesterday.","opts":["came across","ran into","looked into"],"a":"ran into","why":"Gặp NGƯỜI tình cờ → run into tự nhiên hơn."},
+{"q":"The kids kept crying, so I finally ___.","opts":["gave up","gave in","gave out"],"a":"gave in","why":"Nhượng bộ trước áp lực."},
+{"q":"I don't know this word. I'll ___.","opts":["look it up","look into it","look up it"],"a":"look it up","why":"Tra từ; đại từ đứng giữa."},
+{"q":"We ___ load testing on the API last week.","opts":["carried out","followed through","called off"],"a":"carried out","why":"Thực hiện một hoạt động cụ thể."},
+{"q":"She ___ that the numbers didn't add up.","opts":["brought up","pointed out","found out"],"a":"pointed out","why":"Chỉ ra một sự thật + that-clause."},
+{"q":"I'm just ___ on the email I sent on Monday.","opts":["following through","following up","following out"],"a":"following up","why":"Hỏi lại tiến độ → follow up on."},
+{"q":"I couldn't ___ the deadline because my laptop died.","opts":["catch","reach","meet"],"a":"meet","why":"Collocation: meet a deadline."},
+{"q":"We'll ___ the feature to 5% of users first.","opts":["roll out","roll back","spin up"],"a":"roll out","why":"Phát hành dần."},
+{"q":"“This is the best phone ever made.” “I wouldn't ___.”","opts":["go that far","go too long","go further"],"a":"go that far","why":"Phản đối nhẹ nhận định quá đà."}
+],
+"rewrite": [
+{"q":"We postponed the demo until next week. (dùng phrasal verb)","a":"We put off the demo until next week. / We pushed the demo back to next week.","why":"postpone = put off / push back."},
+{"q":"I'll investigate the problem. (thân mật hơn)","a":"I'll look into the problem / look into it.","why":"investigate → look into."},
+{"q":"The meeting was cancelled. (phrasal verb, bị động)","a":"The meeting was called off.","why":"cancel → call off; bị động be called off."},
+{"q":"Nobody wants to talk about the real problem: the budget. (idiom)","a":"The budget is the elephant in the room.","why":"the elephant in the room."},
+{"q":"Losing my job seemed terrible, but it led to something better. (idiom)","a":"Losing my job turned out to be a blessing in disguise.","why":"a blessing in disguise + turn out to be."}
+],
+"speaking": [
+{"q":"Describe a time you had to deal with a difficult problem at work or school. Dùng: run into, figure out, sort out, it turned out that.","hint":"We ran into… At first I couldn't figure out… It turned out that… In the end we sorted it out by…"},
+{"q":"Do you tend to put things off? Why? Dùng: put off, bite the bullet, easier said than done.","hint":"I'm guilty of putting off… Eventually I bite the bullet and… Stopping procrastination is easier said than done."},
+{"q":"Talk about a decision your team made together. Dùng: be on the same page, reach a consensus, bring up, point out.","hint":"Someone brought up… X pointed out that… After a long discussion we reached a consensus… so everyone was on the same page."},
+{"q":"Describe a time something bad turned out well. Dùng: a blessing in disguise, back to square one, at the end of the day.","hint":"We were back to square one… but it was a blessing in disguise because… At the end of the day…"},
+{"q":"IELTS Part 3: Should companies make employees work overtime? Dùng: go the extra mile, cope with, take on, that being said.","hint":"Some employees are happy to go the extra mile… That being said, not everyone can cope with… Companies shouldn't expect staff to take on…"}
+]
+}
+}

@@ -1,0 +1,1511 @@
+{
+"batch": 1,
+"note": "Đợt 1 — 50 cụm ưu tiên cao. Trường rx: cú pháp dò phụ đề (từ cách nhau bởi dấu cách; a|b = một trong hai; ~ = chen 0–3 từ (tân ngữ của cụm tách được); * = đúng 1 từ bất kỳ).",
+"entries": [
+{
+"id": "IDIOM-0001",
+"expr": "get the ball rolling",
+"type": "Idiom",
+"group": "Work and business",
+"vi": "khởi động, bắt đầu một việc",
+"en": "to start an activity or process so that it continues",
+"func": "Đề nghị mọi người bắt tay vào việc; mở đầu cuộc họp, dự án.",
+"grammar": "get + the ball + rolling (V-ing làm bổ ngữ cho tân ngữ: làm cho quả bóng lăn). Hay đi với: get the ball rolling on + N / by + V-ing. Biến thể: start / set the ball rolling (Anh-Anh hay dùng set).",
+"colls": [
+"get the ball rolling on the project",
+"let's get the ball rolling",
+"get the ball rolling by + V-ing"
+],
+"ex": [
+"Let's order pizza and get the ball rolling on this party.",
+"I'll send out the kickoff email to get the ball rolling on the test plan.",
+"To get the ball rolling, the government could offer small grants to start-ups."
+],
+"register": "neutral–informal",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "Nói “get the ball roll” (thiếu -ing) hoặc “make the ball rolling”. Đúng: get the ball rolling.",
+"similar": "kick off (bắt đầu sự kiện/cuộc họp, trang trọng hơn chút); get started (trung tính, không hình ảnh).",
+"opposite": "put something on hold; drag one's feet (chần chừ)",
+"usuk": "Anh-Anh hay nói “set the ball rolling”.",
+"rx": "get|gets|got|getting the ball rolling"
+},
+{
+"id": "IDIOM-0002",
+"expr": "be on the same page",
+"type": "Idiom",
+"group": "Work and business",
+"vi": "cùng hiểu một vấn đề, thống nhất",
+"en": "to agree or share the same understanding",
+"func": "Kiểm tra/khẳng định mọi người hiểu giống nhau trước khi làm.",
+"grammar": "be + on the same page (+ about/with + N). Dùng “on” vì hình ảnh mọi người cùng mở đến một trang sách. Hay ở dạng câu hỏi xác nhận: Are we on the same page?",
+"colls": [
+"make sure we're on the same page",
+"get everyone on the same page",
+"on the same page about the scope"
+],
+"ex": [
+"Before we book anything, let's make sure we're on the same page about the budget.",
+"Can we sync quickly so dev and QA are on the same page about the acceptance criteria?",
+"Parents and teachers need to be on the same page if children are to learn good habits."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "Dùng “in the same page” (sai giới từ).",
+"similar": "see eye to eye (đồng quan điểm, thường dùng phủ định); be aligned (công sở, trang trọng hơn).",
+"opposite": "be at odds; be on different pages",
+"usuk": "",
+"rx": "on the same page"
+},
+{
+"id": "IDIOM-0003",
+"expr": "a blessing in disguise",
+"type": "Idiom",
+"group": "Success and failure",
+"vi": "trong cái rủi có cái may",
+"en": "something that seems bad at first but turns out to be good",
+"func": "Nhìn lại một chuyện xui hóa ra có lợi; an ủi.",
+"grammar": "be + a blessing in disguise. Thường đi với: turn out to be / prove to be a blessing in disguise. “in disguise” = được ngụy trang.",
+"colls": [
+"turn out to be a blessing in disguise",
+"prove a blessing in disguise"
+],
+"ex": [
+"Missing that flight was a blessing in disguise — I met my wife at the airport.",
+"Losing that client turned out to be a blessing in disguise; we finally fixed our process.",
+"Failing my first IELTS test was a blessing in disguise because it made me practise speaking every day."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "Thiếu mạo từ “a” hoặc nói “blessing in disguised”.",
+"similar": "every cloud has a silver lining (tục ngữ, chung chung hơn); a lucky break (may mắn, không có ý ban đầu là xui).",
+"opposite": "a curse in disguise (ít dùng); a poisoned chalice (Anh-Anh: tưởng tốt hóa xấu)",
+"usuk": "",
+"rx": "blessing in disguise"
+},
+{
+"id": "IDIOM-0004",
+"expr": "the tip of the iceberg",
+"type": "Idiom",
+"group": "Problem-solving",
+"vi": "phần nổi của tảng băng",
+"en": "a small, visible part of a much bigger problem",
+"func": "Cảnh báo vấn đề lớn hơn nhiều so với những gì đang thấy.",
+"grammar": "be + (only/just) the tip of the iceberg. Luôn có “the … the”.",
+"colls": [
+"just the tip of the iceberg",
+"only the tip of the iceberg"
+],
+"ex": [
+"The broken window is just the tip of the iceberg — the whole house needs work.",
+"These three failing tests are only the tip of the iceberg; the module has no coverage at all.",
+"Reported cases of cyberbullying are probably just the tip of the iceberg."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "Bỏ mạo từ: “tip of iceberg”.",
+"similar": "scratch the surface (mới chạm bề mặt — nói về hiểu biết/công việc, không phải vấn đề).",
+"opposite": "",
+"usuk": "",
+"rx": "tip of the iceberg"
+},
+{
+"id": "IDIOM-0005",
+"expr": "bite the bullet",
+"type": "Idiom",
+"group": "Decision-making",
+"vi": "cắn răng làm việc khó / khó chịu",
+"en": "to force yourself to do something unpleasant that you have been avoiding",
+"func": "Diễn tả quyết định chấp nhận làm việc khó chịu nhưng cần thiết.",
+"grammar": "bite (bit, bitten) the bullet (and + V). Ví dụ: bite the bullet and refactor.",
+"colls": [
+"bite the bullet and + V",
+"finally bit the bullet"
+],
+"ex": [
+"I finally bit the bullet and went to the dentist.",
+"We need to bite the bullet and rewrite the flaky test suite.",
+"Sometimes governments have to bite the bullet and raise taxes."
+],
+"register": "informal–neutral",
+"freq": "common",
+"cefr": "C1",
+"prio": "P2",
+"mistake": "Hiểu nhầm là “nói lời cay nghiệt”.",
+"similar": "face the music (chịu hậu quả việc mình gây ra — khác: bite the bullet là chủ động làm việc khó).",
+"opposite": "put something off; chicken out",
+"usuk": "",
+"rx": "bite|bites|bit|biting the bullet"
+},
+{
+"id": "IDIOM-0006",
+"expr": "go the extra mile",
+"type": "Idiom",
+"group": "Work and business",
+"vi": "làm nhiều hơn mức được yêu cầu",
+"en": "to make more effort than is expected",
+"func": "Khen tinh thần làm việc tận tâm; mô tả dịch vụ tốt.",
+"grammar": "go (went, gone) the extra mile (for sb / to + V).",
+"colls": [
+"go the extra mile for customers",
+"be willing to go the extra mile"
+],
+"ex": [
+"The hotel staff really went the extra mile for us.",
+"She always goes the extra mile — she even documented edge cases nobody asked for.",
+"Employees who feel valued are more willing to go the extra mile."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“go an extra mile” (nên dùng the); “go extra miles”.",
+"similar": "above and beyond (go above and beyond: mạnh hơn); pull out all the stops (dốc toàn lực cho một việc).",
+"opposite": "cut corners; do the bare minimum",
+"usuk": "",
+"rx": "extra mile"
+},
+{
+"id": "IDIOM-0007",
+"expr": "play devil's advocate",
+"type": "Idiom",
+"group": "Opinions and arguments",
+"vi": "cố tình đứng phía phản biện",
+"en": "to argue the opposite view to test an idea",
+"func": "Rào trước khi phản biện để không bị coi là gây sự.",
+"grammar": "play devil's advocate (không có “the” trước devil's). Mẫu hay dùng: Let me play devil's advocate (for a second).",
+"colls": [
+"let me play devil's advocate",
+"just playing devil's advocate"
+],
+"ex": [
+"I agree, but let me play devil's advocate: what if it rains?",
+"Just to play devil's advocate — what happens if the API is down during the release?",
+"Playing devil's advocate, one could argue that exams do motivate students."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "C1",
+"prio": "P2",
+"mistake": "“play the devil advocate”, “play devil advocate” (thiếu 's).",
+"similar": "push back (phản đối thật, không phải giả định).",
+"opposite": "",
+"usuk": "",
+"rx": "devil's advocate"
+},
+{
+"id": "IDIOM-0008",
+"expr": "easier said than done",
+"type": "Idiom",
+"group": "Problem-solving",
+"vi": "nói thì dễ, làm mới khó",
+"en": "it is harder to do than to talk about",
+"func": "Phản hồi lời khuyên nghe đơn giản nhưng khó làm.",
+"grammar": "That's / It's easier said than done. Cấu trúc so sánh hơn + bị động rút gọn (said / done).",
+"colls": [
+"that's easier said than done"
+],
+"ex": [
+"“Just stop worrying.” “That's easier said than done.”",
+"Reducing test execution time is easier said than done with a shared database.",
+"Changing eating habits is easier said than done for busy workers."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“more easy said than done”.",
+"similar": "not as easy as it sounds.",
+"opposite": "a piece of cake",
+"usuk": "",
+"rx": "easier said than done"
+},
+{
+"id": "IDIOM-0009",
+"expr": "the elephant in the room",
+"type": "Idiom",
+"group": "Opinions and arguments",
+"vi": "vấn đề ai cũng thấy nhưng né không nói",
+"en": "an obvious problem that people avoid talking about",
+"func": "Mở lời đề cập thẳng vấn đề nhạy cảm.",
+"grammar": "address / ignore / talk about + the elephant in the room.",
+"colls": [
+"address the elephant in the room",
+"ignore the elephant in the room"
+],
+"ex": [
+"Okay, let's talk about the elephant in the room: who's paying for this?",
+"The elephant in the room is that we have no automated regression tests.",
+"Inequality is often the elephant in the room in debates about education."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "C1",
+"prio": "P2",
+"mistake": "Dùng “an elephant in the room”.",
+"similar": "sweep something under the rug (cố che giấu); the obvious issue.",
+"opposite": "",
+"usuk": "",
+"rx": "elephant in the room"
+},
+{
+"id": "IDIOM-0010",
+"expr": "back to square one",
+"type": "Idiom",
+"group": "Success and failure",
+"vi": "quay lại vạch xuất phát",
+"en": "back to the beginning after failing",
+"func": "Báo một nỗ lực thất bại phải làm lại từ đầu.",
+"grammar": "be back to square one / go back to square one.",
+"colls": [
+"we're back to square one",
+"go back to square one"
+],
+"ex": [
+"The landlord said no, so we're back to square one with the apartment hunt.",
+"The fix didn't work, so we're back to square one on this bug.",
+"If the policy fails, the government will be back to square one."
+],
+"register": "informal–neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“back to the square one”.",
+"similar": "start from scratch (bắt đầu từ con số không, không nhất thiết vì thất bại); back to the drawing board (phải lên kế hoạch lại).",
+"opposite": "make headway",
+"usuk": "",
+"rx": "square one"
+},
+{
+"id": "IDIOM-0011",
+"expr": "cut corners",
+"type": "Idiom",
+"group": "Work and business",
+"vi": "làm ẩu, đốt cháy giai đoạn để tiết kiệm",
+"en": "to do something cheaply or quickly by skipping steps",
+"func": "Phê phán làm tắt gây rủi ro chất lượng.",
+"grammar": "cut corners (on + N). Không tách: không nói “cut the corners”.",
+"colls": [
+"cut corners on safety",
+"cut corners on testing"
+],
+"ex": [
+"Don't cut corners when you're fixing the brakes.",
+"If we cut corners on testing, we'll pay for it in production.",
+"Companies that cut corners on safety put workers at risk."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“cut the corner” (số ít + the mang nghĩa đen: đi tắt góc đường).",
+"similar": "take shortcuts (trung tính hơn, đôi khi tích cực).",
+"opposite": "go the extra mile; do it by the book",
+"usuk": "",
+"rx": "cut|cuts|cutting corners"
+},
+{
+"id": "IDIOM-0012",
+"expr": "hit the nail on the head",
+"type": "Idiom",
+"group": "Opinions and arguments",
+"vi": "nói trúng phóc",
+"en": "to describe exactly what is causing a problem",
+"func": "Khen ai đó nói đúng trọng tâm.",
+"grammar": "hit (hit, hit) the nail on the head. Hay dùng ở hiện tại hoàn thành: You've hit the nail on the head.",
+"colls": [
+"you've hit the nail on the head",
+"really hit the nail on the head"
+],
+"ex": [
+"You've hit the nail on the head — he's just jealous.",
+"I think Linh hit the nail on the head: the test data is the real problem.",
+"The report hits the nail on the head when it blames poor planning."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“hit the nail in the head”.",
+"similar": "spot on (tính từ: chính xác); nail it (làm cực tốt — khác nghĩa).",
+"opposite": "miss the point; be way off",
+"usuk": "",
+"rx": "nail on the head"
+},
+{
+"id": "PHR-0001",
+"expr": "figure out",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "tìm ra, hiểu ra (sau khi suy nghĩ)",
+"en": "to understand or solve something by thinking",
+"func": "Nói về quá trình tự suy luận để hiểu/giải quyết.",
+"grammar": "Ngoại động từ, TÁCH ĐƯỢC: figure out the problem / figure the problem out / figure it out (đại từ BẮT BUỘC ở giữa). Hay đi với từ để hỏi: figure out how/why/what + clause. “out” = làm cho lộ ra, ra kết quả.",
+"trans": "Ngoại động từ · tách được · cần tân ngữ · nghĩa bóng",
+"colls": [
+"figure out how to + V",
+"figure out why…",
+"figure it out",
+"figure out a solution"
+],
+"ex": [
+"I can't figure out how to turn this thing off.",
+"Let me figure out why the test only fails on Chrome.",
+"Many teenagers are still trying to figure out what they want to do in life."
+],
+"register": "neutral–informal",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“figure out it” (đại từ phải đứng giữa: figure it out). Nhầm với find out (xem phần so sánh).",
+"similar": "work out (gần nghĩa, Anh-Anh dùng nhiều hơn); find out (biết thông tin, không cần suy luận).",
+"opposite": "be baffled by",
+"usuk": "Anh-Anh hay dùng work out hơn.",
+"rx": "figure|figures|figured|figuring ~ out"
+},
+{
+"id": "PHR-0002",
+"expr": "find out",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "phát hiện, biết được (thông tin)",
+"en": "to get information or learn a fact",
+"func": "Nói về việc nhận được/tra được một thông tin.",
+"grammar": "Ngoại hoặc nội động từ. Tách được với danh từ: find out the truth / find the truth out; với đại từ: find it out (ít dùng — người Mỹ hay nói find out about it). find out about + N, find out that/whether/what…",
+"trans": "Ngoại/nội động từ · tách được (hiếm) · tân ngữ không bắt buộc",
+"colls": [
+"find out the truth",
+"find out about…",
+"find out whether…",
+"find out the hard way"
+],
+"ex": [
+"I just found out that my neighbor is a famous chef.",
+"Can you find out which build introduced the regression?",
+"Many people only find out about scholarships when it's too late."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "A2",
+"prio": "P1",
+"mistake": "Dùng find out cho việc giải bài toán (“find out the answer to the math problem” — nên dùng figure out / work out).",
+"similar": "figure out (suy luận ra); discover (trang trọng hơn).",
+"opposite": "keep someone in the dark",
+"usuk": "",
+"rx": "find|finds|found|finding ~ out",
+"lit": true
+},
+{
+"id": "PHR-0003",
+"expr": "look up",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "tra cứu (từ điển, mạng)",
+"en": "to search for information in a book, list or online",
+"func": "Nói việc tra thông tin cụ thể.",
+"grammar": "Ngoại động từ, TÁCH ĐƯỢC: look up a word / look a word up / look it up. Nghĩa khác: things are looking up (đang khá lên — nội động từ).",
+"trans": "Ngoại động từ · tách được · cần tân ngữ (nghĩa tra cứu)",
+"colls": [
+"look up a word",
+"look it up online",
+"look up someone's number"
+],
+"ex": [
+"If you don't know the word, look it up.",
+"Can you look up the error code in the docs?",
+"I look up unfamiliar collocations instead of guessing."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "A2",
+"prio": "P1",
+"mistake": "“look up it”; dùng look up cho việc điều tra sự cố (nên dùng look into).",
+"similar": "look into (điều tra kỹ một vấn đề); search for.",
+"opposite": "",
+"usuk": "",
+"rx": "look|looks|looked|looking ~ up",
+"lit": true
+},
+{
+"id": "PHR-0004",
+"expr": "bring up",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "nêu ra, nhắc tới (chủ đề); nuôi nấng",
+"en": "to mention a subject; to raise a child",
+"func": "Đưa một chủ đề vào cuộc nói chuyện.",
+"grammar": "Ngoại động từ, TÁCH ĐƯỢC: bring up the issue / bring the issue up / bring it up. Bị động hay gặp: I was brought up in Hue (tôi được nuôi lớn ở Huế). “up” = đưa lên bề mặt.",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"bring up a concern",
+"bring up the subject",
+"bring it up in the meeting",
+"be brought up by"
+],
+"ex": [
+"Please don't bring up his ex at dinner.",
+"I'll bring this up in the stand-up tomorrow.",
+"I was brought up in a small village, so city life was a shock."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“bring up it”; nhầm với raise (raise a concern trang trọng hơn).",
+"similar": "raise (trang trọng); point out (chỉ ra một sự thật cụ thể — xem so sánh); mention.",
+"opposite": "drop the subject",
+"usuk": "",
+"rx": "bring|brings|brought|bringing ~ up",
+"lit": true
+},
+{
+"id": "PHR-0005",
+"expr": "point out",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "chỉ ra (điều người khác chưa để ý)",
+"en": "to tell someone a fact they may not have noticed",
+"func": "Lưu ý/nhắc một chi tiết, lỗi, sự thật.",
+"grammar": "Ngoại động từ, tách được với danh từ ngắn: point out the mistake / point the mistake out. Rất hay đi với that-clause: point out that… (không tách). point sth out to sb.",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"point out that…",
+"point out a mistake",
+"as I pointed out earlier",
+"point something out to someone"
+],
+"ex": [
+"Thanks for pointing that out — I had spinach in my teeth?",
+"The reviewer pointed out that the test doesn't cover null input.",
+"Critics point out that the policy mainly benefits the rich."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“point out to me the mistake” nghe nặng; tự nhiên hơn: point the mistake out to me.",
+"similar": "bring up (đưa chủ đề ra bàn); highlight (nhấn mạnh); note.",
+"opposite": "overlook",
+"usuk": "",
+"rx": "point|points|pointed|pointing ~ out"
+},
+{
+"id": "PHR-0006",
+"expr": "put off",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "hoãn lại; làm ai mất hứng",
+"en": "to delay something; to make someone dislike something",
+"func": "Nói về trì hoãn, hoặc điều gây ác cảm.",
+"grammar": "Ngoại động từ, TÁCH ĐƯỢC: put off the meeting / put the meeting off / put it off. Sau put off dùng V-ing: put off doing sth. Nghĩa 2: sth puts sb off (làm ai ngán).",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"put off + V-ing",
+"put it off until…",
+"be put off by"
+],
+"ex": [
+"Stop putting off your taxes — they're due Friday!",
+"Let's put the demo off until the build is stable.",
+"Many young people are put off by the high cost of university."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“put off to do” (đúng: put off doing); nhầm với call off (hủy hẳn).",
+"similar": "postpone (trang trọng); push back (dời lịch — công sở); delay.",
+"opposite": "bring forward; get on with it",
+"usuk": "Anh-Anh: bring forward = dời sớm hơn.",
+"rx": "put|puts|putting ~ off",
+"lit": true
+},
+{
+"id": "PHR-0007",
+"expr": "call off",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "hủy bỏ (sự kiện, kế hoạch)",
+"en": "to cancel something planned",
+"func": "Thông báo hủy hẳn, không dời.",
+"grammar": "Ngoại động từ, TÁCH ĐƯỢC: call off the wedding / call the wedding off / call it off. Hay ở bị động: The match was called off.",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"call off the meeting",
+"call off a strike",
+"call off the search",
+"be called off due to…"
+],
+"ex": [
+"They called off the wedding a week before the big day.",
+"The release was called off because of a critical security bug.",
+"The festival was called off due to heavy rain."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "Dùng call off với nghĩa “gọi điện tắt máy”.",
+"similar": "cancel (trung tính); scrap (bỏ hẳn kế hoạch, mạnh hơn).",
+"opposite": "go ahead with",
+"usuk": "",
+"rx": "call|calls|called|calling ~ off"
+},
+{
+"id": "PHR-0008",
+"expr": "deal with",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "xử lý, giải quyết; đối mặt; giao dịch với",
+"en": "to take action to solve a problem; to handle",
+"func": "Nói về hành động xử lý một vấn đề/người.",
+"grammar": "Ngoại động từ, KHÔNG TÁCH: deal with it (không nói “deal it with”). Quá khứ: dealt. Bị động: be dealt with.",
+"trans": "Ngoại động từ · không tách · cần tân ngữ",
+"colls": [
+"deal with a problem",
+"deal with customers",
+"deal with stress",
+"be dealt with promptly"
+],
+"ex": [
+"I'll deal with the dishes later.",
+"Can you deal with this ticket? It's blocking the release.",
+"Schools must deal with bullying more effectively."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“deal the problem” (thiếu with); “dealed”.",
+"similar": "cope with (chịu đựng/xoay xở về mặt tinh thần — xem so sánh); handle (trung tính); tackle (chủ động giải quyết khó).",
+"opposite": "ignore; neglect",
+"usuk": "",
+"rx": "deal|deals|dealt|dealing with"
+},
+{
+"id": "PHR-0009",
+"expr": "cope with",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "đương đầu, xoay xở được (với khó khăn)",
+"en": "to manage successfully in a difficult situation",
+"func": "Nói về khả năng chịu đựng, thích nghi.",
+"grammar": "Ngoại động từ không tách, hoặc nội động từ (I can't cope!). cope with + N/V-ing.",
+"trans": "Nội/ngoại động từ · không tách",
+"colls": [
+"cope with stress",
+"cope with pressure",
+"cope with the workload",
+"struggle to cope"
+],
+"ex": [
+"How do you cope with three kids and a full-time job?",
+"The server couldn't cope with the traffic spike.",
+"Many students struggle to cope with exam pressure."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“cope up with” (thừa up — lỗi rất phổ biến của người châu Á).",
+"similar": "deal with (hành động xử lý); handle; manage.",
+"opposite": "fall apart; break down",
+"usuk": "",
+"rx": "cope|copes|coped|coping with"
+},
+{
+"id": "PHR-0010",
+"expr": "come across",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "tình cờ thấy/gặp; tạo ấn tượng (come across as)",
+"en": "to find or meet by chance; to seem to be",
+"func": "Kể việc tình cờ phát hiện; nhận xét ấn tượng ai đó để lại.",
+"grammar": "Ngoại động từ KHÔNG TÁCH: come across an article / come across it. Nghĩa 2 (nội động từ): come across as + adj/N (He comes across as arrogant).",
+"trans": "Ngoại động từ · không tách (nghĩa gặp) · nội động từ (come across as)",
+"colls": [
+"come across an article",
+"come across a bug",
+"come across as rude"
+],
+"ex": [
+"I came across some old photos while cleaning.",
+"Have you ever come across this error before?",
+"He can come across as arrogant, but he's actually shy."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“come across with” hoặc tách “come it across”.",
+"similar": "run into (gặp người tình cờ / gặp rắc rối — xem so sánh); stumble upon (tình cờ, nhấn mạnh may mắn).",
+"opposite": "",
+"usuk": "",
+"rx": "come|comes|came|coming across",
+"lit": true
+},
+{
+"id": "PHR-0011",
+"expr": "run into",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "tình cờ gặp (người); gặp phải (rắc rối)",
+"en": "to meet someone by chance; to experience a problem",
+"func": "Kể gặp ai bất ngờ; báo gặp sự cố.",
+"grammar": "Ngoại động từ KHÔNG TÁCH: run into an old friend / run into problems. Quá khứ: ran.",
+"trans": "Ngoại động từ · không tách · cần tân ngữ",
+"colls": [
+"run into an old friend",
+"run into problems",
+"run into trouble",
+"run into an issue with"
+],
+"ex": [
+"Guess who I ran into at the mall? Our old math teacher!",
+"We ran into an issue with the staging database last night.",
+"Start-ups often run into cash-flow problems in their first year."
+],
+"register": "neutral–informal",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“run in to”; “run into with”.",
+"similar": "come across (tìm thấy vật/thông tin); bump into (gặp người, thân mật hơn); encounter (trang trọng).",
+"opposite": "",
+"usuk": "",
+"rx": "run|runs|ran|running into",
+"lit": true
+},
+{
+"id": "PHR-0012",
+"expr": "give up",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "từ bỏ; bỏ (thói quen)",
+"en": "to stop trying; to stop doing a habit",
+"func": "Nói về bỏ cuộc hoặc cai thói quen.",
+"grammar": "Nội động từ (Don't give up!) hoặc ngoại động từ tách được (give up smoking / give it up). give up + V-ing.",
+"trans": "Nội/ngoại động từ · tách được",
+"colls": [
+"give up smoking",
+"never give up",
+"give up on someone",
+"give up hope"
+],
+"ex": [
+"I gave up coffee for a month — worst month ever.",
+"Don't give up on automation just because the first attempt was flaky.",
+"Many people give up learning a language after a few months."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "A2",
+"prio": "P1",
+"mistake": "“give up to smoke” (đúng: give up smoking); nhầm với give in.",
+"similar": "give in (chịu thua, nhượng bộ — xem so sánh); quit (Mỹ: bỏ việc/thói quen).",
+"opposite": "keep at it; persevere",
+"usuk": "",
+"rx": "give|gives|gave|given|giving ~ up",
+"lit": true
+},
+{
+"id": "PHR-0013",
+"expr": "give in",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "chịu thua, nhượng bộ",
+"en": "to finally agree after resisting; to surrender",
+"func": "Nói về việc nhượng bộ trước áp lực.",
+"grammar": "Nội động từ: give in (to sb/sth). Không có tân ngữ trực tiếp. Nghĩa Anh-Anh khác: give in homework = nộp bài.",
+"trans": "Nội động từ · không tách · không cần tân ngữ",
+"colls": [
+"give in to pressure",
+"give in to temptation",
+"finally gave in"
+],
+"ex": [
+"The kids kept begging, so I finally gave in and bought the puppy.",
+"We shouldn't give in to pressure to skip regression testing.",
+"Governments should not give in to the demands of terrorists."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P2",
+"mistake": "Dùng give in với nghĩa bỏ cuộc một mình (“I gave in learning English”) — nên dùng give up.",
+"similar": "give up (bỏ cuộc, tự mình dừng); back down (rút lại lập trường); cave (in) (thân mật).",
+"opposite": "stand firm; hold out",
+"usuk": "Anh-Anh: give in = hand in (nộp).",
+"rx": "give|gives|gave|given|giving in",
+"lit": true
+},
+{
+"id": "PHR-0014",
+"expr": "work out",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "tìm ra; thành công/ổn; tập thể dục",
+"en": "to find a solution; to end well; to exercise",
+"func": "Giải quyết, dự đoán kết quả tốt, hoặc nói về tập gym.",
+"grammar": "(1) Ngoại động từ tách được: work out a plan / work it out. (2) Nội động từ: Things will work out. (3) Nội động từ: I work out at the gym.",
+"trans": "Ngoại (tách được) / nội động từ · đa nghĩa",
+"colls": [
+"work out a solution",
+"it'll all work out",
+"things didn't work out",
+"work out the cost"
+],
+"ex": [
+"Don't worry, it'll all work out.",
+"We need to work out how to run these tests in parallel.",
+"Relationships don't always work out, and that's okay."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“work out it”; quên nghĩa “thành công/ổn”.",
+"similar": "figure out (hiểu ra); sort out (dọn dẹp/giải quyết một mớ rắc rối — xem so sánh).",
+"opposite": "fall through (đổ bể)",
+"usuk": "",
+"rx": "work|works|worked|working ~ out",
+"lit": true
+},
+{
+"id": "PHR-0015",
+"expr": "sort out",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "giải quyết, thu xếp, dọn dẹp cho gọn",
+"en": "to deal with a problem or organize something",
+"func": "Hứa xử lý/thu xếp ổn thỏa một việc lộn xộn.",
+"grammar": "Ngoại động từ TÁCH ĐƯỢC: sort out the problem / sort it out. Hay dùng ở dạng get sth sorted (out).",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"sort out a problem",
+"sort it out",
+"get it sorted",
+"sort out the paperwork"
+],
+"ex": [
+"You two need to sit down and sort this out.",
+"I'll sort out the access issue with IT this afternoon.",
+"The government needs to sort out the housing crisis."
+],
+"register": "neutral–informal",
+"freq": "common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“sort out with the problem” (thừa with).",
+"similar": "work out (tìm ra lời giải); fix (sửa); straighten out (làm rõ hiểu lầm).",
+"opposite": "mess up",
+"usuk": "Phổ biến ở Anh-Anh hơn; người Mỹ cũng dùng nhưng hay nói figure out / take care of.",
+"rx": "sort|sorts|sorted|sorting ~ out"
+},
+{
+"id": "PHR-0016",
+"expr": "set up",
+"type": "Phrasal Verb",
+"group": "Everyday",
+"vi": "thiết lập, cài đặt, dựng; sắp đặt; gài bẫy",
+"en": "to arrange, establish or prepare something",
+"func": "Nói về chuẩn bị/cài đặt; tổ chức; (lóng) gài bẫy ai.",
+"grammar": "Ngoại động từ TÁCH ĐƯỢC: set up a meeting / set it up. Danh từ viết liền: a setup (hoặc set-up). Bị động: The account is set up.",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"set up a meeting",
+"set up a test environment",
+"set up an account",
+"set up a business"
+],
+"ex": [
+"Can you help me set up my new phone?",
+"I'll set up a call with the client for Thursday.",
+"More young people are setting up their own businesses."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "Viết danh từ thành “set up” (đúng: setup); “set up it”.",
+"similar": "establish (trang trọng, cho tổ chức); arrange (sắp xếp lịch); configure (kỹ thuật).",
+"opposite": "tear down; shut down",
+"usuk": "",
+"rx": "set|sets|setting ~ up",
+"lit": true
+},
+{
+"id": "PRO-PHR-0001",
+"expr": "look into",
+"type": "Phrasal Verb",
+"group": "Professional",
+"vi": "xem xét, điều tra (một vấn đề)",
+"en": "to investigate or examine something",
+"func": "Hứa kiểm tra/điều tra một vấn đề — câu cửa miệng của QA/hỗ trợ khách hàng.",
+"grammar": "Ngoại động từ KHÔNG TÁCH: look into the issue / look into it. Bị động: The issue is being looked into.",
+"trans": "Ngoại động từ · không tách · cần tân ngữ",
+"colls": [
+"look into the issue",
+"look into it",
+"I'll look into this",
+"be looked into"
+],
+"ex": [
+"I'll look into cheaper flights tonight.",
+"Thanks for reporting this — I'll look into it and get back to you.",
+"The government has promised to look into the causes of the accident."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“look it into” (không tách được); dùng look up thay look into.",
+"similar": "look up (tra một thông tin cụ thể); investigate (trang trọng); dig into (thân mật, đào sâu).",
+"opposite": "ignore; brush off",
+"usuk": "",
+"rx": "look|looks|looked|looking into",
+"lit": true
+},
+{
+"id": "PRO-PHR-0002",
+"expr": "carry out",
+"type": "Phrasal Verb",
+"group": "Professional",
+"vi": "tiến hành, thực hiện (kế hoạch, nghiên cứu, kiểm thử)",
+"en": "to do or complete a task, plan or test",
+"func": "Mô tả việc thực hiện công việc có kế hoạch — rất hay trong văn viết/báo cáo.",
+"grammar": "Ngoại động từ TÁCH ĐƯỢC (hiếm tách với danh từ dài): carry out tests / carry them out. Bị động rất phổ biến: Tests were carried out on…",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"carry out testing",
+"carry out research",
+"carry out a survey",
+"carry out orders"
+],
+"ex": [
+"The landlord finally carried out the repairs.",
+"We carried out load testing on the new endpoint last week.",
+"More research needs to be carried out before the drug is approved."
+],
+"register": "neutral–formal",
+"freq": "very common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“carry out with the plan”; dùng cho lời hứa cá nhân (nên dùng follow through / keep).",
+"similar": "conduct (trang trọng hơn, cho research/survey); perform; follow through (hoàn tất đến cùng — xem so sánh).",
+"opposite": "",
+"usuk": "",
+"rx": "carry|carries|carried|carrying ~ out",
+"lit": true
+},
+{
+"id": "PRO-PHR-0003",
+"expr": "follow through (on)",
+"type": "Phrasal Verb",
+"group": "Professional",
+"vi": "làm đến nơi đến chốn (điều đã hứa/định)",
+"en": "to complete something you started or promised",
+"func": "Nhấn mạnh tính cam kết, không bỏ dở.",
+"grammar": "Nội động từ: follow through (on/with + N). Danh từ: follow-through. Khác follow up (xem lại sau).",
+"trans": "Nội động từ · không tách",
+"colls": [
+"follow through on a promise",
+"follow through with a plan",
+"lack of follow-through"
+],
+"ex": [
+"He says he'll quit smoking, but he never follows through.",
+"If we commit to the deadline, we need to follow through.",
+"Politicians often fail to follow through on their election promises."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "C1",
+"prio": "P2",
+"mistake": "Nhầm với follow up.",
+"similar": "carry out (thực hiện một việc cụ thể); see something through (theo đến cùng).",
+"opposite": "drop the ball; give up halfway",
+"usuk": "",
+"rx": "follow|follows|followed|following through"
+},
+{
+"id": "PRO-PHR-0004",
+"expr": "take over",
+"type": "Phrasal Verb",
+"group": "Professional",
+"vi": "tiếp quản, nắm quyền; thay ca",
+"en": "to take control of something or continue a task from someone else",
+"func": "Nhận lại trách nhiệm/quyền kiểm soát từ người khác.",
+"grammar": "Ngoại động từ tách được (take over the project / take it over) hoặc nội động từ (Can you take over?). Danh từ: a takeover (thâu tóm công ty).",
+"trans": "Nội/ngoại động từ · tách được",
+"colls": [
+"take over a project",
+"take over from someone",
+"take over the company",
+"a hostile takeover"
+],
+"ex": [
+"Can you take over driving? I'm exhausted.",
+"Minh will take over the automation framework while I'm on leave.",
+"Robots may take over many routine jobs."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "Nhầm với take on.",
+"similar": "take on (nhận thêm việc/trách nhiệm — xem so sánh); hand over (bàn giao — chiều ngược lại).",
+"opposite": "hand over",
+"usuk": "",
+"rx": "take|takes|took|taken|taking ~ over",
+"lit": true
+},
+{
+"id": "PRO-PHR-0005",
+"expr": "take on",
+"type": "Phrasal Verb",
+"group": "Professional",
+"vi": "nhận (thêm) việc, đảm nhận; tuyển; đối đầu",
+"en": "to accept work or responsibility; to employ; to compete against",
+"func": "Nói về việc chủ động nhận thêm trách nhiệm.",
+"grammar": "Ngoại động từ TÁCH ĐƯỢC: take on more work / take it on. Hay đi với: take on responsibility/a challenge/staff.",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"take on more responsibility",
+"take on a challenge",
+"take on new staff",
+"take on too much"
+],
+"ex": [
+"I think you've taken on too much this semester.",
+"I'd like to take on more responsibility for the CI pipeline.",
+"Small shops can't take on big supermarkets on price."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“take on responsibility of” (đúng: for).",
+"similar": "take over (tiếp quản thứ người khác đang làm); undertake (trang trọng).",
+"opposite": "turn down; offload",
+"usuk": "",
+"rx": "take|takes|took|taken|taking ~ on",
+"lit": true
+},
+{
+"id": "PRO-PHR-0006",
+"expr": "follow up (on)",
+"type": "Phrasal Verb",
+"group": "Professional",
+"vi": "theo dõi tiếp, hỏi lại, xử lý tiếp",
+"en": "to take further action or check on something later",
+"func": "Nhắc/kiểm tra lại tiến độ sau một cuộc họp, email, ticket.",
+"grammar": "Nội động từ: follow up (on/with + N): follow up on the ticket, follow up with the client. Ngoại động từ tách được (ít hơn): follow it up. Danh từ/tính từ: a follow-up (email/meeting).",
+"trans": "Nội/ngoại động từ · tách được (khi có tân ngữ)",
+"colls": [
+"follow up on a ticket",
+"follow up with the client",
+"a follow-up email",
+"just following up"
+],
+"ex": [
+"I'm just following up on my message from Monday.",
+"Can you follow up with the vendor about the license?",
+"Doctors should follow up with patients after surgery."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "Viết danh từ không gạch nối (follow-up); nhầm với follow through.",
+"similar": "check in (hỏi thăm tình hình, thân mật); chase (Anh-Anh: hối thúc).",
+"opposite": "drop; let it slide",
+"usuk": "Anh-Anh hay nói chase up.",
+"rx": "follow|follows|followed|following ~ up"
+},
+{
+"id": "PRO-PHR-0007",
+"expr": "push back",
+"type": "Phrasal Verb",
+"group": "Professional",
+"vi": "dời lại (lịch); phản bác, không đồng ý",
+"en": "to delay to a later time; to resist or argue against",
+"func": "Dời deadline; hoặc phản biện yêu cầu không hợp lý.",
+"grammar": "(1) Ngoại động từ tách được: push back the deadline / push it back (to Friday). (2) Nội động từ: push back on + N (phản đối). Danh từ: pushback.",
+"trans": "Ngoại (tách được) / nội động từ",
+"colls": [
+"push back the deadline",
+"push the release back a week",
+"push back on a requirement",
+"get pushback from"
+],
+"ex": [
+"Can we push dinner back to eight?",
+"We had to push back the release by a week.",
+"It's fine to push back on unrealistic deadlines if you explain why."
+],
+"register": "neutral–informal",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "Hiểu push back = đẩy sớm lên (sai: push back = dời muộn hơn; dời sớm = move up / bring forward).",
+"similar": "postpone, put off (dời); delay; object to (phản đối, trang trọng).",
+"opposite": "move up / bring forward (dời sớm hơn); go along with",
+"usuk": "",
+"rx": "push|pushes|pushed|pushing ~ back",
+"lit": true
+},
+{
+"id": "PRO-PHR-0008",
+"expr": "narrow down",
+"type": "Phrasal Verb",
+"group": "Professional",
+"vi": "thu hẹp (lựa chọn, phạm vi)",
+"en": "to reduce the number of possibilities",
+"func": "Khoanh vùng nguyên nhân lỗi, rút gọn danh sách lựa chọn.",
+"grammar": "Ngoại động từ TÁCH ĐƯỢC: narrow down the options / narrow it down (to + N).",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"narrow down the options",
+"narrow it down to two",
+"narrow down the cause",
+"narrow down the search"
+],
+"ex": [
+"I've narrowed it down to two dresses.",
+"We've narrowed the problem down to the login service.",
+"Students should narrow down their essay topic before researching."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“narrow down to two options” khi thiếu tân ngữ — nên: narrow it down to two.",
+"similar": "rule out (loại hẳn một khả năng); shortlist (lập danh sách rút gọn).",
+"opposite": "broaden; expand",
+"usuk": "",
+"rx": "narrow|narrows|narrowed|narrowing ~ down"
+},
+{
+"id": "IT-EXP-0001",
+"expr": "roll out (a feature)",
+"type": "Phrasal Verb",
+"group": "IT",
+"vi": "triển khai, phát hành (dần) tính năng",
+"en": "to release a product or feature, often gradually",
+"func": "Thông báo phát hành/triển khai một tính năng.",
+"grammar": "Ngoại động từ tách được: roll out the update / roll it out (to users). Danh từ: a rollout (staged/phased rollout). Chuẩn trong công nghệ, không phải lóng.",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"roll out a feature",
+"roll out to 10% of users",
+"a staged rollout",
+"roll back (hoàn tác)"
+],
+"ex": [
+"The bank is rolling out a new app next month.",
+"We'll roll out the new checkout flow to 10% of users first.",
+"The government rolled out the vaccine programme nationwide."
+],
+"register": "neutral (tech/business)",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "Nhầm với roll back (hoàn tác bản phát hành).",
+"similar": "launch (ra mắt một lần, ồn ào hơn); deploy (kỹ thuật: đưa code lên môi trường); release.",
+"opposite": "roll back; pull (a feature)",
+"usuk": "",
+"rx": "roll|rolls|rolled|rolling ~ out",
+"lit": true
+},
+{
+"id": "IT-EXP-0002",
+"expr": "spin up (a server)",
+"type": "Phrasal Verb",
+"group": "IT",
+"vi": "khởi tạo nhanh (máy chủ, môi trường, container)",
+"en": "to quickly create and start a server or environment",
+"func": "Thuật ngữ DevOps/cloud: dựng nhanh tài nguyên.",
+"grammar": "Ngoại động từ tách được: spin up a container / spin it up. Đây là technical jargon — tránh trong văn viết IELTS.",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"spin up a server",
+"spin up a test environment",
+"spin up containers",
+"spin down (tắt)"
+],
+"ex": [
+"Can you spin up a quick demo for the client?",
+"The pipeline spins up a fresh Docker container for every test run.",
+"(Không dùng trong IELTS — thay bằng: set up / create.)"
+],
+"register": "technical jargon / informal workplace",
+"freq": "common (in IT)",
+"cefr": "C1",
+"prio": "P2",
+"mistake": "Dùng trong văn viết trang trọng/IELTS.",
+"similar": "set up (chung); provision (trang trọng, cloud); launch an instance.",
+"opposite": "spin down; tear down",
+"usuk": "",
+"rx": "spin|spins|spun|spinning ~ up",
+"lit": true
+},
+{
+"id": "IT-EXP-0003",
+"expr": "track down (a bug)",
+"type": "Phrasal Verb",
+"group": "IT",
+"vi": "lần ra, truy tìm (sau khi tìm kỹ)",
+"en": "to find something after a long search",
+"func": "Mô tả quá trình truy tìm nguyên nhân lỗi.",
+"grammar": "Ngoại động từ TÁCH ĐƯỢC: track down the bug / track it down. “down” = tới tận nơi, đến cùng.",
+"trans": "Ngoại động từ · tách được · cần tân ngữ",
+"colls": [
+"track down a bug",
+"track down the root cause",
+"track someone down"
+],
+"ex": [
+"I finally tracked down my old roommate on Facebook.",
+"It took two days to track down the memory leak.",
+"Police used CCTV to track down the suspects."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“track the bug” (thiếu down — nghĩa thành “theo dõi”).",
+"similar": "hunt down (mạnh hơn); pin down (xác định chính xác); find.",
+"opposite": "lose track of",
+"usuk": "",
+"rx": "track|tracks|tracked|tracking ~ down",
+"lit": true
+},
+{
+"id": "COL-0001",
+"expr": "raise a concern",
+"type": "Collocation",
+"group": "Verb + noun",
+"vi": "nêu lên một mối lo ngại",
+"en": "to mention a worry formally",
+"func": "Lên tiếng về rủi ro một cách lịch sự, chuyên nghiệp.",
+"grammar": "raise + a concern / concerns (about/over + N). raise (ngoại động từ: nâng/nêu) ≠ rise (nội động từ). Bị động: Concerns have been raised about…",
+"colls": [
+"raise concerns about security",
+"raise a concern with the team",
+"concerns were raised over…"
+],
+"ex": [
+"Several parents raised concerns about the new school bus route.",
+"I'd like to raise a concern about test coverage before we sign off.",
+"Experts have raised concerns about the impact of AI on jobs."
+],
+"register": "neutral–formal",
+"freq": "very common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“rise a concern” (sai: rise là nội động từ); “raise a concern on” (tự nhiên hơn: about).",
+"similar": "bring up a concern (thân mật hơn); voice a concern (trang trọng); flag an issue (công sở).",
+"opposite": "allay / ease concerns (xoa dịu lo ngại)",
+"usuk": "",
+"rx": "raise|raises|raised|raising ~ concern|concerns"
+},
+{
+"id": "COL-0002",
+"expr": "meet a deadline",
+"type": "Collocation",
+"group": "Verb + noun",
+"vi": "kịp hạn chót",
+"en": "to finish something by the agreed time",
+"func": "Nói về tiến độ, cam kết thời hạn.",
+"grammar": "meet / miss a deadline. Không dùng “catch/reach a deadline”. Hay có: tight deadline, meet the deadline for + N.",
+"colls": [
+"meet a tight deadline",
+"miss the deadline",
+"work to a deadline",
+"deadline for submission"
+],
+"ex": [
+"I stayed up all night to meet the deadline.",
+"We'll only meet the deadline if we cut the scope.",
+"Students who cannot meet deadlines often suffer from stress."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“catch the deadline”, “reach the deadline” (dịch từ tiếng Việt “kịp”).",
+"similar": "hit a deadline (thân mật, Mỹ); be on schedule.",
+"opposite": "miss a deadline; blow a deadline (thân mật)",
+"usuk": "",
+"rx": "meet|meets|met|meeting ~ deadline|deadlines"
+},
+{
+"id": "COL-0003",
+"expr": "reach a consensus",
+"type": "Collocation",
+"group": "Verb + noun",
+"vi": "đạt được đồng thuận",
+"en": "to come to general agreement",
+"func": "Mô tả kết quả thảo luận nhóm.",
+"grammar": "reach / come to / build a consensus (on/about + N). “consensus” đã có nghĩa đồng thuận chung → tránh “general consensus of opinion” (thừa).",
+"colls": [
+"reach a consensus on",
+"build consensus",
+"there is a growing consensus that"
+],
+"ex": [
+"We couldn't reach a consensus on where to eat, so we flipped a coin.",
+"After two meetings, the team reached a consensus on the tech stack.",
+"There is a growing consensus that climate change requires urgent action."
+],
+"register": "neutral–formal",
+"freq": "common",
+"cefr": "C1",
+"prio": "P1",
+"mistake": "“reach to a consensus”; viết sai “concensus”.",
+"similar": "come to an agreement (trung tính); see eye to eye (thân mật).",
+"opposite": "reach a deadlock / stalemate",
+"usuk": "",
+"rx": "reach|reaches|reached|reaching ~ consensus"
+},
+{
+"id": "COL-0004",
+"expr": "address an issue",
+"type": "Collocation",
+"group": "Verb + noun",
+"vi": "giải quyết / xử lý một vấn đề",
+"en": "to start dealing with a problem",
+"func": "Văn phong trang trọng: chủ động xử lý vấn đề — rất hợp IELTS Writing.",
+"grammar": "address (ngoại động từ, KHÔNG có giới từ) + the issue/problem/concern. Sai: address to the issue.",
+"colls": [
+"address the issue of",
+"address concerns",
+"address the root cause",
+"fail to address"
+],
+"ex": [
+"We need to address the noise issue with our neighbors.",
+"This patch addresses the issue reported in ticket 214.",
+"Governments must address the issue of rising housing costs."
+],
+"register": "formal",
+"freq": "very common",
+"cefr": "C1",
+"prio": "P1",
+"mistake": "“address to the problem” (thừa to).",
+"similar": "tackle (mạnh mẽ hơn); deal with (trung tính, nói); resolve (giải quyết xong hẳn).",
+"opposite": "ignore; neglect; sidestep",
+"usuk": "",
+"rx": "address|addresses|addressed|addressing ~ issue|issues|concern|concerns|problem"
+},
+{
+"id": "COL-0005",
+"expr": "draw a conclusion",
+"type": "Collocation",
+"group": "Verb + noun",
+"vi": "rút ra kết luận",
+"en": "to decide something is true based on information",
+"func": "Diễn đạt việc suy luận từ dữ liệu.",
+"grammar": "draw / reach / come to a conclusion (from + N). Không dùng “take a conclusion”. jump to conclusions = vội kết luận.",
+"colls": [
+"draw conclusions from the data",
+"draw the conclusion that",
+"jump to conclusions"
+],
+"ex": [
+"Don't jump to conclusions — maybe she's just busy.",
+"It's too early to draw any conclusions from one failed run.",
+"From this evidence, we can draw the conclusion that diet affects mood."
+],
+"register": "neutral–formal",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“take/make a conclusion”.",
+"similar": "infer (trang trọng); conclude.",
+"opposite": "",
+"usuk": "",
+"rx": "draw|draws|drew|drawn|drawing ~ conclusion|conclusions"
+},
+{
+"id": "COL-0006",
+"expr": "take responsibility (for)",
+"type": "Collocation",
+"group": "Verb + noun",
+"vi": "nhận trách nhiệm (về)",
+"en": "to accept that you are responsible for something",
+"func": "Nhận lỗi / nhận trách nhiệm một cách trưởng thành.",
+"grammar": "take (full) responsibility for + N/V-ing. Không dùng “take responsible”. Responsibility là danh từ không đếm được trong cụm này.",
+"colls": [
+"take full responsibility for",
+"take responsibility for your actions",
+"take on responsibility"
+],
+"ex": [
+"You broke it, so take responsibility for it.",
+"I take full responsibility for the missed test case.",
+"Parents should take responsibility for their children's screen time."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“take responsibility of” (đúng: for); “take the responsibility” khi không xác định.",
+"similar": "own (công sở: own the mistake); be accountable for (trang trọng); take the blame (nhận lỗi, tiêu cực hơn).",
+"opposite": "shift the blame; pass the buck (thân mật)",
+"usuk": "",
+"rx": "take|takes|took|taken|taking ~ responsibility"
+},
+{
+"id": "FIX-0001",
+"expr": "as far as I know",
+"type": "Fixed Expression",
+"group": "Hedging",
+"vi": "theo tôi biết thì",
+"en": "based on the information I have (I might be wrong)",
+"func": "Rào đón: đưa thông tin nhưng không cam đoan 100%.",
+"grammar": "Đứng đầu hoặc cuối câu: As far as I know, + clause / …, as far as I know. Phủ định ngắn: Not as far as I know.",
+"colls": [
+"as far as I know",
+"not as far as I know",
+"as far as I can tell"
+],
+"ex": [
+"As far as I know, the store's open until ten.",
+"As far as I know, that bug was fixed in the last sprint.",
+"As far as I know, most universities in Vietnam now offer online courses."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“As far as I knew” khi nói về hiện tại; “As long as I know” (sai cụm).",
+"similar": "to the best of my knowledge (trang trọng hơn); as far as I can tell (dựa trên quan sát).",
+"opposite": "I know for a fact that…",
+"usuk": "",
+"rx": "as far as i know"
+},
+{
+"id": "FIX-0002",
+"expr": "that being said / having said that",
+"type": "Fixed Expression",
+"group": "Transition",
+"vi": "nói vậy chứ…, dù vậy…",
+"en": "despite what I have just said",
+"func": "Chuyển ý: thừa nhận một điều rồi đưa ra ý ngược/bổ sung.",
+"grammar": "Đứng đầu câu, có dấu phẩy: That being said, … / Having said that, … (mệnh đề phân từ rút gọn). Có thể đứng sau “But”.",
+"colls": [
+"that being said,",
+"having said that,",
+"with that being said"
+],
+"ex": [
+"The food was great. That being said, it was way too expensive.",
+"The release is stable. Having said that, we still need to monitor error rates.",
+"Technology has many benefits. That being said, it can also isolate people."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“That been said”, “Have said that”.",
+"similar": "however (viết); still / even so (nói); that said (ngắn gọn hơn).",
+"opposite": "",
+"usuk": "",
+"rx": "that being said;having said that;^ that said"
+},
+{
+"id": "FIX-0003",
+"expr": "it turns out (that)",
+"type": "Fixed Expression",
+"group": "Storytelling",
+"vi": "hóa ra là",
+"en": "used when you discover something surprising",
+"func": "Kể chuyện/báo một phát hiện bất ngờ.",
+"grammar": "It turns out (that) + clause / It turned out to be + N. Cũng có: As it turns out, …",
+"colls": [
+"it turns out that",
+"as it turned out",
+"turned out to be"
+],
+"ex": [
+"It turns out he's been married this whole time!",
+"It turned out the test was failing because of a time zone issue.",
+"It turns out that children who read for pleasure do better at school."
+],
+"register": "neutral",
+"freq": "very common",
+"cefr": "B1",
+"prio": "P1",
+"mistake": "“It is turned out”; “It turns out to that”.",
+"similar": "as it happens (tình cờ là); apparently (nghe nói); it emerged that (báo chí, trang trọng).",
+"opposite": "",
+"usuk": "",
+"rx": "turns|turned out"
+},
+{
+"id": "FIX-0004",
+"expr": "I wouldn't go that far.",
+"type": "Fixed Expression",
+"group": "Disagreeing",
+"vi": "tôi không đến mức nói vậy",
+"en": "I partly agree, but your statement is too strong",
+"func": "Phản đối nhẹ nhàng một nhận định quá đà.",
+"grammar": "I wouldn't go that far (as to say…). Would = giả định lịch sự.",
+"colls": [
+"I wouldn't go that far",
+"I wouldn't go so far as to say…"
+],
+"ex": [
+"“That movie was the worst ever.” “I wouldn't go that far.”",
+"It's slow, but I wouldn't go that far as to call it broken.",
+"“Social media destroys friendships?” I wouldn't go that far."
+],
+"register": "neutral",
+"freq": "common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "“I won't go that far” (nghe như từ chối đi xa thật).",
+"similar": "That's a bit of a stretch; I'm not sure I'd say that.",
+"opposite": "I couldn't agree more.",
+"usuk": "",
+"rx": "wouldn't go that far;go so far as"
+},
+{
+"id": "FIX-0005",
+"expr": "at the end of the day",
+"type": "Fixed Expression",
+"group": "Opinions",
+"vi": "rốt cuộc thì, suy cho cùng",
+"en": "when everything is considered",
+"func": "Chốt lại điều quan trọng nhất của một lập luận.",
+"grammar": "Đứng đầu câu: At the end of the day, + clause. Nghĩa đen (cuối ngày) cũng dùng — dựa ngữ cảnh. Dùng vừa phải, lạm dụng nghe sáo.",
+"colls": [
+"at the end of the day, it's…"
+],
+"ex": [
+"At the end of the day, it's your money.",
+"At the end of the day, users only care whether it works.",
+"At the end of the day, education is an investment in the future."
+],
+"register": "informal–neutral",
+"freq": "very common",
+"cefr": "B2",
+"prio": "P1",
+"mistake": "Dùng trong IELTS Writing (nên thay: ultimately).",
+"similar": "ultimately (viết); when all is said and done; all things considered.",
+"opposite": "",
+"usuk": "",
+"rx": "at the end of the day",
+"lit": true
+}
+]
+}

@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Idioms & Phrasal Verbs</title>
+  <style>
+    :root { color-scheme: light dark; --bg:#faf9f7; --card:#fff; --ink:#1c1917; --muted:#6b6560; --line:#e7e5e4; --accent:#047857; --accentbg:#ecfdf5; --ok:#15803d; --okbg:#dcfce7; --bad:#b91c1c; --badbg:#fee2e2; }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg:#161412; --card:#221f1c; --ink:#f5f5f4; --muted:#a8a29e; --line:#3a3532; --accent:#34d399; --accentbg:#0f2a22; --ok:#4ade80; --okbg:#0f2a1a; --bad:#f87171; --badbg:#3a1717; } }
+    :root[data-theme="dark"] { --bg:#161412; --card:#221f1c; --ink:#f5f5f4; --muted:#a8a29e; --line:#3a3532; --accent:#34d399; --accentbg:#0f2a22; --ok:#4ade80; --okbg:#0f2a1a; --bad:#f87171; --badbg:#3a1717; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1000px; margin:auto; padding:4px 16px 48px; }
+    h1 { margin:0 0 6px; font-size:26px; line-height:1.25; }
+    h2 { font-size:18px; margin:22px 0 8px; }
+    .lead, .note { color:var(--muted); }
+    .lead b { color:var(--ink); }
+    .note { font-size:13px; }
+    .tabs { display:flex; gap:0; margin:14px 0 12px; border:1px solid var(--line); border-radius:10px; overflow:hidden; width:max-content; max-width:100%; flex-wrap:wrap; }
+    .tab { border:0; background:var(--card); color:inherit; padding:8px 14px; font:inherit; font-size:14px; cursor:pointer; }
+    .tab + .tab { border-left:1px solid var(--line); }
+    .tab.on { background:var(--accentbg); color:var(--accent); font-weight:700; }
+    .pane[hidden] { display:none; }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:0 0 10px; }
+    input[type=search], input[type=text], select, textarea { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; font-size:14px; max-width:100%; }
+    input[type=search] { flex:1 1 220px; min-width:0; }
+    .cnt { font-size:13px; color:var(--muted); margin-left:auto; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:12px; margin:0 0 8px; }
+    .card > summary { list-style:none; cursor:pointer; padding:10px 14px; display:grid; grid-template-columns:minmax(0,1fr) auto; gap:2px 10px; }
+    .card > summary::-webkit-details-marker { display:none; }
+    .card[open] > summary { border-bottom:1px solid var(--line); }
+    .ex1 { grid-column:1 / -1; font-size:14px; color:var(--muted); font-style:italic; }
+    .expr { font-weight:700; font-size:16px; }
+    .id { font-size:11.5px; color:var(--muted); font-variant-numeric:tabular-nums; margin-right:6px; font-weight:400; }
+    .vi { color:var(--ink); }
+    .chips { display:flex; flex-wrap:wrap; gap:4px; justify-content:flex-end; align-items:flex-start; }
+    .chip { font-size:11.5px; border:1px solid var(--line); border-radius:999px; padding:0 7px; color:var(--muted); white-space:nowrap; }
+    .chip.p1 { border-color:var(--accent); color:var(--accent); font-weight:600; }
+    .chip.mv { border-color:var(--accent); color:var(--accent); }
+    .body { padding:10px 14px 12px; }
+    .body dl { display:grid; grid-template-columns:170px minmax(0,1fr); gap:6px 14px; margin:0 0 10px; }
+    .body dt { color:var(--muted); font-size:13px; }
+    .body dd { margin:0; font-size:14.5px; }
+    .exs { margin:6px 0 10px; padding:0; list-style:none; }
+    .exs li { margin:4px 0; }
+    .exs .lab { font-size:12px; color:var(--muted); display:inline-block; min-width:120px; }
+    .ev { background:var(--accentbg); border-radius:9px; padding:8px 10px; font-size:13.5px; }
+    .ev q { quotes:"“" "”"; }
+    .ev .src { color:var(--muted); font-size:12px; }
+    .say { border:0; background:none; cursor:pointer; font-size:14px; padding:0 2px; }
+    .cmp { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:12px 14px; margin:0 0 10px; }
+    .cmp h3 { margin:0 0 6px; font-size:16px; }
+    .cmp .vs { color:var(--muted); font-weight:400; }
+    .cmp .tip { font-size:13.5px; color:var(--muted); margin-top:6px; }
+    .q { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:10px 14px; margin:0 0 8px; }
+    .q .n { color:var(--muted); font-size:12.5px; margin-right:6px; }
+    .q .row { display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; align-items:center; }
+    .q input[type=text], .q textarea { flex:1 1 240px; }
+    .q textarea { width:100%; min-height:52px; resize:vertical; }
+    .opt, .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:6px 12px; font:inherit; font-size:14px; cursor:pointer; }
+    .opt:hover, .btn:hover { border-color:var(--accent); }
+    .opt.ok, .res.ok { background:var(--okbg); border-color:var(--ok); color:var(--ok); }
+    .opt.bad, .res.bad { background:var(--badbg); border-color:var(--bad); color:var(--bad); }
+    .ans { margin-top:8px; font-size:14px; padding:8px 10px; border-radius:9px; background:var(--accentbg); }
+    .ans[hidden] { display:none; }
+    .res { font-size:13px; border-radius:999px; padding:1px 9px; border:1px solid transparent; }
+    .score { font-weight:700; }
+    table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; font-variant-numeric:tabular-nums; }
+    th, td { padding:8px 12px; text-align:left; border-bottom:1px solid var(--line); }
+    th { font-size:13px; color:var(--muted); font-weight:600; }
+    td.num, th.num { text-align:right; }
+    .prog { height:6px; background:var(--accentbg); border-radius:3px; min-width:80px; }
+    .prog i { display:block; height:100%; background:var(--accent); border-radius:3px; }
+    .dl { display:flex; flex-wrap:wrap; gap:8px; }
+    .dl a { border:1px solid var(--line); background:var(--card); border-radius:9px; padding:8px 12px; text-decoration:none; font-size:14px; }
+    @media (max-width:640px) {
+      .body dl { grid-template-columns:1fr; gap:2px; }
+      .body dt { margin-top:6px; }
+      .card > summary { grid-template-columns:1fr; }
+      .chips { justify-content:flex-start; }
+      .cnt { margin-left:0; }
+      .hide-sm { display:none; }
+    }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Idioms & Phrasal Verbs"></script>
+</head>
+<body>
+<main>
+  <h1>🔤 Idioms, Phrasal Verbs &amp; Natural Expressions</h1>
+  <p class="lead" id="lead"></p>
+  <div class="tabs" role="tablist">
+    <button class="tab" data-t="list">📖 Tra cứu</button>
+    <button class="tab" data-t="cmp">⚖️ So sánh cụm dễ nhầm</button>
+    <button class="tab" data-t="ex">✍️ Bài tập</button>
+    <button class="tab" data-t="dl">📥 Tải về &amp; tiến độ</button>
+  </div>
+
+  <section class="pane" id="p-list">
+    <div class="bar">
+      <input type="search" id="q" placeholder="Tìm cụm / nghĩa / ví dụ…" aria-label="Tìm">
+      <select id="type" aria-label="Loại"></select>
+      <select id="prio" aria-label="Ưu tiên"><option value="">Mọi mức ưu tiên</option><option value="P1">P1 · Thiết yếu</option><option value="P2">P2 · Hữu ích</option><option value="P3">P3 · Nâng cao</option></select>
+      <select id="cefr" aria-label="CEFR"><option value="">Mọi CEFR</option><option>A2</option><option>B1</option><option>B2</option><option>C1</option><option>C2</option></select>
+      <span class="cnt" id="cnt"></span>
+    </div>
+    <div id="list"></div>
+    <p class="note">Bấm vào một cụm để xem đủ: ngữ pháp (bằng tiếng Việt), ngoại/nội động từ, tách được hay không, kết hợp hay gặp, 3 câu ví dụ (đời thường · công việc/QA · IELTS), văn phong, tần suất, CEFR, lỗi người Việt hay mắc, cụm gần nghĩa, trái nghĩa và <b>bằng chứng trong phụ đề phim</b>. Câu ví dụ là <i>câu tự soạn</i>; câu trong ô xanh là <i>câu thoại thật</i> (trích 1 dòng ngắn, bản quyền thuộc hãng phim).</p>
+  </section>
+
+  <section class="pane" id="p-cmp" hidden><div id="cmp"></div></section>
+
+  <section class="pane" id="p-ex" hidden>
+    <p class="note">Làm trước rồi mới bấm <b>Kiểm tra</b> / <b>Xem đáp án</b>. Phần dịch và viết lại câu không chấm tự động: tự so với đáp án mẫu (có nhiều cách đúng). Điểm: <span class="score" id="score">0</span>.</p>
+    <div id="ex"></div>
+  </section>
+
+  <section class="pane" id="p-dl" hidden>
+    <h2>Tiến độ (mục tiêu 1.500 cụm, làm theo đợt 50)</h2>
+    <table><thead><tr><th>Nhóm</th><th class="num">Đã có</th><th class="num">Mục tiêu</th><th class="hide-sm">Tiến độ</th></tr></thead><tbody id="prog"></tbody></table>
+    <h2>Tải về</h2>
+    <div class="dl" id="dl"></div>
+    <p class="note">File <b>anki-import.csv</b>: Anki → File → Import → chọn file (đã có sẵn dòng cấu hình: dấu phẩy, cho phép HTML, cột 3 là tags). Mặt trước: cụm + câu ví dụ; mặt sau: nghĩa, ngữ pháp, kết hợp, 3 ví dụ, lỗi hay mắc. File <b>idioms-phrasal-verbs.csv</b> có đủ 24 cột để mở bằng Excel / Google Sheets.</p>
+  </section>
+</main>
+<script src="expressions-data.js"></script>
+<script>
+(() => {
+  const D = window.EXB, E = D.entries;
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const pre = id => id.replace(/-\d+$/, '');
+  const fmt = n => n.toLocaleString('vi-VN');
+  const typeName = Object.fromEntries(D.files.map(f => [f[2], f[1]]));
+  const say = t => `<button class="say" data-t="${esc(t)}" aria-label="Nghe">🔊</button>`;
+
+  $('lead').innerHTML = `<b>${E.length} cụm</b> (đợt ${Math.max(...E.map(e => e.batch))} / mục tiêu 1.500): idioms, phrasal verbs, phrasal verbs công sở &amp; IT/QA, collocations, fixed expressions. Mỗi cụm đủ 17 trường, có so sánh các cụm dễ nhầm và bài tập. ${E.filter(e => e.n).length}/${E.length} cụm có bằng chứng trong phụ đề ${fmt(D.eps)} tập phim (${fmt(D.lines)} lượt thoại).`;
+
+  // ---------- tabs ----------
+  const tabs = [...document.querySelectorAll('.tab')];
+  function show(t) {
+    tabs.forEach(b => b.classList.toggle('on', b.dataset.t === t));
+    document.querySelectorAll('.pane').forEach(p => p.hidden = p.id !== 'p-' + t);
+    try { localStorage.setItem('exb-tab', t); } catch (e) {}
+  }
+  tabs.forEach(b => b.onclick = () => show(b.dataset.t));
+  let t0 = 'list'; try { t0 = localStorage.getItem('exb-tab') || 'list'; } catch (e) {}
+  show(new URLSearchParams(location.search).get('tab') || t0);
+
+  // ---------- tra cứu ----------
+  $('type').innerHTML = '<option value="">Mọi loại</option>' + D.files.map(f => `<option value="${f[2]}">${esc(f[1])} (${E.filter(e => pre(e.id) === f[2]).length})</option>`).join('');
+  E.forEach(e => e.hay = [e.expr, e.vi, e.en, e.group, ...e.ex, ...e.colls].join(' ').toLowerCase());
+  function card(e) {
+    const row = (k, v) => v ? `<dt>${k}</dt><dd>${esc(v)}</dd>` : '';
+    let ev;
+    if (e.srcs) {
+      const by = Object.entries(e.by).map(([s, n]) => `${s} ${fmt(n)}`).join(' · ');
+      ev = `<div class="ev">✅ <b>Có trong phụ đề phim</b>: ${fmt(e.n)} lượt thoại (${esc(by)}).${e.lit ? ' <i>Số lần đếm theo mặt chữ, gồm cả nghĩa đen / nghĩa khác.</i>' : ''}<br>` +
+        e.srcs.map(x => `<q>${esc(x.line)}</q> ${say(x.line)} <span class="src">🎬 ${esc(x.show)} ${esc(x.ep)}</span>`).join('<br>') + '</div>';
+    } else {
+      ev = `<div class="ev">ℹ️ Không gặp trong phụ đề sitcom đã dò. Thường gặp ở văn trang trọng / chuyên ngành, hoặc ít dùng trong hội thoại phim.</div>`;
+    }
+    const labs = ['Đời thường (Mỹ)', 'Công việc / QA', 'IELTS'];
+    return `<details class="card"><summary>
+      <div><span class="expr"><span class="id">${e.id}</span>${esc(e.expr)}</span> ${say(e.expr)} — <span class="vi">${esc(e.vi)}</span></div>
+      <div class="chips"><span class="chip ${e.prio === 'P1' ? 'p1' : ''}">${e.prio}</span><span class="chip">${e.cefr}</span><span class="chip">${esc(e.type)}</span><span class="chip">${esc(e.register)}</span>${e.n ? `<span class="chip mv">🎬 ${fmt(e.n)}</span>` : ''}</div>
+      <div class="ex1">${esc(e.ex[0])}</div></summary>
+      <div class="body"><dl>
+        ${row('Plain English', e.en)}${row('Chức năng giao tiếp', e.func)}${row('Ngữ pháp', e.grammar)}${row('Ngoại/nội · tách được?', e.trans)}
+        ${row('Kết hợp hay gặp', e.colls.join(' · '))}${row('Nhóm', e.group)}${row('Tần suất', e.freq)}
+        ${row('Lỗi người Việt hay mắc', e.mistake)}${row('Cụm gần nghĩa & khác biệt', e.similar)}${row('Trái nghĩa', e.opposite)}${row('Anh-Mỹ / Anh-Anh', e.usuk)}
+      </dl>
+      <ul class="exs">${e.ex.map((x, i) => `<li><span class="lab">${labs[i]} · tự soạn</span> ${esc(x)} ${say(x)}</li>`).join('')}</ul>
+      ${ev}</div></details>`;
+  }
+  function render() {
+    const q = $('q').value.trim().toLowerCase(), ty = $('type').value, pr = $('prio').value, ce = $('cefr').value;
+    const L = E.filter(e => (!q || e.hay.includes(q)) && (!ty || pre(e.id) === ty) && (!pr || e.prio === pr) && (!ce || e.cefr === ce));
+    $('cnt').textContent = `${L.length} / ${E.length} cụm`;
+    let html = '', last = null;
+    for (const e of L) {
+      const p = pre(e.id);
+      if (p !== last) { html += `<h2>${esc(typeName[p])}</h2>`; last = p; }
+      html += card(e);
+    }
+    $('list').innerHTML = html || '<p class="note">Không có cụm nào khớp.</p>';
+  }
+  ['q', 'type', 'prio', 'cefr'].forEach(k => $(k).addEventListener('input', render));
+  render();
+
+  // ---------- so sánh ----------
+  const byId = Object.fromEntries(E.map(e => [e.id, e]));
+  $('cmp').innerHTML = D.extras.flatMap(x => x.comparisons || []).map(c => `<div class="cmp">
+    <h3>${esc(c.a)} <span class="vs">vs.</span> ${esc(c.b)}</h3>
+    <p>${esc(c.diff)}</p>
+    <div>✅ <b>${esc(c.a)}</b>: ${esc(c.exA)}</div><div>✅ <b>${esc(c.b)}</b>: ${esc(c.exB)}</div>
+    <div class="tip">💡 ${esc(c.tip)} · <span class="note">${c.refs.map(r => byId[r] ? `${r}: ${esc(byId[r].vi)}` : r).join(' · ')}</span></div></div>`).join('');
+
+  // ---------- bài tập ----------
+  let score = 0;
+  const bump = () => { score++; $('score').textContent = score; };
+  const normA = s => s.toLowerCase().replace(/[’']/g, "'").replace(/[^a-z' ]/g, ' ').replace(/\s+/g, ' ').trim();
+  let exHtml = '';
+  for (const x of D.extras) {
+    const X = x.exercises, b = x.batch;
+    exHtml += `<h2>Đợt ${b}</h2>`;
+    const sec = (title, items, fn) => { exHtml += `<h2 style="font-size:16px">${title}</h2>` + items.map((it, i) => `<div class="q" data-k="${b}"><span class="n">${i + 1}.</span>${fn(it, i)}</div>`).join(''); };
+    sec('A. Dịch Việt → Anh', X.translate, it => `${esc(it.q)}<div class="row"><textarea placeholder="Viết câu tiếng Anh…"></textarea></div><div class="row"><button class="btn rev">Xem đáp án</button></div><div class="ans" hidden><b>${esc(it.a)}</b> ${say(it.a.split(' / ')[0])}<br><span class="note">${esc(it.why)}</span></div>`);
+    sec('B. Điền vào chỗ trống', X.complete, it => `${esc(it.q)}<div class="row"><input type="text" placeholder="Từ cần điền" data-a="${esc(it.a)}"><button class="btn chk">Kiểm tra</button><span class="res"></span></div><div class="ans" hidden><b>${esc(it.a)}</b> · <span class="note">${esc(it.why)}</span></div>`);
+    sec('C. Chọn cụm đúng', X.choose, it => `${esc(it.q)}<div class="row">${it.opts.map(o => `<button class="opt" data-ok="${o === it.a ? 1 : 0}">${esc(o)}</button>`).join('')}</div><div class="ans" hidden><b>${esc(it.a)}</b> · <span class="note">${esc(it.why)}</span></div>`);
+    sec('D. Viết lại câu', X.rewrite, it => `${esc(it.q)}<div class="row"><textarea placeholder="Viết lại…"></textarea></div><div class="row"><button class="btn rev">Xem đáp án</button></div><div class="ans" hidden><b>${esc(it.a)}</b><br><span class="note">${esc(it.why)}</span></div>`);
+    sec('E. Nói (ghi âm hoặc nói to 45–60 giây)', X.speaking, it => `${esc(it.q)}<div class="row"><button class="btn rev">Gợi ý khung câu</button></div><div class="ans" hidden><i>${esc(it.hint)}</i></div>`);
+  }
+  $('ex').innerHTML = exHtml;
+  $('ex').addEventListener('click', ev => {
+    const q = ev.target.closest('.q'); if (!q) return;
+    const ans = q.querySelector('.ans');
+    if (ev.target.classList.contains('rev')) { ans.hidden = !ans.hidden; ev.target.textContent = ans.hidden ? 'Xem đáp án' : 'Ẩn đáp án'; }
+    if (ev.target.classList.contains('opt') && !q.dataset.done) {
+      q.dataset.done = 1;
+      const ok = ev.target.dataset.ok === '1';
+      ev.target.classList.add(ok ? 'ok' : 'bad');
+      q.querySelectorAll('.opt').forEach(o => { if (o.dataset.ok === '1') o.classList.add('ok'); });
+      if (ok) bump(); ans.hidden = false;
+    }
+    if (ev.target.classList.contains('chk')) {
+      const inp = q.querySelector('input'), res = q.querySelector('.res');
+      const want = inp.dataset.a.split(/[(/]/)[0];
+      const ok = normA(inp.value) && normA(inp.value) === normA(want);
+      res.textContent = ok ? '✓ Đúng' : '✗ Chưa đúng'; res.className = 'res ' + (ok ? 'ok' : 'bad');
+      if (ok && !q.dataset.done) { q.dataset.done = 1; bump(); }
+      ans.hidden = false;
+    }
+  });
+  $('ex').addEventListener('keydown', ev => { if (ev.key === 'Enter' && ev.target.matches('input[type=text]')) ev.target.closest('.q').querySelector('.chk').click(); });
+
+  // ---------- tiến độ & tải về ----------
+  $('prog').innerHTML = D.files.map(f => {
+    const have = E.filter(e => pre(e.id) === f[2]).length, tg = D.target[f[2]];
+    return `<tr><td>${esc(f[1])}</td><td class="num">${have}</td><td class="num">${tg}</td><td class="hide-sm"><div class="prog"><i style="width:${Math.min(100, have / tg * 100)}%"></i></div></td></tr>`;
+  }).join('') + `<tr><td><b>Tổng</b></td><td class="num"><b>${E.length}</b></td><td class="num"><b>${Object.values(D.target).reduce((a, b) => a + b, 0)}</b></td><td class="hide-sm"></td></tr>`;
+  const md = f => `../#/expressions/${f.replace(/\.md$/, '')}`;
+  $('dl').innerHTML = [
+    ...D.files.map(f => [md(f[0]), '📄 ' + f[0]]),
+    [md('similar-expressions-comparison.md'), '📄 similar-expressions-comparison.md'],
+    ...D.extras.map(x => [md(`exercises-batch-${String(x.batch).padStart(3, '0')}.md`), `📄 Bài tập đợt ${x.batch}`]),
+    [md('progress-index.md'), '📄 progress-index.md'],
+    ['../expressions/idioms-phrasal-verbs.csv', '📊 idioms-phrasal-verbs.csv'],
+    ['../expressions/anki-import.csv', '🗂️ anki-import.csv'],
+  ].map(([h, t]) => `<a href="${h}"${h.endsWith('.csv') ? ' download' : ''}>${t}</a>`).join('');
+
+  document.addEventListener('click', ev => {
+    const b = ev.target.closest('.say'); if (!b || !window.speechSynthesis) return;
+    ev.preventDefault(); ev.stopPropagation();
+    const u = new SpeechSynthesisUtterance(b.dataset.t); u.lang = 'en-US'; u.rate = .95;
+    speechSynthesis.cancel(); speechSynthesis.speak(u);
+  }, true);
+})();
+</script>
+</body>
+</html>
