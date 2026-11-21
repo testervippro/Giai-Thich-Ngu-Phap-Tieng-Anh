@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Kiểm tra truyện dài (tools/data/kanji_saga/NN.txt): mỗi chương phải có đủ 60 chữ của phần thẻ tương ứng, đánh dấu 【字】.
+"""Kiểm tra truyện dài (tools/data/kanji_saga/NN.txt): mỗi chương phải có đủ các chữ CÓ CÂU CHUYỆN của phần thẻ tương ứng, đánh dấu 【字】.
     .venv/bin/python tools/kanji_saga_check.py [NN ...]"""
 import re
 import sys
@@ -16,7 +16,7 @@ for f in sorted(D.glob("*.txt")):
     i = int(f.stem)
     if sys.argv[1:] and f.stem not in sys.argv[1:]:
         continue
-    want = [r[1] for r in K[(i - 1) * N:i * N]]
+    want = [r[1] for r in K[(i - 1) * N:i * N] if r[5]]   # chỉ thẻ có câu chuyện
     got = re.findall(r"【(.)】", f.read_text(encoding="utf-8"))
     miss = [c for c in want if c not in got]
     extra = [c for c in got if c not in want]

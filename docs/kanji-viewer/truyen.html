@@ -29,6 +29,15 @@
     .pc { color:var(--muted); font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:.95em; }
     body.nopc .pc { display:none; }
     mark { background:#fde68a; color:#111; border-radius:3px; }
+    .art { width:100%; aspect-ratio:900/420; object-fit:cover; border-radius:12px; margin:2px 0 10px; display:block; background:var(--line); }
+    dialog { border:1px solid var(--line); border-radius:16px; padding:16px; max-width:min(420px, calc(100vw - 32px)); background:var(--card); color:var(--ink); }
+    dialog::backdrop { background:rgba(0,0,0,.45); }
+    dialog .big { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:72px; line-height:1; text-align:center; }
+    dialog .hv { text-align:center; color:var(--accent); font-weight:800; font-size:20px; margin:6px 0 0; }
+    dialog .m { text-align:center; color:var(--muted); margin:0 0 8px; }
+    dialog .st { background:var(--accentbg); border-radius:10px; padding:8px 10px; margin:8px 0; line-height:1.55; }
+    dialog img { width:100%; border-radius:10px; display:block; }
+    dialog .row { display:flex; gap:8px; justify-content:space-between; margin-top:10px; }
     .nav { display:flex; justify-content:space-between; gap:8px; margin-top:6px; }
     .nav a { font-size:13px; color:var(--accent); text-decoration:none; }
   </style>
@@ -37,8 +46,8 @@
 </head>
 <body>
 <main>
-  <h1>📜 Hành trình của cậu Nhân — một câu chuyện cho 2.161 chữ Kanji</h1>
-  <p class="lead">Toàn bộ câu chuyện của các thẻ Kanji được nối thành <b>một truyện dài 37 chương</b>, đi theo đúng thứ tự thẻ. Dàn nhân vật quen thuộc: cậu Nhân (亻), cô Thảo (艹), chị Nguyệt (月), em Bồ (阝), chú chó Khuyển (犬)… <span class="kj">休<small>HƯU</small></span> là chữ đang học (bấm để luyện viết), <span class="pc">(木)</span> là mảnh ghép. Bật <b>Tự kiểm tra</b> để ẩn âm Hán Việt và đoán trước khi xem.</p>
+  <h1>📜 Hành trình của cậu Nhân — một câu chuyện cho 2.075 chữ Kanji</h1>
+  <p class="lead">Câu chuyện của toàn bộ thẻ Kanji <b>có câu chuyện</b> được nối thành <b>một truyện dài 37 chương</b>, đi theo đúng thứ tự thẻ. Dàn nhân vật quen thuộc: cậu Nhân (亻), cô Thảo (艹), chị Nguyệt (月), em Bồ (阝), chú chó Khuyển (犬)… <span class="kj">休<small>HƯU</small></span> là chữ đang học (bấm để xem thẻ gốc + câu chuyện gốc), <span class="pc">(木)</span> là mảnh ghép. Bật <b>Tự kiểm tra</b> để ẩn âm Hán Việt và đoán trước khi xem.</p>
   <div class="bar">
     <select id="chSel" aria-label="Chọn chương"></select>
     <input type="search" id="q" placeholder="Tìm chữ / từ (vd: 休, nghỉ ngơi)" aria-label="Tìm">
@@ -48,6 +57,7 @@
   <div class="stat" id="stat"></div>
   <div id="out"></div>
 </main>
+<dialog id="dlg"><div id="dlgBody"></div><div class="row"><a class="btn" id="dlgWrite" href="#" style="text-decoration:none">✍️ Luyện viết</a><button class="btn" id="dlgClose">Đóng</button></div></dialog>
 <script src="kanji-game-data.js"></script>
 <script src="truyen-data.js"></script>
 <script>
@@ -58,7 +68,7 @@
   const fold = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd');
   const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
   const st = Object.assign({ quiz:false, pc:true, ch:0 }, ls.get('kanjiSaga', {}));
-  const INFO = {}; (window.KANJI || []).forEach(r => { INFO[r[1]] = { hv:r[2], m:r[3], j:r[4], n:r[0] }; });
+  const INFO = {}; (window.KANJI || []).forEach(r => { INFO[r[1]] = { hv:r[2], m:r[3], j:r[4], n:r[0], s:r[5], img:r[6] }; });
   const S = window.SAGA || [];
   const total = S.reduce((a, c) => a + c.p.join('').split('【').length - 1, 0);
 
@@ -94,7 +104,7 @@
       shown += ps.length;
       const n = c.p.join('').split('【').length - 1;
       const nav = q ? '' : `<div class="nav">${i ? `<a href="#" data-go="${i-1}">← ${esc(S[i-1].t)}</a>` : '<span></span>'}${i < S.length - 1 ? `<a href="#" data-go="${i+1}">${esc(S[i+1].t)} →</a>` : ''}</div>`;
-      return `<section class="ch" id="c${i}"><h2>${esc(c.t)}<span class="n">${n} chữ</span></h2>${ps.map(p => `<p>${fmt(p, q)}</p>`).join('')}${nav}</section>`;
+      return `<section class="ch" id="c${i}"><h2>${esc(c.t)}<span class="n">${n} chữ</span></h2>${q ? '' : `<img class="art" src="truyen-img/${String(i + 1).padStart(2, '0')}.webp" alt="Minh hoạ ${esc(c.t)}" loading="lazy">`}${ps.map(p => `<p>${fmt(p, q)}</p>`).join('')}${nav}</section>`;
     }).join('');
     $('out').innerHTML = html || '<p class="stat">Không tìm thấy đoạn nào.</p>';
     $('stat').textContent = q ? `Tìm thấy ${shown} đoạn.` : `Chương ${st.ch + 1}/${S.length} · cả truyện ${total.toLocaleString('vi-VN')} chữ Kanji.`;
@@ -102,7 +112,18 @@
   function go(i){ st.ch = Math.max(0, Math.min(S.length - 1, i)); $('chSel').value = st.ch; ls.set('kanjiSaga', st); render(); window.scrollTo({ top: 0 }); }
   $('chSel').innerHTML = S.map((c, i) => `<option value="${i}">${esc(c.t)}</option>`).join('');
   $('chSel').onchange = e => { $('q').value = ''; go(+e.target.value); };
-  $('out').addEventListener('click', e => { const a = e.target.closest('[data-go]'); if (a){ e.preventDefault(); go(+a.dataset.go); } });
+  $('out').addEventListener('click', e => {
+    const a = e.target.closest('[data-go]'); if (a){ e.preventDefault(); go(+a.dataset.go); return; }
+    const kj = e.target.closest('.kj'); if (!kj) return;
+    e.preventDefault();
+    const k = kj.textContent.trim()[0], x = INFO[k] || {};
+    $('dlgBody').innerHTML = `<div class="big">${esc(k)}</div><p class="hv">${esc(x.hv || '')}</p><p class="m">${esc(x.m || '')}${x.j ? ' · ' + esc(x.j) : ''}${x.n ? ' · thẻ ' + x.n : ''}</p>`
+      + (x.s ? `<div class="st">📖 ${esc(x.s)}</div>` : '') + (x.img ? `<img src="${esc(x.img)}" alt="Thẻ ${esc(k)}" loading="lazy">` : '');
+    $('dlgWrite').href = 'write.html#' + encodeURIComponent(k);
+    $('dlg').showModal();
+  });
+  $('dlgClose').onclick = () => $('dlg').close();
+  $('dlg').addEventListener('click', e => { if (e.target === $('dlg')) $('dlg').close(); });
   $('q').addEventListener('input', render);
   const lab = () => {
     $('quizBtn').classList.toggle('on', st.quiz); document.body.classList.toggle('quiz', st.quiz);
