@@ -49,6 +49,7 @@
 # 🗣️ Giao tiếp & Speaking
 
 - [🧭 Nói như người bản xứ: phương pháp & lộ trình 12 tuần (tổng hợp từ 6 sách)](speaking-nhu-nguoi-ban-xu.md)
+- [🏦 Ngân hàng 2.055 mẫu câu IELTS 9.0 (nói tự nhiên, công sở, Speaking/Writing, ngữ pháp nâng cao — dò qua phụ đề phim)](tools/pattern-bank.html)
 - [💬 Cụm giao tiếp hay dùng nhất trong từng phim (Friends, The Office, Silicon Valley, Suits LA)](movie-viewer/cum-giao-tiep.html)
 - [💬 650+ English Phrases for Everyday Speaking (40 chủ đề, song ngữ)](650-english-phrases-everyday-speaking.md)
 - [700+ câu nói ngắn hàng ngày của người bản xứ](daily-native-expressions.md)

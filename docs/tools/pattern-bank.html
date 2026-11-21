@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Ngân hàng mẫu câu</title>
+  <style>
+    :root { color-scheme: light dark; --bg:#faf9f7; --card:#fff; --ink:#1c1917; --muted:#6b6560; --line:#e7e5e4; --accent:#047857; --accentbg:#ecfdf5; }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg:#161412; --card:#221f1c; --ink:#f5f5f4; --muted:#a8a29e; --line:#3a3532; --accent:#34d399; --accentbg:#0f2a22; } }
+    :root[data-theme="dark"] { --bg:#161412; --card:#221f1c; --ink:#f5f5f4; --muted:#a8a29e; --line:#3a3532; --accent:#34d399; --accentbg:#0f2a22; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1100px; margin:auto; padding:4px 16px 48px; }
+    h1 { margin:0 0 6px; font-size:26px; line-height:1.25; }
+    .lead, .note { color:var(--muted); }
+    .lead b { color:var(--ink); }
+    .note { font-size:13px; }
+    .stats { display:flex; flex-wrap:wrap; gap:8px; margin:12px 0; }
+    .stat { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:8px 14px; min-width:120px; }
+    .stat b { display:block; font-size:20px; font-variant-numeric:tabular-nums; }
+    .stat span { font-size:12.5px; color:var(--muted); }
+    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:0 0 10px; position:sticky; top:0; z-index:5; background:var(--bg); padding:8px 0; }
+    input[type=search], select { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; font-size:14px; max-width:100%; }
+    input[type=search] { flex:1 1 220px; min-width:0; }
+    label.chk { font-size:13.5px; color:var(--muted); display:flex; gap:5px; align-items:center; white-space:nowrap; }
+    .cnt { font-size:13px; color:var(--muted); margin-left:auto; white-space:nowrap; }
+    .list { display:flex; flex-direction:column; gap:0; background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; }
+    .grp { padding:10px 14px 8px; background:var(--accentbg); color:var(--accent); font-weight:700; font-size:14px; border-bottom:1px solid var(--line); }
+    .grp small { font-weight:400; color:var(--muted); margin-left:6px; }
+    .row { display:grid; grid-template-columns:44px minmax(0,1.05fr) minmax(0,1.2fr) minmax(0,1.1fr); gap:4px 14px; padding:10px 14px; border-bottom:1px solid var(--line); }
+    .row:last-child { border-bottom:0; }
+    .no { color:var(--muted); font-size:12.5px; font-variant-numeric:tabular-nums; padding-top:2px; }
+    .pat { font-weight:700; }
+    .vi { display:block; font-weight:400; font-size:13.5px; color:var(--muted); }
+    .ex { font-size:14px; }
+    .tags { display:flex; flex-wrap:wrap; gap:4px; margin-top:4px; }
+    .tag { font-size:11.5px; border:1px solid var(--line); border-radius:999px; padding:0 7px; color:var(--muted); white-space:nowrap; }
+    .tag.b9 { border-color:var(--accent); color:var(--accent); }
+    .mv { font-size:13.5px; }
+    .mv q { quotes:"“" "”"; }
+    .mv .src { display:block; font-size:12px; color:var(--muted); }
+    .mv .none { color:var(--muted); font-style:italic; font-size:12.5px; }
+    .say { border:0; background:none; cursor:pointer; font-size:14px; padding:0 2px; vertical-align:baseline; }
+    .more { display:block; margin:14px auto; border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:9px 18px; font:inherit; cursor:pointer; }
+    .more:hover { border-color:var(--accent); }
+    .empty { padding:24px; text-align:center; color:var(--muted); }
+    details.how { margin:10px 0 14px; background:var(--card); border:1px solid var(--line); border-radius:12px; padding:8px 14px; font-size:14px; }
+    details.how summary { cursor:pointer; font-weight:600; }
+    @media (max-width:760px) {
+      .row { grid-template-columns:34px minmax(0,1fr); }
+      .row .ex, .row .mv { grid-column:2; }
+      .cnt { margin-left:0; }
+    }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Ngân hàng mẫu câu"></script>
+</head>
+<body>
+<main>
+  <h1>🏦 Ngân hàng mẫu câu IELTS 9.0 · American English</h1>
+  <p class="lead" id="lead"></p>
+  <div class="stats" id="stats"></div>
+  <details class="how">
+    <summary>Cách dùng &amp; cách đọc số liệu</summary>
+    <ul>
+      <li><b>Một danh sách duy nhất</b>, chia thành các khối: Nói tự nhiên → Công sở &amp; thuyết phục → Kể chuyện → IELTS Speaking (Part 1-2-3) → IELTS Writing (Task 1-2, khung Band 8–9) → Ngữ pháp nâng cao → Thuyết trình &amp; tư duy phản biện → IELTS theo chủ đề → Tình huống hằng ngày.</li>
+      <li><b>Ký hiệu</b>: <code>…</code> = chỗ điền; <code>V</code> / <code>V-ing</code> / <code>V3</code> = động từ nguyên mẫu / thêm -ing / quá khứ phân từ; <code>(that)</code> = có thể bỏ; <code>sb/sth</code> = ai / cái gì.</li>
+      <li><b>Band</b> 7 / 8 / 9 = mẫu giúp bài nói/viết đạt mức đó nếu dùng đúng chỗ. <b>Nói</b> = hợp văn nói, <b>Viết</b> = hợp văn viết học thuật, <b>Nói + Viết</b> = dùng được cả hai.</li>
+      <li><b>Trong phim</b>: mỗi mẫu được dò qua phụ đề Friends, The Office, Silicon Valley, Suits LA, The Intern, The Pursuit of Happyness (~250.000 lượt thoại). Số = số lượt thoại có mẫu đó; kèm 1 câu thoại thật ngắn. Mẫu viết học thuật thường không có trong phim. Đó là chuyện bình thường, vì sitcom không phải bài luận. Khung ngữ pháp chỉ toàn từ quá phổ biến (vd. <i>So … that …</i>) không được đếm vì sẽ đếm sai.</li>
+      <li><b>Câu ví dụ</b> là câu tự soạn để học; bấm 🔊 để nghe giọng Mỹ của trình duyệt.</li>
+      <li>Cách luyện gợi ý: mỗi ngày lọc 1 nhóm, đọc to câu ví dụ, rồi tự đặt 2 câu về bản thân với cùng khung.</li>
+    </ul>
+  </details>
+  <div class="bar">
+    <input type="search" id="q" placeholder="Tìm mẫu câu / nghĩa / ví dụ…" aria-label="Tìm">
+    <select id="block" aria-label="Khối"></select>
+    <select id="cat" aria-label="Nhóm"></select>
+    <select id="band" aria-label="Band">
+      <option value="">Mọi band</option><option value="7">Band 7</option><option value="8">Band 8</option><option value="9">Band 9</option><option value="89">Band 8–9</option>
+    </select>
+    <select id="skill" aria-label="Kỹ năng">
+      <option value="">Nói &amp; viết</option><option value="S">Dùng khi nói</option><option value="W">Dùng khi viết</option>
+    </select>
+    <select id="sort" aria-label="Sắp xếp">
+      <option value="g">Theo nhóm</option><option value="n">Hay gặp trong phim nhất</option><option value="b">Band cao trước</option><option value="az">A → Z</option>
+    </select>
+    <label class="chk"><input type="checkbox" id="inmv"> Chỉ mẫu có trong phim</label>
+    <span class="cnt" id="cnt"></span>
+  </div>
+  <div class="list" id="list"></div>
+  <button class="more" id="more" hidden>Xem thêm</button>
+  <p class="note">Danh sách mẫu câu, nghĩa và câu ví dụ do trang tự biên soạn theo chủ đề (hội thoại, công sở, IELTS Speaking/Writing, ngữ pháp nâng cao). Câu thoại trích dẫn chỉ 1 dòng ngắn cho mỗi mẫu để minh hoạ; lời thoại thuộc bản quyền của hãng phim. Dữ liệu dựng bằng <code>tools/pattern_bank.py</code> từ <code>tools/data/pattern_bank/*.tsv</code>.</p>
+</main>
+<script src="pattern-bank-data.js"></script>
+<script>
+(() => {
+  const D = window.PB, rows = D.rows, cats = D.cats;
+  const catBy = Object.fromEntries(cats.map(c => [c.id, c]));
+  const blocks = [...new Set(cats.map(c => c.block))];
+  const catOrder = Object.fromEntries(cats.map((c, i) => [c.id, i]));
+  rows.forEach((r, i) => { r.i = i + 1; r.hay = (r.p + ' ' + r.vi + ' ' + r.ex + ' ' + catBy[r.c].vi + ' ' + catBy[r.c].en).toLowerCase(); });
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const skillName = { S: 'Nói', W: 'Viết', SW: 'Nói + Viết' };
+  const fmt = n => n.toLocaleString('vi-VN');
+
+  const inMv = rows.filter(r => r.n > 0).length;
+  $('lead').innerHTML = `<b>${fmt(rows.length)} mẫu câu</b> trong <b>${cats.length} nhóm</b>, gom thành một danh sách: hội thoại tự nhiên kiểu Mỹ, công sở, kể chuyện, IELTS Speaking &amp; Writing, ngữ pháp nâng cao, tư duy phản biện. Mỗi mẫu có nghĩa tiếng Việt, câu ví dụ, band và được dò qua phụ đề phim để biết người bản xứ có thật sự nói như vậy không.`;
+  const stat = (n, t) => `<div class="stat"><b>${n}</b><span>${t}</span></div>`;
+  $('stats').innerHTML = stat(fmt(rows.length), 'mẫu câu') + stat(cats.length, 'nhóm') +
+    stat(fmt(inMv), 'mẫu gặp trong phim') + stat(fmt(rows.filter(r => r.b === 9).length), 'mẫu Band 9') +
+    stat(fmt(D.eps.reduce((a, b) => a + b, 0)), 'tập phim / video đã dò');
+
+  $('block').innerHTML = '<option value="">Mọi khối</option>' + blocks.map(b => `<option>${esc(b)}</option>`).join('');
+  function fillCats() {
+    const b = $('block').value;
+    const cs = cats.filter(c => !b || c.block === b);
+    const cur = $('cat').value;
+    $('cat').innerHTML = '<option value="">Mọi nhóm</option>' + cs.map(c => `<option value="${c.id}">${esc(c.vi)} (${rows.filter(r => r.c === c.id).length})</option>`).join('');
+    if (cs.some(c => c.id === cur)) $('cat').value = cur;
+  }
+  fillCats();
+
+  const KEY = 'pattern-bank-filters';
+  const ctl = ['q', 'block', 'cat', 'band', 'skill', 'sort', 'inmv'];
+  try {
+    const s = JSON.parse(localStorage.getItem(KEY) || '{}');
+    if (s.block) { $('block').value = s.block; fillCats(); }
+    ctl.forEach(k => { if (s[k] !== undefined && k !== 'block') { if (k === 'inmv') $(k).checked = s[k]; else $(k).value = s[k]; } });
+  } catch (e) {}
+  const p = new URLSearchParams(location.search);
+  if (p.get('q')) $('q').value = p.get('q');
+
+  let list = [], shown = 0;
+  const PAGE = 150;
+
+  function filter() {
+    const q = $('q').value.trim().toLowerCase(), b = $('block').value, c = $('cat').value,
+      band = $('band').value, sk = $('skill').value, mv = $('inmv').checked, so = $('sort').value;
+    list = rows.filter(r => (!q || r.hay.includes(q)) && (!b || catBy[r.c].block === b) && (!c || r.c === c) &&
+      (!band || (band === '89' ? r.b >= 8 : r.b === +band)) && (!sk || r.s.includes(sk)) && (!mv || r.n > 0));
+    if (so === 'n') list.sort((x, y) => y.n - x.n || x.i - y.i);
+    else if (so === 'b') list.sort((x, y) => y.b - x.b || x.i - y.i);
+    else if (so === 'az') list.sort((x, y) => x.p.replace(/^[…\s.]+/, '').localeCompare(y.p.replace(/^[…\s.]+/, ''), 'en'));
+    else list.sort((x, y) => catOrder[x.c] - catOrder[y.c] || x.i - y.i);
+    try { localStorage.setItem(KEY, JSON.stringify(Object.fromEntries(ctl.map(k => [k, k === 'inmv' ? $(k).checked : $(k).value])))); } catch (e) {}
+    $('cnt').textContent = `${fmt(list.length)} / ${fmt(rows.length)} mẫu`;
+    $('list').innerHTML = list.length ? '' : '<div class="empty">Không có mẫu nào khớp bộ lọc.</div>';
+    shown = 0; lastCat = null; more();
+  }
+
+  let lastCat = null;
+  function rowHtml(r) {
+    const c = catBy[r.c];
+    let h = '';
+    if ($('sort').value === 'g' && r.c !== lastCat) {
+      h += `<div class="grp">${esc(c.vi)}<small>${esc(c.en)} · ${esc(c.block)}</small></div>`;
+    }
+    lastCat = r.c;
+    let mv;
+    if (r.m) {
+      const by = Object.entries(r.by).sort((a, b) => b[1] - a[1]).map(([s, n]) => `${D.shows[s]} ${fmt(n)}`).join(' · ');
+      mv = `<q>${esc(r.m[0])}</q> <button class="say" data-t="${esc(r.m[0])}" aria-label="Nghe câu thoại">🔊</button>` +
+        `<span class="src">🎬 ${esc(D.shows[r.m[1]])}${r.m[2] ? ' ' + r.m[2] : ''} · gặp ${fmt(r.n)} lần (${esc(by)})</span>`;
+    } else {
+      mv = `<span class="none">${r.k ? 'Chưa gặp trong phụ đề' + (r.s === 'W' ? ' (văn viết)' : '') : 'Khung ngữ pháp, không đếm'}</span>`;
+    }
+    return h + `<div class="row"><div class="no">${r.i}</div>
+      <div><span class="pat">${esc(r.p)}</span><span class="vi">${esc(r.vi)}</span>
+        <div class="tags"><span class="tag${r.b === 9 ? ' b9' : ''}">Band ${r.b}</span><span class="tag">${skillName[r.s] || r.s}</span>${$('sort').value === 'g' ? '' : `<span class="tag">${esc(c.vi)}</span>`}</div></div>
+      <div class="ex">${esc(r.ex)} <button class="say" data-t="${esc(r.ex)}" aria-label="Nghe câu ví dụ">🔊</button></div>
+      <div class="mv">${mv}</div></div>`;
+  }
+
+  function more() {
+    const part = list.slice(shown, shown + PAGE);
+    $('list').insertAdjacentHTML('beforeend', part.map(rowHtml).join(''));
+    shown += part.length;
+    $('more').hidden = shown >= list.length;
+    $('more').textContent = `Xem thêm (${fmt(Math.min(PAGE, list.length - shown))} / còn ${fmt(list.length - shown)})`;
+  }
+  $('more').onclick = more;
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(es => { if (es[0].isIntersecting && shown < list.length) more(); }, { rootMargin: '600px' }).observe($('more'));
+  }
+
+  let t;
+  $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(filter, 150); });
+  $('block').addEventListener('change', () => { fillCats(); filter(); });
+  ['cat', 'band', 'skill', 'sort', 'inmv'].forEach(k => $(k).addEventListener('change', filter));
+  document.addEventListener('click', e => {
+    const b = e.target.closest('.say'); if (!b || !window.speechSynthesis) return;
+    const u = new SpeechSynthesisUtterance(b.dataset.t); u.lang = 'en-US'; u.rate = .95;
+    speechSynthesis.cancel(); speechSynthesis.speak(u);
+  });
+  filter();
+})();
+</script>
+</body>
+</html>
