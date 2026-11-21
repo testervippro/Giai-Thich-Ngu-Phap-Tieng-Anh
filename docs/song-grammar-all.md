@@ -1,0 +1,41 @@
+# 🎵 NGỮ PHÁP TRONG LỜI BÀI HÁT — TẤT CẢ
+
+> 19 chương, 650 mẫu ngữ pháp, mỗi mẫu tối đa 3 câu hát thật từ [LRCLIB](https://lrclib.net/). Ctrl+F để tìm nhanh.
+
+[DANH TỪ](Danh%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[ĐẠI TỪ](%C4%90%E1%BA%A1i%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[SỰ TƯƠNG HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[TÍNH TỪ](T%C3%ADnh%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[TRẠNG TỪ](Tr%E1%BA%A1ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[SO SÁNH CỦA TÍNH TỪ VÀ TRẠNG TỪ](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[ĐỘNG TỪ](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[CỤM ĐỘNG TỪ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[CÂU BỊ ĐỘNG](C%C3%A2u%20B%E1%BB%8B%20%C4%90%E1%BB%99ng%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[ĐỘNG TỪ NGUYÊN MẪU VÀ DANH ĐỘNG TỪ](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[GIỚI TỪ](Gi%E1%BB%9Bi%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[LIÊN TỪ](Li%C3%AAn%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[MẠO TỪ](M%E1%BA%A1o%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[LƯỢNG TỪ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[CÁC THÌ](TENSES%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[MỆNH ĐỀ](Menh%20De%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[CÂU](SENTENCES%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[PHỐI HỢP THÌ](SEQUENCE%20OF%20TENSES%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')
+
+[ĐẢO NGỮ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF%20%28B%C3%A0i%20h%C3%A1t%29.md ':include')

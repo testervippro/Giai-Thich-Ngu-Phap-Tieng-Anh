@@ -421,8 +421,10 @@ def main():
         by_ch[p[0]].append(pid)
     for ch in SP.ORDER:
         fn = next(c[4] for c in CHAPTERS_META if c[0] == ch)
-        out = [START, "", "## 🎵 NGỮ PHÁP TRONG LỜI BÀI HÁT (LRCLIB)", "",
-               "> Mỗi mẫu ngữ pháp của chương này (theo đúng thứ tự phần lý thuyết ở trên) kèm **câu hát thật** "
+        name = next(c[1] for c in CHAPTERS_META if c[0] == ch)
+        out = ["# 🎵 %s — ngữ pháp trong lời bài hát" % name, "",
+               "> 📘 Lý thuyết: [%s](%s) · 🎵 [Tất cả chương (1 trang)](%s)" % (name, quote(fn), quote(ALL_FN)), ">",
+               "> Mỗi mẫu ngữ pháp của chương (theo đúng thứ tự phần lý thuyết) kèm **câu hát thật** "
                "có chứa mẫu đó, lấy từ kho lời bài hát [LRCLIB](https://lrclib.net/) (~89.000 bài, 1,07 triệu dòng lời). "
                "Phần ngữ pháp được **in đậm**; con số cạnh mỗi mẫu là số dòng lời có mẫu đó. "
                "Bấm tên bài để nghe trên YouTube.",
@@ -436,7 +438,7 @@ def main():
             if gi != cur_g:
                 cur_g = gi
                 gno += 1
-                out += ["", "### %d. %s" % (gno, group), ""]
+                out += ["", "## %d. %s" % (gno, group), ""]
             n_all += 1
             pick = chosen.get(pid, [])
             if pick:
@@ -449,17 +451,24 @@ def main():
                 tt = clean_title(t, a)
                 out.append("- 🎵 “%s” — [%s · %s](%s)" % (render_line(text, s, e), esc(tt), esc(a), yt(tt, a)))
             out.append("")
-        out.append(END)
         stats.append((ch, n_ok, n_all))
-        path = os.path.join(DOCS, fn)
-        src = open(path, encoding="utf-8").read()
-        block = "\n".join(out) + "\n"
-        if START in src:
-            src = re.sub(re.escape(START) + r".*?" + re.escape(END) + r"\n?", lambda m: block, src, flags=re.S)
-        else:
-            src = src.rstrip("\n") + "\n\n" + block
+        sfn = song_fn(fn)
         if not dry:
-            open(path, "w", encoding="utf-8").write(src)
+            open(os.path.join(DOCS, sfn), "w", encoding="utf-8").write("\n".join(out).rstrip("\n") + "\n")
+            # bỏ khối cũ (nếu có) khỏi file lý thuyết — mục bài hát giờ là trang riêng
+            path = os.path.join(DOCS, fn)
+            src = open(path, encoding="utf-8").read()
+            if START in src:
+                src = re.sub(r"\n*" + re.escape(START) + r".*?" + re.escape(END) + r"\n?", "\n", src, flags=re.S)
+                open(path, "w", encoding="utf-8").write(src.rstrip("\n") + "\n")
+    if not dry:
+        all_md = ["# 🎵 NGỮ PHÁP TRONG LỜI BÀI HÁT — TẤT CẢ", "",
+                  "> 19 chương, %d mẫu ngữ pháp, mỗi mẫu tối đa %d câu hát thật từ [LRCLIB](https://lrclib.net/). "
+                  "Ctrl+F để tìm nhanh." % (len(pats), EX), ""]
+        for ch in SP.ORDER:
+            name, fn = next((c[1], c[4]) for c in CHAPTERS_META if c[0] == ch)
+            all_md += ["[%s](%s ':include')" % (name.upper(), quote(song_fn(fn))), ""]
+        open(os.path.join(DOCS, ALL_FN), "w", encoding="utf-8").write("\n".join(all_md))
     tot_ok = sum(s[1] for s in stats)
     tot = sum(s[2] for s in stats)
     for ch, a, b in stats:
@@ -480,7 +489,22 @@ CHAPTERS_META = [
     ("art", "Mạo Từ.md"), ("quant", "Lượng Từ.md"), ("tense", "TENSES.md"), ("clause", "Menh De.md"),
     ("sent", "SENTENCES.md"), ("seq", "SEQUENCE OF TENSES.md"), ("inv", "Đảo Ngữ.md"),
 ]
-CHAPTERS_META = [(k, None, None, None, f) for k, f in CHAPTERS_META]
+NAMES = {"noun": "Danh từ", "pron": "Đại từ", "sva": "Sự tương hợp giữa chủ ngữ và động từ", "adj": "Tính từ",
+         "adv": "Trạng từ", "comp": "So sánh của tính từ và trạng từ", "verb": "Động từ", "phr": "Cụm động từ",
+         "pass": "Câu bị động", "inf": "Động từ nguyên mẫu và danh động từ", "prep": "Giới từ", "conj": "Liên từ",
+         "art": "Mạo từ", "quant": "Lượng từ", "tense": "Các thì", "clause": "Mệnh đề", "sent": "Câu",
+         "seq": "Phối hợp thì", "inv": "Đảo ngữ"}
+CHAPTERS_META = [(k, NAMES[k], None, None, f) for k, f in CHAPTERS_META]
+ALL_FN = "song-grammar-all.md"
+
+
+def song_fn(fn):
+    return fn[:-3] + " (Bài hát).md"
+
+
+def quote(fn):
+    from urllib.parse import quote as q
+    return q(fn)
 
 if __name__ == "__main__":
     main()

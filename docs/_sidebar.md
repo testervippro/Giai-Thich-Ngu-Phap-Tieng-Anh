@@ -45,6 +45,27 @@
   - [Câu](SENTENCES%20%28B%E1%BA%A3ng%29.md)
   - [Phối hợp thì](SEQUENCE%20OF%20TENSES%20%28B%E1%BA%A3ng%29.md)
   - [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF%20%28B%E1%BA%A3ng%29.md)
+- **🎵 Ngữ pháp trong lời bài hát (650 mẫu · LRCLIB)**
+  - [📖 Tất cả (1 trang)](song-grammar-all.md)
+  - [Danh từ](Danh%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Đại từ](%C4%90%E1%BA%A1i%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Sự tương hợp giữa chủ ngữ và động từ](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Tính từ](T%C3%ADnh%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Trạng từ](Tr%E1%BA%A1ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [So sánh của tính từ và trạng từ](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Cụm động từ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Câu bị động](C%C3%A2u%20B%E1%BB%8B%20%C4%90%E1%BB%99ng%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Động từ nguyên mẫu và danh động từ](%C4%90%E1%BB%99ng%20T%E1%BB%AB%20Nguy%C3%AAn%20M%E1%BA%ABu%20V%C3%A0%20Danh%20%C4%90%E1%BB%99ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Giới từ](Gi%E1%BB%9Bi%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Liên từ](Li%C3%AAn%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Mạo từ](M%E1%BA%A1o%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Lượng từ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Các thì](TENSES%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Mệnh đề](Menh%20De%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Câu](SENTENCES%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Phối hợp thì](SEQUENCE%20OF%20TENSES%20%28B%C3%A0i%20h%C3%A1t%29.md)
+  - [Đảo ngữ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF%20%28B%C3%A0i%20h%C3%A1t%29.md)
 
 # 🗣️ Giao tiếp & Speaking
 
