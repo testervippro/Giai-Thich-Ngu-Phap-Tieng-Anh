@@ -199,6 +199,7 @@ _DATA: dict = {}
 CJK_RX = re.compile(r"[⺀-⿟々〆㐀-鿿豈-﫿\U00020000-\U0003FFFF]")
 GREEN, GREY, INK_ = (14, 116, 92), (120, 112, 104), (34, 30, 28)
 F_TXT = "/System/Library/Fonts/Supplemental/Arial.ttf"
+KIMG = ROOT / "docs/kanji-viewer"                # x["img"] = "kanji_p2/1056.webp"
 
 
 def kdata() -> dict:
@@ -207,9 +208,9 @@ def kdata() -> dict:
         kanji = S.KV.js_value(S.KV.KV / "kanji-game-data.js", "KANJI")
         road = S.KV.js_value(S.KV.KV / "kanji-roadmap.js", "ROADMAP")
         for n, k, hv, m, j, st, img in kanji:
-            d = _DATA.setdefault(k, {"hv": hv, "m": m, "s": "", "n": n, "j": j})
+            d = _DATA.setdefault(k, {"hv": hv, "m": m, "s": "", "n": n, "j": j, "img": img})
             if st and not d["s"]:
-                d.update(s=st, n=n, j=j)
+                d.update(s=st, n=n, j=j, img=img)
         for k, hv, m, _t in road["radw"]:
             _DATA.setdefault(k, {"hv": hv, "m": m, "s": "", "n": None, "j": ""})
     return _DATA
@@ -273,6 +274,24 @@ def kcard(k: str, pcs=None):
     im = Image.new("RGBA", (PW, PH), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
     d.rounded_rectangle([0, 0, PW - 1, PH - 1], 22, fill=(250, 248, 244, 248))
+    kimg = KIMG / x["img"] if x.get("img") else None
+    if kimg and kimg.exists():
+        # ảnh thẻ trong sách (đã có chữ, thứ tự nét, âm HV, nghĩa, câu chuyện, âm On/Kun, từ ví dụ) + các mảnh ghép
+        pic = Image.open(kimg).convert("RGB")
+        pw = PW - 16
+        pic = pic.resize((pw, int(pw * pic.height / pic.width)), Image.LANCZOS)
+        im.paste(pic, (8, 8))
+        parts_y = 8 + pic.height + 8
+    else:
+        parts_y = None
+    if parts_y is not None:
+        y = parts_y
+    else:
+        y = draw_head(d, k, x)
+    return finish(im, d, k, x, y)
+
+
+def draw_head(d, k, x):
     d.text((22, 132), k, font=S.KS.kf(k, 128), fill=INK_, anchor="ls")
     tx = 175
     d.text((tx, 58), x["hv"].upper(), font=ImageFont.truetype(FONT, 44), fill=GREEN, anchor="ls")
@@ -282,6 +301,11 @@ def kcard(k: str, pcs=None):
     y = 156
     if x["s"]:
         y = mixed(d, (18, y), x["s"], 22, INK_, PW - 36, max_lines=2, lh=29) + 4
+    return y
+
+
+def finish(im, d, k, x, y):
+    D = kdata()
     parts = []
     for c in CJK_RX.findall(x["s"]):
         if c != k and c not in parts:
