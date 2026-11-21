@@ -22,6 +22,10 @@
     .ch h2 { font-size:18px; margin:0 0 6px; color:var(--accent); line-height:1.35; }
     .ch h2 .n { color:var(--muted); font-size:13px; font-weight:600; margin-left:6px; }
     .ch p { margin:0 0 10px; }
+    .ch h3.sec { font-size:16px; margin:16px 0 6px; padding-top:12px; border-top:1px dashed var(--line); }
+    .ch h2 + h3.sec { border-top:0; padding-top:0; margin-top:4px; }
+    .ch h3 .n { color:var(--muted); font-size:12.5px; font-weight:600; margin-left:6px; }
+    .ch { contain-intrinsic-size:auto 4000px; }
     .kj { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:1.35em; font-weight:700; color:var(--accent); text-decoration:none; padding:0 2px; border-radius:6px; background:var(--accentbg); white-space:nowrap; }
     .kj small { font-family:system-ui,sans-serif; font-size:.55em; font-weight:700; margin-left:2px; vertical-align:middle; }
     body.quiz .kj small { visibility:hidden; }
@@ -47,7 +51,7 @@
 <body>
 <main>
   <h1>📜 Hành trình của cậu Nhân — một câu chuyện cho 2.075 chữ Kanji</h1>
-  <p class="lead">Câu chuyện của toàn bộ thẻ Kanji <b>có câu chuyện</b> được nối thành <b>một truyện dài 37 chương</b>, đi theo đúng thứ tự thẻ. Dàn nhân vật quen thuộc: cậu Nhân (亻), cô Thảo (艹), chị Nguyệt (月), em Bồ (阝), chú chó Khuyển (犬)… <span class="kj">休<small>HƯU</small></span> là chữ đang học (bấm để xem thẻ gốc + câu chuyện gốc), <span class="pc">(木)</span> là mảnh ghép. Bật <b>Tự kiểm tra</b> để ẩn âm Hán Việt và đoán trước khi xem.</p>
+  <p class="lead">Câu chuyện của toàn bộ thẻ Kanji <b>có câu chuyện</b> được nối thành <b>một truyện dài 12 chương</b>, đi theo đúng thứ tự thẻ. Dàn nhân vật quen thuộc: cậu Nhân (亻), cô Thảo (艹), chị Nguyệt (月), em Bồ (阝), chú chó Khuyển (犬)… <span class="kj">休<small>HƯU</small></span> là chữ đang học (bấm để xem thẻ gốc + câu chuyện gốc), <span class="pc">(木)</span> là mảnh ghép. Bật <b>Tự kiểm tra</b> để ẩn âm Hán Việt và đoán trước khi xem.</p>
   <div class="bar">
     <select id="chSel" aria-label="Chọn chương"></select>
     <input type="search" id="q" placeholder="Tìm chữ / từ (vd: 休, nghỉ ngơi)" aria-label="Tìm">
@@ -70,7 +74,9 @@
   const st = Object.assign({ quiz:false, pc:true, ch:0 }, ls.get('kanjiSaga', {}));
   const INFO = {}; (window.KANJI || []).forEach(r => { INFO[r[1]] = { hv:r[2], m:r[3], j:r[4], n:r[0], s:r[5], img:r[6] }; });
   const S = window.SAGA || [];
-  const total = S.reduce((a, c) => a + c.p.join('').split('【').length - 1, 0);
+  const allP = c => c.s.flatMap(x => x.p);
+  const cnt = ps => ps.join('').split('【').length - 1;
+  const total = S.reduce((a, c) => a + cnt(allP(c)), 0);
 
   function fmt(p, q){
     // tách theo 【字】 và (mảnh) ; tô sáng từ khóa tìm trong phần chữ thường
@@ -97,14 +103,19 @@
     const fq = fold(q), cjk = /[㐀-鿿]/.test(q);
     let shown = 0;
     const html = S.map((c, i) => {
-      let ps = c.p;
-      if (q) ps = ps.filter(p => cjk ? p.includes(q) : fold(p).includes(fq));
-      if (q && !ps.length) return '';
+      const match = p => cjk ? p.includes(q) : fold(p).includes(fq);
+      if (q && !allP(c).some(match)) return '';
       if (!q && i !== st.ch) return '';
-      shown += ps.length;
-      const n = c.p.join('').split('【').length - 1;
+      const secs = c.s.map(x => {
+        const ps = q ? x.p.filter(match) : x.p;
+        if (!ps.length) return '';
+        shown += ps.length;
+        return `<h3 class="sec">${esc(x.t)}<span class="n">${cnt(x.p)} chữ</span></h3>`
+          + (q ? '' : `<img class="art" src="truyen-img/${x.img}.webp" alt="Minh hoạ ${esc(x.t)}" loading="lazy">`)
+          + ps.map(p => `<p>${fmt(p, q)}</p>`).join('');
+      }).join('');
       const nav = q ? '' : `<div class="nav">${i ? `<a href="#" data-go="${i-1}">← ${esc(S[i-1].t)}</a>` : '<span></span>'}${i < S.length - 1 ? `<a href="#" data-go="${i+1}">${esc(S[i+1].t)} →</a>` : ''}</div>`;
-      return `<section class="ch" id="c${i}"><h2>${esc(c.t)}<span class="n">${n} chữ</span></h2>${q ? '' : `<img class="art" src="truyen-img/${String(i + 1).padStart(2, '0')}.webp" alt="Minh hoạ ${esc(c.t)}" loading="lazy">`}${ps.map(p => `<p>${fmt(p, q)}</p>`).join('')}${nav}</section>`;
+      return `<section class="ch" id="c${i}"><h2>${esc(c.t)}<span class="n">${cnt(allP(c))} chữ</span></h2>${secs}${nav}</section>`;
     }).join('');
     $('out').innerHTML = html || '<p class="stat">Không tìm thấy đoạn nào.</p>';
     $('stat').textContent = q ? `Tìm thấy ${shown} đoạn.` : `Chương ${st.ch + 1}/${S.length} · cả truyện ${total.toLocaleString('vi-VN')} chữ Kanji.`;
@@ -134,7 +145,7 @@
   // #休 -> mở chương có chữ đó ; #c5 -> chương 6
   const h = decodeURIComponent(location.hash.slice(1));
   if (/^c\d+$/.test(h)) st.ch = Math.min(S.length - 1, +h.slice(1));
-  else if (h){ const i = S.findIndex(c => c.p.some(p => p.includes('【' + h + '】'))); if (i >= 0){ st.ch = i; $('q').value = h; } }
+  else if (h){ const i = S.findIndex(c => allP(c).some(p => p.includes('【' + h + '】'))); if (i >= 0){ st.ch = i; $('q').value = h; } }
   if (st.ch >= S.length) st.ch = 0;
   $('chSel').value = st.ch; lab(); render();
 })();
