@@ -34,13 +34,20 @@
     body.nopc .pc { display:none; }
     mark { background:#fde68a; color:#111; border-radius:3px; }
     .art { width:100%; aspect-ratio:900/420; object-fit:cover; border-radius:12px; margin:2px 0 10px; display:block; background:var(--line); }
-    dialog { border:1px solid var(--line); border-radius:16px; padding:16px; max-width:min(420px, calc(100vw - 32px)); background:var(--card); color:var(--ink); }
+    dialog { border:1px solid var(--line); border-radius:16px; padding:16px; width:min(560px, calc(100vw - 32px)); max-width:none; background:var(--bg, var(--card)); color:var(--ink); }
     dialog::backdrop { background:rgba(0,0,0,.45); }
-    dialog .big { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:72px; line-height:1; text-align:center; }
-    dialog .hv { text-align:center; color:var(--accent); font-weight:800; font-size:20px; margin:6px 0 0; }
-    dialog .m { text-align:center; color:var(--muted); margin:0 0 8px; }
-    dialog .st { background:var(--accentbg); border-radius:10px; padding:8px 10px; margin:8px 0; line-height:1.55; }
-    dialog img { width:100%; border-radius:10px; display:block; }
+    dialog .info { display:flex; gap:16px; align-items:center; }
+    dialog .big { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:84px; line-height:1; }
+    dialog .hv { color:var(--accent); font-weight:800; font-size:26px; margin:0; }
+    dialog .m { font-size:17px; margin:2px 0; }
+    dialog .tag { color:var(--muted); font-size:13px; margin:0; }
+    dialog .st { font-size:15.5px; line-height:1.55; margin:12px 0 8px; }
+    dialog .zh, .sub b { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
+    dialog .sub { display:flex; flex-direction:column; gap:4px; }
+    dialog .sub div { font-size:14px; color:var(--muted); padding:5px 10px; border-left:3px solid var(--accent); background:var(--card); border-radius:0 8px 8px 0; }
+    dialog .sub div[data-k] { cursor:pointer; }
+    dialog .sub b { font-size:20px; color:var(--ink); margin-right:4px; }
+    dialog .sub .hv2 { font-weight:800; color:var(--accent); }
     dialog .row { display:flex; gap:8px; justify-content:space-between; margin-top:10px; }
     .nav { display:flex; justify-content:space-between; gap:8px; margin-top:6px; }
     .nav a { font-size:13px; color:var(--accent); text-decoration:none; }
@@ -63,6 +70,7 @@
 </main>
 <dialog id="dlg"><div id="dlgBody"></div><div class="row"><a class="btn" id="dlgWrite" href="#" style="text-decoration:none">✍️ Luyện viết</a><button class="btn" id="dlgClose">Đóng</button></div></dialog>
 <script src="kanji-game-data.js"></script>
+<script src="kanji-roadmap.js"></script>
 <script src="truyen-data.js"></script>
 <script>
 (() => {
@@ -73,6 +81,30 @@
   const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
   const st = Object.assign({ quiz:false, pc:true, ch:0 }, ls.get('kanjiSaga', {}));
   const INFO = {}; (window.KANJI || []).forEach(r => { INFO[r[1]] = { hv:r[2], m:r[3], j:r[4], n:r[0], s:r[5], img:r[6] }; });
+  const RAD = {}; (((window.ROADMAP || {}).radw) || []).forEach(r => { RAD[r[0]] = { hv:r[1], m:r[2] }; });
+  const cap = t => String(t || '').replace(/^./, c => c.toUpperCase());
+  const CJK = /[\u2E80-\u2FDF\u3005\u30A0-\u30FF\u3400-\u9FFF\uF900-\uFAFF]/g;
+  // câu chuyện: chữ Hán trong ngoặc dùng font Nhật
+  const zh = t => esc(t).replace(CJK, c => `<span class="zh">${c}</span>`);
+  // thẻ chữ dạng chữ (như trang Luyện viết): chữ to, ÂM HV, nghĩa, Thẻ · JLPT, câu chuyện, các mảnh ghép
+  function cardHtml(k){
+    const x = INFO[k] || RAD[k] || {};
+    const meta = [x.n ? 'Thẻ ' + x.n : (RAD[k] ? 'Mảnh ghép' : ''), x.j].filter(Boolean).join(' · ');
+    const seen = new Set([k]), sub = [];
+    (String(x.s || '').match(CJK) || []).forEach(c => {
+      if (seen.has(c)) return; seen.add(c);
+      const y = INFO[c], r = RAD[c];
+      if (y && y.s) sub.push(`<div data-k="${c}" title="Bấm để xem chữ này"><b>${c}</b> <span class="hv2">${esc(y.hv)}</span> – ${esc(cap(y.m))}: ${zh(y.s)}</div>`);
+      else if (y || r) sub.push(`<div><b>${c}</b> <span class="hv2">${esc((y || r).hv)}</span> – ${esc((y || r).m)} <span style="opacity:.75">(mảnh ghép)</span></div>`);
+    });
+    return `<div class="info"><div class="big">${esc(k)}</div><div><p class="hv">${esc(x.hv || '')}</p><p class="m">${esc(cap(x.m))}</p><p class="tag">${esc(meta)}</p></div></div>`
+      + (x.s ? `<div class="st">📖 ${zh(x.s)}</div>` : '') + (sub.length ? `<div class="sub">${sub.join('')}</div>` : '');
+  }
+  function openCard(k){
+    $('dlgBody').innerHTML = cardHtml(k);
+    $('dlgWrite').href = 'write.html#' + encodeURIComponent(k);
+    if (!$('dlg').open) $('dlg').showModal();
+  }
   const S = window.SAGA || [];
   const allP = c => c.s.flatMap(x => x.p);
   const cnt = ps => ps.join('').split('【').length - 1;
@@ -127,12 +159,9 @@
     const a = e.target.closest('[data-go]'); if (a){ e.preventDefault(); go(+a.dataset.go); return; }
     const kj = e.target.closest('.kj'); if (!kj) return;
     e.preventDefault();
-    const k = kj.textContent.trim()[0], x = INFO[k] || {};
-    $('dlgBody').innerHTML = `<div class="big">${esc(k)}</div><p class="hv">${esc(x.hv || '')}</p><p class="m">${esc(x.m || '')}${x.j ? ' · ' + esc(x.j) : ''}${x.n ? ' · thẻ ' + x.n : ''}</p>`
-      + (x.s ? `<div class="st">📖 ${esc(x.s)}</div>` : '') + (x.img ? `<img src="${esc(x.img)}" alt="Thẻ ${esc(k)}" loading="lazy">` : '');
-    $('dlgWrite').href = 'write.html#' + encodeURIComponent(k);
-    $('dlg').showModal();
+    openCard(kj.textContent.trim()[0]);
   });
+  $('dlgBody').addEventListener('click', e => { const d = e.target.closest('[data-k]'); if (d) openCard(d.dataset.k); });
   $('dlgClose').onclick = () => $('dlg').close();
   $('dlg').addEventListener('click', e => { if (e.target === $('dlg')) $('dlg').close(); });
   $('q').addEventListener('input', render);
