@@ -108,7 +108,6 @@
       <span class="cnt" id="cnt"></span>
     </div>
     <div id="list"></div>
-    <button class="btn" id="more" hidden style="display:block;margin:12px auto">Xem thêm</button>
     <p class="note">Bấm vào một cụm để xem đủ: ngữ pháp (bằng tiếng Việt), ngoại/nội động từ, tách được hay không, kết hợp hay gặp, 3 câu ví dụ (đời thường · công việc/QA · IELTS), văn phong, tần suất, CEFR, lỗi người Việt hay mắc, cụm gần nghĩa, trái nghĩa và <b>bằng chứng trong phụ đề phim</b>. Câu ví dụ là <i>câu tự soạn</i>; câu trong ô xanh là <i>câu thoại thật</i> (trích 1 dòng ngắn, bản quyền thuộc hãng phim).</p>
   </section>
 
@@ -192,29 +191,22 @@
       <ul class="exs">${e.ex.map((x, i) => x && x !== '-' ? `<li><span class="lab">${labs[i]} · tự soạn</span> ${esc(x)} ${say(x)}</li>` : '').join('')}</ul>
       ${ev}${bk}</div></details>`;
   }
-  let L = [], shown = 0, lastP = null;
-  const PAGE = 60;
+  let L = [];
   function render() {
     const q = $('q').value.trim().toLowerCase(), ty = $('type').value, pr = $('prio').value, ce = $('cefr').value, bt = $('batch').value, ev = $('ev').value;
     L = E.filter(e => (!q || e.hay.includes(q)) && (!ty || pre(e.id) === ty) && (!pr || e.prio === pr) && (!ce || e.cefr === ce) &&
       (!bt || e.batch === +bt) && (!ev || (ev === 'mv' ? e.n > 0 : ev === 'bk' ? !!e.book : !e.n)));
     $('cnt').textContent = `${fmt(L.length)} / ${fmt(E.length)} cụm`;
     $('list').innerHTML = L.length ? '' : '<p class="note">Không có cụm nào khớp.</p>';
-    shown = 0; lastP = null; more();
-  }
-  function more() {
-    let html = '';
-    for (const e of L.slice(shown, shown + PAGE)) {
+    // hiện hết mọi cụm khớp bộ lọc trên một trang (không chia "Xem thêm")
+    let html = '', lastP = null;
+    for (const e of L) {
       const p = pre(e.id);
       if (p !== lastP) { html += `<h2>${esc(typeName[p])}</h2>`; lastP = p; }
       html += card(e);
     }
     $('list').insertAdjacentHTML('beforeend', html);
-    shown = Math.min(L.length, shown + PAGE);
-    $('more').hidden = shown >= L.length;
-    $('more').textContent = `Xem thêm (còn ${fmt(L.length - shown)})`;
   }
-  $('more').onclick = more;
   let tmr;
   $('q').addEventListener('input', () => { clearTimeout(tmr); tmr = setTimeout(render, 150); });
   ['type', 'prio', 'cefr', 'batch', 'ev'].forEach(k => $(k).addEventListener('change', render));
