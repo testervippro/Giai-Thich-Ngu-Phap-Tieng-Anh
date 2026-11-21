@@ -40,6 +40,22 @@
     body.quiz .li:not(.open) .m, body.quiz .li:not(.open) .story, body.quiz .li:not(.open) .sub { filter:blur(6px); user-select:none; }
     body.quiz .li { cursor:pointer; }
     .empty { color:var(--muted); text-align:center; padding:30px 0; }
+    /* 📚 vocabulary */
+    .voc { display:flex; flex-wrap:wrap; gap:6px; margin:0 0 10px; }
+    .voc span { font-size:13.5px; background:var(--accentbg); border-radius:8px; padding:2px 8px; }
+    .voc span b { color:var(--accent); }
+    .voc span i { font-style:normal; color:var(--muted); }
+    body.novoc .voc { display:none; }
+    body.quiz .li:not(.open) .voc i { filter:blur(5px); }
+    .say { border:0; background:none; cursor:pointer; font-size:15px; padding:0 4px; vertical-align:baseline; }
+    .vrow { display:grid; grid-template-columns:minmax(120px, 190px) 1fr; gap:4px 14px; align-items:baseline; padding:8px 4px; border-bottom:1px solid var(--line); content-visibility:auto; contain-intrinsic-size:auto 64px; }
+    .vrow .w { font-size:18px; font-weight:800; color:var(--accent); }
+    .vrow .n { color:var(--muted); font-size:12.5px; font-weight:600; margin-left:4px; }
+    .vrow .vm { font-size:15px; }
+    body.quiz .vrow:not(.open) .vm { filter:blur(6px); cursor:pointer; }
+    .vrow .ks { grid-column:2; display:flex; flex-wrap:wrap; gap:4px; }
+    .vrow .ks a { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; font-size:19px; text-decoration:none; color:var(--ink); background:var(--card); border:1px solid var(--line); border-radius:7px; padding:0 6px; }
+    @media (max-width:560px){ .vrow { grid-template-columns:1fr; } .vrow .ks { grid-column:1; } }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Kanji in English"></script>
@@ -47,12 +63,13 @@
 <body>
 <main>
   <h1>🇬🇧 Kanji in English</h1>
-  <p class="lead">Every kanji card from <b>Book 1</b>, <b>Book 2</b> and the <b>280 base kanji</b> (building blocks), with its English meaning, memory story and the parts it is built from. Tap a part to jump to it. Turn on <b>Self-test</b> to hide the English and guess first.</p>
+  <p class="lead">Every kanji card from <b>Book 1</b>, <b>Book 2</b> and the <b>280 base kanji</b> (building blocks), with its English meaning, memory story and the parts it is built from. Under each story, <b>📚 Vocab</b> lists its English words with the Vietnamese meaning; 🔊 reads the story aloud. The <b>📚 Vocabulary</b> tab has all words of the stories, most used first. Turn on <b>Self-test</b> to hide the English and guess first.</p>
   <div class="tabs" id="tabs"></div>
   <div class="bar">
     <input type="search" id="q" placeholder="Search kanji, English or card no. (e.g. 楽, music, 1051)" aria-label="Search">
     <button class="btn" id="quizBtn">🙈 Self-test</button>
     <button class="btn on" id="hvBtn" title="Show the Sino-Vietnamese reading">Hán Việt</button>
+    <button class="btn on" id="vocBtn" title="Show the English words of each story with their Vietnamese meaning">📚 Vocab</button>
   </div>
   <div class="stat" id="stat"></div>
   <div id="out"></div>
@@ -60,6 +77,7 @@
 <script src="kanji-game-data.js"></script>
 <script src="kanji-roadmap.js"></script>
 <script src="kanji-en.js"></script>
+<script src="kanji-en-vocab.js"></script>
 <script>
 (() => {
   "use strict";
@@ -67,7 +85,7 @@
   const esc = t => String(t || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const cap = t => String(t || '').replace(/^./, c => c.toUpperCase());
   const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
-  const st = Object.assign({ tab:'p1', quiz:false, hv:true }, ls.get('kanjiEnglish', {}));
+  const st = Object.assign({ tab:'p1', quiz:false, hv:true, voc:true }, ls.get('kanjiEnglish', {}));
   const save = () => ls.set('kanjiEnglish', st);
   const EN = window.KANJI_EN || {};
   const CJK = /[⺀-⿟々゠-ヿ㐀-鿿豈-﫿]|[\uD840-\uD87F][\uDC00-\uDFFF]/g;
@@ -83,6 +101,18 @@
     { id:'base', label:'Base kanji', sub:'280 parts', list:BASE },
     { id:'all', label:'All', sub:'', list:CARDS.concat(BASE.filter(b => !BYK.has(b.k))) },
   ];
+  // 📚 vocabulary: w = [[word, Vietnamese, number of stories, "kanji…"], …] most used first; k = {kanji: [word index…]}
+  const VOC = window.KANJI_VOCAB || { w:[], k:{} };
+  TABS.push({ id:'vocab', label:'📚 Vocabulary', sub:'English words in the stories, most used first', list:VOC.w });
+  // 🔊 read English aloud (browser voice)
+  function say(text){
+    try {
+      speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(text); u.lang = 'en-US'; u.rate = 0.95;
+      const v = speechSynthesis.getVoices().find(v => /^en[-_]US/i.test(v.lang)); if (v) u.voice = v;
+      speechSynthesis.speak(u);
+    } catch (e) {}
+  }
   const enM = k => (EN[k] || [])[0] || '';
   const enS = k => (EN[k] || [])[1] || '';
   // English story: put the kanji of each part back in brackets is not possible word-by-word,
@@ -109,7 +139,8 @@
       + `<div class="info"><div class="big">${esc(x.k)}</div><div>`
       + `<div class="m">${esc(cap(enM(x.k)) || '—')}</div><div class="hv">${esc(x.hv)}</div>`
       + `<div class="tag">${esc(meta)} · #${ix + 1}${write}</div></div></div>`
-      + (story ? `<div class="story">📖 ${zh(story)}</div>` : '')
+      + (story ? `<div class="story">📖 ${zh(story)} <button class="say" data-say="${esc(story)}" title="Listen">🔊</button></div>` : '')
+      + (story && VOC.k[x.k] ? `<div class="voc">${VOC.k[x.k].map(i => `<span><b>${esc(VOC.w[i][0])}</b> <i>${esc(VOC.w[i][1])}</i></span>`).join('')}</div>` : '')
       + `<div class="sub">${parts(x)}</div></div>`;
   }
 
@@ -117,15 +148,27 @@
   function render(){
     $('tabs').innerHTML = TABS.map(t => `<button class="tab${t.id === st.tab ? ' on' : ''}" data-tab="${t.id}">${t.label}<small>${t.list.length.toLocaleString('en-US')}</small></button>`).join('');
     const q = $('q').value.trim().toLowerCase();
+    if (st.tab === 'vocab'){ renderVocab(q); return; }
     let L = tabObj().list;
     if (q) L = L.filter(x => x.k === q || String(x.n) === q || enM(x.k).toLowerCase().includes(q)
       || enS(x.k).toLowerCase().includes(q) || String(x.hv).toLowerCase() === q);
     $('stat').textContent = `${L.length.toLocaleString('en-US')} kanji${q ? ' found' : ''} · ${tabObj().sub}`;
     $('out').innerHTML = L.length ? L.map(item).join('') : '<p class="empty">No kanji match.</p>';
   }
+  function renderVocab(q){
+    let L = VOC.w.map((e, i) => [e, i]);
+    if (q) L = L.filter(([e]) => e[0].includes(q) || e[1].toLowerCase().includes(q) || e[3].includes(q));
+    $('stat').textContent = `${L.length.toLocaleString('en-US')} words${q ? ' found' : ''} · ${tabObj().sub} · tap a kanji to open its story`;
+    $('out').innerHTML = L.length ? L.map(([e]) => {
+      const ks = [...e[3]];
+      return `<div class="vrow"><div><span class="w">${esc(e[0])}</span><button class="say" data-say="${esc(e[0])}" title="Listen">🔊</button><span class="n">×${e[2]}</span></div>`
+        + `<div class="vm">${esc(e[1])}</div>`
+        + `<div class="ks">${ks.slice(0, 24).map(k => `<a href="#" data-jump="${esc(k)}" title="${esc(enM(k))}">${esc(k)}</a>`).join('')}${ks.length > 24 ? `<span class="n">+${ks.length - 24}</span>` : ''}</div></div>`;
+    }).join('') : '<p class="empty">No words match.</p>';
+  }
   function jump(k){
     let el = document.getElementById('k-' + k);
-    if (!el){ st.tab = 'all'; $('q').value = ''; save(); render(); el = document.getElementById('k-' + k); }
+    if (!el){ st.tab = 'all'; $('q').value = ''; save(); render(); window.scrollTo({ top:0 }); el = document.getElementById('k-' + k); }
     if (!el) return;
     document.querySelectorAll('.li.hl').forEach(e => e.classList.remove('hl'));
     el.classList.add('hl', 'open');
@@ -134,15 +177,20 @@
   const apply = () => {
     document.body.classList.toggle('quiz', st.quiz); $('quizBtn').classList.toggle('on', st.quiz);
     document.body.classList.toggle('nohv', !st.hv); $('hvBtn').classList.toggle('on', st.hv);
+    document.body.classList.toggle('novoc', !st.voc); $('vocBtn').classList.toggle('on', st.voc);
   };
   $('tabs').addEventListener('click', e => { const b = e.target.closest('[data-tab]'); if (!b) return; st.tab = b.dataset.tab; save(); render(); window.scrollTo({ top:0 }); });
   $('out').addEventListener('click', e => {
+    const sp = e.target.closest('[data-say]'); if (sp){ e.stopPropagation(); say(sp.dataset.say); return; }
+    const j = e.target.closest('[data-jump]'); if (j){ e.preventDefault(); jump(j.dataset.jump); return; }
+    const vr = e.target.closest('.vrow'); if (vr && st.quiz){ vr.classList.toggle('open'); return; }
     const p = e.target.closest('.sub [data-k]'); if (p){ jump(p.dataset.k); return; }
     const li = e.target.closest('.li'); if (li && st.quiz && !e.target.closest('a')) li.classList.toggle('open');
   });
   let t; $('q').addEventListener('input', () => { clearTimeout(t); t = setTimeout(render, 150); });
   $('quizBtn').onclick = () => { st.quiz = !st.quiz; save(); apply(); };
   $('hvBtn').onclick = () => { st.hv = !st.hv; save(); apply(); };
+  $('vocBtn').onclick = () => { st.voc = !st.voc; save(); apply(); };
   apply(); render();
   const h = decodeURIComponent(location.hash.slice(1)); if (h) jump(h);
 })();
