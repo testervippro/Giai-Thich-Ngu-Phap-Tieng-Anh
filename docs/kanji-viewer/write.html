@@ -24,6 +24,14 @@
     .info .hv { font-size:22px; font-weight:800; color:var(--accent); }
     .info .m { font-size:16px; }
     .info .tag { font-size:12.5px; color:var(--muted); }
+    /* 🇬🇧 English: nghĩa + câu chuyện tiếng Anh, bật bằng nút 🇬🇧 */
+    .en { display:none; color:#2563eb; font-style:italic; }
+    :root[data-theme="dark"] .en { color:#93c5fd; }
+    @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) .en { color:#93c5fd; } }
+    body.showen div.en { display:block; }
+    body.showen span.en { display:inline; }
+    .info .en { font-size:15px; }
+    .story.en { margin-top:-6px; }
     .lu { font-size:14.5px; line-height:1.6; margin:-2px 0 10px; padding:8px 12px; border-radius:10px; border-left:4px solid #d97706; background:rgba(217,119,6,.10); color:var(--ink); }
     .lu b { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
     body.lite #kLu { display:none !important; }
@@ -104,7 +112,7 @@
     body.lite .sub div { font-size:16px; padding:6px 12px; }
     body.lite .sub b { font-size:26px; }
     body.lite .card, body.lite .xl, body.lite .layout, body.lite .words, body.lite .note, body.lite #extraNote,
-    body.lite #info, body.lite #kStory, body.lite #kSub, body.lite #prev, body.lite #next, body.lite #pos, body.lite #rand { display:none !important; }
+    body.lite #info, body.lite #kStory, body.lite #kStoryEn, body.lite #kSub, body.lite #prev, body.lite #next, body.lite #pos, body.lite #rand { display:none !important; }
     #liteList { display:none; }
     body.lite #liteList { display:block; }
     .li { padding:14px 0 16px; border-bottom:2px solid var(--line); content-visibility:auto; contain-intrinsic-size:auto 260px; }
@@ -147,12 +155,13 @@
     <a class="btn" id="daLink" href="dong-am.html" title="Các chữ cùng âm Hán Việt nhưng khác chữ, khác nghĩa" style="text-decoration:none">🔀 Đồng âm</a>
     <button class="btn" id="liteBtn" title="Danh sách cả bộ: mỗi chữ hiện chữ Hán trước, rồi câu chuyện + mảnh ghép (ẩn ảnh, ô viết, từ vựng)">📖 Danh sách chữ + câu chuyện</button>
     <button class="btn on" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện của chữ">🖼 Ảnh: bật</button>
+    <button class="btn" id="enBtn" title="Hiện thêm nghĩa và câu chuyện bằng tiếng Anh (cả mảnh ghép)">🇬🇧 English</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
 
   <div class="info" id="info">
     <div class="big" id="kBig"></div>
-    <div><div class="hv" id="kHv"></div><div class="m" id="kM"></div><div class="tag" id="kTag"></div></div>
+    <div><div class="hv" id="kHv"></div><div class="m" id="kM"></div><div class="en" id="kMEn"></div><div class="tag" id="kTag"></div></div>
     <section class="panel words hidden" id="words">
       <h2><span>📚 Từ vựng có chữ này <span style="font-weight:400">(Kanji in Context)</span></span><span id="wCount"></span></h2>
       <div class="wScroll"><table><tbody id="wBody"></tbody></table></div>
@@ -160,6 +169,7 @@
   </div>
   <div class="lu hidden" id="kLu"></div>
   <div class="story" id="kStory"></div>
+  <div class="story en" id="kStoryEn"></div>
   <div class="chain" id="kChain"></div>
   <div class="sub" id="kSub"></div>
   <figure class="card" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
@@ -201,6 +211,7 @@
 <script src="kanji-game-data.js"></script>
 <script src="kanji-roadmap.js"></script>
 <script src="kanji-extra.js"></script>
+<script src="kanji-en.js"></script>
 <script src="kanji-miss.js"></script>
 <script src="rtk-data.js"></script>
 <script src="kanji-lu.js"></script>
@@ -229,13 +240,18 @@
     .map((x, ix) => Object.assign({}, x, { tag: `📝 Chưa scan được câu chuyện · ${ix + 1} · thẻ ${x.n}${x.j ? ' · ' + x.j : ''}` }));
   const RADSET = RADW.concat(NOSTORY);
   { const o = document.getElementById('radOpt'); if (o) o.textContent = `🧱 Bộ nền (${RADW.length} mảnh + ${NOSTORY.length} chữ chưa có câu chuyện)`; }
+  // 🇬🇧 tiếng Anh (kanji-en.js): {chữ: [nghĩa, câu chuyện]}
+  const KEN = window.KANJI_EN || {};
+  const enM = k => (KEN[k] || [])[0] || '';
+  const enS = k => (KEN[k] || [])[1] || '';
   function subStories(x){
     const seen = new Set([x.k]), out = [];
     (String(x.s || '').match(/[\u2E80-\u2FDF\u3005\u30A0-\u30FF\u3400-\u9FFF\uF900-\uFAFF]/g) || []).forEach(c => {
       if (seen.has(c)) return; seen.add(c);
       const y = BYK.get(c), r = RADK.get(c);
-      if (y) out.push(`<div data-k="${c}" title="Bấm để luyện chữ này"><b>${c}</b> <span class="hv2">${escH(y.hv)}</span> – ${escH(cap(y.m))}: ${escH(y.s)}</div>`);
-      else if (r) out.push(`<div data-k="${c}"><b>${c}</b> <span class="hv2">${escH(r.hv)}</span> – ${escH(r.m)} <span style="opacity:.75">(mảnh ghép)</span></div>`);
+      const en = enM(c) ? ` <span class="en">· ${escH(enM(c))}${y && enS(c) ? ': ' + escH(enS(c)) : ''}</span>` : '';
+      if (y) out.push(`<div data-k="${c}" title="Bấm để luyện chữ này"><b>${c}</b> <span class="hv2">${escH(y.hv)}</span> – ${escH(cap(y.m))}: ${escH(y.s)}${en}</div>`);
+      else if (r) out.push(`<div data-k="${c}"><b>${c}</b> <span class="hv2">${escH(r.hv)}</span> – ${escH(r.m)} <span style="opacity:.75">(mảnh ghép)</span>${en}</div>`);
     });
     return out.join('');
   }
@@ -502,6 +518,8 @@
     i = Math.max(0, Math.min(i, list.length - 1));
     const x = list[i];
     $('kBig').textContent = x.k; $('kHv').textContent = x.hv; $('kM').textContent = cap(x.m);
+    $('kMEn').textContent = enM(x.k) ? '🇬🇧 ' + enM(x.k) : '';
+    $('kStoryEn').textContent = x.s && !x.html && enS(x.k) ? '🇬🇧 ' + enS(x.k) : '';
     $('kTag').textContent = x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`;
     if (x.html != null) $('kStory').innerHTML = x.html ? '<div class="rtkStory">📖 ' + x.html + '</div>' : '';
     else $('kStory').textContent = x.s ? '📖 ' + x.s : '';
@@ -560,6 +578,9 @@
     strokes.forEach(d => { const p = document.createElementNS('http://www.w3.org/2000/svg', 'path'); p.setAttribute('d', d); p.setAttribute('class', 'stroke'); p.setAttribute('stroke', 'rgba(194,65,12,.45)'); p.setAttribute('stroke-width', '4'); svg.appendChild(p); });
     if (st.quiz){ document.body.classList.remove('quiz'); $('modelBox').classList.remove('hidden'); drawModel(); }
   };
+  const enApply = () => { document.body.classList.toggle('showen', !!st.en); $('enBtn').classList.toggle('on', !!st.en); };
+  $('enBtn').onclick = () => { st.en = !st.en; enApply(); save(); };
+  enApply();
   const cardLabel = () => { $('cardBtn').classList.toggle('on', st.card); $('cardBtn').textContent = st.card ? '🖼 Ảnh: bật' : '🖼 Ảnh: tắt'; };
   $('cardBtn').onclick = () => { st.card = !st.card; cardLabel(); save(); show(); };
   // Chế độ danh sách: cả bộ hiện 1 lần, mỗi chữ = chữ Hán trước, rồi câu chuyện + mảnh ghép
@@ -570,8 +591,9 @@
       liteFor = key;
       $('liteList').innerHTML = `<div class="liteHead">${list.length.toLocaleString('vi-VN')} chữ · bấm dòng mảnh ghép để nhảy tới chữ đó</div>` + list.map((x, ix) =>
         `<div class="li" id="li${ix}">`
-        + `<div class="info"><div class="big">${escH(x.k)}</div><div><div class="hv">${escH(x.hv)}</div><div class="m">${escH(cap(x.m))}</div><div class="tag">${escH(x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`)} · #${ix + 1}</div></div></div>`
+        + `<div class="info"><div class="big">${escH(x.k)}</div><div><div class="hv">${escH(x.hv)}</div><div class="m">${escH(cap(x.m))}</div>${enM(x.k) ? `<div class="en">🇬🇧 ${escH(enM(x.k))}</div>` : ''}<div class="tag">${escH(x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`)} · #${ix + 1}</div></div></div>`
         + (x.html ? `<div class="story"><div class="rtkStory">📖 ${x.html}</div></div>` : x.s ? `<div class="story">📖 ${escH(x.s)}</div>` : '')
+        + (x.s && !x.html && enS(x.k) ? `<div class="story en">🇬🇧 ${escH(enS(x.k))}</div>` : '')
         + (luHtml(x) ? `<div class="lu">${luHtml(x)}</div>` : '')
         + (st.set === 'road' ? `<div class="chain">${chainHtml(x, ix)}</div>` : '')
         + `<div class="sub">${subStories(x)}</div></div>`).join('');
