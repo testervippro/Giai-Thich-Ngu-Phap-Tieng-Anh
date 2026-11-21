@@ -1,0 +1,274 @@
+# Từ trong LỜI KỂ -> hình minh hoạ (tools/kanji_shorts.py). Regex chạy trên câu đọc chữ thường; dòng trên ưu tiên trước.
+# loại: G = đồ to đứng trên mặt đất · F = đồ nhỏ lơ lửng · B = cảnh vật (chỉ vẽ khi phông chưa phải cảnh đó)
+#       V = động tác / tính chất -> biểu tượng cạnh đầu nhân vật (big/small/rain/night/lie/sit = hiệu ứng đặc biệt)
+# regex	hình	loại
+# ---------------- tính chất / cảm xúc (đặt trước để 'không tốt' thắng 'tốt')
+không tốt|\bxấu\b|sai trái|hung ác|\bác\b	❌	V
+\btốt\b|đúng đắn	✅	V
+tỏa sáng|toả sáng|lấp lánh|\bđẹp\b|tuấn tú|xinh	✨	V
+to lớn|\bto\b|\blớn\b|khổng lồ|phi thường|vĩ đại	big	V
+\bnhỏ\b|bé tí|tí hon	small	V
+\bmưa\b	rain	V
+màn đêm|\bđêm\b|\btối\b	night	V
+\bnằm\b|\bngã\b|vật vã	lie	V
+\bngồi\b	sit	V
+\bvui\b|vui vẻ|hạnh phúc|sung sướng	😄	V
+\bbuồn\b|đau khổ|cô đơn	😢	V
+\bkhóc\b|nước mắt	😭	V
+\bcười\b|hihi|haha	😂	V
+\bsợ\b|hoảng|kinh hãi	😱	V
+\bgiận\b|\btức\b|cay cú|bực	😠	V
+\bđau\b|thốn	😣	V
+bệnh|\bốm\b|hen suyễn|\bho\b	🤒	V
+\bchết\b	💀	V
+\byêu\b|\bthích\b|thương	❤️	V
+\bghét\b|chán	😒	V
+mệt|\byếu\b|kiệt sức	😩	V
+\bkhỏe\b|\bkhoẻ\b|\bmạnh\b|sức lực|dũng cảm	💪	V
+thông minh|tri thức|\bhiểu\b|ý tưởng|phát hiện|phát minh	💡	V
+ngu dốt|\bngu\b|ngốc	🤪	V
+kì lạ|kỳ lạ|\blạ\b|ngạc nhiên|bí ẩn	😲	V
+suy nghĩ|\bnghĩ\b|\bnhớ\b|tưởng tượng|mơ	💭	V
+\bnóng\b|bốc lửa|oi	🥵	V
+\blạnh\b|đóng băng|rét	🥶	V
+\bcay\b	🌶️	V
+\bnặng\b|mồ hôi	💦	V
+\bkhô\b|hạn hán	🏜️	V
+\bsạch\b	🫧	V
+\bbẩn\b|hôi thối|\bhôi\b	🤢	V
+\bgiàu\b|đáng giá|quý giá|phú quý	💰	V
+\bnghèo\b|thiếu thốn	🥲	V
+\bnhanh\b|vội	⚡	V
+\bchậm\b	🐢	V
+\bgià\b|ngày xưa|quá khứ|cổ xưa	🕰️	V
+sinh ra|ra đời|\bđẻ\b	👶	V
+\bsay\b	🥴	V
+\bđói\b	🤤	V
+\bngủ\b|buồn ngủ	💤	V
+xấu hổ|ngượng	😳	V
+may mắn|phúc	🍀	V
+thành công|chiến thắng|\bthắng\b|vô địch	🏆	V
+thất bại|\bthua\b	😞	V
+đồng ý|tán thành	👍	V
+phản đối|từ chối	👎	V
+\bcấm\b|không được	🚫	V
+im lặng|bí mật	🤫	V
+# ---------------- động tác
+nghỉ ngơi|\bnghỉ\b|thư giãn	😌	V
+thứ tự|xếp hàng|\bhàng\b(?= (rào|quán))	🔢	V
+\bđi\b(?= (chơi|lại|qua|bộ|dạo))|bước đi|\bbước\b	🚶	V
+nói chuyện|\bnói\b|lời nói|hội thoại|trò chuyện|giao lưu	💬	V
+\bhỏi\b|câu hỏi|thắc mắc	❓	V
+\bkêu\b|\bhô\b|\bhét\b|\bgọi\b|\bla\b	📢	V
+\bhát\b|bài hát|ca hát|âm nhạc|\bnhạc\b	🎵	V
+nhảy múa|\bmúa\b|\bnhảy\b	💃	V
+\băn\b	😋	V
+\buống\b	🥤	V
+\bnghe\b|lắng nghe	👂	V
+\bnhìn\b|\bxem\b|\bngắm\b|trông thấy|thấy	👀	V
+\bngửi\b	👃	V
+\bhôn\b	💋	V
+\bôm\b	🤗	V
+chắp tay|cầu nguyện|\bcầu\b|\blạy\b|\bxin\b	🙏	V
+đánh nhau|chiến tranh|chiến đấu|giao chiến	⚔️	V
+công kích|tấn công|\bđánh\b|\bđập\b|\bđấm\b|\bđá\b(?= vào| bóng)	💥	V
+\bbắn\b	🎯	V
+\bgiết\b|\bchém\b	🗡️	V
+\bcắt\b|\bxé\b	✂️	V
+\bchặt\b|\bbổ\b	🪓	V
+cháy|\bđốt\b|thiêu	🔥	V
+\bchạy\b|vội vàng|lao tới	💨	V
+\bbay\b|cất cánh	🕊️	V
+\bbơi\b	🏊	V
+\btrèo\b|\bleo\b	🧗	V
+\brơi\b|tràn|đổ xuống|chảy	💧	V
+vận chuyển|\bchở\b|khiêng|\bbê\b|\bxách\b|mang đi	📦	V
+thôi thúc|\bđẩy\b|\bkéo\b|chỉ thị|ra lệnh|\blệnh\b	👉	V
+dừng lại|\bdừng\b|\bngừng\b	🛑	V
+\bchờ\b|\bđợi\b	⏳	V
+\bviết\b|\bkhắc\b|ghi chép	✍️	V
+\bđọc\b	📖	V
+\bhọc\b|luyện tập|giáo dục|\bdạy\b	📚	V
+làm việc|công việc|\bthợ\b|chế tạo|sản xuất	🛠️	V
+\bxây\b|kiến trúc	🏗️	V
+\bsửa\b|tu sửa	🔧	V
+\bdệt\b|\bmay\b|\bkhâu\b	🧵	V
+\btrồng\b|gieo	🌱	V
+\bhái\b|thu hoạch|nhặt	🧺	V
+nấu|\bnướng\b|\brán\b	🍳	V
+\btắm\b|\brửa\b|\bgiặt\b	🧼	V
+buôn bán|\bbán\b|\bmua\b|\bchợ\b|kinh doanh	🛒	V
+tiết kiệm|đầu tư|\bgửi tiền\b	🐷	V
+\btặng\b|\bquà\b|\bthưởng\b|\bcho\b(?= (em|anh|chị|người|cô|ông|bà))	🎁	V
+\bmở\b	🔓	V
+\bkhóa\b|\bkhoá\b|\bnhốt\b|bị xích	🔒	V
+\bgiấu\b|\bche\b|\btrốn\b	🫣	V
+\btìm\b|kiểm tra|điều tra|\btra\b	🔍	V
+bảo vệ|phòng chống|\bchống\b|\bgiữ\b|canh gác	🛡️	V
+\bcứu\b|giúp đỡ|\bgiúp\b	🛟	V
+\bchữa\b|điều trị	🩹	V
+cưới|kết hôn	💒	V
+\bchơi\b|vui chơi	🎈	V
+\bgặp\b|kết bạn|hợp tác|\bbắt tay\b	🤝	V
+\bbắt\b|\bnắm\b|\btóm\b	✊	V
+\bthả\b|giải phóng|tự do	🕊️	V
+chia|phân chia|tách	➗	V
+cộng|\bthêm\b|bổ sung	➕	V
+\bđổi\b|thay đổi|biến thành|trở thành|biến	🔄	V
+# ---------------- cảnh vật (chỉ vẽ khi phông chưa phải cảnh đó)
+\bnúi\b|sườn núi	⛰️	B
+\bsông\b|\bsuối\b	🏞️	B
+\bbiển\b|sóng	🌊	B
+\brừng\b	🌲	B
+\bruộng\b|cánh đồng	🌾	B
+thành phố|kinh đô|\bphố\b	🏙️	B
+# ---------------- đồ to, đứng trên mặt đất
+\bnhà\b(?! sư| văn| vua)	🏠	G
+\bchùa\b|\bđền\b	🛕	G
+\bcổng\b	⛩️	G
+trường học	🏫	G
+bệnh viện	🏥	G
+\blều\b	⛺	G
+cây cầu|\bcầu\b(?= (đá|gỗ|tre))	🌉	G
+cây trúc|\btrúc\b|\btre\b	🎋	G
+gốc cây|\bcây\b(?! (đao|kiếm|bút|gậy|đàn|nến|cầu))	🌳	G
+\bhoa\b(?! quả)	🌸	G
+\bcỏ\b	🌿	G
+\bnấm\b	🍄	G
+xe đạp	🚲	G
+\bxe\b	🚗	G
+thuyền|\bđò\b|\bghe\b	⛵	G
+cánh cửa|\bcửa\b	🚪	G
+\btường\b|bức tường	🧱	G
+\bghế\b	🪑	G
+\bgiường\b	🛏️	G
+\btủ\b	🗄️	G
+tivi|\btv\b|ti vi	📺	G
+bồn tắm	🛁	G
+\bđá\b|hòn đá|tảng đá|cối đá	🪨	G
+\bgỗ\b|\bcủi\b	🪵	G
+bia mộ|\bmộ\b|\bmồ\b(?! hôi)	🪦	G
+\bcờ\b|lá cờ	🚩	G
+\bthang\b	🪜	G
+# ---------------- đồ nhỏ, lơ lửng
+vi khuẩn|virus	🦠	F
+\bnão\b	🧠	F
+\bxương\b	🦴	F
+\brăng\b	🦷	F
+\bmáu\b	🩸	F
+linh đan|\bthuốc\b|viên thuốc	💊	F
+mặt trời|ánh nắng|\bnắng\b	☀️	F
+mặt trăng|ánh trăng|\btrăng\b	🌙	F
+ngôi sao|vì sao|\bsao\b(?! (lại|vậy|thế))	⭐	F
+\bmây\b	☁️	F
+tuyết	❄️	F
+\bgió\b	🌬️	F
+\bsấm\b|\bsét\b	⚡	F
+\bbăng\b|nước đá	🧊	F
+khói	💨	F
+giọt nước|\bnước\b(?! (ngoài|nhật|ta|việt|mỹ|anh|pháp))	💧	F
+\blửa\b	🔥	F
+tiền giấy|tiền	💵	F
+\bvàng\b(?! (úa|óng))|thỏi vàng	🪙	F
+bảo bối|ngọc|kim cương|đá quý	💎	F
+vương miện	👑	F
+\bnhẫn\b	💍	F
+lúa gạo|hạt gạo|\bgạo\b|\bcơm\b	🍚	F
+\blúa\b|bông lúa	🌾	F
+\bthịt\b	🍖	F
+\btrứng\b	🥚	F
+\brượu\b	🍶	F
+\btrà\b	🍵	F
+\bsữa\b	🥛	F
+\bbánh\b	🍞	F
+hoa quả|trái cây|\bquả\b|\btáo\b	🍎	F
+\bđậu\b	🫘	F
+\bmuối\b	🧂	F
+\brau\b	🥬	F
+\bkhoai\b	🥔	F
+\bngô\b	🌽	F
+\bhạt\b|mầm	🌱	F
+\blá\b	🍃	F
+\bcốc\b|\bly\b|\bchén\b	🥤	F
+\bbát\b	🥣	F
+\bđĩa\b	🍽️	F
+\bđao\b|\bkiếm\b	⚔️	F
+\bdao\b	🔪	F
+\brìu\b	🪓	F
+\bcung\b(?! (điện|cấp))|mũi tên|\btên\b(?= bắn)	🏹	F
+\bbúa\b	🔨	F
+\bđinh\b	🔩	F
+\bxích\b|dây xích	⛓️	F
+\bdây\b|sợi dây	🪢	F
+\bgậy\b	🦯	F
+sợi tơ|\btơ\b|\blụa\b|\bvải\b	🧶	F
+cuốn sách|\bsách\b	📕	F
+tờ giấy|\bgiấy\b	📄	F
+\bthư\b|lá thư	✉️	F
+\bbút\b	🖌️	F
+bức tranh|tranh vẽ|chân dung	🖼️	F
+bản đồ	🗺️	F
+\bmũ\b|\bnón\b	👒	F
+y phục|kimono|\báo\b|quần áo	👘	F
+\bkhăn\b	🧣	F
+\bgiày\b|\bdép\b	👡	F
+\bbao\b(?! (nhiêu|giờ|quanh|vây|gồm))|\btúi\b	🎒	F
+chìa khóa|chìa khoá	🔑	F
+đồng hồ|\bgiờ\b(?! (tuất|đây))	⏰	F
+\blịch\b(?! sử)	📅	F
+điện thoại	📱	F
+máy tính	💻	F
+\bđèn\b	💡	F
+\bchuông\b	🔔	F
+\btrống\b	🥁	F
+\bbom\b	💣	F
+\bcầu vồng\b	🌈	F
+# ---------------- bổ sung sau khi quét cảnh trống
+hướng lên|đi lên|\blên\b(?= (trời|cao|núi|cây))	⬆️	V
+hướng xuống|đi xuống|rơi xuống	⬇️	V
+phía tây|phía đông|phía nam|phía bắc|bốn phương|\bphương\b|\bhướng\b|la bàn	🧭	V
+mát mẻ|\bmát\b	🍃	V
+trị liệu|chữa trị	🩹	V
+lạc đường|nhầm lẫn|\bmê\b|bối rối	😵	V
+\bđo\b|đo đạc|đo lường	📏	V
+giới thiệu	🙋	V
+\btrọ\b|khách sạn|quán trọ	🏨	G
+\blỗ\b|\bhang\b	🕳️	F
+dung dịch|hóa học|hoá học	🧪	F
+thế giới|trái đất|toàn cầu	🌍	F
+\btuần\b|chu kì|chu kỳ	📅	F
+\bsừng\b	🦌	F
+\bngón\b|móng tay	💅	F
+\blông\b|đôi cánh|\bcánh\b(?! cửa| đồng)	🪶	V
+\bđỏ\b	🔴	V
+\brộng\b	↔️	V
+\bxa\b	🔭	V
+nguy hiểm|tai họa|tai hoạ	⚠️	V
+ô nhiễm	🤢	V
+thanh khiết|trong lành|trong suốt	🫧	V
+cảnh sát	🚓	G
+lễ hội	🏮	F
+sân vườn|công viên|\bvườn\b|ngự uyển	🌳	B
+\bnghiêng\b	📐	V
+\bđào\b(?! tạo)	⛏️	V
+giáo sư|thầy giáo|cô giáo	🎓	V
+khí hậu|thời tiết	🌦️	V
+\btriệu\b|\btỷ\b|\btỉ\b(?= đồng)	💵	F
+thu thập|gom	🧺	V
+nông nghiệp|nông dân	🚜	G
+thủy triều|thuỷ triều|hồng thủy|hồng thuỷ|\blũ\b	🌊	V
+tàn phế|tàn dư|\btàn\b|héo	🥀	V
+sáng tạo|nghệ thuật|vẽ	🎨	V
+quảng cáo	📣	V
+ca sỹ|ca sĩ|\bmic\b	🎤	V
+\bcd\b|đĩa nhạc	💿	F
+quyết định|nhất quyết	✔️	V
+áp lực|ép buộc|\bép\b	💢	V
+đồ đạc	📦	F
+con đường|\bđường\b(?! (nét|kính))	🛣️	F
+\bgiếng\b	🪣	F
+con đê|\bđê\b|\bđèo\b	⛰️	B
+sùng bái|tôn giáo|tôn thờ	🛐	V
+nghênh đón|chào đón|chào mừng	👋	V
+ẩn dật|ẩn náu	🏕️	V
+bí bách|ngột ngạt	😤	V

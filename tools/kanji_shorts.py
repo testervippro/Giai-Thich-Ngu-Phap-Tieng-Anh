@@ -19,11 +19,12 @@ import re
 import sys
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import kanji_video as KV  # noqa: E402
 from kanji_cast import CAST as CAST_DEF, SIZE, TEXT_RX  # noqa: E402
+KV.RATE = "+10%"                   # đọc nhanh hơn chút cho hợp nhịp video ngắn
 from kanji_video import (ACC, BG, F_BOLD, F_TXT, HL, INK, MUTED, duration, ease, font, kfont,  # noqa: E402
                          spoken, title, tts)
 
@@ -32,7 +33,10 @@ CAST = ROOT / "build/kanji-cast"
 OUT = ROOT / "build/kanji-shorts"
 BGDIR = OUT / "bg"
 W, H, FPS = 720, 1280, 24
-SCENE_Y, SCENE = 300, 720          # phông cảnh vuông 720×720
+SCENE_Y, SCENE = 440, 600          # phông cảnh vuông 600×600, ở giữa: chừa vùng dưới ~230px cho chú thích/nút của TikTok/Shorts
+SCENE_X = (W - SCENE) // 2
+SUB_Y = 318                        # phụ đề nằm TRÊN cảnh (vùng an toàn), không để ở đáy bị che
+END_CARD = 1.1                     # giây cuối: thẻ "Tiếp theo"
 BG_STYLE = (", wide establishing shot, no people, no animals, empty scene, cute flat cartoon background, "
             "children's picture book style, soft pastel colors, clean lines, no text")
 LEAD, TAIL = 1.4, 5.2              # giây trước lời kể (tiêu đề) / sau lời kể (ghép chữ 2 s + viết từng nét)
@@ -62,6 +66,7 @@ SHOTS = {
 
 
 SCENES = ROOT / "tools/data/kanji_shorts_scenes.jsonl"
+BOOK = ROOT / "build/kanji-book"
 PIECE2ID = {c: cid for cid, (chs, _, _) in CAST_DEF.items() for c in chs}
 BODY = set("口扌手目心忄足⻊耳罒爫廾舌頁自")
 
@@ -84,15 +89,11 @@ FX_PIECE = {"speak": "💬", "eat": "😋", "hit": "💥", "look": "👀", "pray
             "good": "✅", "no": "❌", "bad": "❌", "sick": "🤒", "ouch": "💥", "love": "❤️", "laugh": "😂",
             "dead": "💀", "heavy": "💦", "spicy": "🌶️", "dry": "☀️", "dark": "night", "night": "night",
             "rain": "rain", "missing": "❓", "strange": "❓", "angry": "💢", "old": "🕰️", "born": "👶", "match": "🤝"}
-# động từ / tính từ trong LỜI KỂ -> hiệu ứng (theo thứ tự ưu tiên)
-FX_TEXT = [(r"không tốt|\bxấu\b", "❌"), (r"\btốt\b", "✅"), (r"\bnói\b|lời nói|hội thoại", "💬"), (r"\băn\b", "😋"),
-           (r"\buống\b", "🥤"), (r"\bđánh\b", "💥"), (r"\bnhìn\b|\bxem\b", "👀"), (r"\byêu\b|\bthích\b", "❤️"),
-           (r"\bcười\b", "😂"), (r"\bkhóc\b", "😭"), (r"\bngủ\b", "💤"), (r"\bchết\b", "💀"), (r"bệnh", "🤒"),
-           (r"\bchạy\b", "💨"), (r"cháy|\bđốt\b", "🔥"), (r"t[ỏo]a sáng|\bsáng\b|\bđẹp\b", "✨"),
-           (r"\bto\b|\blớn\b", "big"), (r"\bnhỏ\b", "small"), (r"\bmưa\b", "rain"), (r"\bđêm\b|tối", "night"),
-           (r"\bcay\b", "🌶️"), (r"\bnặng\b", "💦"), (r"\bsợ\b", "😱"), (r"\bhát\b", "🎵"), (r"\bnằm\b|\bngã\b", "lie"),
-           (r"tiền|giàu", "💰"), (r"\bbay\b", "🕊️"), (r"\bnóng\b", "🥵"), (r"\blạnh\b|\bbăng\b", "🥶"),
-           (r"\bvui\b", "😄"), (r"\bbuồn\b", "😢"), (r"\bđau\b|thốn", "😣"), (r"\bngồi\b", "sit")]
+# danh từ / động từ / tính từ trong LỜI KỂ -> đồ vật hoặc hiệu ứng (tools/data/kanji_story_lexicon.tsv)
+LEX = [(re.compile(c[0]), c[1], c[2]) for c in
+       (l.split("\t") for l in (ROOT / "tools/data/kanji_story_lexicon.tsv").read_text(encoding="utf-8").splitlines())
+       if len(c) == 3 and not c[0].startswith("#")]
+MAX_OBJ = 4                         # tối đa đồ vật tự do trên cảnh (đỡ rối)
 _LIB = {}
 
 
@@ -114,6 +115,20 @@ def sprite_path(t: str, a: str):
     return None
 
 
+def emoji_png(e: str) -> Path:
+    """Emoji màu (Apple Color Emoji) -> PNG trong suốt, có cache."""
+    p = ASSETS / "emoji" / ("-".join(f"{ord(c):x}" for c in e) + ".png")
+    if not p.exists():
+        p.parent.mkdir(parents=True, exist_ok=True)
+        im = Image.new("RGBA", (200, 200), (0, 0, 0, 0))
+        ImageDraw.Draw(im).text((100, 100), e, font=ImageFont.truetype(EMOJI, 160), embedded_color=True, anchor="mm")
+        im = im.crop(im.getbbox() or (0, 0, 200, 200))
+        tmp = p.with_suffix(f".{id(im)}.tmp.png")
+        im.save(tmp)
+        tmp.replace(p)
+    return p
+
+
 def how_many(body: str, start: int) -> int:
     """'8 con lợn' -> 4 (vẽ tối đa 4), 'nhiều lợn' -> 3, '2 ông chồng' -> 2, còn lại 1."""
     ws = re.findall(r"[0-9]+|[^\W\d_]+", body[max(0, start - 30):start])
@@ -133,10 +148,13 @@ BG_DEFAULT = ["a sunny park with grass and trees", "a quiet village street with 
               "a green meadow with flowers and a few trees"]
 
 
-def keyword_bg(k: str, body: str) -> Path:
+def keyword_bg(k: str, body: str) -> tuple[Path, bool]:
+    """phông theo từ khóa lời kể; trả thêm True nếu khớp từ khóa (không phải phông mặc định)"""
     import kanji_assets as KA
-    prompt = next((pr for rx, pr in BG_KEYS if re.search(rx, body)), BG_DEFAULT[ord(k) % len(BG_DEFAULT)])
-    return ASSETS / "bc" / f"{KA.slug(prompt)}.png"
+    prompt = next((pr for rx, pr in BG_KEYS if re.search(rx, body)), None)
+    hit = prompt is not None
+    prompt = prompt or BG_DEFAULT[ord(k) % len(BG_DEFAULT)]
+    return ASSETS / "bc" / f"{KA.slug(prompt)}.png", hit
 
 
 def all_bg_prompts() -> list[str]:
@@ -210,17 +228,60 @@ def auto_shot(k: str, info: dict, bg: str | None) -> dict:
             if e == "✅" and "không" in gloss:
                 e = "❌"
             fx.append((c, e))
-    for rx, e in FX_TEXT:
-        mm = re.search(rx, low)
-        if mm and e not in {x[1] for x in fx} and not (e == "✅" and "❌" in {x[1] for x in fx}):
-            fx.append((mm.start(), e))
-    if "💀" in {x[1] for x in fx} and out:
-        fx.append((next(x[0] for x in fx if x[1] == "💀"), "lie"))
-    fx = fx[:5]
+    scene_bg = bgfile is not None              # phông là cảnh của một mảnh (氵 hồ, 田 ruộng…)
+    kw_hit = False
     if not bgfile and not bg:
-        bgfile = keyword_bg(k, body)
+        bgfile, kw_hit = keyword_bg(k, body)
+    # --- từ điển lời kể: danh từ -> đồ vật hiện đúng lúc được nhắc; động/tính từ -> hiệu ứng
+    _, spos = spoken(s, info)
+    drawn = {a[0] for a in actors if a[0]} | {o[0] for o in objs} | ({c for c in chipl if L.get(c, ("",))[0] == "bc"}
+                                                                     if scene_bg else set())
+    taken = []                                 # khoảng chữ đã có hình (tên mảnh đã vẽ, từ đã khớp)
+    prev, cur = 0, 0
+    for m in re.finditer(r"\(([^)]+)\)", s):
+        c, g = m.group(1)[:1], re.findall(r"[^\W_]+", s[prev:m.start()].lower())
+        prev = m.end()
+        if not g:
+            continue
+        mm = re.search(r"\W+".join(map(re.escape, g[-2:])), low[cur:]) or re.search(re.escape(g[-1]), low[cur:])
+        if mm:
+            if c in drawn:
+                taken.append((cur + mm.start(), cur + mm.end()))
+            cur += mm.end()
+    for cid, rx in TEXT_RX.items():            # tên nhân vật (con chim, ông vua…) đã là diễn viên
+        if cid in seen:
+            taken += [mm.span() for mm in re.finditer(rx, low)]
+    eobjs, fx_e = [], {x[1] for x in fx}
+    for rx, e, kind in LEX:
+        for mm in rx.finditer(low):
+            a_, b_ = mm.span()
+            if any(a_ < y and x < b_ for x, y in taken):
+                continue
+            taken.append((a_, b_))
+            if kind == "V":
+                if e not in fx_e and not (e == "✅" and "❌" in fx_e):
+                    fx.append((a_, e))
+                    fx_e.add(e)
+            elif kind == "B" and (kw_hit or scene_bg):
+                pass                           # phông đã là cảnh (núi, sông…) -> khỏi vẽ thêm
+            elif e not in {x[1] for x in eobjs}:
+                hold = bool(out) and bool(re.search(r"(" + HOLD + r")\W+(\w+\W+)?$", low[max(0, a_ - 14):a_]))
+                eobjs.append((a_, e, say[a_:b_], kind, hold))
+            break
+    if "💀" in fx_e and out and "lie" not in fx_e:
+        fx.append((next(x[0] for x in fx if x[1] == "💀"), "lie"))
+    fx = sorted(fx, key=lambda x: spos.get(x[0], 0) if isinstance(x[0], str) else x[0])[:6]
+    eobjs = sorted(eobjs)[:max(0, MAX_OBJ - len([o for o in objs if not o[2]]))]
+    # ảnh minh hoạ trong sách (đã làm nét: tools/kanji_book_art.py) -> cảnh chính giống sách;
+    # không dùng sprite nhân vật/đồ vật nữa (đã có trong ảnh), mảnh ghép hiện thành nhãn, giữ biểu tượng cảm xúc
+    book = BOOK / f"{info[k]['n']:04d}.png"
+    if book.exists():
+        chipl = [c for c in KV.parts_of(k, s)]
+        fx = [x for x in fx if x[1] not in ("big", "small", "lie", "sit", "night", "rain")]
+        pp = [(c, (i + 1) / (len(chipl) + 1), 0.1) for i, c in enumerate(chipl)]
+        return dict(bg=None, bgfile=None, book=str(book), actors=[], props=pp, objs=[], fx=fx, eobjs=[])
     pp = [(c, (i + 1) / (len(chipl) + 1), 0.11) for i, c in enumerate(chipl)]
-    return dict(bg=bg, bgfile=str(bgfile) if bgfile else None, actors=out, props=pp, objs=objs, fx=fx)
+    return dict(bg=bg, bgfile=str(bgfile) if bgfile else None, actors=out, props=pp, objs=objs, fx=fx, eobjs=eobjs)
 
 
 def bg_image(k: str, prompt: str, seed: int) -> Image.Image:
@@ -264,6 +325,18 @@ def chip(ch: str, hv: str, size=54) -> Image.Image:
     d.rounded_rectangle([0, 0, w, h], 18, fill=(255, 255, 255, 245), outline=ACC, width=4)
     d.text((w / 2, size * 1.08), ch, font=kf(ch, size), fill=INK, anchor="ms")
     d.text((w / 2, h - 12), hv, font=f2, fill=ACC, anchor="ms")
+    return im
+
+
+def word_tag(word: str) -> Image.Image:
+    """Nhãn chữ Việt nhỏ dưới đồ vật lấy từ lời kể."""
+    f2 = font(F_BOLD, 24)
+    w, h = int(f2.getlength(word) + 26), 38
+    im = Image.new("RGBA", (w + 4, h + 4), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    d.rounded_rectangle([2, 4, w + 2, h + 4], 14, fill=(0, 0, 0, 50))
+    d.rounded_rectangle([0, 0, w, h], 14, fill=(255, 255, 255, 235), outline=ACC, width=3)
+    d.text((w / 2, h - 11), word, font=f2, fill=ACC, anchor="ms")
     return im
 
 
@@ -353,6 +426,8 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
     has_pieces = bool(KV.parts_of(k, d0["s"]))
     # bỏ phần viết từng nét: chuyện có mảnh -> chỉ ghép chữ (3,2 s); thẻ không chuyện -> hiện chữ to 2,4 s
     tail, write_at = (3.2, 99.0) if has_pieces else (2.4, 0.3)
+    tail += END_CARD
+    nxt = globals().get("_NEXT", {}).get(k)
     t_intro = duration(a_intro)
     on_, kun_ = READINGS.get(k, [[], []])
     kun_txt = [x.replace(".", "").replace("-", "") for x in kun_]
@@ -375,7 +450,24 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
         t_in = at.get(ch) if ch else (lead + dur_s * min(1.0, tp / L) if tp is not None else lead)
         acts.append((ch, cid, x, y, h * (1, 1, 0.8, 0.7, 0.62)[cnt], how, t_in if t_in is not None else lead, cnt))
 
-    if shot.get("bgfile"):
+    if shot.get("book"):
+        # nền = chính ảnh sách phóng to, làm mờ, phủ sáng; ảnh nét đặt giữa, bo góc + đổ bóng
+        art = Image.open(shot["book"]).convert("RGB")
+        S2 = SCENE + 80
+        cov = art.resize((S2, int(art.height * S2 / art.width)) if art.width / art.height < 1 else (int(art.width * S2 / art.height), S2), Image.LANCZOS)
+        cov = cov.crop(((cov.width - S2) // 2, (cov.height - S2) // 2, (cov.width - S2) // 2 + S2, (cov.height - S2) // 2 + S2))
+        bg = Image.blend(cov.filter(ImageFilter.GaussianBlur(18)), Image.new("RGB", (S2, S2), BG), 0.55)
+        sc = min((SCENE - 50) / art.width, (SCENE - 230) / art.height)
+        aw, ah = int(art.width * sc), int(art.height * sc)
+        art = art.resize((aw, ah), Image.LANCZOS)
+        ax, ay = (S2 - aw) // 2, (S2 - ah) // 2 + 30
+        sh = Image.new("L", (S2, S2), 0)
+        ImageDraw.Draw(sh).rounded_rectangle([ax + 6, ay + 10, ax + aw + 6, ay + ah + 10], 26, fill=90)
+        bg.paste((0, 0, 0), (0, 0), sh.filter(ImageFilter.GaussianBlur(10)))
+        m_ = Image.new("L", (aw, ah), 0)
+        ImageDraw.Draw(m_).rounded_rectangle([0, 0, aw - 1, ah - 1], 24, fill=255)
+        bg.paste(art, (ax, ay), m_)
+    elif shot.get("bgfile"):
         bg = Image.open(shot["bgfile"]).convert("RGB").resize((SCENE + 80, SCENE + 80), Image.LANCZOS)
     else:
         bg = bg_image(k, shot["bg"], 7 + (d0["n"] or 0))
@@ -383,8 +475,15 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
     # Có đồ vật thì dồn nhân vật sang trái cho đỡ chồng lên nhau.
     BIGW = ("tree", "car", "boat", "well", "wall", "door", "bamboo", "gate", "cabinet", "kimono", "stool", "house",
             "rock", "campfire", "television", "basket", "pile", "stack", "chain", "jacket")
-    free = [o for o in shot.get("objs", []) if not o[2] and o[3] != "ct"]
-    near = [o for o in shot.get("objs", []) if o[2] or o[3] == "ct"]
+    allo = list(shot.get("objs", []))
+    elabel = {}
+    for i, (tp, e, word, kind, hold) in enumerate(shot.get("eobjs", [])):   # đồ vật từ danh từ trong lời kể
+        key = f"@{i}"
+        at[key] = lead + dur_s * min(1.0, tp / L)
+        elabel[key] = word
+        allo.append((key, str(emoji_png(e)), hold, kind))
+    free = [o for o in allo if not o[2] and o[3] != "ct"]
+    near = [o for o in allo if o[2] or o[3] == "ct"]
     if not acts:
         free, near = free + near, []
     if free and acts:
@@ -393,7 +492,7 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
         acts = [(a_[0], a_[1], x_, a_[3], a_[4] * (0.9 if n > 1 else 1), *a_[5:]) for a_, x_ in zip(acts, xs_)]
     objs = []
     for i, (c, f, hold, t) in enumerate(free):
-        big = any(w_ in Path(f).stem for w_ in BIGW)
+        big = t in ("G", "B") or any(w_ in Path(f).stem for w_ in BIGW)
         n = len(free)
         lo, hi = (0.6, 0.92) if acts else (0.08, 0.92)
         x = SCENE * (lo + (hi - lo) * (i + 0.5) / n)
@@ -411,7 +510,8 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
         im_ = Image.open(f).convert("RGBA")
         sc = sz / max(im_.width, im_.height)
         oimg[c] = im_.resize((max(1, int(im_.width * sc)), max(1, int(im_.height * sc))), Image.LANCZOS)
-    small_chip = {c: chip(c, title(info[c]["hv"]) if c in info and info[c]["hv"] else "", size=34) for c, *_ in objs}
+    small_chip = {c: word_tag(elabel[c]) if c in elabel else
+                  chip(c, title(info[c]["hv"]) if c in info and info[c]["hv"] else "", size=34) for c, *_ in objs}
     # hiệu ứng: thời điểm + loại
     fxs = []
     for trig, e in shot.get("fx", []):
@@ -440,8 +540,12 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
     pieces = [c for c in KV.parts_of(k, d0["s"])]
     obj_pieces = {o[0] for o in objs}
     chips = {c: chip(c, title(info[c]["hv"]) if c in info and info[c]["hv"] else "") for c in pieces}
-    f_hv, f_m, f_sub = font(F_BOLD, 44), font(F_TXT, 34), font(F_BOLD, 40)
-    sub_lines = wrap(say, f_sub, W - 90)
+    f_hv, f_m, f_sub = font(F_BOLD, 34), font(F_TXT, 30), font(F_BOLD, 38)
+    sub_lines, lh = wrap(say, f_sub, W - 70), 46
+    if len(sub_lines) > 3:
+        f_sub, lh = font(F_BOLD, 31), 38
+        sub_lines = wrap(say, f_sub, W - 60)
+    f_hook, k_hook = font(F_BOLD, 32), kfont(330)
     strokes = []                               # không vẽ từng nét nữa
     # từ gọi tên mảnh trong phụ đề: tô xanh đậm + gạch chân khi đọc tới (nối chữ ↔ mảnh)
     key_idx = key_words(d0["s"], k, say)
@@ -461,9 +565,10 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
         d = ImageDraw.Draw(im)
         # --- tiêu đề
         a = ease(t / 0.6)
-        d.text((W / 2, 150), k, font=kfont(int(150 * (0.8 + 0.2 * a))), fill=INK, anchor="ms")
-        d.text((W / 2, 212), title(d0["hv"]).upper(), font=f_hv, fill=ACC, anchor="ms")
-        d.text((W / 2, 262), d0["m"].split(";")[0], font=f_m, fill=MUTED, anchor="ms")
+        d.text((W / 2, 178), k, font=kfont(int(124 * (0.8 + 0.2 * a))), fill=INK, anchor="ms")
+        d.text((W / 2, 230), title(d0["hv"]).upper() + "  ·  " + d0["m"].split(";")[0], font=f_hv, fill=ACC, anchor="ms")
+        if d0.get("n"):
+            d.text((110, 54), f"#{d0['n']}", font=font(F_BOLD, 26), fill=MUTED, anchor="ls")
         if ja_line:
             on_now = t_vi <= t <= t_vi + t_ja + 0.2
             d.text((W - 26, 52), ja_line, font=font(F_KANA, 30), fill=HL if on_now else ACC, anchor="rs")
@@ -636,16 +741,38 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
             elif te > 1.2:
                 sd.text((SCENE / 2, SCENE / 2 + 140), " + ".join(title(info[c]["hv"]) if c in info and info[c]["hv"] else c for c in pieces) + " = " + title(d0["hv"]),
                         font=font(F_BOLD, 34), fill=ACC, anchor="ms")
+        # --- móc câu giây đầu: chữ to kín cảnh + "nhớ trong 10 giây" (cũng là ảnh bìa)
+        if t < lead + 0.45:
+            a_ = 1 - ease((t - lead) / 0.45) if t > lead else 1.0
+            veil = Image.new("RGBA", scene.size, (250, 247, 242, int(238 * a_)))
+            scene.alpha_composite(veil)
+            sd2 = ImageDraw.Draw(scene)
+            col = tuple(int(c) for c in INK) + (int(255 * a_),)
+            sd2.text((SCENE / 2, SCENE * 0.66), k, font=k_hook, fill=col, anchor="ms")
+            sd2.rounded_rectangle([SCENE * 0.06, SCENE * 0.78, SCENE * 0.94, SCENE * 0.9], 22, fill=tuple(ACC) + (int(255 * a_),))
+            sd2.text((SCENE / 2, SCENE * 0.865), "NHỚ CHỮ NÀY TRONG 10 GIÂY!", font=f_hook, fill=(255, 255, 255, int(255 * a_)), anchor="ms")
+        # --- thẻ cuối: "Tiếp theo" -> kéo xem video sau
+        te2 = t - (total - END_CARD)
+        if te2 > 0 and nxt:
+            a_ = ease(te2 / 0.3)
+            scene.alpha_composite(Image.new("RGBA", scene.size, (250, 247, 242, int(255 * a_))))
+            sd2 = ImageDraw.Draw(scene)
+            q = pop((te2 - 0.1) / 0.4)
+            sd2.text((SCENE / 2, SCENE * 0.2), "TIẾP THEO", font=font(F_BOLD, 40), fill=ACC, anchor="ms")
+            if q > 0:
+                sd2.text((SCENE / 2, SCENE * 0.62), nxt[0], font=kfont(max(1, int(260 * q))), fill=HL, anchor="ms")
+            sd2.text((SCENE / 2, SCENE * 0.75), nxt[1], font=font(F_BOLD, 38), fill=INK, anchor="ms")
+            sd2.text((SCENE / 2, SCENE * 0.86), "Theo dõi để học đủ 2.136 chữ", font=font(F_BOLD, 28), fill=MUTED, anchor="ms")
         # bo góc phông cảnh
         mask = Image.new("L", (SCENE, SCENE), 0)
         ImageDraw.Draw(mask).rounded_rectangle([0, 0, SCENE - 1, SCENE - 1], 36, fill=255)
         scene.putalpha(mask)
-        im.alpha_composite(scene, (0, SCENE_Y))
+        im.alpha_composite(scene, (SCENE_X, SCENE_Y))
         # --- phụ đề: chữ đã đọc tới đổi màu cam
         if lead - 0.1 <= t:
             prog = min(1.0, (t - lead) / max(0.1, dur_s))
             spoken_n = prog * L
-            y = SCENE_Y + SCENE + 64
+            y = SUB_Y
             done, wi = 0, 0
             for line in sub_lines:
                 lw = f_sub.getlength(line)
@@ -662,7 +789,7 @@ def make_short(k: str, info: dict, shot: dict, dest: Path):
                     x += f_sub.getlength(wd + " ")
                     done += len(wd) + 1
                     wi += 1
-                y += 54
+                y += lh
         d.rectangle([0, H - 8, W, H], fill=ACC)
         return im
 
@@ -696,6 +823,9 @@ def _init():
     kanji, _INFO, _ = KV.load_data()
     for r in kanji:
         _INFO[r[1]].setdefault("j", r[4])
+    global _NEXT
+    order = [r[1] for r in kanji if r[5]]
+    _NEXT = {a: (b, title(_INFO[b]["hv"]).upper() + " · " + _INFO[b]["m"].split(";")[0]) for a, b in zip(order, order[1:])}
     _SCENES = {}
     if SCENES.exists():
         for l in SCENES.read_text(encoding="utf-8").splitlines():
@@ -734,20 +864,31 @@ def main():
         jobs = int(args[args.index("-j") + 1])
         del args[args.index("-j"):args.index("-j") + 2]
     args = [a for a in args if a != "--force"]
+    shard = None
+    if "--shard" in args:
+        shard = args[args.index("--shard") + 1]
+        del args[args.index("--shard"):args.index("--shard") + 2]
     OUT.mkdir(parents=True, exist_ok=True)
     _init()
     prepare_bgs()
     kanji = KV.js_value(KV.KV / "kanji-game-data.js", "KANJI")
     only = [c for a in args for c in a] if args else [r[1] for r in kanji if r[5]]   # chỉ thẻ có câu chuyện
     t0, done, errs = time.time(), 0, []
-    with mp.get_context("spawn").Pool(jobs, initializer=_init) as pool:
-        for i, (k, st, msg) in enumerate(pool.imap_unordered(_job, [(k, force) for k in only]), 1):
+    if shard:                      # chạy 1 phần (i/n), tuần tự — chạy n lệnh song song từ shell
+        i_, n_ = map(int, shard.split("/"))
+        only = only[i_::n_]
+        results = (_job((k, force)) for k in only)
+    else:
+        pool = mp.get_context("spawn").Pool(jobs, initializer=_init)
+        results = pool.imap_unordered(_job, [(k, force) for k in only])
+    if True:
+        for i, (k, st, msg) in enumerate(results, 1):
             if st == "ERR":
                 errs.append((k, msg))
                 print(f"[{i}/{len(only)}] {k} LỖI {msg}", flush=True)
             elif st == "ok":
                 done += 1
-                if done % 25 == 0 or len(only) < 60:
+                if done % 10 == 0 or len(only) < 60:
                     el = time.time() - t0
                     print(f"[{i}/{len(only)}] {k} {msg} · còn ~{el / i * (len(only) - i) / 60:.0f} phút", flush=True)
     print(f"xong {done} video, {len(errs)} lỗi, {(time.time() - t0) / 60:.0f} phút", flush=True)

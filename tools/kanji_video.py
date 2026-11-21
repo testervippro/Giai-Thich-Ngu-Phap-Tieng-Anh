@@ -42,6 +42,7 @@ FFMPEG = "/opt/homebrew/bin/ffmpeg"
 FFPROBE = "/opt/homebrew/bin/ffprobe"
 W, H, FPS = 1280, 720, 24
 VOICE = "vi-VN-HoaiMyNeural"
+RATE = ""                 # tốc độ đọc edge-tts, vd "+10%" (rỗng = mặc định)
 SUBSTORIES = False      # True = thêm cảnh câu chuyện con của từng mảnh ghép
 
 BG, INK, MUTED, ACC, HL, CARD = (250, 247, 242), (34, 30, 28), (120, 112, 104), (14, 116, 92), (217, 119, 6), (255, 255, 255)
@@ -124,7 +125,7 @@ async def _edge(text: str, dest: Path) -> bool:
     for attempt in range(12):
         try:
             data = bytearray()
-            comm = edge_tts.Communicate(text, VOICE)
+            comm = edge_tts.Communicate(text, VOICE, **({"rate": RATE} if RATE else {}))
             async for msg in comm.stream():
                 if msg["type"] == "audio":
                     data += msg["data"]
@@ -139,7 +140,7 @@ async def _edge(text: str, dest: Path) -> bool:
 
 def tts(text: str) -> Path:
     CACHE.mkdir(parents=True, exist_ok=True)
-    dest = CACHE / (hashlib.sha1(f"{VOICE}|{text}".encode()).hexdigest()[:16] + ".mp3")
+    dest = CACHE / (hashlib.sha1(f"{VOICE}|{text}{'|' + RATE if RATE else ''}".encode()).hexdigest()[:16] + ".mp3")
     if dest.exists() and dest.stat().st_size > 512:
         return dest
     if not asyncio.run(_edge(text, dest)):
@@ -365,6 +366,7 @@ class Video:
 
     def render(self, dest: Path):
         dest.parent.mkdir(parents=True, exist_ok=True)
+        part = dest.with_name(dest.stem + ".part.mp4")
         with tempfile.TemporaryDirectory() as td:
             td = Path(td)
             wavs = []
@@ -382,7 +384,7 @@ class Video:
             proc = subprocess.Popen([FFMPEG, "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
                                      "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-", "-i", str(audio),
                                      "-c:v", "libx264", "-preset", "medium", "-crf", "26", "-pix_fmt", "yuv420p",
-                                     "-c:a", "aac", "-b:a", "96k", "-shortest", "-movflags", "+faststart", str(dest)],
+                                     "-c:a", "aac", "-b:a", "96k", "-shortest", "-movflags", "+faststart", str(part)],
                                     stdin=subprocess.PIPE)
             for dur, fn, _ in self.scenes:
                 n = max(1, round(dur * FPS))
@@ -390,6 +392,8 @@ class Video:
                     proc.stdin.write(fn(f / FPS).convert("RGB").tobytes())
             proc.stdin.close()
             proc.wait()
+            if proc.returncode == 0:
+                part.replace(dest)          # chỉ đổi tên khi dựng xong -> dừng giữa chừng không để lại file hỏng
 
 
 def make_video(row, info, dest: Path):
