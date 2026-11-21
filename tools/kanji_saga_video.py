@@ -100,6 +100,27 @@ def snap(pred: list[float], sil: list[float], miss: float = 2.5) -> list[float]:
     return out
 
 
+def with_kanji(raw: str, cps: list[str]) -> list[str]:
+    """Bản hiện trên màn hình của từng màn chữ: giữ chữ Hán trong ngoặc, 【雨】 -> (雨).
+
+    Ghép theo từ: mỗi màn chữ (bản đã bỏ chữ Hán) có n từ -> lấy n từ của câu gốc,
+    cộng các mảnh chú thích chữ Hán đi ngay sau."""
+    toks = re.sub(r"【(.)】", r"(\1)", raw).split()
+    has_word = lambda t: bool(re.search(r"[^\W\d_]|\d", clean(t)))
+    out, i = [], 0
+    for c in cps:
+        need, buf = len(c.split()), []
+        while i < len(toks) and (need > 0 or not has_word(toks[i])):
+            if has_word(toks[i]):
+                need -= 1
+            buf.append(toks[i])
+            i += 1
+        out.append(" ".join(buf) or c)
+    if i < len(toks) and out:
+        out[-1] += " " + " ".join(toks[i:])
+    return out
+
+
 def chapter_timeline(n: int):
     """-> (văn bản chương, align(vị trí các màn chữ) -> hàm vị trí ký tự -> giây, tổng giây).
 
@@ -184,16 +205,54 @@ def frame(img: str, head: str, sub: str, dest: Path, card=None, got: int = 0) ->
     d.text((W - 20, 27), f"{got} chữ", font=F_HEAD, fill=(120, 220, 170), anchor="rm")
     if card is not None:                        # thẻ Kanji bên phải ảnh
         im.paste(card, (PX, PY), card)
-    lines = wrap(d, sub, F_SUB, W - 100)
-    lh = 48
-    y0 = 462 + (254 - lh * len(lines)) // 2
-    for i, ln in enumerate(lines):
-        d.text((W // 2, y0 + i * lh + lh // 2), ln, font=F_SUB, fill=(255, 255, 255), anchor="mm",
-               stroke_width=2, stroke_fill=(0, 0, 0))
+    draw_sub(d, sub)
     im.save(dest, compress_level=1)
 
 
-CARD_MIN, CARD_LEAD = 0.8, 0.5                 # thẻ ở ít nhất 0.8 s; hiện sớm hơn lời đọc 0.5 s
+def _runs(tok: str):
+    out, buf, cj = [], "", None
+    for c in tok:
+        isc = bool(CJK_RX.match(c))
+        if cj is not None and isc != cj:
+            out.append((buf, cj))
+            buf = ""
+        buf, cj = buf + c, isc
+    if buf:
+        out.append((buf, cj))
+    return out
+
+
+def draw_sub(d, sub: str, size: int = 36, lh: int = 48) -> None:
+    """Phụ đề có cả chữ Hán, vd "trời mưa (雨) suốt 24 giờ" — chữ Việt Arial Bold, chữ Hán font Nhật."""
+    fv = ImageFont.truetype(FONT, size)
+    tw = lambda t: sum((S.KS.kf(r[0], size).getlength(r) if c else fv.getlength(r)) for r, c in _runs(t))
+    sp, maxw = fv.getlength(" "), W - 90
+    lines, cur, cw = [], [], 0.0
+    for tok in sub.split():
+        w = tw(tok)
+        if cur and cw + sp + w > maxw:
+            lines.append((cur, cw))
+            cur, cw = [], 0.0
+        cw += (sp if cur else 0) + w
+        cur.append(tok)
+    if cur:
+        lines.append((cur, cw))
+    if len(lines) > 5:
+        return draw_sub(d, sub, size - 4, lh - 6)
+    y0 = 462 + (254 - lh * len(lines)) // 2
+    for i, (toks, w) in enumerate(lines):
+        x, y = (W - w) / 2, y0 + i * lh + lh // 2 + size * 0.36
+        for j, tok in enumerate(toks):
+            if j:
+                x += sp
+            for r, c in _runs(tok):
+                f = S.KS.kf(r[0], size) if c else fv
+                d.text((x, y), r, font=f, fill=(255, 225, 140) if c else (255, 255, 255), anchor="ls",
+                       stroke_width=2, stroke_fill=(0, 0, 0))
+                x += f.getlength(r)
+
+
+CARD_MIN, CARD_MIN_SAME, CARD_LEAD = 0.8, 0.4, 0.5   # thẻ ở ít nhất 0.8 s (0.4 s nếu cùng câu); hiện sớm 0.5 s
 _cards: dict = {}
 _DATA: dict = {}
 CJK_RX = re.compile(r"[⺀-⿟々〆㐀-鿿豈-﫿\U00020000-\U0003FFFF]")
@@ -328,8 +387,92 @@ def finish(im, d, k, x, y):
     return im
 
 
+_multi: dict = {}
+
+
+def multicard(keys: tuple):
+    """Một câu có nhiều chữ: xếp ảnh thẻ của tất cả các chữ (đã được kể tới) trong cùng khung."""
+    if keys in _multi:
+        return _multi[keys]
+    D = kdata()
+    pics = []
+    for k in keys:
+        x = D.get(k, {})
+        f = KIMG / x["img"] if x.get("img") else None
+        if f and f.exists():
+            pics.append(Image.open(f).convert("RGB"))
+        else:                                   # không có ảnh sách -> dùng thẻ vẽ (cắt phần đầu)
+            pics.append(kcard(k).crop((0, 0, PW, 200)).convert("RGB"))
+    n, pad = len(pics), 8
+    ratio = sum(p.width / p.height for p in pics) / n
+    best = None
+    for cols in (1, 2):
+        rows = -(-n // cols)
+        w = min((PW - pad * (cols + 1)) / cols, (PH - pad * (rows + 1)) / rows * ratio)
+        if best is None or w > best[0]:
+            best = (w, cols, rows)
+    w, cols, rows = best
+    im = Image.new("RGBA", (PW, PH), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    d.rounded_rectangle([0, 0, PW - 1, PH - 1], 22, fill=(250, 248, 244, 248))
+    cell_h = (PH - pad * (rows + 1)) / rows
+    for i, p in enumerate(pics):
+        r_, c_ = divmod(i, cols)
+        pw = int(min(w, cell_h * p.width / p.height))
+        ph = int(pw * p.height / p.width)
+        q = p.resize((pw, ph), Image.LANCZOS)
+        cw = (PW - pad * (cols + 1)) / cols
+        x0 = int(pad + c_ * (cw + pad) + (cw - pw) / 2)
+        y0 = int(pad + r_ * (cell_h + pad) + (cell_h - ph) / 2)
+        im.paste(q, (x0, y0))
+        if i == n - 1:                          # chữ vừa được kể: viền xanh
+            d.rectangle([x0 - 3, y0 - 3, x0 + pw + 2, y0 + ph + 2], outline=GREEN, width=4)
+    _multi[keys] = im
+    return im
+
+
 def ts(t: float, sep=",") -> str:
     return f"{int(t // 3600):02d}:{int(t % 3600 // 60):02d}:{int(t % 60):02d}{sep}{int(t * 1000 % 1000):03d}"
+
+
+REV_N, REV_ASK, REV_SHOW, REV_TITLE = 12, 3.5, 3.0, 2.0   # ôn lại: 12 chữ/trang, nhớ 3.5 s, đáp án 3 s
+
+
+def review_frame(img: str, title_: str, page: int, pages: int, keys: list, reveal: bool, dest: Path) -> None:
+    """Màn ôn lại: lưới 4x3 chữ Kanji của đề mục vừa nghe; lúc đầu chỉ có chữ, sau hiện âm HV + nghĩa."""
+    pic = Image.open(IMG / f"{img}.webp").convert("RGB")
+    r = max(W / pic.width, H / pic.height)
+    im = pic.resize((int(pic.width * r) + 1, int(pic.height * r) + 1)).crop((0, 0, W, H))
+    im = im.filter(ImageFilter.GaussianBlur(30)).point(lambda v: int(v * 0.25))
+    d = ImageDraw.Draw(im)
+    d.text((W // 2, 34), f"ÔN LẠI · {title_}", font=ImageFont.truetype(FONT, 28), fill=(255, 214, 120), anchor="mm")
+    hint = "Nhớ âm Hán Việt và nghĩa…" if not reveal else "Đáp án"
+    d.text((W // 2, 72), f"{hint}   ({page}/{pages})", font=ImageFont.truetype(FONT, 22),
+           fill=(200, 200, 200) if not reveal else (120, 220, 170), anchor="mm")
+    D = kdata()
+    cols, cw, chh, x0, y0 = 4, 296, 196, 24, 98
+    for i, k in enumerate(keys):
+        r_, c_ = divmod(i, cols)
+        x, y = x0 + c_ * (cw + 10), y0 + r_ * (chh + 10)
+        d.rounded_rectangle([x, y, x + cw, y + chh], 18, fill=(250, 248, 244))
+        if not reveal:
+            d.text((x + cw / 2, y + chh / 2 + 42), k, font=S.KS.kf(k, 120), fill=INK_, anchor="ms")
+        else:
+            x_ = D.get(k, {})
+            d.text((x + 70, y + 118), k, font=S.KS.kf(k, 100), fill=INK_, anchor="ms")
+            hv = (x_.get("hv") or "").split(",")[0].upper()
+            fz = 30
+            while fz > 18 and ImageFont.truetype(FONT, fz).getlength(hv) > cw - 140:
+                fz -= 2
+            d.text((x + 132, y + 70), hv, font=ImageFont.truetype(FONT, fz), fill=GREEN, anchor="ls")
+            mixed(d, (x + 132, y + 82), cap1((x_.get("m") or "").split(";")[0]), 20, INK_, cw - 145, max_lines=3, lh=25)
+            d.text((x + cw / 2, y + chh - 16), f"Thẻ {x_.get('n') or '—'} · {x_.get('j') or ''}".strip(" ·"),
+                   font=ImageFont.truetype(F_TXT, 17), fill=GREY, anchor="ms")
+    im.save(dest, compress_level=1)
+
+
+def hms(t: float) -> str:
+    return f"{int(t // 3600)}:{int(t % 3600 // 60):02d}:{int(t % 60):02d}"
 
 
 def main() -> None:
@@ -339,26 +482,39 @@ def main() -> None:
     frames.mkdir(parents=True, exist_ok=True)
     for old in frames.glob("*.png"):
         old.unlink()
-    concat, audios, srt, marks = [], [], [], []
-    offset, k_, learned = 0.0, 0, 0
+    wav = OUT / "wav"
+    wav.mkdir(exist_ok=True)
+    silence = wav / "silence.wav"
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "600",
+                    str(silence)], check=True)
+    concat, aparts, srt, chap = [], [], [], []      # aparts: (file wav, từ giây, tới giây)
+    gt, k_, learned = 0.0, 0, 0                     # gt = đồng hồ chung của video
+
+    def emit(png: Path, dur: float):
+        nonlocal gt
+        concat.extend([f"file '{png}'", f"duration {dur:.3f}"])
+        gt += dur
+
     for n, ch in enumerate(saga, 1):
         text, align, total = chapter_timeline(n)
-        audios.append(AUDIO / f"{n:02d}.mp3")
-        marks.append(f"{int(offset // 3600)}:{int(offset % 3600 // 60):02d}:{int(offset % 60):02d} {ch['t']}")
-        # màn chữ: (vị trí trong text, ảnh, tiêu đề, chữ); thẻ: (vị trí trong text, chữ Kanji, mảnh)
-        items, marks_k, cur = [], [], 0
+        cw_ = wav / f"{n:02d}.wav"
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(AUDIO / f"{n:02d}.mp3"), "-ar", "24000", "-ac", "1",
+                        str(cw_)], check=True)
+        chap.append((gt, ch["t"]))
+        # màn chữ: (vị trí trong text, ảnh, tiêu đề, chữ, số đề mục); thẻ: (vị trí, chữ, mảnh, câu, đề mục)
+        items, marks_k, cur, sid = [], [], 0, 0
 
-        def put(img, stitle, txt):
+        def put(img, stitle, txt, sec_i, shown_txt=None):
             nonlocal cur
             pos = text.find(txt[:30], cur)
             pos = cur if pos < 0 else pos
-            items.append((pos, img, f"{ch['t']}  ·  {stitle}", txt))
+            items.append((pos, img, f"{ch['t']}  ·  {stitle}", shown_txt or txt, sec_i))
             cur = pos + len(txt)
             return pos
 
-        put(ch["s"][0]["img"], ch["s"][0]["t"], ch["t"].rstrip(".") + ".")
-        for sec in ch["s"]:
-            put(sec["img"], sec["t"], sec["t"].rstrip(".") + ".")
+        put(ch["s"][0]["img"], ch["s"][0]["t"], ch["t"].rstrip(".") + ".", 0)
+        for sec_i, sec in enumerate(ch["s"]):
+            put(sec["img"], sec["t"], sec["t"].rstrip(".") + ".", sec_i)
             for p in sec["p"]:
                 for rs in re.split(r"(?<=[.!?…:])\s+", p):
                     if not rs.strip():
@@ -368,65 +524,130 @@ def main() -> None:
                     if not cl:
                         continue
                     starts_ = []
-                    for piece in pieces(cl):
-                        starts_.append((put(sec["img"], sec["t"], piece), len(piece)))
-                    base_pos = starts_[0][0]
+                    cps = pieces(cl)
+                    for piece, shown_txt in zip(cps, with_kanji(rs, cps)):
+                        starts_.append((put(sec["img"], sec["t"], piece, sec_i, shown_txt), len(piece)))
+                    sid += 1                   # các chữ cùng một câu -> hiện chung một khung
                     for mp, k, pcs in mk:      # vị trí trong câu -> vị trí trong text chương
                         r = mp / max(1, len(say)) * sum(ln for _, ln in starts_)
                         for sp_, ln in starts_:
                             if r <= ln:
-                                marks_k.append((sp_ + int(r), k, pcs))
+                                marks_k.append((sp_ + int(r), k, pcs, sid, sec_i))
                                 break
                             r -= ln
                         else:
-                            marks_k.append((starts_[-1][0] + starts_[-1][1], k, pcs))
-        # lịch thẻ: (bắt đầu, kết thúc, chữ, mảnh), mỗi thẻ ít nhất CARD_MIN giây
-        at = align([p for p, *_ in items])
-        show, prev = [], -9.0
-        for pos, k, pcs in marks_k:
-            st_ = max(at(pos) - CARD_LEAD, prev + CARD_MIN)
-            show.append([st_, 0.0, k, pcs])
-            prev = st_
+                            marks_k.append((starts_[-1][0] + starts_[-1][1], k, pcs, sid, sec_i))
+        # mốc canh giờ: đầu mỗi màn chữ + mỗi dấu phẩy (đều có khoảng lặng thật trong audio)
+        at = align([p for p, *_ in items] + [m.end() for m in re.finditer(r"[,;]\s+", text)])
+        show, prev, prev_sid = [], -9.0, None
+        for pos, k, pcs, sid_, sec_i in marks_k:
+            gap = CARD_MIN_SAME if sid_ == prev_sid else CARD_MIN
+            st_ = max(at(pos) - CARD_LEAD, prev + gap)
+            show.append([st_, 0.0, k, pcs, sid_, sec_i])
+            prev, prev_sid = st_, sid_
         for i, x in enumerate(show):
             x[1] = show[i + 1][0] if i + 1 < len(show) else total    # giữ tới khi thẻ sau hiện
         sub_t = [at(p) for p, *_ in items]
         sub_t[0] = 0.0
-        cuts = sorted(set([t for t in sub_t] + [x[0] for x in show] + [x[1] for x in show] + [total]))
+        # ranh giới đề mục (thời điểm đọc tên đề mục kế tiếp) -> chèn màn ôn lại đề mục trước đó
+        sec_start = {}
+        for i, it in enumerate(items[1:], 1):
+            sec_start.setdefault(it[4], sub_t[i])
+        bounds = [(sec_start[j], j - 1) for j in sorted(sec_start) if j > 0] + [(total, len(ch["s"]) - 1)]
+        cuts = sorted(set(sub_t + [x[0] for x in show] + [x[1] for x in show] + [b for b, _ in bounds]))
         cuts = [c for c in cuts if 0 <= c <= total]
-        si, ci = 0, 0
+        seg_from, si, bi = 0.0, 0, 0
+        gmap = []                                   # (giờ trong chương, giờ chung) ở đầu mỗi đoạn audio
+
+        def review(sec_i: int, at_local: float):
+            nonlocal seg_from, k_
+            ks = [x[2] for x in show if x[5] == sec_i]
+            if not ks:
+                return
+            aparts.append((cw_, seg_from, at_local))
+            seg_from = at_local
+            sec = ch["s"][sec_i]
+            pages = [ks[i:i + REV_N] for i in range(0, len(ks), REV_N)]
+            dur = 0.0
+            for pi, pk in enumerate(pages, 1):
+                for reveal, dd in ((False, REV_ASK), (True, REV_SHOW)):
+                    png = frames / f"{k_:06d}.png"
+                    review_frame(sec["img"], sec["t"], pi, len(pages), pk, reveal, png)
+                    emit(png, dd)
+                    k_ += 1
+                    dur += dd
+            aparts.append((silence, 0.0, dur))
+            gmap.append((at_local, gt))
+
+        gmap.append((0.0, gt))
         for i in range(len(cuts) - 1):
             t0_, t1_ = cuts[i], cuts[i + 1]
+            while bi < len(bounds) - 1 and bounds[bi][0] <= t0_ + 1e-6:
+                review(bounds[bi][1], bounds[bi][0])
+                bi += 1
             if t1_ - t0_ < 0.02:
                 continue
             while si + 1 < len(items) and sub_t[si + 1] <= t0_ + 1e-6:
                 si += 1
             card = next((x for x in show if x[0] <= t0_ + 1e-6 < x[1]), None)
+            group = [x for x in show if card and x[4] == card[4] and x[0] <= t0_ + 1e-6]
             got = learned + sum(1 for x in show if x[0] <= t0_ + 1e-6)
-            _, img, head, txt_ = items[si]
+            _, img, head, txt_, _ = items[si]
             png = frames / f"{k_:06d}.png"
-            frame(img, head, txt_, png, kcard(card[2], card[3]) if card else None, got)
-            concat += [f"file '{png}'", f"duration {t1_ - t0_:.3f}"]
+            panel = None
+            if card:
+                panel = kcard(card[2], card[3]) if len(group) < 2 else multicard(tuple(x[2] for x in group))
+            frame(img, head, txt_, png, panel, got)
+            emit(png, t1_ - t0_)
             k_ += 1
-        for i, (_, img, head, s_) in enumerate(items):
+        while bi < len(bounds):                     # ôn lại đề mục cuối chương
+            review(bounds[bi][1], total)
+            bi += 1
+        aparts.append((cw_, seg_from, total))
+
+        def g(t):                                   # giờ trong chương -> giờ chung (sau các màn ôn lại chèn vào)
+            base = max((x for x in gmap if x[0] <= t + 1e-6), key=lambda x: x[0])
+            return base[1] + (t - base[0])
+        for i, it in enumerate(items):
             end_ = sub_t[i + 1] if i + 1 < len(items) else total
-            srt.append(f"{len(srt) + 1}\n{ts(offset + sub_t[i])} --> {ts(offset + end_)}\n{s_}\n")
+            srt.append(f"{len(srt) + 1}\n{ts(g(sub_t[i]))} --> {ts(g(end_) if i + 1 < len(items) else g(end_ - 1e-3))}\n{it[3]}\n")
         learned += len(show)
-        offset += total
-        print(f"chương {n}: {len(items)} màn chữ, {len(show)} thẻ Kanji", flush=True)
+        print(f"chương {n}: {len(items)} màn chữ, {len(show)} thẻ Kanji, hết lúc {hms(gt)}", flush=True)
     concat.append(concat[-2])                       # concat demuxer bỏ qua duration của ảnh cuối
     (OUT / "frames.txt").write_text("\n".join(concat) + "\n")
-    (OUT / "audio.txt").write_text("".join(f"file '{a}'\n" for a in audios))
+    (OUT / "audio.txt").write_text("".join(f"file '{f}'\ninpoint {a:.4f}\noutpoint {b:.4f}\n" for f, a, b in aparts))
     (OUT / "truyen-kanji.srt").write_text("\n".join(srt), encoding="utf-8")
-    (OUT / "chapters.txt").write_text("\n".join(marks) + "\n", encoding="utf-8")
-    full = OUT / "truyen-kanji.mp3"
+    (OUT / "chapters.txt").write_text("".join(f"{hms(t)} {name}\n" for t, name in chap), encoding="utf-8")
+    meta = [";FFMETADATA1", "title=Hành trình của cậu Nhân — Truyện dài Kanji"]
+    ends = [t for t, _ in chap[1:]] + [gt]
+    for (t, name), e in zip(chap, ends):
+        meta += ["[CHAPTER]", "TIMEBASE=1/1000", f"START={int(t * 1000)}", f"END={int(e * 1000)}", f"title={name}"]
+    (OUT / "meta.txt").write_text("\n".join(meta) + "\n", encoding="utf-8")
+    full = OUT / "truyen-kanji.m4a"
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(OUT / "audio.txt"),
-                    "-c:a", "libmp3lame", "-b:a", "64k", str(full)], check=True)
-    mp4 = OUT / "truyen-kanji.mp4"
+                    "-c:a", "aac", "-b:a", "96k", str(full)], check=True)
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(full), "-c:a", "libmp3lame", "-b:a", "64k",
+                    str(OUT / "truyen-kanji.mp3")], check=True)
+    tmp = OUT / "truyen-kanji.tmp.mp4"              # ghi ra file tạm rồi đổi tên: mở file lúc đang render không bị hỏng
+    keys = ",".join(f"{t:.3f}" for t, _ in chap)
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(OUT / "frames.txt"),
-                    "-i", str(full), "-vf", "fps=10,format=yuv420p", "-c:v", "libx264", "-tune", "stillimage",
-                    "-preset", "veryfast", "-crf", "23", "-c:a", "aac", "-b:a", "96k", "-shortest",
-                    "-movflags", "+faststart", str(mp4)], check=True)
+                    "-i", str(full), "-i", str(OUT / "meta.txt"), "-map", "0:v", "-map", "1:a",
+                    "-map_metadata", "2", "-map_chapters", "2", "-force_key_frames", keys,
+                    "-vf", "fps=10,format=yuv420p", "-c:v", "libx264", "-tune", "stillimage",
+                    "-preset", "veryfast", "-crf", "23", "-c:a", "copy", "-shortest",
+                    "-movflags", "+faststart", str(tmp)], check=True)
+    mp4 = OUT / "truyen-kanji.mp4"
+    tmp.replace(mp4)
     print(f"{mp4}  ({duration(mp4) / 60:.1f} phút, {mp4.stat().st_size / 1e6:.0f} MB)")
+    # 12 video theo chương (cắt đúng keyframe đầu chương, không encode lại)
+    sub = OUT / "chuong"
+    sub.mkdir(exist_ok=True)
+    for i, ((t, name), e) in enumerate(zip(chap, ends), 1):
+        dst = sub / f"{i:02d} - {name.split('. ', 1)[-1]}.mp4"
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-ss", f"{t:.3f}", "-to", f"{e:.3f}", "-i", str(mp4),
+                        "-map", "0:v", "-map", "0:a", "-c", "copy", "-map_chapters", "-1",
+                        "-metadata", f"title={name}", "-movflags", "+faststart", str(dst)], check=True)
+        print(f"  {dst.name}  ({duration(dst) / 60:.1f} phút)")
 
 
 if __name__ == "__main__":
