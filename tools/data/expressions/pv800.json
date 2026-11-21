@@ -1,0 +1,4066 @@
+[
+{
+"pv": "act up",
+"mark": "act up",
+"sep": false,
+"obj_after": false,
+"def": "behave or function improperly",
+"ex": "I think I need to take my car to the mechanic because it's acting up again."
+},
+{
+"pv": "add up",
+"mark": "add * up +",
+"sep": true,
+"obj_after": true,
+"def": "calculate a sum",
+"ex": "I added up the receipts and it totaled $135.46."
+},
+{
+"pv": "add up",
+"mark": "add up",
+"sep": false,
+"obj_after": false,
+"def": "make sense",
+"ex": "Her story doesn't add up. I think she is lying."
+},
+{
+"pv": "ask out",
+"mark": "ask * out +",
+"sep": true,
+"obj_after": true,
+"def": "invite on a date",
+"ex": "I can't believe that Joe finally asked me out on a date!"
+},
+{
+"pv": "back down",
+"mark": "back down",
+"sep": false,
+"obj_after": false,
+"def": "stop defending your opinion in a debate",
+"ex": "Jane never backs down. She always wins arguments."
+},
+{
+"pv": "back out",
+"mark": "back out",
+"sep": false,
+"obj_after": false,
+"def": "not keep (a promise, agreement,deal)",
+"ex": "Sam backed out at the last second."
+},
+{
+"pv": "back out of",
+"mark": "back out of +",
+"sep": false,
+"obj_after": true,
+"def": "not keep (a promise, agreement, deal)",
+"ex": "Sam backed out of the agreement at the last second."
+},
+{
+"pv": "back up",
+"mark": "back * up +",
+"sep": true,
+"obj_after": true,
+"def": "give support",
+"ex": "You need examples to back up your opinion."
+},
+{
+"pv": "back up",
+"mark": "back up",
+"sep": false,
+"obj_after": false,
+"def": "move backwards, reverse",
+"ex": "Could you back up a little so I can open this drawer."
+},
+{
+"pv": "bawl out",
+"mark": "bawl * out",
+"sep": true,
+"obj_after": false,
+"def": "criticize, reprimand (inf.)",
+"ex": "She bawled him out for arriving late."
+},
+{
+"pv": "bear down on",
+"mark": "bear down on +",
+"sep": false,
+"obj_after": true,
+"def": "bite",
+"ex": "The soldier had to bear down on the leather strap while the doctor removed a bullet from the soldier's arm."
+},
+{
+"pv": "bear down on",
+"mark": "bear down on +",
+"sep": false,
+"obj_after": true,
+"def": "take strong measures against",
+"ex": "The U.S.A. is bearing down on drug traffickers."
+},
+{
+"pv": "bear on",
+"mark": "bear on +",
+"sep": false,
+"obj_after": true,
+"def": "have to do with",
+"ex": "This information may bear on this case."
+},
+{
+"pv": "bear up",
+"mark": "bear up",
+"sep": false,
+"obj_after": false,
+"def": "withstand",
+"ex": "I didn't think he would bear up so well in that situation."
+},
+{
+"pv": "bear with",
+"mark": "bear with +",
+"sep": false,
+"obj_after": true,
+"def": "be patient",
+"ex": "Please bear with me while I fill out the paperwork."
+},
+{
+"pv": "blow in",
+"mark": "blow in",
+"sep": false,
+"obj_after": false,
+"def": "visit unexpectedly (inf.)",
+"ex": "My cousin blew in unexpectedly with his entire family."
+},
+{
+"pv": "blow over",
+"mark": "blow over",
+"sep": false,
+"obj_after": false,
+"def": "pass without creating a problem",
+"ex": "All this negative publicity will blow over in a couple of weeks."
+},
+{
+"pv": "blow up",
+"mark": "blow * up +",
+"sep": true,
+"obj_after": true,
+"def": "make explode;destroy using explosives",
+"ex": "The terrorists blew the bridge up."
+},
+{
+"pv": "blow up",
+"mark": "blow up",
+"sep": false,
+"obj_after": false,
+"def": "explode",
+"ex": "The bomb blew up before they could defuse it."
+},
+{
+"pv": "blow up",
+"mark": "blow up",
+"sep": false,
+"obj_after": false,
+"def": "suddenly become very angry",
+"ex": "When Joan heard the news, she blew up and rushed out of the room."
+},
+{
+"pv": "break down",
+"mark": "break down",
+"sep": false,
+"obj_after": false,
+"def": "stop working properly",
+"ex": "The truck broke down in the desert."
+},
+{
+"pv": "break down",
+"mark": "break down",
+"sep": false,
+"obj_after": false,
+"def": "become mentally ill",
+"ex": "She broke down after her husband died."
+},
+{
+"pv": "break in",
+"mark": "break * in +",
+"sep": true,
+"obj_after": true,
+"def": "wear or use something new until it is",
+"ex": "I need to break these shoes in before I go hiking."
+},
+{
+"pv": "break in",
+"mark": "break in",
+"sep": false,
+"obj_after": false,
+"def": "comfortable interrupt",
+"ex": "While we were discussing the situation, Terri broke in to give her opinion."
+},
+{
+"pv": "break in",
+"mark": "break in",
+"sep": false,
+"obj_after": false,
+"def": "enter a place unlawfully",
+"ex": "The burglar broke in between midnight and 3 AM."
+},
+{
+"pv": "break in on",
+"mark": "break in on +",
+"sep": false,
+"obj_after": true,
+"def": "interrupt (a conversation)",
+"ex": "Jane broke in on the conversation and told us to get back to work."
+},
+{
+"pv": "break into",
+"mark": "break into +",
+"sep": false,
+"obj_after": true,
+"def": "enter a house unlawfully",
+"ex": "The burglar broke into the house between midnight and 3 AM."
+},
+{
+"pv": "break into",
+"mark": "break into +",
+"sep": false,
+"obj_after": true,
+"def": "interrupt (a conversation)",
+"ex": "Jane broke into the conversation and told us what she knew."
+},
+{
+"pv": "break off",
+"mark": "break * off +",
+"sep": true,
+"obj_after": true,
+"def": "end something",
+"ex": "Sally broke her engagement to John off."
+},
+{
+"pv": "break out",
+"mark": "break out",
+"sep": false,
+"obj_after": false,
+"def": "appear violently",
+"ex": "Violent protests broke out in response to the military coup."
+},
+{
+"pv": "break out",
+"mark": "break out +",
+"sep": false,
+"obj_after": true,
+"def": "use something extravagant for celebration",
+"ex": "He broke out the champagne to celebrate his promotion."
+},
+{
+"pv": "break up",
+"mark": "break * up +",
+"sep": true,
+"obj_after": true,
+"def": "break into pieces",
+"ex": "I broke the cracker up into pieces and put it in the soup."
+},
+{
+"pv": "break up",
+"mark": "break * up +",
+"sep": true,
+"obj_after": true,
+"def": "disperse (a crowd), stop (a fight)",
+"ex": "The police broke the demonstration up before it got out of control."
+},
+{
+"pv": "break up",
+"mark": "break up",
+"sep": false,
+"obj_after": false,
+"def": "end a relationship",
+"ex": "Sam and Diane broke up again. What a rocky relationship."
+},
+{
+"pv": "bring around",
+"mark": "bring * around",
+"sep": true,
+"obj_after": false,
+"def": "change someone's mind, convince someone",
+"ex": "She doesn't want to go, but we'll eventually bring her around."
+},
+{
+"pv": "bring away",
+"mark": "bring * away",
+"sep": true,
+"obj_after": false,
+"def": "learn or gain (from an experience)",
+"ex": "My trip across the Sahara was difficult, but I brought a new appreciation for life away from the experience."
+},
+{
+"pv": "bring off",
+"mark": "bring * off +",
+"sep": true,
+"obj_after": true,
+"def": "succeed at something difficult or unexpected",
+"ex": "You robbed the bank! I can't believe you brought that off."
+},
+{
+"pv": "bring on",
+"mark": "bring * on +",
+"sep": true,
+"obj_after": true,
+"def": "cause something",
+"ex": "I can't believe she got so angry. What brought that on?"
+},
+{
+"pv": "bring out",
+"mark": "bring * out +",
+"sep": true,
+"obj_after": true,
+"def": "highlight, stress",
+"ex": "Your new shirt brings out the color of your eyes."
+},
+{
+"pv": "bring over",
+"mark": "bring * over +",
+"sep": true,
+"obj_after": true,
+"def": "bring to someone's house",
+"ex": "When you visit me, why don't you bring over your son."
+},
+{
+"pv": "bring to",
+"mark": "bring * to",
+"sep": true,
+"obj_after": false,
+"def": "revive consciousness",
+"ex": "We used smelling salts to bring her to after she fainted."
+},
+{
+"pv": "bring up",
+"mark": "bring * up +",
+"sep": true,
+"obj_after": true,
+"def": "mention",
+"ex": "I didn't want to bring up the fact that she was unemployed."
+},
+{
+"pv": "bring up",
+"mark": "bring * up +",
+"sep": true,
+"obj_after": true,
+"def": "raise ( a child)",
+"ex": "Sam was brought up in South Carolina."
+},
+{
+"pv": "brush off",
+"mark": "brush * off +",
+"sep": true,
+"obj_after": true,
+"def": "ignore something or someone (inf.)",
+"ex": "Mary brushed her ex-boyfriend off at the party."
+},
+{
+"pv": "burn down",
+"mark": "burn down",
+"sep": false,
+"obj_after": false,
+"def": "burn until completely gone (building)",
+"ex": "Two buildings burnt down in the fire."
+},
+{
+"pv": "burn up",
+"mark": "burn up",
+"sep": false,
+"obj_after": false,
+"def": "be hot",
+"ex": "I am burning up in here - open the window."
+},
+{
+"pv": "burn up",
+"mark": "burn up",
+"sep": false,
+"obj_after": false,
+"def": "consume by fire",
+"ex": "The papers were burned up in the fire."
+},
+{
+"pv": "burn up",
+"mark": "burn * up +",
+"sep": true,
+"obj_after": true,
+"def": "destroy by fire",
+"ex": "He burnt up the files."
+},
+{
+"pv": "buy out",
+"mark": "buy * out +",
+"sep": true,
+"obj_after": true,
+"def": "buy the shares of a company or the shares the other person owns of a",
+"ex": "Pacific Inc. was bought out by a company from Oregon."
+},
+{
+"pv": "buy up",
+"mark": "buy * up +",
+"sep": true,
+"obj_after": true,
+"def": "business purchase the entire supply of something",
+"ex": "We bought up all the beer in the store."
+},
+{
+"pv": "call for",
+"mark": "call for +",
+"sep": false,
+"obj_after": true,
+"def": "require (as in a recipe)",
+"ex": "This recipe calls for milk, not water."
+},
+{
+"pv": "call off",
+"mark": "call * off +",
+"sep": true,
+"obj_after": true,
+"def": "cancel something",
+"ex": "They called the picnic off because of the rain."
+},
+{
+"pv": "call off",
+"mark": "call * off +",
+"sep": true,
+"obj_after": true,
+"def": "order to stop (an invasion, guard dogs)",
+"ex": "He called off the dogs when he saw it was his neighbor."
+},
+{
+"pv": "call on",
+"mark": "call on +",
+"sep": false,
+"obj_after": true,
+"def": "visit",
+"ex": "Mark called on Naomi while he was in town."
+},
+{
+"pv": "call on",
+"mark": "call on +",
+"sep": false,
+"obj_after": true,
+"def": "invite someone to speak in a meeting or a classroom",
+"ex": "Professor Tanzer called on Tim to answer the question."
+},
+{
+"pv": "call up",
+"mark": "call * up +",
+"sep": true,
+"obj_after": true,
+"def": "telephone",
+"ex": "I called Sam up to see if he wanted to go to the movies."
+},
+{
+"pv": "calm down",
+"mark": "calm * down +",
+"sep": true,
+"obj_after": true,
+"def": "make someone relax",
+"ex": "You can calm the baby down by rocking her gently."
+},
+{
+"pv": "care for",
+"mark": "care for +",
+"sep": false,
+"obj_after": true,
+"def": "nurse someone or something",
+"ex": "He cared for the bird until its wing healed."
+},
+{
+"pv": "care for",
+"mark": "care for +",
+"sep": false,
+"obj_after": true,
+"def": "like someone or something",
+"ex": "I don't care for sour cream on my potato."
+},
+{
+"pv": "carry on",
+"mark": "carry on +",
+"sep": false,
+"obj_after": true,
+"def": "continue (a conversation, a game)",
+"ex": "Please, carry on. I didn't mean to interrupt you."
+},
+{
+"pv": "carry on with",
+"mark": "carry on with +",
+"sep": false,
+"obj_after": true,
+"def": "continue",
+"ex": "I want you to carry on with the project while I am out of town."
+},
+{
+"pv": "carry out",
+"mark": "carry * out +",
+"sep": true,
+"obj_after": true,
+"def": "complete and/or accomplish something",
+"ex": "The secret agent carried out his orders exactly as planned."
+},
+{
+"pv": "carry over",
+"mark": "carry * over +",
+"sep": true,
+"obj_after": true,
+"def": "continue on a subsequent day, page, etc.",
+"ex": "The meeting carried over into lunch time."
+},
+{
+"pv": "catch on",
+"mark": "catch on",
+"sep": false,
+"obj_after": false,
+"def": "slowly start to understand (inf.)",
+"ex": "He caught on after a few minutes."
+},
+{
+"pv": "catch up",
+"mark": "catch up",
+"sep": false,
+"obj_after": false,
+"def": "make up for lost time",
+"ex": "I will never catch up. I am too behind in my work."
+},
+{
+"pv": "catch up with",
+"mark": "catch up with +",
+"sep": false,
+"obj_after": true,
+"def": "speed up to be at the same place as a",
+"ex": "I had to run to catch up with the others."
+},
+{
+"pv": "catch up on",
+"mark": "catch up on +",
+"sep": false,
+"obj_after": true,
+"def": "person or thing in front of you become up-to-date",
+"ex": "I need to catch up on world events. I haven't seen the news in ages."
+},
+{
+"pv": "check back",
+"mark": "check back",
+"sep": false,
+"obj_after": false,
+"def": "return to see if everything is OK",
+"ex": "We will check back tomorrow to make sure the project is finished."
+},
+{
+"pv": "check by",
+"mark": "check by +",
+"sep": false,
+"obj_after": true,
+"def": "go to a place to see if everything is OK",
+"ex": "We need to check by the office to see if the documents are ready."
+},
+{
+"pv": "check for",
+"mark": "check for +",
+"sep": false,
+"obj_after": true,
+"def": "try to find",
+"ex": "They checked for termites before they bought the house."
+},
+{
+"pv": "check in",
+"mark": "check in",
+"sep": false,
+"obj_after": false,
+"def": "enter a hospital, hotel etc.",
+"ex": "They need to check in before noon."
+},
+{
+"pv": "check into",
+"mark": "check into +",
+"sep": false,
+"obj_after": true,
+"def": "enter a hospital, hotel etc.",
+"ex": "They checked into the hotel at 11:00 AM."
+},
+{
+"pv": "check into",
+"mark": "check into +",
+"sep": false,
+"obj_after": true,
+"def": "investigate, look for (often through a service)",
+"ex": "We are checking into discount flights to London."
+},
+{
+"pv": "check off",
+"mark": "check * off +",
+"sep": true,
+"obj_after": true,
+"def": "make a mark next to (an item on a list)",
+"ex": "Check each name off the list."
+},
+{
+"pv": "check on",
+"mark": "check on +",
+"sep": false,
+"obj_after": true,
+"def": "make sure something is OK",
+"ex": "Let's check on the baby again before we go to sleep."
+},
+{
+"pv": "check out",
+"mark": "check * out +",
+"sep": true,
+"obj_after": true,
+"def": "investigate, take a look at",
+"ex": "He checked out the new restaurant down the street."
+},
+{
+"pv": "check out",
+"mark": "check out",
+"sep": false,
+"obj_after": false,
+"def": "leave a hotel, hospital",
+"ex": "It's already eleven. We need to check out."
+},
+{
+"pv": "check out of",
+"mark": "check out of +",
+"sep": false,
+"obj_after": true,
+"def": "leave a hotel, hospital",
+"ex": "We checked out of the hotel before ten."
+},
+{
+"pv": "check over",
+"mark": "check * over +",
+"sep": true,
+"obj_after": true,
+"def": "closely examine the condition of something",
+"ex": "He checked over the old car to see if it was worth buying."
+},
+{
+"pv": "check up on",
+"mark": "check up on +",
+"sep": false,
+"obj_after": true,
+"def": "investigate someone or something",
+"ex": "The police are checking up on the bomb threats."
+},
+{
+"pv": "check through",
+"mark": "check * through",
+"sep": true,
+"obj_after": false,
+"def": "send luggage through (to a destination)",
+"ex": "Your luggage will be checked through to Paris."
+},
+{
+"pv": "check with",
+"mark": "check with +",
+"sep": false,
+"obj_after": true,
+"def": "ask a person for confirmation",
+"ex": "He needs to check with his parents before he goes."
+},
+{
+"pv": "cheer up",
+"mark": "cheer * up",
+"sep": true,
+"obj_after": false,
+"def": "make someone feel cheerful",
+"ex": "The party really cheered me up."
+},
+{
+"pv": "cheer up",
+"mark": "cheer up",
+"sep": false,
+"obj_after": false,
+"def": "become cheerful",
+"ex": "Cheer up. Everything will be all right."
+},
+{
+"pv": "chew up",
+"mark": "chew * up +",
+"sep": true,
+"obj_after": true,
+"def": "chew into small pieces",
+"ex": "The dog chewed up my shoe."
+},
+{
+"pv": "chop down",
+"mark": "chop * down +",
+"sep": true,
+"obj_after": true,
+"def": "fell/cut ( a tree)",
+"ex": "The lumberjack chopped the tree down."
+},
+{
+"pv": "chop up",
+"mark": "chop * up +",
+"sep": true,
+"obj_after": true,
+"def": "chop/cut into small bits",
+"ex": "He chopped the meat up into little pieces."
+},
+{
+"pv": "clean up",
+"mark": "clean * up +",
+"sep": true,
+"obj_after": true,
+"def": "tidy",
+"ex": "Susan cleaned the mess up before she left."
+},
+{
+"pv": "clear out",
+"mark": "clear out",
+"sep": false,
+"obj_after": false,
+"def": "leave ( inf.)",
+"ex": "Everybody clear out! We're closed."
+},
+{
+"pv": "clear up",
+"mark": "clear * up +",
+"sep": true,
+"obj_after": true,
+"def": "tidy",
+"ex": "Susan cleared up the mess before she left."
+},
+{
+"pv": "close down",
+"mark": "close * down +",
+"sep": true,
+"obj_after": true,
+"def": "close a place permanently",
+"ex": "The corner market closed down because they didn't have many customers."
+},
+{
+"pv": "close down",
+"mark": "close down",
+"sep": false,
+"obj_after": false,
+"def": "close permanently",
+"ex": "The bar was closed down because they served alcohol to minors."
+},
+{
+"pv": "close in on",
+"mark": "close in on +",
+"sep": false,
+"obj_after": true,
+"def": "approach and threaten",
+"ex": "The rebels were closing in on the capital, so the government called in the army."
+},
+{
+"pv": "close up",
+"mark": "close * up +",
+"sep": true,
+"obj_after": true,
+"def": "close temporarily",
+"ex": "They are closing the ski resort up for the summer."
+},
+{
+"pv": "close up",
+"mark": "close up",
+"sep": false,
+"obj_after": false,
+"def": "close temporarily",
+"ex": "The ski resort is closing up for the summer."
+},
+{
+"pv": "come about",
+"mark": "come about",
+"sep": false,
+"obj_after": false,
+"def": "occur / happen",
+"ex": "How did you idea for the book come about."
+},
+{
+"pv": "come across",
+"mark": "come across +",
+"sep": false,
+"obj_after": true,
+"def": "discover by accident",
+"ex": "They came across some lost Mayan ruins in the jungle."
+},
+{
+"pv": "come across",
+"mark": "come across +",
+"sep": false,
+"obj_after": true,
+"def": "initially seem or have the appearance",
+"ex": "He comes across as rather rude, but he isn't."
+},
+{
+"pv": "come along",
+"mark": "come along",
+"sep": false,
+"obj_after": false,
+"def": "accompany someone",
+"ex": "If you want, you can come along."
+},
+{
+"pv": "come along",
+"mark": "come along",
+"sep": false,
+"obj_after": false,
+"def": "progress",
+"ex": "How's the research paper coming along."
+},
+{
+"pv": "come away",
+"mark": "come away",
+"sep": false,
+"obj_after": false,
+"def": "leave a place with a particular feeling or impression",
+"ex": "I came away from the meeting feeling like the presentation was a success."
+},
+{
+"pv": "come back",
+"mark": "come back",
+"sep": false,
+"obj_after": false,
+"def": "return",
+"ex": "What time are you coming back?"
+},
+{
+"pv": "come by",
+"mark": "come by +",
+"sep": false,
+"obj_after": true,
+"def": "get, receive",
+"ex": "How did you come by that new Mercedes?"
+},
+{
+"pv": "come by",
+"mark": "come by",
+"sep": false,
+"obj_after": false,
+"def": "visit a person at their house",
+"ex": "I'll come by later this afternoon."
+},
+{
+"pv": "come into",
+"mark": "come into +",
+"sep": false,
+"obj_after": true,
+"def": "inherit",
+"ex": "He came into a large sum of money when his aunt died."
+},
+{
+"pv": "come off",
+"mark": "come off +",
+"sep": false,
+"obj_after": true,
+"def": "fall off, break off",
+"ex": "The handle came off the suitcase when I picked it up."
+},
+{
+"pv": "come out",
+"mark": "come out",
+"sep": false,
+"obj_after": false,
+"def": "appear",
+"ex": "I didn't see the car at first. It came out of nowhere."
+},
+{
+"pv": "come out",
+"mark": "come out",
+"sep": false,
+"obj_after": false,
+"def": "reveal you are homosexual",
+"ex": "Sam finally came out last month."
+},
+{
+"pv": "come out",
+"mark": "come out",
+"sep": false,
+"obj_after": false,
+"def": "turn out, end up",
+"ex": "The pictures came out great."
+},
+{
+"pv": "come out with",
+"mark": "come out with +",
+"sep": false,
+"obj_after": true,
+"def": "produce and distribute a product",
+"ex": "Microsoft is coming out with a new video game system next month."
+},
+{
+"pv": "come over",
+"mark": "come over",
+"sep": false,
+"obj_after": false,
+"def": "visit someone at their house",
+"ex": "Why don't you come over after work for dinner."
+},
+{
+"pv": "come to",
+"mark": "come to",
+"sep": false,
+"obj_after": false,
+"def": "regain consciousness",
+"ex": "Don't worry! She faints all the time. She always comes to after a few minutes."
+},
+{
+"pv": "come through",
+"mark": "come through",
+"sep": false,
+"obj_after": false,
+"def": "do what is needed or expected",
+"ex": "Terry really came through for us in the end."
+},
+{
+"pv": "come up to",
+"mark": "come up to +",
+"sep": false,
+"obj_after": true,
+"def": "approach; to equal",
+"ex": "The job offer didn't come up to her expectations."
+},
+{
+"pv": "come up with",
+"mark": "come up with +",
+"sep": false,
+"obj_after": true,
+"def": "produce or create (an idea, a plan)",
+"ex": "She came up with a great proposal for the new advertising campaign."
+},
+{
+"pv": "come with",
+"mark": "come with +",
+"sep": false,
+"obj_after": true,
+"def": "include (an accessory)",
+"ex": "The computer system doesn't come with a printer."
+},
+{
+"pv": "count in",
+"mark": "count * in +",
+"sep": true,
+"obj_after": true,
+"def": "include",
+"ex": "Did you count expenses in?"
+},
+{
+"pv": "count on",
+"mark": "count on +",
+"sep": false,
+"obj_after": true,
+"def": "depend/rely on",
+"ex": "You can really count on Sarah."
+},
+{
+"pv": "count out",
+"mark": "count * out +",
+"sep": true,
+"obj_after": true,
+"def": "exclude",
+"ex": "You can count James out. He hates playing poker."
+},
+{
+"pv": "count up",
+"mark": "count * up +",
+"sep": true,
+"obj_after": true,
+"def": "add",
+"ex": "Count the change up and see how much we have."
+},
+{
+"pv": "crack up",
+"mark": "crack up",
+"sep": false,
+"obj_after": false,
+"def": "on laugh uncontrollably, laugh a lot",
+"ex": "When I told the joke, they all cracked up."
+},
+{
+"pv": "crack up at",
+"mark": "crack up at +",
+"sep": false,
+"obj_after": true,
+"def": "laugh uncontrollably about, laugh a lot about",
+"ex": "I cracked up at his joke."
+},
+{
+"pv": "cross out",
+"mark": "cross * out +",
+"sep": true,
+"obj_after": true,
+"def": "draw a line through something, eliminate",
+"ex": "Why did you cross my name out on the list?"
+},
+{
+"pv": "cut down",
+"mark": "cut down",
+"sep": false,
+"obj_after": false,
+"def": "decrease the amount of",
+"ex": "You eat too much fat. You need to cut down."
+},
+{
+"pv": "cut down on",
+"mark": "cut down on +",
+"sep": false,
+"obj_after": true,
+"def": "decrease the amount of",
+"ex": "You need to cut down on your fat intake."
+},
+{
+"pv": "cut in",
+"mark": "cut in",
+"sep": false,
+"obj_after": false,
+"def": "interrupt",
+"ex": "She suddenly cut in and delivered the news"
+},
+{
+"pv": "cut in on",
+"mark": "cut in on +",
+"sep": false,
+"obj_after": true,
+"def": "interrupt",
+"ex": "She cut in on the conversation and delivered the news."
+},
+{
+"pv": "cut off",
+"mark": "cut * off",
+"sep": true,
+"obj_after": false,
+"def": "interrupt someone while they were speaking",
+"ex": "She cut him off before he said something he would regret later."
+},
+{
+"pv": "cut off",
+"mark": "cut * off +",
+"sep": true,
+"obj_after": true,
+"def": "sever ( with a knife)",
+"ex": "His finger was accidentally cut off in an industrial accident."
+},
+{
+"pv": "cut out",
+"mark": "cut * out +",
+"sep": true,
+"obj_after": true,
+"def": "remove",
+"ex": "He cut the bone out of the steak."
+},
+{
+"pv": "cut out",
+"mark": "cut * out",
+"sep": true,
+"obj_after": false,
+"def": "stop an action",
+"ex": "Cut it out! You're bothering me."
+},
+{
+"pv": "cut up",
+"mark": "cut * up +",
+"sep": true,
+"obj_after": true,
+"def": "cut into small pieces",
+"ex": "He cut the beef up and put the pieces in the soup."
+},
+{
+"pv": "die away",
+"mark": "die away",
+"sep": false,
+"obj_after": false,
+"def": "diminish in intensity",
+"ex": "The applause died away after 5 minutes."
+},
+{
+"pv": "die down",
+"mark": "die down",
+"sep": false,
+"obj_after": false,
+"def": "diminish in intensity",
+"ex": "The controversy about the president's affair finally died down."
+},
+{
+"pv": "die off/out",
+"mark": "die off/out",
+"sep": false,
+"obj_after": false,
+"def": "become extinct",
+"ex": "Whales are in danger of dying off."
+},
+{
+"pv": "disagree with",
+"mark": "disagree with +",
+"sep": false,
+"obj_after": true,
+"def": "cause to feel sick due to food or drink",
+"ex": "Spicy food disagrees with me."
+},
+{
+"pv": "do away with",
+"mark": "do away with +",
+"sep": false,
+"obj_after": true,
+"def": "abolish",
+"ex": "Some Americans want to do away with the death penalty."
+},
+{
+"pv": "do over",
+"mark": "do * over +",
+"sep": true,
+"obj_after": true,
+"def": "repeat",
+"ex": "You made many mistakes, so I want you to do the report over."
+},
+{
+"pv": "do without",
+"mark": "do without +",
+"sep": false,
+"obj_after": true,
+"def": "manage without something one wants or needs",
+"ex": "I couldn't do without a car in California."
+},
+{
+"pv": "draw up",
+"mark": "draw * up +",
+"sep": true,
+"obj_after": true,
+"def": "create ( a contract)",
+"ex": "Let's draw an agreement up before we go any further with this project."
+},
+{
+"pv": "dress down",
+"mark": "dress * down",
+"sep": true,
+"obj_after": false,
+"def": "reprimand severely",
+"ex": "The mother dressed her son down for skipping school."
+},
+{
+"pv": "dress down",
+"mark": "dress down",
+"sep": false,
+"obj_after": false,
+"def": "dress casually",
+"ex": "I am dressing down because we're going to a barbecue by the beach."
+},
+{
+"pv": "dress up",
+"mark": "dress * up +",
+"sep": true,
+"obj_after": true,
+"def": "decorate",
+"ex": "You could dress this house up with some bright colors"
+},
+{
+"pv": "dress up",
+"mark": "dress up",
+"sep": false,
+"obj_after": false,
+"def": "wear elegant clothes",
+"ex": "She always dresses up at work."
+},
+{
+"pv": "drop in",
+"mark": "drop in",
+"sep": false,
+"obj_after": false,
+"def": "visit someone unexpectedly",
+"ex": "Meg dropped in yesterday after dinner."
+},
+{
+"pv": "drop in on",
+"mark": "drop in on +",
+"sep": false,
+"obj_after": true,
+"def": "visit someone unexpectedly",
+"ex": "Let's drop in on Julie since we're driving by her house."
+},
+{
+"pv": "drop out",
+"mark": "drop out",
+"sep": false,
+"obj_after": false,
+"def": "quit an organized activity",
+"ex": "Yuri isn't on the team any more. He dropped out."
+},
+{
+"pv": "drop out of",
+"mark": "drop out of +",
+"sep": false,
+"obj_after": true,
+"def": "quit an organized activity (school)",
+"ex": "It's difficult to get a good job if you drop out of high school."
+},
+{
+"pv": "drop over",
+"mark": "drop over",
+"sep": false,
+"obj_after": false,
+"def": "visit someone casually",
+"ex": "Drop over any time you feel like talking."
+},
+{
+"pv": "eat away",
+"mark": "eat away",
+"sep": false,
+"obj_after": false,
+"def": "gradually destroy, erode",
+"ex": "The heavy rains ate away at the sandstone cliffs."
+},
+{
+"pv": "eat up",
+"mark": "eat * up +",
+"sep": true,
+"obj_after": true,
+"def": "devour",
+"ex": "Ken ate the cookies up."
+},
+{
+"pv": "eat in",
+"mark": "eat in",
+"sep": false,
+"obj_after": false,
+"def": "eat inside the home",
+"ex": "We usually eat in instead of going out for dinner."
+},
+{
+"pv": "eat out",
+"mark": "eat out",
+"sep": false,
+"obj_after": false,
+"def": "eat outside the home",
+"ex": "They eat out once a week."
+},
+{
+"pv": "face up to",
+"mark": "face up to +",
+"sep": false,
+"obj_after": true,
+"def": "acknowledge something difficult or embarrassing",
+"ex": "I'll never be able to face up to my colleagues after getting so drunk last night at the work party."
+},
+{
+"pv": "fall back on",
+"mark": "fall back on +",
+"sep": false,
+"obj_after": true,
+"def": "be able to use in case of emergency",
+"ex": "Yuki can fall back on her degree in biology if she doesn't succeed in her acting career."
+},
+{
+"pv": "fall behind",
+"mark": "fall behind",
+"sep": false,
+"obj_after": false,
+"def": "go slower than scheduled, lag",
+"ex": "Hurry up or you will fall behind!"
+},
+{
+"pv": "fall off",
+"mark": "fall off",
+"sep": false,
+"obj_after": false,
+"def": "decrease",
+"ex": "Interest in the project fell off when they realized it wouldn't be profitable."
+},
+{
+"pv": "fall through",
+"mark": "fall through",
+"sep": false,
+"obj_after": false,
+"def": "fail to happen",
+"ex": "Unfortunately, my trip to Indonesia fell through because I couldn't save enough money."
+},
+{
+"pv": "feel up",
+"mark": "feel * up +",
+"sep": true,
+"obj_after": true,
+"def": "grope",
+"ex": "She sued her boss for sexual harassment after he felt her up."
+},
+{
+"pv": "feel up to",
+"mark": "feel up to +",
+"sep": false,
+"obj_after": true,
+"def": "have the energy to do something",
+"ex": "I don't feel up to going out tonight because I had a long day at work."
+},
+{
+"pv": "figure on",
+"mark": "figure on +",
+"sep": false,
+"obj_after": true,
+"def": "expect",
+"ex": "Where do you figure on living when you move to the the U.S.A.?"
+},
+{
+"pv": "figure up",
+"mark": "figure * up +",
+"sep": true,
+"obj_after": true,
+"def": "calculate",
+"ex": "I need to figure my expenses up before I give you an estimate."
+},
+{
+"pv": "fill in",
+"mark": "fill * in +",
+"sep": true,
+"obj_after": true,
+"def": "complete",
+"ex": "Don't forget to fill in all the blanks on the application."
+},
+{
+"pv": "fill in",
+"mark": "fill in",
+"sep": false,
+"obj_after": false,
+"def": "substitute",
+"ex": "Who is going to fill in while you're gone?"
+},
+{
+"pv": "fill in for",
+"mark": "fill in for +",
+"sep": false,
+"obj_after": true,
+"def": "substitute for",
+"ex": "Miguel filled in for me at the meeting yesterday because I was sick."
+},
+{
+"pv": "fill out",
+"mark": "fill * out +",
+"sep": true,
+"obj_after": true,
+"def": "complete (an application)",
+"ex": "I filled out an application to rent the apartment last week."
+},
+{
+"pv": "fill out",
+"mark": "fill out",
+"sep": false,
+"obj_after": false,
+"def": "mature, get breasts",
+"ex": "Now that you're filling out honey, we need to get you a bra."
+},
+{
+"pv": "fill up",
+"mark": "fill * up +",
+"sep": true,
+"obj_after": true,
+"def": "fill to the top",
+"ex": "Fill the car up with unleaded gas, please."
+},
+{
+"pv": "find out",
+"mark": "find out +",
+"sep": false,
+"obj_after": true,
+"def": "discover",
+"ex": "You will never find out all my secrets!"
+},
+{
+"pv": "find out",
+"mark": "find out",
+"sep": false,
+"obj_after": false,
+"def": "discover",
+"ex": "Vicky's parents are going to be so mad when they find out she got a tattoo."
+},
+{
+"pv": "fix up",
+"mark": "fix * up +",
+"sep": true,
+"obj_after": true,
+"def": "repair, renovate, remodel",
+"ex": "My neighbors are fixing their house up."
+},
+{
+"pv": "get ahead",
+"mark": "get ahead",
+"sep": false,
+"obj_after": false,
+"def": "make progress",
+"ex": "I can't get ahead even though I work two jobs."
+},
+{
+"pv": "get along",
+"mark": "get along",
+"sep": false,
+"obj_after": false,
+"def": "have a good relationship",
+"ex": "Do you and your sister get along?"
+},
+{
+"pv": "get along with",
+"mark": "get along with +",
+"sep": false,
+"obj_after": true,
+"def": "have a good relationship",
+"ex": "Giovanna doesn't get along with her two brothers."
+},
+{
+"pv": "get around",
+"mark": "get around +",
+"sep": false,
+"obj_after": true,
+"def": "avoid someone or something",
+"ex": "Some people get around paying taxes by hiring a good accountant."
+},
+{
+"pv": "get around",
+"mark": "get around",
+"sep": false,
+"obj_after": false,
+"def": "go many places",
+"ex": "It's easy to get around town with public transportation."
+},
+{
+"pv": "get away",
+"mark": "get away",
+"sep": false,
+"obj_after": false,
+"def": "escape",
+"ex": "The bank robbers got away."
+},
+{
+"pv": "get away with",
+"mark": "get away with +",
+"sep": false,
+"obj_after": true,
+"def": "do something against the rules or illegal and not get caught or punished",
+"ex": "My sister gets away with everything!"
+},
+{
+"pv": "get by",
+"mark": "get by",
+"sep": false,
+"obj_after": false,
+"def": "survive without having the things you need or want",
+"ex": "I lost my job, so I am having a hard time getting by this year."
+},
+{
+"pv": "get by on",
+"mark": "get by on +",
+"sep": false,
+"obj_after": true,
+"def": "survive with minimal resources",
+"ex": "It's nearly impossible to get by on making minimum wage."
+},
+{
+"pv": "get by with",
+"mark": "get by with +",
+"sep": false,
+"obj_after": true,
+"def": "manage with",
+"ex": "You don't need a computer. You can get by with the typewriter."
+},
+{
+"pv": "get in",
+"mark": "get in +",
+"sep": false,
+"obj_after": true,
+"def": "enter ( a car, a small boat)",
+"ex": "Get in the front seat. You will have more leg room."
+},
+{
+"pv": "get in",
+"mark": "get in",
+"sep": false,
+"obj_after": false,
+"def": "enter",
+"ex": "Get in. I will give you a ride to school"
+},
+{
+"pv": "get off",
+"mark": "get * off +",
+"sep": true,
+"obj_after": true,
+"def": "send (a package)",
+"ex": "I finally got my sister's birthday present off yesterday."
+},
+{
+"pv": "get off",
+"mark": "get * off",
+"sep": true,
+"obj_after": false,
+"def": "remove ( a spider from your shirt)",
+"ex": "Can you get this spider off my shirt?"
+},
+{
+"pv": "get off",
+"mark": "get off +",
+"sep": false,
+"obj_after": true,
+"def": "leave (a bus, plane, train, boat)",
+"ex": "We need to get off the bus at the next stop."
+},
+{
+"pv": "get off",
+"mark": "get off",
+"sep": false,
+"obj_after": false,
+"def": "leave",
+"ex": "It's dangerous to sit on the roof. Get off!"
+},
+{
+"pv": "get off",
+"mark": "get off",
+"sep": false,
+"obj_after": false,
+"def": "idiomatic phrase - How does he justify saying that?!",
+"ex": "Where does he get off saying that?!"
+},
+{
+"pv": "get on",
+"mark": "get * on",
+"sep": true,
+"obj_after": false,
+"def": "put on (clothes)",
+"ex": "You should get your jacket on because it's going to be cold."
+},
+{
+"pv": "get on",
+"mark": "get on",
+"sep": false,
+"obj_after": false,
+"def": "enter (a bus, train), mount (a horse, a bike)",
+"ex": "The train is leaving. Quick, get on!"
+},
+{
+"pv": "get on",
+"mark": "get on +",
+"sep": false,
+"obj_after": true,
+"def": "enter (a bus, train), mount ( a horse, a bike)",
+"ex": "Get on my bike and I will give you a ride home."
+},
+{
+"pv": "get on",
+"mark": "get on",
+"sep": false,
+"obj_after": false,
+"def": "have a good relationship",
+"ex": "Natasha doesn't get on with her co-workers."
+},
+{
+"pv": "get on with",
+"mark": "get on with +",
+"sep": false,
+"obj_after": true,
+"def": "have a good relationship",
+"ex": "Do you get on with your neighbors?"
+},
+{
+"pv": "get on with",
+"mark": "get on with +",
+"sep": false,
+"obj_after": true,
+"def": "continue an activity",
+"ex": "Now that the police have left, let's get on with the party!"
+},
+{
+"pv": "get out of",
+"mark": "get out of +",
+"sep": false,
+"obj_after": true,
+"def": "exit (a small boat, car, an enclosed area)",
+"ex": "I fell into the water when I tried to get out of the canoe."
+},
+{
+"pv": "get over",
+"mark": "get over +",
+"sep": false,
+"obj_after": true,
+"def": "recover (a cold, a disease, an ex- boyfriend/ex-girlfriend)",
+"ex": "Jennifer still hasn't gotten over her breakup with Peter."
+},
+{
+"pv": "get through",
+"mark": "get through +",
+"sep": false,
+"obj_after": true,
+"def": "complete",
+"ex": "We will never get through all of these boxes by 9:00 PM."
+},
+{
+"pv": "get through",
+"mark": "get through +",
+"sep": false,
+"obj_after": true,
+"def": "penetrate",
+"ex": "We need a stronger drill to get through this wall."
+},
+{
+"pv": "get through",
+"mark": "get through",
+"sep": false,
+"obj_after": false,
+"def": "penetrate",
+"ex": "The door was jammed, so we couldn't get through."
+},
+{
+"pv": "get",
+"mark": "get",
+"sep": false,
+"obj_after": false,
+"def": "finish",
+"ex": "Have you gotten through with your homework yet?"
+},
+{
+"pv": "get through to",
+"mark": "get through to +",
+"sep": false,
+"obj_after": true,
+"def": "make contact",
+"ex": "It's hard to get through to Janet because her telephone line is always busy."
+},
+{
+"pv": "get up",
+"mark": "get * up",
+"sep": true,
+"obj_after": false,
+"def": "cause someone to rise (from a sitting position or a lying position)",
+"ex": "Ahmed got Abdul up at 5:30 in the morning by turning the music up really loud."
+},
+{
+"pv": "get up",
+"mark": "get up",
+"sep": false,
+"obj_after": false,
+"def": "rise (from sitting position or a bed)",
+"ex": "What time did you get up this morning?"
+},
+{
+"pv": "give away",
+"mark": "give * away +",
+"sep": true,
+"obj_after": true,
+"def": "give something without asking for anything in exchange",
+"ex": "Why did Nancy give all of her furniture away?"
+},
+{
+"pv": "give away",
+"mark": "give * away +",
+"sep": true,
+"obj_after": true,
+"def": "betray (a secret)",
+"ex": "We are having a surprise party for Susan next Saturday, so don't give our surprise away by acting suspicious."
+},
+{
+"pv": "give back",
+"mark": "give * back +",
+"sep": true,
+"obj_after": true,
+"def": "return something you borrowed",
+"ex": "When are you going to give that book back to your teacher?"
+},
+{
+"pv": "give in",
+"mark": "give in",
+"sep": false,
+"obj_after": false,
+"def": "stop trying",
+"ex": "Never give in! You can do it!"
+},
+{
+"pv": "give off",
+"mark": "give off +",
+"sep": false,
+"obj_after": true,
+"def": "release (a smell, light)",
+"ex": "That white flower gives off a beautiful smell."
+},
+{
+"pv": "give out",
+"mark": "give * out +",
+"sep": true,
+"obj_after": true,
+"def": "distribute",
+"ex": "I earn extra money by giving out brochures on the"
+},
+{
+"pv": "give out",
+"mark": "give out",
+"sep": false,
+"obj_after": false,
+"def": "become very tired (inf.)",
+"ex": "street. I hope this car doesn't give out in the middle of the desert."
+},
+{
+"pv": "give up",
+"mark": "give * up +",
+"sep": true,
+"obj_after": true,
+"def": "surrender something",
+"ex": "The police told the thief to give his gun up."
+},
+{
+"pv": "give up",
+"mark": "give up",
+"sep": false,
+"obj_after": false,
+"def": "surrender",
+"ex": "Never give up learning English!"
+},
+{
+"pv": "go away",
+"mark": "go away",
+"sep": false,
+"obj_after": false,
+"def": "leave",
+"ex": "I yelled at the dogs to make them go away."
+},
+{
+"pv": "go back",
+"mark": "go back",
+"sep": false,
+"obj_after": false,
+"def": "return",
+"ex": "When are you going back to your house?"
+},
+{
+"pv": "go by",
+"mark": "go by +",
+"sep": false,
+"obj_after": true,
+"def": "go past, go close to, visit quickly",
+"ex": "We go by the coffee shop everyday."
+},
+{
+"pv": "go back on",
+"mark": "go back on +",
+"sep": false,
+"obj_after": true,
+"def": "not keep (one's word, a promise)",
+"ex": "Don't trust him. He always goes back on his promises."
+},
+{
+"pv": "go down",
+"mark": "go down",
+"sep": false,
+"obj_after": false,
+"def": "decrease",
+"ex": "The cost of flight tickets is going down."
+},
+{
+"pv": "go for",
+"mark": "go for +",
+"sep": false,
+"obj_after": true,
+"def": "try to achieve",
+"ex": "Our team is going for the gold medal in the Olympics."
+},
+{
+"pv": "go for",
+"mark": "go for",
+"sep": false,
+"obj_after": false,
+"def": "idiomatic phrase - I am craving pepperoni pizza.",
+"ex": "I could go for pepperoni pizza."
+},
+{
+"pv": "go in for",
+"mark": "go in for +",
+"sep": false,
+"obj_after": true,
+"def": "participate ( inf.)",
+"ex": "Are you going to go in for soccer this year at school?"
+},
+{
+"pv": "go into",
+"mark": "go into +",
+"sep": false,
+"obj_after": true,
+"def": "discuss in detail",
+"ex": "I really don't want to go into that now."
+},
+{
+"pv": "go off",
+"mark": "go off",
+"sep": false,
+"obj_after": false,
+"def": "explode",
+"ex": "The bomb could go off at any moment."
+},
+{
+"pv": "go off",
+"mark": "go off",
+"sep": false,
+"obj_after": false,
+"def": "begin, start (used with signals, alarms, warning sounds)",
+"ex": "The alarm clock went off at 6:00 AM."
+},
+{
+"pv": "go off",
+"mark": "go off",
+"sep": false,
+"obj_after": false,
+"def": "stop (said of a machine)",
+"ex": "The DVD player goes off automatically if you are not using it."
+},
+{
+"pv": "go off",
+"mark": "go off",
+"sep": false,
+"obj_after": false,
+"def": "become angry",
+"ex": "Maria went off last night after I told her about losing her bike."
+},
+{
+"pv": "go on",
+"mark": "go on",
+"sep": false,
+"obj_after": false,
+"def": "continue",
+"ex": "Please, go on. Don't let me interrupt you."
+},
+{
+"pv": "go on",
+"mark": "go on",
+"sep": false,
+"obj_after": false,
+"def": "happen",
+"ex": "This place is a mess! What went on here last night?"
+},
+{
+"pv": "go on with",
+"mark": "go on with +",
+"sep": false,
+"obj_after": true,
+"def": "continue ( a plan, a conversation)",
+"ex": "I think we should go on with the meeting and stop wasting time."
+},
+{
+"pv": "go out",
+"mark": "go out",
+"sep": false,
+"obj_after": false,
+"def": "stop burning ( a fire)",
+"ex": "The fire went out after three days."
+},
+{
+"pv": "go out",
+"mark": "go out",
+"sep": false,
+"obj_after": false,
+"def": "take part in social activities (usually at night)",
+"ex": "They love to go out every Saturday night."
+},
+{
+"pv": "go over",
+"mark": "go over +",
+"sep": false,
+"obj_after": true,
+"def": "review",
+"ex": "Do you usually go over your notes before class?"
+},
+{
+"pv": "go over",
+"mark": "go over",
+"sep": false,
+"obj_after": false,
+"def": "be well received, succeed",
+"ex": "That didn't go over well."
+},
+{
+"pv": "go through",
+"mark": "go through +",
+"sep": false,
+"obj_after": true,
+"def": "examine in detail, study carefully",
+"ex": "I need to have my lawyer go through this contract before I sign it."
+},
+{
+"pv": "go through",
+"mark": "go through +",
+"sep": false,
+"obj_after": true,
+"def": "endure; experience challenges, difficulties or traumas",
+"ex": "She has gone through so much in her life."
+},
+{
+"pv": "go through with",
+"mark": "go through with +",
+"sep": false,
+"obj_after": true,
+"def": "continue or proceed despite difficulties or fears",
+"ex": "I have decided to go through with the operation."
+},
+{
+"pv": "go with",
+"mark": "go with +",
+"sep": false,
+"obj_after": true,
+"def": "match (clothing)",
+"ex": "That shirt doesn't go with those pants."
+},
+{
+"pv": "go with",
+"mark": "go with +",
+"sep": false,
+"obj_after": true,
+"def": "accompany a person",
+"ex": "I am going with Alejandro to the party."
+},
+{
+"pv": "go with",
+"mark": "go with +",
+"sep": false,
+"obj_after": true,
+"def": "have a boyfriend/girlfriend",
+"ex": "I am going with Yuri."
+},
+{
+"pv": "go without",
+"mark": "go without +",
+"sep": false,
+"obj_after": true,
+"def": "abstain from something you want or need",
+"ex": "A person can go without water for three days."
+},
+{
+"pv": "grow under",
+"mark": "grow under",
+"sep": false,
+"obj_after": false,
+"def": "go out of business",
+"ex": "The restaurant went under after it lost its liquor license."
+},
+{
+"pv": "grow up",
+"mark": "grow up",
+"sep": false,
+"obj_after": false,
+"def": "mature",
+"ex": "Your brother needs to grow up and start thinking about his future."
+},
+{
+"pv": "hand back",
+"mark": "hand * back +",
+"sep": true,
+"obj_after": true,
+"def": "return",
+"ex": "Is the teacher going to hand back our tests today?"
+},
+{
+"pv": "hand down",
+"mark": "hand * down +",
+"sep": true,
+"obj_after": true,
+"def": "pronounce formally",
+"ex": "The president is going to hand his decision down on health care tonight."
+},
+{
+"pv": "hand down",
+"mark": "hand * down +",
+"sep": true,
+"obj_after": true,
+"def": "give as an inheritance",
+"ex": "When my clothes got too small for me as a child, I handed them down to my sister."
+},
+{
+"pv": "hand in",
+"mark": "hand * in +",
+"sep": true,
+"obj_after": true,
+"def": "submit",
+"ex": "I have to hand in an offer by March 12."
+},
+{
+"pv": "hand out",
+"mark": "hand * out +",
+"sep": true,
+"obj_after": true,
+"def": "distribute",
+"ex": "We should hand the concert fliers out at school."
+},
+{
+"pv": "hand over",
+"mark": "hand * over +",
+"sep": true,
+"obj_after": true,
+"def": "relinquish control of",
+"ex": "Hand your car keys over. You're too drunk to drive."
+},
+{
+"pv": "hang around",
+"mark": "hang around +",
+"sep": false,
+"obj_after": true,
+"def": "stay in a place for fun ( inf.)",
+"ex": "Maria and Salvador usually hang around the beach after school."
+},
+{
+"pv": "hang around",
+"mark": "hang around",
+"sep": false,
+"obj_after": false,
+"def": "stay in a place for fun",
+"ex": "Those guys just hang around all day."
+},
+{
+"pv": "hang up",
+"mark": "hang * up +",
+"sep": true,
+"obj_after": true,
+"def": "suspend (clothes on a hanger)",
+"ex": "You can hang your jacket up in the front closet."
+},
+{
+"pv": "hang up",
+"mark": "hang up",
+"sep": false,
+"obj_after": false,
+"def": "put down the telephone receiver",
+"ex": "Don't hang up. I'm going to change phones."
+},
+{
+"pv": "hang out",
+"mark": "hang out +",
+"sep": false,
+"obj_after": true,
+"def": "stay in a place for fun (inf.)",
+"ex": "Let's go hang out at the mall tonight."
+},
+{
+"pv": "hang out",
+"mark": "hang out",
+"sep": false,
+"obj_after": false,
+"def": "stay in a place for fun",
+"ex": "What are you doing? - - I'm just hanging out."
+},
+{
+"pv": "have on",
+"mark": "have * on +",
+"sep": true,
+"obj_after": true,
+"def": "wear",
+"ex": "Do you have your hiking boots on?"
+},
+{
+"pv": "have over",
+"mark": "have * over",
+"sep": true,
+"obj_after": false,
+"def": "invite guests to your home",
+"ex": "Why don't we have Mr. and Mrs. Jones over for dinner tonight."
+},
+{
+"pv": "hear from",
+"mark": "hear from +",
+"sep": false,
+"obj_after": true,
+"def": "receive news from (a letter, an e-mail)",
+"ex": "Have you heard from Steve lately?"
+},
+{
+"pv": "hear of",
+"mark": "hear of +",
+"sep": false,
+"obj_after": true,
+"def": "know about something or somebody",
+"ex": "Have you heard of chocolate covered ants?"
+},
+{
+"pv": "hit on",
+"mark": "hit on +",
+"sep": false,
+"obj_after": true,
+"def": "find on accident",
+"ex": "I hit on the idea while watching the Simpsons show."
+},
+{
+"pv": "hit on",
+"mark": "hit on +",
+"sep": false,
+"obj_after": true,
+"def": "flirt with",
+"ex": "Jay's friend Marc was trying to hit on my sister last night."
+},
+{
+"pv": "hold back",
+"mark": "hold * back +",
+"sep": true,
+"obj_after": true,
+"def": "restrain",
+"ex": "The police held the demonstrators back while the politicians entered the building."
+},
+{
+"pv": "hold back",
+"mark": "hold back",
+"sep": false,
+"obj_after": false,
+"def": "not allow to advance in school",
+"ex": "The teacher held Frank back a year, so he"
+},
+{
+"pv": "hold off",
+"mark": "hold * off +",
+"sep": true,
+"obj_after": true,
+"def": "restrain",
+"ex": "couldn't enter fifth grade. Mr. Johnson held the dog off while we crossed the yard."
+},
+{
+"pv": "hold off on",
+"mark": "hold off on +",
+"sep": false,
+"obj_after": true,
+"def": "delay",
+"ex": "We should hold off on making dinner until your parents arrive."
+},
+{
+"pv": "hold on",
+"mark": "hold on",
+"sep": false,
+"obj_after": false,
+"def": "grasp tightly",
+"ex": "Hold on tight! The roller coaster is about to take off."
+},
+{
+"pv": "hold on",
+"mark": "hold on",
+"sep": false,
+"obj_after": false,
+"def": "tell someone to wait on the telephone",
+"ex": "Hold on a minute. I'll get Carol."
+},
+{
+"pv": "hold on to",
+"mark": "hold on to +",
+"sep": false,
+"obj_after": true,
+"def": "grasp tightly",
+"ex": "Make sure you hold on to the hand rail as you walk down the stairs."
+},
+{
+"pv": "hold out",
+"mark": "hold out",
+"sep": false,
+"obj_after": false,
+"def": "not give in, continue to resist",
+"ex": "Stop holding out and tell us where you found all of these old records."
+},
+{
+"pv": "hold up",
+"mark": "hold * up +",
+"sep": true,
+"obj_after": true,
+"def": "delay (a flight, traffic);",
+"ex": "The accident held traffic up for an hour."
+},
+{
+"pv": "hold up",
+"mark": "hold * up +",
+"sep": true,
+"obj_after": true,
+"def": "rob (a bank, a person) with a weapon",
+"ex": "Five men held the bank up yesterday."
+},
+{
+"pv": "hook up",
+"mark": "hook * up +",
+"sep": true,
+"obj_after": true,
+"def": "make the electrical connections required for a machine or information service",
+"ex": "Can you hook up the fax machine for me?"
+},
+{
+"pv": "iron out",
+"mark": "iron * out",
+"sep": true,
+"obj_after": false,
+"def": "eliminate",
+"ex": "We need to have a meeting this week in order to iron out the distribution problems."
+},
+{
+"pv": "jack up",
+"mark": "jack up +",
+"sep": false,
+"obj_after": true,
+"def": "to raise",
+"ex": "We need to jack up the car before we change the tire."
+},
+{
+"pv": "jump in",
+"mark": "jump in",
+"sep": false,
+"obj_after": false,
+"def": "enter a conversation",
+"ex": "Feel free to jump in at any moment while we are talking."
+},
+{
+"pv": "jump to",
+"mark": "jump to +",
+"sep": false,
+"obj_after": true,
+"def": "make a quick, poorly thought out decision",
+"ex": "You shouldn't jump to conclusions."
+},
+{
+"pv": "keep",
+"mark": "keep *",
+"sep": true,
+"obj_after": false,
+"def": "have handy, have accessible",
+"ex": "I always keep a dictionary around to translate"
+},
+{
+"pv": "keep at",
+"mark": "keep at +",
+"sep": false,
+"obj_after": true,
+"def": "not give up (an activity), to persevere",
+"ex": "You should keep at your studies."
+},
+{
+"pv": "keep away",
+"mark": "keep * away",
+"sep": true,
+"obj_after": false,
+"def": "prevent access to, hold back",
+"ex": "Keep the kids away from the cookies."
+},
+{
+"pv": "keep back",
+"mark": "keep * back",
+"sep": true,
+"obj_after": false,
+"def": "maintain a safe distance, cause to maintain a safe distance",
+"ex": "Keep back! The burning building is about to collapse."
+},
+{
+"pv": "keep down",
+"mark": "keep * down",
+"sep": true,
+"obj_after": false,
+"def": "not vomit, not throw up, keep in one's",
+"ex": "If I ate that, I down know if I could keep it down."
+},
+{
+"pv": "keep in",
+"mark": "keep * in",
+"sep": true,
+"obj_after": false,
+"def": "stomach keep in a particular place, have something in a specific location",
+"ex": "When I am not using it, I keep my passport in this drawer."
+},
+{
+"pv": "keep off",
+"mark": "keep * off",
+"sep": true,
+"obj_after": false,
+"def": "prevent from stepping or climbing on to something",
+"ex": "Keep the cat off the couch."
+},
+{
+"pv": "keep on",
+"mark": "keep on",
+"sep": false,
+"obj_after": false,
+"def": "continue",
+"ex": "He kept on talking after everybody asked him to stop."
+},
+{
+"pv": "keep out",
+"mark": "keep * out",
+"sep": true,
+"obj_after": false,
+"def": "prevent from entering",
+"ex": "Keep the dog out of the garden; he keeps digging up the flowers."
+},
+{
+"pv": "keep over",
+"mark": "keep * over",
+"sep": true,
+"obj_after": false,
+"def": "cover something with, put something above",
+"ex": "I keep a tarp over my bicycle at night to prevent it from getting wet."
+},
+{
+"pv": "keep to",
+"mark": "keep to +",
+"sep": false,
+"obj_after": true,
+"def": "continue, persist in (an activity)",
+"ex": "Everybody said she would never finish the puzzle, but she kept to it until it was done."
+},
+{
+"pv": "keep up",
+"mark": "keep up",
+"sep": false,
+"obj_after": false,
+"def": "stay on the required schedule",
+"ex": "You have to keep up if you want to work here."
+},
+{
+"pv": "keep up",
+"mark": "keep * up +",
+"sep": true,
+"obj_after": true,
+"def": "continue",
+"ex": "You are doing a great job! Keep it up."
+},
+{
+"pv": "keep up with",
+"mark": "keep up with +",
+"sep": false,
+"obj_after": true,
+"def": "stay on schedule with (a person, the workload, homework)",
+"ex": "I have so much reading that I can't keep up with the writing exercises."
+},
+{
+"pv": "kick back",
+"mark": "kick back",
+"sep": false,
+"obj_after": false,
+"def": "sit or lie back (to relax)",
+"ex": "After work, I like to kick back in front of the TV and relax."
+},
+{
+"pv": "kick in",
+"mark": "kick in",
+"sep": false,
+"obj_after": false,
+"def": "begin taking effect",
+"ex": "The medicine takes one hour to kick in."
+},
+{
+"pv": "lay away",
+"mark": "lay away +",
+"sep": false,
+"obj_after": true,
+"def": "save for the future",
+"ex": "Why don't you lay away your wedding outfit?"
+},
+{
+"pv": "lay down",
+"mark": "lay down +",
+"sep": false,
+"obj_after": true,
+"def": "establish (laws, rules)",
+"ex": "Lori lays down the law in her class. English only!"
+},
+{
+"pv": "lay in on",
+"mark": "lay in on +",
+"sep": false,
+"obj_after": true,
+"def": "scold or criticize severely",
+"ex": "My mom really laid in on me when I got home at 4:00 in the morning last night."
+},
+{
+"pv": "lay into",
+"mark": "lay into +",
+"sep": false,
+"obj_after": true,
+"def": "scold or criticize severely",
+"ex": "I saw Reto's mom lay into him when he came home late last night."
+},
+{
+"pv": "lay off",
+"mark": "lay * off +",
+"sep": true,
+"obj_after": true,
+"def": "suspend someone from a job (during a slow period)",
+"ex": "The company was losing money, so they had to lay off 100 workers."
+},
+{
+"pv": "lay out",
+"mark": "lay * out +",
+"sep": true,
+"obj_after": true,
+"def": "arrange",
+"ex": "Why don't we lay the pieces of the table out before we put it together."
+},
+{
+"pv": "leave out",
+"mark": "leave * out +",
+"sep": true,
+"obj_after": true,
+"def": "not include, omit",
+"ex": "Why did your parents leave you out of their vacation plans?"
+},
+{
+"pv": "let down",
+"mark": "let * down",
+"sep": true,
+"obj_after": false,
+"def": "disappoint",
+"ex": "I felt let down when I didn't receive a birthday card from my sister."
+},
+{
+"pv": "let down",
+"mark": "let * down",
+"sep": true,
+"obj_after": false,
+"def": "lengthen (pants in sewing)",
+"ex": "My uncle is a tailor, so he can let your pants down."
+},
+{
+"pv": "let out",
+"mark": "let * out",
+"sep": true,
+"obj_after": false,
+"def": "release",
+"ex": "I am happy my brother was let out of prison early."
+},
+{
+"pv": "let out",
+"mark": "let * out",
+"sep": true,
+"obj_after": false,
+"def": "make bigger (in sewing)",
+"ex": "I need to let out this skirt because I have gained weight."
+},
+{
+"pv": "let up",
+"mark": "let up",
+"sep": false,
+"obj_after": false,
+"def": "weaken in intensity",
+"ex": "I told her NO a thousand times, but she won't let up."
+},
+{
+"pv": "lie down",
+"mark": "lie down",
+"sep": false,
+"obj_after": false,
+"def": "rest, recline",
+"ex": "I need to lie down before we go out tonight."
+},
+{
+"pv": "lie down on",
+"mark": "lie down on +",
+"sep": false,
+"obj_after": true,
+"def": "rest, recline ( on a couch, bed)",
+"ex": "I'm going to lie down on the sofa for a while."
+},
+{
+"pv": "lie with",
+"mark": "lie with +",
+"sep": false,
+"obj_after": true,
+"def": "be decided by",
+"ex": "Whether or not you can go to the party lies with your father."
+},
+{
+"pv": "light up",
+"mark": "light * up +",
+"sep": true,
+"obj_after": true,
+"def": "illuminate",
+"ex": "Let's get some candles to light this room up."
+},
+{
+"pv": "light up",
+"mark": "light up +",
+"sep": false,
+"obj_after": true,
+"def": "to smoke",
+"ex": "Do you have to light up another cigarette? I thought you were trying to cut down."
+},
+{
+"pv": "live down",
+"mark": "live * down +",
+"sep": true,
+"obj_after": true,
+"def": "live in a way that a shameful or embarrassing event is",
+"ex": "Jose will never live down singing that song at the karaoke bar."
+},
+{
+"pv": "live on",
+"mark": "live on +",
+"sep": false,
+"obj_after": true,
+"def": "forgotten survive from",
+"ex": "I could live on bread and cheese."
+},
+{
+"pv": "live up to",
+"mark": "live up to +",
+"sep": false,
+"obj_after": true,
+"def": "keep a standard",
+"ex": "It would be hard to live up to her parent's expectations. They are so demanding."
+},
+{
+"pv": "look after",
+"mark": "look after +",
+"sep": false,
+"obj_after": true,
+"def": "take care of (a child, a house, a pet)",
+"ex": "When my sister goes on vacation, I look after her dog."
+},
+{
+"pv": "look for",
+"mark": "look for +",
+"sep": false,
+"obj_after": true,
+"def": "to seek or search for",
+"ex": "I'm looking for my keys. Have you seen them?"
+},
+{
+"pv": "look into",
+"mark": "look into +",
+"sep": false,
+"obj_after": true,
+"def": "investigate",
+"ex": "The police are looking into the murder."
+},
+{
+"pv": "look on",
+"mark": "look on",
+"sep": false,
+"obj_after": false,
+"def": "observe as a spectator",
+"ex": "Everybody just looked on as the two men fought."
+},
+{
+"pv": "look out",
+"mark": "look out",
+"sep": false,
+"obj_after": false,
+"def": "be careful, pay attention, heed a certain danger",
+"ex": "Look out, there's a black widow spider on the wall."
+},
+{
+"pv": "look over",
+"mark": "look * over +",
+"sep": true,
+"obj_after": true,
+"def": "examine, review",
+"ex": "When I'm camping, I look my shoes over before I put them on."
+},
+{
+"pv": "look up",
+"mark": "look * up +",
+"sep": true,
+"obj_after": true,
+"def": "search for (in a dictionary)",
+"ex": "I takes time to look up new vocabulary words."
+},
+{
+"pv": "look up",
+"mark": "look * up +",
+"sep": true,
+"obj_after": true,
+"def": "locate and visit",
+"ex": "If you ever travel to California, you should look me up."
+},
+{
+"pv": "look up to",
+"mark": "look up to +",
+"sep": false,
+"obj_after": true,
+"def": "respect, admire someone",
+"ex": "He looks up to his father."
+},
+{
+"pv": "make out",
+"mark": "make * out",
+"sep": true,
+"obj_after": false,
+"def": "decipher",
+"ex": "I can't make out your handwriting. What does this say?"
+},
+{
+"pv": "make out",
+"mark": "make * out +",
+"sep": true,
+"obj_after": true,
+"def": "write a check or other document",
+"ex": "Who should I make this check out to?"
+},
+{
+"pv": "make out",
+"mark": "make out",
+"sep": false,
+"obj_after": false,
+"def": "succeed",
+"ex": "He really made out in the stock market last year."
+},
+{
+"pv": "make out",
+"mark": "make out",
+"sep": false,
+"obj_after": false,
+"def": "progress",
+"ex": "How is your son making out in his new job?"
+},
+{
+"pv": "make out",
+"mark": "make out",
+"sep": false,
+"obj_after": false,
+"def": "kiss passionately",
+"ex": "I saw Benno and Isabelle making out in the movie theater last night!"
+},
+{
+"pv": "make over",
+"mark": "make * over",
+"sep": true,
+"obj_after": false,
+"def": "do again",
+"ex": "The teacher made me do my homework over."
+},
+{
+"pv": "make up",
+"mark": "make * up +",
+"sep": true,
+"obj_after": true,
+"def": "invent ( a story)",
+"ex": "Don't believe anything she says. She always makes things up."
+},
+{
+"pv": "make up",
+"mark": "make * up +",
+"sep": true,
+"obj_after": true,
+"def": "complete what was missed",
+"ex": "Fortunately, my professor let me make up the exam I missed yesterday."
+},
+{
+"pv": "make up",
+"mark": "make * up +",
+"sep": true,
+"obj_after": true,
+"def": "put on cosmetics",
+"ex": "I takes me 10 minutes to make my face up."
+},
+{
+"pv": "make up",
+"mark": "make up",
+"sep": false,
+"obj_after": false,
+"def": "reconcile",
+"ex": "You two have been friends for so long that I think you should make up."
+},
+{
+"pv": "mix up",
+"mark": "mix * up +",
+"sep": true,
+"obj_after": true,
+"def": "confuse",
+"ex": "I sometimes mix the verb tenses up."
+},
+{
+"pv": "mix up",
+"mark": "mix * up +",
+"sep": true,
+"obj_after": true,
+"def": "blend",
+"ex": "We need to mix up these different kinds of nuts before we put them in a bowl."
+},
+{
+"pv": "mix up",
+"mark": "mix * up +",
+"sep": true,
+"obj_after": true,
+"def": "make lively (a party)",
+"ex": "Let's mix up this party with a little disco music."
+},
+{
+"pv": "name after",
+"mark": "name * after +",
+"sep": true,
+"obj_after": true,
+"def": "name a child using another family member's name",
+"ex": "I was named after my grandfather."
+},
+{
+"pv": "nod off",
+"mark": "nod off",
+"sep": false,
+"obj_after": false,
+"def": "fall asleep",
+"ex": "The movie was so boring that I nodded off before it was finished."
+},
+{
+"pv": "occur to",
+"mark": "occur to +",
+"sep": false,
+"obj_after": true,
+"def": "pop into one's mind, come to one's mind",
+"ex": "It didn't occur to us that we had left the iron on."
+},
+{
+"pv": "open up",
+"mark": "open up",
+"sep": false,
+"obj_after": false,
+"def": "share feelings",
+"ex": "I'm glad that John feels comfortable enough around me to open up."
+},
+{
+"pv": "out to",
+"mark": "out to +",
+"sep": false,
+"obj_after": true,
+"def": "try to",
+"ex": "She is out to get revenge now that her husband left"
+},
+{
+"pv": "pan out",
+"mark": "pan out",
+"sep": false,
+"obj_after": false,
+"def": "be successful, turn out well",
+"ex": "The trip to Vegas didn't pan out."
+},
+{
+"pv": "pass away",
+"mark": "pass away",
+"sep": false,
+"obj_after": false,
+"def": "die",
+"ex": "After battling cancer for several years, he finally passed away at the age of 87."
+},
+{
+"pv": "pass off",
+"mark": "pass * off +",
+"sep": true,
+"obj_after": true,
+"def": "try to convince someone that something is real",
+"ex": "He tried to pass the fake watch off as a real Rolex."
+},
+{
+"pv": "pass on",
+"mark": "pass * on +",
+"sep": true,
+"obj_after": true,
+"def": "transmit",
+"ex": "Please pass this message on to your co-workers."
+},
+{
+"pv": "pass on",
+"mark": "pass on +",
+"sep": false,
+"obj_after": true,
+"def": "not accept (an invitation to eat or do something)",
+"ex": "Jennifer passed on the invitation to join us for dinner."
+},
+{
+"pv": "pass on",
+"mark": "pass on",
+"sep": false,
+"obj_after": false,
+"def": "die",
+"ex": "I am afraid Professor Johnson has passed on."
+},
+{
+"pv": "pass out",
+"mark": "pass out",
+"sep": false,
+"obj_after": false,
+"def": "become unconscious",
+"ex": "He passed out because the room was too hot."
+},
+{
+"pv": "pass up",
+"mark": "pass * up +",
+"sep": true,
+"obj_after": true,
+"def": "not take advantage (of an opportunity)",
+"ex": "I can't believe she passed up the opportunity to study in Rome."
+},
+{
+"pv": "pay off",
+"mark": "pay * off +",
+"sep": true,
+"obj_after": true,
+"def": "complete payment on a debt",
+"ex": "It took me ten years to pay off my credit card debt."
+},
+{
+"pv": "pay off",
+"mark": "pay * off +",
+"sep": true,
+"obj_after": true,
+"def": "to bribe",
+"ex": "Don't try to pay the police officer off if you get pulled over for speeding."
+},
+{
+"pv": "pick on",
+"mark": "pick on +",
+"sep": false,
+"obj_after": true,
+"def": "to tease, bully",
+"ex": "She keeps picking on me! Make her stop."
+},
+{
+"pv": "pick out",
+"mark": "pick * out +",
+"sep": true,
+"obj_after": true,
+"def": "choose",
+"ex": "Diane picked out a lovely dress for the dance."
+},
+{
+"pv": "pick up",
+"mark": "pick * up +",
+"sep": true,
+"obj_after": true,
+"def": "to lift an object with the hands",
+"ex": "Keep your back straight when you lift the TV up."
+},
+{
+"pv": "pick up",
+"mark": "pick * up +",
+"sep": true,
+"obj_after": true,
+"def": "come and get someone in a car",
+"ex": "What time are you going to pick me up."
+},
+{
+"pv": "pick up",
+"mark": "pick * up +",
+"sep": true,
+"obj_after": true,
+"def": "learn something without effort",
+"ex": "It's possible to pick up enough English in two weeks to get by on your trip to Los Angeles."
+},
+{
+"pv": "pick up",
+"mark": "pick * up +",
+"sep": true,
+"obj_after": true,
+"def": "try to initiate a relationship with someone (often in a bar)",
+"ex": "Some weird guy tried to pick Patricia up at the bar."
+},
+{
+"pv": "pick up",
+"mark": "pick up",
+"sep": false,
+"obj_after": false,
+"def": "grow, increase (inf.)",
+"ex": "Business is really picking up this quarter."
+},
+{
+"pv": "play down",
+"mark": "play * down +",
+"sep": true,
+"obj_after": true,
+"def": "make less important (inf.)",
+"ex": "The President played down his affair with the intern."
+},
+{
+"pv": "play up",
+"mark": "play * up",
+"sep": true,
+"obj_after": false,
+"def": "highlight something (inf.)",
+"ex": "She played up her part in the new movie, but it was actually a very small role."
+},
+{
+"pv": "play up to",
+"mark": "play up to +",
+"sep": false,
+"obj_after": true,
+"def": "flatter someone for your personal advantage",
+"ex": "She has been playing up to the boss because she wants a promotion."
+},
+{
+"pv": "pull down",
+"mark": "pull down",
+"sep": false,
+"obj_after": false,
+"def": "earn",
+"ex": "He pulls down about $300,000 a year."
+},
+{
+"pv": "pull in",
+"mark": "pull in",
+"sep": false,
+"obj_after": false,
+"def": "park (a vehicle)",
+"ex": "Mark pulled in too quickly and crashed into the wall."
+},
+{
+"pv": "pull out",
+"mark": "pull out",
+"sep": false,
+"obj_after": false,
+"def": "depart (a vehicle)",
+"ex": "Our train pulls out at 8:00, so don't be late."
+},
+{
+"pv": "pull through",
+"mark": "pull through",
+"sep": false,
+"obj_after": false,
+"def": "barely survive",
+"ex": "I didn't think she was going to make it, but she pulled through in the end."
+},
+{
+"pv": "put across",
+"mark": "put * across +",
+"sep": true,
+"obj_after": true,
+"def": "communicate (an idea or suggestion) clearly so that it is understood",
+"ex": "I thought Ms. Smith put her ideas across rather clearly in the meeting."
+},
+{
+"pv": "put in",
+"mark": "put in +",
+"sep": false,
+"obj_after": true,
+"def": "officially submit a request (in the armed forces or public services)",
+"ex": "opinions. He put in for a transfer to the division in Los Angeles."
+},
+{
+"pv": "put off",
+"mark": "put * off +",
+"sep": true,
+"obj_after": true,
+"def": "postpone",
+"ex": "Don't put off your work - do it now!"
+},
+{
+"pv": "put on",
+"mark": "put * on +",
+"sep": true,
+"obj_after": true,
+"def": "wear",
+"ex": "Make sure you put on a sweater before you go outside."
+},
+{
+"pv": "put on",
+"mark": "put * on +",
+"sep": true,
+"obj_after": true,
+"def": "deceive",
+"ex": "I didn't believe a thing he said. I think he was putting me on."
+},
+{
+"pv": "put out",
+"mark": "put * out +",
+"sep": true,
+"obj_after": true,
+"def": "extinguish (a fire)",
+"ex": "Don't use water to put out a grease fire."
+},
+{
+"pv": "put out",
+"mark": "put * out +",
+"sep": true,
+"obj_after": true,
+"def": "inconvenience someone",
+"ex": "I don't want to put you out, but could you pick me up at the airport."
+},
+{
+"pv": "put out",
+"mark": "put out +",
+"sep": false,
+"obj_after": true,
+"def": "spend (usually used with unreasonably large sums of money)",
+"ex": "I can't put out that much money each month."
+},
+{
+"pv": "put up",
+"mark": "put * up",
+"sep": true,
+"obj_after": false,
+"def": "have a guest stay in your house for a short time",
+"ex": "Can you put me up while I'm in town."
+},
+{
+"pv": "quiet down",
+"mark": "quiet * down +",
+"sep": true,
+"obj_after": true,
+"def": "be quiet, or cause to be quiet",
+"ex": "The neighbors told us to quiet down last night or they would call the police."
+},
+{
+"pv": "read up on",
+"mark": "read up on +",
+"sep": false,
+"obj_after": true,
+"def": "research a topic for a reason",
+"ex": "I need to read up on the company before I go on the job interview."
+},
+{
+"pv": "ring up",
+"mark": "ring * up",
+"sep": true,
+"obj_after": false,
+"def": "telephone",
+"ex": "Jack rung me up last night at 3:00 in the morning."
+},
+{
+"pv": "rule out",
+"mark": "rule * out +",
+"sep": true,
+"obj_after": true,
+"def": "eliminate",
+"ex": "I wouldn't rule out the possibility of moving to another country if I get a good job offer."
+},
+{
+"pv": "run across",
+"mark": "run across +",
+"sep": false,
+"obj_after": true,
+"def": "find or meet unexpectedly",
+"ex": "I ran across some old photos while I was cleaning my house."
+},
+{
+"pv": "run against",
+"mark": "run against +",
+"sep": false,
+"obj_after": true,
+"def": "compete in an election",
+"ex": "Gore ran against Bush in the 2000 elections in the U.S.A."
+},
+{
+"pv": "run away",
+"mark": "run away",
+"sep": false,
+"obj_after": false,
+"def": "leave home permanently before you are a legal adult",
+"ex": "The child ran away because her parents beat her."
+},
+{
+"pv": "run down",
+"mark": "run * down",
+"sep": true,
+"obj_after": false,
+"def": "Trace",
+"ex": "Have you run down those phone numbers I asked for last week?"
+},
+{
+"pv": "run down",
+"mark": "run * down",
+"sep": true,
+"obj_after": false,
+"def": "criticize",
+"ex": "My boss runs everyone down."
+},
+{
+"pv": "run down",
+"mark": "run * down",
+"sep": true,
+"obj_after": false,
+"def": "hit with a car",
+"ex": "My dog was run down by a bus."
+},
+{
+"pv": "run down",
+"mark": "run down",
+"sep": false,
+"obj_after": false,
+"def": "loose power, be very tired",
+"ex": "You need to wind your watch so it doesn't run down."
+},
+{
+"pv": "run for",
+"mark": "run for +",
+"sep": false,
+"obj_after": true,
+"def": "campaign for a government position",
+"ex": "Gore is running for president of the U.S.A."
+},
+{
+"pv": "run into",
+"mark": "run into +",
+"sep": false,
+"obj_after": true,
+"def": "meet unexpectedly",
+"ex": "I ran into my English teacher at the movies last night. She's so nice!"
+},
+{
+"pv": "run off",
+"mark": "run * off +",
+"sep": true,
+"obj_after": true,
+"def": "make leave",
+"ex": "The new government is trying to run the drug traffickers off."
+},
+{
+"pv": "run off",
+"mark": "run * off",
+"sep": true,
+"obj_after": false,
+"def": "reproduce (photocopies)",
+"ex": "Would you mind running off 10 copies of this document for me?"
+},
+{
+"pv": "run off",
+"mark": "run off",
+"sep": false,
+"obj_after": false,
+"def": "leave quickly",
+"ex": "Why did you run off after the party?"
+},
+{
+"pv": "run off",
+"mark": "run off",
+"sep": false,
+"obj_after": false,
+"def": "Waste water",
+"ex": "You shouldn't swim where the sewage runs off into the ocean."
+},
+{
+"pv": "run out of",
+"mark": "run out of +",
+"sep": false,
+"obj_after": true,
+"def": "not have any more of something",
+"ex": "We ran out of milk this morning, so we need to go to the store."
+},
+{
+"pv": "save up",
+"mark": "save * up +",
+"sep": true,
+"obj_after": true,
+"def": "accumulate (money)",
+"ex": "I hope I will be able to save up enough money to go to school."
+},
+{
+"pv": "see about",
+"mark": "see about +",
+"sep": false,
+"obj_after": true,
+"def": "Arrange or consider something",
+"ex": "My dad said he was going to see about buying me a car."
+},
+{
+"pv": "see off",
+"mark": "see * off",
+"sep": true,
+"obj_after": false,
+"def": "say good-bye to someone at the beginning of their trip (at the airport, train station)",
+"ex": "Did you see your sister off at the train station?"
+},
+{
+"pv": "see to",
+"mark": "see to +",
+"sep": false,
+"obj_after": true,
+"def": "make sure something happens, arrange",
+"ex": "I'll see to it that Mr. Ramirez gets your message."
+},
+{
+"pv": "see",
+"mark": "see *",
+"sep": true,
+"obj_after": false,
+"def": "finish something despite difficulties",
+"ex": "Are you going to be able to see your"
+},
+{
+"pv": "sell out",
+"mark": "sell * out",
+"sep": true,
+"obj_after": false,
+"def": "tell on someone",
+"ex": "My partner in crime sold me out for a reduced jail sentence."
+},
+{
+"pv": "set up",
+"mark": "set * up",
+"sep": true,
+"obj_after": false,
+"def": "Arrange a relationship",
+"ex": "My mom set me up with her friend's son."
+},
+{
+"pv": "set up",
+"mark": "set * up",
+"sep": true,
+"obj_after": false,
+"def": "falsely incriminate a person",
+"ex": "I don't think he killed those men. Somebody set him up."
+},
+{
+"pv": "set up",
+"mark": "set up +",
+"sep": false,
+"obj_after": true,
+"def": "arrange (an appointment, a meeting,etc.)",
+"ex": "I set up an appointment with my doctor at 3:30 this afternoon."
+},
+{
+"pv": "settle on",
+"mark": "settle on +",
+"sep": false,
+"obj_after": true,
+"def": "make a decision after a period of time",
+"ex": "I settled on the job at the oil company."
+},
+{
+"pv": "settle up",
+"mark": "settle up",
+"sep": false,
+"obj_after": false,
+"def": "pay one's debts",
+"ex": "We need to settle up before you move."
+},
+{
+"pv": "show off",
+"mark": "show * off +",
+"sep": true,
+"obj_after": true,
+"def": "show to everybody with a lot of pride",
+"ex": "He always shows off his new things."
+},
+{
+"pv": "show off",
+"mark": "show off",
+"sep": false,
+"obj_after": false,
+"def": "boast, draw attention to oneself",
+"ex": "Young boys show off in order to impress girls."
+},
+{
+"pv": "show up",
+"mark": "show * up",
+"sep": true,
+"obj_after": false,
+"def": "make someone seem inferior",
+"ex": "He's always trying to show up his co- workers in order to get ahead."
+},
+{
+"pv": "show up",
+"mark": "show up",
+"sep": false,
+"obj_after": false,
+"def": "arrive without previous notice",
+"ex": "I hadn't seen my cousin for years, and all of a sudden, he showed up at my workplace yesterday!"
+},
+{
+"pv": "shut off",
+"mark": "shut * off",
+"sep": true,
+"obj_after": false,
+"def": "stop from functioning",
+"ex": "If you don't pay your electric bill, your power is going to get shut off."
+},
+{
+"pv": "shut up",
+"mark": "shut * up",
+"sep": true,
+"obj_after": false,
+"def": "make quiet",
+"ex": "Would someone shut him up! He's talking so loudly that we're going to get in trouble."
+},
+{
+"pv": "slow up",
+"mark": "slow * up +",
+"sep": true,
+"obj_after": true,
+"def": "make move more slowly",
+"ex": "Because Mary's level in English is lower than the rest of the students, she slows the class up."
+},
+{
+"pv": "spell out",
+"mark": "spell * out +",
+"sep": true,
+"obj_after": true,
+"def": "to explain something in a detailed way so that the meaning is clearly understood",
+"ex": "He's so stupid that you have to spell everything our for him."
+},
+{
+"pv": "stand by",
+"mark": "stand by",
+"sep": false,
+"obj_after": false,
+"def": "wait",
+"ex": "I need you to stand by and answer the phone when my broker calls."
+},
+{
+"pv": "stand for",
+"mark": "stand for +",
+"sep": false,
+"obj_after": true,
+"def": "represent",
+"ex": "SCUBA stands for \"self contained underwater breathing apparatus.\""
+},
+{
+"pv": "stand for",
+"mark": "stand for +",
+"sep": false,
+"obj_after": true,
+"def": "Tolerate",
+"ex": "I won't stand for people criticizing me."
+},
+{
+"pv": "stand out",
+"mark": "stand out",
+"sep": false,
+"obj_after": false,
+"def": "be very noticeable",
+"ex": "Soledad is so beautiful! She really stands out in a crowd."
+},
+{
+"pv": "stand up",
+"mark": "stand * up",
+"sep": true,
+"obj_after": false,
+"def": "not arrive to a date or an appointment (inf.)",
+"ex": "I arranged to meet Joe at the library at 8:00, but he stood me up. I hope he has a good excuse."
+},
+{
+"pv": "stand up for",
+"mark": "stand up for +",
+"sep": false,
+"obj_after": true,
+"def": "defend (something one believes in)",
+"ex": "Every individual must stand up for what they believe in."
+},
+{
+"pv": "stand up to",
+"mark": "stand up to +",
+"sep": false,
+"obj_after": true,
+"def": "defend oneself against someone or something",
+"ex": "I think you should stand up to your older brother and tell him to stop pushing you around."
+},
+{
+"pv": "stay over",
+"mark": "stay over",
+"sep": false,
+"obj_after": false,
+"def": "spend the night at a person's house",
+"ex": "It takes you so long to take the bus home, so why don't you just stay over?"
+},
+{
+"pv": "stick it to",
+"mark": "stick it to +",
+"sep": false,
+"obj_after": true,
+"def": "Severely criticize a person (inf.)",
+"ex": "My boss really stuck it to me when I arrived late to work for the third time this week."
+},
+{
+"pv": "stick to",
+"mark": "stick to +",
+"sep": false,
+"obj_after": true,
+"def": "persevere, keep trying",
+"ex": "Even though English is a hard language to master, you must stick to it!"
+},
+{
+"pv": "take after",
+"mark": "take after +",
+"sep": false,
+"obj_after": true,
+"def": "resemble a parent or relative",
+"ex": "I take after my father. Who do you take after?"
+},
+{
+"pv": "take away",
+"mark": "take * away +",
+"sep": true,
+"obj_after": true,
+"def": "remove, seize or capture",
+"ex": "The soldiers took the captives away."
+},
+{
+"pv": "take back",
+"mark": "take * back +",
+"sep": true,
+"obj_after": true,
+"def": "retract something you said",
+"ex": "I demand that you take back what you said."
+},
+{
+"pv": "take back",
+"mark": "take * back +",
+"sep": true,
+"obj_after": true,
+"def": "return an item to a store",
+"ex": "The dress my grandmother bought for me didn't fit, so I took it back and exchanged it for a pair of pants."
+},
+{
+"pv": "take down",
+"mark": "take * down +",
+"sep": true,
+"obj_after": true,
+"def": "write down what is said",
+"ex": "Would you mind taking down my messages while I am on vacation?"
+},
+{
+"pv": "take down",
+"mark": "take * down +",
+"sep": true,
+"obj_after": true,
+"def": "remove (from a high place)",
+"ex": "The city government made the shop take down their"
+},
+{
+"pv": "take for",
+"mark": "take * for",
+"sep": true,
+"obj_after": false,
+"def": "consider, view as",
+"ex": "bright, neon sign. Do you take me for an idiot?"
+},
+{
+"pv": "take in",
+"mark": "take * in +",
+"sep": true,
+"obj_after": true,
+"def": "learning",
+"ex": "Are you taking in all of these phrasal verbs?"
+},
+{
+"pv": "take in",
+"mark": "take * in +",
+"sep": true,
+"obj_after": true,
+"def": "deceive a person",
+"ex": "He was taken in by the con artist."
+},
+{
+"pv": "take in",
+"mark": "take * in +",
+"sep": true,
+"obj_after": true,
+"def": "Make smaller when sewing",
+"ex": "I lost weight, so I need to take some of my skirts to the tailor to have them taken in."
+},
+{
+"pv": "take off",
+"mark": "take * off",
+"sep": true,
+"obj_after": false,
+"def": "when a plane or rocket leaves the ground",
+"ex": "My stomach felt funny when the plane took off."
+},
+{
+"pv": "take off",
+"mark": "take * off +",
+"sep": true,
+"obj_after": true,
+"def": "remove",
+"ex": "In many cultures, it is appropriate to take off your shoes when entering a house."
+},
+{
+"pv": "take off",
+"mark": "take * off +",
+"sep": true,
+"obj_after": true,
+"def": "leave work or school for a period of time",
+"ex": "I was sick last week, so I took a few days off of work."
+},
+{
+"pv": "take off",
+"mark": "take off",
+"sep": false,
+"obj_after": false,
+"def": "Leave",
+"ex": "We took off after dinner."
+},
+{
+"pv": "take on",
+"mark": "take on +",
+"sep": false,
+"obj_after": true,
+"def": "accept (responsibilities, work)",
+"ex": "She has taken on too much responsibility in this project."
+},
+{
+"pv": "take over",
+"mark": "take * over +",
+"sep": true,
+"obj_after": true,
+"def": "take control of",
+"ex": "Who is going to take over the family business when Aretha's father dies?"
+},
+{
+"pv": "take over",
+"mark": "take over",
+"sep": false,
+"obj_after": false,
+"def": "take control of",
+"ex": "If the President is assassinated, the Vice- president will take over."
+},
+{
+"pv": "take out",
+"mark": "take * out +",
+"sep": true,
+"obj_after": true,
+"def": "accompany a person on a date (for dinner, the movies)",
+"ex": "I can't meet you tonight because I am taking Fernanda out to dinner."
+},
+{
+"pv": "take up",
+"mark": "take * up +",
+"sep": true,
+"obj_after": true,
+"def": "Begin a new hobby",
+"ex": "Have you taken up any new hobbies since you moved here?"
+},
+{
+"pv": "take up",
+"mark": "take * up +",
+"sep": true,
+"obj_after": true,
+"def": "discuss (at a later date)",
+"ex": "We should take this issue up in the meeting tomorrow."
+},
+{
+"pv": "take up",
+"mark": "take * up +",
+"sep": true,
+"obj_after": true,
+"def": "shorten a garment when sewing",
+"ex": "This dress is too long, I am going to take it up."
+},
+{
+"pv": "take up",
+"mark": "take up +",
+"sep": false,
+"obj_after": true,
+"def": "occupy space",
+"ex": "This couch takes up too much space in the living room."
+},
+{
+"pv": "talk back",
+"mark": "talk back",
+"sep": false,
+"obj_after": false,
+"def": "respond in an impolite way to an adult",
+"ex": "Don't talk back!"
+},
+{
+"pv": "talk back to",
+"mark": "talk back to +",
+"sep": false,
+"obj_after": true,
+"def": "respond in an impolite way to an adult",
+"ex": "Children should not talk back to their parents."
+},
+{
+"pv": "talk over",
+"mark": "talk * over +",
+"sep": true,
+"obj_after": true,
+"def": "discuss",
+"ex": "I hope my parents talk their relationship problems over before they get divorced."
+},
+{
+"pv": "tear down",
+"mark": "tear * down +",
+"sep": true,
+"obj_after": true,
+"def": "destroy",
+"ex": "The county decided to tear down the dilapidated school and build a new one."
+},
+{
+"pv": "tear up",
+"mark": "tear * up +",
+"sep": true,
+"obj_after": true,
+"def": "tear or rip into small pieces",
+"ex": "I always tear up my personal papers before I throw them out."
+},
+{
+"pv": "tell off",
+"mark": "tell * off +",
+"sep": true,
+"obj_after": true,
+"def": "criticize a person severely, reprimand (inf.)",
+"ex": "Carolina told me off when she found out I was gossiping about her date with Martin."
+},
+{
+"pv": "tell on",
+"mark": "tell on +",
+"sep": false,
+"obj_after": true,
+"def": "report a crime to the police or bad behavior to a parent",
+"ex": "Every time I did something wrong when I was a child, my sister would tell on me."
+},
+{
+"pv": "think over",
+"mark": "think * over +",
+"sep": true,
+"obj_after": true,
+"def": "consider",
+"ex": "Think over the offer before you sign the contract."
+},
+{
+"pv": "think up",
+"mark": "think * up +",
+"sep": true,
+"obj_after": true,
+"def": "create or invent a false story",
+"ex": "I need to think up an excuse for not going to her party."
+},
+{
+"pv": "throw out",
+"mark": "throw * out +",
+"sep": true,
+"obj_after": true,
+"def": "discard",
+"ex": "I asked him not to throw out the Sunday newspaper because I wanted to save an article."
+},
+{
+"pv": "throw out",
+"mark": "throw * out +",
+"sep": true,
+"obj_after": true,
+"def": "remove by force from (a room, school, a house, etc.)",
+"ex": "Mary threw out her roommate because she stopped paying rent."
+},
+{
+"pv": "throw up",
+"mark": "throw up",
+"sep": false,
+"obj_after": false,
+"def": "Vomit",
+"ex": "If you drink too much alcohol, you might throw up."
+},
+{
+"pv": "tie up",
+"mark": "tie * up +",
+"sep": true,
+"obj_after": true,
+"def": "tie securely",
+"ex": "When we dock, make sure you tie the boat up."
+},
+{
+"pv": "tire out",
+"mark": "tire * out",
+"sep": true,
+"obj_after": false,
+"def": "cause someone to be very tired",
+"ex": "Speaking English all day tires me out."
+},
+{
+"pv": "touch on",
+"mark": "touch on +",
+"sep": false,
+"obj_after": true,
+"def": "talk about for a short time",
+"ex": "The presidential candidates touched on the subject of health care during the debates."
+},
+{
+"pv": "touch up",
+"mark": "touch * up",
+"sep": true,
+"obj_after": false,
+"def": "Make the final improvements",
+"ex": "We didn't paint the whole kitchen, we just touched up the cabinets."
+},
+{
+"pv": "try on",
+"mark": "try * on +",
+"sep": true,
+"obj_after": true,
+"def": "put on to make sure a piece of clothing fits",
+"ex": "Try on the pants before you buy them."
+},
+{
+"pv": "try out",
+"mark": "try * out",
+"sep": true,
+"obj_after": false,
+"def": "Test",
+"ex": "Try out this massage chair - it feels great!"
+},
+{
+"pv": "turn away",
+"mark": "turn * away",
+"sep": true,
+"obj_after": false,
+"def": "refuse to deal with or give service",
+"ex": "They turned us away at the border because we didn't have visas."
+},
+{
+"pv": "turn around",
+"mark": "turn * around",
+"sep": true,
+"obj_after": false,
+"def": "change or reverse direction",
+"ex": "Turn the car around and go back home."
+},
+{
+"pv": "turn down",
+"mark": "turn * down +",
+"sep": true,
+"obj_after": true,
+"def": "refuse an offer; reject an application",
+"ex": "She turned down the new job in New York, because she didn't want to move."
+},
+{
+"pv": "turn down",
+"mark": "turn * down +",
+"sep": true,
+"obj_after": true,
+"def": "lower the volume or intensity of a TV, radio, or other machine",
+"ex": "I'm studying! Please turn down the TV."
+},
+{
+"pv": "turn in",
+"mark": "turn * in",
+"sep": true,
+"obj_after": false,
+"def": "submit",
+"ex": "You need to turn your essays in next week."
+},
+{
+"pv": "turn in",
+"mark": "turn in",
+"sep": false,
+"obj_after": false,
+"def": "go to bed (inf.)",
+"ex": "It's getting late. I think it is about time to turn in."
+},
+{
+"pv": "turn into",
+"mark": "turn into +",
+"sep": false,
+"obj_after": true,
+"def": "become something different, transform",
+"ex": "When she kissed the frog, it turned into a handsome prince."
+},
+{
+"pv": "turn off",
+"mark": "turn * off +",
+"sep": true,
+"obj_after": true,
+"def": "stop the function of (a stove, a water faucet, a car, etc.)",
+"ex": "Don't forget to turn off the iron before you leave the house."
+},
+{
+"pv": "turn on",
+"mark": "turn on +",
+"sep": false,
+"obj_after": true,
+"def": "attack unexpectedly",
+"ex": "The pit bull suddenly turned on the small child."
+},
+{
+"pv": "turn on",
+"mark": "turn * on",
+"sep": true,
+"obj_after": false,
+"def": "cause to be excited sexually",
+"ex": "Scientists have discovered that the smell of cinnamon turns many people on."
+},
+{
+"pv": "turn on",
+"mark": "turn * on +",
+"sep": true,
+"obj_after": true,
+"def": "start the function of a TV, a radio, a machine",
+"ex": "Turn on the TV. The baseball game starts in a few minutes."
+},
+{
+"pv": "turn out",
+"mark": "turn * out",
+"sep": true,
+"obj_after": false,
+"def": "produce",
+"ex": "The weavers can turn out two or three rugs a month."
+},
+{
+"pv": "turn out",
+"mark": "turn * out",
+"sep": true,
+"obj_after": false,
+"def": "switch off a light",
+"ex": "Turn out the light before you go to bed."
+},
+{
+"pv": "turn out",
+"mark": "turn out",
+"sep": false,
+"obj_after": false,
+"def": "audience members to a function",
+"ex": "Over 100,000 people turned out for the concert."
+},
+{
+"pv": "turn out",
+"mark": "turn out",
+"sep": false,
+"obj_after": false,
+"def": "end up being",
+"ex": "She turned out to be the murderer after all."
+},
+{
+"pv": "turn over",
+"mark": "turn * over",
+"sep": true,
+"obj_after": false,
+"def": "give to authorities (said of evidence or stolen / lost property)",
+"ex": "They turned the wallet over to the police."
+},
+{
+"pv": "turn up",
+"mark": "turn * up +",
+"sep": true,
+"obj_after": true,
+"def": "increase the volume or intensity of a TV, radio, or other machine",
+"ex": "Turn up the TV. I can't hear what they're saying."
+},
+{
+"pv": "turn up",
+"mark": "turn up",
+"sep": false,
+"obj_after": false,
+"def": "find unexpectedly",
+"ex": "My keys turned up in the bedroom."
+},
+{
+"pv": "use up",
+"mark": "use * up",
+"sep": true,
+"obj_after": false,
+"def": "use all of something",
+"ex": "I used up all of the soap, so we need to buy some more."
+},
+{
+"pv": "veer away from",
+"mark": "veer away from +",
+"sep": false,
+"obj_after": true,
+"def": "stay away from, avoid",
+"ex": "I veer away from the same old summer blockbuster films."
+},
+{
+"pv": "wait on",
+"mark": "wait on +",
+"sep": false,
+"obj_after": true,
+"def": "serve, service (a table)",
+"ex": "Each waitress waits on three different tables in the restaurant."
+},
+{
+"pv": "wait up",
+"mark": "wait up",
+"sep": false,
+"obj_after": false,
+"def": "not sleep because you are waiting for something or someone",
+"ex": "Don't wait up."
+},
+{
+"pv": "wait up for",
+"mark": "wait up for +",
+"sep": false,
+"obj_after": true,
+"def": "not sleep because you are waiting for someone or something",
+"ex": "Let's wait up for Mary to see how her date went."
+},
+{
+"pv": "wake up",
+"mark": "wake * up +",
+"sep": true,
+"obj_after": true,
+"def": "Awaken someone",
+"ex": "The car alarm woke me up at 6:00 in the morning."
+},
+{
+"pv": "wake up",
+"mark": "wake up",
+"sep": false,
+"obj_after": false,
+"def": "Awaken",
+"ex": "Wake up. It's time to get ready for work."
+},
+{
+"pv": "wash up",
+"mark": "wash up",
+"sep": false,
+"obj_after": false,
+"def": "clean oneself",
+"ex": "Make sure you wash up before dinner."
+},
+{
+"pv": "wash up",
+"mark": "wash * up +",
+"sep": true,
+"obj_after": true,
+"def": "Clean",
+"ex": "If we work together, we can wash the kitchen up in a few minutes."
+},
+{
+"pv": "watch out",
+"mark": "watch out",
+"sep": false,
+"obj_after": false,
+"def": "be careful",
+"ex": "Watch out - there's a rattlesnake!"
+},
+{
+"pv": "wear off",
+"mark": "wear off",
+"sep": false,
+"obj_after": false,
+"def": "disappear after a period of time",
+"ex": "The affects of the medicine will wear off after a few hours."
+},
+{
+"pv": "wear out",
+"mark": "wear * out",
+"sep": true,
+"obj_after": false,
+"def": "use until something is not useable anymore",
+"ex": "If you wear the same shoes everyday, you'll wear them out."
+},
+{
+"pv": "wear out",
+"mark": "wear * out",
+"sep": true,
+"obj_after": false,
+"def": "cause to be very tired",
+"ex": "Her three kids wore me out."
+},
+{
+"pv": "wind up",
+"mark": "wind up +",
+"sep": false,
+"obj_after": true,
+"def": "finish (inf.)",
+"ex": "If he doesn't get his act together, he is going to wind up in jail."
+},
+{
+"pv": "wind up",
+"mark": "wind * up +",
+"sep": true,
+"obj_after": true,
+"def": "tighten the spring of a watch or similar machine",
+"ex": "He wound up the toy dog and set it on the floor."
+},
+{
+"pv": "wind up",
+"mark": "wind * up +",
+"sep": true,
+"obj_after": true,
+"def": "cause an animal or a child to behave wildly",
+"ex": "The kids always get wound up when Uncle Henry comes over."
+},
+{
+"pv": "wipe out",
+"mark": "wipe * out +",
+"sep": true,
+"obj_after": true,
+"def": "massacre or destroy",
+"ex": "The tidal wave wiped out the small fishing village."
+},
+{
+"pv": "wipe out",
+"mark": "wipe * out",
+"sep": true,
+"obj_after": false,
+"def": "cause to be very tired",
+"ex": "After surfing all day, I was completely wiped out."
+},
+{
+"pv": "work out",
+"mark": "work * out +",
+"sep": true,
+"obj_after": true,
+"def": "Solve",
+"ex": "I hope you two can work out your problems."
+},
+{
+"pv": "work out",
+"mark": "work out",
+"sep": false,
+"obj_after": false,
+"def": "exercise",
+"ex": "I work out three times a week at the fitness center."
+},
+{
+"pv": "work out",
+"mark": "work out",
+"sep": false,
+"obj_after": false,
+"def": "be successful",
+"ex": "I am glad your new catering business is working out."
+},
+{
+"pv": "write down",
+"mark": "write * down +",
+"sep": true,
+"obj_after": true,
+"def": "Record",
+"ex": "Write down the directions so you don't forget them."
+},
+{
+"pv": "write out",
+"mark": "write * out +",
+"sep": true,
+"obj_after": true,
+"def": "write down every word or letter",
+"ex": "He wrote out the lyrics so I could understand what the singer was saying."
+},
+{
+"pv": "write up",
+"mark": "write * up +",
+"sep": true,
+"obj_after": true,
+"def": "Prepare a report",
+"ex": "He wrote up a business proposal in order to get a loan."
+},
+{
+"pv": "yak on",
+"mark": "yak on",
+"sep": false,
+"obj_after": false,
+"def": "to continue talking in an annoying way (\"on\" can be repeated for emphasis)",
+"ex": "He just yakked on and on and on."
+},
+{
+"pv": "yak on about",
+"mark": "yak on about +",
+"sep": false,
+"obj_after": true,
+"def": "to continue talking in an annoying way about something (\"on\" can be repeated for emphasis)",
+"ex": "She just yakked on and on about her husband's new job."
+},
+{
+"pv": "yammer on",
+"mark": "yammer on",
+"sep": false,
+"obj_after": false,
+"def": "to talk in an annoying way or complain (\"on\" can be repeated for emphasis)",
+"ex": "They yammered on and on and on."
+},
+{
+"pv": "yammer on about",
+"mark": "yammer on about +",
+"sep": false,
+"obj_after": true,
+"def": "to talk in an annoying way about something or complain about (\"on\" can be repeated for emphasis)",
+"ex": "He just yammered on and on about how horrible the waiter was."
+},
+{
+"pv": "zip around",
+"mark": "zip around +",
+"sep": false,
+"obj_after": true,
+"def": "move quickly from place to place",
+"ex": "I zipped around town after work today."
+},
+{
+"pv": "zone out",
+"mark": "zone out",
+"sep": false,
+"obj_after": false,
+"def": "stop paying attention",
+"ex": "He zoned out during class."
+},
+{
+"pv": "zonk out",
+"mark": "zonk out",
+"sep": false,
+"obj_after": false,
+"def": "fall asleep",
+"ex": "Jill was so exhausted after taking the TOEFL test that she zonked out before dinner."
+},
+{
+"pv": "zoom in",
+"mark": "zoom in",
+"sep": false,
+"obj_after": false,
+"def": "Focus",
+"ex": "You need a telephoto lens to zoom in."
+},
+{
+"pv": "zoom in on",
+"mark": "zoom in on +",
+"sep": false,
+"obj_after": true,
+"def": "focus on something, pinpoint",
+"ex": "She zoomed in on his face while taking the picture."
+}
+]

@@ -2,7 +2,7 @@
 
 [← Quay lại đề bài](expressions/exercises-batch-001.md)
 
-## A. Dịch Việt → Anh (10)
+## A. Việt → Anh (10)
 
 1. **Could you look into this bug and get back to me?** — look into = điều tra vấn đề; không dùng look up.
 2. **We have to push back the release to Monday. / We have to push the release back to Monday.** — push back = dời muộn hơn; tách được.
@@ -41,7 +41,7 @@
 9. **roll out** — Phát hành dần.
 10. **go that far** — Phản đối nhẹ nhận định quá đà.
 
-## D. Viết lại câu (5)
+## D. Viết lại / đặt câu (5)
 
 1. **We put off the demo until next week. / We pushed the demo back to next week.** — postpone = put off / push back.
 2. **I'll look into the problem / look into it.** — investigate → look into.

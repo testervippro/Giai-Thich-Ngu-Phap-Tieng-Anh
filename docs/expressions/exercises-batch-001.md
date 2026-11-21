@@ -2,7 +2,7 @@
 
 Làm trước, rồi mới mở [đáp án](expressions/exercises-batch-001-answers.md).
 
-## A. Dịch Việt → Anh (10)
+## A. Việt → Anh (10)
 
 1. Bạn có thể xem xét lỗi này rồi báo lại cho tôi không?
 2. Chúng ta phải dời ngày phát hành sang thứ Hai.
@@ -51,7 +51,7 @@ Làm trước, rồi mới mở [đáp án](expressions/exercises-batch-001-answ
 10. “This is the best phone ever made.” “I wouldn't ___.”  
    (go that far / go too long / go further)
 
-## D. Viết lại câu (5)
+## D. Viết lại / đặt câu (5)
 
 1. We postponed the demo until next week. (dùng phrasal verb)
 2. I'll investigate the problem. (thân mật hơn)

@@ -50,7 +50,7 @@
 
 - [🧭 Nói như người bản xứ: phương pháp & lộ trình 12 tuần (tổng hợp từ 6 sách)](speaking-nhu-nguoi-ban-xu.md)
 - [🏦 Ngân hàng 2.055 mẫu câu IELTS 9.0 (nói tự nhiên, công sở, Speaking/Writing, ngữ pháp nâng cao — dò qua phụ đề phim)](tools/pattern-bank.html)
-- **🔤 Idioms, Phrasal Verbs & Natural Expressions (theo đợt 50 cụm)**
+- **🔤 Idioms, Phrasal Verbs & Natural Expressions (1.505 cụm, 31 đợt)**
   - [🔤 Tra cứu + so sánh + bài tập (trang tương tác)](tools/expressions-bank.html)
   - [Idioms](expressions/idioms-master.md)
   - [Phrasal verbs thông dụng](expressions/phrasal-verbs-master.md)
@@ -59,7 +59,9 @@
   - [Collocations](expressions/collocations-master.md)
   - [Fixed expressions](expressions/fixed-expressions.md)
   - [⚖️ So sánh cụm dễ nhầm](expressions/similar-expressions-comparison.md)
-  - [✍️ Bài tập đợt 1](expressions/exercises-batch-001.md)
+  - [📕 800 Phrasal Verb — IELTS Fighter (bảng tra, nối với ngân hàng)](expressions/ielts-fighter-800-phrasal-verbs.md)
+  - [✍️ Bài tập 31 đợt (trang tương tác)](tools/expressions-bank.html?tab=ex)
+  - [✍️ Bài tập đợt 1 (bản đọc)](expressions/exercises-batch-001.md)
   - [📋 Chỉ mục tiến độ](expressions/progress-index.md)
 - [💬 Cụm giao tiếp hay dùng nhất trong từng phim (Friends, The Office, Silicon Valley, Suits LA)](movie-viewer/cum-giao-tiep.html)
 - [💬 650+ English Phrases for Everyday Speaking (40 chủ đề, song ngữ)](650-english-phrases-everyday-speaking.md)
