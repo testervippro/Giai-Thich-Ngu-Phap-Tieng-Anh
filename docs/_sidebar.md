@@ -146,6 +146,7 @@
   - [✍️ Luyện viết 2136 Kanji](kanji-viewer/write.html)
   - [🤯 Kanji khó nhớ — nghĩa khác tiếng Việt (825 chữ)](kanji-viewer/write.html?set=lu)
   - [🔀 Kanji đồng âm Hán Việt (501 âm trùng)](kanji-viewer/dong-am.html)
+  - [📜 Truyện dài: 2.161 Kanji trong 1 câu chuyện (37 chương)](kanji-viewer/truyen.html)
   - [🧠 Mẹo nhớ từ Hán Việt dễ lú](kanji-meo-nho.md)
 - **📰 Đọc báo (133 bài · 2.089 chữ)**
   - [Lộ trình đọc + từ vựng & ngữ pháp từng bài](kanji-viewer/doc-bao.html)
