@@ -6,7 +6,7 @@ giống ảnh câu chuyện Kanji (docs/kanji-viewer/kanji_story).
     python3 tools/hanzi_story_crop.py            # cắt tất cả
     python3 tools/hanzi_story_crop.py 0138 1723  # chỉ vài thẻ
 """
-import sys, numpy as np
+import re, sys, numpy as np
 from PIL import Image
 
 def ink(a, thr=200):
@@ -48,6 +48,22 @@ def text_box(a, R, T, B):
     lines = np.where(vc)[0]
     for c in lines:
         reg[:, max(0, c - 3):c + 4] = False
+    # hàng huy hiệu số (viên màu đặc "口 39") ở trên câu chuyện: che hẳn các hàng đó
+    sub = a[:ylim, x0:x1]
+    satm = (sub.max(axis=2) - sub.min(axis=2)) > 90
+    def maxrun(row):                            # đoạn màu liền dài nhất trong hàng
+        best = cur = 0
+        for v in row:
+            cur = cur + 1 if v else 0
+            best = max(best, cur)
+        return best
+    runs = [maxrun(satm[y]) for y in range(min(90, len(satm)))]
+    pill = [y for y, r in enumerate(runs) if r >= 22]    # viên huy hiệu: khối màu đặc rộng, chữ màu thì nét mảnh
+    if pill:
+        y = max(pill)
+        while y + 1 < len(runs) and runs[y + 1] >= 6:      # phần đáy bo tròn của viên
+            y += 1
+        reg[:y + 4] = False
     rows = reg.mean(axis=1) > .004
     bands, s = [], None
     for y, v in enumerate(list(rows) + [False]):
@@ -80,9 +96,14 @@ def text_box(a, R, T, B):
     if not m:
         return None
     ty0, ty1 = m[0][0], m[-1][1]
-    if ty1 >= ylim - 1 and m[-1][0] < B - 12:                         # dòng cuối tràn qua đáy khung: kéo xuống tới hàng trắng đầu tiên
+    if ty1 >= ylim - 1:                         # dòng cuối tràn qua đáy khung: kéo xuống tới hàng trắng đầu tiên
         y = ty1
-        while y < min(H, B + 40) and ink(a[y:y + 1, x0:x1], 170).mean() > .004:
+        while y < min(H, B + 45, ty1 + 24):     # tối đa thêm ~1 dòng chữ
+            row = a[y, x0:x1]
+            if ((row.max(axis=1) - row.min(axis=1)) > 25).mean() > .3 or (row.min(axis=1) < 120).mean() > .5:
+                break                           # gặp bảng từ vựng
+            if ink(a[y:y + 1, x0:x1], 170).mean() <= .008:
+                break
             y += 1
         ty1 = y
     cm = ink(a[ty0:ty1, x0:x1], 170).mean(axis=0)
@@ -103,13 +124,32 @@ def text_box(a, R, T, B):
     i = segs.index(best)
     lo, hi = best
     j = i - 1
-    while j >= 0 and lo - segs[j][1] <= 60: lo = segs[j][0]; j -= 1
+    while j >= 0 and lo - segs[j][1] <= 60 and segs[j][1] - segs[j][0] >= 25: lo = segs[j][0]; j -= 1
     j = i + 1
-    while j < len(segs) and segs[j][0] - hi <= 60: hi = segs[j][1]; j += 1
+    while j < len(segs) and segs[j][0] - hi <= 60 and segs[j][1] - segs[j][0] >= 25: hi = segs[j][1]; j += 1
     # nối các cụm sát bên (chữ ngắn đầu/cuối dòng) nếu cách < 28px đã gộp ở trên; giữ cụm lớn nhất
     return x0 + lo, ty0, x0 + hi + 1, ty1
 
-def crop(path):
+LATIN = re.compile(r"[A-Za-zÀ-ỹĐđ]")
+
+def text_box_ocr(lines, W, H, R, B):
+    """Khung chữ câu chuyện theo OCR (Vision, toạ độ chuẩn hoá gốc dưới trái):
+    dòng có >= 3 chữ cái tiếng Việt, nằm bên phải khung tranh, bắt đầu trên đáy khung (dưới là bảng từ vựng)."""
+    box = None
+    for t, x, y, w, h in lines:
+        l, r = x * W, (x + w) * W
+        top, bot = (1 - y - h) * H, (1 - y) * H
+        if (l + r) / 2 < R or top > B - 2 or bot < 12:
+            continue
+        if len(LATIN.findall(t)) < 4 or " " not in t.strip() or "HSK" in t:
+            continue                            # huy hiệu số / chữ Hán lẻ
+        box = [l, top, r, bot] if box is None else [min(box[0], l), min(box[1], top), max(box[2], r), max(box[3], bot)]
+    if box is None:
+        return None
+    p = 6
+    return (max(0, int(box[0]) - p), max(0, int(box[1]) - p), min(W, int(box[2]) + p), min(H, int(box[3]) + p))
+
+def crop(path, ocr_lines=None):
     im = Image.open(path).convert("RGB")
     a = np.asarray(im).astype(int)
     f = frame(a)
@@ -120,7 +160,9 @@ def crop(path):
         if W != 784 or not (220 <= H <= 290): return None, "no frame"
         f = (285, 8, 456, 141)                  # khung mờ / không viền: lấy vị trí chuẩn của thẻ
     L, T, R, B = f
-    tb = text_box(a, R, T, B)
+    tb = text_box_ocr(ocr_lines, a.shape[1], a.shape[0], R, B) if ocr_lines else None
+    if not tb:
+        tb = text_box(a, R, T, B)
     if not tb: return None, "no text"
     tx0, ty0, tx1, ty1 = tb
     pic = im.crop((L, T, R + 1, B + 1))
@@ -141,12 +183,19 @@ if __name__ == "__main__":
     want = set(sys.argv[1:])
     fail = []
     files = sorted(glob.glob(str(root / "tap*/*.webp")))
+    # OCR thẻ gốc (tuỳ chọn): biến môi trường HANZI_OCR = file jsonl {"f": "tapN/NNNN.webp", "lines": [...]}
+    import json
+    ocr = {}
+    if os.environ.get("HANZI_OCR"):
+        for ln in open(os.environ["HANZI_OCR"], encoding="utf-8"):
+            j = json.loads(ln)
+            ocr[os.path.basename(j["f"])[:-5]] = j["lines"]
     for p in files:
         no = os.path.basename(p)[:-5]
         if want and no not in want:
             continue
         try:
-            o, info = crop(p)
+            o, info = crop(p, ocr.get(no))
         except Exception as e:                  # thẻ lạ (trang sách lẫn vào…)
             o, info = None, f"lỗi {e}"
         if o is None:
