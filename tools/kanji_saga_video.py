@@ -259,6 +259,15 @@ CJK_RX = re.compile(r"[⺀-⿟々〆㐀-鿿豈-﫿\U00020000-\U0003FFFF]")
 GREEN, GREY, INK_ = (14, 116, 92), (120, 112, 104), (34, 30, 28)
 F_TXT = "/System/Library/Fonts/Supplemental/Arial.ttf"
 KIMG = ROOT / "docs/kanji-viewer"                # x["img"] = "kanji_p2/1056.webp"
+STORY = KIMG / "kanji_story"                     # chỉ ô câu chuyện (tranh + câu), đã làm nét
+
+
+def story_img(x):
+    """Ảnh ô câu chuyện của thẻ (kanji_story/NNNN.webp) hoặc None."""
+    if not x.get("n") or not isinstance(x["n"], int):
+        return None
+    f = STORY / f"{x['n']:04d}.webp"
+    return f if f.exists() else None
 
 
 def kdata() -> dict:
@@ -333,24 +342,24 @@ def kcard(k: str, pcs=None):
     im = Image.new("RGBA", (PW, PH), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
     d.rounded_rectangle([0, 0, PW - 1, PH - 1], 22, fill=(250, 248, 244, 248))
-    kimg = KIMG / x["img"] if x.get("img") else None
-    if kimg and kimg.exists():
-        # ảnh thẻ trong sách (đã có chữ, thứ tự nét, âm HV, nghĩa, câu chuyện, âm On/Kun, từ ví dụ) + các mảnh ghép
-        pic = Image.open(kimg).convert("RGB")
-        pw = PW - 16
-        pic = pic.resize((pw, int(pw * pic.height / pic.width)), Image.LANCZOS)
-        im.paste(pic, (8, 8))
-        parts_y = 8 + pic.height + 8
-    else:
-        parts_y = None
-    if parts_y is not None:
-        y = parts_y
+    simg = story_img(x)
+    if simg:
+        # đầu thẻ dạng chữ + ảnh ô câu chuyện (tranh + câu đã có trong ảnh) + các mảnh ghép
+        y = draw_head(d, k, x, with_story=False)
+        pic = Image.open(simg).convert("RGB")
+        pw = PW - 24
+        ph = int(pw * pic.height / pic.width)
+        pic = pic.resize((pw, ph), Image.LANCZOS)
+        y += 4
+        d.rounded_rectangle([10, y - 2, PW - 11, y + ph + 1], 10, fill=(255, 255, 255, 255), outline=(225, 220, 210, 255))
+        im.paste(pic, (12, y))
+        y += ph + 10
     else:
         y = draw_head(d, k, x)
     return finish(im, d, k, x, y)
 
 
-def draw_head(d, k, x):
+def draw_head(d, k, x, with_story=True):
     d.text((22, 132), k, font=S.KS.kf(k, 128), fill=INK_, anchor="ls")
     tx = 175
     d.text((tx, 58), x["hv"].upper(), font=ImageFont.truetype(FONT, 44), fill=GREEN, anchor="ls")
@@ -358,7 +367,7 @@ def draw_head(d, k, x):
     meta = " · ".join(b for b in [f"Thẻ {x['n']}" if x["n"] else "Mảnh ghép", x["j"]] if b)
     d.text((tx, 138), meta, font=ImageFont.truetype(F_TXT, 22), fill=GREY, anchor="ls")
     y = 156
-    if x["s"]:
+    if x["s"] and with_story:
         y = mixed(d, (18, y), x["s"], 22, INK_, PW - 36, max_lines=2, lh=29) + 4
     return y
 
@@ -398,10 +407,10 @@ def multicard(keys: tuple):
     pics = []
     for k in keys:
         x = D.get(k, {})
-        f = KIMG / x["img"] if x.get("img") else None
-        if f and f.exists():
+        f = story_img(x)
+        if f:                                   # ảnh ô câu chuyện của chữ
             pics.append(Image.open(f).convert("RGB"))
-        else:                                   # không có ảnh sách -> dùng thẻ vẽ (cắt phần đầu)
+        else:                                   # không có ảnh -> dùng thẻ vẽ (cắt phần đầu)
             pics.append(kcard(k).crop((0, 0, PW, 200)).convert("RGB"))
     n, pad = len(pics), 8
     ratio = sum(p.width / p.height for p in pics) / n
@@ -435,7 +444,8 @@ def ts(t: float, sep=",") -> str:
     return f"{int(t // 3600):02d}:{int(t % 3600 // 60):02d}:{int(t % 60):02d}{sep}{int(t * 1000 % 1000):03d}"
 
 
-END_IMG = 3.0                                    # cuối mỗi đề mục: ảnh minh hoạ toàn màn hình 3 s
+SPEED = 1.2                                      # tăng tốc cả video (audio atempo, giữ cao độ) cho ngắn hơn
+END_IMG = 1.5                                    # cuối mỗi đề mục: ảnh minh hoạ toàn màn hình 3 s
 
 
 def full_frame(img: str, title_: str, dest: Path) -> None:
@@ -475,8 +485,8 @@ def main() -> None:
 
     def emit(png: Path, dur: float):
         nonlocal gt
-        concat.extend([f"file '{png}'", f"duration {dur:.3f}"])
-        gt += dur
+        concat.extend([f"file '{png}'", f"duration {dur / SPEED:.3f}"])
+        gt += dur / SPEED
 
     for n, ch in enumerate(saga, 1):
         text, align, total = chapter_timeline(n)
@@ -524,6 +534,8 @@ def main() -> None:
         at = align([p for p, *_ in items] + [m.end() for m in re.finditer(r"[,;]\s+", text)])
         show, prev, prev_sid = [], -9.0, None
         for pos, k, pcs, sid_, sec_i in marks_k:
+            if not kdata().get(k, {}).get("s"):     # chữ không có câu chuyện (mảnh ghép) -> không bật thẻ
+                continue
             gap = CARD_MIN_SAME if sid_ == prev_sid else CARD_MIN
             st_ = max(at(pos) - CARD_LEAD, prev + gap)
             show.append([st_, 0.0, k, pcs, sid_, sec_i])
@@ -583,7 +595,7 @@ def main() -> None:
 
         def g(t):                                   # giờ trong chương -> giờ chung (sau các màn ôn lại chèn vào)
             base = max((x for x in gmap if x[0] <= t + 1e-6), key=lambda x: x[0])
-            return base[1] + (t - base[0])
+            return base[1] + (t - base[0]) / SPEED
         for i, it in enumerate(items):
             end_ = sub_t[i + 1] if i + 1 < len(items) else total
             srt.append(f"{len(srt) + 1}\n{ts(g(sub_t[i]))} --> {ts(g(end_) if i + 1 < len(items) else g(end_ - 1e-3))}\n{it[3]}\n")
@@ -601,7 +613,7 @@ def main() -> None:
     (OUT / "meta.txt").write_text("\n".join(meta) + "\n", encoding="utf-8")
     full = OUT / "truyen-kanji.m4a"
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(OUT / "audio.txt"),
-                    "-c:a", "aac", "-b:a", "96k", str(full)], check=True)
+                    "-filter:a", f"atempo={SPEED}", "-c:a", "aac", "-b:a", "96k", str(full)], check=True)
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(full), "-c:a", "libmp3lame", "-b:a", "64k",
                     str(OUT / "truyen-kanji.mp3")], check=True)
     tmp = OUT / "truyen-kanji.tmp.mp4"              # ghi ra file tạm rồi đổi tên: mở file lúc đang render không bị hỏng
