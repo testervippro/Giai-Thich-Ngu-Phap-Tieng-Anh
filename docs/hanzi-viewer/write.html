@@ -110,7 +110,8 @@
     <span id="pos" style="font-size:13.5px;color:var(--muted)"></span>
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
-    <button class="btn" id="cardBtn" title="Hiện/ẩn ảnh thẻ gốc">🖼 Ảnh: tắt</button>
+    <button class="btn" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện">🖼 Ảnh: tắt</button>
+    <button class="btn" id="jpBtn" title="Hiện/ẩn so sánh với Kanji tiếng Nhật (2136 Kanji)">🇯🇵 Tiếng Nhật</button>
     <button class="btn" id="warnBtn" title="Hiện/ẩn ô cảnh báo OCR (bộ “⚠️ Thẻ cần kiểm tra” luôn hiện)">⚠️ Cảnh báo: tắt</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / pinyin / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
@@ -174,7 +175,7 @@
   const store = { get(k, d){ try { const v = localStorage.getItem('hzw.' + k); return v == null ? d : JSON.parse(v); } catch(e){ return d; } },
                   set(k, v){ try { localStorage.setItem('hzw.' + k, JSON.stringify(v)); } catch(e){} } };
   const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  let set = store.get('set', '1'), i = 0, showCard = store.get('card', true), showWarn = store.get('warnBox', false), nums = store.get('nums', true), step = -1, total = 0, ghost = true, quiz = false, loop = false, useTrad = false;
+  let set = store.get('set', '1'), i = 0, showCard = store.get('card', true), showJp = store.get('jp', false), showWarn = store.get('warnBox', false), nums = store.get('nums', true), step = -1, total = 0, ghost = true, quiz = false, loop = false, useTrad = false;
   let model = null, loopTimer = null, PAD = 12, charData = null, drawn = [], hintOn = false;
 
   function pool(){
@@ -233,6 +234,7 @@
   }
   async function crossJp(x){
     const box = $('xJp');
+    if (!showJp){ box.classList.add('hidden'); return; }       // chỉ hiện khi bật 🇯🇵
     let K; try { K = await kanji(); } catch (e) { box.classList.add('hidden'); return; }
     if (cur() !== x) return;
     let ks = K.byCard.get(x.n) || [];
@@ -252,7 +254,7 @@
         + '<br>' + esc(m ? m.charAt(0).toUpperCase() + m.slice(1) : '')
         + (story ? '<br><span class="xs">📖 ' + esc(story) + '</span>' : '')
         + '<br><a href="../kanji-viewer/write.html#' + encodeURIComponent(k) + '">✍️ Luyện viết Kanji →</a>'
-        + (showCard && img ? '<img class="xi" loading="lazy" src="../kanji-viewer/' + esc(img) + '" alt="Thẻ Kanji ' + n + '">' : '')
+        + (showCard && img ? '<img class="xi" loading="lazy" src="../kanji-viewer/kanji_story/' + String(n).padStart(4, '0') + '.webp" alt="Ảnh câu chuyện Kanji ' + n + '">' : '')
         + '</div></div>';
     }).join('');
     box.querySelectorAll('.xi').forEach(im => { im.onclick = () => im.classList.toggle('zoom'); im.onerror = () => im.remove(); });
@@ -393,6 +395,8 @@
   $('next').onclick = () => go(1);
   $('rand').onclick = () => { i = Math.floor(Math.random() * pool().length); useTrad = false; render(); };
   $('cardBtn').onclick = () => { showCard = !showCard; store.set('card', showCard); render(); };
+  $('jpBtn').onclick = () => { showJp = !showJp; store.set('jp', showJp); $('jpBtn').classList.toggle('on', showJp); render(); };
+  $('jpBtn').classList.toggle('on', showJp);
   const warnLabel = () => { $('warnBtn').textContent = '⚠️ Cảnh báo: ' + (showWarn ? 'bật' : 'tắt'); $('warnBtn').classList.toggle('on', showWarn); };
   $('warnBtn').onclick = () => { showWarn = !showWarn; store.set('warnBox', showWarn); warnLabel(); renderWarn(cur()); };
   warnLabel();
