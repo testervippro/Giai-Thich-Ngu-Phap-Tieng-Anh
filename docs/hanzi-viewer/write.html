@@ -99,7 +99,6 @@
       <option value="2">Tập 2 (thẻ 1001–2002)</option>
       <option value="3">Tập 3 (thẻ 2003–3123)</option>
       <option value="all">Tất cả 3 tập</option>
-      <option value="warn">⚠️ Thẻ cần kiểm tra (OCR chưa chắc)</option>
       <option value="HSK1-2">HSK1 – HSK2</option><option value="HSK1-3">HSK1 – HSK3</option>
       <option value="HSK1-4">HSK1 – HSK4</option><option value="HSK1-5">HSK1 – HSK5</option>
       <option value="HSK1-6">HSK1 – HSK6</option><option value="HSK1-9">HSK1 – HSK7–9 (tất cả có HSK)</option>
@@ -112,7 +111,7 @@
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
     <button class="btn" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện">🖼 Ảnh: tắt</button>
     <button class="btn" id="jpBtn" title="Hiện/ẩn so sánh với Kanji tiếng Nhật (2136 Kanji)">🇯🇵 Tiếng Nhật</button>
-    <button class="btn" id="warnBtn" title="Hiện/ẩn ô cảnh báo OCR (bộ “⚠️ Thẻ cần kiểm tra” luôn hiện)">⚠️ Cảnh báo: tắt</button>
+    <button class="btn" id="warnBtn" title="Hiện/ẩn ô cảnh báo OCR">⚠️ Cảnh báo: tắt</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / pinyin / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
 
@@ -175,7 +174,8 @@
   const store = { get(k, d){ try { const v = localStorage.getItem('hzw.' + k); return v == null ? d : JSON.parse(v); } catch(e){ return d; } },
                   set(k, v){ try { localStorage.setItem('hzw.' + k, JSON.stringify(v)); } catch(e){} } };
   const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  let set = store.get('set', '1'), i = 0, showCard = store.get('card', true), showJp = store.get('jp', false), showWarn = store.get('warnBox', false), nums = store.get('nums', true), step = -1, total = 0, ghost = true, quiz = false, loop = false, useTrad = false;
+  let set = store.get('set', '1'); if (set === 'warn') set = 'all';   // bộ “Thẻ cần kiểm tra” đã bỏ
+  let i = 0, showCard = store.get('card', true), showJp = store.get('jp', false), showWarn = store.get('warnBox', false), nums = store.get('nums', true), step = -1, total = 0, ghost = true, quiz = false, loop = false, useTrad = false;
   let model = null, loopTimer = null, PAD = 12, charData = null, drawn = [], hintOn = false;
 
   function pool(){
