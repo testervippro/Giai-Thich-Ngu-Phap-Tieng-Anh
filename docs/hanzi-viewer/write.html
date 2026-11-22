@@ -112,7 +112,6 @@
     <button class="btn" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện">🖼 Ảnh: tắt</button>
     <button class="btn" id="onlyBtn" title="Chỉ hiện chữ có trong 2136 Kanji tiếng Nhật (cùng chữ, phồn thể hoặc biến thể)">🇯🇵 Chỉ 2136</button>
     <button class="btn" id="jpBtn" title="Hiện/ẩn so sánh với Kanji tiếng Nhật (2136 Kanji)">🇯🇵 Tiếng Nhật</button>
-    <button class="btn" id="warnBtn" title="Hiện/ẩn ô cảnh báo OCR">⚠️ Cảnh báo: tắt</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / pinyin / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
 
@@ -176,7 +175,7 @@
                   set(k, v){ try { localStorage.setItem('hzw.' + k, JSON.stringify(v)); } catch(e){} } };
   const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   let set = store.get('set', '1'); if (set === 'warn') set = 'all';   // bộ “Thẻ cần kiểm tra” đã bỏ
-  let i = 0, showCard = store.get('card', true), showJp = store.get('jp', false), showWarn = store.get('warnBox', false), nums = store.get('nums', true), step = -1, total = 0, ghost = true, quiz = false, loop = false, useTrad = false;
+  let i = 0, showCard = store.get('card', true), showJp = store.get('jp', false), showWarn = false, nums = store.get('nums', true), step = -1, total = 0, ghost = true, quiz = false, loop = false, useTrad = false;
   let model = null, loopTimer = null, PAD = 12, charData = null, drawn = [], hintOn = false;
 
   function pool0(){
@@ -415,9 +414,6 @@
     render();
   };
   if (only2136) load2136().then(() => { i = Math.min(i, pool().length - 1); render(); }).catch(() => {});
-  const warnLabel = () => { $('warnBtn').textContent = '⚠️ Cảnh báo: ' + (showWarn ? 'bật' : 'tắt'); $('warnBtn').classList.toggle('on', showWarn); };
-  $('warnBtn').onclick = () => { showWarn = !showWarn; store.set('warnBox', showWarn); warnLabel(); renderWarn(cur()); };
-  warnLabel();
   $('kImg').onclick = () => $('kCard').classList.toggle('zoom');
   $('kImg').onerror = () => $('kCard').classList.add('hidden');
   $('find').onkeydown = e => { if (e.key === 'Enter') find(e.target.value); };
