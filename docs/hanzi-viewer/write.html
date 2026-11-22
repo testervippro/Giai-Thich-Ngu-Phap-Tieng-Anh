@@ -55,6 +55,8 @@
     .xl .diff { color:#b91c1c; font-weight:700; }
     .xl .same { color:#15803d; font-weight:600; }
     .xl .xs { color:var(--muted); }
+    .xsubs { margin:6px 0 2px; }
+    .xsub { font-size:14px; padding:4px 10px; margin:3px 0; border-left:3px solid #2563eb; background:rgba(37,99,235,.06); border-radius:6px; }
     .xl .xi { display:block; max-width:420px; width:100%; margin-top:6px; border-radius:8px; border:1px solid var(--line); cursor:zoom-in; }
     .xl .xi.zoom { max-width:none; }
     .quiz .xl { visibility:hidden; }
@@ -232,13 +234,25 @@
   const loadJs = src => new Promise((ok, no) => { const e = document.createElement('script'); e.src = src; e.onload = ok; e.onerror = no; document.head.appendChild(e); });
   let KJ = null;
   function kanji(){
-    if (!KJ) KJ = loadJs('kanji-hanzi-map.js?v=20261116c').then(() => loadJs('../kanji-viewer/kanji-game-data.js')).then(() => {
+    if (!KJ) KJ = loadJs('kanji-hanzi-map.js?v=20261116c').then(() => loadJs('../kanji-viewer/kanji-game-data.js')).then(() => loadJs('../kanji-viewer/kanji-roadmap.js').catch(() => {})).then(() => {
       const byK = new Map((window.KANJI || []).map(r => [r[1], r])), byCard = new Map();
       Object.entries(window.KANJI_HANZI || {}).forEach(([k, ns]) => ns.forEach(n => { if (!byCard.has(n)) byCard.set(n, []); byCard.get(n).push(k); }));
-      return { byK, byCard };
+      const rad = new Map(((window.ROADMAP || {}).radw || []).map(r => [r[0], { hv: r[1], m: r[2] }]));   // 280 mảnh ghép
+      return { byK, byCard, rad };
     });
     KJ.catch(() => { KJ = null; });
     return KJ;
+  }
+  // câu chuyện con của chữ Nhật: các chữ được nhắc trong câu chuyện (thẻ Kanji có câu chuyện, hoặc mảnh ghép)
+  function jpSubs(K, k0, story){
+    const seen = new Set([k0]), out = [];
+    (String(story).match(/[\u2E80-\u2FDF\u3005\u30A0-\u30FF\u3400-\u9FFF\uF900-\uFAFF]/g) || []).forEach(c => {
+      if (seen.has(c)) return; seen.add(c);
+      const y = K.byK.get(c), r = K.rad.get(c);
+      if (y && y[5]) out.push('<div class="xsub"><b>' + esc(c) + '</b> <span class="hv2">' + esc(y[2]) + '</span> – ' + esc(y[3] ? y[3].charAt(0).toUpperCase() + y[3].slice(1) : '') + ': ' + esc(y[5]) + '</div>');
+      else if (r) out.push('<div class="xsub"><b>' + esc(c) + '</b> <span class="hv2">' + esc(r.hv) + '</span> – ' + esc(r.m) + ' <span style="opacity:.7">(mảnh ghép)</span></div>');
+    });
+    return out.length ? '<div class="xsubs">' + out.join('') + '</div>' : '';
   }
   async function crossJp(x){
     const box = $('xJp');
@@ -260,7 +274,7 @@
         + '<span class="hv2">' + esc(hv) + '</span>' + (jlpt ? ' · ' + esc(jlpt) : '') + ' · thẻ Kanji ' + n
         + ' · ' + (same ? '<span class="same">viết giống ' + (k === x.k ? 'chữ Trung' : 'phồn thể ' + esc(x.t)) + '</span>' : '<span class="diff">viết khác: Trung ' + esc(x.k) + ' ↔ Nhật ' + esc(k) + '</span>')
         + '<br>' + esc(m ? m.charAt(0).toUpperCase() + m.slice(1) : '')
-        + (story ? '<br><span class="xs">📖 ' + esc(story) + '</span>' : '')
+        + (story ? '<br><span class="xs">📖 ' + esc(story) + '</span>' + jpSubs(K, k, story) : '')
         + '<br><a href="../kanji-viewer/write.html#' + encodeURIComponent(k) + '">✍️ Luyện viết Kanji →</a>'
         + (showCard && img ? '<img class="xi" loading="lazy" src="../kanji-viewer/kanji_story/' + String(n).padStart(4, '0') + '.webp" alt="Ảnh câu chuyện Kanji ' + n + '">' : '')
         + '</div></div>';
