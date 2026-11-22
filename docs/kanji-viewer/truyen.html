@@ -44,6 +44,7 @@
     dialog .st { font-size:15.5px; line-height:1.55; margin:12px 0 8px; }
     dialog .zh, .sub b { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
     dialog .sub { display:flex; flex-direction:column; gap:4px; }
+    dialog img.story { display:block; width:100%; height:auto; margin-top:12px; border-radius:10px; border:1px solid var(--line); background:#fff; }
     dialog .sub div { font-size:14px; color:var(--muted); padding:5px 10px; border-left:3px solid var(--accent); background:var(--card); border-radius:0 8px 8px 0; }
     dialog .sub div[data-k] { cursor:pointer; }
     dialog .sub b { font-size:20px; color:var(--ink); margin-right:4px; }
@@ -98,7 +99,8 @@
       else if (y || r) sub.push(`<div><b>${c}</b> <span class="hv2">${esc((y || r).hv)}</span> – ${esc((y || r).m)} <span style="opacity:.75">(mảnh ghép)</span></div>`);
     });
     return `<div class="info"><div class="big">${esc(k)}</div><div><p class="hv">${esc(x.hv || '')}</p><p class="m">${esc(cap(x.m))}</p><p class="tag">${esc(meta)}</p></div></div>`
-      + (x.s ? `<div class="st">📖 ${zh(x.s)}</div>` : '') + (sub.length ? `<div class="sub">${sub.join('')}</div>` : '');
+      + (x.s ? `<div class="st">📖 ${zh(x.s)}</div>` : '') + (sub.length ? `<div class="sub">${sub.join('')}</div>` : '')
+      + (x.n && x.img ? `<img class="story" src="kanji_story/${String(x.n).padStart(4, '0')}.webp" alt="Ảnh câu chuyện thẻ ${x.n}" onerror="this.remove()">` : '');
   }
   function openCard(k){
     $('dlgBody').innerHTML = cardHtml(k);

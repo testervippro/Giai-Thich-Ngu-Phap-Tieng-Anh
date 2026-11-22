@@ -55,7 +55,7 @@
     .note { color:var(--muted); font-size:12.5px; margin-top:14px; line-height:1.5; }
     .quiz .big { visibility:hidden; }
     .card { margin:0 0 12px; }
-    .card img { display:block; width:100%; max-width:640px; height:auto; aspect-ratio:784/252; border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
+    .card img { display:block; width:100%; max-width:640px; height:auto;  border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
     .card.zoom img { max-width:none; cursor:zoom-out; }
     .quiz .card { display:none; }
     .xl { background:var(--card); border:1px solid var(--line); border-left:4px solid #dc2626; border-radius:0 12px 12px 0; padding:8px 12px; margin:0 0 12px; font-size:13.5px; }
@@ -219,7 +219,7 @@
 (() => {
   "use strict";
   const $ = id => document.getElementById(id);
-  const ALL = (window.KANJI || []).map(r => ({ n:r[0], k:r[1], hv:r[2], m:r[3], j:r[4], s:r[5], img:r[6] }));
+  const ALL = (window.KANJI || []).map(r => ({ n:r[0], k:r[1], hv:r[2], m:r[3], j:r[4], s:r[5], img: r[6] ? 'kanji_story/' + String(r[0]).padStart(4, '0') + '.webp' : null }));   // chỉ ô câu chuyện
   const BYN = new Map(ALL.map(x => [x.n, x]));
   const KVG = 'https://cdn.jsdelivr.net/gh/KanjiVG/kanjivg@r20260714/kanji/';
   const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
