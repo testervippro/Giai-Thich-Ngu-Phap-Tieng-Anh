@@ -112,7 +112,13 @@
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
     <button class="btn" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện">🖼 Ảnh: tắt</button>
-    <button class="btn" id="onlyBtn" title="Chỉ hiện chữ có trong 2136 Kanji tiếng Nhật (cùng chữ, phồn thể hoặc biến thể)">🇯🇵 Chỉ 2136</button>
+    <select id="jpFilter" class="btn" title="Lọc theo chữ Nhật tương ứng trong 2136 Kanji">
+      <option value="">🇯🇵 Mọi chữ</option>
+      <option value="any">🇯🇵 Có trong 2136</option>
+      <option value="same">🟰 Giống hệt chữ Nhật</option>
+      <option value="trad">📜 Giống phồn thể</option>
+      <option value="diff">✏️ Biến thể (khác 1 tý)</option>
+    </select>
     <button class="btn" id="jpBtn" title="Hiện/ẩn so sánh với Kanji tiếng Nhật (2136 Kanji)">🇯🇵 Tiếng Nhật</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / pinyin / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
@@ -189,13 +195,21 @@
     if (range) { const hi = +range[1]; return ALL.filter(x => { const lv = +(x.hsk || '').replace('HSK', ''); return lv >= 1 && lv <= hi; }); }
     return ALL.filter(x => x.hsk === set);
   }
-  // 🇯🇵 Chỉ 2136: chỉ giữ thẻ có trong 2136 Kanji (cùng chữ, phồn thể, hoặc biến thể Nhật)
-  let only2136 = store.get('only2136', false), IN2136 = null;
-  function pool(){ const L = pool0(); return only2136 && IN2136 ? L.filter(x => IN2136.has(x.n)) : L; }
-  async function load2136(){
-    if (IN2136) return;
+  // 🇯🇵 lọc theo chữ Nhật (2136 Kanji): same = viết giống hệt · trad = giống phồn thể · diff = biến thể Nhật (khác 1 tý)
+  let jpf = store.get('jpf', store.get('only2136', false) ? 'any' : ''), JPT = null;
+  function pool(){
+    const L = pool0();
+    if (!jpf || !JPT) return L;
+    return L.filter(x => { const t = JPT.get(x.n); return jpf === 'any' ? !!t : t === jpf; });
+  }
+  async function loadJpType(){
+    if (JPT) return;
     const K = await kanji();
-    IN2136 = new Set(ALL.filter(x => (K.byCard.get(x.n) || []).length || K.byK.has(x.k) || (x.t && K.byK.has(x.t))).map(x => x.n));
+    JPT = new Map();
+    ALL.forEach(x => {
+      const t = K.byK.has(x.k) ? 'same' : (x.t && K.byK.has(x.t)) ? 'trad' : (K.byCard.get(x.n) || []).length ? 'diff' : '';
+      if (t) JPT.set(x.n, t);
+    });
   }
   function cur(){ const L = pool(); return L[Math.max(0, Math.min(i, L.length - 1))]; }
   function imgPath(x){ return 'story/' + String(x.n).padStart(4, '0') + '.webp'; }   // chỉ ô câu chuyện (tranh + câu), giống trang Kanji
@@ -419,15 +433,17 @@
   $('cardBtn').onclick = () => { showCard = !showCard; store.set('card', showCard); render(); };
   $('jpBtn').onclick = () => { showJp = !showJp; store.set('jp', showJp); $('jpBtn').classList.toggle('on', showJp); render(); };
   $('jpBtn').classList.toggle('on', showJp);
-  $('onlyBtn').classList.toggle('on', only2136);
-  $('onlyBtn').onclick = async () => {
+  const jpSel = $('jpFilter');
+  jpSel.value = jpf;
+  jpSel.onchange = async () => {
     const x0 = cur();
-    only2136 = !only2136; store.set('only2136', only2136); $('onlyBtn').classList.toggle('on', only2136);
-    if (only2136) { try { await load2136(); } catch (e) { only2136 = false; $('onlyBtn').classList.remove('on'); return; } }
+    jpf = jpSel.value; store.set('jpf', jpf); jpSel.classList.toggle('on', !!jpf);
+    if (jpf) { try { await loadJpType(); } catch (e) { jpf = ''; jpSel.value = ''; return; } }
     const L = pool(), j = L.indexOf(x0); i = j >= 0 ? j : 0;   // giữ nguyên thẻ đang xem nếu còn trong bộ
     render();
   };
-  if (only2136) load2136().then(() => { i = Math.min(i, pool().length - 1); render(); }).catch(() => {});
+  jpSel.classList.toggle('on', !!jpf);
+  if (jpf) loadJpType().then(() => { i = Math.min(i, Math.max(0, pool().length - 1)); render(); }).catch(() => {});
   $('kImg').onclick = () => $('kCard').classList.toggle('zoom');
   $('kImg').onerror = () => $('kCard').classList.add('hidden');
   $('find').onkeydown = e => { if (e.key === 'Enter') find(e.target.value); };
