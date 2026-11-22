@@ -12,3 +12,6 @@ __pycache__/
 
 # Bản riêng chỉ để trên máy (nội dung sách có bản quyền) — không push
 private/
+
+# Ảnh thẻ Kanji cũ (trước khi làm nét AI) — chỉ để trên máy
+/kanji_cards_old/
