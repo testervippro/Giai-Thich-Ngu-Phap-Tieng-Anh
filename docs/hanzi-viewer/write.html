@@ -30,8 +30,6 @@
     .info .tag { font-size:12.5px; color:var(--muted); }
     .story { font-size:15px; color:var(--muted); margin:-2px 0 10px; }
     .story b { color:var(--ink); }
-    .storyimg { display:block; width:100%; max-width:640px; height:auto; margin:0 0 12px; border-radius:10px; border:1px solid var(--line); background:#fff; }
-    .quiz .storyimg { visibility:hidden; }
     .box { position:relative; width:100%; margin:0 auto; aspect-ratio:1/1; border-radius:12px; background:#fffdf8; overflow:hidden; touch-action:none; }
     :root[data-theme="dark"] .box { background:#1d1a17; }
     @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]) .box { background:#1d1a17; } }
@@ -61,7 +59,7 @@
     .xl .xi.zoom { max-width:none; }
     .quiz .xl { visibility:hidden; }
     .card { margin:0 0 12px; }
-    .card img { display:block; width:100%; max-width:720px; height:auto; border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
+    .card img { display:block; width:100%; max-width:640px; height:auto; border-radius:10px; border:1px solid var(--line); background:#fff; cursor:zoom-in; }
     .card.zoom img { max-width:none; cursor:zoom-out; }
     .warnbox { margin:-4px 0 12px; padding:8px 12px; border:1px solid #fcd34d; background:#fffbeb; color:#78350f;
                border-radius:10px; font-size:13.5px; line-height:1.5; }
@@ -94,7 +92,7 @@
 <body>
 <main>
   <h1>✍️ Luyện viết Chữ Hán</h1>
-  <div class="tag" style="font-size:13px;margin:-2px 0 8px;color:var(--muted)">Hack Não 3000 Chữ Hán — 3 tập. Chữ, pinyin, nghĩa, câu chuyện lấy bằng OCR từ ảnh thẻ nên có thể sai sót; bật <b>🖼 Ảnh</b> để đối chiếu thẻ gốc.</div>
+  <div class="tag" style="font-size:13px;margin:-2px 0 8px;color:var(--muted)">Hack Não 3000 Chữ Hán — 3 tập. Chữ, pinyin, nghĩa, câu chuyện lấy bằng OCR từ ảnh thẻ nên có thể sai sót; bật <b>🖼 Ảnh</b> để xem ảnh câu chuyện.</div>
   <div class="bar">
     <select id="set" aria-label="Bộ chữ">
       <option value="1">Tập 1 (thẻ 1–1000)</option>
@@ -127,7 +125,6 @@
       </section>
     </div>
     <div class="story" id="kStory"></div>
-    <img class="storyimg" id="kStoryImg" alt="" decoding="async" onerror="this.style.display='none'">
     <div class="warnbox hidden" id="kWarn"></div>
     <div class="sub" id="kSub"></div>
     <figure class="card hidden" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
@@ -190,8 +187,7 @@
     return ALL.filter(x => x.hsk === set);
   }
   function cur(){ const L = pool(); return L[Math.max(0, Math.min(i, L.length - 1))]; }
-  let EXT = '.webp';   // trên site: ảnh webp; trong thư mục china/: ảnh jpg (tự đổi khi lỗi)
-  function imgPath(x){ return 'tap' + x.tap + '/' + String(x.n).padStart(4, '0') + EXT; }
+  function imgPath(x){ return 'story/' + String(x.n).padStart(4, '0') + '.webp'; }   // chỉ ô câu chuyện (tranh + câu), giống trang Kanji
   function hl(word, k){ return esc(word).split(k).join('<b>' + esc(k) + '</b>'); }
   function storyHtml(s, guess){
     guess = guess || '';
@@ -274,8 +270,6 @@
     $('kM').textContent = x.m;
     $('kTag').textContent = 'Thẻ ' + x.n + ' · Tập ' + x.tap + (x.hsk ? ' · ' + x.hsk : '');
     $('kStory').innerHTML = x.story ? '📖 ' + storyHtml(x.story, x.w.g) : '';
-    const si = $('kStoryImg'); si.style.display = ''; si.alt = 'Ảnh câu chuyện thẻ ' + x.n;
-    si.src = 'story/' + String(x.n).padStart(4, '0') + '.webp';   // ô câu chuyện (tranh + câu), đã làm nét
     renderWarn(x);
     crossJp(x);
     // mảnh ghép: ô bộ thủ trên thẻ, tra sang thẻ của mảnh đó
@@ -403,7 +397,7 @@
   $('warnBtn').onclick = () => { showWarn = !showWarn; store.set('warnBox', showWarn); warnLabel(); renderWarn(cur()); };
   warnLabel();
   $('kImg').onclick = () => $('kCard').classList.toggle('zoom');
-  $('kImg').onerror = () => { if (EXT === '.webp') { EXT = '.jpg'; $('kImg').src = imgPath(cur()); } };
+  $('kImg').onerror = () => $('kCard').classList.add('hidden');
   $('find').onkeydown = e => { if (e.key === 'Enter') find(e.target.value); };
   $('play').onclick = () => { step = -1; play(); };
   $('stepBtn').onclick = stepStroke;
