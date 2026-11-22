@@ -33,6 +33,7 @@ audio{width:100%}
 .say{border:none;background:none;cursor:pointer;font-size:15px;padding:0 4px}
 .more{display:block;margin:14px auto;padding:10px 18px;border:1px solid var(--accent);color:var(--accent);background:var(--accentbg);border-radius:9px;font:inherit;font-weight:700;cursor:pointer}
 .miss{color:#b91c1c;font-size:12.5px}
+  .hvg{font-size:12.5px;color:var(--muted);margin-left:8px;white-space:nowrap}
 </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="2000 từ tiếng Nhật"></script>
@@ -48,6 +49,7 @@ audio{width:100%}
     <input type="search" id="q" placeholder="Tìm: từ, romaji, nghĩa, câu ví dụ…">
     <select id="set"><option value="jp">📚 2000 từ thông dụng</option><option value="it">💻 1800 từ vựng IT</option></select>
     <select id="range"></select>
+    <select id="hv" title="Lọc từ ghép Kanji theo mức giống tiếng Việt (âm Hán Việt)"><option value="">Mọi từ</option><option value="s">🟢 Giống hệt</option><option value="n">🟡 Khác 1 tý</option><option value="d">🔴 Khác hẳn</option></select>
     <label><input type="checkbox" id="hideEn"> Che bản dịch</label>
   </div>
   <div class="dim" id="count"></div>
@@ -56,6 +58,7 @@ audio{width:100%}
 </div>
 <script src="data.js"></script>
 <script src="it1800.js"></script>
+<script src="../kanji-viewer/tu-ghep-data.js"></script>
 <script>
 (function(){
 const $=id=>document.getElementById(id);
@@ -63,6 +66,9 @@ const SETS={jp:(window.JP2000||[]).map(r=>({n:r[0],w:r[1],r:r[2],p:r[3],m:r[4],j
   it:(window.JPIT||[]).map(r=>({n:r[0],w:r[1],r:r[2],p:r[3],m:r[4]}))};
 let D=SETS.jp;
 const ls={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v);}catch(e){return d;}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}};
+// 🟢🟡🔴 mức giống tiếng Việt của từ ghép Kanji (../kanji-viewer/tu-ghep-data.js)
+let HVG=new Map();const loadHvg=()=>{HVG=new Map((window.TUGHEP||[]).map(r=>[r[0],r]));};loadHvg();
+const HVBADGE={s:"🟢",n:"🟡",d:"🔴"};
 const esc=s=>String(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 // list
@@ -85,7 +91,8 @@ function jaVoice(){return speechSynthesis.getVoices().find(v=>/^ja/i.test(v.lang
 function say(t){try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang="ja-JP";const v=jaVoice();if(v)u.voice=v;u.rate=.9;speechSynthesis.speak(u);}catch(e){}}
 function filter(){
   const q=$("q").value.trim().toLowerCase();const r=rangeSel.value;
-  cur=D.filter(x=>(r==="all"||Math.floor((x.n-1)/200)===+r)&&(!q||[x.w,x.r,x.m,x.jp,x.en].some(s=>String(s).toLowerCase().includes(q))));
+  const hg=$("hv").value;
+  cur=D.filter(x=>(r==="all"||Math.floor((x.n-1)/200)===+r)&&(!hg||(HVG.get(x.w)||[])[2]===hg)&&(!q||[x.w,x.r,x.m,x.jp,x.en].some(s=>String(s).toLowerCase().includes(q))));
   shown=0;$("list").innerHTML="";more();
   $("count").textContent=`${cur.length} từ`;
 }
@@ -94,7 +101,7 @@ function more(){
   $("list").insertAdjacentHTML("beforeend",part.map(x=>`<div class="item">
     <div class="head"><span class="num">${x.n}</span><span class="w">${esc(x.w)}</span>
       <button class="say" data-t="${esc(x.r&&!/[a-z]/i.test(x.r)?x.r:x.w)}" title="Nghe từ">🔊</button>
-      <span class="r">${esc(x.r)}</span>${x.p?`<span class="p">${esc(x.p)}</span>`:""}<span class="m">${esc(x.m)}</span></div>
+      <span class="r">${esc(x.r)}</span>${x.p?`<span class="p">${esc(x.p)}</span>`:""}<span class="m">${esc(x.m)}</span>${(g=>g?`<span class="hvg" title="${{s:"Giống hệt tiếng Việt",n:"Khác 1 tý",d:"Khác hẳn tiếng Việt"}[g[2]]}: ${esc(g[1])}${g[3]?" = "+esc(g[3]):""}">${HVBADGE[g[2]]} ${esc(g[1])}</span>`:"")(HVG.get(x.w))}</div>
     ${x.jp?`<div class="jp">${esc(x.jp)} <button class="say" data-t="${esc(x.jp)}" title="Nghe câu">🔊</button></div><div class="en">${esc(x.en)}</div>`:""}
   </div>`).join(""));
   $("more").style.display=shown<cur.length?"":"none";
@@ -102,6 +109,10 @@ function more(){
 $("list").addEventListener("click",e=>{const b=e.target.closest(".say");if(b)say(b.dataset.t);});
 $("more").onclick=more;
 let tmr;$("q").oninput=()=>{clearTimeout(tmr);tmr=setTimeout(filter,200);};
+$("hv").value=ls.get("jp2000Hv","");
+$("hv").onchange=()=>{ls.set("jp2000Hv",$("hv").value);filter();};
+// đang xếp nhóm: tự tải lại dữ liệu mỗi 20 giây
+(function poll(){const M=window.TUGHEP_META||{};if(M.done>=M.batches)return;setTimeout(()=>{const e=document.createElement("script");e.src="../kanji-viewer/tu-ghep-data.js?t="+Date.now();e.onload=()=>{loadHvg();filter();e.remove();poll();};e.onerror=()=>poll();document.body.appendChild(e);},20000);})();
 rangeSel.onchange=()=>{ls.set("jp2000Range_"+setSel.value,rangeSel.value);filter();};
 setSel.onchange=()=>{try{history.replaceState(null,"",location.pathname+(setSel.value==="it"?"?set=it":""));}catch(e){}useSet();rangeSel.value=ls.get("jp2000Range_"+setSel.value,"all");if(!rangeSel.value)rangeSel.value="all";filter();};
 filter();

@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Lộ trình đọc hiểu tiếng Nhật</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:880px; margin:auto; padding:8px 16px 60px; }
+    h1 { margin:6px 0 6px; font-size:26px; line-height:1.25; }
+    h2 { margin:34px 0 10px; font-size:21px; display:flex; gap:10px; align-items:baseline; }
+    h2 .no { color:var(--accent); font-size:15px; font-weight:800; border:1px solid var(--accent); border-radius:999px; padding:1px 10px; white-space:nowrap; }
+    h3 { margin:18px 0 6px; font-size:17px; }
+    p { margin:6px 0 10px; }
+    .lead { color:var(--muted); font-size:15.5px; margin:0 0 14px; }
+    .jp { font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:12px 16px; margin:12px 0; }
+    .key { border-left:4px solid var(--accent); border-radius:0 12px 12px 0; }
+    .tip { border-left:4px solid #d97706; border-radius:0 12px 12px 0; }
+    .tip b:first-child { color:#d97706; }
+    ul, ol { margin:6px 0 10px; padding-left:22px; }
+    li { margin:3px 0; }
+    .stat { display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:10px; margin:14px 0; }
+    .stat div { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:10px 12px; }
+    .stat b { display:block; font-size:24px; color:var(--accent); line-height:1.2; }
+    .stat span { font-size:13.5px; color:var(--muted); }
+    table { width:100%; border-collapse:collapse; margin:8px 0 12px; font-size:15px; }
+    th, td { text-align:left; padding:7px 8px; border-bottom:1px solid var(--line); vertical-align:top; }
+    th { font-size:13px; color:var(--muted); font-weight:600; }
+    td.jp, td .jp { font-size:18px; white-space:nowrap; }
+    .tbl { overflow-x:auto; }
+    .ex { font-size:21px; line-height:2.1; margin:6px 0; }
+    .ex .n { background:rgba(37,99,235,.12); border-radius:4px; padding:1px 3px; }
+    .ex .p { color:#dc2626; font-weight:700; }
+    .ex .v { background:rgba(5,150,105,.15); border-radius:4px; padding:1px 3px; }
+    .legend { font-size:13.5px; color:var(--muted); display:flex; gap:14px; flex-wrap:wrap; }
+    .legend i { font-style:normal; padding:0 5px; border-radius:4px; }
+    .week { display:grid; grid-template-columns:110px 1fr; gap:4px 14px; }
+    .week b { color:var(--accent); }
+    a { color:var(--accent); }
+    .tgbar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:6px; }
+    .tgbar input { flex:1; min-width:160px; padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:7px 11px; font:inherit; font-size:14px; cursor:pointer; }
+    .btn.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .tgst { font-size:13px; color:var(--muted); margin:4px 0; }
+    .tgscroll { max-height:60vh; overflow-y:auto; border:1px solid var(--line); border-radius:10px; -webkit-overflow-scrolling:touch; }
+    .tgscroll table { margin:0; }
+    .tgscroll th { position:sticky; top:0; background:var(--card); z-index:1; }
+    details { margin:4px 0; } details > summary { cursor:pointer; padding:8px 0; font-size:16px; } details[open] > summary { border-bottom:1px solid var(--line); }
+    .links { display:flex; gap:8px; flex-wrap:wrap; }
+    .links a { text-decoration:none; border:1px solid var(--line); background:var(--card); border-radius:9px; padding:7px 12px; font-size:14.5px; color:inherit; }
+    .check li { list-style:none; margin-left:-20px; }
+    .check li::before { content:"☐ "; color:var(--accent); }
+    @media (max-width:560px){ .week { grid-template-columns:1fr; } .week b { margin-top:8px; } h1 { font-size:22px; } }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Lộ trình đọc hiểu"></script>
+</head>
+<body>
+<main>
+  <h1>📖 Lộ trình đọc hiểu tiếng Nhật — ít ngữ pháp nhất</h1>
+  <p class="lead">Đã được một model khác phản biện và chỉnh lại (thêm từ vựng lõi, từ kana, thời gian thực tế) — không học phát âm, chỉ đọc hiểu. Dành cho người đã thuộc 2136 Kanji (nghĩa + âm Hán Việt) và <b>không muốn học ngữ pháp kiểu sách giáo khoa</b>. Mục tiêu: đọc hiểu tin tức, truyện, tài liệu — không cần nói, không cần viết câu.</p>
+
+  <div class="stat">
+    <div><b>~40%</b><span>ký tự trong báo là Kanji — phần "nặng nghĩa" nhất, bạn đã nắm</span></div>
+    <div><b>~60 mẫu</b><span>ngữ pháp nhận diện là đủ cho phần lớn câu (thay vì 600+ mẫu N5→N1)</span></div>
+    <div><b>2–3 tháng</b><span>đọc tin dễ · <b style="display:inline;font-size:inherit">6–9 tháng</b> đọc báo thật (~1,5 giờ/ngày)</span></div>
+  </div>
+
+  <div class="card key">
+    <b>Ý tưởng chính:</b> người Việt biết Kanji đã có sẵn "xương thịt" của câu tiếng Nhật — danh từ, động từ gốc Hán. Thứ còn thiếu là <b>keo dán</b> (trợ từ, đuôi động từ) và <b>từ viết bằng kana</b> mà Kanji không giúp được. Không cần học phát âm. Học <b>đúng keo dán hay gặp nhất</b>, không học mẫu hiếm, không học cách tự đặt câu. Phần còn lại học bằng cách <b>đọc nhiều với công cụ tra nhanh</b>.
+  </div>
+
+  <h2><span class="no">Bước 1</span> Nhận diện kana thật nhanh (3–5 ngày)</h2>
+  <p>Nếu đọc hiragana/katakana còn chậm thì đây là nút thắt lớn nhất, vì mọi "keo dán" đều viết bằng kana.</p>
+  <ul>
+    <li>Đây <b>không phải học phát âm</b>: trợ từ và đuôi động từ đều viết bằng kana, nên mắt phải nhận ra ngay <span class="jp">られなかった</span> = "đã không bị", không đánh vần từng chữ.</li>
+    <li>Katakana: chỉ cần đọc ra âm để đoán từ tiếng Anh (<span class="jp">コンピューター</span> = computer).</li>
+    <li>Luyện 15 phút/ngày bằng bất kỳ app kana nào cho tới khi đọc &lt; 1 giây/từ.</li>
+  </ul>
+
+  <h2><span class="no">Bước 2</span> Kanji → từ ghép bằng âm Hán Việt (1 tuần)</h2>
+  <p>Bạn đã biết <b>nghĩa</b> từng chữ. Từ ghép gốc Hán (<span class="jp">音読み</span>) chiếm phần lớn danh từ trong báo — và <b>nghĩa gần như trùng với tiếng Việt</b>:</p>
+  <div class="tbl"><table>
+    <tr><th>Tiếng Nhật</th><th>Hán Việt</th><th>Nghĩa</th></tr>
+    <tr><td class="jp">経済</td><td>KINH TẾ</td><td>kinh tế</td></tr>
+    <tr><td class="jp">政府</td><td>CHÍNH PHỦ</td><td>chính phủ</td></tr>
+    <tr><td class="jp">発表</td><td>PHÁT BIỂU</td><td>công bố (⚠️ không phải "phát biểu ý kiến")</td></tr>
+    <tr><td class="jp">勉強</td><td>MIỄN CƯỠNG</td><td>học tập (⚠️ nghĩa khác hẳn)</td></tr>
+  </table></div>
+  <ul>
+    <li><b>Không học cách đọc / phát âm.</b> Mục tiêu chỉ là đọc hiểu: nhìn chữ → hiểu nghĩa qua Hán Việt là đủ. Bỏ qua furigana, không cần biết <span class="jp">経済</span> đọc là "keizai". Khi cần tra từ, công cụ tra 1 chạm (bước 4) tra thẳng từ chữ Kanji, không cần gõ cách đọc.</li>
+    <li>Cảnh giác nhóm <b>"bẫy nghĩa"</b> (cùng chữ, khác nghĩa — có hàng trăm từ) như <span class="jp">勉強</span> (học) · <span class="jp">大丈夫</span> (ổn) · <span class="jp">手紙</span> (thư) · <span class="jp">汽車</span> (tàu hoả) · <span class="jp">検討</span> (xem xét) · <span class="jp">工夫</span> (sáng kiến) · <span class="jp">結構</span> (khá / được rồi) · <span class="jp">無理</span> (quá sức): xem bộ <a href="write.html">🤯 Kanji khó nhớ — nghĩa khác tiếng Việt</a> trên trang Luyện viết.</li>
+  </ul>
+
+  <h3>Danh sách từ ghép theo mức giống tiếng Việt</h3>
+  <p>Gồm <b>1.000 từ thông dụng nhất</b> (quét từ báo &amp; blog trên site) + toàn bộ từ ghép trong <b>Kanji in Context</b> (sách 2136 Kanji) — chỉ lấy từ ghép toàn Kanji, bỏ số đếm/tháng. Ưu tiên học nhóm 🔴, nhóm 🟢 chỉ cần đọc lướt.</p>
+  <div class="card" id="tg">
+    <div class="tgbar">
+      <button class="btn tgt on" data-g="d">🔴 Khác hẳn <span></span></button>
+      <button class="btn tgt" data-g="n">🟡 Khác 1 tý <span></span></button>
+      <button class="btn tgt" data-g="s">🟢 Giống hệt <span></span></button>
+      <input type="search" id="tgq" placeholder="Tìm chữ / Hán Việt / nghĩa">
+    </div>
+    <div class="tgst" id="tgst"></div>
+    <div class="tgscroll" id="tgsc"><table id="tgtb"></table></div>
+  </div>
+  <script src="tu-ghep-data.js"></script>
+  <script>
+  (function(){
+    const $ = id => document.getElementById(id);
+    const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+    let g = 'd', lim = 200;
+    function draw(){
+      const D = window.TUGHEP || [], M = window.TUGHEP_META || {};
+      const q = $('tgq').value.trim().toLowerCase();
+      document.querySelectorAll('#tg .tgt').forEach(b => { b.classList.toggle('on', b.dataset.g === g); b.querySelector('span').textContent = '(' + D.filter(r => r[2] === b.dataset.g).length + ')'; });
+      const L = D.filter(r => r[2] === g && (!q || r[0].includes(q) || r[1].toLowerCase().includes(q) || (r[3] || '').toLowerCase().includes(q)));
+      $('tgst').textContent = (M.done < M.batches ? `⏳ Đang xếp nhóm: ${M.done}/${M.batches} lô · ` : '') + `${D.length.toLocaleString('vi-VN')}/${(M.total||0).toLocaleString('vi-VN')} từ đã xếp · nhóm này ${L.length} từ`;
+      $('tgtb').innerHTML = '<tr><th>#</th><th>Từ</th><th>Hán Việt</th><th>Nghĩa</th></tr>' + L.slice(0, lim).map((r, i) =>
+        `<tr><td style="color:var(--muted);width:2.6em">${i + 1}</td><td class="jp">${esc(r[0])}</td><td>${esc(r[1])}</td><td>${esc(r[3] || r[1].toLowerCase())}${r[4] === '1000' ? ' <span title="1000 từ thông dụng" style="opacity:.6">★</span>' : ''}</td></tr>`).join('');
+    }
+    document.querySelectorAll('#tg .tgt').forEach(b => b.onclick = () => { g = b.dataset.g; lim = 200; $('tgsc').scrollTop = 0; draw(); });
+    $('tgq').oninput = () => { lim = 200; $('tgsc').scrollTop = 0; draw(); };
+    $('tgsc').onscroll = () => { const e = $('tgsc'); if (e.scrollTop + e.clientHeight > e.scrollHeight - 300) { const n = lim; lim += 200; if (n < 99999) draw(); } };   // cuộn tới cuối -> tải thêm
+    draw();
+    // đang xếp nhóm: tự tải lại dữ liệu mỗi 20 giây
+    (function poll(){
+      const M = window.TUGHEP_META || {};
+      if (M.done >= M.batches) return;
+      setTimeout(() => { const e = document.createElement('script'); e.src = 'tu-ghep-data.js?t=' + Date.now(); e.onload = () => { draw(); e.remove(); poll(); }; e.onerror = () => poll(); document.body.appendChild(e); }, 20000);
+    })();
+  })();
+  </script>
+  <h2><span class="no">Bước 3</span> Học 60 "keo dán" — đủ để đọc (2 tuần)</h2>
+  <p>Toàn bộ ngữ pháp cần cho đọc hiểu gói trong 4 nhóm dưới đây. <b>Chỉ cần nhận ra khi đọc</b>, không cần tự dùng.</p>
+
+  <div class="card key"><b>Danh sách đủ 60 "keo dán" (đánh số)</b> — học theo thứ tự này, chỉ cần nhìn là hiểu. Các bảng chi tiết + ví dụ ở bên dưới.
+  <div class="tbl"><table><tr><th colspan="3" style="color:var(--accent);padding-top:12px">Trợ từ — vai trò trong câu</th></tr><tr><td style="color:var(--muted);width:2.4em">1</td><td class="jp">は</td><td>còn nói về… (chủ đề)</td></tr><tr><td style="color:var(--muted);width:2.4em">2</td><td class="jp">が</td><td>chủ ngữ / cái được nhấn</td></tr><tr><td style="color:var(--muted);width:2.4em">3</td><td class="jp">を</td><td>tân ngữ (làm gì cái gì)</td></tr><tr><td style="color:var(--muted);width:2.4em">4</td><td class="jp">に</td><td>tới, vào, lúc, cho</td></tr><tr><td style="color:var(--muted);width:2.4em">5</td><td class="jp">で</td><td>tại (nơi làm), bằng</td></tr><tr><td style="color:var(--muted);width:2.4em">6</td><td class="jp">の</td><td>của: A の B = B của A</td></tr><tr><td style="color:var(--muted);width:2.4em">7</td><td class="jp">と</td><td>và · với · rằng</td></tr><tr><td style="color:var(--muted);width:2.4em">8</td><td class="jp">も</td><td>cũng</td></tr><tr><td style="color:var(--muted);width:2.4em">9</td><td class="jp">から</td><td>từ · vì</td></tr><tr><td style="color:var(--muted);width:2.4em">10</td><td class="jp">まで</td><td>đến</td></tr><tr><td style="color:var(--muted);width:2.4em">11</td><td class="jp">へ</td><td>hướng tới</td></tr><tr><td style="color:var(--muted);width:2.4em">12</td><td class="jp">より</td><td>hơn · từ</td></tr><tr><td style="color:var(--muted);width:2.4em">13</td><td class="jp">か</td><td>(cuối câu) hỏi · hoặc</td></tr><tr><td style="color:var(--muted);width:2.4em">14</td><td class="jp">や</td><td>và… (liệt kê không hết)</td></tr><tr><th colspan="3" style="color:var(--accent);padding-top:12px">Đuôi động từ</th></tr><tr><td style="color:var(--muted);width:2.4em">15</td><td class="jp">〜る・〜う</td><td>hiện tại / sẽ</td></tr><tr><td style="color:var(--muted);width:2.4em">16</td><td class="jp">〜ます</td><td>(lịch sự) làm</td></tr><tr><td style="color:var(--muted);width:2.4em">17</td><td class="jp">〜た</td><td>đã</td></tr><tr><td style="color:var(--muted);width:2.4em">18</td><td class="jp">〜ました</td><td>(lịch sự) đã</td></tr><tr><td style="color:var(--muted);width:2.4em">19</td><td class="jp">〜ない</td><td>không</td></tr><tr><td style="color:var(--muted);width:2.4em">20</td><td class="jp">〜ません</td><td>(lịch sự) không</td></tr><tr><td style="color:var(--muted);width:2.4em">21</td><td class="jp">〜なかった</td><td>đã không</td></tr><tr><td style="color:var(--muted);width:2.4em">22</td><td class="jp">〜て</td><td>…rồi / và (nối)</td></tr><tr><td style="color:var(--muted);width:2.4em">23</td><td class="jp">〜ている</td><td>đang · đang ở trạng thái</td></tr><tr><td style="color:var(--muted);width:2.4em">24</td><td class="jp">〜たい</td><td>muốn</td></tr><tr><td style="color:var(--muted);width:2.4em">25</td><td class="jp">〜られる・〜れる</td><td>bị / được · có thể</td></tr><tr><td style="color:var(--muted);width:2.4em">26</td><td class="jp">〜させる</td><td>bắt / cho (ai làm)</td></tr><tr><td style="color:var(--muted);width:2.4em">27</td><td class="jp">〜ば</td><td>nếu</td></tr><tr><td style="color:var(--muted);width:2.4em">28</td><td class="jp">〜たら</td><td>nếu / khi… thì</td></tr><tr><td style="color:var(--muted);width:2.4em">29</td><td class="jp">〜なら</td><td>nếu là</td></tr><tr><td style="color:var(--muted);width:2.4em">30</td><td class="jp">〜ても</td><td>dù có… cũng</td></tr><tr><td style="color:var(--muted);width:2.4em">31</td><td class="jp">〜なければならない</td><td>phải</td></tr><tr><td style="color:var(--muted);width:2.4em">32</td><td class="jp">〜てもいい</td><td>được phép</td></tr><tr><td style="color:var(--muted);width:2.4em">33</td><td class="jp">〜ことができる</td><td>có thể</td></tr><tr><td style="color:var(--muted);width:2.4em">34</td><td class="jp">〜よう・〜おう</td><td>hãy… / định…</td></tr><tr><td style="color:var(--muted);width:2.4em">35</td><td class="jp">〜ながら</td><td>vừa… vừa</td></tr><tr><td style="color:var(--muted);width:2.4em">36</td><td class="jp">〜ために</td><td>để · vì</td></tr><tr><th colspan="3" style="color:var(--accent);padding-top:12px">Phỏng đoán · nghe nói</th></tr><tr><td style="color:var(--muted);width:2.4em">37</td><td class="jp">〜そうだ</td><td>nghe nói · trông có vẻ</td></tr><tr><td style="color:var(--muted);width:2.4em">38</td><td class="jp">〜ようだ</td><td>hình như</td></tr><tr><td style="color:var(--muted);width:2.4em">39</td><td class="jp">〜らしい</td><td>nghe đâu là</td></tr><tr><td style="color:var(--muted);width:2.4em">40</td><td class="jp">〜だろう・〜でしょう</td><td>chắc là</td></tr><tr><td style="color:var(--muted);width:2.4em">41</td><td class="jp">〜かもしれない</td><td>có lẽ</td></tr><tr><th colspan="3" style="color:var(--accent);padding-top:12px">Tính từ · danh từ</th></tr><tr><td style="color:var(--muted);width:2.4em">42</td><td class="jp">〜い</td><td>tính từ (高い = cao)</td></tr><tr><td style="color:var(--muted);width:2.4em">43</td><td class="jp">〜くない</td><td>không (cao)</td></tr><tr><td style="color:var(--muted);width:2.4em">44</td><td class="jp">〜かった</td><td>đã (cao)</td></tr><tr><td style="color:var(--muted);width:2.4em">45</td><td class="jp">だ・です・である</td><td>là</td></tr><tr><td style="color:var(--muted);width:2.4em">46</td><td class="jp">ではない・じゃない</td><td>không phải là</td></tr><tr><th colspan="3" style="color:var(--accent);padding-top:12px">Nối câu</th></tr><tr><td style="color:var(--muted);width:2.4em">47</td><td class="jp">しかし・でも</td><td>nhưng</td></tr><tr><td style="color:var(--muted);width:2.4em">48</td><td class="jp">そして</td><td>và rồi</td></tr><tr><td style="color:var(--muted);width:2.4em">49</td><td class="jp">また</td><td>ngoài ra · lại</td></tr><tr><td style="color:var(--muted);width:2.4em">50</td><td class="jp">だから・そのため</td><td>vì vậy</td></tr><tr><td style="color:var(--muted);width:2.4em">51</td><td class="jp">〜が、</td><td>…, nhưng</td></tr><tr><td style="color:var(--muted);width:2.4em">52</td><td class="jp">〜ので・〜から</td><td>vì</td></tr><tr><td style="color:var(--muted);width:2.4em">53</td><td class="jp">〜のに</td><td>mặc dù</td></tr><tr><td style="color:var(--muted);width:2.4em">54</td><td class="jp">〜とき</td><td>khi</td></tr><tr><td style="color:var(--muted);width:2.4em">55</td><td class="jp">〜によると</td><td>theo (nguồn)</td></tr><tr><td style="color:var(--muted);width:2.4em">56</td><td class="jp">〜について</td><td>về (vấn đề)</td></tr><tr><th colspan="3" style="color:var(--accent);padding-top:12px">Cấu trúc câu</th></tr><tr><td style="color:var(--muted);width:2.4em">57</td><td class="jp">V + danh từ</td><td>mệnh đề "…mà": 昨日買った本 = sách mà hôm qua mua</td></tr><tr><td style="color:var(--muted);width:2.4em">58</td><td class="jp">〜の・〜こと</td><td>biến động từ thành danh từ: 読むこと = việc đọc</td></tr><tr><td style="color:var(--muted);width:2.4em">59</td><td class="jp">〜という</td><td>gọi là · rằng</td></tr><tr><td style="color:var(--muted);width:2.4em">60</td><td class="jp">〜と言う・〜と思う</td><td>nói rằng · nghĩ rằng</td></tr></table></div></div>
+
+  <h3>① Quy tắc vàng: động từ ở cuối, mọi thứ bổ nghĩa đứng TRƯỚC</h3>
+  <div class="card">
+    <div class="ex jp"><span class="n">政府</span><span class="p">は</span><span class="n">来年</span><span class="p">から</span><span class="n">新しい税金</span><span class="p">を</span><span class="v">導入する</span>と<span class="v">発表しました</span>。</div>
+    <div class="legend"><span><i style="background:rgba(37,99,235,.12)">xanh</i> danh từ (bạn đã biết Kanji)</span><span><i style="color:#dc2626;font-weight:700">đỏ</i> trợ từ = vai trò</span><span><i style="background:rgba(5,150,105,.15)">lục</i> động từ</span></div>
+    <p style="margin-top:8px">→ Đọc theo cách: <b>tìm động từ ở cuối trước</b> (<span class="jp">発表しました</span> = đã công bố), rồi gom các cụm theo trợ từ: <span class="jp">政府は</span> (chính phủ — chủ đề) · <span class="jp">来年から</span> (từ năm sau) · <span class="jp">新しい税金を</span> (thuế mới — tân ngữ) · <span class="jp">導入すると</span> (rằng sẽ đưa vào).<br>= "Chính phủ công bố sẽ áp dụng thuế mới từ năm sau."</p>
+    <p><b>Cụm bổ nghĩa đứng trước danh từ:</b> <span class="jp">昨日買った本</span> = "cuốn sách [mà hôm qua đã mua]". Gặp động từ đứng ngay trước danh từ → đó là mệnh đề "mà…".</p>
+  </div>
+
+  <h3>② 12 trợ từ = vai trò trong câu</h3>
+  <div class="tbl"><table>
+    <tr><th>Trợ từ</th><th>Hiểu là</th><th>Ví dụ</th></tr>
+    <tr><td class="jp">は</td><td>còn nói về… (chủ đề)</td><td class="jp">私は学生</td></tr>
+    <tr><td class="jp">が</td><td>chủ ngữ / cái được nhấn</td><td class="jp">雨が降る</td></tr>
+    <tr><td class="jp">を</td><td>tân ngữ (làm gì <i>cái gì</i>)</td><td class="jp">本を読む</td></tr>
+    <tr><td class="jp">に</td><td>tới, vào, lúc, cho</td><td class="jp">東京に行く・7時に</td></tr>
+    <tr><td class="jp">で</td><td>tại (nơi làm), bằng</td><td class="jp">駅で会う・電車で</td></tr>
+    <tr><td class="jp">の</td><td>của (đảo ngược: A の B = B của A)</td><td class="jp">日本の経済</td></tr>
+    <tr><td class="jp">と</td><td>và · với · rằng (trích dẫn)</td><td class="jp">友達と・〜と言った</td></tr>
+    <tr><td class="jp">も</td><td>cũng</td><td class="jp">私も</td></tr>
+    <tr><td class="jp">から / まで</td><td>từ / đến · vì</td><td class="jp">9時から5時まで</td></tr>
+    <tr><td class="jp">へ</td><td>hướng tới</td><td class="jp">北へ</td></tr>
+    <tr><td class="jp">より</td><td>hơn · từ</td><td class="jp">去年より高い</td></tr>
+    <tr><td class="jp">か</td><td>(cuối câu) câu hỏi · hoặc</td><td class="jp">行きますか</td></tr>
+  </table></div>
+
+  <h3>③ ~20 đuôi động từ — nhìn đuôi biết nghĩa</h3>
+  <p>Gốc động từ thường là Kanji bạn đã biết (<span class="jp">食</span> = ăn, <span class="jp">読</span> = đọc). Chỉ cần đọc <b>đuôi</b>:</p>
+  <div class="tbl"><table>
+    <tr><th>Đuôi</th><th>Nghĩa</th><th>Ví dụ (食べ = ăn)</th></tr>
+    <tr><td class="jp">〜る・〜う・〜ます</td><td>(hiện tại / sẽ)</td><td class="jp">食べる・食べます</td></tr>
+    <tr><td class="jp">〜た・〜ました</td><td>đã</td><td class="jp">食べた</td></tr>
+    <tr><td class="jp">〜ない・〜ません</td><td>không</td><td class="jp">食べない</td></tr>
+    <tr><td class="jp">〜なかった</td><td>đã không</td><td class="jp">食べなかった</td></tr>
+    <tr><td class="jp">〜て</td><td>…rồi / và (nối câu)</td><td class="jp">食べて寝た</td></tr>
+    <tr><td class="jp">〜ている</td><td>đang · đã ở trạng thái</td><td class="jp">食べている・結婚している</td></tr>
+    <tr><td class="jp">〜たい</td><td>muốn</td><td class="jp">食べたい</td></tr>
+    <tr><td class="jp">〜られる・〜れる</td><td>bị / được · có thể</td><td class="jp">食べられる</td></tr>
+    <tr><td class="jp">〜させる</td><td>bắt / cho (ai làm)</td><td class="jp">食べさせる</td></tr>
+    <tr><td class="jp">〜ば・〜たら・〜なら</td><td>nếu</td><td class="jp">食べれば・食べたら</td></tr>
+    <tr><td class="jp">〜ても</td><td>dù có… cũng</td><td class="jp">食べても</td></tr>
+    <tr><td class="jp">〜なければならない</td><td>phải</td><td class="jp">食べなければならない</td></tr>
+    <tr><td class="jp">〜てもいい</td><td>được phép</td><td class="jp">食べてもいい</td></tr>
+    <tr><td class="jp">〜ことができる</td><td>có thể</td><td class="jp">食べることができる</td></tr>
+    <tr><td class="jp">〜ようだ・〜そうだ・〜らしい</td><td>có vẻ · nghe nói</td><td class="jp">食べたそうだ</td></tr>
+    <tr><td class="jp">〜だろう・〜でしょう</td><td>chắc là</td><td class="jp">雨だろう</td></tr>
+    <tr><td class="jp">〜かもしれない</td><td>có lẽ</td><td class="jp">行くかもしれない</td></tr>
+    <tr><td class="jp">〜ながら</td><td>vừa… vừa</td><td class="jp">食べながら</td></tr>
+    <tr><td class="jp">〜ために</td><td>để · vì</td><td class="jp">勝つために</td></tr>
+    <tr><td class="jp">〜する (sau từ Hán)</td><td>biến danh từ thành động từ</td><td class="jp">発表する = công bố</td></tr>
+  </table></div>
+  <div class="card"><b>Nhận ra động từ gốc khi đã chia</b> (để tra từ điển): động từ nhóm 1 đổi âm cuối trước て/た —
+    <span class="jp">読む→読んで・読んだ</span> · <span class="jp">書く→書いて</span> · <span class="jp">話す→話して</span> · <span class="jp">待つ・取る・買う→待って・取って・買って</span> · <span class="jp">泳ぐ→泳いで</span> · <span class="jp">行く→行って</span>. Bất quy tắc: <span class="jp">する→して・した</span>, <span class="jp">来る→来て・来た</span>. Thể ý chí <span class="jp">〜よう・〜おう</span> = "hãy… / định…".</div>
+  <div class="card tip"><b>Mẹo:</b> chuỗi đuôi đọc từ trái sang phải giống tiếng Việt: <span class="jp">食べ・させ・られ・なかった</span> = ăn · bị bắt · đã không → "đã không bị bắt ăn".</div>
+
+  <h3>④ ~10 cụm nối câu</h3>
+  <p><span class="jp">しかし・でも</span> (nhưng) · <span class="jp">そして</span> (và rồi) · <span class="jp">また</span> (ngoài ra) · <span class="jp">だから・そのため</span> (vì vậy) · <span class="jp">〜が、</span> (…nhưng) · <span class="jp">〜ので・〜から</span> (vì) · <span class="jp">〜のに</span> (mặc dù) · <span class="jp">〜とき</span> (khi) · <span class="jp">〜によると</span> (theo…) · <span class="jp">〜について</span> (về…).</p>
+  <p>Tính từ chỉ cần biết 2 đuôi: <span class="jp">〜い</span> (cao = <span class="jp">高い</span>) · <span class="jp">〜くない</span> (không) · <span class="jp">〜かった</span> (đã).</p>
+
+  <h3>⑤ Từ viết bằng kana &amp; cụm văn báo — Kanji không giúp được</h3>
+  <div class="tbl"><table><tr><th>Từ</th><th>Nghĩa</th></tr><tr><th colspan="2" style="color:var(--accent);padding-top:12px">Trợ từ ghép</th></tr><tr><td class="jp">について</td><td>về (vấn đề)</td></tr><tr><td class="jp">に対して</td><td>đối với · trái lại</td></tr><tr><td class="jp">によって</td><td>do · bởi · tuỳ theo</td></tr><tr><td class="jp">として</td><td>với tư cách là</td></tr><tr><td class="jp">において</td><td>tại · trong (trang trọng)</td></tr><tr><td class="jp">に関する</td><td>liên quan đến</td></tr><tr><td class="jp">にとって</td><td>đối với (ai)</td></tr><tr><td class="jp">とともに</td><td>cùng với · đồng thời</td></tr><tr><td class="jp">に伴い</td><td>kéo theo · cùng với việc</td></tr><tr><th colspan="2" style="color:var(--accent);padding-top:12px">Trạng từ</th></tr><tr><td class="jp">すでに</td><td>đã (rồi)</td></tr><tr><td class="jp">まだ</td><td>vẫn còn · chưa</td></tr><tr><td class="jp">もう</td><td>đã · nữa</td></tr><tr><td class="jp">ほとんど</td><td>hầu hết · hầu như</td></tr><tr><td class="jp">かなり</td><td>khá là</td></tr><tr><td class="jp">とても</td><td>rất</td></tr><tr><td class="jp">さらに</td><td>hơn nữa · thêm</td></tr><tr><td class="jp">特に</td><td>đặc biệt</td></tr><tr><td class="jp">必ず</td><td>nhất định</td></tr><tr><td class="jp">ずっと</td><td>suốt · hơn hẳn</td></tr><tr><th colspan="2" style="color:var(--accent);padding-top:12px">Văn báo</th></tr><tr><td class="jp">〜とみられる</td><td>được cho là</td></tr><tr><td class="jp">〜ことが分かった</td><td>đã biết được rằng · được xác nhận</td></tr><tr><td class="jp">〜と明らかにした</td><td>đã cho biết rằng</td></tr><tr><td class="jp">〜方針</td><td>chủ trương (sẽ…)</td></tr><tr><td class="jp">〜を受けて</td><td>sau khi / do (sự việc)</td></tr><tr><td class="jp">〜とした</td><td>cho rằng · tuyên bố</td></tr><tr><td class="jp">〜である</td><td>là (văn viết)</td></tr><tr><th colspan="2" style="color:var(--accent);padding-top:12px">Dạng thường (truyện)</th></tr><tr><td class="jp">だ</td><td>là</td></tr><tr><td class="jp">だった</td><td>đã là</td></tr><tr><td class="jp">じゃない</td><td>không phải</td></tr><tr><td class="jp">〜んだ</td><td>là vì… · (giải thích, nhấn mạnh)</td></tr><tr><td class="jp">〜ちゃう</td><td>lỡ… mất · …hết</td></tr><tr><td class="jp">〜てる</td><td>đang (= 〜ている)</td></tr><tr><td class="jp">よ</td><td>đấy (nhấn, báo tin)</td></tr><tr><td class="jp">ね</td><td>nhỉ · nhé</td></tr><tr><td class="jp">な</td><td>(nam) nhỉ · đừng (sau động từ)</td></tr><tr><th colspan="2" style="color:var(--accent);padding-top:12px">Kính ngữ (chỉ cần nhận ra)</th></tr><tr><td class="jp">いらっしゃる</td><td>đến · đi · ở (kính)</td></tr><tr><td class="jp">おっしゃる</td><td>nói (kính)</td></tr><tr><td class="jp">いただく</td><td>nhận · ăn (khiêm)</td></tr><tr><td class="jp">くださる</td><td>cho (kính)</td></tr><tr><td class="jp">申す</td><td>nói (khiêm)</td></tr><tr><td class="jp">伺う</td><td>hỏi · đến thăm (khiêm)</td></tr><tr><td class="jp">ご覧になる</td><td>xem (kính)</td></tr></table></div>
+
+  <h2><span class="no">Bước 4</span> Đọc nhiều với công cụ tra 1 chạm (từ tuần 2 trở đi)</h2>
+  <p>Đây là phần <b>chiếm 80% thời gian</b>. Ngữ pháp còn thiếu sẽ tự lấp khi gặp đi gặp lại.</p>
+  <ul>
+    <li><b>Cài công cụ tra khi rê chuột</b> (ví dụ tiện ích trình duyệt kiểu popup dictionary): rê lên từ → hiện cách đọc + nghĩa + tách đuôi động từ (<span class="jp">食べられなかった</span> → "食べる, bị động, quá khứ, phủ định"). Đây là "người dạy ngữ pháp" miễn phí.</li>
+    <li><b>Quy tắc 2 lần:</b> gặp từ lạ chỉ tra; gặp lần thứ 2 thì lưu <b>cả câu</b> vào app ôn ngắt quãng (SRS) — câu có ngữ cảnh nhớ lâu hơn từ rời.</li>
+    <li><b>Từ vựng lõi:</b> song song 15–20 từ mới/ngày từ danh sách theo tần suất (ưu tiên văn viết/báo). Mốc: ~2.000 từ cho tin dễ, 5.000–8.000 cho báo thật. Từ gốc Hán đi rất nhanh nhờ bạn đã biết Kanji.</li>
+    <li><b>Đọc lướt, không dịch từng chữ:</b> hiểu ~70% ý là đi tiếp. Tốc độ quan trọng hơn độ chính xác ở giai đoạn này.</li>
+  </ul>
+
+  <h3>Tài liệu theo độ khó</h3>
+  <ol>
+    <li><b>Tin tức dễ</b> (NHK News Web Easy — văn báo thật nhưng câu ngắn, có furigana). Bắt đầu ở đây vì văn viết chuẩn, ít khẩu ngữ.</li>
+    <li><b>Truyện đọc theo cấp độ</b> (graded reader / Tadoku) — sau khi đã quen dạng thường <span class="jp">だ・んだ</span>. Trên site: <a href="truyen.html">📚 Truyện Kanji</a>.</li>
+    <li><b>Báo thật</b> — từ vựng Hán rất dày, đúng sở trường người biết Kanji. Trên site: <a href="doc-bao.html">📰 Đọc báo</a>.</li>
+    <li><b>Chủ đề bạn thích</b> (IT, game, tiểu thuyết…) — động lực là thứ giữ bạn đọc lâu dài.</li>
+  </ol>
+
+  <h2><span class="no">Lịch</span> ~1,5 giờ/ngày</h2>
+  <div class="card week">
+    <b>Tuần 1</b><span>Kana trơn (nếu cần) · đọc thử 100 từ ghép Hán Việt · bẫy nghĩa.</span>
+    <b>Tuần 2–3</b><span>Trợ từ ② · đuôi động từ ③ + chia て/た · nối câu ④ · bắt đầu 15 từ lõi/ngày.</span>
+    <b>Tháng 2–3</b><span>NHK Easy mỗi ngày với công cụ tra · lưu câu chứa từ gặp lần 2 · bảng ⑤ · <b style="display:inline">mốc: đọc tin dễ</b>.</span>
+    <b>Tháng 4–6</b><span>Báo thường (NHK, Asahi…) + truyện theo cấp độ · ~3.000–5.000 từ.</span>
+    <b>Tháng 7–9</b><span>Chủ đề yêu thích, giảm dần tra cứu · <b style="display:inline">mốc: đọc ý chính báo thật</b>. Đọc trôi chảy ít tra: khoảng 12 tháng.</span>
+  </div>
+  <p class="lead">Nhờ đã biết Kanji, quãng đường này ngắn hơn khoảng một nửa so với người học thông thường (thường 1.500+ giờ để đọc báo).</p>
+
+  <h2><span class="no">Tự kiểm tra</span> Khi nào là "đọc hiểu được"?</h2>
+  <ul class="check">
+    <li>Đọc 1 bài báo ngắn (~400 chữ) và kể lại ý chính bằng tiếng Việt trong 10 phút.</li>
+    <li>Nhìn đuôi <span class="jp">〜られなかった</span>, <span class="jp">〜させて</span>, <span class="jp">〜なければ</span> hiểu ngay không cần nghĩ.</li>
+    <li>Gặp câu dài: biết tìm động từ cuối câu + tách cụm theo trợ từ.</li>
+    <li>Tra dưới 1 từ / 2 dòng ở tin tức dễ.</li>
+  </ul>
+
+  <div class="card tip"><b>Không cần học:</b> kính ngữ chi tiết (chỉ cần biết <span class="jp">〜ます・です</span> và <span class="jp">お〜・ご〜</span> là "lịch sự"), cách chia để <i>tự nói/viết</i>, 600+ mẫu ngữ pháp N1 — gặp mẫu hiếm thì tra lúc đọc là đủ.</div>
+
+  <h2>Trên site này</h2>
+  <div class="links">
+    <a href="write.html">✍️ Luyện viết Kanji (ôn chữ + bẫy nghĩa)</a>
+    <a href="truyen.html">📚 Truyện Kanji</a>
+    <a href="doc-bao.html">📰 Đọc báo</a>
+    <a href="dong-am.html">🔀 Kanji đồng âm</a>
+  </div>
+</main>
+</body>
+</html>
