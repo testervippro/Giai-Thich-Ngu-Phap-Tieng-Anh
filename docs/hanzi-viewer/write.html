@@ -110,6 +110,7 @@
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
     <button class="btn" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện">🖼 Ảnh: tắt</button>
+    <button class="btn" id="onlyBtn" title="Chỉ hiện chữ có trong 2136 Kanji tiếng Nhật (cùng chữ, phồn thể hoặc biến thể)">🇯🇵 Chỉ 2136</button>
     <button class="btn" id="jpBtn" title="Hiện/ẩn so sánh với Kanji tiếng Nhật (2136 Kanji)">🇯🇵 Tiếng Nhật</button>
     <button class="btn" id="warnBtn" title="Hiện/ẩn ô cảnh báo OCR">⚠️ Cảnh báo: tắt</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / pinyin / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
@@ -178,7 +179,7 @@
   let i = 0, showCard = store.get('card', true), showJp = store.get('jp', false), showWarn = store.get('warnBox', false), nums = store.get('nums', true), step = -1, total = 0, ghost = true, quiz = false, loop = false, useTrad = false;
   let model = null, loopTimer = null, PAD = 12, charData = null, drawn = [], hintOn = false;
 
-  function pool(){
+  function pool0(){
     if (set === 'all') return ALL;
     if (set === 'warn') { const done = store.get('checked', {}); return ALL.filter(x => hasWarn(x) && !done[x.n]); }
     if (/^[123]$/.test(set)) return ALL.filter(x => String(x.tap) === set);
@@ -186,6 +187,14 @@
     const range = set.match(/^HSK1-(\d)$/);   // gộp HSK1 → HSKn (vd HSK1-4)
     if (range) { const hi = +range[1]; return ALL.filter(x => { const lv = +(x.hsk || '').replace('HSK', ''); return lv >= 1 && lv <= hi; }); }
     return ALL.filter(x => x.hsk === set);
+  }
+  // 🇯🇵 Chỉ 2136: chỉ giữ thẻ có trong 2136 Kanji (cùng chữ, phồn thể, hoặc biến thể Nhật)
+  let only2136 = store.get('only2136', false), IN2136 = null;
+  function pool(){ const L = pool0(); return only2136 && IN2136 ? L.filter(x => IN2136.has(x.n)) : L; }
+  async function load2136(){
+    if (IN2136) return;
+    const K = await kanji();
+    IN2136 = new Set(ALL.filter(x => (K.byCard.get(x.n) || []).length || K.byK.has(x.k) || (x.t && K.byK.has(x.t))).map(x => x.n));
   }
   function cur(){ const L = pool(); return L[Math.max(0, Math.min(i, L.length - 1))]; }
   function imgPath(x){ return 'story/' + String(x.n).padStart(4, '0') + '.webp'; }   // chỉ ô câu chuyện (tranh + câu), giống trang Kanji
@@ -397,6 +406,15 @@
   $('cardBtn').onclick = () => { showCard = !showCard; store.set('card', showCard); render(); };
   $('jpBtn').onclick = () => { showJp = !showJp; store.set('jp', showJp); $('jpBtn').classList.toggle('on', showJp); render(); };
   $('jpBtn').classList.toggle('on', showJp);
+  $('onlyBtn').classList.toggle('on', only2136);
+  $('onlyBtn').onclick = async () => {
+    const x0 = cur();
+    only2136 = !only2136; store.set('only2136', only2136); $('onlyBtn').classList.toggle('on', only2136);
+    if (only2136) { try { await load2136(); } catch (e) { only2136 = false; $('onlyBtn').classList.remove('on'); return; } }
+    const L = pool(), j = L.indexOf(x0); i = j >= 0 ? j : 0;   // giữ nguyên thẻ đang xem nếu còn trong bộ
+    render();
+  };
+  if (only2136) load2136().then(() => { i = Math.min(i, pool().length - 1); render(); }).catch(() => {});
   const warnLabel = () => { $('warnBtn').textContent = '⚠️ Cảnh báo: ' + (showWarn ? 'bật' : 'tắt'); $('warnBtn').classList.toggle('on', showWarn); };
   $('warnBtn').onclick = () => { showWarn = !showWarn; store.set('warnBox', showWarn); warnLabel(); renderWarn(cur()); };
   warnLabel();
