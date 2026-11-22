@@ -155,6 +155,7 @@
     <a class="btn" id="daLink" href="dong-am.html" title="Các chữ cùng âm Hán Việt nhưng khác chữ, khác nghĩa" style="text-decoration:none">🔀 Đồng âm</a>
     <button class="btn" id="liteBtn" title="Danh sách cả bộ: mỗi chữ hiện chữ Hán trước, rồi câu chuyện + mảnh ghép (ẩn ảnh, ô viết, từ vựng)">📖 Danh sách chữ + câu chuyện</button>
     <button class="btn on" id="cardBtn" title="Hiện/ẩn ảnh câu chuyện của chữ">🖼 Ảnh: bật</button>
+    <button class="btn" id="zhBtn" title="Hiện/ẩn so sánh với chữ Hán tiếng Trung (Hack Não 3000 Chữ Hán)">🇨🇳 Tiếng Trung</button>
     <button class="btn" id="enBtn" title="Hiện thêm nghĩa và câu chuyện bằng tiếng Anh (cả mảnh ghép)">🇬🇧 English</button>
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
@@ -482,6 +483,7 @@
   }
   async function crossZh(x){
     const box = $('xZh');
+    if (!st.zh){ box.classList.add('hidden'); return; }       // chỉ hiện khi bật 🇨🇳
     let H; try { H = await hanzi(); } catch (e) { box.classList.add('hidden'); return; }
     if (list[i] !== x) return;
     let rs = (H.map[x.k] || []).map(n => H.byN.get(n)).filter(Boolean);
@@ -580,6 +582,8 @@
   };
   const enApply = () => { document.body.classList.toggle('showen', !!st.en); $('enBtn').classList.toggle('on', !!st.en); };
   $('enBtn').onclick = () => { st.en = !st.en; enApply(); save(); };
+  $('zhBtn').onclick = () => { st.zh = !st.zh; $('zhBtn').classList.toggle('on', !!st.zh); save(); show(); };
+  $('zhBtn').classList.toggle('on', !!st.zh);
   enApply();
   const cardLabel = () => { $('cardBtn').classList.toggle('on', st.card); $('cardBtn').textContent = st.card ? '🖼 Ảnh: bật' : '🖼 Ảnh: tắt'; };
   $('cardBtn').onclick = () => { st.card = !st.card; cardLabel(); save(); show(); };
