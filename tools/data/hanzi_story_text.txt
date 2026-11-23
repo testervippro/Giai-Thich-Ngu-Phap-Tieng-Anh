@@ -102,7 +102,7 @@
 102|Nước (氵) đun 10 (十) lần vẫn là {chất lỏng|n} (汁)
 103|Miệng (口) ngậm 10 (十) {chiếc lá|n} (叶)
 104|Vàng (钅) 10 (十) làm cái {kim|n} (针)
-105|KẾ HOẠCH Dự định, kế hoạch KẾ TOÁN Tính toán, suy tính HỘI KẾ Kế toán
+105|{Nói|b} (讠) {10|b} (十) lần ra {kế hoạch|b} (计)
 106|Pha 1 (一) cốc {nước|r} (水) theo đúng ông {chủ|n} (丶) yêu cầu (求)
 107|Vua (王) {yêu cầu|r} (求) được đá {bóng|n} (球)
 108|{Yêu cầu|r} (求) nếu bị đánh (攵) phải đưa đi {cấp cứu|b} (救)
@@ -126,7 +126,7 @@
 126|Miệng nói (讠) chu (周) ra khi {điều tra|b} (调)
 127|Dùng sợi tơ (纟) đo {chu vi|r} (周) của tấm {lụa|n} (绸)
 128|Lúa (禾) {chu vi|r} (周) xung quanh mang về nấu cháo {đặc|n} (稠)
-129|tượng con chim (住) cần điêu khắc (雕) lại
+129|Xung quanh {chu vi|b} (周) tượng {con chim|b} (隹) cần {điêu khắc|b} (雕) lại
 130|Vốn dĩ (以) 1 (𠄌) {chấm|n} (丶) làm {người|r} (人) say đắm
 131|Con người (亻) vốn dĩ (以) là {giống nhau|n} (似)
 132|Tay (扌) đó vốn {dĩ|r} (以) là người {nghĩ ra|n} (拟) kế hoạch
@@ -370,7 +370,7 @@
 370|Tay (扌) {đều|r} (佥) thích {nhặt|n} (捡) tiền rơi
 371|Người (亻) {đều|r} (佥) biết {tiết kiệm|n} (俭)
 372|Các cao thủ {đều|r} (佥) dùng đao (刂) {kiếm|n} (剑)
-373|đều (盆) mang đi đánh (文) bạc Thu lại, biến mất, vụt tót. THU LIÊM shoullăn
+373|Tất cả tiền gom lại {đều|b} (佥) mang đi {đánh|b} (攵) bạc
 374|2 (丷) đứa {lớn|r} (大) {đầu|n} (头) mà còn nghịch dại
 375|Mái nhà (宀) chạm {đầu|r} (头) {thật|n} (实)
 376|Móc (乛) {đầu|r} (头) vào {mua|n} (买)
@@ -450,7 +450,7 @@
 450|Nước (氵) trong {bao|r} (包) sủi {bọt|n} (泡)
 451|{Long bào|n} (袍) là y phục (衤) {bao|r} (包) đẹp
 452|Cơ thể Nguyệt (月) có {bao|r} (包) nhiêu {tế bào|n} (胞)
-453|là mưa đá (雹) BĂNG BẠC Mưa đá bìngbáo ⟨?⟩
+453|{Mưa|b} (雨) to như {bao|b} (包) là {mưa đá|b} (雹)
 454|{Bao|r} (包) nhiêu đao (刂) dùng để {bào|n} (刨) rau củ ⟨?⟩
 455|{1|r} (一) người chắp tay (廾) {mở|n} (开) cửa
 456|{Mở|r} (开) tiệm làm tóc (彡) tạo {hình|n} (形) tạo kiểu
@@ -535,7 +535,7 @@
 539|Vua (王) là {chủ|r} (主) thiên hạ
 540|Người (亻) làm {chủ|r} (主) nơi {cư trú|n} (住)
 541|Chân trái (彳) ông {chủ|r} (主) đang {đi đến|n} (往)
-542|Chú ý (注) đìng đ bắn vào đn ⟨?⟩
+542|{Chú ý|b} (注) đừng để {nước|b} (氵) bắn vào {ông chủ|b} (主)
 543|Tay (扌) ông {chủ|r} (主) đang {chống gậy|n} (拄)
 544|Cây (木) {chủ|r} (主) dùng làm {cột trụ|n} (柱)
 545|Ngựa (马) và ông {chủ|r} (主) tìm nơi {lưu trú|n} (驻)
@@ -551,7 +551,7 @@
 555|Gạo (米) mới sáng tạo (造) ra là loại gạo {thô|n} (糙)
 556|Kinh doanh phải {dựa vào|n} (靠) năng lực {quảng cáo|r} (告) phi thường (非)
 557|Giờ Dậu (酉) các {quảng cáo|r} (告) đều rất {cool ngâu|n} (酷)
-558|Đất n:: biển quảng còa t ⟨?⟩
+558|{Đất nước|b} (氵) đầy {biển quảng cáo|b} (告) {mênh mông|b} (浩)
 559|Giống hình cái thang ngược
 560|Miệng (口) {phi|r} (非) ra uống cà {phê|n} (啡)
 561|Tay (扌) phi (非) ra {xếp hàng|b} (排)
@@ -606,7 +606,7 @@
 610|Uống nước (氵) {thả|r} (且) ga giúp vượt qua {chán nản|n} (沮)
 611|{Thả|r} (且) hết sức lực (力) ra để {trợ giúp|n} (助)
 612|Mái nhà (宀) làm cẩu {thả|r} (且) là không {phù hợp|n} (宜)
-613|Nói (讠) chuyện không 1017 ngờ mới là tình hữu nghì (谊) ⟨?⟩
+613|{Nói|b} (讠) chuyện không {nghi|b} (宜) ngờ mới là tình {hữu nghị|b} (谊)
 614|{Huyện|n} (县) {thả|r} (且) 4 (厶) phạm nhân
 615|Quan {huyện|r} (县) có tâm (心) {treo|n} (悬) giải thưởng
 616|Nói thẳng (直) là 10 (十) phạm nhân chỉ {thả|r} (且) {1|n} (一) người
@@ -677,7 +677,7 @@
 681|{Các|n} (们) người đứng (亻) ở {cửa|r} (门) làm gì ⟨?⟩
 682|Đứng dưới {cửa|r} (门) mở miệng (口) {hỏi|n} (问)
 683|Đứng dưới {cửa|r} (门) vểnh tai (耳) {nghe|n} (闻)
-684|của (间) là cánh cửa thời gion (T ⟨?⟩
+684|{Cửa|b} (门) ở {Nhật|b} (日) là cánh cửa {thời gian|b} (间)
 685|Trồng trúc (⺮) rất mất {thời gian|r} (间) chứ không {đơn giản|b} (简)
 686|Bán nước (氵) dưới cửa (门) {vua|n} (王) kiếm được rất nhiều lợi nhuận (润)
 687|{Cửa|r} (门) nhà thiên tài (才) đang {đóng|n} (闭)
@@ -685,7 +685,7 @@
 689|Dưới {cửa|r} (门) trồng cây (木) rất {nhàn|n} (闲)
 690|Dưới {cửa|r} (门) là người (人) hùng {tia chớp|n} (闪)
 691|Cảm thấy {ngột ngạt|n} (闷) vì không thể mở {cửa|r} (门) trái tim (心)
-692|PiNNge chng đến độp (h ⟨?⟩
+692|Ở nhà, {nhi đồng|b} (儿) chạy đến {gặp|b} (见) mẹ
 693|Con thuyền (舟) {gặp|r} (见) phải {chiến hạm|n} (舰)
 694|Chỉ thị (礻) {gặp|r} (见) bác sĩ để kiểm tra {thị lực|n} (视)
 695|3 (⺍) đêm {trùm khăn|n} (冖) {gặp|r} (见) ma cảm thấy (觉) rất sợ
@@ -693,14 +693,14 @@
 697|{Hiện tại|n} (现) vua (王) đang {gặp|r} (见) nguy hiểm ⟨?⟩
 698|{Quan sát|n} (观) lại (又) vấn đề đã {gặp|r} (见)
 699|Vào nhà (宀) cô {Thảo|n} (艹) {gặp|r} (见) ngay cái vườn rộng (宽)
-700|Quy định (中) chiing< ớn (规)ai phải bát cn ⟨?⟩
+700|{Quy định|b} (规) {chồng|b} (夫) {gặp|b} (见) ai phải báo vợ
 701|Lỗ (穴) theo {quy định|r} (规) không được {dòm ngó|n} (窥)
 702|Dùng móng vuốt (爫) bắt {gặp|r} (见) con mồi để {kiếm|n} (觅) ăn
 703|Vác rìu nặng một {cân|n} (斤) lên {sườn núi|r} (厂) Tê (丅) hết cả tay
 704|Cầm {rìu|r} (斤) đi xa (辶) về {gần|n} (近) ⟨?⟩
 705|Miệng (口) nói tay cầm {rìu|r} (斤) ai cũng phải {nghe|n} (听)
 706|Tủ đựng (匚) {rìu|r} (斤) là của {thợ|n} (匠)
-707|
+707|{Thần|b} (礻) gian lận {cân|b} (斤) phải {cầu nguyện|b} (祈)
 708|Bố (父) có 2 cái rìu (斤) => (斧)
 709|{Chỗ|n} (所) cửa (户) có giấu cái rìu (斤)
 710|Tay (扌) cầm rìu (斤) chiết {gãy|n} (折) cả cây
@@ -708,13 +708,13 @@
 712|{Chiết|r} (折) cây đi xa (辶) sẽ {chết|n} (逝)
 713|{Chiết|r} (折) lời (言) hay ý đẹp để {thề|n} (誓)
 714|Chặt cây (木) bằng {rìu|r} (斤) mang đi {phân tích|n} (析)
-715|2о rаn )6р/t ⟨?⟩
+715|Cả {ngày|b} (日) {phân tích|b} (析) {rõ ràng|b} (晰) mọi việc
 716|Cây rìu (斤) bị khiếm khuyết (欠) nên không {vui|n} (欣)
 717|Tay (扌) {vui vẻ|r} (欣) {vén|n} (掀) váy
 718|{Ai|r} (谁) đó nói (讠) như {chim|n} (隹) hót
 719|{Chim|r} (隹) trên cây (木) {tập hợp|n} (集) lại
 720|{Chim|r} (隹) mở miệng (口) {bán hàng|n} (售)
-721|Millu 61E ⟨?⟩
+721|{Tay|b} (扌) {đẩy|b} (推) {con chim|b} (隹) đi
 722|{Chuẩn bị|n} (准) đóng băng (冫) con chim (隹)
 723|Chim (隹) bị lửa (灬) đốt {cháy khét|n} (焦)
 724|Cô Thảo (艹) đốt {cháy khét|r} (焦) cả vườn {chuối|n} (蕉)
@@ -722,7 +722,7 @@
 726|Đá (石) {cháy|r} (焦) {ngầm|n} (礁)
 727|Cỏ (艹) {giờ Dậu|n} (酉) đốt {cháy khét|r} (焦) hòa thành nước chấm (蘸)
 728|Đắp {đống|n} (堆) đất (土) làm tổ {chim|r} (隹)
-729|Cổ thuở (雇) N area camohin (f ⟨?⟩
+729|{Cố thuê|b} (雇) {cánh cửa|b} (户) để nhốt {con chim|b} (隹)
 730|{Duy|n} (维) dùng tơ (纟) buộc {chim|r} (隹)
 731|Mỏ (口) {chim|r} (隹) là {duy nhất|n} (唯)
 732|Từ trên cây (木) {chim|r} (隹) bị ngã gãy cả {cột sống|n} (椎)
@@ -730,7 +730,7 @@
 734|Bé (小) {chim|r} (隹) {sẻ|b} (雀) ⟨?⟩
 735|Dưới sườn núi (厂) {người đứng|n} (亻) bắt {chim|r} (隹) và ngỗng trời (雁)
 736|Đi lại (又) {chim|r} (隹) cũng thấy {khó|n} (难)
-737|УRSTO-Й AIAE TRTOVA ⟨?⟩
+737|{Nước|b} (氵) sông {Hoài|b} (淮) có nhiều {chim|b} (隹)
 738|Một tay (扌) {khó|r} (难) nhấc được cả {quầy hàng|n} (摊)
 739|{Liệt|n} (瘫) là bệnh (疒) {khó|r} (难) chữa
 740|10 (十) {4|b} (厶) con {chim|r} (隹) trống anh hùng (雄)
@@ -738,14 +738,14 @@
 742|Rót (灌) nước (氵) từ cây cỏ (艹) vào {miệng|o} (口) {chim|r} (隹)
 743|Tay (扌) bắt con {chim|r} (隹) số {31|n} (乃) mang theo (携) làm huề
 744|Ánh sáng (光) chiếu qua {lông|n} (羽) {chim|r} (隹) thật chói lọi (耀)
-745|Lông (羽) chim (隹) đi qua (戈) chọc (戳) vào người ⟨?⟩
+745|{Lông|b} (羽) {chim|b} (隹) đi {qua|b} (戈) {chọc|b} (戳) vào người
 746|Thúc giục (催) người (亻) lên {núi|n} (山) bắt {chim|r} (隹)
 747|Tay (扌) lên {núi|n} (山) bắt {chim|r} (隹) là phá hủy (摧) tự nhiên
 748|{Bỗng nhiên|n} (霍) trời {mưa|g} (雨) chim (隹) bay toán loạn
 749|Trời (丅) {mưa|r} (冂) {4|b} (⺀) hạt mưa (雨) ⟨?⟩
 750|Đi dưới {mưa|r} (雨) Em (彐) hứng từng {bông tuyết|n} (雪)
 751|{Mưa|r} (雨) xuống ruộng (田) kèm theo {sấm sét|n} (雷)
-752|H90 (4 CA On so ⟨?⟩
+752|{Cỏ|b} (艹) bị {sấm sét|b} (雷) đánh vẫn nở {nụ hoa|b} (蕾)
 753|{Mưa|r} (雨) tạo ra vụ (务) {sương mù|n} (雾)
 754|Nước (氵) từ {xác chết|n} (尸) theo {mưa|r} (雨) rò rỉ (漏) ra
 755|{Mưa|r} (雨) giả (叚) tạo ra {ráng mây màu|n} (霞)
@@ -753,7 +753,7 @@
 757|{Mưa|r} (雨) tìm cách (革) để {trăng|n} (月) làm bá chủ (霸) ⟨?⟩
 758|Xem bói (卜) bằng {miệng|r} (口) đang {chiếm|n} (占) đa số
 759|{Chiếm|r} (占) nhà phóng hỏa (灬) là do có kẻ chỉ {điểm|n} (点)
-760|Người đứng (亚) chiếm (占) hất chỗ ở trạm (站) tài điên ⟨?⟩
+760|{Người đứng|b} (立) {chiếm|b} (占) hết chỗ ở {trạm|b} (站) tàu điện
 761|Mái hiên (广) rộng bị {chiếm|r} (占) để làm {cửa hàng|n} (店)
 762|Buôn bán {nhớ|n} (惦) phải có tâm (忄) nhé {cửa hàng|r} (店)
 763|Gạo (米) bị {chiếm|r} (占) để làm chất {dính|n} (粘)
@@ -761,14 +761,14 @@
 765|Bảo bối (贝) bị {chiếm|r} (占) rồi {dán|n} (贴) niêm phong
 766|{Chiến đấu|n} (战) với các đối tượng lừa đảo {chiếm|r} (占) đoạt tài sản qua (戈) mạng
 767|Ăn bún đậu {chấm|n} (沾) nước (氵) mắm {chiếm|r} (占) đa số
-768|) vànng H VER BUPOIRG chiếm (É yáa ⟨?⟩
+768|{Kim cương|b} (钻) {vàng|b} (钅) {chiếm|b} (占) ưu thế
 769|{Thiếp mời|n} (帖) bằng khăn (巾) lụa {chiếm|r} (占) đa số
 770|{Chiếm|r} (占) iPhone X (乂) để chụp ảnh {món kho|n} (卤)
 771|Câu chuyện qua {10|r} (十) cái miệng (口) trở thành truyện {cổ|r} (古)
 772|Cả nước (氵) mang đô {cổ|r} (古) đi {mua bán|n} (沽)
 773|{Cổ|r} (古) bị đánh (攵) là {sự cố|n} (故) lớn
 774|Người (亻) {cố|r} (故) {làm|n} (做) hài lòng người khác
-775|Xác chất (古) tìm mrộ đổ (居) đã đ4 ⟨?⟩
+775|{Xác chết|b} (尸) tìm {mộ cổ|b} (古) để {ở|b} (居)
 776|{Ở|r} (居) nơi bán đao (刂) có {diễn kịch|n} (剧)
 777|Tay (扌) đó đang {ở|r} (居) {căn cứ|n} (据)
 778|{Cưa|n} (锯) vàng (钅) mua ở (居) đâu
