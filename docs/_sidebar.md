@@ -179,6 +179,7 @@
   - [🔧 Xem thẻ Kanji (JLPT N5–N1)](kanji-viewer/index.html)
   - [🎮 Game Kanji 2.136 chữ](kanji-viewer/game.html)
   - [✍️ Luyện viết 2136 Kanji](kanji-viewer/write.html)
+  - [🎞️ Kanji chuyển động — mỗi chữ lặp N lần rồi tự chuyển](kanji-viewer/anim.html)
   - [🤯 Kanji khó nhớ — nghĩa khác tiếng Việt (825 chữ)](kanji-viewer/write.html?set=lu)
   - [🔀 Kanji đồng âm Hán Việt (501 âm trùng)](kanji-viewer/dong-am.html)
   - [📜 Truyện dài: 2.075 Kanji có câu chuyện, nối thành 1 truyện (12 chương)](kanji-viewer/truyen.html)
@@ -203,6 +204,7 @@
 - [🗣️ Phát âm (pinyin) — có audio](tieng-trung-phat-am.md)
 - [1000 câu ngắn Trung – Anh](1000-short-phrases-Chinese-English.md)
 - [✍️ Luyện viết 3000 chữ Hán](hanzi-viewer/write.html)
+- [🎞️ Chữ Hán chuyển động — mỗi chữ lặp N lần rồi tự chuyển](hanzi-viewer/anim.html)
 - [🔍 So 2136 Kanji với 3000 chữ Hán](hanzi-viewer/kanji-vs-3000.html)
 - **📚 Từ vựng HSK1–HSK6 (4.896 từ)**
   - [Tổng hợp HSK1–6](hsk-tu-vung.md)
