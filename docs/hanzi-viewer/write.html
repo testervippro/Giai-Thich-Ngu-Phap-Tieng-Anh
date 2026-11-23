@@ -290,7 +290,7 @@
         + '<br>' + esc(m ? m.charAt(0).toUpperCase() + m.slice(1) : '')
         + (story ? '<br><span class="xs">📖 ' + esc(story) + '</span>' + jpSubs(K, k, story) : '')
         + '<br><a href="../kanji-viewer/write.html#' + encodeURIComponent(k) + '">✍️ Luyện viết Kanji →</a>'
-        + (showCard && img ? '<img class="xi" loading="lazy" src="../kanji-viewer/kanji_story/' + String(n).padStart(4, '0') + '.webp" alt="Ảnh câu chuyện Kanji ' + n + '">' : '')
+        + (showCard && (n <= 2136 || [2137,2139,2140,2141,2142,2143,2145,2146,2147,2149,2150,2153,2155,2157,2160,2161,2162,2163].includes(n)) ? '<img class="xi" loading="lazy" src="../kanji-viewer/kanji_story/' + String(n).padStart(4, '0') + '.webp" alt="Ảnh câu chuyện Kanji ' + n + '">' : '')
         + '</div></div>';
     }).join('');
     box.querySelectorAll('.xi').forEach(im => { im.onclick = () => im.classList.toggle('zoom'); im.onerror = () => im.remove(); });

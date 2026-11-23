@@ -100,7 +100,7 @@
     });
     return `<div class="info"><div class="big">${esc(k)}</div><div><p class="hv">${esc(x.hv || '')}</p><p class="m">${esc(cap(x.m))}</p><p class="tag">${esc(meta)}</p></div></div>`
       + (x.s ? `<div class="st">📖 ${zh(x.s)}</div>` : '') + (sub.length ? `<div class="sub">${sub.join('')}</div>` : '')
-      + (x.n && x.img ? `<img class="story" src="kanji_story/${String(x.n).padStart(4, '0')}.webp" alt="Ảnh câu chuyện thẻ ${x.n}" onerror="this.remove()">` : '');
+      + (x.n && (x.n <= 2136 || [2137,2139,2140,2141,2142,2143,2145,2146,2147,2149,2150,2153,2155,2157,2160,2161,2162,2163].includes(x.n)) ? `<img class="story" src="kanji_story/${String(x.n).padStart(4, '0')}.webp" alt="Ảnh câu chuyện thẻ ${x.n}" onerror="this.remove()">` : '');
   }
   function openCard(k){
     $('dlgBody').innerHTML = cardHtml(k);
