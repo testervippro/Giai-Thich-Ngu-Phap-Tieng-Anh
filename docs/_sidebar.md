@@ -183,6 +183,8 @@
   - [🔀 Kanji đồng âm Hán Việt (501 âm trùng)](kanji-viewer/dong-am.html)
   - [📜 Truyện dài: 2.075 Kanji có câu chuyện, nối thành 1 truyện (12 chương)](kanji-viewer/truyen.html)
   - [🧠 Mẹo nhớ từ Hán Việt dễ lú](kanji-meo-nho.md)
+- **📖 Đọc hiểu (đã thuộc 2136 Kanji)**
+  - [📖 Lộ trình đọc hiểu — ít ngữ pháp, 60 "keo dán" + từ ghép giống/khác tiếng Việt](kanji-viewer/lo-trinh-doc-hieu.html)
 - **📰 Đọc báo (133 bài · 2.089 chữ)**
   - [Lộ trình đọc + từ vựng & ngữ pháp từng bài](kanji-viewer/doc-bao.html)
   - [Bảng đầy đủ dạng văn bản](qiita-kanji-2136.md)
