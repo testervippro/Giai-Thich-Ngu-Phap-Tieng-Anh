@@ -16,3 +16,4 @@ private/
 # Ảnh thẻ Kanji cũ (trước khi làm nét AI) — chỉ để trên máy
 /kanji_cards_old/
 tools/fonts/
+/kanji_gif/
