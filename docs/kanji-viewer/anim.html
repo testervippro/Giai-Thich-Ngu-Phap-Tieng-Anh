@@ -29,10 +29,10 @@
     kbd { border:1px solid var(--line); border-bottom-width:2px; border-radius:5px; padding:0 5px; font-size:12px; }
     /* ⛶ toàn màn hình: khung hoạt hình chiếm cả màn hình, nền trắng, thanh trạng thái nhỏ ở dưới */
     #wrap:fullscreen { background:#fff; display:flex; flex-direction:column; justify-content:center; align-items:center; padding:2vh 2vw; }
-    #wrap:fullscreen .stage { border:0; border-radius:0; width:min(96vw, calc(88vh * 800 / 240)); }
-    #wrap:fullscreen .prog { width:min(96vw, calc(88vh * 800 / 240)); background:#e5e5e5; }
+    #wrap:fullscreen .stage { border:0; border-radius:0; width:96vw; }
+    #wrap:fullscreen .prog { width:96vw; background:#e5e5e5; }
     #wrap:fullscreen .prog i { background:#1e7daf; }
-    #wrap:fullscreen .status { width:min(96vw, calc(88vh * 800 / 240)); color:#888; font-size:clamp(13px, 1.6vh, 20px); }
+    #wrap:fullscreen .status { width:96vw; color:#888; font-size:clamp(13px, 1.6vh, 20px); }
     #wrap:fullscreen .status b { color:#222; }
     #wrap:fullscreen { cursor:none; }
     #wrap:fullscreen.mouse { cursor:auto; }
@@ -87,7 +87,8 @@
   const ALL = (window.KANJI || []).filter(r => r[0] <= 2136 && String(r[5] || '').trim())
     .map(r => ({ n: r[0], k: r[1], hv: r[2], m: r[3], j: r[4], s: r[5] }));
 
-  const W = 800, H = 240, DUR = 5.0;
+  let W = 800, H = 240;   // khung vẽ; khi toàn màn hình H tăng theo tỉ lệ màn hình
+  const DUR = 5.0;
   const INK = [35, 35, 35], TEAL = [30, 125, 175], RED = [185, 35, 40], MUTED = [120, 120, 120];
   const VI = 'italic 700 SIZEpx "Avenir Next", "Helvetica Neue", Arial, sans-serif';
   const VIM = '500 SIZEpx "Avenir Next", "Helvetica Neue", Arial, sans-serif';
@@ -101,9 +102,14 @@
   const cv = $('cv'), ctx = cv.getContext('2d');
   // độ phân giải canvas theo kích thước đang hiển thị (sắc nét cả khi toàn màn hình)
   function fit() {
+    // toàn màn hình: khung lấy đúng tỉ lệ màn hình (tranh + chữ to hơn), bình thường 800×240
+    const nh = document.fullscreenElement
+      ? Math.round(Math.max(240, Math.min(720, W * (innerHeight * 0.88) / (innerWidth * 0.96)))) : 240;
+    const changed = nh !== H; H = nh;
     const k = Math.max(1, Math.min(4, (cv.clientWidth || W) * (window.devicePixelRatio || 1) / W));
-    if (Math.abs(cv.width - W * k) > 1) { cv.width = Math.round(W * k); cv.height = Math.round(H * k); }
+    if (Math.abs(cv.width - W * k) > 1 || Math.abs(cv.height - H * k) > 1) { cv.width = Math.round(W * k); cv.height = Math.round(H * k); }
     ctx.setTransform(cv.width / W, 0, 0, cv.height / H, 0, 0);
+    if (changed && card) relayout();
   }
   fit();
   window.addEventListener('resize', fit);
@@ -171,24 +177,28 @@
       im.onload = () => { if (card && list[idx] === card) img = im; };
       im.src = 'kanji_story/' + String(card.n).padStart(4, '0') + '.webp';
     }
-    // xếp chữ: bên phải tranh (hoặc cả khung nếu thẻ không có tranh)
-    const ch = chunks(card.s); nch = Math.max(1, ch.length);
-    const pw = picW();
-    const x0 = pw ? 14 + pw + 26 : 40, x1 = W - 18;
-    for (size of [30, 27, 24, 22, 20, 18]) {
-      lines = layout(ch, x1 - x0, size);
-      if (lines.length * size * 1.55 <= H - 30) break;
-    }
-    lines.x0 = x0; lines.x1 = x1;
+    relayout();
     const nx = list[(idx + 1) % list.length];   // tải trước ảnh kế tiếp
     if (CROP[nx.n]) new Image().src = 'kanji_story/' + String(nx.n).padStart(4, '0') + '.webp';
     $('q').value = '';
     status();
   }
+  // xếp chữ: bên phải tranh (hoặc cả khung nếu thẻ không có tranh); cỡ chữ to dần theo chiều cao khung
+  function relayout() {
+    const ch = chunks(card.s); nch = Math.max(1, ch.length);
+    const pw = picW();
+    const x0 = pw ? 14 + pw + 26 : 40, x1 = W - 18;
+    const S = Math.min(H / 240, 2.2);
+    for (size of [30, 27, 24, 22, 20, 18].map(v => Math.round(v * S))) {
+      lines = layout(ch, x1 - x0, size);
+      if (lines.length * size * 1.55 <= H - 30) break;
+    }
+    lines.x0 = x0; lines.x1 = x1;
+  }
   function picW() {
     if (!picBox) return 0;
     const [a, b, c, d] = picBox, ph = H - 28;
-    return Math.min(330, Math.round((c - a) * ph / (d - b)));
+    return Math.min(H > 240 ? W * 0.48 : 330, Math.round((c - a) * ph / (d - b)));
   }
 
   function drawText(c, x, y, w, col, a, sz, pop) {
@@ -248,18 +258,19 @@
     if (t > tBig) {
       const a = ease((t - tBig) / 0.45);
       const cx = (lines.x0 + lines.x1) / 2;
-      const big = Math.round(120 * (0.6 + 0.4 * a));
+      const s2 = Math.max(1, Math.min(H / 240, (lines.x1 - lines.x0) / 440));   // phóng to khi toàn màn hình
+      const big = Math.round(120 * s2 * (0.6 + 0.4 * a));
       ctx.textBaseline = 'middle'; ctx.textAlign = 'center';
       ctx.font = CJK.replace('SIZE', big); ctx.fillStyle = rgba(RED, a);
-      ctx.fillText(card.k, cx - 150, H / 2);
+      ctx.fillText(card.k, cx - 150 * s2, H / 2);
       ctx.textAlign = 'left'; ctx.textBaseline = 'top';
-      ctx.font = VI.replace('SIZE', 40); ctx.fillStyle = rgba(TEAL, a);
-      ctx.fillText(card.hv, cx - 60, H / 2 - 48);
-      ctx.font = VIM.replace('SIZE', 22); ctx.fillStyle = rgba(INK, a);
-      let m = card.m; while (ctx.measureText(m).width > lines.x1 - cx + 50 && m.length > 4) m = m.slice(0, -2);
+      ctx.font = VI.replace('SIZE', Math.round(40 * s2)); ctx.fillStyle = rgba(TEAL, a);
+      ctx.fillText(card.hv, cx - 60 * s2, H / 2 - 48 * s2);
+      ctx.font = VIM.replace('SIZE', Math.round(22 * s2)); ctx.fillStyle = rgba(INK, a);
+      let m = card.m; while (ctx.measureText(m).width > lines.x1 - cx + 50 * s2 && m.length > 4) m = m.slice(0, -2);
       if (m !== card.m) m = m.trimEnd() + '…';
-      ctx.fillText(m, cx - 60, H / 2 + 6);
-      if (card.j) { ctx.font = VIM.replace('SIZE', 16); ctx.fillStyle = rgba(MUTED, a); ctx.fillText(card.j, cx - 60, H / 2 + 38); }
+      ctx.fillText(m, cx - 60 * s2, H / 2 + 6 * s2);
+      if (card.j) { ctx.font = VIM.replace('SIZE', Math.round(16 * s2)); ctx.fillStyle = rgba(MUTED, a); ctx.fillText(card.j, cx - 60 * s2, H / 2 + 38 * s2); }
     }
   }
 
