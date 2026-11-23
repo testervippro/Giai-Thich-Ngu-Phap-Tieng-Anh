@@ -27,6 +27,15 @@
     .prog i { display:block; height:100%; width:0; background:var(--accent); }
     .hint { font-size:13px; color:var(--muted); margin-top:12px; }
     kbd { border:1px solid var(--line); border-bottom-width:2px; border-radius:5px; padding:0 5px; font-size:12px; }
+    /* ⛶ toàn màn hình: khung hoạt hình chiếm cả màn hình, nền trắng, thanh trạng thái nhỏ ở dưới */
+    #wrap:fullscreen { background:#fff; display:flex; flex-direction:column; justify-content:center; align-items:center; padding:2vh 2vw; }
+    #wrap:fullscreen .stage { border:0; border-radius:0; width:min(96vw, calc(88vh * 800 / 240)); }
+    #wrap:fullscreen .prog { width:min(96vw, calc(88vh * 800 / 240)); background:#e5e5e5; }
+    #wrap:fullscreen .prog i { background:#1e7daf; }
+    #wrap:fullscreen .status { width:min(96vw, calc(88vh * 800 / 240)); color:#888; font-size:clamp(13px, 1.6vh, 20px); }
+    #wrap:fullscreen .status b { color:#222; }
+    #wrap:fullscreen { cursor:none; }
+    #wrap:fullscreen.mouse { cursor:auto; }
   </style>
 </head>
 <body>
@@ -53,15 +62,18 @@
     <button class="btn primary" id="play" title="Phát / dừng (Space)">⏸ Dừng</button>
     <button class="btn" id="next" title="Chữ sau (→)">Sau ⏭</button>
     <button class="btn" id="again" title="Phát lại chữ này (R)">↺ Lại</button>
+    <button class="btn" id="fs" title="Toàn màn hình (F)">⛶ Toàn màn hình</button>
   </div>
 
+  <div id="wrap">
   <div class="stage"><canvas id="cv" width="800" height="240" aria-label="Hoạt hình câu chuyện chữ Hán"></canvas></div>
   <div class="prog"><i id="bar"></i></div>
   <div class="status">
     <span id="where"></span>
     <span id="loop"></span>
   </div>
-  <p class="hint"><kbd>Space</kbd> phát/dừng · <kbd>←</kbd> <kbd>→</kbd> chữ trước/sau · <kbd>R</kbd> phát lại. Chỉ gồm các chữ đã có câu chuyện.</p>
+  </div>
+  <p class="hint"><kbd>Space</kbd> phát/dừng · <kbd>←</kbd> <kbd>→</kbd> chữ trước/sau · <kbd>R</kbd> phát lại · <kbd>F</kbd> toàn màn hình (bấm vào hình để phát/dừng). Chỉ gồm các chữ đã có câu chuyện.</p>
 </main>
 
 <script src="hanzi-cards.js"></script>
@@ -87,8 +99,14 @@
 
   // ---- canvas sắc nét trên màn hình retina
   const cv = $('cv'), ctx = cv.getContext('2d');
-  const dpr = Math.min(window.devicePixelRatio || 1, 2);
-  cv.width = W * dpr; cv.height = H * dpr; ctx.scale(dpr, dpr);
+  // độ phân giải canvas theo kích thước đang hiển thị (sắc nét cả khi toàn màn hình)
+  function fit() {
+    const k = Math.max(1, Math.min(4, (cv.clientWidth || W) * (window.devicePixelRatio || 1) / W));
+    if (Math.abs(cv.width - W * k) > 1) { cv.width = Math.round(W * k); cv.height = Math.round(H * k); }
+    ctx.setTransform(cv.width / W, 0, 0, cv.height / H, 0, 0);
+  }
+  fit();
+  window.addEventListener('resize', fit);
 
   // ---- lưu lựa chọn (chỉ cho tiện, không bắt buộc)
   const store = {
@@ -276,6 +294,21 @@
     else { $('q').value = ''; $('q').placeholder = 'Không có trong phần này'; }
   }
 
+  const wrap = $('wrap');
+  function toggleFs() {
+    if (document.fullscreenElement) document.exitFullscreen();
+    else if (wrap.requestFullscreen) wrap.requestFullscreen().catch(() => {});
+    else if (wrap.webkitRequestFullscreen) wrap.webkitRequestFullscreen();   // Safari iOS cũ
+  }
+  document.addEventListener('fullscreenchange', () => {
+    $('fs').textContent = document.fullscreenElement ? '✕ Thoát toàn màn hình' : '⛶ Toàn màn hình';
+    setTimeout(fit, 50);
+  });
+  let mouseT = 0;   // toàn màn hình: ẩn con trỏ khi không di chuột
+  wrap.addEventListener('mousemove', () => { wrap.classList.add('mouse'); clearTimeout(mouseT); mouseT = setTimeout(() => wrap.classList.remove('mouse'), 2000); });
+  cv.addEventListener('click', () => setPlaying(!playing));
+  cv.addEventListener('dblclick', toggleFs);
+  $('fs').onclick = toggleFs;
   $('play').onclick = () => setPlaying(!playing);
   $('next').onclick = () => load(idx + 1);
   $('prev').onclick = () => load(idx - 1);
@@ -290,6 +323,7 @@
     else if (e.key === 'ArrowRight') load(idx + 1);
     else if (e.key === 'ArrowLeft') load(idx - 1);
     else if (e.key === 'r' || e.key === 'R') $('again').onclick();
+    else if (e.key === 'f' || e.key === 'F') toggleFs();
   });
 
   buildList();
