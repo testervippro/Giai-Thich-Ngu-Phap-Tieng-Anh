@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Vùng tranh (bên trái) của từng ảnh docs/kanji-viewer/kanji_story/NNNN.webp -> docs/kanji-viewer/kanji-anim-crop.js
-cho trang anim.html (hoạt hình câu chuyện chạy ngay trên trình duyệt, không cần file GIF).
+"""Vùng tranh (bên trái) của từng ảnh câu chuyện -> file .js cho trang anim.html
+(hoạt hình câu chuyện chạy ngay trên trình duyệt, không cần file GIF).
 
-    python3 tools/kanji_anim_crop.py
+    python3 tools/kanji_anim_crop.py           # Kanji: kanji_story/  -> docs/kanji-viewer/kanji-anim-crop.js
+    python3 tools/kanji_anim_crop.py --hanzi   # Hán tự: story/        -> docs/hanzi-viewer/hanzi-anim-crop.js
 """
 import json, os, sys
 import numpy as np
@@ -12,13 +13,12 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import kanji_story_gif as G   # picture(): tách tranh + bỏ đường viền mảnh
 
 ROOT = G.ROOT
-D = os.path.join(ROOT, 'docs/kanji-viewer/kanji_story')
 
 
-def crop_box(n):
-    im = Image.open(G.STORY % n).convert('RGB')
+def crop_box(path, text_only=False):
+    im = Image.open(path).convert('RGB')
     a = np.asarray(im).astype(int)
-    x1 = G.R.split_picture(a)
+    x1 = None if text_only else G.R.split_picture(a)
     if x1 is None:
         return None
     pic = im.crop((0, 0, x1 + 8, im.height))
@@ -40,13 +40,18 @@ def crop_box(n):
 
 
 if __name__ == '__main__':
+    hanzi = '--hanzi' in sys.argv
+    D = os.path.join(ROOT, 'docs/hanzi-viewer/story' if hanzi else 'docs/kanji-viewer/kanji_story')
+    dst = os.path.join(ROOT, 'docs/hanzi-viewer/hanzi-anim-crop.js' if hanzi else 'docs/kanji-viewer/kanji-anim-crop.js')
+    var = 'HANZI_ANIM_CROP' if hanzi else 'KANJI_ANIM_CROP'
     out = {}
     for f in sorted(os.listdir(D)):
         if f.endswith('.webp') and f[:4].isdigit() and len(f) == 9:
-            b = crop_box(int(f[:4]))
+            n = int(f[:4])
+            b = crop_box(os.path.join(D, f), hanzi and n in G.R.TEXT_ONLY)
             if b:
-                out[int(f[:4])] = b
-    js = ('// Vùng tranh [x0, y0, x1, y1] trong ảnh kanji_story/NNNN.webp (sinh bởi tools/kanji_anim_crop.py)\n'
-          'window.KANJI_ANIM_CROP=' + json.dumps(out, separators=(',', ':')) + ';\n')
-    open(os.path.join(ROOT, 'docs/kanji-viewer/kanji-anim-crop.js'), 'w').write(js)
-    print(len(out), 'thẻ có tranh')
+                out[n] = b
+    js = ('// Vùng tranh [x0, y0, x1, y1] trong ảnh câu chuyện NNNN.webp (sinh bởi tools/kanji_anim_crop.py)\n'
+          'window.' + var + '=' + json.dumps(out, separators=(',', ':')) + ';\n')
+    open(dst, 'w').write(js)
+    print(len(out), 'thẻ có tranh ->', dst)
