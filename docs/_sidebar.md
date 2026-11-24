@@ -125,6 +125,7 @@
 # 📗 IELTS Reading (Cambridge 10–21)
 
 - [📖 Luyện đề IELTS Reading & Listening (site riêng)](https://testervippro.github.io/Ielts-Reading/)
+- [📝 Làm đề Cam 19–21 — chấm điểm ngay (12 đề)](ielts-reading/index.html)
 - **🗺️ Bản đồ ngữ pháp (5.507 câu, 48 đề)**
   - [Tổng quan — map vào 19 chương](ielts-ngu-phap-ban-do.md)
   - [Cam 10](ielts-ngu-phap-cam-10.md)
