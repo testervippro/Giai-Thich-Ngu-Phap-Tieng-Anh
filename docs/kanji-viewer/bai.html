@@ -46,7 +46,32 @@
     .ex b { color:var(--accent); }
     .pat { font-weight:700; white-space:nowrap; }
     .say { border:0; background:none; cursor:pointer; font-size:14px; padding:0 2px; }
-    @media (max-width:640px) { .hide-sm { display:none; } th, td { padding:7px 7px; } td.w { font-size:17px; } .pat { white-space:normal; } }
+    /* đọc theo lộ trình: màu giống trang lộ trình (xanh danh từ · đỏ trợ từ · lục động từ) */
+    .sg.n { background:rgba(37,99,235,.12); border-radius:4px; padding:1px 2px; }
+    .sg.p { color:#dc2626; font-weight:700; }
+    .sg.v { background:rgba(5,150,105,.15); border-radius:4px; padding:1px 2px; }
+    .legend { display:flex; gap:14px; flex-wrap:wrap; font-size:13px; color:var(--muted); margin:4px 0 10px; }
+    .legend i { font-style:normal; padding:0 4px; border-radius:4px; }
+    .rs { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:12px 14px; margin:0 0 12px; }
+    .rs .sent { font-size:20px; line-height:1.9; }
+    .rs .vi { margin:6px 0 2px; font-size:15.5px; }
+    .rs .vi b { color:var(--accent); }
+    .chs { display:flex; flex-wrap:wrap; gap:6px; margin:10px 0 4px; }
+    .ch { border:1px dashed var(--line); border-radius:9px; padding:5px 8px; min-width:70px; }
+    .ch.last { border-style:solid; border-color:rgba(5,150,105,.6); }
+    .ch .t { font-size:17px; }
+    .ch .gl { font-size:12px; color:var(--muted); line-height:1.35; margin-top:2px; }
+    .ch .gl .hv { font-size:12px; }
+    .gid { display:inline-block; font-size:11.5px; font-weight:700; border-radius:5px; padding:0 5px; margin:2px 3px 0 0; background:rgba(220,38,38,.1); color:#b91c1c; white-space:nowrap; cursor:help; }
+    .gid.v { background:rgba(5,150,105,.14); color:#047857; }
+    .gid.o { background:rgba(100,116,139,.14); color:var(--muted); }
+    .steps { margin:8px 0 0; padding-left:20px; font-size:14px; }
+    .steps li { margin:3px 0; }
+    .prog { height:8px; border-radius:5px; background:var(--line); overflow:hidden; margin:6px 0 2px; max-width:420px; }
+    .prog i { display:block; height:100%; background:var(--accent); }
+    details.more { margin-top:22px; }
+    details.more summary { cursor:pointer; font-weight:700; font-size:17px; }
+    @media (max-width:640px) { .hide-sm { display:none; } th, td { padding:7px 7px; } td.w { font-size:17px; } .pat { white-space:normal; } .rs .sent { font-size:18px; } }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Từ vựng và ngữ pháp"></script>
@@ -63,15 +88,23 @@
   <p class="lead" id="lead"></p>
   <div class="stats" id="stats"></div>
 
-  <h2>📘 Ngữ pháp trong bài</h2>
+  <h2>🧭 Đọc câu theo lộ trình</h2>
+  <p class="note">Theo <a href="lo-trinh-doc-hieu.html">lộ trình đọc hiểu</a>, bước ① "quy tắc vàng": <b>tìm động từ ở cuối câu trước</b>, rồi <b>gom các cụm theo trợ từ</b>, cuối cùng ghép lại thành câu tiếng Việt. Số <span class="gid">#12</span> là số thứ tự "keo dán" trong 60 mục của lộ trình (rê chuột / chạm để xem nghĩa).</p>
+  <div class="legend"><span><i class="sg n">xanh</i> danh từ (Kanji bạn đã biết)</span><span><i class="sg p">đỏ</i> trợ từ = vai trò</span><span><i class="sg v">lục</i> động từ · tính từ · đuôi</span></div>
+  <div id="read"></div>
+
+  <h2>🧩 Keo dán trong bài (60 mục của lộ trình)</h2>
+  <div id="gprog"></div>
   <div class="bar">
-    <select id="glv" aria-label="Lọc cấp ngữ pháp"><option value="">Mọi cấp</option><option>N5</option><option>N4</option><option>N3</option><option>N2</option><option>N1</option></select>
+    <select id="ggrp" aria-label="Lọc nhóm keo dán"><option value="">Mọi nhóm</option></select>
+    <label class="note"><input type="checkbox" id="gnew"> Chỉ keo dán lần đầu gặp trong lộ trình</label>
     <span class="note" id="gcnt"></span>
   </div>
   <table>
-    <thead><tr><th>Cấp</th><th>Mẫu</th><th>Nghĩa</th><th class="num hide-sm">Số câu</th><th>Câu trong bài</th></tr></thead>
-    <tbody id="gBody"></tbody>
+    <thead><tr><th>#</th><th>Keo dán</th><th>Nghĩa</th><th class="num hide-sm">Số câu</th><th>Câu trong bài</th></tr></thead>
+    <tbody id="glBody"></tbody>
   </table>
+  <p class="note">Dò tự động bằng bộ tách từ (janome) nên có thể nhầm vài chỗ, nhất là các mẫu ngắn (に, で, の…). Mục 61+ là bảng ⑤ "Từ viết bằng kana &amp; cụm văn báo" của lộ trình.</p>
 
   <h2>📗 Từ vựng có Kanji trong bài</h2>
   <div class="bar">
@@ -93,6 +126,18 @@
     <tbody id="wBody"></tbody>
   </table>
   <p style="text-align:center"><button class="btn" id="more">Xem thêm 150 từ</button></p>
+
+  <details class="more">
+    <summary>📘 Mẫu ngữ pháp N5–N1 khác trong bài (ngoài lộ trình)</summary>
+    <div class="bar" style="margin-top:10px">
+      <select id="glv" aria-label="Lọc cấp ngữ pháp"><option value="">Mọi cấp</option><option>N5</option><option>N4</option><option>N3</option><option>N2</option><option>N1</option></select>
+      <span class="note" id="gcnt2"></span>
+    </div>
+    <table>
+      <thead><tr><th>Cấp</th><th>Mẫu</th><th>Nghĩa</th><th class="num hide-sm">Số câu</th><th>Câu trong bài</th></tr></thead>
+      <tbody id="gBody"></tbody>
+    </table>
+  </details>
   <p class="note">Từ vựng dò theo từ điển 9.279 từ của bộ Kanji (cách đọc, nghĩa tiếng Anh, Hán Việt), tính cả dạng chia của động từ / tính từ (使う → 使われる). Từ ghép Kanji chưa có trong từ điển được tách tự động và ghi âm Hán Việt + nghĩa từng chữ, nên có thể có từ bị tách chưa chuẩn. Ngữ pháp dò theo danh sách mẫu N5–N1; một số mẫu ngắn (〜ほど, 〜ように…) có thể bắt nhầm. Chỉ trích 1 câu ngắn cho mỗi mẫu; đọc toàn bài ở link gốc.</p>
 </main>
 <script>
@@ -119,12 +164,59 @@
   function drawG(){
     const lv = $('glv').value;
     const G = D.grammar.filter(g => !lv || g[0] === lv);
-    $('gcnt').textContent = `${G.length} mẫu`;
+    $('gcnt2').textContent = `${G.length} mẫu`;
     $('gBody').innerHTML = G.map(([l, pat, mean, c, ex, sp]) => {
       const exh = sp ? esc(ex.slice(0, sp[0])) + '<b>' + esc(ex.slice(sp[0], sp[1])) + '</b>' + esc(ex.slice(sp[1])) : esc(ex);
       return `<tr><td><span class="lv ${l}">${l}</span></td><td class="pat jp">${esc(pat)}</td><td>${esc(mean)}</td><td class="num hide-sm">${c}</td>`
         + `<td class="ex jp">${exh} <button class="say" data-t="${esc(ex)}" aria-label="Đọc câu">🔊</button></td></tr>`;
     }).join('') || '<tr><td colspan="5" class="note">Không tìm thấy mẫu nào.</td></tr>';
+  }
+  // ---------- keo dán theo lộ trình ----------
+  let GM = {};   // mã -> [mã, nhóm, mẫu, nghĩa]
+  const PART = new Set([1,2,3,4,5,6,7,8,9,10,11,12,13,14,51,52,53,55,56]);
+  const gtag = (i, cls) => { const g = GM[i]; return g ? `<span class="gid ${cls || (PART.has(i) ? '' : i <= 60 ? 'v' : 'o')}" title="${esc(g[1])}: ${esc(g[2])} = ${esc(g[3])}">#${i} ${esc(g[2])}</span>` : ''; };
+  function drawGlue(){
+    const grp = $('ggrp').value, onlyNew = $('gnew').checked;
+    const L = (D.glue || []).filter(([i, c, ex, sp, nw]) => GM[i] && (!grp || GM[i][1] === grp) && (!onlyNew || nw));
+    $('gcnt').textContent = `${L.length} mục`;
+    $('glBody').innerHTML = L.map(([i, c, ex, sp, nw]) => {
+      const g = GM[i];
+      const exh = sp ? esc(ex.slice(0, sp[0])) + '<b>' + esc(ex.slice(sp[0], sp[1])) + '</b>' + esc(ex.slice(sp[1])) : esc(ex);
+      return `<tr><td class="num">${i}</td><td class="pat jp">${esc(g[2])}${nw ? '<span class="new">mới</span>' : ''}<div class="note" style="font-weight:400">${esc(g[1])}</div></td><td>${esc(g[3])}</td>`
+        + `<td class="num hide-sm">${c}</td><td class="ex jp">${exh} <button class="say" data-t="${esc(ex)}" aria-label="Đọc câu">🔊</button></td></tr>`;
+    }).join('') || '<tr><td colspan="5" class="note">Không có mục nào.</td></tr>';
+  }
+  function drawRead(){
+    const R = D.read || [];
+    $('read').innerHTML = R.map(r => {
+      // vị trí từng mảnh trong câu -> gắn keo dán vào cụm
+      let pos = 0;
+      const C = r.c.map(ch => ch.map(([t, k, hv, en]) => { const a = r.s.indexOf(t, pos); const st = a < 0 ? pos : a; pos = st + t.length; return { t, k, hv, en, a: st, z: st + t.length }; }));
+      const span = ch => [ch[0].a, ch[ch.length - 1].z];
+      const hitsIn = ch => { const [a, z] = span(ch); return r.g.filter(([i, x, y]) => x >= a && y <= z && GM[i]).sort((p, q) => p[1] - q[1]); };
+      let last = -1;
+      C.forEach((ch, j) => { if (ch.some(x => x.k === 'v')) last = j; });
+      const segHtml = x => `<span class="sg ${x.k}">${esc(x.t)}</span>`;
+      const gl = ch => ch.filter(x => x.hv || x.en).map(x => `<div class="gl"><span class="jp">${esc(x.t)}</span>${x.hv ? ` <span class="hv">${esc(x.hv)}</span>` : ''}${x.en ? ' · ' + esc(x.en) : ''}</div>`).join('');
+      const chunks = C.map((ch, j) => `<div class="ch${j === last ? ' last' : ''}"><div class="t jp">${ch.map(segHtml).join('')}</div>${gl(ch)}<div>${hitsIn(ch).map(h => gtag(h[0])).join('')}</div></div>`).join('');
+      const role = ch => { const h = hitsIn(ch).filter(h => PART.has(h[0])).pop(); return h ? `${gtag(h[0])}` : ''; };
+      const steps = [];
+      if (last >= 0) {
+        const vch = C[last], main = vch.find(x => x.k === 'v' && (x.hv || x.en)) || vch.find(x => x.hv || x.en);
+        const ends = hitsIn(vch).filter(h => !PART.has(h[0]));
+        steps.push(`<b>Tìm động từ cuối câu:</b> <span class="jp">${vch.map(segHtml).join('')}</span>`
+          + (main ? ` — gốc <b class="jp">${esc(main.t)}</b>${main.hv ? ` <span class="hv">${esc(main.hv)}</span>` : ''}${main.en ? ' (' + esc(main.en) + ')' : ''}` : '')
+          + (ends.length ? ` · đuôi: ${ends.map(h => gtag(h[0])).join('')}` : ''));
+      }
+      const rest = C.filter((ch, j) => j !== last);
+      if (rest.length) steps.push(`<b>Gom cụm theo trợ từ:</b> ` + rest.map(ch => `<span class="jp">${ch.map(segHtml).join('')}</span> ${role(ch)}`).join(' · '));
+      steps.push(r.vi ? `<b>Ghép lại:</b> ${esc(r.vi)}` : `<b>Ghép lại:</b> <span class="note">(chưa có bản dịch — tự ghép theo các cụm ở trên)</span>`);
+      return `<div class="rs"><div class="sent jp">${C.map(ch => ch.map(segHtml).join('')).join('')}${/[。！？!?]$/.test(r.s) ? esc(r.s.slice(-1)) : ''} <button class="say" data-t="${esc(r.s)}" aria-label="Đọc câu">🔊</button></div>`
+        + (r.vi ? `<div class="vi">= <b>${esc(r.vi)}</b></div>` : '')
+        + `<div class="chs">${chunks}</div><ol class="steps">${steps.map(x => `<li>${x}</li>`).join('')}</ol></div>`;
+    }).join('') || '<p class="note">Bài này không có câu ngắn phù hợp để phân tích.</p>';
+    const core = (D.glue || []).filter(g => g[0] <= 60), nNew = core.filter(g => g[4]).length;
+    $('gprog').innerHTML = `<div class="note">Bài này có <b>${core.length}/60</b> keo dán của lộ trình${nNew ? `, trong đó <b>${nNew}</b> mục lần đầu gặp` : ''}. Đọc từ bài 1 đến bài ${n}: đã gặp <b>${D.gseen || 0}/60</b>.</div><div class="prog"><i style="width:${(D.gseen || 0) / 60 * 100}%"></i></div>`;
   }
   function drawW(){
     const q = $('q').value.trim().toLowerCase(), f = $('wf').value;
@@ -144,19 +236,24 @@
     $('title').textContent = `Bài ${n}. ${D.t || D.u}`;
     $('lead').innerHTML = `<span class="src">${esc(D.s)}</span> <a href="${esc(D.u)}" target="_blank" rel="noopener">Đọc bài gốc ↗</a>`
       + (D.k ? ` · Kanji mới gặp ở bài này trong lộ trình: <span class="jp">${esc(D.k)}</span>` : '');
-    const nNew = D.words.filter(w => w[5]).length, gl = lv => D.grammar.filter(g => g[0] === lv).length;
+    const nNew = D.words.filter(w => w[5]).length, core = (D.glue || []).filter(g => g[0] <= 60);
     $('stats').innerHTML = [
-      [fmt(D.words.length), 'từ có Kanji'], [fmt(nNew), 'từ mới so với các bài trước'], [D.grammar.length, 'mẫu ngữ pháp'],
-      [`${gl('N5') + gl('N4')} / ${gl('N3')} / ${gl('N2') + gl('N1')}`, 'mẫu N5–N4 / N3 / N2–N1'], [fmt(D.chars), 'ký tự tiếng Nhật']
+      [`${core.length}/60`, 'keo dán của lộ trình'], [core.filter(g => g[4]).length, 'keo dán lần đầu gặp'],
+      [fmt(D.words.length), 'từ có Kanji'], [fmt(nNew), 'từ mới so với các bài trước'], [fmt(D.chars), 'ký tự tiếng Nhật']
     ].map(([b, s]) => `<div class="stat"><b>${b}</b><span>${s}</span></div>`).join('');
-    drawG(); drawW();
+    drawRead(); drawGlue(); drawG(); drawW();
   }
   $('glv').addEventListener('input', drawG);
+  $('ggrp').addEventListener('input', drawGlue); $('gnew').addEventListener('input', drawGlue);
   ['q', 'wf', 'ws'].forEach(id => $(id).addEventListener('input', () => { shown = 150; drawW(); }));
   $('more').onclick = () => { shown += 150; drawW(); };
   document.addEventListener('click', e => { const b = e.target.closest('.say'); if (b) say(b.dataset.t); });
   fetch('bai/index.json').then(r => r.json()).then(d => { IDX = d; nav(); }).catch(() => {});
-  fetch(`bai/${pad(n)}.json`).then(r => { if (!r.ok) throw 0; return r.json(); }).then(d => { D = d; draw(); })
+  const glueP = fetch('bai/glue.json').then(r => r.json()).then(g => {
+    g.forEach(x => GM[x[0]] = x);
+    $('ggrp').innerHTML = '<option value="">Mọi nhóm</option>' + [...new Set(g.map(x => x[1]))].map(x => `<option>${esc(x)}</option>`).join('');
+  }).catch(() => {});
+  fetch(`bai/${pad(n)}.json`).then(r => { if (!r.ok) throw 0; return r.json(); }).then(d => glueP.then(() => { D = d; draw(); }))
     .catch(() => { $('title').textContent = `Bài ${n}: không có dữ liệu`; $('lead').textContent = 'Bài này không tải được (tác giả chặn máy đọc hoặc bài đã bị xoá).'; });
 })();
 </script>

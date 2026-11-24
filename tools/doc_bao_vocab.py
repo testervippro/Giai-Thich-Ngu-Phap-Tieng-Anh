@@ -7,7 +7,10 @@
 3. Từ vựng: dò từ có Kanji theo từ điển docs/kanji-viewer/kic-words.json (9.279 từ: cách đọc, nghĩa, Hán Việt),
    khớp cả dạng chia của động từ / tính từ (使う → 使われ…). Từ ghép Kanji không có trong từ điển vẫn liệt kê,
    kèm âm Hán Việt + nghĩa từng chữ.
-4. Ngữ pháp: dò theo tools/data/jp_grammar_vi.tsv (mẫu N5 → N1, nghĩa tiếng Việt).
+4. Ngữ pháp theo lộ trình đọc hiểu (lo-trinh-doc-hieu.html): dò 60 "keo dán" + từ kana/văn báo (tools/doc_bao_glue.py,
+   cần `pip install janome`), đánh dấu keo dán lần đầu gặp trong lộ trình; chọn 4 câu mẫu / bài và tách theo
+   "quy tắc vàng" (động từ cuối câu, cụm theo trợ từ). Bản dịch câu mẫu: tools/data/doc_bao_dich.tsv (câu <TAB> dịch).
+   Mẫu N5 → N1 (tools/data/jp_grammar_vi.tsv) vẫn giữ, hiện ở mục phụ.
 Ra docs/kanji-viewer/bai/NNN.json (chỉ danh sách từ + mẫu ngữ pháp + 1 câu ngắn minh hoạ mỗi mẫu)
 và trang xem docs/kanji-viewer/bai.html?n=NNN.
 
@@ -27,6 +30,9 @@ CACHE = os.path.join(ROOT, "private", "doc_bao_texts.jsonl")
 OUTDIR = os.path.join(KV, "bai")
 sys.path.insert(0, HERE)
 import qiita_kanji_cover as Q  # noqa: E402
+import doc_bao_glue as GL  # noqa: E402
+
+DICH = os.path.join(HERE, "data", "doc_bao_dich.tsv")
 
 KANJI = r"[一-鿿々〆ヶ]"
 HIRA = "ぁ-ゖ"
@@ -173,14 +179,102 @@ def grammar(text, gram):
     return res
 
 
+# ---------------- keo dán theo lộ trình + câu mẫu ----------------
+CORE = set(range(1, 61))
+PRED = {15, 16, 17, 18, 19, 20, 21, 23, 24, 42, 44, 45, 46, 40, 37, 38}
+
+
+def load_dich():
+    d = {}
+    if os.path.exists(DICH):
+        for l in open(DICH, encoding="utf-8"):
+            if "\t" in l and not l.startswith("#"):
+                a, b = l.rstrip("\n").split("\t", 1)
+                d[a.strip()] = b.strip()
+    return d
+
+
+def good_sentence(s):
+    if not (12 <= len(s) <= 38) or s[-1] not in "。！？!?":
+        return False
+    if len(re.findall(KANJI, s)) < 2 or len(re.findall(r"[A-Za-z0-9]", s)) > len(s) * 0.15:
+        return False
+    if any(s.count(x) != s.count(y) for x, y in ("「」", "『』", "（）", "()", "【】")) or "http" in s or "…" in s:
+        return False
+    return not re.match(r"^[、。・ー〜」』）)\s]", s)
+
+
+def gloss(seg, exact, kj):
+    text, kd, base = seg
+    if kd not in ("n", "v") or not re.search(KANJI, text + base):
+        if kd == "n" and re.fullmatch(r"[ァ-ヿ]+", text):
+            return [text, kd, "", "(từ ngoại lai)"]
+        return [text, kd, "", ""]
+    for w in (base, text):
+        if w in exact:
+            _, rd, en, hv = exact[w]
+            en = ", ".join(en.split(", ")[:2])
+            return [text, kd, hv, en[:48]]
+    run = "".join(c for c in base if re.match(KANJI, c)) or "".join(c for c in text if re.match(KANJI, c))
+    hv = " ".join(kj.get(c, ("?",))[0] for c in run)
+    mean = " + ".join(kj[c][1].lower() for c in run if c in kj)
+    return [text, kd, hv, mean[:48]]
+
+
+def glue_article(text, exact, kj, seen, dich):
+    sents = [s.strip() for s in SENT.findall(text) if s.strip()]
+    found, cand = {}, []
+    for s in sents:
+        if len(s) > 160 or not re.search("[" + HIRA + "]", s):
+            continue
+        T = GL.tokens(s)
+        H = GL.detect(s, T)
+        for i in {h[0] for h in H}:
+            found.setdefault(i, []).append((s, next(h for h in H if h[0] == i)))
+        if good_sentence(s) and PRED & {h[0] for h in H}:
+            cand.append((s, T, H))
+    glue = []
+    for i in sorted(found):
+        lst = found[i]
+        ex, (_, a, z) = min(lst, key=lambda x: (abs(len(x[0]) - 30), x[0]))
+        if len(ex) > 80:
+            st = max(0, a - 35)
+            ex, a, z = ex[st:z + 35], a - st, z - st
+        glue.append([i, len(lst), ex, [a, z], 0 if i in seen else 1])
+    # câu mẫu: ưu tiên câu có nhiều keo dán MỚI trong lộ trình, rồi nhiều keo dán khác nhau; không trùng ý
+    picked, cover = [], set()
+    for _ in range(4):
+        best = None
+        for s, T, H in cand:
+            if any(s == p[0] for p in picked):
+                continue
+            ids = {h[0] for h in H} & CORE
+            sc = 2 * len(ids - seen - cover) + len(ids - cover) + 0.2 * len(ids) - abs(len(s) - 22) / 6 + (1 if s in dich else 0)
+            if best is None or sc > best[0]:
+                best = (sc, s, T, H)
+        if not best:
+            break
+        _, s, T, H = best
+        picked.append((s, T, H))
+        cover |= {h[0] for h in H}
+    read = [dict(s=s, c=[[gloss(g, exact, kj) for g in ch] for ch in GL.chunks(s, T)], g=[list(h) for h in H],
+                 vi=dich.get(s, "")) for s, T, H in picked]
+    return glue, read
+
+
 def main():
     arts = routes()
     print("bai trong lo trinh:", len(arts), flush=True)
     texts = fetch_all(arts)
     exact, stems, kj = load_dict()
     gram = load_grammar()
+    dich = load_dich()
     os.makedirs(OUTDIR, exist_ok=True)
+    json.dump([[i, GL.GROUPS[g], pat, mean] for i, g, pat, mean in GL.GLUE],
+              open(os.path.join(OUTDIR, "glue.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     seen = set()
+    gseen = set()
+    samples = []
     index = []
     for k, a in enumerate(arts, 1):
         x = texts.get(a["u"]) or {}
@@ -195,11 +289,18 @@ def main():
             words.append([ww, rd, en, hv, c, 0 if w in seen else 1, kind])
         seen |= set(cnt)
         g = grammar(text, gram)
+        glue, read = glue_article(text, exact, kj, gseen, dich)
+        gseen |= {x[0] for x in glue}
+        samples += [r["s"] for r in read]
         d = dict(n=k, t=a.get("t"), u=a["u"], s=a.get("s"), k=a.get("k"),
-                 chars=len(re.findall(r"[぀-ヿ一-鿿]", text)), words=words, grammar=g)
+                 chars=len(re.findall(r"[぀-ヿ一-鿿]", text)), words=words, grammar=g,
+                 glue=glue, gseen=len(gseen & CORE), read=read)
         json.dump(d, open(os.path.join(OUTDIR, "%03d.json" % k), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
         index.append(dict(n=k, t=a.get("t"), ok=1, nw=len(words), nnew=sum(w[5] for w in words), ng=len(g)))
     json.dump(index, open(os.path.join(OUTDIR, "index.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+    with open(os.path.join(ROOT, "private", "doc_bao_samples.txt"), "w", encoding="utf-8") as f:
+        f.write("\n".join(samples) + "\n")  # câu mẫu cần dịch -> tools/data/doc_bao_dich.tsv
+    print("cau mau: %d, da co ban dich: %d" % (len(samples), sum(1 for x in samples if x in dich)))
     ok = [r for r in index if r["ok"]]
     print("xong: %d/%d bai, tb %d tu, %d mau ngu phap / bai" % (
         len(ok), len(index), sum(r["nw"] for r in ok) // max(1, len(ok)), sum(r["ng"] for r in ok) // max(1, len(ok))))
