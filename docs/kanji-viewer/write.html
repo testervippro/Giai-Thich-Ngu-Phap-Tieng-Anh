@@ -162,6 +162,7 @@
       <option value="p1">Tập 1 (thẻ 1–1050)</option>
       <option value="p2">Tập 2 (thẻ 1051–2165)</option>
       <option value="c1000">1000 chữ thông dụng</option>
+      <option value="rest" id="restOpt">➕ Chữ còn lại — không trùng 1000 thông dụng</option>
       <option value="extra">🆕 17 chữ ngoài 2136 (IT · 2000 từ)</option>
       <option value="nonjoyo" id="nonjoyoOpt">📕 Chữ không thuộc Jōyō</option>
       <option value="miss" id="missOpt">🎯 Chữ không gặp khi đọc báo (học thuộc)</option>
@@ -173,6 +174,7 @@
     <button class="btn" id="next" title="Chữ sau (→)">Sau →</button>
     <button class="btn" id="rand" title="Chữ ngẫu nhiên">🎲 Ngẫu nhiên</button>
     <a class="btn" id="daLink" href="dong-am.html" title="Các chữ cùng âm Hán Việt nhưng khác chữ, khác nghĩa" style="text-decoration:none">🔀 Đồng âm</a>
+    <button class="btn" id="gameBtn" title="Hiện/ẩn game ôn chữ (chọn Hán Việt, nghĩa, ghép cặp, sinh tồn…) dùng đúng bộ chữ đang chọn">🎮 Game: tắt</button>
     <button class="btn" id="liteBtn" title="Danh sách cả bộ: mỗi chữ hiện chữ Hán trước, rồi câu chuyện + mảnh ghép (ẩn ảnh, ô viết, từ vựng)">📖 Danh sách chữ + câu chuyện</button>
     <button class="btn" id="animBtn" title="Hiện/ẩn khung chuyển động: câu chuyện hiện từng cụm, rồi chữ Kanji to; mỗi chữ lặp N lần rồi tự chuyển sang chữ tiếp theo trong bộ đang chọn">🎞️ Chuyển động: tắt</button>
     <button class="btn" id="writeBtn" title="Hiện/ẩn phần luyện viết (mẫu thứ tự nét + ô viết)">✍️ Luyện viết: tắt</button>
@@ -205,6 +207,7 @@
   <div class="sub" id="kSub"></div>
   <figure class="card" id="kCard"><img id="kImg" alt="" decoding="async"></figure>
   <div class="xl hidden" id="xZh"></div>
+  <section class="hidden" id="gamePanel" style="margin:10px 0"><iframe id="gameFrame" title="Game Kanji" style="width:100%;height:78vh;min-height:520px;border:1px solid var(--line,#ddd);border-radius:10px;background:var(--bg,#fff)"></iframe><div class="tag" id="gameNote" style="font-size:12px;color:var(--muted);margin-top:4px"></div></section>
   <section class="animp hidden" id="animPanel">
     <div id="aWrap">
       <div class="astage"><canvas id="aCv" width="800" height="240" aria-label="Hoạt hình câu chuyện Kanji"></canvas></div>
@@ -595,6 +598,7 @@
     if (st.set === 'miss'){ const B = new Map(ALL.map(x => [x.k, x])); return (window.KANJI_MISS || []).map(k => B.get(k)).filter(Boolean); }
     if (st.set === 'p1') return ALL.filter(x => x.n <= 1050);
     if (st.set === 'p2') return ALL.filter(x => x.n > 1050);
+    if (st.set === 'rest'){ const C = new Set(window.KANJI_C1000 || []); return ALL.filter(x => !C.has(x.n)); }
     if (st.set === 'c1000') return (window.KANJI_C1000 || []).map(n => BYN.get(n)).filter(Boolean);
     if (/^N\d$/.test(st.set)) return ALL.filter(x => x.j === st.set);
     return ALL;
@@ -807,6 +811,7 @@
       all: `<b>Tất cả thẻ</b> — ${fmt(ALL.length)} thẻ theo số trong sách: 2.136 chữ (thẻ 1–2136) + ${ALL.filter(x => x.n > 2136).length} thẻ bổ sung (2137–2165, chữ Jōyō mà sách thiếu).`,
       p1: `<b>Tập 1</b> — thẻ 1–1050 của sách Hack Não Kanji (bộ thủ và chữ cơ bản).`,
       p2: `<b>Tập 2</b> — thẻ 1051–2136 của sách + các thẻ bổ sung 2137–2165.`,
+      rest: `<b>Chữ còn lại</b> — toàn bộ thẻ trừ các chữ đã nằm trong nhóm 1000 chữ thông dụng (${fmt(ALL.filter(x => !(window.KANJI_C1000 || []).includes(x.n)).length)} chữ). Học 1000 thông dụng trước, rồi học phần này. `,
       c1000: `<b>1000 chữ thông dụng</b> — nhóm chữ gặp nhiều nhất khi đọc báo và blog, nên học trước.`,
       extra: `<b>17 chữ ngoài 2136</b> — không thuộc bộ 2136 nhưng hay gặp trong 1800 từ vựng IT và 2000 từ thông dụng.`,
       nonjoyo: `<b>Chữ không thuộc Jōyō</b> — ${fmt((window.KANJI_NONJOYO || []).length)} chữ có trên site nhưng không nằm trong 2.136 chữ Jōyō chính thức (thẻ của sách + 17 chữ ngoài 2136). Phần lớn là chữ ít gặp.`,
@@ -816,9 +821,21 @@
     el.innerHTML = T[st.set] || '';
     el.style.display = T[st.set] ? '' : 'none';
   }
+  // Game: dùng đúng bộ chữ đang chọn (game.html hỗ trợ các bộ dưới đây; bộ khác -> tất cả thẻ)
+  const GAME_SETS = ['all','p1','p2','c1000','rest','N5','N4','N3','N2','N1'];
+  function syncGame(){
+    if (!st.game) return;
+    const gs = GAME_SETS.includes(st.set) ? st.set : 'all';
+    const src = 'game.html?set=' + gs + '&embed=1';
+    const f = $('gameFrame');
+    if (f.getAttribute('src') !== src) f.setAttribute('src', src);
+    $('gameNote').textContent = GAME_SETS.includes(st.set) ? '' : 'Game chưa có bộ này nên đang chơi với tất cả thẻ.';
+  }
   // bật/tắt khung Chuyển động và phần Luyện viết (mặc định cả hai ẩn)
   function panels(){
     $('writeArea').classList.toggle('hidden', !st.write);
+    $('gameBtn').classList.toggle('on', !!st.game); $('gameBtn').textContent = st.game ? '🎮 Game: bật' : '🎮 Game: tắt';
+    $('gamePanel').classList.toggle('hidden', !st.game); syncGame();
     $('writeBtn').classList.toggle('on', !!st.write); $('writeBtn').textContent = st.write ? '✍️ Luyện viết: bật' : '✍️ Luyện viết: tắt';
     $('animPanel').classList.toggle('hidden', !st.anim);
     $('animBtn').classList.toggle('on', !!st.anim); $('animBtn').textContent = st.anim ? '🎞️ Chuyển động: bật' : '🎞️ Chuyển động: tắt';
@@ -879,7 +896,7 @@
 
   // ---------- controls ----------
   $('set').value = st.set;
-  $('set').onchange = e => { st.set = e.target.value; i = st.pos[st.set] || 0; show(); };
+  $('set').onchange = e => { st.set = e.target.value; i = st.pos[st.set] || 0; show(); syncGame(); };
   $('extraGo').onclick = e => { e.preventDefault(); st.set = 'extra'; $('set').value = 'extra'; i = st.pos.extra || 0; show(); };
   $('prev').onclick = () => go(-1); $('next').onclick = () => go(1);
   $('rand').onclick = () => { i = Math.floor(Math.random() * list.length); show(); };
@@ -902,6 +919,7 @@
   enApply();
   const cardLabel = () => { $('cardBtn').classList.toggle('on', st.card); $('cardBtn').textContent = st.card ? '🖼 Ảnh: bật' : '🖼 Ảnh: tắt'; };
   $('cardBtn').onclick = () => { st.card = !st.card; cardLabel(); save(); show(); };
+  $('gameBtn').onclick = () => { st.game = !st.game; panels(); save(); };
   $('writeBtn').onclick = () => { st.write = !st.write; panels(); save(); };
   $('animBtn').onclick = () => { st.anim = !st.anim; panels(); save(); };
   // Chế độ danh sách: cả bộ hiện 1 lần, mỗi chữ = chữ Hán trước, rồi câu chuyện + mảnh ghép

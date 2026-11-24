@@ -134,6 +134,7 @@ select,input[type=number]{font:inherit;color:inherit;background:var(--bg);border
 </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Kanji Game"></script>
+<script>if(/[?&]embed=1/.test(location.search)){document.write("<style>.ui-bar{display:none!important}body{padding-top:0!important}</style>")}</script>
 </head>
 <body>
 <div class="wrap">
@@ -164,6 +165,7 @@ select,input[type=number]{font:inherit;color:inherit;background:var(--bg);border
         <option value="p1">Tập 1 — thẻ 1–1050</option>
         <option value="p2">Tập 2 — thẻ 1051–2165</option>
         <option value="c1000">1000 chữ thông dụng (954 chữ có thẻ)</option>
+        <option value="rest">➕ Chữ còn lại — không trùng 1000 thông dụng</option>
         <option value="N5">JLPT N5</option>
         <option value="N4">JLPT N4</option>
         <option value="N3">JLPT N3</option>
@@ -262,6 +264,7 @@ function lsSet(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}
 const SKEY="kanjiGame_v1";
 let ST=lsGet(SKEY,{s:{},best:{},len:20,set:"p1",from:1,to:100});
 ST.s=ST.s||{};ST.best=ST.best||{};
+{const q=new URLSearchParams(location.search).get("set");if(q&&/^(all|p1|p2|c1000|rest|N[1-5]|unknown|starred|weak)$/.test(q))ST.set=q;}
 function save(){lsSet(SKEY,ST);}
 // shared with the card viewer (index.html): keys are image paths
 const viewerKnown=()=>lsGet("kanjiViewerKnown",{});
@@ -284,6 +287,7 @@ function pool(){
   if(set==="all") p=ALL;
   else if(set==="p1") p=ALL.filter(x=>x.n<=1050);
   else if(set==="p2") p=ALL.filter(x=>x.n>1050);
+  else if(set==="rest"){const C=new Set(window.KANJI_C1000||[]);p=ALL.filter(x=>!C.has(x.n));}
   else if(set==="c1000") p=(window.KANJI_C1000||[]).map(n=>BY_N.get(n)).filter(Boolean);
   else if(/^N\d$/.test(set)) p=ALL.filter(x=>x.j===set);
   else if(set==="unknown"){const k=viewerKnown();p=ALL.filter(x=>!(x.img&&k[x.img]));}
