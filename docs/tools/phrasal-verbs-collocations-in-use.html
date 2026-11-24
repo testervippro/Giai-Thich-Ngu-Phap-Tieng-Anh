@@ -77,6 +77,17 @@
     mark { background:#fde68a; color:inherit; border-radius:3px; }
     .more { margin:4px 0 14px; }
     .foot { color:var(--muted); font-size:12.5px; margin-top:24px; }
+    /* popup xem collocation của 1 từ */
+    .pop { position:fixed; inset:0; z-index:50; background:rgba(0,0,0,.45); display:flex; align-items:center; justify-content:center; padding:16px; }
+    .pop[hidden] { display:none; }
+    .pop .box { background:var(--bg); color:var(--ink); border-radius:14px; width:min(720px, 100%); max-height:min(82vh, 900px); display:flex; flex-direction:column; box-shadow:0 12px 40px rgba(0,0,0,.3); overflow:hidden; }
+    .pop .hd { display:flex; align-items:center; gap:8px; padding:10px 12px 8px 16px; border-bottom:1px solid var(--line); }
+    .pop .hd b { font-size:17px; flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .pop .hd button { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:8px; padding:4px 10px; font:inherit; font-size:14px; cursor:pointer; }
+    .pop .bd { overflow-y:auto; padding:10px 12px 14px; overscroll-behavior:contain; }
+    .pop .bd .card { margin-bottom:8px; }
+    body.popopen { overflow:hidden; }
+    @media (max-width:560px) { .pop { padding:0; align-items:flex-end; } .pop .box { width:100%; max-height:88vh; border-radius:14px 14px 0 0; } }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Collocations & Idioms"></script>
@@ -103,6 +114,9 @@
   </div>
   <div class="stat" id="stat"></div>
   <div id="out"></div>
+  <div class="pop" id="pop" hidden role="dialog" aria-modal="true" aria-labelledby="popT">
+    <div class="box"><div class="hd"><b id="popT"></b><button id="popPrev" title="Từ trước (←)">‹</button><button id="popNext" title="Từ sau (→)">›</button><button id="popX" title="Đóng (Esc)">✕</button></div><div class="bd" id="popB"></div></div>
+  </div>
   <p class="foot">Nguồn: <i>Oxford Collocations Dictionary for students of English</i> (OCR, có thể còn lỗi chữ); <i>4500 English Collocations and Idioms</i> (OCR, nghĩa tiếng Việt theo sách; bản lọc TOEIC 990 đã sửa chính tả các cụm giữ lại); Michael McCarthy, Felicity O’Dell, <i>English Collocations in Use</i> Intermediate &amp; Advanced (INT/ADV = sách, số = Unit). Các trang cũ vẫn mở được: <a href="../#/Oxford%20Collocations%20Dictionary">Oxford</a> · <a href="../#/Collocations">dạng cụm</a> · <a href="../#/Collocations5000">5000 từ</a> · <a href="../#/CollocationsNot5000">ngoài 5000</a> · <a href="../#/4500-collocations-idioms">4500</a> · <a href="../#/4500-collocations-toeic-990">TOEIC 990</a>.</p>
 </main>
 <script src="pv-ciu-data.js"></script>
@@ -234,14 +248,15 @@
           H.push(`<h2 class="sec">📕 Oxford Collocations <small>${exact.length} từ mục khớp${pre.length ? ' · ' + pre.length + ' từ bắt đầu bằng "' + esc(fq) + '"' : ''}</small></h2>`);
           H.push(exact.slice(0, 8).map(o => oxCard(o, qs)).join(''));
           if (exact.length > 8) H.push(`<p class="stat">… và ${exact.length - 8} từ mục khác (gõ cụ thể hơn).</p>`);
-          if (pre.length) H.push(`<ul class="words">${pre.map(o => `<li><button class="${o.f5 ? 'f5' : ''}" data-w="${esc(o.w)}">${esc(o.w)}</button></li>`).join('')}</ul>`);
+          if (pre.length) { const P = uniqW(pre); popList = P.map(o => o.w); H.push(`<ul class="words">${P.map(o => `<li><button class="${o.f5 ? 'f5' : ''}" data-w="${esc(o.w)}">${esc(o.w)}</button></li>`).join('')}</ul>`); }
         } else if (tab === 'ox') H.push('<p class="stat">Không có từ mục Oxford nào khớp. Oxford tra theo <b>từ tiếng Anh</b> (vd decision, make).</p>');
       } else {
         const letters = [...new Set(OX.map(o => o.L))].sort();
         if (!letters.includes(st.letter)) st.letter = letters[0];
         const W = OX.filter(o => o.L === st.letter && pass(o));
         H.push(`<div class="chips">${letters.map(L => `<button data-L="${L}" class="${L === st.letter ? 'on' : ''}">${L.toUpperCase()}</button>`).join('')}</div>`);
-        H.push(`<ul class="words">${W.map(o => `<li><button class="${o.f5 ? 'f5' : ''}" data-w="${esc(o.w)}">${esc(o.w)}</button></li>`).join('')}</ul>`);
+        const WU = uniqW(W); popList = WU.map(o => o.w);
+        H.push(`<ul class="words">${WU.map(o => `<li><button class="${o.f5 ? 'f5' : ''}" data-w="${esc(o.w)}">${esc(o.w)}</button></li>`).join('')}</ul>`);
         stat = `Chữ ${st.letter.toUpperCase()}: ${W.length} từ mục${fltName() ? ' (' + fltName() + ')' : ''} — bấm một từ để xem collocation.`;
       }
     }
@@ -283,6 +298,43 @@
     $('out').innerHTML = H.join('') || '<p class="stat">Không có mục nào khớp.</p>';
   }
 
+  // ---- popup: bấm 1 từ trong lưới → xem collocation ngay, không rời danh sách
+  let popList = [], popW = '';
+  const uniqW = arr => { const seen = new Set(); return arr.filter(o => !seen.has(o.k) && seen.add(o.k)); };   // danh từ + động từ cùng chữ → 1 ô
+  function openPop(w) {
+    popW = w;
+    const k = fold(w), list = OX.filter(o => o.k === k);
+    $('popT').textContent = w;
+    const draw = () => {
+      if (popW !== w) return;
+      const loaded = list.every(o => OXC[o.L]);
+      // bỏ thẻ trống (từ loại thứ 2 không có collocation) khi đã có thẻ khác của cùng từ
+      let L2 = loaded ? list.filter(o => (OXC[o.L][o.j] || []).length) : list;
+      if (!L2.length) L2 = list;
+      $('popB').innerHTML = L2.map(o => oxCard(o, [])).join('')
+        + (loaded && L2.every(o => !(OXC[o.L][o.j] || []).length) ? '<p class="stat">Bản OCR của Oxford Collocations Dictionary không có collocation cho từ này.</p>' : '');
+    };
+    draw();
+    Promise.all([...new Set(list.map(o => o.L))].map(loadL)).then(draw).catch(() => {});
+    const i = popList.indexOf(w);
+    $('popPrev').disabled = i <= 0; $('popNext').disabled = i < 0 || i >= popList.length - 1;
+    $('pop').hidden = false; document.body.classList.add('popopen'); $('popB').scrollTop = 0;
+  }
+  const closePop = () => { $('pop').hidden = true; document.body.classList.remove('popopen'); popW = ''; };
+  const stepPop = d => { const i = popList.indexOf(popW); if (i >= 0 && popList[i + d]) openPop(popList[i + d]); };
+  $('popX').onclick = closePop;
+  $('popPrev').onclick = () => stepPop(-1);
+  $('popNext').onclick = () => stepPop(1);
+  $('pop').addEventListener('click', e => {
+    if (e.target === $('pop')) return closePop();
+    const s = e.target.closest('.say');
+    if (s && window.speechSynthesis) { const u = new SpeechSynthesisUtterance(s.dataset.t); u.lang = 'en-GB'; u.rate = 0.95; speechSynthesis.cancel(); speechSynthesis.speak(u); }
+  });
+  document.addEventListener('keydown', e => {
+    if ($('pop').hidden) return;
+    if (e.key === 'Escape') closePop(); else if (e.key === 'ArrowRight') stepPop(1); else if (e.key === 'ArrowLeft') stepPop(-1);
+  });
+
   // ---- sự kiện
   $('tabs').addEventListener('click', e => { const b = e.target.closest('[data-tab]'); if (!b) return; st.tab = b.dataset.tab; save(); render(); });
   $('out').addEventListener('click', e => {
@@ -291,7 +343,7 @@
     const go = e.target.closest('[data-go]'); if (go) { st.tab = go.dataset.go; save(); render(); return; }
     const L = e.target.closest('[data-L]'); if (L) { st.letter = L.dataset.L; save(); render(); return; }
     const tp = e.target.closest('[data-topic]'); if (tp) { st.topic = +tp.dataset.topic; save(); render(); return; }
-    const w = e.target.closest('[data-w]'); if (w) { $('q').value = w.dataset.w; if (st.tab !== 'ox') st.tab = 'ox'; save(); render(); scrollTo({ top:0 }); }
+    const w = e.target.closest('[data-w]'); if (w) openPop(w.dataset.w);
   });
   let tm = null;
   $('q').addEventListener('input', () => { clearTimeout(tm); tm = setTimeout(() => { history.replaceState(null, '', $('q').value.trim() ? '#q=' + encodeURIComponent($('q').value.trim()) : location.pathname + location.search); render(); }, 180); });

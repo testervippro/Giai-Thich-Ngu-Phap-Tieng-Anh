@@ -88,6 +88,20 @@ def oxford():
             cur["b"][-1][1] = prev[:-1] + t if prev.endswith("-") else prev + " " + t
         else:
             cur["b"].append(["c", t])
+    # OCR đảo thứ tự tiêu đề: "accolade noun" (trống) rồi "acclaim verb" + nội dung của accolade → trả nội dung về đúng từ mục
+    for i in range(len(entries) - 1):
+        e1, e2 = entries[i], entries[i + 1]
+        has = lambda e: any(k == "c" for k, _ in e["b"])
+        if has(e1) or not has(e2):
+            continue
+        w1, w2 = e1["w"].lower(), e2["w"].lower()
+        r1 = re.compile(r"\b%s" % re.escape(w1[:max(4, len(w1) - 2)]), re.I)
+        r2 = re.compile(r"\b%s" % re.escape(w2[:max(4, len(w2) - 2)]), re.I)
+        n = 0                                  # các nhóm đầu của e2 nhắc tới w1 mà không nhắc w2 → thuộc e1
+        while n < len(e2["b"]) and e2["b"][n][0] == "c" and r1.search(e2["b"][n][1]) and not r2.search(e2["b"][n][1]):
+            n += 1
+        if n:
+            e1["b"], e2["b"] = e1["b"] + e2["b"][:n], e2["b"][n:]
     for e in entries:
         e["f"] = 1 if e["w"].lower() in words5000 else 0
         nb = []
