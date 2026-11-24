@@ -158,7 +158,12 @@ def draw_story(canvas, story, x0, x1, H):
         y += sz * 1.55
 
 
+SUBST = {"\U00020010": "\u9fb6"}   # 𠀐 (không font nào có) -> 龶 (cùng hình)
+
+
 def render(n, story):
+    for a, b in SUBST.items():
+        story = story.replace(a, b)
     src = UP / f"{n:04d}.webp"
     im = Image.open(src).convert("RGB")
     W, H = im.size
