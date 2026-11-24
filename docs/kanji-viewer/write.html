@@ -219,6 +219,7 @@
       <button class="btn" id="aFs" title="Toàn màn hình">⛶ Toàn màn hình</button>
       <label>Lặp <input id="aRep" type="number" min="1" max="50" value="3"> lần</label>
       <label>Tốc độ <select id="aSpeed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label>
+      <label>Giọng đọc <select id="aVoice"><option value="vi_huyen">Ngọc Huyền (nữ, tự nhiên)</option><option value="vi_dang">Hải Đăng (nam, tự nhiên)</option><option value="off">Tắt tiếng</option></select></label>
     </div>
   </section>
   <div id="liteList"></div>
@@ -286,8 +287,23 @@
   };
   const cv = $('aCv'), ctx = cv.getContext('2d'), wrap = $('aWrap');
   let W = 800, H = 240, card = null, img = null, lines = null, size = 28, nch = 1, picBox = null;
-  let t = 0, loop = 0, playing = true, last = 0, active = false, raf = 0, dur = DUR_STORY, tBig = 3.55;
-  $('aRep').value = store.get('rep', '3'); $('aSpeed').value = store.get('speed', '1');
+  let t = 0, loop = 0, playing = true, last = 0, active = false, raf = 0, dur = DUR_STORY, tBig = 3.55, span = 2.8;
+  let voice = null, spoken = false;   // giọng đọc câu chuyện: tts/<giọng>/<mã FNV-1a>.mp3 (VieNeu-TTS, tạo sẵn)
+  $('aRep').value = store.get('rep', '3'); $('aSpeed').value = store.get('speed', '1'); $('aVoice').value = store.get('voice', 'vi_huyen');
+  const T0 = 0.3;   // giây bắt đầu đọc trong mỗi lượt
+  function fnv(s) { let h = 0x811c9dc5; for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 0x01000193); } return (h >>> 0).toString(16).padStart(8, '0'); }
+  const spokenText = s => s.replace(/\s*\([^)]*\)/g, '').replace(/\s{2,}/g, ' ').trim();
+  function timing(sp) { span = sp; tBig = card && card.s ? 0.6 + span + 0.15 : 0.2; dur = card && card.s ? tBig + 1.45 : DUR_PLAIN; }
+  function stopVoice() { if (voice) { voice.onloadedmetadata = voice.onerror = null; voice.pause(); voice = null; } spoken = false; }
+  function loadVoice() {
+    stopVoice();
+    const v = $('aVoice').value; if (!card || !card.s || v === 'off') return;
+    const a = new Audio('tts/' + v + '/' + fnv(spokenText(card.s)) + '.mp3'), n = card.n;
+    a.preload = 'auto'; a.playbackRate = speed(); voice = a;
+    // Câu chuyện hiện dần đúng theo nhịp đọc: kéo dài phần chữ chạy cho bằng độ dài audio.
+    a.onloadedmetadata = () => { if (voice === a && card && card.n === n && isFinite(a.duration)) timing(Math.max(2.8, a.duration - T0)); };
+    a.onerror = () => { if (voice === a) voice = null; };   // thiếu file → chạy im lặng như cũ
+  }
   const rep = () => Math.max(1, +$('aRep').value || 1), speed = () => +$('aSpeed').value || 1;
   const hook = () => window.KWAnimHook || {};
   const isFs = () => document.fullscreenElement === wrap;
@@ -352,10 +368,10 @@
     const story = (x.html == null && x.s) ? String(x.s).trim() : '';
     card = { n: x.n, k: x.k, hv: x.hv || '', m: x.m || '', j: x.j || '', s: story };
     loop = 0; t = 0; img = null;
-    dur = story ? DUR_STORY : DUR_PLAIN; tBig = story ? 3.55 : 0.2;
+    timing(2.8);
     picBox = (typeof x.n === 'number' && story && x.img) ? (CROP[x.n] || null) : null;
     if (picBox && x.img) { const im = new Image(); im.onload = () => { if (card && card.n === x.n) img = im; }; im.src = x.img; }
-    relayout(); status();
+    relayout(); status(); loadVoice();
   }
   function drawText(x, y, w, col, a, sz, pop) {
     ctx.fillStyle = rgba(col, a);
@@ -377,7 +393,7 @@
       const [a, b, c, d] = picBox, pw = picW(), ph = Math.round(pw * (d - b) / (c - a));
       const al = ease(t / 0.6);
       let sc = 0.92 + 0.08 * al;
-      if (t > 3.4) sc += 0.025 * Math.sin((t - 3.4) * 9) * Math.max(0, 1 - (t - 3.4) / 1.2);
+      const tz = tBig - 0.15; if (t > tz) sc += 0.025 * Math.sin((t - tz) * 9) * Math.max(0, 1 - (t - tz) / 1.2);
       const w = pw * sc, h = ph * sc;
       ctx.globalAlpha = al;
       ctx.drawImage(img, a, b, c - a, d - b, 14 + (pw - w) / 2, (H - h) / 2, w, h);
@@ -391,7 +407,7 @@
         let x = lines.x0 + (lines.x1 - lines.x0 - ln.w) / 2;
         for (const it of ln.items) {
           x += it.gap;
-          const ts = 0.6 + 2.8 * it.ci / nch;
+          const ts = 0.6 + span * it.ci / nch;
           const a = ease((t - ts) / 0.3) * fade;
           if (a > 0) {
             const pop = it.han && t > ts + 0.15 ? 1 + 0.45 * Math.max(0, 1 - (t - ts - 0.15) / 0.3) : 1;
@@ -430,8 +446,9 @@
     const dt = last ? Math.min(0.25, (now - last) / 1000) : 0; last = now;
     if (playing && card) {
       t += dt * speed();
+      if (voice && !spoken && t >= T0) { spoken = true; voice.currentTime = 0; voice.playbackRate = speed(); voice.play().catch(() => {}); }
       if (t >= dur) {
-        t = 0; loop++;
+        t = 0; loop++; spoken = false;
         if (loop >= rep()) { loop = 0; const h = hook(); if (h.next) h.next(); }
         status();
       }
@@ -443,9 +460,12 @@
   function setActive(v) {
     active = !!v;
     if (active) { fit(); last = 0; if (!raf) raf = requestAnimationFrame(frame); }
-    else { if (raf) cancelAnimationFrame(raf); raf = 0; if (isFs()) document.exitFullscreen(); }
+    else { if (raf) cancelAnimationFrame(raf); raf = 0; if (voice) voice.pause(); if (isFs()) document.exitFullscreen(); }
   }
-  function setPlaying(p) { playing = p; $('aPlay').textContent = p ? '⏸ Dừng' : '▶ Phát'; }
+  function setPlaying(p) {
+    playing = p; $('aPlay').textContent = p ? '⏸ Dừng' : '▶ Phát';
+    if (voice && spoken) { if (p && !voice.ended && voice.currentTime > 0) voice.play().catch(() => {}); else if (!p) voice.pause(); }
+  }
   function toggleFs() {
     if (isFs()) document.exitFullscreen();
     else if (wrap.requestFullscreen) wrap.requestFullscreen().catch(() => {});
@@ -458,9 +478,10 @@
   $('aPlay').onclick = () => setPlaying(!playing);
   $('aNext').onclick = () => { const h = hook(); if (h.next) h.next(); };
   $('aPrev').onclick = () => { const h = hook(); if (h.prev) h.prev(); };
-  $('aAgain').onclick = () => { t = 0; loop = 0; status(); setPlaying(true); };
+  $('aAgain').onclick = () => { t = 0; loop = 0; if (voice) voice.pause(); spoken = false; status(); setPlaying(true); };
   $('aRep').onchange = () => { store.set('rep', $('aRep').value); status(); };
-  $('aSpeed').onchange = () => store.set('speed', $('aSpeed').value);
+  $('aSpeed').onchange = () => { store.set('speed', $('aSpeed').value); if (voice) voice.playbackRate = speed(); };
+  $('aVoice').onchange = () => { store.set('voice', $('aVoice').value); t = 0; timing(2.8); loadVoice(); };
   window.KWAnim = { setCard, setActive };
 })();
 </script>
