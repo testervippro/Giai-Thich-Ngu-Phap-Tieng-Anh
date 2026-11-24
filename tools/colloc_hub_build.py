@@ -477,6 +477,15 @@ if os.path.exists(os.path.join(_D, "oxford_word_skills_index.json")):
     OWS = {re.sub(r"\s*\(.*", "", r["w"]).strip().lower() for r in json.load(open(os.path.join(_D, "oxford_word_skills_index.json"), encoding="utf-8"))}
 
 
+# Danh sách từ vựng TOEIC + IELTS + Oxford (docs/tools/vocab-index-data.js, sinh bởi tools/vocab_index_build.py)
+VOCAB = set()
+_VP = os.path.join(DOCS, "tools", "vocab-index-data.js")
+if os.path.exists(_VP):
+    _s = open(_VP, encoding="utf-8").read()
+    for r in json.loads(_s[_s.index("=", _s.index("window.VOCAB_INDEX")) + 1:].strip().rstrip(";"))["rows"]:
+        VOCAB.add(re.sub(r"\s*\(.*", "", r[0]).strip().lower())
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     ox = oxford()
@@ -495,7 +504,7 @@ def main():
             f.write("window.OXC=window.OXC||{};OXC[%s]=%s;\n" % (json.dumps(L), json.dumps([e["b"] for e in by_letter[L]], ensure_ascii=False, separators=(",", ":"))))
         for j, e in enumerate(by_letter[L]):
             k = e["w"].lower()
-            mask = (1 if e["f"] else 0) | (2 if k in OX3 else 0) | (4 if k in OX5 else 0) | (8 if k in OWS else 0)
+            mask = (1 if e["f"] else 0) | (2 if k in OX3 else 0) | (4 if k in OX5 else 0) | (8 if k in OWS else 0) | (16 if k in VOCAB else 0)
             idx.append([e["w"], "/".join(e["pos"]), e["f"], L, j, mask, OXLV.get(k, "")])
     rows = four500()
     tk = {key(r["p"]): r for r in rows}

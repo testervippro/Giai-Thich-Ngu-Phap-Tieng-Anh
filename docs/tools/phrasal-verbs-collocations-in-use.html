@@ -84,13 +84,12 @@
 <body>
 <main>
   <h1>🔗 Collocations &amp; Idioms — tra chung</h1>
-  <p class="lead">Gộp các trang Collocations vào một chỗ, đã bỏ trùng: <b>Oxford Collocations Dictionary</b> (<b id="nOx">…</b> từ mục, lọc được theo ★ 5000 từ thông dụng, Oxford 3000/5000 + cấp CEFR, Oxford Word Skills; các trang "dạng cụm", "5000 từ", "ngoài 5000 từ" đều trích từ đây), <b>4500 Collocations &amp; Idioms</b> theo chủ đề (<b id="n45">…</b> cụm, 🎯 = bản lọc TOEIC 990 kèm câu trong đề ETS), và <b>Phrasal verbs trong Collocations in Use</b> (<b id="nPv">…</b> mục). Gõ một từ (vd <i>decision</i>, <i>take</i>, <i>deadline</i>) hoặc nghĩa tiếng Việt.</p>
+  <p class="lead">Gộp các trang Collocations vào một chỗ, đã bỏ trùng: <b>Oxford Collocations Dictionary</b> (<b id="nOx">…</b> từ mục, lọc được theo <a href="vocab-index.html">Danh sách từ vựng TOEIC + IELTS + Oxford</a> và cấp CEFR; các trang "dạng cụm", "5000 từ", "ngoài 5000 từ" đều trích từ đây), <b>4500 Collocations &amp; Idioms</b> theo chủ đề (<b id="n45">…</b> cụm, 🎯 = bản lọc TOEIC 990 kèm câu trong đề ETS), và <b>Phrasal verbs trong Collocations in Use</b> (<b id="nPv">…</b> mục). Gõ một từ (vd <i>decision</i>, <i>take</i>, <i>deadline</i>) hoặc nghĩa tiếng Việt.</p>
   <div class="bar">
     <div class="row">
       <input type="search" id="q" placeholder="Tìm từ, cụm từ hoặc nghĩa tiếng Việt" aria-label="Tìm" autocomplete="off">
-      <select id="flt" aria-label="Lọc từ mục Oxford theo danh sách từ phổ biến" title="Oxford: chỉ hiện từ mục thuộc danh sách từ phổ biến">
-        <option value="">Mọi từ mục</option><option value="1">★ 5000 từ thông dụng</option><option value="2">Oxford 3000</option>
-        <option value="6">Oxford 3000 + 5000</option><option value="8">Oxford Word Skills</option><option value="14">Oxford 3000/5000 hoặc Word Skills</option></select>
+      <select id="flt" aria-label="Lọc từ mục Oxford" title="Oxford: chỉ hiện từ mục có trong Danh sách từ vựng TOEIC + IELTS + Oxford">
+        <option value="">Mọi từ mục</option><option value="16">Có trong Danh sách từ vựng (TOEIC + IELTS + Oxford)</option></select>
       <select id="cefr" aria-label="Cấp CEFR (Oxford 3000/5000)"><option value="">Mọi cấp</option><option>A1</option><option>A2</option><option>B1</option><option>B2</option><option>C1</option></select>
       <button class="btn on" id="exBtn" title="Phrasal verbs: hiện câu ví dụ">💬 Ví dụ</button>
     </div>
@@ -117,6 +116,7 @@
   const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
   const st = Object.assign({ tab:'all', ex:true, flt:'', cefr:'', letter:'a', topic:0, open:'' }, ls.get('collocHub', {}));
   const save = () => ls.set('collocHub', st);
+  if (!['', '16'].includes(String(st.flt))) st.flt = '';   // bỏ giá trị lọc cũ (bản trước có nhiều lựa chọn hơn)
   const C = window.COLLOC || { ox:[], c45:[], topics:[] };
   window.OXC = window.OXC || {};
 
