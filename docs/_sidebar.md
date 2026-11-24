@@ -94,6 +94,7 @@
   - [Listening — Cụm từ & fixed expressions](toeic-ets-2026-listening-phrases.md)
   - [Reading — Cụm từ & fixed expressions](toeic-ets-2026-reading-all-phrases.md)
 - **Listening (Part 1–4)**
+  - [🎧 Master Listening — âm nối, câu dài, chép chính tả (TOEIC 990 / IELTS 9.0)](tools/listening-master.html)
   - [Luyện nghe Part 1–4](toeic-listening-practice.md)
   - [Pattern câu hỏi, đáp án & bẫy](toeic-listening-question-patterns.md)
 - **Reading (Part 5–7)**
@@ -120,6 +121,7 @@
 # 📗 IELTS Reading (Cambridge 10–21)
 
 - [📖 Luyện đề IELTS Reading & Listening (site riêng)](https://testervippro.github.io/Ielts-Reading/)
+- [🎧 Master Listening — luyện nghe kịp người bản xứ](tools/listening-master.html)
 - [📝 Làm đề Cam 19–21 — chấm điểm ngay (12 đề)](ielts-reading/index.html)
 - **🗺️ Bản đồ ngữ pháp (5.507 câu, 48 đề)**
   - [Tổng quan — map vào 19 chương](ielts-ngu-phap-ban-do.md)

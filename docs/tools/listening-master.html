@@ -1,0 +1,478 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Master Listening</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:980px; margin:auto; padding:4px 16px 56px; }
+    h1 { margin:0 0 6px; font-size:24px; }
+    h2 { font-size:18px; margin:22px 0 8px; }
+    h3 { font-size:15.5px; margin:0 0 6px; }
+    .lead { color:var(--muted); margin:0 0 10px; font-size:14px; }
+    .lead b { color:var(--ink); }
+    .bar { position:sticky; top:0; z-index:3; background:var(--bg); padding:8px 0 8px; border-bottom:1px solid var(--line); }
+    .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+    .row + .row { margin-top:6px; }
+    select, textarea, input[type=text] { padding:7px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; max-width:100%; min-width:0; }
+    select { flex:0 1 auto; }
+    .btn, .chip { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:6px 11px; font:inherit; font-size:14px; cursor:pointer; white-space:nowrap; }
+    .chip { border-radius:999px; font-size:13.5px; padding:5px 11px; }
+    .btn.on, .chip.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .btn.pri { background:var(--accent); border-color:var(--accent); color:#fff; font-weight:700; }
+    .btn:disabled { opacity:.45; cursor:default; }
+    .tabs { display:flex; gap:6px; flex-wrap:wrap; }
+    .spd { display:flex; align-items:center; gap:6px; font-size:13.5px; color:var(--muted); }
+    .spd input { width:120px; }
+    .spd b { color:var(--ink); min-width:38px; font-variant-numeric:tabular-nums; }
+    .muted { color:var(--muted); font-size:13px; }
+    .card { border:1px solid var(--line); background:var(--card); border-radius:12px; padding:12px 14px; margin:10px 0; }
+    .grid2 { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:10px; }
+    .grid2 .card { margin:0; }
+    .pane { display:none; } .pane.on { display:block; }
+    ol, ul { padding-left:20px; margin:6px 0; }
+    li { margin:3px 0; }
+    .ex { width:100%; border-collapse:collapse; font-size:14.5px; }
+    .ex td { padding:5px 6px; border-top:1px solid var(--line); vertical-align:top; }
+    .ex td:first-child { font-weight:600; }
+    .ex .sl { color:var(--accent); font-style:italic; }
+    .ex td:last-child { white-space:nowrap; text-align:right; width:1%; }
+    .say { border:1px solid var(--line); background:var(--bg); color:inherit; border-radius:7px; cursor:pointer; font-size:12.5px; padding:2px 7px; margin-left:3px; }
+    .rule p { margin:4px 0 6px; font-size:14px; }
+    .sent { font-size:19px; line-height:2.1; margin:6px 0 4px; }
+    .ck { display:inline; padding:3px 7px; margin:0 2px; border-radius:8px; border:1px dashed var(--line); cursor:pointer; -webkit-box-decoration-break:clone; box-decoration-break:clone; }
+    .ck.hot { background:var(--accentbg); border-color:var(--accent); border-style:solid; }
+    .ck.hide { color:transparent; text-shadow:0 0 9px var(--muted); }
+    .ck sup { color:var(--muted); font-size:10px; margin-right:2px; text-shadow:none; }
+    .src { font-size:11.5px; border:1px solid var(--line); border-radius:999px; padding:0 7px; color:var(--muted); }
+    textarea { width:100%; min-height:74px; resize:vertical; font-size:16px; }
+    .diff { font-size:17px; line-height:1.9; margin:8px 0 4px; }
+    .ok { color:var(--good, #059669); }
+    .miss { color:var(--bad, #dc2626); text-decoration:underline wavy; text-underline-offset:4px; font-weight:700; }
+    .extra { color:var(--muted); text-decoration:line-through; }
+    .score { font-size:22px; font-weight:800; }
+    .tags { display:flex; gap:5px; flex-wrap:wrap; margin-top:6px; }
+    .tag { font-size:13px; padding:1px 9px; border-radius:999px; border:1px solid var(--line); }
+    .tag b { color:var(--bad, #dc2626); margin-left:3px; }
+    a.say.yg { text-decoration:none; display:inline-block; }
+    .now { font-size:12.5px; color:var(--muted); min-height:18px; }
+    kbd { border:1px solid var(--line); border-bottom-width:2px; border-radius:5px; padding:0 5px; font-size:12px; background:var(--bg); }
+    .foot { color:var(--muted); font-size:12.5px; margin-top:26px; }
+    @media (max-width:560px) { .sent { font-size:17px; } .spd input { width:90px; } .ex td:last-child { white-space:normal; } }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Master Listening"></script>
+</head>
+<body>
+<main>
+  <h1>🎧 Master Listening — nghe kịp người bản xứ</h1>
+  <p class="lead">Mục tiêu <b>IELTS Listening 9.0 / TOEIC Listening 495</b>. Phần lớn chỗ "nghe không ra" là do <b>âm nối</b>, <b>cụm nói nhanh</b> và <b>câu dài làm tràn trí nhớ</b>, chứ không phải do thiếu từ vựng. Trang này luyện đúng ba chỗ đó bằng giọng đọc của trình duyệt. Có thể đổi giọng Mỹ/Anh/Úc và chỉnh tốc độ.</p>
+
+  <div class="bar">
+    <div class="row">
+      <div class="tabs" id="tabs">
+        <button class="btn" data-t="plan">🧭 Lộ trình</button>
+        <button class="btn" data-t="cs">🔗 Âm nối</button>
+        <button class="btn" data-t="long">🧩 Câu dài</button>
+        <button class="btn" data-t="dict">✍️ Chép chính tả</button>
+      </div>
+    </div>
+    <div class="row">
+      <select id="voice" title="Giọng đọc"></select>
+      <button class="btn" id="mix" title="Mỗi câu đổi ngẫu nhiên giọng Mỹ / Anh / Úc / Canada — giống đề IELTS & TOEIC">🎲 Trộn giọng</button>
+      <label class="spd">Tốc độ <input type="range" id="rate" min="0.5" max="1.6" step="0.05"><b id="rateV"></b></label>
+      <button class="chip" data-r="0.75">0.75</button><button class="chip" data-r="1">1.0</button><button class="chip" data-r="1.25">1.25</button><button class="chip" data-r="1.4">1.4</button>
+      <button class="btn" id="stop" title="Dừng (Esc)">⏹</button>
+    </div>
+    <div class="now" id="now"></div>
+  </div>
+
+  <!-- ============ LỘ TRÌNH ============ -->
+  <section class="pane" id="p-plan">
+    <h2>Vì sao nghe không kịp?</h2>
+    <div class="grid2">
+      <div class="card"><h3>1. Âm nối, nuốt âm, đọc yếu</h3>
+        Biết từ <i>"what"</i>, <i>"do"</i>, <i>"you"</i> nhưng khi nói nhanh chúng thành <i>"whaddaya"</i>. Từ chức năng (to, of, and, have, can…) chỉ còn /ə/. Tai chưa quen <b>hình dạng âm thật</b> thì dù biết từ vẫn không nhận ra.
+        <br><b>→ Tab 🔗 Âm nối:</b> học 9 quy luật rồi gõ lại cụm nghe nhanh.</div>
+      <div class="card"><h3>2. Nghe từng từ thay vì từng cụm</h3>
+        Não giải mã từng từ thì không theo kịp 150–180 từ/phút. Người bản xứ nghe theo <b>cụm quen thuộc</b> (<i>"I'm afraid that…"</i>, <i>"as well as"</i>, <i>"it turned out that"</i>), nên chỉ cần nghe đầu cụm là đoán ra phần còn lại.
+        <br><b>→</b> Ôn <a href="phrasal-verbs-collocations-in-use.html">Collocations</a>, <a href="../#/toeic-ets-2026-listening-phrases">cụm Listening TOEIC</a> và luyện nhại theo cụm ở tab 🧩.</div>
+      <div class="card"><h3>3. Câu dài làm tràn trí nhớ ngắn hạn</h3>
+        Đến cuối câu thì quên đầu câu, nhất là khi chủ ngữ dài, có mệnh đề <i>which/who</i> chen giữa hoặc đảo ngữ <i>"Not only did…"</i>. Cách sửa là nghe theo <b>cụm ý</b> (thought group), mỗi cụm 3–6 từ, và <b>đoán trước cấu trúc</b>.
+        <br><b>→ Tab 🧩 Câu dài:</b> tách cụm, xây câu từ cuối lên (back-chaining), nhại theo.</div>
+    </div>
+
+    <h2>Bài tập 40 phút mỗi ngày</h2>
+    <div class="card">
+      <ol>
+        <li><b>5' — Âm nối:</b> làm 10 cụm ở tab 🔗 (gõ lại cụm nghe ở tốc độ 1.25–1.4).</li>
+        <li><b>15' — Chép chính tả 5 câu</b> ở tab ✍️. Nghe tối đa 3 lần rồi mới bấm Kiểm tra. Xem lại <b>"từ hay sót"</b>: đó chính là các âm yếu bạn chưa quen.</li>
+        <li><b>10' — Back-chaining 3 câu dài</b> ở tab 🧩: bấm <i>Xây từ cuối</i> đến khi nói lại được cả câu không nhìn chữ.</li>
+        <li><b>10' — Shadowing</b> (nhại theo): bấm <i>🗣 Nhại theo</i> ở 0.8 → 1.0 → 1.2. Nói <u>cùng nhịp và trọng âm</u>, không cần đúng từng âm.</li>
+      </ol>
+      <p class="muted">Mẹo <b>"tập nhanh hơn đề"</b>: luyện ở 1.2–1.3 cho tới khi quen, lúc đó tốc độ 1.0 của đề thi sẽ thấy chậm. Đề IELTS dùng nhiều giọng (Anh, Úc, NZ, Mỹ, Canada), TOEIC dùng Mỹ, Anh, Canada, Úc, nên hãy bật <b>🎲 Trộn giọng</b>.</p>
+    </div>
+
+    <h2>Lộ trình 8 tuần</h2>
+    <div class="grid2">
+      <div class="card"><h3>Tuần 1–2 · Âm</h3>Thuộc 9 quy luật âm nối. Chép chính tả câu TOEIC Part 3 ở 0.9. Mục tiêu: đúng ≥ 85% mỗi câu.</div>
+      <div class="card"><h3>Tuần 3–4 · Cụm</h3>Chép ở 1.0, câu Part 4 và IELTS. Mỗi ngày nhại 3 câu dài. Ghi các cụm hay sót vào sổ.</div>
+      <div class="card"><h3>Tuần 5–6 · Câu dài</h3>Back-chaining câu ≥ 25 từ. Tập <b>đoán cấu trúc</b>: nghe tới <i>"What surprised us most was…"</i> thì biết ngay sau đó là ý chính.</div>
+      <div class="card"><h3>Tuần 7–8 · Đề thật</h3>Làm đề Cam / ETS ở 1.0, rồi chép chính tả lại đúng những câu làm sai. Câu nào chép sai &gt; 2 từ thì nhại 5 lần.</div>
+    </div>
+
+    <h2>Tín hiệu báo cấu trúc câu dài (nghe là đoán trước)</h2>
+    <div class="card">
+      <table class="ex" id="signals"></table>
+    </div>
+
+    <h2>🎬 Nghe người thật nói đúng cụm đó</h2>
+    <div class="card">Mỗi cụm trên trang đều có nút <b>🎬</b>, mở <a href="https://youglish.com" target="_blank" rel="noopener">YouGlish</a>, một trang tìm trên phụ đề YouTube và phát đúng giây người bản xứ nói cụm đó. Có thể bấm Next để nghe hàng trăm người khác nhau và lọc giọng US / UK / AUS. Cách luyện: nghe 5–10 clip của cùng một cụm, mỗi clip nhại lại 2 lần. Tai sẽ quen <b>nhiều tốc độ và nhiều giọng</b> thật, không chỉ giọng máy. <span class="muted">Câu đầy đủ thường không có nguyên văn trên YouTube, nên nút 🎬 tìm theo <b>từng cụm</b>.</span></div>
+
+    <h2>Áp dụng cho audio đề thật</h2>
+    <div class="card">
+      Giọng trình duyệt chỉ để luyện âm. Hãy dùng đúng quy trình này với audio đề thật (Cambridge IELTS, ETS TOEIC):
+      <ol>
+        <li>Nghe cả đoạn một lần như thi thật và làm câu hỏi.</li>
+        <li>Nghe lại, <b>dừng sau mỗi câu</b> rồi chép ra giấy. Chỗ không nghe được thì để trống <code>___</code>.</li>
+        <li>So với transcript, rồi phân loại lỗi: <i>âm nối / từ chưa biết / mất đầu câu</i>.</li>
+        <li>Nhại theo đoạn đó 3 lần ở 0.75× → 1.0×.</li>
+      </ol>
+      <span class="muted">Transcript sẵn trên site: <a href="../#/toeic-listening-practice">TOEIC Part 1–4</a> · <a href="https://testervippro.github.io/Ielts-Reading/">Luyện đề IELTS Reading &amp; Listening</a>.</span>
+    </div>
+  </section>
+
+  <!-- ============ ÂM NỐI ============ -->
+  <section class="pane" id="p-cs">
+    <div class="card">
+      <h3>⚡ Nghe cụm nói nhanh → gõ lại</h3>
+      <div class="row">
+        <button class="btn pri" id="qPlay">▶ Nghe</button>
+        <input type="text" id="qIn" placeholder="Gõ cụm vừa nghe rồi Enter…" autocomplete="off" autocapitalize="off" spellcheck="false" style="flex:1 1 220px">
+        <button class="btn" id="qChk">Kiểm tra</button>
+        <button class="btn" id="qNext">Cụm khác ⏭</button>
+      </div>
+      <div class="diff" id="qRes"></div>
+      <div class="muted" id="qStat"></div>
+    </div>
+    <div id="rules"></div>
+  </section>
+
+  <!-- ============ CÂU DÀI ============ -->
+  <section class="pane" id="p-long">
+    <div class="row" style="margin-top:10px">
+      <span class="muted">Nguồn:</span>
+      <span class="chips srcs" data-for="long"></span>
+      <select class="lenSel" data-for="long"><option value="0">Mọi độ dài</option><option value="1">16–22 từ</option><option value="2">23+ từ</option></select>
+    </div>
+    <div class="card">
+      <div class="row"><span class="src" id="lSrc"></span><span class="muted" id="lInfo"></span></div>
+      <div class="sent" id="lSent"></div>
+      <div class="row">
+        <button class="btn pri" id="lAll">▶ Cả câu</button>
+        <button class="btn" id="lBack" title="Phát cụm cuối, rồi 2 cụm cuối, rồi 3… cho đến cả câu">⏪ Xây từ cuối</button>
+        <button class="btn" id="lFwd" title="Phát cụm đầu, rồi 2 cụm đầu… cho đến cả câu">⏩ Xây từ đầu</button>
+        <button class="btn" id="lChunk" title="Phát từng cụm, nghỉ ngắn giữa các cụm">🧩 Từng cụm</button>
+        <button class="btn" id="lShadow" title="Phát một cụm rồi im lặng đúng bằng thời lượng cụm đó để bạn nói theo">🗣 Nhại theo</button>
+        <button class="btn" id="lHide">🙈 Ẩn chữ</button>
+        <button class="btn" id="lPrev">‹</button><button class="btn" id="lNext">Câu khác ›</button>
+      </div>
+      <div class="row" style="margin-top:8px"><span class="muted">🎬 Người thật nói (YouTube):</span> <span id="lYg" class="tags" style="margin:0"></span></div>
+      <p class="muted" style="margin:8px 0 0">Bấm một cụm để nghe riêng cụm đó. Cách tập: bật <b>Ẩn chữ</b> rồi bấm <b>Xây từ cuối</b> nhiều lần, mỗi lần nói to theo. Cụm cuối luôn là phần bạn nghe nhiều nhất, nên tới lúc ghép cả câu thì phần cuối đã chắc và trí nhớ dành cho phần đầu. Cụm chỉ được tách tự động theo dấu câu và liên từ / giới từ, chưa chắc đúng như cách người bản xứ ngắt hơi.</p>
+    </div>
+  </section>
+
+  <!-- ============ CHÉP CHÍNH TẢ ============ -->
+  <section class="pane" id="p-dict">
+    <div class="row" style="margin-top:10px">
+      <span class="muted">Nguồn:</span>
+      <span class="chips srcs" data-for="dict"></span>
+      <select class="lenSel" data-for="dict"><option value="0">Mọi độ dài</option><option value="1">16–22 từ</option><option value="2">23+ từ</option></select>
+    </div>
+    <div class="card">
+      <div class="row">
+        <span class="src" id="dSrc"></span>
+        <button class="btn pri" id="dPlay">▶ Nghe <span id="dCnt"></span></button>
+        <button class="btn" id="dSlow" title="Nghe chậm (0.7)">🐢</button>
+        <button class="btn" id="dChunk" title="Nghe từng cụm">🧩</button>
+        <button class="btn" id="dHint">💡 Gợi ý chữ đầu</button>
+        <button class="btn" id="dNext">Câu khác ⏭</button>
+      </div>
+      <div class="muted" id="dHintT" style="margin:6px 0"></div>
+      <textarea id="dIn" placeholder="Gõ lại cả câu (không cần đúng dấu câu, viết tắt hay đầy đủ đều được) — Ctrl+Enter để kiểm tra" autocapitalize="off" spellcheck="false"></textarea>
+      <div class="row" style="margin-top:6px"><button class="btn pri" id="dChk">Kiểm tra</button><span class="muted"><kbd>Ctrl</kbd>+<kbd>Enter</kbd> kiểm tra · <kbd>Ctrl</kbd>+<kbd>Space</kbd> nghe lại</span></div>
+      <div id="dRes"></div>
+    </div>
+    <div class="card">
+      <h3>📉 Từ bạn hay sót <span class="muted" id="mTot"></span> <button class="say" id="mClr" style="float:right">Xoá thống kê</button></h3>
+      <div class="tags" id="miss"></div>
+      <p class="muted" style="margin:8px 0 0">Nếu đứng đầu danh sách là <i>to, the, a, of, and, have, been, would, can, are</i> thì lỗi nằm ở <b>âm yếu</b> chứ không phải ở từ vựng. Hãy xem lại quy luật 5–6 ở tab 🔗.</p>
+    </div>
+  </section>
+
+  <p class="foot">Kho câu: <b id="nT"></b> câu dài trích từ transcript TOEIC Part 3/4 trên site và <b id="nI"></b> câu kiểu IELTS Section 3/4 tự soạn. Giọng đọc lấy từ hệ điều hành / trình duyệt (Chrome và Edge có nhiều giọng tự nhiên nhất; trên iPhone hãy tải thêm giọng ở <i>Cài đặt → Trợ năng → Nội dung được đọc → Giọng nói</i>).</p>
+</main>
+
+<script src="listening-master-data.js"></script>
+<script>
+(() => {
+  const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const KEY = 'listenMaster';
+  let st = { tab:'plan', voice:'', mix:false, rate:1, src:['T3','T4','I'], len:'0', miss:{}, qOk:0, qN:0 };
+  try { Object.assign(st, JSON.parse(localStorage.getItem(KEY) || '{}')); } catch (e) {}
+  const save = () => { try { localStorage.setItem(KEY, JSON.stringify(st)); } catch (e) {} };
+
+  /* ---------------- dữ liệu ---------------- */
+  const RULES = [
+    ['1. Nối phụ âm cuối + nguyên âm đầu', 'Phụ âm cuối của từ trước "nhảy" sang từ sau bắt đầu bằng nguyên âm, nghe như một từ dài. Đây là quy luật gặp nhiều nhất.',
+      [['turn it off','tur-ni-toff'],['pick it up','pi-ki-tup'],['an hour and a half','a-nau-ra-na-half'],['check it out','che-ki-tout'],['fill in the form','fi-lin the form'],['hold on a second','hol-do-na second']]],
+    ['2. Nối nguyên âm + nguyên âm (chèn /w/, /j/, /r/)', 'Giữa hai nguyên âm, người nói chèn âm lướt: sau u/o chèn /w/, sau i/e chèn /j/. Giọng Anh còn chèn /r/ (law and order → law-r-and).',
+      [['go out','go-wout'],['do it','do-wit'],['I agree','I-yagree'],['the end of it','thee-yen-do-vit'],['the idea of it','the idea-r-o-vit (UK)'],['two hours','two-wours']]],
+    ['3. Nuốt /t/ /d/ giữa hai phụ âm', 'Khi /t/ hoặc /d/ nằm kẹp giữa hai phụ âm, nó gần như biến mất. Vì vậy "next week" nghe như "nex week".',
+      [['next week','nex week'],['last night','las night'],['must be','mus be'],['I don\'t know','I dunno'],['send me the details','sen me the details'],['the best seats','the bes seats']]],
+    ['4. Đồng hoá: t/d + you → "ch"/"j"', '/t/ + /j/ → /tʃ/ (ch), /d/ + /j/ → /dʒ/ (j), /s/ + /j/ → /ʃ/ (sh). TOEIC Part 2 dùng rất nhiều.',
+      [['did you','di-joo'],['would you','woo-joo'],['don\'t you','don-choo'],['nice to meet you','nice to mee-choo'],['this year','thi-shyear'],['could you send it','coo-joo sen-dit']]],
+    ['5. Âm yếu của từ chức năng', 'to /tə/, for /fə/, of /ə(v)/, and /ən/ /n/, can /kən/, have /əv/, them /əm/, her /ə/, at /ət/, was /wəz/. Chúng gần như "biến mất". Bẫy kinh điển: <b>can</b> /kən/ (yếu) và <b>can\'t</b> /kɑːnt/ (luôn nhấn).',
+      [['a cup of tea','a cuppa tea'],['fish and chips','fish\'n\'chips'],['I can come','I k\'n come'],['I can\'t come','I CAN\'T come'],['a lot of people','a lotta people'],['tell them to wait','tell\'em t\' wait'],['what are you doing','whaddaya doing']]],
+    ['6. Rút gọn khi nói nhanh (đặc biệt giọng Mỹ)', 'Văn viết không dùng, nhưng hội thoại Part 3 và IELTS Section 1 dùng liên tục.',
+      [['going to','gonna'],['want to','wanna'],['have to','hafta'],['got to','gotta'],['let me','lemme'],['give me','gimme'],['kind of','kinda'],['could have been','coulda been'],['should have told me','shoulda told me'],['what do you think','whaddaya think']]],
+    ['7. /t/ thành "d" nhẹ (flap T, giọng Mỹ)', '/t/ nằm giữa hai nguyên âm (kể cả khi nối sang từ sau) đọc thành âm "d" bật nhanh. Giọng Anh vẫn giữ /t/ rõ, nên hãy bật Trộn giọng để so sánh.',
+      [['water','wa-der'],['better','be-der'],['get it','ge-dit'],['what about','wha-dabout'],['a lot of','a lo-da'],['put it on','pu-di-don']]],
+    ['8. Rơi /h/ ở đại từ không nhấn', 'Các từ him, her, his, have, he không được nhấn thì mất /h/ và nối vào từ trước.',
+      [['tell him','tell-im'],['ask her','ask-er'],['give him a call','giv-im a call'],['what\'s his name','what-siz name'],['should have','should-ev'],['did he leave','di-dee leave']]],
+    ['9. Hai phụ âm giống nhau → đọc một lần, giữ lâu hơn', 'Phụ âm cuối giống phụ âm đầu của từ sau thì chỉ phát âm một lần, kéo dài hơn một chút.',
+      [['black coffee','bla-coffee'],['bus stop','bu-stop'],['big game','bi-game'],['with the','wi-the'],['take care','ta-care'],['some more','so-more']]],
+  ];
+  const SIGNALS = [
+    ['What I\'d like to focus on is… / What surprised us most was…', 'Câu chẻ: ý chính nằm <b>sau "is/was"</b>.'],
+    ['Not only did… but also…', 'Đảo ngữ: chờ vế <i>but also</i>. Đáp án thường ở vế thứ hai.'],
+    ['It wasn\'t until… that…', 'Mốc thời gian đứng trước, sự kiện chính đứng sau <i>that</i>.'],
+    ['The reason why… is that…', 'Chủ ngữ dài: giữ hơi chờ <b>động từ chính "is"</b>, đáp án ở sau <i>that</i>.'],
+    ['…, which / who…', 'Mệnh đề chen: thông tin phụ. Ghi nhớ danh từ đứng trước dấu phẩy.'],
+    ['Having said that / However / Mind you', 'Đổi hướng: đáp án IELTS thường nằm <b>ngay sau</b> các cụm này (bẫy distractor ở trước).'],
+    ['Rather than… / Instead of… / Unlike…', 'So sánh: ý được chọn nằm ở vế còn lại.'],
+    ['If it hadn\'t been for… / Had it not been…', 'Điều kiện loại 3: điều <b>đã thực sự xảy ra</b> là điều ngược lại.'],
+    ['Despite the fact that… / Although…', 'Nhượng bộ: vế sau mới là kết luận.'],
+    ['Once… / By the time… / Before we move on…', 'Trình tự: bài điền sơ đồ hoặc quy trình (IELTS Section 4).'],
+  ];
+  const SENT = (window.LM_SENT || []).map(([t, s], i) => ({ t, s, i, n: t.split(/\s+/).length }));
+  const SRC_NAME = { T3:'TOEIC Part 3', T4:'TOEIC Part 4', I:'IELTS' };
+
+  /* ---------------- giọng đọc ---------------- */
+  let voices = [];
+  const accent = v => { const l = v.lang.replace('_','-'); return /en-GB/i.test(l) ? 'Anh' : /en-AU/i.test(l) ? 'Úc' : /en-NZ/i.test(l) ? 'NZ' : /en-CA/i.test(l) ? 'Canada' : /en-IE/i.test(l) ? 'Ireland' : /en-US/i.test(l) ? 'Mỹ' : l; };
+  function loadVoices() {
+    if (!window.speechSynthesis) { $('#voice').innerHTML = '<option>Trình duyệt không hỗ trợ đọc</option>'; return; }
+    voices = speechSynthesis.getVoices().filter(v => /^en[-_]/i.test(v.lang));
+    const order = ['Mỹ','Anh','Úc','Canada','NZ','Ireland'];
+    voices.sort((a, b) => ((order.indexOf(accent(a)) + 99) % 99) - ((order.indexOf(accent(b)) + 99) % 99) || (b.localService === false) - (a.localService === false) || a.name.localeCompare(b.name));
+    $('#voice').innerHTML = '<option value="">Tự động (Mỹ)</option>' + voices.map(v => `<option value="${esc(v.name)}">${esc(accent(v))} — ${esc(v.name)}</option>`).join('');
+    if (voices.some(v => v.name === st.voice)) $('#voice').value = st.voice;
+  }
+  if (window.speechSynthesis) { loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
+  function pickVoice(forceMix) {
+    if ((st.mix || forceMix) && voices.length) {
+      const by = {}; voices.forEach(v => { const a = accent(v); if (['Mỹ','Anh','Úc','Canada','NZ','Ireland'].includes(a)) (by[a] = by[a] || []).push(v); });
+      const ks = Object.keys(by); if (ks.length) { const a = by[ks[Math.random() * ks.length | 0]]; return a[Math.random() * a.length | 0]; }
+    }
+    return voices.find(v => v.name === st.voice) || voices.find(v => /en-US/i.test(v.lang)) || voices[0] || null;
+  }
+  let token = 0, curVoice = null;
+  function stop() { token++; if (window.speechSynthesis) speechSynthesis.cancel(); hot(-1, -1); }
+  // phát lần lượt; gap(i, ms) = số ms nghỉ sau đoạn i (ms = thời lượng đoạn đó)
+  function play(parts, { rate = st.rate, gap = () => 0, onPart = () => {}, voice = null, done = () => {} } = {}) {
+    if (!window.speechSynthesis) return;
+    stop(); const my = token; const v = voice || pickVoice();
+    curVoice = v; $('#now').textContent = v ? `🔊 ${accent(v)} — ${v.name} · ${rate.toFixed(2)}×` : '';
+    let i = 0;
+    const next = () => {
+      if (my !== token) return;
+      if (i >= parts.length) { onPart(-1); done(); return; }
+      const u = new SpeechSynthesisUtterance(parts[i]); u.rate = rate; if (v) { u.voice = v; u.lang = v.lang; } else u.lang = 'en-US';
+      const k = i, t0 = performance.now(); onPart(k);
+      u.onend = () => { if (my !== token) return; i++; const g = gap(k, performance.now() - t0); g ? setTimeout(next, g) : next(); };
+      u.onerror = () => { if (my === token) { i++; next(); } };
+      speechSynthesis.speak(u);
+    };
+    setTimeout(next, 30);
+  }
+  const yg = (t, acc) => 'https://youglish.com/pronounce/' + encodeURIComponent(t.replace(/[^A-Za-z0-9' -]/g, ' ').replace(/\s+/g, ' ').trim()) + '/english' + (acc ? '/' + acc : '');
+  const ygA = (t, label) => `<a class="say yg" href="${yg(t)}" target="_blank" rel="noopener" title="Nghe người thật nói cụm này trên YouTube (YouGlish)">${label || '🎬'}</a>`;
+  const say = (t, rate) => play([t], { rate: rate || st.rate });
+
+  /* ---------------- thanh điều khiển ---------------- */
+  const setRate = r => { st.rate = Math.round(r * 100) / 100; $('#rate').value = st.rate; $('#rateV').textContent = st.rate.toFixed(2) + '×'; $$('[data-r]').forEach(b => b.classList.toggle('on', +b.dataset.r === st.rate)); save(); };
+  $('#rate').oninput = e => setRate(+e.target.value);
+  $$('[data-r]').forEach(b => b.onclick = () => setRate(+b.dataset.r));
+  $('#voice').onchange = e => { st.voice = e.target.value; save(); say('This is how I sound at the current speed.'); };
+  $('#mix').onclick = () => { st.mix = !st.mix; $('#mix').classList.toggle('on', st.mix); save(); };
+  $('#stop').onclick = stop;
+  const setTab = t => { st.tab = t; save(); stop(); $$('#tabs .btn').forEach(b => b.classList.toggle('on', b.dataset.t === t)); $$('.pane').forEach(p => p.classList.toggle('on', p.id === 'p-' + t)); };
+  $$('#tabs .btn').forEach(b => b.onclick = () => setTab(b.dataset.t));
+
+  /* ---------------- so khớp (chép chính tả) ---------------- */
+  const SPECIAL = { "can't":['can','not'], "cannot":['can','not'], "won't":['will','not'], "shan't":['shall','not'], "let's":['let','us'], "i'm":['i','am'], "gonna":['going','to'], "wanna":['want','to'], "gotta":['got','to'], "ok":['okay'] };
+  const S_WORDS = /^(it|that|there|here|he|she|what|who|where|how|when|why|everything|nothing|someone|somebody|everyone|everybody|this)$/;
+  function sub(w) {
+    w = w.toLowerCase().replace(/[’‘`]/g, "'").replace(/[^a-z0-9'%-]/g, '').replace(/^'+|'+$/g, '').replace(/^-+|-+$/g, '');
+    if (!w) return [];
+    if (SPECIAL[w]) return SPECIAL[w];
+    let m;
+    if ((m = w.match(/^(.+)n't$/))) return [m[1], 'not'];
+    if ((m = w.match(/^(.+)'(re|ve|ll|d|m)$/))) return [m[1], { re:'are', ve:'have', ll:'will', d:'_d', m:'am' }[m[2]]];
+    if ((m = w.match(/^(.+)'s$/)) && S_WORDS.test(m[1])) return [m[1], '_s'];
+    if (w.includes('-')) return w.split('-').filter(Boolean);
+    return [w];
+  }
+  const eq = (a, b) => a === b || (a === '_d' && /^(would|had)$/.test(b)) || (b === '_d' && /^(would|had)$/.test(a)) || (a === '_s' && /^(is|has)$/.test(b)) || (b === '_s' && /^(is|has)$/.test(a));
+  function compare(ref, inp) {
+    const words = ref.split(/\s+/).filter(Boolean);
+    const R = []; words.forEach((w, wi) => sub(w).forEach(s => R.push({ s, wi })));
+    const U = inp.split(/[\s,.;:!?"()]+/).flatMap(sub);
+    const n = R.length, m = U.length, L = Array.from({ length: n + 1 }, () => new Int16Array(m + 1));
+    for (let i = n - 1; i >= 0; i--) for (let j = m - 1; j >= 0; j--) L[i][j] = eq(R[i].s, U[j]) ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
+    const okR = new Array(n).fill(false), okU = new Array(m).fill(false);
+    for (let i = 0, j = 0; i < n && j < m;) { if (eq(R[i].s, U[j])) { okR[i] = okU[j] = true; i++; j++; } else if (L[i + 1][j] >= L[i][j + 1]) i++; else j++; }
+    const wOk = words.map(() => true), missed = [];
+    R.forEach((r, i) => { if (!okR[i]) { wOk[r.wi] = false; missed.push(r.s === '_d' ? "'d" : r.s === '_s' ? "'s" : r.s); } });
+    const extra = U.filter((u, j) => !okU[j]).map(u => u === '_d' ? "'d" : u === '_s' ? "'s" : u);
+    const html = words.map((w, i) => `<span class="${wOk[i] ? 'ok' : 'miss'}">${esc(w)}</span>`).join(' ');
+    return { html, missed, extra, pct: n ? Math.round(100 * okR.filter(Boolean).length / n) : 0 };
+  }
+
+  /* ---------------- tab Âm nối ---------------- */
+  $('#rules').innerHTML = RULES.map(([h, p, ex], ri) => `<div class="card rule"><h3>${h}</h3><p>${p}</p><table class="ex">${ex.map(([a, b], ei) =>
+    `<tr><td>${esc(a)}</td><td class="sl">≈ ${esc(b)}</td><td><button class="say" data-x="${ri}.${ei}" data-sp="0.7" title="Chậm">🐢</button><button class="say" data-x="${ri}.${ei}" title="Tốc độ đang chọn">🔊</button><button class="say" data-x="${ri}.${ei}" data-sp="1.45" title="Nhanh như người bản xứ nói vội">⚡</button>${ygA(a)}</td></tr>`).join('')}</table></div>`).join('');
+  $('#signals').innerHTML = SIGNALS.map(([a, b]) => `<tr><td>${esc(a)}</td><td>${b}</td></tr>`).join('');
+  document.addEventListener('click', e => {
+    const b = e.target.closest('[data-x]'); if (!b) return;
+    const [ri, ei] = b.dataset.x.split('.').map(Number);
+    say(RULES[ri][2][ei][0], b.dataset.sp ? +b.dataset.sp : st.rate);
+  });
+  const QUIZ = RULES.flatMap(([h, , ex]) => ex.filter(([a]) => !/\(UK\)/.test(a)).map(([a, b]) => ({ a, b, h })))
+    .concat(['I\'ll get back to you', 'Why don\'t we meet at ten', 'Would you mind if I left early', 'It\'s been pushed back to next week', 'Not that I know of', 'I\'ll look into it', 'Have you had a chance to look at it', 'What time does it start', 'I was supposed to send it out', 'Let me check with my manager'].map(a => ({ a, b: '', h: 'Cụm hay gặp TOEIC Part 2–3' })));
+  let q = null, qPlays = 0;
+  const qNew = () => { q = QUIZ[Math.random() * QUIZ.length | 0]; qPlays = 0; $('#qIn').value = ''; $('#qRes').innerHTML = ''; qPlay(); $('#qIn').focus(); };
+  const qPlay = () => { qPlays++; say(q.a, Math.max(st.rate, 1.25)); };
+  const qStat = () => { $('#qStat').textContent = st.qN ? `Đúng hoàn toàn ${st.qOk}/${st.qN} cụm (${Math.round(100 * st.qOk / st.qN)}%). Cụm luôn được đọc ở tốc độ ≥ 1.25×.` : 'Cụm luôn được đọc ở tốc độ ≥ 1.25× để giống người bản xứ nói vội.'; };
+  const qCheck = () => {
+    if (!q) return; const r = compare(q.a, $('#qIn').value);
+    st.qN++; if (r.pct === 100) st.qOk++; save(); qStat();
+    $('#qRes').innerHTML = `${r.pct === 100 ? '✅' : '❌'} ${r.html} ${q.b ? `<span class="muted">— nghe như <i>${esc(q.b)}</i></span>` : ''}<div class="muted">${esc(q.h)} · ${ygA(q.a, '🎬 nghe người thật nói')}${r.extra.length ? ' · bạn gõ thừa / sai: <s>' + esc(r.extra.join(' ')) + '</s>' : ''}</div>`;
+  };
+  $('#qPlay').onclick = () => q ? qPlay() : qNew();
+  $('#qNext').onclick = qNew; $('#qChk').onclick = qCheck;
+  $('#qIn').onkeydown = e => { if (e.key === 'Enter') { e.preventDefault(); if ($('#qRes').innerHTML && q) qNew(); else qCheck(); } };
+  qStat();
+
+  /* ---------------- tách cụm ý ---------------- */
+  const CONJ = /^(that|which|who|whom|whose|where|when|because|although|though|if|unless|while|whereas|but|so|and|or|since|until|than|once|whether|despite|rather|instead|before|after)$/i;
+  const PREP = /^(in|on|at|for|with|from|by|about|into|during|without|within|through|over|under|along|between|across|towards?|including|according)$/i;
+  function chunk(s) {
+    const ws = s.split(/\s+/).filter(Boolean), segs = []; let cur = [];
+    ws.forEach((w, i) => { cur.push(w); if (/[,;:.?!]$/.test(w) && i < ws.length - 1) { segs.push(cur); cur = []; } });
+    if (cur.length) segs.push(cur);
+    const split = a => {
+      if (a.length <= 6) return [a];
+      let best = -1, bs = 1e9;
+      for (let i = 3; i <= a.length - 3; i++) {
+        const w = a[i].replace(/[^A-Za-z']/g, ''), p = CONJ.test(w) ? 0 : PREP.test(w) ? 1 : -1;
+        if (p < 0) continue; const sc = p * 6 + Math.abs(i - a.length / 2);
+        if (sc < bs) { bs = sc; best = i; }
+      }
+      return best < 0 ? [a] : split(a.slice(0, best)).concat(split(a.slice(best)));
+    };
+    return segs.flatMap(split).map(a => a.join(' '));
+  }
+
+  /* ---------------- chọn câu ---------------- */
+  const pool = () => SENT.filter(x => st.src.includes(x.s) && (st.len === '0' || (st.len === '1' ? x.n <= 22 : x.n >= 23)));
+  function drawSrc() {
+    const cnt = k => SENT.filter(x => x.s === k).length;
+    $$('.srcs').forEach(el => el.innerHTML = Object.keys(SRC_NAME).map(k => `<button class="chip ${st.src.includes(k) ? 'on' : ''}" data-s="${k}">${SRC_NAME[k]} <small>${cnt(k)}</small></button>`).join(''));
+    $$('.lenSel').forEach(el => el.value = st.len);
+  }
+  document.addEventListener('click', e => {
+    const b = e.target.closest('[data-s]'); if (!b) return;
+    const k = b.dataset.s; st.src = st.src.includes(k) ? st.src.filter(x => x !== k) : st.src.concat(k);
+    if (!st.src.length) st.src = [k];
+    save(); drawSrc(); lNew(); dNew();
+  });
+  $$('.lenSel').forEach(el => el.onchange = () => { st.len = el.value; save(); drawSrc(); lNew(); dNew(); });
+  const rnd = () => { const p = pool(); return p.length ? p[Math.random() * p.length | 0] : SENT[0]; };
+
+  /* ---------------- tab Câu dài ---------------- */
+  let L = null, LC = [], hist = [], hp = -1, back = 0, fwd = 0, hidden = false;
+  const hot = (a, b) => $$('#lSent .ck').forEach((el, i) => el.classList.toggle('hot', i >= a && i <= b && a >= 0));
+  function lShow(x) {
+    stop(); L = x; LC = chunk(x.t); back = LC.length; fwd = 0;
+    $('#lSrc').textContent = SRC_NAME[x.s]; $('#lInfo').textContent = `${x.n} từ · ${LC.length} cụm`;
+    $('#lYg').innerHTML = LC.map((c, i) => ygA(c, (i + 1) + '. ' + esc(c.split(/\s+/).slice(0, 3).join(' ')) + (c.split(/\s+/).length > 3 ? '…' : ''))).join('');
+    $('#lSent').innerHTML = LC.map((c, i) => `<span class="ck ${hidden ? 'hide' : ''}" data-c="${i}"><sup>${i + 1}</sup>${esc(c)}</span>`).join(' ');
+  }
+  function lNew() { const x = rnd(); hist = hist.slice(0, hp + 1).concat(x); hp = hist.length - 1; lShow(x); }
+  $('#lNext').onclick = () => { if (hp < hist.length - 1) lShow(hist[++hp]); else lNew(); };
+  $('#lPrev').onclick = () => { if (hp > 0) lShow(hist[--hp]); };
+  const playRange = (a, b, opt = {}) => play([LC.slice(a, b + 1).join(' ')], { onPart: k => k < 0 ? hot(-1, -1) : hot(a, b), ...opt });
+  $('#lAll').onclick = () => playRange(0, LC.length - 1);
+  $('#lBack').onclick = () => { back = back <= 0 ? LC.length - 1 : back - 1; fwd = 0; playRange(back, LC.length - 1); $('#lBack').textContent = back ? `⏪ Xây từ cuối (${LC.length - back}/${LC.length})` : '⏪ Xây từ cuối ✓ cả câu'; };
+  $('#lFwd').onclick = () => { fwd = fwd >= LC.length ? 1 : fwd + 1; back = LC.length; playRange(0, fwd - 1); $('#lFwd').textContent = fwd < LC.length ? `⏩ Xây từ đầu (${fwd}/${LC.length})` : '⏩ Xây từ đầu ✓ cả câu'; };
+  $('#lChunk').onclick = () => play(LC, { gap: () => 650, onPart: k => hot(k, k) });
+  $('#lShadow').onclick = () => play(LC, { gap: (k, ms) => Math.round(ms * 1.15 + 350), onPart: k => hot(k, k) });
+  $('#lHide').onclick = () => { hidden = !hidden; $('#lHide').classList.toggle('on', hidden); $$('#lSent .ck').forEach(el => el.classList.toggle('hide', hidden)); };
+  $('#lSent').onclick = e => { const c = e.target.closest('.ck'); if (!c) return; const i = +c.dataset.c; if (hidden) c.classList.remove('hide'); playRange(i, i); };
+  const resetBtns = () => { $('#lBack').textContent = '⏪ Xây từ cuối'; $('#lFwd').textContent = '⏩ Xây từ đầu'; };
+  const _lShow = lShow; lShow = x => { _lShow(x); resetBtns(); };
+
+  /* ---------------- tab Chép chính tả ---------------- */
+  let D = null, dPlays = 0, dVoice = null;
+  function dNew() {
+    stop(); D = rnd(); dPlays = 0; dVoice = null; $('#dCnt').textContent = ''; $('#dIn').value = ''; $('#dRes').innerHTML = ''; $('#dHintT').textContent = '';
+    $('#dSrc').textContent = `${SRC_NAME[D.s]} · ${D.n} từ`;
+  }
+  // giữ cùng một giọng cho các lần nghe lại cùng câu (kể cả khi bật Trộn giọng)
+  const dPlay = (rate, parts) => { dPlays++; $('#dCnt').textContent = `(${dPlays})`; play(parts || [D.t], { rate: rate || st.rate, voice: dVoice || (dVoice = pickVoice()), gap: () => 600 }); };
+  $('#dPlay').onclick = () => dPlay();
+  $('#dSlow').onclick = () => dPlay(0.7);
+  $('#dChunk').onclick = () => dPlay(null, chunk(D.t));
+  $('#dHint').onclick = () => { $('#dHintT').textContent = D.t.split(/\s+/).map(w => w.replace(/^([^A-Za-z0-9]*[A-Za-z0-9])[A-Za-z0-9'’-]*/, (m, a) => a + '_'.repeat(Math.max(0, m.length - a.length)))).join('  '); };
+  $('#dNext').onclick = () => { dNew(); dPlay(); $('#dIn').focus(); };
+  function dCheck() {
+    if (!D) return; const r = compare(D.t, $('#dIn').value);
+    r.missed.forEach(w => st.miss[w] = (st.miss[w] || 0) + 1); save(); drawMiss();
+    $('#dRes').innerHTML = `<div class="row" style="margin-top:10px"><span class="score">${r.pct}%</span><span class="muted">nghe ${dPlays} lần${curVoice ? ' · giọng ' + esc(accent(curVoice)) : ''}</span></div>
+      <div class="diff">${r.html}</div>
+      ${r.missed.length ? `<div class="muted">Sót / sai: <b class="miss">${esc(r.missed.join(' · '))}</b></div>` : '<div class="ok">🎉 Chính xác hoàn toàn. Thử nghe nhanh hơn hoặc chọn câu 23+ từ.</div>'}
+      ${r.extra.length ? `<div class="muted">Bạn gõ thừa / sai: <span class="extra">${esc(r.extra.join(' '))}</span></div>` : ''}
+      <div class="row" style="margin-top:8px"><button class="btn" id="dToLong">🧩 Luyện câu này bằng back-chaining</button>${r.missed.length ? chunk(D.t).filter(c => compare(c, $('#dIn').value).pct < 100).slice(0, 4).map(c => ygA(c, '🎬 ' + esc(c))).join('') : ''}</div>`;
+    $('#dToLong').onclick = () => { setTab('long'); hist = hist.slice(0, hp + 1).concat(D); hp = hist.length - 1; lShow(D); };
+  }
+  $('#dChk').onclick = dCheck;
+  $('#dIn').onkeydown = e => {
+    if (e.key === 'Enter' && (e.ctrlKey || e.metaKey)) { e.preventDefault(); dCheck(); }
+    else if (e.key === ' ' && e.ctrlKey) { e.preventDefault(); dPlay(); }
+  };
+  function drawMiss() {
+    const a = Object.entries(st.miss).sort((x, y) => y[1] - x[1]);
+    $('#mTot').textContent = a.length ? `(${a.reduce((s, x) => s + x[1], 0)} lần sót)` : '';
+    $('#miss').innerHTML = a.length ? a.slice(0, 30).map(([w, c]) => `<span class="tag">${esc(w)}<b>${c}</b></span>`).join('') : '<span class="muted">Chưa có dữ liệu. Hãy chép vài câu.</span>';
+  }
+  $('#mClr').onclick = () => { if (confirm('Xoá thống kê từ hay sót?')) { st.miss = {}; save(); drawMiss(); } };
+
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') stop(); });
+
+  /* ---------------- khởi động ---------------- */
+  $('#nT').textContent = SENT.filter(x => x.s !== 'I').length; $('#nI').textContent = SENT.filter(x => x.s === 'I').length;
+  if (!Array.isArray(st.src) || !st.src.length) st.src = ['T3','T4','I'];
+  if (typeof st.miss !== 'object' || !st.miss) st.miss = {};
+  setRate(+st.rate || 1); $('#mix').classList.toggle('on', !!st.mix);
+  drawSrc(); lNew(); dNew(); drawMiss();
+  setTab(['plan','cs','long','dict'].includes(st.tab) ? st.tab : 'plan');
+})();
+</script>
+</body>
+</html>
