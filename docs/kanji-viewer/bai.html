@@ -102,30 +102,36 @@
   <div class="stats" id="stats"></div>
 
   <h2>🧭 Đọc câu theo lộ trình</h2>
-  <p class="note">Theo <a href="lo-trinh-doc-hieu.html">lộ trình đọc hiểu</a>, bước ① "quy tắc vàng": <b>tìm động từ ở cuối câu trước</b>, rồi <b>gom các cụm theo trợ từ</b>, cuối cùng ghép lại thành câu tiếng Việt. Số <span class="gid">#12</span> là số thứ tự "keo dán" trong 60 mục của lộ trình (rê chuột / chạm để xem nghĩa).</p>
+  <p class="note">Theo <a href="lo-trinh-doc-hieu.html">lộ trình đọc hiểu</a>, bước ① "quy tắc vàng": <b>tìm động từ ở cuối câu trước</b>, rồi <b>gom các cụm theo trợ từ</b>, cuối cùng ghép lại thành câu tiếng Việt. Số <span class="gid">#12</span> là số thứ tự "keo dán" trong 45 mục cốt lõi của lộ trình (rê chuột / chạm để xem nghĩa).</p>
   <div class="legend"><span><i class="sg n">xanh</i> danh từ (Kanji bạn đã biết)</span><span><i class="sg p">đỏ</i> trợ từ = vai trò</span><span><i class="sg v">lục</i> động từ · tính từ · đuôi</span></div>
   <div class="how">
     <b>Cách dịch 1 câu dài:</b>
     <ol>
       <li><b>Chia vế</b> — ranh giới vế là dấu <span class="jp">、</span> hoặc <b>đuôi nối câu</b>:
-        <span class="jp">〜て</span> <span class="gid">#22</span> ·
-        <span class="jp">〜から / 〜ので</span> <span class="gid">#52</span> ·
-        <span class="jp">〜が、</span> <span class="gid">#51</span> ·
-        <span class="jp">〜のに</span> <span class="gid">#53</span> ·
-        <span class="jp">〜ば</span> <span class="gid">#27</span> ·
-        <span class="jp">〜たら</span> <span class="gid">#28</span> ·
-        <span class="jp">〜なら</span> <span class="gid">#29</span> ·
-        <span class="jp">〜ながら</span> <span class="gid">#35</span> ·
-        <span class="jp">〜けど</span> <span class="gid">#47</span>.
+        <span class="jp">〜て</span> <span class="gid">#19</span> ·
+        <span class="jp">〜から / 〜ので</span> <span class="gid">#40</span> ·
+        <span class="jp">〜が、</span> <span class="gid">#39</span> ·
+        <span class="jp">〜のに</span> <span class="gid">#41</span> ·
+        <span class="jp">〜ば</span> <span class="gid">#24</span> ·
+        <span class="jp">〜たら</span> <span class="gid">#24</span> ·
+        <span class="jp">〜なら</span> <span class="gid">#24</span> ·
+        <span class="jp">〜ながら</span> <span class="gid">#30</span> ·
+        <span class="jp">〜けど</span> <span class="gid">#46</span>.
         (<span class="jp">〜て</span> + いる/くる/しまう… là đuôi động từ, <b>không</b> phải ranh giới.)</li>
       <li><b>Dịch các vế lần lượt từ trái sang phải</b> — thứ tự các vế giống tiếng Việt, không dịch ngược từ cuối câu.</li>
-      <li><b>Chỉ đảo bên trong từng vế</b>: <span class="jp">A の B</span> = B của A · <span class="jp">[mệnh đề] + danh từ</span> = danh từ <i>mà</i> … · <span class="jp">N を V</span> = V + N.</li>
+      <li><b>Chỉ đảo bên trong từng vế</b>:
+        <span class="jp">A の B</span> = B của A ·
+        <b>mệnh đề quan hệ</b> <span class="jp">[昨日買った]本</span> = sách <i>mà</i> hôm qua mua (cả <span class="jp">読んでいる本</span>, <span class="jp">雨が降った日</span>) ·
+        <span class="jp">[mệnh đề]こと/の</span> = việc / điều mà … ·
+        <span class="jp">東京という町</span> = thành phố tên là Tokyo ·
+        tính từ + danh từ <span class="jp">新しい税金</span> = thuế <i>mới</i> ·
+        <span class="jp">N を V</span> = V + N.</li>
       <li>Động từ ở <b>cuối câu</b> là kết luận — đọc nó trước để biết câu nói gì, nhưng khi dịch vẫn để ở vế cuối.</li>
     </ol>
   </div>
   <div id="read"></div>
 
-  <h2>🧩 Keo dán trong bài (60 mục của lộ trình)</h2>
+  <h2>🧩 Keo dán trong bài (45 mục cốt lõi của lộ trình)</h2>
   <div id="gprog"></div>
   <div class="bar">
     <select id="ggrp" aria-label="Lọc nhóm keo dán"><option value="">Mọi nhóm</option></select>
@@ -136,7 +142,7 @@
     <thead><tr><th>#</th><th>Keo dán</th><th>Nghĩa</th><th class="num hide-sm">Số câu</th><th>Câu trong bài</th></tr></thead>
     <tbody id="glBody"></tbody>
   </table>
-  <p class="note">Dò tự động bằng bộ tách từ (janome) nên có thể nhầm vài chỗ, nhất là các mẫu ngắn (に, で, の…). Mục 61+ là bảng ⑤ "Từ viết bằng kana &amp; cụm văn báo" của lộ trình.</p>
+  <p class="note">Dò tự động bằng bộ tách từ (janome) nên có thể nhầm vài chỗ, nhất là các mẫu ngắn (に, で, の…). Mục 46–89 là bảng ⑤ "Từ nối câu, từ viết bằng kana &amp; cụm văn báo", mục 90–116 là nhóm ⑥ "Bổ sung hay gặp" của lộ trình.</p>
 
   <h2>📗 Từ vựng có Kanji trong bài</h2>
   <div class="bar">
@@ -205,8 +211,8 @@
   }
   // ---------- keo dán theo lộ trình ----------
   let GM = {};   // mã -> [mã, nhóm, mẫu, nghĩa]
-  const PART = new Set([1,2,3,4,5,6,7,8,9,10,11,12,13,14,51,52,53,55,56]);
-  const gtag = (i, cls) => { const g = GM[i]; return g ? `<span class="gid ${cls || (PART.has(i) ? '' : i <= 60 ? 'v' : 'o')}" title="${esc(g[1])}: ${esc(g[2])} = ${esc(g[3])}">#${i} ${esc(g[2])}</span>` : ''; };
+  const PART = new Set([1,2,3,4,5,6,7,8,9,10,11,12,13,14,39,40,41,51,52]);   // trợ từ + đuôi nối vế = "vai trò"; còn lại là động từ / đuôi
+  const gtag = (i, cls) => { const g = GM[i]; return g ? `<span class="gid ${cls || (PART.has(i) ? '' : i <= 45 ? 'v' : 'o')}" title="${esc(g[1])}: ${esc(g[2])} = ${esc(g[3])}">#${i} ${esc(g[2])}</span>` : ''; };
   function drawGlue(){
     const grp = $('ggrp').value, onlyNew = $('gnew').checked;
     const L = (D.glue || []).filter(([i, c, ex, sp, nw]) => GM[i] && (!grp || GM[i][1] === grp) && (!onlyNew || nw));
@@ -248,7 +254,9 @@
           + `<div class="wrapx"><table class="ve">${V.map(([a, z, w, fl, vi, en], i) => `<tr><td class="n">${i + 1}</td><td class="j jp">${colorRange(a, z)}</td><td class="b">${why(w)}</td>`
           + `<td>${vi ? esc(vi) : '<span class="note">—</span>'}${en ? `<div class="en">${esc(en)}</div>` : ''}</td></tr>`).join('')}</table></div>`);
         const FL = V.flatMap(v => v[3] || []);
-        const lab = { 'の': `A の B = B của A ${gtag(6)}`, '57': `động từ ngay trước danh từ = “danh từ mà …” ${gtag(57)}`, 'を': `tân ngữ + を: tiếng Việt nói động từ trước ${gtag(3)}` };
+        const lab = { 'の': `A の B = B của A ${gtag(6)}`, '57': `mệnh đề quan hệ: động từ ngay trước danh từ = “danh từ mà …” ${gtag(37)}`,
+          'koto': `mệnh đề + こと/の = “việc / điều (mà) …” ${gtag(43)}`, 'toiu': `X という N = “N gọi là X” ${gtag(44)}`,
+          'adj': `tính từ đứng trước danh từ → tiếng Việt đặt sau (高い山 = núi cao) ${gtag(42)}`, 'を': `tân ngữ + を: tiếng Việt nói động từ trước ${gtag(3)}` };
         if (FL.length) steps.push(`<b>Đảo bên trong vế:</b>` + FL.map(([k, from, to]) => `<div class="flip"><span class="from jp">${esc(from)}</span> → <span class="to jp">${esc(to)}</span> <span class="note">· ${lab[k] || ''}</span></div>`).join(''));
         else steps.push(`<b>Đảo bên trong vế:</b> <span class="note">câu này không có chỗ phải đảo — dịch thẳng từng vế.</span>`);
       }
@@ -258,8 +266,8 @@
         + `<ol class="steps">${steps.map(x => `<li>${x}</li>`).join('')}</ol>`
         + `<details style="margin-top:8px"><summary class="note" style="cursor:pointer">Nghĩa từng từ (Hán Việt + tiếng Anh) và keo dán trong từng cụm</summary><div class="chs">${chunks}</div></details></div>`;
     }).join('') || '<p class="note">Bài này không có câu ngắn phù hợp để phân tích.</p>';
-    const core = (D.glue || []).filter(g => g[0] <= 60), nNew = core.filter(g => g[4]).length;
-    $('gprog').innerHTML = `<div class="note">Bài này có <b>${core.length}/60</b> keo dán của lộ trình${nNew ? `, trong đó <b>${nNew}</b> mục lần đầu gặp` : ''}. Đọc từ bài 1 đến bài ${n}: đã gặp <b>${D.gseen || 0}/60</b>.</div><div class="prog"><i style="width:${(D.gseen || 0) / 60 * 100}%"></i></div>`;
+    const core = (D.glue || []).filter(g => g[0] <= 45), nNew = core.filter(g => g[4]).length;
+    $('gprog').innerHTML = `<div class="note">Bài này có <b>${core.length}/45</b> keo dán của lộ trình${nNew ? `, trong đó <b>${nNew}</b> mục lần đầu gặp` : ''}. Đọc từ bài 1 đến bài ${n}: đã gặp <b>${D.gseen || 0}/45</b>.</div><div class="prog"><i style="width:${(D.gseen || 0) / 45 * 100}%"></i></div>`;
   }
   function drawW(){
     const q = $('q').value.trim().toLowerCase(), f = $('wf').value;
@@ -279,9 +287,9 @@
     $('title').textContent = `Bài ${n}. ${D.t || D.u}`;
     $('lead').innerHTML = `<span class="src">${esc(D.s)}</span> <a href="${esc(D.u)}" target="_blank" rel="noopener">Đọc bài gốc ↗</a>`
       + (D.k ? ` · Kanji mới gặp ở bài này trong lộ trình: <span class="jp">${esc(D.k)}</span>` : '');
-    const nNew = D.words.filter(w => w[5]).length, core = (D.glue || []).filter(g => g[0] <= 60);
+    const nNew = D.words.filter(w => w[5]).length, core = (D.glue || []).filter(g => g[0] <= 45);
     $('stats').innerHTML = [
-      [`${core.length}/60`, 'keo dán của lộ trình'], [core.filter(g => g[4]).length, 'keo dán lần đầu gặp'],
+      [`${core.length}/45`, 'keo dán của lộ trình'], [core.filter(g => g[4]).length, 'keo dán lần đầu gặp'],
       [fmt(D.words.length), 'từ có Kanji'], [fmt(nNew), 'từ mới so với các bài trước'], [fmt(D.chars), 'ký tự tiếng Nhật']
     ].map(([b, s]) => `<div class="stat"><b>${b}</b><span>${s}</span></div>`).join('');
     drawRead(); drawGlue(); drawG(); drawW();

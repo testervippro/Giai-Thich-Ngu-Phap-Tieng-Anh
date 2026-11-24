@@ -182,7 +182,8 @@ def grammar(text, gram):
 
 
 # ---------------- keo dán theo lộ trình + câu mẫu ----------------
-CORE = set(range(1, 61))
+CORE = set(range(1, 61))          # mã nhận diện cũ (dùng chọn câu mẫu, giữ ổn định)
+CORE_DISP = set(range(1, GL.CORE_N + 1))   # số hiển thị: 45 mục cốt lõi sau khi gộp
 DICHVE = {}
 PRED = {15, 16, 17, 18, 19, 20, 21, 23, 24, 42, 44, 45, 46, 40, 37, 38}
 
@@ -234,18 +235,20 @@ def gloss(seg, exact, kj):
     return [text, kd, hv, mean[:48]]
 
 
-def glue_article(text, exact, kj, seen, dich):
+def glue_article(text, exact, kj, seen, seen_fine, dich):
     sents = [s.strip() for s in SENT.findall(text) if s.strip()]
-    found, cand = {}, []
+    found, cand, fine_all = {}, [], set()
     for s in sents:
         if len(s) > 160 or not re.search("[" + HIRA + "]", s):
             continue
         T = GL.tokens(s)
-        H = GL.detect(s, T)
+        Hf = GL.detect(s, T, raw=True)            # mã nhận diện cũ -> chọn câu mẫu
+        H = GL.disp_hits(Hf)                       # số hiển thị (đã gộp) -> bảng keo dán + tô màu
+        fine_all |= {h[0] for h in Hf}
         for i in {h[0] for h in H}:
             found.setdefault(i, []).append((s, next(h for h in H if h[0] == i)))
-        if good_sentence(s) and PRED & {h[0] for h in H}:
-            cand.append((s, T, H))
+        if good_sentence(s) and PRED & {h[0] for h in Hf}:
+            cand.append((s, T, H, Hf))
     glue = []
     for i in sorted(found):
         lst = found[i]
@@ -258,18 +261,18 @@ def glue_article(text, exact, kj, seen, dich):
     picked, cover = [], set()
     for _ in range(4):
         best = None
-        for s, T, H in cand:
+        for s, T, H, Hf in cand:
             if any(s == p[0] for p in picked):
                 continue
-            ids = {h[0] for h in H} & CORE
-            sc = 2 * len(ids - seen - cover) + len(ids - cover) + 0.2 * len(ids) - abs(len(s) - 22) / 6 + (1 if s in dich else 0)
+            ids = {h[0] for h in Hf} & CORE
+            sc = 2 * len(ids - seen_fine - cover) + len(ids - cover) + 0.2 * len(ids) - abs(len(s) - 22) / 6 + (1 if s in dich else 0)
             if best is None or sc > best[0]:
-                best = (sc, s, T, H)
+                best = (sc, s, T, H, Hf)
         if not best:
             break
-        _, s, T, H = best
+        _, s, T, H, Hf = best
         picked.append((s, T, H))
-        cover |= {h[0] for h in H}
+        cover |= {h[0] for h in Hf}
     read = []
     for s, T, H in picked:
         cl = GL.clauses(s, T)
@@ -280,7 +283,7 @@ def glue_article(text, exact, kj, seen, dich):
               vi_v[i] if vi_v else "", en_v[i] if en_v else ""] for i, c in enumerate(cl)]
         read.append(dict(s=s, c=[[gloss(g, exact, kj) for g in ch] for ch in GL.chunks(s, T)], g=[list(h) for h in H],
                          v=v, vi=dich.get(s, ""), en=en))
-    return glue, read
+    return glue, read, fine_all
 
 
 def main():
@@ -293,10 +296,11 @@ def main():
     global DICHVE
     DICHVE = load_dich_ve()
     os.makedirs(OUTDIR, exist_ok=True)
-    json.dump([[i, GL.GROUPS[g], pat, mean] for i, g, pat, mean in GL.GLUE],
+    json.dump([[i, GL.GROUPS[g], pat, mean] for i, g, pat, mean in GL.GLUE_DISPLAY],
               open(os.path.join(OUTDIR, "glue.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     seen = set()
     gseen = set()
+    gseen_fine = set()
     samples = []
     index = []
     for k, a in enumerate(arts, 1):
@@ -312,12 +316,13 @@ def main():
             words.append([ww, rd, en, hv, c, 0 if w in seen else 1, kind])
         seen |= set(cnt)
         g = grammar(text, gram)
-        glue, read = glue_article(text, exact, kj, gseen, dich)
+        glue, read, fine_found = glue_article(text, exact, kj, gseen, gseen_fine, dich)
         gseen |= {x[0] for x in glue}
+        gseen_fine |= fine_found
         samples += ["\t".join([r["s"], r["vi"], " ‖ ".join(r["s"][x[0]:x[1]] for x in r["v"])]) for r in read]
         d = dict(n=k, t=a.get("t"), u=a["u"], s=a.get("s"), k=a.get("k"),
                  chars=len(re.findall(r"[぀-ヿ一-鿿]", text)), words=words, grammar=g,
-                 glue=glue, gseen=len(gseen & CORE), read=read)
+                 glue=glue, gseen=len(gseen & CORE_DISP), read=read)
         json.dump(d, open(os.path.join(OUTDIR, "%03d.json" % k), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
         index.append(dict(n=k, t=a.get("t"), ok=1, nw=len(words), nnew=sum(w[5] for w in words), ng=len(g)))
     json.dump(index, open(os.path.join(OUTDIR, "index.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
