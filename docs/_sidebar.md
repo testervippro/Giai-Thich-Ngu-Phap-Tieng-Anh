@@ -70,16 +70,7 @@
 # 🗣️ Giao tiếp & Speaking
 
 - [🧭 Nói như người bản xứ: phương pháp & lộ trình 12 tuần (tổng hợp từ 6 sách)](speaking-nhu-nguoi-ban-xu.md)
-- [🏦 Ngân hàng 2.055 mẫu câu IELTS 9.0 (nói tự nhiên, công sở, Speaking/Writing, ngữ pháp nâng cao — dò qua phụ đề phim)](tools/pattern-bank.html)
-- [🔤 Idioms, Phrasal Verbs & Natural Expressions — 1.505 cụm + 800 Phrasal Verb IELTS Fighter (1 trang)](tools/expressions-bank.html)
-- [💬 Cụm giao tiếp hay dùng nhất trong từng phim (Friends, The Office, Silicon Valley, Suits LA)](movie-viewer/cum-giao-tiep.html)
-- [💬 650+ English Phrases for Everyday Speaking (40 chủ đề, song ngữ)](650-english-phrases-everyday-speaking.md)
-- [700+ câu nói ngắn hàng ngày của người bản xứ](daily-native-expressions.md)
-  - [🗣️ 700 câu hàng ngày — dò trong mọi phim (bỏ trùng)](movie-viewer/cum-giao-tiep.html?xem=700)
-  - [🌐 Tất cả 1.824 cụm giao tiếp (phim + 700 câu, bỏ trùng)](movie-viewer/cum-giao-tiep.html?xem=tatca)
-- [🗣️ Conversational American English (4.766 câu, 464 tình huống)](tools/conversational-american-english.html)
-- [500 Spoken English Structures (+ IELTS Speaking patterns)](500_spoken_english_structures.md)
-- [IT English Patterns — Speaking & Writing](IT%20English%20Patterns.md)
+- [🔤 Kho cụm từ & mẫu câu — 11.255 cụm, 1 ô tìm chung (idiom, phrasal verb, mẫu câu IELTS, câu hàng ngày, phim…)](tools/phrase-bank.html)
 
 # 🔤 Từ vựng & Collocations
 
@@ -180,8 +171,7 @@
 
 - [🗣️ Phát âm (pinyin) — có audio](tieng-trung-phat-am.md)
 - [1000 câu ngắn Trung – Anh](1000-short-phrases-Chinese-English.md)
-- [✍️ Luyện viết 3000 chữ Hán](hanzi-viewer/write.html)
-- [🎞️ Chữ Hán chuyển động — mỗi chữ lặp N lần rồi tự chuyển](hanzi-viewer/anim.html)
+- [📖 Học chữ Hán — 3.115 thẻ · câu chuyện · chuyển động · luyện viết](hanzi-viewer/write.html)
 - [🔍 So 2136 Kanji với 3000 chữ Hán](hanzi-viewer/kanji-vs-3000.html)
 - **📚 Từ vựng HSK1–HSK6 (4.896 từ)**
   - [Tổng hợp HSK1–6](hsk-tu-vung.md)
