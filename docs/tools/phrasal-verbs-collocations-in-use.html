@@ -61,6 +61,8 @@
     .segs .co { font-weight:600; }
     .segs .oex { display:block; color:var(--muted); font-style:italic; font-size:14px; margin-left:2px; }
     .xref { font-size:13px; color:var(--muted); margin:6px 0 0; }
+    .cps { display:flex; flex-wrap:wrap; gap:4px 6px; }
+    .cp { font-weight:600; background:var(--card); border:1px solid var(--line); border-radius:7px; padding:1px 8px; font-size:14.5px; }
     .list { margin:0; padding:0; list-style:none; }
     .list li { display:flex; gap:8px; align-items:baseline; flex-wrap:wrap; padding:5px 2px; border-bottom:1px solid var(--line); }
     .list li .p { font-weight:600; }
@@ -103,6 +105,7 @@
         <option value="">Mọi từ mục</option><option value="16">Có trong Danh sách từ vựng (TOEIC + IELTS + Oxford)</option></select>
       <select id="cefr" aria-label="Cấp CEFR (Oxford 3000/5000)"><option value="">Mọi cấp</option><option>A1</option><option>A2</option><option>B1</option><option>B2</option><option>C1</option></select>
       <button class="btn on" id="exBtn" title="Phrasal verbs: hiện câu ví dụ">💬 Ví dụ</button>
+      <button class="btn" id="formBtn" title="Oxford: Dạng cụm = ghép từ với collocate (absorb quickly); Dạng từ điển = như sách">📋 Dạng cụm</button>
     </div>
     <div class="row tabs" id="tabs">
       <button class="btn" data-tab="all">🔎 Tất cả</button>
@@ -115,7 +118,7 @@
   <div class="stat" id="stat"></div>
   <div id="out"></div>
   <div class="pop" id="pop" hidden role="dialog" aria-modal="true" aria-labelledby="popT">
-    <div class="box"><div class="hd"><b id="popT"></b><button id="popPrev" title="Từ trước (←)">‹</button><button id="popNext" title="Từ sau (→)">›</button><button id="popX" title="Đóng (Esc)">✕</button></div><div class="bd" id="popB"></div></div>
+    <div class="box"><div class="hd"><b id="popT"></b><button id="popPrev" title="Từ trước (←)">‹</button><button id="popNext" title="Từ sau (→)">›</button><button id="popForm" title="Đổi Dạng cụm / Dạng từ điển">📋</button><button id="popX" title="Đóng (Esc)">✕</button></div><div class="bd" id="popB"></div></div>
   </div>
   <p class="foot">Nguồn: <i>Oxford Collocations Dictionary for students of English</i> (OCR, có thể còn lỗi chữ); <i>4500 English Collocations and Idioms</i> (OCR, nghĩa tiếng Việt theo sách; bản lọc TOEIC 990 đã sửa chính tả các cụm giữ lại); Michael McCarthy, Felicity O’Dell, <i>English Collocations in Use</i> Intermediate &amp; Advanced (INT/ADV = sách, số = Unit). Các trang cũ vẫn mở được: <a href="../#/Oxford%20Collocations%20Dictionary">Oxford</a> · <a href="../#/Collocations">dạng cụm</a> · <a href="../#/Collocations5000">5000 từ</a> · <a href="../#/CollocationsNot5000">ngoài 5000</a> · <a href="../#/4500-collocations-idioms">4500</a> · <a href="../#/4500-collocations-toeic-990">TOEIC 990</a>.</p>
 </main>
@@ -128,7 +131,7 @@
   const esc = t => String(t == null ? '' : t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fold = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/[’‘]/g, "'");
   const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
-  const st = Object.assign({ tab:'all', ex:true, flt:'', cefr:'', letter:'a', topic:0, open:'' }, ls.get('collocHub', {}));
+  const st = Object.assign({ tab:'all', ex:true, flt:'', cefr:'', letter:'a', topic:0, open:'', form:'phrase' }, ls.get('collocHub', {}));
   const save = () => ls.set('collocHub', st);
   if (!['', '16'].includes(String(st.flt))) st.flt = '';   // bỏ giá trị lọc cũ (bản trước có nhiều lựa chọn hơn)
   const C = window.COLLOC || { ox:[], c45:[], topics:[] };
@@ -170,13 +173,33 @@
   };
   const say = t => `<button class="say" data-t="${esc(String(t).replace(/[()]/g, '').replace(/\bsth\b/g, 'something').replace(/\bsb\b/g, 'somebody'))}" title="Nghe">🔊</button>`;
 
+  // ---- dạng cụm: ghép từ mục với collocate theo nhãn nhóm (absorb + quickly → "absorb quickly")
+  function compose(w, pos, cat, c) {
+    const items = c.split(/,\s*(?![^()]*\))/).map(x => x.trim()).filter(x => x && x !== 'etc.' && x !== 'etc');
+    const C = (cat || '').toUpperCase(), isV = /verb/.test(pos), isAdj = /adj|adv/.test(pos);
+    return items.map(x => {
+      x = x.replace(/\s*\betc\.?$/, '').replace(/\s?[-–]$/, ' ~');           // OCR: "with/without-" = "with/without ~"
+      if (/~/.test(x)) return x.replace(/~\s?/g, w + ' ').replace(/\s+/g, ' ').trim();
+      if (/^ADJ\.?$/.test(C)) return `${x} ${w}`;
+      if (/^ADV\.?$/.test(C)) return isV ? `${w} ${x}` : `${x} ${w}`;
+      if (/^VERBS?$/.test(C) || /^VERB \+/.test(C) || /^(NOUN|ADJ\.?) \+/.test(C)) return `${x} ${w}`;
+      if (/\+ (NOUN|VERB|PREP\.?|ADJ\.?|ADV\.?)$/.test(C)) return `${w} ${x}`;
+      if (/^QUANT\.?$/.test(C)) return `${x} of ${w}`;
+      if (/^PREP\.?$/.test(C)) return `${w} ${x}`;
+      return x;                                         // PHRASES, PHRASAL VERB…: đã là cụm hoàn chỉnh
+    });
+  }
   function oxCard(o, qs) {
     const B = (OXC[o.L] || [])[o.j];
-    let body = '';
+    let body = '', pos = (o.pos || '').split('/')[0];
     if (!B) body = '<div class="stat">Đang tải…</div>';
     else for (const b of B) {
       const k = b[0];
-      if (k === 'p') body += `<div class="posh">${esc(b[1])}</div>`;
+      if (k === 'p') { pos = b[1]; body += `<div class="posh">${esc(b[1])}</div>`; }
+      else if (k === 'c' && st.form !== 'dict') {
+        body += `<div class="grp">${b[1] ? `<span class="cat">${esc(b[1])}</span>` : ''}<ul class="segs">${b[2].map(([c, ex]) =>
+          `<li><span class="cps">${compose(o.w, pos, b[1], c).map(p => `<b class="cp">${hiQ(p, qs)}</b>`).join('')}</span>${ex.map(e => `<span class="oex">${hiQ(e, qs)}</span>`).join('')}</li>`).join('')}</ul></div>`;
+      }
       else if (k === 's') body += `<div class="sense">${hiQ(b[1], qs)}</div>`;
       else if (k === 'x') body += `<div class="xref">→ Xem thêm: ${esc(b[1])}</div>`;
       else body += `<div class="grp">${b[1] ? `<span class="cat">${esc(b[1])}</span>` : ''}<ul class="segs">${b[2].map(([c, ex]) =>
@@ -323,6 +346,9 @@
   const closePop = () => { $('pop').hidden = true; document.body.classList.remove('popopen'); popW = ''; };
   const stepPop = d => { const i = popList.indexOf(popW); if (i >= 0 && popList[i + d]) openPop(popList[i + d]); };
   $('popX').onclick = closePop;
+  const formLbl = () => { const t = st.form === 'dict' ? '📖 Dạng từ điển' : '📋 Dạng cụm'; $('formBtn').textContent = t; $('popForm').textContent = st.form === 'dict' ? '📖' : '📋'; $('popForm').title = t + ' — bấm để đổi'; };
+  const toggleForm = () => { st.form = st.form === 'dict' ? 'phrase' : 'dict'; save(); formLbl(); render(); if (popW) openPop(popW); };
+  $('formBtn').onclick = toggleForm; $('popForm').onclick = toggleForm; formLbl();
   $('popPrev').onclick = () => stepPop(-1);
   $('popNext').onclick = () => stepPop(1);
   $('pop').addEventListener('click', e => {

@@ -278,8 +278,10 @@ def fix_long(coll, exs, cat):
         # "beyond ~ He was beyond all reason." : "~" là chỗ của từ mục ngay sau giới từ, không mở nhóm mới
         merged = []
         for p in parts:
-            if (p.startswith("~") and merged and not merged[-1].startswith("~")
-                    and all(x in PREPS for x in re.split(r"[\s/,]+", merged[-1].lower()) if x)
+            prev_ok = merged and not merged[-1].startswith("~") and (
+                all(x in PREPS for x in re.split(r"[\s/,]+", merged[-1].lower()) if x)
+                or (len(merged[-1].split()) <= 4 and re.match(r"^(?:%s)\b" % "|".join(PREPS), merged[-1].lower())))   # "against sb's ~"
+            if (p.startswith("~") and prev_ok
                     and not re.match(r"~\s*(?:%s)\b" % "|".join(PREPS), p)):
                 merged[-1] = merged[-1] + " " + p
             else:
@@ -288,7 +290,7 @@ def fix_long(coll, exs, cat):
         out = []
         for p in parts:
             if not p.startswith("~"):
-                pm = re.match(r"^((?:(?:%s)[\s/,]+)+~)\s+(.*)$" % "|".join(PREPS), p)
+                pm = re.match(r"^((?:(?:%s)[\s/,]+)+(?:(?:sb's|sth's|one's|your|a|an|the)\s+)?~)\s+(.*)$" % "|".join(PREPS), p)
                 if pm:                                   # "beyond ~ He was beyond all reason."
                     out.append([pm.group(1), _exs(pm.group(2))])
                 else:
