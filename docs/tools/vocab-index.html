@@ -24,6 +24,7 @@
     .chip small { color:var(--muted); margin-left:3px; }
     .chip.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
     .chip.on small { color:inherit; }
+    .btn.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
     .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:7px 11px; font:inherit; font-size:14px; cursor:pointer; white-space:nowrap; }
     .stat { color:var(--muted); font-size:13px; margin:6px 0 8px; }
     .az { display:flex; flex-wrap:wrap; gap:4px; margin:0 0 10px; }
@@ -59,6 +60,7 @@
       <input type="search" id="q" placeholder="Tìm từ tiếng Anh hoặc nghĩa tiếng Việt" aria-label="Tìm" autocomplete="off">
       <select id="lv" aria-label="Cấp CEFR"><option value="">Mọi cấp CEFR</option><option>A1</option><option>A2</option><option>B1</option><option>B2</option><option>C1</option><option value="-">Chưa có cấp</option></select>
       <select id="tp" aria-label="Chủ đề IELTS"><option value="">Mọi chủ đề IELTS</option></select>
+      <button class="btn" id="mode" title="Khi chọn nhiều nguồn: Hoặc = từ thuộc ít nhất 1 nguồn; Và = chỉ từ có ở tất cả nguồn đã chọn">Nhiều nguồn: Hoặc</button>
       <button class="btn" id="reset">↺ Bỏ lọc</button>
     </div>
     <div class="row chips" id="src"></div>
@@ -83,8 +85,8 @@
   const TAGS = ['TOEIC', 'IELTS', 'WS Basic', 'WS Int', 'WS Adv', 'Oxford 3000', 'Oxford 5000'];
   const R = V.rows.map(r => ({ w:r[0], vi:r[1], ipa:r[2], f:r[3], lv:r[4], tp:r[5] || [], k:fold(r[0]), kv:fold(r[1]),
     L: (/[a-z]/i.test(r[0][0]) ? r[0][0].toUpperCase() : '#') }));
-  const st = Object.assign({ src:0, lv:'', tp:'', L:'' }, ls.get('vocabIndex', {}));
-  const save = () => ls.set('vocabIndex', { src:st.src, lv:st.lv, tp:st.tp, L:st.L });
+  const st = Object.assign({ src:0, lv:'', tp:'', L:'', and:false }, ls.get('vocabIndex', {}));
+  const save = () => ls.set('vocabIndex', { src:st.src, lv:st.lv, tp:st.tp, L:st.L, and:st.and });
   $('nAll').textContent = R.length.toLocaleString('vi');
 
   // chip nguồn (bit mask, chọn nhiều = HOẶC)
@@ -95,7 +97,7 @@
   let shown = 300, V2 = [];
   function filter() {
     const q = fold($('q').value.trim());
-    return R.filter(r => (!st.src || (r.f & st.src))
+    return R.filter(r => (!st.src || (st.and ? (r.f & st.src) === st.src : (r.f & st.src)))
       && (!st.lv || (st.lv === '-' ? !r.lv : r.lv === st.lv))
       && (st.tp === '' || r.tp.includes(+st.tp))
       && (!q || r.k.includes(q) || r.kv.includes(q)));
@@ -103,6 +105,7 @@
   function render(keep) {
     document.querySelectorAll('#src .chip').forEach(b => b.classList.toggle('on', !!(st.src & (1 << +b.dataset.b))));
     $('lv').value = st.lv; $('tp').value = st.tp;
+    $('mode').textContent = 'Nhiều nguồn: ' + (st.and ? 'Và (có ở tất cả)' : 'Hoặc (bất kỳ)'); $('mode').classList.toggle('on', st.and);
     const q = fold($('q').value.trim());
     const base = filter();
     const letters = [...new Set(base.map(r => r.L))].sort();
@@ -124,6 +127,7 @@
   $('az').addEventListener('click', e => { const b = e.target.closest('[data-l]'); if (!b) return; st.L = b.dataset.l; render(); });
   $('lv').onchange = e => { st.lv = e.target.value; render(); };
   $('tp').onchange = e => { st.tp = e.target.value; if (st.tp !== '') st.src |= 2; render(); };
+  $('mode').onclick = () => { st.and = !st.and; render(); };
   $('reset').onclick = () => { st.src = 0; st.lv = ''; st.tp = ''; st.L = ''; $('q').value = ''; render(); };
   $('more').onclick = () => { shown += 300; render(true); };
   let tm = null;
