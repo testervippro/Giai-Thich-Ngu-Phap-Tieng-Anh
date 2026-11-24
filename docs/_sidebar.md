@@ -74,6 +74,9 @@
 
 # 🔤 Từ vựng & Collocations
 
+- **Nghĩa ẩn & sắc thái (TOEIC 990 · IELTS 9.0)**
+  - [🕵️ Common Words with Hidden Meanings (176 từ quen, nghĩa lạ + 22 câu kiểu ETS)](common-words-hidden-meanings.md)
+  - [🎚️ Từ vựng theo sắc thái — chọn đúng từ na ná nghĩa (90 nhóm, mỗi nhóm 1 câu hỏi)](tu-vung-sac-thai.md)
 - **Collocations**
   - [Oxford Collocations Dictionary](Oxford%20Collocations%20Dictionary.md)
   - [Collocations (dạng cụm)](Collocations.md)
