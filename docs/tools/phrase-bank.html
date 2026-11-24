@@ -127,7 +127,7 @@
     const parts = t.split(/…|\.{2,}|\+|\b(?:sb|sth|sb's|sth's|one's|oneself|someone's|somebody|something|V-ing|V|N|adj|noun|verb)\b|[;:!?"“”=]/i)
       .map(x => x.replace(/[^A-Za-z0-9' -]/g, ' ').replace(/\s+/g, ' ').trim().replace(/^[-' ]+|[-' ]+$/g, '')).filter(Boolean);
     const best = parts.sort((a, b) => b.split(' ').length - a.split(' ').length)[0] || p;
-    return best.split(' ').length > 2 ? best.replace(/^(be|to|get) /i, '') : best;
+    return best.split(' ').length > 2 ? best.replace(/^(be|to) /i, '') : best;
   }
   const ygUrl = p => 'https://youglish.com/pronounce/' + encodeURIComponent(ygq(p)) + '/english';
   const say = t => `<button class="say\" data-t="${esc(t)}" aria-label="Nghe">🔊</button>`;
