@@ -94,7 +94,7 @@
 # 🎯 TOEIC (ETS 2026)
 
 - **Từ vựng & cụm từ**
-  - [Danh sách từ vựng TOEIC (index đầy đủ)](toeic-vocabulary-index.md)
+  - [Danh sách từ vựng TOEIC + IELTS (8.239 mục, bỏ trùng)](toeic-vocabulary-index.md)
   - [120 Thành ngữ & cụm từ cố định](120-thanh-ngu-cum-tu-toeic.md)
   - [Listening — Cụm từ & fixed expressions](toeic-ets-2026-listening-phrases.md)
   - [Reading — Cụm từ & fixed expressions](toeic-ets-2026-reading-all-phrases.md)
