@@ -177,12 +177,13 @@
 
   // ---- dạng cụm: ghép từ mục với collocate theo nhãn nhóm (absorb + quickly → "absorb quickly")
   // nhãn nhóm có khớp từ mục không (OCR đôi khi gắn nhóm của từ bên cạnh: "ADJ." trong mục tính từ, "VERB + ANGER" trong mục angry)
-  function mismatch(w, pos, cat) {
+  function mismatch(w, pos, cat, allPos) {
     const C = (cat || '').toUpperCase();
-    if (/^ADJ\.?$/.test(C) && !/noun/.test(pos)) return true;
-    const names = C.split(/\s*\+\s*/).filter(t => t && !/^(VERBS?|NOUN|ADJ\.?|ADV\.?|PREP\.?|QUANT\.?|PHRASES|PHRASAL VERB)$/.test(t));
-    const stem = w.toUpperCase().replace(/[^A-Z]/g, '').slice(0, Math.max(4, w.length - 3));
-    return names.length > 0 && !names.some(t => t.replace(/[^A-Z]/g, '').startsWith(stem.slice(0, 4)));
+    if (/^ADJ\.?$/.test(C) && !/noun/.test(pos) && !/noun/.test(allPos || '')) return true;   // red/pink: vừa adj vừa noun
+    const names = C.split(/\s*\+\s*/).filter(t => t && !/^(VERBS?|NOUN|ADJ\.?|ADV\.?|PREP\.?|QUANT\.?|PHRASES|PHRASAL VERBS?)$/.test(t));
+    // so với mọi từ trong tên từ mục ("actor, actress", "A level", "bow ¹ /bau/"), khớp 3 chữ đầu (chịu được lỗi OCR như ABSSESS)
+    const stems = w.toUpperCase().split(/[^A-Z]+/).filter(x => x.length >= 3).map(x => x.slice(0, 3)).concat([w.toUpperCase().replace(/[^A-Z]/g, '').slice(0, 3)]);
+    return names.length > 0 && stems.length > 0 && !names.some(t => stems.some(st3 => t.replace(/[^A-Z ]/g, '').split(' ').some(x => x.startsWith(st3))));
   }
   function compose(w, pos, cat, c, art) {
     const items = c.split(/,\s*(?![^()]*\))/).map(x => x.trim()).filter(x => x && x !== 'etc.' && x !== 'etc');
@@ -208,7 +209,7 @@
       const k = b[0];
       if (k === 'p') { pos = b[1]; body += `<div class="posh">${esc(b[1])}</div>`; }
       else if (k === 'c' && st.form !== 'dict') {
-        const bad = mismatch(o.w, pos, b[1]);
+        const bad = mismatch(o.w, pos, b[1], o.pos);
         body += `<div class="grp">${b[1] ? `<span class="cat">${esc(b[1])}</span>` : ''}${bad ? '<span class="warn" title="Nhãn nhóm không khớp từ mục — có thể OCR gắn nhầm nhóm của từ bên cạnh. Hiện nguyên văn, không ghép.">⚠ có thể lệch do OCR</span>' : ''}<ul class="segs">${b[2].map(([c, ex]) =>
           `<li>${bad ? `<b class="co">${hiQ(c, qs)}</b>` : `<span class="cps">${compose(o.w, pos, b[1], c, o.art).map(p => `<b class="cp">${hiQ(p, qs)}</b>`).join('')}</span>`}${ex.map(e => `<span class="oex">${hiQ(e, qs)}</span>`).join('')}</li>`).join('')}</ul></div>`;
       }
