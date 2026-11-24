@@ -32,8 +32,24 @@ def clean(s):
     return re.sub(r"\s+", " ", s).strip()
 
 
+PLACEHOLDER = re.compile(r"\b(sb|sth|somebody|someone|something|oneself|noun|verb|adj|adv|pron|v-?ing|ving)\b")
+
+
 def key(p):
-    return re.sub(r"[^a-z0-9]", "", p.lower())
+    """Khoá gộp trùng: bỏ chữ trong ngoặc, ký hiệu …/+/dấu câu, từ giữ chỗ (sb, sth, noun…), hoa/thường."""
+    p = re.sub(r"\([^)]*\)|\[[^\]]*\]", " ", p.lower())
+    p = PLACEHOLDER.sub(" ", p.replace("’", "'"))
+    return re.sub(r"[^a-z0-9]", "", p.replace("'", ""))
+
+
+def noise(p):
+    """Càng ít ngoặc/ký hiệu/độ dài càng là dạng 'sạch' để hiển thị."""
+    return sum(p.count(c) for c in "[](){}…+:") * 10 + len(p) / 100
+
+
+def filler_example(p):
+    """'As far as I know, [nobody else uses that endpoint].' -> câu hoàn chỉnh không còn ngoặc (làm ví dụ nếu cụm chưa có)."""
+    return re.sub(r"\s+", " ", re.sub(r"[\[\]]", "", p)).strip() if re.search(r"\[[^\]]{6,}\]", p) else ""
 
 
 def main():
@@ -48,26 +64,27 @@ def main():
                 recs += got
                 print(f'{S["code"]:6s} {len(got):6d}  {S["name"]}')
     recs.sort(key=lambda r: ORDER.index(r["s"]) if r["s"] in ORDER else 99)
-    merged, byk = [], {}
+    groups = {}
     for r in recs:
         p = clean(r.get("p"))
         if len(key(p)) < 2:
             continue
         r = {k: clean(r.get(k)) if k not in ("s",) else r["s"] for k in ("t", "p", "m", "d", "e", "ev", "g", "x", "ref", "s")} | {"p": p}
-        k = key(p)
-        if k in byk:
-            o = byk[k]
-            for f in ("m", "d", "e", "ev", "g", "x"):
-                if not o[f] and r[f]:
-                    o[f] = r[f]
-            if r["t"] not in o["ts"]:
-                o["ts"].append(r["t"])
-            if r["s"] not in o["ss"]:
-                o["ss"].append(r["s"])
+        groups.setdefault(key(p), []).append(r)
+    merged = []
+    for rs in groups.values():                      # rs đã theo thứ tự ưu tiên nguồn
+        best = min(rs, key=lambda r: noise(r["p"]))   # dạng sạch nhất làm tiêu đề
+        o = {"p": best["p"]}
+        for f in ("m", "d", "e", "ev", "g", "x"):
+            o[f] = next((r[f] for r in rs if r[f]), "")
+        if not o["e"]:
+            o["e"] = next((filler_example(r["p"]) for r in rs if filler_example(r["p"])), "")
+        o["ts"] = list(dict.fromkeys(r["t"] for r in rs))
+        o["ss"] = list(dict.fromkeys(r["s"] for r in rs))
+        o["refs"] = {}
+        for r in rs:
             o["refs"][r["s"]] = o["refs"].get(r["s"]) or r["ref"]
-        else:
-            o = dict(r, ts=[r["t"]], ss=[r["s"]], refs={r["s"]: r["ref"]})
-            byk[k] = o; merged.append(o)
+        merged.append(o)
     items = [[o["ts"], o["p"], o["m"], o["e"], o["ev"], o["g"], o["x"], o["d"], o["ss"], o["refs"]] for o in merged]
     total = len(recs)
     out = {"types": TYPES, "sources": sources, "items": items}

@@ -70,7 +70,7 @@
 # 🗣️ Giao tiếp & Speaking
 
 - [🧭 Nói như người bản xứ: phương pháp & lộ trình 12 tuần (tổng hợp từ 6 sách)](speaking-nhu-nguoi-ban-xu.md)
-- [🔤 Kho cụm từ & mẫu câu — 11.255 cụm, 1 ô tìm chung (idiom, phrasal verb, mẫu câu IELTS, câu hàng ngày, phim…)](tools/phrase-bank.html)
+- [🔤 Kho cụm từ & mẫu câu — 10.959 cụm, 1 ô tìm chung (idiom, phrasal verb, mẫu câu IELTS, câu hàng ngày, phim…)](tools/phrase-bank.html)
 
 # 🔤 Từ vựng & Collocations
 
