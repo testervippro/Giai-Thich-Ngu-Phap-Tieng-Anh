@@ -78,13 +78,7 @@
   - [🕵️ Common Words with Hidden Meanings (176 từ quen, nghĩa lạ + 22 câu kiểu ETS)](common-words-hidden-meanings.md)
   - [🎚️ Từ vựng theo sắc thái — chọn đúng từ na ná nghĩa (90 nhóm, mỗi nhóm 1 câu hỏi)](tu-vung-sac-thai.md)
 - **Collocations**
-  - [Oxford Collocations Dictionary](Oxford%20Collocations%20Dictionary.md)
-  - [Collocations (dạng cụm)](Collocations.md)
-  - [Collocations — 5000 từ thông dụng](Collocations5000.md)
-  - [Collocations — ngoài 5000 từ](CollocationsNot5000.md)
-  - [4500 Collocations and Idioms (theo chủ đề)](4500-collocations-idioms.md)
-  - [🔗 Phrasal verbs trong Collocations in Use (165 mục, Intermediate + Advanced)](tools/phrasal-verbs-collocations-in-use.html)
-  - [🎯 Bản lọc cho TOEIC 990 (378 cụm)](4500-collocations-toeic-990.md)
+  - [🔗 Collocations & Idioms — tra chung (Oxford 7.505 từ · 4500 cụm · TOEIC 990 · Phrasal verbs)](tools/phrasal-verbs-collocations-in-use.html)
 - **Word families**
   - [Word families & đồng nghĩa (5000 từ)](WordFamilies.md)
   - [🔧 Word Families 5000 (tra cứu tương tác)](tools/word-families-5000.html)

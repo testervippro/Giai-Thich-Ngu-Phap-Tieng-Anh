@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Phrasal verbs Collocations in Use</title>
+  <title>Collocations & Idioms</title>
   <style>
     :root { color-scheme: light dark; }
     * { box-sizing:border-box; }
@@ -12,23 +12,36 @@
     h1 { margin:0 0 6px; font-size:24px; }
     .lead { color:var(--muted); margin:0 0 10px; font-size:14px; }
     .lead b { color:var(--ink); }
-    .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; position:sticky; top:0; z-index:3; background:var(--bg); padding:8px 0; }
+    .bar { position:sticky; top:0; z-index:3; background:var(--bg); padding:8px 0 6px; }
+    .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+    .row + .row { margin-top:6px; }
     input[type=search], select { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; max-width:100%; }
-    input[type=search] { flex:1 1 220px; min-width:0; }
-    .bar select { flex:0 1 auto; min-width:0; }
-    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:8px 12px; font:inherit; font-size:14px; cursor:pointer; }
+    input[type=search] { flex:1 1 240px; min-width:0; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:7px 11px; font:inherit; font-size:14px; cursor:pointer; white-space:nowrap; }
     .btn.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
-    .stat { color:var(--muted); font-size:13px; margin:2px 0 10px; }
-    .az { display:flex; flex-wrap:wrap; gap:4px; margin:0 0 12px; }
-    .az a { font-size:12.5px; padding:2px 9px; border:1px solid var(--line); border-radius:999px; text-decoration:none; color:inherit; background:var(--card); }
-    .pv { background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:0 12px 12px 0; padding:9px 12px; margin:0 0 10px; scroll-margin-top:64px; }
-    .pv.prep { border-left-color:#7c3aed; }
+    .row.tabs { display:flex; flex-wrap:nowrap; gap:6px; overflow-x:auto; scrollbar-width:none; }
+    .row.tabs::-webkit-scrollbar { display:none; }
+    .tabs .btn small { color:var(--muted); font-weight:400; margin-left:3px; }
+    .stat { color:var(--muted); font-size:13px; margin:4px 0 10px; }
+    .chips { display:flex; flex-wrap:wrap; gap:5px; margin:0 0 12px; }
+    .chips a, .chips button { font:inherit; font-size:13px; padding:3px 10px; border:1px solid var(--line); border-radius:999px; text-decoration:none; color:inherit; background:var(--card); cursor:pointer; }
+    .chips .on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .chips .f5 { font-weight:600; }
+    h2.sec { font-size:16px; margin:18px 0 8px; display:flex; gap:8px; align-items:baseline; }
+    h2.sec small { color:var(--muted); font-weight:400; font-size:13px; }
+    .card { background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:0 12px 12px 0; padding:9px 12px; margin:0 0 10px; scroll-margin-top:110px; }
+    .card.prep { border-left-color:#7c3aed; }
+    .card.ox { border-left-color:#0e7490; }
     .h { display:flex; gap:8px; align-items:baseline; flex-wrap:wrap; }
     .h .w { font-size:19px; font-weight:800; }
     .h .vi { font-size:15px; }
-    .say { border:0; background:none; cursor:pointer; font-size:15px; padding:2px 4px; border-radius:6px; }
+    .say { border:0; background:none; cursor:pointer; font-size:15px; padding:2px 4px; border-radius:6px; color:inherit; }
     .say:hover { background:var(--accentbg); }
-    .kind { font-size:11.5px; padding:0 7px; border-radius:999px; border:1px solid var(--line); color:var(--muted); }
+    .kind, .tag { font-size:11.5px; padding:0 7px; border-radius:999px; border:1px solid var(--line); color:var(--muted); white-space:nowrap; }
+    .tag.t5 { border-color:#d97706; color:#b45309; }
+    .tag.ets { border-color:#dc2626; color:#dc2626; }
+    .tag.hk { border-color:#2563eb; color:#2563eb; }
+    .tag.tp { border-color:#059669; color:#059669; }
     .cols { margin:6px 0 0; padding:0; list-style:none; }
     .cols li { padding:2px 0; font-size:15px; }
     .cols li b { font-weight:600; }
@@ -37,69 +50,245 @@
     .ex { margin:6px 0 0; padding:6px 10px; border-radius:8px; background:var(--bg); font-size:14px; color:var(--muted); font-style:italic; }
     .ex div + div { margin-top:3px; }
     body.noex .ex { display:none; }
+    .sense { font-weight:700; margin:8px 0 2px; font-size:14.5px; }
+    .posh { font-weight:700; color:var(--muted); margin:10px 0 2px; font-size:13px; text-transform:uppercase; letter-spacing:.04em; }
+    .grp { margin:3px 0; font-size:14.5px; line-height:1.6; }
+    .grp .cat { display:inline-block; font-size:11.5px; font-weight:700; padding:0 6px; margin-right:5px; border-radius:5px; background:var(--accentbg); color:var(--accent); vertical-align:1px; }
+    .grp .sep { color:var(--muted); padding:0 4px; }
+    .list { margin:0; padding:0; list-style:none; }
+    .list li { display:flex; gap:8px; align-items:baseline; flex-wrap:wrap; padding:5px 2px; border-bottom:1px solid var(--line); }
+    .list li .p { font-weight:600; }
+    .list li .m { color:var(--muted); }
+    .list li .e { flex-basis:100%; font-size:13.5px; color:var(--muted); font-style:italic; padding-left:2px; }
+    .words { display:grid; grid-template-columns:repeat(auto-fill,minmax(130px,1fr)); gap:4px 10px; margin:0 0 14px; padding:0; list-style:none; }
+    .words button { font:inherit; font-size:14px; text-align:left; border:0; background:none; color:var(--accent); cursor:pointer; padding:2px 0; }
+    .words button.f5::after { content:" ★"; color:#d97706; font-size:11px; }
+    .home { display:grid; grid-template-columns:repeat(auto-fill,minmax(230px,1fr)); gap:10px; }
+    .home button { text-align:left; font:inherit; background:var(--card); color:inherit; border:1px solid var(--line); border-radius:12px; padding:12px 14px; cursor:pointer; }
+    .home button b { display:block; font-size:16px; margin-bottom:3px; }
+    .home button span { color:var(--muted); font-size:13.5px; }
+    .home button:hover { border-color:var(--accent); }
     mark { background:#fde68a; color:inherit; border-radius:3px; }
+    .more { margin:4px 0 14px; }
     .foot { color:var(--muted); font-size:12.5px; margin-top:24px; }
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
-<script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Phrasal verbs (Collocations in Use)"></script>
+<script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Collocations & Idioms"></script>
 </head>
 <body>
 <main>
-  <h1>🔗 Phrasal verbs trong English Collocations in Use</h1>
-  <p class="lead">Toàn bộ phrasal verb được dạy trong 2 cuốn <i>English Collocations in Use</i> (<b>Intermediate</b> và <b>Advanced</b>, McCarthy &amp; O’Dell): <b id="nPv">…</b> phrasal verb (động từ + tiểu từ: <i>carry out, pass up, come up with</i>…) và <b id="nPr">…</b> cụm động từ + giới từ thường được xếp chung (<i>abide by, dip into, burst into</i>…). Mỗi mục có nghĩa tiếng Việt, <b>đúng các collocation mà sách dạy</b> kèm số bài, và câu ví dụ trích từ sách khi có.</p>
+  <h1>🔗 Collocations &amp; Idioms — tra chung</h1>
+  <p class="lead">Gộp các trang Collocations vào một chỗ, đã bỏ trùng: <b>Oxford Collocations Dictionary</b> (<b id="nOx">…</b> từ mục, ★ = thuộc 5000 từ thông dụng; các trang "dạng cụm", "5000 từ", "ngoài 5000 từ" đều trích từ đây), <b>4500 Collocations &amp; Idioms</b> theo chủ đề (<b id="n45">…</b> cụm, 🎯 = bản lọc TOEIC 990 kèm câu trong đề ETS), và <b>Phrasal verbs trong Collocations in Use</b> (<b id="nPv">…</b> mục). Gõ một từ (vd <i>decision</i>, <i>take</i>, <i>deadline</i>) hoặc nghĩa tiếng Việt.</p>
   <div class="bar">
-    <input type="search" id="q" placeholder="Tìm phrasal verb, collocation hoặc nghĩa tiếng Việt" aria-label="Tìm">
-    <select id="book" aria-label="Sách"><option value="">Cả 2 sách</option><option value="int">Intermediate</option><option value="adv">Advanced</option></select>
-    <select id="kind" aria-label="Loại"><option value="">Mọi loại</option><option value="pv">Động từ + tiểu từ</option><option value="prep">Động từ + giới từ</option></select>
-    <button class="btn on" id="exBtn">💬 Ví dụ</button>
+    <div class="row">
+      <input type="search" id="q" placeholder="Tìm từ, cụm từ hoặc nghĩa tiếng Việt" aria-label="Tìm" autocomplete="off">
+      <button class="btn" id="f5Btn" title="Oxford: chỉ hiện từ mục thuộc 5000 từ thông dụng">★ Chỉ 5000 từ</button>
+      <button class="btn on" id="exBtn" title="Phrasal verbs: hiện câu ví dụ">💬 Ví dụ</button>
+    </div>
+    <div class="row tabs" id="tabs">
+      <button class="btn" data-tab="all">🔎 Tất cả</button>
+      <button class="btn" data-tab="ox">📕 Oxford<small id="tOx"></small></button>
+      <button class="btn" data-tab="c45">🧩 4500 theo chủ đề<small id="t45"></small></button>
+      <button class="btn" data-tab="toeic">🎯 TOEIC 990<small id="tTo"></small></button>
+      <button class="btn" data-tab="pv">🔗 Phrasal verbs<small id="tPv"></small></button>
+    </div>
   </div>
   <div class="stat" id="stat"></div>
-  <div class="az" id="az"></div>
   <div id="out"></div>
-  <p class="foot">Nguồn: Michael McCarthy, Felicity O’Dell, <i>English Collocations in Use</i> Intermediate &amp; Advanced (Cambridge University Press, 2nd ed.). Danh sách lấy từ Index và nội dung các bài; nghĩa tiếng Việt do trang này biên soạn theo đúng ngữ cảnh collocation trong sách. INT = Intermediate, ADV = Advanced, số = số bài (unit).</p>
+  <p class="foot">Nguồn: <i>Oxford Collocations Dictionary for students of English</i> (OCR, có thể còn lỗi chữ); <i>4500 English Collocations and Idioms</i> (OCR, nghĩa tiếng Việt theo sách; bản lọc TOEIC 990 đã sửa chính tả các cụm giữ lại); Michael McCarthy, Felicity O’Dell, <i>English Collocations in Use</i> Intermediate &amp; Advanced (INT/ADV = sách, số = Unit). Các trang cũ vẫn mở được: <a href="../#/Oxford%20Collocations%20Dictionary">Oxford</a> · <a href="../#/Collocations">dạng cụm</a> · <a href="../#/Collocations5000">5000 từ</a> · <a href="../#/CollocationsNot5000">ngoài 5000</a> · <a href="../#/4500-collocations-idioms">4500</a> · <a href="../#/4500-collocations-toeic-990">TOEIC 990</a>.</p>
 </main>
 <script src="pv-ciu-data.js"></script>
+<script src="colloc/index.js"></script>
 <script>
 (() => {
   "use strict";
   const $ = id => document.getElementById(id);
-  const esc = t => String(t || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const esc = t => String(t == null ? '' : t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fold = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/[’‘]/g, "'");
   const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
-  const st = Object.assign({ book:'', kind:'', ex:true }, ls.get('pvCiu', {}));
-  const D = (window.PVCIU || []).slice().sort((a, b) => a.pv.localeCompare(b.pv));
-  D.forEach(d => d.key = fold([d.pv, d.vi, ...d.c.map(c => c[0]), ...d.ex].join(' ')));
-  $('nPv').textContent = D.filter(d => d.t === 'pv').length;
-  $('nPr').textContent = D.filter(d => d.t === 'prep').length;
-  const hi = (t, fq) => { const s = String(t); if (!fq || fq.length < 2) return esc(s); const i = fold(s).indexOf(fq); return i < 0 ? esc(s) : esc(s.slice(0, i)) + '<mark>' + esc(s.slice(i, i + fq.length)) + '</mark>' + esc(s.slice(i + fq.length)); };
-  const BK = { int:'INT', adv:'ADV' };
-  function render(){
-    const fq = fold($('q').value.trim());
-    const V = D.filter(d => (!st.kind || d.t === st.kind) && (!st.book || d.c.some(c => c[1] === st.book)) && (!fq || d.key.includes(fq)));
-    $('stat').textContent = `Đang hiện ${V.length} / ${D.length} mục · ${V.reduce((a, d) => a + d.c.filter(c => !st.book || c[1] === st.book).length, 0)} collocation`;
-    const letters = [...new Set(V.map(d => d.pv[0].toUpperCase()))];
-    $('az').innerHTML = letters.map(l => `<a href="#L${l}">${l}</a>`).join('');
-    let last = '';
-    $('out').innerHTML = V.map(d => {
-      const L = d.pv[0].toUpperCase(), anchor = L !== last ? ` id="L${L}"` : ''; last = L;
-      const cols = d.c.filter(c => !st.book || c[1] === st.book);
-      return `<section class="pv ${d.t}"${anchor}><div class="h"><button class="say" data-t="${esc(d.pv)}" title="Nghe">🔊</button><span class="w">${hi(d.pv, fq)}</span><span class="kind">${d.t === 'pv' ? 'phrasal verb' : 'động từ + giới từ'}</span><span class="vi">${hi(d.vi, fq)}</span></div>
-        <ul class="cols">${cols.map(c => `<li><button class="say" data-t="${esc(c[0].replace(/[()]/g, ''))}" title="Nghe">🔊</button><b>${hi(c[0], fq)}</b><span class="src"><i>${BK[c[1]]}</i> Unit ${c[2].join(', ')}${c[3] ? ' · ' + esc(c[3]) : ''}</span></li>`).join('')}</ul>
-        ${d.ex.length ? `<div class="ex">${d.ex.map(e => `<div>${hi(e, fq)}</div>`).join('')}</div>` : ''}</section>`;
-    }).join('') || '<p class="stat">Không có mục nào khớp.</p>';
+  const st = Object.assign({ tab:'all', ex:true, f5:false, letter:'a', topic:0, open:'' }, ls.get('collocHub', {}));
+  const save = () => ls.set('collocHub', st);
+  const C = window.COLLOC || { ox:[], c45:[], topics:[] };
+  window.OXC = window.OXC || {};
+
+  // ---- dữ liệu
+  const OX = C.ox.map(r => ({ w:r[0], pos:r[1], f5:!!r[2], L:r[3], j:r[4], k:fold(r[0]) }));
+  const OXBY = new Map(); OX.forEach(o => { if (!OXBY.has(o.k)) OXBY.set(o.k, []); OXBY.get(o.k).push(o); });
+  const LV = { ets:['🎯 ETS 2026','ets'], hackers:['📘 Hackers','hk'], topic:['⭐ chủ đề TOEIC','tp'] };
+  const C45 = C.c45.map(r => ({ p:r[0], vi:r[1], t:r[2], k:r[3], lv:r[4], ets:r[5], key:fold(r[0] + ' ' + r[1]) }));
+  const PV = (window.PVCIU || []).slice().sort((a, b) => a.pv.localeCompare(b.pv));
+  PV.forEach(d => d.key = fold([d.pv, d.vi, ...d.c.map(c => c[0]), ...d.ex].join(' ')));
+  const nT = C45.filter(r => r.lv).length;
+  $('nOx').textContent = OX.length.toLocaleString('vi'); $('n45').textContent = C45.length.toLocaleString('vi'); $('nPv').textContent = PV.length;
+  $('tOx').textContent = OX.length.toLocaleString('vi'); $('t45').textContent = C45.length.toLocaleString('vi'); $('tTo').textContent = nT; $('tPv').textContent = PV.length;
+
+  // ---- tải Oxford theo chữ cái
+  const loading = {};
+  function loadL(L) {
+    if (OXC[L]) return Promise.resolve();
+    if (!loading[L]) loading[L] = new Promise((ok, no) => { const s = document.createElement('script'); s.src = 'colloc/ox-' + L + '.js'; s.onload = ok; s.onerror = no; document.head.appendChild(s); });
+    return loading[L];
   }
+
+  const hiQ = (t, qs) => {   // tô sáng mọi từ khoá
+    let s = esc(t); if (!qs.length) return s;
+    for (const q of qs) {
+      if (q.length < 2) continue;
+      const f = fold(t), out = []; let i = 0, last = 0;
+      while ((i = f.indexOf(q, last)) >= 0) { out.push([i, i + q.length]); last = i + q.length; }
+      if (!out.length) continue;
+      let r = '', p = 0; for (const [a, b] of out) { r += esc(t.slice(p, a)) + '<mark>' + esc(t.slice(a, b)) + '</mark>'; p = b; }
+      return r + esc(t.slice(p));
+    }
+    return s;
+  };
+  const say = t => `<button class="say" data-t="${esc(String(t).replace(/[()]/g, '').replace(/\bsth\b/g, 'something').replace(/\bsb\b/g, 'somebody'))}" title="Nghe">🔊</button>`;
+
+  function oxCard(o, qs) {
+    const B = (OXC[o.L] || [])[o.j];
+    let body = '';
+    if (!B) body = '<div class="stat">Đang tải…</div>';
+    else for (const [k, t] of B) {
+      if (k === 'p') body += `<div class="posh">${esc(t)}</div>`;
+      else if (k === 's') body += `<div class="sense">${hiQ(t, qs)}</div>`;
+      else {
+        // nhãn nhóm: các chữ IN HOA đầu dòng, kể cả dạng "VERB + DECISION", "PREP."
+        const tk = t.split(' '); let n = 0;
+        while (n < tk.length && /^([A-Z][A-Z.'’\/-]*|\+|~)$/.test(tk[n]) && !(tk[n].length === 1 && tk[n] !== '+' && n > 0 && tk[n] === 'I')) n++;
+        const cat = tk.slice(0, n).join(' '), rest = tk.slice(n).join(' ');
+        body += `<div class="grp">${cat ? `<span class="cat">${esc(cat)}</span>` : ''}${rest.split(' | ').map(x => hiQ(x.trim(), qs)).join('<span class="sep">|</span>')}</div>`;
+      }
+    }
+    return `<section class="card ox"><div class="h">${say(o.w)}<span class="w">${hiQ(o.w, qs)}</span><span class="kind">${esc(o.pos)}</span>${o.f5 ? '<span class="tag t5">★ 5000 từ</span>' : ''}</div>${body}</section>`;
+  }
+  function c45Item(r, qs, showTopic) {
+    return `<li>${say(r.p)}<span class="p">${hiQ(r.p, qs)}</span><span class="m">${hiQ(r.vi, qs)}</span>`
+      + `<span class="kind">${r.k === 'i' ? 'idiom' : 'collocation'}</span>${r.lv ? `<span class="tag ${LV[r.lv][1]}">${LV[r.lv][0]}</span>` : ''}`
+      + (showTopic ? `<span class="src">${esc(C.topics[r.t])}</span>` : '')
+      + (r.ets ? `<span class="e">${hiQ(r.ets, qs)}</span>` : '') + '</li>';
+  }
+  const BK = { int:'INT', adv:'ADV' };
+  function pvCard(d, qs) {
+    return `<section class="card ${d.t}"><div class="h">${say(d.pv)}<span class="w">${hiQ(d.pv, qs)}</span><span class="kind">${d.t === 'pv' ? 'phrasal verb' : 'động từ + giới từ'}</span><span class="vi">${hiQ(d.vi, qs)}</span></div>
+      <ul class="cols">${d.c.map(c => `<li>${say(c[0])}<b>${hiQ(c[0], qs)}</b><span class="src"><i>${BK[c[1]]}</i> Unit ${c[2].join(', ')}${c[3] ? ' · ' + esc(c[3]) : ''}</span></li>`).join('')}</ul>
+      ${d.ex.length ? `<div class="ex">${d.ex.map(e => `<div>${hiQ(e, qs)}</div>`).join('')}</div>` : ''}</section>`;
+  }
+
+  // ---- tìm từ mục Oxford cho câu tìm kiếm
+  function stems(w) {
+    const out = [w];
+    if (w.endsWith('ies')) out.push(w.slice(0, -3) + 'y');
+    if (w.endsWith('es')) out.push(w.slice(0, -2));
+    if (w.endsWith('s')) out.push(w.slice(0, -1));
+    if (w.endsWith('ed')) out.push(w.slice(0, -2), w.slice(0, -1));
+    if (w.endsWith('ing')) out.push(w.slice(0, -3), w.slice(0, -3) + 'e');
+    return out;
+  }
+  function oxMatches(fq) {
+    const exact = [], seen = new Set();
+    const add = o => { const id = o.L + o.j; if (!seen.has(id) && (!st.f5 || o.f5)) { seen.add(id); exact.push(o); } };
+    (OXBY.get(fq) || []).forEach(add);
+    for (const tok of fq.split(/[^a-z'-]+/).filter(t => t.length >= 3)) for (const s of stems(tok)) (OXBY.get(s) || []).forEach(add);
+    const pre = fq.length >= 2 && !/\s/.test(fq) ? OX.filter(o => o.k.startsWith(fq) && !seen.has(o.L + o.j) && (!st.f5 || o.f5)).slice(0, 60) : [];
+    return { exact, pre };
+  }
+
+  let gen = 0;
+  function render() {
+    const my = ++gen;
+    document.querySelectorAll('#tabs .btn').forEach(b => b.classList.toggle('on', b.dataset.tab === st.tab));
+    $('f5Btn').classList.toggle('on', st.f5);
+    document.body.classList.toggle('noex', !st.ex);
+    const fq = fold($('q').value.trim()), qs = fq ? [fq] : [];
+    const tab = st.tab, H = [];
+    let stat = '';
+
+    if (!fq && tab === 'all') {
+      H.push(`<div class="home">
+        <button data-go="ox"><b>📕 Oxford Collocations</b><span>${OX.length.toLocaleString('vi')} từ mục (${OX.filter(o => o.f5).length.toLocaleString('vi')} ★ thuộc 5000 từ) — tra theo A–Z, mỗi từ có đủ ADJ. / VERB + / PREP. / PHRASES kèm câu ví dụ.</span></button>
+        <button data-go="c45"><b>🧩 4500 Collocations &amp; Idioms</b><span>${C45.length.toLocaleString('vi')} cụm trong ${C.topics.length} chủ đề, có nghĩa tiếng Việt.</span></button>
+        <button data-go="toeic"><b>🎯 Bản lọc TOEIC 990</b><span>${nT} cụm cần cho TOEIC 990 — ${C45.filter(r => r.lv === 'ets').length} cụm đã ra trong đề ETS 2026 (kèm câu trong đề).</span></button>
+        <button data-go="pv"><b>🔗 Phrasal verbs (Collocations in Use)</b><span>${PV.length} mục với collocation và câu ví dụ đúng theo sách.</span></button>
+      </div>`);
+      stat = 'Gõ một từ để tra cùng lúc trong cả 4 nguồn, hoặc chọn một nguồn để duyệt.';
+    }
+
+    // Oxford
+    if (tab === 'ox' || (tab === 'all' && fq)) {
+      if (fq) {
+        const { exact, pre } = oxMatches(fq);
+        const need = [...new Set(exact.slice(0, 8).map(o => o.L))].filter(L => !OXC[L]);
+        if (need.length) Promise.all(need.map(loadL)).then(() => { if (my === gen) render(); }).catch(() => {});
+        if (exact.length || pre.length) {
+          H.push(`<h2 class="sec">📕 Oxford Collocations <small>${exact.length} từ mục khớp${pre.length ? ' · ' + pre.length + ' từ bắt đầu bằng "' + esc(fq) + '"' : ''}</small></h2>`);
+          H.push(exact.slice(0, 8).map(o => oxCard(o, qs)).join(''));
+          if (exact.length > 8) H.push(`<p class="stat">… và ${exact.length - 8} từ mục khác (gõ cụ thể hơn).</p>`);
+          if (pre.length) H.push(`<ul class="words">${pre.map(o => `<li><button class="${o.f5 ? 'f5' : ''}" data-w="${esc(o.w)}">${esc(o.w)}</button></li>`).join('')}</ul>`);
+        } else if (tab === 'ox') H.push('<p class="stat">Không có từ mục Oxford nào khớp. Oxford tra theo <b>từ tiếng Anh</b> (vd decision, make).</p>');
+      } else {
+        const letters = [...new Set(OX.map(o => o.L))].sort();
+        if (!letters.includes(st.letter)) st.letter = letters[0];
+        const W = OX.filter(o => o.L === st.letter && (!st.f5 || o.f5));
+        H.push(`<div class="chips">${letters.map(L => `<button data-L="${L}" class="${L === st.letter ? 'on' : ''}">${L.toUpperCase()}</button>`).join('')}</div>`);
+        H.push(`<ul class="words">${W.map(o => `<li><button class="${o.f5 ? 'f5' : ''}" data-w="${esc(o.w)}">${esc(o.w)}</button></li>`).join('')}</ul>`);
+        stat = `Chữ ${st.letter.toUpperCase()}: ${W.length} từ mục${st.f5 ? ' (chỉ ★ 5000 từ)' : ''} — bấm một từ để xem collocation.`;
+      }
+    }
+
+    // 4500 / TOEIC
+    if (tab === 'c45' || tab === 'toeic' || (tab === 'all' && fq)) {
+      const base = tab === 'toeic' ? C45.filter(r => r.lv) : C45;
+      if (fq) {
+        const V = base.filter(r => r.key.includes(fq) || (r.ets && fold(r.ets).includes(fq)));
+        if (V.length || tab !== 'all') {
+          H.push(`<h2 class="sec">${tab === 'toeic' ? '🎯 TOEIC 990' : '🧩 4500 Collocations & Idioms'} <small>${V.length} cụm</small></h2>`);
+          H.push(`<ul class="list">${V.slice(0, 300).map(r => c45Item(r, qs, true)).join('')}</ul>`);
+          if (V.length > 300) H.push(`<p class="stat">… còn ${V.length - 300} cụm, gõ cụ thể hơn.</p>`);
+        }
+      } else {
+        const tp = [...new Set(base.map(r => r.t))];
+        if (!tp.includes(st.topic)) st.topic = tp[0];
+        const V = base.filter(r => r.t === st.topic);
+        H.push(`<div class="chips">${tp.map(t => `<button data-topic="${t}" class="${t === st.topic ? 'on' : ''}">${esc(C.topics[t].replace(/^Chủ đề (\d+): /, '$1. '))}</button>`).join('')}</div>`);
+        const cc = V.filter(r => r.k !== 'i'), ii = V.filter(r => r.k === 'i');
+        if (cc.length) H.push(`<h2 class="sec">Collocations <small>${cc.length}</small></h2><ul class="list">${cc.map(r => c45Item(r, qs)).join('')}</ul>`);
+        if (ii.length) H.push(`<h2 class="sec">Idioms <small>${ii.length}</small></h2><ul class="list">${ii.map(r => c45Item(r, qs)).join('')}</ul>`);
+        stat = `${C.topics[st.topic]}: ${V.length} cụm${tab === 'toeic' ? ' cần cho TOEIC 990 (🎯 đã ra trong đề ETS 2026 · 📘 có trong Hackers · ⭐ chủ đề TOEIC)' : ''}.`;
+      }
+    }
+
+    // Phrasal verbs
+    if (tab === 'pv' || (tab === 'all' && fq)) {
+      const V = PV.filter(d => !fq || d.key.includes(fq));
+      if (V.length || tab === 'pv') {
+        if (fq || tab !== 'pv') H.push(`<h2 class="sec">🔗 Phrasal verbs (Collocations in Use) <small>${V.length} mục</small></h2>`);
+        H.push(V.map(d => pvCard(d, qs)).join(''));
+        if (tab === 'pv' && !fq) stat = `${PV.length} mục: ${PV.filter(d => d.t === 'pv').length} phrasal verb, ${PV.filter(d => d.t === 'prep').length} động từ + giới từ.`;
+      }
+    }
+
+    if (fq && !stat) stat = `Kết quả cho "${$('q').value.trim()}"`;
+    $('stat').textContent = stat;
+    $('out').innerHTML = H.join('') || '<p class="stat">Không có mục nào khớp.</p>';
+  }
+
+  // ---- sự kiện
+  $('tabs').addEventListener('click', e => { const b = e.target.closest('[data-tab]'); if (!b) return; st.tab = b.dataset.tab; save(); render(); });
   $('out').addEventListener('click', e => {
-    const b = e.target.closest('.say'); if (!b || !window.speechSynthesis) return;
-    const u = new SpeechSynthesisUtterance(b.dataset.t); u.lang = 'en-GB'; u.rate = 0.95; speechSynthesis.cancel(); speechSynthesis.speak(u);
+    const s = e.target.closest('.say');
+    if (s) { if (!window.speechSynthesis) return; const u = new SpeechSynthesisUtterance(s.dataset.t); u.lang = 'en-GB'; u.rate = 0.95; speechSynthesis.cancel(); speechSynthesis.speak(u); return; }
+    const go = e.target.closest('[data-go]'); if (go) { st.tab = go.dataset.go; save(); render(); return; }
+    const L = e.target.closest('[data-L]'); if (L) { st.letter = L.dataset.L; save(); render(); return; }
+    const tp = e.target.closest('[data-topic]'); if (tp) { st.topic = +tp.dataset.topic; save(); render(); return; }
+    const w = e.target.closest('[data-w]'); if (w) { $('q').value = w.dataset.w; if (st.tab !== 'ox') st.tab = 'ox'; save(); render(); scrollTo({ top:0 }); }
   });
   let tm = null;
-  $('q').addEventListener('input', () => { clearTimeout(tm); tm = setTimeout(render, 150); });
-  $('book').value = st.book; $('kind').value = st.kind;
-  $('book').onchange = e => { st.book = e.target.value; ls.set('pvCiu', st); render(); };
-  $('kind').onchange = e => { st.kind = e.target.value; ls.set('pvCiu', st); render(); };
-  const exLbl = () => { $('exBtn').classList.toggle('on', st.ex); document.body.classList.toggle('noex', !st.ex); };
-  $('exBtn').onclick = () => { st.ex = !st.ex; exLbl(); ls.set('pvCiu', st); };
-  exLbl(); render();
+  $('q').addEventListener('input', () => { clearTimeout(tm); tm = setTimeout(() => { history.replaceState(null, '', $('q').value.trim() ? '#q=' + encodeURIComponent($('q').value.trim()) : location.pathname + location.search); render(); }, 180); });
+  $('f5Btn').onclick = () => { st.f5 = !st.f5; save(); render(); };
+  $('exBtn').onclick = () => { st.ex = !st.ex; $('exBtn').classList.toggle('on', st.ex); save(); render(); };
+  $('exBtn').classList.toggle('on', st.ex);
+  const h = location.hash.match(/q=([^&]*)/); if (h) { $('q').value = decodeURIComponent(h[1]); }
+  render();
 })();
 </script>
 </body>
