@@ -139,11 +139,12 @@
       <option value="lu">🤯 Kanji khó nhớ — nghĩa khác tiếng Việt (507 chữ LÚ + 318 chữ mơ hồ)</option>
       <option value="road" id="roadOpt">🗺️ Lộ trình p1+p2: mảnh trước, chữ ghép sau</option>
       <option value="rad" id="radOpt">🧱 Bộ nền (280 mảnh, hay gặp trước)</option>
-      <option value="all">Tất cả 2.136 chữ</option>
+      <option value="all" id="allOpt">Tất cả thẻ (2.136 chữ + thẻ bổ sung)</option>
       <option value="p1">Tập 1 (thẻ 1–1050)</option>
       <option value="p2">Tập 2 (thẻ 1051–2165)</option>
       <option value="c1000">1000 chữ thông dụng</option>
       <option value="extra">🆕 17 chữ ngoài 2136 (IT · 2000 từ)</option>
+      <option value="nonjoyo" id="nonjoyoOpt">📕 Chữ không thuộc Jōyō</option>
       <option value="miss" id="missOpt">🎯 Chữ không gặp khi đọc báo (học thuộc)</option>
       <option value="N5">JLPT N5</option><option value="N4">JLPT N4</option><option value="N3">JLPT N3</option><option value="N2">JLPT N2</option><option value="N1">JLPT N1</option>
     </select>
@@ -214,6 +215,7 @@
 <script src="kanji-extra.js"></script>
 <script src="kanji-en.js"></script>
 <script src="kanji-miss.js"></script>
+<script src="kanji-nonjoyo.js"></script>
 <script src="rtk-data.js"></script>
 <script src="kanji-lu.js"></script>
 <script>
@@ -314,6 +316,10 @@
     if (st.set === 'rtk') return RTK;
     if (st.set === 'rad') return RADSET;
     if (st.set === 'extra') return EXTRA;
+    if (st.set === 'nonjoyo'){   // chữ không có trong Jōyō 2136 của Kanshudo: thẻ trước, 17 chữ ngoài 2136 sau
+      const B = new Map(ALL.map(x => [x.k, x])), X = new Map(EXTRA.map(x => [x.k, x]));
+      return (window.KANJI_NONJOYO || []).map(k => B.get(k) || X.get(k)).filter(Boolean);
+    }
     if (st.set === 'miss'){ const B = new Map(ALL.map(x => [x.k, x])); return (window.KANJI_MISS || []).map(k => B.get(k)).filter(Boolean); }
     if (st.set === 'p1') return ALL.filter(x => x.n <= 1050);
     if (st.set === 'p2') return ALL.filter(x => x.n > 1050);
@@ -650,6 +656,8 @@
   $('numsBtn').classList.toggle('on', st.nums); $('ghostBtn').classList.toggle('on', st.ghost); $('quizBtn').classList.toggle('on', st.quiz); cardLabel();
   { const q = new URLSearchParams(location.search).get('set'); if (q && [...$('set').options].some(o => o.value === q)){ st.set = q; $('set').value = q; } }
   { const o = $('roadOpt'); if (o && STAGES.length) o.textContent = `🗺️ Lộ trình p1+p2: mảnh trước, chữ ghép sau (${ROADSET.length} chữ · ${STAGES.length} chặng)`; }
+  { const o = $('allOpt'); if (o) o.textContent = `Tất cả ${ALL.length.toLocaleString('vi-VN')} thẻ (2.136 chữ + ${ALL.filter(x => x.n > 2136).length} thẻ bổ sung)`; }
+  { const o = $('nonjoyoOpt'); if (o && window.KANJI_NONJOYO) o.textContent = `📕 ${window.KANJI_NONJOYO.length} chữ không thuộc Jōyō`; }
   { const o = $('missOpt'); if (o && window.KANJI_MISS) o.textContent = `🎯 ${window.KANJI_MISS.length} chữ không gặp khi đọc báo (học thuộc)`; }
   i = st.pos[st.set] || 0;
   // deep link: write.html#泣 or #104
