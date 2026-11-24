@@ -141,6 +141,9 @@
   #aWrap:fullscreen .aprog { width:96vw; background:#e5e5e5; }
   #aWrap:fullscreen .astat { width:96vw; color:#888; }
   body.lite #animPanel { display:none; }
+  .morelinks { display:flex; flex-wrap:wrap; gap:6px 8px; align-items:center; font-size:13.5px; margin:0 0 10px; color:var(--muted); }
+  .morelinks a { padding:4px 11px; border:1px solid var(--line); border-radius:999px; color:inherit; text-decoration:none; background:var(--card); }
+  .morelinks a:hover { border-color:var(--accent,#2f7d6b); }
 </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Học Kanji"></script>
@@ -179,6 +182,13 @@
     <input type="search" id="find" placeholder="Tìm chữ / Hán Việt / số thẻ" style="flex:1;min-width:160px" aria-label="Tìm chữ">
   </div>
   <div class="setnote" id="setNote" aria-live="polite"></div>
+  <nav class="morelinks" aria-label="Học thêm">
+    <span>📚 Học thêm:</span>
+    <a href="dong-am.html">🔀 Kanji đồng âm Hán Việt (501 âm trùng)</a>
+    <a href="truyen.html">📜 Truyện dài: nối các câu chuyện thành 1 truyện (12 chương)</a>
+    <a href="../#/kanji-meo-nho">🧠 Mẹo nhớ từ Hán Việt dễ lú</a>
+    <a href="../#/KanjiStory">📘 2136 Kanji — học qua câu chuyện</a>
+  </nav>
 
   <div class="info" id="info">
     <div class="big" id="kBig"></div>

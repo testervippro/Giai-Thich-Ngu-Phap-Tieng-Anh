@@ -160,13 +160,7 @@
 
 # 🗾 Tiếng Nhật — Kanji
 
-- **Học chữ Kanji**
-  - [2136 Kanji — học qua câu chuyện](KanjiStory.md)
-  - [🎮 Game Kanji 2.136 chữ](kanji-viewer/game.html)
-  - [📖 Học Kanji — 2.161 thẻ: câu chuyện, chuyển động, luyện viết; bộ chữ Heisig RTK, lộ trình, bộ nền, khó nhớ, JLPT…](kanji-viewer/write.html)
-  - [🔀 Kanji đồng âm Hán Việt (501 âm trùng)](kanji-viewer/dong-am.html)
-  - [📜 Truyện dài: 2.075 Kanji có câu chuyện, nối thành 1 truyện (12 chương)](kanji-viewer/truyen.html)
-  - [🧠 Mẹo nhớ từ Hán Việt dễ lú](kanji-meo-nho.md)
+- [📖 Học Kanji — 2.161 thẻ · câu chuyện · chuyển động · luyện viết](kanji-viewer/write.html)
 - **📖 Đọc hiểu (đã thuộc 2136 Kanji)**
   - [📖 Lộ trình đọc hiểu — ít ngữ pháp, 45 "keo dán" cốt lõi + từ ghép giống/khác tiếng Việt](kanji-viewer/lo-trinh-doc-hieu.html)
 - **📰 Đọc báo (133 bài · 2.089 chữ)**
