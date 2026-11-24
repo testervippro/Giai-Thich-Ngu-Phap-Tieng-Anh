@@ -180,6 +180,25 @@ def main():
         term = e["term"]
         L.append("| %d | %s | %s | %s | %s |" % (i, esc(term), esc(vi), esc(e["ipa"]), esc(", ".join(e["srcs"]))))
     open(MD, "w", encoding="utf-8").write("\n".join(L) + "\n")
+    # độ phổ biến (Zipf, thư viện wordfreq): tính khi có wordfreq, lưu cache tools/data/vocab_freq.json để chạy không cần thư viện
+    fp = os.path.join(DATA, "vocab_freq.json")
+    freq = json.load(open(fp, encoding="utf-8")) if os.path.exists(fp) else {}
+    try:
+        from wordfreq import zipf_frequency
+        for e in items:
+            t = re.sub(r"\s*\(.*?\)", "", e["term"])
+            extra = len(re.findall(r"\b(sb|sth|sb's|one's)\b", t))       # "after sth" vẫn là cụm 2 từ
+            t = re.sub(r"\b(sb|sth|sb's|one's)\b", " ", t)
+            t = re.sub(r"[^A-Za-z' -]", " ", t).strip().lower()
+            toks = [x for x in re.split(r"[\s-]+", t) if x]
+            if len(toks) + extra <= 1:
+                z = zipf_frequency(t, "en") if t else 0
+            else:                       # cụm: theo từ ít gặp nhất trong cụm, trừ 1 điểm cho mỗi từ thêm
+                z = max(0, min([zipf_frequency(x, "en") for x in toks] or [0]) - 1.0 * (len(toks) + extra - 1))
+            freq[e["term"].lower()] = round(z, 2)
+        json.dump(freq, open(fp, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+    except ImportError:
+        pass
     # dữ liệu cho trang tra cứu có bộ lọc (docs/tools/vocab-index.html)
     SRC = ["TOEIC", "IELTS", "Basic", "Intermediate", "Advanced", "Oxford 3000", "Oxford 5000"]
     topics, data = [], []
@@ -201,7 +220,7 @@ def main():
                 flags |= 1 << (5 if m.group(1) == "3000" else 6)
                 lv = lv or m.group(2)
         vi = "; ".join(e["vis"])
-        data.append([e["term"], vi, e["ipa"], flags, lv, tp] if tp else [e["term"], vi, e["ipa"], flags, lv])
+        data.append([e["term"], vi, e["ipa"], flags, lv, round(freq.get(e["term"].lower(), 0) * 100), tp])
     js = "// Sinh bởi tools/vocab_index_build.py — từ vựng TOEIC + IELTS + Oxford Word Skills + Oxford 3000/5000 (đã bỏ trùng)\n"
     js += "window.VOCAB_INDEX=" + json.dumps({"src": SRC, "topics": topics, "rows": data}, ensure_ascii=False, separators=(",", ":")) + ";\n"
     open(os.path.join(ROOT, "docs", "tools", "vocab-index-data.js"), "w", encoding="utf-8").write(js)
