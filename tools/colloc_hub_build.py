@@ -101,7 +101,10 @@ def oxford():
         out = []
         for b in nb:
             if b[0] == "c" and not b[1] and out and out[-1][0] == "c":
-                out[-1][2] += b[2]
+                segs_ = list(b[2])
+                if segs_ and segs_[0][0] == "" and out[-1][2]:
+                    out[-1][2][-1][1] += segs_.pop(0)[1]
+                out[-1][2] += segs_
             elif (b[0] == "c" and out and out[-1][0] == "c" and out[-1][1] == b[1] and out[-1][2] and b[2]
                   and out[-1][2][0][0] == b[2][0][0]):          # OCR lặp nhóm → giữ bản đầy đủ hơn
                 if len(json.dumps(b)) > len(json.dumps(out[-1])):
@@ -115,6 +118,8 @@ def oxford():
             new = []
             for c, exs in b[2]:
                 rep = SEG_FIX.get((e["w"], b[1], c))
+                if rep is not None:
+                    SEG_USED.add((e["w"], b[1], c))
                 if rep is None:
                     new.append([c, exs])
                     continue
@@ -128,6 +133,7 @@ def oxford():
 
 
 SEG_FIX = {}
+SEG_USED = set()
 _SF = os.path.join(ROOT, "tools", "data", "oxford_fixes_segs.tsv")
 for _l in (open(_SF, encoding="utf-8") if os.path.exists(_SF) else []):
     _p = _l.rstrip("\n").split("\t")
@@ -159,13 +165,22 @@ HW = [""]   # từ mục đang xử lý (để nhận ra ví dụ dạng cụm v
 
 
 def split_example(seg):
+    seg = seg.strip()
+    if re.match(r"^(?:The|A|An|He|She|It|They|We|His|Her|Their|My|Our|This|There)\s+[A-Z]?[a-z]", seg) and re.search(r"[.!?]$|\s[a-z]+\s[a-z]+", seg) and len(seg.split()) >= 4 and not re.match(r"^(?:A|An|The)\s[a-z]+(?:,|\s/|$)", seg):
+        return [["", [x for x in re.split(r"\s*[◇♢]\s*", seg) if x]]]       # cả mục là câu ví dụ
+    return _split_example(seg)
+
+
+def _split_example(seg):
     """'big, crucial It was a big decision.' -> [['big, crucial', ['It was a big decision.']]]
     'for They have… approval. to She submitted…' -> [['for', [...]], ['to', [...]]] (nhiều giới từ dính nhau)."""
     seg = seg.strip()
     m = None
     for mm in re.finditer(r"(?<=[a-z0-9~)\]'’,/.!?-])\s+(?=(?:[A-Z‘'\"“]|I\s)[a-z'’ ]?)", seg):
         prevw = seg[:mm.start()].split()[-1].lower() if seg[:mm.start()].split() else ""
-        if prevw in ("the", "a", "an"):        # "the Asian market", "the Queen": tên riêng, không phải đầu câu
+        prevraw = seg[:mm.start()].split()[-1] if seg[:mm.start()].split() else ""
+        if prevw in ("the", "a", "an") or (prevraw[:1].isupper() and len(seg[:mm.start()].split()) >= 2
+                                          and seg[:mm.start()].split()[-2].lower() in ("the", "a", "an") ):        # "the Asian market", "the Queen": tên riêng, không phải đầu câu
             continue
         if seg[:mm.start()] and not seg[:mm.start()].endswith(","):
             m = mm
@@ -175,7 +190,8 @@ def split_example(seg):
         stem = HW[0][:max(3, len(HW[0]) - 2)] if HW[0] else ""
         for mm in re.finditer(r"(?<=[a-z)])\s+(?=(?:the|a|an|his|her|its|their|our|my|your|this|that|these|those|some|no)\s)", seg):
             rest_ = seg[mm.end():]
-            if stem and stem in rest_.lower() and len(rest_.split()) >= 3 and stem not in seg[:mm.start()].lower():
+            lastitem = seg[:mm.start()].split(",")[-1].split()
+            if stem and stem in rest_.lower() and len(rest_.split()) >= 3 and stem not in seg[:mm.start()].lower() and len(lastitem) <= 2:
                 return [[seg[:mm.start()].strip(), [rest_.strip()]]]
         return [[seg, []]]
     coll, ex = seg[:m.start()].strip(), seg[m.end():].strip()
@@ -326,8 +342,50 @@ def fix_long(coll, exs, cat):
     return out
 
 
+SENT_START = ("He|She|It|They|We|You|The|A|An|His|Her|Their|My|Our|Your|This|That|These|Those|There|Most|Many|Some|All|"
+              "No|Few|Several|Every|Each|Her|Its|In|On|At|After|When|If|As|Don't|I'm|I've|I'll|I'd")
+
+
+def refine(coll, exs, cat, depth=0):
+    """Lỗi OCR còn sót sau khi tách: '|' đọc thành 'I', giới từ viết hoa trôi vào ví dụ, cụm kế tiếp sau dấu phẩy."""
+    if depth > 8 or not exs:
+        return [[coll, exs]]
+    out_ex = []
+    tail = []
+    for i, x in enumerate(exs):
+        # (2) "In, have, meet with She met…" → phần đầu thuộc cụm
+        m = re.match(r"^((?:In|Into|On|With|To|At|For|Of|From|By)\b(?:,?\s+[a-z][^A-Z]*?)?)\s+(?=(?:%s)\b|[A-Z][a-z])(.*)$" % SENT_START, x)
+        if i == 0 and m and not out_ex and re.search(r"\b(be|put|hand|fall|rise|take part|pale|fade|end up|land|involved|wrapped|collapse|burst|erupt)$", coll):
+            coll = coll + " " + m.group(1)[0].lower() + m.group(1)[1:]
+            x = m.group(2)
+        # (1) "… ◇ I share He shared…" : 'I'/'l' là dấu '|'
+        m = re.search(r"(?:^|(?<=[.!?)])\s+)[Il]\s+([a-z][a-z ,/()'’=;-]*?)(?:\.?\s+(?=[A-Z][a-z]|I\s[a-z]|'|‘)|\s*\.?\s*$)", x)
+        if m and re.search(r"\b(he|she|it|they|we|you|me|him|her|us|them|that|but|why|what|because|if|was|is|am|are|did|do|can't|don't|'m|the|a|an|my|your|his)\b", re.sub(r"\(=[^)]*\)", "", m.group(1))):
+            m = None                                     # là đại từ "I" thật (câu ví dụ), không phải dấu "|"
+        if m and any(len(it.split()) > 4 for it in re.sub(r"\(=[^)]*\)", "", m.group(1)).split(",")):
+            m = None
+        if m and ("," in m.group(1) or len(m.group(1).split()) <= 3):
+            before = x[:m.start()].strip()
+            after = x[m.end():].strip()
+            if before:
+                out_ex.append(before)
+            tail = refine(m.group(1).strip(" ,"), ([after] if after else []) + exs[i + 1:], cat, depth + 1)
+            break
+        # (3) cụm kế tiếp sau dấu phẩy / dấu chấm: "…English, on close acquaintance On first…"
+        if cat.startswith(("PHRASES", "PREP")):
+            m = re.search(r"(?:,|(?<=[.!?]))\s+((?:\(|~\s?)?[a-z][a-z/'’ ()~.-]{2,60}?)\s+(?=(?:%s)\b|[A-Z][a-z])" % SENT_START, x)
+            if m and len(m.group(1).split()) <= 9 and not re.search(r"\b(and|but|which|who|that|because|when|while)$", m.group(1)):
+                before = x[:m.start()].rstrip(",") + ("" if re.search(r"[.!?]$", x[:m.start()]) else "")
+                after = x[m.end():].strip()
+                out_ex.append(before.strip())
+                tail = refine(m.group(1).strip(), [after] + exs[i + 1:], cat, depth + 1)
+                break
+        out_ex.append(x)
+    return [[coll, out_ex]] + tail
+
+
 def restructure(t):
-    t = re.sub(r"[⌊⌉]", "", t)
+    t = re.sub(r"[⌊⌉⌋⌈]", "", t)
     t = re.sub(r"<[^>]*>", " ", t)                       # thẻ HTML lọt vào từ OCR bảng
     t = re.sub(r"\bVER[E8B]\s*\+", "VERB +", t)
     t = fix_text(t)
@@ -356,7 +414,17 @@ def restructure(t):
             if not seg:
                 continue
             for c_, ex_ in split_example(seg):
-                segs += fix_long(c_, ex_, cat)
+                for c2, ex2 in fix_long(c_, ex_, cat):
+                    segs += refine(c2, ex2, cat)
+        merged = []
+        for c_, ex_ in segs:
+            if c_ == "" and merged:
+                merged[-1][1] += ex_
+                continue
+            if merged and re.match(r"^(?:%s)\s" % SENT_START, c_) and not ex_ and len(c_.split()) <= 3:
+                continue
+            merged.append([c_, ex_])
+        segs = merged
         if cat or segs:
             out.append(["c", cat, segs])
     if refs:
@@ -400,6 +468,11 @@ def key(p):
 def main():
     os.makedirs(OUT, exist_ok=True)
     ox = oxford()
+    unused = [k for k in SEG_FIX if k not in SEG_USED]
+    if unused:
+        with open(os.path.join(ROOT, "build", "oxford_fixes_unused.tsv"), "w", encoding="utf-8") as f_:
+            f_.write("\n".join("\t".join(k) for k in unused) + "\n")
+    print("soát tay: áp dụng %d / %d mục" % (len(SEG_USED), len(SEG_FIX)))
     by_letter = defaultdict(list)
     for i, e in enumerate(ox):
         by_letter[letter(e["w"])].append(e)
