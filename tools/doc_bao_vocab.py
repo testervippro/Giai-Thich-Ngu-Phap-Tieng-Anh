@@ -33,6 +33,8 @@ import qiita_kanji_cover as Q  # noqa: E402
 import doc_bao_glue as GL  # noqa: E402
 
 DICH = os.path.join(HERE, "data", "doc_bao_dich.tsv")
+# dịch từng vế: câu <TAB> vế1 ‖ vế2… (Việt) <TAB> vế1 ‖ vế2… (Anh) <TAB> cả câu (Anh)
+DICH_VE = os.path.join(HERE, "data", "doc_bao_dich_ve.tsv")
 
 KANJI = r"[一-鿿々〆ヶ]"
 HIRA = "ぁ-ゖ"
@@ -181,6 +183,7 @@ def grammar(text, gram):
 
 # ---------------- keo dán theo lộ trình + câu mẫu ----------------
 CORE = set(range(1, 61))
+DICHVE = {}
 PRED = {15, 16, 17, 18, 19, 20, 21, 23, 24, 42, 44, 45, 46, 40, 37, 38}
 
 
@@ -191,6 +194,16 @@ def load_dich():
             if "\t" in l and not l.startswith("#"):
                 a, b = l.rstrip("\n").split("\t", 1)
                 d[a.strip()] = b.strip()
+    return d
+
+
+def load_dich_ve():
+    d = {}
+    if os.path.exists(DICH_VE):
+        for l in open(DICH_VE, encoding="utf-8"):
+            p = l.rstrip("\n").split("\t")
+            if len(p) >= 4 and not l.startswith("#"):
+                d[p[0].strip()] = ([x.strip() for x in p[1].split("‖")], [x.strip() for x in p[2].split("‖")], p[3].strip())
     return d
 
 
@@ -257,8 +270,16 @@ def glue_article(text, exact, kj, seen, dich):
         _, s, T, H = best
         picked.append((s, T, H))
         cover |= {h[0] for h in H}
-    read = [dict(s=s, c=[[gloss(g, exact, kj) for g in ch] for ch in GL.chunks(s, T)], g=[list(h) for h in H],
-                 vi=dich.get(s, "")) for s, T, H in picked]
+    read = []
+    for s, T, H in picked:
+        cl = GL.clauses(s, T)
+        vi_v, en_v, en = DICHVE.get(s, ([], [], ""))
+        if len(vi_v) != len(cl):
+            vi_v = en_v = []   # số vế không khớp bản dịch cũ -> bỏ, chờ dịch lại
+        v = [[c["a"], c["z"], c["why"], GL.flips(s, T, c["a"], c["z"], H),
+              vi_v[i] if vi_v else "", en_v[i] if en_v else ""] for i, c in enumerate(cl)]
+        read.append(dict(s=s, c=[[gloss(g, exact, kj) for g in ch] for ch in GL.chunks(s, T)], g=[list(h) for h in H],
+                         v=v, vi=dich.get(s, ""), en=en))
     return glue, read
 
 
@@ -269,6 +290,8 @@ def main():
     exact, stems, kj = load_dict()
     gram = load_grammar()
     dich = load_dich()
+    global DICHVE
+    DICHVE = load_dich_ve()
     os.makedirs(OUTDIR, exist_ok=True)
     json.dump([[i, GL.GROUPS[g], pat, mean] for i, g, pat, mean in GL.GLUE],
               open(os.path.join(OUTDIR, "glue.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
@@ -291,7 +314,7 @@ def main():
         g = grammar(text, gram)
         glue, read = glue_article(text, exact, kj, gseen, dich)
         gseen |= {x[0] for x in glue}
-        samples += [r["s"] for r in read]
+        samples += ["\t".join([r["s"], r["vi"], " ‖ ".join(r["s"][x[0]:x[1]] for x in r["v"])]) for r in read]
         d = dict(n=k, t=a.get("t"), u=a["u"], s=a.get("s"), k=a.get("k"),
                  chars=len(re.findall(r"[぀-ヿ一-鿿]", text)), words=words, grammar=g,
                  glue=glue, gseen=len(gseen & CORE), read=read)
@@ -300,7 +323,8 @@ def main():
     json.dump(index, open(os.path.join(OUTDIR, "index.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     with open(os.path.join(ROOT, "private", "doc_bao_samples.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(samples) + "\n")  # câu mẫu cần dịch -> tools/data/doc_bao_dich.tsv
-    print("cau mau: %d, da co ban dich: %d" % (len(samples), sum(1 for x in samples if x in dich)))
+    print("cau mau: %d, da co ban dich: %d, da dich tung ve: %d" % (
+        len(samples), sum(1 for x in samples if x.split("\t")[0] in dich), sum(1 for x in samples if x.split("\t")[0] in DICHVE)))
     ok = [r for r in index if r["ok"]]
     print("xong: %d/%d bai, tb %d tu, %d mau ngu phap / bai" % (
         len(ok), len(index), sum(r["nw"] for r in ok) // max(1, len(ok)), sum(r["ng"] for r in ok) // max(1, len(ok))))

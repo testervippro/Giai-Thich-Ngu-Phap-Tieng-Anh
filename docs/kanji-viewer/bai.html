@@ -69,6 +69,19 @@
     .steps li { margin:3px 0; }
     .prog { height:8px; border-radius:5px; background:var(--line); overflow:hidden; margin:6px 0 2px; max-width:420px; }
     .prog i { display:block; height:100%; background:var(--accent); }
+    .ve { width:100%; border-collapse:collapse; margin:8px 0 2px; font-size:14px; }
+    .ve td { border-top:1px solid var(--line); padding:6px 6px; vertical-align:top; }
+    .ve td.n { width:1.6em; color:var(--muted); font-weight:700; text-align:right; }
+    .ve td.j { font-size:17px; white-space:nowrap; }
+    .ve td.b { white-space:nowrap; }
+    .ve .en { color:var(--muted); font-size:13px; }
+    .rs .vi .en { display:block; color:var(--muted); font-size:14px; font-weight:400; margin-top:1px; }
+    .flip { font-size:14px; margin:2px 0; }
+    .flip .from { background:rgba(100,116,139,.12); border-radius:4px; padding:0 4px; }
+    .flip .to { background:rgba(37,99,235,.12); border-radius:4px; padding:0 4px; font-weight:600; }
+    .how { background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:10px; padding:10px 14px; font-size:14px; margin:6px 0 12px; }
+    .how ol { margin:4px 0 0; padding-left:20px; }
+    .wrapx { overflow-x:auto; }
     details.more { margin-top:22px; }
     details.more summary { cursor:pointer; font-weight:700; font-size:17px; }
     @media (max-width:640px) { .hide-sm { display:none; } th, td { padding:7px 7px; } td.w { font-size:17px; } .pat { white-space:normal; } .rs .sent { font-size:18px; } }
@@ -91,6 +104,25 @@
   <h2>🧭 Đọc câu theo lộ trình</h2>
   <p class="note">Theo <a href="lo-trinh-doc-hieu.html">lộ trình đọc hiểu</a>, bước ① "quy tắc vàng": <b>tìm động từ ở cuối câu trước</b>, rồi <b>gom các cụm theo trợ từ</b>, cuối cùng ghép lại thành câu tiếng Việt. Số <span class="gid">#12</span> là số thứ tự "keo dán" trong 60 mục của lộ trình (rê chuột / chạm để xem nghĩa).</p>
   <div class="legend"><span><i class="sg n">xanh</i> danh từ (Kanji bạn đã biết)</span><span><i class="sg p">đỏ</i> trợ từ = vai trò</span><span><i class="sg v">lục</i> động từ · tính từ · đuôi</span></div>
+  <div class="how">
+    <b>Cách dịch 1 câu dài:</b>
+    <ol>
+      <li><b>Chia vế</b> — ranh giới vế là dấu <span class="jp">、</span> hoặc <b>đuôi nối câu</b>:
+        <span class="jp">〜て</span> <span class="gid">#22</span> ·
+        <span class="jp">〜から / 〜ので</span> <span class="gid">#52</span> ·
+        <span class="jp">〜が、</span> <span class="gid">#51</span> ·
+        <span class="jp">〜のに</span> <span class="gid">#53</span> ·
+        <span class="jp">〜ば</span> <span class="gid">#27</span> ·
+        <span class="jp">〜たら</span> <span class="gid">#28</span> ·
+        <span class="jp">〜なら</span> <span class="gid">#29</span> ·
+        <span class="jp">〜ながら</span> <span class="gid">#35</span> ·
+        <span class="jp">〜けど</span> <span class="gid">#47</span>.
+        (<span class="jp">〜て</span> + いる/くる/しまう… là đuôi động từ, <b>không</b> phải ranh giới.)</li>
+      <li><b>Dịch các vế lần lượt từ trái sang phải</b> — thứ tự các vế giống tiếng Việt, không dịch ngược từ cuối câu.</li>
+      <li><b>Chỉ đảo bên trong từng vế</b>: <span class="jp">A の B</span> = B của A · <span class="jp">[mệnh đề] + danh từ</span> = danh từ <i>mà</i> … · <span class="jp">N を V</span> = V + N.</li>
+      <li>Động từ ở <b>cuối câu</b> là kết luận — đọc nó trước để biết câu nói gì, nhưng khi dịch vẫn để ở vế cuối.</li>
+    </ol>
+  </div>
   <div id="read"></div>
 
   <h2>🧩 Keo dán trong bài (60 mục của lộ trình)</h2>
@@ -204,16 +236,27 @@
       if (last >= 0) {
         const vch = C[last], main = vch.find(x => x.k === 'v' && (x.hv || x.en)) || vch.find(x => x.hv || x.en);
         const ends = hitsIn(vch).filter(h => !PART.has(h[0]));
-        steps.push(`<b>Tìm động từ cuối câu:</b> <span class="jp">${vch.map(segHtml).join('')}</span>`
+        steps.push(`<b>Đọc động từ cuối câu trước</b> (kết luận của câu): <span class="jp">${vch.map(segHtml).join('')}</span>`
           + (main ? ` — gốc <b class="jp">${esc(main.t)}</b>${main.hv ? ` <span class="hv">${esc(main.hv)}</span>` : ''}${main.en ? ' (' + esc(main.en) + ')' : ''}` : '')
           + (ends.length ? ` · đuôi: ${ends.map(h => gtag(h[0])).join('')}` : ''));
       }
-      const rest = C.filter((ch, j) => j !== last);
-      if (rest.length) steps.push(`<b>Gom cụm theo trợ từ:</b> ` + rest.map(ch => `<span class="jp">${ch.map(segHtml).join('')}</span> ${role(ch)}`).join(' · '));
-      steps.push(r.vi ? `<b>Ghép lại:</b> ${esc(r.vi)}` : `<b>Ghép lại:</b> <span class="note">(chưa có bản dịch — tự ghép theo các cụm ở trên)</span>`);
+      const V = r.v || [];
+      const colorRange = (a, z) => C.flat().filter(x => x.a >= a && x.z <= z).map(segHtml).join('') || esc(r.s.slice(a, z));
+      const why = w => w === null || w === undefined ? '<span class="note">cuối câu</span>' : w === '、' ? '<span class="gid o">dấu 、</span>' : w === 'し' ? '<span class="gid o">〜し</span>' : gtag(+w);
+      if (V.length) {
+        steps.push(`<b>Chia vế</b> (ranh giới ở cột giữa), dịch lần lượt từ trên xuống:`
+          + `<div class="wrapx"><table class="ve">${V.map(([a, z, w, fl, vi, en], i) => `<tr><td class="n">${i + 1}</td><td class="j jp">${colorRange(a, z)}</td><td class="b">${why(w)}</td>`
+          + `<td>${vi ? esc(vi) : '<span class="note">—</span>'}${en ? `<div class="en">${esc(en)}</div>` : ''}</td></tr>`).join('')}</table></div>`);
+        const FL = V.flatMap(v => v[3] || []);
+        const lab = { 'の': `A の B = B của A ${gtag(6)}`, '57': `động từ ngay trước danh từ = “danh từ mà …” ${gtag(57)}`, 'を': `tân ngữ + を: tiếng Việt nói động từ trước ${gtag(3)}` };
+        if (FL.length) steps.push(`<b>Đảo bên trong vế:</b>` + FL.map(([k, from, to]) => `<div class="flip"><span class="from jp">${esc(from)}</span> → <span class="to jp">${esc(to)}</span> <span class="note">· ${lab[k] || ''}</span></div>`).join(''));
+        else steps.push(`<b>Đảo bên trong vế:</b> <span class="note">câu này không có chỗ phải đảo — dịch thẳng từng vế.</span>`);
+      }
+      steps.push(r.vi ? `<b>Ghép lại:</b> ${esc(r.vi)}${r.en ? `<div class="note">🇬🇧 ${esc(r.en)}</div>` : ''}` : `<b>Ghép lại:</b> <span class="note">(chưa có bản dịch)</span>`);
       return `<div class="rs"><div class="sent jp">${C.map(ch => ch.map(segHtml).join('')).join('')}${/[。！？!?]$/.test(r.s) ? esc(r.s.slice(-1)) : ''} <button class="say" data-t="${esc(r.s)}" aria-label="Đọc câu">🔊</button></div>`
-        + (r.vi ? `<div class="vi">= <b>${esc(r.vi)}</b></div>` : '')
-        + `<div class="chs">${chunks}</div><ol class="steps">${steps.map(x => `<li>${x}</li>`).join('')}</ol></div>`;
+        + (r.vi ? `<div class="vi">= <b>${esc(r.vi)}</b>${r.en ? `<span class="en">🇬🇧 ${esc(r.en)}</span>` : ''}</div>` : '')
+        + `<ol class="steps">${steps.map(x => `<li>${x}</li>`).join('')}</ol>`
+        + `<details style="margin-top:8px"><summary class="note" style="cursor:pointer">Nghĩa từng từ (Hán Việt + tiếng Anh) và keo dán trong từng cụm</summary><div class="chs">${chunks}</div></details></div>`;
     }).join('') || '<p class="note">Bài này không có câu ngắn phù hợp để phân tích.</p>';
     const core = (D.glue || []).filter(g => g[0] <= 60), nNew = core.filter(g => g[4]).length;
     $('gprog').innerHTML = `<div class="note">Bài này có <b>${core.length}/60</b> keo dán của lộ trình${nNew ? `, trong đó <b>${nNew}</b> mục lần đầu gặp` : ''}. Đọc từ bài 1 đến bài ${n}: đã gặp <b>${D.gseen || 0}/60</b>.</div><div class="prog"><i style="width:${(D.gseen || 0) / 60 * 100}%"></i></div>`;

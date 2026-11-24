@@ -297,3 +297,85 @@ def chunks(sent, T=None):
     if cur:
         out.append(cur)
     return out
+
+
+# ---------------- chia vế (mệnh đề) + chỗ phải đảo khi dịch ----------------
+# Ranh giới vế: dấu 、 hoặc đuôi nối câu. Các vế dịch theo thứ tự trái -> phải; chỉ đảo BÊN TRONG mỗi vế.
+BOUND = {"て": 22, "で": 22, "から": 52, "ので": 52, "が": 51, "のに": 53, "ば": 27, "ながら": 35,
+         "けど": 47, "けれど": 47, "けれども": 47, "し": None}
+VERB_AFTER_TE = {"いる", "おる", "いく", "くる", "しまう", "みる", "おく", "ある", "もらう", "くれる", "あげる",
+                 "いただく", "くださる", "ちゃう", "てる"}
+
+
+def clauses(sent, T=None):
+    """-> [dict(a, z, why)] — why: '、' hoặc mã keo dán của đuôi nối (22 〜て, 52 〜から…)"""
+    T = T if T is not None else tokens(sent)
+    out, start, n = [], 0, len(T)
+    pending = None
+    for k, t in enumerate(T):
+        nt = T[k + 1] if k + 1 < n else None
+        why = None
+        if t["s"] in ("、", "，", ","):
+            why = pending or "、"
+            pending = None
+        elif t["p"] == "助詞" and t["p1"] == "接続助詞" and t["s"] in BOUND:
+            if t["s"] in ("て", "で") and nt and (nt["b"] in VERB_AFTER_TE or nt["p1"] == "非自立" or nt["s"] in ("も", "は")):
+                why = None
+            else:
+                why = BOUND[t["s"]] or "し"
+        elif t["p"] == "助動詞" and t["f"] == "仮定形" and t["s"] in ("たら", "だら", "なら"):
+            why = 29 if t["s"] == "なら" else 28
+        if why is not None and why != "、" and nt and nt["s"] in ("、", "，", ","):
+            pending = why          # để dấu phẩy đi cùng vế này
+            continue
+        if why is not None and nt is not None and not all(x["p"] == "記号" for x in T[k + 1:]):
+            out.append(dict(a=start, z=t["z"], why=why))
+            start = t["z"]
+    if start < len(sent):
+        out.append(dict(a=start, z=len(sent), why=None))
+    return out
+
+
+def flips(sent, T, a, z, H):
+    """Chỗ phải đảo trong vế [a, z): [loại, cụm tiếng Nhật, gợi ý thứ tự tiếng Việt]"""
+    ins = [t for t in T if t["a"] >= a and t["z"] <= z]
+    out = []
+    noun = lambda t: t["p"] == "名詞" or t["p"] == "接頭詞"
+    for k, t in enumerate(ins):
+        # A の B  ->  B của A
+        if t["s"] == "の" and t["p"] == "助詞" and t["p1"] == "連体化" and 0 < k < len(ins) - 1 and noun(ins[k - 1]) and noun(ins[k + 1]):
+            i = k - 1
+            while i > 0 and noun(ins[i - 1]):
+                i -= 1
+            j = k + 1
+            while j < len(ins) - 1 and noun(ins[j + 1]):
+                j += 1
+            A = "".join(x["s"] for x in ins[i:k]); B = "".join(x["s"] for x in ins[k + 1:j + 1])
+            out.append(["の", A + "の" + B, f"{B} của {A}"])
+    # động từ ngay trước danh từ (#57): [mệnh đề] N -> N mà [mệnh đề]
+    for h in H:
+        if h[0] != 57 or not (a <= h[1] and h[2] <= z):
+            continue
+        k = next((i for i, t in enumerate(ins) if t["z"] == h[2]), None)
+        if k is None or k + 1 >= len(ins) or not noun(ins[k + 1]):
+            continue
+        j = k + 1
+        while j + 1 < len(ins) and noun(ins[j + 1]) and ins[j + 1]["p1"] != "非自立":
+            j += 1
+        i = k
+        while i > 0 and not (ins[i - 1]["p"] == "助詞" and ins[i - 1]["s"] in ("は", "も")) and ins[i - 1]["p"] != "記号":
+            i -= 1
+        M = "".join(x["s"] for x in ins[i:k + 1]); N = "".join(x["s"] for x in ins[k + 1:j + 1])
+        if M and N:
+            out.append(["57", f"[{M}]{N}", f"{N} mà {M}"])
+    # を + động từ  ->  động từ trước, tân ngữ sau
+    for k, t in enumerate(ins):
+        if t["s"] == "を" and t["p"] == "助詞":
+            v = next((x for x in ins[k + 1:] if x["p"] == "動詞" and x["p1"] == "自立"), None)
+            i = k
+            while i > 0 and (noun(ins[i - 1]) or (ins[i - 1]["s"] == "の" and i > 1)):
+                i -= 1
+            O = "".join(x["s"] for x in ins[i:k])
+            if v and O:
+                out.append(["を", O + "を…" + v["s"], f"{v['b']} → {O}"])
+    return out[:4]
