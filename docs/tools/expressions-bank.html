@@ -20,6 +20,9 @@
     .tab { border:0; background:var(--card); color:inherit; padding:8px 14px; font:inherit; font-size:14px; cursor:pointer; }
     .tab + .tab { border-left:1px solid var(--line); }
     .tab.on { background:var(--accentbg); color:var(--accent); font-weight:700; }
+    a.tab { text-decoration:none; color:inherit; display:inline-block; }
+    a.tab:hover { background:var(--accentbg); color:var(--accent); }
+    .pane { scroll-margin-top:70px; margin-bottom:28px; }
     .pane[hidden] { display:none; }
     .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin:0 0 10px; }
     input[type=search], input[type=text], select, textarea { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; font-size:14px; max-width:100%; }
@@ -89,15 +92,14 @@
 <main>
   <h1>🔤 Idioms, Phrasal Verbs &amp; Natural Expressions</h1>
   <p class="lead" id="lead"></p>
-  <div class="tabs" role="tablist">
-    <button class="tab" data-t="list">📖 Tra cứu</button>
-    <button class="tab" data-t="cmp">⚖️ So sánh cụm dễ nhầm</button>
-    <button class="tab" data-t="ex">✍️ Bài tập</button>
-    <button class="tab" data-t="book">📕 Sách IELTS Fighter</button>
-    <button class="tab" data-t="dl">📥 Tải về &amp; tiến độ</button>
-  </div>
+  <nav class="tabs" aria-label="Mục lục trang">
+    <a class="tab" href="#p-list">📖 Tra cứu toàn bộ</a>
+    <a class="tab" href="#p-cmp">⚖️ So sánh cụm dễ nhầm</a>
+    <a class="tab" href="#p-book">📕 800 Phrasal Verb — IELTS Fighter</a>
+  </nav>
 
   <section class="pane" id="p-list">
+    <h2>📖 Tra cứu toàn bộ</h2>
     <div class="bar">
       <input type="search" id="q" placeholder="Tìm cụm / nghĩa / ví dụ…" aria-label="Tìm">
       <select id="type" aria-label="Loại"></select>
@@ -111,15 +113,10 @@
     <p class="note">Bấm vào một cụm để xem đủ: ngữ pháp (bằng tiếng Việt), ngoại/nội động từ, tách được hay không, kết hợp hay gặp, 3 câu ví dụ (đời thường · công việc/QA · IELTS), văn phong, tần suất, CEFR, lỗi người Việt hay mắc, cụm gần nghĩa, trái nghĩa và <b>bằng chứng trong phụ đề phim</b>. Câu ví dụ là <i>câu tự soạn</i>; câu trong ô xanh là <i>câu thoại thật</i> (trích 1 dòng ngắn, bản quyền thuộc hãng phim).</p>
   </section>
 
-  <section class="pane" id="p-cmp" hidden><div id="cmp"></div></section>
+  <section class="pane" id="p-cmp"><h2>⚖️ So sánh cụm dễ nhầm</h2><div id="cmp"></div></section>
 
-  <section class="pane" id="p-ex" hidden>
-    <p class="note">Làm trước rồi mới bấm <b>Kiểm tra</b> / <b>Xem đáp án</b>. Phần dịch và viết lại câu không chấm tự động: tự so với đáp án mẫu (có nhiều cách đúng). Điểm: <span class="score" id="score">0</span>.</p>
-    <div class="bar"><select id="exb" aria-label="Chọn đợt bài tập"></select><span class="note" id="exnote"></span></div>
-    <div id="ex"></div>
-  </section>
-
-  <section class="pane" id="p-book" hidden>
+  <section class="pane" id="p-book">
+    <h2>📕 800 Phrasal Verb — IELTS Fighter</h2>
     <p class="note" id="booknote"></p>
     <div class="bar">
       <input type="search" id="bq" placeholder="Tìm phrasal verb / định nghĩa…" aria-label="Tìm trong sách">
@@ -127,14 +124,6 @@
       <span class="cnt" id="bcnt"></span>
     </div>
     <table><thead><tr><th>Phrasal verb</th><th>Định nghĩa (sách)</th><th class="hide-sm">Ví dụ (sách)</th><th>Ngân hàng</th></tr></thead><tbody id="book"></tbody></table>
-  </section>
-
-  <section class="pane" id="p-dl" hidden>
-    <h2>Tiến độ (mục tiêu 1.500 cụm, chia đợt 50)</h2>
-    <table><thead><tr><th>Nhóm</th><th class="num">Đã có</th><th class="num">Mục tiêu</th><th class="hide-sm">Tiến độ</th></tr></thead><tbody id="prog"></tbody></table>
-    <h2>Tải về</h2>
-    <div class="dl" id="dl"></div>
-    <p class="note">File <b>anki-import.csv</b>: Anki → File → Import → chọn file (đã có sẵn dòng cấu hình: dấu phẩy, cho phép HTML, cột 3 là tags). Mặt trước: cụm + câu ví dụ; mặt sau: nghĩa, ngữ pháp, kết hợp, 3 ví dụ, lỗi hay mắc. File <b>idioms-phrasal-verbs.csv</b> có đủ 24 cột để mở bằng Excel / Google Sheets.</p>
   </section>
 </main>
 <script src="expressions-data.js"></script>
@@ -151,16 +140,6 @@
   const nB = Math.max(...E.map(e => e.batch));
 
   $('lead').innerHTML = `<b>${fmt(E.length)} cụm</b> trong ${nB} đợt (50 cụm/đợt): idioms, phrasal verbs, phrasal verbs công sở &amp; IT/QA, collocations, fixed expressions. Mỗi cụm có nghĩa Việt, ngữ pháp, ngoại/nội – tách được, 3 ví dụ, văn phong, tần suất, CEFR, mức ưu tiên, lỗi hay mắc, cụm gần nghĩa. <b>${fmt(E.filter(e => e.n).length)}</b> cụm có câu thoại thật trong phụ đề ${fmt(D.eps)} tập phim (${fmt(D.lines)} lượt thoại); <b>${fmt(E.filter(e => e.book).length)}</b> phrasal verb có thêm nghĩa &amp; ví dụ gốc của sách <i>${esc(D.bookname)}</i>.`;
-
-  // ---------- tabs ----------
-  const tabs = [...document.querySelectorAll('.tab')];
-  function show(t) {
-    tabs.forEach(b => b.classList.toggle('on', b.dataset.t === t));
-    document.querySelectorAll('.pane').forEach(p => p.hidden = p.id !== 'p-' + t);
-    store('exb-tab', t);
-  }
-  tabs.forEach(b => b.onclick = () => show(b.dataset.t));
-  show(new URLSearchParams(location.search).get('tab') || store('exb-tab') || 'list');
 
   // ---------- tra cứu ----------
   $('type').innerHTML = '<option value="">Mọi loại</option>' + D.files.map(f => `<option value="${f[2]}">${esc(f[1])} (${E.filter(e => pre(e.id) === f[2]).length})</option>`).join('');
@@ -211,11 +190,13 @@
   $('q').addEventListener('input', () => { clearTimeout(tmr); tmr = setTimeout(render, 150); });
   ['type', 'prio', 'cefr', 'batch', 'ev'].forEach(k => $(k).addEventListener('change', render));
   function openId(id) {
-    show('list'); ['type', 'prio', 'cefr', 'batch', 'ev'].forEach(k => $(k).value = ''); $('q').value = id; render();
+    ['type', 'prio', 'cefr', 'batch', 'ev'].forEach(k => $(k).value = ''); $('q').value = id; render();
     const el = document.getElementById(id); if (el) { el.open = true; el.scrollIntoView({ block: 'start' }); }
   }
   render();
   if (location.hash.length > 1 && byId[location.hash.slice(1)]) openId(location.hash.slice(1));
+  const tabQ = new URLSearchParams(location.search).get('tab');
+  if (tabQ && $('p-' + tabQ)) $('p-' + tabQ).scrollIntoView();
 
   // ---------- so sánh ----------
   $('cmp').innerHTML = D.extras.flatMap(x => x.comparisons || []).map(c => `<div class="cmp">
@@ -224,51 +205,6 @@
     <div>✅ <b>${esc(c.a)}</b>: ${esc(c.exA)}</div><div>✅ <b>${esc(c.b)}</b>: ${esc(c.exB)}</div>
     <div class="tip">💡 ${esc(c.tip)} · <span class="note">${c.refs.map(r => byId[r] ? `<a href="#${r}" data-id="${r}">${r}</a>: ${esc(byId[r].vi)}` : r).join(' · ')}</span></div></div>`).join('');
   document.addEventListener('click', ev => { const a = ev.target.closest('a[data-id]'); if (a) { ev.preventDefault(); openId(a.dataset.id); } });
-
-  // ---------- bài tập ----------
-  let score = 0;
-  const bump = () => { score++; $('score').textContent = score; };
-  const normA = s => s.toLowerCase().replace(/[’']/g, "'").replace(/[^a-z' ]/g, ' ').replace(/\s+/g, ' ').trim();
-  $('exb').innerHTML = D.extras.map(x => `<option value="${x.batch}">Đợt ${x.batch}${x.auto ? '' : ' (soạn tay + so sánh)'}</option>`).join('');
-  function renderEx() {
-    const x = D.extras.find(y => y.batch === +$('exb').value) || D.extras[0];
-    store('exb-batch', x.batch);
-    const X = x.exercises, b = x.batch;
-    const ids = E.filter(e => e.batch === b);
-    $('exnote').textContent = (x.auto ? 'Bài tập tự sinh từ 50 cụm của đợt. ' : '') + `Đợt ${b}: ${ids[0]?.id} → ${ids[ids.length - 1]?.id}`;
-    let h = '';
-    const sec = (title, items, fn) => { if (!items.length) return; h += `<h2 style="font-size:16px">${title} (${items.length})</h2>` + items.map((it, i) => `<div class="q"><span class="n">${i + 1}.</span>${fn(it, i)}</div>`).join(''); };
-    sec('A. Việt → Anh', X.translate, it => `${esc(it.q)}<div class="row"><textarea placeholder="Viết bằng tiếng Anh…"></textarea></div><div class="row"><button class="btn rev">Xem đáp án</button></div><div class="ans" hidden><b>${esc(it.a)}</b> ${say(it.a.split(' / ')[0])}<br><span class="note">${esc(it.why)}</span></div>`);
-    sec('B. Điền vào chỗ trống', X.complete, it => `${esc(it.q)}<div class="row"><input type="text" placeholder="Từ cần điền" data-a="${esc(it.a)}"><button class="btn chk">Kiểm tra</button><span class="res"></span></div><div class="ans" hidden><b>${esc(it.a)}</b> · <span class="note">${esc(it.why)}</span></div>`);
-    sec('C. Chọn cụm đúng', X.choose, it => `${esc(it.q)}<div class="row">${it.opts.map(o => `<button class="opt" data-ok="${o === it.a ? 1 : 0}">${esc(o)}</button>`).join('')}</div><div class="ans" hidden><b>${esc(it.a)}</b> · <span class="note">${esc(it.why)}</span></div>`);
-    sec('D. Viết lại / đặt câu', X.rewrite, it => `${esc(it.q)}<div class="row"><textarea placeholder="Viết câu…"></textarea></div><div class="row"><button class="btn rev">Xem đáp án</button></div><div class="ans" hidden><b>${esc(it.a)}</b><br><span class="note">${esc(it.why)}</span></div>`);
-    sec('E. Nói (ghi âm hoặc nói to 45–60 giây)', X.speaking, it => `${esc(it.q)}<div class="row"><button class="btn rev">Gợi ý</button></div><div class="ans" hidden><i>${esc(it.hint)}</i></div>`);
-    $('ex').innerHTML = h;
-  }
-  $('exb').value = store('exb-batch') || '1';
-  $('exb').addEventListener('change', renderEx);
-  renderEx();
-  $('ex').addEventListener('click', ev => {
-    const q = ev.target.closest('.q'); if (!q) return;
-    const ans = q.querySelector('.ans');
-    if (ev.target.classList.contains('rev')) { ans.hidden = !ans.hidden; ev.target.textContent = ans.hidden ? 'Xem đáp án' : 'Ẩn đáp án'; }
-    if (ev.target.classList.contains('opt') && !q.dataset.done) {
-      q.dataset.done = 1;
-      const ok = ev.target.dataset.ok === '1';
-      ev.target.classList.add(ok ? 'ok' : 'bad');
-      q.querySelectorAll('.opt').forEach(o => { if (o.dataset.ok === '1') o.classList.add('ok'); });
-      if (ok) bump(); ans.hidden = false;
-    }
-    if (ev.target.classList.contains('chk')) {
-      const inp = q.querySelector('input'), res = q.querySelector('.res');
-      const want = inp.dataset.a.split(/[(/]/)[0];
-      const ok = normA(inp.value) && normA(inp.value) === normA(want);
-      res.textContent = ok ? '✓ Đúng' : '✗ Chưa đúng'; res.className = 'res ' + (ok ? 'ok' : 'bad');
-      if (ok && !q.dataset.done) { q.dataset.done = 1; bump(); }
-      ans.hidden = false;
-    }
-  });
-  $('ex').addEventListener('keydown', ev => { if (ev.key === 'Enter' && ev.target.matches('input[type=text]')) ev.target.closest('.q').querySelector('.chk').click(); });
 
   // ---------- sách IELTS Fighter ----------
   const B = D.book || [];
@@ -281,21 +217,6 @@
   }
   $('bq').addEventListener('input', renderBook); $('bf').addEventListener('change', renderBook);
   renderBook();
-
-  // ---------- tiến độ & tải về ----------
-  $('prog').innerHTML = D.files.map(f => {
-    const have = E.filter(e => pre(e.id) === f[2]).length, tg = D.target[f[2]];
-    return `<tr><td>${esc(f[1])}</td><td class="num">${fmt(have)}</td><td class="num">${fmt(tg)}</td><td class="hide-sm"><div class="prog"><i style="width:${Math.min(100, have / tg * 100)}%"></i></div></td></tr>`;
-  }).join('') + `<tr><td><b>Tổng</b></td><td class="num"><b>${fmt(E.length)}</b></td><td class="num"><b>${fmt(Object.values(D.target).reduce((a, b) => a + b, 0))}</b></td><td class="hide-sm"></td></tr>`;
-  const md = f => `../#/expressions/${f.replace(/\.md$/, '')}`;
-  $('dl').innerHTML = [
-    ...D.files.map(f => [md(f[0]), '📄 ' + f[0]]),
-    [md('similar-expressions-comparison.md'), '📄 similar-expressions-comparison.md'],
-    [md('ielts-fighter-800-phrasal-verbs.md'), '📕 ielts-fighter-800-phrasal-verbs.md'],
-    [md('progress-index.md'), '📋 progress-index.md'],
-    ['../expressions/idioms-phrasal-verbs.csv', '📊 idioms-phrasal-verbs.csv'],
-    ['../expressions/anki-import.csv', '🗂️ anki-import.csv'],
-  ].map(([h, t]) => `<a href="${h}"${h.endsWith('.csv') ? ' download' : ''}>${t}</a>`).join('');
 
   document.addEventListener('click', ev => {
     const b = ev.target.closest('.say'); if (!b || !window.speechSynthesis) return;
