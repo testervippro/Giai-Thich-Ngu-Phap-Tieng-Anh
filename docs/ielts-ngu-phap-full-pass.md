@@ -1,4 +1,4 @@
-# 🔁 9. CÂU BỊ ĐỘNG — full câu ví dụ IELTS Reading (Cam 10–20)
+# 🔁 9. CÂU BỊ ĐỘNG — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [CÂU BỊ ĐỘNG](C%C3%A2u%20B%E1%BB%8B%20%C4%90%E1%BB%99ng.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=pass). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,26 +6,27 @@
 
 ## Mục lục
 
-1. [Bị động – hiện tại đơn](ielts-ngu-phap-full-pass.md?id=p1) — 353 câu
-2. [Bị động – quá khứ đơn](ielts-ngu-phap-full-pass.md?id=p2) — 319 câu
-3. [Bị động với động từ khuyết thiếu (modal + be + V3)](ielts-ngu-phap-full-pass.md?id=p3) — 165 câu
-4. [Bị động + to V (be asked/required/expected to V)](ielts-ngu-phap-full-pass.md?id=p4) — 121 câu
-5. [Bị động – hiện tại hoàn thành](ielts-ngu-phap-full-pass.md?id=p5) — 97 câu
-6. [Bị động dạng nguyên mẫu (to be + V3)](ielts-ngu-phap-full-pass.md?id=p6) — 72 câu
-7. [Bị động](ielts-ngu-phap-full-pass.md?id=p7) — 62 câu
-8. [Bị động – hiện tại đơn + by tác nhân](ielts-ngu-phap-full-pass.md?id=p8) — 57 câu
-9. [Bị động – quá khứ đơn + by tác nhân](ielts-ngu-phap-full-pass.md?id=p9) — 55 câu
-10. [Bị động với động từ khuyết thiếu (modal + be + V3) + by tác nhân](ielts-ngu-phap-full-pass.md?id=p10) — 19 câu
-11. [Bị động – hiện tại tiếp diễn](ielts-ngu-phap-full-pass.md?id=p11) — 18 câu
-12. [Bị động – hiện tại hoàn thành + by tác nhân](ielts-ngu-phap-full-pass.md?id=p12) — 17 câu
-13. [Bị động – quá khứ hoàn thành](ielts-ngu-phap-full-pass.md?id=p13) — 17 câu
-14. [Bị động dạng nguyên mẫu (to be + V3) + by tác nhân](ielts-ngu-phap-full-pass.md?id=p14) — 14 câu
-15. [Bị động – tương lai đơn](ielts-ngu-phap-full-pass.md?id=p15) — 13 câu
+1. [Bị động – hiện tại đơn](ielts-ngu-phap-full-pass.md?id=p1) — 386 câu
+2. [Bị động – quá khứ đơn](ielts-ngu-phap-full-pass.md?id=p2) — 344 câu
+3. [Bị động với động từ khuyết thiếu (modal + be + V3)](ielts-ngu-phap-full-pass.md?id=p3) — 177 câu
+4. [Bị động + to V (be asked/required/expected to V)](ielts-ngu-phap-full-pass.md?id=p4) — 130 câu
+5. [Bị động – hiện tại hoàn thành](ielts-ngu-phap-full-pass.md?id=p5) — 104 câu
+6. [Bị động dạng nguyên mẫu (to be + V3)](ielts-ngu-phap-full-pass.md?id=p6) — 79 câu
+7. [Bị động](ielts-ngu-phap-full-pass.md?id=p7) — 68 câu
+8. [Bị động – quá khứ đơn + by tác nhân](ielts-ngu-phap-full-pass.md?id=p8) — 64 câu
+9. [Bị động – hiện tại đơn + by tác nhân](ielts-ngu-phap-full-pass.md?id=p9) — 61 câu
+10. [Bị động với động từ khuyết thiếu (modal + be + V3) + by tác nhân](ielts-ngu-phap-full-pass.md?id=p10) — 21 câu
+11. [Bị động – hiện tại tiếp diễn](ielts-ngu-phap-full-pass.md?id=p11) — 21 câu
+12. [Bị động – quá khứ hoàn thành](ielts-ngu-phap-full-pass.md?id=p12) — 20 câu
+13. [Bị động – hiện tại hoàn thành + by tác nhân](ielts-ngu-phap-full-pass.md?id=p13) — 19 câu
+14. [Bị động dạng nguyên mẫu (to be + V3) + by tác nhân](ielts-ngu-phap-full-pass.md?id=p14) — 15 câu
+15. [Bị động – tương lai đơn](ielts-ngu-phap-full-pass.md?id=p15) — 14 câu
 16. [Bị động + by tác nhân](ielts-ngu-phap-full-pass.md?id=p16) — 9 câu
 17. [Bị động – hiện tại tiếp diễn + by tác nhân](ielts-ngu-phap-full-pass.md?id=p17) — 6 câu
 18. [Bị động – quá khứ hoàn thành + by tác nhân](ielts-ngu-phap-full-pass.md?id=p18) — 6 câu
 19. [Bị động – quá khứ tiếp diễn](ielts-ngu-phap-full-pass.md?id=p19) — 4 câu
 20. [Bị động – tương lai đơn + by tác nhân](ielts-ngu-phap-full-pass.md?id=p20) — 1 câu
+21. [Bị động – quá khứ tiếp diễn + by tác nhân](ielts-ngu-phap-full-pass.md?id=p21) — 1 câu
 
 ---
 
@@ -33,7 +34,7 @@
 
 ### 1. Bị động – hiện tại đơn
 
-<small>353 câu · hiện 150</small>
+<small>386 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* Most stepwells **are found** dotted around the desert areas of Gujarat (where they are called vav ) and Rajasthan (where they are known as baori ), while a few also survive in Delhi.
 - *(Cam 10 · T1 · P2)* According to the latest estimates, if nothing **is done** to reverse the traffic growth trend, CO2 emissions from transport can be expected to increase by around 50% to 1,113 billion tonnes by 2020，compared with the 739 billion tonnes recorded in 1990.
@@ -190,7 +191,7 @@
 
 ### 2. Bị động – quá khứ đơn
 
-<small>319 câu · hiện 150</small>
+<small>344 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* Some **were located** in or near villages as public spaces for the community; others were positioned beside roads as resting places for travellers.
 - *(Cam 10 · T1 · P3)* The smartest scientist **was called** Rosalind Franklin who, Watson said, “was so intelligent she rarely sought advice”.’
@@ -347,7 +348,7 @@
 
 ### 3. Bị động với động từ khuyết thiếu (modal + be + V3)
 
-<small>165 câu · hiện 150</small>
+<small>177 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P2)* According to the latest estimates, if nothing is done to reverse the traffic growth trend, CO2 emissions from transport **can be expected** to increase by around 50% to 1,113 billion tonnes by 2020，compared with the 739 billion tonnes recorded in 1990.
 - *(Cam 10 · T1 · P2)* At the same time greater efforts **must be made** to achieve a modal shift.
@@ -504,7 +505,7 @@
 
 ### 4. Bị động + to V (be asked/required/expected to V)
 
-<small>121 câu</small>
+<small>130 câu</small>
 
 - *(Cam 10 · T1 · P2)* According to the latest estimates, if nothing is done to reverse the traffic growth trend, CO2 emissions from transport **can be expected** to increase by around 50% to 1,113 billion tonnes by 2020，compared with the 739 billion tonnes recorded in 1990.
 - *(Cam 10 · T2 · P1)* For a long time, the English were protected by the strong antibacterial agent in hops, which **were added** to help preserve the beer.
@@ -627,12 +628,21 @@
 - *(Cam 20 · T4 · P2)* Using a Geographic Information System data mapping tool, the programme identified streets with low tree canopy cover in three of the city’s neighbourhoods and covered them with a light-grey, light-reflecting coating, which **had already been shown** to lower road surface temperature in Los Angeles by 6°C.
 - *(Cam 20 · T4 · P3)* Livestock guard dogs, traditionally used to protect farm animals from predators, **are now being used** to protect the predators themselves
 - *(Cam 20 · T4 · P3)* They **have been found** to spread diseases to wild animals, including endangered Ethiopian wolves.
+- *(Cam 21 · T1 · P1)* In 1907, when Gwendoline came into her inheritance (Margaret would follow in 1909), the sisters **were said** to be the wealthiest unmarried women in Britain.
+- *(Cam 21 · T1 · P3)* In the face of appalling obstruction from the sugar industry to attempts to reduce consumption, some countries **have been forced** to tax sugar in order to bring that about.
+- *(Cam 21 · T2 · P2)* These sheets **were then used** to cover wooden objects (which have not survived) using small tacks, also made of gold.
+- *(Cam 21 · T2 · P3)* The IBM Watson for Oncology programme was a piece of AI that **was meant** to help doctors treat cancer.
+- *(Cam 21 · T2 · P3)* Even though it **was developed** to deliver the best recommendations, human experts found it hard to trust the machine.
+- *(Cam 21 · T2 · P3)* Similar difficulties arose in the legal domain when algorithms **were used** in courts in the US to sentence criminals.
+- *(Cam 21 · T2 · P3)* The system **was found** to amplify structural racial discrimination and was later abandoned.
+- *(Cam 21 · T3 · P1)* This country **is estimated** to be home to well over 90% of the global saiga population, with Russia, Mongolia and Uzbekistan accounting for the rest.
+- *(Cam 21 · T4 · P3)* The ancient Greek philosopher Plato in his work Phaedo likened it to a leather ball, while the accolade of producing the first recorded globe goes to the ancient Greek philosopher Crates of Mallus, who **is said** to have made one in around 150 BCE.
 
 <a id="p5"></a>
 
 ### 5. Bị động – hiện tại hoàn thành
 
-<small>97 câu</small>
+<small>104 câu</small>
 
 - *(Cam 10 · T1 · P1)* Down the centuries, thousands of wells were constructed throughout northwestern India, but the majority have now fallen into disuse; many are derelict and dry, as groundwater **has been diverted** for industrial use and the wells no longer reach the water table.
 - *(Cam 10 · T1 · P2)* In the last 20 years, as internal frontiers **have been abolished**, the EU has moved from a ‘stock’ economy to a ‘flow’ economy.
@@ -731,12 +741,19 @@
 - *(Cam 20 · T4 · P3)* In recent years, however, as increased efforts **have been made** to protect wild animals, predators have become more widespread again.
 - *(Cam 20 · T4 · P3)* They **have been found** to spread diseases to wild animals, including endangered Ethiopian wolves.
 - *(Cam 20 · T4 · P3)* For example, their presence **has been found** to protect birds which build their nests on the ground in fields, where foxes would normally raid them.
+- *(Cam 21 · T1 · P1)* While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it **has recently been accepted** that Gwendoline and Margaret retained a far more active role in the process.
+- *(Cam 21 · T1 · P2)* Some solutions are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation **has been approved** to fine people who modify their vehicles to make them noisier.
+- *(Cam 21 · T1 · P3)* For example, imported labour **has been used** for much large-scale production.
+- *(Cam 21 · T1 · P3)* In the face of appalling obstruction from the sugar industry to attempts to reduce consumption, some countries **have been forced** to tax sugar in order to bring that about.
+- *(Cam 21 · T2 · P2)* In addition, cattle, sheep, and goat figurines, and small figures of highly stylised humans with elongated bodies and short limbs **have been found**.
+- *(Cam 21 · T2 · P2)* Beautifully decorated artefacts made of gold **have also been found** at Mapungubwe.
+- *(Cam 21 · T2 · P2)* One such object that **has been discovered** may have been a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads.
 
 <a id="p6"></a>
 
 ### 6. Bị động dạng nguyên mẫu (to be + V3)
 
-<small>72 câu</small>
+<small>79 câu</small>
 
 - *(Cam 10 · T1 · P1)* When the water level was high, the user needed only to descend a few steps to reach it; when it was low, several levels would have **to be negotiated**.
 - *(Cam 10 · T1 · P2)* This objective, agreed by the Gothenburg European Council, has **to be achieved** by integrating environmental considerations into Community policies, and shifting the balance between modes of transport lies at the heart of its strategy.
@@ -810,12 +827,19 @@
 - *(Cam 20 · T1 · P1)* Its key goals are: minimise the loss of genetic diversity in the kākāpō population, restore or maintain sufficient habitat to accommodate the expected increase in the kākāpō population, and ensure stakeholders continue **to be fully engaged** in the preservation of the species.
 - *(Cam 20 · T2 · P2)* Afterwards, people tend **to be left** with a sense of guilt that not only increases their negative mood, but also reinforces their tendency to procrastinate.
 - *(Cam 20 · T3 · P1)* He developed quick-freezing techniques that reduced the damage that crystals caused, as well as the technique of freezing the product in the package it was **to be sold** in.
+- *(Cam 21 · T1 · P3)* Once regarded as a luxury, sugar came **to be promoted** as a valuable source of energy.
+- *(Cam 21 · T2 · P3)* The few digitised sources of data that exist tend **to be buried** in bureaucracy.
+- *(Cam 21 · T2 · P3)* More often than not, data is spread across different government departments that each require special permissions **to be accessed**.
+- *(Cam 21 · T2 · P3)* Similarly, Rodney Brooks, professor of robotics at Massachusetts Institute of Technology, writes that 'almost all innovations in robotics and AI take far, far, longer **to be really widely deployed** than people in the field and outside the field imagine'.
+- *(Cam 21 · T3 · P2)* 'Bus rapid transit allows existing stakeholders **to get involved**.
+- *(Cam 21 · T3 · P3)* Nevertheless, in the Rising Star cave system in South Africa where the H. naledi remains were found, researchers have found what seem to be etchings – resembling rudimentary artwork – on the cave walls, though these have yet **to be firmly dated**.
+- *(Cam 21 · T4 · P3)* Not one **to be easily thwarted**, Bellerby decided to make his own good-quality globe.
 
 <a id="p7"></a>
 
 ### 7. Bị động
 
-<small>62 câu</small>
+<small>68 câu</small>
 
 - *(Cam 10 · T1 · P3)* ‘It**’s been scientifically proven** that three people will be better than one at solving problems, even if that one person is the smartest person in the field.’
 - *(Cam 10 · T3 · P3)* Without this to go by, overshooting their home ports, **getting lost** and sailing off into eternity would have been all too easy.
@@ -879,12 +903,89 @@
 - *(Cam 20 · T1 · P3)* We asked the firefighters to estimate their likelihood of experiencing 40 different adverse events in their life, such as **being involved** in an accident or becoming a victim of card fraud.
 - *(Cam 20 · T2 · P1)* Due to manatees’ abrasive aquatic plant diet, these teeth **get worn** down and they eventually fall out, so they continually grow new teeth that get pushed forward to replace the ones they lose.
 - *(Cam 20 · T2 · P1)* It**’s thought** that manatees use their muscular diaphragm and breathing to adjust their buoyancy.
+- *(Cam 21 · T1 · P3)* It is now widely consumed, **having been adopted** in the making of soft drinks and a large number of processed foods, and is regarded as a leading cause of obesity.
+- *(Cam 21 · T2 · P3)* Most of the data **remains stored** in offline archives.
+- *(Cam 21 · T3 · P1)* In the worst cases, herds may starve to death after **being trapped**.
+- *(Cam 21 · T3 · P2)* For millions of people in African cities, this is their best hope of ever **being connected**.'
+- *(Cam 21 · T3 · P3)* Palaeoanthropologists **got fixated** on brain size because it was what they could see: if what you have is skeletons, then all you know about brains are their shapes and sizes.
+- *(Cam 21 · T4 · P2)* We are not suggesting that English **be withdrawn** – that ship has sailed – but we perhaps have to think more about learner needs.
 
 <a id="p8"></a>
 
-### 8. Bị động – hiện tại đơn + by tác nhân
+### 8. Bị động – quá khứ đơn + by tác nhân
 
-<small>57 câu</small>
+<small>64 câu</small>
+
+- *(Cam 10 · T1 · P1)* It **was built** by Queen Udayamati during the late 11th century, but became silted up following a flood during the 13th century.
+- *(Cam 10 · T1 · P1)* One of the larger examples is Raniji Ki Baori , which **was built** by the queen of the region, Nathavatji, in 1699.
+- *(Cam 10 · T1 · P3)* Orbison **wasn’t inspired** by the goal, and only ever achieved one hit with the Sun label.
+- *(Cam 10 · T2 · P1)* For a long time, the English **were protected** by the strong antibacterial agent in hops, which were added to help preserve the beer.
+- *(Cam 11 · T1 · P2)* The Wheel could not be constructed to elevate boats over the full 35-metre difference between the two canals, owing to the presence of the historically important Antonine Wall, which **was built** by the Romans in the second century AD.
+- *(Cam 11 · T2 · P1)* Accounts of what happened to the ship vary: while witnesses agree that she **was not hit** by the French, some maintain that she was outdated, overladen and sailing too low in the water, others that she was mishandled by undisciplined crew.
+- *(Cam 11 · T2 · P2)* After this remote Pacific island **was settled** by the Polynesians, it remained isolated for centuries.
+- *(Cam 11 · T2 · P2)* Bestselling Swiss author Erich von Daniken believed they **were built** by stranded extraterrestrials.
+- *(Cam 11 · T3 · P1)* Few merchants travelled the entire route; goods **were handled** mostly by a series of middlemen.
+- *(Cam 11 · T3 · P1)* Cheaper Japanese silk, trade in which **was greatly facilitated** by the opening of the Suez Canal, was one of the many factors driving the trend.
+- *(Cam 11 · T3 · P3)* As I wrote, I kept in mind two types of readers: those who enjoyed mathematics until they **were turned** off by an unpleasant episode, usually around fifth grade, and mathematics aficionados, who will find much that is new throughout the book.
+- *(Cam 11 · T4 · P1)* Bouchard and his colleagues used this mountain of data to identify how far twins **were affected** by their genetic makeup.
+- *(Cam 12 · T3 · P1)* Some time after the Galápagos’s birth, around five million years ago, the islands **were colonised** by one or more tortoises from mainland South America.
+- *(Cam 12 · T3 · P1)* This unprecedented effort **was made** possible by the owners of the 67-metre yacht While Cloud, who provided the Galápagos National Park with free use of their helicopter and its experienced pilot, as well as the logistical support of the yacht, its captain and crew.
+- *(Cam 12 · T4 · P1)* In the first century AD, methods of creating colourless glass were developed, which **was then tinted** by the addition of colouring materials.
+- *(Cam 12 · T4 · P1)* The secret of glass making **was taken** across Europe by the Romans during this century.
+- *(Cam 12 · T4 · P1)* Then in 1907, the first fully automated machine **was developed** in the USA by Michael Owens – founder of the Owens Bottle Machine Company (later the major manufacturers Owens-Illinois) – and installed in its factory.
+- *(Cam 13 · T1 · P3)* The participants weren’t told beforehand whether the tunes **were composed** by humans or computers, but were asked to guess, and then rate how much they liked each one.
+- *(Cam 13 · T2 · P1)* At that time, cinnamon **was transported** by Arab merchants, who closely guarded the secret of the source of the spice from potential rivals.
+- *(Cam 13 · T2 · P1)* Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was diminishing in economic potential, and **was eventually superseded** by the rise of trade in coffee, tea, chocolate, and sugar.
+- *(Cam 13 · T4 · P1)* In the end, the firm was forced out of business, and the ship **was finished** by a competitor.
+- *(Cam 13 · T4 · P3)* Bentham **was more attracted** by the latter measure.
+- *(Cam 14 · T1 · P3)* This **was succinctly summarized** by Michel et al. (2013): ‘[P]roviding support to employees gives them the confidence to perform their jobs better and the motivation to stay with the organization.’
+- *(Cam 14 · T2 · P2)* Much of the ingenuity present in 19th-century hospital and building design **was driven** by a panicked public clamouring for buildings that could protect against what was thought to be the lethal threat of miasmas – toxic air that spread disease.
+- *(Cam 15 · T1 · P1)* The Banda Islands **were ruled** by local sultans who insisted on maintaining a neutral trading policy towards foreign powers.
+- *(Cam 15 · T2 · P3)* A team led by Christopher Oveis from the University of California, San Diego, found that high-status individuals had different laughs from low-status individuals, and that strangers’ judgements of an individual’s social status **were influenced** by the dominant or submissive quality of their laughter.
+- *(Cam 15 · T3 · P1)* He studied at Castleford Grammar School from 1909 to 1915, where his early interest in art **was encouraged** by his teacher Alice Gostick.
+- *(Cam 15 · T3 · P1)* When he visited the Trocadero Museum in Paris, he **was impressed** by a cast of a Mayan* sculpture of the rain spirit.
+- *(Cam 15 · T3 · P1)* His work **was enthusiastically welcomed** by fellow sculptors, but the reviews in the press were extremely negative and turned Moore into a notorious figure.
+- *(Cam 15 · T3 · P1)* Critics who had begun to think that Moore had become less revolutionary **were proven** wrong by the appearance, in 1950, of the first of Moore’s series of standing figures in bronze, with their harsh and angular pierced forms and distinct impression of menace.
+- *(Cam 15 · T3 · P2)* Travelling around Thailand in the 1990s, William Janssen was impressed with the basic rooftop solar heating systems that were on many homes, where energy from the sun **was absorbed** by a plate and then used to heat water for domestic use.
+- *(Cam 15 · T4 · P3)* The car manufacturer Henry Ford **was in fact successfully sued** by shareholders in 1919 for raising the minimum wage of his workers to $5 per day: the courts declared that, while Ford’s humanitarian sentiments about his employees were nice, his business existed to make profits for its stockholders.
+- *(Cam 16 · T1 · P2)* It covered a region of 16 hectares and **was surrounded** by a wall 10.5 meters high.
+- *(Cam 16 · T1 · P2)* The wall had 13 false doors cut into it with only one true entrance cut into the south-east corner; the entire wall **was then ringed** by a trench 750 meters long and 40 meters wide.
+- *(Cam 16 · T2 · P1)* However, in 1995 Optically Stimulated Luminescence (OSL) testing **was carried** out by the Oxford Archaeological Unit on soil from two of the lower layers of the horse’s body, and from another cut near the base.
+- *(Cam 16 · T3 · P1)* The trireme **was superseded** by larger ships with even more rowers.
+- *(Cam 16 · T4 · P1)* When the sole purpose of a tunnel was mineral extraction, construction required less planning, as the tunnel route **was determined** by the mineral vein.
+- *(Cam 17 · T1 · P3)* After his father **was executed** by the Parliamentarians in 1649, the young Charles II sacrificed one of the very principles his father had died for and did a deal with Scots, thereby accepting Presbyterianism* as the national religion in return for being crowned King of Scots.
+- *(Cam 17 · T1 · P3)* This **was followed** by a Scottish invasion of England.
+- *(Cam 17 · T2 · P3)* It **was developed** by a relatively unknown jockey named Jackie Westrope.
+- *(Cam 17 · T2 · P3)* The Law of Effect **was advanced** by psychologist Edward Thorndike in 1898, some 40 years after Charles Darwin published his groundbreaking work on biological evolution, On the Origin of Species .
+- *(Cam 17 · T3 · P1)* The last known wild thylacine to be killed **was shot** by a farmer in the north-east of Tasmania in 1930, leaving just captive specimens.
+- *(Cam 17 · T3 · P1)* The species **was declared** extinct by the Tasmanian government in 1986.
+- *(Cam 17 · T4 · P2)* The database also reveals the case of Juliana Schweickherdt, a 50-year-old spinster living in the small Black Forest community of Wildberg, who **was reprimanded** in 1752 by the local weavers’ guild for ‘weaving cloth and combing wool, counter to the guide ordinance’.
+- *(Cam 18 · T2 · P1)* This theory **was widely popularized** by the antiquarian William Stukeley, who had unearthed primitive graves at the site.
+- *(Cam 18 · T2 · P1)* The first stage **was achieved** by Neolithic agrarians who were likely to have been indigenous to the British Isles.
+- *(Cam 19 · T1 · P1)* It created a string bed that generated so much topspin that it **was quickly banned** by the International Tennis Federation.
+- *(Cam 19 · T1 · P2)* It seems the pharaoh **was troubled** by two distinct pirate groups, the Lukka and the Sherden.
+- *(Cam 19 · T1 · P2)* The Greeks’ liberal approach towards piracy does not mean they always tolerated it, but attempts to curtail piracy **were hampered** by the large number of pirates operating in the Mediterranean.
+- *(Cam 19 · T3 · P1)* Whatever the reason for the departure, there is no evidence for use of the Kelo shelters after this time, until about 1,000 years ago, when they **were re-occupied** by people who owned pottery as well as items made out of gold and silver.
+- *(Cam 20 · T1 · P1)* The fall in kākāpō numbers **was accelerated** by European colonisation.
+- *(Cam 20 · T1 · P1)* Cats were eradicated from Little Barrier Island in 1980, and possums **were eradicated** from Codfish Island by 1986.
+- *(Cam 20 · T1 · P2)* A first epidemic, which occurred in the 1920s, gradually died down, but in the ’70s a second epidemic **was triggered** by shipments of elm from Canada.
+- *(Cam 20 · T3 · P1)* This consisted of frozen turkey, potatoes and vegetables served in the same segmented aluminum tray that **was used** by airlines.
+- *(Cam 20 · T4 · P2)* The modifications **were made** by the Buoyant Foundation Project, a not-for-profit organisation that has been researching and retrofitting amphibious houses since 2006.
+- *(Cam 21 · T1 · P1)* The sisters collected French Impressionist paintings at a time when such art **was routinely ignored** by individuals and institutions alike.
+- *(Cam 21 · T1 · P3)* In many places – not just the British Caribbean but Cuba and the Philippines too – a powerful sugar bourgeoisie played a major role in politics and their interests **were consequently protected** by trade barriers and subsidies.
+- *(Cam 21 · T2 · P2)* Mapungubwe, which was one of the first states in southern Africa, **was formed** by Bantu-speaking peoples who were farmers.
+- *(Cam 21 · T2 · P2)* Occupation on the hill dates from the 11 th century and the entire complex **was surrounded** by a wooden palisade*, as indicated by postholes made in the rock.
+- *(Cam 21 · T3 · P1)* It **was almost driven** to extinction by hunters in the 19th century.
+- *(Cam 21 · T3 · P1)* In 2017, 60% of the Mongolian saiga population – a subspecies found nowhere else in the world – **was killed** by a virus that spilled over from livestock.
+- *(Cam 21 · T3 · P1)* There was some recovery in the first decade of the new millennium but this **was then crushed** by devastating mass mortality events that saw the loss of hundreds of thousands of the species.
+- *(Cam 21 · T3 · P3)* For instance, we now know that extinct hominins such as the Denisovans lived on the frozen heights of high-altitude regions 200,000 years ago – upending the old notion that such environments **were only settled** by modern humans around 3,600 years ago.
+- *(Cam 21 · T3 · P3)* Archaeology **was invented** by individuals with now unfashionably patriarchal views about gender, and those notions fed into their research.
+
+<a id="p9"></a>
+
+### 9. Bị động – hiện tại đơn + by tác nhân
+
+<small>61 câu</small>
 
 - *(Cam 10 · T1 · P2)* The second approach also concentrates on road transport pricing but **is accompanied** by measures to increase the efficiency of the other modes (better quality of services, logistics, technology).
 - *(Cam 10 · T2 · P2)* Internationally, ‘giftedness’ **is most frequently determined** by a score on a general intelligence test, known as an IQ test, which is above a chosen cutoff point, usually at around the top 2-5%.
@@ -943,74 +1044,16 @@
 - *(Cam 20 · T3 · P2)* As a result, coral reefs are often described as the ‘rainforests of the sea’, though the comparison **is dismissed** by some naturalists, including David Attenborough.
 - *(Cam 20 · T3 · P2)* Which TWO of these causes of damage to coral reefs **are mentioned** by the writer of the text?
 - *(Cam 20 · T4 · P2)* ‘Almost 35 million people living on the coastal belt of Bangladesh **are currently affected** by soil and water salinity,’ says Raisa Chowdhury of the international development organisation ICCO Cooperation.
-
-<a id="p9"></a>
-
-### 9. Bị động – quá khứ đơn + by tác nhân
-
-<small>55 câu</small>
-
-- *(Cam 10 · T1 · P1)* It **was built** by Queen Udayamati during the late 11th century, but became silted up following a flood during the 13th century.
-- *(Cam 10 · T1 · P1)* One of the larger examples is Raniji Ki Baori , which **was built** by the queen of the region, Nathavatji, in 1699.
-- *(Cam 10 · T1 · P3)* Orbison **wasn’t inspired** by the goal, and only ever achieved one hit with the Sun label.
-- *(Cam 10 · T2 · P1)* For a long time, the English **were protected** by the strong antibacterial agent in hops, which were added to help preserve the beer.
-- *(Cam 11 · T1 · P2)* The Wheel could not be constructed to elevate boats over the full 35-metre difference between the two canals, owing to the presence of the historically important Antonine Wall, which **was built** by the Romans in the second century AD.
-- *(Cam 11 · T2 · P1)* Accounts of what happened to the ship vary: while witnesses agree that she **was not hit** by the French, some maintain that she was outdated, overladen and sailing too low in the water, others that she was mishandled by undisciplined crew.
-- *(Cam 11 · T2 · P2)* After this remote Pacific island **was settled** by the Polynesians, it remained isolated for centuries.
-- *(Cam 11 · T2 · P2)* Bestselling Swiss author Erich von Daniken believed they **were built** by stranded extraterrestrials.
-- *(Cam 11 · T3 · P1)* Few merchants travelled the entire route; goods **were handled** mostly by a series of middlemen.
-- *(Cam 11 · T3 · P1)* Cheaper Japanese silk, trade in which **was greatly facilitated** by the opening of the Suez Canal, was one of the many factors driving the trend.
-- *(Cam 11 · T3 · P3)* As I wrote, I kept in mind two types of readers: those who enjoyed mathematics until they **were turned** off by an unpleasant episode, usually around fifth grade, and mathematics aficionados, who will find much that is new throughout the book.
-- *(Cam 11 · T4 · P1)* Bouchard and his colleagues used this mountain of data to identify how far twins **were affected** by their genetic makeup.
-- *(Cam 12 · T3 · P1)* Some time after the Galápagos’s birth, around five million years ago, the islands **were colonised** by one or more tortoises from mainland South America.
-- *(Cam 12 · T3 · P1)* This unprecedented effort **was made** possible by the owners of the 67-metre yacht While Cloud, who provided the Galápagos National Park with free use of their helicopter and its experienced pilot, as well as the logistical support of the yacht, its captain and crew.
-- *(Cam 12 · T4 · P1)* In the first century AD, methods of creating colourless glass were developed, which **was then tinted** by the addition of colouring materials.
-- *(Cam 12 · T4 · P1)* The secret of glass making **was taken** across Europe by the Romans during this century.
-- *(Cam 12 · T4 · P1)* Then in 1907, the first fully automated machine **was developed** in the USA by Michael Owens – founder of the Owens Bottle Machine Company (later the major manufacturers Owens-Illinois) – and installed in its factory.
-- *(Cam 13 · T1 · P3)* The participants weren’t told beforehand whether the tunes **were composed** by humans or computers, but were asked to guess, and then rate how much they liked each one.
-- *(Cam 13 · T2 · P1)* At that time, cinnamon **was transported** by Arab merchants, who closely guarded the secret of the source of the spice from potential rivals.
-- *(Cam 13 · T2 · P1)* Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was diminishing in economic potential, and **was eventually superseded** by the rise of trade in coffee, tea, chocolate, and sugar.
-- *(Cam 13 · T4 · P1)* In the end, the firm was forced out of business, and the ship **was finished** by a competitor.
-- *(Cam 13 · T4 · P3)* Bentham **was more attracted** by the latter measure.
-- *(Cam 14 · T1 · P3)* This **was succinctly summarized** by Michel et al. (2013): ‘[P]roviding support to employees gives them the confidence to perform their jobs better and the motivation to stay with the organization.’
-- *(Cam 14 · T2 · P2)* Much of the ingenuity present in 19th-century hospital and building design **was driven** by a panicked public clamouring for buildings that could protect against what was thought to be the lethal threat of miasmas – toxic air that spread disease.
-- *(Cam 15 · T1 · P1)* The Banda Islands **were ruled** by local sultans who insisted on maintaining a neutral trading policy towards foreign powers.
-- *(Cam 15 · T2 · P3)* A team led by Christopher Oveis from the University of California, San Diego, found that high-status individuals had different laughs from low-status individuals, and that strangers’ judgements of an individual’s social status **were influenced** by the dominant or submissive quality of their laughter.
-- *(Cam 15 · T3 · P1)* He studied at Castleford Grammar School from 1909 to 1915, where his early interest in art **was encouraged** by his teacher Alice Gostick.
-- *(Cam 15 · T3 · P1)* When he visited the Trocadero Museum in Paris, he **was impressed** by a cast of a Mayan* sculpture of the rain spirit.
-- *(Cam 15 · T3 · P1)* His work **was enthusiastically welcomed** by fellow sculptors, but the reviews in the press were extremely negative and turned Moore into a notorious figure.
-- *(Cam 15 · T3 · P1)* Critics who had begun to think that Moore had become less revolutionary **were proven** wrong by the appearance, in 1950, of the first of Moore’s series of standing figures in bronze, with their harsh and angular pierced forms and distinct impression of menace.
-- *(Cam 15 · T3 · P2)* Travelling around Thailand in the 1990s, William Janssen was impressed with the basic rooftop solar heating systems that were on many homes, where energy from the sun **was absorbed** by a plate and then used to heat water for domestic use.
-- *(Cam 15 · T4 · P3)* The car manufacturer Henry Ford **was in fact successfully sued** by shareholders in 1919 for raising the minimum wage of his workers to $5 per day: the courts declared that, while Ford’s humanitarian sentiments about his employees were nice, his business existed to make profits for its stockholders.
-- *(Cam 16 · T1 · P2)* It covered a region of 16 hectares and **was surrounded** by a wall 10.5 meters high.
-- *(Cam 16 · T1 · P2)* The wall had 13 false doors cut into it with only one true entrance cut into the south-east corner; the entire wall **was then ringed** by a trench 750 meters long and 40 meters wide.
-- *(Cam 16 · T2 · P1)* However, in 1995 Optically Stimulated Luminescence (OSL) testing **was carried** out by the Oxford Archaeological Unit on soil from two of the lower layers of the horse’s body, and from another cut near the base.
-- *(Cam 16 · T3 · P1)* The trireme **was superseded** by larger ships with even more rowers.
-- *(Cam 16 · T4 · P1)* When the sole purpose of a tunnel was mineral extraction, construction required less planning, as the tunnel route **was determined** by the mineral vein.
-- *(Cam 17 · T1 · P3)* After his father **was executed** by the Parliamentarians in 1649, the young Charles II sacrificed one of the very principles his father had died for and did a deal with Scots, thereby accepting Presbyterianism* as the national religion in return for being crowned King of Scots.
-- *(Cam 17 · T1 · P3)* This **was followed** by a Scottish invasion of England.
-- *(Cam 17 · T2 · P3)* It **was developed** by a relatively unknown jockey named Jackie Westrope.
-- *(Cam 17 · T2 · P3)* The Law of Effect **was advanced** by psychologist Edward Thorndike in 1898, some 40 years after Charles Darwin published his groundbreaking work on biological evolution, On the Origin of Species .
-- *(Cam 17 · T3 · P1)* The last known wild thylacine to be killed **was shot** by a farmer in the north-east of Tasmania in 1930, leaving just captive specimens.
-- *(Cam 17 · T3 · P1)* The species **was declared** extinct by the Tasmanian government in 1986.
-- *(Cam 17 · T4 · P2)* The database also reveals the case of Juliana Schweickherdt, a 50-year-old spinster living in the small Black Forest community of Wildberg, who **was reprimanded** in 1752 by the local weavers’ guild for ‘weaving cloth and combing wool, counter to the guide ordinance’.
-- *(Cam 18 · T2 · P1)* This theory **was widely popularized** by the antiquarian William Stukeley, who had unearthed primitive graves at the site.
-- *(Cam 18 · T2 · P1)* The first stage **was achieved** by Neolithic agrarians who were likely to have been indigenous to the British Isles.
-- *(Cam 19 · T1 · P1)* It created a string bed that generated so much topspin that it **was quickly banned** by the International Tennis Federation.
-- *(Cam 19 · T1 · P2)* It seems the pharaoh **was troubled** by two distinct pirate groups, the Lukka and the Sherden.
-- *(Cam 19 · T1 · P2)* The Greeks’ liberal approach towards piracy does not mean they always tolerated it, but attempts to curtail piracy **were hampered** by the large number of pirates operating in the Mediterranean.
-- *(Cam 19 · T3 · P1)* Whatever the reason for the departure, there is no evidence for use of the Kelo shelters after this time, until about 1,000 years ago, when they **were re-occupied** by people who owned pottery as well as items made out of gold and silver.
-- *(Cam 20 · T1 · P1)* The fall in kākāpō numbers **was accelerated** by European colonisation.
-- *(Cam 20 · T1 · P1)* Cats were eradicated from Little Barrier Island in 1980, and possums **were eradicated** from Codfish Island by 1986.
-- *(Cam 20 · T1 · P2)* A first epidemic, which occurred in the 1920s, gradually died down, but in the ’70s a second epidemic **was triggered** by shipments of elm from Canada.
-- *(Cam 20 · T3 · P1)* This consisted of frozen turkey, potatoes and vegetables served in the same segmented aluminum tray that **was used** by airlines.
-- *(Cam 20 · T4 · P2)* The modifications **were made** by the Buoyant Foundation Project, a not-for-profit organisation that has been researching and retrofitting amphibious houses since 2006.
+- *(Cam 21 · T1 · P3)* All this **is explored** by Bosma with wonderful subtlety and control.
+- *(Cam 21 · T2 · P2)* Which TWO pieces of information **are mentioned** by the writer?
+- *(Cam 21 · T2 · P3)* Using AI simply for the sake of AI may not always be productive or useful, and not every issue **is best addressed** by applying machine intelligence to it.
+- *(Cam 21 · T4 · P1)* The World Health Organization estimates that about 14,300 Kenyans die annually as a result of indoor air pollution – most of which **is caused** by cooking and heating sources.
 
 <a id="p10"></a>
 
 ### 10. Bị động với động từ khuyết thiếu (modal + be + V3) + by tác nhân
 
-<small>19 câu</small>
+<small>21 câu</small>
 
 - *(Cam 10 · T1 · P2)* The ambitious objective **can only be fully achieved** by 2020, but proposed measures are nonetheless a first essential step towards a sustainable transport system which will ideally be in place in 30 years‟ time, that is by 2040.
 - *(Cam 10 · T1 · P2)* This option **would not be accompanied** by complementary measures in the other modes of transport.
@@ -1031,12 +1074,14 @@
 - *(Cam 17 · T4 · P2)* ‘Early findings suggest that the potential benefits of education for the economy **can be held** back by other barriers, and this has implications for today,’ says Ogilvie.
 - *(Cam 19 · T4 · P3)* In view of the above, there seems little reason to assume that traits such as racism, warfare and male domination **should have been selected** by evolution – as they would have been of little benefit in the prehistoric era.
 - *(Cam 20 · T1 · P3)* Back in our lab, we observed the same pattern in students who were told they had to give a surprise public speech, which **would be judged** by a panel, recorded and posted online.
+- *(Cam 21 · T2 · P2)* The kingdom of Mapungubwe was already in decline by the late 13th century, probably because overpopulation placed too much stress on local resources, a situation that **may have been brought** to a crisis point by a series of droughts.
+- *(Cam 21 · T4 · P2)* Tsimpli and her colleagues are investigating whether these low learning outcomes **could be caused** by an Indian school system where the language that children are taught in often differs from the language used at home.
 
 <a id="p11"></a>
 
 ### 11. Bị động – hiện tại tiếp diễn
 
-<small>18 câu</small>
+<small>21 câu</small>
 
 - *(Cam 10 · T4 · P1)* In California, where population growth has averaged more than 600,000 a year for at least a decade, more residential housing **is being built**.
 - *(Cam 12 · T4 · P2)* An organisation **is being set** up that will seek to catalyse the rewilding of land and sea across Britain, its aim being to reintroduce that rarest of species to British ecosystems: hope.
@@ -1056,36 +1101,15 @@
 - *(Cam 20 · T3 · P2)* They want people to see what **is being done** to try to save these wonders.
 - *(Cam 20 · T3 · P2)* Research in these fields **is being conducted** in laboratories around the world, with the London Zoo centre linked to this global network.
 - *(Cam 20 · T4 · P3)* Livestock guard dogs, traditionally used to protect farm animals from predators, **are now being used** to protect the predators themselves
+- *(Cam 21 · T1 · P2)* The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires **are being exposed** to far more than the recommended 40 decibels of noise at night.
+- *(Cam 21 · T3 · P2)* All phases **are being planned** to high standards and, once complete, a third of city residents will be within a short walk of the BRT network.
+- *(Cam 21 · T4 · P2)* It could, for example, be one of the subjects that **are being taught** alongside other subjects.
 
 <a id="p12"></a>
 
-### 12. Bị động – hiện tại hoàn thành + by tác nhân
+### 12. Bị động – quá khứ hoàn thành
 
-<small>17 câu</small>
-
-- *(Cam 10 · T1 · P1)* Their condition **hasn’t been helped** by recent dry spells: southern Rajasthan suffered an eight-year drought between 1996 and 2004.
-- *(Cam 10 · T1 · P1)* Today, following years of neglect, many of these monuments to medieval engineering **have been saved** by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country’s rich history.
-- *(Cam 10 · T1 · P2)* This phenomenon **has been emphasised** by the relocation of some industries, particularly those which are labour intensive, to reduce production costs, even though the production site is hundreds or even thousands of kilometres away from the final assembly plant or away from users.
-- *(Cam 10 · T2 · P1)* Macfarlanes case **has been strengthened** by support from notable quarters – Roy Porter, the distinguished medical historian, recently wrote a favourable appraisal of his research.
-- *(Cam 10 · T2 · P3)* Furthermore, consideration of the ‘value’ of the original work in its treasure house setting impresses upon the viewer that, since these works were originally produced, they **have been assigned** a huge monetary value by some person or institution more powerful than themselves.
-- *(Cam 10 · T3 · P2)* As chlorophyll is depleted, other colours that **have been dominated** by it throughout the summer begin to be revealed.
-- *(Cam 11 · T1 · P1)* Historically, some 15% of that **has been laid** waste by poor management practices.
-- *(Cam 11 · T1 · P3)* The concept of releasing aerosol sprays into the stratosphere above the Arctic **has been proposed** by several scientists.
-- *(Cam 12 · T4 · P3)* This effect **has been made** worse by the changing profile of investors due to the globalisation of capital and the increasing use of automated trading systems.
-- *(Cam 13 · T4 · P3)* Yet Watson’s reductive model is now widely applied, with ‘behaviour change’ becoming the goal of governments: in Britain, a ‘Behaviour Insights Team’ **has been established** by the government to study how people can be encouraged, at minimum cost to the public purse, to live in what are considered to be socially desirable ways.
-- *(Cam 14 · T1 · P3)* Despite this recognition of the importance of employee development, the hospitality industry **has historically been dominated** by underdeveloped HR practices (Lucas, 2002).
-- *(Cam 14 · T4 · P2)* Still more only exist in the wild because they have been reintroduced from zoos, or have wild populations that **have been boosted** by captive bred animals.
-- *(Cam 17 · T4 · P2)* Over the last decade, a huge database about the lives of southwest German villagers between 1600 and 1900 **has been compiled** by a team led by Professor Sheilagh Ogilvie at Cambridge University’s Faculty of Economics.
-- *(Cam 18 · T4 · P2)* The concept of intelligence as something innate **has been supplanted** by the idea that intelligence is not fixed, and that, with the right training, we can be the authors of our own cognitive capabilities.
-- *(Cam 19 · T3 · P2)* Many of those that remain **have been damaged** by agricultural pesticides and fertilizers, industrial pollutants, and construction works.
-- *(Cam 20 · T4 · P2)* Starting in the lowest and most vulnerable neighbourhoods, roads **have been raised** by as much as 61 centimetres.
-- *(Cam 20 · T4 · P3)* As a result, the cheetahs are often held responsible for animal losses, and large numbers **have been killed** by farmers.
-
-<a id="p13"></a>
-
-### 13. Bị động – quá khứ hoàn thành
-
-<small>17 câu</small>
+<small>20 câu</small>
 
 - *(Cam 11 · T1 · P2)* This **had been dismantled** in 1933, thereby breaking the link.
 - *(Cam 11 · T2 · P2)* In the 1970s and 1980s, though, researchers found pollen preserved in lake sediments, which proved the island **had been covered** in lush palm forests for thousands of years.
@@ -1104,12 +1128,41 @@
 - *(Cam 20 · T1 · P1)* By 1995, although at least 12 chicks **had been produced** on the islands, only three had survived.
 - *(Cam 20 · T1 · P1)* By 2000, five new females **had been produced**, and the total population had grown to 62 birds.
 - *(Cam 20 · T4 · P2)* Homes in this part of Vietnam are traditionally built on stilts but these ones **had been built** to float.
+- *(Cam 21 · T3 · P3)* At Kalambo Falls in Zambia, researchers found buried logs that **had been shaped** with stone tools so that they interlocked.
+- *(Cam 21 · T4 · P3)* Nearly two millennia later, however, it seemed that the art of globemaking **had been largely forgotten**.
+- *(Cam 21 · T4 · P3)* Even his trips to Morocco and India, where surely the knowledge of artisan cartographers* **had been preserved**, drew a blank.
+
+<a id="p13"></a>
+
+### 13. Bị động – hiện tại hoàn thành + by tác nhân
+
+<small>19 câu</small>
+
+- *(Cam 10 · T1 · P1)* Their condition **hasn’t been helped** by recent dry spells: southern Rajasthan suffered an eight-year drought between 1996 and 2004.
+- *(Cam 10 · T1 · P1)* Today, following years of neglect, many of these monuments to medieval engineering **have been saved** by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country’s rich history.
+- *(Cam 10 · T1 · P2)* This phenomenon **has been emphasised** by the relocation of some industries, particularly those which are labour intensive, to reduce production costs, even though the production site is hundreds or even thousands of kilometres away from the final assembly plant or away from users.
+- *(Cam 10 · T2 · P1)* Macfarlanes case **has been strengthened** by support from notable quarters – Roy Porter, the distinguished medical historian, recently wrote a favourable appraisal of his research.
+- *(Cam 10 · T2 · P3)* Furthermore, consideration of the ‘value’ of the original work in its treasure house setting impresses upon the viewer that, since these works were originally produced, they **have been assigned** a huge monetary value by some person or institution more powerful than themselves.
+- *(Cam 10 · T3 · P2)* As chlorophyll is depleted, other colours that **have been dominated** by it throughout the summer begin to be revealed.
+- *(Cam 11 · T1 · P1)* Historically, some 15% of that **has been laid** waste by poor management practices.
+- *(Cam 11 · T1 · P3)* The concept of releasing aerosol sprays into the stratosphere above the Arctic **has been proposed** by several scientists.
+- *(Cam 12 · T4 · P3)* This effect **has been made** worse by the changing profile of investors due to the globalisation of capital and the increasing use of automated trading systems.
+- *(Cam 13 · T4 · P3)* Yet Watson’s reductive model is now widely applied, with ‘behaviour change’ becoming the goal of governments: in Britain, a ‘Behaviour Insights Team’ **has been established** by the government to study how people can be encouraged, at minimum cost to the public purse, to live in what are considered to be socially desirable ways.
+- *(Cam 14 · T1 · P3)* Despite this recognition of the importance of employee development, the hospitality industry **has historically been dominated** by underdeveloped HR practices (Lucas, 2002).
+- *(Cam 14 · T4 · P2)* Still more only exist in the wild because they have been reintroduced from zoos, or have wild populations that **have been boosted** by captive bred animals.
+- *(Cam 17 · T4 · P2)* Over the last decade, a huge database about the lives of southwest German villagers between 1600 and 1900 **has been compiled** by a team led by Professor Sheilagh Ogilvie at Cambridge University’s Faculty of Economics.
+- *(Cam 18 · T4 · P2)* The concept of intelligence as something innate **has been supplanted** by the idea that intelligence is not fixed, and that, with the right training, we can be the authors of our own cognitive capabilities.
+- *(Cam 19 · T3 · P2)* Many of those that remain **have been damaged** by agricultural pesticides and fertilizers, industrial pollutants, and construction works.
+- *(Cam 20 · T4 · P2)* Starting in the lowest and most vulnerable neighbourhoods, roads **have been raised** by as much as 61 centimetres.
+- *(Cam 20 · T4 · P3)* As a result, the cheetahs are often held responsible for animal losses, and large numbers **have been killed** by farmers.
+- *(Cam 21 · T3 · P1)* Recent efforts to save the saiga **have been spearheaded** by the Altyn Dala Conservation Initiative, a project led by the Association for the Conservation of Biodiversity of Kazakhstan, working in partnership with the Kazakh government's Committee for Forestry and Wildlife, Frankfurt Zoological Society and Fauna and Flora, an international conservation charity.
+- *(Cam 21 · T3 · P3)* The dispute **has only been heightened** by the way the results were released, in a non-traditional journal that publishes peer reviews publicly alongside the paper.
 
 <a id="p14"></a>
 
 ### 14. Bị động dạng nguyên mẫu (to be + V3) + by tác nhân
 
-<small>14 câu</small>
+<small>15 câu</small>
 
 - *(Cam 10 · T2 · P3)* In a society that judges the personal status of the individual so much by their material worth, it is therefore difficult not **to be impressed** by one’s own relative ‘worthlessness’ in such an environment.
 - *(Cam 10 · T4 · P1)* ‘Notwithstanding all the damage that will continue **to be caused** by wildfires, we will no longer suffer the loss of life endured in the past because of the fire prevention and firefighting measures that have been put in place,’ he says.
@@ -1125,12 +1178,13 @@
 - *(Cam 18 · T3 · P2)* The boilers had **to be lit** by hand, and they required about twenty minutes to build up pressure before they could be driven.
 - *(Cam 19 · T2 · P1)* Goods that had once been crafted by hand started **to be produced** in mass quantities by machines in factories, thanks to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries.
 - *(Cam 20 · T1 · P1)* Today, kākāpō management continues **to be guided** by the kākāpō Recovery Plan.
+- *(Cam 21 · T3 · P3)* Art also seems **to have been invented** by older hominins.
 
 <a id="p15"></a>
 
 ### 15. Bị động – tương lai đơn
 
-<small>13 câu</small>
+<small>14 câu</small>
 
 - *(Cam 10 · T1 · P3)* Cialdini says: ‘Leaders should encourage everyone to contribute and simultaneously assure all concerned that every recommendation is important to making the right decision and **will be given** full attention.’
 - *(Cam 11 · T1 · P1)* An estimated 109 hectares of new land (about 20% larger than Brazil) **will be needed** to grow enough food to feed them, if traditional farming methods continue as they are practised today.
@@ -1145,6 +1199,7 @@
 - *(Cam 19 · T3 · P2)* ‘In the tropics, peat subsides at about four centimetres a year, so within half a century, very large landscapes on Sumatra and Borneo **will become flooded** as the peat drops below water level,’ says Silvius.
 - *(Cam 19 · T4 · P2)* But Upton, and other scientists who view the deep ocean and its wealth of unique and undocumented species as a prospecting ground for new medicines, fear such potential **will be lost** in the rush to exploit the deep sea’s equally rich metal and mineral resources.
 - *(Cam 20 · T3 · P2)* However, scientists are trying to pinpoint hardy types of coral that could survive our overheated oceans, and some of this research **will be carried** out at London Zoo.
+- *(Cam 21 · T3 · P2)* That's what we did in Dar es Salaam and what we're planning in Nairobi, where the bus bodies **will be built** in the city and local operators will look after tickets, fare collection and IT ...
 
 <a id="p16"></a>
 
@@ -1206,4 +1261,12 @@
 <small>1 câu</small>
 
 - *(Cam 20 · T2 · P2)* Another group of people who tend to procrastinate are perfectionists, who worry their work **will be judged** harshly by others.
+
+<a id="p21"></a>
+
+### 21. Bị động – quá khứ tiếp diễn + by tác nhân
+
+<small>1 câu</small>
+
+- *(Cam 21 · T2 · P1)* Costello, as the octopus was called, thrashed around, extended his mantle as if trying to make himself look bigger, and squirted ink as though he **were being attacked** by a predator.
 

@@ -1,4 +1,4 @@
-# 🔄 19. ĐẢO NGỮ — full câu ví dụ IELTS Reading (Cam 10–20)
+# 🔄 19. ĐẢO NGỮ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [ĐẢO NGỮ](%C4%90%E1%BA%A3o%20Ng%E1%BB%AF.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=inv). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >

@@ -1,4 +1,4 @@
-# 🤝 3. SỰ HÒA HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ — full câu ví dụ IELTS Reading (Cam 10–20)
+# 🤝 3. SỰ HÒA HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [SỰ HÒA HỢP GIỮA CHỦ NGỮ VÀ ĐỘNG TỪ](S%E1%BB%B1%20T%C6%B0%C6%A1ng%20T%E1%BB%B1%20Gi%E1%BB%AFa%20Ch%E1%BB%A7%20Ng%E1%BB%AF%20V%C3%A0%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=sva). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,15 +6,15 @@
 
 ## Mục lục
 
-1. [Chủ ngữ chính đứng trước cụm giới từ xen giữa → chia theo chủ ngữ chính](ielts-ngu-phap-full-sva.md?id=p1) — 532 câu
-2. [There + be + N (động từ chia theo danh từ phía sau)](ielts-ngu-phap-full-sva.md?id=p2) — 192 câu
-3. [Chủ ngữ chính đứng trước mệnh đề/cụm phân từ xen giữa → chia theo chủ ngữ chính](ielts-ngu-phap-full-sva.md?id=p3) — 168 câu
-4. [V-ing làm chủ ngữ → động từ số ít](ielts-ngu-phap-full-sva.md?id=p4) — 104 câu
-5. [Chủ ngữ ghép A and B → động từ số nhiều](ielts-ngu-phap-full-sva.md?id=p5) — 88 câu
-6. [Danh từ tập hợp làm chủ ngữ (staff/team/committee…)](ielts-ngu-phap-full-sva.md?id=p6) — 60 câu
-7. [Đại từ bất định làm chủ ngữ → động từ số ít](ielts-ngu-phap-full-sva.md?id=p7) — 51 câu
+1. [Chủ ngữ chính đứng trước cụm giới từ xen giữa → chia theo chủ ngữ chính](ielts-ngu-phap-full-sva.md?id=p1) — 573 câu
+2. [There + be + N (động từ chia theo danh từ phía sau)](ielts-ngu-phap-full-sva.md?id=p2) — 217 câu
+3. [Chủ ngữ chính đứng trước mệnh đề/cụm phân từ xen giữa → chia theo chủ ngữ chính](ielts-ngu-phap-full-sva.md?id=p3) — 181 câu
+4. [V-ing làm chủ ngữ → động từ số ít](ielts-ngu-phap-full-sva.md?id=p4) — 112 câu
+5. [Chủ ngữ ghép A and B → động từ số nhiều](ielts-ngu-phap-full-sva.md?id=p5) — 96 câu
+6. [Danh từ tập hợp làm chủ ngữ (staff/team/committee…)](ielts-ngu-phap-full-sva.md?id=p6) — 65 câu
+7. [Đại từ bất định làm chủ ngữ → động từ số ít](ielts-ngu-phap-full-sva.md?id=p7) — 57 câu
 8. [most/all/half/majority of + N → động từ chia theo N sau of](ielts-ngu-phap-full-sva.md?id=p8) — 13 câu
-9. [Each/Every + N số ít → động từ số ít](ielts-ngu-phap-full-sva.md?id=p9) — 11 câu
+9. [Each/Every + N số ít → động từ số ít](ielts-ngu-phap-full-sva.md?id=p9) — 12 câu
 10. [none of + N → động từ (thường) số ít](ielts-ngu-phap-full-sva.md?id=p10) — 4 câu
 
 ---
@@ -23,7 +23,7 @@
 
 ### 1. Chủ ngữ chính đứng trước cụm giới từ xen giữa → chia theo chủ ngữ chính
 
-<small>532 câu · hiện 150</small>
+<small>573 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* However, the **significance of this invention – the stepwell – goes** beyond its utilitarian application.
 - *(Cam 10 · T1 · P2)* Although modern information technologies can reduce the demand for physical transport by facilitating teleworking and teleservices, the **requirement for transport continues** to increase.
@@ -180,7 +180,7 @@
 
 ### 2. There + be + N (động từ chia theo danh từ phía sau)
 
-<small>192 câu · hiện 150</small>
+<small>217 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* At ground level, **there are 86 colonnaded openings** from where the visitor descends 170 steps to the deepest water source.
 - *(Cam 10 · T1 · P2)* **There are two key factors** behind this trend.
@@ -337,7 +337,7 @@
 
 ### 3. Chủ ngữ chính đứng trước mệnh đề/cụm phân từ xen giữa → chia theo chủ ngữ chính
 
-<small>168 câu · hiện 150</small>
+<small>181 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* On the fourth side, covered **verandas supported by ornate pillars overlook** the steps.
 - *(Cam 10 · T1 · P2)* This **objective, agreed by the Gothenburg European Council, has** to be achieved by integrating environmental considerations into Community policies, and shifting the balance between modes of transport lies at the heart of its strategy.
@@ -494,7 +494,7 @@
 
 ### 4. V-ing làm chủ ngữ → động từ số ít
 
-<small>104 câu</small>
+<small>112 câu</small>
 
 - *(Cam 10 · T1 · P2)* **Using alternative fuels and improving energy efficiency is** thus both an ecological necessity and a technological challenge.
 - *(Cam 10 · T2 · P1)* Some **digging around in historical records revealed** that there was a change in the incidence of water-borne disease at that time, especially dysentery.
@@ -600,12 +600,20 @@
 - *(Cam 20 · T4 · P1)* **Enlarging the tiniest details to fill an entire metre-wide canvas emphasized** their shapes and lines and made them appear abstract.
 - *(Cam 20 · T4 · P1)* **Flying in planes inspired** her last two major series – aerial views of rivers and expansive paintings of the sky viewed from just above clouds.
 - *(Cam 20 · T4 · P3)* Studies suggest that **reducing deaths of one type of predator may have** a negative impact on other species.
+- *(Cam 21 · T2 · P1)* But **finding evidence of dreaming in non-mammals has proved** more difficult.
+- *(Cam 21 · T2 · P1)* That said, **dreaming and REM sleep are** unlikely to be universal in the animal kingdom.
+- *(Cam 21 · T2 · P3)* But what many politicians do not understand is that simply **adding a neural network to a problem will not automatically mean** that you'll find a solution.
+- *(Cam 21 · T2 · P3)* Similarly, **adding a neural network to a system of government does not mean** it will be instantaneously more inclusive or fair.
+- *(Cam 21 · T2 · P3)* **Using AI simply for the sake of AI may not always be** productive or useful, and not every issue is best addressed by applying machine intelligence to it.
+- *(Cam 21 · T3 · P2)* That's what we did in Dar es Salaam and what we're **planning in Nairobi, where the bus bodies will be built in the city and local operators will look** after tickets, fare collection and IT ...
+- *(Cam 21 · T4 · P3)* The first surprise in The Globemakers, Bellerby's account of this impulsive enterprise, is that **obtaining such a globe was** not simply a matter of a quick online order and a repressed sigh at the shipping costs.
+- *(Cam 21 · T4 · P3)* Even after he eventually resolved this issue, **extracting these from the moulds resulted** in piles of cracked plaster of Paris** and clouds of choking dust in the workshop he had set up at the rear of his house.
 
 <a id="p5"></a>
 
 ### 5. Chủ ngữ ghép A and B → động từ số nhiều
 
-<small>88 câu</small>
+<small>96 câu</small>
 
 - *(Cam 10 · T2 · P3)* Similarly **novels and poems are read** in a prescribed temporal sequence, whereas a picture has no clear place at which to start viewing, or at which to finish.
 - *(Cam 10 · T2 · P3)* If appropriate works of fine art could be rendered permanently accessible to the public by means of high-fidelity reproductions, as **literature and music already are**, the public may feel somewhat less in awe of them.
@@ -695,12 +703,20 @@
 - *(Cam 20 · T2 · P1)* West **Indian and Amazonian manatees are** both herbivores.
 - *(Cam 20 · T2 · P1)* The African **manatee and Amazonian manatee are both listed** as Vulnerable by the International Union for Conservation of Nature (IUCN).
 - *(Cam 20 · T4 · P2)* Chowdhury says that the results are very visible, comparing a barren plot of land to the ‘beautiful, lush green vegetable garden’ sitting beside it, in which **he and his team have been working** with the farmers.
+- *(Cam 21 · T1 · P2)* 'We see from animal models and human studies that **volition and intentionality is** important,' she says.
+- *(Cam 21 · T1 · P3)* Great **firms and great interests have had** profound influence on the policies of states.
+- *(Cam 21 · T2 · P1)* Growing evidence from birds and mammals suggests that REM **sleep and dreaming are** important for forming memories and learning.
+- *(Cam 21 · T2 · P2)* The **king and his advisers dwelt** in a stone enclosure composed of stone walls and housing built on the highest level of the community's territory, a natural sandstone hill which is some 30 metres high and 100 metres in length.
+- *(Cam 21 · T3 · P2)* Ticket **purchase and control takes** place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs or who are travelling with baby buggies.
+- *(Cam 21 · T4 · P2)* **Tsimpli and her colleagues are investigating** whether these low learning outcomes could be caused by an Indian school system where the language that children are taught in often differs from the language used at home.
+- *(Cam 21 · T4 · P2)* They intend to look not only at test results, but also at variables such as the standard of schooling, the **environment and the teaching practices** themselves.
+- *(Cam 21 · T4 · P2)* Although the findings are at a preliminary stage, **Tsimpli and her team have found** that the medium of instruction used in schools, especially English, may hold back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life.
 
 <a id="p6"></a>
 
 ### 6. Danh từ tập hợp làm chủ ngữ (staff/team/committee…)
 
-<small>60 câu</small>
+<small>65 câu</small>
 
 - *(Cam 10 · T1 · P1)* Down the centuries, thousands of wells were constructed throughout northwestern India, but the **majority have now fallen** into disuse; many are derelict and dry, as groundwater has been diverted for industrial use and the wells no longer reach the water table.
 - *(Cam 10 · T1 · P3)* For Robert B. Cialdini, Professor of Psychology at Arizona State University, one reason that **companies don’t succeed** as often as they should is that innovation starts with recruitment.
@@ -762,12 +778,17 @@
 - *(Cam 20 · T2 · P2)* Another **group of people who tend to procrastinate are** perfectionists, who worry their work will be judged harshly by others.
 - *(Cam 20 · T3 · P3)* The vast **majority of Earth is** currently inaccessible to us.
 - *(Cam 20 · T4 · P2)* But Susanna Tol of the not-for-profit organisation Wetlands International says that, while hugely popular, the **majority of mangrove-planting projects fail**.
+- *(Cam 21 · T3 · P1)* An aerial census two years ago recorded an estimated 842,000 saiga across Kazakhstan as a whole, and according to an aerial survey earlier this year, the saiga **population in Kazakhstan now exceeds** 1.9 million.
+- *(Cam 21 · T3 · P2)* Its **population has increased** eightfold since 1980 and swells by half a million people every year.
+- *(Cam 21 · T3 · P2)* United Nations projections anticipate it will become a megacity within seven years as its **population passes** 10 million, reaching 13.4 million by 2035.
+- *(Cam 21 · T3 · P2)* Most of the current growth is made up of young people arriving from the countryside to find work, and as the **population has exploded**, Dar es Salaam has grown around those four highways.
+- *(Cam 21 · T3 · P2)* **Staff stand** by the gates and tear tickets as people enter.
 
 <a id="p7"></a>
 
 ### 7. Đại từ bất định làm chủ ngữ → động từ số ít
 
-<small>51 câu</small>
+<small>57 câu</small>
 
 - *(Cam 10 · T1 · P1)* **One of the larger examples is** Raniji Ki Baori , which was built by the queen of the region, Nathavatji, in 1699.
 - *(Cam 10 · T1 · P2)* According to the latest estimates, if **nothing is done** to reverse the traffic growth trend, CO2 emissions from transport can be expected to increase by around 50% to 1,113 billion tonnes by 2020，compared with the 739 billion tonnes recorded in 1990.
@@ -820,6 +841,12 @@
 - *(Cam 19 · T4 · P1)* **One of the main ways in which species are ensuring conditions suit them is** by changing the time of year at which they are active and reproduce.
 - *(Cam 20 · T2 · P3)* Today, **everyone knows** that you may scream your disagreement in an umpire’s face, but you must never shout personal abuse at them or touch them.
 - *(Cam 20 · T3 · P3)* ‘**One of the consequences of thinking that the problem lies with machines is** that we tend to imagine they are greater and more powerful than they really are and subsequently they become so.’
+- *(Cam 21 · T1 · P2)* **One of the best-researched is** the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation.
+- *(Cam 21 · T2 · P3)* **One of the most promising varieties of AI technologies are** neural networks.
+- *(Cam 21 · T2 · P3)* **One of the many difficulties in deploying machine learning systems is** that AI is extremely susceptible to adversarial attacks.
+- *(Cam 21 · T3 · P3)* **One is** the growing evidence that many supposedly 'advanced' behaviours, such as architecture and art, can be traced much further back in time than we thought, often to hominin species that existed before modern humans.
+- *(Cam 21 · T4 · P2)* It's possible that **one of the causes of low performance is** the lack of pupil-centred teaching methods; in many Indian primary schools the teacher dominates and there is little room for independent learning.
+- *(Cam 21 · T4 · P3)* **Something of Bellerby's unflinching ambition is reflected** in the even more heroic efforts of the Italian cartographer Vincenzo Coronelli, who, in the seventeenth century, created two globes for Louis XIV of France.
 
 <a id="p8"></a>
 
@@ -845,7 +872,7 @@
 
 ### 9. Each/Every + N số ít → động từ số ít
 
-<small>11 câu</small>
+<small>12 câu</small>
 
 - *(Cam 10 · T1 · P3)* Cialdini says: ‘Leaders should encourage everyone to contribute and simultaneously assure all concerned that every **recommendation is** important to making the right decision and will be given full attention.’
 - *(Cam 10 · T2 · P3)* In addition, it could be argued that the practice of interpreting or ‘reading’ each **medium follows** different conventions.
@@ -858,6 +885,7 @@
 - *(Cam 16 · T2 · P2)* Every **species has** its own colony of microbes, called a ‘microbiome’, and these microbes vary not only between species but also between individuals and within different parts of each individual.
 - *(Cam 19 · T1 · P1)* Consequently, the specific rackets used by the world’s elite are not actually readily available to the public; rather, each **racket is individually made** to suit the player who uses it.
 - *(Cam 19 · T2 · P2)* Each new **demand or change in circumstances affects** whether a person responds positively or negatively to stress.
+- *(Cam 21 · T2 · P3)* Using AI simply for the sake of AI may not always be productive or useful, and not every **issue is best addressed** by applying machine intelligence to it.
 
 <a id="p10"></a>
 

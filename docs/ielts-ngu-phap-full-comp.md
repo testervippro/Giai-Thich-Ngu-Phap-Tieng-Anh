@@ -1,4 +1,4 @@
-# 📊 6. SO SÁNH CỦA TÍNH TỪ VÀ TRẠNG TỪ — full câu ví dụ IELTS Reading (Cam 10–20)
+# 📊 6. SO SÁNH CỦA TÍNH TỪ VÀ TRẠNG TỪ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [SO SÁNH CỦA TÍNH TỪ VÀ TRẠNG TỪ](C%C3%A1c%20Ph%C3%A9p%20So%20S%C3%A1nh%20C%E1%BB%A7a%20T%C3%ADnh%20T%E1%BB%AB%20V%C3%A0%20Tr%E1%BA%A1ng%20T%E1%BB%AB.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=comp). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,17 +6,17 @@
 
 ## Mục lục
 
-1. [So sánh hơn (không có than)](ielts-ngu-phap-full-comp.md?id=p1) — 499 câu
-2. [So sánh nhất (the … -est / the most …)](ielts-ngu-phap-full-comp.md?id=p2) — 280 câu
-3. [So sánh hơn (… than)](ielts-ngu-phap-full-comp.md?id=p3) — 133 câu
-4. [So sánh hơn với danh từ (more/fewer/less + N)](ielts-ngu-phap-full-comp.md?id=p4) — 93 câu
-5. [So sánh ngang bằng (as … as)](ielts-ngu-phap-full-comp.md?id=p5) — 92 câu
-6. [Từ nhấn mạnh so sánh hơn (much/even/far/significantly)](ielts-ngu-phap-full-comp.md?id=p6) — 85 câu
-7. [more/less than + số lượng](ielts-ngu-phap-full-comp.md?id=p7) — 40 câu
-8. [Cấu trúc so sánh khác (similar to/different from…)](ielts-ngu-phap-full-comp.md?id=p8) — 38 câu
-9. [one of the + so sánh nhất + N số nhiều](ielts-ngu-phap-full-comp.md?id=p9) — 30 câu
-10. [the same (N) as](ielts-ngu-phap-full-comp.md?id=p10) — 7 câu
-11. [by far + so sánh nhất](ielts-ngu-phap-full-comp.md?id=p11) — 2 câu
+1. [So sánh hơn (không có than)](ielts-ngu-phap-full-comp.md?id=p1) — 547 câu
+2. [So sánh nhất (the … -est / the most …)](ielts-ngu-phap-full-comp.md?id=p2) — 311 câu
+3. [So sánh hơn (… than)](ielts-ngu-phap-full-comp.md?id=p3) — 140 câu
+4. [So sánh ngang bằng (as … as)](ielts-ngu-phap-full-comp.md?id=p4) — 101 câu
+5. [So sánh hơn với danh từ (more/fewer/less + N)](ielts-ngu-phap-full-comp.md?id=p5) — 100 câu
+6. [Từ nhấn mạnh so sánh hơn (much/even/far/significantly)](ielts-ngu-phap-full-comp.md?id=p6) — 97 câu
+7. [more/less than + số lượng](ielts-ngu-phap-full-comp.md?id=p7) — 42 câu
+8. [Cấu trúc so sánh khác (similar to/different from…)](ielts-ngu-phap-full-comp.md?id=p8) — 42 câu
+9. [one of the + so sánh nhất + N số nhiều](ielts-ngu-phap-full-comp.md?id=p9) — 35 câu
+10. [the same (N) as](ielts-ngu-phap-full-comp.md?id=p10) — 8 câu
+11. [by far + so sánh nhất](ielts-ngu-phap-full-comp.md?id=p11) — 3 câu
 12. [as many/much + N + as](ielts-ngu-phap-full-comp.md?id=p12) — 2 câu
 13. [So sánh không bằng (not as … as)](ielts-ngu-phap-full-comp.md?id=p13) — 1 câu
 
@@ -26,7 +26,7 @@
 
 ### 1. So sánh hơn (không có than)
 
-<small>499 câu · hiện 150</small>
+<small>547 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* Others are **more** elaborate, with long stepped passages leading to the water via several storeys.
 - *(Cam 10 · T1 · P2)* Such a change cannot be achieved overnight, all the **less** so after over half a century of constant deterioration in favour of road.
@@ -183,164 +183,164 @@
 
 ### 2. So sánh nhất (the … -est / the most …)
 
-<small>280 câu · hiện 150</small>
+<small>311 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* During their heyday, they were places of gathering, of leisure, of relaxation and of worship for villagers of all but the **lowest** castes.
-- *(Cam 10 · T1 · P1)* But perhaps the **most impressive** features are the intricate decorative sculptures that embellish many stepwells, showing activities from fighting and dancing to everyday acts such as women combing their hair and churning butter.
 - *(Cam 10 · T1 · P1)* In Patan, the state’s ancient capital, the stepwell of Rani Ki Vav (Queen’s Stepwell) is perhaps the **finest** current example.
-- *(Cam 10 · T1 · P1)* In the old ruined town of Abhaneri, about 95 kilometres east of Jaipur, is Chand Baori , one of India’s **oldest** and deepest wells; aesthetically, it’s perhaps one of the most dramatic.
 - *(Cam 10 · T1 · P1)* At ground level, there are 86 colonnaded openings from where the visitor descends 170 steps to the **deepest** water source.
-- *(Cam 10 · T1 · P2)* According to the **latest** estimates, if nothing is done to reverse the traffic growth trend, CO2 emissions from transport can be expected to increase by around 50% to 1,113 billion tonnes by 2020，compared with the 739 billion tonnes recorded in 1990.
 - *(Cam 10 · T1 · P3)* One of the **most famous** photographs in the story of rock’n’roll emphasises Ciaidini’s views.
-- *(Cam 10 · T1 · P3)* Cialdini believes that this ‘follow-the-leader syndrome, is dangerous, not **least** because it encourages bosses to go it alone.
 - *(Cam 10 · T1 · P3)* ‘It’s been scientifically proven that three people will be better than one at solving problems, even if that one person is the **smartest** person in the field.’
-- *(Cam 10 · T1 · P3)* He said he and Crick had succeeded because they were aware that they weren’t the **most intelligent** of the scientists pursuing the answer.
 - *(Cam 10 · T1 · P3)* The **smartest** scientist was called Rosalind Franklin who, Watson said, “was so intelligent she rarely sought advice”.’
-- *(Cam 10 · T2 · P1)* So, the nation that we now think of as one of the **most technologically** advanced entered the 19th century having ‘abandoned the wheel’.
 - *(Cam 10 · T2 · P2)* Internationally, ‘giftedness’ is **most frequently** determined by a score on a general intelligence test, known as an IQ test, which is above a chosen cutoff point, usually at around the top 2-5%.
-- *(Cam 10 · T2 · P2)* To be at their **most effective** in their self-regulation, all children can be helped to identify their own ways of learning – metacognition – which will include strategies of planning, monitoring, evaluation, and choice of what to learn.
 - *(Cam 10 · T2 · P2)* Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the **highest** levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice.
-- *(Cam 10 · T2 · P3)* One of the **most famous** works of art in the world is Leonardo da Vinci’s Mona Lisa .
 - *(Cam 10 · T3 · P1)* In most industrialised countries over the past few years the **fastest** growth has been seen in the area of services.
-- *(Cam 10 · T3 · P1)* One of the **largest** segments of the service industry, although largely unrecognised as an entity in some of these countries, is travel and tourism.
 - *(Cam 10 · T3 · P1)* According to the World Travel and Tourism Council (1992), Travel and tourism is the **largest** industry in the world on virtually any economic measure including value-added capital investment, employment and tax contributions.
-- *(Cam 10 · T3 · P1)* The travel and tourism industry is the world’s **largest** employer the almost 130 million jobs, or almost 7 per cent of all employees.
 - *(Cam 10 · T3 · P1)* In fact, McIntosh and Goeldner (1990) suggest that tourism has become the **largest** commodity in international trade for many nations and, for a significant number of other countries, it ranks second or third.
-- *(Cam 10 · T3 · P1)* For example, tourism is the major source of income in Bermuda, Greece, Italy, Spain, Switzerland and **most Caribbean** countries.
 - *(Cam 10 · T3 · P2)* One of the **most captivating** natural events of the year in many areas throughout North America is the turning of the leaves in the fall.
-- *(Cam 10 · T3 · P2)* For many trees – evergreen conifers being an exception – the **best** strategy is to abandon photosynthesis* until the spring.
 - *(Cam 10 · T3 · P2)* No one has as yet ascertained whether more robust trees sport the **brightest** leaves, or whether insects make choices according to colour intensity.
-- *(Cam 10 · T3 · P2)* Perhaps the **most plausible** suggestion as to why leaves would go to the trouble of making anthocyanins when they’re busy packing up for the winter is the theory known as the ‘light screen’ hypothesis.
 - *(Cam 10 · T3 · P2)* It has also been recognised for decades that the **best** conditions for intense red colours are dry, sunny days and cool nights, conditions that nicely match those that make leaves susceptible to excess light.
-- *(Cam 10 · T3 · P3)* It is the **oldest** cemetery ever found in the Pacific islands, and it harbors the remains of an ancient people archaeologists call the Lapita.
 - *(Cam 10 · T3 · P3)* Within the span of several centuries, the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the **loneliest** coral outliers of Tonga.
-- *(Cam 10 · T3 · P3)* DNA teased from these human remains may help answer one of the **most puzzling** questions in Pacific anthropology: did all Pacific islanders spring from one source or many?
 - *(Cam 10 · T3 · P3)* ‘This represents the **best** opportunity we’ve had yet,’ says Spriggs, ‘to find out who the Lapita actually were, where they came from, and who their closest descendants are today.’
-- *(Cam 10 · T4 · P1)* Wildfires are becoming an increasing menace in the western United States, with Southern California being the **hardest** hit area.
 - *(Cam 10 · T4 · P1)* Some recent wildfires are among the **biggest** ever in California in terms of acreage burned, according to state figures and news reports.
-- *(Cam 10 · T4 · P1)* In California, where population growth has averaged more than 600,000 a year for at **least** a decade, more residential housing is being built.
 - *(Cam 10 · T4 · P1)* That said, many experts give California high marks for making progress on preparedness in recent years, after some of the **largest** fires in state history scorched thousands of acres, burned thousands of homes, and killed numerous people.
-- *(Cam 10 · T4 · P3)* The team calculated that there is a good chance of silent genes surviving for up to 6 million years in at **least** a few individuals in a population, and that some might survive as long as 10 million years.
 - *(Cam 10 · T4 · P3)* The **simplest** explanation for this is that the axolotl lineage alone lost the ability to metamorphose, while others retained it.
-- *(Cam 10 · T4 · P3)* The **simplest** explanation is that the toed lineages never lost their toes, but Wagner begs to differ.
 - *(Cam 11 · T1 · P1)* Applying the **most conservative** estimates to current demographic trends, the human population will increase by about three billion people by then.
-- *(Cam 11 · T1 · P2)* The unique shape of the structure is claimed to have been inspired by various sources, both manmade and natural, **most notably** a Celtic double headed axe, but also the vast turning propeller of a ship, the ribcage of a whale or the spine of a fish.
 - *(Cam 11 · T1 · P3)* They believe that the **best** we can do is keep it at a reasonable level, and at present the only serious option for doing this is cutting back on our carbon emissions.
-- *(Cam 11 · T1 · P3)* Geo-engineering; has been shown to work, at **least** on a small localised scale.
 - *(Cam 11 · T1 · P3)* Generally speaking, those who are **most cautious** about geo-engineering are the scientists involved in the research.
-- *(Cam 11 · T1 · P3)* To avoid such a scenario,” Hunt says, “Angel’s project would have to operate at half strength; all of which reinforces his view that the **best** option is to avoid the need for geo-engineering altogether.”
 - *(Cam 11 · T2 · P1)* What is undisputed, however, is that the Mary Rose sank into the Solent that day, taking at **least** 500 men with her.
-- *(Cam 11 · T2 · P2)* The collapse of their isolated civilisation, Diamond writes, is a ’**worst**-case scenario for what may lie ahead of us in our own future’.
 - *(Cam 11 · T2 · P3)* While the fashions of the time might shape what is currently popular, works that are **best** adapted to our visual system may be the most likely to linger once the trends of previous generations have been forgotten.
-- *(Cam 11 · T3 · P1)* The rules were gradually relaxed over the years until finally during the Qing Dynasty (1644—1911 AD), even peasants, the **lowest** caste, were also entitled to wear silk.
 - *(Cam 11 · T3 · P1)* The **earliest** indication of silk paper being used was discovered in the tomb of a noble who is estimated to have died around 168 AD.
-- *(Cam 11 · T3 · P1)* It was named the Silk Road after its **most precious** commodity, which was considered to be worth more than gold.
 - *(Cam 11 · T3 · P1)* Japan was to remain the world’s **biggest** producer of raw silk, and practically the only major exporter of raw silk, until the 1970s.
-- *(Cam 11 · T3 · P1)* However, in more recent decades, China has gradually recaptured its position as the world’s **biggest** producer and exporter of raw silk and silk yarn.
 - *(Cam 11 · T3 · P2)* The pronghorn, which resembles an antelope, though they are unrelated, is the **fastest** land mammal of the New World.
-- *(Cam 11 · T3 · P3)* The thinking in each chapter uses at **most only** elementary arithmetic, and sometimes not even that.
 - *(Cam 11 · T4 · P1)* If identical twins are more similar to each other with respect to an ailment than fraternal twins are, then vulnerability to the disease must be rooted at **least** in part in heredity.
-- *(Cam 11 · T4 · P1)* Having said that, Reed adds, the **latest** work in epigenetics promises to take our understanding even further.
 - *(Cam 11 · T4 · P3)* Language is mankind s **greatest** invention – except, of course, that it was never invented.
-- *(Cam 11 · T4 · P3)* The **most extraordinary** thing about language, however, is that one doesn’t have to be a genius to set its wheels in motion.
 - *(Cam 11 · T4 · P3)* The language machine allows just about everybody from pre-modern foragers in the subtropical savannah, to post-modern philosophers in the suburban sprawl – to tie these meaningless sounds together into an infinite variety of subtle senses, and all apparently without the **slightest** exertion.
-- *(Cam 11 · T4 · P3)* One of the **showiest** stunts that some languages can pull off is an ability to build up words of breath-breaking length, and thus express in one word what English takes a whole sentence to say.
 - *(Cam 11 · T4 · P3)* (In case you were wondering, this monstrosity really is one word, not merely many different words squashed together – **most ol** its components cannot even stand up on their own.)
-- *(Cam 12 · T1 · P1)* Developed **most probably** as a defence against forest fires, the bark of the cork oak has a particular cellular structure – with about 40 million cells per cubic centimetre – that technology has never succeeded in replicating.
 - *(Cam 12 · T1 · P1)* Southern Portugal’s Alentejo region meets all of these requirements, which explains why, by the early 20th century, this region had become the world’s **largest** producer of cork, and why today it accounts for roughly half of all cork production around the world.
-- *(Cam 12 · T1 · P1)* The **most skilful** cork-strippers prise away a semi-circular husk that runs the length of the trunk from just above ground level to the first branches.
 - *(Cam 12 · T1 · P1)* The **tiniest** concentrations – as little as three or four parts to a trillion – can spoil the taste of the product contained in the bottle.
-- *(Cam 12 · T1 · P2)* Collecting must be one of the **most varied** of human activities, and it’s one that many of us psychologists find fascinating.
 - *(Cam 12 · T1 · P2)* And believe it or not, there is at **least** one dog collar museum in existence, and it grew out of a personal collection.
-- *(Cam 12 · T2 · P1)* Participants in the online debate argued that our **biggest** challenge is to address the underlying causes of the agricultural system’s inability to ensure sufficient food for all, and they identified as drivers of this problem our dependency on fossil fuels and unsupportive government policies.
 - *(Cam 12 · T2 · P2)* An explorer’s encounter with the ruined city of Machu Picchu, the **most famous** icon of the Inca civilsation
-- *(Cam 12 · T2 · P2)* When the US explorer and academic Hiram Bingham arrived in South America in 1911, he was ready for what was to be the **greatest** achievement of his life: the exploration of the remote hinterland to the west of Cusco, the old capital of the Inca empire in the Andes mountains of Peru.
 - *(Cam 12 · T2 · P2)* In his book Lost City of the Incas , he relates that he made the ascent without having the **least** expectation that he would find anything at the top.
-- *(Cam 12 · T2 · P2)* Furthermore, the particular architecture of Machu Picchu suggests that it was constructed at the time of the **greatest** of all the Incas, the emperor Pachacuti (c. 1438-71).
 - *(Cam 12 · T2 · P3)* According to the **latest** figures, the majority of the world’s population is now bilingual or multilingual, having grown up speaking two or more languages.
-- *(Cam 12 · T2 · P3)* If you hear ‘can’, you will likely activate words like ‘candy’ and ‘candle’ as well, at **least** during the earlier stages of word recognition.
 - *(Cam 12 · T2 · P3)* Some of the **most compelling** evidence for this phenomenon, called ‘language co-activation’, comes from studying eye movements.
-- *(Cam 12 · T3 · P1)* As these ancestral tortoises settled on the individual islands, the different populations adapted to their unique environments, giving rise to at **least** 14 different subspecies.
 - *(Cam 12 · T3 · P1)* In the absence of significant predators, they grew to become the **largest** and longest-living tortoises on the planet, weighing more than 400 kilograms, occasionally exceeding 1.8 metres in length and living for more than a century.
-- *(Cam 12 · T3 · P1)* Captive-bred tortoises can’t be reintroduced into the wild until they’re at **least** five years old and weigh at least 4.5 kilograms, at which point their size and weight – and their hardened shells – are sufficient to protect them from predators.
 - *(Cam 12 · T3 · P2)* Perhaps one of the **most obvious** examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.
-- *(Cam 12 · T3 · P2)* Individuals working in the area of the geography of healthcare provision attempt to assess the levels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the **nearest** hospital).
 - *(Cam 12 · T3 · P3)* What is rather more significant is the finding that the dopamine neurons in the caudate – a region of the brain involved in learning stimulus-response associations, and in anticipating food and other ‘reward’ stimuli – were at their **most active** around 15 seconds before the participants’ favourite moments in the music.
-- *(Cam 12 · T3 · P3)* And yet, this cluster of cells is **most active** when the ‘chills’ have yet to arrive, when the melodic pattern is still unresolved.
 - *(Cam 12 · T3 · P3)* While music can often seem (at **least** to the outsider) like a labyrinth of intricate patterns, it turns out that the most important part of every song or symphony is when the patterns break down, when the sound becomes unpredictable.
-- *(Cam 12 · T4 · P1)* From our **earliest** origins, man has been making use of glass.
 - *(Cam 12 · T4 · P1)* Glass blowing became the **most common** way to make glass containers from the first century BC.
-- *(Cam 12 · T4 · P1)* Modern glass plants are capable of making millions of glass containers a day in many different colours, with green, brown and clear remaining the **most popular**.
 - *(Cam 12 · T4 · P2)* Until this discovery, the lynx – a large spotted cat with tasselled ears – was presumed to have died out in Britain at **least** 6,000 years ago, before the inhabitants of these islands took up farming.
-- *(Cam 12 · T4 · P2)* One of the **most striking** findings of modern ecology is that ecosystems without large predators behave in completely different ways from those that retain them.
 - *(Cam 12 · T4 · P3)* After a number of serious failures of governance (that is, how they are managed at the **highest** level), companies in Britain, as well as elsewhere, should consider radical changes to their directors’ roles.
-- *(Cam 12 · T4 · P3)* At the **simplest** and most practical level, the time involved in fulfilling the demands of a board directorship has increased significantly, calling into question the effectiveness of the classic model of corporate governance by part-time, independent non-executive directors.
 - *(Cam 12 · T4 · P3)* Often, board business is devolved to committees in order to cope with the workload, which may be more efficient but can mean that the board as a whole is less involved in fully addressing some of the **most important** issues.
-- *(Cam 13 · T1 · P1)* Tourism currently makes up 9% of the country’s gross domestic product, and is the country’s **largest** export sector.
 - *(Cam 13 · T1 · P1)* The campaign focused on New Zealand’s scenic beauty, exhilarating outdoor activities and authentic Maori culture, and it made New Zealand one of the **strongest** national brands in the world.
-- *(Cam 13 · T1 · P1)* One of the **most popular** was an interview with former New Zealand All Blacks rugby captain Tana Umaga.
 - *(Cam 13 · T1 · P1)* To make it easier to plan motoring holidays, the site catalogued the **most popular** driving routes in the country, highlighting different routes according to the season and indicating distances and times.
-- *(Cam 13 · T1 · P2)* Of the five types, the **most damaging** is ‘reactant’ boredom with its explosive combination of high arousal and negative emotion.
 - *(Cam 13 · T1 · P2)* The **most useful** is what Goetz calls ‘indifferent’ boredom: someone isn’t engaged in anything satisfying but still feels relaxed and calm.
-- *(Cam 13 · T1 · P2)* Mann concluded that a passive, boring activity is **best** for creativity because it allows the mind to wander.
 - *(Cam 13 · T1 · P2)* Perhaps **most worryingly**, says Eastwood, repeatedly failing to engage attention can lead to state where we don’t know what to do any more, and no longer care.
-- *(Cam 13 · T1 · P2)* but they think that at **least** some of it comes down to personality.
 - *(Cam 13 · T1 · P3)* Consider one of the **oldest** machine artists, Aaron, a robot that has had paintings exhibited in London’s Tate Modern and the San Francisco Museum of Modern Art.
-- *(Cam 13 · T1 · P3)* Others, though, are fascinated by the prospect that a computer might create something as original and subtle as our **best** artists.
 - *(Cam 13 · T1 · P3)* Not only did EMI create compositions in Cope’s style, but also that of the **most revered** classical composers, including Bach, Chopin and Mozart.
-- *(Cam 13 · T2 · P1)* **Most often**, however, the spice found its primary use as an additive to food and drink.
 - *(Cam 13 · T2 · P2)* But it could also make things worse for people who are overly sensitive or prone to interpreting social cues in the **worst** light.
-- *(Cam 13 · T2 · P3)* The Coach brand had been a symbol of opulence and luxury for nearly 70 years, and the **most obvious** reaction to the downturn would have been to lower prices.
 - *(Cam 13 · T4 · P1)* The **fastest** commercial sailing vessels of all time were clippers, three-masted ships built to transport goods around the world, although some also took passengers.
-- *(Cam 13 · T4 · P1)* This marked a turnaround and the beginning of the **most successful** period in Cutty Sark ’s working life, transporting wool from Australia to Britain.
 - *(Cam 13 · T4 · P1)* The ship’s next captain, Richard Woodget, was an excellent navigator, who got the **best** out of both his ship and his crew.
-- *(Cam 13 · T4 · P1)* His gamble paid off, though, and the ship was the **fastest** vessel in the wool trade for ten years.
 - *(Cam 13 · T4 · P2)* Is there hope for our planet’s **most precious** resource?
-- *(Cam 13 · T4 · P2)* That means soils do not just grow our food, but are the source of nearly all our existing antibiotics, and could be our **best** hope in the fight against antibiotic-resistant bacteria.
 - *(Cam 13 · T4 · P2)* Agriculture is by far the **biggest** problem.
-- *(Cam 13 · T4 · P2)* He came to realise that the **best** way to ensure his trees flourished was to take care of the soil, and has developed a cocktail of beneficial bacteria, fungi and humus* to do this.
 - *(Cam 13 · T4 · P2)* One difficulty here is defining what these areas should conserve: areas where the **greatest** soil diversity is present?
-- *(Cam 14 · T1 · P1)* ‘Play in all its rich variety is one of the **highest** achievements of the human species,’ says Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK.
 - *(Cam 14 · T1 · P1)* In the **latest** study, children first created their story with Lego*, with similar results.
-- *(Cam 14 · T1 · P2)* But he was not in the **least** discouraged.
 - *(Cam 14 · T1 · P2)* But the **biggest** blow came when Postbank decided to abolish the chip card, because it wasn’t profitable.
-- *(Cam 14 · T1 · P3)* This implies that it is beneficial for hotel managers to understand what practices are **most favorable** to increase employee satisfaction and retention.
 - *(Cam 14 · T2 · P2)* Containing as many as 2,000 staff and students, the entire building is naturally ventilated, passively cooled and naturally lit, including the two **largest** auditoria, each seating more than 150 people.
-- *(Cam 14 · T2 · P3)* In fact, research shows that, when innovating, the **best** approach is to create an environment devoid of structure and hierarchy and enable everyone involved to engage as one organic group.
 - *(Cam 14 · T2 · P3)* Google and a number of other tech companies have embraced (at **least** in part) these kinds of flexible structures, facilitated by technology and strong company values which glue people together.
-- *(Cam 14 · T3 · P1)* There are at **least** four seasons people’s conceptions of intelligence matter.
 - *(Cam 14 · T3 · P2)* Yet even though insects are far and away the **most diverse** animals in existence, their potential as sources of therapeutic compounds is yet to be realised.
-- *(Cam 14 · T3 · P2)* If we can shine a light on the darker recesses of nature’s medicine cabinet, exploring the useful chemistry of the **most diverse** animals on the planet, I believe we can make people think differently about the value of nature.
 - *(Cam 14 · T3 · P3)* Rubin and colleagues did not assign greater weight to any one dimension in determining playfulness; however, other researchers have suggested that process orientation and a lack of obvious functional purpose may be the **most important** aspects of play (e.g. Pellegrini 2009).
-- *(Cam 14 · T4 · P2)* They are vital not just in terms of protecting animals, but as a means of learning about them to aid those still in the wild, as well as educating and informing the general population about these animals and their world so that they can assist or at **least** accept the need to be more environmentally conscious.
 - *(Cam 14 · T4 · P3)* The problems that look or sound **most dramatic** may not be the best places to start.
-- *(Cam 15 · T1 · P1)* Profits began to flow into the Netherlands, and the Dutch commercial fleet swiftly grew into one of the **largest** in the world.
 - *(Cam 15 · T1 · P1)* By 1617, the VOC was the **richest** commercial operation in the world.
-- *(Cam 15 · T1 · P2)* If we move to a model where consumers are tending not to own a single vehicle but to purchase access to a range of vehicle through a mobility provider, drivers will have the freedom to select one that **best** suits their needs for a particular journey, rather than making a compromise across all their requirements.
 - *(Cam 15 · T1 · P2)* It’s clear that there are many challenges that need to be addressed but, through robust and targeted research, these can **most probably** be conquered within the next 10 years.
-- *(Cam 15 · T1 · P3)* Long before the first caveman slumped down beside the fire and grunted news that there were plenty of **wildebeest** over yonder, our ancestors had learnt the value of sending out scouts to investigate the unknown.
 - *(Cam 15 · T1 · P3)* Ran Fiennes, dubbed the ‘**greatest** living explorer’, said, ‘An explorer is someone who has done something that no human has done before – and also done something scientifically useful.’
-- *(Cam 15 · T1 · P3)* I’d **best** declare my own bias.
 - *(Cam 15 · T1 · P3)* But none of these things is of the **slightest** interest to anyone unless, through my books, I’ve found a new slant, explored a new idea.
-- *(Cam 15 · T2 · P1)* Transportation is estimated to account for 30% of energy consumption in most of the world’s **most developed** nations, so lowering the need for energy-using vehicles is essential for decreasing the environmental impact of mobility.
 - *(Cam 15 · T2 · P1)* In doing so they make crossings feel longer, introducing psychological barriers greatly impacting those that are the **least** mobile, and encouraging others to make dangerous crossings to get around the guard rails.
-- *(Cam 15 · T2 · P2)* The basic premise involves using cloning technology to turn the DNA of extinct animals into a fertilised embryo, which is carried by the **nearest** relative still in existence – in this case, the abundant band-tailed pigeon – before being born as a living, breathing animal.
 - *(Cam 15 · T2 · P2)* George Church, professor at Harvard Medical School and leader of the Woolly Mammoth Revival Project, has been focusing on cold resistance, the main way in which the extinct woolly mammoth and its **nearest** living relative, the Asian elephant, differ.
-- *(Cam 15 · T2 · P2)* ‘My **highest** priority would be preserving the endangered Asian elephant,’ says Church, ‘expanding their range to the huge ecosystem of the tundra.
 - *(Cam 15 · T3 · P1)* Moore was the first modern English sculptor to achieve international critical acclaim and he is still regarded as one of the **most important** sculptors of the 20th century.
-- *(Cam 15 · T3 · P3)* Tehrani has used the same approach to compare related versions of fairy tales to discover how they have evolved and which elements have survived **longest**.
 - *(Cam 15 · T3 · P3)* First he tested some assumptions about which aspects of the story alter **least** as it evolves, indicating their importance.
-- *(Cam 15 · T3 · P3)* Neither did his analysis support the theory that the central section of a story is the **most conserved** part.
 - *(Cam 15 · T3 · P3)* The answer, it would appear, is fear – blood-thirsty and gruesome aspects of the story, such as the eating of the grandmother by the wolf, turned out to be the **best** preserved of all.
-- *(Cam 15 · T4 · P1)* It is also one of the **most fragile** ecosystems on Earth.
 - *(Cam 15 · T4 · P1)* This is why the huarango tree is so suited to life there: it has the **longest** roots of any tree in the world.
-- *(Cam 15 · T4 · P1)* ‘If we can do it here, in the **most fragile** system on Earth, then that’s a real message of hope for lots of places, including Africa, where there is drought and they just can’t afford to wait for rain.’
+- *(Cam 15 · T4 · P2)* This small volcanic island is mountainous, with steep rocky slopes and deep, wooded ravines, rising to 1,487 metres at its **highest** peak.
+- *(Cam 15 · T4 · P3)* Depending on the circumstances, a business may maximize the amount of money it makes, at **least** in the short term, by damaging the environment and hurting people.
+- *(Cam 16 · T1 · P2)* The pyramids are the **most famous** monuments of ancient Egypt and still hold enormous interest for people in the present day.
+- *(Cam 16 · T1 · P2)* One of the **most mysterious** discoveries found inside the pyramid was a large number of stone vessels.
+- *(Cam 16 · T2 · P1)* The **most famous** of these figures is perhaps also the most mysterious – the Uffington White Horse in Oxfordshire.
+- *(Cam 16 · T2 · P1)* The carving has been placed in such a way as to make it extremely difficult to see from close quarters, and like many geoglyphs is **best** appreciated from the air.
+- *(Cam 16 · T2 · P1)* This date is at **least** six centuries after the Uffington Horse was probably carved.
+- *(Cam 16 · T2 · P2)* The **most recent** research actually turns accepted norms upside down.
+- *(Cam 16 · T2 · P3)* Although the truly wise may seem few and far between, empirical research examining wisdom suggests that it isn’t an exceptional trait possessed by a small handful of bearded philosophers after all – in fact, the **latest** studies suggest that most of us have the ability to make wise decisions, given the right context.
+- *(Cam 16 · T3 · P1)* Eventually, Rome’s navy became the **largest** and most powerful in the Mediterranean, and the Romans had control over what they therefore called Mare Nostrum meaning ‘our sea’.
+- *(Cam 16 · T3 · P2)* Well above the treeline in Norway’s **highest** mountains, ancient fields of ice are shrinking as Earth’s climate warms.
+- *(Cam 16 · T3 · P3)* The **latest** research pinpoints for the first time a molecular mechanism in plants that reacts to temperature – often triggering the buds of spring we long to see at the end of winter.
+- *(Cam 16 · T4 · P2)* It incentivizes a retreat to the **most familiar** stores of unchecked information, which require and receive no analysis, leaving us susceptible to false information and irrational ideas.
+- *(Cam 17 · T1 · P1)* Amongst the **most vocal** advocates for a solution to London’s traffic problems was Charles Pearson, who worked as a solicitor for the City of London.
+- *(Cam 17 · T1 · P2)* Stadiums are among the **oldest** forms of urban architecture: vast stadiums where the public could watch sporting events were at the centre of western city life as far back as the ancient Greek and Roman Empires, well before the construction of the great medieval cathedrals and the grand 19th- and 20th-century railway stations which dominated urban skylines in later eras.
+- *(Cam 17 · T1 · P2)* But many of today’s **most innovative** architects see scope for the stadium to help improve the city.
+- *(Cam 17 · T1 · P3)* Charles Spencer’s **latest** book, To Catch a King , tells us the story of the hunt for King Charles II in the six weeks after his resounding defeat at the Battle of Worcester in September 1651.
+- *(Cam 17 · T1 · P3)* As the king and secretary settled down (a scene that is surely a gift for a future scriptwriter), Charles commenced his story: ‘After the battle was so absolutely lost as to be beyond hope of recovery, I began to think of the **best** way of saving myself.’
+- *(Cam 17 · T1 · P3)* It is hard to imagine many other kings marking the **lowest** point in their life so enthusiastically, or indeed pulling off such an escape in the first place.
+- *(Cam 17 · T2 · P1)* The only entire book of the Hebrew Bible preserved among the manuscripts from Qumran is Isaiah; this copy, dated to the first century BCE, is considered the **earliest** biblical manuscript still in existence.
+- *(Cam 17 · T2 · P1)* Finally, in 1954, he placed an advertisement in the business newspaper The Wall Street Journal – under the category ‘Miscellaneous Items for Sale’ – that read: ‘Biblical Manuscripts dating back to at **least** 200 B.C. are for sale.
+- *(Cam 17 · T3 · P1)* The **most recent**, well-dated occurrence of a thylacine on the mainland is a carbon-dated fossil from Murray Cave in Western Australia, which is around 3,100 years old.
+- *(Cam 17 · T3 · P2)* Primarily because its unique properties – such as remaining solid at room temperature – make it an ideal ingredient for long-term preservation, allowing many packaged foods on supermarket shelves to have ‘**best** before’ dates of months, even years, into the future.
+- *(Cam 17 · T3 · P2)* ‘Palm oil is surely one of the **greatest** threats to global biodiversity,’ declares Dr Farnon Ellwood of the University of the West of England, Bristol.
+- *(Cam 17 · T3 · P2)* Oil palm plantations produce at **least** four and potentially up to ten times more oil per hectare than soybean, rapeseed, sunflower or other competing oils.
+- *(Cam 17 · T3 · P3)* In chapter five, Barr distinguishes between engineering height, economic height, and developer height — where engineering height is the **tallest** building that can be safely made at a given time, economic height is the height that is most efficient from society’s point of view, and developer height is the actual height chosen by the developer, who is attempting to maximize return on investment.
+- *(Cam 17 · T4 · P1)* Bats comprise roughly one-fifth of all mammal species in Madagascar and thirty-six recorded bat species are native to the island, making it one of the **most important** regions for conservation of this animal group anywhere in the world.
+- *(Cam 17 · T4 · P2)* It includes court records, guild ledgers, parish registers, village censuses, tax lists and – the **most recent** addition – 9,000 handwritten inventories listing over a million personal possessions belonging to ordinary women and men across three centuries.
+- *(Cam 17 · T4 · P2)* The dominance of guilds not only prevented people from using their skills, but also held back even the **simplest** industrial innovation.
+- *(Cam 17 · T4 · P3)* At 16, he was crowned Asia’s **youngest** ever chess grandmaster.
+- *(Cam 17 · T4 · P3)* ‘The **most important** part of blindfold chess for me is that I have found the one thing that I can fully dedicate myself to.
+- *(Cam 18 · T1 · P1)* Perhaps **most significantly**, however, this is a real-life showcase for the work of Hardy’s flourishing urban agriculture consultancy, Agripolis, which is currently fielding enquiries from around the world to design, build and equip a new breed of soil-free inner-city farm.
+- *(Cam 18 · T1 · P1)* ‘Root vegetables we cannot do, at **least** not yet,’ he says.
+- *(Cam 18 · T1 · P2)* In a TSI Cut, really poor-quality tree and plant material is cut down to allow more space, light, and other resources to the **highest**-valued stems that remain.
+- *(Cam 18 · T1 · P3)* Some researchers are now starting to compile a massive data set that includes the **best** possible information on where everything is in orbit.
+- *(Cam 18 · T2 · P1)* Archaeologists believe England’s **most iconic** prehistoric ruin was built in several stages with the earliest constructed 5,000 or more years ago.
+- *(Cam 18 · T2 · P2)* We often ignore the suffering of strangers, and even contribute to it, at **least** indirectly.
+- *(Cam 18 · T3 · P1)* Concrete is the second **most used** substance in the global economy, after water – and one of the world’s biggest single sources of greenhouse gas emissions.
+- *(Cam 18 · T3 · P2)* Perhaps **most impressively**, the Model B was amazingly swift.
+- *(Cam 18 · T3 · P3)* At a macro level, it requires the establishment of academically selective schools for the **brightest** students, and comprehensive schools for the rest.
+- *(Cam 18 · T3 · P3)* What is more, streaming appears to significantly – and negatively – affect those students assigned to the **lowest** sets.
+- *(Cam 18 · T3 · P3)* The **fittest** students realise they need to encourage the reluctant.
+- *(Cam 18 · T4 · P1)* To convince investors and developers that installing green roofs is worthwhile, economic arguments are still the **most important**.
+- *(Cam 18 · T4 · P2)* Perhaps growth mindset works **best** as a philosophy and not an intervention.
+- *(Cam 19 · T1 · P1)* It was an incredible achievement by any standard – made even more remarkable by the fact that he did this during a period considered to be one of the **strongest** in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few.
+- *(Cam 19 · T1 · P2)* Despite the Egyptian fleet’s **best** efforts, the pirates continued to cause substantial disruption to regional commerce.
+- *(Cam 19 · T1 · P3)* At **least** three observations related to misinformation in the contemporary mass-media environment warrant the attention of researchers, policy makers, and really everyone who watches television, listens to the radio, or reads information online.
+- *(Cam 19 · T1 · P3)* To overcome the **worst** effects of the phenomenon, we will need coordinated efforts over time, rather than any singular one-time panacea we could hope to offer.
+- *(Cam 19 · T2 · P3)* According to my colleague Prof Deborah Eyre, with whom I’ve collaborated on the book Great Minds and How to Grow Them , the **latest** neuroscience and psychological research suggests most individuals can reach levels of performance associated in school with the gifted and talented.
+- *(Cam 19 · T3 · P1)* The team’s earlier research suggested that the **northernmost** islands in the group, known as the Wallacean islands, including Obi, would have offered the easiest migration route.
+- *(Cam 19 · T3 · P1)* The **oldest** cultural layers from the Kelo site provided the team with the earliest record for human occupation on Obi, dating back around 18,000 years.
+- *(Cam 19 · T3 · P2)* Peat comprises 90 per cent water, so this is one of the **most alarming** consequences of peatland clearances.
+- *(Cam 19 · T4 · P1)* For these species, such as Britain’s **tiniest** butterfly, the dainty Small Blue, whose colonies are up to a hundred strong, some develop into butterflies early in spring, allowing their summer generations to complete another reproductive cycle by autumn so that more population growth occurs.
+- *(Cam 19 · T4 · P2)* ‘Mining will be the **greatest** assault on deep-sea ecosystems ever inflicted by humans,’ according to hydrothermal vent expert Verena Tunnicliffe, at the University of Victoria in Canada.
+- *(Cam 20 · T1 · P1)* They often leap from trees and flap their wings, but at **best** manage a controlled descent to the ground.
+- *(Cam 20 · T1 · P1)* By 1995, although at **least** 12 chicks had been produced on the islands, only three had survived.
+- *(Cam 20 · T1 · P2)* ‘Sometimes the **best** thing you can do is just give nature time to recover over time, you might get resistance,’ says Elliot.
+- *(Cam 20 · T1 · P3)* As a result, trips are cancelled, even if the disaster took place across the globe; stocks are sold, even when holding on is the **best** thing to do.
+- *(Cam 20 · T2 · P1)* A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found that at **least** 700 cases involved manatees.
+- *(Cam 20 · T2 · P2)* In fact, it’s one of the **worst** things we can do.
+- *(Cam 20 · T2 · P3)* He explains how they began the process by asking fans what version of baseball they found **most exciting**.
+- *(Cam 20 · T3 · P2)* ‘Coral reefs are the **most diverse** ecosystems on Earth and we want to show people how wonderful they are,’ said Paul Pearce-Kelly, senior curator of invertebrates and fish at the Zoological Society of London.
+- *(Cam 20 · T3 · P2)* One aim will be to carry out research on species to find those that can survive **best** in warm, acidic waters.
+- *(Cam 20 · T4 · P1)* But **most often**, she painted botanical subjects, inspired by annual trips to the Stieglitz family summer home.
+- *(Cam 20 · T4 · P2)* Starting in the **lowest** and most vulnerable neighbourhoods, roads have been raised by as much as 61 centimetres.
+- *(Cam 21 · T1 · P1)* Between 1908 and 1924, Gwendoline and Margaret Davies amassed one of the **largest** collections of late-nineteenth and early-twentieth-century French paintings in Britain
+- *(Cam 21 · T1 · P2)* A report from the European Environment Agency concluded that noise was an ongoing and widespread issue in Europe, with at **least** 1 in 5 people consistently exposed to levels considered harmful to health.
+- *(Cam 21 · T1 · P2)* One of the **best**-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation.
+- *(Cam 21 · T1 · P3)* Yet many of the **poorest** people in the world still depend on it to make a living.
+- *(Cam 21 · T2 · P2)* The chief or king of Mapungubwe was likely the **wealthiest** individual in the society, and would have owned more cattle and precious materials than anyone else.
+- *(Cam 21 · T2 · P3)* While it is undeniable that AI has opened up a wealth of promising opportunities, it has also led to the emergence of a mindset that can be **best** described as 'AI solutionism'.
+- *(Cam 21 · T2 · P3)* **Most importantly**, we need to be aware of the limitations of AI and where people still need to take the lead.
+- *(Cam 21 · T2 · P3)* Using AI simply for the sake of AI may not always be productive or useful, and not every issue is **best** addressed by applying machine intelligence to it.
+- *(Cam 21 · T3 · P1)* In the **worst** cases, herds may starve to death after being trapped.
+- *(Cam 21 · T3 · P1)* But thanks to the intervention of the Altyn Dala Conservation Initiative, the **most recent** episodes in the ongoing story of the saiga have been relatively uplifting.
 
 <a id="p3"></a>
 
 ### 3. So sánh hơn (… than)
 
-<small>133 câu</small>
+<small>140 câu</small>
 
 - *(Cam 10 · T1 · P2)* In 1998, some of these countries already exported **more than** twice their 1990 volumes and imported more than five times their 1990 volumes.
 - *(Cam 10 · T1 · P2)* Between 1990 and 1998, road haulage increased by 19.4%, while during the same period rail haulage decreased by 43.5%, although – and this could benefit the enlarged EU – it is still on average at a much **higher level than** in existing member states.
@@ -475,12 +475,127 @@
 - *(Cam 20 · T4 · P2)* It’s much **cheaper than** permanently elevating houses, English explains – about a third of what it would cost to completely replace a building’s foundations.
 - *(Cam 20 · T4 · P2)* Most of the country is **less than** a metre above sea level and 80 per cent of its land lies on floodplains.
 - *(Cam 20 · T4 · P2)* Certain varieties of carrot, potato, kohlrabi, cabbage and beetroot have been found to be **better suited to salty soil than** the rice and wheat that is typically grown there.
+- *(Cam 21 · T1 · P2)* The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far **more than** the recommended 40 decibels of noise at night.
+- *(Cam 21 · T1 · P2)* And Pfeifer is convinced that silence is **more attainable in everyday life than** people think.
+- *(Cam 21 · T2 · P3)* **More often than** not, data is spread across different government departments that each require special permissions to be accessed.
+- *(Cam 21 · T2 · P3)* Similarly, Rodney Brooks, professor of robotics at Massachusetts Institute of Technology, writes that 'almost all innovations in robotics and AI take far, far, **longer to be really widely deployed than** people in the field and outside the field imagine'.
+- *(Cam 21 · T4 · P2)* The literacy and numeracy skills of slum children are not **lower than** those of children from other urban poor backgrounds.
+- *(Cam 21 · T4 · P3)* Although he finally located the right craftsmen, some simply dropping in, serendipitously, to his workshop (by now in **more suitable premises than** his back room), many of these have now retired or passed away.
+- *(Cam 21 · T4 · P3)* But it is **more than** enough to stir up admiration for the craftsmanship of the great mapmakers of the past and the obsessive determination of a modern successor who revived their almost moribund art.
 
 <a id="p4"></a>
 
-### 4. So sánh hơn với danh từ (more/fewer/less + N)
+### 4. So sánh ngang bằng (as … as)
 
-<small>93 câu</small>
+<small>101 câu</small>
+
+- *(Cam 10 · T1 · P2)* **As far as** goods transport is concerned, growth is due to a large extent to changes in the European economy and its system of production.
+- *(Cam 10 · T1 · P3)* For Robert B. Cialdini, Professor of Psychology at Arizona State University, one reason that companies don’t succeed **as often as** they should is that innovation starts with recruitment.
+- *(Cam 10 · T4 · P1)* Another reason, experts say, is related to the century- long policy of the US Forest Service to stop wildfires **as quickly as** possible.
+- *(Cam 10 · T4 · P1)* Besides providing money to upgrade the fire engines that must traverse the mammoth state and wind along serpentine canyon roads, the state has invested in better command-and-control facilities **as well as** in the strategies to run them.
+- *(Cam 10 · T4 · P3)* Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is **as good as** irreversible.
+- *(Cam 10 · T4 · P3)* The team calculated that there is a good chance of silent genes surviving for up to 6 million years in at least a few individuals in a population, and that some might survive **as long as** 10 million years.
+- *(Cam 11 · T2 · P2)* Recent experiments indicate that **as few as** 18 people could, with three strong ropes and a bit of practice, easily manoeuvre a 1,000 kg moai replica a few hundred metres.
+- *(Cam 11 · T3 · P1)* The Byzantines were **as secretive as** the Chinese, however, and for many centuries the weaving and trading of silk fabric was a strict imperial monopoly.
+- *(Cam 11 · T4 · P2)* A meaningful sound track is often **as complicated as** the image on the screen, and is ultimately just as much the responsibility of the director.
+- *(Cam 11 · T4 · P2)* We need to foster an awareness of film sound **as well as** film space so as to truly appreciate an art form that sprang to life during the twentieth century – the modern film.
+- *(Cam 12 · T1 · P1)* First, they make vertical cuts down the bark using small sharp axes, then lever it away in pieces **as large as** they can manage.
+- *(Cam 12 · T1 · P1)* The tiniest concentrations – **as little as** three or four parts to a trillion – can spoil the taste of the product contained in the bottle.
+- *(Cam 12 · T1 · P2)* Someone who decides to collect something **as unexpected as** dos collars, for instance, may be conveying their belief that they must be interesting themselves.
+- *(Cam 12 · T2 · P3)* This suggests that for very young children, **as well as** for older people, navigating a multilingual environment imparts advantages that transfer far beyond language.
+- *(Cam 12 · T3 · P1)* This unprecedented effort was made possible by the owners of the 67-metre yacht While Cloud, who provided the Galápagos National Park with free use of their helicopter and its experienced pilot, **as well as** the logistical support of the yacht, its captain and crew.
+- *(Cam 12 · T4 · P1)* Glass packaging is used for many products, many beverages are sold in glass, as are numerous foodstuffs, **as well as** medicines and cosmetics.
+- *(Cam 12 · T4 · P3)* After a number of serious failures of governance (that is, how they are managed at the highest level), companies in Britain, **as well as** elsewhere, should consider radical changes to their directors’ roles.
+- *(Cam 13 · T2 · P2)* A new wave of studies has shown that its effects vary greatly depending on the person and the circumstances, and it can impact on our social interactions for worse **as well as** for better.
+- *(Cam 13 · T3 · P1)* Coconut palms produce **as many as** seventy fruits per year, weighing more than a kilogram each.
+- *(Cam 13 · T3 · P1)* An important product obtained from the shell is charcoal, which is widely used in various industries **as well as** in the home as a cooking fuel.
+- *(Cam 13 · T3 · P1)* Dried coconut flesh, ‘copra’, is made into coconut oil and coconut milk, which are widely used in cooking in different parts of the world, **as well as** in cosmetics.
+- *(Cam 13 · T3 · P2)* Some research even suggests that infants are listening to adult speech **as early as** 10 weeks before being born, gathering the basic building blocks of their family’s native tongue.
+- *(Cam 13 · T4 · P2)* A single gram of healthy soil might contain 100 million bacteria, **as well as** other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals.
+- *(Cam 13 · T4 · P2)* When they applied Floris’s mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt **as hard as** rock.
+- *(Cam 14 · T1 · P1)* Outdoor play is curtailed by perceptions of risk to do with traffic, **as well as** parents’ increased wish to protect their children from being the victims of crime, and by the emphasis on ‘earlier is better’ which is leading to greater competition in academic learning and schools.
+- *(Cam 14 · T1 · P1)* ‘The type of play we are interested in is child-initiated, spontaneous and unpredictable – but, **as soon as** you ask a five-year-old “to play”, then you as the researcher have intervened,’ explains Dr Sara Baker.
+- *(Cam 14 · T1 · P2)* The police were opposed to Provo’s initiatives and almost **as soon as** the white bikes were distributed around the city, they removed them.
+- *(Cam 14 · T1 · P3)* Deery (2008) has recommended several actions that can be adopted at the organizational level to retain good staff **as well as** assist in balancing work and family life.
+- *(Cam 14 · T2 · P1)* In 1885 he went west along the Canadian Pacific Railway (CPR) **as far as** Rogers Pass in British Columbia, where he took photographs of the mountains and the progress of construction.
+- *(Cam 14 · T2 · P1)* That summer he made his second trip west, photographing extensively along the railway line **as far as** Victoria.
+- *(Cam 14 · T2 · P2)* Containing **as many as** 2,000 staff and students, the entire building is naturally ventilated, passively cooled and naturally lit, including the two largest auditoria, each seating more than 150 people.
+- *(Cam 14 · T3 · P1)* The Jacksonian view is that all people are equal, not only as human beings but in terms of their competencies – that one person would serve **as well as** another in government or on a jury or in almost any position of responsibility.
+- *(Cam 14 · T3 · P2)* **As much as** I’d love to help develop a groundbreaking insect-derived medicine, my main motivation for looking at insects in this way is conservation.
+- *(Cam 14 · T4 · P1)* Old workers ants can do everything just **as well as** the youngsters, and their brains appear just as sharp.
+- *(Cam 14 · T4 · P1)* And when it came to reacting to prey, the older ants attacked the poor fruit fly just **as aggressively as** the young ones did, flaring their mandibles or pulling at the fly’s legs.
+- *(Cam 14 · T4 · P2)* In my view, it is perfectly possible for many species of animals living in zoos or wildlife parks to have a quality of life **as high as**, or higher than, in the wild.
+- *(Cam 14 · T4 · P2)* They are vital not just in terms of protecting animals, but as a means of learning about them to aid those still in the wild, **as well as** educating and informing the general population about these animals and their world so that they can assist or at least accept the need to be more environmentally conscious.
+- *(Cam 14 · T4 · P3)* Among scientists **as well as** in the media, she says, ‘A lot of the images about strandings and entanglement and all of that cause the perception that plastic debris is killing everything in the ocean.’
+- *(Cam 15 · T1 · P3)* This is surely an act of exploration, and into a world **as remote as** the author chooses.
+- *(Cam 15 · T2 · P1)* Above all, perhaps, they might learn to design for emotional **as well as** functional effects.
+- *(Cam 15 · T2 · P3)* Humans start developing a sense of humour **as early as** six weeks old, when babies begin to laugh and smile in response to stimuli.
+- *(Cam 15 · T2 · P3)* Douglass even recorded various types of laughter, **as well as** mixtures of laugher from men, women, and children.
+- *(Cam 15 · T3 · P3)* Yet in his analysis such elements were just **as flexible as** seemingly trivial details.
+- *(Cam 15 · T4 · P1)* They stretch down 50-80 metres and, **as well as** sucking up water for the tree, they bring it into the higher subsoil, creating a water source for other plant life.
+- *(Cam 15 · T4 · P2)* Because whistled ‘words’ can be hard to distinguish, silbadores rely on repetition, **as well as** awareness of context, to make themselves understood.
+- *(Cam 15 · T4 · P2)* There are thought to be **as many as** 70 whistled languages still in use, though only 12 have been described and studied scientifically.
+- *(Cam 16 · T1 · P1)* Problem-solving ability has also been witnessed in wild polar bears, although not **as obviously as** with GoGo.
+- *(Cam 16 · T1 · P2)* However, there is no question that, **as far as** Egypt is concerned, it began with one monument to one king designed by one brilliant architect: the Step Pyramid of Djoser at Saqqara.
+- *(Cam 16 · T1 · P2)* Egyptologist Miroslav Verner writes, ‘Few monuments hold a place in human history **as significant as** that of the Step Pyramid in Saqqara … It can be said without exaggeration that this pyramid complex constitutes a milestone in the evolution of monumental stone architecture in Egypt and in the world as a whole.’
+- *(Cam 16 · T1 · P3)* ‘Organisations are attracted to using algorithms because they want to make choices based on what they consider is “perfect information”, **as well as** to reduce costs and enhance productivity.’
+- *(Cam 16 · T2 · P2)* Leading us gently by the hand, he takes us into the world of microbes – a bizarre, alien planet – in a bid to persuade us to love them **as much as** he does.
+- *(Cam 16 · T2 · P3)* Understanding the role of such contextual factors offers unique insights into understanding wisdom in daily life, **as well as** how it can be enhanced and taught.’
+- *(Cam 16 · T3 · P2)* And growing Norwegian towns, along with export markets, would have created a booming demand for hides to fight off the cold, **as well as** antlers to make useful things like combs.
+- *(Cam 16 · T3 · P3)* The new findings, published in the journal Science , show that phytochromes control genetic switches in response to temperature **as well as** light to dictate plant development.
+- *(Cam 16 · T3 · P3)* The new findings are the culmination of twelve years of research involving scientists from Germany, Argentina and the US, **as well as** the Cambridge team.
+- *(Cam 17 · T1 · P3)* One of the joys of Spencer’s book, a result not least of its use of Charles II’s own narrative **as well as** those of his supporters, is just how close the reader gets to the action.
+- *(Cam 17 · T1 · P3)* **As well as** retelling it to anyone who would listen, causing eye-rolling among courtiers, he set in train a series of initiatives to memorialise it.
+- *(Cam 17 · T2 · P3)* However, we believe that it largely misrepresents the real nature of scientific discovery, **as well as** that of creativity and innovation in many other realms of human endeavor.
+- *(Cam 17 · T2 · P3)* Setting aside such greats as Darwin and Einstein – whose monumental contributions are duly celebrated – we suggest that innovation is more a process of trial and error, where two steps forward may sometimes come with one step back, **as well as** one or more stops to the right or left.
+- *(Cam 17 · T2 · P3)* The so-called ‘acey-deucy’ stirrup placement, in which the rider’s foot in his left stirrup is placed **as much as** 25 centimeters lower than the right, is believed to confer important speed advantages when turning on oval tracks.
+- *(Cam 17 · T3 · P1)* Approximately 4,000 years ago, the thylacine was widespread throughout New Guinea and most of mainland Australia, **as well as** the island of Tasmania.
+- *(Cam 17 · T3 · P2)* Even the deforestation argument isn’t **as straightforward as** it seems.
+- *(Cam 17 · T4 · P1)* While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats feed not just on crop pests but also on mosquitoes – carriers of malaria, Rift Valley fever virus and elephantiasis – **as well as** blackflies, which spread river blindness.
+- *(Cam 17 · T4 · P1)* And **as well as** roosting in trees, the bats sometimes roost in buildings, but are not welcomed there because they make them unclean.
+- *(Cam 18 · T2 · P1)* **As early as** the 1970s, geologists have been adding their voices to the debate over how Stonehenge came into being.
+- *(Cam 18 · T2 · P2)* For safety’s sake, then, we want the machines to be ethically **as well as** cognitively superhuman.
+- *(Cam 18 · T3 · P1)* Fly ash, a byproduct of coal-burning power plants, can be incorporated into concrete mixes to make up **as much as** 15 to 30% of the cement, without harming the strength or durability of the resulting mix.
+- *(Cam 18 · T4 · P1)* Other considerations include installing drainage paths, meeting health and safety requirements and perhaps allowing access for the public, **as well as** planning restrictions and disruption from regular activities in and around the buildings during installation.
+- *(Cam 18 · T4 · P3)* **As important as** Wegener’s work on continental drift has turned out to be, it was largely a sideline to his interest in atmospheric physics, geophysics, and paleoclimatology*, and thus I have been at great pains to put Wegener’s work on continental drift in the larger context of his other scientific work, and in the even larger context of atmospheric sciences in his lifetime.
+- *(Cam 19 · T1 · P3)* People likely have lied to one another for roughly **as long as** verbal communication has existed.
+- *(Cam 19 · T1 · P3)* That some audiences might be unaware of the potential for misinformation also suggests the utility of media literacy efforts **as early as** elementary school.
+- *(Cam 19 · T2 · P1)* In addition, steam-powered boats and ships were widely used to carry goods along Britain’s canals **as well as** across the Atlantic.
+- *(Cam 19 · T2 · P2)* Anxiety can increase heart rate and perspiration, cause heart palpitations, muscle tremors and shortness of breath, **as well as** headaches, nausea, stomach pain, weakness and a desire to escape in more extreme cases.
+- *(Cam 19 · T2 · P3)* It would be easy to assume that someone **as special as** Mirzakhani must have been one of those ‘gifted’ children, those who have an extraordinary ability in a specific sphere of activity or knowledge.
+- *(Cam 19 · T2 · P3)* Critically, they need the right support in developing those approaches at home **as well as** at school.
+- *(Cam 19 · T2 · P3)* Bloom’s team looked at a group of extraordinarily high achieving people in disciplines **as varied as** ballet, swimming, piano, tennis, maths, sculpture and neurology.
+- *(Cam 19 · T3 · P1)* Sea levels were about 120 metres lower, meaning Obi was a much larger island, encompassing what is today the separate island of Bisa, **as well as** several other small islands nearby.
+- *(Cam 19 · T3 · P1)* Whatever the reason for the departure, there is no evidence for use of the Kelo shelters after this time, until about 1,000 years ago, when they were re-occupied by people who owned pottery **as well as** items made out of gold and silver.
+- *(Cam 19 · T3 · P2)* Wetland coastal forests provide food and water, **as well as** shelter from storms, and WI and other agencies are working to restore those forests which have been lost.
+- *(Cam 19 · T3 · P2)* ‘It can be **as simple as** planting a few trees per hectare to create shade and substantially change a microclimate,’ he says.
+- *(Cam 19 · T3 · P3)* Whatever uses it is put to, though, it will never be **as good as** the real thing.
+- *(Cam 19 · T4 · P1)* Butterfly eggs develop into caterpillars and these insects, which are the second stage in a new butterfly’s lifecycle, consume vast quantities of plant material, and in turn act as prey for birds **as well as** bats and other small mammals.
+- *(Cam 19 · T4 · P3)* But if prehistoric life wasn’t really **as brutal as** has often been assumed, why do modern humans behave so selfishly and ruthlessly?
+- *(Cam 20 · T1 · P1)* They are entirely vegetarian, with their diet including the leaves, roots and bark of trees **as well as** bulbs, and fern fronds.
+- *(Cam 20 · T1 · P2)* ‘We have millions of small elms in hedgerows but they get targeted by the beetle **as soon as** they reach a certain size,’ says Karen Russell, co-author of the report ‘Where we are with elm’.
+- *(Cam 20 · T1 · P2)* It was also suitable for items that experienced high levels of impact and was used to build the keel of the 19th-century sailing ship Cutty Sark **as well as** mining equipment.
+- *(Cam 20 · T1 · P3)* We found that perceived threat acted as a trigger for a stress reaction that made the task of processing information easier for the firefighters – but only **as long as** it conveyed bad news.
+- *(Cam 20 · T2 · P1)* This species is found in fresh water in the Amazon Basin in Brazil, **as well as** in Colombia, Ecuador and Peru.
+- *(Cam 20 · T3 · P1)* He developed quick-freezing techniques that reduced the damage that crystals caused, **as well as** the technique of freezing the product in the package it was to be sold in.
+- *(Cam 20 · T3 · P3)* In response to the second question, ‘How soon will machine intelligence outstrip human intelligence?’, Rees mentions robots that are advanced enough to beat humans at chess, but then goes on to say, ‘Robots are still limited in their ability to sense their environment: they can’t yet recognise and move the pieces on a real chessboard **as cleverly as** a child can.
+- *(Cam 20 · T3 · P3)* Later this century, however, their more advanced successors may relate to their surroundings, and to people, **as adeptly as** we do.
+- *(Cam 20 · T4 · P2)* Starting in the lowest and most vulnerable neighbourhoods, roads have been raised by **as much as** 61 centimetres.
+- *(Cam 21 · T1 · P3)* But **as well as** this, the book is about the continuity of the use of traditional methods on small farms.
+- *(Cam 21 · T1 · P3)* This is also a history of capitalists and sugar dynasties, **as well as** corporations that in some cases have remained influential over very long periods.
+- *(Cam 21 · T1 · P3)* Cuba, for example, developed an extraordinarily dense system of railways to transport workers and cane, **as well as** steam-powered sugar factories.
+- *(Cam 21 · T2 · P1)* **As soon as** animals evolved moderately complex lifestyles, they would have needed to dream in order to manage these lifestyles.
+- *(Cam 21 · T2 · P1)* He argues that **as well as** outward behaviour, brain imaging is needed to show that the octopuses are replaying sequences of activities from their waking lives in dreams.
+- *(Cam 21 · T2 · P2)* The archaeological record for the 10th century shows a marked increase in the number of domesticated cattle in the area **as well as** cotton cultivation and weaving, as indicated by abundant finds of spindle whorls.
+- *(Cam 21 · T4 · P1)* In order to smoke the fish that they buy, they must gather huge quantities of firewood, sometimes walking **as far as** 10km each way to collect enough to complete their work.
+- *(Cam 21 · T4 · P1)* It's a magic combination that has captivated researchers' imaginations since **as early as** the 1980s when, across the world, they began to explore its potential as a biofuel.
+- *(Cam 21 · T4 · P2)* 'They are **as keen as** us to understand how the challenging context of deprivation can be attenuated when focusing on the languages children learn and use while at school.
+
+<a id="p5"></a>
+
+### 5. So sánh hơn với danh từ (more/fewer/less + N)
+
+<small>100 câu</small>
 
 - *(Cam 10 · T1 · P3)* Studies show that we invariably take **more gambles** when threatened with a loss than when offered a reward.
 - *(Cam 10 · T1 · P3)* This environment encouraged a free interchange of ideas, which led to **more creativity** with form, function, colour and materials that revolutionised attitudes to furniture design.
@@ -575,111 +690,19 @@
 - *(Cam 20 · T3 · P2)* Samples of the planet’s most spectacular corals – vivid green branching coral, yellow scroll, blue ridge and many **more species** – have been added to the giant tank along with fish that thrive in their presence: blue tang, clownfish and many others.
 - *(Cam 20 · T4 · P2)* The programme has seen moderate success, mainly in areas with **less subsidence**.
 - *(Cam 20 · T4 · P2)* Since the project began, farmers trained in saline agriculture have reported increases of two to three **more harvests** per year.
-
-<a id="p5"></a>
-
-### 5. So sánh ngang bằng (as … as)
-
-<small>92 câu</small>
-
-- *(Cam 10 · T1 · P2)* **As far as** goods transport is concerned, growth is due to a large extent to changes in the European economy and its system of production.
-- *(Cam 10 · T1 · P3)* For Robert B. Cialdini, Professor of Psychology at Arizona State University, one reason that companies don’t succeed **as often as** they should is that innovation starts with recruitment.
-- *(Cam 10 · T4 · P1)* Another reason, experts say, is related to the century- long policy of the US Forest Service to stop wildfires **as quickly as** possible.
-- *(Cam 10 · T4 · P1)* Besides providing money to upgrade the fire engines that must traverse the mammoth state and wind along serpentine canyon roads, the state has invested in better command-and-control facilities **as well as** in the strategies to run them.
-- *(Cam 10 · T4 · P3)* Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is **as good as** irreversible.
-- *(Cam 10 · T4 · P3)* The team calculated that there is a good chance of silent genes surviving for up to 6 million years in at least a few individuals in a population, and that some might survive **as long as** 10 million years.
-- *(Cam 11 · T2 · P2)* Recent experiments indicate that **as few as** 18 people could, with three strong ropes and a bit of practice, easily manoeuvre a 1,000 kg moai replica a few hundred metres.
-- *(Cam 11 · T3 · P1)* The Byzantines were **as secretive as** the Chinese, however, and for many centuries the weaving and trading of silk fabric was a strict imperial monopoly.
-- *(Cam 11 · T4 · P2)* A meaningful sound track is often **as complicated as** the image on the screen, and is ultimately just as much the responsibility of the director.
-- *(Cam 11 · T4 · P2)* We need to foster an awareness of film sound **as well as** film space so as to truly appreciate an art form that sprang to life during the twentieth century – the modern film.
-- *(Cam 12 · T1 · P1)* First, they make vertical cuts down the bark using small sharp axes, then lever it away in pieces **as large as** they can manage.
-- *(Cam 12 · T1 · P1)* The tiniest concentrations – **as little as** three or four parts to a trillion – can spoil the taste of the product contained in the bottle.
-- *(Cam 12 · T1 · P2)* Someone who decides to collect something **as unexpected as** dos collars, for instance, may be conveying their belief that they must be interesting themselves.
-- *(Cam 12 · T2 · P3)* This suggests that for very young children, **as well as** for older people, navigating a multilingual environment imparts advantages that transfer far beyond language.
-- *(Cam 12 · T3 · P1)* This unprecedented effort was made possible by the owners of the 67-metre yacht While Cloud, who provided the Galápagos National Park with free use of their helicopter and its experienced pilot, **as well as** the logistical support of the yacht, its captain and crew.
-- *(Cam 12 · T4 · P1)* Glass packaging is used for many products, many beverages are sold in glass, as are numerous foodstuffs, **as well as** medicines and cosmetics.
-- *(Cam 12 · T4 · P3)* After a number of serious failures of governance (that is, how they are managed at the highest level), companies in Britain, **as well as** elsewhere, should consider radical changes to their directors’ roles.
-- *(Cam 13 · T2 · P2)* A new wave of studies has shown that its effects vary greatly depending on the person and the circumstances, and it can impact on our social interactions for worse **as well as** for better.
-- *(Cam 13 · T3 · P1)* Coconut palms produce **as many as** seventy fruits per year, weighing more than a kilogram each.
-- *(Cam 13 · T3 · P1)* An important product obtained from the shell is charcoal, which is widely used in various industries **as well as** in the home as a cooking fuel.
-- *(Cam 13 · T3 · P1)* Dried coconut flesh, ‘copra’, is made into coconut oil and coconut milk, which are widely used in cooking in different parts of the world, **as well as** in cosmetics.
-- *(Cam 13 · T3 · P2)* Some research even suggests that infants are listening to adult speech **as early as** 10 weeks before being born, gathering the basic building blocks of their family’s native tongue.
-- *(Cam 13 · T4 · P2)* A single gram of healthy soil might contain 100 million bacteria, **as well as** other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals.
-- *(Cam 13 · T4 · P2)* When they applied Floris’s mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt **as hard as** rock.
-- *(Cam 14 · T1 · P1)* Outdoor play is curtailed by perceptions of risk to do with traffic, **as well as** parents’ increased wish to protect their children from being the victims of crime, and by the emphasis on ‘earlier is better’ which is leading to greater competition in academic learning and schools.
-- *(Cam 14 · T1 · P1)* ‘The type of play we are interested in is child-initiated, spontaneous and unpredictable – but, **as soon as** you ask a five-year-old “to play”, then you as the researcher have intervened,’ explains Dr Sara Baker.
-- *(Cam 14 · T1 · P2)* The police were opposed to Provo’s initiatives and almost **as soon as** the white bikes were distributed around the city, they removed them.
-- *(Cam 14 · T1 · P3)* Deery (2008) has recommended several actions that can be adopted at the organizational level to retain good staff **as well as** assist in balancing work and family life.
-- *(Cam 14 · T2 · P1)* In 1885 he went west along the Canadian Pacific Railway (CPR) **as far as** Rogers Pass in British Columbia, where he took photographs of the mountains and the progress of construction.
-- *(Cam 14 · T2 · P1)* That summer he made his second trip west, photographing extensively along the railway line **as far as** Victoria.
-- *(Cam 14 · T2 · P2)* Containing **as many as** 2,000 staff and students, the entire building is naturally ventilated, passively cooled and naturally lit, including the two largest auditoria, each seating more than 150 people.
-- *(Cam 14 · T3 · P1)* The Jacksonian view is that all people are equal, not only as human beings but in terms of their competencies – that one person would serve **as well as** another in government or on a jury or in almost any position of responsibility.
-- *(Cam 14 · T3 · P2)* **As much as** I’d love to help develop a groundbreaking insect-derived medicine, my main motivation for looking at insects in this way is conservation.
-- *(Cam 14 · T4 · P1)* Old workers ants can do everything just **as well as** the youngsters, and their brains appear just as sharp.
-- *(Cam 14 · T4 · P1)* And when it came to reacting to prey, the older ants attacked the poor fruit fly just **as aggressively as** the young ones did, flaring their mandibles or pulling at the fly’s legs.
-- *(Cam 14 · T4 · P2)* In my view, it is perfectly possible for many species of animals living in zoos or wildlife parks to have a quality of life **as high as**, or higher than, in the wild.
-- *(Cam 14 · T4 · P2)* They are vital not just in terms of protecting animals, but as a means of learning about them to aid those still in the wild, **as well as** educating and informing the general population about these animals and their world so that they can assist or at least accept the need to be more environmentally conscious.
-- *(Cam 14 · T4 · P3)* Among scientists **as well as** in the media, she says, ‘A lot of the images about strandings and entanglement and all of that cause the perception that plastic debris is killing everything in the ocean.’
-- *(Cam 15 · T1 · P3)* This is surely an act of exploration, and into a world **as remote as** the author chooses.
-- *(Cam 15 · T2 · P1)* Above all, perhaps, they might learn to design for emotional **as well as** functional effects.
-- *(Cam 15 · T2 · P3)* Humans start developing a sense of humour **as early as** six weeks old, when babies begin to laugh and smile in response to stimuli.
-- *(Cam 15 · T2 · P3)* Douglass even recorded various types of laughter, **as well as** mixtures of laugher from men, women, and children.
-- *(Cam 15 · T3 · P3)* Yet in his analysis such elements were just **as flexible as** seemingly trivial details.
-- *(Cam 15 · T4 · P1)* They stretch down 50-80 metres and, **as well as** sucking up water for the tree, they bring it into the higher subsoil, creating a water source for other plant life.
-- *(Cam 15 · T4 · P2)* Because whistled ‘words’ can be hard to distinguish, silbadores rely on repetition, **as well as** awareness of context, to make themselves understood.
-- *(Cam 15 · T4 · P2)* There are thought to be **as many as** 70 whistled languages still in use, though only 12 have been described and studied scientifically.
-- *(Cam 16 · T1 · P1)* Problem-solving ability has also been witnessed in wild polar bears, although not **as obviously as** with GoGo.
-- *(Cam 16 · T1 · P2)* However, there is no question that, **as far as** Egypt is concerned, it began with one monument to one king designed by one brilliant architect: the Step Pyramid of Djoser at Saqqara.
-- *(Cam 16 · T1 · P2)* Egyptologist Miroslav Verner writes, ‘Few monuments hold a place in human history **as significant as** that of the Step Pyramid in Saqqara … It can be said without exaggeration that this pyramid complex constitutes a milestone in the evolution of monumental stone architecture in Egypt and in the world as a whole.’
-- *(Cam 16 · T1 · P3)* ‘Organisations are attracted to using algorithms because they want to make choices based on what they consider is “perfect information”, **as well as** to reduce costs and enhance productivity.’
-- *(Cam 16 · T2 · P2)* Leading us gently by the hand, he takes us into the world of microbes – a bizarre, alien planet – in a bid to persuade us to love them **as much as** he does.
-- *(Cam 16 · T2 · P3)* Understanding the role of such contextual factors offers unique insights into understanding wisdom in daily life, **as well as** how it can be enhanced and taught.’
-- *(Cam 16 · T3 · P2)* And growing Norwegian towns, along with export markets, would have created a booming demand for hides to fight off the cold, **as well as** antlers to make useful things like combs.
-- *(Cam 16 · T3 · P3)* The new findings, published in the journal Science , show that phytochromes control genetic switches in response to temperature **as well as** light to dictate plant development.
-- *(Cam 16 · T3 · P3)* The new findings are the culmination of twelve years of research involving scientists from Germany, Argentina and the US, **as well as** the Cambridge team.
-- *(Cam 17 · T1 · P3)* One of the joys of Spencer’s book, a result not least of its use of Charles II’s own narrative **as well as** those of his supporters, is just how close the reader gets to the action.
-- *(Cam 17 · T1 · P3)* **As well as** retelling it to anyone who would listen, causing eye-rolling among courtiers, he set in train a series of initiatives to memorialise it.
-- *(Cam 17 · T2 · P3)* However, we believe that it largely misrepresents the real nature of scientific discovery, **as well as** that of creativity and innovation in many other realms of human endeavor.
-- *(Cam 17 · T2 · P3)* Setting aside such greats as Darwin and Einstein – whose monumental contributions are duly celebrated – we suggest that innovation is more a process of trial and error, where two steps forward may sometimes come with one step back, **as well as** one or more stops to the right or left.
-- *(Cam 17 · T2 · P3)* The so-called ‘acey-deucy’ stirrup placement, in which the rider’s foot in his left stirrup is placed **as much as** 25 centimeters lower than the right, is believed to confer important speed advantages when turning on oval tracks.
-- *(Cam 17 · T3 · P1)* Approximately 4,000 years ago, the thylacine was widespread throughout New Guinea and most of mainland Australia, **as well as** the island of Tasmania.
-- *(Cam 17 · T3 · P2)* Even the deforestation argument isn’t **as straightforward as** it seems.
-- *(Cam 17 · T4 · P1)* While the animal is often associated with spreading disease, Rocha and his team found evidence that Malagasy bats feed not just on crop pests but also on mosquitoes – carriers of malaria, Rift Valley fever virus and elephantiasis – **as well as** blackflies, which spread river blindness.
-- *(Cam 17 · T4 · P1)* And **as well as** roosting in trees, the bats sometimes roost in buildings, but are not welcomed there because they make them unclean.
-- *(Cam 18 · T2 · P1)* **As early as** the 1970s, geologists have been adding their voices to the debate over how Stonehenge came into being.
-- *(Cam 18 · T2 · P2)* For safety’s sake, then, we want the machines to be ethically **as well as** cognitively superhuman.
-- *(Cam 18 · T3 · P1)* Fly ash, a byproduct of coal-burning power plants, can be incorporated into concrete mixes to make up **as much as** 15 to 30% of the cement, without harming the strength or durability of the resulting mix.
-- *(Cam 18 · T4 · P1)* Other considerations include installing drainage paths, meeting health and safety requirements and perhaps allowing access for the public, **as well as** planning restrictions and disruption from regular activities in and around the buildings during installation.
-- *(Cam 18 · T4 · P3)* **As important as** Wegener’s work on continental drift has turned out to be, it was largely a sideline to his interest in atmospheric physics, geophysics, and paleoclimatology*, and thus I have been at great pains to put Wegener’s work on continental drift in the larger context of his other scientific work, and in the even larger context of atmospheric sciences in his lifetime.
-- *(Cam 19 · T1 · P3)* People likely have lied to one another for roughly **as long as** verbal communication has existed.
-- *(Cam 19 · T1 · P3)* That some audiences might be unaware of the potential for misinformation also suggests the utility of media literacy efforts **as early as** elementary school.
-- *(Cam 19 · T2 · P1)* In addition, steam-powered boats and ships were widely used to carry goods along Britain’s canals **as well as** across the Atlantic.
-- *(Cam 19 · T2 · P2)* Anxiety can increase heart rate and perspiration, cause heart palpitations, muscle tremors and shortness of breath, **as well as** headaches, nausea, stomach pain, weakness and a desire to escape in more extreme cases.
-- *(Cam 19 · T2 · P3)* It would be easy to assume that someone **as special as** Mirzakhani must have been one of those ‘gifted’ children, those who have an extraordinary ability in a specific sphere of activity or knowledge.
-- *(Cam 19 · T2 · P3)* Critically, they need the right support in developing those approaches at home **as well as** at school.
-- *(Cam 19 · T2 · P3)* Bloom’s team looked at a group of extraordinarily high achieving people in disciplines **as varied as** ballet, swimming, piano, tennis, maths, sculpture and neurology.
-- *(Cam 19 · T3 · P1)* Sea levels were about 120 metres lower, meaning Obi was a much larger island, encompassing what is today the separate island of Bisa, **as well as** several other small islands nearby.
-- *(Cam 19 · T3 · P1)* Whatever the reason for the departure, there is no evidence for use of the Kelo shelters after this time, until about 1,000 years ago, when they were re-occupied by people who owned pottery **as well as** items made out of gold and silver.
-- *(Cam 19 · T3 · P2)* Wetland coastal forests provide food and water, **as well as** shelter from storms, and WI and other agencies are working to restore those forests which have been lost.
-- *(Cam 19 · T3 · P2)* ‘It can be **as simple as** planting a few trees per hectare to create shade and substantially change a microclimate,’ he says.
-- *(Cam 19 · T3 · P3)* Whatever uses it is put to, though, it will never be **as good as** the real thing.
-- *(Cam 19 · T4 · P1)* Butterfly eggs develop into caterpillars and these insects, which are the second stage in a new butterfly’s lifecycle, consume vast quantities of plant material, and in turn act as prey for birds **as well as** bats and other small mammals.
-- *(Cam 19 · T4 · P3)* But if prehistoric life wasn’t really **as brutal as** has often been assumed, why do modern humans behave so selfishly and ruthlessly?
-- *(Cam 20 · T1 · P1)* They are entirely vegetarian, with their diet including the leaves, roots and bark of trees **as well as** bulbs, and fern fronds.
-- *(Cam 20 · T1 · P2)* ‘We have millions of small elms in hedgerows but they get targeted by the beetle **as soon as** they reach a certain size,’ says Karen Russell, co-author of the report ‘Where we are with elm’.
-- *(Cam 20 · T1 · P2)* It was also suitable for items that experienced high levels of impact and was used to build the keel of the 19th-century sailing ship Cutty Sark **as well as** mining equipment.
-- *(Cam 20 · T1 · P3)* We found that perceived threat acted as a trigger for a stress reaction that made the task of processing information easier for the firefighters – but only **as long as** it conveyed bad news.
-- *(Cam 20 · T2 · P1)* This species is found in fresh water in the Amazon Basin in Brazil, **as well as** in Colombia, Ecuador and Peru.
-- *(Cam 20 · T3 · P1)* He developed quick-freezing techniques that reduced the damage that crystals caused, **as well as** the technique of freezing the product in the package it was to be sold in.
-- *(Cam 20 · T3 · P3)* In response to the second question, ‘How soon will machine intelligence outstrip human intelligence?’, Rees mentions robots that are advanced enough to beat humans at chess, but then goes on to say, ‘Robots are still limited in their ability to sense their environment: they can’t yet recognise and move the pieces on a real chessboard **as cleverly as** a child can.
-- *(Cam 20 · T3 · P3)* Later this century, however, their more advanced successors may relate to their surroundings, and to people, **as adeptly as** we do.
-- *(Cam 20 · T4 · P2)* Starting in the lowest and most vulnerable neighbourhoods, roads have been raised by **as much as** 61 centimetres.
+- *(Cam 21 · T1 · P2)* In a recent study, he found that participants reported **more relaxation** and less boredom when they sat quietly in an outdoor garden compared with a completely silent room.
+- *(Cam 21 · T1 · P2)* 'It is likely better to have **more frequency** of silence for a few minutes at a time than a longer period of silence only once a week.
+- *(Cam 21 · T2 · P2)* The chief or king of Mapungubwe was likely the wealthiest individual in the society, and would have owned **more cattle** and precious materials than anyone else.
+- *(Cam 21 · T3 · P3)* I do think **more evidence** is needed: in particular with regard to the dating of the etchings.
+- *(Cam 21 · T4 · P1)* As a result, they're able to make **more money** for their families from other enterprises.
+- *(Cam 21 · T4 · P1)* How much better the biogas stoves will be for the community's health still needs **more research**, says Dominic Kahumbu Wanjihia, Biogas International's chief executive.
+- *(Cam 21 · T4 · P3)* Purists might wish for **more map**-making details, but Bellerby clearly found a kindred spirit in Martin Behaim.
 
 <a id="p6"></a>
 
 ### 6. Từ nhấn mạnh so sánh hơn (much/even/far/significantly)
 
-<small>85 câu</small>
+<small>97 câu</small>
 
 - *(Cam 10 · T1 · P2)* Between 1990 and 1998, road haulage increased by 19.4%, while during the same period rail haulage decreased by 43.5%, although – and this could benefit the enlarged EU – it is still on average at a **much higher** level than in existing member states.
 - *(Cam 10 · T1 · P2)* It is **far more** ambitious than it looks, bearing in mind the historical imbalance in favour of roads for the last fifty years, but would achieve a marked break in the link between road transport growth and economic growth, without placing restrictions on the mobility of people and goods.
@@ -766,12 +789,24 @@
 - *(Cam 20 · T1 · P2)* This time, the beetles carried a **much more** virulent strain that destroyed the vast majority of British elms.
 - *(Cam 20 · T2 · P1)* When awake, they typically surface every two to four minutes, but they can hold their breath for **much longer**.
 - *(Cam 20 · T4 · P2)* It’s **much cheaper** than permanently elevating houses, English explains – about a third of what it would cost to completely replace a building’s foundations.
+- *(Cam 21 · T1 · P1)* While it was long assumed that these men were largely responsible for the nature of the sisters' collection, it has recently been accepted that Gwendoline and Margaret retained a **far more** active role in the process.
+- *(Cam 21 · T1 · P2)* The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to **far more** than the recommended 40 decibels of noise at night.
+- *(Cam 21 · T1 · P2)* 'I expect we will see **much more** of this in the future.'
+- *(Cam 21 · T1 · P3)* Where once only tiny quantities of sugar could be produced, now new techniques, varieties, fertilisers, irrigation systems and **much more** have turned gleaming white sugar into a ubiquitous chemical.
+- *(Cam 21 · T1 · P3)* High-fructose corn syrup made from maize using an enzymatic process invented in Japan in the 1960s has a similar number of calories to table sugar but is **far cheaper** to produce.
+- *(Cam 21 · T2 · P1)* Dogs primarily navigate the world using smell while spiders rely **much more** on vibrations.
+- *(Cam 21 · T2 · P3)* This form of machine learning is loosely modelled on the neuronal structure of the human brain, but on a **much smaller** scale.
+- *(Cam 21 · T3 · P2)* 'The new buses are much, **much better**,' says Paulas George, a young IT worker.
+- *(Cam 21 · T3 · P3)* **Even earlier** species, such as Homo erectus, may also have made art, for example by engraving patterns on shells.
+- *(Cam 21 · T4 · P1)* About three out of four families in Kenya depend on wood or charcoal to cook their daily meals, and the rate is **even higher** in rural areas, Kenya's latest demographic and health survey shows.
+- *(Cam 21 · T4 · P1)* How **much better** the biogas stoves will be for the community's health still needs more research, says Dominic Kahumbu Wanjihia, Biogas International's chief executive.
+- *(Cam 21 · T4 · P3)* Something of Bellerby's unflinching ambition is reflected in the **even more** heroic efforts of the Italian cartographer Vincenzo Coronelli, who, in the seventeenth century, created two globes for Louis XIV of France.
 
 <a id="p7"></a>
 
 ### 7. more/less than + số lượng
 
-<small>40 câu</small>
+<small>42 câu</small>
 
 - *(Cam 10 · T1 · P2)* In 1998, some of these countries already exported more than twice their 1990 volumes and imported **more than five** times their 1990 volumes.
 - *(Cam 10 · T3 · P3)* Vanuatu, for example, stretches **more than 500** miles in a northwest-southeast trend, its scores of intervisible islands forming a backstop for mariners riding the trade winds home.
@@ -813,12 +848,14 @@
 - *(Cam 20 · T4 · P3)* In a study carried out in Australia by Linda van Bommel and Chris Johnson at the University of Tasmania, **more than 65** per cent of herders reported that predation stopped completely after they got the dogs, and almost all the rest saw a decrease in attacks.
 - *(Cam 20 · T4 · P3)* In Namibia, **more than 90** per cent of cheetahs live outside protected areas, close to humans raising livestock.
 - *(Cam 20 · T4 · P3)* When guard dogs were introduced, **more than 90** per cent of farmers reported a dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators.
+- *(Cam 21 · T4 · P2)* Stop to listen and, above the din of rickshaws and buses, you'll hear a multitude of languages, as **more than 20** million people go about their daily lives.
+- *(Cam 21 · T4 · P2)* Some arrive speaking fluent Hindi, the dominant language in Delhi (and the official language of government), but many arrive speaking any number of India's 22 officially recognised languages, let alone the hundreds of regional languages in a country of **more than 1.3** billion people.
 
 <a id="p8"></a>
 
 ### 8. Cấu trúc so sánh khác (similar to/different from…)
 
-<small>38 câu</small>
+<small>42 câu</small>
 
 - *(Cam 10 · T1 · P2)* According to the latest estimates, if nothing is done to reverse the traffic growth trend, CO2 emissions from transport can be expected to increase by around 50% to 1,113 billion tonnes by 2020，**compared with** the 739 billion tonnes recorded in 1990.
 - *(Cam 10 · T2 · P2)* For example, a very close positive relationship was found when children’s IQ scores were **compared with** their home educational provision (Freeman, 2010).
@@ -858,12 +895,16 @@
 - *(Cam 19 · T3 · P1)* It also revealed particular types of beads, **similar to** those previously found on islands in southern Wallacea.
 - *(Cam 19 · T3 · P3)* The system generates text that students can read on their laptops or phones, so the process is somewhat **similar to** subtitling.
 - *(Cam 20 · T2 · P2)* Research involving brain imaging has found that areas of the brain linked to detection of threats and emotion regulation are actually different in people who chronically procrastinate **compared to** those who don’t procrastinate frequently.
+- *(Cam 21 · T1 · P1)* While the sisters were wealthy in relative terms, their income was nothing **compared to** the fortunes of American art collectors of this period, such as J. Pierpont Morgan.
+- *(Cam 21 · T1 · P2)* In a recent study, he found that participants reported more relaxation and less boredom when they sat quietly in an outdoor garden **compared with** a completely silent room.
+- *(Cam 21 · T2 · P1)* Their brains are very **different from** those of humans, and it can often be difficult to record their activity while they are sleeping.
+- *(Cam 21 · T4 · P2)* They are so poor they have to live in slums and, as a result of migration, they may speak languages that are **different from** the regional language.
 
 <a id="p9"></a>
 
 ### 9. one of the + so sánh nhất + N số nhiều
 
-<small>30 câu</small>
+<small>35 câu</small>
 
 - *(Cam 10 · T1 · P1)* In the old ruined town of Abhaneri, about 95 kilometres east of Jaipur, is Chand Baori , one of India’s oldest and deepest wells; aesthetically, it’s perhaps **one of the most** dramatic.
 - *(Cam 10 · T1 · P3)* **One of the most** famous photographs in the story of rock’n’roll emphasises Ciaidini’s views.
@@ -895,12 +936,17 @@
 - *(Cam 19 · T1 · P1)* It was an incredible achievement by any standard – made even more remarkable by the fact that he did this during a period considered to be **one of the strongest** in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few.
 - *(Cam 19 · T3 · P2)* Peat comprises 90 per cent water, so this is **one of the most** alarming consequences of peatland clearances.
 - *(Cam 20 · T2 · P2)* In fact, it’s **one of the worst** things we can do.
+- *(Cam 21 · T1 · P1)* Between 1908 and 1924, Gwendoline and Margaret Davies amassed **one of the largest** collections of late-nineteenth and early-twentieth-century French paintings in Britain
+- *(Cam 21 · T1 · P2)* **One of the best**-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation.
+- *(Cam 21 · T2 · P3)* **One of the most** promising varieties of AI technologies are neural networks.
+- *(Cam 21 · T3 · P1)* In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost – **one of the fastest** examples of species loss ever recorded for a mammal.
+- *(Cam 21 · T3 · P2)* Dar es Salaam in Tanzania is **one of the fastest** growing cities in Africa.
 
 <a id="p10"></a>
 
 ### 10. the same (N) as
 
-<small>7 câu</small>
+<small>8 câu</small>
 
 - *(Cam 10 · T3 · P2)* What’s puzzling is that anthocyanins are actually newly minted, made in the leaves at **the same time as** the tree is preparing to drop them.
 - *(Cam 11 · T1 · P2)* So when a boat enters a gondola, the amount of water leaving the gondola weighs exactly **the same as** the boat.
@@ -909,15 +955,17 @@
 - *(Cam 14 · T3 · P1)* Low achievers are not rewarded to **the same extent as** high achievers.
 - *(Cam 15 · T4 · P1)* In order to stop the Middle Ica Valley going **the same way as** the Lower Ica Valley, Whaley is encouraging locals to love the huarangos again.
 - *(Cam 19 · T4 · P3)* There is significant evidence to back this notion from contemporary hunter-gatherer groups, who live in **the same way as** prehistoric humans did.
+- *(Cam 21 · T3 · P3)* In line with this, it emerged that an ancient spear-throwing tool called an atlatl enables women to launch projectiles at **the same speed as** men.
 
 <a id="p11"></a>
 
 ### 11. by far + so sánh nhất
 
-<small>2 câu</small>
+<small>3 câu</small>
 
 - *(Cam 13 · T4 · P2)* Agriculture is by **far the biggest** problem.
 - *(Cam 19 · T1 · P1)* Of the synthetics, co-polyester is by **far the most** widely used.
+- *(Cam 21 · T3 · P3)* By **far the most** contentious claim in this area is that Homo naledi made art.
 
 <a id="p12"></a>
 

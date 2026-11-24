@@ -1,4 +1,4 @@
-# 🔢 14. LƯỢNG TỪ — full câu ví dụ IELTS Reading (Cam 10–20)
+# 🔢 14. LƯỢNG TỪ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [LƯỢNG TỪ](L%C6%B0%E1%BB%A3ng%20T%E1%BB%AB.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=quant). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,39 +6,39 @@
 
 ## Mục lục
 
-1. [other + N (số nhiều/không đếm được)](ielts-ngu-phap-full-quant.md?id=p1) — 228 câu
-2. [many + N số nhiều](ielts-ngu-phap-full-quant.md?id=p2) — 175 câu
-3. [some + N](ielts-ngu-phap-full-quant.md?id=p3) — 135 câu
-4. [no + N](ielts-ngu-phap-full-quant.md?id=p4) — 86 câu
-5. [all + N](ielts-ngu-phap-full-quant.md?id=p5) — 82 câu
-6. [any + N](ielts-ngu-phap-full-quant.md?id=p6) — 76 câu
-7. [one of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p7) — 70 câu
-8. [another + N (số ít)](ielts-ngu-phap-full-quant.md?id=p8) — 63 câu
-9. [few + N số nhiều](ielts-ngu-phap-full-quant.md?id=p9) — 52 câu
-10. [each + N số ít/không đếm được](ielts-ngu-phap-full-quant.md?id=p10) — 48 câu
-11. [every + N số ít/không đếm được](ielts-ngu-phap-full-quant.md?id=p11) — 47 câu
-12. [most + N (hầu hết)](ielts-ngu-phap-full-quant.md?id=p12) — 42 câu
-13. [a few + N](ielts-ngu-phap-full-quant.md?id=p13) — 41 câu
-14. [several + N số nhiều](ielts-ngu-phap-full-quant.md?id=p14) — 41 câu
+1. [other + N (số nhiều/không đếm được)](ielts-ngu-phap-full-quant.md?id=p1) — 247 câu
+2. [many + N số nhiều](ielts-ngu-phap-full-quant.md?id=p2) — 200 câu
+3. [some + N](ielts-ngu-phap-full-quant.md?id=p3) — 154 câu
+4. [no + N](ielts-ngu-phap-full-quant.md?id=p4) — 95 câu
+5. [all + N](ielts-ngu-phap-full-quant.md?id=p5) — 86 câu
+6. [one of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p6) — 80 câu
+7. [any + N](ielts-ngu-phap-full-quant.md?id=p7) — 80 câu
+8. [another + N (số ít)](ielts-ngu-phap-full-quant.md?id=p8) — 67 câu
+9. [few + N số nhiều](ielts-ngu-phap-full-quant.md?id=p9) — 61 câu
+10. [every + N số ít/không đếm được](ielts-ngu-phap-full-quant.md?id=p10) — 53 câu
+11. [each + N số ít/không đếm được](ielts-ngu-phap-full-quant.md?id=p11) — 51 câu
+12. [a few + N](ielts-ngu-phap-full-quant.md?id=p12) — 48 câu
+13. [most + N (hầu hết)](ielts-ngu-phap-full-quant.md?id=p13) — 46 câu
+14. [several + N số nhiều](ielts-ngu-phap-full-quant.md?id=p14) — 44 câu
 15. [some of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p15) — 40 câu
-16. [various + N số nhiều](ielts-ngu-phap-full-quant.md?id=p16) — 31 câu
-17. [both + N số nhiều](ielts-ngu-phap-full-quant.md?id=p17) — 26 câu
-18. [some dùng như đại từ](ielts-ngu-phap-full-quant.md?id=p18) — 25 câu
-19. [little + N số ít/không đếm được](ielts-ngu-phap-full-quant.md?id=p19) — 24 câu
-20. [many of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p20) — 23 câu
-21. [numerous + N số nhiều](ielts-ngu-phap-full-quant.md?id=p21) — 20 câu
-22. [most of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p22) — 20 câu
-23. [the whole/entire + N](ielts-ngu-phap-full-quant.md?id=p23) — 20 câu
-24. [a lot of + N](ielts-ngu-phap-full-quant.md?id=p24) — 18 câu
-25. [all dùng như đại từ](ielts-ngu-phap-full-quant.md?id=p25) — 17 câu
-26. [much + N số ít/không đếm được](ielts-ngu-phap-full-quant.md?id=p26) — 17 câu
-27. [many dùng như đại từ](ielts-ngu-phap-full-quant.md?id=p27) — 14 câu
-28. [much of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p28) — 14 câu
-29. [adj/adv + enough](ielts-ngu-phap-full-quant.md?id=p29) — 12 câu
-30. [all of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p30) — 11 câu
-31. [multiple + N số nhiều](ielts-ngu-phap-full-quant.md?id=p31) — 10 câu
-32. [enough + N](ielts-ngu-phap-full-quant.md?id=p32) — 8 câu
-33. [plenty of + N](ielts-ngu-phap-full-quant.md?id=p33) — 8 câu
+16. [various + N số nhiều](ielts-ngu-phap-full-quant.md?id=p16) — 34 câu
+17. [many of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p17) — 29 câu
+18. [both + N số nhiều](ielts-ngu-phap-full-quant.md?id=p18) — 29 câu
+19. [some dùng như đại từ](ielts-ngu-phap-full-quant.md?id=p19) — 27 câu
+20. [little + N số ít/không đếm được](ielts-ngu-phap-full-quant.md?id=p20) — 26 câu
+21. [most of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p21) — 24 câu
+22. [much + N số ít/không đếm được](ielts-ngu-phap-full-quant.md?id=p22) — 22 câu
+23. [the whole/entire + N](ielts-ngu-phap-full-quant.md?id=p23) — 22 câu
+24. [numerous + N số nhiều](ielts-ngu-phap-full-quant.md?id=p24) — 21 câu
+25. [a lot of + N](ielts-ngu-phap-full-quant.md?id=p25) — 21 câu
+26. [all dùng như đại từ](ielts-ngu-phap-full-quant.md?id=p26) — 19 câu
+27. [many dùng như đại từ](ielts-ngu-phap-full-quant.md?id=p27) — 18 câu
+28. [much of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p28) — 16 câu
+29. [adj/adv + enough](ielts-ngu-phap-full-quant.md?id=p29) — 14 câu
+30. [multiple + N số nhiều](ielts-ngu-phap-full-quant.md?id=p30) — 12 câu
+31. [all of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p31) — 11 câu
+32. [enough + N](ielts-ngu-phap-full-quant.md?id=p32) — 10 câu
+33. [plenty of + N](ielts-ngu-phap-full-quant.md?id=p33) — 9 câu
 34. [few dùng như đại từ](ielts-ngu-phap-full-quant.md?id=p34) — 7 câu
 35. [both dùng như đại từ](ielts-ngu-phap-full-quant.md?id=p35) — 7 câu
 36. [half of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p36) — 5 câu
@@ -53,6 +53,7 @@
 45. [most dùng như đại từ](ielts-ngu-phap-full-quant.md?id=p45) — 3 câu
 46. [several dùng như đại từ](ielts-ngu-phap-full-quant.md?id=p46) — 1 câu
 47. [a number of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p47) — 1 câu
+48. [thousands of + the/tính từ sở hữu + N](ielts-ngu-phap-full-quant.md?id=p48) — 1 câu
 
 ---
 
@@ -60,7 +61,7 @@
 
 ### 1. other + N (số nhiều/không đếm được)
 
-<small>228 câu · hiện 150</small>
+<small>247 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P2)* This option would not be accompanied by complementary measures in the **other modes** of transport.
 - *(Cam 10 · T1 · P2)* However, the lack of measures available to revitalise **other modes** of transport would make it impossible for more sustainable modes of transport to take up the baton.
@@ -217,7 +218,7 @@
 
 ### 2. many + N số nhiều
 
-<small>175 câu · hiện 150</small>
+<small>200 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* But perhaps the most impressive features are the intricate decorative sculptures that embellish **many stepwells**, showing activities from fighting and dancing to everyday acts such as women combing their hair and churning butter.
 - *(Cam 10 · T1 · P2)* And although **many candidate countries** inherited a transport system which encourages rail, the distribution between modes has tipped sharply in favour of road transport since the 1990s.
@@ -374,7 +375,7 @@
 
 ### 3. some + N
 
-<small>135 câu</small>
+<small>154 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* **Some wells** are vast, open craters with hundreds of steps paving each sloping side, often in tiers.
 - *(Cam 10 · T1 · P1)* However, **some important sites** in Gujarat have recently undergone major restoration, and the state government announced in June last year that it plans to restore the stepwells throughout the state.
@@ -511,12 +512,27 @@
 - *(Cam 20 · T4 · P1)* O’Keeffe died in 1986 at the age of ninety-eight, but her rich legacy of **some 900 paintings** has continued to attract subsequent generations of artists and art lovers who derive inspiration from these very American images.
 - *(Cam 20 · T4 · P2)* **Some countries** and regions will suffer more extreme impacts from these changes than others.
 - *(Cam 20 · T4 · P3)* ‘In **some regions**, we work with almost every farmer, but in others only one or two have dogs,’ says Ribeiro.
+- *(Cam 21 · T1 · P2)* **Some solutions** are more specific: Washington DC's ban on petrol-powered leaf blowers came into effect recently, while in New York City, legislation has been approved to fine people who modify their vehicles to make them noisier.
+- *(Cam 21 · T1 · P2)* While **some people** experience altered perception in the tanks, involving subtle humming sounds and visual effects, these effects are benign and do not detract from the benefits of the experience, says Justin Feinstein, a clinical neuropsychologist.
+- *(Cam 21 · T1 · P2)* 'In these tanks, **some people** can even hear the sound of their eyes blinking,' says Feinstein.
+- *(Cam 21 · T1 · P2)* Eric Pfeifer, a psychotherapy researcher, also concedes that **some people** may not benefit from silence, particularly those who are in a heightened state of stress.
+- *(Cam 21 · T1 · P2)* Just finding those places in your daily life where you can find **some silence** ... can make a big difference.'
+- *(Cam 21 · T1 · P3)* This is also a history of capitalists and sugar dynasties, as well as corporations that in **some cases** have remained influential over very long periods.
+- *(Cam 21 · T1 · P3)* In the face of appalling obstruction from the sugar industry to attempts to reduce consumption, **some countries** have been forced to tax sugar in order to bring that about.
+- *(Cam 21 · T2 · P1)* There's **some evidence** that other mammals may also dream.
+- *(Cam 21 · T2 · P1)* There are also **some animals** with unusual sleep patterns.
+- *(Cam 21 · T2 · P2)* The king and his advisers dwelt in a stone enclosure composed of stone walls and housing built on the highest level of the community's territory, a natural sandstone hill which is **some 30 metres** high and 100 metres in length.
+- *(Cam 21 · T2 · P2)* There were **some grander residences** dotted around the outskirts of Babandyanalo, and these probably belonged to male relatives of the king.
+- *(Cam 21 · T2 · P2)* The presence of glass beads, almost certainly from India, indicate there was trade of **some sort** with other states on the coast who, in turn, traded with merchants travelling from India by sea.
+- *(Cam 21 · T2 · P3)* There are **some crucial lessons** here for everyone aiming to boost investments in national AI programmes.
+- *(Cam 21 · T3 · P1)* There was **some recovery** in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species.
+- *(Cam 21 · T3 · P3)* However, I do think it's possible to draw out **some overall messages** from the blizzard of archaeological finds in recent years.
 
 <a id="p4"></a>
 
 ### 4. no + N
 
-<small>86 câu</small>
+<small>95 câu</small>
 
 - *(Cam 10 · T1 · P3)* Memphis design collective, a group of young designers for whom ‘the only rule was that there were **no rule**’.
 - *(Cam 10 · T1 · P3)* The frustrating thing about innovation is that there are many approaches, but **no magic formula**.
@@ -604,12 +620,21 @@
 - *(Cam 20 · T2 · P1)* Manatees have pectoral flippers but **no back limbs**, only a tail for propulsion.
 - *(Cam 20 · T2 · P3)* During that first game, when DeJesus announced calls, there was **no heckling** and no shouted disagreement.
 - *(Cam 20 · T3 · P3)* Interestingly, almost **no science fiction** envisages a future without robots.’
+- *(Cam 21 · T1 · P1)* While there was **no real family history** of art collecting, the sisters' education was rigorously geared toward such pursuits.
+- *(Cam 21 · T1 · P2)* 'There are **no "earlids**" that can protect your brain from noise,' says Nick Antonio, an acoustic consultant who has contributed to the British and international standards for noise.
+- *(Cam 21 · T2 · P1)* They also show **no sign** of REM sleep, suggesting that they may only experience non-REM dreams, which are less vivid.
+- *(Cam 21 · T2 · P3)* There seems to be **no shortage** of sensationalist news about how AI could cure diseases, accelerate human innovation and improve human creativity.
+- *(Cam 21 · T2 · P3)* These examples demonstrate that there is **no AI solution** for everything.
+- *(Cam 21 · T3 · P1)* Despite these superb adaptations to harsh conditions, the saiga has **no defence** against the threats posed by humans.
+- *(Cam 21 · T3 · P2)* Each is printed with a scannable QR code, but there are **no scanners**.
+- *(Cam 21 · T4 · P1)* There, with **no natural predators** and perfect temperature conditions, the plant began spreading in the open water, blocking fishing routes and providing a new habitat for disease-carrying mosquitoes.
+- *(Cam 21 · T4 · P2)* While the preliminary results show there is **no difference** in general intelligence among boys and girls from slum areas versus those from urban poor backgrounds, an unanticipated finding has been that children from slum backgrounds do not seem to lag behind children from other urban poor backgrounds – and in some cases outperform them (e.g. in numeracy and literacy tasks).
 
 <a id="p5"></a>
 
 ### 5. all + N
 
-<small>82 câu</small>
+<small>86 câu</small>
 
 - *(Cam 10 · T1 · P3)* Watson, together with Francis Crick, discovered the structure of DNA, the genetic information carrier of **all living organisms**.
 - *(Cam 10 · T2 · P1)* Macfarlane says: ‘The infant mortality rate halved in the space of 20 years, and this happened in both rural areas and cities, and across **all classes**.
@@ -693,12 +718,103 @@
 - *(Cam 20 · T3 · P2)* And if this can be extended for **all species**, we could consider the launching of coral-spawning programmes several times a year.
 - *(Cam 20 · T4 · P2)* Even if we stopped **all CO2 emissions** tomorrow, we would continue to see the impact of the CO2 already released since industrial times, with scientists forecasting that global warming would continue for around 40 years.
 - *(Cam 20 · T4 · P3)* In a study carried out in Australia by Linda van Bommel and Chris Johnson at the University of Tasmania, more than 65 per cent of herders reported that predation stopped completely after they got the dogs, and almost **all the rest** saw a decrease in attacks.
+- *(Cam 21 · T2 · P3)* Similarly, Rodney Brooks, professor of robotics at Massachusetts Institute of Technology, writes that 'almost **all innovations** in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine'.
+- *(Cam 21 · T2 · P3)* **All solutions** come with a cost and not everything that can be automated should be.
+- *(Cam 21 · T3 · P1)* By 2000, the global saiga population had hit an **all-time** low of just 21,000 individuals.
+- *(Cam 21 · T3 · P2)* **All phases** are being planned to high standards and, once complete, a third of city residents will be within a short walk of the BRT network.
 
 <a id="p6"></a>
 
-### 6. any + N
+### 6. one of + the/tính từ sở hữu + N
 
-<small>76 câu</small>
+<small>80 câu</small>
+
+- *(Cam 10 · T1 · P1)* **One of the** larger examples is Raniji Ki Baori , which was built by the queen of the region, Nathavatji, in 1699.
+- *(Cam 10 · T1 · P1)* In the old ruined town of Abhaneri, about 95 kilometres east of Jaipur, is Chand Baori , one of India’s oldest and deepest wells; aesthetically, it’s perhaps **one of the** most dramatic.
+- *(Cam 10 · T1 · P3)* **One of the** most famous photographs in the story of rock’n’roll emphasises Ciaidini’s views.
+- *(Cam 10 · T1 · P3)* Teamwork taps into **one of the** basic drivers of human behaviour.
+- *(Cam 10 · T2 · P1)* So, the nation that we now think of as **one of the** most technologically advanced entered the 19th century having ‘abandoned the wheel’.
+- *(Cam 10 · T2 · P3)* **One of the** most famous works of art in the world is Leonardo da Vinci’s Mona Lisa .
+- *(Cam 10 · T3 · P1)* **One of the** largest segments of the service industry, although largely unrecognised as an entity in some of these countries, is travel and tourism.
+- *(Cam 10 · T3 · P2)* **One of the** most captivating natural events of the year in many areas throughout North America is the turning of the leaves in the fall.
+- *(Cam 10 · T3 · P3)* DNA teased from these human remains may help answer **one of the** most puzzling questions in Pacific anthropology: did all Pacific islanders spring from one source or many?
+- *(Cam 10 · T3 · P3)* No-one has found **one of their** canoes or any rigging, which could reveal how the canoes were sailed.
+- *(Cam 11 · T3 · P1)* It just so happened that while she was sipping some tea, **one of the** cocoons that she had collected landed in the hot tea and started to unravel into a fine thread.
+- *(Cam 11 · T3 · P1)* Cheaper Japanese silk, trade in which was greatly facilitated by the opening of the Suez Canal, was **one of the** many factors driving the trend.
+- *(Cam 11 · T3 · P2)* At **one of the** bottlenecks, forested hills rise to form a V, leaving a corridor of open ground only about 150 metres wide, filled with private homes.
+- *(Cam 11 · T3 · P3)* **One of my** purposes in writing this book is to give readers who haven’t had the opportunity to see and enjoy real mathematics the chance to appreciate the mathematical way of thinking.
+- *(Cam 11 · T4 · P3)* **One of the** showiest stunts that some languages can pull off is an ability to build up words of breath-breaking length, and thus express in one word what English takes a whole sentence to say.
+- *(Cam 11 · T4 · P3)* The Turkish word çehirliliçtiremediklerimizdensiniz , to take one example, means nothing less than ‘you are **one of those** whom we can’t turn into a town-dweller’.
+- *(Cam 12 · T1 · P2)* Collecting must be **one of the** most varied of human activities, and it’s one that many of us psychologists find fascinating.
+- *(Cam 12 · T3 · P2)* Perhaps **one of the** most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.
+- *(Cam 12 · T4 · P2)* **One of the** most striking findings of modern ecology is that ecosystems without large predators behave in completely different ways from those that retain them.
+- *(Cam 12 · T4 · P2)* **One of the** reasons why the enthusiasm for rewilding is spreading so quickly in Britain is that it helps to create a more inspiring vision than the green movement’s usual promise of ‘Follow us and the world will be slightly less awful than it would otherwise have been.’
+- *(Cam 12 · T4 · P3)* **One of the** main criticisms of boards and their directors is that they do not focus sufficiently on longer-term matters of strategy, sustainability and governance, but instead concentrate too much on short-term financial metrics.
+- *(Cam 13 · T1 · P1)* The campaign focused on New Zealand’s scenic beauty, exhilarating outdoor activities and authentic Maori culture, and it made New Zealand **one of the** strongest national brands in the world.
+- *(Cam 13 · T1 · P1)* **One of the** most popular was an interview with former New Zealand All Blacks rugby captain Tana Umaga.
+- *(Cam 13 · T1 · P1)* In addition, it appears that visitors to New Zealand don’t want to be ‘**one of the** crowd’ and find activities that involve only a few people more special and meaningful.
+- *(Cam 13 · T1 · P3)* Consider **one of the** oldest machine artists, Aaron, a robot that has had paintings exhibited in London’s Tate Modern and the San Francisco Museum of Modern Art.
+- *(Cam 13 · T1 · P3)* **One of its** original works is a series of fuzzy landscapes, depicting trees and sky.
+- *(Cam 13 · T4 · P2)* **One of the** people looking for a solution to his problem is Pius Floris, who started out running a tree-care business in the Netherlands, and now advises some of the world’s top soil scientists.
+- *(Cam 13 · T4 · P3)* **One of the** virtues of this rich, lucid and arresting book is that it places the current cult of happiness in a well-defined historical framework.
+- *(Cam 14 · T1 · P1)* ‘Play in all its rich variety is **one of the** highest achievements of the human species,’ says Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK.
+- *(Cam 14 · T1 · P2)* In Amsterdam today, 38% of all trips are made by bike and, along with Copenhagen, it is regarded as **one of the** two most cycle-friendly capitals in the world – but the city never got another Witte Fietsenplan.
+- *(Cam 14 · T2 · P3)* Frederick Taylor was **one of the** forefathers of scientific management.
+- *(Cam 15 · T1 · P1)* Profits began to flow into the Netherlands, and the Dutch commercial fleet swiftly grew into **one of the** largest in the world.
+- *(Cam 15 · T1 · P1)* **One of the** Banda Islands, a sliver of land called Run, only 3 km long by less than 1 km wide, was under the control of the British.
+- *(Cam 15 · T2 · P2)* Passenger pigeons are **one of the** pioneering species in this field, but they are far from the only ones on which this cutting-edge technology is being trialled.
+- *(Cam 15 · T3 · P1)* Moore was the first modern English sculptor to achieve international critical acclaim and he is still regarded as **one of the** most important sculptors of the 20th century.
+- *(Cam 15 · T4 · P1)* It is also **one of the** most fragile ecosystems on Earth.
+- *(Cam 15 · T4 · P2)* La Gomera is **one of the** Canary Islands situated in the Atlantic Ocean off the northwest coast of Africa.
+- *(Cam 16 · T1 · P2)* **One of the** most mysterious discoveries found inside the pyramid was a large number of stone vessels.
+- *(Cam 16 · T2 · P3)* Across cultures, wisdom has been considered **one of the** most revered human qualities.
+- *(Cam 16 · T2 · P3)* Grossmann and his colleagues have also found that **one of the** most reliable ways to support wisdom in our own day-to-day decisions is to look at scenarios from a third-party perspective, as though giving advice to a friend.
+- *(Cam 16 · T4 · P1)* The Persians, who lived in present-day Iran, were **one of the** first civilizations to build tunnels that provided a reliable supply of water to human settlements in dry areas.
+- *(Cam 17 · T1 · P2)* It has endured the centuries and is currently considered **one of the** world’s prime sites for opera, thanks to its outstanding acoustics.
+- *(Cam 17 · T1 · P3)* After his father was executed by the Parliamentarians in 1649, the young Charles II sacrificed **one of the** very principles his father had died for and did a deal with Scots, thereby accepting Presbyterianism* as the national religion in return for being crowned King of Scots.
+- *(Cam 17 · T1 · P3)* **One of the** joys of Spencer’s book, a result not least of its use of Charles II’s own narrative as well as those of his supporters, is just how close the reader gets to the action.
+- *(Cam 17 · T2 · P1)* **One of these** young shepherds tossed a rock into an opening on the side of a cliff and was surprised to hear a shattering sound.
+- *(Cam 17 · T2 · P1)* It soon became clear that this was **one of the** greatest archaeological discoveries ever made.
+- *(Cam 17 · T2 · P1)* **One of the** most intriguing manuscripts from Qumran, this is a sort of ancient treasure map that lists dozens of gold and silver caches.
+- *(Cam 17 · T2 · P1)* In 2017, researchers from the University of Haifa restored and deciphered **one of the** last untranslated scrolls.
+- *(Cam 17 · T3 · P1)* New-borns crawled into the pouch on the belly of their mother, and attached themselves to **one of the** four teats, remaining there for up to three months.
+- *(Cam 17 · T3 · P2)* ‘Palm oil is surely **one of the** greatest threats to global biodiversity,’ declares Dr Farnon Ellwood of the University of the West of England, Bristol.
+- *(Cam 17 · T4 · P1)* Bats comprise roughly one-fifth of all mammal species in Madagascar and thirty-six recorded bat species are native to the island, making it **one of the** most important regions for conservation of this animal group anywhere in the world.
+- *(Cam 18 · T3 · P1)* Concrete is the second most used substance in the global economy, after water – and **one of the** world’s biggest single sources of greenhouse gas emissions.
+- *(Cam 18 · T3 · P3)* In the latest update of Hattie’s influential meta-analysis of factors influencing student achievement, **one of the** most significant factors is the teachers’ estimate of achievement.
+- *(Cam 18 · T4 · P2)* **One of the** greatest impediments to successfully implementing a growth mindset, however, is the education system itself: in many parts of the world, the school climate is obsessed with performance in the form of constant testing, analysing and ranking of students – a key characteristic of the fixed mindset.
+- *(Cam 18 · T4 · P3)* When I started writing about Wegener’s life and work, **one of the** most intriguing things about him for me was that, although he came up with a theory on continental drift, he was not a geologist.
+- *(Cam 19 · T1 · P1)* It was an incredible achievement by any standard – made even more remarkable by the fact that he did this during a period considered to be **one of the** strongest in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few.
+- *(Cam 19 · T2 · P3)* It would be easy to assume that someone as special as Mirzakhani must have been **one of those** ‘gifted’ children, those who have an extraordinary ability in a specific sphere of activity or knowledge.
+- *(Cam 19 · T2 · P3)* **One of her** comments sums it up.
+- *(Cam 19 · T3 · P2)* ‘Wetlands are **one of the** key tools in mitigating climate change across the planet,’ says Pieter van Eijk, head of Climate Adaptation at Wetlands International (WI), pointing to their use as buffers that protect coastal areas from sea-level rise and extreme weather events such as hurricanes and flooding.
+- *(Cam 19 · T3 · P2)* Peat comprises 90 per cent water, so this is **one of the** most alarming consequences of peatland clearances.
+- *(Cam 19 · T3 · P3)* Noise, Alex Waibel tells me, is **one of the** major challenges that artificial speech translation has to meet.
+- *(Cam 19 · T3 · P3)* It came to represent **one of those** devices that technology enthusiasts dream of long before they become practically realizable, like TVs flat enough to hang on walls: objects that we once could only dream of having but that are now commonplace.
+- *(Cam 19 · T3 · P3)* ‘We find that there’s a barrier with sharing **one of the** earphones with a stranger,’ says Ochoa.
+- *(Cam 19 · T4 · P1)* **One of the** main ways in which species are ensuring conditions suit them is by changing the time of year at which they are active and reproduce.
+- *(Cam 19 · T4 · P2)* Any **one of these** could offer lifesaving potential.
+- *(Cam 20 · T1 · P1)* It is the world’s only flightless parrot, and is also possibly **one of the** world’s longest-living birds, with a reported lifespan of up to 100 years.
+- *(Cam 20 · T2 · P2)* In fact, it’s **one of the** worst things we can do.
+- *(Cam 20 · T3 · P3)* ‘**One of the** consequences of thinking that the problem lies with machines is that we tend to imagine they are greater and more powerful than they really are and subsequently they become so.’
+- *(Cam 20 · T4 · P1)* When in 1965 she successfully translated **one of her** cloud motifs to a monumental canvas measuring 6 metres in length (with the help of assistants), it was an enormous challenge and a special feat for an artist nearing eighty years of age.
+- *(Cam 20 · T4 · P2)* Spotts says **one of these** streets, in the Winnetka neighbourhood of San Fernando Valley, can now be seen as a pale crescent, the only cool spot on an otherwise red thermal image, from the International Space Station.
+- *(Cam 21 · T1 · P1)* Between 1908 and 1924, Gwendoline and Margaret Davies amassed **one of the** largest collections of late-nineteenth and early-twentieth-century French paintings in Britain
+- *(Cam 21 · T1 · P2)* **One of the** first to do so was London.
+- *(Cam 21 · T1 · P2)* **One of the** best-researched is the flotation tank: a lightproof, soundproof tank of salt water in which a person floats as a form of deep relaxation.
+- *(Cam 21 · T2 · P2)* Mapungubwe, which was **one of the** first states in southern Africa, was formed by Bantu-speaking peoples who were farmers.
+- *(Cam 21 · T2 · P3)* **One of the** most promising varieties of AI technologies are neural networks.
+- *(Cam 21 · T2 · P3)* **One of the** many difficulties in deploying machine learning systems is that AI is extremely susceptible to adversarial attacks.
+- *(Cam 21 · T3 · P1)* In the ten years following the break-up of the former Soviet Union in 1991, over 95% of the global population was lost – **one of the** fastest examples of species loss ever recorded for a mammal.
+- *(Cam 21 · T3 · P2)* Dar es Salaam in Tanzania is **one of the** fastest growing cities in Africa.
+- *(Cam 21 · T4 · P2)* It's possible that **one of the** causes of low performance is the lack of pupil-centred teaching methods; in many Indian primary schools the teacher dominates and there is little room for independent learning.
+- *(Cam 21 · T4 · P2)* It could, for example, be **one of the** subjects that are being taught alongside other subjects.
+
+<a id="p7"></a>
+
+### 7. any + N
+
+<small>80 câu</small>
 
 - *(Cam 10 · T1 · P3)* Research shows that peer power, used horizontally not vertically, is much more powerful than **any boss**’s speech.
 - *(Cam 10 · T1 · P3)* This behaviour is not, he says, unique to air travel, but can happen in **any workplace** where the leader is overbearing.
@@ -776,89 +892,16 @@
 - *(Cam 20 · T2 · P3)* **Any rule** that existed, they talked about changing-from changing the bats to changing the geometry of the field.
 - *(Cam 20 · T2 · P3)* According to Sword, once you get the technology right, you can load **any strike zone** you want into the system.
 - *(Cam 20 · T4 · P3)* The dogs will place themselves between the livestock and **any threat**, barking loudly.
-
-<a id="p7"></a>
-
-### 7. one of + the/tính từ sở hữu + N
-
-<small>70 câu</small>
-
-- *(Cam 10 · T1 · P1)* **One of the** larger examples is Raniji Ki Baori , which was built by the queen of the region, Nathavatji, in 1699.
-- *(Cam 10 · T1 · P1)* In the old ruined town of Abhaneri, about 95 kilometres east of Jaipur, is Chand Baori , one of India’s oldest and deepest wells; aesthetically, it’s perhaps **one of the** most dramatic.
-- *(Cam 10 · T1 · P3)* **One of the** most famous photographs in the story of rock’n’roll emphasises Ciaidini’s views.
-- *(Cam 10 · T1 · P3)* Teamwork taps into **one of the** basic drivers of human behaviour.
-- *(Cam 10 · T2 · P1)* So, the nation that we now think of as **one of the** most technologically advanced entered the 19th century having ‘abandoned the wheel’.
-- *(Cam 10 · T2 · P3)* **One of the** most famous works of art in the world is Leonardo da Vinci’s Mona Lisa .
-- *(Cam 10 · T3 · P1)* **One of the** largest segments of the service industry, although largely unrecognised as an entity in some of these countries, is travel and tourism.
-- *(Cam 10 · T3 · P2)* **One of the** most captivating natural events of the year in many areas throughout North America is the turning of the leaves in the fall.
-- *(Cam 10 · T3 · P3)* DNA teased from these human remains may help answer **one of the** most puzzling questions in Pacific anthropology: did all Pacific islanders spring from one source or many?
-- *(Cam 10 · T3 · P3)* No-one has found **one of their** canoes or any rigging, which could reveal how the canoes were sailed.
-- *(Cam 11 · T3 · P1)* It just so happened that while she was sipping some tea, **one of the** cocoons that she had collected landed in the hot tea and started to unravel into a fine thread.
-- *(Cam 11 · T3 · P1)* Cheaper Japanese silk, trade in which was greatly facilitated by the opening of the Suez Canal, was **one of the** many factors driving the trend.
-- *(Cam 11 · T3 · P2)* At **one of the** bottlenecks, forested hills rise to form a V, leaving a corridor of open ground only about 150 metres wide, filled with private homes.
-- *(Cam 11 · T3 · P3)* **One of my** purposes in writing this book is to give readers who haven’t had the opportunity to see and enjoy real mathematics the chance to appreciate the mathematical way of thinking.
-- *(Cam 11 · T4 · P3)* **One of the** showiest stunts that some languages can pull off is an ability to build up words of breath-breaking length, and thus express in one word what English takes a whole sentence to say.
-- *(Cam 11 · T4 · P3)* The Turkish word çehirliliçtiremediklerimizdensiniz , to take one example, means nothing less than ‘you are **one of those** whom we can’t turn into a town-dweller’.
-- *(Cam 12 · T1 · P2)* Collecting must be **one of the** most varied of human activities, and it’s one that many of us psychologists find fascinating.
-- *(Cam 12 · T3 · P2)* Perhaps **one of the** most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.
-- *(Cam 12 · T4 · P2)* **One of the** most striking findings of modern ecology is that ecosystems without large predators behave in completely different ways from those that retain them.
-- *(Cam 12 · T4 · P2)* **One of the** reasons why the enthusiasm for rewilding is spreading so quickly in Britain is that it helps to create a more inspiring vision than the green movement’s usual promise of ‘Follow us and the world will be slightly less awful than it would otherwise have been.’
-- *(Cam 12 · T4 · P3)* **One of the** main criticisms of boards and their directors is that they do not focus sufficiently on longer-term matters of strategy, sustainability and governance, but instead concentrate too much on short-term financial metrics.
-- *(Cam 13 · T1 · P1)* The campaign focused on New Zealand’s scenic beauty, exhilarating outdoor activities and authentic Maori culture, and it made New Zealand **one of the** strongest national brands in the world.
-- *(Cam 13 · T1 · P1)* **One of the** most popular was an interview with former New Zealand All Blacks rugby captain Tana Umaga.
-- *(Cam 13 · T1 · P1)* In addition, it appears that visitors to New Zealand don’t want to be ‘**one of the** crowd’ and find activities that involve only a few people more special and meaningful.
-- *(Cam 13 · T1 · P3)* Consider **one of the** oldest machine artists, Aaron, a robot that has had paintings exhibited in London’s Tate Modern and the San Francisco Museum of Modern Art.
-- *(Cam 13 · T1 · P3)* **One of its** original works is a series of fuzzy landscapes, depicting trees and sky.
-- *(Cam 13 · T4 · P2)* **One of the** people looking for a solution to his problem is Pius Floris, who started out running a tree-care business in the Netherlands, and now advises some of the world’s top soil scientists.
-- *(Cam 13 · T4 · P3)* **One of the** virtues of this rich, lucid and arresting book is that it places the current cult of happiness in a well-defined historical framework.
-- *(Cam 14 · T1 · P1)* ‘Play in all its rich variety is **one of the** highest achievements of the human species,’ says Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK.
-- *(Cam 14 · T1 · P2)* In Amsterdam today, 38% of all trips are made by bike and, along with Copenhagen, it is regarded as **one of the** two most cycle-friendly capitals in the world – but the city never got another Witte Fietsenplan.
-- *(Cam 14 · T2 · P3)* Frederick Taylor was **one of the** forefathers of scientific management.
-- *(Cam 15 · T1 · P1)* Profits began to flow into the Netherlands, and the Dutch commercial fleet swiftly grew into **one of the** largest in the world.
-- *(Cam 15 · T1 · P1)* **One of the** Banda Islands, a sliver of land called Run, only 3 km long by less than 1 km wide, was under the control of the British.
-- *(Cam 15 · T2 · P2)* Passenger pigeons are **one of the** pioneering species in this field, but they are far from the only ones on which this cutting-edge technology is being trialled.
-- *(Cam 15 · T3 · P1)* Moore was the first modern English sculptor to achieve international critical acclaim and he is still regarded as **one of the** most important sculptors of the 20th century.
-- *(Cam 15 · T4 · P1)* It is also **one of the** most fragile ecosystems on Earth.
-- *(Cam 15 · T4 · P2)* La Gomera is **one of the** Canary Islands situated in the Atlantic Ocean off the northwest coast of Africa.
-- *(Cam 16 · T1 · P2)* **One of the** most mysterious discoveries found inside the pyramid was a large number of stone vessels.
-- *(Cam 16 · T2 · P3)* Across cultures, wisdom has been considered **one of the** most revered human qualities.
-- *(Cam 16 · T2 · P3)* Grossmann and his colleagues have also found that **one of the** most reliable ways to support wisdom in our own day-to-day decisions is to look at scenarios from a third-party perspective, as though giving advice to a friend.
-- *(Cam 16 · T4 · P1)* The Persians, who lived in present-day Iran, were **one of the** first civilizations to build tunnels that provided a reliable supply of water to human settlements in dry areas.
-- *(Cam 17 · T1 · P2)* It has endured the centuries and is currently considered **one of the** world’s prime sites for opera, thanks to its outstanding acoustics.
-- *(Cam 17 · T1 · P3)* After his father was executed by the Parliamentarians in 1649, the young Charles II sacrificed **one of the** very principles his father had died for and did a deal with Scots, thereby accepting Presbyterianism* as the national religion in return for being crowned King of Scots.
-- *(Cam 17 · T1 · P3)* **One of the** joys of Spencer’s book, a result not least of its use of Charles II’s own narrative as well as those of his supporters, is just how close the reader gets to the action.
-- *(Cam 17 · T2 · P1)* **One of these** young shepherds tossed a rock into an opening on the side of a cliff and was surprised to hear a shattering sound.
-- *(Cam 17 · T2 · P1)* It soon became clear that this was **one of the** greatest archaeological discoveries ever made.
-- *(Cam 17 · T2 · P1)* **One of the** most intriguing manuscripts from Qumran, this is a sort of ancient treasure map that lists dozens of gold and silver caches.
-- *(Cam 17 · T2 · P1)* In 2017, researchers from the University of Haifa restored and deciphered **one of the** last untranslated scrolls.
-- *(Cam 17 · T3 · P1)* New-borns crawled into the pouch on the belly of their mother, and attached themselves to **one of the** four teats, remaining there for up to three months.
-- *(Cam 17 · T3 · P2)* ‘Palm oil is surely **one of the** greatest threats to global biodiversity,’ declares Dr Farnon Ellwood of the University of the West of England, Bristol.
-- *(Cam 17 · T4 · P1)* Bats comprise roughly one-fifth of all mammal species in Madagascar and thirty-six recorded bat species are native to the island, making it **one of the** most important regions for conservation of this animal group anywhere in the world.
-- *(Cam 18 · T3 · P1)* Concrete is the second most used substance in the global economy, after water – and **one of the** world’s biggest single sources of greenhouse gas emissions.
-- *(Cam 18 · T3 · P3)* In the latest update of Hattie’s influential meta-analysis of factors influencing student achievement, **one of the** most significant factors is the teachers’ estimate of achievement.
-- *(Cam 18 · T4 · P2)* **One of the** greatest impediments to successfully implementing a growth mindset, however, is the education system itself: in many parts of the world, the school climate is obsessed with performance in the form of constant testing, analysing and ranking of students – a key characteristic of the fixed mindset.
-- *(Cam 18 · T4 · P3)* When I started writing about Wegener’s life and work, **one of the** most intriguing things about him for me was that, although he came up with a theory on continental drift, he was not a geologist.
-- *(Cam 19 · T1 · P1)* It was an incredible achievement by any standard – made even more remarkable by the fact that he did this during a period considered to be **one of the** strongest in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few.
-- *(Cam 19 · T2 · P3)* It would be easy to assume that someone as special as Mirzakhani must have been **one of those** ‘gifted’ children, those who have an extraordinary ability in a specific sphere of activity or knowledge.
-- *(Cam 19 · T2 · P3)* **One of her** comments sums it up.
-- *(Cam 19 · T3 · P2)* ‘Wetlands are **one of the** key tools in mitigating climate change across the planet,’ says Pieter van Eijk, head of Climate Adaptation at Wetlands International (WI), pointing to their use as buffers that protect coastal areas from sea-level rise and extreme weather events such as hurricanes and flooding.
-- *(Cam 19 · T3 · P2)* Peat comprises 90 per cent water, so this is **one of the** most alarming consequences of peatland clearances.
-- *(Cam 19 · T3 · P3)* Noise, Alex Waibel tells me, is **one of the** major challenges that artificial speech translation has to meet.
-- *(Cam 19 · T3 · P3)* It came to represent **one of those** devices that technology enthusiasts dream of long before they become practically realizable, like TVs flat enough to hang on walls: objects that we once could only dream of having but that are now commonplace.
-- *(Cam 19 · T3 · P3)* ‘We find that there’s a barrier with sharing **one of the** earphones with a stranger,’ says Ochoa.
-- *(Cam 19 · T4 · P1)* **One of the** main ways in which species are ensuring conditions suit them is by changing the time of year at which they are active and reproduce.
-- *(Cam 19 · T4 · P2)* Any **one of these** could offer lifesaving potential.
-- *(Cam 20 · T1 · P1)* It is the world’s only flightless parrot, and is also possibly **one of the** world’s longest-living birds, with a reported lifespan of up to 100 years.
-- *(Cam 20 · T2 · P2)* In fact, it’s **one of the** worst things we can do.
-- *(Cam 20 · T3 · P3)* ‘**One of the** consequences of thinking that the problem lies with machines is that we tend to imagine they are greater and more powerful than they really are and subsequently they become so.’
-- *(Cam 20 · T4 · P1)* When in 1965 she successfully translated **one of her** cloud motifs to a monumental canvas measuring 6 metres in length (with the help of assistants), it was an enormous challenge and a special feat for an artist nearing eighty years of age.
-- *(Cam 20 · T4 · P2)* Spotts says **one of these** streets, in the Winnetka neighbourhood of San Fernando Valley, can now be seen as a pale crescent, the only cool spot on an otherwise red thermal image, from the International Space Station.
+- *(Cam 21 · T1 · P1)* Yet they initially made very few attempts to secure **any such works**.
+- *(Cam 21 · T2 · P1)* The trouble is that we will never be able to experience **any animal**'s dreams.
+- *(Cam 21 · T3 · P2)* Nearly all the expansion is happening on the periphery, and nearly all takes place informally without **any agreed strategy**.
+- *(Cam 21 · T4 · P2)* Some arrive speaking fluent Hindi, the dominant language in Delhi (and the official language of government), but many arrive speaking **any number** of India's 22 officially recognised languages, let alone the hundreds of regional languages in a country of more than 1.3 billion people.
 
 <a id="p8"></a>
 
 ### 8. another + N (số ít)
 
-<small>63 câu</small>
+<small>67 câu</small>
 
 - *(Cam 10 · T1 · P1)* **Another example** is the Surya Kund in Modhera, northern Gujarat, next to the Sun Temple, built by King Bhima I in 1026 to honour the sun god Surya.
 - *(Cam 10 · T1 · P3)* ‘If your project is being resisted, for example, by a group of veteran employees, ask **another old-timer** to speak up for it.’
@@ -923,12 +966,16 @@
 - *(Cam 20 · T3 · P3)* ** … And **another worry** is that we are increasingly dependent on computer networks, and that these could behave like a single “brain” with a mind of its own, and with goals that may be contrary to human welfare.
 - *(Cam 20 · T4 · P1)* Later, she also explored **another variation** on this theme in her large series of Pelvis pictures, which focused on the contrasts between convex and concave surfaces, and solid and open spaces.
 - *(Cam 20 · T4 · P3)* **Another concern** is whether there may be unintended ecological effects of using guard dogs.
+- *(Cam 21 · T2 · P1)* **Another non-human dreamer** offers insight here.
+- *(Cam 21 · T2 · P2)* Archaeological discoveries reveal that pottery was produced on a scale large enough to suggest the presence of professional potters, and is **another indicator** of the prosperity of Mapungubwe society.
+- *(Cam 21 · T2 · P3)* This means that a malicious AI can target **another AI** to make it behave in a certain way, such as forcing it to make wrong predictions.
+- *(Cam 21 · T3 · P1)* **Another threat** to the survival of the saiga is loss of habitat, as a result of agricultural expansion and human settlement.
 
 <a id="p9"></a>
 
 ### 9. few + N số nhiều
 
-<small>52 câu</small>
+<small>61 câu</small>
 
 - *(Cam 10 · T1 · P1)* When the water level was high, the user needed only to descend a **few steps** to reach it; when it was low, several levels would have to be negotiated.
 - *(Cam 10 · T2 · P3)* However, if Mona Lisa was a famous novel, **few people** would bother to go to a museum to read the writer’s actual manuscript rather than a printed reproduction.
@@ -982,12 +1029,81 @@
 - *(Cam 20 · T1 · P1)* Six were caught, but there were no females amongst them and all but one died within a **few months** of captivity.
 - *(Cam 20 · T3 · P1)* In the 1930s, **few grocery stores** could afford to buy freezers for a market that wasn’t established yet.
 - *(Cam 20 · T3 · P1)* However, **few consumers** had freezers large enough or efficient enough to take advantage of the products.
+- *(Cam 21 · T1 · P1)* Yet they initially made very **few attempts** to secure any such works.
+- *(Cam 21 · T1 · P1)* However, it was only a **few years** before their collecting took a new direction and they turned to the work of the French Impressionists***.
+- *(Cam 21 · T1 · P2)* 'It is likely better to have more frequency of silence for a **few minutes** at a time than a longer period of silence only once a week.
+- *(Cam 21 · T2 · P3)* In only a **few years**, AI solutionism has made its way from the technology evangelists' mouths in Silicon Valley in California to the minds of government officials and policymakers around the world.
+- *(Cam 21 · T2 · P3)* The **few digitised sources** of data that exist tend to be buried in bureaucracy.
+- *(Cam 21 · T3 · P2)* A single suburban rail line serves residents in a **few areas** to the south but is tiny in the context of the wider city.
+- *(Cam 21 · T3 · P2)* 'Much of the city will have access to a world-class transport system within the space of a **few years**,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy).
+- *(Cam 21 · T4 · P1)* A **few years** later, Kenyan scientists confirmed what their Nigerian peers and others had already found: manure worked to improve the process of converting the weed into gas.
+- *(Cam 21 · T4 · P3)* His book, beautifully illustrated with photographs of the various stages of his venture and a **few illustrations** of historic globes and maps, is hardly a blueprint for commercial success.
 
 <a id="p10"></a>
 
-### 10. each + N số ít/không đếm được
+### 10. every + N số ít/không đếm được
 
-<small>48 câu</small>
+<small>53 câu</small>
+
+- *(Cam 10 · T1 · P3)* Studies at Harvard Business School show that, although some individuals may be more creative than others, almost **every individual** can be creative in the right circumstances.
+- *(Cam 10 · T1 · P3)* Cialdini says: ‘Leaders should encourage everyone to contribute and simultaneously assure all concerned that **every recommendation** is important to making the right decision and will be given full attention.’
+- *(Cam 10 · T3 · P3)* The real adventure didn’t begin, however, until their Lapita descendants sailed out of sight of land, with empty horizons on **every side**.
+- *(Cam 11 · T3 · P3)* Anyone can understand **every step** in the reasoning.
+- *(Cam 12 · T1 · P3)* This example suggests how dishonest and illegal behavior, with the help of higher education, can creep into **every aspect** of public and business life.
+- *(Cam 12 · T2 · P1)* Two things distinguish food production from all other productive activities: first, **every single person** needs food each day and has a right to it; and second, it is hugely dependent on nature.
+- *(Cam 12 · T3 · P3)* While music can often seem (at least to the outsider) like a labyrinth of intricate patterns, it turns out that the most important part of **every song** or symphony is when the patterns break down, when the sound becomes unpredictable.
+- *(Cam 12 · T4 · P1)* It features in almost **every aspect** of our lives – in our homes, our cars
+- *(Cam 12 · T4 · P2)* This policy would also greatly boost catches in the surrounding seas; the fishing industry’s insistence on scouring **every inch** of seabed, leaving no breeding reserves, could not be more damaging to its own interests.
+- *(Cam 12 · T4 · P3)* The tyranny of quarterly reporting can distort board decision-making, as directors have to ‘make the numbers’ **every four months** to meet the insatiable appetite of the market for more date.
+- *(Cam 13 · T4 · P1)* One such journey took just under 12 weeks, beating **every other ship sailing** that year by around a month.
+- *(Cam 13 · T4 · P2)* Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million **every year**.
+- *(Cam 14 · T1 · P1)* ‘The opportunities for free play, which I experienced almost **every day** of my childhood, are becoming increasingly scarce,’ he says.
+- *(Cam 14 · T1 · P2)* ‘After **every weekend** there would always be a couple of bikes missing,’ Molenaar says.
+- *(Cam 14 · T2 · P3)* **Every week**, countless seminars and workshops take place around the world to tell a paying public that they ought to structure their lives in order to achieve this.
+- *(Cam 14 · T3 · P2)* Insects are the undisputed masters of the terrestrial domain, where the occupy **every possible niche**.
+- *(Cam 14 · T3 · P2)* Their remarkable diversity exceeds that of **every other group** of animals on the planet combined.
+- *(Cam 14 · T3 · P2)* With **every bit** of wilderness that disappears, we deprive ourselves of potential medicines.
+- *(Cam 14 · T3 · P3)* Virtually **every child**, the world over, plays.
+- *(Cam 14 · T3 · P3)* Indeed, play is such an instrumental component to healthy child development that the United Nation High Commission on Human Rights (1989) recognized play as a fundamental right of **every child**.
+- *(Cam 15 · T1 · P1)* Intent on securing their hold over **every nutmeg-producing island**, the Dutch offered a trade: if the British would give them the island of Run, they would in turn give Britain a distant and much less valuable island in North America.
+- *(Cam 15 · T2 · P3)* First, the students performed a tedious task in which they had to cross out **every instance** of the letter ‘e’ over two pages of text.
+- *(Cam 15 · T3 · P3)* People of **every culture** tell each other fairy tales but the same story often takes a variety of forms in different parts of the world.
+- *(Cam 16 · T1 · P1)* Female polar bears, however, undergo extreme conditions during **every pregnancy**.
+- *(Cam 16 · T2 · P2)* They inhabit the soil, air, rocks and water and are present within **every form** of life, from seaweed and coral to dogs and humans.
+- *(Cam 16 · T2 · P2)* **Every species** has its own colony of microbes, called a ‘microbiome’, and these microbes vary not only between species but also between individuals and within different parts of each individual.
+- *(Cam 16 · T2 · P2)* **Every time** we eat, we swallow a million microbes in each gram of food; we are continually swapping microbes with other humans, pets and the world at large.
+- *(Cam 16 · T3 · P3)* Thermal stress reduces crop yields by around 10% for **every one degree increase** in temperature,’ says lead researcher Dr Philip Wigge from Cambridge’s Sainsbury Laboratory.
+- *(Cam 17 · T1 · P2)* History shows that stadiums can drive urban development and adapt to the culture of **every age**.
+- *(Cam 17 · T1 · P2)* In **every era**, the stadium has acquired new value and uses: from military fortress to residential village, public space to theatre and most recently a field for experimentation in advanced engineering.
+- *(Cam 17 · T2 · P1)* The Dead Sea Scrolls include fragments from **every book** of the Old Testament of the Bible except for the Book of Esther.
+- *(Cam 17 · T2 · P2)* But **every time** a single plant with a mutation is taken from a larger population for breeding, much genetic diversity is lost.
+- *(Cam 17 · T3 · P2)* From a mere two million tonnes of palm Nil being produced annually globally 50 years ago, there are now around 60 million tonnes produced **every single year**, a figure looking likely to double or even triple by the middle of the century.
+- *(Cam 17 · T4 · P1)* Madagascar’s forests are being converted to agricultural land at a rate of one percent **every year**.
+- *(Cam 17 · T4 · P3)* Not only must the positions of each piece on **every board** be memorised, they must be recalled faithfully when needed, updated with each player’s moves, and then reliably stored again, so the brain can move on to the next board.
+- *(Cam 18 · T1 · P1)* When the remaining two thirds of the vast open area are in production, 20 staff will harvest up to 1,000 kg of perhaps 35 different varieties of fruit and vegetables, **every day**.
+- *(Cam 18 · T1 · P1)* No soil is exhausted, and the water that gently showers the plants’ roots **every 12 minutes** is recycled, so the method uses 90% less water than a classic intensive farm for the same yield.
+- *(Cam 18 · T1 · P3)* And satellite operators can’t steer away from **every potential crash**, because each move consumes time and fuel that could otherwise be used for the spacecraft’s main job.
+- *(Cam 18 · T3 · P3)* The practice is intuitively appealing to almost **every stakeholder**.
+- *(Cam 18 · T4 · P2)* Instead, educators such as John Dewey argued that **every child**’s intelligence could be developed, given the right environment.
+- *(Cam 19 · T2 · P3)* Deliberate practice, that stretches you **every step** of the way, and around 10,000 hours of it, is what produces the goods.
+- *(Cam 19 · T3 · P3)* A translation system needs to be simultaneous, like the translator’s voice speaking over the foreign politician being interviewed on the TV, rather than in sections that oblige speakers to pause after **every few remarks** and wait for the translation to be delivered.
+- *(Cam 19 · T4 · P1)* This provided information on 130 species of butterflies in Great Britain **every year** for a 20-year period.
+- *(Cam 20 · T2 · P1)* Adult manatees sleep underwater for 10-12 hours a day, but they come up for air **every 15-20 minutes**.
+- *(Cam 20 · T2 · P1)* Manatee hunting is now illegal in **every country** the African species is found in.
+- *(Cam 20 · T2 · P2)* For **every one-point increase** on a measure of chronic procrastination, annual income decreased by US$$15,000.
+- *(Cam 20 · T4 · P3)* ‘In some regions, we work with almost **every farmer**, but in others only one or two have dogs,’ says Ribeiro.
+- *(Cam 21 · T2 · P3)* Just looking at the media headlines, you might think that we are already living in a future where AI has infiltrated **every aspect** of society.
+- *(Cam 21 · T2 · P3)* Using AI simply for the sake of AI may not always be productive or useful, and not **every issue** is best addressed by applying machine intelligence to it.
+- *(Cam 21 · T3 · P2)* Its population has increased eightfold since 1980 and swells by half a million people **every year**.
+- *(Cam 21 · T3 · P2)* He takes the bus **every day** and it has cut his journey time by two-thirds.
+- *(Cam 21 · T3 · P2)* Smartcards can't be used as the mechanical readers aren't working either, forcing passengers to buy individual paper tickets for **every journey**.
+- *(Cam 21 · T4 · P1)* Besides, they don't have to devote a lot of time **every day** to gathering firewood, which is a great relief.
+
+<a id="p11"></a>
+
+### 11. each + N số ít/không đếm được
+
+<small>51 câu</small>
 
 - *(Cam 10 · T1 · P1)* Some wells are vast, open craters with hundreds of steps paving **each sloping side**, often in tiers.
 - *(Cam 10 · T1 · P2)* The number of cars on European Union (EU) roads saw an increase of three million cars **each year** from 1990 to 2010, and in the next decade the EU will see a further substantial increase in its fleet.
@@ -1037,66 +1153,70 @@
 - *(Cam 20 · T2 · P1)* Manatees spend about eight hours **each day** grazing and uprooting plants.
 - *(Cam 20 · T2 · P1)* They eat up to 15% of their weight in food **each day**.
 - *(Cam 20 · T4 · P1)* Over the next two decades she made almost annual trips to New Mexico, staying up to six months there, painting in relative solitude, then returning to New York **each winter** to exhibit the new work at Stieglitz’s gallery.
-
-<a id="p11"></a>
-
-### 11. every + N số ít/không đếm được
-
-<small>47 câu</small>
-
-- *(Cam 10 · T1 · P3)* Studies at Harvard Business School show that, although some individuals may be more creative than others, almost **every individual** can be creative in the right circumstances.
-- *(Cam 10 · T1 · P3)* Cialdini says: ‘Leaders should encourage everyone to contribute and simultaneously assure all concerned that **every recommendation** is important to making the right decision and will be given full attention.’
-- *(Cam 10 · T3 · P3)* The real adventure didn’t begin, however, until their Lapita descendants sailed out of sight of land, with empty horizons on **every side**.
-- *(Cam 11 · T3 · P3)* Anyone can understand **every step** in the reasoning.
-- *(Cam 12 · T1 · P3)* This example suggests how dishonest and illegal behavior, with the help of higher education, can creep into **every aspect** of public and business life.
-- *(Cam 12 · T2 · P1)* Two things distinguish food production from all other productive activities: first, **every single person** needs food each day and has a right to it; and second, it is hugely dependent on nature.
-- *(Cam 12 · T3 · P3)* While music can often seem (at least to the outsider) like a labyrinth of intricate patterns, it turns out that the most important part of **every song** or symphony is when the patterns break down, when the sound becomes unpredictable.
-- *(Cam 12 · T4 · P1)* It features in almost **every aspect** of our lives – in our homes, our cars
-- *(Cam 12 · T4 · P2)* This policy would also greatly boost catches in the surrounding seas; the fishing industry’s insistence on scouring **every inch** of seabed, leaving no breeding reserves, could not be more damaging to its own interests.
-- *(Cam 12 · T4 · P3)* The tyranny of quarterly reporting can distort board decision-making, as directors have to ‘make the numbers’ **every four months** to meet the insatiable appetite of the market for more date.
-- *(Cam 13 · T4 · P1)* One such journey took just under 12 weeks, beating **every other ship sailing** that year by around a month.
-- *(Cam 13 · T4 · P2)* Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million **every year**.
-- *(Cam 14 · T1 · P1)* ‘The opportunities for free play, which I experienced almost **every day** of my childhood, are becoming increasingly scarce,’ he says.
-- *(Cam 14 · T1 · P2)* ‘After **every weekend** there would always be a couple of bikes missing,’ Molenaar says.
-- *(Cam 14 · T2 · P3)* **Every week**, countless seminars and workshops take place around the world to tell a paying public that they ought to structure their lives in order to achieve this.
-- *(Cam 14 · T3 · P2)* Insects are the undisputed masters of the terrestrial domain, where the occupy **every possible niche**.
-- *(Cam 14 · T3 · P2)* Their remarkable diversity exceeds that of **every other group** of animals on the planet combined.
-- *(Cam 14 · T3 · P2)* With **every bit** of wilderness that disappears, we deprive ourselves of potential medicines.
-- *(Cam 14 · T3 · P3)* Virtually **every child**, the world over, plays.
-- *(Cam 14 · T3 · P3)* Indeed, play is such an instrumental component to healthy child development that the United Nation High Commission on Human Rights (1989) recognized play as a fundamental right of **every child**.
-- *(Cam 15 · T1 · P1)* Intent on securing their hold over **every nutmeg-producing island**, the Dutch offered a trade: if the British would give them the island of Run, they would in turn give Britain a distant and much less valuable island in North America.
-- *(Cam 15 · T2 · P3)* First, the students performed a tedious task in which they had to cross out **every instance** of the letter ‘e’ over two pages of text.
-- *(Cam 15 · T3 · P3)* People of **every culture** tell each other fairy tales but the same story often takes a variety of forms in different parts of the world.
-- *(Cam 16 · T1 · P1)* Female polar bears, however, undergo extreme conditions during **every pregnancy**.
-- *(Cam 16 · T2 · P2)* They inhabit the soil, air, rocks and water and are present within **every form** of life, from seaweed and coral to dogs and humans.
-- *(Cam 16 · T2 · P2)* **Every species** has its own colony of microbes, called a ‘microbiome’, and these microbes vary not only between species but also between individuals and within different parts of each individual.
-- *(Cam 16 · T2 · P2)* **Every time** we eat, we swallow a million microbes in each gram of food; we are continually swapping microbes with other humans, pets and the world at large.
-- *(Cam 16 · T3 · P3)* Thermal stress reduces crop yields by around 10% for **every one degree increase** in temperature,’ says lead researcher Dr Philip Wigge from Cambridge’s Sainsbury Laboratory.
-- *(Cam 17 · T1 · P2)* History shows that stadiums can drive urban development and adapt to the culture of **every age**.
-- *(Cam 17 · T1 · P2)* In **every era**, the stadium has acquired new value and uses: from military fortress to residential village, public space to theatre and most recently a field for experimentation in advanced engineering.
-- *(Cam 17 · T2 · P1)* The Dead Sea Scrolls include fragments from **every book** of the Old Testament of the Bible except for the Book of Esther.
-- *(Cam 17 · T2 · P2)* But **every time** a single plant with a mutation is taken from a larger population for breeding, much genetic diversity is lost.
-- *(Cam 17 · T3 · P2)* From a mere two million tonnes of palm Nil being produced annually globally 50 years ago, there are now around 60 million tonnes produced **every single year**, a figure looking likely to double or even triple by the middle of the century.
-- *(Cam 17 · T4 · P1)* Madagascar’s forests are being converted to agricultural land at a rate of one percent **every year**.
-- *(Cam 17 · T4 · P3)* Not only must the positions of each piece on **every board** be memorised, they must be recalled faithfully when needed, updated with each player’s moves, and then reliably stored again, so the brain can move on to the next board.
-- *(Cam 18 · T1 · P1)* When the remaining two thirds of the vast open area are in production, 20 staff will harvest up to 1,000 kg of perhaps 35 different varieties of fruit and vegetables, **every day**.
-- *(Cam 18 · T1 · P1)* No soil is exhausted, and the water that gently showers the plants’ roots **every 12 minutes** is recycled, so the method uses 90% less water than a classic intensive farm for the same yield.
-- *(Cam 18 · T1 · P3)* And satellite operators can’t steer away from **every potential crash**, because each move consumes time and fuel that could otherwise be used for the spacecraft’s main job.
-- *(Cam 18 · T3 · P3)* The practice is intuitively appealing to almost **every stakeholder**.
-- *(Cam 18 · T4 · P2)* Instead, educators such as John Dewey argued that **every child**’s intelligence could be developed, given the right environment.
-- *(Cam 19 · T2 · P3)* Deliberate practice, that stretches you **every step** of the way, and around 10,000 hours of it, is what produces the goods.
-- *(Cam 19 · T3 · P3)* A translation system needs to be simultaneous, like the translator’s voice speaking over the foreign politician being interviewed on the TV, rather than in sections that oblige speakers to pause after **every few remarks** and wait for the translation to be delivered.
-- *(Cam 19 · T4 · P1)* This provided information on 130 species of butterflies in Great Britain **every year** for a 20-year period.
-- *(Cam 20 · T2 · P1)* Adult manatees sleep underwater for 10-12 hours a day, but they come up for air **every 15-20 minutes**.
-- *(Cam 20 · T2 · P1)* Manatee hunting is now illegal in **every country** the African species is found in.
-- *(Cam 20 · T2 · P2)* For **every one-point increase** on a measure of chronic procrastination, annual income decreased by US$$15,000.
-- *(Cam 20 · T4 · P3)* ‘In some regions, we work with almost **every farmer**, but in others only one or two have dogs,’ says Ribeiro.
+- *(Cam 21 · T4 · P1)* In order to smoke the fish that they buy, they must gather huge quantities of firewood, sometimes walking as far as 10km **each way** to collect enough to complete their work.
+- *(Cam 21 · T4 · P1)* And **each day** as they cook, they breathe in the thick, grey smoke.
+- *(Cam 21 · T4 · P2)* '**Each year** across India, 600,000 children are tested, and year after year over 50% of children in Standard 5 [ten-year-olds] cannot read a Standard 2 [seven-year-olds] task fluently, and just under 50% of them cannot solve a Standard 2 subtraction task,' says Tsimpli.
 
 <a id="p12"></a>
 
-### 12. most + N (hầu hết)
+### 12. a few + N
 
-<small>42 câu</small>
+<small>48 câu</small>
+
+- *(Cam 10 · T1 · P1)* Most stepwells are found dotted around the desert areas of Gujarat (where they are called vav ) and Rajasthan (where they are known as baori ), while **a few** also survive in Delhi.
+- *(Cam 10 · T1 · P1)* When the water level was high, the user needed only to descend **a few** steps to reach it; when it was low, several levels would have to be negotiated.
+- *(Cam 10 · T3 · P3)* They probably never numbered more than **a few** thousand in total, and in their rapid migration eastward they encountered hundreds of islands – more than 300 in Fiji alone.
+- *(Cam 10 · T4 · P3)* The team calculated that there is a good chance of silent genes surviving for up to 6 million years in at least **a few** individuals in a population, and that some might survive as long as 10 million years.
+- *(Cam 10 · T4 · P3)* Many of these have minuscule limbs; some look more like snakes than lizards and **a few** have completely lost the toes on their hind limbs.
+- *(Cam 11 · T1 · P3)* But while **a few** countries are making major strides in this regard, the majority are having great difficulty even stemming the rate of increase, let alone reversing it.
+- *(Cam 11 · T2 · P1)* These raised it **a few** centimetres over a period of several days, as the lifting frame rose slowly up its four legs.
+- *(Cam 11 · T2 · P2)* When the Europeans arrived, Rapa Nui was grassland, with only **a few** scrawny trees.
+- *(Cam 11 · T2 · P2)* Recent experiments indicate that as few as 18 people could, with three strong ropes and a bit of practice, easily manoeuvre a 1,000 kg moai replica **a few** hundred metres.
+- *(Cam 11 · T2 · P2)* The rats arrived along with the settlers, and in just **a few** years, Hunt and Lipo calculate, they would have overrun the island.
+- *(Cam 11 · T4 · P3)* In themselves, these configurations of mouth p,f,b,v,t,d,k,g,sh,a,e and so on – amount to nothing more than **a few** haphazard spits and splutters, random noises with no meaning, no ability to express, no power to explain.
+- *(Cam 12 · T2 · P2)* On 24 July they were **a few** days into their descent of the valley.
+- *(Cam 12 · T3 · P1)* From the 17th century onwards, pirates took **a few** on board for food, but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially.
+- *(Cam 13 · T1 · P1)* In addition, it appears that visitors to New Zealand don’t want to be ‘one of the crowd’ and find activities that involve only **a few** people more special and meaningful.
+- *(Cam 13 · T2 · P2)* Then, after **a few** years, contrasting findings began to emerge.
+- *(Cam 14 · T1 · P2)* ‘We painted **a few** bikes white, that was all.
+- *(Cam 14 · T3 · P2)* The larvae of **a few** other insect species are being investigated for the potent antimicrobial compounds they produce.
+- *(Cam 14 · T3 · P2)* Thirdly, although we consider insects to be everywhere, the reality of this ubiquity is vast numbers of **a few** extremely common species.
+- *(Cam 15 · T1 · P1)* Nutmeg bought for **a few** pennies in Indonesia could be sold for 68,000 times its original cost on the streets of London.
+- *(Cam 15 · T1 · P1)* They concentrated all nutmeg production into **a few** easily guarded areas, uprooting and destroying any trees outside the plantation zones.
+- *(Cam 15 · T4 · P1)* If you just have **a few** trees left, the population can grow up quickly because it’s used to exploiting water when it arrives.’
+- *(Cam 15 · T4 · P2)* Whistled languages survive today in Papua New Guinea, Mexico, Vietnam, Guyana, China, Nepal, Senegal, and **a few** mountainous pockets in southern Europe.
+- *(Cam 16 · T3 · P1)* There are **a few** surviving written documents that give descriptions and representations of ancient Roman ships, including the sails and rigging.
+- *(Cam 16 · T3 · P2)* Extreme cold is one reliable way to keep artefacts relatively fresh for **a few** thousand years, but once thawed out, these materials experience degradation relatively swiftly.
+- *(Cam 17 · T4 · P3)* ‘But the thing that’s so remarkable about Timur and **a few** other individuals is the number of games they can keep active at once.
+- *(Cam 18 · T1 · P2)* With the many pests and pathogens visiting forests including hemlock wooly adelgid, Asian longhomed beetle, emerald ash borer, and gypsy moth, to name just **a few**, it is important to remember that those working in the forests can help ease these issues through cutting procedures.
+- *(Cam 18 · T1 · P3)* Just **a few** uncontrolled space crashes could generate enough debris to set off a runaway cascade of fragments, rendering near-Earth space unusable.
+- *(Cam 18 · T3 · P3)* And today, more than ever, we need the many to flourish – not suffer at the expense of **a few** bright stars.
+- *(Cam 18 · T4 · P3)* Wegener left behind **a few** published works but, as was standard practice, these reported the results of his work – not the journey he took to reach that point.
+- *(Cam 18 · T4 · P3)* Only **a few** hundred of the many thousands of letters he wrote and received in his lifetime have survived and he didn’t keep notebooks or diaries that recorded his life and activities.
+- *(Cam 18 · T4 · P3)* He was not active (with **a few** exceptions) in scientific societies, and did not seek to find influence or advance his ideas through professional contacts and politics, spending most of his time at home in his study reading and writing, or in the field collecting observations.
+- *(Cam 19 · T1 · P1)* It was an incredible achievement by any standard – made even more remarkable by the fact that he did this during a period considered to be one of the strongest in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just **a few**.
+- *(Cam 19 · T1 · P2)* Thus, in the ancient world most were restricted to **a few** well-known navigable routes that followed the coastline.
+- *(Cam 19 · T2 · P1)* Although many people in Britain had begun moving to the cities from rural areas before the Industrial Revolution, this accelerated dramatically with industrialisation, as the rise of large factories turned smaller towns into major cities in just **a few** decades.
+- *(Cam 19 · T2 · P1)* **A few** desperate weavers began breaking into factories and smashing textile machines.
+- *(Cam 19 · T2 · P1)* The unrest finally reached its peak in April 1812, when **a few** Luddites were shot during an attack on a mill near Huddersfield.
+- *(Cam 19 · T3 · P2)* ‘It can be as simple as planting **a few** trees per hectare to create shade and substantially change a microclimate,’ he says.
+- *(Cam 19 · T3 · P2)* The clearance of peatlands for planting also increases the risk of forest fires, which release huge amounts of CO₂. ‘We’re seeing huge peatland forests with extremely high biodiversity value being lost for **a few** decades of oil palm revenues,’ says Silvius.
+- *(Cam 19 · T4 · P3)* Kung were normal until **a few** thousand years ago, when population growth led to the development of agriculture and a settled lifestyle.
+- *(Cam 20 · T1 · P1)* Only **a few** clung to life in the most isolated parts of New Zealand.
+- *(Cam 20 · T1 · P1)* Six were caught, but there were no females amongst them and all but one died within **a few** months of captivity.
+- *(Cam 21 · T1 · P1)* However, it was only **a few** years before their collecting took a new direction and they turned to the work of the French Impressionists***.
+- *(Cam 21 · T1 · P2)* 'It is likely better to have more frequency of silence for **a few** minutes at a time than a longer period of silence only once a week.
+- *(Cam 21 · T2 · P3)* In only **a few** years, AI solutionism has made its way from the technology evangelists' mouths in Silicon Valley in California to the minds of government officials and policymakers around the world.
+- *(Cam 21 · T3 · P2)* A single suburban rail line serves residents in **a few** areas to the south but is tiny in the context of the wider city.
+- *(Cam 21 · T3 · P2)* 'Much of the city will have access to a world-class transport system within the space of **a few** years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy).
+- *(Cam 21 · T4 · P1)* **A few** years later, Kenyan scientists confirmed what their Nigerian peers and others had already found: manure worked to improve the process of converting the weed into gas.
+- *(Cam 21 · T4 · P3)* His book, beautifully illustrated with photographs of the various stages of his venture and **a few** illustrations of historic globes and maps, is hardly a blueprint for commercial success.
+
+<a id="p13"></a>
+
+### 13. most + N (hầu hết)
+
+<small>46 câu</small>
 
 - *(Cam 10 · T1 · P1)* **Most stepwells** are found dotted around the desert areas of Gujarat (where they are called vav ) and Rajasthan (where they are known as baori ), while a few also survive in Delhi.
 - *(Cam 10 · T2 · P1)* **Most historians** are convinced there are one or two missing factors that you need to open the lock.’
@@ -1140,60 +1260,16 @@
 - *(Cam 20 · T2 · P1)* Unlike **most mammals**, manatees have only six bones in their neck – most others, including humans and giraffes, have seven.
 - *(Cam 20 · T2 · P2)* When **most people** think of the costs of procrastination, they think of the toll on productivity.
 - *(Cam 20 · T4 · P3)* But in the 19th and 20th centuries, when such predators were largely exterminated, **most guard dogs** lost their jobs.
-
-<a id="p13"></a>
-
-### 13. a few + N
-
-<small>41 câu</small>
-
-- *(Cam 10 · T1 · P1)* Most stepwells are found dotted around the desert areas of Gujarat (where they are called vav ) and Rajasthan (where they are known as baori ), while **a few** also survive in Delhi.
-- *(Cam 10 · T1 · P1)* When the water level was high, the user needed only to descend **a few** steps to reach it; when it was low, several levels would have to be negotiated.
-- *(Cam 10 · T3 · P3)* They probably never numbered more than **a few** thousand in total, and in their rapid migration eastward they encountered hundreds of islands – more than 300 in Fiji alone.
-- *(Cam 10 · T4 · P3)* The team calculated that there is a good chance of silent genes surviving for up to 6 million years in at least **a few** individuals in a population, and that some might survive as long as 10 million years.
-- *(Cam 10 · T4 · P3)* Many of these have minuscule limbs; some look more like snakes than lizards and **a few** have completely lost the toes on their hind limbs.
-- *(Cam 11 · T1 · P3)* But while **a few** countries are making major strides in this regard, the majority are having great difficulty even stemming the rate of increase, let alone reversing it.
-- *(Cam 11 · T2 · P1)* These raised it **a few** centimetres over a period of several days, as the lifting frame rose slowly up its four legs.
-- *(Cam 11 · T2 · P2)* When the Europeans arrived, Rapa Nui was grassland, with only **a few** scrawny trees.
-- *(Cam 11 · T2 · P2)* Recent experiments indicate that as few as 18 people could, with three strong ropes and a bit of practice, easily manoeuvre a 1,000 kg moai replica **a few** hundred metres.
-- *(Cam 11 · T2 · P2)* The rats arrived along with the settlers, and in just **a few** years, Hunt and Lipo calculate, they would have overrun the island.
-- *(Cam 11 · T4 · P3)* In themselves, these configurations of mouth p,f,b,v,t,d,k,g,sh,a,e and so on – amount to nothing more than **a few** haphazard spits and splutters, random noises with no meaning, no ability to express, no power to explain.
-- *(Cam 12 · T2 · P2)* On 24 July they were **a few** days into their descent of the valley.
-- *(Cam 12 · T3 · P1)* From the 17th century onwards, pirates took **a few** on board for food, but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially.
-- *(Cam 13 · T1 · P1)* In addition, it appears that visitors to New Zealand don’t want to be ‘one of the crowd’ and find activities that involve only **a few** people more special and meaningful.
-- *(Cam 13 · T2 · P2)* Then, after **a few** years, contrasting findings began to emerge.
-- *(Cam 14 · T1 · P2)* ‘We painted **a few** bikes white, that was all.
-- *(Cam 14 · T3 · P2)* The larvae of **a few** other insect species are being investigated for the potent antimicrobial compounds they produce.
-- *(Cam 14 · T3 · P2)* Thirdly, although we consider insects to be everywhere, the reality of this ubiquity is vast numbers of **a few** extremely common species.
-- *(Cam 15 · T1 · P1)* Nutmeg bought for **a few** pennies in Indonesia could be sold for 68,000 times its original cost on the streets of London.
-- *(Cam 15 · T1 · P1)* They concentrated all nutmeg production into **a few** easily guarded areas, uprooting and destroying any trees outside the plantation zones.
-- *(Cam 15 · T4 · P1)* If you just have **a few** trees left, the population can grow up quickly because it’s used to exploiting water when it arrives.’
-- *(Cam 15 · T4 · P2)* Whistled languages survive today in Papua New Guinea, Mexico, Vietnam, Guyana, China, Nepal, Senegal, and **a few** mountainous pockets in southern Europe.
-- *(Cam 16 · T3 · P1)* There are **a few** surviving written documents that give descriptions and representations of ancient Roman ships, including the sails and rigging.
-- *(Cam 16 · T3 · P2)* Extreme cold is one reliable way to keep artefacts relatively fresh for **a few** thousand years, but once thawed out, these materials experience degradation relatively swiftly.
-- *(Cam 17 · T4 · P3)* ‘But the thing that’s so remarkable about Timur and **a few** other individuals is the number of games they can keep active at once.
-- *(Cam 18 · T1 · P2)* With the many pests and pathogens visiting forests including hemlock wooly adelgid, Asian longhomed beetle, emerald ash borer, and gypsy moth, to name just **a few**, it is important to remember that those working in the forests can help ease these issues through cutting procedures.
-- *(Cam 18 · T1 · P3)* Just **a few** uncontrolled space crashes could generate enough debris to set off a runaway cascade of fragments, rendering near-Earth space unusable.
-- *(Cam 18 · T3 · P3)* And today, more than ever, we need the many to flourish – not suffer at the expense of **a few** bright stars.
-- *(Cam 18 · T4 · P3)* Wegener left behind **a few** published works but, as was standard practice, these reported the results of his work – not the journey he took to reach that point.
-- *(Cam 18 · T4 · P3)* Only **a few** hundred of the many thousands of letters he wrote and received in his lifetime have survived and he didn’t keep notebooks or diaries that recorded his life and activities.
-- *(Cam 18 · T4 · P3)* He was not active (with **a few** exceptions) in scientific societies, and did not seek to find influence or advance his ideas through professional contacts and politics, spending most of his time at home in his study reading and writing, or in the field collecting observations.
-- *(Cam 19 · T1 · P1)* It was an incredible achievement by any standard – made even more remarkable by the fact that he did this during a period considered to be one of the strongest in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just **a few**.
-- *(Cam 19 · T1 · P2)* Thus, in the ancient world most were restricted to **a few** well-known navigable routes that followed the coastline.
-- *(Cam 19 · T2 · P1)* Although many people in Britain had begun moving to the cities from rural areas before the Industrial Revolution, this accelerated dramatically with industrialisation, as the rise of large factories turned smaller towns into major cities in just **a few** decades.
-- *(Cam 19 · T2 · P1)* **A few** desperate weavers began breaking into factories and smashing textile machines.
-- *(Cam 19 · T2 · P1)* The unrest finally reached its peak in April 1812, when **a few** Luddites were shot during an attack on a mill near Huddersfield.
-- *(Cam 19 · T3 · P2)* ‘It can be as simple as planting **a few** trees per hectare to create shade and substantially change a microclimate,’ he says.
-- *(Cam 19 · T3 · P2)* The clearance of peatlands for planting also increases the risk of forest fires, which release huge amounts of CO₂. ‘We’re seeing huge peatland forests with extremely high biodiversity value being lost for **a few** decades of oil palm revenues,’ says Silvius.
-- *(Cam 19 · T4 · P3)* Kung were normal until **a few** thousand years ago, when population growth led to the development of agriculture and a settled lifestyle.
-- *(Cam 20 · T1 · P1)* Only **a few** clung to life in the most isolated parts of New Zealand.
-- *(Cam 20 · T1 · P1)* Six were caught, but there were no females amongst them and all but one died within **a few** months of captivity.
+- *(Cam 21 · T2 · P1)* **Most dream states**, and certainly those with the most vivid dreams, happen during REM sleep.
+- *(Cam 21 · T2 · P3)* As a result, the AI programme was abandoned in **most hospitals** where it was trialled.
+- *(Cam 21 · T3 · P3)* This was the idea, promoted for decades, that in **most prehistoric societies** the men went out to hunt and the women looked after the home.
+- *(Cam 21 · T4 · P1)* But unless the price of the machines drops, it's pretty clear that **most communities** will never be able to afford any, since they sell for about $750.
 
 <a id="p14"></a>
 
 ### 14. several + N số nhiều
 
-<small>41 câu</small>
+<small>44 câu</small>
 
 - *(Cam 10 · T1 · P1)* When the water level was high, the user needed only to descend a few steps to reach it; when it was low, **several levels** would have to be negotiated.
 - *(Cam 10 · T1 · P1)* Others are more elaborate, with long stepped passages leading to the water via **several storeys**.
@@ -1236,6 +1312,9 @@
 - *(Cam 19 · T3 · P1)* Sea levels were about 120 metres lower, meaning Obi was a much larger island, encompassing what is today the separate island of Bisa, as well as **several other small islands** nearby.
 - *(Cam 20 · T3 · P1)* Birdseye was responsible for **several key innovations** that made the frozen food industry possible.
 - *(Cam 20 · T3 · P2)* And if this can be extended for all species, we could consider the launching of coral-spawning programmes **several times** a year.
+- *(Cam 21 · T1 · P2)* The good news is that **several cities** have been working to turn the volume down.
+- *(Cam 21 · T3 · P1)* The swollen nostrils of the nose serve **several purposes**: they filter out dust and cool the blood during hot, dry summers, and they warm the cold air before it enters the saiga's lungs in winter.
+- *(Cam 21 · T3 · P3)* However, a meta-analysis published in June 2023 compiled data on **several dozen** foraging societies and found women hunted in 80 per cent of them.
 
 <a id="p15"></a>
 
@@ -1288,7 +1367,7 @@
 
 ### 16. various + N số nhiều
 
-<small>31 câu</small>
+<small>34 câu</small>
 
 - *(Cam 10 · T1 · P1)* At 65 metres long, 20 metres wide and 27 metres deep, Rani Ki Vav features 500 distinct sculptures carved into niches throughout the monument, depicting gods such as Vishnu and Parvati in **various incarnations**.
 - *(Cam 11 · T1 · P2)* The unique shape of the structure is claimed to have been inspired by **various sources**, both manmade and natural, most notably a Celtic double headed axe, but also the vast turning propeller of a ship, the ribcage of a whale or the spine of a fish.
@@ -1321,12 +1400,51 @@
 - *(Cam 19 · T1 · P2)* However, despite all efforts and the might of **various ancient states**, piracy could not be stopped.
 - *(Cam 20 · T2 · P3)* The rules of play have evolved in **various stages**.
 - *(Cam 20 · T4 · P3)* Today there are around 50 breeds of guard dogs on duty in **various parts** of the world.
+- *(Cam 21 · T1 · P1)* They took advice from **various people**, including the art dealer Hugh Blaker (the brother of Jane Blaker) and David Croal Thompson, who was also an art dealer.
+- *(Cam 21 · T1 · P1)* We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they would have seen examples on their **various trips** to Paris.
+- *(Cam 21 · T4 · P3)* His book, beautifully illustrated with photographs of the **various stages** of his venture and a few illustrations of historic globes and maps, is hardly a blueprint for commercial success.
 
 <a id="p17"></a>
 
-### 17. both + N số nhiều
+### 17. many of + the/tính từ sở hữu + N
 
-<small>26 câu</small>
+<small>29 câu</small>
+
+- *(Cam 10 · T1 · P1)* Today, following years of neglect, **many of these** monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country’s rich history.
+- *(Cam 10 · T2 · P1)* ‘After all, Holland had everything except coal while China also had **many of these** factors.
+- *(Cam 10 · T3 · P1)* Since **many of these** businesses also serve local residents, the impact of spending by visitors can easily be overlooked or underestimated.
+- *(Cam 10 · T4 · P1)* ‘Doing that in **many of the** forests of the western US is like building homes on the side of an active volcano.’
+- *(Cam 10 · T4 · P2)* What they’re discovering is that **many of these** qualities amount to habitual behaviour that determines the way we respond to the world.
+- *(Cam 10 · T4 · P2)* **Many of her** students said that faced with a risky situation, they first tried to calm themselves down, then looked for a way to mitigate the danger, just as Pedeleose did by documenting his allegations.
+- *(Cam 10 · T4 · P3)* **Many of these** have minuscule limbs; some look more like snakes than lizards and a few have completely lost the toes on their hind limbs.
+- *(Cam 11 · T1 · P3)* **Many of the** schemes now suggested look to do the opposite, and reduce the amount of sunlight reaching the planet.
+- *(Cam 11 · T4 · P3)* This apparent paradox is at the core of our fascination with language, and it holds **many of its** secrets.
+- *(Cam 12 · T1 · P1)* **Many of these** family businesses, and indeed many of the trees themselves, are around 200 years old.
+- *(Cam 12 · T4 · P1)* From the 10th century onwards, the Venetians gained a reputation for technical skill and artistic ability in the making of glass bottles, and **many of the** city’s craftsmen left Italy to set up glassworks throughout Europe.
+- *(Cam 14 · T2 · P1)* In the 1890s and 1880s Henderson travelled widely throughout Quebec and Ontario, in Canada, documenting the major cities of the two provinces and **many of the** villages in Quebec.
+- *(Cam 14 · T4 · P2)* A good number of species only exist in captivity, with **many of these** living in zoos.
+- *(Cam 14 · T4 · P3)* Plenty of studies have sounded alarm bells about the state of marine debris; in a recent paper published in the journal Ecology , Rochman and her colleagues set out to determine how **many of those** perceived risks are real.
+- *(Cam 15 · T2 · P2)* ‘**Many of the** technologies that people have in mind when they think about de-extinction can be used as a form of “genetic rescue”,’ explains Shapiro.
+- *(Cam 15 · T3 · P1)* Alongside the instruction he received at the Royal College, Moore visited **many of the** London museums, particularly the British Museum, which had a wide-ranging collection of ancient sculpture.
+- *(Cam 16 · T3 · P2)* **Many of the** artefacts are associated with hunting.
+- *(Cam 16 · T3 · P2)* **Many of the** artefacts Barrett’s team recovered date from the beginning of the Viking Age, the 700s through to the 900s CE.
+- *(Cam 16 · T3 · P2)* The researchers say that could be because **many of those** artefacts have already disintegrated or are still frozen in the ice.
+- *(Cam 18 · T1 · P3)* That would alleviate the need for **many of the** unnecessary manoeuvres that are carried out to avoid potential collisions.
+- *(Cam 18 · T2 · P2)* Machines will be free of **many of the** physical constraints on human intelligence.
+- *(Cam 18 · T3 · P2)* **Many of the** Model E Dobles which have survived are still in good working condition, some having been driven over half a million miles with only normal maintenance.
+- *(Cam 19 · T3 · P2)* **Many of those** that remain have been damaged by agricultural pesticides and fertilizers, industrial pollutants, and construction works.
+- *(Cam 21 · T1 · P3)* Yet **many of the** poorest people in the world still depend on it to make a living.
+- *(Cam 21 · T3 · P1)* The steppe region has also become increasingly arid in recent years, and **many of the** smaller streams that the species normally depended on have dried up and vanished.
+- *(Cam 21 · T3 · P3)* In a sense, we shouldn't be surprised that so **many of these** behaviours had their origins in older, extinct hominins.
+- *(Cam 21 · T4 · P2)* She explains that low educational achievement can lead to **many of these** students dropping out of school – a problem disproportionately affecting female students.
+- *(Cam 21 · T4 · P2)* **Many of the** children have moved from remote, rural areas to urban areas.
+- *(Cam 21 · T4 · P3)* Although he finally located the right craftsmen, some simply dropping in, serendipitously, to his workshop (by now in more suitable premises than his back room), **many of these** have now retired or passed away.
+
+<a id="p18"></a>
+
+### 18. both + N số nhiều
+
+<small>29 câu</small>
 
 - *(Cam 10 · T2 · P1)* Macfarlane says: ‘The infant mortality rate halved in the space of 20 years, and this happened in **both rural areas** and cities, and across all classes.
 - *(Cam 10 · T3 · P1)* Tourism today has grown significantly in **both economic and social importance**.
@@ -1354,12 +1472,15 @@
 - *(Cam 20 · T1 · P3)* My colleague and I, **both neuroscientists**, wanted to investigate how the mind operates under stress, so we visited some local fire stations.
 - *(Cam 20 · T4 · P1)* While **both locales** provided a wealth of imagery for her paintings, one feature of the Abiquiú house – the large walled patio with its black door – was particularly inspirational.
 - *(Cam 20 · T4 · P1)* In **both series**, O’Keeffe increased the size of her canvases, sometimes to mural proportions, reflecting perhaps her newly expanded view of the world.
+- *(Cam 21 · T1 · P1)* Later in the conflict, **both sisters** decided to volunteer at a canteen for troops at Troyes, in northern France; Gwendoline in 1916, followed by Margaret in 1917.
+- *(Cam 21 · T2 · P1)* As in mammals, the recordings revealed **both REM and non-REM sleep**.
+- *(Cam 21 · T3 · P2)* Construction on **both routes** is due to start imminently.
 
-<a id="p18"></a>
+<a id="p19"></a>
 
-### 18. some dùng như đại từ
+### 19. some dùng như đại từ
 
-<small>25 câu</small>
+<small>27 câu</small>
 
 - *(Cam 10 · T1 · P1)* **Some** were located in or near villages as public spaces for the community; others were positioned beside roads as resting places for travellers.
 - *(Cam 10 · T2 · P1)* **Some** digging around in historical records revealed that there was a change in the incidence of water-borne disease at that time, especially dysentery.
@@ -1386,12 +1507,14 @@
 - *(Cam 19 · T3 · P1)* There they found numerous artefacts, including fragments of axes, **some** dating to about 14,000 years ago.
 - *(Cam 19 · T4 · P1)* For these species, such as Britain’s tiniest butterfly, the dainty Small Blue, whose colonies are up to a hundred strong, **some** develop into butterflies early in spring, allowing their summer generations to complete another reproductive cycle by autumn so that more population growth occurs.
 - *(Cam 20 · T1 · P3)* **Some** are pretty relaxed; they’ll spend their time washing the truck, cleaning equipment, cooking meals and reading.
+- *(Cam 21 · T4 · P2)* **Some** arrive speaking fluent Hindi, the dominant language in Delhi (and the official language of government), but many arrive speaking any number of India's 22 officially recognised languages, let alone the hundreds of regional languages in a country of more than 1.3 billion people.
+- *(Cam 21 · T4 · P3)* Although he finally located the right craftsmen, **some** simply dropping in, serendipitously, to his workshop (by now in more suitable premises than his back room), many of these have now retired or passed away.
 
-<a id="p19"></a>
+<a id="p20"></a>
 
-### 19. little + N số ít/không đếm được
+### 20. little + N số ít/không đếm được
 
-<small>24 câu</small>
+<small>26 câu</small>
 
 - *(Cam 10 · T4 · P2)* With a **little experimentation**, people can reshape their temperaments and inject passion, optimism, joy and courage into their lives
 - *(Cam 11 · T1 · P2)* This keeps the Wheel balanced and so, despite its enormous mass, it rotates through 180° in five and a half minutes while using very **little power**.
@@ -1417,69 +1540,14 @@
 - *(Cam 19 · T2 · P1)* With these machines, relatively **little labour** was required to produce cloth, and the new, mechanised textile factories that opened around the country were quickly able to meet customer demand for cloth both at home and abroad.
 - *(Cam 19 · T4 · P2)* They say that deep-sea mining could yield far superior ore to land mining with **little, if any, waste**.
 - *(Cam 19 · T4 · P3)* In view of the above, there seems **little reason** to assume that traits such as racism, warfare and male domination should have been selected by evolution – as they would have been of little benefit in the prehistoric era.
-
-<a id="p20"></a>
-
-### 20. many of + the/tính từ sở hữu + N
-
-<small>23 câu</small>
-
-- *(Cam 10 · T1 · P1)* Today, following years of neglect, **many of these** monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country’s rich history.
-- *(Cam 10 · T2 · P1)* ‘After all, Holland had everything except coal while China also had **many of these** factors.
-- *(Cam 10 · T3 · P1)* Since **many of these** businesses also serve local residents, the impact of spending by visitors can easily be overlooked or underestimated.
-- *(Cam 10 · T4 · P1)* ‘Doing that in **many of the** forests of the western US is like building homes on the side of an active volcano.’
-- *(Cam 10 · T4 · P2)* What they’re discovering is that **many of these** qualities amount to habitual behaviour that determines the way we respond to the world.
-- *(Cam 10 · T4 · P2)* **Many of her** students said that faced with a risky situation, they first tried to calm themselves down, then looked for a way to mitigate the danger, just as Pedeleose did by documenting his allegations.
-- *(Cam 10 · T4 · P3)* **Many of these** have minuscule limbs; some look more like snakes than lizards and a few have completely lost the toes on their hind limbs.
-- *(Cam 11 · T1 · P3)* **Many of the** schemes now suggested look to do the opposite, and reduce the amount of sunlight reaching the planet.
-- *(Cam 11 · T4 · P3)* This apparent paradox is at the core of our fascination with language, and it holds **many of its** secrets.
-- *(Cam 12 · T1 · P1)* **Many of these** family businesses, and indeed many of the trees themselves, are around 200 years old.
-- *(Cam 12 · T4 · P1)* From the 10th century onwards, the Venetians gained a reputation for technical skill and artistic ability in the making of glass bottles, and **many of the** city’s craftsmen left Italy to set up glassworks throughout Europe.
-- *(Cam 14 · T2 · P1)* In the 1890s and 1880s Henderson travelled widely throughout Quebec and Ontario, in Canada, documenting the major cities of the two provinces and **many of the** villages in Quebec.
-- *(Cam 14 · T4 · P2)* A good number of species only exist in captivity, with **many of these** living in zoos.
-- *(Cam 14 · T4 · P3)* Plenty of studies have sounded alarm bells about the state of marine debris; in a recent paper published in the journal Ecology , Rochman and her colleagues set out to determine how **many of those** perceived risks are real.
-- *(Cam 15 · T2 · P2)* ‘**Many of the** technologies that people have in mind when they think about de-extinction can be used as a form of “genetic rescue”,’ explains Shapiro.
-- *(Cam 15 · T3 · P1)* Alongside the instruction he received at the Royal College, Moore visited **many of the** London museums, particularly the British Museum, which had a wide-ranging collection of ancient sculpture.
-- *(Cam 16 · T3 · P2)* **Many of the** artefacts are associated with hunting.
-- *(Cam 16 · T3 · P2)* **Many of the** artefacts Barrett’s team recovered date from the beginning of the Viking Age, the 700s through to the 900s CE.
-- *(Cam 16 · T3 · P2)* The researchers say that could be because **many of those** artefacts have already disintegrated or are still frozen in the ice.
-- *(Cam 18 · T1 · P3)* That would alleviate the need for **many of the** unnecessary manoeuvres that are carried out to avoid potential collisions.
-- *(Cam 18 · T2 · P2)* Machines will be free of **many of the** physical constraints on human intelligence.
-- *(Cam 18 · T3 · P2)* **Many of the** Model E Dobles which have survived are still in good working condition, some having been driven over half a million miles with only normal maintenance.
-- *(Cam 19 · T3 · P2)* **Many of those** that remain have been damaged by agricultural pesticides and fertilizers, industrial pollutants, and construction works.
+- *(Cam 21 · T4 · P2)* It's possible that one of the causes of low performance is the lack of pupil-centred teaching methods; in many Indian primary schools the teacher dominates and there is **little room** for independent learning.
+- *(Cam 21 · T4 · P2)* Although the findings are at a preliminary stage, Tsimpli and her team have found that the medium of instruction used in schools, especially English, may hold back those children who have **little familiarity** with, or exposure to, the language before starting school and outside of school life.
 
 <a id="p21"></a>
 
-### 21. numerous + N số nhiều
+### 21. most of + the/tính từ sở hữu + N
 
-<small>20 câu</small>
-
-- *(Cam 10 · T2 · P3)* In addition, a major collection like that of London’s National Gallery is housed in **numerous rooms**, each with dozens of works, any one of which is likely to be worth more than all the average visitor possesses.
-- *(Cam 10 · T4 · P1)* That said, many experts give California high marks for making progress on preparedness in recent years, after some of the largest fires in state history scorched thousands of acres, burned thousands of homes, and killed **numerous people**.
-- *(Cam 11 · T1 · P2)* **Numerous ideas** were submitted for the project, including concepts ranging from rolling eggs to tilting tanks, from giant seesaws to overhead monorails.
-- *(Cam 11 · T4 · P1)* **Numerous tests** were carried out on the twins, and they were each asked more than 15,000 questions.
-- *(Cam 12 · T3 · P3)* **Numerous studies**, after all, have demonstrated that dopamine neurons quickly adapt to predictable rewards.
-- *(Cam 12 · T4 · P1)* Glass packaging is used for many products, many beverages are sold in glass, as are **numerous foodstuffs**, as well as medicines and cosmetics.
-- *(Cam 13 · T3 · P1)* The thick fibrous middle layer produces coconut fibre, ‘coir’, which has **numerous uses** and is particularly important in manufacturing ropes.
-- *(Cam 14 · T2 · P1)* His **numerous photographs** of city life revealed in street scenes, houses, and markets are alive with human activity, and although his favourite subject was landscape he usually composed his scenes around such human pursuits as farming the land, cutting ice on a river, or sailing down a woodland stream.
-- *(Cam 14 · T4 · P2)* In conclusion, considering the many ongoing global threats to the environment, it is hard for me to see zoos as anything other than essential to the long-term survival of **numerous species**.
-- *(Cam 15 · T3 · P1)* He did **numerous small sketches** of Londoners, later turning these ideas into large coloured drawings in his studio.
-- *(Cam 17 · T1 · P1)* **Numerous schemes** were proposed to resolve these problems, but few succeeded.
-- *(Cam 17 · T3 · P1)* There have been **numerous expeditions** and searches for the thylacine over the years, none of which has produced definitive evidence that thylacines still exist.
-- *(Cam 17 · T3 · P2)* Endangered species – most famously the Sumatran orangutan, but also rhinos, elephants, tigers, and **numerous other fauna** – have suffered from the unstoppable spread of oil palm plantations.
-- *(Cam 18 · T3 · P2)* Though the Doble boys’ third prototype, nicknamed the Model B, still lacked the convenience of an internal combustion engine, it drew the attention of automobile trade magazines due to its **numerous improvements** over previous steam cars.
-- *(Cam 19 · T1 · P2)* Geography itself further benefited the pirates, with the **numerous coves** along the coast providing places for them to hide their boats and strike undetected.
-- *(Cam 19 · T3 · P1)* There they found **numerous artefacts**, including fragments of axes, some dating to about 14,000 years ago.
-- *(Cam 20 · T1 · P3)* Other days can be hectic, with **numerous life-threatening incidents** to attend to; they’ll enter burning homes to rescue trapped residents, and assist with medical emergencies.
-- *(Cam 20 · T2 · P2)* Across **numerous studies**, I’ve found people who regularly procrastinate report a greater number of health issues, such as headaches, flu and colds, and digestive issues.
-- *(Cam 20 · T4 · P1)* For the next three decades, Stieglitz vigorously promoted her work in twenty-two solo exhibitions and **numerous group installations**.
-- *(Cam 20 · T4 · P1)* There, O’Keeffe found new inspiration: at first, it was the **numerous sun-bleached bones** she came across in the state’s rugged terrain that sparked her imagination.
-
-<a id="p22"></a>
-
-### 22. most of + the/tính từ sở hữu + N
-
-<small>20 câu</small>
+<small>24 câu</small>
 
 - *(Cam 10 · T3 · P1)* Once the exclusive province of the wealthy, travel and tourism have become an institutionalised way of life for **most of the** population.
 - *(Cam 11 · T1 · P1)* It took humans 10,000 years to learn how to grow **most of the** crops we now take for granted.
@@ -1501,12 +1569,45 @@
 - *(Cam 18 · T4 · P3)* He was not active (with a few exceptions) in scientific societies, and did not seek to find influence or advance his ideas through professional contacts and politics, spending **most of his** time at home in his study reading and writing, or in the field collecting observations.
 - *(Cam 19 · T2 · P3)* ‘Of course, the most rewarding part is the “Aha” moment, the excitement of discovery and enjoyment of understanding something new … But **most of the** time, doing mathematics for me is like being on a long hike with no trail and no end in sight.’
 - *(Cam 20 · T4 · P2)* **Most of the** country is less than a metre above sea level and 80 per cent of its land lies on floodplains.
+- *(Cam 21 · T2 · P3)* **Most of the** data remains stored in offline archives.
+- *(Cam 21 · T3 · P1)* Legal protection ensured its survival for a while, and numbers steadily recovered throughout **most of the** 20th century.
+- *(Cam 21 · T3 · P2)* **Most of the** current growth is made up of young people arriving from the countryside to find work, and as the population has exploded, Dar es Salaam has grown around those four highways.
+- *(Cam 21 · T4 · P2)* According to Tsimpli, **most of the** evidence from this and other projects shows that English instruction for children from low socio-economic areas might not be the best way for them to learn, at least in the first three years of primary education.
+
+<a id="p22"></a>
+
+### 22. much + N số ít/không đếm được
+
+<small>22 câu</small>
+
+- *(Cam 10 · T1 · P3)* And there are those who don’t have a budget, or **much space**, but who innovate successfully.
+- *(Cam 10 · T2 · P2)* Too **much dependence** on the teachers risks loss of autonomy and motivation to discover.
+- *(Cam 10 · T3 · P2)* It sounds paradoxical, because the idea behind this hypothesis is that the red pigment is made in autumn leaves to protect chlorophyll, the light-absorbing chemical, from too **much light**.
+- *(Cam 10 · T4 · P1)* ‘With so **much dryness**, so many communities to catch fire, so many fronts to fight, it becomes an almost incredible job.’
+- *(Cam 11 · T2 · P3)* Too little and the work is boring, but too **much results** in a kind of ‘perceptual overload’, according to Forsythe.
+- *(Cam 15 · T2 · P1)* According to Sennett, this failed because its designers had invested too **much faith** in computer-aided design to tell them how it would operate.
+- *(Cam 16 · T1 · P2)* Historian Marc Van de Mieroop comments on this, writing ‘**Much experimentation** was involved, which is especially clear in the construction of the pyramid in the center of the complex.
+- *(Cam 16 · T4 · P2)* If we work to understand exactly what we will lose, alongside the extraordinary new capacities that the digital world has brought us, there is as **much reason** for excitement as caution.
+- *(Cam 16 · T4 · P3)* On the one hand, if Watson provided guidance about a treatment that coincided with their own opinions, physicians did not see **much point** in Watson’s recommendations.
+- *(Cam 17 · T2 · P2)* But every time a single plant with a mutation is taken from a larger population for breeding, **much genetic diversity** is lost.
+- *(Cam 17 · T2 · P3)* Of course, the origin of human innovation demands **much further study**.
+- *(Cam 17 · T3 · P1)* However, there seems to have been little public pressure to preserve the thylacine, nor was **much concern** expressed by scientists at the decline of this species in the decades that followed.
+- *(Cam 18 · T1 · P1)* And beans tend to take up a lot of space for not **much return**.’
+- *(Cam 18 · T4 · P3)* My own feeling, however, is that the parts do not make as **much sense** on their own as do all of his activities taken together.
+- *(Cam 19 · T1 · P1)* It created a string bed that generated so **much topspin** that it was quickly banned by the International Tennis Federation.
+- *(Cam 20 · T2 · P3)* It flattened the game into strikeouts, walks, and home runs a type of play lacking **much action**.
+- *(Cam 20 · T4 · P3)* ‘A fluffy white puppy is fun to be around, but too **much human affection** makes it a great dog for guarding the front porch, rather than a great livestock guard dog.’
+- *(Cam 21 · T1 · P2)* When we are exposed to too **much noise** over the long term, however, those responses can lead to a multitude of health issues, from sleep disturbance to even cardiovascular disease.
+- *(Cam 21 · T1 · P3)* For example, imported labour has been used for **much large-scale production**.
+- *(Cam 21 · T2 · P2)* The kingdom of Mapungubwe was already in decline by the late 13th century, probably because overpopulation placed too **much stress** on local resources, a situation that may have been brought to a crisis point by a series of droughts.
+- *(Cam 21 · T3 · P3)* But there was never that **much evidence** that human evolution worked this way.
+- *(Cam 21 · T4 · P2)* There is perhaps too **much uniformity** in teaching and less tailoring to the children's language abilities and needs,' says Tsimpli.
 
 <a id="p23"></a>
 
 ### 23. the whole/entire + N
 
-<small>20 câu</small>
+<small>22 câu</small>
 
 - *(Cam 10 · T3 · P3)* This is what would have made **the whole thing** work.’
 - *(Cam 10 · T4 · P3)* More recently, however, examples have been reported that break the time limit, suggesting that silent genes may not be **the whole story**.
@@ -1528,12 +1629,42 @@
 - *(Cam 19 · T1 · P2)* Taking personal command, Pompey divided **the entire Mediterranean** into 13 districts, assigning a fleet and commander to each.
 - *(Cam 19 · T1 · P2)* The process continued until **the entire Mediterranean** was free of pirates.
 - *(Cam 19 · T4 · P3)* According to some estimates, around 15,000 years ago, the population of Europe was only 29,000, and the population of **the whole world** was less than half a million.
+- *(Cam 21 · T2 · P2)* Occupation on the hill dates from the 11 th century and **the entire complex** was surrounded by a wooden palisade*, as indicated by postholes made in the rock.
+- *(Cam 21 · T3 · P2)* Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means **the entire route** is accessible to people using wheelchairs or who are travelling with baby buggies.
 
 <a id="p24"></a>
 
-### 24. a lot of + N
+### 24. numerous + N số nhiều
 
-<small>18 câu</small>
+<small>21 câu</small>
+
+- *(Cam 10 · T2 · P3)* In addition, a major collection like that of London’s National Gallery is housed in **numerous rooms**, each with dozens of works, any one of which is likely to be worth more than all the average visitor possesses.
+- *(Cam 10 · T4 · P1)* That said, many experts give California high marks for making progress on preparedness in recent years, after some of the largest fires in state history scorched thousands of acres, burned thousands of homes, and killed **numerous people**.
+- *(Cam 11 · T1 · P2)* **Numerous ideas** were submitted for the project, including concepts ranging from rolling eggs to tilting tanks, from giant seesaws to overhead monorails.
+- *(Cam 11 · T4 · P1)* **Numerous tests** were carried out on the twins, and they were each asked more than 15,000 questions.
+- *(Cam 12 · T3 · P3)* **Numerous studies**, after all, have demonstrated that dopamine neurons quickly adapt to predictable rewards.
+- *(Cam 12 · T4 · P1)* Glass packaging is used for many products, many beverages are sold in glass, as are **numerous foodstuffs**, as well as medicines and cosmetics.
+- *(Cam 13 · T3 · P1)* The thick fibrous middle layer produces coconut fibre, ‘coir’, which has **numerous uses** and is particularly important in manufacturing ropes.
+- *(Cam 14 · T2 · P1)* His **numerous photographs** of city life revealed in street scenes, houses, and markets are alive with human activity, and although his favourite subject was landscape he usually composed his scenes around such human pursuits as farming the land, cutting ice on a river, or sailing down a woodland stream.
+- *(Cam 14 · T4 · P2)* In conclusion, considering the many ongoing global threats to the environment, it is hard for me to see zoos as anything other than essential to the long-term survival of **numerous species**.
+- *(Cam 15 · T3 · P1)* He did **numerous small sketches** of Londoners, later turning these ideas into large coloured drawings in his studio.
+- *(Cam 17 · T1 · P1)* **Numerous schemes** were proposed to resolve these problems, but few succeeded.
+- *(Cam 17 · T3 · P1)* There have been **numerous expeditions** and searches for the thylacine over the years, none of which has produced definitive evidence that thylacines still exist.
+- *(Cam 17 · T3 · P2)* Endangered species – most famously the Sumatran orangutan, but also rhinos, elephants, tigers, and **numerous other fauna** – have suffered from the unstoppable spread of oil palm plantations.
+- *(Cam 18 · T3 · P2)* Though the Doble boys’ third prototype, nicknamed the Model B, still lacked the convenience of an internal combustion engine, it drew the attention of automobile trade magazines due to its **numerous improvements** over previous steam cars.
+- *(Cam 19 · T1 · P2)* Geography itself further benefited the pirates, with the **numerous coves** along the coast providing places for them to hide their boats and strike undetected.
+- *(Cam 19 · T3 · P1)* There they found **numerous artefacts**, including fragments of axes, some dating to about 14,000 years ago.
+- *(Cam 20 · T1 · P3)* Other days can be hectic, with **numerous life-threatening incidents** to attend to; they’ll enter burning homes to rescue trapped residents, and assist with medical emergencies.
+- *(Cam 20 · T2 · P2)* Across **numerous studies**, I’ve found people who regularly procrastinate report a greater number of health issues, such as headaches, flu and colds, and digestive issues.
+- *(Cam 20 · T4 · P1)* For the next three decades, Stieglitz vigorously promoted her work in twenty-two solo exhibitions and **numerous group installations**.
+- *(Cam 20 · T4 · P1)* There, O’Keeffe found new inspiration: at first, it was the **numerous sun-bleached bones** she came across in the state’s rugged terrain that sparked her imagination.
+- *(Cam 21 · T1 · P1)* Yet on one of **numerous trips** to nearby Paris, she visited the Bernheim-Jeune Gallery.
+
+<a id="p25"></a>
+
+### 25. a lot of + N
+
+<small>21 câu</small>
 
 - *(Cam 11 · T2 · P2)* Diamond thinks they laid the moai on wooden sledges, hauled over log rails, but that required both **a lot of** wood and a lot of people.
 - *(Cam 11 · T4 · P1)* Epigenetics is the origin of **a lot of** those differences, in my view.’
@@ -1553,12 +1684,15 @@
 - *(Cam 17 · T3 · P3)* The book combines geology, history, economics, and **a lot of** data to explain why business clusters developed where they did and how the early decisions of workers and firms shaped the skyline we see today.
 - *(Cam 17 · T4 · P3)* ‘**A lot of** players are capable of doing what I’m doing.’
 - *(Cam 18 · T1 · P1)* And beans tend to take up **a lot of** space for not much return.’
+- *(Cam 21 · T1 · P2)* Second, Pfeifer believes we don't need **a lot of** silence to gain benefits.
+- *(Cam 21 · T2 · P3)* AI systems need **a lot of** data to function, but the public sector typically does not have the appropriate data infrastructure to support advanced machine learning.
+- *(Cam 21 · T4 · P1)* Besides, they don't have to devote **a lot of** time every day to gathering firewood, which is a great relief.
 
-<a id="p25"></a>
+<a id="p26"></a>
 
-### 25. all dùng như đại từ
+### 26. all dùng như đại từ
 
-<small>17 câu</small>
+<small>19 câu</small>
 
 - *(Cam 10 · T1 · P1)* During their heyday, they were places of gathering, of leisure, of relaxation and of worship for villagers of **all** but the lowest castes.
 - *(Cam 10 · T3 · P3)* ‘**All** we can say for certain is that the Lapita had canoes that were capable of ocean voyages, and they had the ability to sail them,’ says Geoff Irwin, a professor of archaeology at the University of Auckland.
@@ -1577,36 +1711,14 @@
 - *(Cam 19 · T1 · P3)* First of **all**, people who encounter misinformation tend to believe it, at least initially.
 - *(Cam 19 · T4 · P1)* **All** is not lost, however.
 - *(Cam 20 · T3 · P2)* Coral reefs are dying and they are telling us that **all** is not well with our planet.’
-
-<a id="p26"></a>
-
-### 26. much + N số ít/không đếm được
-
-<small>17 câu</small>
-
-- *(Cam 10 · T1 · P3)* And there are those who don’t have a budget, or **much space**, but who innovate successfully.
-- *(Cam 10 · T2 · P2)* Too **much dependence** on the teachers risks loss of autonomy and motivation to discover.
-- *(Cam 10 · T3 · P2)* It sounds paradoxical, because the idea behind this hypothesis is that the red pigment is made in autumn leaves to protect chlorophyll, the light-absorbing chemical, from too **much light**.
-- *(Cam 10 · T4 · P1)* ‘With so **much dryness**, so many communities to catch fire, so many fronts to fight, it becomes an almost incredible job.’
-- *(Cam 11 · T2 · P3)* Too little and the work is boring, but too **much results** in a kind of ‘perceptual overload’, according to Forsythe.
-- *(Cam 15 · T2 · P1)* According to Sennett, this failed because its designers had invested too **much faith** in computer-aided design to tell them how it would operate.
-- *(Cam 16 · T1 · P2)* Historian Marc Van de Mieroop comments on this, writing ‘**Much experimentation** was involved, which is especially clear in the construction of the pyramid in the center of the complex.
-- *(Cam 16 · T4 · P2)* If we work to understand exactly what we will lose, alongside the extraordinary new capacities that the digital world has brought us, there is as **much reason** for excitement as caution.
-- *(Cam 16 · T4 · P3)* On the one hand, if Watson provided guidance about a treatment that coincided with their own opinions, physicians did not see **much point** in Watson’s recommendations.
-- *(Cam 17 · T2 · P2)* But every time a single plant with a mutation is taken from a larger population for breeding, **much genetic diversity** is lost.
-- *(Cam 17 · T2 · P3)* Of course, the origin of human innovation demands **much further study**.
-- *(Cam 17 · T3 · P1)* However, there seems to have been little public pressure to preserve the thylacine, nor was **much concern** expressed by scientists at the decline of this species in the decades that followed.
-- *(Cam 18 · T1 · P1)* And beans tend to take up a lot of space for not **much return**.’
-- *(Cam 18 · T4 · P3)* My own feeling, however, is that the parts do not make as **much sense** on their own as do all of his activities taken together.
-- *(Cam 19 · T1 · P1)* It created a string bed that generated so **much topspin** that it was quickly banned by the International Tennis Federation.
-- *(Cam 20 · T2 · P3)* It flattened the game into strikeouts, walks, and home runs a type of play lacking **much action**.
-- *(Cam 20 · T4 · P3)* ‘A fluffy white puppy is fun to be around, but too **much human affection** makes it a great dog for guarding the front porch, rather than a great livestock guard dog.’
+- *(Cam 21 · T2 · P3)* Above **all**, the public sector typically lacks the human talent with the right technological capabilities to fully reap the benefits of machine intelligence.
+- *(Cam 21 · T3 · P2)* Nearly all the expansion is happening on the periphery, and nearly **all** takes place informally without any agreed strategy.
 
 <a id="p27"></a>
 
 ### 27. many dùng như đại từ
 
-<small>14 câu</small>
+<small>18 câu</small>
 
 - *(Cam 10 · T1 · P1)* Down the centuries, thousands of wells were constructed throughout northwestern India, but the majority have now fallen into disuse; **many** are derelict and dry, as groundwater has been diverted for industrial use and the wells no longer reach the water table.
 - *(Cam 11 · T1 · P1)* **Many** believe an entirely new approach to indoor farming is required, employing cutting-edge technologies.
@@ -1622,12 +1734,16 @@
 - *(Cam 18 · T1 · P3)* The alternative, **many** say, is unthinkable.
 - *(Cam 18 · T3 · P3)* And today, more than ever, we need the **many** to flourish – not suffer at the expense of a few bright stars.
 - *(Cam 19 · T2 · P1)* **Many** had spent years learning their craft, and they feared that unskilled machine operators were robbing them of their livelihood.
+- *(Cam 21 · T3 · P2)* Outside the centre **many** rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up much of the metropolis.
+- *(Cam 21 · T3 · P3)* Going further back, an Iberian leader from around 4000 years ago turned out to be female, not male as **many** had assumed, when proteins in her teeth were analysed.
+- *(Cam 21 · T4 · P2)* **Many** were born and raised here, and many millions more have recently made India's capital their home, having moved from surrounding neighbourhoods, cities and states or across the country, often in the hope of gaining better jobs and a better life.
+- *(Cam 21 · T4 · P2)* Some arrive speaking fluent Hindi, the dominant language in Delhi (and the official language of government), but **many** arrive speaking any number of India's 22 officially recognised languages, let alone the hundreds of regional languages in a country of more than 1.3 billion people.
 
 <a id="p28"></a>
 
 ### 28. much of + the/tính từ sở hữu + N
 
-<small>14 câu</small>
+<small>16 câu</small>
 
 - *(Cam 11 · T1 · P1)* While it is possible that **much of our** food will be grown in skyscrapers in future, most experts currently believe it is far more likely that we will simply use the space available on urban rooftops.
 - *(Cam 11 · T3 · P1)* While it is unknown just how **much of this** is true, it is certainly known that silk cultivation has existed in China for several millennia.
@@ -1643,12 +1759,14 @@
 - *(Cam 18 · T4 · P1)* London is home to **much of the** UK’s green roof market, mainly due to forward-thinking policies such as the London Plan, which has paved the way to more than doubling the area of green roofs in the capital.
 - *(Cam 18 · T4 · P2)* **Much of this** criticism is not lost on Dweck, and she deserves great credit for responding to it and adapting her work accordingly.
 - *(Cam 19 · T1 · P1)* For example, **much of the** serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets, and today many professionals have the weight adjusted during the manufacturing process.
+- *(Cam 21 · T3 · P2)* Outside the centre many rely on boda boda (motorbike taxis) to navigate the narrow side streets and potholed mud roads that make up **much of the** metropolis.
+- *(Cam 21 · T3 · P2)* '**Much of the** city will have access to a world-class transport system within the space of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy).
 
 <a id="p29"></a>
 
 ### 29. adj/adv + enough
 
-<small>12 câu</small>
+<small>14 câu</small>
 
 - *(Cam 11 · T3 · P1)* She also devised a special reel to draw the fibres from the cocoon into a single thread so that they would be **strong enough** to be woven into fabric.
 - *(Cam 12 · T1 · P2)* There is a danger, though, that if the individual is ever **lucky enough** to find what they’re looking for, rather than celebrating their success, they may feel empty, now that the goal that drove them on has gone.
@@ -1662,10 +1780,31 @@
 - *(Cam 19 · T3 · P3)* It came to represent one of those devices that technology enthusiasts dream of long before they become practically realizable, like TVs **flat enough** to hang on walls: objects that we once could only dream of having but that are now commonplace.
 - *(Cam 20 · T3 · P1)* However, few consumers had freezers **large enough** or efficient enough to take advantage of the products.
 - *(Cam 20 · T3 · P3)* In response to the second question, ‘How soon will machine intelligence outstrip human intelligence?’, Rees mentions robots that are **advanced enough** to beat humans at chess, but then goes on to say, ‘Robots are still limited in their ability to sense their environment: they can’t yet recognise and move the pieces on a real chessboard as cleverly as a child can.
+- *(Cam 21 · T2 · P2)* Archaeological discoveries reveal that pottery was produced on a scale **large enough** to suggest the presence of professional potters, and is another indicator of the prosperity of Mapungubwe society.
+- *(Cam 21 · T4 · P3)* What seemed **simple enough** to start with triggered an almost obsessive, decade-long journey, marked by a series of obstacles that would have deterred anyone less determined.
 
 <a id="p30"></a>
 
-### 30. all of + the/tính từ sở hữu + N
+### 30. multiple + N số nhiều
+
+<small>12 câu</small>
+
+- *(Cam 15 · T4 · P2)* They had nothing to grab onto, so **multiple areas** of their brains were activated.’
+- *(Cam 16 · T1 · P1)* The bear used a tree branch on **multiple occasions** to dislodge a piece of meat hung out of his reach.
+- *(Cam 16 · T1 · P3)* Instead, he envisages a multistage employment life: one where retraining happens across the life course, and where **multiple jobs** and no job happen by choice at different stages.
+- *(Cam 16 · T4 · P2)* **Multiple studies** show that digital screen use may be causing a variety of troubling downstream effects on reading comprehension in older high school and college students.
+- *(Cam 17 · T1 · P2)* The stadium of today now brings together **multiple functions**, thus helping cities to create a sustainable future.
+- *(Cam 17 · T3 · P2)* However, there are **multiple reasons** why conservationists cite the rapid spread of oil palm plantations as a major concern.
+- *(Cam 17 · T4 · P2)* According to Ogilvie, the database provides **multiple indicators** for the same individuals, making it possible to analyse links between literacy, numeracy, wealth, and industriousness, for individual women and men over the long term.
+- *(Cam 17 · T4 · P3)* The real mental challenge comes from playing **multiple games** at once in the head.
+- *(Cam 18 · T2 · P1)* Radiocarbon dating has revealed that work continued at Stonehenge until roughly 1600 BCE, with the bluestones in particular being repositioned **multiple times**.
+- *(Cam 19 · T4 · P1)* Therefore, as the climate continues to warm, species like the Silver-studded Blue might be able to switch to **multiple generations** in the UK as well, and so begin to extract benefits from the additional warmth, potentially leading to population increases.
+- *(Cam 21 · T1 · P3)* Bosma avoids outbursts of emotion, celebratory or critical, even if they might have made his analysis of the **multiple tragedies** involving sugar all the more powerful.
+- *(Cam 21 · T2 · P1)* It is likely that dreaming has served **multiple purposes** since the first complex animals evolved.
+
+<a id="p31"></a>
+
+### 31. all of + the/tính từ sở hữu + N
 
 <small>11 câu</small>
 
@@ -1681,28 +1820,11 @@
 - *(Cam 20 · T1 · P2)* **All of this** raises questions of social acceptance, acknowledges Russell.
 - *(Cam 20 · T2 · P3)* But while **all of these** were ruled out as potential fixes, ABS was seen as a perfect vehicle for change.
 
-<a id="p31"></a>
-
-### 31. multiple + N số nhiều
-
-<small>10 câu</small>
-
-- *(Cam 15 · T4 · P2)* They had nothing to grab onto, so **multiple areas** of their brains were activated.’
-- *(Cam 16 · T1 · P1)* The bear used a tree branch on **multiple occasions** to dislodge a piece of meat hung out of his reach.
-- *(Cam 16 · T1 · P3)* Instead, he envisages a multistage employment life: one where retraining happens across the life course, and where **multiple jobs** and no job happen by choice at different stages.
-- *(Cam 16 · T4 · P2)* **Multiple studies** show that digital screen use may be causing a variety of troubling downstream effects on reading comprehension in older high school and college students.
-- *(Cam 17 · T1 · P2)* The stadium of today now brings together **multiple functions**, thus helping cities to create a sustainable future.
-- *(Cam 17 · T3 · P2)* However, there are **multiple reasons** why conservationists cite the rapid spread of oil palm plantations as a major concern.
-- *(Cam 17 · T4 · P2)* According to Ogilvie, the database provides **multiple indicators** for the same individuals, making it possible to analyse links between literacy, numeracy, wealth, and industriousness, for individual women and men over the long term.
-- *(Cam 17 · T4 · P3)* The real mental challenge comes from playing **multiple games** at once in the head.
-- *(Cam 18 · T2 · P1)* Radiocarbon dating has revealed that work continued at Stonehenge until roughly 1600 BCE, with the bluestones in particular being repositioned **multiple times**.
-- *(Cam 19 · T4 · P1)* Therefore, as the climate continues to warm, species like the Silver-studded Blue might be able to switch to **multiple generations** in the UK as well, and so begin to extract benefits from the additional warmth, potentially leading to population increases.
-
 <a id="p32"></a>
 
 ### 32. enough + N
 
-<small>8 câu</small>
+<small>10 câu</small>
 
 - *(Cam 11 · T1 · P1)* An estimated 109 hectares of new land (about 20% larger than Brazil) will be needed to grow **enough food** to feed them, if traditional farming methods continue as they are practised today.
 - *(Cam 11 · T1 · P1)* What can be done to ensure **enough food** for the world’s population to live on?
@@ -1712,12 +1834,14 @@
 - *(Cam 18 · T1 · P3)* Just a few uncontrolled space crashes could generate **enough debris** to set off a runaway cascade of fragments, rendering near-Earth space unusable.
 - *(Cam 18 · T4 · P1)* Being able to keep **enough water** at roof height and distribute it right across the rooftop is crucial to maintaining the plants on any green roof – especially on ‘edible roofs’ where fruit and vegetables are farmed.
 - *(Cam 18 · T4 · P2)* The statistician Andrew Gelman claims that ‘their research designs have **enough degrees** of freedom that they could take their data to support just about any theory at all’.
+- *(Cam 21 · T2 · P3)* This is the philosophy that, given **enough data**, machine learning algorithms can solve all of humanity's problems.
+- *(Cam 21 · T4 · P1)* In Dunga, the machines produce **enough gas** to serve about 60% of the village's population.
 
 <a id="p33"></a>
 
 ### 33. plenty of + N
 
-<small>8 câu</small>
+<small>9 câu</small>
 
 - *(Cam 13 · T3 · P3)* ‘There is **plenty of** archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall,’ explains archaeologist Dr Cameron Petrie of the University of Cambridge.
 - *(Cam 14 · T3 · P2)* The main cause of this shift is that although there are **plenty of** promising chemical compounds in nature, finding them is far from easy.
@@ -1727,6 +1851,7 @@
 - *(Cam 17 · T2 · P3)* **Plenty of** other stories show that fresh advances can arise from error, misadventure, and also pure serendipity – a happy accident.
 - *(Cam 17 · T4 · P2)* ‘Modern cross-country analyses have also struggled to find evidence that education causes economic growth, even though there is **plenty of** evidence that growth increases education,’ she adds.
 - *(Cam 18 · T1 · P3)* In theory, given the vastness of space, satellite operators should have **plenty of** room for all these missions to fly safely without ever nearing another object.
+- *(Cam 21 · T2 · P2)* As with other kingdoms in the region of southern Africa, cattle herding and other types of farming brought **plenty of** food and a surplus that could be traded for needed goods.
 
 <a id="p34"></a>
 
@@ -1879,4 +2004,12 @@
 <small>1 câu</small>
 
 - *(Cam 13 · T1 · P1)* Another feature that attracted a lot of attention was an interactive journey through **a number of the** locations chosen for blockbuster films which had made use of New Zealand’s stunning scenery as a backdrop.
+
+<a id="p48"></a>
+
+### 48. thousands of + the/tính từ sở hữu + N
+
+<small>1 câu</small>
+
+- *(Cam 21 · T3 · P1)* There was some recovery in the first decade of the new millennium but this was then crushed by devastating mass mortality events that saw the loss of hundreds of **thousands of the** species.
 

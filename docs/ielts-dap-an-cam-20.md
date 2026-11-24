@@ -4,7 +4,7 @@
 >
 > ⚠️ Đáp án lấy từ ieltstrainingonline.com (bên thứ ba, không phải đáp án chính thức của Cambridge). Câu dẫn chứng do máy tìm bằng so khớp từ khoá nên **có thể chỉ sai chỗ** — với TRUE/FALSE/NOT GIVEN và câu paraphrase mạnh, hãy đọc thêm câu trước/sau. NOT GIVEN thì câu dẫn chứng chỉ là chỗ gần nhất bài nói tới.
 
-**Các cuốn:** [Cam 10](ielts-dap-an-cam-10.md) · [Cam 11](ielts-dap-an-cam-11.md) · [Cam 12](ielts-dap-an-cam-12.md) · [Cam 13](ielts-dap-an-cam-13.md) · [Cam 14](ielts-dap-an-cam-14.md) · [Cam 15](ielts-dap-an-cam-15.md) · [Cam 16](ielts-dap-an-cam-16.md) · [Cam 17](ielts-dap-an-cam-17.md) · [Cam 18](ielts-dap-an-cam-18.md) · [Cam 19](ielts-dap-an-cam-19.md) · **Cam 20** · [📊 Tổng quan dạng câu hỏi](ielts-dap-an-tong-quan.md) · [🗺️ Ngữ pháp Cam 20](ielts-ngu-phap-cam-20.md)
+**Các cuốn:** [Cam 10](ielts-dap-an-cam-10.md) · [Cam 11](ielts-dap-an-cam-11.md) · [Cam 12](ielts-dap-an-cam-12.md) · [Cam 13](ielts-dap-an-cam-13.md) · [Cam 14](ielts-dap-an-cam-14.md) · [Cam 15](ielts-dap-an-cam-15.md) · [Cam 16](ielts-dap-an-cam-16.md) · [Cam 17](ielts-dap-an-cam-17.md) · [Cam 18](ielts-dap-an-cam-18.md) · [Cam 19](ielts-dap-an-cam-19.md) · **Cam 20** · [Cam 21](ielts-dap-an-cam-21.md) · [📊 Tổng quan dạng câu hỏi](ielts-dap-an-tong-quan.md) · [🗺️ Ngữ pháp Cam 20](ielts-ngu-phap-cam-20.md)
 
 
 ## 📝 Test 1

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Bản đồ ngữ pháp IELTS Reading (Cambridge 10–20) — giống bộ "Bản đồ ngữ pháp ETS 2026".
+"""Bản đồ ngữ pháp IELTS Reading (Cambridge 10–21) — giống bộ "Bản đồ ngữ pháp ETS 2026".
 
-Nguồn: ~/Ielts-Reading/cleaned_camNN_testN.html (44 đề, 3 bài đọc/đề). Chỉ lấy đoạn văn
+Nguồn: ~/Ielts-Reading/cleaned_camNN_testN.html (48 đề, 3 bài đọc/đề). Chỉ lấy đoạn văn
 của bài đọc (bỏ câu hỏi). Mỗi câu được spaCy (en_core_web_sm) phân tích cú pháp rồi gắn
 nhãn điểm ngữ pháp theo đúng 19 chương của trang "Xem Tất Cả" (tên điểm ngữ pháp dùng
 lại của bộ ETS để 2 bộ khớp nhau, thêm vài điểm hay gặp trong văn học thuật).

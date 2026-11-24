@@ -1,4 +1,4 @@
-# ⏩ 18. PHỐI HỢP THÌ — full câu ví dụ IELTS Reading (Cam 10–20)
+# ⏩ 18. PHỐI HỢP THÌ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [PHỐI HỢP THÌ](SEQUENCE%20OF%20TENSES.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=seq). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,8 +6,8 @@
 
 ## Mục lục
 
-1. [Lùi thì sau động từ tường thuật ở quá khứ](ielts-ngu-phap-full-seq.md?id=p1) — 77 câu
-2. [Quá khứ hoàn thành (xảy ra trước) + quá khứ đơn](ielts-ngu-phap-full-seq.md?id=p2) — 62 câu
+1. [Lùi thì sau động từ tường thuật ở quá khứ](ielts-ngu-phap-full-seq.md?id=p1) — 81 câu
+2. [Quá khứ hoàn thành (xảy ra trước) + quá khứ đơn](ielts-ngu-phap-full-seq.md?id=p2) — 73 câu
 3. [Không lùi thì (sự việc vẫn đúng/chưa xảy ra)](ielts-ngu-phap-full-seq.md?id=p3) — 38 câu
 4. [MĐ thời gian dùng hiện tại thay cho tương lai](ielts-ngu-phap-full-seq.md?id=p4) — 1 câu
 
@@ -17,7 +17,7 @@
 
 ### 1. Lùi thì sau động từ tường thuật ở quá khứ
 
-<small>77 câu</small>
+<small>81 câu</small>
 
 - *(Cam 10 · T1 · P3)* He **said he and Crick had succeeded** because they were aware that they weren’t the most intelligent of the scientists pursuing the answer.
 - *(Cam 10 · T2 · P1)* Some digging around in historical records **revealed that there was** a change in the incidence of water-borne disease at that time, especially dysentery.
@@ -96,12 +96,16 @@
 - *(Cam 20 · T4 · P3)* When guard dogs were introduced, more than 90 per cent of farmers reported a dramatic reduction in livestock losses, and **said that as a result they were** less likely to kill predators.
 - *(Cam 20 · T4 · P3)* Looking at all the published evidence, Bethany Smith at Nottingham Trent University in the UK **found that up to 88 per cent of farmers said** they no longer killed predators after using dogs – but warned that such self-reported results must be taken with a pinch of salt.
 - *(Cam 20 · T4 · P3)* In 2015, researchers **reported that in spite of the impact farmers obtaining guard dogs had on cheetahs, the number of jackals killed by dogs and people actually increased**.
+- *(Cam 21 · T1 · P2)* A report from the European Environment Agency **concluded that noise was** an ongoing and widespread issue in Europe, with at least 1 in 5 people consistently exposed to levels considered harmful to health.
+- *(Cam 21 · T1 · P2)* In a recent study, he **found that participants reported** more relaxation and less boredom when they sat quietly in an outdoor garden compared with a completely silent room.
+- *(Cam 21 · T2 · P1)* They **found the patterns were** very similar and concluded that the sleeping rats were dreaming about going through the maze.
+- *(Cam 21 · T4 · P1)* In 2014, Nigerian academics **announced they had got** better yields of biofuel gas when they mixed the plant with chicken manure.
 
 <a id="p2"></a>
 
 ### 2. Quá khứ hoàn thành (xảy ra trước) + quá khứ đơn
 
-<small>62 câu</small>
+<small>73 câu</small>
 
 - *(Cam 10 · T1 · P3)* ‘When asked how they had **cracked the code ahead of an array of highly accomplished rival investigators, he said** something that stunned me.
 - *(Cam 10 · T1 · P3)* He **said he and Crick had succeeded** because they were aware that they weren’t the most intelligent of the scientists pursuing the answer.
@@ -165,6 +169,17 @@
 - *(Cam 20 · T2 · P3)* Major League Baseball (MLB), who had **commissioned the system, wanted** human umpires to announce the calls, just as they would have done in the past.
 - *(Cam 20 · T4 · P1)* Often, she **painted the rocks, cliffs, and mountains in striking close-up, just as she had done** with her botanical subjects.
 - *(Cam 20 · T4 · P2)* Using a Geographic Information System data mapping tool, the programme **identified streets with low tree canopy cover in three of the city’s neighbourhoods and covered them with a light-grey, light-reflecting coating, which had alre**ady been shown to lower road surface temperature in Los Angeles by 6°C.
+- *(Cam 21 · T3 · P3)* At Kalambo Falls in Zambia, researchers **found buried logs that had been shaped** with stone tools so that they interlocked.
+- *(Cam 21 · T3 · P3)* Going further back, an Iberian leader from around 4000 years ago **turned out to be female, not male as many had assumed**, when proteins in her teeth were analysed.
+- *(Cam 21 · T4 · P1)* But by the 1980s, it had '**escaped' out of the country via the Kagera river and made** its way downstream to Lake Victoria.
+- *(Cam 21 · T4 · P1)* Some years ago, on the shores of Lake Victoria, huge piles of water hyacinth that villagers had **taken out of the water in an attempt to clear it were** a common sight.
+- *(Cam 21 · T4 · P1)* In 2014, Nigerian academics **announced they had got** better yields of biofuel gas when they mixed the plant with chicken manure.
+- *(Cam 21 · T4 · P1)* A few years later, Kenyan scientists **confirmed what their Nigerian peers and others had already found**: manure worked to improve the process of converting the weed into gas.
+- *(Cam 21 · T4 · P3)* Nearly two millennia later, however, it **seemed that the art of globemaking had been largely forgotten**.
+- *(Cam 21 · T4 · P3)* Even his trips to Morocco and India, where surely the knowledge of artisan cartographers* had been **preserved, drew** a blank.
+- *(Cam 21 · T4 · P3)* Even after he eventually **resolved this issue, extracting these from the moulds resulted in piles of cracked plaster of Paris** and clouds of choking dust in the workshop he had set** up at the rear of his house.
+- *(Cam 21 · T4 · P3)* Right at the end of the process, he **learnt that the paper had stretched** slightly and so the final one overlapped the first by a centimetre (which may not seem a great deal, but when that represents 2 per cent of the Earth's diameter, it's equivalent to obliterating the Himalayas or wiping out Chile).
+- *(Cam 21 · T4 · P3)* He **was the Nuremberg entrepreneur who in 1492 created the Erdapfel, the world's oldest surviving globe, beautifully finished by a workshop of painters and other cr**aftsmen, only to find that the explorer Christopher Columbus had stumbled upon the Americas the very same year, rendering his masterpiece instantly out of date.
 
 <a id="p3"></a>
 

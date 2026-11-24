@@ -4,7 +4,7 @@
 >
 > ⚠️ Nhãn gắn tự động bằng spaCy nên có thể sai ~5–10%.
 
-**Các cuốn:** [Cam 10](ielts-ngu-phap-cam-10.md) · [Cam 11](ielts-ngu-phap-cam-11.md) · [Cam 12](ielts-ngu-phap-cam-12.md) · [Cam 13](ielts-ngu-phap-cam-13.md) · [Cam 14](ielts-ngu-phap-cam-14.md) · [Cam 15](ielts-ngu-phap-cam-15.md) · [Cam 16](ielts-ngu-phap-cam-16.md) · **Cam 17** · [Cam 18](ielts-ngu-phap-cam-18.md) · [Cam 19](ielts-ngu-phap-cam-19.md) · [Cam 20](ielts-ngu-phap-cam-20.md) · [🗺️ Bản đồ ngữ pháp tổng hợp](ielts-ngu-phap-ban-do.md)
+**Các cuốn:** [Cam 10](ielts-ngu-phap-cam-10.md) · [Cam 11](ielts-ngu-phap-cam-11.md) · [Cam 12](ielts-ngu-phap-cam-12.md) · [Cam 13](ielts-ngu-phap-cam-13.md) · [Cam 14](ielts-ngu-phap-cam-14.md) · [Cam 15](ielts-ngu-phap-cam-15.md) · [Cam 16](ielts-ngu-phap-cam-16.md) · **Cam 17** · [Cam 18](ielts-ngu-phap-cam-18.md) · [Cam 19](ielts-ngu-phap-cam-19.md) · [Cam 20](ielts-ngu-phap-cam-20.md) · [Cam 21](ielts-ngu-phap-cam-21.md) · [🗺️ Bản đồ ngữ pháp tổng hợp](ielts-ngu-phap-ban-do.md)
 
 
 ## 📖 Test 1 — Passage 1: The development of the London underground railway

@@ -1,38 +1,38 @@
-# 📊 IELTS Reading — Tổng quan dạng câu hỏi & cách làm (Cambridge 10–20)
+# 📊 IELTS Reading — Tổng quan dạng câu hỏi & cách làm (Cambridge 10–21)
 
-> Thống kê **1,714 câu hỏi** trong **43 đề** Cambridge IELTS 10–20 (43 đề có đáp án; Cam 17 Test 3 chưa có). Bấm vào từng cuốn để xem **đáp án + câu dẫn chứng** cho từng câu.
+> Thống kê **1,873 câu hỏi** trong **47 đề** Cambridge IELTS 10–21 (47 đề có đáp án; Cam 17 Test 3 chưa có). Bấm vào từng cuốn để xem **đáp án + câu dẫn chứng** cho từng câu.
 >
 > ⚠️ Đáp án lấy từ ieltstrainingonline.com (bên thứ ba, không phải đáp án chính thức của Cambridge); dạng câu hỏi và câu dẫn chứng do máy nhận diện.
 
-**Đáp án & phân tích theo cuốn:** [Cam 10](ielts-dap-an-cam-10.md) · [Cam 11](ielts-dap-an-cam-11.md) · [Cam 12](ielts-dap-an-cam-12.md) · [Cam 13](ielts-dap-an-cam-13.md) · [Cam 14](ielts-dap-an-cam-14.md) · [Cam 15](ielts-dap-an-cam-15.md) · [Cam 16](ielts-dap-an-cam-16.md) · [Cam 17](ielts-dap-an-cam-17.md) · [Cam 18](ielts-dap-an-cam-18.md) · [Cam 19](ielts-dap-an-cam-19.md) · [Cam 20](ielts-dap-an-cam-20.md)
+**Đáp án & phân tích theo cuốn:** [Cam 10](ielts-dap-an-cam-10.md) · [Cam 11](ielts-dap-an-cam-11.md) · [Cam 12](ielts-dap-an-cam-12.md) · [Cam 13](ielts-dap-an-cam-13.md) · [Cam 14](ielts-dap-an-cam-14.md) · [Cam 15](ielts-dap-an-cam-15.md) · [Cam 16](ielts-dap-an-cam-16.md) · [Cam 17](ielts-dap-an-cam-17.md) · [Cam 18](ielts-dap-an-cam-18.md) · [Cam 19](ielts-dap-an-cam-19.md) · [Cam 20](ielts-dap-an-cam-20.md) · [Cam 21](ielts-dap-an-cam-21.md)
 
 ## 📈 Dạng câu hỏi nào gặp nhiều nhất
 
 | # | Dạng câu hỏi | Số câu | Tỉ lệ |
 |---|---|---|---|
-| 1 | [TRUE / FALSE / NOT GIVEN](#tfng) | 304 | 17.7% |
-| 2 | [Nối thông tin với đoạn (Matching information)](#info) | 179 | 10.4% |
-| 3 | [Điền ghi chú (Note completion)](#notes) | 173 | 10.1% |
-| 4 | [Điền tóm tắt (Summary completion)](#summ) | 171 | 10.0% |
-| 5 | [Nối đặc điểm / người (Matching features)](#feat) | 139 | 8.1% |
-| 6 | [YES / NO / NOT GIVEN](#ynng) | 135 | 7.9% |
-| 7 | [Trắc nghiệm 1 đáp án (Multiple choice)](#mcq) | 133 | 7.8% |
-| 8 | [Chọn tiêu đề cho đoạn (Matching headings)](#head) | 106 | 6.2% |
-| 9 | [Điền tóm tắt từ danh sách cho sẵn (Summary – word list)](#sumopt) | 103 | 6.0% |
-| 10 | [Điền câu (Sentence completion)](#sent) | 82 | 4.8% |
-| 11 | [Điền bảng (Table completion)](#table) | 58 | 3.4% |
-| 12 | [Chọn 2–3 đáp án (Multiple choice – nhiều đáp án)](#mcq2) | 54 | 3.2% |
-| 13 | [Nối nửa câu (Sentence endings)](#end) | 48 | 2.8% |
-| 14 | [Điền sơ đồ / lưu đồ (Diagram / flow-chart)](#diag) | 18 | 1.1% |
-| 15 | [Trả lời ngắn (Short answer)](#short) | 6 | 0.4% |
+| 1 | [TRUE / FALSE / NOT GIVEN](#tfng) | 336 | 17.9% |
+| 2 | [Điền ghi chú (Note completion)](#notes) | 198 | 10.6% |
+| 3 | [Nối thông tin với đoạn (Matching information)](#info) | 189 | 10.1% |
+| 4 | [Điền tóm tắt (Summary completion)](#summ) | 180 | 9.6% |
+| 5 | [YES / NO / NOT GIVEN](#ynng) | 157 | 8.4% |
+| 6 | [Trắc nghiệm 1 đáp án (Multiple choice)](#mcq) | 151 | 8.1% |
+| 7 | [Nối đặc điểm / người (Matching features)](#feat) | 144 | 7.7% |
+| 8 | [Điền tóm tắt từ danh sách cho sẵn (Summary – word list)](#sumopt) | 127 | 6.8% |
+| 9 | [Chọn tiêu đề cho đoạn (Matching headings)](#head) | 106 | 5.7% |
+| 10 | [Điền câu (Sentence completion)](#sent) | 82 | 4.4% |
+| 11 | [Điền bảng (Table completion)](#table) | 63 | 3.4% |
+| 12 | [Chọn 2–3 đáp án (Multiple choice – nhiều đáp án)](#mcq2) | 56 | 3.0% |
+| 13 | [Nối nửa câu (Sentence endings)](#end) | 52 | 2.8% |
+| 14 | [Điền sơ đồ / lưu đồ (Diagram / flow-chart)](#diag) | 21 | 1.1% |
+| 15 | [Trả lời ngắn (Short answer)](#short) | 6 | 0.3% |
 | 16 | [Dạng khác](#other) | 5 | 0.3% |
 
 ## ⚖️ Phân bố đáp án TRUE / FALSE / NOT GIVEN và YES / NO / NOT GIVEN
 
 | Dạng | TRUE / YES | FALSE / NO | NOT GIVEN |
 |---|---|---|---|
-| TRUE / FALSE / NOT GIVEN | 103 | 98 | 88 |
-| YES / NO / NOT GIVEN | 44 | 47 | 44 |
+| TRUE / FALSE / NOT GIVEN | 114 | 108 | 99 |
+| YES / NO / NOT GIVEN | 51 | 55 | 51 |
 
 > Ba đáp án xuất hiện gần đều nhau → **đừng đoán theo cảm giác** "chắc là NOT GIVEN"; luôn tìm câu dẫn chứng.
 
@@ -40,7 +40,7 @@
 
 <a id="tfng"></a>
 
-### TRUE / FALSE / NOT GIVEN <small>(304 câu)</small>
+### TRUE / FALSE / NOT GIVEN <small>(336 câu)</small>
 
 💡 Tìm đúng câu chứa thông tin (từ khoá ít đổi: tên riêng, số, năm), rồi so **ý**: cùng ý → TRUE; ngược ý (phủ định, đổi số/so sánh, all↔some) → FALSE; bài không nói tới điểm mấu chốt → NOT GIVEN. Thứ tự câu hỏi đi theo thứ tự bài.
 
@@ -53,7 +53,7 @@
 
 <a id="ynng"></a>
 
-### YES / NO / NOT GIVEN <small>(135 câu)</small>
+### YES / NO / NOT GIVEN <small>(157 câu)</small>
 
 💡 Như TRUE/FALSE/NOT GIVEN nhưng so với **quan điểm / nhận định của tác giả** (chú ý từ thể hiện thái độ: surprisingly, unfortunately, it is clear that…). Thứ tự câu hỏi đi theo thứ tự bài.
 
@@ -73,7 +73,7 @@
 
 <a id="info"></a>
 
-### Nối thông tin với đoạn (Matching information) <small>(179 câu)</small>
+### Nối thông tin với đoạn (Matching information) <small>(189 câu)</small>
 
 💡 Thông tin cần tìm thường là **chi tiết** (một ví dụ, một lý do, một con số…) nằm ở bất kỳ đoạn nào, không theo thứ tự. Gạch từ khoá dạng danh từ của câu hỏi rồi quét từng đoạn; một đoạn có thể dùng nhiều lần.
 
@@ -86,7 +86,7 @@
 
 <a id="end"></a>
 
-### Nối nửa câu (Sentence endings) <small>(48 câu)</small>
+### Nối nửa câu (Sentence endings) <small>(52 câu)</small>
 
 💡 Đọc nửa đầu, tìm vị trí trong bài (theo thứ tự), rồi chọn kết thúc vừa **đúng ý** vừa **đúng ngữ pháp**.
 
@@ -99,7 +99,7 @@
 
 <a id="feat"></a>
 
-### Nối đặc điểm / người (Matching features) <small>(139 câu)</small>
+### Nối đặc điểm / người (Matching features) <small>(144 câu)</small>
 
 💡 Tìm **tên người / mốc thời gian** trong bài trước (dễ quét), đọc quanh tên đó rồi so với các nhận định. Không theo thứ tự; một lựa chọn có thể dùng nhiều lần.
 
@@ -112,7 +112,7 @@
 
 <a id="mcq2"></a>
 
-### Chọn 2–3 đáp án (Multiple choice – nhiều đáp án) <small>(54 câu)</small>
+### Chọn 2–3 đáp án (Multiple choice – nhiều đáp án) <small>(56 câu)</small>
 
 💡 Mỗi phương án đúng phải có dẫn chứng riêng trong bài; loại phương án đúng một nửa hoặc bài không nhắc. Thứ tự 2 đáp án không quan trọng.
 
@@ -125,7 +125,7 @@
 
 <a id="mcq"></a>
 
-### Trắc nghiệm 1 đáp án (Multiple choice) <small>(133 câu)</small>
+### Trắc nghiệm 1 đáp án (Multiple choice) <small>(151 câu)</small>
 
 💡 Tìm vị trí bằng từ khoá ở thân câu hỏi (theo thứ tự bài), đọc kỹ 2–3 câu quanh đó; phương án đúng thường **paraphrase**, phương án bẫy lặp nguyên từ của bài nhưng sai ý.
 
@@ -138,7 +138,7 @@
 
 <a id="sumopt"></a>
 
-### Điền tóm tắt từ danh sách cho sẵn (Summary – word list) <small>(103 câu)</small>
+### Điền tóm tắt từ danh sách cho sẵn (Summary – word list) <small>(127 câu)</small>
 
 💡 Đoán **từ loại** cần điền (danh từ/tính từ/động từ) trước, rồi chọn từ trong danh sách mang **cùng nghĩa** với bài (đáp án hầu như luôn là từ đồng nghĩa, không trùng nguyên văn).
 
@@ -151,14 +151,20 @@
 
 <a id="diag"></a>
 
-### Điền sơ đồ / lưu đồ (Diagram / flow-chart) <small>(18 câu)</small>
+### Điền sơ đồ / lưu đồ (Diagram / flow-chart) <small>(21 câu)</small>
 
 💡 Quét tên các bộ phận / bước trong bài; điền đúng số chữ cho phép, chép **nguyên văn** từ bài.
 
+- *(Cam 21 · Test 4 · câu 8)* First, place water hyacinth together with some 8 .................. into a digester → ✅ **cow dung**
+  > 📍 The community received a pair of donated biogas **digesters** – machines that would transform a mix of **water** **hyacinth** and **cow dung** into biogas for cooking.
+- *(Cam 21 · Test 4 · câu 9)* Leave the mixture until the 9 .................. is completed → ✅ **fermentation (process)**
+  > 📍 The **mixture** goes in one end – think of it as a mouth – and over the next 20 to 30 days, it goes through a **fermentation** process and breaks down, giving off gas that comes out the other end.
+- *(Cam 21 · Test 4 · câu 10)* Capture the gas emitted by the digester and use 10 .................. to transport it to individual homes → ✅ **pipes**
+  > 📍 From there, the clean-burning **gas** is passed through **pipes** to the point of **use**, just like traditional domestic **gas**.
 
 <a id="table"></a>
 
-### Điền bảng (Table completion) <small>(58 câu)</small>
+### Điền bảng (Table completion) <small>(63 câu)</small>
 
 💡 Xác định cột/hàng → biết cần loại thông tin gì (năm, tên, số…); chép **nguyên văn**, đúng giới hạn số từ.
 
@@ -171,7 +177,7 @@
 
 <a id="notes"></a>
 
-### Điền ghi chú (Note completion) <small>(173 câu)</small>
+### Điền ghi chú (Note completion) <small>(198 câu)</small>
 
 💡 Ghi chú đi theo thứ tự bài; đoán từ loại trước, chép **nguyên văn** và đúng giới hạn số từ.
 
@@ -184,7 +190,7 @@
 
 <a id="summ"></a>
 
-### Điền tóm tắt (Summary completion) <small>(171 câu)</small>
+### Điền tóm tắt (Summary completion) <small>(180 câu)</small>
 
 💡 Tóm tắt thường chỉ bao một phần bài, theo thứ tự; đoán từ loại, tìm câu paraphrase rồi chép **nguyên văn**.
 

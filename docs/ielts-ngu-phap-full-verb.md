@@ -1,4 +1,4 @@
-# 🏃 7. ĐỘNG TỪ — full câu ví dụ IELTS Reading (Cam 10–20)
+# 🏃 7. ĐỘNG TỪ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [ĐỘNG TỪ](%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=verb). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,17 +6,17 @@
 
 ## Mục lục
 
-1. [Động từ khuyết thiếu can + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p1) — 296 câu
-2. [Liên động từ (linking verb) + bổ ngữ](ielts-ngu-phap-full-verb.md?id=p2) — 147 câu
-3. [Động từ khuyết thiếu would + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p3) — 143 câu
-4. [Động từ khuyết thiếu could + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p4) — 134 câu
-5. [Động từ khuyết thiếu may + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p5) — 118 câu
-6. [Động từ khuyết thiếu might + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p6) — 84 câu
-7. [Modal + have + V3 (may have done)](ielts-ngu-phap-full-verb.md?id=p7) — 72 câu
-8. [Động từ khuyết thiếu should + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p8) — 52 câu
-9. [Động từ + 2 tân ngữ (V + IO + DO)](ielts-ngu-phap-full-verb.md?id=p9) — 51 câu
-10. [Động từ khuyết thiếu must + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p10) — 29 câu
-11. [Câu giả định (suggest/require that + S + V nguyên mẫu)](ielts-ngu-phap-full-verb.md?id=p11) — 17 câu
+1. [Động từ khuyết thiếu can + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p1) — 316 câu
+2. [Liên động từ (linking verb) + bổ ngữ](ielts-ngu-phap-full-verb.md?id=p2) — 154 câu
+3. [Động từ khuyết thiếu would + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p3) — 151 câu
+4. [Động từ khuyết thiếu could + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p4) — 144 câu
+5. [Động từ khuyết thiếu may + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p5) — 133 câu
+6. [Động từ khuyết thiếu might + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p6) — 88 câu
+7. [Modal + have + V3 (may have done)](ielts-ngu-phap-full-verb.md?id=p7) — 85 câu
+8. [Động từ khuyết thiếu should + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p8) — 55 câu
+9. [Động từ + 2 tân ngữ (V + IO + DO)](ielts-ngu-phap-full-verb.md?id=p9) — 55 câu
+10. [Động từ khuyết thiếu must + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p10) — 32 câu
+11. [Câu giả định (suggest/require that + S + V nguyên mẫu)](ielts-ngu-phap-full-verb.md?id=p11) — 19 câu
 12. [Động từ khuyết thiếu ca + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p12) — 13 câu
 13. [Động từ khuyết thiếu wo + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p13) — 8 câu
 14. [Động từ khuyết thiếu 'd + V nguyên mẫu](ielts-ngu-phap-full-verb.md?id=p14) — 7 câu
@@ -30,164 +30,164 @@
 
 ### 1. Động từ khuyết thiếu can + V nguyên mẫu
 
-<small>296 câu · hiện 150</small>
+<small>316 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P2)* Although modern information technologies **can reduce** the demand for physical transport by facilitating teleworking and teleservices, the requirement for transport continues to increase.
-- *(Cam 10 · T1 · P3)* Studies at Harvard Business School show that, although some individuals may be more creative than others, almost every individual **can be** creative in the right circumstances.
 - *(Cam 10 · T1 · P3)* This behaviour is not, he says, unique to air travel, but **can happen** in any workplace where the leader is overbearing.
-- *(Cam 10 · T1 · P3)* However, a manager who wants to create a truly innovative culture **can make** their job a lot easier by recognising these psychological realities.
 - *(Cam 10 · T2 · P1)* ‘There are about 20 different factors and all of them need to be present before the revolution **can happen**,’ he says.
-- *(Cam 10 · T2 · P2)* But IQ tests **can neither identify** the processes of learning and thinking nor predict creativity.
 - *(Cam 10 · T2 · P2)* If they merely make fewer errors, then we **can shorten** the practice’.
-- *(Cam 10 · T2 · P2)* Conversely, teachers who have a tendency to ‘overdirect’ **can diminish** their gifted pupils’ learning autonomy.
 - *(Cam 10 · T2 · P2)* Although ‘spoon-feeding’ **can produce** extremely high examination results, these are not always followed by equally impressive life successes.
-- *(Cam 10 · T2 · P2)* There are quite a number of new methods which **can help**, such as child- initiated learning, ability-peer tutoring, etc.
 - *(Cam 10 · T2 · P2)* Fear, for example, **can limit** the development of curiosity, which is a strong force in scientific advance, because it motivates problem-solving behaviour.
-- *(Cam 10 · T2 · P3)* The fact that people go to the Louvre museum in Paris to see the original painting Mona Lisa when they **can see** a reproduction anywhere leads us to question some assumptions about the role of museums of fine art in today’s world
 - *(Cam 10 · T2 · P3)* But despite an implicit recognition that the spread of good reproductions **can be** culturally valuable, museums continue to promote the special status of original work.
-- *(Cam 10 · T2 · P3)* The displays of art museums serve as a warning of what critical practices **can emerge** when spontaneous criticism is suppressed.
 - *(Cam 10 · T3 · P3)* ‘All we **can say** for certain is that the Lapita had canoes that were capable of ocean voyages, and they had the ability to sail them,’ says Geoff Irwin, a professor of archaeology at the University of Auckland.
-- *(Cam 10 · T4 · P2)* With a little experimentation, people **can reshape** their temperaments and inject passion, optimism, joy and courage into their lives
 - *(Cam 10 · T4 · P2)* Psychologists have long held that a person’s character **cannot undergo** a transformation in any meaningful way and that the key traits of personality are determined at a very young age.
-- *(Cam 10 · T4 · P2)* However, researchers have begun looking more closely at ways we **can change**.
 - *(Cam 10 · T4 · P2)* You **can recognise** a person who is passionate about a pursuit by the way they are so strongly involved in it.
-- *(Cam 10 · T4 · P2)* Beginning in 1998, she set nine world records and **can hold** her breath for six minutes.
 - *(Cam 10 · T4 · P2)* Finding a pursuit that excites you **can improve** anyone’s life.
-- *(Cam 10 · T4 · P2)* One thing that **can hold** joy back is a person’s concentration on avoiding failure rather than their looking forward to doing something well.
 - *(Cam 10 · T4 · P2)* Pury also believes that people **can acquire** courage.
-- *(Cam 10 · T4 · P3)* Evolution isn’t supposed to run backwards – yet an increasing number of examples show that it does and that it **can sometimes represent** the future of a species.
 - *(Cam 10 · T4 · P3)* For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says ‘evolution **cannot run** backwards.
-- *(Cam 10 · T4 · P3)* Early 20th-century biologists came to a similar conclusion, though they qualified it in terms of probability, stating that there is no reason why evolution **cannot run** backwards -it is just very unlikely.
 - *(Cam 10 · T4 · P3)* ‘I **can see** no other explanation,’ he wrote in 1921.
-- *(Cam 10 · T4 · P3)* And this poses a puzzle: how **can characteristics that disappeared millions of years ago suddenly reappear**?
 - *(Cam 10 · T4 · P3)* So how long **can a gene survive** in a species if it is no longer used?
-- *(Cam 10 · T4 · P3)* One possibility is that these traits are lost and then simply reappear, in much the same way that similar structures **can independently arise** in unrelated species, such as the dorsal fins of sharks and killer whales.
 - *(Cam 11 · T1 · P1)* This means that, for the majority, we humans have shelter from the elements, yet we subject our food-bearing plants to the rigours of the great outdoors and **can do** no more than hope for a good weather year.
-- *(Cam 11 · T1 · P3)* They believe that the best we **can do** is keep it at a reasonable level, and at present the only serious option for doing this is cutting back on our carbon emissions.
 - *(Cam 11 · T1 · P3)* ‘A further risk with geo-engineering projects is that you **can “overshoot**”,’ says Dr Dan Hunt, from the University of Bristol’s School of Geophysical Sciences, who has studied the likely impacts of the sunshade and aerosol schemes on the climate.
-- *(Cam 11 · T2 · P2)* Whichever is the case, there are surely some valuable lessons which the world at large **can learn** from the story of Rapa Nui.
 - *(Cam 11 · T2 · P3)* It seems that the viewer **can sense** the artist’s vision in paintings, even if they can’t explain why.
-- *(Cam 11 · T2 · P3)* In some ways, it’s not so different to science, where we are constantly looking for systems and decoding meaning so that we **can view** and appreciate the world in a new way.
 - *(Cam 11 · T3 · P2)* The bird senses that it **can eat**, rest and mate later.
-- *(Cam 11 · T3 · P2)* Reaching some gravelly coastline in the Arctic, upon which other arctic terns have converged, will serve its larger purpose as shaped by evolution: finding a place, a time, and a set of circumstances in which it **can successfully hatch** and rear offspring.
 - *(Cam 11 · T3 · P2)* So **can the movement of aphids when, having depleted the young leaves on one food plant, their offspring then fly onward to a different host plant, with no one aphi**d ever returning to where it started.
-- *(Cam 11 · T3 · P2)* Pronghorn, dependent on distance vision and speed to keep safe from predators, traverse high, open shoulders of land, where they **can see** and run.
 - *(Cam 11 · T3 · P2)* But neither the Forest Service nor the Park Service **can control** what happens on private land at a bottleneck.
-- *(Cam 11 · T3 · P2)* We will require wisdom and resoluteness to ensure that migrating species **can continue** their journeying a while longer.
 - *(Cam 11 · T3 · P3)* Anyone **can understand** every step in the reasoning.
-- *(Cam 11 · T3 · P3)* Still, the non-mathematical reader **can go** far in understanding mathematical reasoning.
 - *(Cam 11 · T3 · P3)* That mathematics **can develop** this skill is shown by these two testimonials:
-- *(Cam 11 · T4 · P1)* Alternatively, by comparing the experiences of identical twins with those of fraternal twins, who come from separate eggs and share on average half their DNA, researchers **can quantify** the extent to which our genes affect our lives.
 - *(Cam 11 · T4 · P1)* Studies of animals, for example, have shown that when a rat experiences stress during pregnancy, it **can cause** epigenetic changes in a fetus that lead to behavioral problems as the rodent grows up.
-- *(Cam 11 · T4 · P2)* Though we might think of film as an essentially visual experience, we really **cannot afford** to underestimate the importance of film sound.
 - *(Cam 11 · T4 · P3)* In its own right it is a tool of extraordinary sophistication, yet based on an idea of ingenious simplicity: ‘this marvellous invention of composing out of twenty-five or thirty sounds that infinite variety of expressions which, whilst having in themselves no likeness to what is in our mind, allow us to disclose to others its whole secret, and to make known to those who **cannot penetrate** it all that we imagine, and all the various stirrings of our soul’ This was how, in 1660, the renowned French grammarians of the Port-Royal abbey near Versailles distilled the essence of language, and no one since has celebrated more eloquently the magnitude of its achievement.
-- *(Cam 11 · T4 · P3)* Language often seems so skillfully drafted that one **can hardly imagine** it as anything other than the perfected handiwork of a master craftsman.
 - *(Cam 11 · T4 · P3)* But run them through the cogs and wheels of the language machine, let it arrange them in some very special orders, and there is nothing that these meaningless streams of air **cannot do**: from sighing the interminable boredom of existence to unravelling the fundamental order of the universe.
-- *(Cam 11 · T4 · P3)* One of the showiest stunts that some languages **can pull** off is an ability to build up words of breath-breaking length, and thus express in one word what English takes a whole sentence to say.
 - *(Cam 11 · T4 · P3)* (In case you were wondering, this monstrosity really is one word, not merely many different words squashed together – most ol its components **cannot even stand** up on their own.)
-- *(Cam 12 · T1 · P1)* It also has an elasticity that means you **can squash** it and watch it spring back to its original size and shape when you release the pressure.
 - *(Cam 12 · T1 · P1)* First, they make vertical cuts down the bark using small sharp axes, then lever it away in pieces as large as they **can manage**.
-- *(Cam 12 · T1 · P1)* The tiniest concentrations – as little as three or four parts to a trillion – **can spoil** the taste of the product contained in the bottle.
 - *(Cam 12 · T1 · P2)* They’ll look for, say, antiques that they **can buy** cheaply and expect to be able to sell at a profit.
-- *(Cam 12 · T1 · P2)* But there may well be a psychological element, too – buying cheap and selling dear **can give** the collector a sense of triumph.
 - *(Cam 12 · T1 · P2)* Psychologically, this **can give** a purpose to a life that otherwise feels aimless.
-- *(Cam 12 · T1 · P2)* Trainspotters exchange information, these days often by mobile phone, so they **can work** out where to go to, to see a particular engine.
 - *(Cam 12 · T1 · P2)* More than most other hobbies, collecting can be totally engrossing, and **can give** a strong sense of personal fulfilment.
-- *(Cam 12 · T1 · P3)* ‘I would found an institution where any person **can find** instruction in any subject.’
 - *(Cam 12 · T1 · P3)* A student **can prepare** for a career in resort management, engineering, interior design, accounting, music, law enforcement, you name it.
-- *(Cam 12 · T1 · P3)* Any undergraduates who have met the academic requirements **can sign** up for the course in our program in ‘fire science’.
 - *(Cam 12 · T1 · P3)* Naturally, the course is intended for prospective arson investigators, who **can learn** all the tricks of the trade for detecting whether a fire was deliberately set, discovering who did it, and establishing a chain of evidence for effective prosecution in a court of law.
-- *(Cam 12 · T1 · P3)* This example suggests how dishonest and illegal behavior, with the help of higher education, **can creep** into every aspect of public and business life.
 - *(Cam 12 · T2 · P1)* In his essay, Kanayo F. Nwanze, President of the International Fund for Agricultural Development, argued that governments **can significantly reduce** risks for farmers by providing basic services like roads to get produce more efficiently to markets, or water and food storage facilities to reduce losses.
-- *(Cam 12 · T2 · P1)* Sophia Murphy, senior advisor to the Institute for Agriculture and Trade Policy, suggested that the procurement and holding of stocks by governments **can also help** mitigate wild swings in food prices by alleviating uncertainties about market supply.
 - *(Cam 12 · T2 · P1)* Nwanze, Murphy and Fan argued that private risk management tools, like private insurance, commodity futures markets, and rural finance **can help** small-scale producers mitigate risk and allow for investment in improvements.
-- *(Cam 12 · T2 · P1)* Murphy noted that when futures markets become excessively financialised they **can contribute** to short-term price volatility, which increases farmers’ food insecurity.
 - *(Cam 12 · T2 · P1)* One commentator suggested farmers **can gain** greater control over prices and minimise price volatility by selling directly to consumers.
-- *(Cam 12 · T2 · P3)* Having to deal with this persistent linguistic competition **can result** in difficulties, however.
 - *(Cam 12 · T2 · P3)* For instance, knowing more than one language **can cause** speakers to name pictures more slowly, and can increase ‘tip-of-the-tongue states’, when you can almost, but not quite, bring a word to mind.
-- *(Cam 12 · T2 · P3)* Older bilinguals enjoy improved memory relative to monolingual people, which **can lead** to real-world health benefits.
 - *(Cam 12 · T3 · P2)* Geography **can often play** a very large role in the health concerns of certain populations.
-- *(Cam 12 · T3 · P2)* Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that **can give** people this disease can grow.
 - *(Cam 12 · T3 · P2)* By understanding why and how we get sick, we **can change** the way we treat illness and disease specific to certain geographical locations.
-- *(Cam 12 · T3 · P2)* Health geographers **can map** the spread of illnesses and attempt to identify the reasons behind an increase or decrease in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations.
 - *(Cam 12 · T3 · P2)* If we **can understand** how geography affects our health no matter where in the world we are located, we can better treat disease, prevent illness, and keep people safe and well.
-- *(Cam 12 · T3 · P3)* While music **can often seem** (at least to the outsider) like a labyrinth of intricate patterns, it turns out that the most important part of every song or symphony is when the patterns break down, when the sound becomes unpredictable.
 - *(Cam 12 · T3 · P3)* While earlier theories of music focused on the way a sound **can refer** to the real world of images and experiences – its ‘connotative’ meaning – Meyer argued that the emotions we find in music come from the unfolding events of the music itself.
-- *(Cam 12 · T3 · P3)* We **can predict** some of the notes, but we can’t predict them all, and that is what keeps us listening, waiting expectantly for our reward, for the pattern to be completed.
 - *(Cam 12 · T4 · P1)* Few of us **can imagine** modern life without glass.
-- *(Cam 12 · T4 · P3)* Agendas **can become** overloaded and this can mean the time for constructive debate must necessarily be restricted in favour of getting through the business.
 - *(Cam 12 · T4 · P3)* Often, board business is devolved to committees in order to cope with the workload, which may be more efficient but **can mean** that the board as a whole is less involved in fully addressing some of the most important issues.
-- *(Cam 12 · T4 · P3)* The tyranny of quarterly reporting **can distort** board decision-making, as directors have to ‘make the numbers’ every four months to meet the insatiable appetite of the market for more date.
 - *(Cam 12 · T4 · P3)* The chair of the remuneration committee **can be** an exposed and lonely role, as Alison Carnwath, chair of Barclays Bank’s remuneration committee, found when she had to resign, having been roundly criticised for trying to defend the enormous bonus to be paid to the chief executive; the irony being that she was widely understood to have spoken out against it in the privacy of the committee.
-- *(Cam 13 · T1 · P1)* On the website, visitors **can search** for activities not solely by geographical location, but also by the particular nature of the activity.
 - *(Cam 13 · T1 · P2)* For a start, it **can include** a lot of other mental states, such as frustration, apathy, depression and indifference.
-- *(Cam 13 · T1 · P2)* ‘We’re all afraid of being bored but in actual fact it **can lead** to all kinds of amazing things,’ she says.
 - *(Cam 13 · T1 · P2)* But even if boredom has evolved to help us survive, it **can still be** toxic if allowed to fester.’
-- *(Cam 13 · T1 · P2)* What’s more, your efforts to improve the situation **can end** up making you feel worse.
 - *(Cam 13 · T1 · P2)* Perhaps most worryingly, says Eastwood, repeatedly failing to engage attention **can lead** to state where we don’t know what to do any more, and no longer care.
-- *(Cam 13 · T1 · P2)* But of course, boredom itself **cannot kill** – it’s the things we do to deal with it that may put us in danger.
 - *(Cam 13 · T1 · P2)* What **can we do** to alleviate it before it comes to that?
-- *(Cam 13 · T1 · P3)* If we **can break** this process down into computer code, where does that leave human creativity?
 - *(Cam 13 · T1 · P3)* Aaron **can pick** up a paintbrush and paint on canvas on its own.
-- *(Cam 13 · T1 · P3)* Unlike earlier ‘artists’ such as Aaron, the Painting Fool only needs minimal direction and **can come** up with its own concepts by going online for material.
 - *(Cam 13 · T1 · P3)* Software bugs **can also lead** to unexpected results.
-- *(Cam 13 · T1 · P3)* This **can give** it an ‘irresistible essence’, says Bloom.
 - *(Cam 13 · T2 · P2)* One sniff of it **can, it is claimed, make** a person more trusting, empathetic, generous and cooperative.
-- *(Cam 13 · T2 · P2)* A new wave of studies has shown that its effects vary greatly depending on the person and the circumstances, and it **can impact** on our social interactions for worse as well as for better.
 - *(Cam 13 · T2 · P3)* Most managers **can identify** the major trends of the day.
-- *(Cam 13 · T2 · P3)* At the extreme, they **can jeopardize** a company by ceding to rivals the opportunity to transform the industry.
 - *(Cam 13 · T2 · P3)* Once you have gained perspective on how trend-related changes in consumer opinions and behaviors impact on your category, you **can determine** which of our three innovation strategies to pursue.
-- *(Cam 13 · T3 · P1)* The large, energy-rich fruits are able to float in water and tolerate salt, but **cannot remain** viable indefinitely; studies suggest after about 110 days at sea they are no longer able to germinate.
 - *(Cam 13 · T3 · P2)* Another study suggests that parents might want to pair their youngsters up so they **can babble** more with their own kind.
-- *(Cam 13 · T3 · P3)* ‘By investigating responses to environmental pressures and threats, we **can learn** from the past to engage with the public, and the relevant governmental and administrative bodies, to be more proactive in issues such as the management and administration of water supply, the balance of urban and rural development, and the importance of preserving cultural heritage in the future.’
 - *(Cam 13 · T4 · P1)* In legend, and in Burns’s poem, witches **cannot cross** water, so this was a rather strange choice of name for a ship.
-- *(Cam 13 · T4 · P2)* Chemical fertilisers **can release** polluting nitrous oxide into the atmosphere and excess is often washed away with the rain, releasing nitrogen into rivers.
 - *(Cam 13 · T4 · P2)* ‘Most scientists don’t speak language that policy-makers **can understand**, and vice versa.’
-- *(Cam 13 · T4 · P2)* Like the idea of carbon neutrality, it is an easily understood target that **can help** shape expectations and encourage action.
 - *(Cam 13 · T4 · P3)* If we are asked why happiness matters we **can give** no further external reason.
-- *(Cam 13 · T4 · P3)* The only question is how to achieve it, and here positive psychology – a supposed science that not only identifies what makes people happy but also allows their happiness to be measured – **can show** the way.
 - *(Cam 13 · T4 · P3)* Equipped with this science, they say, governments **can secure** happiness in society in a way they never could in the past.
-- *(Cam 14 · T1 · P1)* In my previous research, I investigated how observing children at play **can give** us important clues about their well-being and can even be useful in the diagnosis of neurodevelopmental disorders like autism.’
 - *(Cam 14 · T1 · P2)* Schimmelpennink, however, **cannot see** that this changes Amsterdam’s need for a bike-sharing scheme.
-- *(Cam 14 · T1 · P3)* Hospitality organizations **can therefore enhance** employee motivation and retention through the development and improvement of their working conditions.
 - *(Cam 14 · T2 · P2)* ‘Policy makers think you **can solve** energy and building problems with gadgets.
-- *(Cam 14 · T2 · P3)* These environments **can lead** to new solutions that, under conventionally structured environments (filled with bottlenecks in term of information flow, power structures, rules, and routines) would never be reached.
 - *(Cam 14 · T3 · P1)* These implicit theories **can suggest** what aspects of the phenomenon have been more or less attended to in previous investigations.
-- *(Cam 14 · T3 · P1)* Third, implicit theories **can be** useful when an investigator suspects that existing explicit theories are wrong or misleading.
 - *(Cam 14 · T3 · P1)* Finally, understanding implicit theories of intelligence **can help** elucidate developmental and cross-cultural differences.
-- *(Cam 14 · T3 · P1)* Herrnstein and Murray (1994) seem to have shared this belief when they wrote about the emergence of a cognitive (high-IQ) elite, which eventually would have to take responsibility for the largely irresponsible masses of non-elite (low-IQ) people who **cannot take** care of themselves.
 - *(Cam 14 · T3 · P2)* This **can make** it difficult to obtain sufficient quantities of the compound for subsequent testing.
-- *(Cam 14 · T3 · P2)* Many insect species are infrequently encountered and very difficult to rear in captivity, which, again, **can leave** us with insufficient material to work with.
 - *(Cam 14 · T3 · P2)* These insects have many antimicrobial compounds for dealing with pathogenic bacteria and fungi, suggesting that there is certainly potential to find many compounds that **can serve** as or inspire new antibiotics.
-- *(Cam 14 · T3 · P2)* If we **can shine** a light on the darker recesses of nature’s medicine cabinet, exploring the useful chemistry of the most diverse animals on the planet, I believe we can make people think differently about the value of nature.
 - *(Cam 14 · T3 · P3)* According to this view, children’s playful behaviors **can range** in degree from 0% to 100% playful.
-- *(Cam 14 · T3 · P3)* From the perspective of a continuum, play **can thus blend** with other motives and attitudes that are less playful, such as work.
 - *(Cam 14 · T3 · P3)* Researcher Joan Goodman (1994) suggested that hybrid forms of work and play are not a detriment to learning; rather, they **can provide** optimal contexts for learning.
-- *(Cam 14 · T3 · P3)* At this mid-point between play and work, the child’s motivation, coupled with guidance from an adult, **can create** robust opportunities for playful learning.
 - *(Cam 14 · T3 · P3)* Critically, recent research supports the idea that adults **can facilitate** children’s learning while maintaining a playful approach in interactions known as ‘guided play’ (Fisher et al. 2011).
-- *(Cam 14 · T3 · P3)* At a very basic level, adults **can enrich** the child’s environment by providing objects or experiences that promote aspects of a curriculum.
 - *(Cam 14 · T3 · P3)* In the more direct form of guided play, parents or other adults **can support** children’s play by joining in the fun as a co-player, raising thoughtful questions, commenting on children’s discoveries, or encouraging further exploration or new facets to the child’s activity.
-- *(Cam 14 · T3 · P3)* Although playful learning **can be** somewhat structured, it must also be child-centered (Nicolopolou et al. 2006).
 - *(Cam 14 · T3 · P3)* Intrinsically motivated free play provides the child with true autonomy, while guided play is an avenue through which parents and educators **can provide** more targeted learning experiences.
-- *(Cam 14 · T4 · P1)* Old workers ants **can do** everything just as well as the youngsters, and their brains appear just as sharp.
 - *(Cam 14 · T4 · P1)* Naked mole rats **can live** for almost 30 years and stay fit for nearly their entire lives.
-- *(Cam 14 · T4 · P1)* They **can still reproduce** even when old, and they never get cancer.
 - *(Cam 14 · T4 · P2)* That alone will bring a greater understanding and perspective to many, and hopefully give them a greater appreciation for wildlife, conservation efforts and how they **can contribute**.
-- *(Cam 14 · T4 · P2)* In addition to this, there is also the education that **can take** place in zoos through signs, talks and presentations which directly communicate information to visitors about the animals they are seeing and their place in the world.
 - *(Cam 14 · T4 · P2)* This **can make** a real difference to conservation efforts and to the reduction of human-animal conflicts, and can provide a knowledge base for helping with the increasing threats of habitat destruction and other problems.
-- *(Cam 14 · T4 · P2)* They are vital not just in terms of protecting animals, but as a means of learning about them to aid those still in the wild, as well as educating and informing the general population about these animals and their world so that they **can assist** or at least accept the need to be more environmentally conscious.
 - *(Cam 14 · T4 · P3)* There are also, she adds, a lot of open questions about the ways that ocean debris **can lead** to sea-creature death.
-- *(Cam 14 · T4 · P3)* But if ecologists **can understand** how the slow-moving effect of ocean trash is damaging ecosystems, they might be able to prevent things from getting worse.
 - *(Cam 14 · T4 · P3)* Asking the right questions **can help** policy makers, and the public, figure out where to focus their attention.
-- *(Cam 14 · T4 · P3)* Interrogating the existing scientific literature **can help** ecologists figure out which problems really need addressing, and which ones they’d be better off – like the mussels – absorbing and ignoring.
 - *(Cam 15 · T1 · P2)* If the vehicle **can do** some or all of the driving, it may be possible to be productive, to socialise or simply to relax while automation systems have responsibility for safe control of the vehicle.
-- *(Cam 15 · T1 · P2)* If the vehicle **can do** the driving, those who are challenged by existing mobility models – such as older or disabled travellers – may be able to enjoy significantly greater travel autonomy.
+- *(Cam 15 · T1 · P2)* Beyond these direct benefits, we **can consider** the wider implications for transport and society, and how manufacturing processes might need to respond as a result.
+- *(Cam 15 · T2 · P2)* If extinct species can be brought back to life, **can humanity begin** to correct the damage it has caused to the natural world over the past few millennia?
+- *(Cam 15 · T2 · P2)* ‘I don’t think that we **can do** this.
+- *(Cam 15 · T3 · P2)* The Desolenator **can produce** 15 litres of drinking water per day, enough to sustain a family for cooking and drinking.
+- *(Cam 15 · T3 · P2)* In the developing world, the price will depend on what deal aid organisations **can negotiate**.
+- *(Cam 15 · T4 · P1)* You **can also use** it in drinks, soups or stews.’
+- *(Cam 15 · T4 · P1)* ‘If we **can record** biodiversity and see how it all works, then we’re in a good position to move on from there.
+- *(Cam 15 · T4 · P1)* If you just have a few trees left, the population **can grow** up quickly because it’s used to exploiting water when it arrives.’
+- *(Cam 15 · T4 · P2)* Because whistled ‘words’ **can be** hard to distinguish, silbadores rely on repetition, as well as awareness of context, to make themselves understood.
+- *(Cam 15 · T4 · P3)* In turn, big businesses **can expert** powerful pressure on any suppliers that might ignore public or government pressure.
+- *(Cam 16 · T1 · P1)* Moreover, polar bears **can form** unusual relationships with other species, including playing with the dogs used to pull sleds in the Arctic.
+- *(Cam 16 · T1 · P3)* ‘History is clear that change **can mean** redundancies.
+- *(Cam 16 · T1 · P3)* We **can “reprogramme**” the law to prepare for a fairer future of work and leisure.’
+- *(Cam 16 · T2 · P2)* Microbes that sit contentedly in the human gut (where there are more microbes than there are stars in the galaxy) **can become** deadly if they find their way into the bloodstream.
+- *(Cam 16 · T2 · P2)* However, if you **can overcome** your distaste for some of the investigations, the reasons for Yong’s enthusiasm become clear.
+- *(Cam 16 · T2 · P3)* ‘It is remarkable how much people **can vary** in their wisdom from one situation to the next, and how much stronger such contextual effects are for understanding the relationship between wise judgment and its social and affective outcomes as compared to the generalized “traits”,’ Grossmann explains.
+- *(Cam 16 · T3 · P3)* ‘Cambridge is uniquely well-positioned to do this kind of research as we have outstanding collaborators nearby who work on more applied aspects of plant biology, and **can help** us transfer this new knowledge into the field.’
+- *(Cam 16 · T4 · P3)* Artificial intelligence (AI) **can already predict** the future.
+- *(Cam 16 · T4 · P3)* Researchers are even trying to give AI imagination so it **can plan** for unexpected consequences.
+- *(Cam 16 · T4 · P3)* Embarrassing AI failures receive a disproportionate amount of media attention, emphasising the message that we **cannot rely** on technology.
+- *(Cam 17 · T1 · P2)* Construction costs **can soar** above £1 billion, and stadiums finished for major events such as the Olympic Games or the FIFA World Cup have notably fallen into disuse and disrepair.
+- *(Cam 17 · T1 · P2)* The amphitheatre* of Arles in southwest France, with a capacity of 25,000 spectators, is perhaps the best example of just how versatile stadiums **can be**.
+- *(Cam 17 · T2 · P2)* ‘We **can now mimic** the known domestication course of major crops like rice, maize, sorghum or others,’ says Caixia Gao of the Chinese Academy of Sciences in Beijing.
+- *(Cam 17 · T2 · P3)* Plenty of other stories show that fresh advances **can arise** from error, misadventure, and also pure serendipity – a happy accident.
+- *(Cam 17 · T4 · P1)* And one potential problem is that while these bats are benefiting from farming, at the same time deforestation is reducing the places where they **can roost**, which could have long-term effects on their numbers.
+- *(Cam 17 · T4 · P1)* Rocha and his colleagues believe that maximising bat populations **can help** to boost crop yields and promote sustainable livelihoods.
+- *(Cam 17 · T4 · P2)* ‘We **can follow** the same people – and their descendants – across 300 years of educational and economic change,’ she says.
+- *(Cam 17 · T4 · P3)* In the hope of understanding how he and others like him **can perform** such mental feats, researchers at the University of California in Los Angeles (UCLA) called him in for tests.
+- *(Cam 17 · T4 · P3)* Accomplished players **can develop** the skill of playing blind even without realising it.
+- *(Cam 17 · T4 · P3)* First moves **can be** tough to remember because they are fairly uninteresting.
+- *(Cam 17 · T4 · P3)* One classic test measures how many numbers a person **can repeat**, both forwards and backwards, soon after hearing them.
+- *(Cam 18 · T1 · P1)* ‘In the urban environment you’re working with very significant practical constraints, clearly, on what you **can do** and where.
+- *(Cam 18 · T1 · P1)* There are limits to what farmers **can grow** this way, of course, and much of the produce is suited to the summer months.
+- *(Cam 18 · T1 · P2)* Management that specifically targets low-use wood **can help** landowners manage these forest health issues, and wood energy markets help promote this.
+- *(Cam 18 · T1 · P2)* With the many pests and pathogens visiting forests including hemlock wooly adelgid, Asian longhomed beetle, emerald ash borer, and gypsy moth, to name just a few, it is important to remember that those working in the forests **can help** ease these issues through cutting procedures.
+- *(Cam 18 · T1 · P3)* Several teams are trying to improve methods for assessing what is in orbit, so that satellite operators **can work** more efficiently in ever-more-crowded space.
+- *(Cam 18 · T2 · P2)* By mid-century, we may have artificial general intelligence (AGI) – machines that **can achieve** human-level performance on the full range of tasks that we ourselves can tackle.
+- *(Cam 18 · T2 · P2)* If it was given a greater role, it might do so much more efficiently than humans **can manage**, and act in the interests of taxpayers and those who use the health system.
+- *(Cam 18 · T3 · P1)* But Anna Surgenor, of the UK’s Green Building Council, notes that although these waste products **can save** carbon in the concrete mix, their use is not always straightforward.
+- *(Cam 18 · T3 · P3)* The teacher **can ask** the No Fear group to identify the key characters and maybe provide a tentative plot summary.
+- *(Cam 18 · T3 · P3)* This is the gap between what they **can achieve** only with support – teachers, textbooks, worked examples, parents and so on – and what they can achieve independently.
+- *(Cam 18 · T4 · P1)* These increasingly radical urban designs **can help** cities adapt to the monumental problems they face, such as access to resources and a lack of green space due to development.
+- *(Cam 18 · T4 · P1)* And research has found that access to even the most basic green spaces **can provide** a better quality of life for dementia sufferers and help people avoid obesity.
+- *(Cam 18 · T4 · P1)* Having a stronger roof also makes it easier to grow a greater variety of plants, since the soil **can be** deeper.
+- *(Cam 18 · T4 · P2)* As educationalist Jeff Howard noted several decades ago: ‘Smart is not something that you just are, smart is something that you **can get**.’
+- *(Cam 19 · T1 · P3)* Thirdly, countering misinformation once it has enjoyed wide exposure **can be** a resource-intensive effort.
+- *(Cam 19 · T1 · P3)* The FDA oversees direct-to-consumer prescription drug advertising, for example, and has developed mechanisms such as the ‘Bad Ad’ program, through which people **can report** advertising in apparent violation of FDA guidelines on drug risks.
+- *(Cam 19 · T2 · P2)* An athlete may feel stressed about an event if they feel the demands on them are greater than they **can handle**.
+- *(Cam 19 · T2 · P2)* Anxiety **can increase** heart rate and perspiration, cause heart palpitations, muscle tremors and shortness of breath, as well as headaches, nausea, stomach pain, weakness and a desire to escape in more extreme cases.
+- *(Cam 19 · T2 · P2)* Negative stress responses **can be** damaging to both physical and mental health – and repeated episodes of anxiety coupled with negative responses can increase risk of heart disease and depression.
+- *(Cam 19 · T2 · P2)* Psychologists **can also help** athletes change how they see their physiological responses – such as helping them see a higher heart rate as excitement, rather than nerves.
+- *(Cam 19 · T2 · P2)* This **can help** create a feeling of control over the stressful event.
+- *(Cam 19 · T2 · P3)* For example, just because you **can read** stories with hundreds of pages at the age of five doesn’t mean you will still be ahead of your contemporaries in your teens.
+- *(Cam 19 · T3 · P2)* ‘It **can be** as simple as planting a few trees per hectare to create shade and substantially change a microclimate,’ he says.
+- *(Cam 19 · T3 · P2)* ‘Sediment run-off and fertilizers **can be** pretty invisible,’ says Tickner.
+- *(Cam 19 · T3 · P3)* At Karlsruhe Institute of Technology, where he is a professor of computer science, Waibel and his colleagues already give lectures in German that their students **can follow** in English via an electronic translator.
+- *(Cam 19 · T3 · P3)* Sharing a language **can promote** a sense of belonging and community, as with the international scientists who use English as a lingua franca, where their predecessors used Latin.
+- *(Cam 19 · T4 · P1)* More immediately, conservationists **can arm** themselves with all this knowledge to spot the warning signs of species that may be at risk.
+- *(Cam 19 · T4 · P2)* She argues that active vents must be off-limits for mining to protect the new knowledge and biotechnology spin-offs they **can deliver**, and that strict controls must be in place elsewhere.
+- *(Cam 20 · T1 · P2)* ‘The beetles **can just march** in if we’re not careful, as the threat is right on our doorstep,’ says Bourne.
+- *(Cam 20 · T1 · P2)* ‘Sometimes the best thing you **can do** is just give nature time to recover over time, you might get resistance,’ says Elliot.
+- *(Cam 20 · T1 · P3)* The fact that stress increases the likelihood that we will focus more on alarming messages, together with the fact that it spreads extremely rapidly, **can create** collective fear that is not always justified.
+- *(Cam 20 · T2 · P1)* When awake, they typically surface every two to four minutes, but they **can hold** their breath for much longer.
+- *(Cam 20 · T2 · P2)* There are a number of evidence-based strategies that **can help** us fend off distractions that can occupy our minds when we should be focusing on the thing we should be getting on with.
+- *(Cam 20 · T2 · P2)* Forgiving ourselves and feeling compassion when we procrastinate **can help** break the procrastination cycle.
+- *(Cam 20 · T2 · P2)* This **can all make** it easier to get back on track.
+- *(Cam 20 · T2 · P3)* Over time, as baseball evolves, ABS **can allow** the zone to change with it.”
+- *(Cam 20 · T3 · P2)* ‘People say you **cannot beat** the rainforest,’ Attenborough has stated.
+- *(Cam 20 · T3 · P2)* ‘However, aquarium-based research has enabled some corals to spawn artificially, which **can assist** coral reef restoration efforts.
+- *(Cam 20 · T3 · P3)* On the question of using robots to colonise other planets and exploit mineral resources, engineering Professor Daniel Wolpert replied, ‘I don’t see a pressing need to colonise other planets unless we **can bring** [these] resources back to Earth.
+- *(Cam 20 · T4 · P2)* In addition to the road adaptations, the city has set up new pumps that **can remove** up to 75,000 litres of water per minute.
+- *(Cam 20 · T4 · P3)* ‘If we are not working with everybody, we are transferring the wolf pressure to the neighbour’s herd and he **can use** poison and kill an entire pack of wolves.’
+- *(Cam 20 · T4 · P3)* Guard dogs **can deliver** unexpected benefits by protecting vulnerable wildlife from predators.
+- *(Cam 21 · T1 · P2)* When we are exposed to too much noise over the long term, however, those responses **can lead** to a multitude of health issues, from sleep disturbance to even cardiovascular disease.
+- *(Cam 21 · T1 · P2)* 'In these tanks, some people **can even hear** the sound of their eyes blinking,' says Feinstein.
 
 <a id="p2"></a>
 
 ### 2. Liên động từ (linking verb) + bổ ngữ
 
-<small>147 câu</small>
+<small>154 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P3)* There are, nevertheless, people working in luxurious, state-of-the-art centres designed to stimulate innovation who find that their environment doesn’t make them **feel at all creative**.
 - *(Cam 10 · T2 · P1)* The theory **sounds eccentric** but once he starts to explain the detective work that went into his deduction, the scepticism gives way to wary admiration.
@@ -336,12 +336,15 @@
 - *(Cam 20 · T4 · P1)* Remarkably, she **remained independent** from shifting art trends and her work stayed true to her own vision, which was based on finding the essential, abstract forms in nature.
 - *(Cam 20 · T4 · P2)* ‘When I started this,’ explains founder Elizabeth English, ‘climate change was not on the tip of everybody’s tongue, but this technology is **becoming necessary** in places that didn’t previously need it.’
 - *(Cam 20 · T4 · P3)* In recent years, however, as increased efforts have been made to protect wild animals, predators have **become more widespread** again.
+- *(Cam 21 · T1 · P1)* Yet they didn't **feel obliged** to follow fashionable tastes and were free to pursue their own preferences.
+- *(Cam 21 · T1 · P1)* By the early 1920s, Gwendoline **felt increasingly uncomfortable** buying art works when faced with the poverty and social upheaval created by the First World War.
+- *(Cam 21 · T1 · P3)* This is also a history of capitalists and sugar dynasties, as well as corporations that in some cases have **remained influential** over very long periods.
 
 <a id="p3"></a>
 
 ### 3. Động từ khuyết thiếu would + V nguyên mẫu
 
-<small>143 câu</small>
+<small>151 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* When the water level was high, the user needed only to descend a few steps to reach it; when it was low, several levels **would have** to be negotiated.
 - *(Cam 10 · T1 · P2)* The first approach **would consist** of focusing on road transport solely through pricing.
@@ -486,12 +489,19 @@
 - *(Cam 20 · T4 · P2)* In the meantime, ice caps **would continue** to melt and sea levels rise.
 - *(Cam 20 · T4 · P2)* It’s much cheaper than permanently elevating houses, English explains – about a third of what it **would cost** to completely replace a building’s foundations.
 - *(Cam 20 · T4 · P3)* For example, their presence has been found to protect birds which build their nests on the ground in fields, where foxes **would normally raid** them.
+- *(Cam 21 · T1 · P1)* In 1907, when Gwendoline came into her inheritance (Margaret **would follow** in 1909), the sisters were said to be the wealthiest unmarried women in Britain.
+- *(Cam 21 · T1 · P1)* It was tedious and distressing work, which **would have** a permanent effect on Gwendoline's health.
+- *(Cam 21 · T3 · P3)* This **would be** unsurprising if they weren't 476,000 years old.
+- *(Cam 21 · T4 · P1)* Just about 4kg of the dried plant **would be** enough to cater for a large family's daily energy needs, early research predicted.
+- *(Cam 21 · T4 · P1)* The community received a pair of donated biogas digesters – machines that **would transform** a mix of water hyacinth and cow dung into biogas for cooking.
+- *(Cam 21 · T4 · P1)* If biogas could become affordable on a large scale, she says it '**would be** life-changing for millions on the African continent and beyond'.
+- *(Cam 21 · T4 · P2)* 'What we **would recommend** for everyone, not just low socio-economic status children, would be to start learning in the language they feel comfortable learning in ...
 
 <a id="p4"></a>
 
 ### 4. Động từ khuyết thiếu could + V nguyên mẫu
 
-<small>134 câu</small>
+<small>144 câu</small>
 
 - *(Cam 10 · T1 · P2)* Between 1990 and 1998, road haulage increased by 19.4%, while during the same period rail haulage decreased by 43.5%, although – and this **could benefit** the enlarged EU – it is still on average at a much higher level than in existing member states.
 - *(Cam 10 · T1 · P2)* It **could help** to achieve greater uncoupling than the first approach, but road transport would keep the lion’s share of the market and continue to concentrate on saturated arteries, despite being the most polluting of the modes.
@@ -627,12 +637,22 @@
 - *(Cam 20 · T3 · P2)* However, scientists are trying to pinpoint hardy types of coral that **could survive** our overheated oceans, and some of this research will be carried out at London Zoo.
 - *(Cam 20 · T3 · P2)* And if this can be extended for all species, we **could consider** the launching of coral-spawning programmes several times a year.
 - *(Cam 20 · T3 · P3)* ** … And another worry is that we are increasingly dependent on computer networks, and that these **could behave** like a single “brain” with a mind of its own, and with goals that may be contrary to human welfare.
+- *(Cam 21 · T2 · P3)* There seems to be no shortage of sensationalist news about how AI **could cure** diseases, accelerate human innovation and improve human creativity.
+- *(Cam 21 · T3 · P2)* Daniel Hoornweg for the Global Cities Institute forecasts the city **could be** home to an incredible 73.7 million people by 2100.
+- *(Cam 21 · T3 · P2)* But Dar es Salaam is pinning its hopes on a solution that **could offer** a different model for Africa's megacities, giving them an alternative to a future controlled by the private car.
+- *(Cam 21 · T3 · P3)* Palaeoanthropologists got fixated on brain size because it was what they **could see**: if what you have is skeletons, then all you know about brains are their shapes and sizes.
+- *(Cam 21 · T3 · P3)* Instead, it seems the Neanderthals and many others all walked so we **could run**.
+- *(Cam 21 · T4 · P1)* She says families who switch to the smokeless cooking method **could expect** fewer respiratory diseases.
+- *(Cam 21 · T4 · P1)* If biogas **could become** affordable on a large scale, she says it 'would be life-changing for millions on the African continent and beyond'.
+- *(Cam 21 · T4 · P2)* It **could, for example, be** one of the subjects that are being taught alongside other subjects.
+- *(Cam 21 · T4 · P3)* In the process, almost everything that **could possibly go** wrong did so.
+- *(Cam 21 · T4 · P3)* When he embarked on his globemaking odyssey, he struggled to find artisans with the skills to make the right moulds for the globes or foundries that **could shape** the meridians (the metal frames which girdle globes) in just the right way.
 
 <a id="p5"></a>
 
 ### 5. Động từ khuyết thiếu may + V nguyên mẫu
 
-<small>118 câu</small>
+<small>133 câu</small>
 
 - *(Cam 10 · T1 · P3)* Studies at Harvard Business School show that, although some individuals **may be** more creative than others, almost every individual can be creative in the right circumstances.
 - *(Cam 10 · T2 · P2)* For a young child, it **may be** just the simple question ‘What have you learned today?’ which helps them to recognise what they are doing.
@@ -752,12 +772,27 @@
 - *(Cam 20 · T4 · P3)* Studies suggest that reducing deaths of one type of predator **may have** a negative impact on other species.
 - *(Cam 20 · T4 · P3)* They **may also compete** with other carnivores for food.
 - *(Cam 20 · T4 · P3)* So if we can get this right, there **may be** a bright future for guard dogs in promoting harmonious coexistence between humans and wildlife.
+- *(Cam 21 · T1 · P2)* 'This allows us to be more aware of what is happening around us and what the situation **may require** from us so we can provide [a more] adequate response.'
+- *(Cam 21 · T1 · P2)* Eric Pfeifer, a psychotherapy researcher, also concedes that some people **may not benefit** from silence, particularly those who are in a heightened state of stress.
+- *(Cam 21 · T1 · P2)* 'People in these states **may not be** able to relax or calm down in a silent condition,' he says.
+- *(Cam 21 · T2 · P1)* There's some evidence that other mammals **may also dream**.
+- *(Cam 21 · T2 · P1)* Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities such as flying, which suggests that this **may possibly be** what the pigeons were dreaming about.
+- *(Cam 21 · T2 · P1)* They also show no sign of REM sleep, suggesting that they **may only experience** non-REM dreams, which are less vivid.
+- *(Cam 21 · T2 · P3)* Using AI simply for the sake of AI **may not always be** productive or useful, and not every issue is best addressed by applying machine intelligence to it.
+- *(Cam 21 · T3 · P1)* In the worst cases, herds **may starve** to death after being trapped.
+- *(Cam 21 · T3 · P3)* But other properties, such as the brain's internal wiring, are surely equally important and **may explain** how a species like H. naledi might have been capable of complex behaviours, despite their small brains.
+- *(Cam 21 · T4 · P2)* They are so poor they have to live in slums and, as a result of migration, they **may speak** languages that are different from the regional language.
+- *(Cam 21 · T4 · P2)* Although the findings are at a preliminary stage, Tsimpli and her team have found that the medium of instruction used in schools, especially English, **may hold** back those children who have little familiarity with, or exposure to, the language before starting school and outside of school life.
+- *(Cam 21 · T4 · P2)* According to the researchers, this unexpected finding **may be** down to the life experiences of children growing up in slums.
+- *(Cam 21 · T4 · P2)* It **may be** that these low learning outcomes are because of the way education is provided in India, with a huge focus on Hindi and English as the mediums of instruction, to the potential detriment of children unfamiliar with those languages,' explains Tsimpli.
+- *(Cam 21 · T4 · P2)* The trick **may be** to bridge school skills with life skills and make use of the richness of a child's life experience to help them learn in the most effective ways possible,' says Tsimpli.
+- *(Cam 21 · T4 · P3)* Right at the end of the process, he learnt that the paper had stretched slightly and so the final one overlapped the first by a centimetre (which **may not seem** a great deal, but when that represents 2 per cent of the Earth's diameter, it's equivalent to obliterating the Himalayas or wiping out Chile).
 
 <a id="p6"></a>
 
 ### 6. Động từ khuyết thiếu might + V nguyên mẫu
 
-<small>84 câu</small>
+<small>88 câu</small>
 
 - *(Cam 10 · T1 · P2)* In the short term it **might curb** the growth in road transport through the better loading ratio of goods vehicles and occupancy rates of passenger vehicles expected as a result of the increase in the price of transport.
 - *(Cam 10 · T3 · P2)* Some theories about anthocyanins have argued that they **might act** as a chemical defence against attacks by insects or fungi, or that they might attract fruit-eating birds or increase a leafs tolerance to freezing.
@@ -843,12 +878,16 @@
 - *(Cam 20 · T1 · P3)* When we experience stressful events, a physiological change is triggered that causes us to take in warnings and focus on what **might go** wrong.
 - *(Cam 20 · T2 · P2)* We **might be composing** a message to a friend who we have to let down, or putting together an important report for college or work; we’re doing our best to avoid doing the job at hand, but deep down we know that we should just be getting on with it.
 - *(Cam 20 · T2 · P3)* “It **might be** a triangle, or a blob, or something shaped like Texas.
+- *(Cam 21 · T2 · P1)* And if this is the case, it is possible that better understanding of these purposes **might shed** light on the true purpose of our own dreams.
+- *(Cam 21 · T2 · P3)* Just looking at the media headlines, you **might think** that we are already living in a future where AI has infiltrated every aspect of society.
+- *(Cam 21 · T4 · P2)* According to Tsimpli, most of the evidence from this and other projects shows that English instruction for children from low socio-economic areas **might not be** the best way for them to learn, at least in the first three years of primary education.
+- *(Cam 21 · T4 · P3)* Purists **might wish** for more map-making details, but Bellerby clearly found a kindred spirit in Martin Behaim.
 
 <a id="p7"></a>
 
 ### 7. Modal + have + V3 (may have done)
 
-<small>72 câu</small>
+<small>85 câu</small>
 
 - *(Cam 10 · T1 · P3)* Sun’s ‘million-dollar quartet’ **could have been** a quintet.
 - *(Cam 10 · T2 · P1)* All these factors **must have been** necessary.
@@ -922,12 +961,25 @@
 - *(Cam 20 · T1 · P3)* In a safe environment, however, it **would have been** wasteful to be on high alert constantly.
 - *(Cam 20 · T1 · P3)* So, a neural switch that automatically increases or decreases our ability to process warnings in response to changes in our environment **could have been** useful.
 - *(Cam 20 · T2 · P3)* Major League Baseball (MLB), who had commissioned the system, wanted human umpires to announce the calls, just as they **would have done** in the past.
+- *(Cam 21 · T1 · P1)* We know that Hugh Blaker, as a champion of contemporary French art had a hand in the decision, and we know also that they **would have seen** examples on their various trips to Paris.
+- *(Cam 21 · T1 · P3)* Bosma avoids outbursts of emotion, celebratory or critical, even if they **might have made** his analysis of the multiple tragedies involving sugar all the more powerful.
+- *(Cam 21 · T1 · P3)* He shows that we **could always have done** without sugar and that today we have many alternative sources of sweetness.
+- *(Cam 21 · T2 · P1)* As soon as animals evolved moderately complex lifestyles, they **would have needed** to dream in order to manage these lifestyles.
+- *(Cam 21 · T2 · P2)* The chief or king of Mapungubwe was likely the wealthiest individual in the society, and **would have owned** more cattle and precious materials than anyone else.
+- *(Cam 21 · T2 · P2)* One such object that has been discovered **may have been** a sceptre, while additional evidence of local gold-working is a rhinoceros figurine made from small hammered sheets, and thousands of small gold beads.
+- *(Cam 21 · T2 · P2)* Trade routes **may also have shifted** northwards.
+- *(Cam 21 · T3 · P1)* Experts believe that unusually warm weather **may have triggered** the 2015 mass mortality event.
+- *(Cam 21 · T3 · P3)* Even earlier species, such as Homo erectus, **may also have made** art, for example by engraving patterns on shells.
+- *(Cam 21 · T3 · P3)* But other properties, such as the brain's internal wiring, are surely equally important and may explain how a species like H. naledi **might have been** capable of complex behaviours, despite their small brains.
+- *(Cam 21 · T3 · P3)* The Viking queen Thyra **may have helped** unify Denmark in the 900s.
+- *(Cam 21 · T4 · P3)* What seemed simple enough to start with triggered an almost obsessive, decade-long journey, marked by a series of obstacles that **would have deterred** anyone less determined.
+- *(Cam 21 · T4 · P3)* Bellerby came across shoddy commercial versions designed for school classrooms and genuine antiques in auction houses that **would have bust** his budget.
 
 <a id="p8"></a>
 
 ### 8. Động từ khuyết thiếu should + V nguyên mẫu
 
-<small>52 câu</small>
+<small>55 câu</small>
 
 - *(Cam 10 · T1 · P3)* For Robert B. Cialdini, Professor of Psychology at Arizona State University, one reason that companies don’t succeed as often as they **should is** that innovation starts with recruitment.
 - *(Cam 10 · T1 · P3)* Managers **should therefore adopt** an approach that appears counterintuitive -they should explain what stands to be lost if the company fails to seize a particular opportunity.
@@ -981,12 +1033,15 @@
 - *(Cam 20 · T3 · P3)* This led on to the third question, ‘**Should we be** scared by advances in artificial intelligence?’
 - *(Cam 20 · T3 · P3)* To this question, Rees replied, ‘Those who **should be** worried are the futurologists who believe in the so-called “singularity”.
 - *(Cam 20 · T3 · P3)* I think we **should ensure** that robots remain as no more than “idiot savants” lacking the capacity to outwit us, even though they may greatly surpass us in the ability to calculate and process information.’
+- *(Cam 21 · T2 · P3)* All solutions come with a cost and not everything that can be automated **should be**.
+- *(Cam 21 · T3 · P3)* And the other is that we have badly misunderstood gender roles in prehistoric societies, imposing patriarchal values onto cultures that had very different ideas about how women **should behave**.
+- *(Cam 21 · T3 · P3)* In a sense, we **shouldn't be** surprised that so many of these behaviours had their origins in older, extinct hominins.
 
 <a id="p9"></a>
 
 ### 9. Động từ + 2 tân ngữ (V + IO + DO)
 
-<small>51 câu</small>
+<small>55 câu</small>
 
 - *(Cam 10 · T3 · P1)* Travel has existed since the beginning of time, when primitive man set out, often traversing great distances in search of game, which **provided the food** and clothing necessary for his survival.
 - *(Cam 10 · T3 · P3)* Certainly it distinguished them from their ancestors, but what **gave them the courage** to launch out on such risky voyages?
@@ -1039,12 +1094,16 @@
 - *(Cam 20 · T2 · P2)* For example, studies have **shown that procrastination negatively impacts** on student performance.
 - *(Cam 20 · T3 · P3)* In answer to the fourth question, What can science fiction **tell us** about robotics?’, Rees replied, ‘I sometimes advise students that it’s better to read first-rate science fiction than second-rate science more stimulating, and perhaps no more likely to be wrong.’
 - *(Cam 20 · T4 · P1)* She **sent some** of these drawings to a friend in New York, who showed them to art collector and photographer Alfred Stieglitz in January 1916.
+- *(Cam 21 · T1 · P1)* Their religious upbringing in rural Wales **gave them a deep sense** of social responsibility and they chose to use their inheritance for cultural and philanthropic* purposes.
+- *(Cam 21 · T1 · P2)* From an evolutionary perspective, sounds **give us vital information**, helping us navigate the world and avoid danger.
+- *(Cam 21 · T3 · P2)* But Dar es Salaam is pinning its hopes on a solution that could offer a different model for Africa's megacities, **giving them an alternative** to a future controlled by the private car.
+- *(Cam 21 · T4 · P3)* In 2008, Peter Bellerby, who lived in London, wanted to **give his father a model globe** for his eightieth birthday.
 
 <a id="p10"></a>
 
 ### 10. Động từ khuyết thiếu must + V nguyên mẫu
 
-<small>29 câu</small>
+<small>32 câu</small>
 
 - *(Cam 10 · T2 · P3)* With novels, the reader attends mainly to the meaning of words rather than the way they are printed on the page, whereas the ‘reader’ of a painting **must attend** just as closely to the material form of marks and shapes in the picture as to any ideas they may signify.
 - *(Cam 10 · T4 · P1)* Besides providing money to upgrade the fire engines that **must traverse** the mammoth state and wind along serpentine canyon roads, the state has invested in better command-and-control facilities as well as in the strategies to run them.
@@ -1075,12 +1134,15 @@
 - *(Cam 19 · T4 · P2)* She argues that active vents **must be** off-limits for mining to protect the new knowledge and biotechnology spin-offs they can deliver, and that strict controls must be in place elsewhere.
 - *(Cam 20 · T2 · P1)* To see something on its left or its right, a manatee **must turn** its entire body, steering with its flippers.
 - *(Cam 20 · T2 · P3)* Today, everyone knows that you may scream your disagreement in an umpire’s face, but you **must never shout** personal abuse at them or touch them.
+- *(Cam 21 · T1 · P2)* Not everyone will benefit from silence to the same extent, but Ben-Soussan says one characteristic is key: the person **must need** to want to engage in the experience.
+- *(Cam 21 · T2 · P3)* If we are to reap the benefits and minimise the potential harms of AI, we **must start** thinking about how machine learning can be meaningfully applied to specific areas of government, business and society.
+- *(Cam 21 · T4 · P1)* In order to smoke the fish that they buy, they **must gather** huge quantities of firewood, sometimes walking as far as 10km each way to collect enough to complete their work.
 
 <a id="p11"></a>
 
 ### 11. Câu giả định (suggest/require that + S + V nguyên mẫu)
 
-<small>17 câu</small>
+<small>19 câu</small>
 
 - *(Cam 10 · T3 · P2)* It has also been **proposed that trees may produce** vivid red colours to convince herbivorous insects that they are healthy and robust and would be easily able to mount chemical defences against infestation.
 - *(Cam 10 · T4 · P3)* More recently, however, examples have been reported that break the time limit, **suggesting that silent genes may not be** the whole story.
@@ -1099,6 +1161,8 @@
 - *(Cam 16 · T4 · P3)* Research **suggests that allowing people some control over AI decision-making could also improve** trust and enable AI to learn from human experience.
 - *(Cam 17 · T4 · P3)* Initial results **suggest that the areas of his brain that process visual images – such as chess boards – may have** stronger links to other brain regions, and so be more powerful than normal.
 - *(Cam 19 · T2 · P3)* According to my colleague Prof Deborah Eyre, with whom I’ve collaborated on the book Great Minds and How to Grow Them , the latest neuroscience and psychological research **suggests most individuals can reach** levels of performance associated in school with the gifted and talented.
+- *(Cam 21 · T2 · P1)* Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities such as flying, which **suggests that this may possibly be** what the pigeons were dreaming about.
+- *(Cam 21 · T2 · P1)* They also show no sign of REM sleep, **suggesting that they may only experience** non-REM dreams, which are less vivid.
 
 <a id="p12"></a>
 

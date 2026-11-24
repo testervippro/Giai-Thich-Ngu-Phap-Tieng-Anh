@@ -1,4 +1,4 @@
-# 🧷 8. CỤM ĐỘNG TỪ — full câu ví dụ IELTS Reading (Cam 10–20)
+# 🧷 8. CỤM ĐỘNG TỪ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [CỤM ĐỘNG TỪ](C%E1%BB%A5m%20%C4%90%E1%BB%99ng%20T%E1%BB%AB.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=phr). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,7 +6,7 @@
 
 ## Mục lục
 
-1. [Cụm động từ (V + tiểu từ)](ielts-ngu-phap-full-phr.md?id=p1) — 381 câu
+1. [Cụm động từ (V + tiểu từ)](ielts-ngu-phap-full-phr.md?id=p1) — 415 câu
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### 1. Cụm động từ (V + tiểu từ)
 
-<small>381 câu · hiện 150</small>
+<small>415 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* It was built by Queen Udayamati during the late 11th century, but became **silted up** following a flood during the 13th century.
 - *(Cam 10 · T1 · P3)* ‘If your project is being resisted, for example, by a group of veteran employees, ask another old-timer to **speak up** for it.’

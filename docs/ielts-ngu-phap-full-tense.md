@@ -1,4 +1,4 @@
-# ⏱️ 15. CÁC THÌ ĐỘNG TỪ — full câu ví dụ IELTS Reading (Cam 10–20)
+# ⏱️ 15. CÁC THÌ ĐỘNG TỪ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [CÁC THÌ ĐỘNG TỪ](TENSES.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=tense). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,15 +6,15 @@
 
 ## Mục lục
 
-1. [Hiện tại đơn](ielts-ngu-phap-full-tense.md?id=p1) — 2941 câu
-2. [Quá khứ đơn](ielts-ngu-phap-full-tense.md?id=p2) — 1921 câu
-3. [Hiện tại hoàn thành](ielts-ngu-phap-full-tense.md?id=p3) — 482 câu
-4. [Hiện tại tiếp diễn](ielts-ngu-phap-full-tense.md?id=p4) — 206 câu
-5. [Tương lai đơn](ielts-ngu-phap-full-tense.md?id=p5) — 175 câu
-6. [Quá khứ hoàn thành](ielts-ngu-phap-full-tense.md?id=p6) — 110 câu
-7. [Quá khứ tiếp diễn](ielts-ngu-phap-full-tense.md?id=p7) — 47 câu
-8. [Hiện tại hoàn thành tiếp diễn](ielts-ngu-phap-full-tense.md?id=p8) — 26 câu
-9. [Tương lai gần (be going to)](ielts-ngu-phap-full-tense.md?id=p9) — 6 câu
+1. [Hiện tại đơn](ielts-ngu-phap-full-tense.md?id=p1) — 3221 câu
+2. [Quá khứ đơn](ielts-ngu-phap-full-tense.md?id=p2) — 2112 câu
+3. [Hiện tại hoàn thành](ielts-ngu-phap-full-tense.md?id=p3) — 540 câu
+4. [Hiện tại tiếp diễn](ielts-ngu-phap-full-tense.md?id=p4) — 229 câu
+5. [Tương lai đơn](ielts-ngu-phap-full-tense.md?id=p5) — 191 câu
+6. [Quá khứ hoàn thành](ielts-ngu-phap-full-tense.md?id=p6) — 122 câu
+7. [Quá khứ tiếp diễn](ielts-ngu-phap-full-tense.md?id=p7) — 51 câu
+8. [Hiện tại hoàn thành tiếp diễn](ielts-ngu-phap-full-tense.md?id=p8) — 28 câu
+9. [Tương lai gần (be going to)](ielts-ngu-phap-full-tense.md?id=p9) — 7 câu
 10. [Quá khứ hoàn thành tiếp diễn](ielts-ngu-phap-full-tense.md?id=p10) — 3 câu
 11. [Tương lai tiếp diễn](ielts-ngu-phap-full-tense.md?id=p11) — 2 câu
 
@@ -24,321 +24,321 @@
 
 ### 1. Hiện tại đơn
 
-<small>2941 câu · hiện 150</small>
+<small>3221 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* However, the significance of this invention – the stepwell – **goes** beyond its utilitarian application.
-- *(Cam 10 · T1 · P1)* In the old ruined town of Abhaneri, about 95 kilometres east of Jaipur, **is** Chand Baori , one of India’s oldest and deepest wells; aesthetically, it’s perhaps one of the most dramatic.
-- *(Cam 10 · T1 · P2)* According to the latest estimates, if nothing **is done** to reverse the traffic growth trend, CO2 emissions from transport can be expected to increase by around 50% to 1,113 billion tonnes by 2020，compared with the 739 billion tonnes recorded in 1990.
-- *(Cam 10 · T1 · P3)* Studies **show** that we invariably take more gambles when threatened with a loss than when offered a reward.
-- *(Cam 10 · T1 · P3)* However, a manager who **wants** to create a truly innovative culture can make their job a lot easier by recognising these psychological realities.
-- *(Cam 10 · T2 · P1)* So, the nation that we now **think** of as one of the most technologically advanced entered the 19th century having ‘abandoned the wheel’.
-- *(Cam 10 · T2 · P2)* For a young child, it may be just the simple question ‘What have you learned today?’ which **helps** them to recognise what they are doing.
-- *(Cam 10 · T2 · P3)* In addition, a major collection like that of London’s National Gallery **is housed** in numerous rooms, each with dozens of works, any one of which is likely to be worth more than all the average visitor possesses.
-- *(Cam 10 · T3 · P1)* According to the World Travel and Tourism Council (1992), Travel and tourism **is** the largest industry in the world on virtually any economic measure including value-added capital investment, employment and tax contributions.
-- *(Cam 10 · T3 · P2)* So rather than maintaining the now redundant leaves throughout the winter, the tree **saves** its precious resources and discards them.
-- *(Cam 10 · T3 · P2)* One **is** straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun.
-- *(Cam 10 · T3 · P3)* Vanuatu, for example, **stretches** more than 500 miles in a northwest-southeast trend, its scores of intervisible islands forming a backstop for mariners riding the trade winds home.
-- *(Cam 10 · T4 · P1)* ‘Doing that in many of the forests of the western US **is** like building homes on the side of an active volcano.’
-- *(Cam 10 · T4 · P2)* ‘The evidence **is** good that most personality traits can be altered,’ says Christopher Peterson, professor of psychology at the University of Michigan, who cites himself as an example.
-- *(Cam 10 · T4 · P3)* Evolution **isn’t supposed** to run backwards – yet an increasing number of examples show that it does and that it can sometimes represent the future of a species.
-- *(Cam 10 · T4 · P3)* The simplest explanation for this **is** that the axolotl lineage alone lost the ability to metamorphose, while others retained it.
-- *(Cam 11 · T1 · P1)* The concept **is** of multi-storey buildings in which food crops are grown in environmentally controlled conditions.
-- *(Cam 11 · T1 · P2)* Two diametrically opposed water-filled ‘gondolas’, each with a capacity of 360,000 litres, **are fitted** between the ends of the arms.
-- *(Cam 11 · T1 · P3)* According to its proponents, geo-engineering **is** the equivalent of a backup generator: if Plan A – reducing our dependency on fossil fuels – fails, we require a Plan B, employing grand schemes to slow down or reverse the process of global warming.
-- *(Cam 11 · T1 · P3)* Even leading conservation organisations **see** the value of investigating the potential of geo-engineering.
-- *(Cam 11 · T2 · P2)* Hunt and Lipo also **see** no evidence that Rapanui civilisation collapsed when the palm forest did.
+- *(Cam 10 · T1 · P1)* On the fourth side, covered verandas supported by ornate pillars **overlook** the steps.
+- *(Cam 10 · T1 · P2)* However, this approach **does not include** investment in new infrastructure, nor does it guarantee better regional cohesion.
+- *(Cam 10 · T1 · P3)* ‘It’s been scientifically proven that three people will be better than one at solving problems, even if that one person **is** the smartest person in the field.’
+- *(Cam 10 · T2 · P1)* The missing factors, he **proposes**, are to be found in almost even kitchen cupboard.
+- *(Cam 10 · T2 · P2)* This **happens** to such a high degree in some children that they appear to be demonstrating talent in particular areas.
+- *(Cam 10 · T2 · P3)* The seven surviving versions of Mona Lisa **bear** witness to the fact that in the 16th century, artists seemed perfectly content to assign the reproduction of their creations to their workshop apprentices as regular ‘bread and butter’ work.
+- *(Cam 10 · T2 · P3)* If appropriate works of fine art could be rendered permanently accessible to the public by means of high-fidelity reproductions, as literature and music already **are**, the public may feel somewhat less in awe of them.
+- *(Cam 10 · T3 · P2)* The colours **are** magnificent, but the question of exactly why some trees turn yellow or orange, and others red or purple, is something which has long puzzled scientists.
+- *(Cam 10 · T3 · P2)* Even if you had never suspected that this **is** what was going on when leaves turn red, there are clues out there.
+- *(Cam 10 · T3 · P3)* All this **presupposes** one essential detail, says Atholl Anderson, professor of prehistory at the Australian National University: the Lapita had mastered the advanced art of sailing against the wind.
+- *(Cam 10 · T4 · P1)* That said, many experts **give** California high marks for making progress on preparedness in recent years, after some of the largest fires in state history scorched thousands of acres, burned thousands of homes, and killed numerous people.
+- *(Cam 10 · T4 · P2)* You can recognise a person who **is** passionate about a pursuit by the way they are so strongly involved in it.
+- *(Cam 10 · T4 · P3)* In 1890 he proposed that evolution was irreversible: that ‘an organism **is** unable to return, even partially, to a previous stage already realised in the ranks of its ancestors.
+- *(Cam 10 · T4 · P3)* Another more intriguing possibility **is** that the genetic information needed to make toes somehow survived for tens or perhaps hundreds of millions of years in the lizards and was reactivated.
+- *(Cam 11 · T1 · P1)* Vertical farming **is** an attempt to address the undoubted problems that we face in producing enough food for a growing population.
+- *(Cam 11 · T1 · P2)* When the gondola **reaches** the top, the boat passes straight onto the aqueduct situated 24 metres above the canal basin.
+- *(Cam 11 · T1 · P3)* ‘A further risk with geo-engineering projects **is** that you can “overshoot”,’ says Dr Dan Hunt, from the University of Bristol’s School of Geophysical Sciences, who has studied the likely impacts of the sunshade and aerosol schemes on the climate.
+- *(Cam 11 · T2 · P2)* Recent experiments **indicate** that as few as 18 people could, with three strong ropes and a bit of practice, easily manoeuvre a 1,000 kg moai replica a few hundred metres.
 - *(Cam 11 · T2 · P3)* It **is** possible that our visual system, which evolved in the great outdoors, finds it easier to process such patterns.
-- *(Cam 11 · T3 · P2)* The biologist Hugh Dingle has identified five characteristics that **apply**, in varying degrees and combinations, to all migrations.
-- *(Cam 11 · T3 · P2)* If they can’t pass through each of the three during their spring migration, they can’t reach their bounty of summer grazing; if they can’t pass through again in autumn, escaping south onto those windblown plains, they **are** likely to die trying to overwinter in the deep snow.
-- *(Cam 11 · T3 · P3)* This book **presents** the details that illustrate the mathematical style of thinking, which involves sustained, step-by-step analysis, experiments, and insights.
-- *(Cam 11 · T4 · P1)* Studies of animals, for example, have shown that when a rat experiences stress during pregnancy, it can cause epigenetic changes in a fetus that **lead** to behavioral problems as the rodent grows up.
-- *(Cam 11 · T4 · P2)* Often with film characterization the audience **perceives** little or no difference between the character and the actor.
-- *(Cam 11 · T4 · P2)* The asynchronous ambulance siren **underscores** the psychic injury incurred in the argument; at the same time the noise of the siren adds to the realism of the film by acknowledging the film’s city setting.
-- *(Cam 11 · T4 · P3)* The language machine **allows** just about everybody from pre-modern foragers in the subtropical savannah, to post-modern philosophers in the suburban sprawl – to tie these meaningless sounds together into an infinite variety of subtle senses, and all apparently without the slightest exertion.
-- *(Cam 12 · T1 · P1)* The cells **are filled** with air, which is why cork is so buoyant.
-- *(Cam 12 · T1 · P1)* Corkboard and cork tiles **are** ideal for thermal and acoustic insulation, while granules of cork are used in the manufacture of concrete.
-- *(Cam 12 · T1 · P2)* Psychologically, this can give a purpose to a life that otherwise **feels** aimless.
-- *(Cam 12 · T1 · P3)* I kid you not: we **have** it on the books.
-- *(Cam 12 · T1 · P3)* We **have** another term for it: fraud.
-- *(Cam 12 · T2 · P1)* According to Murphy, ‘collective action **offers** an important way for farmers to strengthen their political and economic bargaining power, and to reduce their business risks.’
-- *(Cam 12 · T2 · P2)* One question that **has** perplexed visitors, historians and archaeologists alike ever since Bingham, is why the site seems to have been abandoned before the Spanish Conquest.
-- *(Cam 12 · T2 · P3)* Bilingual people often **excel** at tasks such as this, which top into the ability to ignore competing perceptual information and focus on the relevant aspects of the input.
-- *(Cam 12 · T3 · P1)* Originally an air ambulance, the yacht’s helicopter **has** a rear double door and a large internal space that’s well suited for cargo, so a custom crate was designed to hold up to 33 tortoises with a total weight of about 150 kilograms.
-- *(Cam 12 · T3 · P2)* Researchers **study** the interactions between humans and their environment that could lead to illness (such as asthma in places with high levels of pollution) and work to create a clear way of categorizing illnesses, diseases and epidemics into local and global scales.
-- *(Cam 12 · T3 · P3)* Why **are** they so active in the period preceding the acoustic climax?
-- *(Cam 12 · T3 · P3)* We can predict some of the notes, but we can’t predict them all, and that **is** what keeps us listening, waiting expectantly for our reward, for the pattern to be completed.
-- *(Cam 12 · T4 · P2)* But even without this key feature, it**’s** hard to see what else the creature could have been.
+- *(Cam 11 · T3 · P2)* And one more: migrating animals **maintain** an intense attentiveness to the greater mission, which keeps them undistracted by temptations and undeterred by challenges that would turn other animals aside.
+- *(Cam 11 · T3 · P3)* Occasionally, in some difficult musical compositions, there **are** beautiful, but easy parts – parts so simple a beginner could play them.
+- *(Cam 11 · T3 · P3)* That mathematics can develop this skill **is shown** by these two testimonials:
+- *(Cam 11 · T4 · P1)* ‘We **forget** that 50 years ago things like heart disease were thought to be caused entirely by lifestyle.
+- *(Cam 11 · T4 · P2)* This film **presents** pure escapism – largely due to its frenetic dialogue.
+- *(Cam 11 · T4 · P3)* In its own right it **is** a tool of extraordinary sophistication, yet based on an idea of ingenious simplicity: ‘this marvellous invention of composing out of twenty-five or thirty sounds that infinite variety of expressions which, whilst having in themselves no likeness to what is in our mind, allow us to disclose to others its whole secret, and to make known to those who cannot penetrate it all that we imagine, and all the various stirrings of our soul’ This was how, in 1660, the renowned French grammarians of the Port-Royal abbey near Versailles distilled the essence of language, and no one since has celebrated more eloquently the magnitude of its achievement.
+- *(Cam 12 · T1 · P1)* Cork – the thick bark of the cork oak tree ( Quercus suber) – **is** a remarkable material.
+- *(Cam 12 · T1 · P1)* The most skilful cork-strippers **prise** away a semi-circular husk that runs the length of the trunk from just above ground level to the first branches.
+- *(Cam 12 · T1 · P2)* Another motive for collecting **is** the desire to find something special, or a particular example of the collected item, such as a rare early recording by a particular singer.
+- *(Cam 12 · T1 · P3)* Naturally, the course **is intended** for prospective arson investigators, who can learn all the tricks of the trade for detecting whether a fire was deliberately set, discovering who did it, and establishing a chain of evidence for effective prosecution in a court of law.
+- *(Cam 12 · T2 · P1)* At the same time, cultural values **are** highly entrenched in food and agricultural systems worldwide.
+- *(Cam 12 · T2 · P1)* Similarly, Sonali Bisht, founder and advisor to the Institute of Himalayan Environmental Research and Education (INHERE), India, wrote that community-supported agriculture, where consumers **invest** in local farmers by subscription and guarantee producers a fair price, is a risk-sharing model worth more attention.
+- *(Cam 12 · T2 · P3)* When we **hear** a word, we don’t hear the entire word all at once: the sounds arrive in sequential order.
+- *(Cam 12 · T2 · P3)* If the brain **is** an engine, bilingualism may help it to go farther on the same amount of fuel.
+- *(Cam 12 · T3 · P2)* It **is** an increasingly important area of study in a world where diseases like polio are re-emerging, respiratory diseases continue to spread, and malaria-prone areas are still fighting to find a better cure.
+- *(Cam 12 · T3 · P3)* The pupils in our eyes dilate, our pulse and blood pressure rise, the electrical conductance of our skin **is lowered**, and the cerebellum, a brain region associated with bodily movement, becomes strangely active.
+- *(Cam 12 · T3 · P3)* According to Meyer, it **is** the suspenseful tension of music, arising out of our unfulfilled expectations, that is the source of the music’s feeling.
+- *(Cam 12 · T4 · P2)* A 9th-century stone cross from the Isle of Eigg **shows**, alongside the deer, boar and aurochs pursued by a mounted hunter, a speckled cat with tasselled ears.
 - *(Cam 12 · T4 · P2)* There **is** nothing extraordinary about these proposals, seen from the perspective of anywhere else in Europe.
-- *(Cam 13 · T1 · P1)* One of the most popular was an interview with former New Zealand All Blacks **rugby** captain Tana Umaga.
-- *(Cam 13 · T1 · P2)* The most useful **is** what Goetz calls ‘indifferent’ boredom: someone isn’t engaged in anything satisfying but still feels relaxed and calm.
-- *(Cam 13 · T1 · P2)* Eastwood’s team is now trying to explore why the attention system **fails**.
-- *(Cam 13 · T1 · P3)* To some extent, we **are** all familiar with computerised art.
-- *(Cam 13 · T1 · P3)* Meanwhile, experiments by Justin Kruger of New York University have shown that people’s enjoyment of an artwork increases if they **think** more time and effort was needed to create it.
-- *(Cam 13 · T2 · P2)* Her research also **shows** that oxytocin in fact reduces cooperation in subjects who are particularly anxious or sensitive to rejection.
-- *(Cam 13 · T2 · P3)* Once you have gained perspective on how trend-related changes in consumer opinions and behaviors **impact** on your category, you can determine which of our three innovation strategies to pursue.
-- *(Cam 13 · T3 · P1)* An important product obtained from the shell **is** charcoal, which is widely used in various industries as well as in the home as a cooking fuel.
-- *(Cam 13 · T3 · P2)* Fathers **don’t use** baby talk as often or in the same ways as mothers – and that’s perfectly OK, according to a new study.
-- *(Cam 13 · T3 · P2)* The study may have also uncovered a process by which babies **recognize** differences between their native language and other tongues.
-- *(Cam 13 · T4 · P2)* More than a third of the world’s soil **is endangered**, according to a recent UN report.
-- *(Cam 13 · T4 · P2)* But this **is** only a first step.
-- *(Cam 13 · T4 · P3)* (Surprisingly, Davies **does not discuss** the fact that Bentham meant his Panopticon not just as a model prison but also as an instrument of control that could be applied to schools and factories.)
-- *(Cam 14 · T1 · P1)* But what they often **lack** is the evidence to base policies on.
-- *(Cam 14 · T1 · P2)* ‘The first Witte Fietsenplan was just a symbolic thing,’ he **says**.
-- *(Cam 14 · T1 · P3)* Some hotels **aim** to provide superior working conditions for their employees.
-- *(Cam 14 · T1 · P3)* Employees also **have** intrinsic motivation needs or motivators, which include such factors as achievement and recognition.
-- *(Cam 14 · T2 · P2)* We **believe** you could build wards based on these principles now.
-- *(Cam 14 · T2 · P3)* Ironically, however, the number of business that **fail** has also steadily increased.
-- *(Cam 14 · T3 · P1)* There **are** at least four seasons people’s conceptions of intelligence matter.
+- *(Cam 13 · T1 · P1)* This **is** important as research shows that activities are the key driver of visitor satisfaction, contributing 74% to visitor satisfaction, while transport and accommodation account for the remaining 26%.
+- *(Cam 13 · T1 · P2)* Mann has found that being bored **makes** us more creative.
+- *(Cam 13 · T1 · P2)* But of course, boredom itself cannot kill – it**’s** the things we do to deal with it that may put us in danger.
+- *(Cam 13 · T1 · P3)* After all, he **says**, consider that the Painting Fool painted the landscapes without referring to a photo.
+- *(Cam 13 · T2 · P2)* Few chemicals **have** as positive a reputation as oxytocin, which is sometimes referred to as the ‘love hormone’.
+- *(Cam 13 · T2 · P2)* ‘Oxytocin probably **does** some very basic things, but once you add our higher-order thinking and social situations, these basic processes could manifest in different ways depending on individual differences and context.’
+- *(Cam 13 · T3 · P1)* The flower **stems** may be tapped for their sap to produce a drink, and the sap can also be reduced by boiling to produce a type of sugar used for cooking.
+- *(Cam 13 · T3 · P2)* Some research even **suggests** that infants are listening to adult speech as early as 10 weeks before being born, gathering the basic building blocks of their family’s native tongue.
+- *(Cam 13 · T3 · P2)* ‘Finding activation in motor areas the baby brain **is engaged** in trying to talk back right from the start, and suggests that seven-month-olds’ brains are already trying to figure out how to make interesting finding was that while the seven-month-olds responded to all speech sounds regardless of language, the brains of the older infants worked harder at the motor activations of non-native sounds compared to native sounds.
+- *(Cam 13 · T4 · P2)* If we **don’t slow** the decline, all farmable soil could be gone in 60 years.
+- *(Cam 13 · T4 · P2)* Like the idea of carbon neutrality, it **is** an easily understood target that can help shape expectations and encourage action.
+- *(Cam 13 · T4 · P3)* We **learn** much that is interesting about how economic problems are being redefined and treated as psychological maladies.
+- *(Cam 14 · T1 · P1)* ‘This **is** our ability to develop awareness of our own thinking progresses – it influences how effectively we go about undertaking challenging activities.’
+- *(Cam 14 · T1 · P2)* The huge and unexpected success of the Parisian bike-sharing programme, which now **boasts** more than 20,000 bicycles, inspired cities all over the world to set up their own schemes, all modelled on Schimmelpennink’s.
+- *(Cam 14 · T1 · P3)* This **suggests** that there has been a dichotomy between the guest environment provided in luxury hotels and the working conditions of their employees.
+- *(Cam 14 · T2 · P2)* Short **points** out that to make most contemporary buildings habitable, they have to be sealed and air conditioned.
+- *(Cam 14 · T2 · P3)* Whether it **is** of our lives – all those inboxes and calendars – or how companies are structured, a multi-billion dollar industry helps to meet this need.
+- *(Cam 14 · T3 · P1)* This chapter **addresses** how people conceptualize intelligence, whatever it may actually be.
 - *(Cam 14 · T3 · P1)* Low achievers **are not rewarded** to the same extent as high achievers.
-- *(Cam 14 · T3 · P2)* The larvae of a few other insect species are being investigated for the potent antimicrobial compounds they **produce**.
-- *(Cam 14 · T3 · P3)* The drive to play **is** so intense that children will do so in any circumstances, for instance when they have no real toys, or when parents do not actively encourage the behavior.
-- *(Cam 14 · T3 · P3)* Unlike play, work **is typically not viewed** as enjoyable and it is extrinsically motivated (i.e. it is goal oriented).
-- *(Cam 14 · T4 · P1)* She compared how well 20-day-old and 95-day-old ants followed the telltale scent that the insects usually **leave** to mark a trail to food.
-- *(Cam 14 · T4 · P2)* Furthermore, zoos **serve** several key purposes.
-- *(Cam 14 · T4 · P3)* Plenty of studies have sounded alarm bells about the state of marine debris; in a recent paper published in the journal Ecology , Rochman and her colleagues set out to determine how many of those perceived risks **are** real.
-- *(Cam 14 · T4 · P3)* ‘I **think** clearing up some of these misperceptions is really important,’ Rochman says.
-- *(Cam 15 · T1 · P2)* If the vehicle can do some or all of the driving, it may be possible to be productive, to socialise or simply to relax while automation systems **have** responsibility for safe control of the vehicle.
-- *(Cam 15 · T1 · P3)* He is delving into matters we all **recognise** because they are common to humanity.
-- *(Cam 15 · T2 · P1)* The way we **travel** around cities has a major impact on whether they are sustainable.
-- *(Cam 15 · T2 · P1)* In order to bring about fundamental changes to the ways we **use** our cities, engineering will need to develop a richer understanding of why people move in certain ways, and how this movement affects them.
-- *(Cam 15 · T2 · P2)* ‘For us, the goal has always been replacing the extinct species with a suitable replacement,’ **explains** Novak.
-- *(Cam 15 · T2 · P3)* ‘Although humour has been found to help relieve stress and facilitate social relationships, traditional view of task performance **implies** that individuals should avoid things such as humour that may distract them from the accomplishment of task goals,’ Cheng and Wang conclude.
-- *(Cam 15 · T3 · P2)* The device **is aimed** at a wide variety of users – from homeowners in the developing world who do not have a constant supply of water to people living off the grid in rural parts of the US.
-- *(Cam 15 · T3 · P3)* In some versions, the wolf **swallows** up the grandmother, while in others it locks her in a cupboard.
-- *(Cam 15 · T3 · P3)* Jack Zipes at the University of Minnesota, Minneapolis, **is unconvinced** by Tehrani’s views on fairy tales.
-- *(Cam 15 · T4 · P1)* In order to succeed, Whaley **needs** to get the local people on board, and that has meant overcoming local prejudices.
-- *(Cam 15 · T4 · P2)* This small volcanic island **is** mountainous, with steep rocky slopes and deep, wooded ravines, rising to 1,487 metres at its highest peak.
-- *(Cam 15 · T4 · P2)* ‘Whistled languages **are quite clearly defined** and represent an original adaptation of the spoken language for the needs of isolated human groups.’
-- *(Cam 15 · T4 · P3)* To me, the conclusion that the public **has** the ultimate responsibility for the behavior of even the biggest businesses is empowering and hopeful, rather than disappointing.
+- *(Cam 14 · T3 · P2)* Why **is** it that insects have received relatively little attention in bioprospecting?
+- *(Cam 14 · T3 · P3)* Yet, while experts **continue** to expound a powerful argument for the importance of play in children’s lives, the actual time children spend playing continues to decrease.
+- *(Cam 14 · T3 · P3)* Intrinsically motivated free play **provides** the child with true autonomy, while guided play is an avenue through which parents and educators can provide more targeted learning experiences.
+- *(Cam 14 · T4 · P1)* ‘For now, the study **raises** more questions than it answers,’ Giraldo says, ‘including how P. dentata stays in such good shape.’
+- *(Cam 14 · T4 · P2)* Zoos also **play** a key role in research.
+- *(Cam 14 · T4 · P3)* None of that **tells** us how many birds or fish or sea turtles could die from plastic pollution – or how deaths in one species could affect that animal’s predators, or the rest of the ecosystem.
+- *(Cam 15 · T1 · P2)* However, this time it **is** not to do with the manufacturing process, but with the vehicles themselves.
+- *(Cam 15 · T1 · P3)* This questing nature of ours undoubtedly helped our species spread around the globe, just as it nowadays no doubt **helps** the last nomadic Penan maintain their existence in the depleted forests of Borneo, and a visitor negotiate the subways of New York.
+- *(Cam 15 · T1 · P3)* However, this **is** to disregard the role the human mind has in conveying remote places; and this is what interests me: how a fresh interpretation, even of a well-travelled route, can give its readers new insights.
+- *(Cam 15 · T2 · P1)* Yet it **shares** with engineering the aim of designing patterns of movement within limitations of space.
+- *(Cam 15 · T2 · P2)* Another popular candidate for this technology **is** the woolly mammoth.
+- *(Cam 15 · T3 · P1)* Moore was the first modern English sculptor to achieve international critical acclaim and he **is still regarded** as one of the most important sculptors of the 20th century.
+- *(Cam 15 · T3 · P2)* In developed countries, it **is** likely to come in at $1,000 (£685) a unit, said Janssen.
+- *(Cam 15 · T3 · P3)* Folklorists **believe** that what happens in a story is more central to the story than the characters in it – that visiting a relative, only to be met by a scary animal in disguise, is more fundamental than whether the visitor is a little girl or three siblings, or the animal is a tiger instead of a wolf.
+- *(Cam 15 · T4 · P1)* This **is** why the huarango tree is so suited to life there: it has the longest roots of any tree in the world.
+- *(Cam 15 · T4 · P1)* Desert habitats can reduce down to very little,’ Whaley **explains**.
+- *(Cam 15 · T4 · P2)* Whistled languages **survive** today in Papua New Guinea, Mexico, Vietnam, Guyana, China, Nepal, Senegal, and a few mountainous pockets in southern Europe.
+- *(Cam 15 · T4 · P3)* My views may seem to ignore the belief that businesses should act in accordance with moral principles even if this **leads** to a reduction in their profits.
 - *(Cam 16 · T1 · P1)* As for emotions, while the evidence **is** once again anecdotal, many bears have been seen to hit out at ice and snow – seemingly out of frustration – when they have just missed out on a kill.
-- *(Cam 16 · T1 · P3)* ‘In many cases, they can outperform humans,’ **says** Pachidi.
-- *(Cam 16 · T1 · P3)* Dr Ewan McGaughey, at Cambridge’s Centre for Business Research and King’s College London, **agrees** that ‘apocalyptic’ views about the future of work are misguided.
-- *(Cam 16 · T2 · P1)* The Uffington Horse **is also surrounded** by Bronze Age burial mounds.
-- *(Cam 16 · T2 · P2)* What **is** amazing is that while the number of human cells in the average person is about 30 trillion, the number of microbial ones is higher – about 39 trillion.
-- *(Cam 16 · T2 · P2)* What then **do these millions of organisms do**?
-- *(Cam 16 · T2 · P3)* ‘It **is** impossible to characterize thought processes attributed to wisdom without considering the role of contextual factors,’ explains Grossmann.
-- *(Cam 16 · T3 · P1)* It **is** worth noting that contrary to popular perception, rowers were not slaves but mostly Roman citizens enrolled in the military.
-- *(Cam 16 · T3 · P3)* An international team of scientists led by the University of Cambridge has discovered that the ‘thermometer’ molecule in plants **enables** them to develop according to seasonal temperature changes.
-- *(Cam 16 · T3 · P3)* This **is called** ‘dark reversion’.
-- *(Cam 16 · T4 · P1)* Construction marks left on a Roman tunnel in Bologna **show** that the rate of advance through solid rock was 30 centimeters per day.
-- *(Cam 16 · T4 · P2)* In Stavanger, Norway, psychologist Anne Mangen and colleagues studied how high school students **comprehend** the same material in different mediums.
-- *(Cam 16 · T4 · P3)* Yet for all these technological advances, we still **seem** to deeply lack confidence in AI predictions.
-- *(Cam 16 · T4 · P3)* Another solution may be to reveal more about the algorithms which AI **uses** and the purposes they serve.
-- *(Cam 17 · T1 · P2)* This **opens** the space up to families and a wider cross-section of society, instead of catering only to sportspeople and supporters.
-- *(Cam 17 · T1 · P3)* He **has** even-handed sympathy for both the fugitive king and the fierce republican regime that hunted him, and he succeeds in his desire to explore far more of the background of the story than previous books on the subject have done.
-- *(Cam 17 · T2 · P1)* The only exception **is** the scroll numbered 3Q15, which was created out of a combination of copper and tin.
-- *(Cam 17 · T2 · P2)* The wild tomato has twice as much lycopene as cultivated ones; the newly domesticated one **has** five times as much.
-- *(Cam 17 · T2 · P3)* We **propose** that science is constantly evolving, much as species of animals do.
-- *(Cam 17 · T3 · P1)* The dramatic decline of the thylacine in Tasmania, which began in the 1830s and continued for a century, **is generally attributed** to the relentless efforts of sheep farmers and bounty hunters with shotguns.
-- *(Cam 17 · T3 · P2)* That immensely high yield – which **is** predominantly what makes it so profitable – is potentially also an ecological benefit.
+- *(Cam 16 · T1 · P3)* ‘But these enhancements **are** not without consequences,’ says Pachidi.
+- *(Cam 16 · T1 · P3)* He **adds**: ‘If there is going to be change to jobs as a result of AI and robotics then I’d like to see governments seizing the opportunity to improve policy to enforce good job security.
+- *(Cam 16 · T2 · P1)* Some researchers **see** the horse as representing the Celtic*** horse goddess Epona, who was worshipped as a protector of horses, and for her associations with fertility.
+- *(Cam 16 · T2 · P2)* It**’s** a fascinating topic and Yong, a young British science journalist, is an extraordinarily adept guide.
+- *(Cam 16 · T2 · P2)* The microbial world **is** a place of wonder.
+- *(Cam 16 · T2 · P3)* We might associate wisdom with intelligence or particular personality traits, but research **shows** only a small positive relationship between wise thinking and crystallized intelligence and the personality traits of openness and agreeableness.
+- *(Cam 16 · T3 · P2)* ‘Remarkably, though, the finds from the ice may have continued through this period, perhaps suggesting that the importance of mountain hunting increased to supplement failing agricultural harvests in times of low temperatures,’ **says** Barrett.
+- *(Cam 16 · T3 · P3)* ‘Light-driven changes to phytochrome activity **occur** very fast, in less than a second,’ says Wigge.
+- *(Cam 16 · T4 · P1)* Remarkably, a modern road still **uses** this tunnel today.
+- *(Cam 16 · T4 · P2)* Ziming Liu from San Jose State University has conducted a series of studies which **indicate** that the ‘new norm’ in reading is skimming, involving word-spotting and browsing through the text.
+- *(Cam 16 · T4 · P3)* To do that, we **need** to understand why people are so reluctant to trust AI in the first place.
+- *(Cam 17 · T1 · P1)* Eventually, over a five-year period, £1**m** was raised.
+- *(Cam 17 · T1 · P2)* The stadium of today now **brings** together multiple functions, thus helping cities to create a sustainable future.
+- *(Cam 17 · T2 · P1)* According to the prevailing theory, they **are** the work of a population that inhabited the area until Roman troops destroyed the settlement around 70 CE.
+- *(Cam 17 · T2 · P2)* This approach **relies** on the revolutionary CRISPR genome editing technique, in which changes are deliberately made to the DNA of a living cell, allowing genetic material to be added, removed or altered.
+- *(Cam 17 · T2 · P3)* However, we **believe** that it largely misrepresents the real nature of scientific discovery, as well as that of creativity and innovation in many other realms of human endeavor.
+- *(Cam 17 · T2 · P3)* In particular, the provenance of the raw material on which the Law of Effect **operates** is not as clearly known as that of the genetic mutations on which the Law of Natural Selection operates.
+- *(Cam 17 · T3 · P2)* Even the deforestation argument **is**n’t as straightforward as it seems.
 - *(Cam 17 · T3 · P3)* Barr **begins** chapter one by taking the reader on a ‘helicopter time-machine’ ride – giving a fascinating account of how the New York landscape in 1609 might have looked from the sky.
-- *(Cam 17 · T3 · P3)* While this chapter references empirical research papers, it **is** a relatively easy read.
-- *(Cam 17 · T4 · P1)* ‘These winner species are providing a valuable free service to Madagascar as biological pest suppressors,’ **says** Rocha.
-- *(Cam 17 · T4 · P2)* ‘Modern cross-country analyses have also struggled to find evidence that education **causes** economic growth, even though there is plenty of evidence that growth increases education,’ she adds.
-- *(Cam 17 · T4 · P2)* If economic institutions **are poorly set** up, for instance, education can’t lead to growth.’
-- *(Cam 17 · T4 · P3)* When Gareyev **is** tired, his recall can get patchy.
-- *(Cam 18 · T1 · P1)* The urban rooftop space above the exhibition hall **is** somewhat bigger: 14,000 square metres and almost exactly the size of a couple of football pitches.
-- *(Cam 18 · T1 · P1)* ‘Root vegetables we cannot do, at least not yet,’ he **says**.
-- *(Cam 18 · T1 · P2)* This then **allows** the forester to decide which tree species are regenerated.
-- *(Cam 18 · T1 · P3)* Even as our ability to monitor space objects increases, so too **does** the total number of items in orbit.
-- *(Cam 18 · T1 · P3)* When Jah **enters** that number, the database draws two purple lines: the US and Russian sources contain two completely different orbits for the same object.
-- *(Cam 18 · T2 · P2)* Powerful artificial intelligence (AI) **needs** to be reliably aligned with human values, but does this mean AI will eventually have to police those values?
-- *(Cam 18 · T2 · P2)* One **is** how we get the machines started on the journey, the other is what it would mean to reach this destination.
-- *(Cam 18 · T2 · P2)* But safety **seems** to require that we think of them as a package: if we are to give general intelligence to machines, we’ll need to give them moral authority, too.
-- *(Cam 18 · T3 · P1)* Chris Cheeseman, an engineering professor at Imperial College London, **says** the key thing to consider is the extent to which concrete is used around the world, and is likely to continue to be used.
-- *(Cam 18 · T3 · P1)* Fly ash and slag from iron ore **are** possible alternatives to cement in a concrete mix.
-- *(Cam 18 · T3 · P3)* Within schools, it **means** selecting students into a ‘stream’ of general ability, or ‘sets’ of subject-specific ability.
-- *(Cam 18 · T3 · P3)* And today, more than ever, we **need** the many to flourish – not suffer at the expense of a few bright stars.
-- *(Cam 18 · T4 · P1)* Other considerations **include** installing drainage paths, meeting health and safety requirements and perhaps allowing access for the public, as well as planning restrictions and disruption from regular activities in and around the buildings during installation.
-- *(Cam 18 · T4 · P2)* The statistician Andrew Gelman **claims** that ‘their research designs have enough degrees of freedom that they could take their data to support just about any theory at all’.
-- *(Cam 18 · T4 · P3)* Plate tectonics **is** in many respects quite different from Wegener’s proposal, in the same way that modern evolutionary theory is very different from the ideas Charles Darwin proposed in the 1850s about biological evolution.
+- *(Cam 17 · T3 · P3)* In the next chapter, Barr **considers** two of the primary explanations for the building boom of the 1920s — the first being exuberance, and the second being financing.
+- *(Cam 17 · T4 · P1)* ‘But our study **is** the first to show this happening in Madagascar, where the stakes for both farmers and conservationists are so high.’
+- *(Cam 17 · T4 · P2)* ‘We can follow the same people – and their descendants – across 300 years of educational and economic change,’ she **says**.
+- *(Cam 17 · T4 · P3)* They now **have** their first results.
+- *(Cam 17 · T4 · P3)* For the world record attempt, Gareyev **hopes** to play 47 blindfold games at once in about 16 hours.
+- *(Cam 18 · T1 · P1)* No soil **is exhausted**, and the water that gently showers the plants’ roots every 12 minutes is recycled, so the method uses 90% less water than a classic intensive farm for the same yield.
+- *(Cam 18 · T1 · P2)* Another approach that might yield a high amount of low-use wood **is** a Salvage Cut.
+- *(Cam 18 · T1 · P3)* Others are developing taxonomies of space – working on measuring properties such as the shape and size of an object, so that satellite operators **know** how much to worry about what’s coming their way.
+- *(Cam 18 · T1 · P3)* Only this **doesn’t quite work** for a number of objects, such as a Russian rocket body designated in the database as object number 32280.
+- *(Cam 18 · T2 · P2)* True, these prodigious accomplishments **are** all in so-called narrow AI, where machines perform highly specialised tasks.
+- *(Cam 18 · T2 · P2)* We often **ignore** the suffering of strangers, and even contribute to it, at least indirectly.
+- *(Cam 18 · T2 · P3)* Yet **given that unsustainable urban models are** a key cause of global climate change today, it’s only natural to wonder how Leonardo might have changed the shape of modem cities.
+- *(Cam 18 · T3 · P1)* According to Cheeseman, all these factors together **make** concrete hard to beat.
+- *(Cam 18 · T3 · P2)* Many of the Model E Dobles which have survived **are** still in good working condition, some having been driven over half a million miles with only normal maintenance.
+- *(Cam 18 · T3 · P3)* Less significant **is** the small benefit for those lucky clever students in the higher sets.
+- *(Cam 18 · T4 · P1)* Toronto, Canada, **has** policies dating from the 1990s, encouraging the development of urban farms on rooftops.
+- *(Cam 18 · T4 · P2)* The idea of the growth mindset **is based** on the work of psychologist Carol Dweck in California in the 1990s.
+- *(Cam 18 · T4 · P3)* This **is** a book about the life and scientific work of Alfred Wegener, whose reputation today rests with his theory of continental displacements, better known as ‘continental drift’.
 - *(Cam 19 · T1 · P1)* As a result, players and their teams are becoming increasingly creative with the modifications to their rackets as they **look** to maximise their competitive advantage.
-- *(Cam 19 · T1 · P2)* While the Mediterranean region **is** predominantly fertile, some parts are rugged and hilly, even mountainous.
-- *(Cam 19 · T1 · P3)* In support of this, one might consider the nature of regulatory structures in the United States: regulatory agencies here **tend** to focus on post hoc detection of broadcast information.
-- *(Cam 19 · T2 · P2)* These demands **include** the high level of physical and mental effort required to succeed, and also the athlete’s concerns about the difficulty of the event, their chance of succeeding, and any potential dangers such as injury.
-- *(Cam 19 · T2 · P3)* But look closer and a different story **emerges**.
-- *(Cam 19 · T2 · P3)* He once wrote: ‘It**’s** not that I’m so smart, it’s just that I stay with problems longer.
-- *(Cam 19 · T3 · P2)* ‘Wetlands directly **support** the livelihoods and well-being of millions of people,’ says Dr Matthew McCartney, principal researcher and hydrologist at the International Water Management Institute (IWMI).
-- *(Cam 19 · T3 · P2)* ‘Sediment run-off and fertilizers can be pretty invisible,’ **says** Tickner.
-- *(Cam 19 · T3 · P3)* Noise, Alex Waibel **tells** me, is one of the major challenges that artificial speech translation has to meet.
-- *(Cam 19 · T3 · P3)* It **needs** to work offline, for situations where internet access isn’t possible, and to address apprehensions about the amount of private speech data accumulating in the cloud, having been sent to servers for processing.
-- *(Cam 19 · T4 · P1)* Some species **are** able to go from caterpillar to butterfly twice or more per year, so that the individual butterflies you see flying in the spring are the grandchildren or great-grandchildren of the individuals seen a year previously.
-- *(Cam 19 · T4 · P2)* Upton **estimates** it could take up to a decade for a newly discovered antibiotic to become a medicine – but the race towards commercial mining in the ocean abyss has already begun.
-- *(Cam 19 · T4 · P2)* She **argues** that active vents must be off-limits for mining to protect the new knowledge and biotechnology spin-offs they can deliver, and that strict controls must be in place elsewhere.
-- *(Cam 19 · T4 · P3)* Women in hunter-gatherer groups worldwide often **benefit** from a high level of autonomy, being able to select their own marriage partners, decide what work they do and work whenever they choose to.
-- *(Cam 20 · T1 · P1)* Males **play** no part in incubation or chick-rearing – females alone incubate eggs and feed the chicks.
-- *(Cam 20 · T1 · P2)* Given how ingrained elm **is** in British culture, it’s unsurprising the tree has many advocates.
-- *(Cam 20 · T1 · P2)* The problem, he **suggests**, is that, ‘You’re replacing a native species with a horticultural analogue*.
-- *(Cam 20 · T1 · P3)* If a co-worker **is stressed**, we are more likely to tense up and feel stressed ourselves.
-- *(Cam 20 · T2 · P1)* Unlike most mammals, manatees **have** only six bones in their neck – most others, including humans and giraffes, have seven.
-- *(Cam 20 · T2 · P1)* It’s thought that manatees **use** their muscular diaphragm and breathing to adjust their buoyancy.
-- *(Cam 20 · T2 · P1)* However, laws in certain parts of Florida now **limit** boat speeds during winter, allowing slow-moving manatees more time to respond.
+- *(Cam 19 · T1 · P2)* It **seems** the pharaoh was troubled by two distinct pirate groups, the Lukka and the Sherden.
+- *(Cam 19 · T1 · P3)* In addition, even misinformation that **is successfully corrected** can continue to affect attitudes.
+- *(Cam 19 · T2 · P2)* But should the person feel there **are** too many demands placed on them, the more likely they are to experience a negative stress response – known as a threat state.
+- *(Cam 19 · T2 · P3)* While the jury **is** out on giftedness being innate and other factors potentially making the difference, what is certain is that the behaviours associated with high levels of performance are replicable and most can be taught – even traits such as curiosity.
+- *(Cam 19 · T3 · P1)* Shipton’s team’s excavation of the shelters at the Kelo site unearthed a volcanic glass substance called obsidian, which must have been brought over from another island, as there **is** no known source on Obi.
+- *(Cam 19 · T3 · P2)* They **dig** ditches to enter the peat swamps by boat and then float the logs out the same way.
+- *(Cam 19 · T3 · P2)* McCartney **is** cautiously optimistic, however.
+- *(Cam 19 · T3 · P3)* Waibel **highlights** the significance of certain Asian nations, noting that voice translation has really taken off in countries such as Japan with a range of systems.
+- *(Cam 19 · T4 · P1)* First, the researchers pulled together data from millions of records that had been submitted by butterfly enthusiasts – people who **spend** their free time observing the activities of different species.
+- *(Cam 19 · T4 · P2)* The deep sea **contains** more nickel, cobalt and rare earth metals than all land reserves combined, according to the US Geological Survey.
+- *(Cam 19 · T4 · P3)* If we **are** kind to one another, it’s usually because we have ulterior motives.
+- *(Cam 19 · T4 · P3)* So presumably these traits **are** still strong in us now.
+- *(Cam 20 · T1 · P2)* The disease **is caused** by a fungus that blocks the elms’ vascular (water, nutrient and food transport) system, causing branches to wilt and die.
+- *(Cam 20 · T1 · P2)* Any prospect of the elm returning **relies** heavily on trees being either resistant to, or tolerant of, the disease.
+- *(Cam 20 · T1 · P3)* This **is** how we arrived at these results.
+- *(Cam 20 · T1 · P3)* Being aware of the close relationship between people’s emotional state and how they **process** information can help us frame our messages more effectively and become conscientious agents of change.
+- *(Cam 20 · T2 · P1)* Manatees **are** fully aquatic, but as mammals, they need to come up to the surface to breathe.
+- *(Cam 20 · T2 · P1)* Both **are also expected** to undergo a decline of 20% over the next 40 years.
 - *(Cam 20 · T2 · P2)* The ‘mood repair’ we **experience** is temporary.
-- *(Cam 20 · T2 · P3)* Even if the batter **does not hit** the ball, a pitch that passes through the ‘strike zone (an imaginary zone about seventeen inches wide, stretching from the batter’s knees to the middle of his chest) is considered a strike.
-- *(Cam 20 · T3 · P1)* There **is** evidence that winter ice was stored to preserve food in the summer as far back as 10,000 years ago.
+- *(Cam 20 · T2 · P3)* In response, MLB decided to tweak the dimensions of the zone, and the following year the consensus was that ABS **is** profoundly consistent.
+- *(Cam 20 · T3 · P2)* Samples of the planet’s most spectacular corals – vivid green branching coral, yellow scroll, blue ridge and many more species – have been added to the giant tank along with fish that **thrive** in their presence: blue tang, clownfish and many others.
+- *(Cam 20 · T3 · P2)* And ‘when things **start** to go wrong in the oceans, then corals will be the first to react.
+- *(Cam 20 · T3 · P3)* Richardson’s response to this question was this: ‘We **need** to ask why fears of artificial intelligence and robots persist; none have in fact risen up and challenged human supremacy.’
+- *(Cam 20 · T4 · P2)* But Susanna Tol of the not-for-profit organisation Wetlands International **says** that, while hugely popular, the majority of mangrove-planting projects fail.
+- *(Cam 20 · T4 · P3)* If necessary, they will chase away predators, but often their mere presence **is** sufficient.
+- *(Cam 20 · T4 · P3)* For example, their presence has been found to protect birds which **build** their nests on the ground in fields, where foxes would normally raid them.
+- *(Cam 21 · T1 · P2)* While some people **experience** altered perception in the tanks, involving subtle humming sounds and visual effects, these effects are benign and do not detract from the benefits of the experience, says Justin Feinstein, a clinical neuropsychologist.
+- *(Cam 21 · T1 · P3)* Bosma **discusses** all the sugar-growing places of the world, beginning with Cuba and Java, the largest exporters of the early 20th century.
+- *(Cam 21 · T2 · P1)* Our muscles also **twitch** slightly, though they are largely paralysed so we don't hurt ourselves.
+- *(Cam 21 · T2 · P1)* The trouble **is** that we will never be able to experience any animal's dreams.
+- *(Cam 21 · T2 · P2)* Other discoveries **include** small jewellery items made from locally sourced copper.
+- *(Cam 21 · T2 · P3)* Similarly, Rodney Brooks, professor of robotics at Massachusetts Institute of Technology, **writes** that 'almost all innovations in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine'.
+- *(Cam 21 · T3 · P1)* Another threat to the survival of the saiga **is** loss of habitat, as a result of agricultural expansion and human settlement.
+- *(Cam 21 · T3 · P2)* Nearly all the expansion is happening on the periphery, and nearly all **takes** place informally without any agreed strategy.
+- *(Cam 21 · T3 · P3)* Discoveries have come thick and fast over the last decade or so, and these have forced us to rethink many crucial points, such as how old our species **is** – about 300,000 years old as opposed to 200,000 – and what extinct hominins, such as our cousins the Neanderthals, were really like.
 
 <a id="p2"></a>
 
 ### 2. Quá khứ đơn
 
-<small>1921 câu · hiện 150</small>
+<small>2112 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* During the sixth and seventh centuries, the inhabitants of the modern-day states of Gujarat and Rajasthan in North-western India **developed** a method of gaining access to clean, fresh groundwater during the dry season for drinking, bathing, watering animals and irrigation.
-- *(Cam 10 · T1 · P2)* The number of cars on European Union (EU) roads **saw** an increase of three million cars each year from 1990 to 2010, and in the next decade the EU will see a further substantial increase in its fleet.
-- *(Cam 10 · T1 · P3)* The smartest scientist **was called** Rosalind Franklin who, Watson said, “was so intelligent she rarely sought advice”.’
-- *(Cam 10 · T2 · P1)* Macfarlanes case has been strengthened by support from notable quarters – Roy Porter, the distinguished medical historian, recently **wrote** a favourable appraisal of his research.
-- *(Cam 10 · T2 · P1)* Efforts to explain this sudden reduction in child deaths **appeared** to draw a blank.’
-- *(Cam 10 · T2 · P1)* Tea **was** relatively expensive until Britain started a direct clipper trade with China in the early 18th century.
-- *(Cam 10 · T2 · P2)* In Boekaerts’ (1991) review of emotion the learning of very high IQ and highly achieving children, she **found** emotional forces in harness.
+- *(Cam 10 · T1 · P2)* And although many candidate countries **inherited** a transport system which encourages rail, the distribution between modes has tipped sharply in favour of road transport since the 1990s.
+- *(Cam 10 · T2 · P1)* Alan Macfarlane, professor of anthropological science at King’s College, Cambridge has, like other historians, **spent** decades wrestling with the enigma of the Industrial Revolution.
+- *(Cam 10 · T2 · P1)* **Was** there a sudden change in the viruses and bacteria around?
+- *(Cam 10 · T2 · P1)* Then it suddenly **dropped** again.
+- *(Cam 10 · T2 · P2)* Research with creative scientists by Simonton (1988) **brought** him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice.
 - *(Cam 10 · T3 · P1)* This growth **led** to the development of a major new industry: tourism.
-- *(Cam 10 · T3 · P3)* The remains of 62 individuals have been uncovered so far, and archaeologists **were** also thrilled to find six complete Lapita pots.
-- *(Cam 10 · T3 · P3)* ‘They could sail out for days into the unknown and assess the area, secure in the knowledge that if they **didn’t find** anything, they could turn about and catch a swift ride back on the trade winds.
-- *(Cam 10 · T4 · P1)* Firefighters’ unions that in the past **complained** of dilapidated equipment, old fire engines, and insufficient blueprints for fire safety are now praising the state’s commitment, noting that funding for firefighting has increased, despite huge cuts in many other programs.
-- *(Cam 10 · T4 · P2)* ‘In my career as a competitive freediver, there **was** a limit to what I could do – but it wasn’t anywhere near what I thought it was/ she says.
-- *(Cam 10 · T4 · P3)* Early 20th-century biologists **came** to a similar conclusion, though they qualified it in terms of probability, stating that there is no reason why evolution cannot run backwards -it is just very unlikely.
-- *(Cam 10 · T4 · P3)* The team **calculated** that there is a good chance of silent genes surviving for up to 6 million years in at least a few individuals in a population, and that some might survive as long as 10 million years.
+- *(Cam 10 · T3 · P3)* DNA **teased** from these human remains may help answer one of the most puzzling questions in Pacific anthropology: did all Pacific islanders spring from one source or many?
+- *(Cam 10 · T3 · P3)* Ahead **lay** the vast emptiness of the central Pacific and perhaps they were too thinly stretched to venture farther.
+- *(Cam 10 · T4 · P2)* He was preparing for university, when he **had** an accident that put an end to his sports career.
+- *(Cam 10 · T4 · P2)* Eventually the manager **was** the one to go.
+- *(Cam 10 · T4 · P3)* Raff’s team **went** on to calculate the likelihood of it happening.
 - *(Cam 11 · T1 · P2)* Numerous ideas **were submitted** for the project, including concepts ranging from rolling eggs to tilting tanks, from giant seesaws to overhead monorails.
-- *(Cam 11 · T2 · P1)* Among the English vessels **was** a warship by the name of Mary Rose .
-- *(Cam 11 · T2 · P1)* Exploring further, he **uncovered** several other timbers and a bronze gun.
-- *(Cam 11 · T2 · P1)* While the original aim **was** to raise the hull if at all feasible, the operation was not given the go-ahead until January 1982, when all the necessary information was available.
-- *(Cam 11 · T2 · P2)* After this remote Pacific island **was settled** by the Polynesians, it remained isolated for centuries.
-- *(Cam 11 · T2 · P2)* US scientist Jared Diamond believes that the Rapanui people – descendants of Polynesian settlers – **wrecked** their own environment.
-- *(Cam 11 · T2 · P2)* And the moai certainly **were**n’t.
+- *(Cam 11 · T2 · P1)* Accounts of what **happened** to the ship vary: while witnesses agree that she was not hit by the French, some maintain that she was outdated, overladen and sailing too low in the water, others that she was mishandled by undisciplined crew.
+- *(Cam 11 · T2 · P1)* While on paper this **was** a plan to examine a number of known wrecks in the Solent, what McKee really hoped for was to find the Mary Rose .
+- *(Cam 11 · T2 · P1)* It **was** only when the hull was hanging freely from the lifting frame, clear of the seabed and the suction effect of the surrounding mud, that the salvage operation progressed to the second stage.
+- *(Cam 11 · T2 · P2)* Local folklore maintains that the statues **walked**, while researchers have tended to assume the ancestors dragged the statues somehow, using ropes and logs.
+- *(Cam 11 · T2 · P2)* When the wood **was gone** and civil war began, the islanders began toppling the moai.
 - *(Cam 11 · T2 · P2)* Then in the nineteenth century slave traders **decimated** the population, which shrivelled to 111 people by 1877.
-- *(Cam 11 · T2 · P3)* In another experiment, Alex Forsythe of the University of Liverpool **analysed** the visual intricacy of different pieces of art, and her results suggest that many artists use a key level of detail to please the brain.
-- *(Cam 11 · T3 · P1)* The rules **were gradually relaxed** over the years until finally during the Qing Dynasty (1644—1911 AD), even peasants, the lowest caste, were also entitled to wear silk.
-- *(Cam 11 · T3 · P1)* The secret of silk-making eventually reached the rest of the world via the Byzantine Empire, which **ruled** over the Mediterranean region of southern Europe, North Africa and the Middle East during the period 330—1453 AD.
-- *(Cam 11 · T3 · P2)* So can the movement of aphids when, having depleted the young leaves on one food plant, their offspring then fly onward to a different host plant, with no one aphid ever returning to where it **started**.
-- *(Cam 11 · T4 · P1)* ‘We forget that 50 years ago things like heart disease **were thought** to be caused entirely by lifestyle.
-- *(Cam 11 · T4 · P3)* If you **were** to ask which bit in the Sumerian word corresponds to the pronoun ‘it’ in the English translation ‘when he had made it suitable for her’, then the answer would have to be nothing.
+- *(Cam 11 · T2 · P3)* This has led some to wonder whether Pollock’s works feel so dynamic because the brain reconstructs the energetic actions the artist **used** as he painted.
+- *(Cam 11 · T3 · P1)* Fishing lines, bowstrings, musical instruments and paper **were all made** using silk.
+- *(Cam 11 · T3 · P1)* The nineteenth century and industrialisation **saw** the downfall of the European silk industry.
+- *(Cam 11 · T4 · P1)* And wherever Bouchard and other scientists **looked**, it seemed, they found the invisible hand of genetic influence helping to shape our lives.
+- *(Cam 11 · T4 · P3)* Language is mankind s greatest invention – except, of course, that it **was never invented**.
 - *(Cam 12 · T2 · P1)* Participants in the online debate **argued** that our biggest challenge is to address the underlying causes of the agricultural system’s inability to ensure sufficient food for all, and they identified as drivers of this problem our dependency on fossil fuels and unsupportive government policies.
-- *(Cam 12 · T2 · P1)* Accordingly, Pat Mooney, co-founder and executive director of the ETC Group, **suggested** that ‘if we are to survive climate change, we must adopt policies that let peasants diversify the plant and animal species and varieties/breeds that make up our menus.’
-- *(Cam 12 · T2 · P2)* Almost all previous travelers had left the river at Ollantaytambo and **taken** a high pass across the mountains to rejoin the river lower down, thereby cutting a substantial corner, but also therefore never passing through the area around Machu Picchu.
-- *(Cam 12 · T2 · P2)* Bingham **made** desperate attempts to prove this belief for nearly 40 years.
-- *(Cam 12 · T3 · P1)* Some time after the Galápagos’s birth, around five million years ago, the islands **were colonised** by one or more tortoises from mainland South America.
-- *(Cam 12 · T3 · P1)* The problem **was** also a pressing one.
-- *(Cam 12 · T3 · P3)* What is rather more significant is the finding that the dopamine neurons in the caudate – a region of the brain involved in learning stimulus-response associations, and in anticipating food and other ‘reward’ stimuli – **were** at their most active around 15 seconds before the participants’ favourite moments in the music.
+- *(Cam 12 · T2 · P1)* One commentator, Giel Ton, **warned** that collective action does not come as a free good.
+- *(Cam 12 · T2 · P2)* The morning **was** dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill.
+- *(Cam 12 · T2 · P3)* In a study of over 200 patients with Alzheimer’s disease, a degenerative brain disease, bilingual patients **reported** showing initial symptoms of the disease an average of five years later than monolingual patients.
+- *(Cam 12 · T3 · P1)* They **hunted** the tortoises and destroyed their habitat to clear land for agriculture.
+- *(Cam 12 · T3 · P1)* Eventually, one tiny tortoise **came** across a fully grown giant who had been lumbering around the island for around a hundred years.
 - *(Cam 12 · T4 · P1)* However, they **guarded** the skills and technology required to make glass very closely, and it was not until their empire collapsed in 476 AD that glass-making knowledge became widespread throughout Europe and the Middle East.
-- *(Cam 12 · T4 · P2)* Nothing **seemed** to fit, until 2006, when an animal bone, dating from around the same period, was found in the Kinsey Cave in northern England.
-- *(Cam 13 · T1 · P1)* The campaign **focused** on New Zealand’s scenic beauty, exhilarating outdoor activities and authentic Maori culture, and it made New Zealand one of the strongest national brands in the world.
-- *(Cam 13 · T1 · P1)* Overall tourism expenditure **increased** by an average of 6.9% per year between 1999 and 2004.
-- *(Cam 13 · T1 · P3)* Composer David Cope **invented** a program called Experiments in Musical Intelligence, or EMI.
-- *(Cam 13 · T1 · P3)* This **was** true even among the experts, who might have been expected to be more objective in their analyses.
-- *(Cam 13 · T2 · P1)* European traders **sailed** there to purchase their supply of cinnamon, then brought it back to Venice.
+- *(Cam 12 · T4 · P2)* But the 2006 find, together with three others in Yorkshire and Scotland, is compelling evidence that the lynx and the mysterious llewyn **were** in fact one and the same animal.
+- *(Cam 13 · T1 · P1)* As the site **developed**, additional features were added to help independent travelers devise their own customised itineraries.
+- *(Cam 13 · T1 · P2)* It seems those who **bore** easily face poorer prospects in education, their career and even life in general.
+- *(Cam 13 · T1 · P3)* But why **did so many people love** the music, yet recoil when the discovered how it was composed?
+- *(Cam 13 · T2 · P1)* They **took** it from India, where it was grown, on camels via an overland route to the Mediterranean.
 - *(Cam 13 · T2 · P1)* When the Dutch **arrived** off the coast of southern Asia at the very beginning of the 17th century, the set their sights on displacing the Portuguese as kings of cinnamon.
-- *(Cam 13 · T2 · P2)* They **discovered** that it helps reinforce the bonds between prairie voles, which mate for life, and triggers the motherly behaviour that sheep show towards their newborn lambs.
-- *(Cam 13 · T2 · P2)* So, it appears that oxytocin strengthens biases, rather than promoting general goodwill, as **was previously thought**.
-- *(Cam 13 · T3 · P1)* These problems have led to the intriguing suggestion that coconuts **originated** on coral islands in the Pacific and were dispersed from there.
-- *(Cam 13 · T3 · P2)* This way, only the impact of the auditory cues **was observed**.
-- *(Cam 13 · T3 · P3)* Then around 2100 BC, a transformation **began**.
-- *(Cam 13 · T3 · P3)* They are analysing grains cultivated at the time, and trying to work out whether they **were grown** under extreme conditions of water stress, and whether they were adjusting the combinations of crops they were growing for different weather systems.
+- *(Cam 13 · T2 · P2)* In a groundbreaking experiments, Markus Heinrichs and his colleagues at the University of Freiburg, Germany, **asked** volunteers to do an activity in which they could invest money with an anonymous person who was not guaranteed to be honest.
+- *(Cam 13 · T2 · P3)* Instead, they **initiated** a consumer-research project which revealed that customers were eager to lift themselves and the country out of tough times.
+- *(Cam 13 · T3 · P2)* The study **found** that the more baby talk parents used, the more their youngsters began to babble.
+- *(Cam 13 · T3 · P3)* The Harappan Civilisation **was** a sophisticated Bronze Age society who built ‘megacities’ and traded internationally in luxury craft products, and yet seemed to have left almost no depictions of themselves.
+- *(Cam 13 · T3 · P3)* While it is possible that these local-scale processes **were linked**, the real archaeological interest lies in understanding the impact of these larger-scale events on different environments and different populations.
 - *(Cam 13 · T4 · P1)* Willis’s company **was** active in the tea trade between China and Britain, where speed could bring shipowners both profits and prestige, so Cutty Sark was designed to make the journey more quickly than any other ship.
-- *(Cam 13 · T4 · P1)* By 1878, tea traders **were**n’t interested in Cutty Sark , and instead, she took on the much less prestigious work of carrying any cargo between any two ports in the world.
-- *(Cam 13 · T4 · P1)* Wilfred Dowman, a retired sea captain who **owned** a training vessel, recognised her and tried to buy her, but without success.
-- *(Cam 13 · T4 · P2)* Researchers at the University of Valladolid in Spain recently **used** this cocktail on soils destroyed by years of fertiliser overuse.
-- *(Cam 13 · T4 · P3)* His celebrated design for a prison to be known as a ‘Panopticon’, in which prisoners would be kept in solitary confinement while being visible at all times to the guards, **was very nearly adopted**.
-- *(Cam 14 · T1 · P1)* In my previous research, I **investigated** how observing children at play can give us important clues about their well-being and can even be useful in the diagnosis of neurodevelopmental disorders like autism.’
-- *(Cam 14 · T1 · P2)* Luud Schimmelpennink, a Dutch industrial engineer who still lives and cycles in Amsterdam, **was** heavily involved in the original scheme.
+- *(Cam 13 · T4 · P1)* He **was suspended** from service, and a new captain appointed.
+- *(Cam 13 · T4 · P1)* When she **was no longer required**, in 1954, she was transferred to dry dock at Greenwich to go on public display.
+- *(Cam 13 · T4 · P3)* The Greek philosopher Aristotle may have identified happiness with self-realisation in the 4th century BC, and thinkers throughout the ages may have struggled to reconcile the pursuit of happiness with other human values, but for Bentham all this **was** mere metaphysics or fiction.
+- *(Cam 13 · T4 · P3)* When he **became** president of the American Psychological Association in 1915, he ‘had never even studied a single human being’: his research had been confined to experiments on white rats.
+- *(Cam 14 · T1 · P2)* They also **distributed** leaflets describing the dangers of cars and inviting people to use the white bikes.
 - *(Cam 14 · T1 · P2)* ‘They **said** that the bicycle belongs to the past.
-- *(Cam 14 · T1 · P2)* ‘I remember when we were testing the bike racks, he **announced** that he had already designed better ones.
-- *(Cam 14 · T1 · P2)* The huge and unexpected success of the Parisian bike-sharing programme, which now boasts more than 20,000 bicycles, **inspired** cities all over the world to set up their own schemes, all modelled on Schimmelpennink’s.
-- *(Cam 14 · T2 · P1)* The family **had** extensive landholding in Scotland.
-- *(Cam 14 · T2 · P1)* In spite of their friendship, their styles of photography **were** quite different.
-- *(Cam 14 · T2 · P1)* In 1878 his work **won** second prize at the world exhibition in Paris.
-- *(Cam 14 · T2 · P1)* He **continued** in this post until 1897, when he retired completely from photography.
+- *(Cam 14 · T1 · P2)* The system, however, **was** prone to vandalism and theft.
+- *(Cam 14 · T1 · P2)* ‘In the ‘60s we **didn’t stand** a chance because people were prepared to give their lives to keep cars in the city.
+- *(Cam 14 · T2 · P1)* In October 1855, however, he **emigrated** to Canada with his wife Agnes Elder Robertson and they settled in Montreal.
+- *(Cam 14 · T2 · P1)* There **was** little competing hobby or amateur photography before the late 1880s because of the time-consuming techniques involved and the weight of equipment.
+- *(Cam 14 · T2 · P1)* His duties **included** spending four months in the field each year.
 - *(Cam 14 · T2 · P2)* The prosperous **steered** clear of hospitals.
-- *(Cam 14 · T3 · P2)* Pharmaceutical science and chemistry built on these ancient foundations and **perfected** the extraction, characterization, modification and testing of these natural products.
-- *(Cam 14 · T4 · P1)* She **tested** how ants responded to light and also measured how active they were by counting how often ants in a small dish walked across a line.
-- *(Cam 14 · T4 · P1)* ‘This is the first time anyone has looked at both behavioral and neural changes in these ants so thoroughly,’ says Giraldo, who recently **published** the findings in the Proceeding of the Royal Society B .
-- *(Cam 14 · T4 · P3)* Strikingly, Rochman says, only one well-designed study **failed** to find the effect it was looking for, an investigation of mussels ingesting microscopic bits.
-- *(Cam 15 · T1 · P1)* They **sold** nutmeg for high prices to merchants based in Venice, but they never revealed the exact location of the source of this extremely valuable commodity.
-- *(Cam 15 · T1 · P1)* Nutmeg **bought** for a few pennies in Indonesia could be sold for 68,000 times its original cost on the streets of London.
+- *(Cam 14 · T3 · P3)* Indeed, play is such an instrumental component to healthy child development that the United Nation High Commission on Human Rights (1989) **recognized** play as a fundamental right of every child.
+- *(Cam 14 · T4 · P1)* They all **responded** do light well, and the older ants were more active.
+- *(Cam 14 · T4 · P3)* ‘But the truth **was** that nobody had yet tested those perceived threats,’ Rochman says.
+- *(Cam 14 · T4 · P3)* But a recent paper **used** simulations to show that strategically positioning the cleanup devices closer to shore would more effectively reduce pollution over the long term.
+- *(Cam 15 · T1 · P1)* Doctors **were** desperate for a way to stop the spread of this disease, and they decided nutmeg held the cure.
 - *(Cam 15 · T1 · P1)* After decades of fighting for control of this tiny island, the Dutch and British **arrived** at a compromise settlement, the Treaty of Breda, in 1667.
-- *(Cam 15 · T1 · P2)* One frequently **cited** motive is safety; indeed, research at the UK’s Transport Research Laboratory has demonstrated that more than 90 percent of road collisions involve human error as a contributory factor, and it is the primary cause in the vast majority.
-- *(Cam 15 · T1 · P3)* Wilfred Thesiger, who **crossed** Arabia’s Empty Quarter in 1946, and belongs to an era of unmechanised travel now lost to the rest of us, told me, ‘If I’d gone across by camel when I could have gone by car, it would have been a stunt.’
-- *(Cam 15 · T2 · P2)* The passenger pigeon **was** a legendary species.
-- *(Cam 15 · T2 · P3)* These **were intended** to help people at home feel like they were in a social situation, such as a crowded theatre.
-- *(Cam 15 · T2 · P3)* Another study, conducted by David Cheng and Lu Wang of Australian National University, **was based** on the hypothesis that humour might provide a respite from tedious situations in the workplace.
-- *(Cam 15 · T3 · P1)* He **was** the seventh child of Raymond Moore and his wife Mary Baker.
+- *(Cam 15 · T1 · P3)* Long before the first caveman **slumped** down beside the fire and grunted news that there were plenty of wildebeest over yonder, our ancestors had learnt the value of sending out scouts to investigate the unknown.
+- *(Cam 15 · T1 · P3)* But none of these things is of the slightest interest to anyone unless, through my books, I’ve found a new slant, **explored** a new idea.
+- *(Cam 15 · T2 · P2)* A more practical approach for long-extinct species is to take the DNA of existing species as a template, ready for the insertion of strands of extinct animal DNA to create something new; a hybrid, based on the living species, but which looks and/or acts like the animal which **died** out.
+- *(Cam 15 · T2 · P3)* In their study, 48 male college students **were randomly assigned** to groups of four, with each group composed of two low-status members, who had just joined their college fraternity group, and two high-status members, older student took a turn at being teased by the others, involving the use of mildly insulting nicknames.
+- *(Cam 15 · T2 · P3)* Again, participants who **watched** the humorous video spent significantly more time working on this tedious task and completed more questions correctly than did the students in either of the other groups.
 - *(Cam 15 · T3 · P1)* After graduating, Moore **spent** the first six months of 1925 travelling in France.
-- *(Cam 15 · T3 · P1)* Throughout the 1930s, Moore **did not show** any inclination to please the British public.
-- *(Cam 15 · T3 · P1)* Critics who had begun to think that Moore had become less revolutionary **were proven** wrong by the appearance, in 1950, of the first of Moore’s series of standing figures in bronze, with their harsh and angular pierced forms and distinct impression of menace.
-- *(Cam 15 · T3 · P3)* Checking for variants of these two tales and similar stories from Africa, East Asia and other regions, he **ended** up with 58 stories recorded from oral traditions.
-- *(Cam 15 · T4 · P1)* For centuries the huarango tree **was** vital to the people of the neighbouring Middle Ica Valley too.
-- *(Cam 15 · T4 · P2)* They **had** nothing to grab onto, so multiple areas of their brains were activated.’
-- *(Cam 16 · T1 · P1)* They **discovered** that pregnant bears were able to increase the density of their bones before they started to build their dens.
+- *(Cam 15 · T3 · P1)* At times, he **seemed** to abandon the human figure altogether.
+- *(Cam 15 · T3 · P1)* Moore **was** the first modern English sculptor to achieve international critical acclaim and he is still regarded as one of the most important sculptors of the 20th century.
+- *(Cam 15 · T3 · P3)* But the really big surprise **came** when he looked at the cautionary elements of the story.
+- *(Cam 15 · T4 · P2)* The study team **used** neuroimaging equipment to contrast the brain activity of silbadores while listening to whistled and spoken Spanish.
+- *(Cam 15 · T4 · P3)* In the past, businesses have changed when the public **came** to expect and require different behavior, to reward businesses for behavior that the public wanted, and to make things difficult for businesses practicing behaviors that the public didn’t want.
 - *(Cam 16 · T1 · P2)* The Step Pyramid has been thoroughly examined and investigated over the last century, and it is now known that the building process **went** through many different stages.
-- *(Cam 16 · T1 · P2)* Over 40,000 of these vessels, of various forms and shapes, **were discovered** in storerooms off the pyramid’s underground passages.
-- *(Cam 16 · T1 · P3)* However, the company had started using a(n) … algorithm that **defined** when account managers should contact certain customers about which kinds of campaigns and what to offer them.’
-- *(Cam 16 · T2 · P1)* Nevertheless, the horse **had** great ritual and economic significance during the Bronze and Iron Ages, as attested by its depictions on jewellery and other metal objects.
-- *(Cam 16 · T2 · P3)* For example, in one experiment that **took** place during the peak of a recent economic recession, graduating college seniors were asked to reflect on their job prospects.
-- *(Cam 16 · T3 · P1)* This method **was** more systematic and dramatically shortened ship construction times.
-- *(Cam 16 · T3 · P1)* It is worth noting that contrary to popular perception, rowers **were** not slaves but mostly Roman citizens enrolled in the military.
+- *(Cam 16 · T1 · P2)* There is no agreement among scholars and archaeologists on why the vessels **were placed** in the tomb of Djoser or what they were supposed to represent.
+- *(Cam 16 · T2 · P1)* The method of cutting these huge figures **was** simply to remove the overlying grass to reveal the gleaming white chalk below.
+- *(Cam 16 · T2 · P2)* For most of human history we **had** no idea that microbes existed.
+- *(Cam 16 · T3 · P1)* Studies of these have taught us that ancient Roman shipbuilders **built** the outer hull first, then proceeded with the frame and the rest of the ship.
+- *(Cam 16 · T3 · P1)* It **had** rowers in the top, middle and lower levels, and approximately 50 rowers in each bank.
 - *(Cam 16 · T3 · P1)* In conditions of good visibility, seamen in the Mediterranean often **had** the mainland or islands in sight, which greatly facilitated navigation.
-- *(Cam 16 · T3 · P2)* At the edges of the contracting ice patches, archaeologists **found** more than 2,000 artefacts, which formed a material record that ran from 4,000 BCE to the beginnings of the Renaissance in the 14th century.
-- *(Cam 16 · T3 · P3)* Wigge believes phytochrome thermo-sensing **evolved** at a later stage, and co-opted the biological network already used for light-based growth during the downtime of night.
-- *(Cam 16 · T4 · P1)* To ensure that the shafts **were** vertical, Romans hung a plumb line from a rod placed across the top of each shaft and made sure that the weight at the end of it hung in the center of the shaft.
-- *(Cam 16 · T4 · P1)* Roman tunnel projects **were carefully planned** and carried out.
-- *(Cam 16 · T4 · P2)* We should be less concerned with students’ ‘cognitive impatience’, however, than by what may underlie it: the potential inability of large numbers of students to read with a level of critical analysis sufficient to comprehend the complexity of thought and argument **found** in more demanding texts.
-- *(Cam 16 · T4 · P3)* It **was found** that, regardless of whether the film they watched depicted AI in a positive or negative light, simply watching a cinematic vision of our technological future polarised the participants’ attitudes.
+- *(Cam 16 · T3 · P2)* Barrett’s team radiocarbon-dated 153 of the artefacts and **compared** those dates to the timing of major environmental changes in the region – such as periods of cooling or warming – and major social and economic shifts – such as the growth of farming settlements and the spread of international trade networks leading up to the Viking Age.
+- *(Cam 16 · T4 · P1)* The Persians, who **lived** in present-day Iran, were one of the first civilizations to build tunnels that provided a reliable supply of water to human settlements in dry areas.
+- *(Cam 16 · T4 · P1)* Adjustments to the direction of the tunnel also **had** to be made whenever builders encountered geological problems or when it deviated from its set path.
+- *(Cam 16 · T4 · P1)* For example, the 1.4-kilometer Çevlik tunnel in Turkey, built to divert the floodwater threatening the harbor of the ancient city of Seleuceia Pieria, **had** inscriptions on the entrance, still visible today, that also indicate that the tunnel was started in 69 CE and was completed in 81 CE.
+- *(Cam 16 · T4 · P3)* And the machine wouldn’t be able to explain why its treatment **was** plausible because its machine-learning algorithms were simply too complex to be fully understood by humans.
 - *(Cam 17 · T1 · P1)* He **saw** both social and economic advantages in building an underground railway that would link the overground railway stations together and clear London slums at the same time.
-- *(Cam 17 · T1 · P1)* Originally scheduled to be completed in 21 months, the construction of the underground line **took** three years.
-- *(Cam 17 · T1 · P1)* The ‘cut and cover’ method of construction **was** not an option in this part of the capital.
-- *(Cam 17 · T1 · P2)* Construction costs can soar above £1 billion, and stadiums **finished** for major events such as the Olympic Games or the FIFA World Cup have notably fallen into disuse and disrepair.
-- *(Cam 17 · T1 · P3)* After being comprehensively defeated on the meadows outside the city by the Parliamentarian army, the 21-year-old king **found** himself the subject of a national manhunt, with a huge sum offered for his capture, through a series of heart-poundingly close escapes, to evade the Parliamentarians before seeking refuge in France.
-- *(Cam 17 · T1 · P3)* A series of enormous oil paintings depicting the episode **were produced**, including a two-metre-wide canvas of Boscobel Wood and a set of six similarly enormous paintings of the king on the run.
-- *(Cam 17 · T2 · P1)* According to the prevailing theory, they are the work of a population that **inhabited** the area until Roman troops destroyed the settlement around 70 CE.
+- *(Cam 17 · T1 · P1)* A trench about ten metres wide and six metres deep **was dug**, and the sides temporarily help up with timber beams.
+- *(Cam 17 · T1 · P1)* The line **opened** in 1890, and ran from the City to Stockwell, south of the River Thames.
+- *(Cam 17 · T1 · P2)* But rather than reverting to an arena, it **became** a market square, designed by Romanticist architect Lorenzo Nottolini.
+- *(Cam 17 · T1 · P3)* This **was** partly because he rode at the head of what looked like a foreign invasion force and partly because, after almost a decade of civil war, people were desperate to avoid it beginning again.
+- *(Cam 17 · T2 · P1)* It soon **became** clear that this was one of the greatest archaeological discoveries ever made.
 - *(Cam 17 · T2 · P1)* The university’s Eshbal Ratson and Jonathan Ben-Dov **spent** one year reassembling the 60 fragments that make up the scroll.
-- *(Cam 17 · T2 · P2)* But Kudla **didn’t want** to reveal which species were in his team’s sights, because CRISPR has made the process so easy.
-- *(Cam 17 · T2 · P3)* The Law of Effect **was advanced** by psychologist Edward Thorndike in 1898, some 40 years after Charles Darwin published his groundbreaking work on biological evolution, On the Origin of Species .
-- *(Cam 17 · T3 · P1)* The thylacine, like all marsupials, **was** tiny and hairless when born.
-- *(Cam 17 · T3 · P1)* A notable exception **was** T.T. Flynn, Professor of Biology at the University of Tasmania.
-- *(Cam 17 · T3 · P3)* Later in the book, Barr makes the claim that the depth of bedrock **was** not a limiting factor for developers, as foundation costs were a small fraction of the cost of development.
-- *(Cam 17 · T4 · P1)* The recordings **revealed** that bat activity over rice fields was much higher than it was in continuous forest – seven times higher over rice fields which were on flat ground, and sixteen times higher over fields on the sides of hills – leaving no doubt that the animals are preferentially foraging in these man-made ecosystems.
+- *(Cam 17 · T2 · P3)* These successes are all the more noteworthy given the fact that Nicholson **was** wrong about the presence of proto-elements: they do not actually exist.
+- *(Cam 17 · T3 · P1)* The thylacine **appeared** to occupy most types of terrain except dense rainforest, with open eucalyptus forest thought to be its prime habitat.
+- *(Cam 17 · T3 · P1)* The dramatic decline of the thylacine in Tasmania, which **began** in the 1830s and continued for a century, is generally attributed to the relentless efforts of sheep farmers and bounty hunters with shotguns.
+- *(Cam 17 · T3 · P2)* Is it desirable to have palm oil boycotted, replaced, **eliminated** from the global supply chain, given how many low-income people in developing countries depend on it for their livelihoods?
+- *(Cam 17 · T4 · P1)* The study, now published in the journal Agriculture, Ecosystems and Environment , **set** out to investigate the feeding activity of insectivorous bats in the farmland bordering the Ranomafana National Park in the southeast of the country.
 - *(Cam 17 · T4 · P2)* Ogilvie and her team have been building the vast database of material possessions on top of their full demographic reconstruction of the people who **lived** in these two German communities.
-- *(Cam 17 · T4 · P2)* In villages throughout the region, guilds **blocked** labour migration and resisted changes that might reduce their influence.
-- *(Cam 17 · T4 · P3)* ‘You recreate it in your mind,’ **said** Gareyev.
-- *(Cam 18 · T1 · P1)* From identical vertical tubes nearby **burst** row upon row of lettuces; near those are aromatic herbs, such as basil, sage and peppermint.
-- *(Cam 18 · T1 · P3)* Jah says that it is almost impossible to tell which is correct, unless a third source of information **made** it possible to cross-correlate.
-- *(Cam 18 · T2 · P1)* Radiocarbon dating has revealed that work **continued** at Stonehenge until roughly 1600 BCE, with the bluestones in particular being repositioned multiple times.
-- *(Cam 18 · T2 · P1)* More recently, signs of illness and injury in the human remains unearthed at Stonehenge **led** a group of British archaeologists to speculate that it was considered a place of healing, perhaps because bluestones were thought to have curative powers.
+- *(Cam 17 · T4 · P3)* He **won** 29 and lost none.
+- *(Cam 17 · T4 · P3)* ‘We **didn’t find** anything other than playing chess that he seems to be supremely gifted at.’
+- *(Cam 18 · T1 · P1)* Produce **grown** this way typically sells at prices that, while generally higher than those of classic intensive agriculture, are lower than soil-based organic growers.
+- *(Cam 18 · T2 · P1)* As early as the 1970s, geologists have been adding their voices to the debate over how Stonehenge **came** into being.
+- *(Cam 18 · T2 · P1)* In the 1960s, the astronomer Gerald Hawkins **suggested** that the cluster of megalithic stones operated as a form of calendar, with different points corresponding to astrological phenomena such as solstices, equinoxes and eclipses occurring at different times of the year.
 - *(Cam 18 · T2 · P3)* Following a typical Renaissance trend, he **began** to work on an ‘ideal city’ project, which – due to its excessive costs – would remain unfulfilled.
-- *(Cam 18 · T2 · P3)* While in the upper layers of the city, people could walk undisturbed between elegant palaces and streets, the lower layer **was** the place for services, trade, transport and industry.
-- *(Cam 18 · T3 · P2)* But these early cars **inherited** steam’s weaknesses along with its strengths.
-- *(Cam 18 · T3 · P2)* Though the Doble boys’ third prototype, nicknamed the Model B, still **lacked** the convenience of an internal combustion engine, it drew the attention of automobile trade magazines due to its numerous improvements over previous steam cars.
-- *(Cam 18 · T3 · P2)* The brothers **made** one final attempt to produce a viable steam automobile.
-- *(Cam 18 · T3 · P3)* If we put all the kids who **needed** literacy support into one class, and all the students who want to discuss the virtue of moderation into another?
-- *(Cam 18 · T4 · P2)* All **were told** that they had achieved a high score on a test but the first group were praised for their intelligence in achieving this, while the others were praised for their effort.
+- *(Cam 18 · T2 · P3)* Leonardo **designed** extensive hydraulic plants to create artificial canals throughout the city.
+- *(Cam 18 · T3 · P2)* But the glory days of steam cars **were** few.
+- *(Cam 18 · T3 · P2)* The brothers **added** features such as a key-based ignition in the cabin, eliminating the need for the operator to manually ignite the boiler.
+- *(Cam 18 · T3 · P2)* Plus, it is said that no two Model Es **were** quite the same, because Abner Doble tinkered endlessly with the design.
+- *(Cam 18 · T4 · P2)* As educationalist Jeff Howard **noted** several decades ago: ‘Smart is not something that you just are, smart is something that you can get.’
 - *(Cam 18 · T4 · P3)* When he **proposed** the theory of continental displacements in 1912, he was a lecturer in physics and astronomy at the University of Marburg, in southern Germany.
-- *(Cam 18 · T4 · P3)* The more such material a scientist leaves behind, the better chance a biographer has of forming an accurate picture of how a scientist’s ideas **took** shape and evolved.
-- *(Cam 19 · T1 · P1)* At one time, all tennis rackets **were strung** with natural gut made from the outer layer of sheep or cow intestines.
-- *(Cam 19 · T1 · P2)* Thus, it is not surprising that during hardships, these men **turned** to piracy.
-- *(Cam 19 · T1 · P2)* The king **assured** Akhenaten he was prepared to punish any of his subjects involved in piracy.
-- *(Cam 19 · T1 · P2)* But this arrangement could work only while the pirates **left** Roman interests alone.
-- *(Cam 19 · T1 · P3)* Descartes **argued** that a person only accepts or rejects information after considering its truth or falsehood; Spinoza argued that people accept all encountered information (or misinformation) by default and then subsequently verify or reject it through a separate cognitive process.
+- *(Cam 19 · T1 · P1)* It **was** an incredible achievement by any standard – made even more remarkable by the fact that he did this during a period considered to be one of the strongest in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few.
+- *(Cam 19 · T1 · P1)* The professional Portuguese player Gonçalo Oliveira **replaced** the original grips of his rackets with something thinner because they had previously felt uncomfortable to hold.
+- *(Cam 19 · T1 · P2)* Some of the regions **were known** for providing safe harbours to pirates, who, in return, boosted the local economy.
+- *(Cam 19 · T1 · P2)* The Greeks’ liberal approach towards piracy does not mean they always **tolerated** it, but attempts to curtail piracy were hampered by the large number of pirates operating in the Mediterranean.
+- *(Cam 19 · T1 · P2)* Instead of a maritime menace, Rome **got** productive farmers that further boosted its economy.
 - *(Cam 19 · T2 · P1)* In addition, steam-powered boats and ships **were widely used** to carry goods along Britain’s canals as well as across the Atlantic.
-- *(Cam 19 · T2 · P1)* The impact of the Industrial Revolution on people’s lives **was** immense.
-- *(Cam 19 · T2 · P1)* The unrest finally **reached** its peak in April 1812, when a few Luddites were shot during an attack on a mill near Huddersfield.
-- *(Cam 19 · T2 · P3)* She **loved** novels and would read anything she could lay her hands on.
-- *(Cam 19 · T2 · P3)* Bloom’s outstanding people had worked very hard and consistently at something they had become hooked on when at a young age, and their parents all **emerged** as having strong work ethics themselves.
-- *(Cam 19 · T3 · P1)* It also **seemed** likely that these islands were crucial ‘stepping stones’ on humans’ island-hopping voyages through this region millennia ago.
-- *(Cam 19 · T3 · P1)* Roughly 11,700 years ago, as the most recent ice age **ended**, the climate became significantly warmer and wetter, no doubt making Obi’s jungle much thicker.
+- *(Cam 19 · T2 · P1)* This rapid urbanisation **brought** significant challenges, as overcrowded cities suffered from pollution and inadequate sanitation.
+- *(Cam 19 · T2 · P2)* So, in Emma Raducanu’s case, a much larger audience, higher expectations and facing a more skilful opponent, may all have led her to feel there **were** greater demands being placed on her at Wimbledon – but she didn’t have the resources to tackle them.
+- *(Cam 19 · T2 · P3)* Einstein **was** slow to talk as a baby.
+- *(Cam 19 · T3 · P1)* In early April 2019, Dr Ceri Shipton and his colleagues from Australian National University **became** the first archaeologists to explore Obi, one of many tropical islands in Indonesia’s Maluku Utara province.
+- *(Cam 19 · T3 · P1)* At this time the climate **was** drier and colder than today, and the island’s dense rainforests would likely have been much less impenetrable than they are now.
 - *(Cam 19 · T3 · P1)* It seems likely, in view of Obi’s location, that this final phase of occupation also **saw** the Kelo shelters used by people involved in the historic trade in spices between the Maluku islands and the rest of the world.
-- *(Cam 19 · T4 · P1)* This **provided** information on 130 species of butterflies in Great Britain every year for a 20-year period.
-- *(Cam 19 · T4 · P3)* This bleak view of human nature is closely associated with the science writer Richard Dawkins, whose 1976 book The Selfish Gene **became** popular because it fitted so well with – and helped to justify – the competitive and individualistic ethos that was so prevalent in late 20th-century societies.
-- *(Cam 19 · T4 · P3)* These **were** the traits that were prevalent in human life for tens of thousands of years.
-- *(Cam 20 · T1 · P1)* A great deal of habitat **was lost** through forest clearance, and introduced species such as deer depleted the remaining forests of food.
-- *(Cam 20 · T1 · P1)* There **were** about 200 individuals, and in 1980 it was confirmed females were also present.
-- *(Cam 20 · T1 · P1)* For the first time, there **was** cautious optimism for the future of kākāpō and by June 2020, a total of 210 birds was recorded.
+- *(Cam 19 · T4 · P1)* The data also, crucially, **allowed** researchers to estimate subtle changes in what time of the year each species was changing into an adult butterfly.
+- *(Cam 19 · T4 · P3)* It’s important to remember that in the prehistoric era, the world **was very sparsely populated**.
+- *(Cam 20 · T1 · P1)* However, this all **changed** with the arrival of the first Polynesian settlers about 700 years ago.
+- *(Cam 20 · T1 · P1)* Six **were caught**, but there were no females amongst them and all but one died within a few months of captivity.
+- *(Cam 20 · T1 · P1)* This **involved** moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks.
 - *(Cam 20 · T1 · P2)* Elm **was** also the preferred material for shields and early swords.
-- *(Cam 20 · T1 · P3)* Under these conditions, they **became** hyper-vigilant to bad news, even when it had nothing to do with their job (such as learning that the likelihood of card fraud was higher than they’d thought), and altered their beliefs in response.
-- *(Cam 20 · T2 · P2)* But the behaviour that procrastination **was most closely linked** with was using fraudulent excuses to get deadline extensions.
+- *(Cam 20 · T1 · P3)* Back in our lab, we **observed** the same pattern in students who were told they had to give a surprise public speech, which would be judged by a panel, recorded and posted online.
+- *(Cam 20 · T2 · P3)* Major League Baseball (MLB), who had commissioned the system, **wanted** human umpires to announce the calls, just as they would have done in the past.
+- *(Cam 20 · T2 · P3)* Sword’s team **brainstormed** potential fixes.
+- *(Cam 20 · T3 · P1)* Then the gas **was released** quickly into a low-pressure evaporator coil where it became liquid and cold.
+- *(Cam 20 · T3 · P1)* Birdseye **was** responsible for several key innovations that made the frozen food industry possible.
+- *(Cam 20 · T3 · P1)* In 1954, the company **adapted** some of Birdseye’s freezing techniques, and with the help of a clever name and a huge advertising budget, it launched the first ‘TV Dinner’.
+- *(Cam 20 · T3 · P3)* Wolpert’s response **was** to say that we have already seen the damaging effects of artificial intelligence in the form of computer viruses.
+- *(Cam 20 · T4 · P1)* After attending university and then training college, she **became** an art teacher and taught in elementary schools, high schools, and colleges in Virginia, Texas, and South Carolina from 1911 to 1918.
+- *(Cam 20 · T4 · P1)* Over the next two decades she **made** almost annual trips to New Mexico, staying up to six months there, painting in relative solitude, then returning to New York each winter to exhibit the new work at Stieglitz’s gallery.
+- *(Cam 20 · T4 · P1)* O’Keeffe **died** in 1986 at the age of ninety-eight, but her rich legacy of some 900 paintings has continued to attract subsequent generations of artists and art lovers who derive inspiration from these very American images.
+- *(Cam 20 · T4 · P3)* When guard dogs **were introduced**, more than 90 per cent of farmers reported a dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators.
+- *(Cam 21 · T1 · P1)* Quite simply, high quality Old Master works **were**, if not beyond their means, then beyond what they were willing to pay for them.
+- *(Cam 21 · T1 · P1)* Yet they **didn't feel** obliged to follow fashionable tastes and were free to pursue their own preferences.
+- *(Cam 21 · T1 · P2)* Participants **reported** decreases in muscle tension, pain and symptoms of their conditions after a single, 1-hour float, alongside an increase in feelings of relaxation and overall wellbeing.
+- *(Cam 21 · T1 · P3)* But sugar production **was** never just a matter of agriculture.
+- *(Cam 21 · T2 · P1)* In 2019, while making a documentary, David Scheel of Alaska Pacific University in the USA **housed** an octopus named Heidi in a tank in his living room.
+- *(Cam 21 · T2 · P2)* The kings of Mapungubwe **were buried** at the top of the hill site in a demarcated area away from the dwellings, while other members of the community were buried at the surrounding valley level.
+- *(Cam 21 · T2 · P2)* Certainly, the areas that now prospered **were** to the north, such as Great Zimbabwe.
+- *(Cam 21 · T3 · P1)* In 2015, an outbreak of haemorrhagic septicaemia, caused by the normally harmless bacterium Pasteurella multocida, **killed** over 75% of the global adult saiga population in just three weeks.
+- *(Cam 21 · T3 · P3)* And the other is that we have badly misunderstood gender roles in prehistoric societies, imposing patriarchal values onto cultures that **had** very different ideas about how women should behave.
+- *(Cam 21 · T3 · P3)* The first birds **were**n't great at flying, and the first mobile phones weren't great at, well, anything really.
+- *(Cam 21 · T4 · P1)* There, with no natural predators and perfect temperature conditions, the plant **began** spreading in the open water, blocking fishing routes and providing a new habitat for disease-carrying mosquitoes.
+- *(Cam 21 · T4 · P3)* It **ended** with his establishing the world's only bespoke globemaking company.
 
 <a id="p3"></a>
 
 ### 3. Hiện tại hoàn thành
 
-<small>482 câu · hiện 150</small>
+<small>540 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* Down the centuries, thousands of wells were constructed throughout northwestern India, but the majority **have now fallen** into disuse; many are derelict and dry, as groundwater has been diverted for industrial use and the wells no longer reach the water table.
 - *(Cam 10 · T1 · P1)* Today, following years of neglect, many of these monuments to medieval engineering **have been saved** by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country’s rich history.
@@ -495,7 +495,7 @@
 
 ### 4. Hiện tại tiếp diễn
 
-<small>206 câu · hiện 150</small>
+<small>229 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P2)* This has reached such a pitch that today rail freight services **are facing** marginalisation, with just 8% of market share, and with international goods trains struggling along at an average speed of 18km/h.
 - *(Cam 10 · T1 · P3)* ‘If your project **is being resisted**, for example, by a group of veteran employees, ask another old-timer to speak up for it.’
@@ -652,7 +652,7 @@
 
 ### 5. Tương lai đơn
 
-<small>175 câu · hiện 150</small>
+<small>191 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P2)* The number of cars on European Union (EU) roads saw an increase of three million cars each year from 1990 to 2010, and in the next decade the EU **will see** a further substantial increase in its fleet.
 - *(Cam 10 · T1 · P2)* The strong economic growth expected in countries which are candidates for entry to the EU **will also increase** transport flows, in particular road haulage traffic.
@@ -809,7 +809,7 @@
 
 ### 6. Quá khứ hoàn thành
 
-<small>110 câu</small>
+<small>122 câu</small>
 
 - *(Cam 10 · T1 · P3)* ‘When asked how they **had cracked** the code ahead of an array of highly accomplished rival investigators, he said something that stunned me.
 - *(Cam 10 · T1 · P3)* He said he and Crick **had succeeded** because they were aware that they weren’t the most intelligent of the scientists pursuing the answer.
@@ -921,12 +921,24 @@
 - *(Cam 20 · T4 · P1)* Often, she painted the rocks, cliffs, and mountains in striking close-up, just as she **had done** with her botanical subjects.
 - *(Cam 20 · T4 · P2)* Homes in this part of Vietnam are traditionally built on stilts but these ones **had been built** to float.
 - *(Cam 20 · T4 · P2)* Using a Geographic Information System data mapping tool, the programme identified streets with low tree canopy cover in three of the city’s neighbourhoods and covered them with a light-grey, light-reflecting coating, which **had already been shown** to lower road surface temperature in Los Angeles by 6°C.
+- *(Cam 21 · T3 · P1)* By 2000, the global saiga population **had hit** an all-time low of just 21,000 individuals.
+- *(Cam 21 · T3 · P3)* At Kalambo Falls in Zambia, researchers found buried logs that **had been shaped** with stone tools so that they interlocked.
+- *(Cam 21 · T3 · P3)* Going further back, an Iberian leader from around 4000 years ago turned out to be female, not male as many **had assumed**, when proteins in her teeth were analysed.
+- *(Cam 21 · T4 · P1)* But by the 1980s, it **had 'escaped**' out of the country via the Kagera river and made its way downstream to Lake Victoria.
+- *(Cam 21 · T4 · P1)* Some years ago, on the shores of Lake Victoria, huge piles of water hyacinth that villagers **had taken** out of the water in an attempt to clear it were a common sight.
+- *(Cam 21 · T4 · P1)* In 2014, Nigerian academics announced they **had got** better yields of biofuel gas when they mixed the plant with chicken manure.
+- *(Cam 21 · T4 · P1)* A few years later, Kenyan scientists confirmed what their Nigerian peers and others **had already found**: manure worked to improve the process of converting the weed into gas.
+- *(Cam 21 · T4 · P3)* Nearly two millennia later, however, it seemed that the art of globemaking **had been largely forgotten**.
+- *(Cam 21 · T4 · P3)* Even his trips to Morocco and India, where surely the knowledge of artisan cartographers* **had been preserved**, drew a blank.
+- *(Cam 21 · T4 · P3)* Even after he eventually resolved this issue, extracting these from the moulds resulted in piles of cracked plaster of Paris** and clouds of choking dust in the workshop he **had set** up at the rear of his house.
+- *(Cam 21 · T4 · P3)* Right at the end of the process, he learnt that the paper **had stretched** slightly and so the final one overlapped the first by a centimetre (which may not seem a great deal, but when that represents 2 per cent of the Earth's diameter, it's equivalent to obliterating the Himalayas or wiping out Chile).
+- *(Cam 21 · T4 · P3)* He was the Nuremberg entrepreneur who in 1492 created the Erdapfel, the world's oldest surviving globe, beautifully finished by a workshop of painters and other craftsmen, only to find that the explorer Christopher Columbus **had stumbled** upon the Americas the very same year, rendering his masterpiece instantly out of date.
 
 <a id="p7"></a>
 
 ### 7. Quá khứ tiếp diễn
 
-<small>47 câu</small>
+<small>51 câu</small>
 
 - *(Cam 10 · T2 · P1)* While this was the case for England, other nations, such as Japan, the Netherlands and France also met some of these criteria but **were not industrialising**.
 - *(Cam 10 · T2 · P1)* Macfarlane deduced that whatever the British **were drinking** must have been important in regulating disease.
@@ -975,12 +987,16 @@
 - *(Cam 20 · T3 · P1)* By 1953, 33 million US families owned a refrigerator, and manufacturers **were gradually increasing** the size of the freezer compartments in them.
 - *(Cam 20 · T3 · P1)* 1950s families **were also looking** for convenience at mealtimes, so the moment was right for the arrival of the ‘TV Dinner’.
 - *(Cam 20 · T3 · P1)* By 1959, Americans **were spending** $2.7 billion annually on frozen foods, and half a billion of that was spent on ready-prepared meals such as the TV Dinner.
+- *(Cam 21 · T2 · P1)* They found the patterns were very similar and concluded that the sleeping rats **were dreaming** about going through the maze.
+- *(Cam 21 · T2 · P1)* Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities such as flying, which suggests that this may possibly be what the pigeons **were dreaming** about.
+- *(Cam 21 · T2 · P1)* At one point, in the middle of the night, Heidi seemed to dream: her limbs and head moved, and her skin rapidly changed colour, as though she **was pursuing** a crab.
+- *(Cam 21 · T2 · P1)* Costello, as the octopus was called, thrashed around, extended his mantle as if trying to make himself look bigger, and squirted ink as though he **were being attacked** by a predator.
 
 <a id="p8"></a>
 
 ### 8. Hiện tại hoàn thành tiếp diễn
 
-<small>26 câu</small>
+<small>28 câu</small>
 
 - *(Cam 10 · T4 · P3)* Yet almost since the idea took root, exceptions **have been cropping** up.
 - *(Cam 12 · T4 · P1)* From our earliest origins, man **has been making** use of glass.
@@ -1008,12 +1024,14 @@
 - *(Cam 20 · T4 · P2)* The modifications were made by the Buoyant Foundation Project, a not-for-profit organisation that **has been researching** and retrofitting amphibious houses since 2006.
 - *(Cam 20 · T4 · P2)* ICCO Cooperation **has been working** with 10,000 farmers in Bangladesh to start cultivating naturally salt-tolerant crops in the region.
 - *(Cam 20 · T4 · P2)* Chowdhury says that the results are very visible, comparing a barren plot of land to the ‘beautiful, lush green vegetable garden’ sitting beside it, in which he and his team **have been working** with the farmers.
+- *(Cam 21 · T1 · P2)* The good news is that several cities **have been working** to turn the volume down.
+- *(Cam 21 · T3 · P1)* Male saiga were almost wiped out, leading to a population crash from which the species **has been struggling** to recover ever since.
 
 <a id="p9"></a>
 
 ### 9. Tương lai gần (be going to)
 
-<small>6 câu</small>
+<small>7 câu</small>
 
 - *(Cam 10 · T2 · P3)* Evidently, nothing the viewer thinks about the work **is going** to alter that value, and so today’s viewer is deterred from trying to extend that spontaneous, immediate, self-reliant kind of reading which would originally have met the work.
 - *(Cam 14 · T2 · P2)* As global temperatures continue to rise, we **are going** to continue to squander more and more energy on keeping our buildings mechanically cool until we have run out of capacity.’
@@ -1021,6 +1039,7 @@
 - *(Cam 18 · T1 · P3)* They **are probably not going** to spend money to remove their satellites from space.’
 - *(Cam 18 · T3 · P1)* Making anything with similar properties **is going** to be very difficult.’
 - *(Cam 20 · T4 · P3)* ‘Their initial training is to make them understand that livestock **is going** to be their life,’ says Dan Macon, a shepherd with three guard dogs.
+- *(Cam 21 · T3 · P3)* One way or another, the H. naledi story **is going** to be an example of letting our preconceptions get in the way of the evidence.
 
 <a id="p10"></a>
 

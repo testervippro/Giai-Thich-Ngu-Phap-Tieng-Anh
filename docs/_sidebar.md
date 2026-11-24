@@ -122,10 +122,10 @@
   - [Test 9](ets-ngu-phap-test-09.md)
   - [Test 10](ets-ngu-phap-test-10.md)
 
-# 📗 IELTS Reading (Cambridge 10–20)
+# 📗 IELTS Reading (Cambridge 10–21)
 
 - [📖 Luyện đề IELTS Reading & Listening (site riêng)](https://testervippro.github.io/Ielts-Reading/)
-- **🗺️ Bản đồ ngữ pháp (5.027 câu, 44 đề)**
+- **🗺️ Bản đồ ngữ pháp (5.507 câu, 48 đề)**
   - [Tổng quan — map vào 19 chương](ielts-ngu-phap-ban-do.md)
   - [Cam 10](ielts-ngu-phap-cam-10.md)
   - [Cam 11](ielts-ngu-phap-cam-11.md)
@@ -138,7 +138,8 @@
   - [Cam 18](ielts-ngu-phap-cam-18.md)
   - [Cam 19](ielts-ngu-phap-cam-19.md)
   - [Cam 20](ielts-ngu-phap-cam-20.md)
-- **✅ Đáp án & dẫn chứng (1.714 câu)**
+  - [Cam 21](ielts-ngu-phap-cam-21.md)
+- **✅ Đáp án & dẫn chứng (1.873 câu)**
   - [Tổng quan — dạng câu hỏi, cách làm](ielts-dap-an-tong-quan.md)
   - [Cam 10](ielts-dap-an-cam-10.md)
   - [Cam 11](ielts-dap-an-cam-11.md)
@@ -151,6 +152,7 @@
   - [Cam 18](ielts-dap-an-cam-18.md)
   - [Cam 19](ielts-dap-an-cam-19.md)
   - [Cam 20](ielts-dap-an-cam-20.md)
+  - [Cam 21](ielts-dap-an-cam-21.md)
 
 # 🗾 Tiếng Nhật — Kanji
 

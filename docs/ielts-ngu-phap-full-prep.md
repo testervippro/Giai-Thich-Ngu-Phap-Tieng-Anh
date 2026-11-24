@@ -1,4 +1,4 @@
-# 📍 11. GIỚI TỪ — full câu ví dụ IELTS Reading (Cam 10–20)
+# 📍 11. GIỚI TỪ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [GIỚI TỪ](Gi%E1%BB%9Bi%20T%E1%BB%AB.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=prep). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,43 +6,43 @@
 
 ## Mục lục
 
-1. [Động từ + giới từ (collocation)](ielts-ngu-phap-full-prep.md?id=p1) — 1764 câu
-2. [Danh từ + giới từ (collocation)](ielts-ngu-phap-full-prep.md?id=p2) — 905 câu
-3. [Giới từ chỉ nơi chốn (in)](ielts-ngu-phap-full-prep.md?id=p3) — 491 câu
-4. [Giới từ chỉ thời gian (in)](ielts-ngu-phap-full-prep.md?id=p4) — 345 câu
-5. [Giới từ kép / cụm giới từ](ielts-ngu-phap-full-prep.md?id=p5) — 328 câu
-6. [such as (ví dụ như) + N](ielts-ngu-phap-full-prep.md?id=p6) — 143 câu
-7. [Giới từ chỉ nơi chốn (at)](ielts-ngu-phap-full-prep.md?id=p7) — 114 câu
-8. [Giới từ chỉ thời gian (for)](ielts-ngu-phap-full-prep.md?id=p8) — 97 câu
-9. [Giới từ chỉ nơi chốn (on)](ielts-ngu-phap-full-prep.md?id=p9) — 82 câu
-10. [Giới từ chỉ thời gian (at)](ielts-ngu-phap-full-prep.md?id=p10) — 61 câu
-11. [Động từ + tân ngữ + giới từ (thank sb for, provide sb with…)](ielts-ngu-phap-full-prep.md?id=p11) — 55 câu
-12. [Giới từ chỉ thời gian (over)](ielts-ngu-phap-full-prep.md?id=p12) — 48 câu
-13. [Giới từ chỉ thời gian (by)](ielts-ngu-phap-full-prep.md?id=p13) — 46 câu
-14. [Giới từ chỉ thời gian (from)](ielts-ngu-phap-full-prep.md?id=p14) — 37 câu
-15. [Giới từ chỉ nơi chốn (around)](ielts-ngu-phap-full-prep.md?id=p15) — 35 câu
-16. [Giới từ chỉ thời gian (during)](ielts-ngu-phap-full-prep.md?id=p16) — 34 câu
-17. [Giới từ chỉ nơi chốn (across)](ielts-ngu-phap-full-prep.md?id=p17) — 25 câu
-18. [Giới từ chỉ nơi chốn (into)](ielts-ngu-phap-full-prep.md?id=p18) — 24 câu
-19. [Giới từ chỉ thời gian (between)](ielts-ngu-phap-full-prep.md?id=p19) — 20 câu
+1. [Động từ + giới từ (collocation)](ielts-ngu-phap-full-prep.md?id=p1) — 1948 câu
+2. [Danh từ + giới từ (collocation)](ielts-ngu-phap-full-prep.md?id=p2) — 982 câu
+3. [Giới từ chỉ nơi chốn (in)](ielts-ngu-phap-full-prep.md?id=p3) — 554 câu
+4. [Giới từ chỉ thời gian (in)](ielts-ngu-phap-full-prep.md?id=p4) — 384 câu
+5. [Giới từ kép / cụm giới từ](ielts-ngu-phap-full-prep.md?id=p5) — 365 câu
+6. [such as (ví dụ như) + N](ielts-ngu-phap-full-prep.md?id=p6) — 158 câu
+7. [Giới từ chỉ nơi chốn (at)](ielts-ngu-phap-full-prep.md?id=p7) — 123 câu
+8. [Giới từ chỉ thời gian (for)](ielts-ngu-phap-full-prep.md?id=p8) — 102 câu
+9. [Giới từ chỉ nơi chốn (on)](ielts-ngu-phap-full-prep.md?id=p9) — 86 câu
+10. [Giới từ chỉ thời gian (at)](ielts-ngu-phap-full-prep.md?id=p10) — 69 câu
+11. [Động từ + tân ngữ + giới từ (thank sb for, provide sb with…)](ielts-ngu-phap-full-prep.md?id=p11) — 63 câu
+12. [Giới từ chỉ thời gian (over)](ielts-ngu-phap-full-prep.md?id=p12) — 54 câu
+13. [Giới từ chỉ thời gian (by)](ielts-ngu-phap-full-prep.md?id=p13) — 52 câu
+14. [Giới từ chỉ thời gian (from)](ielts-ngu-phap-full-prep.md?id=p14) — 41 câu
+15. [Giới từ chỉ thời gian (during)](ielts-ngu-phap-full-prep.md?id=p15) — 37 câu
+16. [Giới từ chỉ nơi chốn (around)](ielts-ngu-phap-full-prep.md?id=p16) — 36 câu
+17. [Giới từ chỉ nơi chốn (across)](ielts-ngu-phap-full-prep.md?id=p17) — 29 câu
+18. [Giới từ chỉ nơi chốn (into)](ielts-ngu-phap-full-prep.md?id=p18) — 25 câu
+19. [Giới từ chỉ thời gian (between)](ielts-ngu-phap-full-prep.md?id=p19) — 21 câu
 20. [Giới từ chỉ nơi chốn (between)](ielts-ngu-phap-full-prep.md?id=p20) — 19 câu
 21. [Giới từ chỉ thời gian (until)](ielts-ngu-phap-full-prep.md?id=p21) — 16 câu
-22. [Giới từ chỉ thời gian (on)](ielts-ngu-phap-full-prep.md?id=p22) — 16 câu
-23. [Giới từ chỉ thời gian (within)](ielts-ngu-phap-full-prep.md?id=p23) — 15 câu
-24. [Giới từ chỉ nơi chốn (over)](ielts-ngu-phap-full-prep.md?id=p24) — 13 câu
+22. [Giới từ chỉ thời gian (within)](ielts-ngu-phap-full-prep.md?id=p22) — 16 câu
+23. [Giới từ chỉ thời gian (on)](ielts-ngu-phap-full-prep.md?id=p23) — 16 câu
+24. [Giới từ chỉ nơi chốn (over)](ielts-ngu-phap-full-prep.md?id=p24) — 14 câu
 25. [Giới từ chỉ nơi chốn (throughout)](ielts-ngu-phap-full-prep.md?id=p25) — 11 câu
-26. [Giới từ chỉ thời gian (after)](ielts-ngu-phap-full-prep.md?id=p26) — 10 câu
-27. [Giới từ chỉ thời gian (throughout)](ielts-ngu-phap-full-prep.md?id=p27) — 8 câu
+26. [Giới từ chỉ thời gian (after)](ielts-ngu-phap-full-prep.md?id=p26) — 11 câu
+27. [Giới từ chỉ thời gian (throughout)](ielts-ngu-phap-full-prep.md?id=p27) — 9 câu
 28. [Giới từ chỉ nơi chốn (near)](ielts-ngu-phap-full-prep.md?id=p28) — 8 câu
-29. [Giới từ chỉ nơi chốn (along)](ielts-ngu-phap-full-prep.md?id=p29) — 7 câu
-30. [Giới từ chỉ nơi chốn (under)](ielts-ngu-phap-full-prep.md?id=p30) — 5 câu
-31. [by + phương tiện/cách thức (không mạo từ)](ielts-ngu-phap-full-prep.md?id=p31) — 5 câu
+29. [Giới từ chỉ nơi chốn (along)](ielts-ngu-phap-full-prep.md?id=p29) — 8 câu
+30. [by + phương tiện/cách thức (không mạo từ)](ielts-ngu-phap-full-prep.md?id=p30) — 6 câu
+31. [Giới từ chỉ nơi chốn (under)](ielts-ngu-phap-full-prep.md?id=p31) — 5 câu
 32. [Giới từ chỉ nơi chốn (above)](ielts-ngu-phap-full-prep.md?id=p32) — 4 câu
-33. [Giới từ chỉ nơi chốn (outside)](ielts-ngu-phap-full-prep.md?id=p33) — 4 câu
-34. [Giới từ chỉ thời gian (through)](ielts-ngu-phap-full-prep.md?id=p34) — 4 câu
-35. [Giới từ chỉ nơi chốn (within)](ielts-ngu-phap-full-prep.md?id=p35) — 3 câu
-36. [Giới từ chỉ thời gian (before)](ielts-ngu-phap-full-prep.md?id=p36) — 3 câu
-37. [Giới từ chỉ nơi chốn (below)](ielts-ngu-phap-full-prep.md?id=p37) — 2 câu
+33. [Giới từ chỉ nơi chốn (within)](ielts-ngu-phap-full-prep.md?id=p33) — 4 câu
+34. [Giới từ chỉ thời gian (before)](ielts-ngu-phap-full-prep.md?id=p34) — 4 câu
+35. [Giới từ chỉ nơi chốn (outside)](ielts-ngu-phap-full-prep.md?id=p35) — 4 câu
+36. [Giới từ chỉ thời gian (through)](ielts-ngu-phap-full-prep.md?id=p36) — 4 câu
+37. [Giới từ chỉ nơi chốn (below)](ielts-ngu-phap-full-prep.md?id=p37) — 3 câu
 38. [Giới từ chỉ nơi chốn (toward)](ielts-ngu-phap-full-prep.md?id=p38) — 1 câu
 
 ---
@@ -51,164 +51,164 @@
 
 ### 1. Động từ + giới từ (collocation)
 
-<small>1764 câu · hiện 150</small>
+<small>1948 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* However, the significance of this invention – the stepwell – **goes beyond** its utilitarian application.
-- *(Cam 10 · T1 · P1)* Built in around 850 AD next to the temple of Harshat Mata, the baori comprises hundreds of zigzagging steps that **run along** three of its sides, steeply descending 11 storeys, resulting in a striking geometric pattern when seen from afar.
-- *(Cam 10 · T1 · P2)* This has reached such a pitch that today rail freight services are facing marginalisation, with just 8% of market share, and with international goods trains **struggling along at** an average speed of 18km/h.
-- *(Cam 10 · T1 · P3)* **Missing from** the picture is Roy Orbison’ a greater natural singer than Lewis, Perkins or Cash.
-- *(Cam 10 · T2 · P1)* The antiseptic properties of tannin, the active ingredient in tea, and of hops in beer – plus the fact that both are **made with** boiled water – allowed urban communities to flourish at close quarters without succumbing to water-borne diseases such as dysentery.
-- *(Cam 10 · T2 · P2)* Internationally, ‘giftedness’ is most frequently determined by a score on a general intelligence test, **known as** an IQ test, which is above a chosen cutoff point, usually at around the top 2-5%.
-- *(Cam 10 · T2 · P2)* But scientific progress is not all theoretical, knowledge is a so vital to outstanding performance: individuals who know a great deal about a specific domain will **achieve at** a higher level than those who do not (Elshout, 1995).
-- *(Cam 10 · T2 · P3)* Again, this seems to put paid to that spontaneous, participators criticism which can be **found in** abundance in criticism of classic works of literature, but is absent from most art history.
-- *(Cam 10 · T3 · P1)* **According to** the World Travel and Tourism Council (1992), Travel and tourism is the largest industry in the world on virtually any economic measure including value-added capital investment, employment and tax contributions.
-- *(Cam 10 · T3 · P2)* The energy absorbed by the chlorophyll molecules of the unstable autumn leaf is not immediately **channelled into** useful products and processes, as it would be in an intact summer leaf.
-- *(Cam 10 · T3 · P3)* Once out there, skilled seafarers would have detected abundant leads to **follow to** land: seabirds, coconuts and twigs carried out to sea by the tides, and the afternoon pile-up of clouds on the horizon which often indicates an island in the distance.
-- *(Cam 10 · T4 · P1)* ‘We are pleased that the current state administration has been very proactive in its support of us, and [has] **come through with** budgetary support of the infrastructure needs we have long sought,’ says Mr. McHale of the firefighters’ union.
+- *(Cam 10 · T1 · P1)* Still in public use is Neemrana Ki Baori , **located just off** the Jaipur–Dehli highway.
+- *(Cam 10 · T1 · P2)* In the short term it might curb the growth in road transport through the better loading ratio of goods vehicles and occupancy rates of passenger vehicles **expected as** a result of the increase in the price of transport.
+- *(Cam 10 · T1 · P3)* Studies show that we invariably take more gambles when **threatened with** a loss than when offered a reward.
+- *(Cam 10 · T2 · P1)* Some **digging around in** historical records revealed that there was a change in the incidence of water-borne disease at that time, especially dysentery.
+- *(Cam 10 · T2 · P2)* High achievers have been found to use self-regulatory learning strategies more often and more effectively than lower achievers, and are better able to transfer these strategies to **deal with** unfamiliar tasks.
+- *(Cam 10 · T2 · P3)* This might be explained by the fact that the novel has evolved precisely because of technological developments that made it possible to print out huge numbers of texts, whereas oil paintings have always been **produced as** unique objects.
+- *(Cam 10 · T3 · P1)* Travel, except during the Dark Ages, has **continued to grow and, throughout** recorded history, has played a vital role in the development of civilisations and their economies.
+- *(Cam 10 · T3 · P2)* No one has as yet ascertained whether more robust trees sport the brightest leaves, or whether insects make choices **according to** colour intensity.
+- *(Cam 10 · T3 · P3)* Certainly it distinguished them from their ancestors, but what gave them the courage to **launch out on** such risky voyages?
+- *(Cam 10 · T4 · P1)* ‘What once was open space is now residential homes providing fuel to make fires **burn with** greater intensity,’ says Terry McHale of the California Department of Forestry firefighters’ union.
 - *(Cam 10 · T4 · P2)* You can recognise a person who is passionate about a pursuit by the way they are so strongly **involved in** it.
-- *(Cam 10 · T4 · P2)* Many of her students said that **faced with** a risky situation, they first tried to calm themselves down, then looked for a way to mitigate the danger, just as Pedeleose did by documenting his allegations.
-- *(Cam 10 · T4 · P3)* From a detailed analysis of the salamanders’ family tree, however, it is clear that the other lineages **evolved from** an ancestor that itself had lost the ability to metamorphose.
-- *(Cam 11 · T1 · P1)* Applying the most conservative estimates to current demographic trends, the human population will **increase by** about three billion people by then.
-- *(Cam 11 · T1 · P2)* Numerous ideas were **submitted for** the project, including concepts ranging from rolling eggs to tilting tanks, from giant seesaws to overhead monorails.
-- *(Cam 11 · T1 · P2)* The Wheel could not be constructed to elevate boats over the full 35-metre difference between the two canals, **owing to** the presence of the historically important Antonine Wall, which was built by the Romans in the second century AD.
-- *(Cam 11 · T1 · P3)* To avoid such a scenario,” Hunt says, “Angel’s project would have to **operate at** half strength; all of which reinforces his view that the best option is to avoid the need for geo-engineering altogether.”
-- *(Cam 11 · T2 · P1)* Interest ^ in the project grew, and in 1979, The Mary Rose Trust was **formed, with** Prince Charles as its President and Dr Margaret Rule its Archaeological Director.
-- *(Cam 11 · T2 · P2)* Diamond thinks they laid the moai on wooden sledges, **hauled over** log rails, but that required both a lot of wood and a lot of people.
-- *(Cam 11 · T2 · P3)* While the fashions of the time might shape what is currently popular, works that are best **adapted to** our visual system may be the most likely to linger once the trends of previous generations have been forgotten.
-- *(Cam 11 · T3 · P1)* The earliest indication of silk paper being used was **discovered in** the tomb of a noble who is estimated to have died around 168 AD.
-- *(Cam 11 · T3 · P2)* An arctic tern, on its 20,000 km flight from the extreme south of South America to the Arctic circle, will take no notice of a nice smelly herring **offered from** a bird-watcher’s boat along the way.
+- *(Cam 10 · T4 · P3)* While Lombroso was measuring criminals, a Belgian palaeontologist called Louis Dollo was studying fossil records and **coming to** the opposite conclusion.
+- *(Cam 10 · T4 · P3)* Many of these have minuscule limbs; some **look more like** snakes than lizards and a few have completely lost the toes on their hind limbs.
+- *(Cam 11 · T1 · P1)* If successfully implemented, proponents claim, vertical farms offer the promise of urban renewal, sustainable production of a safe and varied food supply (through year-round production of all crops), and the eventual repair of ecosystems that have been **sacrificed for** horizontal farming.
+- *(Cam 11 · T1 · P2)* The Wheel consists of two sets of opposing axe-shaped arms, **attached about 25 metres apart to** a fixed central spine.
+- *(Cam 11 · T1 · P3)* **According to** its proponents, geo-engineering is the equivalent of a backup generator: if Plan A – reducing our dependency on fossil fuels – fails, we require a Plan B, employing grand schemes to slow down or reverse the process of global warming.
+- *(Cam 11 · T2 · P1)* During the seventeenth and eighteenth centuries, the entire site became **covered with** a layer of hard grey clay, which minimised further erosion.
+- *(Cam 11 · T2 · P2)* All the energy and resources that **went into** the moai – some of which are ten metres tall and weigh over 7,000 kilos – came from the island itself.
+- *(Cam 11 · T2 · P3)* Too little and the work is boring, but too much results in a kind of ‘perceptual overload’, **according to** Forsythe.
+- *(Cam 11 · T3 · P1)* Sometime during the Han Dynasty (206 BC-220 AD), silk was so prized that it was also **used as** a unit of currency.
+- *(Cam 11 · T3 · P2)* It can loosely be **described as** travel that takes place at regular intervals – often in an annual cycle – that may involve many members of a species, and is rewarded only after a long journey.
 - *(Cam 11 · T3 · P2)* But neither the Forest Service nor the Park Service can control what **happens on private land at** a bottleneck.
-- *(Cam 11 · T4 · P1)* If identical twins are more similar to each other with respect to an ailment than fraternal twins are, then vulnerability to the disease must be **rooted at least in** part in heredity.
-- *(Cam 11 · T4 · P1)* Twin studies have allowed us to be more reflective about what people are actually **born with** and what’s caused by experience.’
-- *(Cam 11 · T4 · P2)* The audience is **caught up in** a whirlwind of activity in simply managing to follow the plot.
-- *(Cam 11 · T4 · P3)* The wheels of language run so smoothly that one rarely bothers to stop and **think about** all the resourcefulness and expertise that must have gone into making it tick.
-- *(Cam 12 · T1 · P1)* **Developed most probably as** a defence against forest fires, the bark of the cork oak has a particular cellular structure – with about 40 million cells per cubic centimetre – that technology has never succeeded in replicating.
-- *(Cam 12 · T1 · P1)* This is caused by a chemical compound called 2,4,6-trichloroanisole (TCA), which **forms through** the interaction of plant phenols, chlorine and mould.
-- *(Cam 12 · T1 · P2)* In the past – and nowadays, too, though to a lesser extent – a popular form of **collecting, particularly among** boys and men, was trainspotting.
-- *(Cam 12 · T1 · P3)* The students have **signed up for** a course in order to learn how to market effectively.
-- *(Cam 12 · T2 · P1)* Some participating authors and commentators **argued in** favour of community-based and autonomous risk management strategies through collective action groups, co-operatives or producers’ groups.
-- *(Cam 12 · T2 · P2)* Then there’s a sense of mounting discovery as he **comes across** great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial buildings of Machu Picchu.
-- *(Cam 12 · T2 · P3)* A Russian-English bilingual asked to ‘pick up a marker’ from a set of objects would **look more at** a stamp than someone who doesn’t know Russian, because the Russian word for ‘stamp’, marka , sounds like the English word he or she heard, ‘marker’.
+- *(Cam 11 · T4 · P1)* But twin studies took a surprising twist in the 1980s, with the arrival of studies into identical twins who had been **separated at** birth and reunited as adults.
+- *(Cam 11 · T4 · P1)* But things **written in** pencil you can.
+- *(Cam 11 · T4 · P2)* The asynchronous ambulance siren underscores the psychic injury **incurred in** the argument; at the same time the noise of the siren adds to the realism of the film by acknowledging the film’s city setting.
+- *(Cam 11 · T4 · P3)* The word is made up of different slots, each **corresponding to** a particular portion of meaning.
+- *(Cam 12 · T1 · P1)* From the planting of a cork **sapling to** the first harvest takes 25 years, and a gap of approximately a decade must separate harvests from an individual tree.
+- *(Cam 12 · T1 · P2)* Amassing hundreds or even thousands of postcards, chocolate wrappers or whatever, takes time, energy and money that could surely be **put to** much more productive use.
+- *(Cam 12 · T1 · P3)* Naturally, the course is **intended for** prospective arson investigators, who can learn all the tricks of the trade for detecting whether a fire was deliberately set, discovering who did it, and establishing a chain of evidence for effective prosecution in a court of law.
+- *(Cam 12 · T2 · P1)* Murphy noted that when futures markets become excessively financialised they can **contribute to** short-term price volatility, which increases farmers’ food insecurity.
+- *(Cam 12 · T2 · P2)* Bingham **writes about** the approach in vivid style in his book.
+- *(Cam 12 · T2 · P3)* For bilingual people, this activation is not **limited to** a single language; auditory input activates corresponding words regardless of the language to which they belong.
 - *(Cam 12 · T2 · P3)* In a follow-up study, researchers compared the brains of bilingual and monolingual patients **matched on** the severity of Alzheimer’s symptoms.
-- *(Cam 12 · T3 · P1)* In total, an estimated 200,000 animals were **taken from** the archipelago before the 20th century.
-- *(Cam 12 · T3 · P1)* Meanwhile, park wardens, **dropped off ahead of time in** remote locations, cleared landing sites within the thick brush, cacti and lava rocks.
-- *(Cam 12 · T3 · P2)* Health geographers in this field are usually **trained as** healthcare workers, and have an understanding of basic epidemiology as it relates to the spread of diseases among the population.
-- *(Cam 12 · T3 · P3)* This ‘embodied meaning’ **arises from** the patterns the symphony invokes and then ignores.
-- *(Cam 12 · T4 · P1)* It **features in** almost every aspect of our lives – in our homes, our cars
-- *(Cam 12 · T4 · P2)* There is nothing extraordinary about these proposals, **seen from** the perspective of anywhere else in Europe.
-- *(Cam 12 · T4 · P3)* One of the main criticisms of boards and their directors is that they do not focus sufficiently on longer-term matters of strategy, sustainability and governance, but instead **concentrate too much on** short-term financial metrics.
-- *(Cam 13 · T1 · P1)* On the website, visitors can **search for** activities not solely by geographical location, but also by the particular nature of the activity.
-- *(Cam 13 · T1 · P2)* Perhaps most worryingly, says Eastwood, repeatedly failing to engage attention can **lead to** state where we don’t know what to do any more, and no longer care.
-- *(Cam 13 · T1 · P3)* While some might say they have a mechanical look, Colton argues that such reactions **arise from** people’s double standards towards software-produced and human-produced art.
-- *(Cam 13 · T2 · P1)* It was known in biblical times, and is **mentioned in** several books of the Bible, both as an ingredient that was mixed with oils for anointing people’s bodies, and also as a token indicating friendship among lovers and friends.
+- *(Cam 12 · T3 · P1)* This historical exploitation was then exacerbated when settlers **came to** the islands.
+- *(Cam 12 · T3 · P1)* Eventually, one tiny tortoise **came across** a fully grown giant who had been lumbering around the island for around a hundred years.
+- *(Cam 12 · T3 · P3)* Blood is even re-**directed to** the muscles in our legs.
+- *(Cam 12 · T4 · P1)* Before that time, heavy taxes had been **placed on** the amount of glass melted in a glasshouse, and were levied continuously from 1745 to 1845.
+- *(Cam 12 · T4 · P2)* One of the most striking findings of modern ecology is that ecosystems without large predators **behave in** completely different ways from those that retain them.
+- *(Cam 12 · T4 · P3)* The role of bank directors and management and their widely publicised failures have been extensively picked over and **examined in** reports, inquiries and commentaries.
+- *(Cam 13 · T1 · P1)* By **registering with** the website, users could save their Travel Plan and return to it later, or print it out to take on the visit.
+- *(Cam 13 · T1 · P2)* ‘We’re all afraid of being bored but in actual fact it can **lead to** all kinds of amazing things,’ she says.
+- *(Cam 13 · T1 · P3)* Consider one of the oldest machine artists, Aaron, a robot that has had paintings **exhibited in** London’s Tate Modern and the San Francisco Museum of Modern Art.
+- *(Cam 13 · T2 · P1)* Cinnamon is a sweet, fragrant spice **produced from** the inner bark of trees of the genus Cinnamomum, which is native to the Indian sub-continent.
 - *(Cam 13 · T2 · P1)* Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was **diminishing in** economic potential, and was eventually superseded by the rise of trade in coffee, tea, chocolate, and sugar.
-- *(Cam 13 · T2 · P2)* She believes that oxytocin **acts as** a chemical spotlight that shines on social clues – a shift in posture, a flicker of the eyes, a dip in the voice – making people more attuned to their social environment.
-- *(Cam 13 · T3 · P1)* The leaves have hard veins in their centres which, in many parts of the world, are **used as** brushes after the green part of the leaf has been stripped away.
-- *(Cam 13 · T3 · P1)* Two diametrically opposed origins have been proposed: that they **came from** Asia, or that they were native to America.
-- *(Cam 13 · T3 · P2)* Researchers from McGill University and Université du Québec à Montréal found that babies seem to like **listening to** each other rather than to adults – which may be why baby talk is such a universal tool among parents.
-- *(Cam 13 · T3 · P3)* This gives us insight into the types of interactive networks that the population was **involved in**, and whether those changed.
-- *(Cam 13 · T4 · P1)* As a sailing ship, Cutty Sark **depended on** the strong trade winds of the southern hemisphere, and Woodget took her further south than any previous captain, bringing her dangerously close to icebergs off the southern tip of South America.
-- *(Cam 13 · T4 · P2)* In the past we developed strategies to **get around** the problem, such as regularly varying the types of crops grown, or leaving fields uncultivated for a season.
-- *(Cam 13 · T4 · P3)* In the 1790s, he **wrote to** the Home Office suggesting that the departments of government be linked together through a set of ‘conversation tubes’, and to the Bank of England with a design for a printing device that could produce unforgeable banknotes.
-- *(Cam 14 · T1 · P1)* International bodies like the United Nations and the European Union have begun to develop policies **concerned with** children’s right to play, and to consider implications for leisure facilities and educational programmes.
-- *(Cam 14 · T1 · P2)* The police were **opposed to** Provo’s initiatives and almost as soon as the white bikes were distributed around the city, they removed them.
-- *(Cam 14 · T1 · P2)* In Amsterdam today, 38% of all trips are made by bike and, along with Copenhagen, it is **regarded as** one of the two most cycle-friendly capitals in the world – but the city never got another Witte Fietsenplan.
+- *(Cam 13 · T2 · P2)* The hormone is **found in** everything from octopuses to sheep, and its evolutionary roots stretch back half a billion years.
+- *(Cam 13 · T3 · P1)* The flower stems may be **tapped for** their sap to produce a drink, and the sap can also be reduced by boiling to produce a type of sugar used for cooking.
+- *(Cam 13 · T3 · P2)* The typical way of **talking to** a baby – high-pitched, exaggerated and repetitious – is a source of fascination for linguists who hope to understand how ‘baby talk’ impacts on learning.
+- *(Cam 13 · T3 · P3)* The Harappan Civilisation was a sophisticated Bronze Age society who built ‘megacities’ and **traded internationally in** luxury craft products, and yet seemed to have left almost no depictions of themselves.
+- *(Cam 13 · T4 · P1)* Cutty Sark was **built in Dumbarton, Scotland, in 1869, for** a shipping company owned by John Willis.
+- *(Cam 13 · T4 · P1)* When she was no longer required, in 1954, she was transferred to dry dock at Greenwich to **go on** public display.
+- *(Cam 13 · T4 · P3)* **Equipped with** this science, they say, governments can secure happiness in society in a way they never could in the past.
+- *(Cam 14 · T1 · P1)* ‘**Play in** all its rich variety is one of the highest achievements of the human species,’ says Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK.
+- *(Cam 14 · T1 · P2)* Luud Schimmelpennink, a Dutch industrial engineer who still lives and cycles in Amsterdam, was heavily **involved in** the original scheme.
+- *(Cam 14 · T1 · P2)* ‘But financially I didn’t really **benefit from** it, because I never filed for a patent.’
 - *(Cam 14 · T1 · P3)* Unlike extrinsic factors, motivator factors may ideally **result in** job satisfaction (Maroudas et al., 2008).
-- *(Cam 14 · T2 · P1)* While Notman’s landscapes were **noted for** their bold realism, Henderson for the first 20 years of his career produced romantic images, showing the strong influence of the British landscape tradition.
-- *(Cam 14 · T2 · P2)* Instead, he shows it is entirely possible to accommodate natural ventilation and cooling in large buildings by **looking into** the past, before the widespread introduction of air conditioning systems, which were ‘relentlessly and aggressively marketed’ by their inventors.
-- *(Cam 14 · T2 · P2)* He and his team have worked on hybrid buildings in the harsh climates of Beijing and Chicago – **built with** natural ventilation assisted by back-up air conditioning – which, surprisingly perhaps, can be switched off more than half the time on milder days and during the spring and autumn.
-- *(Cam 14 · T3 · P1)* These implicit theories can suggest what aspects of the phenomenon have been more or less **attended to in** previous investigations.
-- *(Cam 14 · T3 · P2)* More drugs than you might think are derived from, or inspired by, compounds **found in** living things.
-- *(Cam 14 · T3 · P2)* If we can shine a light on the darker recesses of nature’s medicine cabinet, exploring the useful chemistry of the most diverse animals on the planet, I believe we can make people **think differently about** the value of nature.
-- *(Cam 14 · T3 · P3)* In the more direct form of guided play, parents or other adults can support children’s play by **joining in** the fun as a co-player, raising thoughtful questions, commenting on children’s discoveries, or encouraging further exploration or new facets to the child’s activity.
-- *(Cam 14 · T4 · P1)* Scientists have **looked at** some similar aspects in bees, but the results of recent bee studies were mixed – some studies showed age-related declines, which biologists call senescence, and others didn’t.
-- *(Cam 14 · T4 · P2)* Many zoos also work directly to educate conservation workers in other countries, or send their animal keepers abroad to contribute their knowledge and skills to those **working in** zoos and reserves, thereby helping to improve conditions and reintroductions all over the world.
-- *(Cam 14 · T4 · P3)* These may be ingredients **used in** cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris.
-- *(Cam 15 · T1 · P1)* Profits began to flow into the Netherlands, and the Dutch commercial fleet swiftly **grew into** one of the largest in the world.
+- *(Cam 14 · T2 · P1)* From about 1870 he dropped portraiture to **specialize in** landscape photography and other views.
+- *(Cam 14 · T2 · P2)* Of particular interest were those **built to** the designs of John Shaw Billings, including the first Johns Hopkins Hospital in the US city of Baltimore (1873-1889).
+- *(Cam 14 · T2 · P3)* The result is that businesses and people spend time and money organising themselves for the sake of organising, rather than actually **looking at** the end goal and usefulness of such an effort.
+- *(Cam 14 · T3 · P1)* The Hamiltonian view, which is similar to the Platonic view, is that people are **born with** different levels of intelligence and that those who are less intelligent need the good offices of the more intelligent to keep them in line, whether they are called government officials or, in Plato’s term, philosopher-kings.
+- *(Cam 14 · T3 · P2)* For example, alloferon, an antimicrobial compound produced by blow fly larvae, is **used as** an antiviral and antitumor agent in South Korea and Russia.
+- *(Cam 14 · T3 · P3)* **According to** this view, children’s playful behaviors can range in degree from 0% to 100% playful.
+- *(Cam 14 · T4 · P1)* Giraldo expected the older ants to **perform poorly in** all these tasks.
+- *(Cam 14 · T4 · P2)* A good number of species only **exist in** captivity, with many of these living in zoos.
+- *(Cam 14 · T4 · P3)* Within the studies they looked at, most of the proven threats **came from** plastic debris, rather than other materials like metal or wood.
+- *(Cam 15 · T1 · P1)* Nutmeg was a highly prized and costly ingredient in European cuisine in the Middle Ages, and was **used as** a flavouring, medicinal, and preservative agent.
 - *(Cam 15 · T1 · P2)* A new challenge to vehicle production is now on the horizon and, again, it **comes from** automation.
-- *(Cam 15 · T1 · P3)* This questing nature of ours undoubtedly helped our species **spread around** the globe, just as it nowadays no doubt helps the last nomadic Penan maintain their existence in the depleted forests of Borneo, and a visitor negotiate the subways of New York.
-- *(Cam 15 · T2 · P1)* Richard Sennett, an influential urbanist and sociologist who has transformed ideas about the way cities are made, argues that urban design has **suffered from** a separation between mind and body since the introduction of the architectural blueprint.
-- *(Cam 15 · T2 · P1)* Observing the choreographer Wayne McGregor, cognitive scientist David Kirsh described how he ‘**thinks with** the body’, Kirsh argues that by using the body to simulate outcomes, McGregor is able to imagine solutions that would not be possible using purely abstract thought.
-- *(Cam 15 · T2 · P2)* This has left forests stagnant and therefore **unwelcoming to** the plants and animals which evolved to help regenerate the forest after a disturbance.
-- *(Cam 15 · T2 · P3)* In doing so, he **picked up on** a quality of laughter that is now interesting researchers: a simple ‘haha’ communicates a remarkable amount of socially relevant information.
-- *(Cam 15 · T3 · P1)* Around this time, Moore moved away from the human figure to **experiment with** abstract shapes.
-- *(Cam 15 · T3 · P2)* ‘I was **confronted with** the enormous carbon footprint that the Gulf nations have because of all of the desalination that they do,’ he says.
-- *(Cam 15 · T3 · P3)* The wolf runs on ahead and disposes of the grandmother, then **gets into** bed dressed in the grandmother’s clothes to wait for Little Red Riding Hood.
-- *(Cam 15 · T4 · P1)* Cutting down native woodland **leads to** erosion, as there is nothing to keep the soil in place.
-- *(Cam 15 · T4 · P1)* ‘If we can do it here, in the most fragile system on Earth, then that’s a real message of hope for lots of places, including Africa, where there is drought and they just can’t afford to **wait for** rain.’
-- *(Cam 15 · T4 · P2)* When the experiments were **repeated with** non-whistlers, however, activation was observed in all areas of the brain.
+- *(Cam 15 · T1 · P3)* He is **delving into** matters we all recognise because they are common to humanity.
+- *(Cam 15 · T2 · P1)* Peachtree created a grid of streets and towers **intended as** a new pedestrian-friendly downtown for Atlanta.
+- *(Cam 15 · T2 · P2)* Sadly, the passenger pigeon’s existence **came to** an end on 1 September 1914, when the last living specimen died at Cincinnati Zoo.
+- *(Cam 15 · T2 · P2)* ‘Many of the technologies that people have in mind when they **think about** de-extinction can be used as a form of “genetic rescue”,’ explains Shapiro.
+- *(Cam 15 · T2 · P3)* Students who had watched the Mr. Bean video ended up spending significantly more time **working on** the task, making twice as many predictions as the other two groups.
+- *(Cam 15 · T3 · P1)* Moore was the first modern English sculptor to achieve international critical acclaim and he is still **regarded as** one of the most important sculptors of the 20th century.
+- *(Cam 15 · T3 · P2)* In the developed world, it is **aimed at** niche markets where tap water is unavailable – for camping, on boats, or for the military, for instance.
+- *(Cam 15 · T3 · P3)* In Chinese and Japanese versions, often **known as** The Tiger Grandmother , the villain is a woman, and in both Iran and Nigeria, the victim is a boy.
+- *(Cam 15 · T4 · P1)* ‘It**’s not like** a rainforest that needs to have this huge expanse.
+- *(Cam 15 · T4 · P2)* The researchers found that other key regions in the brain’s frontal lobe also **responded to** the whistles, including those activated in response to sign language among deaf people.
 - *(Cam 16 · T1 · P1)* They are uniquely **adapted to** the extreme conditions of the Arctic Circle, where temperatures can reach -40°C.
-- *(Cam 16 · T1 · P1)* If climate change were to **lead to** their extinction, this would mean not only the loss of potential breakthroughs in human medicine, but more importantly, the disappearance of an intelligent, majestic animal.
-- *(Cam 16 · T1 · P2)* The burial chamber of the tomb, where the king’s body was **laid to** rest, was dug beneath the base of the pyramid, surrounded by a vast maze of long tunnels that had rooms off them to discourage robbers.
-- *(Cam 16 · T1 · P3)* Dr Stella Pachidi from Cambridge Judge Business School believes that some of the most fundamental changes are **happening as** a result of the ‘algorithmication’ of jobs that are dependent on data rather than on production – the so-called knowledge economy.
-- *(Cam 16 · T2 · P1)* However, the grass would soon **grow over** the geoglyph again unless it was regularly cleaned or scoured by a fairly large team of people.
-- *(Cam 16 · T2 · P1)* Alternatively, the carving may have been **carried out during** a Bronze or Iron Age ritual.
-- *(Cam 16 · T2 · P2)* In reality, says Yong, bacteria should not be **viewed as** either friends or foes, villains or heroes.
-- *(Cam 16 · T2 · P3)* For example, in one experiment that took place during the peak of a recent economic recession, graduating college seniors were asked to **reflect on** their job prospects.
-- *(Cam 16 · T3 · P1)* The trireme was **superseded by larger ships with** even more rowers.
-- *(Cam 16 · T3 · P2)* The slow but steady movement of glaciers tends to destroy anything at their bases, so the team **focused on stationary patches of ice, mostly above** 1,400 metres.
-- *(Cam 16 · T3 · P3)* The new findings, **published in** the journal Science , show that phytochromes control genetic switches in response to temperature as well as light to dictate plant development.
-- *(Cam 16 · T3 · P3)* The work was **done in** a model system, using a mustard plant called Arabidopsis , but Wigge says the phytochrome genes necessary for temperature sensing are found in crop plants as well.
+- *(Cam 16 · T1 · P2)* These grand, impressive tributes to the memory of the Egyptian kings have become **linked with** the country even though other cultures, such as the Chinese and Mayan, also built pyramids.
+- *(Cam 16 · T1 · P2)* Over 40,000 of these vessels, of various forms and shapes, were **discovered in** storerooms off the pyramid’s underground passages.
+- *(Cam 16 · T1 · P3)* In cases like this, Pachidi believes, a short-sighted view begins to **creep into** working practices whereby workers learn through the ‘algorithm’s eyes’ and become dependent on its instructions.
+- *(Cam 16 · T2 · P1)* The horse is **situated 2.5 km from** Uffington village on a steep close to the Late Bronze Age* (c. 7th century BCE) hillfort of Uffington Castle and below the Ridgeway, a long-distance Neolithic** track.
+- *(Cam 16 · T2 · P2)* Every species has its own colony of microbes, called a ‘microbiome’, and these microbes **vary not only between** species but also between individuals and within different parts of each individual.
+- *(Cam 16 · T2 · P3)* ‘In other words, wisdom is not solely an “inner quality” but rather **unfolds as** a function of situations people happen to be in.
+- *(Cam 16 · T3 · P1)* Then in the first centuries of the current era, Mediterranean shipbuilders **shifted to** another shipbuilding method, still in use today, which consisted of building the frame first and then proceeding with the hull and the other components of the ship.
+- *(Cam 16 · T3 · P2)* If something fragile dries and is windblown it might very soon be **lost to** science, or an arrow might be exposed and then covered again by the next snow and remain well-preserved.
+- *(Cam 16 · T3 · P2)* The researchers say that could be because many of those artefacts have already disintegrated or are still **frozen in** the ice.
+- *(Cam 16 · T3 · P3)* A warmer spring, and consequently a higher likeliness of a hot summer, will **result in** oak leafing before ash.
 - *(Cam 16 · T4 · P1)* Adjustments to the direction of the tunnel also had to be made whenever builders encountered geological problems or when it **deviated from** its set path.
-- *(Cam 16 · T4 · P2)* Younger school-aged children read stories on smartphones; older kids don’t read at all, but **hunch over** video games.
-- *(Cam 16 · T4 · P2)* Ziming Liu from San Jose State University has conducted a series of studies which indicate that the ‘new norm’ in reading is skimming, involving word-spotting and **browsing through** the text.
-- *(Cam 16 · T4 · P3)* Embarrassing AI failures receive a disproportionate amount of media attention, emphasising the message that we cannot **rely on** technology.
-- *(Cam 17 · T1 · P1)* The chosen route **ran beneath** existing main roads to minimise the expense of demolishing buildings.
-- *(Cam 17 · T1 · P2)* Built by the Romans in 90 AD, it **became a fortress with** four towers after the fifth century, and was then transformed into a village containing more than 200 houses.
-- *(Cam 17 · T1 · P2)* This opens the space up to families and a wider cross-section of society, instead of **catering only to** sportspeople and supporters.
-- *(Cam 17 · T1 · P3)* He has even-handed sympathy for both the fugitive king and the fierce republican regime that hunted him, and he **succeeds in** his desire to explore far more of the background of the story than previous books on the subject have done.
-- *(Cam 17 · T2 · P1)* Along with biblical texts, the scrolls include documents about sectarian regulations and religious writings that do not **appear in** the Old Testament.
-- *(Cam 17 · T2 · P2)* Over many generations, peoples such as the Aztecs and Incas transformed the plant by selecting and breeding plants with mutations* in their genetic structure, which **resulted in** desirable traits such as larger fruit.
-- *(Cam 17 · T2 · P3)* Setting aside such greats as Darwin and Einstein – whose monumental contributions are duly celebrated – we suggest that innovation is more a process of trial and error, where two steps forward may sometimes **come with** one step back, as well as one or more stops to the right or left.
-- *(Cam 17 · T3 · P1)* They emerged to hunt during the evening, night and early morning and tended to **retreat to** the hills and forest for shelter during the day.
+- *(Cam 16 · T4 · P2)* Parents and other passengers **read on** tablets or skim a flotilla of email and news feeds.
+- *(Cam 16 · T4 · P2)* There’s an old rule in neuroscience that does not **alter with** age: use it or lose it.
+- *(Cam 16 · T4 · P3)* Simply having previous experience with AI can significantly improve people’s opinions about the technology, as was **found in** the study mentioned above.
+- *(Cam 17 · T1 · P1)* Instead, the line used specially designed locomotives that were **fitted with** water tanks in which steam could be condensed.
+- *(Cam 17 · T1 · P2)* But rather than **reverting to** an arena, it became a market square, designed by Romanticist architect Lorenzo Nottolini.
+- *(Cam 17 · T1 · P3)* The day-by-day retelling of the fugitives’ doings provides delicious details: the cutting of the king’s long hair with agricultural shears, the use of walnut leaves to dye his pale skin, and the day Charles spent **lying on** a branch of the great oak tree in Boscobel Wood as the Parliamentary soldiers scoured the forest floor below.
+- *(Cam 17 · T2 · P1)* **According to** the prevailing theory, they are the work of a population that inhabited the area until Roman troops destroyed the settlement around 70 CE.
+- *(Cam 17 · T2 · P2)* And they have done it better in some ways, as the re-domesticated tomatoes are more nutritious than the ones we **eat at** present.
+- *(Cam 17 · T2 · P3)* Scientific discovery is popularly believed to **result from** the sheer genius of such intellectual stars as naturalist Charles Darwin and theoretical physicist Albert Einstein.
+- *(Cam 17 · T3 · P1)* The thylacine **appeared to occupy most types of terrain except dense rainforest, with** open eucalyptus forest thought to be its prime habitat.
 - *(Cam 17 · T3 · P2)* Between 1990 and 2012, the global land area **devoted to** growing oil palm trees grew from 6 to 17 million hectares, now accounting for around ten percent of total cropland in the entire world.
-- *(Cam 17 · T3 · P2)* Ellwood believes that reintroducing the bird’s nest fern into oil palm plantations could potentially allow these areas to recover their biodiversity, providing a home for all manner of species, from fungi and bacteria, to **invertebrates such as** insects, amphibians, reptiles and even mammals.
-- *(Cam 17 · T3 · P3)* Chapter five also has an interesting discussion of the technological advances that **led to** the construction of skyscrapers.
-- *(Cam 17 · T4 · P1)* The study, now **published in** the journal Agriculture, Ecosystems and Environment , set out to investigate the feeding activity of insectivorous bats in the farmland bordering the Ranomafana National Park in the southeast of the country.
-- *(Cam 17 · T4 · P2)* **According to** Ogilvie, the database provides multiple indicators for the same individuals, making it possible to analyse links between literacy, numeracy, wealth, and industriousness, for individual women and men over the long term.
-- *(Cam 17 · T4 · P3)* He **moved to** the US soon after, and as a student helped his university win its first national chess championship.
-- *(Cam 18 · T1 · P1)* ‘In the urban environment you’re **working with** very significant practical constraints, clearly, on what you can do and where.
-- *(Cam 18 · T1 · P2)* These trees have lower economic value for traditional timber markets, **compete for** growth with higher-value trees, shade out desirable regeneration and decrease the health of a stand leaving it more vulnerable to poor weather and disease.
-- *(Cam 18 · T1 · P3)* Altogether, there **are roughly 20,000 human-made objects in** orbit, from working satellites to small rocket pieces.
-- *(Cam 18 · T1 · P3)* Only this doesn’t quite **work for** a number of objects, such as a Russian rocket body designated in the database as object number 32280.
-- *(Cam 18 · T2 · P1)* Radiocarbon dating has revealed that work **continued at Stonehenge until** roughly 1600 BCE, with the bluestones in particular being repositioned multiple times.
-- *(Cam 18 · T2 · P2)* We want them to **aim for** the moral high ground, not for the troughs in which many of us spend some of our time.
+- *(Cam 17 · T3 · P3)* Building the Skyline is **organized into** two distinct parts.
+- *(Cam 17 · T3 · P3)* He descries the use of caissons, which enable workers to **dig down for** considerable distances, often below the water table, until they reach bedrock.
+- *(Cam 17 · T4 · P1)* DNA analysis showed that all six species of bat had **fed on** economically important insect pests.
+- *(Cam 17 · T4 · P2)* The database also reveals the case of Juliana Schweickherdt, a 50-year-old spinster **living in** the small Black Forest community of Wildberg, who was reprimanded in 1752 by the local weavers’ guild for ‘weaving cloth and combing wool, counter to the guide ordinance’.
+- *(Cam 17 · T4 · P3)* With Gareyev **lying down in** the machine, Rissman looked at how well connected the various regions of the chess player’s brain were.
+- *(Cam 18 · T1 · P1)* Inner-city agriculture is **booming from** Shanghai to Detroit and Tokyo to Bangkok.
+- *(Cam 18 · T1 · P2)* Thinnings and dense and dead wood removal for fire prevention also **center on** the production of low-use wood.
+- *(Cam 18 · T1 · P3)* Not all objects in orbit are known, and even those **included in** databases are not tracked consistently.
+- *(Cam 18 · T2 · P1)* As early as the 1970s, geologists have been adding their voices to the debate over how Stonehenge **came into** being.
+- *(Cam 18 · T2 · P2)* So we need to create powerful AI machines that are ‘human-friendly’- that have goals reliably **aligned with** our own values.
 - *(Cam 18 · T2 · P3)* Yet far from **fading into** insignificance, his thinking has carried down the centuries and still surprises today.
-- *(Cam 18 · T2 · P3)* For example, the subdivision of the city by function- with services and infrastructures **located in** the lower levels and wide and well-ventilated boulevards and walkways above for residents – is an idea that can be found in Georges-Eugene Haussmann’s renovation of Paris under Emperor Napoleon III between 1853 and 1870.
-- *(Cam 18 · T3 · P1)* But even treated wood has its limitations and only when a wider range of construction projects has been **proven in** practice will it be possible to see wood as a real alternative to concrete in constructing tall buildings.
-- *(Cam 18 · T3 · P2)* By the following April, the General Engineering Company had received 5,390 deposits for Doble Detroits, which were **scheduled for** delivery in early 1918.
-- *(Cam 18 · T3 · P3)* What is more, streaming appears to significantly – and negatively – affect those students **assigned to** the lowest sets.
-- *(Cam 18 · T4 · P1)* In North America, green roofs have **become mainstream, with** a wide array of expansive, accessible and food-producing roofs installed in buildings.
-- *(Cam 18 · T4 · P2)* In fact, she argues that her work has been misunderstood and **misapplied in** a range of ways.
-- *(Cam 18 · T4 · P3)* I have tried to provide guideposts to his rapidly shifting interests by characterizing different phases of his life as careers in different sciences, which is **reflected in** the titles of the chapters.
-- *(Cam 19 · T1 · P1)* Racket modifications mainly date back to the 1970s, when the amateur German tennis player Werner Fischer started **playing with** the so-called spaghetti-strung racket.
-- *(Cam 19 · T1 · P2)* In the ancient times, the inhabitants of these areas **relied heavily on** marine resources, including fish and salt.
-- *(Cam 19 · T1 · P2)* The rising power of ancient Rome required the Roman Republic to **deal with** piracy in the Mediterranean.
-- *(Cam 19 · T1 · P3)* At least three observations related to misinformation in the contemporary mass-media environment warrant the attention of researchers, policy makers, and really everyone who watches television, **listens to** the radio, or reads information online.
+- *(Cam 18 · T2 · P3)* Today, Leonardo’s ideas are not simply valid, they actually **suggest a way forward for** urban planning.
+- *(Cam 18 · T3 · P1)* Fly ash, a byproduct of coal-burning power plants, can be **incorporated into** concrete mixes to make up as much as 15 to 30% of the cement, without harming the strength or durability of the resulting mix.
+- *(Cam 18 · T3 · P2)* After **sitting overnight in** freezing temperatures, the car was pushed out into the road and left to sit for over an hour in the frosty morning air.
+- *(Cam 18 · T4 · P1)* Rooftops **covered with** grass, vegetable gardens and lush foliage are now a common sight in many cities around the world.
+- *(Cam 18 · T4 · P2)* In many schools today you will see hallways **covered in** motivational posters and hear speeches on the mindset of great sporting heroes who simply believed their way to the top.
+- *(Cam 18 · T4 · P3)* His book on the subject, The Origin of Continents and Oceans , **went through** four editions and was the focus of an international controversy in his lifetime and for some years after his death.
+- *(Cam 19 · T1 · P1)* While he continued to use natural string in the crosses, in 2012 he **switched to** a synthetic string for the mains.
+- *(Cam 19 · T1 · P1)* For example, much of the serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets, and today many professionals have the weight **adjusted during** the manufacturing process.
+- *(Cam 19 · T1 · P2)* Even high-ranking members of the state were not beyond **engaging in** such activities.
+- *(Cam 19 · T1 · P3)* In other words, we worry that misinformation might lead people to hold misperceptions (or false beliefs) and that these misperceptions, especially when they **occur among** large groups of people, may have detrimental, downstream consequences for health, social harmony, and the political climate.
 - *(Cam 19 · T2 · P1)* Called the ‘atmospheric steam engine’, Newcomen’s invention was originally **used to** power machines that pumped water out of mines.
-- *(Cam 19 · T2 · P1)* This rapid urbanisation brought significant challenges, as overcrowded cities **suffered from** pollution and inadequate sanitation.
-- *(Cam 19 · T2 · P2)* These include factors such as the competitor’s degree of confidence, how much they believe they can control the situation’s outcome, and whether they’re **looking forward to** the event or not.
-- *(Cam 19 · T2 · P2)* Negative stress responses can be damaging to both physical and mental health – and repeated episodes of anxiety **coupled with** negative responses can increase risk of heart disease and depression.
-- *(Cam 19 · T2 · P3)* There has been a considerable amount of research on high performance over the last century that suggests it **goes way beyond** tested intelligence.
-- *(Cam 19 · T2 · P3)* He **struggled against** rejection in early life but was undeterred.
-- *(Cam 19 · T3 · P1)* **Judging by** the bones which the researchers unearthed in the Kelo caves, people living there mainly hunted the Rothschild’s cuscus, a possum-like creature that still lives on Obi today.
-- *(Cam 19 · T3 · P2)* When peatlands are **drained for** cultivation, they become net carbon emitters instead of active carbon stores, and, according to Marcel Silvius, head of Climate-smart Land-use at WI, this practice causes six per cent of all global carbon emissions.
-- *(Cam 19 · T3 · P3)* If we had, Waibel would have been able to **speak more comfortably in** his native German and I would have been able to hear his words in English.
-- *(Cam 19 · T3 · P3)* It needs to **work offline, for** situations where internet access isn’t possible, and to address apprehensions about the amount of private speech data accumulating in the cloud, having been sent to servers for processing.
-- *(Cam 19 · T4 · P1)* In Britain, as the average spring temperature has **increased by** roughly 0.5°C over the past 20 years, species have advanced by between three days and a week on average, to keep in line with cooler temperatures.
-- *(Cam 19 · T4 · P1)* This may be because the caterpillar **exists solely on** a diet of a plant called honeysuckle.
+- *(Cam 19 · T2 · P1)* Although industrialisation increased the country’s economic output overall and improved the standard of **living for** the middle and upper classes, many poor people continued to struggle.
+- *(Cam 19 · T2 · P2)* Research shows that the challenge states **lead to** good performance, while threat states lead to poorer performance.
+- *(Cam 19 · T2 · P2)* Recreating competitive pressure during training can also help athletes learn how to **deal with** stress.
+- *(Cam 19 · T2 · P3)* Bloom’s team **looked at** a group of extraordinarily high achieving people in disciplines as varied as ballet, swimming, piano, tennis, maths, sculpture and neurology.
+- *(Cam 19 · T3 · P1)* So, they **travelled to** Obi to look for sites that might reveal evidence of early occupation.
+- *(Cam 19 · T3 · P2)* But **according to** the World Wide Fund for Nature (WWFN), half of the world’s wetlands have disappeared since 1990 – converted or destroyed for commercial development, drainage schemes and the extraction of minerals and peat*.
+- *(Cam 19 · T3 · P2)* ‘The idea is that people in a developing country will only protect wetlands if they **value and profit from** them,’ says McCartney.
+- *(Cam 19 · T3 · P3)* Whether that happens, and how quickly, will probably **depend not so much on** the earpieces themselves, but on the prevalence of voice-controlled devices and artificial translation in general.
+- *(Cam 19 · T4 · P1)* Scientists **refer to** the timing of such lifecycle events as ‘phenology’, so when an animal or plant starts to do something earlier in the year than it usually does, it is said to be ‘advancing its phenology’.
+- *(Cam 19 · T4 · P1)* Therefore, as the climate continues to warm, species like the Silver-studded Blue might be able to **switch to** multiple generations in the UK as well, and so begin to extract benefits from the additional warmth, potentially leading to population increases.
 - *(Cam 19 · T4 · P3)* We’re apparently ruthless, with strong impulses to **compete against** each other for resources and to accumulate power and possessions.
-- *(Cam 19 · T4 · P3)* So, it could well be that the same thing has **happened to** us.
-- *(Cam 20 · T1 · P1)* Six were caught, but there **were no females amongst** them and all but one died within a few months of captivity.
-- *(Cam 20 · T1 · P2)* Any reintroduction will **start from** a very low base.
-- *(Cam 20 · T1 · P2)* Local factors appear to have **contributed to** their survival.
-- *(Cam 20 · T1 · P3)* In contrast, stress didn’t change how they **responded to** good news (such as learning that the likelihood of card fraud was lower than they’d thought).
+- *(Cam 19 · T4 · P3)* I believe that the end of the hunter-gatherer lifestyle and the advent of farming was connected to a psychological change that **occurred in** some groups of people.
+- *(Cam 20 · T1 · P1)* As a result, during 1980-97, the surviving population was **evacuated to** three island sanctuaries: Codfish Island, Maud Island and Little Barrier Island.
+- *(Cam 20 · T1 · P2)* Today, elms still **exist in** the southern English countryside but mostly only in low hedgerows between fields.
+- *(Cam 20 · T1 · P3)* My colleague and I, both neuroscientists, wanted to investigate how the mind **operates under** stress, so we visited some local fire stations.
+- *(Cam 20 · T1 · P3)* Repeatedly checking your phone, **according to** a survey conducted by the American Psychological Association, is related to stress.
+- *(Cam 20 · T2 · P1)* In winter, the Florida manatee is typically **restricted to** Florida.
+- *(Cam 20 · T2 · P2)* Afterwards, people tend to be **left with** a sense of guilt that not only increases their negative mood, but also reinforces their tendency to procrastinate.
+- *(Cam 20 · T2 · P3)* During the first robo-umpire season, players **complained about** some strange calls.
+- *(Cam 20 · T3 · P1)* The compressed gas gave up some of its heat as it **moved through** the condenser.
+- *(Cam 20 · T3 · P1)* Today, the US frozen food industry has a turnover of over $67 billion annually, with $26.6 billion of that **sold to consumers for** home consumption.
+- *(Cam 20 · T3 · P2)* The resulting young coral can then be **displayed in** the tank in Tiny Giants.
+- *(Cam 20 · T4 · P1)* Stieglitz was impressed, and exhibited the drawings later that year at his gallery on Fifth Avenue, New York City, where the works of many avant-garde artists and photographers were **introduced to** the American public.
+- *(Cam 20 · T4 · P2)* The elevation work was **carried out as** part of Miami Beach’s ambitious but much-needed stormwater-management programme.
+- *(Cam 20 · T4 · P2)* Chowdhury says that the results are very visible, comparing a barren plot of land to the ‘beautiful, lush green vegetable garden’ **sitting beside** it, in which he and his team have been working with the farmers.
+- *(Cam 21 · T1 · P1)* In 1907, when Gwendoline **came into** her inheritance (Margaret would follow in 1909), the sisters were said to be the wealthiest unmarried women in Britain.
+- *(Cam 21 · T1 · P1)* Margaret also stopped collecting around this time, but **started again in** the 1930s acquiring, on a relatively small scale, work by contemporary British artists.
+- *(Cam 21 · T1 · P2)* 'We **see from** animal models and human studies that volition and intentionality is important,' she says.
 
 <a id="p2"></a>
 
 ### 2. Danh từ + giới từ (collocation)
 
-<small>905 câu · hiện 150</small>
+<small>982 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* During the sixth and seventh centuries, the inhabitants of the modern-day states of Gujarat and Rajasthan in North-western India developed a method of gaining **access to** clean, fresh groundwater during the dry season for drinking, bathing, watering animals and irrigation.
 - *(Cam 10 · T1 · P1)* Tourists **flock to** wells in far-flung corners of northwestern India to gaze in wonder at these architectural marvels from 1,000 years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.
@@ -365,7 +365,7 @@
 
 ### 3. Giới từ chỉ nơi chốn (in)
 
-<small>491 câu · hiện 150</small>
+<small>554 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* During the sixth and seventh centuries, the inhabitants of the modern-day states of Gujarat and Rajasthan **in North-western India** developed a method of gaining access to clean, fresh groundwater during the dry season for drinking, bathing, watering animals and irrigation.
 - *(Cam 10 · T1 · P1)* **In Patan**, the state’s ancient capital, the stepwell of Rani Ki Vav (Queen’s Stepwell) is perhaps the finest current example.
@@ -522,7 +522,7 @@
 
 ### 4. Giới từ chỉ thời gian (in)
 
-<small>345 câu · hiện 150</small>
+<small>384 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* However, some important sites in Gujarat have recently undergone major restoration, and the state government announced **in June** last year that it plans to restore the stepwells throughout the state.
 - *(Cam 10 · T1 · P1)* Incredibly, **in January** 2001, this ancient structure survived a devastating earthquake that measured 7.6 on the Richter scale.
@@ -679,7 +679,7 @@
 
 ### 5. Giới từ kép / cụm giới từ
 
-<small>328 câu · hiện 150</small>
+<small>365 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* Another example is the Surya Kund in Modhera, northern Gujarat, **next to** the Sun Temple, built by King Bhima I in 1026 to honour the sun god Surya.
 - *(Cam 10 · T1 · P1)* Today, following years of neglect, many of these monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognised the importance of preserving them **as part of** the country’s rich history.
@@ -836,7 +836,7 @@
 
 ### 6. such as (ví dụ như) + N
 
-<small>143 câu</small>
+<small>158 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* But perhaps the most impressive features are the intricate decorative sculptures that embellish many stepwells, showing activities from fighting and dancing to everyday acts **such as** women combing their hair and churning butter.
 - *(Cam 10 · T1 · P1)* At 65 metres long, 20 metres wide and 27 metres deep, Rani Ki Vav features 500 distinct sculptures carved into niches throughout the monument, depicting gods **such as** Vishnu and Parvati in various incarnations.
@@ -981,12 +981,19 @@
 - *(Cam 20 · T2 · P2)* They are less likely to practise healthy behaviours, **such as** eating a healthy diet and regularly exercising, and use destructive coping strategies to manage their stress.
 - *(Cam 20 · T3 · P1)* By 1959, Americans were spending $2.7 billion annually on frozen foods, and half a billion of that was spent on ready-prepared meals **such as** the TV Dinner.
 - *(Cam 20 · T4 · P3)* For thousands of years, livestock guard dogs worked alongside shepherds to protect their sheep, goats and cattle from predators **such as** wolves and bears.
+- *(Cam 21 · T1 · P1)* While the sisters were wealthy in relative terms, their income was nothing compared to the fortunes of American art collectors of this period, **such as** J. Pierpont Morgan.
+- *(Cam 21 · T1 · P2)* The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities **such as** Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise at night.
+- *(Cam 21 · T1 · P3)* Following the abolition of slavery in the British Empire, cane sugar was imported to Britain from places which retained the practice, **such as** Cuba and Brazil.
+- *(Cam 21 · T2 · P1)* Intriguingly, REM sleep activity was high in brain regions involved in processing visual information, especially images related to physical activities **such as** flying, which suggests that this may possibly be what the pigeons were dreaming about.
+- *(Cam 21 · T2 · P2)* Certainly, the areas that now prospered were to the north, **such as** Great Zimbabwe.
+- *(Cam 21 · T2 · P3)* This means that a malicious AI can target another AI to make it behave in a certain way, **such as** forcing it to make wrong predictions.
+- *(Cam 21 · T3 · P1)* Physical barriers **such as** railways, pipelines and fences can block the seasonal migration routes of this transboundary species.
 
 <a id="p7"></a>
 
 ### 7. Giới từ chỉ nơi chốn (at)
 
-<small>114 câu</small>
+<small>123 câu</small>
 
 - *(Cam 10 · T1 · P3)* For Robert B. Cialdini, Professor of Psychology **at Arizona State University**, one reason that companies don’t succeed as often as they should is that innovation starts with recruitment.
 - *(Cam 10 · T1 · P3)* Studies **at Harvard Business School** show that, although some individuals may be more creative than others, almost every individual can be creative in the right circumstances.
@@ -1102,12 +1109,21 @@
 - *(Cam 20 · T4 · P3)* In a study carried out in Australia by Linda van Bommel and Chris Johnson **at the University** of Tasmania, more than 65 per cent of herders reported that predation stopped completely after they got the dogs, and almost all the rest saw a decrease in attacks.
 - *(Cam 20 · T4 · P3)* Julie Young, **at Utah State University** in the US, believes this result applies widely.
 - *(Cam 20 · T4 · P3)* Looking at all the published evidence, Bethany Smith **at Nottingham Trent University** in the UK found that up to 88 per cent of farmers said they no longer killed predators after using dogs – but warned that such self-reported results must be taken with a pinch of salt.
+- *(Cam 21 · T1 · P1)* Later in the conflict, both sisters decided to volunteer at a canteen for troops **at Troyes**, in northern France; Gwendoline in 1916, followed by Margaret in 1917.
+- *(Cam 21 · T1 · P1)* Her philanthropic pursuits then became focused almost exclusively on social causes and the development of the sisters' home **at Gregynog Hall** into a conference center and venue for the Gregynog Festival of Music and Poetry.
+- *(Cam 21 · T2 · P2)* These objects were all found **at the royal burial site** and date to c. 1150.
+- *(Cam 21 · T2 · P3)* Stuart Russell, a professor of computer science **at the University** of California, Berkeley, has long advocated a more sensible and realistic approach that focuses on simple everyday applications of AI instead of the hypothetical takeover by super-intelligent robots.
+- *(Cam 21 · T2 · P3)* Similarly, Rodney Brooks, professor of robotics **at Massachusetts Institute** of Technology, writes that 'almost all innovations in robotics and AI take far, far, longer to be really widely deployed than people in the field and outside the field imagine'.
+- *(Cam 21 · T3 · P3)* **At Kalambo Falls** in Zambia, researchers found buried logs that had been shaped with stone tools so that they interlocked.
+- *(Cam 21 · T4 · P1)* Kanyiva Muindi is an epidemiologist and air pollution research fellow **at the African Population and Health Research Centre** in Nairobi.
+- *(Cam 21 · T4 · P2)* Tsimpli and her colleagues are investigating whether these low learning outcomes could be caused by an Indian school system where the language that children are taught in often differs from the language used **at home**.
+- *(Cam 21 · T4 · P2)* 'They are as keen as us to understand how the challenging context of deprivation can be attenuated when focusing on the languages children learn and use while **at school**.
 
 <a id="p8"></a>
 
 ### 8. Giới từ chỉ thời gian (for)
 
-<small>97 câu</small>
+<small>102 câu</small>
 
 - *(Cam 10 · T1 · P2)* It is far more ambitious than it looks, bearing in mind the historical imbalance in favour of roads **for the last fifty years**, but would achieve a marked break in the link between road transport growth and economic growth, without placing restrictions on the mobility of people and goods.
 - *(Cam 10 · T2 · P1)* Macfarlane had wondered **for a long time** how the Industrial Revolution came about.
@@ -1206,12 +1222,17 @@
 - *(Cam 20 · T4 · P2)* Even if we stopped all CO2 emissions tomorrow, we would continue to see the impact of the CO2 already released since industrial times, with scientists forecasting that global warming would continue **for around 40 years**.
 - *(Cam 20 · T4 · P2)* ‘Urban cooling is literally a matter of life and death **for our future** in LA,’ says Spotts.
 - *(Cam 20 · T4 · P3)* **For thousands** of years, livestock guard dogs worked alongside shepherds to protect their sheep, goats and cattle from predators such as wolves and bears.
+- *(Cam 21 · T1 · P2)* 'It is likely better to have more frequency of silence **for a few minutes** at a time than a longer period of silence only once a week.
+- *(Cam 21 · T2 · P2)* The archaeological record **for the 10th century** shows a marked increase in the number of domesticated cattle in the area as well as cotton cultivation and weaving, as indicated by abundant finds of spindle whorls.
+- *(Cam 21 · T3 · P2)* It is not unusual for cars and minibuses to queue **for 20 minutes** at a key intersection.
+- *(Cam 21 · T3 · P3)* We have had evidence **for a long time** now that Neanderthals painted on cave walls.
+- *(Cam 21 · T3 · P3)* This was the idea, promoted **for decades**, that in most prehistoric societies the men went out to hunt and the women looked after the home.
 
 <a id="p9"></a>
 
 ### 9. Giới từ chỉ nơi chốn (on)
 
-<small>82 câu</small>
+<small>86 câu</small>
 
 - *(Cam 10 · T3 · P3)* An important archaeological discovery **on the island** of Efate in the Pacific archipelago of Vanuatu has revealed traces of an ancient seafaring people, the distant ancestors of today’s Polynesians.
 - *(Cam 11 · T1 · P1)* At the moment, though, more needs to be done to reduce the detrimental impact it would have **on the environment**, particularly as regards the use of energy.
@@ -1295,12 +1316,16 @@
 - *(Cam 20 · T3 · P3)* Meanwhile, for anthropology Professor Kathleen Richardson, the idea of ‘colonisation’ of other planets seemed morally dubious: ‘I think whether we do something **on Earth** or on Mars we should always do it in the spirit of a genuine interest in “the Other”, not to impose a particular model, but to meet “the Other”.”
 - *(Cam 20 · T4 · P1)* Stieglitz was impressed, and exhibited the drawings later that year at his gallery **on Fifth Avenue**, New York City, where the works of many avant-garde artists and photographers were introduced to the American public.
 - *(Cam 20 · T4 · P3)* For example, their presence has been found to protect birds which build their nests **on the ground** in fields, where foxes would normally raid them.
+- *(Cam 21 · T2 · P2)* The presence of glass beads, almost certainly from India, indicate there was trade of some sort with other states **on the coast** who, in turn, traded with merchants travelling from India by sea.
+- *(Cam 21 · T3 · P3)* We have had evidence for a long time now that Neanderthals painted **on cave walls**.
+- *(Cam 21 · T3 · P3)* Nevertheless, in the Rising Star cave system in South Africa where the H. naledi remains were found, researchers have found what seem to be etchings – resembling rudimentary artwork – **on the cave walls**, though these have yet to be firmly dated.
+- *(Cam 21 · T4 · P2)* It may be that these low learning outcomes are because of the way education is provided in India, with a huge focus **on Hindi** and English as the mediums of instruction, to the potential detriment of children unfamiliar with those languages,' explains Tsimpli.
 
 <a id="p10"></a>
 
 ### 10. Giới từ chỉ thời gian (at)
 
-<small>61 câu</small>
+<small>69 câu</small>
 
 - *(Cam 10 · T1 · P2)* **At the same time** greater efforts must be made to achieve a modal shift.
 - *(Cam 10 · T1 · P3)* **At the other end** of the scale is the 1980s
@@ -1363,12 +1388,20 @@
 - *(Cam 19 · T4 · P3)* Humans **at that time** were hunter-gatherers: people who lived by hunting wild animals and collecting wild plants.
 - *(Cam 20 · T3 · P3)* ‘But the divide is not so clear cut, and that is why the worlds seem to collide **at times**,’ she said.
 - *(Cam 20 · T4 · P1)* O’Keeffe died in 1986 **at the age** of ninety-eight, but her rich legacy of some 900 paintings has continued to attract subsequent generations of artists and art lovers who derive inspiration from these very American images.
+- *(Cam 21 · T1 · P1)* The sisters collected French Impressionist paintings **at a time** when such art was routinely ignored by individuals and institutions alike.
+- *(Cam 21 · T1 · P2)* The World Health Organization has recently designated excessive noise as an 'underestimated threat' to public health, and has said that people living in cities such as Mumbai, Tokyo and Buenos Aires are being exposed to far more than the recommended 40 decibels of noise **at night**.
+- *(Cam 21 · T1 · P2)* Participants had their brains scanned using functional magnetic resonance imaging **at the beginning** and end of the trial.
+- *(Cam 21 · T1 · P2)* 'It is likely better to have more frequency of silence for a few minutes **at a time** than a longer period of silence only once a week.
+- *(Cam 21 · T3 · P2)* Dar es Salaam's reliance on four arterial roads into the city is a legacy of the colonial government that planned the city **at the start** of the 20th century to cater for a population of 35,000.
+- *(Cam 21 · T3 · P2)* As a result, queues are considerable **at peak times**.
+- *(Cam 21 · T3 · P3)* **At the same time**, I think the species' small brains are a distraction.
+- *(Cam 21 · T4 · P3)* Right **at the end** of the process, he learnt that the paper had stretched slightly and so the final one overlapped the first by a centimetre (which may not seem a great deal, but when that represents 2 per cent of the Earth's diameter, it's equivalent to obliterating the Himalayas or wiping out Chile).
 
 <a id="p11"></a>
 
 ### 11. Động từ + tân ngữ + giới từ (thank sb for, provide sb with…)
 
-<small>55 câu</small>
+<small>63 câu</small>
 
 - *(Cam 10 · T2 · P1)* Macfarlane **compares the puzzle to** a combination lock.
 - *(Cam 10 · T3 · P3)* Certainly it **distinguished them from** their ancestors, but what gave them the courage to launch out on such risky voyages?
@@ -1425,12 +1458,20 @@
 - *(Cam 20 · T4 · P3)* Livestock guard dogs, traditionally used to **protect farm animals from** predators, are now being used to protect the predators themselves
 - *(Cam 20 · T4 · P3)* For thousands of years, livestock guard dogs worked alongside shepherds to **protect their sheep, goats and cattle from** predators such as wolves and bears.
 - *(Cam 20 · T4 · P3)* Guard dogs can deliver unexpected benefits by **protecting vulnerable wildlife from** predators.
+- *(Cam 21 · T1 · P2)* 'There are no "earlids" that can **protect your brain from** noise,' says Nick Antonio, an acoustic consultant who has contributed to the British and international standards for noise.
+- *(Cam 21 · T1 · P3)* Where once only tiny quantities of sugar could be produced, now new techniques, varieties, fertilisers, irrigation systems and much more have **turned gleaming white sugar into** a ubiquitous chemical.
+- *(Cam 21 · T2 · P3)* But what many politicians do not understand is that simply **adding a neural network to** a problem will not automatically mean that you'll find a solution.
+- *(Cam 21 · T2 · P3)* Similarly, **adding a neural network to** a system of government does not mean it will be instantaneously more inclusive or fair.
+- *(Cam 21 · T2 · P3)* Instead of painting an unrealistic picture of the power of AI, it is important to take a step back and **separate the actual technological capabilities of AI from** fantasy.
+- *(Cam 21 · T2 · P3)* Using AI simply for the sake of AI may not always be productive or useful, and not every issue is best addressed by **applying machine intelligence to** it.
+- *(Cam 21 · T4 · P1)* A few years later, Kenyan scientists confirmed what their Nigerian peers and others had already found: manure worked to improve the process of **converting the weed into** gas.
+- *(Cam 21 · T4 · P1)* The community received a pair of donated biogas digesters – machines that would **transform a mix of water hyacinth and cow dung into** biogas for cooking.
 
 <a id="p12"></a>
 
 ### 12. Giới từ chỉ thời gian (over)
 
-<small>48 câu</small>
+<small>54 câu</small>
 
 - *(Cam 10 · T2 · P3)* By contrast, the audience encourage an opera or a play **over a specific time**, which is the duration of the performance.
 - *(Cam 10 · T3 · P1)* In most industrialised countries **over the past few years** the fastest growth has been seen in the area of services.
@@ -1480,12 +1521,18 @@
 - *(Cam 20 · T2 · P2)* In one study of over 3,000 German students **over a six-month period**, those who reported procrastinating over their university work were also more likely to engage in study-related misconduct, such as cheating and plagiarism.
 - *(Cam 20 · T2 · P3)* **Over time**, as baseball evolves, ABS can allow the zone to change with it.”
 - *(Cam 20 · T4 · P1)* **Over the next two decades** she made almost annual trips to New Mexico, staying up to six months there, painting in relative solitude, then returning to New York each winter to exhibit the new work at Stieglitz’s gallery.
+- *(Cam 21 · T1 · P1)* **Over the next 12 years**, the sisters amassed the bulk of their Impressionist collection, including six further works by Monet, two more by Manet, and three by Renoir, including his well-known painting La Parisienne.
+- *(Cam 21 · T1 · P3)* But this is a history not just of cane sugar but also of beet sugar, an equally important form of traded sugar **over the last hundred years**.
+- *(Cam 21 · T1 · P3)* This is also a history of capitalists and sugar dynasties, as well as corporations that in some cases have remained influential **over very long periods**.
+- *(Cam 21 · T1 · P3)* **Over the same time**, there has been a massive increase in consumption.
+- *(Cam 21 · T3 · P3)* Discoveries have come thick and fast **over the last decade** or so, and these have forced us to rethink many crucial points, such as how old our species is – about 300,000 years old as opposed to 200,000 – and what extinct hominins, such as our cousins the Neanderthals, were really like.
+- *(Cam 21 · T4 · P1)* The mixture goes in one end – think of it as a mouth – and **over the next 20 to 30 days**, it goes through a fermentation process and breaks down, giving off gas that comes out the other end.
 
 <a id="p13"></a>
 
 ### 13. Giới từ chỉ thời gian (by)
 
-<small>46 câu</small>
+<small>52 câu</small>
 
 - *(Cam 10 · T1 · P2)* The ambitious objective can only be fully achieved by 2020, but proposed measures are nonetheless a first essential step towards a sustainable transport system which will ideally be in place in 30 years‟ time, that is **by 2040**.
 - *(Cam 10 · T2 · P1)* **By the 1740s**, about the time that infant mortality was dipping, the drink was common.
@@ -1533,12 +1580,18 @@
 - *(Cam 20 · T3 · P2)* As a result, vast areas – including massive chunks of Australia’s Great Barrier Reef – have already been destroyed, and scientists advise that more than 90% of reefs could be lost **by 2050** unless urgent action is taken to tackle global heating and greenhouse gas emissions.
 - *(Cam 20 · T4 · P1)* **By the time** she graduated from high school in 1905, she had determined to make her way as an artist.
 - *(Cam 20 · T4 · P1)* **By the mid-1920s**, O’Keeffe was recognized as one of America’s most important and successful artists, widely known for the architectural pictures that dramatically depict the soaring skyscrapers of New York.
+- *(Cam 21 · T1 · P1)* **By the early 1920s**, Gwendoline felt increasingly uncomfortable buying art works when faced with the poverty and social upheaval created by the First World War.
+- *(Cam 21 · T2 · P2)* The kingdom of Mapungubwe was already in decline **by the late 13th century**, probably because overpopulation placed too much stress on local resources, a situation that may have been brought to a crisis point by a series of droughts.
+- *(Cam 21 · T3 · P1)* **By 2000**, the global saiga population had hit an all-time low of just 21,000 individuals.
+- *(Cam 21 · T3 · P2)* United Nations projections anticipate it will become a megacity within seven years as its population passes 10 million, reaching 13.4 million **by 2035**.
+- *(Cam 21 · T3 · P2)* Daniel Hoornweg for the Global Cities Institute forecasts the city could be home to an incredible 73.7 million people **by 2100**.
+- *(Cam 21 · T4 · P1)* But **by the 1980s**, it had 'escaped' out of the country via the Kagera river and made its way downstream to Lake Victoria.
 
 <a id="p14"></a>
 
 ### 14. Giới từ chỉ thời gian (from)
 
-<small>37 câu</small>
+<small>41 câu</small>
 
 - *(Cam 10 · T1 · P2)* The number of cars on European Union (EU) roads saw an increase of three million cars each year **from 1990** to 2010, and in the next decade the EU will see a further substantial increase in its fleet.
 - *(Cam 10 · T2 · P1)* Macfarlanes case has been strengthened by support **from notable quarters** – Roy Porter, the distinguished medical historian, recently wrote a favourable appraisal of his research.
@@ -1577,12 +1630,60 @@
 - *(Cam 20 · T4 · P1)* After attending university and then training college, she became an art teacher and taught in elementary schools, high schools, and colleges in Virginia, Texas, and South Carolina **from 1911** to 1918.
 - *(Cam 20 · T4 · P1)* **From the 1950s** into the 1970s, O’Keeffe travelled widely, making trips to Asia, the Middle East, and Europe.
 - *(Cam 20 · T4 · P3)* These dogs are raised **from an early age** with the animals they will be watching and eventually these animals become the dog’s family.
+- *(Cam 21 · T1 · P1)* The sisters began to make regular art purchases **from 1908**, which roughly coincided with the dates of their inheritance.
+- *(Cam 21 · T1 · P3)* Further processes involved boiling (**from the 19th century**, this often involved vacuum systems) and the separation of sugar from other materials in a process known as refinement.
+- *(Cam 21 · T2 · P2)* Archaeology has revealed extensive layers of bones and manure, which indicate that **from the 9th century** CE there were large cattle herds, the traditional source of political power in southern African communities.
+- *(Cam 21 · T2 · P2)* Occupation on the hill dates **from the 11 th century** and the entire complex was surrounded by a wooden palisade*, as indicated by postholes made in the rock.
 
 <a id="p15"></a>
 
-### 15. Giới từ chỉ nơi chốn (around)
+### 15. Giới từ chỉ thời gian (during)
 
-<small>35 câu</small>
+<small>37 câu</small>
+
+- *(Cam 10 · T1 · P1)* **During the sixth and seventh centuries**, the inhabitants of the modern-day states of Gujarat and Rajasthan in North-western India developed a method of gaining access to clean, fresh groundwater during the dry season for drinking, bathing, watering animals and irrigation.
+- *(Cam 10 · T1 · P1)* It was built by Queen Udayamati **during the late 11th century**, but became silted up following a flood during the 13th century.
+- *(Cam 10 · T3 · P1)* Travel, except **during the Dark Ages**, has continued to grow and, throughout recorded history, has played a vital role in the development of civilisations and their economies.
+- *(Cam 10 · T4 · P2)* He finally took a break and **during eight months** in Santa Fe, Zappaterra learned about alternative healing techniques not taught at Harvard.
+- *(Cam 11 · T2 · P1)* **During the seventeenth and eighteenth centuries**, the entire site became covered with a layer of hard grey clay, which minimised further erosion.
+- *(Cam 11 · T4 · P2)* We need to foster an awareness of film sound as well as film space so as to truly appreciate an art form that sprang to life **during the twentieth century** – the modern film.
+- *(Cam 12 · T3 · P1)* **During a period** of three days, a group of volunteers from the breeding centre worked around the clock to prepare the young tortoises for transport.
+- *(Cam 12 · T4 · P1)* The glass made **during this time** was highly coloured due to the impurities of the raw material.
+- *(Cam 12 · T4 · P1)* The secret of glass making was taken across Europe by the Romans **during this century**.
+- *(Cam 13 · T3 · P2)* Mark VanDam of Washington State University at Spokane and colleagues equipped parents with recording devices and speech-recognition software to study the way they interacted with their youngsters **during a normal day**.
+- *(Cam 13 · T3 · P2)* Scientists from the University of Washington and the University of Connecticut collected thousands of 30-second conversations between parents and their babies, fitting 26 children with audio-recording vests that captured language and sound **during a typical eight-hour day**.
+- *(Cam 14 · T1 · P3)* Those particularly appropriate to the hospitality industry include allowing adequate breaks **during the working day**, staff functions that involve families, and providing health and well-being opportunities.
+- *(Cam 14 · T2 · P2)* Miasmas were feared as the principal agents of disease and epidemics for centuries, and were used to explain the spread of infection from the Middle Ages right through to the cholera outbreaks in London and Paris **during the 1850s**.
+- *(Cam 16 · T3 · P2)* They found that some periods had produced lots of artefacts, which indicates that people had been pretty active in the mountains **during those times**.
+- *(Cam 16 · T3 · P2)* But there were few or no signs of activity **during other periods**.
+- *(Cam 16 · T3 · P2)* Archaeologists assumed people would stick to lower elevations **during a time** like the Late Antique Little Ice Age, a short period of deeper-than-usual cold from about 536-600 CE.
+- *(Cam 16 · T3 · P3)* Researchers have revealed that molecules called phytochromes – used by plants to detect light **during the day** – actually change their function in darkness to become cellular temperature gauges that measure the heat of the night.
+- *(Cam 16 · T3 · P3)* **During the day**, sunlight activates the molecules, slowing down growth.
+- *(Cam 16 · T3 · P3)* ‘Just as mercury rises in a thermometer, the rate at which phytochromes revert to their inactive state **during the night** is a direct measure of temperature,’ says Wigge.
+- *(Cam 16 · T3 · P3)* Wigge believes phytochrome thermo-sensing evolved at a later stage, and co-opted the biological network already used for light-based growth **during the downtime** of night.
+- *(Cam 16 · T3 · P3)* Other species, such as daffodils, have considerable temperature sensitivity, and can flower months in advance **during a warm winter**.
+- *(Cam 17 · T1 · P2)* Even today, architects and planners are finding new ways to adapt the mono-functional sports arenas which became emblematic of modernisation **during the 20th century**.
+- *(Cam 17 · T1 · P2)* With the growing interest in conservation **during the 19th century**, it was converted back into an arena for the staging of bullfights, thereby returning the structure to its original use as a venue for public spectacles.
+- *(Cam 17 · T3 · P1)* They emerged to hunt **during the evening**, night and early morning and tended to retreat to the hills and forest for shelter during the day.
+- *(Cam 17 · T3 · P1)* Although mainly nocturnal, it was sighted moving **during the day** and some individuals were even recorded basking in the sun.
+- *(Cam 17 · T3 · P2)* It’s almost certainly in the soap we wash with in the morning, the sandwich we have for lunch, and the biscuits we snack on **during the day**.
+- *(Cam 17 · T4 · P2)* **During this period**, Germany and Scandinavia had excellent literacy rates, but their economies grew slowly and they industrialised late.
+- *(Cam 18 · T2 · P1)* ** Celtic – The Celts were people who lived in Britain and northwest Europe **during the Iron Age** from 600 BCE to 43 CE
+- *(Cam 19 · T1 · P1)* It was an incredible achievement by any standard – made even more remarkable by the fact that he did this **during a period** considered to be one of the strongest in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few.
+- *(Cam 20 · T1 · P1)* As a result, **during 1980**-97, the surviving population was evacuated to three island sanctuaries: Codfish Island, Maud Island and Little Barrier Island.
+- *(Cam 20 · T1 · P2)* Around 25 million elms, accounting for 90% of all elm trees in the UK, died **during the 1960s** and ’70s of Dutch elm disease.
+- *(Cam 20 · T2 · P1)* However, laws in certain parts of Florida now limit boat speeds **during winter**, allowing slow-moving manatees more time to respond.
+- *(Cam 20 · T2 · P3)* **During the first robo-umpire season**, players complained about some strange calls.
+- *(Cam 20 · T4 · P1)* **During this period**, O’Keeffe began to experiment with creating abstract compositions in charcoal, and produced a series of innovative drawings that led her art in a new direction.
+- *(Cam 21 · T3 · P1)* The swollen nostrils of the nose serve several purposes: they filter out dust and cool the blood **during hot, dry summers**, and they warm the cold air before it enters the saiga's lungs in winter.
+- *(Cam 21 · T3 · P1)* The dramatic decline **during this decade** was due to illegal poaching on an industrial scale.
+- *(Cam 21 · T3 · P2)* A shortage of buses after a serious flood at the main depot **during the rainy season** means the system is carrying 200,000 people a day – half the expected capacity.
+
+<a id="p16"></a>
+
+### 16. Giới từ chỉ nơi chốn (around)
+
+<small>36 câu</small>
 
 - *(Cam 10 · T1 · P1)* Most stepwells are found dotted **around the desert areas** of Gujarat (where they are called vav ) and Rajasthan (where they are known as baori ), while a few also survive in Delhi.
 - *(Cam 10 · T2 · P2)* Emotional awareness is also part of metacognition, so children should be helped to be aware of their feelings **around the area** to be learned, feelings of curiosity or confidence, for example.
@@ -1619,53 +1720,13 @@
 - *(Cam 19 · T3 · P2)* Consequently, they are of considerable religious, historical and archaeological value to many communities **around the world**.
 - *(Cam 20 · T3 · P2)* Research in these fields is being conducted in laboratories **around the world**, with the London Zoo centre linked to this global network.
 - *(Cam 20 · T4 · P2)* All **around the world**, nations are already preparing for, and adapting to, climate change and its impacts.
-
-<a id="p16"></a>
-
-### 16. Giới từ chỉ thời gian (during)
-
-<small>34 câu</small>
-
-- *(Cam 10 · T1 · P1)* **During the sixth and seventh centuries**, the inhabitants of the modern-day states of Gujarat and Rajasthan in North-western India developed a method of gaining access to clean, fresh groundwater during the dry season for drinking, bathing, watering animals and irrigation.
-- *(Cam 10 · T1 · P1)* It was built by Queen Udayamati **during the late 11th century**, but became silted up following a flood during the 13th century.
-- *(Cam 10 · T3 · P1)* Travel, except **during the Dark Ages**, has continued to grow and, throughout recorded history, has played a vital role in the development of civilisations and their economies.
-- *(Cam 10 · T4 · P2)* He finally took a break and **during eight months** in Santa Fe, Zappaterra learned about alternative healing techniques not taught at Harvard.
-- *(Cam 11 · T2 · P1)* **During the seventeenth and eighteenth centuries**, the entire site became covered with a layer of hard grey clay, which minimised further erosion.
-- *(Cam 11 · T4 · P2)* We need to foster an awareness of film sound as well as film space so as to truly appreciate an art form that sprang to life **during the twentieth century** – the modern film.
-- *(Cam 12 · T3 · P1)* **During a period** of three days, a group of volunteers from the breeding centre worked around the clock to prepare the young tortoises for transport.
-- *(Cam 12 · T4 · P1)* The glass made **during this time** was highly coloured due to the impurities of the raw material.
-- *(Cam 12 · T4 · P1)* The secret of glass making was taken across Europe by the Romans **during this century**.
-- *(Cam 13 · T3 · P2)* Mark VanDam of Washington State University at Spokane and colleagues equipped parents with recording devices and speech-recognition software to study the way they interacted with their youngsters **during a normal day**.
-- *(Cam 13 · T3 · P2)* Scientists from the University of Washington and the University of Connecticut collected thousands of 30-second conversations between parents and their babies, fitting 26 children with audio-recording vests that captured language and sound **during a typical eight-hour day**.
-- *(Cam 14 · T1 · P3)* Those particularly appropriate to the hospitality industry include allowing adequate breaks **during the working day**, staff functions that involve families, and providing health and well-being opportunities.
-- *(Cam 14 · T2 · P2)* Miasmas were feared as the principal agents of disease and epidemics for centuries, and were used to explain the spread of infection from the Middle Ages right through to the cholera outbreaks in London and Paris **during the 1850s**.
-- *(Cam 16 · T3 · P2)* They found that some periods had produced lots of artefacts, which indicates that people had been pretty active in the mountains **during those times**.
-- *(Cam 16 · T3 · P2)* But there were few or no signs of activity **during other periods**.
-- *(Cam 16 · T3 · P2)* Archaeologists assumed people would stick to lower elevations **during a time** like the Late Antique Little Ice Age, a short period of deeper-than-usual cold from about 536-600 CE.
-- *(Cam 16 · T3 · P3)* Researchers have revealed that molecules called phytochromes – used by plants to detect light **during the day** – actually change their function in darkness to become cellular temperature gauges that measure the heat of the night.
-- *(Cam 16 · T3 · P3)* **During the day**, sunlight activates the molecules, slowing down growth.
-- *(Cam 16 · T3 · P3)* ‘Just as mercury rises in a thermometer, the rate at which phytochromes revert to their inactive state **during the night** is a direct measure of temperature,’ says Wigge.
-- *(Cam 16 · T3 · P3)* Wigge believes phytochrome thermo-sensing evolved at a later stage, and co-opted the biological network already used for light-based growth **during the downtime** of night.
-- *(Cam 16 · T3 · P3)* Other species, such as daffodils, have considerable temperature sensitivity, and can flower months in advance **during a warm winter**.
-- *(Cam 17 · T1 · P2)* Even today, architects and planners are finding new ways to adapt the mono-functional sports arenas which became emblematic of modernisation **during the 20th century**.
-- *(Cam 17 · T1 · P2)* With the growing interest in conservation **during the 19th century**, it was converted back into an arena for the staging of bullfights, thereby returning the structure to its original use as a venue for public spectacles.
-- *(Cam 17 · T3 · P1)* They emerged to hunt **during the evening**, night and early morning and tended to retreat to the hills and forest for shelter during the day.
-- *(Cam 17 · T3 · P1)* Although mainly nocturnal, it was sighted moving **during the day** and some individuals were even recorded basking in the sun.
-- *(Cam 17 · T3 · P2)* It’s almost certainly in the soap we wash with in the morning, the sandwich we have for lunch, and the biscuits we snack on **during the day**.
-- *(Cam 17 · T4 · P2)* **During this period**, Germany and Scandinavia had excellent literacy rates, but their economies grew slowly and they industrialised late.
-- *(Cam 18 · T2 · P1)* ** Celtic – The Celts were people who lived in Britain and northwest Europe **during the Iron Age** from 600 BCE to 43 CE
-- *(Cam 19 · T1 · P1)* It was an incredible achievement by any standard – made even more remarkable by the fact that he did this **during a period** considered to be one of the strongest in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few.
-- *(Cam 20 · T1 · P1)* As a result, **during 1980**-97, the surviving population was evacuated to three island sanctuaries: Codfish Island, Maud Island and Little Barrier Island.
-- *(Cam 20 · T1 · P2)* Around 25 million elms, accounting for 90% of all elm trees in the UK, died **during the 1960s** and ’70s of Dutch elm disease.
-- *(Cam 20 · T2 · P1)* However, laws in certain parts of Florida now limit boat speeds **during winter**, allowing slow-moving manatees more time to respond.
-- *(Cam 20 · T2 · P3)* **During the first robo-umpire season**, players complained about some strange calls.
-- *(Cam 20 · T4 · P1)* **During this period**, O’Keeffe began to experiment with creating abstract compositions in charcoal, and produced a series of innovative drawings that led her art in a new direction.
+- *(Cam 21 · T2 · P3)* In only a few years, AI solutionism has made its way from the technology evangelists' mouths in Silicon Valley in California to the minds of government officials and policymakers **around the world**.
 
 <a id="p17"></a>
 
 ### 17. Giới từ chỉ nơi chốn (across)
 
-<small>25 câu</small>
+<small>29 câu</small>
 
 - *(Cam 10 · T3 · P3)* They were daring blue-water adventurers who used basic canoes to rove **across the ocean**.
 - *(Cam 10 · T3 · P3)* However they did it, the Lapita spread themselves a third of the way **across the Pacific**, then called it quits for reasons known only to them.
@@ -1692,12 +1753,16 @@
 - *(Cam 19 · T2 · P1)* In addition, steam-powered boats and ships were widely used to carry goods along Britain’s canals as well as **across the Atlantic**.
 - *(Cam 19 · T2 · P1)* The first major instances of machine breaking took place in 1811 in the city of Nottingham, and the practice soon spread **across the country**.
 - *(Cam 20 · T3 · P1)* But Australian cattlemen were quick to realize that, if they could put this new invention on a ship, they could export meat **across the oceans**.
+- *(Cam 21 · T1 · P3)* Particular varieties of cane sugar and beet sugar spread very rapidly **across the world**, in accordance with local needs and demands.
+- *(Cam 21 · T3 · P1)* An aerial census two years ago recorded an estimated 842,000 saiga **across Kazakhstan** as a whole, and according to an aerial survey earlier this year, the saiga population in Kazakhstan now exceeds 1.9 million.
+- *(Cam 21 · T4 · P1)* It's a magic combination that has captivated researchers' imaginations since as early as the 1980s when, **across the world**, they began to explore its potential as a biofuel.
+- *(Cam 21 · T4 · P2)* 'Each year **across India**, 600,000 children are tested, and year after year over 50% of children in Standard 5 [ten-year-olds] cannot read a Standard 2 [seven-year-olds] task fluently, and just under 50% of them cannot solve a Standard 2 subtraction task,' says Tsimpli.
 
 <a id="p18"></a>
 
 ### 18. Giới từ chỉ nơi chốn (into)
 
-<small>24 câu</small>
+<small>25 câu</small>
 
 - *(Cam 10 · T3 · P3)* The Lap it as thrust **into the Pacific** was eastward, against the prevailing trade winds, Irwin notes.
 - *(Cam 10 · T4 · P2)* Tanya Streeter’s passion is freediving – the sport of plunging deep **into the water** without tanks or other breathing equipment.
@@ -1723,12 +1788,13 @@
 - *(Cam 18 · T2 · P3)* But from the largest collection of Leonardo’s papers ever assembled, a series of innovative thoughts can be reconstructed regarding the foundation of a new city along the Ticino River, which runs from Switzerland **into Italy** and is 248 kilometres long.
 - *(Cam 19 · T2 · P1)* Although many people in Britain had begun moving to the cities from rural areas before the Industrial Revolution, this accelerated dramatically with industrialisation, as the rise of large factories turned smaller towns **into major cities** in just a few decades.
 - *(Cam 19 · T4 · P2)* ‘Extraction methods would produce large sediment plumes and involve the discharge of waste back **into the ocean**, significantly disturbing seafloor environments,’ the paper continues.
+- *(Cam 21 · T3 · P2)* Dar es Salaam's reliance on four arterial roads **into the city** is a legacy of the colonial government that planned the city at the start of the 20th century to cater for a population of 35,000.
 
 <a id="p19"></a>
 
 ### 19. Giới từ chỉ thời gian (between)
 
-<small>20 câu</small>
+<small>21 câu</small>
 
 - *(Cam 10 · T1 · P1)* Their condition hasn’t been helped by recent dry spells: southern Rajasthan suffered an eight-year drought **between 1996** and 2004.
 - *(Cam 10 · T1 · P2)* **Between 1990** and 1998, road haulage increased by 19.4%, while during the same period rail haulage decreased by 43.5%, although – and this could benefit the enlarged EU – it is still on average at a much higher level than in existing member states.
@@ -1750,6 +1816,7 @@
 - *(Cam 18 · T4 · P3)* **Between 1906** and 1908 he had taken part in a highly publicized and extremely dangerous expedition to the coast of northeast Greenland.
 - *(Cam 20 · T2 · P1)* Amazonian manatees were killed **between 1935** and 1954 for their meat, fat and skin with the latter used to make leather.
 - *(Cam 20 · T4 · P1)* In more than thirty pictures **between 1946** and 1960, she reinvented the patio into an abstract arrangement of geometric shapes.
+- *(Cam 21 · T1 · P1)* **Between 1908** and 1924, Gwendoline and Margaret Davies amassed one of the largest collections of late-nineteenth and early-twentieth-century French paintings in Britain
 
 <a id="p20"></a>
 
@@ -1802,7 +1869,30 @@
 
 <a id="p22"></a>
 
-### 22. Giới từ chỉ thời gian (on)
+### 22. Giới từ chỉ thời gian (within)
+
+<small>16 câu</small>
+
+- *(Cam 10 · T3 · P3)* **Within the span** of several centuries, the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga.
+- *(Cam 10 · T4 · P3)* But if silent genes degrade **within 6 to million years**, how can long-lost traits be reactivated over longer timescales?
+- *(Cam 12 · T4 · P2)* On a recent trip to the Cairngorm Mountains, I heard several conservationists suggest that the lynx could be reintroduced there **within 20 years**.
+- *(Cam 13 · T4 · P2)* **Within the next four years**, they aim to have mapped soils worldwide to a depth of 100 metres, with the results freely accessible to all.
+- *(Cam 15 · T1 · P2)* It’s clear that there are many challenges that need to be addressed but, through robust and targeted research, these can most probably be conquered **within the next 10 years**.
+- *(Cam 15 · T3 · P2)* **Within two years**, he says, the company aims to be selling 1,000 units a month, mainly in the humanitarian field.
+- *(Cam 15 · T4 · P3)* However, when a major fast-food company then made the same demands after customer purchases of its hamburgers plummeted, the meat industry complied **within weeks**.
+- *(Cam 16 · T1 · P3)* According to a leading business consultancy, 3-14% of the global workforce will need to switch to a different occupation **within the next 10-15 years**, and all workers will need to adapt as their occupations evolve alongside increasingly capable machines.
+- *(Cam 16 · T2 · P1)* Although the majority of these geoglyphs date **within the last 300 years** or so, there are one or two that are much older.
+- *(Cam 18 · T1 · P3)* The intergovernmental groups also advise lowering satellites deep enough into the atmosphere that they will burn up or disintegrate **within 25 years**.
+- *(Cam 19 · T1 · P1)* However, **within a decade** or two, racket modification became a regularity.
+- *(Cam 19 · T3 · P2)* ‘In the tropics, peat subsides at about four centimetres a year, so **within half a century**, very large landscapes on Sumatra and Borneo will become flooded as the peat drops below water level,’ says Silvius.
+- *(Cam 20 · T1 · P1)* Unfortunately, the island didn’t remain predator free – stoats arrived **within six years**, eventually destroying the kākāpō population.
+- *(Cam 20 · T1 · P1)* Six were caught, but there were no females amongst them and all but one died **within a few months** of captivity.
+- *(Cam 20 · T3 · P1)* **Within a year**, Swanson had sold 13 million TV dinners.
+- *(Cam 21 · T3 · P2)* United Nations projections anticipate it will become a megacity **within seven years** as its population passes 10 million, reaching 13.4 million by 2035.
+
+<a id="p23"></a>
+
+### 23. Giới từ chỉ thời gian (on)
 
 <small>16 câu</small>
 
@@ -1823,33 +1913,11 @@
 - *(Cam 17 · T3 · P1)* Official protection of the species by the Tasmanian government was introduced in July 193′, 59 days before the last known individual died in Hobart Zoo **on 7th September**, 1936.
 - *(Cam 18 · T4 · P3)* Readers interested in the specific detail of Wegener’s career will see that he often stopped pursuing a given line of investigation (sometimes for years **on end**), only to pick it up later.
 
-<a id="p23"></a>
-
-### 23. Giới từ chỉ thời gian (within)
-
-<small>15 câu</small>
-
-- *(Cam 10 · T3 · P3)* **Within the span** of several centuries, the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga.
-- *(Cam 10 · T4 · P3)* But if silent genes degrade **within 6 to million years**, how can long-lost traits be reactivated over longer timescales?
-- *(Cam 12 · T4 · P2)* On a recent trip to the Cairngorm Mountains, I heard several conservationists suggest that the lynx could be reintroduced there **within 20 years**.
-- *(Cam 13 · T4 · P2)* **Within the next four years**, they aim to have mapped soils worldwide to a depth of 100 metres, with the results freely accessible to all.
-- *(Cam 15 · T1 · P2)* It’s clear that there are many challenges that need to be addressed but, through robust and targeted research, these can most probably be conquered **within the next 10 years**.
-- *(Cam 15 · T3 · P2)* **Within two years**, he says, the company aims to be selling 1,000 units a month, mainly in the humanitarian field.
-- *(Cam 15 · T4 · P3)* However, when a major fast-food company then made the same demands after customer purchases of its hamburgers plummeted, the meat industry complied **within weeks**.
-- *(Cam 16 · T1 · P3)* According to a leading business consultancy, 3-14% of the global workforce will need to switch to a different occupation **within the next 10-15 years**, and all workers will need to adapt as their occupations evolve alongside increasingly capable machines.
-- *(Cam 16 · T2 · P1)* Although the majority of these geoglyphs date **within the last 300 years** or so, there are one or two that are much older.
-- *(Cam 18 · T1 · P3)* The intergovernmental groups also advise lowering satellites deep enough into the atmosphere that they will burn up or disintegrate **within 25 years**.
-- *(Cam 19 · T1 · P1)* However, **within a decade** or two, racket modification became a regularity.
-- *(Cam 19 · T3 · P2)* ‘In the tropics, peat subsides at about four centimetres a year, so **within half a century**, very large landscapes on Sumatra and Borneo will become flooded as the peat drops below water level,’ says Silvius.
-- *(Cam 20 · T1 · P1)* Unfortunately, the island didn’t remain predator free – stoats arrived **within six years**, eventually destroying the kākāpō population.
-- *(Cam 20 · T1 · P1)* Six were caught, but there were no females amongst them and all but one died **within a few months** of captivity.
-- *(Cam 20 · T3 · P1)* **Within a year**, Swanson had sold 13 million TV dinners.
-
 <a id="p24"></a>
 
 ### 24. Giới từ chỉ nơi chốn (over)
 
-<small>13 câu</small>
+<small>14 câu</small>
 
 - *(Cam 11 · T3 · P1)* The secret of silk-making eventually reached the rest of the world via the Byzantine Empire, which ruled **over the Mediterranean region** of southern Europe, North Africa and the Middle East during the period 330—1453 AD.
 - *(Cam 11 · T4 · P1)* To biomedical researchers all **over the world**, twins offer a precious opportunity to untangle the influence of genes and the environment – of nature and nurture.
@@ -1864,6 +1932,7 @@
 - *(Cam 17 · T4 · P1)* The recordings revealed that bat activity **over rice fields** was much higher than it was in continuous forest – seven times higher over rice fields which were on flat ground, and sixteen times higher over fields on the sides of hills – leaving no doubt that the animals are preferentially foraging in these man-made ecosystems.
 - *(Cam 19 · T1 · P2)* Before the invention of ocean-going caravels* in the 15th century, ships could not easily cross long distances **over open water**.
 - *(Cam 20 · T3 · P1)* In the early 1800s, ship owners from Boston, USA, had enormous blocks of Arctic ice towed all **over the Atlantic** for the purpose of food preservation.
+- *(Cam 21 · T2 · P3)* For these reasons, the sensationalism **over AI** has attracted many critics.
 
 <a id="p25"></a>
 
@@ -1887,7 +1956,7 @@
 
 ### 26. Giới từ chỉ thời gian (after)
 
-<small>10 câu</small>
+<small>11 câu</small>
 
 - *(Cam 10 · T1 · P2)* Such a change cannot be achieved overnight, all the less so **after over half a century** of constant deterioration in favour of road.
 - *(Cam 13 · T2 · P2)* Then, **after a few years**, contrasting findings began to emerge.
@@ -1899,12 +1968,13 @@
 - *(Cam 19 · T3 · P1)* Whatever the reason for the departure, there is no evidence for use of the Kelo shelters **after this time**, until about 1,000 years ago, when they were re-occupied by people who owned pottery as well as items made out of gold and silver.
 - *(Cam 20 · T1 · P1)* **After the first five years** of the Recovery Plan, the population was on target.
 - *(Cam 20 · T3 · P1)* American consumers couldn’t resist the combination of a trusted brand name, a single-serving package and the convenience of a meal that could be ready **after only 25 minutes** in a hot oven.
+- *(Cam 21 · T4 · P2)* 'Each year across India, 600,000 children are tested, and year **after year** over 50% of children in Standard 5 [ten-year-olds] cannot read a Standard 2 [seven-year-olds] task fluently, and just under 50% of them cannot solve a Standard 2 subtraction task,' says Tsimpli.
 
 <a id="p27"></a>
 
 ### 27. Giới từ chỉ thời gian (throughout)
 
-<small>8 câu</small>
+<small>9 câu</small>
 
 - *(Cam 10 · T3 · P2)* So rather than maintaining the now redundant leaves **throughout the winter**, the tree saves its precious resources and discards them.
 - *(Cam 10 · T3 · P2)* As chlorophyll is depleted, other colours that have been dominated by it **throughout the summer** begin to be revealed.
@@ -1914,6 +1984,7 @@
 - *(Cam 16 · T1 · P1)* Once autumn comes around, these females will dig maternity dens in the snow and will remain there **throughout the winter**, both before and after the birth of their cubs.
 - *(Cam 17 · T3 · P1)* The thylacine had an extended breeding season from winter to spring, with indications that some breeding took place **throughout the year**.
 - *(Cam 17 · T3 · P3)* Chapter six then presents data on building height **throughout the 20th century** and uses regression analysis to ‘predict’ building construction.
+- *(Cam 21 · T2 · P1)* Studies using electrodes attached to the heads of sleepers have shown that when we sleep, we do so in two ways that alternate **throughout the night**.
 
 <a id="p28"></a>
 
@@ -1934,7 +2005,7 @@
 
 ### 29. Giới từ chỉ nơi chốn (along)
 
-<small>7 câu</small>
+<small>8 câu</small>
 
 - *(Cam 12 · T2 · P2)* Cusco lies on a high plateau at an elevation of more than 3,000 metres, and Bingham’s plan was to descend from this plateau **along the valley** of the Urubamba river, which takes a circuitous route down to the Amazon and passes through an area of dramatic canyons and mountain ranges.
 - *(Cam 13 · T3 · P1)* But the origin of coconuts discovered **along the west coast** of America by 16th century sailors has been the subject of centuries of discussion.
@@ -1943,10 +2014,24 @@
 - *(Cam 18 · T2 · P3)* But from the largest collection of Leonardo’s papers ever assembled, a series of innovative thoughts can be reconstructed regarding the foundation of a new city **along the Ticino River**, which runs from Switzerland into Italy and is 248 kilometres long.
 - *(Cam 19 · T1 · P2)* Geography itself further benefited the pirates, with the numerous coves **along the coast** providing places for them to hide their boats and strike undetected.
 - *(Cam 20 · T2 · P1)* The African manatee is also about 3.5 metres long and found in the sea **along the west coast** of Africa, from Mauritania down to Angola.
+- *(Cam 21 · T3 · P2)* Phases II and III will install bus lanes **along Nyerere Road** to the south-west and Kilwa Road to the south.
 
 <a id="p30"></a>
 
-### 30. Giới từ chỉ nơi chốn (under)
+### 30. by + phương tiện/cách thức (không mạo từ)
+
+<small>6 câu</small>
+
+- *(Cam 15 · T1 · P3)* Wilfred Thesiger, who crossed Arabia’s Empty Quarter in 1946, and belongs to an era of unmechanised travel now lost to the rest of us, told me, ‘If I’d gone across by camel when I could have gone **by car**, it would have been a stunt.’
+- *(Cam 15 · T2 · P3)* Cheng and Wang then replicated these results in a second study, during which they had participants complete long multiplication questions **by hand**.
+- *(Cam 18 · T3 · P2)* The boilers had to be lit **by hand**, and they required about twenty minutes to build up pressure before they could be driven.
+- *(Cam 19 · T2 · P1)* Goods that had once been crafted **by hand** started to be produced in mass quantities by machines in factories, thanks to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries.
+- *(Cam 19 · T3 · P2)* They dig ditches to enter the peat swamps **by boat** and then float the logs out the same way.
+- *(Cam 21 · T2 · P2)* The presence of glass beads, almost certainly from India, indicate there was trade of some sort with other states on the coast who, in turn, traded with merchants travelling from India **by sea**.
+
+<a id="p31"></a>
+
+### 31. Giới từ chỉ nơi chốn (under)
 
 <small>5 câu</small>
 
@@ -1955,18 +2040,6 @@
 - *(Cam 19 · T4 · P2)* Further tests confirmed that an antibiotic from the sponge bacteria, found living more than 700 metres **under the sea** at the Rockall trough in the north-east Atlantic, was previously unknown to science, boosting its potential as a life-saving medicine.
 - *(Cam 19 · T4 · P2)* Among them have been sea cucumbers with tails allowing them to sail along the ocean floor, and a rare ‘Dumbo’octopus, found 3,000 metres **under the Pacific Ocean**, off the coast of California.
 - *(Cam 20 · T3 · P2)* Put on a mask and stick your head **under the water**.
-
-<a id="p31"></a>
-
-### 31. by + phương tiện/cách thức (không mạo từ)
-
-<small>5 câu</small>
-
-- *(Cam 15 · T1 · P3)* Wilfred Thesiger, who crossed Arabia’s Empty Quarter in 1946, and belongs to an era of unmechanised travel now lost to the rest of us, told me, ‘If I’d gone across by camel when I could have gone **by car**, it would have been a stunt.’
-- *(Cam 15 · T2 · P3)* Cheng and Wang then replicated these results in a second study, during which they had participants complete long multiplication questions **by hand**.
-- *(Cam 18 · T3 · P2)* The boilers had to be lit **by hand**, and they required about twenty minutes to build up pressure before they could be driven.
-- *(Cam 19 · T2 · P1)* Goods that had once been crafted **by hand** started to be produced in mass quantities by machines in factories, thanks to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries.
-- *(Cam 19 · T3 · P2)* They dig ditches to enter the peat swamps **by boat** and then float the logs out the same way.
 
 <a id="p32"></a>
 
@@ -1981,7 +2054,29 @@
 
 <a id="p33"></a>
 
-### 33. Giới từ chỉ nơi chốn (outside)
+### 33. Giới từ chỉ nơi chốn (within)
+
+<small>4 câu</small>
+
+- *(Cam 11 · T3 · P2)* Conservation scientists, along with some biologists and land managers **within the USA’s National Park Service** and other agencies, are now working to preserve migrational behaviours, not just species and habitats.
+- *(Cam 13 · T4 · P2)* Soil is also an ally against climate change: as microorganisms **within soil** digest dead animals and plants, they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere.
+- *(Cam 18 · T3 · P3)* **Within schools**, it means selecting students into a ‘stream’ of general ability, or ‘sets’ of subject-specific ability.
+- *(Cam 21 · T3 · P2)* 'Much of the city will have access to a world-class transport system **within the space** of a few years,' says Chris Kost, the Africa director of ITDP (the Institute for Transportation and Development Policy).
+
+<a id="p34"></a>
+
+### 34. Giới từ chỉ thời gian (before)
+
+<small>4 câu</small>
+
+- *(Cam 12 · T3 · P1)* In total, an estimated 200,000 animals were taken from the archipelago **before the 20th century**.
+- *(Cam 12 · T4 · P1)* **Before that time**, heavy taxes had been placed on the amount of glass melted in a glasshouse, and were levied continuously from 1745 to 1845.
+- *(Cam 14 · T2 · P1)* There was little competing hobby or amateur photography **before the late 1880s** because of the time-consuming techniques involved and the weight of equipment.
+- *(Cam 21 · T1 · P1)* * * Old Master: a highly respected artist of great skill who worked in Europe **before about 1800**
+
+<a id="p35"></a>
+
+### 35. Giới từ chỉ nơi chốn (outside)
 
 <small>4 câu</small>
 
@@ -1990,9 +2085,9 @@
 - *(Cam 18 · T2 · P3)* Five hundred years have passed since Leonardo died in his home at Chateau du Clos Luce, **outside Tours**, France.
 - *(Cam 20 · T4 · P3)* In Namibia, more than 90 per cent of cheetahs live **outside protected areas**, close to humans raising livestock.
 
-<a id="p34"></a>
+<a id="p36"></a>
 
-### 34. Giới từ chỉ thời gian (through)
+### 36. Giới từ chỉ thời gian (through)
 
 <small>4 câu</small>
 
@@ -2001,34 +2096,15 @@
 - *(Cam 14 · T4 · P3)* Rochman and her colleagues examined more than a hundred papers on the impacts of marine debris that were published **through 2013**.
 - *(Cam 16 · T3 · P2)* ‘Remarkably, though, the finds from the ice may have continued **through this period**, perhaps suggesting that the importance of mountain hunting increased to supplement failing agricultural harvests in times of low temperatures,’ says Barrett.
 
-<a id="p35"></a>
-
-### 35. Giới từ chỉ nơi chốn (within)
-
-<small>3 câu</small>
-
-- *(Cam 11 · T3 · P2)* Conservation scientists, along with some biologists and land managers **within the USA’s National Park Service** and other agencies, are now working to preserve migrational behaviours, not just species and habitats.
-- *(Cam 13 · T4 · P2)* Soil is also an ally against climate change: as microorganisms **within soil** digest dead animals and plants, they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere.
-- *(Cam 18 · T3 · P3)* **Within schools**, it means selecting students into a ‘stream’ of general ability, or ‘sets’ of subject-specific ability.
-
-<a id="p36"></a>
-
-### 36. Giới từ chỉ thời gian (before)
-
-<small>3 câu</small>
-
-- *(Cam 12 · T3 · P1)* In total, an estimated 200,000 animals were taken from the archipelago **before the 20th century**.
-- *(Cam 12 · T4 · P1)* **Before that time**, heavy taxes had been placed on the amount of glass melted in a glasshouse, and were levied continuously from 1745 to 1845.
-- *(Cam 14 · T2 · P1)* There was little competing hobby or amateur photography **before the late 1880s** because of the time-consuming techniques involved and the weight of equipment.
-
 <a id="p37"></a>
 
 ### 37. Giới từ chỉ nơi chốn (below)
 
-<small>2 câu</small>
+<small>3 câu</small>
 
 - *(Cam 15 · T4 · P1)* It hardly ever rains there, and the only year-round source of water is located tens of metres **below the surface**.
 - *(Cam 19 · T4 · P2)* Those leading the global rush to place giant mining machines thousands of metres **below the sea surface** say the environmental impacts will be far lower than on land.
+- *(Cam 21 · T2 · P2)* Located in southern Africa just **below the Limpopo River**, the kingdom of Mapungubwe, flourished between the 11th and 13th century CE
 
 <a id="p38"></a>
 

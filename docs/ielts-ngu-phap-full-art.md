@@ -1,4 +1,4 @@
-# 🅰️ 13. MẠO TỪ — full câu ví dụ IELTS Reading (Cam 10–20)
+# 🅰️ 13. MẠO TỪ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [MẠO TỪ](M%E1%BA%A1o%20T%E1%BB%AB.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=art). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,10 +6,10 @@
 
 ## Mục lục
 
-1. [the + so sánh nhất / số thứ tự / only / same / following](ielts-ngu-phap-full-art.md?id=p1) — 407 câu
-2. [an + nguyên âm](ielts-ngu-phap-full-art.md?id=p2) — 387 câu
-3. [a + âm /j/ hoặc /w/ (a unique/a university/a one-)](ielts-ngu-phap-full-art.md?id=p3) — 13 câu
-4. [Không dùng mạo từ: by + phương tiện](ielts-ngu-phap-full-art.md?id=p4) — 5 câu
+1. [the + so sánh nhất / số thứ tự / only / same / following](ielts-ngu-phap-full-art.md?id=p1) — 449 câu
+2. [an + nguyên âm](ielts-ngu-phap-full-art.md?id=p2) — 431 câu
+3. [a + âm /j/ hoặc /w/ (a unique/a university/a one-)](ielts-ngu-phap-full-art.md?id=p3) — 14 câu
+4. [Không dùng mạo từ: by + phương tiện](ielts-ngu-phap-full-art.md?id=p4) — 6 câu
 5. [an + h câm (an hour/an honor)](ielts-ngu-phap-full-art.md?id=p5) — 3 câu
 
 ---
@@ -18,7 +18,7 @@
 
 ### 1. the + so sánh nhất / số thứ tự / only / same / following
 
-<small>407 câu · hiện 150</small>
+<small>449 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* During their heyday, they were places of gathering, of leisure, of relaxation and of worship for villagers of all but **the lowest** castes.
 - *(Cam 10 · T1 · P1)* In Patan, the state’s ancient capital, the stepwell of Rani Ki Vav (Queen’s Stepwell) is perhaps **the finest** current example.
@@ -175,7 +175,7 @@
 
 ### 2. an + nguyên âm
 
-<small>387 câu · hiện 150</small>
+<small>431 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* As their name suggests, stepwells comprise a series of stone steps descending from ground level to the water source (normally **an underground** aquifer) as it recedes following the rains.
 - *(Cam 10 · T1 · P2)* It is difficult to conceive of vigorous economic growth without **an efficient** transport system.
@@ -332,7 +332,7 @@
 
 ### 3. a + âm /j/ hoặc /w/ (a unique/a university/a one-)
 
-<small>13 câu</small>
+<small>14 câu</small>
 
 - *(Cam 11 · T3 · P1)* Sometime during the Han Dynasty (206 BC-220 AD), silk was so prized that it was also used as **a unit** of currency.
 - *(Cam 13 · T1 · P1)* Because of the long-haul flight, most visitors stay for longer (average 20 days) and want to see as much of the country as possible on what is often seen as **a once**-in-a-lifetime visit.
@@ -347,18 +347,20 @@
 - *(Cam 17 · T3 · P2)* How best to strike **a utilitarian** balance between these competing factors has become a serious bone of contention.
 - *(Cam 18 · T3 · P1)* And so scientists have started innovating with other materials, in a scramble for alternatives to **a universal** commodity that has underpinned our modem life for many years.
 - *(Cam 20 · T3 · P1)* Two thousand years ago, the inhabitants of South America’s Andean mountains had **a unique** means of conserving potatoes for later consumption.
+- *(Cam 21 · T1 · P3)* Where once only tiny quantities of sugar could be produced, now new techniques, varieties, fertilisers, irrigation systems and much more have turned gleaming white sugar into **a ubiquitous** chemical.
 
 <a id="p4"></a>
 
 ### 4. Không dùng mạo từ: by + phương tiện
 
-<small>5 câu</small>
+<small>6 câu</small>
 
 - *(Cam 15 · T1 · P3)* Wilfred Thesiger, who crossed Arabia’s Empty Quarter in 1946, and belongs to an era of unmechanised travel now lost to the rest of us, told me, ‘If I’d gone across by camel when I could have gone **by car**, it would have been a stunt.’
 - *(Cam 15 · T2 · P3)* Cheng and Wang then replicated these results in a second study, during which they had participants complete long multiplication questions **by hand**.
 - *(Cam 18 · T3 · P2)* The boilers had to be lit **by hand**, and they required about twenty minutes to build up pressure before they could be driven.
 - *(Cam 19 · T2 · P1)* Goods that had once been crafted **by hand** started to be produced in mass quantities by machines in factories, thanks to the invention of steam power and the introduction of new machines and manufacturing techniques in textiles, iron-making and other industries.
 - *(Cam 19 · T3 · P2)* They dig ditches to enter the peat swamps **by boat** and then float the logs out the same way.
+- *(Cam 21 · T2 · P2)* The presence of glass beads, almost certainly from India, indicate there was trade of some sort with other states on the coast who, in turn, traded with merchants travelling from India **by sea**.
 
 <a id="p5"></a>
 

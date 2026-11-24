@@ -1,4 +1,4 @@
-# 👤 2. ĐẠI TỪ — full câu ví dụ IELTS Reading (Cam 10–20)
+# 👤 2. ĐẠI TỪ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [ĐẠI TỪ](%C4%90%E1%BA%A1i%20T%E1%BB%AB.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=pron). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,13 +6,13 @@
 
 ## Mục lục
 
-1. [Tính từ sở hữu + N](ielts-ngu-phap-full-pron.md?id=p1) — 1083 câu
-2. [Đại từ bất định](ielts-ngu-phap-full-pron.md?id=p2) — 541 câu
-3. [Đại từ chỉ định (this/that/these/those)](ielts-ngu-phap-full-pron.md?id=p3) — 422 câu
-4. [Đại từ phản thân](ielts-ngu-phap-full-pron.md?id=p4) — 115 câu
-5. [one/ones thay cho danh từ](ielts-ngu-phap-full-pron.md?id=p5) — 29 câu
-6. [those who … (những người mà)](ielts-ngu-phap-full-pron.md?id=p6) — 26 câu
-7. [that/those of (thay cho danh từ đã nhắc)](ielts-ngu-phap-full-pron.md?id=p7) — 23 câu
+1. [Tính từ sở hữu + N](ielts-ngu-phap-full-pron.md?id=p1) — 1193 câu
+2. [Đại từ bất định](ielts-ngu-phap-full-pron.md?id=p2) — 585 câu
+3. [Đại từ chỉ định (this/that/these/those)](ielts-ngu-phap-full-pron.md?id=p3) — 463 câu
+4. [Đại từ phản thân](ielts-ngu-phap-full-pron.md?id=p4) — 118 câu
+5. [one/ones thay cho danh từ](ielts-ngu-phap-full-pron.md?id=p5) — 31 câu
+6. [those who … (những người mà)](ielts-ngu-phap-full-pron.md?id=p6) — 27 câu
+7. [that/those of (thay cho danh từ đã nhắc)](ielts-ngu-phap-full-pron.md?id=p7) — 27 câu
 8. [Đại từ sở hữu](ielts-ngu-phap-full-pron.md?id=p8) — 1 câu
 
 ---
@@ -21,7 +21,7 @@
 
 ### 1. Tính từ sở hữu + N
 
-<small>1083 câu · hiện 150</small>
+<small>1193 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* However, the significance of this invention – the stepwell – goes beyond **its utilitarian application**.
 - *(Cam 10 · T1 · P2)* The number of cars on European Union (EU) roads saw an increase of three million cars each year from 1990 to 2010, and in the next decade the EU will see a further substantial increase in **its fleet**.
@@ -178,7 +178,7 @@
 
 ### 2. Đại từ bất định
 
-<small>541 câu · hiện 150</small>
+<small>585 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* Down the centuries, thousands of wells were constructed throughout northwestern India, but the majority have now fallen into disuse; many are derelict and dry, as groundwater has been diverted for industrial use and the wells **no** longer reach the water table.
 - *(Cam 10 · T1 · P1)* In the old ruined town of Abhaneri, about 95 kilometres east of Jaipur, is Chand Baori , **one** of India’s oldest and deepest wells; aesthetically, it’s perhaps one of the most dramatic.
@@ -335,164 +335,164 @@
 
 ### 3. Đại từ chỉ định (this/that/these/those)
 
-<small>422 câu · hiện 150</small>
+<small>463 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P2)* Between 1990 and 1998, road haulage increased by 19.4%, while during the same period rail haulage decreased by 43.5%, although – and **this** could benefit the enlarged EU – it is still on average at a much higher level than in existing member states.
-- *(Cam 10 · T1 · P2)* **This** has reached such a pitch that today rail freight services are facing marginalisation, with just 8% of market share, and with international goods trains struggling along at an average speed of 18km/h.
-- *(Cam 10 · T2 · P1)* While **this** was the case for England, other nations, such as Japan, the Netherlands and France also met some of these criteria but were not industrialising.
+- *(Cam 10 · T2 · P1)* For industry to take off, there needs to be the technology and power to drive factories, large urban populations to provide cheap labour, easy transport to move goods around, an affluent middle-class willing to buy mass-produced objects, a market-driven economy and a political system that allows **this** to happen.
 - *(Cam 10 · T2 · P1)* But **this** was a century before Lister’s revolution*.
-- *(Cam 10 · T2 · P1)* Water-borne diseases had a much looser grip on the Japanese population than **those** in Britain.
-- *(Cam 10 · T2 · P2)* But of course, **this** is not entirely the case; adjustments have to be made in methods of learning and teaching, to take account of the many ways individuals think.
+- *(Cam 10 · T2 · P2)* **This** happens to such a high degree in some children that they appear to be demonstrating talent in particular areas.
 - *(Cam 10 · T2 · P2)* But scientific progress is not all theoretical, knowledge is a so vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than **those** who do not (Elshout, 1995).
-- *(Cam 10 · T2 · P3)* We are reminded of **this** even before we view a collection by the presence of security guards, attendants, ropes and display cases to keep us away from the exhibits.
-- *(Cam 10 · T2 · P3)* **This** is particularly distressing because time seems to be a vital factor in the appreciation of all art forms.
+- *(Cam 10 · T2 · P3)* In addition, a major collection like **that** of London’s National Gallery is housed in numerous rooms, each with dozens of works, any one of which is likely to be worth more than all the average visitor possesses.
 - *(Cam 10 · T2 · P3)* Again, **this** seems to put paid to that spontaneous, participators criticism which can be found in abundance in criticism of classic works of literature, but is absent from most art history.
-- *(Cam 10 · T3 · P2)* Even if you had never suspected that **this** is what was going on when leaves turn red, there are clues out there.
-- *(Cam 10 · T3 · P3)* ‘**This** represents the best opportunity we’ve had yet,’ says Spriggs, ‘to find out who the Lapita actually were, where they came from, and who their closest descendants are today.’
+- *(Cam 10 · T3 · P2)* It has also been recognised for decades that the best conditions for intense red colours are dry, sunny days and cool nights, conditions that nicely match **those** that make leaves susceptible to excess light.
 - *(Cam 10 · T3 · P3)* **This** is what would have made the whole thing work.’
-- *(Cam 10 · T3 · P3)* All **this** presupposes one essential detail, says Atholl Anderson, professor of prehistory at the Australian National University: the Lapita had mastered the advanced art of sailing against the wind.
-- *(Cam 10 · T4 · P1)* **That** said, many experts give California high marks for making progress on preparedness in recent years, after some of the largest fires in state history scorched thousands of acres, burned thousands of homes, and killed numerous people.
+- *(Cam 10 · T4 · P1)* ‘Doing **that** in many of the forests of the western US is like building homes on the side of an active volcano.’
 - *(Cam 10 · T4 · P2)* Inherently introverted, he realised early on **that** as an academic, his reticence would prove disastrous in the lecture hall.
-- *(Cam 10 · T4 · P2)* He also vowed to look for the joy in everything, including failure, as **this** could help him learn about his research and himself.
-- *(Cam 10 · T4 · P3)* Like most amphibians **these** begin life in a juvenile ‘tadpole’ state, then metamorphose into the adult form – except for one species, the axolotl, which famously lives its entire life as a juvenile.
+- *(Cam 10 · T4 · P3)* And **this** poses a puzzle: how can characteristics that disappeared millions of years ago suddenly reappear?
 - *(Cam 10 · T4 · P3)* Many of **these** have minuscule limbs; some look more like snakes than lizards and a few have completely lost the toes on their hind limbs.
-- *(Cam 11 · T1 · P1)* Historically, some 15% of **that** has been laid waste by poor management practices.
-- *(Cam 11 · T1 · P1)* However, more often than not now, due to a rapidly changing climate, **that** is not what happens.
+- *(Cam 11 · T1 · P1)* **This** means that, for the majority, we humans have shelter from the elements, yet we subject our food-bearing plants to the rigours of the great outdoors and can do no more than hope for a good weather year.
 - *(Cam 11 · T1 · P2)* **This** is because, according to Archimedes’ principle of displacement, floating objects displace their own weight in water.
-- *(Cam 11 · T1 · P3)* They believe that the best we can do is keep it at a reasonable level, and at present the only serious option for doing **this** is cutting back on our carbon emissions.
-- *(Cam 11 · T1 · P3)* **This** would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.
+- *(Cam 11 · T1 · P3)* **This** could, argues Angel, reduce the amount of light reaching the Earth by two per cent.
 - *(Cam 11 · T1 · P3)* Generally speaking, **those** who are most cautious about geo-engineering are the scientists involved in the research.
-- *(Cam 11 · T2 · P1)* After the battle, attempts were made to recover the ship, but **these** failed.
-- *(Cam 11 · T2 · P1)* **This** led to an important decision being taken: namely to carry out the lifting operation in three very distinct stages.
+- *(Cam 11 · T2 · P1)* While on paper **this** was a plan to examine a number of known wrecks in the Solent, what McKee really hoped for was to find the Mary Rose .
 - *(Cam 11 · T2 · P1)* **This** required precise positioning to locate the legs into the stabbing guides’ of the lifting cradle.
-- *(Cam 11 · T2 · P3)* **This** has led some to wonder whether Pollock’s works feel so dynamic because the brain reconstructs the energetic actions the artist used as he painted.
-- *(Cam 11 · T3 · P1)* While it is unknown just how much of **this** is true, it is certainly known that silk cultivation has existed in China for several millennia.
+- *(Cam 11 · T2 · P3)* **This** may be down to our brain’s ‘mirror neurons’, which are known to mimic others’ actions.
 - *(Cam 11 · T4 · P1)* Other epigenetic processes appear to occur randomly, while others are normal, such as **those** that guide embryonic cells as they become heart, brain, or liver cells, for example.
-- *(Cam 11 · T4 · P2)* Perhaps **this** is because the very texture of a performer’s voice supplies an element of character.
-- *(Cam 11 · T4 · P3)* In its own right it is a tool of extraordinary sophistication, yet based on an idea of ingenious simplicity: ‘this marvellous invention of composing out of twenty-five or thirty sounds that infinite variety of expressions which, whilst having in themselves no likeness to what is in our mind, allow us to disclose to others its whole secret, and to make known to **those** who cannot penetrate it all that we imagine, and all the various stirrings of our soul’ This was how, in 1660, the renowned French grammarians of the Port-Royal abbey near Versailles distilled the essence of language, and no one since has celebrated more eloquently the magnitude of its achievement.
+- *(Cam 11 · T4 · P2)* However, if the ‘click’ of an opening door is part of an ominous action such as a burglary, the sound mixer may call attention to the ‘click’ with an increase in volume; **this** helps to engage the audience in a moment of suspense.
 - *(Cam 11 · T4 · P3)* And if **that** sounds like some one-off freak, then consider Sumerian, the language spoken on the banks of the Euphrates some 5,000 years ago by the people who invented writing and thus enabled the documentation of history.
-- *(Cam 12 · T1 · P1)* Firstly, its traditional image is more in keeping with **that** of the type of high quality goods with which it has long been associated.
-- *(Cam 12 · T1 · P2)* **This** is a variant on joining a bridge club or a gym, and similarly brings them into contact with like-minded people.
+- *(Cam 12 · T1 · P2)* There are the people who collect because they want to make money – **this** could be called an instrumental reason for collecting; that is, collecting as a means to an end.
 - *(Cam 12 · T1 · P2)* Psychologically, **this** can give a purpose to a life that otherwise feels aimless.
-- *(Cam 12 · T1 · P2)* **These** have changed over the centuries from the wood that was standard in 16th century Europe, through the wax and porcelain of later centuries, to the plastics of today’s dolls.
-- *(Cam 12 · T1 · P3)* But wouldn’t **this** also be the perfect course for prospective arsonists to sign up for?
+- *(Cam 12 · T1 · P3)* **That** was the founder’s motto for Cornell University, and it seems an apt characterization of the different university, also in the USA, where I currently teach philosophy.
 - *(Cam 12 · T1 · P3)* The other attitude is that the purpose of marketing is irrelevant: Each person comes to the program and course with his or her own plans, and **these** need not even concern the acquisition of marketing expertise as such.
-- *(Cam 12 · T2 · P3)* In cases like **this**, language co-activation occurs because what the listener hears could map onto words in either language.
-- *(Cam 12 · T2 · P3)* Bilingual people often excel at tasks such as **this**, which top into the ability to ignore competing perceptual information and focus on the relevant aspects of the input.
+- *(Cam 12 · T2 · P3)* **This** occurs because the word itself (‘red’) and its font colour (blue) conflict.
 - *(Cam 12 · T2 · P3)* **This** suggests that for very young children, as well as for older people, navigating a multilingual environment imparts advantages that transfer far beyond language.
-- *(Cam 12 · T3 · P1)* This weight, together with **that** of the fuel, pilot and four crew, approached the helicopter’s maximum payload, and there were times when it was clearly right on the edge of the helicopter’s capabilities.
-- *(Cam 12 · T3 · P3)* The researchers call **this** the ‘anticipatory phase’ and argue that the purpose of this activity is to help us predict the arrival of our favourite part.
+- *(Cam 12 · T3 · P2)* It is in situations like **these** that the field of health geography comes into its own.
 - *(Cam 12 · T3 · P3)* According to Meyer, it is the suspenseful tension of music, arising out of our unfulfilled expectations, **that** is the source of the music’s feeling.
-- *(Cam 12 · T4 · P1)* Archaeologists have even found evidence of man-made glass which dates back to 4000 BC; **this** took the form of glazes used for coating stone beads.
-- *(Cam 12 · T4 · P1)* As less energy is needed to melt recycled glass than to melt down raw materials, **this** also saves fuel and production costs.
+- *(Cam 12 · T4 · P1)* Previous to **this**, glass had been as a craft rather than a precise science.
 - *(Cam 12 · T4 · P2)* However, **this** is not quite the last glimpse of the animal in British culture.
-- *(Cam 12 · T4 · P3)* After a number of serious failures of governance (**that** is, how they are managed at the highest level), companies in Britain, as well as elsewhere, should consider radical changes to their directors’ roles.
-- *(Cam 12 · T4 · P3)* **This** serves to encourage the trading methodology of a certain kind of investor who moves in and out of a stock without engaging in constructive dialogue with the company about strategy or performance, and is simply seeking a short-term financial gain.
+- *(Cam 12 · T4 · P3)* Agendas can become overloaded and **this** can mean the time for constructive debate must necessarily be restricted in favour of getting through the business.
 - *(Cam 12 · T4 · P3)* Boards of companies in all sectors will need to widen their perspective to encompass these issues and **this** may involve a realignment of corporate goals.
-- *(Cam 13 · T1 · P2)* **These** can be plotted on two axes – one running left to right, which measures low to high arousal, and the other from top to bottom, which measures how positive or negative the feeling is.
-- *(Cam 13 · T1 · P2)* Does **that** mean that we should actively cause pain?
+- *(Cam 13 · T1 · P2)* **That** doesn’t necessarily mean that it isn’t adaptive, he adds.
 - *(Cam 13 · T1 · P2)* It seems **those** who bore easily face poorer prospects in education, their career and even life in general.
-- *(Cam 13 · T1 · P2)* Working with teenagers, they found that **those** who ‘approach’ a boring situation – in other words, see that it’s boring and get stuck in anyway – report less boredom than those who try to avoid it by using snacks, TV or social media for distraction.
-- *(Cam 13 · T1 · P3)* ‘**This** is a question at the very core of humanity,’ says Geraint Wiggins, a computational creativity researcher at Goldsmiths, University of London.
+- *(Cam 13 · T1 · P3)* If we can break this process down into computer code, where does **that** leave human creativity?
 - *(Cam 13 · T1 · P3)* Researchers like Colton don’t believe it is right to measure machine creativity directly to **that** of humans who ‘have had millennia to develop our skills’.
-- *(Cam 13 · T1 · P3)* **This** was true even among the experts, who might have been expected to be more objective in their analyses.
-- *(Cam 13 · T1 · P3)* **This** is precisely why Colton asks the Painting Fool to tap into online social networks for its inspiration: hopefully this way it will choose themes that will already be meaningful to us.
+- *(Cam 13 · T1 · P3)* **This** can give it an ‘irresistible essence’, says Bloom.
 - *(Cam 13 · T2 · P1)* **This** led to a growth in demand for cinnamon and other spices.
-- *(Cam 13 · T2 · P2)* Simone Shamay-Tsoory at the at the University of Haifa, Israel, found that when volunteers played a competitive game, **those** who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.
-- *(Cam 13 · T2 · P2)* **This** would explain why it makes us more likely to look others in the eye and improves our ability to identify emotions.
+- *(Cam 13 · T2 · P2)* According to De Dreu, oxytocin drives people to care for **those** in their social circles and defend them from outside dangers.
 - *(Cam 13 · T2 · P3)* However, **that** would have risked cheapening the brand’s image.
-- *(Cam 13 · T3 · P2)* Fathers don’t use baby talk as often or in the same ways as mothers – and **that**’s perfectly OK, according to a new study.
-- *(Cam 13 · T4 · P1)* In legend, and in Burns’s poem, witches cannot cross water, so **this** was a rather strange choice of name for a ship.
+- *(Cam 13 · T3 · P3)* **This** gives us insight into the types of interactive networks that the population was involved in, and whether those changed.
 - *(Cam 13 · T4 · P1)* Dowman was determined, however, and offered a high price: **this** was accepted, and the ship returned to Falmouth the following year and had her original name restored.
-- *(Cam 13 · T4 · P2)* And once **this** has happened, it may take the soil thousands of years to recover.
-- *(Cam 13 · T4 · P2)* He came to realise that the best way to ensure his trees flourished was to take care of the soil, and has developed a cocktail of beneficial bacteria, fungi and humus* to do **this**.
+- *(Cam 13 · T4 · P2)* But over the past few decades, it has become clear **this** wasn’t such a bright idea.
 - *(Cam 13 · T4 · P2)* But **this** is only a first step.
-- *(Cam 13 · T4 · P3)* The Greek philosopher Aristotle may have identified happiness with self-realisation in the 4th century BC, and thinkers throughout the ages may have struggled to reconcile the pursuit of happiness with other human values, but for Bentham all **this** was mere metaphysics or fiction.
-- *(Cam 14 · T1 · P1)* Later on, when they tire of **this** and settle down with a board game, she’s learning about the need to follow rules and take turns with a partner.
+- *(Cam 13 · T4 · P3)* If happiness is to be regarded as a science, it has to be measured, and Bentham suggested two ways in which **this** might be done.
 - *(Cam 14 · T1 · P1)* With the Lego building, however, not a single child said **this** through the whole year of the project.’
-- *(Cam 14 · T1 · P2)* ‘**That** went really well.
-- *(Cam 14 · T1 · P2)* ‘It’s wonderful that **this** happened,’ he says.
+- *(Cam 14 · T1 · P2)* **That** was a decisive moment in the history of bike-sharing.’
 - *(Cam 14 · T1 · P2)* Schimmelpennink, however, cannot see that **this** changes Amsterdam’s need for a bike-sharing scheme.
-- *(Cam 14 · T1 · P3)* **This** suggests that there has been a dichotomy between the guest environment provided in luxury hotels and the working conditions of their employees.
-- *(Cam 14 · T1 · P3)* **This** implies that it is beneficial for hotel managers to understand what practices are most favorable to increase employee satisfaction and retention.
+- *(Cam 14 · T1 · P3)* **This** requires an understanding of what motivates employees at different levels of management and different stages of their careers (Enz and Siguaw, 2000).
 - *(Cam 14 · T1 · P3)* **Those** particularly appropriate to the hospitality industry include allowing adequate breaks during the working day, staff functions that involve families, and providing health and well-being opportunities.
-- *(Cam 14 · T2 · P2)* ‘We discovered that 19th-century hospital wards could generate up to 24 air changes an hour – **that**’s similar to the performance of a modern-day, computer-controlled operating theatre.
-- *(Cam 14 · T2 · P3)* **This** begs the question: what has gone wrong?
+- *(Cam 14 · T2 · P3)* Every week, countless seminars and workshops take place around the world to tell a paying public that they ought to structure their lives in order to achieve **this**.
 - *(Cam 14 · T2 · P3)* **This** involved scrapping formal job titles and giving staff huge amounts of ownership over their own time and projects.
-- *(Cam 14 · T3 · P1)* The Hamiltonian view, which is similar to the Platonic view, is that people are born with different levels of intelligence and that **those** who are less intelligent need the good offices of the more intelligent to keep them in line, whether they are called government officials or, in Plato’s term, philosopher-kings.
-- *(Cam 14 · T3 · P2)* Their remarkable diversity exceeds **that** of every other group of animals on the planet combined.
+- *(Cam 14 · T3 · P1)* My own views are similar to **these** (Sternberg, 1997).
 - *(Cam 14 · T4 · P1)* ‘**This** is the first time anyone has looked at both behavioral and neural changes in these ants so thoroughly,’ says Giraldo, who recently published the findings in the Proceeding of the Royal Society B .
-- *(Cam 14 · T4 · P2)* **That** alone will bring a greater understanding and perspective to many, and hopefully give them a greater appreciation for wildlife, conservation efforts and how they can contribute.
-- *(Cam 14 · T4 · P2)* **This** was an area where zoos used to be lacking, but they are now increasingly sophisticated in their communication and outreach work.
+- *(Cam 14 · T4 · P2)* In addition to **this**, there is also the education that can take place in zoos through signs, talks and presentations which directly communicate information to visitors about the animals they are seeing and their place in the world.
 - *(Cam 14 · T4 · P2)* **This** can make a real difference to conservation efforts and to the reduction of human-animal conflicts, and can provide a knowledge base for helping with the increasing threats of habitat destruction and other problems.
-- *(Cam 14 · T4 · P3)* **These** may be ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris.
-- *(Cam 14 · T4 · P3)* Among scientists as well as in the media, she says, ‘A lot of the images about strandings and entanglement and all of **that** cause the perception that plastic debris is killing everything in the ocean.’
+- *(Cam 14 · T4 · P3)* None of **that** tells us how many birds or fish or sea turtles could die from plastic pollution – or how deaths in one species could affect that animal’s predators, or the rest of the ecosystem.
 - *(Cam 15 · T1 · P1)* And **that**’s where the Dutch found their opportunity.
-- *(Cam 15 · T1 · P1)* Some of **these** were later exported to the Caribbean where they thrived, especially on the island of Grenada.
-- *(Cam 15 · T1 · P2)* If the vehicle can do the driving, **those** who are challenged by existing mobility models – such as older or disabled travellers – may be able to enjoy significantly greater travel autonomy.
+- *(Cam 15 · T1 · P2)* Automation may help to reduce the incidence of **this**.
 - *(Cam 15 · T1 · P2)* Since, for most of the time, most of the seats in most cars are unoccupied, **this** may boost production of a smaller, more efficient range of vehicles that suit the needs of individuals.
-- *(Cam 15 · T1 · P2)* It’s clear that there are many challenges that need to be addressed but, through robust and targeted research, **these** can most probably be conquered within the next 10 years.
-- *(Cam 15 · T1 · P3)* Our desire to discover, and then share that new-found knowledge, is part of what makes us human – indeed, **this** has played an important part in our success as a species.
+- *(Cam 15 · T1 · P2)* However, one thing is certain: change is coming, and the need to be flexible in response to **this** will be vital for those involved in manufacturing the vehicles that will deliver future mobility.
 - *(Cam 15 · T1 · P3)* **That**, however, doesn’t take away from the fact that we all have this enquiring instinct, even today; and that in all sorts of professions – whether artist, marine biologist or astronomer – borders of the unknown are being tested each day.
-- *(Cam 15 · T1 · P3)* In this book about the exploration of the earth’s surface, I have confined myself to **those** whose travels were real and who also aimed at more than personal discovery.
-- *(Cam 15 · T1 · P3)* We think back to a golden age, as if exploration peaked somehow in the 19th century – as if the process of discovery is now on the decline, though the truth is that we have named only one and a half million of this planet’s species, and there may be more than 10 million – and **that**’s not including bacteria.
+- *(Cam 15 · T1 · P3)* But **that** still left me with another problem: the word ‘explorer’ has become associated with a past era.
 - *(Cam 15 · T2 · P1)* **That** is not to suggest everyone should dance their way to work, however healthy and happy it might make us, but rather that the techniques used by choreographers to experiment with and design movement in dance could provide engineers with tools to stimulate new ideas in city-making.
-- *(Cam 15 · T2 · P1)* In doing so they make crossings feel longer, introducing psychological barriers greatly impacting **those** that are the least mobile, and encouraging others to make dangerous crossings to get around the guard rails.
-- *(Cam 15 · T2 · P2)* **This** has left forests stagnant and therefore unwelcoming to the plants and animals which evolved to help regenerate the forest after a disturbance.
+- *(Cam 15 · T2 · P2)* ‘I don’t think that we can do **this**.
 - *(Cam 15 · T2 · P3)* However, the software was programmed such **that** is was nearly impossible to achieve 10 consecutive correct answers.
-- *(Cam 15 · T3 · P1)* **These** were rare examples of Moore’s use of the male figure and owe something to his visit to Greece in 1951, when he had the opportunity to study ancient works of art.
-- *(Cam 15 · T3 · P2)* We are aware that the product we have envisioned is mainly finding application in the developing world and humanitarian sector and that **this** is the way we will proceed.
+- *(Cam 15 · T3 · P2)* The device has a very simple filter to trap particles, and **this** can easily be shaken to remove them.
 - *(Cam 15 · T3 · P3)* However, Tehrani found no significant difference in the rate of evolution of incidents compared with **that** of characters.
-- *(Cam 15 · T3 · P3)* ‘Habits and morals change, but the things that scare us, and the fact that we seek out entertainment that’s designed to scare us – **those** are constant,’ he says.
-- *(Cam 15 · T4 · P1)* The majority of the huarango forests in the valley have already been cleared for fuel and agriculture – initially, **these** were smallholdings, but now they’re huge farms producing crops for the international market.
+- *(Cam 15 · T4 · P1)* **This** is why the huarango tree is so suited to life there: it has the longest roots of any tree in the world.
 - *(Cam 15 · T4 · P1)* His farm is relatively small and doesn’t yet provide him with enough to live on, but he hopes **this** will change.
-- *(Cam 15 · T4 · P1)* ‘If we can do it here, in the most fragile system on Earth, then **that**’s a real message of hope for lots of places, including Africa, where there is drought and they just can’t afford to wait for rain.’
-- *(Cam 15 · T4 · P3)* **That** is still the case today for fishermen in an unmanaged fishery without quotas, and for international logging companies with short-term leases on tropical rainforest land in places with corrupt officials and unsophisticated landowners.
+- *(Cam 15 · T4 · P2)* The researchers found that other key regions in the brain’s frontal lobe also responded to the whistles, including **those** activated in response to sign language among deaf people.
 - *(Cam 15 · T4 · P3)* But for five years the meat packers refused to follow **these**, claiming that they would be too expensive to obey.
-- *(Cam 16 · T1 · P1)* One reason for **this** is that they have up to 11 centimetres of fat underneath their skin.
-- *(Cam 16 · T1 · P1)* Despite **this**, their bones remain strong and dense.
+- *(Cam 16 · T1 · P1)* **This** is a disease where bones show reduced density, usually caused by insufficient exercise, reduced calcium intake or food starvation.
 - *(Cam 16 · T1 · P1)* **This** is even more astonishing since polar bears are known to actively hunt humans in the wild.
-- *(Cam 16 · T1 · P2)* Historian Marc Van de Mieroop comments on **this**, writing ‘Much experimentation was involved, which is especially clear in the construction of the pyramid in the center of the complex.
-- *(Cam 16 · T1 · P3)* If **this** isn’t happening, then you need to find new ways to learn.’
+- *(Cam 16 · T1 · P2)* Egyptologist Miroslav Verner writes, ‘Few monuments hold a place in human history as significant as **that** of the Step Pyramid in Saqqara … It can be said without exaggeration that this pyramid complex constitutes a milestone in the evolution of monumental stone architecture in Egypt and in the world as a whole.’
 - *(Cam 16 · T1 · P3)* In cases like **this**, Pachidi believes, a short-sighted view begins to creep into working practices whereby workers learn through the ‘algorithm’s eyes’ and become dependent on its instructions.
-- *(Cam 16 · T1 · P3)* But social policies can tackle **this** through retraining and redeployment.’
-- *(Cam 16 · T2 · P1)* But **this** does not lessen their importance.
+- *(Cam 16 · T2 · P1)* However, the carving is believed to date back much further than **that**.
 - *(Cam 16 · T2 · P3)* What are we to do, then, when confronted with situations like a disagreement with a spouse or negotiating a contract at work, **that** require us to take a personal stake?
-- *(Cam 16 · T3 · P1)* Studies of **these** have taught us that ancient Roman shipbuilders built the outer hull first, then proceeded with the frame and the rest of the ship.
-- *(Cam 16 · T3 · P2)* **This** is because unless they’re protected from the microorganisms that cause decay, they tend no to last long.
+- *(Cam 16 · T3 · P1)* In order to assist them, music would be played on an instrument, and oars would then keep time with **this**.
 - *(Cam 16 · T3 · P2)* **That** means archaeologists could be extracting some of those artefacts from retreating ice in years to come.
-- *(Cam 16 · T3 · P3)* **This** is how plants compete to escape each other’s shade.
-- *(Cam 16 · T3 · P3)* **This** is why plants are slower to grow in winter.
+- *(Cam 16 · T3 · P3)* **This** is called ‘dark reversion’.
 - *(Cam 16 · T4 · P2)* Unbeknown to most of us, an invisible, game-changing transformation links everyone in this picture: the neuronal circuit that underlies the brain’s ability to read is subtly, rapidly changing and **this** has implications for everyone from the pre-reading toddler to the expert adult.
-- *(Cam 16 · T4 · P2)* Increasing reports from educators and from researchers in psychology and the humanities bear **this** out.
-- *(Cam 16 · T4 · P2)* It is about how we all have begun to read o various mediums and how **that** changes not only what we read, but also the purposes for which we read.
+- *(Cam 16 · T4 · P2)* When the reading brain skims like **this**, it reduces time allocated to deep reading processes.
 - *(Cam 16 · T4 · P3)* Consequently, **this** has caused even more suspicion and disbelief, leading many doctors to ignore the seemingly outlandish AI recommendations and stick to their own expertise.
-- *(Cam 16 · T4 · P3)* **This** helps create a psychological feeling of safety.
-- *(Cam 16 · T4 · P3)* **This** suggests people use relevant evidence about AI in a biased manner to support their existing attitudes, a deep-rooted human tendency known as “confirmation bias”.
+- *(Cam 16 · T4 · P3)* Even if it can be technically explained (and **that**’s not always the case), AI’s decision-making process is usually too difficult for most people to comprehend.
 - *(Cam 17 · T1 · P1)* Even as the Metropolitan began operation, the first extensions to the line were being authorised; **these** were built over the next five years, reaching Moorgate in the east to London and Hammersmith in the west.
-- *(Cam 17 · T1 · P2)* There have been many examples of **this** in the UK: the mixed-use facilities at Wembley and Old Trafford have become a blueprint for many other stadiums in the world.
-- *(Cam 17 · T1 · P2)* **This** is proof that a stadium can serve its city, and have a decidedly positive impact in terms of reduction of CO2 emissions.
+- *(Cam 17 · T1 · P2)* **This** reduces the annual output of carbon dioxide by 660 tons and supplies up to 80 percent of the surrounding area when the stadium is not in use.
 - *(Cam 17 · T1 · P3)* **This** was partly because he rode at the head of what looked like a foreign invasion force and partly because, after almost a decade of civil war, people were desperate to avoid it beginning again.
-- *(Cam 17 · T1 · P3)* The tantalizing question left, in the end, is **that** of what it all meant.
-- *(Cam 17 · T1 · P3)* But this one niggle aside, To Catch a King is an excellent read, and **those** who come to it knowing little of the famous tale will find they have a treat in store.
+- *(Cam 17 · T1 · P3)* **This** is the one area where the book doesn’t quite hit the mark.
 - *(Cam 17 · T2 · P1)* One of the most intriguing manuscripts from Qumran, **this** is a sort of ancient treasure map that lists dozens of gold and silver caches.
-- *(Cam 17 · T2 · P2)* In fact, a third team in the US has already begun to do **this** with a relative of the tomato called the groundcherry.
-- *(Cam 17 · T2 · P2)* By comparing the genomes of modern plants to **those** of their wild relatives, biologists have been working out what genetic changes occurred as plants were domesticated.
+- *(Cam 17 · T2 · P2)* ‘**This** could transform what we eat,’ says Jorg Kudla at the University of Munster in Germany, a member of the Brazilian team.
 - *(Cam 17 · T2 · P2)* ‘Any one with the right skills could go to their lab and do **this**.’
-- *(Cam 17 · T2 · P3)* **That** may be true, but there may be a deeper insight to be gleaned.
-- *(Cam 17 · T2 · P3)* In particular, the provenance of the raw material on which the Law of Effect operates is not as clearly known as **that** of the genetic mutations on which the Law of Natural Selection operates.
+- *(Cam 17 · T2 · P3)* **This** led to the rapid and widespread adoption of riding acey-deucy by many riders, a racing style which continues in today’s thoroughbred racing.
 - *(Cam 17 · T3 · P1)* **These** include competition with wild dogs introduced by European settlers, loss of habitat along with the disappearance of prey species, and a distemper-like disease which may also have affected the thylacine.
-- *(Cam 17 · T3 · P2)* **This** has led to some radical questions among environmentalists, such as whether consumers should try to boycott palm oil entirely.
-- *(Cam 17 · T4 · P1)* In fact, some of the island’s insectivorous bats are currently thriving and **this** has important implications for farmers and conservationists alike.
+- *(Cam 17 · T3 · P2)* […] Of course, if you’re cutting down virgin forest it’s terrible – **that**’s what’s happening in Indonesia and Malaysia, it’s been flowed to get out of hand.
 - *(Cam 17 · T4 · P2)* Stories like **that** of the 24-year-olds Ana Regina and Magdalena Riethmüllerin, who were chastised in 1707 for reading books in church instead of listening to the sermon.
-- *(Cam 17 · T4 · P2)* **This** involves following the lives of different people with the same level of wealth over a period of time.
-- *(Cam 17 · T4 · P3)* But **that** is not the hard part.
+- *(Cam 17 · T4 · P2)* ‘Early findings suggest that the potential benefits of education for the economy can be held back by other barriers, and **this** has implications for today,’ says Ogilvie.
+- *(Cam 17 · T4 · P3)* **These** assessed his ability to hold numbers, pictures and words in mind.
+- *(Cam 18 · T1 · P1)* But if enough unused space can be developed like **this**, there’s no reason why you shouldn’t eventually target maybe between 5% and 10% of consumption.’
+- *(Cam 18 · T1 · P2)* Management that specifically targets low-use wood can help landowners manage these forest health issues, and wood energy markets help promote **this**.
+- *(Cam 18 · T1 · P3)* ‘If we go on like **this**, we will reach a point of no return,’ says Carolin Frueh, an astrodynamical researcher at Purdue University in West Lafayette, Indiana.
+- *(Cam 18 · T1 · P3)* ‘What happens to **those** that fail or go bankrupt?’
+- *(Cam 18 · T1 · P3)* Jah illustrates **this** with a web-based database that he has developed.
+- *(Cam 18 · T1 · P3)* Until **that** happens, he argues, the space community will continue devolving into a tragedy in which all spaceflight operators are polluting a common resource.
+- *(Cam 18 · T2 · P2)* What would **this** mean for us?
+- *(Cam 18 · T2 · P2)* It is not yet clear whether **this** is possible, but if it is, it will require a cooperative spirit, and a willingness to set aside self-interest.
+- *(Cam 18 · T3 · P1)* The sheer scale of manufacture is so huge, **that** is the issue.’
+- *(Cam 18 · T3 · P3)* **This** is the gap between what they can achieve only with support – teachers, textbooks, worked examples, parents and so on – and what they can achieve independently.
+- *(Cam 18 · T4 · P1)* **Those** responsible for maintaining buildings may have to acquire new skills, such as landscaping, and in some cases, volunteers may be needed to help out.
+- *(Cam 18 · T4 · P3)* **This** is a book about the life and scientific work of Alfred Wegener, whose reputation today rests with his theory of continental displacements, better known as ‘continental drift’.
+- *(Cam 18 · T4 · P3)* In this respect I urge readers to try to experience Wegener’s life as he lived it, with all the interruptions, changes of mind, and renewed efforts **this** entailed.
+- *(Cam 19 · T1 · P1)* **This** all changed in the early 1990s with the development of synthetic strings that were cheaper and more durable.
+- *(Cam 19 · T1 · P2)* **These** were extracts of diplomatic correspondence between the pharaoh and his allies, and covered many pressing issues, including piracy.
+- *(Cam 19 · T1 · P3)* **This** leads us to our third observation: a campaign to correct misinformation, even if rhetorically compelling, requires resources and planning to accomplish necessary reach and frequency.
+- *(Cam 19 · T2 · P2)* **These** include factors such as the competitor’s degree of confidence, how much they believe they can control the situation’s outcome, and whether they’re looking forward to the event or not.
+- *(Cam 19 · T2 · P2)* **This** can help create a feeling of control over the stressful event.
+- *(Cam 19 · T2 · P3)* On top of **that**, research is clear that brains are flexible, new neural pathways can be created, and IQ isn’t fixed.
+- *(Cam 19 · T3 · P1)* It also revealed particular types of beads, similar to **those** previously found on islands in southern Wallacea.
+- *(Cam 19 · T3 · P2)* Many of **those** that remain have been damaged by agricultural pesticides and fertilizers, industrial pollutants, and construction works.
+- *(Cam 19 · T3 · P3)* It came to represent one of those devices that technology enthusiasts dream of long before they become practically realizable, like TVs flat enough to hang on walls: objects that we once could only dream of having but **that** are now commonplace.
+- *(Cam 19 · T3 · P3)* Whether **that** happens, and how quickly, will probably depend not so much on the earpieces themselves, but on the prevalence of voice-controlled devices and artificial translation in general.
+- *(Cam 19 · T4 · P1)* Is **this** a sign that butterflies are well equipped to cope with climate change, and readily adjust to new temperatures?
+- *(Cam 19 · T4 · P1)* **This** suggests that climate change, while undoubtedly not the sole cause, might have played a part in the downfall of this species.
+- *(Cam 19 · T4 · P2)* Any one of **these** could offer lifesaving potential.
+- *(Cam 19 · T4 · P3)* But, in fact, the assumption on which **this** all rests – that prehistoric life was a desperate struggle for survival – is false.
+- *(Cam 20 · T1 · P1)* **This** involved moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks.
+- *(Cam 20 · T1 · P2)* All of **this** raises questions of social acceptance, acknowledges Russell.
+- *(Cam 20 · T1 · P3)* **This** is what happened when the firefighters were relaxed; but when they were under stress, a different pattern emerged.
+- *(Cam 20 · T2 · P2)* **This** matters because, as my research shows, procrastination doesn’t just waste time, but is actually linked to other problems, too.
+- *(Cam 20 · T2 · P2)* **This** is rewarding, and it conditions us to use procrastination to repair our mood.
+- *(Cam 20 · T2 · P2)* Doing **this** can take the edge off the negative feelings we have about ourselves when we procrastinate.
+- *(Cam 20 · T2 · P3)* **This** is widely liked, even if the precision can sometimes cause problems.
+- *(Cam 20 · T3 · P1)* During the freezing process, crystals formed within the cells of the food, and when the ice expanded and the cells burst, **this** spoilt the flavor and texture of the food.
+- *(Cam 20 · T3 · P1)* Today, the US frozen food industry has a turnover of over $67 billion annually, with $26.6 billion of **that** sold to consumers for home consumption.
+- *(Cam 20 · T3 · P2)* And **that** is just the start.
+- *(Cam 20 · T3 · P2)* And if **this** can be extended for all species, we could consider the launching of coral-spawning programmes several times a year.
+- *(Cam 20 · T3 · P3)* To this question, Rees replied, ‘**Those** who should be worried are the futurologists who believe in the so-called “singularity”.
+- *(Cam 20 · T4 · P2)* ‘When I started **this**,’ explains founder Elizabeth English, ‘climate change was not on the tip of everybody’s tongue, but this technology is becoming necessary in places that didn’t previously need it.’
+- *(Cam 21 · T1 · P2)* 'I expect we will see much more of **this** in the future.'
+- *(Cam 21 · T1 · P3)* But as well as **this**, the book is about the continuity of the use of traditional methods on small farms.
+- *(Cam 21 · T1 · P3)* Further processes involved boiling (from the 19th century, **this** often involved vacuum systems) and the separation of sugar from other materials in a process known as refinement.
+- *(Cam 21 · T2 · P1)* Their brains are very different from **those** of humans, and it can often be difficult to record their activity while they are sleeping.
+- *(Cam 21 · T2 · P1)* **These** include whales and dolphins, which do not shut down their entire brain when they sleep, but only half of it, keeping the rest awake.
+- *(Cam 21 · T2 · P1)* We are quick to interpret the twitching limbs and quiet barks of sleeping dogs, but the truth is that we don't know if there is an internal experience of chasing rabbits that comes along with **that**.
+- *(Cam 21 · T2 · P2)* There were some grander residences dotted around the outskirts of Babandyanalo, and **these** probably belonged to male relatives of the king.
+- *(Cam 21 · T2 · P3)* **This** means that a malicious AI can target another AI to make it behave in a certain way, such as forcing it to make wrong predictions.
+- *(Cam 21 · T3 · P1)* There was some recovery in the first decade of the new millennium but **this** was then crushed by devastating mass mortality events that saw the loss of hundreds of thousands of the species.
 
 <a id="p4"></a>
 
 ### 4. Đại từ phản thân
 
-<small>115 câu</small>
+<small>118 câu</small>
 
 - *(Cam 10 · T2 · P2)* Yet in order to learn by **themselves**, the gifted do need some support from their teachers.
 - *(Cam 10 · T2 · P3)* Furthermore, consideration of the ‘value’ of the original work in its treasure house setting impresses upon the viewer that, since these works were originally produced, they have been assigned a huge monetary value by some person or institution more powerful than **themselves**.
@@ -609,12 +609,15 @@
 - *(Cam 20 · T3 · P3)* *terraforming: modifying a planet’s atmosphere to suit human needs ** singularity: the point when robots will be able to start creating ever more sophisticated versions of **themselves**
 - *(Cam 20 · T4 · P3)* Livestock guard dogs, traditionally used to protect farm animals from predators, are now being used to protect the predators **themselves**
 - *(Cam 20 · T4 · P3)* The dogs will place **themselves** between the livestock and any threat, barking loudly.
+- *(Cam 21 · T2 · P1)* Our muscles also twitch slightly, though they are largely paralysed so we don't hurt **ourselves**.
+- *(Cam 21 · T2 · P1)* Costello, as the octopus was called, thrashed around, extended his mantle as if trying to make **himself** look bigger, and squirted ink as though he were being attacked by a predator.
+- *(Cam 21 · T4 · P2)* They intend to look not only at test results, but also at variables such as the standard of schooling, the environment and the teaching practices **themselves**.
 
 <a id="p5"></a>
 
 ### 5. one/ones thay cho danh từ
 
-<small>29 câu</small>
+<small>31 câu</small>
 
 - *(Cam 10 · T3 · P2)* But it is hard to make sense of the manufacture of anthocyanins – why should a tree bother making new chemicals in its leaves when it’s already scrambling to withdraw and preserve the **ones** already there?
 - *(Cam 10 · T3 · P2)* No **one** has as yet ascertained whether more robust trees sport the brightest leaves, or whether insects make choices according to colour intensity.
@@ -645,12 +648,14 @@
 - *(Cam 20 · T1 · P3)* From medical decisions to financial and professional **ones**, we are all sometimes required to weigh up information under stressful conditions.
 - *(Cam 20 · T2 · P1)* Due to manatees’ abrasive aquatic plant diet, these teeth get worn down and they eventually fall out, so they continually grow new teeth that get pushed forward to replace the **ones** they lose.
 - *(Cam 20 · T4 · P2)* Homes in this part of Vietnam are traditionally built on stilts but these **ones** had been built to float.
+- *(Cam 21 · T4 · P1)* Women, young girls and children are particularly vulnerable because they are the **ones** who cook in the kitchen or outside over fires.
+- *(Cam 21 · T4 · P3)* Right at the end of the process, he learnt that the paper had stretched slightly and so the final **one** overlapped the first by a centimetre (which may not seem a great deal, but when that represents 2 per cent of the Earth's diameter, it's equivalent to obliterating the Himalayas or wiping out Chile).
 
 <a id="p6"></a>
 
 ### 6. those who … (những người mà)
 
-<small>26 câu</small>
+<small>27 câu</small>
 
 - *(Cam 10 · T1 · P3)* And there are **those** who don’t have a budget, or much space, but who innovate successfully.
 - *(Cam 10 · T2 · P2)* But scientific progress is not all theoretical, knowledge is a so vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than **those** who do not (Elshout, 1995).
@@ -678,12 +683,13 @@
 - *(Cam 20 · T2 · P2)* In one study of over 3,000 German students over a six-month period, **those** who reported procrastinating over their university work were also more likely to engage in study-related misconduct, such as cheating and plagiarism.
 - *(Cam 20 · T2 · P2)* Which TWO comparisons between employees who often procrastinate and **those** who do not are mentioned in the text?
 - *(Cam 20 · T3 · P3)* To this question, Rees replied, ‘**Those** who should be worried are the futurologists who believe in the so-called “singularity”.
+- *(Cam 21 · T1 · P2)* Eric Pfeifer, a psychotherapy researcher, also concedes that some people may not benefit from silence, particularly **those** who are in a heightened state of stress.
 
 <a id="p7"></a>
 
 ### 7. that/those of (thay cho danh từ đã nhắc)
 
-<small>23 câu</small>
+<small>27 câu</small>
 
 - *(Cam 10 · T2 · P3)* In addition, a major collection like **that of** London’s National Gallery is housed in numerous rooms, each with dozens of works, any one of which is likely to be worth more than all the average visitor possesses.
 - *(Cam 10 · T2 · P3)* Consequently, the dominant critical approach becomes **that of** the art historian, a specialised academic approach devoted to ‘discovering the meaning’ of art within the cultural context of its time.
@@ -708,6 +714,10 @@
 - *(Cam 18 · T3 · P3)* The current pedagogical paradigm is arguably **that of** constructivism, which emerged out of the work of psychologist Lev Vygotsky.
 - *(Cam 19 · T1 · P2)* The ancient Greek world’s experience of piracy was different from **that of** Egyptian rulers.
 - *(Cam 20 · T2 · P1)* However, the manatee has a broad, rounded tail, whereas the dugong’s is fluked, like **that of** a whale.
+- *(Cam 21 · T2 · P1)* Their brains are very different from **those of** humans, and it can often be difficult to record their activity while they are sleeping.
+- *(Cam 21 · T2 · P2)* They are the first known indicators that gold had an intrinsic value of its own (as opposed to **that of** a currency) in southern Africa.
+- *(Cam 21 · T3 · P1)* Poaching reached epidemic levels after misguided conservationists tried to relieve the pressure on threatened African rhinos by actively encouraging the use of saiga horns in traditional medicine as an alternative to **those of** rhinos.
+- *(Cam 21 · T4 · P2)* The literacy and numeracy skills of slum children are not lower than **those of** children from other urban poor backgrounds.
 
 <a id="p8"></a>
 

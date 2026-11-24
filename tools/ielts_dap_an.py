@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Phân tích câu hỏi + đáp án IELTS Reading (Cambridge 10–20).
+"""Phân tích câu hỏi + đáp án IELTS Reading (Cambridge 10–21).
 
 - Đề: ~/Ielts-Reading/cleaned_camNN_testN.html (bài đọc + câu hỏi)
 - Đáp án: tools/data/ielts_answers.json (lấy từ ieltstrainingonline.com — trang bên thứ ba,
@@ -285,7 +285,7 @@ def main():
     found_stats = Counter()
     pages = defaultdict(list)       # cam -> lines
     per_type_examples = defaultdict(list)
-    for c in range(10, 21):
+    for c in range(10, 22):
         for t in range(1, 5):
             path = os.path.join(SRC, "cleaned_cam%d_test%d.html" % (c, t))
             key = "%d-%d" % (c, t)
@@ -382,18 +382,18 @@ def main():
                 "dẫn chứng do máy tìm bằng so khớp từ khoá nên **có thể chỉ sai chỗ** — với TRUE/FALSE/NOT GIVEN và "
                 "câu paraphrase mạnh, hãy đọc thêm câu trước/sau. NOT GIVEN thì câu dẫn chứng chỉ là chỗ gần nhất bài nói tới.\n",
                 "**Các cuốn:** " + " · ".join(("**Cam %d**" % x) if x == c else "[Cam %d](ielts-dap-an-cam-%d.md)" % (x, x)
-                                             for x in range(10, 21)) +
+                                             for x in range(10, 22)) +
                 " · [📊 Tổng quan dạng câu hỏi](ielts-dap-an-tong-quan.md) · [🗺️ Ngữ pháp Cam %d](ielts-ngu-phap-cam-%d.md)\n" % (c, c)]
         open(os.path.join(DOCS, "ielts-dap-an-cam-%d.md" % c), "w", encoding="utf-8").write("\n".join(head + P) + "\n")
 
     # ---- tổng quan
     tot = sum(type_count.values())
-    T = ["# 📊 IELTS Reading — Tổng quan dạng câu hỏi & cách làm (Cambridge 10–20)\n",
-         "> Thống kê **%s câu hỏi** trong **%d đề** Cambridge IELTS 10–20 (43 đề có đáp án; Cam 17 Test 3 chưa có). Bấm vào "
+    T = ["# 📊 IELTS Reading — Tổng quan dạng câu hỏi & cách làm (Cambridge 10–21)\n",
+         "> Thống kê **%s câu hỏi** trong **%d đề** Cambridge IELTS 10–21 (47 đề có đáp án; Cam 17 Test 3 chưa có). Bấm vào "
          "từng cuốn để xem **đáp án + câu dẫn chứng** cho từng câu.\n>\n> ⚠️ Đáp án lấy từ ieltstrainingonline.com (bên thứ "
          "ba, không phải đáp án chính thức của Cambridge); dạng câu hỏi và câu dẫn chứng do máy nhận diện.\n"
          % ("{:,}".format(tot), len(A)),
-         "**Đáp án & phân tích theo cuốn:** " + " · ".join("[Cam %d](ielts-dap-an-cam-%d.md)" % (x, x) for x in range(10, 21)) + "\n",
+         "**Đáp án & phân tích theo cuốn:** " + " · ".join("[Cam %d](ielts-dap-an-cam-%d.md)" % (x, x) for x in range(10, 22)) + "\n",
          "## 📈 Dạng câu hỏi nào gặp nhiều nhất\n", "| # | Dạng câu hỏi | Số câu | Tỉ lệ |\n|---|---|---|---|"]
     for i, (k, v) in enumerate(type_count.most_common(), 1):
         T.append("| %d | [%s](#%s) | %d | %.1f%% |" % (i, TYPE_NAME.get(k, "Dạng khác"), k, v, 100 * v / tot))

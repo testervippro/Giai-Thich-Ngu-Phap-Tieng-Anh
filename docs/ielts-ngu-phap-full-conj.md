@@ -1,4 +1,4 @@
-# 🧩 12. LIÊN TỪ — full câu ví dụ IELTS Reading (Cam 10–20)
+# 🧩 12. LIÊN TỪ — full câu ví dụ IELTS Reading (Cam 10–21)
 
 > Câu trong bài đọc IELTS có chứa điểm ngữ pháp của chương này, phần ngữ pháp được **in đậm**. Lý thuyết: [LIÊN TỪ](Li%C3%AAn%20T%E1%BB%AB.md) · quay lại [🗺️ Bản đồ ngữ pháp IELTS](ielts-ngu-phap-ban-do.md?id=conj). Mỗi điểm hiện tối đa 150 câu (trải đều các cuốn).
 >
@@ -6,21 +6,21 @@
 
 ## Mục lục
 
-1. [Liên từ phụ thuộc](ielts-ngu-phap-full-conj.md?id=p1) — 642 câu
-2. [and nối 2 động từ/cụm động từ song song](ielts-ngu-phap-full-conj.md?id=p2) — 614 câu
-3. [Liên từ đẳng lập (or)](ielts-ngu-phap-full-conj.md?id=p3) — 351 câu
-4. [Liên từ đẳng lập nối 2 mệnh đề (and)](ielts-ngu-phap-full-conj.md?id=p4) — 347 câu
-5. [Trạng từ liên kết đầu câu](ielts-ngu-phap-full-conj.md?id=p5) — 258 câu
-6. [Liên từ đẳng lập nối 2 mệnh đề (but)](ielts-ngu-phap-full-conj.md?id=p6) — 141 câu
-7. [Trạng từ liên kết giữa câu](ielts-ngu-phap-full-conj.md?id=p7) — 135 câu
-8. [Liên từ đẳng lập (but)](ielts-ngu-phap-full-conj.md?id=p8) — 124 câu
-9. [Liên từ tương quan both … and](ielts-ngu-phap-full-conj.md?id=p9) — 49 câu
-10. [as well as (cũng như)](ielts-ngu-phap-full-conj.md?id=p10) — 45 câu
-11. [rather than (thay vì)](ielts-ngu-phap-full-conj.md?id=p11) — 42 câu
-12. [Liên từ tương quan not only … but (also)](ielts-ngu-phap-full-conj.md?id=p12) — 25 câu
-13. [Liên từ tương quan whether … or](ielts-ngu-phap-full-conj.md?id=p13) — 23 câu
-14. [Liên từ đẳng lập nối 2 mệnh đề (or)](ielts-ngu-phap-full-conj.md?id=p14) — 20 câu
-15. [Liên từ tương quan either … or](ielts-ngu-phap-full-conj.md?id=p15) — 18 câu
+1. [Liên từ phụ thuộc](ielts-ngu-phap-full-conj.md?id=p1) — 707 câu
+2. [and nối 2 động từ/cụm động từ song song](ielts-ngu-phap-full-conj.md?id=p2) — 658 câu
+3. [Liên từ đẳng lập nối 2 mệnh đề (and)](ielts-ngu-phap-full-conj.md?id=p3) — 382 câu
+4. [Liên từ đẳng lập (or)](ielts-ngu-phap-full-conj.md?id=p4) — 376 câu
+5. [Trạng từ liên kết đầu câu](ielts-ngu-phap-full-conj.md?id=p5) — 283 câu
+6. [Liên từ đẳng lập nối 2 mệnh đề (but)](ielts-ngu-phap-full-conj.md?id=p6) — 150 câu
+7. [Trạng từ liên kết giữa câu](ielts-ngu-phap-full-conj.md?id=p7) — 146 câu
+8. [Liên từ đẳng lập (but)](ielts-ngu-phap-full-conj.md?id=p8) — 139 câu
+9. [Liên từ tương quan both … and](ielts-ngu-phap-full-conj.md?id=p9) — 51 câu
+10. [as well as (cũng như)](ielts-ngu-phap-full-conj.md?id=p10) — 50 câu
+11. [rather than (thay vì)](ielts-ngu-phap-full-conj.md?id=p11) — 43 câu
+12. [Liên từ tương quan not only … but (also)](ielts-ngu-phap-full-conj.md?id=p12) — 27 câu
+13. [Liên từ tương quan whether … or](ielts-ngu-phap-full-conj.md?id=p13) — 25 câu
+14. [Liên từ đẳng lập nối 2 mệnh đề (or)](ielts-ngu-phap-full-conj.md?id=p14) — 21 câu
+15. [Liên từ tương quan either … or](ielts-ngu-phap-full-conj.md?id=p15) — 19 câu
 16. [Liên từ tương quan neither … nor](ielts-ngu-phap-full-conj.md?id=p16) — 6 câu
 
 ---
@@ -29,7 +29,7 @@
 
 ### 1. Liên từ phụ thuộc
 
-<small>642 câu · hiện 150</small>
+<small>707 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* Most stepwells are found dotted around the desert areas of Gujarat (where they are called vav ) and Rajasthan (where they are known as baori ), **while** a few also survive in Delhi.
 - *(Cam 10 · T1 · P2)* **Although** modern information technologies can reduce the demand for physical transport by facilitating teleworking and teleservices, the requirement for transport continues to increase.
@@ -186,7 +186,7 @@
 
 ### 2. and nối 2 động từ/cụm động từ song song
 
-<small>614 câu · hiện 150</small>
+<small>658 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* Unique to the region, stepwells **are often architecturally complex and vary** widely in size and shape.
 - *(Cam 10 · T1 · P2)* This objective, agreed by the Gothenburg European Council, has to be **achieved by integrating environmental considerations into Community policies, and shifting** the balance between modes of transport lies at the heart of its strategy.
@@ -341,166 +341,9 @@
 
 <a id="p3"></a>
 
-### 3. Liên từ đẳng lập (or)
+### 3. Liên từ đẳng lập nối 2 mệnh đề (and)
 
-<small>351 câu · hiện 150</small>
-
-- *(Cam 10 · T1 · P1)* Some were located in **or near** villages as public spaces for the community; others were positioned beside roads as resting places for travellers.
-- *(Cam 10 · T1 · P2)* This phenomenon has been emphasised by the relocation of some industries, particularly those which are labour intensive, to reduce production costs, even though the production site is hundreds **or even thousands** of kilometres away from the final assembly plant or away from users.
-- *(Cam 10 · T1 · P3)* Missing from the picture is Roy Orbison’ a greater natural singer than Lewis, Perkins **or Cash**.
-- *(Cam 10 · T2 · P2)* There appears to be a qualitative difference in the way the intellectually highly able think, compared with more average-ability **or older pupils**, for whom external regulation by the teacher often compensates for lack of internal regulation.
-- *(Cam 10 · T2 · P3)* In addition, it could be argued that the practice of interpreting **or ‘reading**’ each medium follows different conventions.
-- *(Cam 10 · T2 · P3)* In the case of a major collection, there are probably more works on display than we could realistically view in weeks **or even months**.
-- *(Cam 10 · T2 · P3)* Similarly novels and poems are read in a prescribed temporal sequence, whereas a picture has no clear place at which to start viewing, **or at which to finish**.
-- *(Cam 10 · T3 · P1)* However, the major problems of the travel and tourism industry that have hidden, **or obscured**, its economic impact are the diversity and fragmentation of the industry itself.
-- *(Cam 10 · T3 · P1)* Moreover, in all nations this problem has made it difficult for the industry to develop any type of reliable **or credible** tourism information base in order to estimate the contribution it makes to regional, national and global economies.
-- *(Cam 10 · T3 · P1)* In fact, McIntosh and Goeldner (1990) suggest that tourism has become the largest commodity in international trade for many nations and, for a significant number of other countries, it ranks second **or third**.
-- *(Cam 10 · T3 · P2)* The colours are magnificent, but the question of exactly why some trees turn yellow **or orange**, and others red or purple, is something which has long puzzled scientists.
-- *(Cam 10 · T3 · P2)* Some theories about anthocyanins have argued that they might act as a chemical defence against attacks by insects **or fungi**, or that they might attract fruit-eating birds or increase a leafs tolerance to freezing.
-- *(Cam 10 · T3 · P2)* What is still not fully understood, however, is why some trees resort to producing red pigments while others don’t bother, and simply reveal their orange **or yellow** hues.
-- *(Cam 10 · T3 · P3)* Was there only one outward migration from a single point in Asia, **or several** from different points?
-- *(Cam 10 · T3 · P3)* For returning explorers, successful **or not**, the geography of their own archipelagoes would have provided a safety net.
-- *(Cam 10 · T4 · P2)* Tanya Streeter’s passion is freediving – the sport of plunging deep into the water without tanks **or other breathing equipment**.
-- *(Cam 11 · T1 · P1)* There would be no weather-related crop failures due to droughts, floods **or pests**.
-- *(Cam 11 · T1 · P2)* The unique shape of the structure is claimed to have been inspired by various sources, both manmade and natural, most notably a Celtic double headed axe, but also the vast turning propeller of a ship, the ribcage of a whale **or the spine** of a fish.
-- *(Cam 11 · T1 · P3)* This would involve using sulphur **or hydrogen sulphide** aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.
-- *(Cam 11 · T2 · P2)* Easter Island, **or Rapu Nui** as it is known locally, is home to several hundred ancient human statues – the moai.
-- *(Cam 11 · T2 · P2)* They think its population grew rapidly and then remained more **or less** stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity.
-- *(Cam 11 · T2 · P3)* Angelina Hawley-Dolan, of Boston College, Massachusetts, responded to this debate by asking volunteers to view pairs of paintings – either the creations of famous abstract artists **or the doodles** of infants, chimps and elephants.
-- *(Cam 11 · T2 · P3)* He found that almost everyone preferred the original, whether it was a Van Gogh still life **or an abstract** by Miro.
-- *(Cam 11 · T3 · P3)* There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, **or trigonometry**.
-- *(Cam 11 · T3 · P3)* You will turn these pages much more slowly than when reading a novel **or a newspaper**.
-- *(Cam 11 · T4 · P1)* If you think of our DNA as an immense piano keyboard and our genes as the keys – each key symbolizing a segment of DNA responsible for a particular note, **or trait**, and all the keys combining to make us who we are – then epigenetic processes determine when and how each key can be struck, changing the tune being played.
-- *(Cam 11 · T4 · P2)* Often with film characterization the audience perceives little **or no** difference between the character and the actor.
-- *(Cam 11 · T4 · P2)* Usually not meant to be noticeable, it often provides a tone **or an emotional attitude** toward the story and /or the characters depicted.
-- *(Cam 11 · T4 · P2)* For example, a particular musical theme associated with an individual character **or situation** may be repeated at various points in a film in order to remind the audience of salient motifs or ideas.
-- *(Cam 12 · T1 · P1)* And for top-quality cork, it’s necessary to wait a further 15 **or 20** years.
-- *(Cam 12 · T1 · P2)* Amassing hundreds **or even thousands** of postcards, chocolate wrappers or whatever, takes time, energy and money that could surely be put to much more productive use.
-- *(Cam 12 · T1 · P2)* Another motive for collecting is the desire to find something special, **or a particular example** of the collected item, such as a rare early recording by a particular singer.
-- *(Cam 12 · T1 · P2)* Stamp collecting opens a window to other countries, and to the plants, animals, **or famous people** shown on their stamps.
-- *(Cam 12 · T1 · P2)* Similarly, people who collect dolls may go beyond simply enlarging their collection, and develop an interest in the way that dolls are made, **or the materials** that are used.
-- *(Cam 12 · T1 · P2)* Stamps collectors, for instance, arrange their stamps in albums, usually very neatly, organising their collection according to certain commonplace principles – perhaps by country in alphabetical order, **or grouping stamps** by what they depict – people, birds, maps, and so on.
-- *(Cam 12 · T1 · P2)* And believe it **or not**, there is at least one dog collar museum in existence, and it grew out of a personal collection.
-- *(Cam 12 · T1 · P3)* A field of knowledge **or a professional endeavor** is defined by both the means and the end; hence both deserve scrutiny.
-- *(Cam 12 · T2 · P1)* In his essay, Kanayo F. Nwanze, President of the International Fund for Agricultural Development, argued that governments can significantly reduce risks for farmers by providing basic services like roads to get produce more efficiently to markets, **or water and food storage facilities** to reduce losses.
-- *(Cam 12 · T2 · P1)* Some participating authors and commentators argued in favour of community-based and autonomous risk management strategies through collective action groups, co-operatives **or producers**’ groups.
-- *(Cam 12 · T2 · P3)* According to the latest figures, the majority of the world’s population is now bilingual **or multilingual**, having grown up speaking two or more languages.
-- *(Cam 12 · T2 · P3)* Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch from categorizing objects by colour (red **or green**) to categorizing them by shape (circle or triangle), they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy.
-- *(Cam 12 · T3 · P1)* Some time after the Galápagos’s birth, around five million years ago, the islands were colonised by one **or more** tortoises from mainland South America.
-- *(Cam 12 · T3 · P1)* They also introduced alien species – ranging from cattle, pigs, goats, rats and dogs to plants and ants – that either prey on the eggs and young tortoises **or damage** or destroy their habitat.
-- *(Cam 12 · T3 · P2)* Health geographers can map the spread of illnesses and attempt to identify the reasons behind an increase **or decrease** in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations.
-- *(Cam 12 · T3 · P3)* One the one hand, music is a purely abstract art form, devoid of language **or explicit ideas**.
-- *(Cam 12 · T4 · P1)* and whenever we sit down to eat **or drink**.
-- *(Cam 13 · T1 · P1)* Later, a Travel Planner feature was added, which allowed visitors to click and ‘bookmark’ places **or attractions** they were interested in, and then view the results on a map.
-- *(Cam 13 · T1 · P2)* There isn’t even agreement over whether boredom is always a low-energy, flat kind of emotion **or whether feeling** agitated and restless counts as boredom, too.
-- *(Cam 13 · T1 · P2)* More evidence that boredom has detrimental effects comes from studies of people who are more **or less** prone to boredom.
-- *(Cam 13 · T1 · P3)* Composer David Cope invented a program called Experiments in Musical Intelligence, **or EMI**.
-- *(Cam 13 · T2 · P2)* Her research also shows that oxytocin in fact reduces cooperation in subjects who are particularly anxious **or sensitive** to rejection.
-- *(Cam 13 · T2 · P3)* Many ignore trends in their innovation strategies **or adopt** a wait-and-see approach and let competitors take the lead.
-- *(Cam 13 · T2 · P3)* Trends – technological, economic, environmental, social, **or political** – that affect how people perceive the world around them and shape what they expect from products and services present firms with unique opportunities for growth.
-- *(Cam 13 · T3 · P1)* There were no coconut palms in West Africa, the Caribbean **or the east coast** of the Americans before the voyages of the European explorers Vasco da Gama and Columbus in the late 15th and early 16th centuries.
-- *(Cam 13 · T3 · P2)* Dads didn’t raise their pitch **or fundamental** frequency when they talked to kids.’
-- *(Cam 13 · T3 · P2)* They played repeating vowel sounds made by a special synthesizing device that mimicked sounds made by either an adult woman **or another baby**.
-- *(Cam 13 · T3 · P3)* They are also looking at whether the types of pottery used, and other aspects of their material culture, were distinctive to specific regions **or were** more similar across larger areas.
-- *(Cam 13 · T4 · P3)* The Greek philosopher Aristotle may have identified happiness with self-realisation in the 4th century BC, and thinkers throughout the ages may have struggled to reconcile the pursuit of happiness with other human values, but for Bentham all this was mere metaphysics **or fiction**.
-- *(Cam 14 · T1 · P1)* Whitebread, who directs PEDAL, trained as a primary school teacher in the early 1970s, when, as he describes, ‘the teaching of young children was largely a quiet backwater, untroubled by any serious intellectual debate **or controversy**.’
-- *(Cam 14 · T1 · P3)* Employees also have intrinsic motivation needs **or motivators**, which include such factors as achievement and recognition.
-- *(Cam 14 · T2 · P1)* His numerous photographs of city life revealed in street scenes, houses, and markets are alive with human activity, and although his favourite subject was landscape he usually composed his scenes around such human pursuits as farming the land, cutting ice on a river, **or sailing** down a woodland stream.
-- *(Cam 14 · T2 · P1)* People wanted to buy photographs as souvenirs of a trip **or as** gifts, and catering to this market, Henderson had stock photographs on display at his studio for mounting, framing, or inclusion in albums.
-- *(Cam 14 · T2 · P3)* Whether it is of our lives – all those inboxes and calendars – **or how companies are structured**, a multi-billion dollar industry helps to meet this need.
-- *(Cam 14 · T3 · P1)* These implicit theories can suggest what aspects of the phenomenon have been more **or less** attended to in previous investigations.
-- *(Cam 14 · T3 · P1)* But the possibility also needs to be taken into account that the explicit theories are wrong and in need of correction **or supplementation**.
-- *(Cam 14 · T3 · P1)* The Jacksonian view is that all people are equal, not only as human beings but in terms of their competencies – that one person would serve as well as another in government **or on** a jury or in almost any position of responsibility.
-- *(Cam 14 · T3 · P2)* More drugs than you might think are derived from, **or inspired** by, compounds found in living things.
-- *(Cam 14 · T3 · P2)* These insects have many antimicrobial compounds for dealing with pathogenic bacteria and fungi, suggesting that there is certainly potential to find many compounds that can serve as **or inspire** new antibiotics.
-- *(Cam 14 · T3 · P3)* It has no extrinsically motivated function **or goal**.
-- *(Cam 14 · T3 · P3)* In the more direct form of guided play, parents **or other adults** can support children’s play by joining in the fun as a co-player, raising thoughtful questions, commenting on children’s discoveries, or encouraging further exploration or new facets to the child’s activity.
-- *(Cam 14 · T4 · P1)* And when it came to reacting to prey, the older ants attacked the poor fruit fly just as aggressively as the young ones did, flaring their mandibles **or pulling** at the fly’s legs.
-- *(Cam 14 · T4 · P2)* In my view, it is perfectly possible for many species of animals living in zoos **or wildlife parks** to have a quality of life as high as, or higher than, in the wild.
-- *(Cam 14 · T4 · P2)* The average captive animal will have a greater life expectancy compared with its wild counterpart, and will not die of drought, of starvation **or in** the jaws of a predator.
-- *(Cam 14 · T4 · P2)* A species protected in captivity can be bred up to provide a reservoir population against a population crash **or extinction** in the wild.
-- *(Cam 14 · T4 · P2)* Although reintroduction successes are few and far between, the numbers are increasing, and the very fact that species have been saved **or reintroduced** as a result of captive breeding proves the value of such initiatives.
-- *(Cam 14 · T4 · P2)* Many zoos also work directly to educate conservation workers in other countries, **or send** their animal keepers abroad to contribute their knowledge and skills to those working in zoos and reserves, thereby helping to improve conditions and reintroductions all over the world.
-- *(Cam 14 · T4 · P2)* They are vital not just in terms of protecting animals, but as a means of learning about them to aid those still in the wild, as well as educating and informing the general population about these animals and their world so that they can assist **or at least accept** the need to be more environmentally conscious.
-- *(Cam 14 · T4 · P3)* In the remaining cases, the working group found the studies had weaknesses in design and content which affected the validity of their conclusions – they lacked a control group, for example, **or used** faulty statistics.
-- *(Cam 14 · T4 · P3)* Most of the dangers also involved large pieces of debris – animals getting entangled in trash, for example, **or eating** it and severely injuring themselves.
-- *(Cam 14 · T4 · P3)* These may be ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, **or eroded** remnants of larger debris.
-- *(Cam 14 · T4 · P3)* None of that tells us how many birds **or fish or sea turtles** could die from plastic pollution – or how deaths in one species could affect that animal’s predators, or the rest of the ecosystem.
-- *(Cam 14 · T4 · P3)* In reality though, much of the debris is tiny **or below** the surface; a person could sail through the area without seeing any trash at all.
-- *(Cam 15 · T1 · P1)* Inside is a purple-brown shiny seed, 2-3 cm long by about 2 cm across, surrounded by a lacy red **or crimson** covering called an ‘aril’.
-- *(Cam 15 · T1 · P1)* Anyone caught growing a nutmeg seedling **or carrying** seeds without the proper authority was severely punished.
-- *(Cam 15 · T1 · P2)* If the vehicle can do the driving, those who are challenged by existing mobility models – such as older **or disabled** travellers – may be able to enjoy significantly greater travel autonomy.
-- *(Cam 15 · T1 · P3)* That, however, doesn’t take away from the fact that we all have this enquiring instinct, even today; and that in all sorts of professions – whether artist, marine biologist **or astronomer** – borders of the unknown are being tested each day.
-- *(Cam 15 · T1 · P3)* They each set their own particular criteria; the common factor in their approach being that they all had, unlike many of us who simply enjoy travel **or discovering** new things, both a very definite objective from the outset and also a desire to record their findings.
-- *(Cam 15 · T2 · P2)* ‘When it comes to breeding, band-tailed pigeons scatter and make maybe one **or two** nests per hectare, whereas passenger pigeons were very social and would make 10,000 or more nests in one hectare.’
-- *(Cam 15 · T2 · P3)* Participants were asked whether they thought the people laughing were friends **or strangers**.
-- *(Cam 15 · T2 · P3)* The students then were randomly assigned to watch a video clip eliciting either humour, contentment, **or neutral feelings**.
-- *(Cam 15 · T3 · P3)* In some stories Red Riding Hood gets the better of the wolf on her own, while in others a hunter **or a woodcutter** hears her cries and comes to her rescue.
-- *(Cam 15 · T3 · P3)* He found no significant difference in the flexibility of events there compared with the beginning **or the end**.
-- *(Cam 15 · T4 · P1)* You can also use it in drinks, soups **or stews**.’
-- *(Cam 15 · T4 · P2)* A whistler – **or silbador** – puts a finger in his or her mouth to increase the whistle’s pitch, while the other hand can be cupped to adjust the direction of the sound.
-- *(Cam 15 · T4 · P3)* In the long run, it is the public, either directly **or through** its politicians, that has the power to make such destructive policies unprofitable and illegal, and to make sustainable environmental policies profitable.
-- *(Cam 15 · T4 · P3)* The public’s task is therefore to identify which links in the supply chain are sensitive to public pressure: for instance, fast-food chains **or jewelry stores**, but not meat packers or gold miners.
-- *(Cam 15 · T4 · P3)* My conclusion is not a moralistic one about who is right **or wrong**, admirable or selfish, a good guy or a bad guy.
-- *(Cam 16 · T1 · P1)* Bone tissue is constantly being remodelled, meaning that bone is added **or removed**, depending on nutrient availability and the stress that the bone is under.
-- *(Cam 16 · T1 · P3)* Automation – **or ‘embodied** artificial intelligence’ (AI) – is one aspect of the disruptive effects of technology on the labour market.
-- *(Cam 16 · T2 · P1)* The cutting of huge figures **or ‘geoglyphs**’ into the earth of English hillsides has taken place for more than 3,000 years.
-- *(Cam 16 · T2 · P1)* However, the grass would soon grow over the geoglyph again unless it was regularly cleaned **or scoured** by a fairly large team of people.
-- *(Cam 16 · T2 · P1)* The result was a date for the horse’s construction somewhere between 1400 and 600 BCE – in other words, it had a Late Bronze Age **or Early Iron Age origin**.
-- *(Cam 16 · T2 · P2)* In each human there are microbes that live only in the stomach, the mouth **or the armpit** and by and large they do so peacefully.
-- *(Cam 16 · T2 · P2)* Instead we should realise we have a symbiotic relationship, that can be mutually beneficial **or mutually destructive**.
-- *(Cam 16 · T2 · P3)* Sensitivity to the possibility of change in social relations is also key, along with compromise **or integration** of different attitudes and beliefs.
-- *(Cam 16 · T2 · P3)* The students were instructed to imagine their career either ‘as if you were a distant observer’ **or ‘before** your own eyes as if you were right there’.
-- *(Cam 16 · T2 · P3)* We might associate wisdom with intelligence **or particular** personality traits, but research shows only a small positive relationship between wise thinking and crystallized intelligence and the personality traits of openness and agreeableness.
-- *(Cam 16 · T3 · P1)* They had to be able to sail near the coast which is why they had no ballast **or excess load** and were built with a long, narrow hull.
-- *(Cam 16 · T3 · P1)* In conditions of good visibility, seamen in the Mediterranean often had the mainland **or islands** in sight, which greatly facilitated navigation.
-- *(Cam 16 · T3 · P2)* Barrett’s team radiocarbon-dated 153 of the artefacts and compared those dates to the timing of major environmental changes in the region – such as periods of cooling **or warming** – and major social and economic shifts – such as the growth of farming settlements and the spread of international trade networks leading up to the Viking Age.
-- *(Cam 16 · T3 · P2)* The researchers say that could be because many of those artefacts have already disintegrated **or are still frozen** in the ice.
-- *(Cam 16 · T4 · P1)* The Romans dug tunnels for their roads using the counter-excavation method, whenever they encountered obstacles such as hills **or mountains** that were too high for roads to pass over.
-- *(Cam 16 · T4 · P2)* As MIT scholar Sherry Turkle has written, we do not err as a society when we innovate but when we ignore what we disrupt **or diminish** while innovating.
-- *(Cam 16 · T4 · P2)* There’s an old rule in neuroscience that does not alter with age: use it **or lose** it.
-- *(Cam 16 · T4 · P3)* It was found that, regardless of whether the film they watched depicted AI in a positive **or negative** light, simply watching a cinematic vision of our technological future polarised the participants’ attitudes.
-- *(Cam 17 · T1 · P2)* Construction costs can soar above £1 billion, and stadiums finished for major events such as the Olympic Games **or the FIFA World Cup** have notably fallen into disuse and disrepair.
-- *(Cam 17 · T1 · P3)* It is hard to imagine many other kings marking the lowest point in their life so enthusiastically, **or indeed pulling** off such an escape in the first place.
-- *(Cam 17 · T2 · P1)* In late 1946 **or early 1947**, three Bedouin teenagers were tending their goats and sheep near the ancient settlement of Qumran, located on the northwest shore of the Dead Sea in what is now known as the West Bank.
-- *(Cam 17 · T2 · P1)* According to various hypotheses, the treasure belonged to local people, **or was rescued** from the Second Temple before its destruction or never existed to begin with.
-- *(Cam 17 · T2 · P2)* This approach relies on the revolutionary CRISPR genome editing technique, in which changes are deliberately made to the DNA of a living cell, allowing genetic material to be added, removed **or altered**.
-- *(Cam 17 · T2 · P2)* The teams in Brazil and China have now used this knowledge to reintroduce these changes from scratch while maintaining **or even enhancing** the desirable traits of wild strains.
-- *(Cam 17 · T2 · P2)* By choosing wild plants that are drought **or heat** tolerant, says Gao, we could create crops that will thrive even as the planet warms.
-- *(Cam 17 · T2 · P3)* In the same way, random, arbitrary **or accidental** mutations of ideas may help pave the way for advances in science.
-- *(Cam 17 · T2 · P3)* Had Westrope conducted methodical investigations **or examined** extensive film records in a shrewd plan to outrun his rivals?
-- *(Cam 17 · T3 · P1)* When old enough to leave the pouch, the young stayed in a lair such as a deep rocky cave, well-hidden nest **or hollow log**, whilst the mother hunted.
-- *(Cam 17 · T3 · P2)* Oil palm plantations produce at least four and potentially up to ten times more oil per hectare than soybean, rapeseed, sunflower **or other competing oils**.
-- *(Cam 17 · T3 · P3)* Toward the end of the chapter, Barr assesses ‘whether skyscrapers are a cause **or an effect** of high land values’.
-- *(Cam 17 · T4 · P2)* If wealth is constant, it is possible to discover whether education was, for example, linked to the cultivation of new crops, **or to** the adoption of industrial innovations like sewing machines.
-- *(Cam 17 · T4 · P3)* Of 63 people scanned alongside the chess player, only one **or two** scored more highly on the measure.
-- *(Cam 18 · T1 · P1)* I don’t much like the fact, either, that they’ve travelled an average of 2,000 refrigerated kilometres to my plate, that their quality is so poor, because the varieties are selected for their capacity to withstand such substantial journeys, **or that 80% of the price I pay goes** to wholesalers and transport companies, not the producers.’
-- *(Cam 18 · T1 · P2)* Several tree- and plant-cutting approaches, which could greatly improve the long-term quality of a forest, focus strongly **or solely** on the use of wood for those markets.
-- *(Cam 18 · T1 · P3)* Those include inactivating satellites at the end of their useful life by venting pressurised materials **or leftover fuel** that might lead to explosions.
-- *(Cam 18 · T1 · P3)* ‘What happens to those that fail **or go** bankrupt?’
-- *(Cam 18 · T2 · P1)* Archaeologists believe England’s most iconic prehistoric ruin was built in several stages with the earliest constructed 5,000 **or more** years ago.
-- *(Cam 18 · T2 · P1)* Several hundred years later, it is thought, Stonehenge’s builders hoisted an estimated 80 bluestones, 43 of which remain today, into standing positions and placed them in either a horseshoe **or circular formation**.
-- *(Cam 18 · T2 · P1)* Challenging the classic image of industrious builders pushing, carting, rolling **or hauling** giant stones from faraway Wales, some scientists have suggested that it was glaciers, not humans, that carried the bluestones to Salisbury Plain.
-- *(Cam 18 · T2 · P2)* Loss of freedom to behave badly isn’t always a bad thing, of course: denying ourselves the freedom to put children to work in factories, **or to smoke** in restaurants are signs of progress.
-- *(Cam 18 · T3 · P1)* While these technologies are all promising ideas, they are either unproven **or based** on materials that are not abundant.
-- *(Cam 18 · T3 · P3)* The practice of ‘streaming’, **or ‘tracking**’, involves separating students into classes depending on their diagnosed levels of attainment.
-- *(Cam 18 · T4 · P1)* Ongoing research is showcasing how green roofs in cities can integrate with ‘living walls’: environmentally friendly walls which are partially **or completely** covered with greenery, including a growing medium, such as soil or water.
-- *(Cam 18 · T4 · P2)* This group had inferred that success **or failure** is due to innate ability, and this ‘fixed mindset’ had led them to fear of failure and lack of effort.
-- *(Cam 18 · T4 · P3)* Only a few hundred of the many thousands of letters he wrote and received in his lifetime have survived and he didn’t keep notebooks **or diaries** that recorded his life and activities.
-- *(Cam 19 · T1 · P1)* Another change was so subtle as to pass more **or less** unnoticed.
-- *(Cam 19 · T1 · P1)* At one time, all tennis rackets were strung with natural gut made from the outer layer of sheep **or cow intestines**.
-- *(Cam 19 · T1 · P1)* Studies indicate that the average spin from a co-polyester string is 25% greater than that from natural string **or other synthetics**.
-- *(Cam 19 · T1 · P3)* Deceiving others can offer an apparent opportunity to gain strategic advantage, to motivate others to action, **or even to protect** interpersonal bonds.
-- *(Cam 19 · T1 · P3)* At least three observations related to misinformation in the contemporary mass-media environment warrant the attention of researchers, policy makers, and really everyone who watches television, listens to the radio, **or reads** information online.
-- *(Cam 19 · T1 · P3)* Descartes argued that a person only accepts **or rejects** information after considering its truth or falsehood; Spinoza argued that people accept all encountered information (or misinformation) by default and then subsequently verify or reject it through a separate cognitive process.
-- *(Cam 19 · T1 · P3)* What about our second observation that misinformation often can appear in electronic **or print** media without being preemptively blocked?
-- *(Cam 19 · T2 · P1)* Britain had produced textiles like wool, linen and cotton, for hundreds of years, but prior to the Industrial Revolution, the British textile business was a true ‘cottage industry’, with the work performed in small workshops **or even homes** by individual spinners, weavers and dyers.
-
-<a id="p4"></a>
-
-### 4. Liên từ đẳng lập nối 2 mệnh đề (and)
-
-<small>347 câu · hiện 150</small>
+<small>382 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* Down the centuries, thousands of wells were constructed throughout northwestern India, but the majority have now fallen into disuse; many are derelict and dry, as groundwater has been diverted for industrial use **and the wells no longer reach** the water table.
 - *(Cam 10 · T1 · P1)* But the Archaeological Survey of India began restoring it in the 1960s, **and today it’s** in pristine condition.
@@ -653,11 +496,168 @@
 - *(Cam 19 · T3 · P3)* If we had, Waibel would have been able to speak more comfortably in his native German **and I would have been** able to hear his words in English.
 - *(Cam 19 · T3 · P3)* Even if voice-morphing technology simulates the speaker’s voice, their lip movements won’t match, **and they will look** like they are in a dubbed movie.
 
+<a id="p4"></a>
+
+### 4. Liên từ đẳng lập (or)
+
+<small>376 câu · hiện 150</small>
+
+- *(Cam 10 · T1 · P1)* Some were located in **or near** villages as public spaces for the community; others were positioned beside roads as resting places for travellers.
+- *(Cam 10 · T1 · P2)* This phenomenon has been emphasised by the relocation of some industries, particularly those which are labour intensive, to reduce production costs, even though the production site is hundreds **or even thousands** of kilometres away from the final assembly plant or away from users.
+- *(Cam 10 · T1 · P3)* Missing from the picture is Roy Orbison’ a greater natural singer than Lewis, Perkins **or Cash**.
+- *(Cam 10 · T2 · P2)* There appears to be a qualitative difference in the way the intellectually highly able think, compared with more average-ability **or older pupils**, for whom external regulation by the teacher often compensates for lack of internal regulation.
+- *(Cam 10 · T2 · P3)* In addition, it could be argued that the practice of interpreting **or ‘reading**’ each medium follows different conventions.
+- *(Cam 10 · T2 · P3)* In the case of a major collection, there are probably more works on display than we could realistically view in weeks **or even months**.
+- *(Cam 10 · T2 · P3)* Similarly novels and poems are read in a prescribed temporal sequence, whereas a picture has no clear place at which to start viewing, **or at which to finish**.
+- *(Cam 10 · T3 · P1)* However, the major problems of the travel and tourism industry that have hidden, **or obscured**, its economic impact are the diversity and fragmentation of the industry itself.
+- *(Cam 10 · T3 · P1)* Moreover, in all nations this problem has made it difficult for the industry to develop any type of reliable **or credible** tourism information base in order to estimate the contribution it makes to regional, national and global economies.
+- *(Cam 10 · T3 · P1)* In fact, McIntosh and Goeldner (1990) suggest that tourism has become the largest commodity in international trade for many nations and, for a significant number of other countries, it ranks second **or third**.
+- *(Cam 10 · T3 · P2)* The colours are magnificent, but the question of exactly why some trees turn yellow **or orange**, and others red or purple, is something which has long puzzled scientists.
+- *(Cam 10 · T3 · P2)* Some theories about anthocyanins have argued that they might act as a chemical defence against attacks by insects **or fungi**, or that they might attract fruit-eating birds or increase a leafs tolerance to freezing.
+- *(Cam 10 · T3 · P2)* What is still not fully understood, however, is why some trees resort to producing red pigments while others don’t bother, and simply reveal their orange **or yellow** hues.
+- *(Cam 10 · T3 · P3)* Was there only one outward migration from a single point in Asia, **or several** from different points?
+- *(Cam 10 · T3 · P3)* For returning explorers, successful **or not**, the geography of their own archipelagoes would have provided a safety net.
+- *(Cam 10 · T4 · P2)* Tanya Streeter’s passion is freediving – the sport of plunging deep into the water without tanks **or other breathing equipment**.
+- *(Cam 11 · T1 · P1)* There would be no weather-related crop failures due to droughts, floods **or pests**.
+- *(Cam 11 · T1 · P2)* The unique shape of the structure is claimed to have been inspired by various sources, both manmade and natural, most notably a Celtic double headed axe, but also the vast turning propeller of a ship, the ribcage of a whale **or the spine** of a fish.
+- *(Cam 11 · T1 · P3)* This would involve using sulphur **or hydrogen sulphide** aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.
+- *(Cam 11 · T2 · P2)* Easter Island, **or Rapu Nui** as it is known locally, is home to several hundred ancient human statues – the moai.
+- *(Cam 11 · T2 · P2)* They think its population grew rapidly and then remained more **or less** stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity.
+- *(Cam 11 · T2 · P3)* Angelina Hawley-Dolan, of Boston College, Massachusetts, responded to this debate by asking volunteers to view pairs of paintings – either the creations of famous abstract artists **or the doodles** of infants, chimps and elephants.
+- *(Cam 11 · T2 · P3)* He found that almost everyone preferred the original, whether it was a Van Gogh still life **or an abstract** by Miro.
+- *(Cam 11 · T3 · P3)* There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, **or trigonometry**.
+- *(Cam 11 · T3 · P3)* You will turn these pages much more slowly than when reading a novel **or a newspaper**.
+- *(Cam 11 · T4 · P1)* If you think of our DNA as an immense piano keyboard and our genes as the keys – each key symbolizing a segment of DNA responsible for a particular note, **or trait**, and all the keys combining to make us who we are – then epigenetic processes determine when and how each key can be struck, changing the tune being played.
+- *(Cam 11 · T4 · P2)* Often with film characterization the audience perceives little **or no** difference between the character and the actor.
+- *(Cam 11 · T4 · P2)* Usually not meant to be noticeable, it often provides a tone **or an emotional attitude** toward the story and /or the characters depicted.
+- *(Cam 11 · T4 · P2)* For example, a particular musical theme associated with an individual character **or situation** may be repeated at various points in a film in order to remind the audience of salient motifs or ideas.
+- *(Cam 12 · T1 · P1)* And for top-quality cork, it’s necessary to wait a further 15 **or 20** years.
+- *(Cam 12 · T1 · P2)* Amassing hundreds **or even thousands** of postcards, chocolate wrappers or whatever, takes time, energy and money that could surely be put to much more productive use.
+- *(Cam 12 · T1 · P2)* Another motive for collecting is the desire to find something special, **or a particular example** of the collected item, such as a rare early recording by a particular singer.
+- *(Cam 12 · T1 · P2)* Stamp collecting opens a window to other countries, and to the plants, animals, **or famous people** shown on their stamps.
+- *(Cam 12 · T1 · P2)* Similarly, people who collect dolls may go beyond simply enlarging their collection, and develop an interest in the way that dolls are made, **or the materials** that are used.
+- *(Cam 12 · T1 · P2)* Stamps collectors, for instance, arrange their stamps in albums, usually very neatly, organising their collection according to certain commonplace principles – perhaps by country in alphabetical order, **or grouping stamps** by what they depict – people, birds, maps, and so on.
+- *(Cam 12 · T1 · P2)* And believe it **or not**, there is at least one dog collar museum in existence, and it grew out of a personal collection.
+- *(Cam 12 · T1 · P3)* A field of knowledge **or a professional endeavor** is defined by both the means and the end; hence both deserve scrutiny.
+- *(Cam 12 · T2 · P1)* In his essay, Kanayo F. Nwanze, President of the International Fund for Agricultural Development, argued that governments can significantly reduce risks for farmers by providing basic services like roads to get produce more efficiently to markets, **or water and food storage facilities** to reduce losses.
+- *(Cam 12 · T2 · P1)* Some participating authors and commentators argued in favour of community-based and autonomous risk management strategies through collective action groups, co-operatives **or producers**’ groups.
+- *(Cam 12 · T2 · P3)* According to the latest figures, the majority of the world’s population is now bilingual **or multilingual**, having grown up speaking two or more languages.
+- *(Cam 12 · T2 · P3)* Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch from categorizing objects by colour (red **or green**) to categorizing them by shape (circle or triangle), they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy.
+- *(Cam 12 · T3 · P1)* Some time after the Galápagos’s birth, around five million years ago, the islands were colonised by one **or more** tortoises from mainland South America.
+- *(Cam 12 · T3 · P1)* They also introduced alien species – ranging from cattle, pigs, goats, rats and dogs to plants and ants – that either prey on the eggs and young tortoises **or damage** or destroy their habitat.
+- *(Cam 12 · T3 · P2)* Health geographers can map the spread of illnesses and attempt to identify the reasons behind an increase **or decrease** in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations.
+- *(Cam 12 · T3 · P3)* One the one hand, music is a purely abstract art form, devoid of language **or explicit ideas**.
+- *(Cam 12 · T4 · P1)* and whenever we sit down to eat **or drink**.
+- *(Cam 13 · T1 · P1)* Later, a Travel Planner feature was added, which allowed visitors to click and ‘bookmark’ places **or attractions** they were interested in, and then view the results on a map.
+- *(Cam 13 · T1 · P2)* There isn’t even agreement over whether boredom is always a low-energy, flat kind of emotion **or whether feeling** agitated and restless counts as boredom, too.
+- *(Cam 13 · T1 · P2)* More evidence that boredom has detrimental effects comes from studies of people who are more **or less** prone to boredom.
+- *(Cam 13 · T1 · P3)* Composer David Cope invented a program called Experiments in Musical Intelligence, **or EMI**.
+- *(Cam 13 · T2 · P2)* Her research also shows that oxytocin in fact reduces cooperation in subjects who are particularly anxious **or sensitive** to rejection.
+- *(Cam 13 · T2 · P3)* Many ignore trends in their innovation strategies **or adopt** a wait-and-see approach and let competitors take the lead.
+- *(Cam 13 · T2 · P3)* Trends – technological, economic, environmental, social, **or political** – that affect how people perceive the world around them and shape what they expect from products and services present firms with unique opportunities for growth.
+- *(Cam 13 · T3 · P1)* There were no coconut palms in West Africa, the Caribbean **or the east coast** of the Americans before the voyages of the European explorers Vasco da Gama and Columbus in the late 15th and early 16th centuries.
+- *(Cam 13 · T3 · P2)* Dads didn’t raise their pitch **or fundamental** frequency when they talked to kids.’
+- *(Cam 13 · T3 · P2)* They played repeating vowel sounds made by a special synthesizing device that mimicked sounds made by either an adult woman **or another baby**.
+- *(Cam 13 · T3 · P3)* They are also looking at whether the types of pottery used, and other aspects of their material culture, were distinctive to specific regions **or were** more similar across larger areas.
+- *(Cam 13 · T4 · P3)* The Greek philosopher Aristotle may have identified happiness with self-realisation in the 4th century BC, and thinkers throughout the ages may have struggled to reconcile the pursuit of happiness with other human values, but for Bentham all this was mere metaphysics **or fiction**.
+- *(Cam 14 · T1 · P1)* Whitebread, who directs PEDAL, trained as a primary school teacher in the early 1970s, when, as he describes, ‘the teaching of young children was largely a quiet backwater, untroubled by any serious intellectual debate **or controversy**.’
+- *(Cam 14 · T1 · P3)* Employees also have intrinsic motivation needs **or motivators**, which include such factors as achievement and recognition.
+- *(Cam 14 · T2 · P1)* His numerous photographs of city life revealed in street scenes, houses, and markets are alive with human activity, and although his favourite subject was landscape he usually composed his scenes around such human pursuits as farming the land, cutting ice on a river, **or sailing** down a woodland stream.
+- *(Cam 14 · T2 · P1)* People wanted to buy photographs as souvenirs of a trip **or as** gifts, and catering to this market, Henderson had stock photographs on display at his studio for mounting, framing, or inclusion in albums.
+- *(Cam 14 · T2 · P3)* Whether it is of our lives – all those inboxes and calendars – **or how companies are structured**, a multi-billion dollar industry helps to meet this need.
+- *(Cam 14 · T3 · P1)* These implicit theories can suggest what aspects of the phenomenon have been more **or less** attended to in previous investigations.
+- *(Cam 14 · T3 · P1)* But the possibility also needs to be taken into account that the explicit theories are wrong and in need of correction **or supplementation**.
+- *(Cam 14 · T3 · P1)* The Jacksonian view is that all people are equal, not only as human beings but in terms of their competencies – that one person would serve as well as another in government **or on** a jury or in almost any position of responsibility.
+- *(Cam 14 · T3 · P2)* More drugs than you might think are derived from, **or inspired** by, compounds found in living things.
+- *(Cam 14 · T3 · P2)* These insects have many antimicrobial compounds for dealing with pathogenic bacteria and fungi, suggesting that there is certainly potential to find many compounds that can serve as **or inspire** new antibiotics.
+- *(Cam 14 · T3 · P3)* It has no extrinsically motivated function **or goal**.
+- *(Cam 14 · T3 · P3)* In the more direct form of guided play, parents **or other adults** can support children’s play by joining in the fun as a co-player, raising thoughtful questions, commenting on children’s discoveries, or encouraging further exploration or new facets to the child’s activity.
+- *(Cam 14 · T4 · P1)* And when it came to reacting to prey, the older ants attacked the poor fruit fly just as aggressively as the young ones did, flaring their mandibles **or pulling** at the fly’s legs.
+- *(Cam 14 · T4 · P2)* In my view, it is perfectly possible for many species of animals living in zoos **or wildlife parks** to have a quality of life as high as, or higher than, in the wild.
+- *(Cam 14 · T4 · P2)* The average captive animal will have a greater life expectancy compared with its wild counterpart, and will not die of drought, of starvation **or in** the jaws of a predator.
+- *(Cam 14 · T4 · P2)* A species protected in captivity can be bred up to provide a reservoir population against a population crash **or extinction** in the wild.
+- *(Cam 14 · T4 · P2)* Although reintroduction successes are few and far between, the numbers are increasing, and the very fact that species have been saved **or reintroduced** as a result of captive breeding proves the value of such initiatives.
+- *(Cam 14 · T4 · P2)* Many zoos also work directly to educate conservation workers in other countries, **or send** their animal keepers abroad to contribute their knowledge and skills to those working in zoos and reserves, thereby helping to improve conditions and reintroductions all over the world.
+- *(Cam 14 · T4 · P2)* They are vital not just in terms of protecting animals, but as a means of learning about them to aid those still in the wild, as well as educating and informing the general population about these animals and their world so that they can assist **or at least accept** the need to be more environmentally conscious.
+- *(Cam 14 · T4 · P3)* In the remaining cases, the working group found the studies had weaknesses in design and content which affected the validity of their conclusions – they lacked a control group, for example, **or used** faulty statistics.
+- *(Cam 14 · T4 · P3)* Most of the dangers also involved large pieces of debris – animals getting entangled in trash, for example, **or eating** it and severely injuring themselves.
+- *(Cam 14 · T4 · P3)* These may be ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, **or eroded** remnants of larger debris.
+- *(Cam 14 · T4 · P3)* None of that tells us how many birds **or fish or sea turtles** could die from plastic pollution – or how deaths in one species could affect that animal’s predators, or the rest of the ecosystem.
+- *(Cam 14 · T4 · P3)* In reality though, much of the debris is tiny **or below** the surface; a person could sail through the area without seeing any trash at all.
+- *(Cam 15 · T1 · P1)* Inside is a purple-brown shiny seed, 2-3 cm long by about 2 cm across, surrounded by a lacy red **or crimson** covering called an ‘aril’.
+- *(Cam 15 · T1 · P1)* Anyone caught growing a nutmeg seedling **or carrying** seeds without the proper authority was severely punished.
+- *(Cam 15 · T1 · P2)* If the vehicle can do the driving, those who are challenged by existing mobility models – such as older **or disabled** travellers – may be able to enjoy significantly greater travel autonomy.
+- *(Cam 15 · T1 · P3)* That, however, doesn’t take away from the fact that we all have this enquiring instinct, even today; and that in all sorts of professions – whether artist, marine biologist **or astronomer** – borders of the unknown are being tested each day.
+- *(Cam 15 · T1 · P3)* They each set their own particular criteria; the common factor in their approach being that they all had, unlike many of us who simply enjoy travel **or discovering** new things, both a very definite objective from the outset and also a desire to record their findings.
+- *(Cam 15 · T2 · P2)* ‘When it comes to breeding, band-tailed pigeons scatter and make maybe one **or two** nests per hectare, whereas passenger pigeons were very social and would make 10,000 or more nests in one hectare.’
+- *(Cam 15 · T2 · P3)* Participants were asked whether they thought the people laughing were friends **or strangers**.
+- *(Cam 15 · T2 · P3)* The students then were randomly assigned to watch a video clip eliciting either humour, contentment, **or neutral feelings**.
+- *(Cam 15 · T3 · P3)* In some stories Red Riding Hood gets the better of the wolf on her own, while in others a hunter **or a woodcutter** hears her cries and comes to her rescue.
+- *(Cam 15 · T3 · P3)* He found no significant difference in the flexibility of events there compared with the beginning **or the end**.
+- *(Cam 15 · T4 · P1)* You can also use it in drinks, soups **or stews**.’
+- *(Cam 15 · T4 · P2)* A whistler – **or silbador** – puts a finger in his or her mouth to increase the whistle’s pitch, while the other hand can be cupped to adjust the direction of the sound.
+- *(Cam 15 · T4 · P3)* In the long run, it is the public, either directly **or through** its politicians, that has the power to make such destructive policies unprofitable and illegal, and to make sustainable environmental policies profitable.
+- *(Cam 15 · T4 · P3)* The public’s task is therefore to identify which links in the supply chain are sensitive to public pressure: for instance, fast-food chains **or jewelry stores**, but not meat packers or gold miners.
+- *(Cam 15 · T4 · P3)* My conclusion is not a moralistic one about who is right **or wrong**, admirable or selfish, a good guy or a bad guy.
+- *(Cam 16 · T1 · P1)* Bone tissue is constantly being remodelled, meaning that bone is added **or removed**, depending on nutrient availability and the stress that the bone is under.
+- *(Cam 16 · T1 · P3)* Automation – **or ‘embodied** artificial intelligence’ (AI) – is one aspect of the disruptive effects of technology on the labour market.
+- *(Cam 16 · T2 · P1)* The cutting of huge figures **or ‘geoglyphs**’ into the earth of English hillsides has taken place for more than 3,000 years.
+- *(Cam 16 · T2 · P1)* However, the grass would soon grow over the geoglyph again unless it was regularly cleaned **or scoured** by a fairly large team of people.
+- *(Cam 16 · T2 · P1)* The result was a date for the horse’s construction somewhere between 1400 and 600 BCE – in other words, it had a Late Bronze Age **or Early Iron Age origin**.
+- *(Cam 16 · T2 · P2)* In each human there are microbes that live only in the stomach, the mouth **or the armpit** and by and large they do so peacefully.
+- *(Cam 16 · T2 · P2)* Instead we should realise we have a symbiotic relationship, that can be mutually beneficial **or mutually destructive**.
+- *(Cam 16 · T2 · P3)* Sensitivity to the possibility of change in social relations is also key, along with compromise **or integration** of different attitudes and beliefs.
+- *(Cam 16 · T2 · P3)* The students were instructed to imagine their career either ‘as if you were a distant observer’ **or ‘before** your own eyes as if you were right there’.
+- *(Cam 16 · T2 · P3)* We might associate wisdom with intelligence **or particular** personality traits, but research shows only a small positive relationship between wise thinking and crystallized intelligence and the personality traits of openness and agreeableness.
+- *(Cam 16 · T3 · P1)* They had to be able to sail near the coast which is why they had no ballast **or excess load** and were built with a long, narrow hull.
+- *(Cam 16 · T3 · P1)* In conditions of good visibility, seamen in the Mediterranean often had the mainland **or islands** in sight, which greatly facilitated navigation.
+- *(Cam 16 · T3 · P2)* Barrett’s team radiocarbon-dated 153 of the artefacts and compared those dates to the timing of major environmental changes in the region – such as periods of cooling **or warming** – and major social and economic shifts – such as the growth of farming settlements and the spread of international trade networks leading up to the Viking Age.
+- *(Cam 16 · T3 · P2)* The researchers say that could be because many of those artefacts have already disintegrated **or are still frozen** in the ice.
+- *(Cam 16 · T4 · P1)* The Romans dug tunnels for their roads using the counter-excavation method, whenever they encountered obstacles such as hills **or mountains** that were too high for roads to pass over.
+- *(Cam 16 · T4 · P2)* As MIT scholar Sherry Turkle has written, we do not err as a society when we innovate but when we ignore what we disrupt **or diminish** while innovating.
+- *(Cam 16 · T4 · P2)* There’s an old rule in neuroscience that does not alter with age: use it **or lose** it.
+- *(Cam 16 · T4 · P3)* It was found that, regardless of whether the film they watched depicted AI in a positive **or negative** light, simply watching a cinematic vision of our technological future polarised the participants’ attitudes.
+- *(Cam 17 · T1 · P2)* Construction costs can soar above £1 billion, and stadiums finished for major events such as the Olympic Games **or the FIFA World Cup** have notably fallen into disuse and disrepair.
+- *(Cam 17 · T1 · P3)* It is hard to imagine many other kings marking the lowest point in their life so enthusiastically, **or indeed pulling** off such an escape in the first place.
+- *(Cam 17 · T2 · P1)* In late 1946 **or early 1947**, three Bedouin teenagers were tending their goats and sheep near the ancient settlement of Qumran, located on the northwest shore of the Dead Sea in what is now known as the West Bank.
+- *(Cam 17 · T2 · P1)* According to various hypotheses, the treasure belonged to local people, **or was rescued** from the Second Temple before its destruction or never existed to begin with.
+- *(Cam 17 · T2 · P2)* This approach relies on the revolutionary CRISPR genome editing technique, in which changes are deliberately made to the DNA of a living cell, allowing genetic material to be added, removed **or altered**.
+- *(Cam 17 · T2 · P2)* The teams in Brazil and China have now used this knowledge to reintroduce these changes from scratch while maintaining **or even enhancing** the desirable traits of wild strains.
+- *(Cam 17 · T2 · P2)* By choosing wild plants that are drought **or heat** tolerant, says Gao, we could create crops that will thrive even as the planet warms.
+- *(Cam 17 · T2 · P3)* In the same way, random, arbitrary **or accidental** mutations of ideas may help pave the way for advances in science.
+- *(Cam 17 · T2 · P3)* Had Westrope conducted methodical investigations **or examined** extensive film records in a shrewd plan to outrun his rivals?
+- *(Cam 17 · T3 · P1)* When old enough to leave the pouch, the young stayed in a lair such as a deep rocky cave, well-hidden nest **or hollow log**, whilst the mother hunted.
+- *(Cam 17 · T3 · P2)* Oil palm plantations produce at least four and potentially up to ten times more oil per hectare than soybean, rapeseed, sunflower **or other competing oils**.
+- *(Cam 17 · T3 · P3)* Toward the end of the chapter, Barr assesses ‘whether skyscrapers are a cause **or an effect** of high land values’.
+- *(Cam 17 · T4 · P2)* If wealth is constant, it is possible to discover whether education was, for example, linked to the cultivation of new crops, **or to** the adoption of industrial innovations like sewing machines.
+- *(Cam 17 · T4 · P3)* Of 63 people scanned alongside the chess player, only one **or two** scored more highly on the measure.
+- *(Cam 18 · T1 · P1)* I don’t much like the fact, either, that they’ve travelled an average of 2,000 refrigerated kilometres to my plate, that their quality is so poor, because the varieties are selected for their capacity to withstand such substantial journeys, **or that 80% of the price I pay goes** to wholesalers and transport companies, not the producers.’
+- *(Cam 18 · T1 · P2)* Several tree- and plant-cutting approaches, which could greatly improve the long-term quality of a forest, focus strongly **or solely** on the use of wood for those markets.
+- *(Cam 18 · T1 · P3)* Those include inactivating satellites at the end of their useful life by venting pressurised materials **or leftover fuel** that might lead to explosions.
+- *(Cam 18 · T1 · P3)* ‘What happens to those that fail **or go** bankrupt?’
+- *(Cam 18 · T2 · P1)* Archaeologists believe England’s most iconic prehistoric ruin was built in several stages with the earliest constructed 5,000 **or more** years ago.
+- *(Cam 18 · T2 · P1)* Several hundred years later, it is thought, Stonehenge’s builders hoisted an estimated 80 bluestones, 43 of which remain today, into standing positions and placed them in either a horseshoe **or circular formation**.
+- *(Cam 18 · T2 · P1)* Challenging the classic image of industrious builders pushing, carting, rolling **or hauling** giant stones from faraway Wales, some scientists have suggested that it was glaciers, not humans, that carried the bluestones to Salisbury Plain.
+- *(Cam 18 · T2 · P2)* Loss of freedom to behave badly isn’t always a bad thing, of course: denying ourselves the freedom to put children to work in factories, **or to smoke** in restaurants are signs of progress.
+- *(Cam 18 · T3 · P1)* While these technologies are all promising ideas, they are either unproven **or based** on materials that are not abundant.
+- *(Cam 18 · T3 · P3)* The practice of ‘streaming’, **or ‘tracking**’, involves separating students into classes depending on their diagnosed levels of attainment.
+- *(Cam 18 · T4 · P1)* Ongoing research is showcasing how green roofs in cities can integrate with ‘living walls’: environmentally friendly walls which are partially **or completely** covered with greenery, including a growing medium, such as soil or water.
+- *(Cam 18 · T4 · P2)* This group had inferred that success **or failure** is due to innate ability, and this ‘fixed mindset’ had led them to fear of failure and lack of effort.
+- *(Cam 18 · T4 · P3)* Only a few hundred of the many thousands of letters he wrote and received in his lifetime have survived and he didn’t keep notebooks **or diaries** that recorded his life and activities.
+- *(Cam 19 · T1 · P1)* Another change was so subtle as to pass more **or less** unnoticed.
+- *(Cam 19 · T1 · P1)* At one time, all tennis rackets were strung with natural gut made from the outer layer of sheep **or cow intestines**.
+- *(Cam 19 · T1 · P1)* Studies indicate that the average spin from a co-polyester string is 25% greater than that from natural string **or other synthetics**.
+- *(Cam 19 · T1 · P3)* Deceiving others can offer an apparent opportunity to gain strategic advantage, to motivate others to action, **or even to protect** interpersonal bonds.
+- *(Cam 19 · T1 · P3)* At least three observations related to misinformation in the contemporary mass-media environment warrant the attention of researchers, policy makers, and really everyone who watches television, listens to the radio, **or reads** information online.
+- *(Cam 19 · T1 · P3)* Descartes argued that a person only accepts **or rejects** information after considering its truth or falsehood; Spinoza argued that people accept all encountered information (or misinformation) by default and then subsequently verify or reject it through a separate cognitive process.
+- *(Cam 19 · T1 · P3)* What about our second observation that misinformation often can appear in electronic **or print** media without being preemptively blocked?
+- *(Cam 19 · T2 · P1)* Britain had produced textiles like wool, linen and cotton, for hundreds of years, but prior to the Industrial Revolution, the British textile business was a true ‘cottage industry’, with the work performed in small workshops **or even homes** by individual spinners, weavers and dyers.
+
 <a id="p5"></a>
 
 ### 5. Trạng từ liên kết đầu câu
 
-<small>258 câu · hiện 150</small>
+<small>283 câu · hiện 150</small>
 
 - *(Cam 10 · T1 · P1)* **However**, the significance of this invention – the stepwell – goes beyond its utilitarian application.
 - *(Cam 10 · T1 · P1)* **However**, some important sites in Gujarat have recently undergone major restoration, and the state government announced in June last year that it plans to restore the stepwells throughout the state.
@@ -814,7 +814,7 @@
 
 ### 6. Liên từ đẳng lập nối 2 mệnh đề (but)
 
-<small>141 câu</small>
+<small>150 câu</small>
 
 - *(Cam 10 · T1 · P1)* Down the centuries, thousands of wells were constructed throughout northwestern India, **but the majority have now fallen into disuse; many are** derelict and dry, as groundwater has been diverted for industrial use and the wells no longer reach the water table.
 - *(Cam 10 · T1 · P1)* **But the Archaeological Survey of India began restoring it in the 1960s, and today it’s** in pristine condition.
@@ -957,12 +957,21 @@
 - *(Cam 20 · T4 · P3)* If necessary, they will chase away predators, **but often their mere presence is** sufficient.
 - *(Cam 20 · T4 · P3)* ‘A fluffy white puppy is fun to be around, **but too much human affection makes** it a great dog for guarding the front porch, rather than a great livestock guard dog.’
 - *(Cam 20 · T4 · P3)* The extent of this problem isn’t known, **but the consequences are** clear in Namibia.
+- *(Cam 21 · T1 · P2)* Not everyone will benefit from silence to the same extent, **but Ben-Soussan says** one characteristic is key: the person must need to want to engage in the experience.
+- *(Cam 21 · T2 · P1)* We are quick to interpret the twitching limbs and quiet barks of sleeping dogs, **but the truth is** that we don't know if there is an internal experience of chasing rabbits that comes along with that.
+- *(Cam 21 · T2 · P2)* The figures may have been used in ceremonies as offerings to ancestors, **but their precise function is not known**.
+- *(Cam 21 · T2 · P3)* AI systems need a lot of data to function, **but the public sector typically does not have** the appropriate data infrastructure to support advanced machine learning.
+- *(Cam 21 · T3 · P1)* There was some recovery in the first decade of the new millennium **but this was then crushed** by devastating mass mortality events that saw the loss of hundreds of thousands of the species.
+- *(Cam 21 · T3 · P1)* The world's strangest-looking antelope remains critically endangered, **but the direction of travel is** positive.
+- *(Cam 21 · T3 · P2)* Each is printed with a scannable QR code, **but there are** no scanners.
+- *(Cam 21 · T4 · P2)* We are not suggesting that English be withdrawn – that ship has sailed – **but we perhaps have** to think more about learner needs.
+- *(Cam 21 · T4 · P3)* Purists might wish for more map-making details, **but Bellerby clearly found** a kindred spirit in Martin Behaim.
 
 <a id="p7"></a>
 
 ### 7. Trạng từ liên kết giữa câu
 
-<small>135 câu</small>
+<small>146 câu</small>
 
 - *(Cam 10 · T1 · P3)* There are, **nevertheless**, people working in luxurious, state-of-the-art centres designed to stimulate innovation who find that their environment doesn’t make them feel at all creative.
 - *(Cam 10 · T1 · P3)* ‘If your project is being resisted, **for example**, by a group of veteran employees, ask another old-timer to speak up for it.’
@@ -1099,12 +1108,23 @@
 - *(Cam 20 · T3 · P3)* Later this century, **however**, their more advanced successors may relate to their surroundings, and to people, as adeptly as we do.
 - *(Cam 20 · T4 · P3)* In recent years, **however**, as increased efforts have been made to protect wild animals, predators have become more widespread again.
 - *(Cam 20 · T4 · P3)* The evidence so far, **however**, indicates that these consequences aren’t always negative.
+- *(Cam 21 · T1 · P1)* Instead, their early purchases were of the fashionable, safe variety, and included, **for example**, paintings by the French artist Jean-Baptiste-Camille Corot.
+- *(Cam 21 · T1 · P2)* When we are exposed to too much noise over the long term, **however**, those responses can lead to a multitude of health issues, from sleep disturbance to even cardiovascular disease.
+- *(Cam 21 · T1 · P2)* Other cities have introduced noise-reducing road coatings, **for instance**, alongside greenery that muffles sound.
+- *(Cam 21 · T1 · P3)* Cuba, **for example**, developed an extraordinarily dense system of railways to transport workers and cane, as well as steam-powered sugar factories.
+- *(Cam 21 · T2 · P1)* Recently, **however**, researchers succeeded in recording brain activity in sleeping pigeons.
+- *(Cam 21 · T2 · P3)* But, in fact, **instead** of supporting AI progress, this mindset actually jeopardises the value of machine intelligence by disregarding important AI safety principles and setting unrealistic expectations about what AI can really do for humanity.
+- *(Cam 21 · T3 · P1)* Another threat to the survival of the saiga is loss of habitat, **as a result** of agricultural expansion and human settlement.
+- *(Cam 21 · T3 · P3)* Even earlier species, such as Homo erectus, may also have made art, **for example** by engraving patterns on shells.
+- *(Cam 21 · T4 · P2)* They are so poor they have to live in slums and, **as a result** of migration, they may speak languages that are different from the regional language.
+- *(Cam 21 · T4 · P2)* It could, **for example**, be one of the subjects that are being taught alongside other subjects.
+- *(Cam 21 · T4 · P3)* Nearly two millennia later, **however**, it seemed that the art of globemaking had been largely forgotten.
 
 <a id="p8"></a>
 
 ### 8. Liên từ đẳng lập (but)
 
-<small>124 câu</small>
+<small>139 câu</small>
 
 - *(Cam 10 · T1 · P1)* During their heyday, they were places of gathering, of leisure, of relaxation and of worship for villagers of all **but the lowest castes**.
 - *(Cam 10 · T1 · P1)* It was built by Queen Udayamati during the late 11th century, **but became** silted up following a flood during the 13th century.
@@ -1230,12 +1250,27 @@
 - *(Cam 20 · T3 · P3)* Meanwhile, for anthropology Professor Kathleen Richardson, the idea of ‘colonisation’ of other planets seemed morally dubious: ‘I think whether we do something on Earth or on Mars we should always do it in the spirit of a genuine interest in “the Other”, not to impose a particular model, **but to meet** “the Other”.”
 - *(Cam 20 · T3 · P3)* In response to the second question, ‘How soon will machine intelligence outstrip human intelligence?’, Rees mentions robots that are advanced enough to beat humans at chess, **but then goes** on to say, ‘Robots are still limited in their ability to sense their environment: they can’t yet recognise and move the pieces on a real chessboard as cleverly as a child can.
 - *(Cam 20 · T4 · P3)* Looking at all the published evidence, Bethany Smith at Nottingham Trent University in the UK found that up to 88 per cent of farmers said they no longer killed predators after using dogs – **but warned** that such self-reported results must be taken with a pinch of salt.
+- *(Cam 21 · T1 · P1)* Margaret also stopped collecting around this time, **but started** again in the 1930s acquiring, on a relatively small scale, work by contemporary British artists.
+- *(Cam 21 · T1 · P2)* 'When we find ways to be quiet, we are not only quiet in our environment, **but quiet** in our inner selves,' she explains.
+- *(Cam 21 · T1 · P3)* In many places – not just the British Caribbean **but Cuba** and the Philippines too – a powerful sugar bourgeoisie played a major role in politics and their interests were consequently protected by trade barriers and subsidies.
+- *(Cam 21 · T1 · P3)* High-fructose corn syrup made from maize using an enzymatic process invented in Japan in the 1960s has a similar number of calories to table sugar **but is** far cheaper to produce.
+- *(Cam 21 · T2 · P1)* These include whales and dolphins, which do not shut down their entire brain when they sleep, **but only half** of it, keeping the rest awake.
+- *(Cam 21 · T2 · P1)* The nightmare study is intriguing, says Scheel, **but is only based** on one animal.
+- *(Cam 21 · T2 · P2)* There are many other smaller **but still impressive** sites across the Mapungubwe plateau, which are located anywhere from 15 to 100 kilometres from the major hill site.
+- *(Cam 21 · T2 · P3)* This form of machine learning is loosely modelled on the neuronal structure of the human brain, **but on** a much smaller scale.
+- *(Cam 21 · T3 · P2)* A single suburban rail line serves residents in a few areas to the south **but is** tiny in the context of the wider city.
+- *(Cam 21 · T3 · P2)* It has chosen a less exciting **but cheaper** and more achievable method: the bus.
+- *(Cam 21 · T3 · P3)* **But other properties, such as the brain's internal wiring, are surely equally important and may explain** how a species like H. naledi might have been capable of complex behaviours, despite their small brains.
+- *(Cam 21 · T4 · P1)* **But by the 1980s, it had 'escaped' out of the country via the Kagera river and made** its way downstream to Lake Victoria.
+- *(Cam 21 · T4 · P2)* Some arrive speaking fluent Hindi, the dominant language in Delhi (and the official language of government), **but many arrive** speaking any number of India's 22 officially recognised languages, let alone the hundreds of regional languages in a country of more than 1.3 billion people.
+- *(Cam 21 · T4 · P2)* English can still be used, **but perhaps not as** the medium of instruction in primary schools.
+- *(Cam 21 · T4 · P3)* Even the shape of the Earth posed a problem, as it is not quite a perfect sphere, **but oblate (slightly flattened** at the poles).
 
 <a id="p9"></a>
 
 ### 9. Liên từ tương quan both … and
 
-<small>49 câu</small>
+<small>51 câu</small>
 
 - *(Cam 10 · T1 · P1)* Tourists flock to wells in far-flung corners of northwestern India to gaze in wonder at these architectural marvels from 1,000 years ago, which serve as a reminder of **both the ingenuity and** artistry of ancient civilisations and of the value of water to human existence.
 - *(Cam 10 · T1 · P2)* Using alternative fuels and improving energy efficiency is thus **both an ecological necessity and** a technological challenge.
@@ -1286,12 +1321,14 @@
 - *(Cam 19 · T2 · P2)* Negative stress responses can be damaging to **both physical and** mental health – and repeated episodes of anxiety coupled with negative responses can increase risk of heart disease and depression.
 - *(Cam 19 · T2 · P3)* She is working on this with a group of schools, **both in Britain and** abroad.
 - *(Cam 19 · T3 · P1)* The research team’s discoveries suggest that the prehistoric people who lived on Obi were adept on **both land and** sea, hunting in the dense rainforest, foraging on the seashore, and possibly even voyaging between islands.
+- *(Cam 21 · T1 · P3)* From very early on, sugar production was an energy-intensive industrial process, mostly taking place in the countryside and in refineries in centres of consumption, **both small and** large.
+- *(Cam 21 · T2 · P1)* As in mammals, the recordings revealed **both REM and** non-REM sleep.
 
 <a id="p10"></a>
 
 ### 10. as well as (cũng như)
 
-<small>45 câu</small>
+<small>50 câu</small>
 
 - *(Cam 10 · T4 · P1)* Besides providing money to upgrade the fire engines that must traverse the mammoth state and wind along serpentine canyon roads, the state has invested in better command-and-control facilities **as well as** in the strategies to run them.
 - *(Cam 11 · T4 · P2)* We need to foster an awareness of film sound **as well as** film space so as to truly appreciate an art form that sprang to life during the twentieth century – the modern film.
@@ -1338,12 +1375,17 @@
 - *(Cam 20 · T1 · P2)* It was also suitable for items that experienced high levels of impact and was used to build the keel of the 19th-century sailing ship Cutty Sark **as well as** mining equipment.
 - *(Cam 20 · T2 · P1)* This species is found in fresh water in the Amazon Basin in Brazil, **as well as** in Colombia, Ecuador and Peru.
 - *(Cam 20 · T3 · P1)* He developed quick-freezing techniques that reduced the damage that crystals caused, **as well as** the technique of freezing the product in the package it was to be sold in.
+- *(Cam 21 · T1 · P3)* But **as well as** this, the book is about the continuity of the use of traditional methods on small farms.
+- *(Cam 21 · T1 · P3)* This is also a history of capitalists and sugar dynasties, **as well as** corporations that in some cases have remained influential over very long periods.
+- *(Cam 21 · T1 · P3)* Cuba, for example, developed an extraordinarily dense system of railways to transport workers and cane, **as well as** steam-powered sugar factories.
+- *(Cam 21 · T2 · P1)* He argues that **as well as** outward behaviour, brain imaging is needed to show that the octopuses are replaying sequences of activities from their waking lives in dreams.
+- *(Cam 21 · T2 · P2)* The archaeological record for the 10th century shows a marked increase in the number of domesticated cattle in the area **as well as** cotton cultivation and weaving, as indicated by abundant finds of spindle whorls.
 
 <a id="p11"></a>
 
 ### 11. rather than (thay vì)
 
-<small>42 câu</small>
+<small>43 câu</small>
 
 - *(Cam 10 · T1 · P1)* It’s actually a tank ( kund means reservoir or pond) **rather than** a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation.
 - *(Cam 10 · T2 · P3)* However, if Mona Lisa was a famous novel, few people would bother to go to a museum to read the writer’s actual manuscript **rather than** a printed reproduction.
@@ -1387,12 +1429,13 @@
 - *(Cam 20 · T1 · P2)* **Rather than** plant new elms, the Woodland Trust emphasises providing space to those elms that have survived independently.
 - *(Cam 20 · T4 · P2)* **Rather than** fighting against it, one project is helping communities adapt to salt-affected soils.
 - *(Cam 20 · T4 · P3)* ‘A fluffy white puppy is fun to be around, but too much human affection makes it a great dog for guarding the front porch, **rather than** a great livestock guard dog.’
+- *(Cam 21 · T1 · P1)* Their London school focused on cultural **rather than** academic study, and they travelled extensively with their governess, Jane Blaker, visiting art galleries and making extensive notes on the collections there.
 
 <a id="p12"></a>
 
 ### 12. Liên từ tương quan not only … but (also)
 
-<small>25 câu</small>
+<small>27 câu</small>
 
 - *(Cam 10 · T2 · P2)* They were **not only curious, but** often had a strong desire to control their environment, improve their learning efficiency and increase their own learning resources.
 - *(Cam 10 · T3 · P1)* In turn, international tourism became the concern of a number of world governments since it **not only provided new employment opportunities but also** produced a means of earning foreign exchange.
@@ -1419,12 +1462,14 @@
 - *(Cam 19 · T1 · P3)* Future remedies will require **not only continued theoretical consideration but also** the development and maintenance of consistent monitoring tools – and a recognition among fellow members of society that claims which find prominence in the media that are insufficiently based in scientific consensus and social reality should be countered.
 - *(Cam 19 · T2 · P1)* The demand for coal, which was a relatively cheap energy source, grew rapidly during the Industrial Revolution, as it was needed to run **not only the factories used to produce manufactured goods, but also** steam-powered transportation.
 - *(Cam 20 · T2 · P2)* Afterwards, people tend to be left with a sense of guilt that **not only increases their negative mood, but also** reinforces their tendency to procrastinate.
+- *(Cam 21 · T1 · P2)* 'When we find ways to be quiet, we are **not only quiet in our environment, but** quiet in our inner selves,' she explains.
+- *(Cam 21 · T4 · P2)* They intend to look **not only at test results, but also** at variables such as the standard of schooling, the environment and the teaching practices themselves.
 
 <a id="p13"></a>
 
 ### 13. Liên từ tương quan whether … or
 
-<small>23 câu</small>
+<small>25 câu</small>
 
 - *(Cam 10 · T3 · P2)* No one has as yet ascertained **whether more robust trees sport the brightest leaves, or** whether insects make choices according to colour intensity.
 - *(Cam 11 · T1 · P2)* These gondolas always weigh the same, **whether or** not they are carrying boats.
@@ -1449,12 +1494,14 @@
 - *(Cam 19 · T3 · P3)* **Whether it will help people conduct their family lives or** relationships is open to question—though one noteworthy possibility is that it could overcome the language barriers that often arise between generations after migration, leaving children and their grandparents without a shared language.
 - *(Cam 20 · T2 · P3)* But the question is **whether controversy is worth reducing, or** whether it is the sign of a human hand.
 - *(Cam 20 · T3 · P3)* Meanwhile, for anthropology Professor Kathleen Richardson, the idea of ‘colonisation’ of other planets seemed morally dubious: ‘I think **whether we do something on Earth or** on Mars we should always do it in the spirit of a genuine interest in “the Other”, not to impose a particular model, but to meet “the Other”.”
+- *(Cam 21 · T1 · P3)* But as the consumption of sugar has increased, so has the harm it does, **whether to people's teeth or** weight.
+- *(Cam 21 · T4 · P2)* The research project, which focuses on 8 to 11-year-old schoolchildren in rural and urban areas, collects data on **whether the schoolchildren live in slum* or** non-slum areas.
 
 <a id="p14"></a>
 
 ### 14. Liên từ đẳng lập nối 2 mệnh đề (or)
 
-<small>20 câu</small>
+<small>21 câu</small>
 
 - *(Cam 10 · T3 · P2)* Some theories about anthocyanins have argued that they might act as a chemical defence against attacks by insects or fungi, **or that they might attract** fruit-eating birds or increase a leafs tolerance to freezing.
 - *(Cam 10 · T3 · P2)* No one has as yet ascertained whether more robust trees sport the brightest leaves, **or whether insects make** choices according to colour intensity.
@@ -1476,12 +1523,13 @@
 - *(Cam 18 · T1 · P1)* ‘First, I don’t much like the fact that most of the fruit and vegetables we eat have been treated with something like 17 different pesticides, **or that the intensive farming techniques that produced them are** such huge generators of greenhouse gases.
 - *(Cam 18 · T4 · P2)* Teaching concrete skills such as how to write an effective introduction to an essay then praising students’ effort in getting there is probably a far better way of improving confidence than telling them how unique they are, **or indeed how capable they are** of changing their own brains.
 - *(Cam 20 · T2 · P3)* But the question is whether controversy is worth reducing, **or whether it is** the sign of a human hand.
+- *(Cam 21 · T3 · P2)* Ticket purchase and control takes place at stations prior to boarding and the buses are step-free, which means the entire route is accessible to people using wheelchairs **or who are travelling** with baby buggies.
 
 <a id="p15"></a>
 
 ### 15. Liên từ tương quan either … or
 
-<small>18 câu</small>
+<small>19 câu</small>
 
 - *(Cam 11 · T2 · P3)* Angelina Hawley-Dolan, of Boston College, Massachusetts, responded to this debate by asking volunteers to view pairs of paintings – **either the creations of famous abstract artists or** the doodles of infants, chimps and elephants.
 - *(Cam 12 · T3 · P1)* They also introduced alien species – ranging from cattle, pigs, goats, rats and dogs to plants and ants – that **either prey on the eggs and young tortoises or** damage or destroy their habitat.
@@ -1501,6 +1549,7 @@
 - *(Cam 19 · T3 · P2)* Wetlands are areas where water covers the soil, or is present **either at or** near the surface of the soil, for all or part of the year.
 - *(Cam 20 · T1 · P2)* Any prospect of the elm returning relies heavily on trees being **either resistant to, or** tolerant of, the disease.
 - *(Cam 20 · T1 · P3)* We then gave them **either good news (that their likelihood of experiencing these events was lower than they’d thought) or** bad news (that it was higher) and asked them to provide new estimates.
+- *(Cam 21 · T1 · P2)* To investigate, Feinstein's team had 48 people participate in **either three 90-minute float sessions or** three 90-minute periods of relaxing on a chair which reclined.
 
 <a id="p16"></a>
 
