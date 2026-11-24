@@ -161,20 +161,14 @@
 # 🗾 Tiếng Nhật — Kanji
 
 - **Học chữ Kanji**
-  - [📘 Học theo 3 sách Heisig (RTK) trước — 2136 chữ](kanji-viewer/index.html?set=rtk&view=text)
   - [2136 Kanji — học qua câu chuyện](KanjiStory.md)
-  - [🧱 Bộ nền & lộ trình (252 mảnh ghép, học thành phần trước)](kanji-viewer/index.html?set=road&view=rad)
-  - [🔧 Xem thẻ Kanji (JLPT N5–N1)](kanji-viewer/index.html)
   - [🎮 Game Kanji 2.136 chữ](kanji-viewer/game.html)
-  - [✍️ Luyện viết 2136 Kanji](kanji-viewer/write.html)
-  - [🎞️ Kanji chuyển động — mỗi chữ lặp N lần rồi tự chuyển](kanji-viewer/anim.html)
-  - [🤯 Kanji khó nhớ — nghĩa khác tiếng Việt (825 chữ)](kanji-viewer/write.html?set=lu)
-  - [📕 42 chữ không thuộc Jōyō (theo Wikipedia / Kanshudo)](kanji-viewer/write.html?set=nonjoyo)
+  - [📖 Học Kanji — 2.161 thẻ: câu chuyện, chuyển động, luyện viết; bộ chữ Heisig RTK, lộ trình, bộ nền, khó nhớ, JLPT…](kanji-viewer/write.html)
   - [🔀 Kanji đồng âm Hán Việt (501 âm trùng)](kanji-viewer/dong-am.html)
   - [📜 Truyện dài: 2.075 Kanji có câu chuyện, nối thành 1 truyện (12 chương)](kanji-viewer/truyen.html)
   - [🧠 Mẹo nhớ từ Hán Việt dễ lú](kanji-meo-nho.md)
 - **📖 Đọc hiểu (đã thuộc 2136 Kanji)**
-  - [📖 Lộ trình đọc hiểu — ít ngữ pháp, 60 "keo dán" + từ ghép giống/khác tiếng Việt](kanji-viewer/lo-trinh-doc-hieu.html)
+  - [📖 Lộ trình đọc hiểu — ít ngữ pháp, 45 "keo dán" cốt lõi + từ ghép giống/khác tiếng Việt](kanji-viewer/lo-trinh-doc-hieu.html)
 - **📰 Đọc báo (133 bài · 2.089 chữ)**
   - [Lộ trình đọc + từ vựng & ngữ pháp từng bài](kanji-viewer/doc-bao.html)
   - [Bảng đầy đủ dạng văn bản](qiita-kanji-2136.md)
