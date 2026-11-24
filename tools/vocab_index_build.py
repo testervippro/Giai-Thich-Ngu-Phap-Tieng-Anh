@@ -2,7 +2,7 @@
 """Dựng docs/toeic-vocabulary-index.md — danh sách từ vựng gộp, BỎ TRÙNG, sắp A–Z.
 
 Nguồn:
-  - Hackers TOEIC Vocabulary (Index, OCR)    : các dòng có Nguồn "TOEIC (Hackers)" trong chính file md (giữ nguyên)
+  - Hackers TOEIC Vocabulary (Index, OCR)    : tools/data/toeic_hackers_index.json
   - 5000 từ vựng IELTS thông dụng (flyer.vn)  : tools/data/ielts_flyer_5000.json   (tools/ielts_flyer_vocab.py)
   - Oxford Word Skills Basic/Intermediate/Advanced (Word list / Index ở cuối sách, OCR theo cột)
                                               : tools/data/oxford_word_skills_index.json
@@ -70,7 +70,9 @@ def find_vi(k, lk):
 
 
 def main():
-    rows = F.load_md()                                     # TOEIC (Hackers)
+    # TOEIC (Hackers): bản gốc lưu riêng (không đọc lại từ md để khỏi cộng dồn ghi chú mỗi lần dựng)
+    rows = [dict(term=r["term"], ipa="", vi=r["vi"], src="TOEIC (Hackers)")
+            for r in json.load(open(os.path.join(DATA, "toeic_hackers_index.json"), encoding="utf-8"))]
     for r in json.load(open(os.path.join(DATA, "ielts_flyer_5000.json"), encoding="utf-8")):
         rows.append(dict(term=r["term"], ipa=r["ipa"], vi=r["vi"], src=r["src"]))
     for r in json.load(open(os.path.join(DATA, "oxford_word_skills_index.json"), encoding="utf-8")):
@@ -167,7 +169,13 @@ def main():
     for i, e in enumerate(items, 1):
         vi = "; ".join(e["vis"])
         if e["notes"]:
-            vi = (vi + " " if vi else "") + " ".join("(= %s)" % re.sub(r"\bofa\b", "of a", n) for n in e["notes"])
+            notes = []
+            for n in e["notes"]:
+                n = re.sub(r"\bofthe\b", "of the", re.sub(r"\bofa\b", "of a", n)).strip()
+                if n.lower() not in (x.lower() for x in notes):
+                    notes.append(n)
+            # ghi chú ngữ cảnh "(of a train)" giữ nguyên, ghi chú định nghĩa "(= colour of hair)" có dấu "="
+            vi = (vi + " " if vi else "") + " ".join(("(%s)" if re.match(r"(of|in|on|for|used|with)\b", n) else "(= %s)") % n for n in notes)
         term = e["term"]
         L.append("| %d | %s | %s | %s | %s |" % (i, esc(term), esc(vi), esc(e["ipa"]), esc(", ".join(e["srcs"]))))
     open(MD, "w", encoding="utf-8").write("\n".join(L) + "\n")

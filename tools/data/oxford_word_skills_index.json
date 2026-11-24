@@ -4470,7 +4470,7 @@
 "note": ""
 },
 {
-"w": "get ajob",
+"w": "get a job",
 "books": [
 "Basic"
 ],
@@ -4517,14 +4517,6 @@
 "w": "get off",
 "books": [
 "Basic"
-],
-"note": ""
-},
-{
-"w": "geto",
-"books": [
-"Basic",
-"Intermediate"
 ],
 "note": ""
 },
@@ -5129,7 +5121,7 @@
 "note": ""
 },
 {
-"w": "havea seat",
+"w": "have a seat",
 "books": [
 "Basic"
 ],
@@ -6268,7 +6260,7 @@
 "note": ""
 },
 {
-"w": "leave v (ofa train",
+"w": "leave (of a train",
 "books": [
 "Basic"
 ],
@@ -6490,7 +6482,7 @@
 "note": ""
 },
 {
-"w": "alittle",
+"w": "a little",
 "books": [
 "Basic"
 ],
@@ -6599,7 +6591,7 @@
 "note": ""
 },
 {
-"w": "a lot, alot of",
+"w": "a lot, a lot of",
 "books": [
 "Basic"
 ],
@@ -9362,7 +9354,7 @@
 "note": "OK; correct; not left"
 },
 {
-"w": "ring v (ofa bell",
+"w": "ring (of a bell",
 "books": [
 "Basic"
 ],
@@ -9944,7 +9936,7 @@
 "note": ""
 },
 {
-"w": "shower n (in the bathroom",
+"w": "shower (in the bathroom",
 "books": [
 "Basic"
 ],
@@ -13351,7 +13343,7 @@
 "note": ""
 },
 {
-"w": "attack vy",
+"w": "attack",
 "books": [
 "Intermediate"
 ],
@@ -13563,7 +13555,7 @@
 "note": ""
 },
 {
-"w": "bang Nn",
+"w": "bang",
 "books": [
 "Intermediate"
 ],
@@ -13711,7 +13703,7 @@
 "note": ""
 },
 {
-"w": "bear Nn",
+"w": "bear",
 "books": [
 "Intermediate"
 ],
@@ -13975,7 +13967,7 @@
 "note": ""
 },
 {
-"w": "boot (ofa car",
+"w": "boot (of a car",
 "books": [
 "Intermediate"
 ],
@@ -14898,7 +14890,7 @@
 "note": ""
 },
 {
-"w": "claim Nn",
+"w": "claim",
 "books": [
 "Intermediate"
 ],
@@ -15047,7 +15039,7 @@
 "note": ""
 },
 {
-"w": "collapse nN",
+"w": "collapse",
 "books": [
 "Intermediate"
 ],
@@ -15212,7 +15204,7 @@
 "note": ""
 },
 {
-"w": "compromise nN, Vv",
+"w": "compromise",
 "books": [
 "Intermediate"
 ],
@@ -15516,7 +15508,7 @@
 "note": ""
 },
 {
-"w": "cover nN",
+"w": "cover",
 "books": [
 "Intermediate"
 ],
@@ -15764,7 +15756,7 @@
 "note": ""
 },
 {
-"w": "damage n,v",
+"w": "damage",
 "books": [
 "Intermediate"
 ],
@@ -16649,7 +16641,7 @@
 "note": ""
 },
 {
-"w": "dust nN",
+"w": "dust",
 "books": [
 "Intermediate"
 ],
@@ -18012,7 +18004,7 @@
 "note": "attention/attend"
 },
 {
-"w": "focus n, v (in photography",
+"w": "focus (in photography",
 "books": [
 "Intermediate"
 ],
@@ -18082,7 +18074,7 @@
 "note": ""
 },
 {
-"w": "forecast nN",
+"w": "forecast",
 "books": [
 "Intermediate"
 ],
@@ -19186,7 +19178,7 @@
 "note": ""
 },
 {
-"w": "have achat",
+"w": "have a chat",
 "books": [
 "Intermediate"
 ],
@@ -19228,7 +19220,7 @@
 "note": ""
 },
 {
-"w": "have arow",
+"w": "have a row",
 "books": [
 "Intermediate"
 ],
@@ -20187,7 +20179,7 @@
 "note": ""
 },
 {
-"w": "increase nN",
+"w": "increase",
 "books": [
 "Intermediate"
 ],
@@ -21023,7 +21015,7 @@
 "note": ""
 },
 {
-"w": "leak Nn",
+"w": "leak",
 "books": [
 "Intermediate"
 ],
@@ -21733,7 +21725,7 @@
 "note": ""
 },
 {
-"w": "mean alot",
+"w": "mean a lot",
 "books": [
 "Intermediate"
 ],
@@ -22299,7 +22291,7 @@
 "note": ""
 },
 {
-"w": "negative apy",
+"w": "negative",
 "books": [
 "Intermediate"
 ],
@@ -22896,7 +22888,7 @@
 "note": ""
 },
 {
-"w": "oval apy",
+"w": "oval",
 "books": [
 "Intermediate"
 ],
@@ -23150,7 +23142,7 @@
 "note": ""
 },
 {
-"w": "patient any",
+"w": "patient",
 "books": [
 "Intermediate"
 ],
@@ -24639,7 +24631,7 @@
 "note": ""
 },
 {
-"w": "ina relationship",
+"w": "in a relationship",
 "books": [
 "Intermediate"
 ],
@@ -24654,7 +24646,7 @@
 "note": "set free"
 },
 {
-"w": "release Nn, v (an album",
+"w": "release (an album",
 "books": [
 "Intermediate"
 ],
@@ -25093,14 +25085,14 @@
 "note": ""
 },
 {
-"w": "rough (ofa surface",
+"w": "rough (of a surface",
 "books": [
 "Intermediate"
 ],
 "note": ""
 },
 {
-"w": "rough (ofthe sea",
+"w": "rough (of the sea",
 "books": [
 "Intermediate"
 ],
@@ -25523,7 +25515,7 @@
 "note": ""
 },
 {
-"w": "separate apy",
+"w": "separate",
 "books": [
 "Intermediate"
 ],
@@ -26358,7 +26350,7 @@
 "note": ""
 },
 {
-"w": "square Apj",
+"w": "square",
 "books": [
 "Intermediate"
 ],
@@ -26850,7 +26842,7 @@
 "note": ""
 },
 {
-"w": "support nN",
+"w": "support",
 "books": [
 "Intermediate"
 ],
@@ -26935,7 +26927,7 @@
 "note": ""
 },
 {
-"w": "surroundings Nn",
+"w": "surroundings",
 "books": [
 "Intermediate"
 ],
@@ -28156,7 +28148,7 @@
 "note": ""
 },
 {
-"w": "upto",
+"w": "up to",
 "books": [
 "Intermediate"
 ],
@@ -29032,7 +29024,7 @@
 "note": ""
 },
 {
-"w": "absolute apy",
+"w": "absolute",
 "books": [
 "Advanced"
 ],
@@ -29515,7 +29507,7 @@
 "note": ""
 },
 {
-"w": "an eye for an eye and a tooth fora tooth",
+"w": "an eye for an eye and a tooth for a tooth",
 "books": [
 "Advanced"
 ],
@@ -29543,7 +29535,7 @@
 "note": ""
 },
 {
-"w": "an glen,v",
+"w": "an glen",
 "books": [
 "Advanced"
 ],
@@ -30390,7 +30382,7 @@
 "note": ""
 },
 {
-"w": "bark, Vv",
+"w": "bark",
 "books": [
 "Advanced"
 ],
@@ -30558,7 +30550,7 @@
 "note": ""
 },
 {
-"w": "be ina mess",
+"w": "be in a mess",
 "books": [
 "Advanced"
 ],
@@ -31118,7 +31110,7 @@
 "note": ""
 },
 {
-"w": "bolt v,N",
+"w": "bolt",
 "books": [
 "Advanced"
 ],
@@ -31146,7 +31138,7 @@
 "note": ""
 },
 {
-"w": "boost n,v",
+"w": "boost",
 "books": [
 "Advanced"
 ],
@@ -31216,7 +31208,7 @@
 "note": ""
 },
 {
-"w": "bracket Nn",
+"w": "bracket",
 "books": [
 "Advanced"
 ],
@@ -32035,7 +32027,7 @@
 "note": ""
 },
 {
-"w": "chase Nn",
+"w": "chase",
 "books": [
 "Advanced"
 ],
@@ -32546,7 +32538,7 @@
 "note": ""
 },
 {
-"w": "command vy",
+"w": "command",
 "books": [
 "Advanced"
 ],
@@ -33162,7 +33154,7 @@
 "note": ""
 },
 {
-"w": "onthe contrary",
+"w": "on the contrary",
 "books": [
 "Advanced"
 ],
@@ -35969,7 +35961,7 @@
 "note": ""
 },
 {
-"w": "exclusive N, ADj",
+"w": "exclusive",
 "books": [
 "Advanced"
 ],
@@ -36053,7 +36045,7 @@
 "note": ""
 },
 {
-"w": "exterior N, AD",
+"w": "exterior",
 "books": [
 "Advanced"
 ],
@@ -36340,7 +36332,7 @@
 "note": ""
 },
 {
-"w": "fellow apy",
+"w": "fellow",
 "books": [
 "Advanced"
 ],
@@ -37257,7 +37249,7 @@
 "note": ""
 },
 {
-"w": "glimpse n,v",
+"w": "glimpse",
 "books": [
 "Advanced"
 ],
@@ -37607,7 +37599,7 @@
 "note": "got to go/I've got to go"
 },
 {
-"w": "guard n,v",
+"w": "guard",
 "books": [
 "Advanced"
 ],
@@ -38237,7 +38229,7 @@
 "note": ""
 },
 {
-"w": "house Nn",
+"w": "house",
 "books": [
 "Advanced"
 ],
@@ -40113,7 +40105,7 @@
 "note": ""
 },
 {
-"w": "lea seN",
+"w": "lease",
 "books": [
 "Advanced"
 ],
@@ -40715,7 +40707,7 @@
 "note": ""
 },
 {
-"w": "What do you make of wi?",
+"w": "What do you make of it?",
 "books": [
 "Advanced"
 ],
@@ -41338,7 +41330,7 @@
 "note": ""
 },
 {
-"w": "mistake x",
+"w": "mistake",
 "books": [
 "Advanced"
 ],
@@ -41394,7 +41386,7 @@
 "note": ""
 },
 {
-"w": "moderate al",
+"w": "moderate",
 "books": [
 "Advanced"
 ],
@@ -42122,7 +42114,7 @@
 "note": ""
 },
 {
-"w": "drop inthe ocean",
+"w": "drop in the ocean",
 "books": [
 "Advanced"
 ],
@@ -43613,7 +43605,7 @@
 "note": ""
 },
 {
-"w": "pro ben,v",
+"w": "pro ben",
 "books": [
 "Advanced"
 ],
@@ -43837,7 +43829,7 @@
 "note": ""
 },
 {
-"w": "puncture Nn",
+"w": "puncture",
 "books": [
 "Advanced"
 ],
@@ -44138,7 +44130,7 @@
 "note": ""
 },
 {
-"w": "rash Avy",
+"w": "rash",
 "books": [
 "Advanced"
 ],
@@ -44166,14 +44158,14 @@
 "note": ""
 },
 {
-"w": "rate Vv",
+"w": "rate",
 "books": [
 "Advanced"
 ],
 "note": ""
 },
 {
-"w": "atan rate",
+"w": "at any rate",
 "books": [
 "Advanced"
 ],
@@ -44943,7 +44935,7 @@
 "note": ""
 },
 {
-"w": "roar n,V",
+"w": "roar",
 "books": [
 "Advanced"
 ],
@@ -45034,7 +45026,7 @@
 "note": ""
 },
 {
-"w": "rustle n, Vv",
+"w": "rustle",
 "books": [
 "Advanced"
 ],
@@ -45139,7 +45131,7 @@
 "note": ""
 },
 {
-"w": "sayN",
+"w": "say",
 "books": [
 "Advanced"
 ],
@@ -45237,7 +45229,7 @@
 "note": ""
 },
 {
-"w": "schedule x",
+"w": "schedule",
 "books": [
 "Advanced"
 ],
@@ -45601,7 +45593,7 @@
 "note": ""
 },
 {
-"w": "shelter vy",
+"w": "shelter",
 "books": [
 "Advanced"
 ],
@@ -46357,7 +46349,7 @@
 "note": ""
 },
 {
-"w": "squeak Vv",
+"w": "squeak",
 "books": [
 "Advanced"
 ],
@@ -46770,7 +46762,7 @@
 "note": ""
 },
 {
-"w": "stroll, Vv",
+"w": "stroll",
 "books": [
 "Advanced"
 ],
@@ -46896,7 +46888,7 @@
 "note": ""
 },
 {
-"w": "sumN",
+"w": "sum",
 "books": [
 "Advanced"
 ],
@@ -47575,7 +47567,7 @@
 "note": "thanks"
 },
 {
-"w": "toa degree",
+"w": "to a degree",
 "books": [
 "Advanced"
 ],
@@ -47750,7 +47742,7 @@
 "note": ""
 },
 {
-"w": "trek n,v",
+"w": "trek",
 "books": [
 "Advanced"
 ],
@@ -47869,14 +47861,14 @@
 "note": ""
 },
 {
-"w": "twist N (in a plot",
+"w": "twist (in a plot",
 "books": [
 "Advanced"
 ],
 "note": ""
 },
 {
-"w": "twist v (twist your ankle",
+"w": "twist (twist your ankle",
 "books": [
 "Advanced"
 ],
@@ -48595,13 +48587,6 @@
 "Advanced"
 ],
 "note": ""
-},
-{
-"w": "wi",
-"books": [
-"Advanced"
-],
-"note": "with"
 },
 {
 "w": "w/o",
