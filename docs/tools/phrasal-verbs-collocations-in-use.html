@@ -179,7 +179,7 @@
   // nhãn nhóm có khớp từ mục không (OCR đôi khi gắn nhóm của từ bên cạnh: "ADJ." trong mục tính từ, "VERB + ANGER" trong mục angry)
   function mismatch(w, pos, cat, allPos) {
     const C = (cat || '').toUpperCase();
-    if (/^ADJ\.?$/.test(C) && !/noun/.test(pos) && !/noun/.test(allPos || '')) return true;   // red/pink: vừa adj vừa noun
+    if (/^ADJ\.?$/.test(C) && /verb/.test(pos) && !/noun/.test(allPos || '')) return true;   // ADJ. trong mục động từ = nhóm của từ bên cạnh (màu sắc red/pink: ADJ. hợp lệ)
     const names = C.split(/\s*\+\s*/).filter(t => t && !/^(VERBS?|NOUN|ADJ\.?|ADV\.?|PREP\.?|QUANT\.?|PHRASES|PHRASAL VERBS?)$/.test(t));
     // so với mọi từ trong tên từ mục ("actor, actress", "A level", "bow ¹ /bau/"), khớp 3 chữ đầu (chịu được lỗi OCR như ABSSESS)
     const stems = w.toUpperCase().split(/[^A-Z]+/).filter(x => x.length >= 3).map(x => x.slice(0, 3)).concat([w.toUpperCase().replace(/[^A-Z]/g, '').slice(0, 3)]);
