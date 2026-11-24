@@ -102,6 +102,11 @@ def oxford():
             n += 1
         if n:
             e1["b"], e2["b"] = e1["b"] + e2["b"][:n], e2["b"][n:]
+    for i in range(len(entries) - 1):
+        e1, e2 = entries[i], entries[i + 1]
+        if e1["pos"][-1] in ("adj", "verb", "adv") and "noun" in e2["pos"] and e1["b"] and e1["b"][-1][0] == "c" \
+                and re.match(r"^ADJ\.?\s", e1["b"][-1][1]) and not any(k == "p" for k, _ in e1["b"]):
+            e2["b"] = [e1["b"].pop()] + e2["b"]
     for e in entries:
         e["f"] = 1 if e["w"].lower() in words5000 else 0
         nb = []
@@ -502,6 +507,44 @@ if os.path.exists(_VP):
         VOCAB.add(re.sub(r"\s*\(.*", "", r[0]).strip().lower())
 
 
+_CF = os.path.join(_D, "oxford_countable.json")
+COUNT = json.load(open(_CF, encoding="utf-8")) if os.path.exists(_CF) else {}
+try:
+    from wordfreq import zipf_frequency as _zf
+except ImportError:
+    _zf = None
+
+
+# danh từ thường không đếm được nhưng dạng "-s" lại phổ biến (vì trùng động từ chia ngôi 3: helps, works…)
+UNCOUNT = set("""progress help work homework housework furniture luggage baggage equipment news weather traffic travel research
+damage evidence music fun health behaviour behavior safety transport accommodation permission software hardware feedback access
+harm luck patience violence pollution advice information knowledge money attention importance leisure rubbish garbage
+scenery machinery clothing jewellery jewelry nonsense applause anger courage happiness honesty peace weight water rice bread
+butter cheese milk sugar salt meat food fruit wine beer coffee tea air oxygen electricity energy heat light power control
+trust support training employment unemployment education experience time space room advertising shopping cash change""".split())
+
+
+def plural(w):
+    if re.search(r"(s|sh|ch|x|z)$", w): return w + "es"
+    if re.search(r"[^aeiou]y$", w): return w[:-1] + "ies"
+    return w + "s"
+
+
+def article(e):
+    """Mạo từ khi ghép "động từ + danh từ": 'a'/'an' cho danh từ đếm được (make a decision),
+    '' cho danh từ không đếm được (give advice). Đếm được hay không: so độ phổ biến số ít / số nhiều (wordfreq),
+    kết quả lưu ở tools/data/oxford_countable.json để chạy lại không cần thư viện."""
+    if "noun" not in e["pos"] or " " in e["w"]:
+        return ""
+    w = e["w"].lower()
+    if w not in COUNT and _zf:
+        COUNT[w] = round(_zf(w, "en") - _zf(plural(w), "en"), 2)
+    d = COUNT.get(w)
+    if w in UNCOUNT or d is None or d > 1.6:          # số nhiều hiếm hơn số ít rất nhiều → không đếm được
+        return ""
+    return "an" if re.match(r"[aeiou]", w) and not re.match(r"(uni|use|usu|eu|one|once)", w) or re.match(r"(hour|honest|honour|heir)", w) else "a"
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     ox = oxford()
@@ -521,7 +564,7 @@ def main():
         for j, e in enumerate(by_letter[L]):
             k = e["w"].lower()
             mask = (1 if e["f"] else 0) | (2 if k in OX3 else 0) | (4 if k in OX5 else 0) | (8 if k in OWS else 0) | (16 if k in VOCAB else 0)
-            idx.append([e["w"], "/".join(e["pos"]), e["f"], L, j, mask, OXLV.get(k, "")])
+            idx.append([e["w"], "/".join(e["pos"]), e["f"], L, j, mask, OXLV.get(k, ""), article(e)])
     rows = four500()
     tk = {key(r["p"]): r for r in rows}
     extra = 0
@@ -537,6 +580,8 @@ def main():
             x["ets"] = r["ets"]
     topics = list(dict.fromkeys(r["t"] for r in rows))
     small = dict(ox=idx, c45=[[r["p"], r["vi"], topics.index(r["t"]), r["k"], r.get("lv", ""), r.get("ets", "")] for r in rows], topics=topics)
+    if _zf:
+        json.dump(COUNT, open(_CF, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     with open(os.path.join(OUT, "index.js"), "w", encoding="utf-8") as f:
         f.write("window.COLLOC=%s;\n" % json.dumps(small, ensure_ascii=False, separators=(",", ":")))
     sizes = {L: os.path.getsize(os.path.join(OUT, "ox-%s.js" % L)) // 1024 for L in by_letter}

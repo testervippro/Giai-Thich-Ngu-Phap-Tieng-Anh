@@ -61,6 +61,8 @@
     .segs .co { font-weight:600; }
     .segs .oex { display:block; color:var(--muted); font-style:italic; font-size:14px; margin-left:2px; }
     .xref { font-size:13px; color:var(--muted); margin:6px 0 0; }
+    .warn { font-size:11.5px; color:#b45309; border:1px solid #f59e0b; border-radius:999px; padding:0 7px; margin-left:4px; cursor:help; }
+    .cpnote { font-size:12px; color:var(--muted); margin:8px 0 0; }
     .cps { display:flex; flex-wrap:wrap; gap:4px 6px; }
     .cp { font-weight:600; background:var(--card); border:1px solid var(--line); border-radius:7px; padding:1px 8px; font-size:14.5px; }
     .list { margin:0; padding:0; list-style:none; }
@@ -138,7 +140,7 @@
   window.OXC = window.OXC || {};
 
   // ---- dữ liệu
-  const OX = C.ox.map(r => ({ w:r[0], pos:r[1], f5:!!r[2], L:r[3], j:r[4], m:r[5] || (r[2] ? 1 : 0), lv:r[6] || '', k:fold(r[0]) }));
+  const OX = C.ox.map(r => ({ w:r[0], pos:r[1], f5:!!r[2], L:r[3], j:r[4], m:r[5] || (r[2] ? 1 : 0), lv:r[6] || '', art:r[7] || '', k:fold(r[0]) }));
   // lọc theo danh sách từ phổ biến: bit 1 = ★5000 từ, 2 = Oxford 3000, 4 = Oxford 5000, 8 = Oxford Word Skills
   const pass = o => (!st.flt || (o.m & +st.flt)) && (!st.cefr || o.lv === st.cefr);
   const fltName = () => [st.flt ? $('flt').selectedOptions[0].text : '', st.cefr].filter(Boolean).join(' · ');
@@ -174,7 +176,15 @@
   const say = t => `<button class="say" data-t="${esc(String(t).replace(/[()]/g, '').replace(/\bsth\b/g, 'something').replace(/\bsb\b/g, 'somebody'))}" title="Nghe">🔊</button>`;
 
   // ---- dạng cụm: ghép từ mục với collocate theo nhãn nhóm (absorb + quickly → "absorb quickly")
-  function compose(w, pos, cat, c) {
+  // nhãn nhóm có khớp từ mục không (OCR đôi khi gắn nhóm của từ bên cạnh: "ADJ." trong mục tính từ, "VERB + ANGER" trong mục angry)
+  function mismatch(w, pos, cat) {
+    const C = (cat || '').toUpperCase();
+    if (/^ADJ\.?$/.test(C) && !/noun/.test(pos)) return true;
+    const names = C.split(/\s*\+\s*/).filter(t => t && !/^(VERBS?|NOUN|ADJ\.?|ADV\.?|PREP\.?|QUANT\.?|PHRASES|PHRASAL VERB)$/.test(t));
+    const stem = w.toUpperCase().replace(/[^A-Z]/g, '').slice(0, Math.max(4, w.length - 3));
+    return names.length > 0 && !names.some(t => t.replace(/[^A-Z]/g, '').startsWith(stem.slice(0, 4)));
+  }
+  function compose(w, pos, cat, c, art) {
     const items = c.split(/,\s*(?![^()]*\))/).map(x => x.trim()).filter(x => x && x !== 'etc.' && x !== 'etc');
     const C = (cat || '').toUpperCase(), isV = /verb/.test(pos), isAdj = /adj|adv/.test(pos);
     return items.map(x => {
@@ -182,6 +192,7 @@
       if (/~/.test(x)) return x.replace(/~\s?/g, w + ' ').replace(/\s+/g, ' ').trim();
       if (/^ADJ\.?$/.test(C)) return `${x} ${w}`;
       if (/^ADV\.?$/.test(C)) return isV ? `${w} ${x}` : `${x} ${w}`;
+      if (/^VERB \+/.test(C) && /noun/.test(pos) && art && !/\b(a|an|the|sb's|your|his|her|their|my|our|its|this|that)$/i.test(x)) return `${x} ${art} ${w}`;
       if (/^VERBS?$/.test(C) || /^VERB \+/.test(C) || /^(NOUN|ADJ\.?) \+/.test(C)) return `${x} ${w}`;
       if (/\+ (NOUN|VERB|PREP\.?|ADJ\.?|ADV\.?)$/.test(C)) return `${w} ${x}`;
       if (/^QUANT\.?$/.test(C)) return `${x} of ${w}`;
@@ -197,8 +208,9 @@
       const k = b[0];
       if (k === 'p') { pos = b[1]; body += `<div class="posh">${esc(b[1])}</div>`; }
       else if (k === 'c' && st.form !== 'dict') {
-        body += `<div class="grp">${b[1] ? `<span class="cat">${esc(b[1])}</span>` : ''}<ul class="segs">${b[2].map(([c, ex]) =>
-          `<li><span class="cps">${compose(o.w, pos, b[1], c).map(p => `<b class="cp">${hiQ(p, qs)}</b>`).join('')}</span>${ex.map(e => `<span class="oex">${hiQ(e, qs)}</span>`).join('')}</li>`).join('')}</ul></div>`;
+        const bad = mismatch(o.w, pos, b[1]);
+        body += `<div class="grp">${b[1] ? `<span class="cat">${esc(b[1])}</span>` : ''}${bad ? '<span class="warn" title="Nhãn nhóm không khớp từ mục — có thể OCR gắn nhầm nhóm của từ bên cạnh. Hiện nguyên văn, không ghép.">⚠ có thể lệch do OCR</span>' : ''}<ul class="segs">${b[2].map(([c, ex]) =>
+          `<li>${bad ? `<b class="co">${hiQ(c, qs)}</b>` : `<span class="cps">${compose(o.w, pos, b[1], c, o.art).map(p => `<b class="cp">${hiQ(p, qs)}</b>`).join('')}</span>`}${ex.map(e => `<span class="oex">${hiQ(e, qs)}</span>`).join('')}</li>`).join('')}</ul></div>`;
       }
       else if (k === 's') body += `<div class="sense">${hiQ(b[1], qs)}</div>`;
       else if (k === 'x') body += `<div class="xref">→ Xem thêm: ${esc(b[1])}</div>`;
@@ -207,7 +219,8 @@
     }
     const badges = (o.f5 ? '<span class="tag t5">★ 5000 từ</span>' : '') + (o.m & 2 ? '<span class="tag hk">Oxford 3000</span>' : o.m & 4 ? '<span class="tag hk">Oxford 5000</span>' : '')
       + (o.lv ? `<span class="tag ets">${o.lv}</span>` : '') + (o.m & 8 ? '<span class="tag tp">Word Skills</span>' : '');
-    return `<section class="card ox"><div class="h">${say(o.w)}<span class="w">${hiQ(o.w, qs)}</span><span class="kind">${esc(o.pos)}</span>${badges}</div>${body}</section>`;
+    const note = st.form !== 'dict' && B ? '<p class="cpnote">📋 Dạng cụm do máy ghép từ nhãn nhóm; mạo từ (a/an) đoán theo danh từ đếm được hay không. Nhóm ⚠ hiện nguyên văn. Bấm 📖 để xem đúng bản từ điển.</p>' : '';
+    return `<section class="card ox"><div class="h">${say(o.w)}<span class="w">${hiQ(o.w, qs)}</span><span class="kind">${esc(o.pos)}</span>${badges}</div>${body}${note}</section>`;
   }
   function c45Item(r, qs, showTopic) {
     return `<li>${say(r.p)}<span class="p">${hiQ(r.p, qs)}</span><span class="m">${hiQ(r.vi, qs)}</span>`
