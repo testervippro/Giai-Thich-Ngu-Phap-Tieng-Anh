@@ -99,6 +99,45 @@ def main():
             e["notes"].append(r["note"])
         if r.get("pos") and not e["pos"]:
             e["pos"] = r["pos"]
+    # gộp mục gần trùng: khác cách viết (film-maker/filmmaker), có/không "the", ghi chú trong ngoặc, hoa/thường.
+    # Giữ riêng động từ cụm và danh từ ghép (break up ≠ break-up, take over ≠ takeover).
+    PART = r"(up|down|out|over|in|off|ahead|back|away|on|through|round|about|by)"
+    def k3(t):
+        t = t.lower().replace("’", "'")
+        t = re.sub(r"\(.*?\)", "", t).strip()
+        t = re.sub(r"^the\s+", "", t)
+        form = ""
+        m = re.fullmatch(r"([a-z]+)([ -]?)" + PART, t)
+        if m:
+            form = "pv" if m.group(2) == " " else "n"
+        return re.sub(r"[^a-z0-9]", "", t) + form
+    groups = {}
+    for k, e in list(merged.items()):
+        kk = k3(e["term"])
+        if not kk.strip("pvn"):
+            continue
+        if kk in groups and groups[kk] is not e:
+            g = groups[kk]
+            # tên hiển thị: ưu tiên dạng không ngoặc, không "the", có nhiều nguồn hơn
+            score = lambda x: ("(" in x["term"], x["term"].lower().startswith("the "), -len(x["srcs"]), len(x["term"]))
+            keep, drop = (g, e) if score(g) <= score(e) else (e, g)
+            for v in drop["vis"]:
+                if v.lower() not in (x.lower() for x in keep["vis"]):
+                    keep["vis"].append(v)
+            for x in drop["srcs"]:
+                if x not in keep["srcs"]:
+                    keep["srcs"].append(x)
+            m_ = re.search(r"\((.*?)\)", drop["term"])
+            if m_ and m_.group(1) not in keep["notes"] and len(m_.group(1).split()) >= 2:
+                keep["notes"].append(m_.group(1))
+            if not keep["ipa"]:
+                keep["ipa"] = drop["ipa"]
+            for kk2, v2 in list(merged.items()):
+                if v2 is drop:
+                    del merged[kk2]
+            groups[kk] = keep
+        else:
+            groups[kk] = e
     lk = vi_lookup()
     # "-" trong vocab_vi_extra.tsv = rác OCR (chỉ bỏ khi mục chỉ đến từ Word Skills)
     for k in [k for k, e in merged.items() if lk.get(k) == "-" and all(x.startswith("Word Skills") for x in e["srcs"])]:
@@ -128,7 +167,7 @@ def main():
     for i, e in enumerate(items, 1):
         vi = "; ".join(e["vis"])
         if e["notes"]:
-            vi = (vi + " " if vi else "") + " ".join("(= %s)" % n for n in e["notes"])
+            vi = (vi + " " if vi else "") + " ".join("(= %s)" % re.sub(r"\bofa\b", "of a", n) for n in e["notes"])
         term = e["term"]
         L.append("| %d | %s | %s | %s | %s |" % (i, esc(term), esc(vi), esc(e["ipa"]), esc(", ".join(e["srcs"]))))
     open(MD, "w", encoding="utf-8").write("\n".join(L) + "\n")
