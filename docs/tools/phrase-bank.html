@@ -28,7 +28,8 @@
     .tchip.on b { color:var(--accent); }
     .desc { font-size:13.5px; color:var(--muted); margin:0 0 10px; padding:7px 11px; border-left:3px solid var(--accent); border-radius:6px; background:var(--card); }
     .cnt { font-size:13px; color:var(--muted); margin:0 0 8px; }
-    .it { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:10px 14px; margin:0 0 8px; }
+    .it { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:10px 14px; margin:0 0 8px; display:grid; grid-template-columns:3.4em minmax(0,1fr); gap:0 10px; content-visibility:auto; contain-intrinsic-size:auto 92px; }
+    .it .no { color:var(--muted); font-size:12.5px; font-variant-numeric:tabular-nums; text-align:right; padding-top:4px; user-select:none; }
     .it .p { font-size:16.5px; font-weight:700; overflow-wrap:anywhere; }
     .it .m { margin-top:2px; }
     .it .d { margin-top:2px; color:var(--muted); font-size:13.5px; }
@@ -42,7 +43,6 @@
     .g { font-size:12px; color:var(--muted); }
     .say { border:0; background:none; cursor:pointer; font-size:15px; padding:0 4px; }
     mark { background:rgba(250,204,21,.45); color:inherit; border-radius:3px; padding:0 1px; }
-    #more { display:block; margin:14px auto 0; }
     .empty { text-align:center; color:var(--muted); padding:30px 0; }
     #loading { color:var(--muted); padding:20px 0; }
   </style>
@@ -64,7 +64,6 @@
   <div class="cnt" id="cnt"></div>
   <div id="loading">Đang tải…</div>
   <div id="list"></div>
-  <button class="btn" id="more" hidden>Xem thêm</button>
   <p class="note">Gộp từ nhiều bộ: thành ngữ, phrasal verb, collocation, mẫu câu IELTS, câu hàng ngày, cụm trong phim, câu theo tình huống, cấu trúc nói, tiếng Anh IT. Cụm trùng giữa các bộ chỉ hiện một lần, kèm nhãn tất cả nguồn có nó. Bấm nhãn nguồn để mở trang gốc (đầy đủ ngữ pháp, ví dụ, bằng chứng trong phim). Câu ví dụ trong phim là câu thoại thật (trích ngắn, bản quyền thuộc hãng phim).</p>
 </main>
 <script src="phrase-bank-data.js"></script>
@@ -77,13 +76,13 @@
   const fold = s => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'd').toLowerCase();
   const D = window.PHRASES;
   if (!D) { $('loading').textContent = 'Không tải được dữ liệu (phrase-bank-data.js).'; return; }
-  const T = D.types, S = D.sources, PAGE = 60;
+  const T = D.types, S = D.sources;
   // item: [types[], p, m, e, ev, g, x, d, srcs[], refs{}]
   const I = D.items.map((a, ix) => ({ ix, ts: a[0], p: a[1], m: a[2], e: a[3], ev: a[4], g: a[5], x: a[6], d: a[7], ss: a[8], rf: a[9],
     hay: fold([a[1], a[2], a[3], a[4], a[5], a[7]].join(' ')), pf: fold(a[1]) }));
   const store = { get(k) { try { return localStorage.getItem('phraseBank.' + k); } catch (e) { return null; } }, set(k, v) { try { localStorage.setItem('phraseBank.' + k, v); } catch (e) {} } };
   const qs = new URLSearchParams(location.search);
-  const st = { q: qs.get('q') || '', types: new Set((qs.get('type') || '').split(',').filter(x => T[x])), src: qs.get('src') || '', ex: false, vi: false, shown: PAGE };
+  const st = { q: qs.get('q') || '', types: new Set((qs.get('type') || '').split(',').filter(x => T[x])), src: qs.get('src') || '', ex: false, vi: false };
   const typeCount = {}; I.forEach(x => x.ts.forEach(t => typeCount[t] = (typeCount[t] || 0) + 1));
   const DESC = {
     idiom: 'Thành ngữ — nghĩa bóng, không đoán được từ từng chữ (get the ball rolling, hit the sack…).',
@@ -138,28 +137,26 @@
     }
     return terms;
   }
-  function card(x, terms) {
+  function card(x, terms, n) {
     const tags = x.ts.map(t => `<span class="tag t">${esc(T[t])}</span>`).join('') +
       x.ss.map(s => { const u = S[s].url + (x.rf[s] && /^[#?]/.test(x.rf[s]) ? x.rf[s] : ''); return `<span class="tag"><a href="${esc(u)}" title="Mở trang gốc" target="_blank" rel="noopener">${esc(S[s].name.split(' — ')[0].replace(/^Ngân hàng /, '').slice(0, 34))} ↗</a></span>`; }).join('');
-    return `<div class="it"><div class="p">${hl(x.p, terms)} ${say(x.p)}</div>` +
+    return `<div class="it"><div class="no">${n}</div><div class="bd"><div class="p">${hl(x.p, terms)} ${say(x.p)}</div>` +
       (x.m ? `<div class="m">${hl(x.m, terms)}</div>` : '') +
       (x.d ? `<div class="d">${hl(x.d, terms)}</div>` : '') +
       (x.e ? `<div class="e">${hl(x.e, terms)} ${say(x.e.split(' | ')[0])}</div>` : '') +
       (x.ev ? `<div class="ev">${hl(x.ev, terms)}</div>` : '') +
-      `<div class="meta">${tags}${x.g ? `<span class="g">${esc(x.g)}</span>` : ''}${x.x ? `<span class="g">· ${esc(x.x)}</span>` : ''}</div></div>`;
+      `<div class="meta">${tags}${x.g ? `<span class="g">${esc(x.g)}</span>` : ''}${x.x ? `<span class="g">· ${esc(x.x)}</span>` : ''}</div></div></div>`;
   }
   function render(reset) {
-    if (reset) st.shown = PAGE;
     const terms = filter();
     const sel = [...st.types];
     document.querySelectorAll('.tchip').forEach(b => b.classList.toggle('on', b.dataset.t === '*' ? !st.types.size : st.types.has(b.dataset.t)));
     $('exOnly').classList.toggle('on', st.ex); $('viOnly').classList.toggle('on', st.vi);
     const dtxt = sel.length === 1 ? DESC[sel[0]] : sel.length > 1 ? sel.map(t => `<b>${esc(T[t])}</b>`).join(' + ') + ' (gộp các loại đã chọn).' : '';
     $('desc').hidden = !dtxt; $('desc').innerHTML = sel.length === 1 ? `<b>${esc(T[sel[0]])}</b> — ${esc(DESC[sel[0]].split(' — ').slice(1).join(' — '))}` : dtxt;
-    $('cnt').textContent = `${fmt(res.length)} / ${fmt(I.length)} cụm` + (res.length > st.shown ? ` · đang hiện ${fmt(st.shown)}` : '');
+    $('cnt').textContent = `${fmt(res.length)} / ${fmt(I.length)} cụm — hiện tất cả, đánh số từ 1`;
     $('loading').hidden = true;
-    $('list').innerHTML = res.length ? res.slice(0, st.shown).map(x => card(x, terms)).join('') : '<div class="empty">Không có cụm nào khớp. Thử bỏ bớt bộ lọc hoặc gõ ít từ hơn.</div>';
-    $('more').hidden = res.length <= st.shown; $('more').textContent = `Xem thêm ${fmt(Math.min(PAGE, res.length - st.shown))} cụm`;
+    $('list').innerHTML = res.length ? res.map((x, i) => card(x, terms, i + 1)).join('') : '<div class="empty">Không có cụm nào khớp. Thử bỏ bớt bộ lọc hoặc gõ ít từ hơn.</div>';
     const p = new URLSearchParams(); if (st.q) p.set('q', st.q); if (st.types.size) p.set('type', [...st.types].join(',')); if (st.src) p.set('src', st.src);
     try { history.replaceState(null, '', location.pathname + (p.toString() ? '?' + p : '')); } catch (e) {}
   }
@@ -168,7 +165,6 @@
   $('src').addEventListener('change', e => { st.src = e.target.value; render(true); });
   $('exOnly').onclick = () => { st.ex = !st.ex; render(true); };
   $('viOnly').onclick = () => { st.vi = !st.vi; render(true); };
-  $('more').onclick = () => { st.shown += PAGE; render(false); };
   $('types').addEventListener('click', e => {
     const b = e.target.closest('.tchip'); if (!b) return;
     const t = b.dataset.t;
