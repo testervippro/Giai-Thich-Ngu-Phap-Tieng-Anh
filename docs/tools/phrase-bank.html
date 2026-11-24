@@ -44,6 +44,16 @@
     .it .p a.yg { color:inherit; text-decoration:none; border-bottom:1px dashed var(--muted); }
     .it .p a.yg:hover { color:var(--accent); border-bottom-color:var(--accent); }
     a.ygb { text-decoration:none; }
+    #ygp { position:fixed; left:50%; bottom:0; transform:translateX(-50%); width:min(564px,100%); max-height:80vh; overflow:auto; z-index:50; background:var(--card); border:1px solid var(--line); border-bottom:0; border-radius:14px 14px 0 0; box-shadow:0 -8px 30px rgba(0,0,0,.25); }
+    #ygp[hidden] { display:none; }
+    .ygh { position:sticky; top:0; z-index:1; display:flex; gap:8px; align-items:center; padding:8px 12px; background:var(--card); border-bottom:1px solid var(--line); }
+    .ygh b { flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .ygh select { padding:4px 6px; border:1px solid var(--line); border-radius:8px; background:var(--bg); color:inherit; font:inherit; font-size:13px; }
+    .ygn { color:var(--muted); font-size:12.5px; white-space:nowrap; }
+    .ygbtn { border:1px solid var(--line); background:var(--bg); color:inherit; border-radius:8px; padding:3px 9px; cursor:pointer; font:inherit; font-size:14px; text-decoration:none; }
+    #yg-widget { background:#fff; min-height:60px; }
+    .ygf { font-size:11px; color:var(--muted); padding:4px 12px 8px; }
+    .ygf a { color:inherit; }
     .say { border:0; background:none; cursor:pointer; font-size:15px; padding:0 4px; }
     mark { background:rgba(250,204,21,.45); color:inherit; border-radius:3px; padding:0 1px; }
     .empty { text-align:center; color:var(--muted); padding:30px 0; }
@@ -67,8 +77,19 @@
   <div class="cnt" id="cnt"></div>
   <div id="loading">Đang tải…</div>
   <div id="list"></div>
-  <p class="note"><b>🎬 Bấm vào cụm</b> (hoặc nút 🎬) để mở YouGlish: trang này phát đúng giây trên YouTube có người bản xứ nói cụm đó, bấm Next để nghe người khác, lọc được giọng US/UK/AUS. Phần tuỳ chọn, sb/sth, … được bỏ khi tìm. Gộp từ nhiều bộ: thành ngữ, phrasal verb, collocation, mẫu câu IELTS, câu hàng ngày, cụm trong phim, câu theo tình huống, cấu trúc nói, tiếng Anh IT. Cụm trùng giữa các bộ chỉ hiện một lần, kèm nhãn tất cả nguồn có nó. Bấm nhãn nguồn để mở trang gốc (đầy đủ ngữ pháp, ví dụ, bằng chứng trong phim). Câu ví dụ trong phim là câu thoại thật (trích ngắn, bản quyền thuộc hãng phim).</p>
+  <p class="note"><b>🎬 Bấm vào cụm</b> (hoặc nút 🎬) để mở khung YouGlish ngay trên trang (Ctrl/⌘ + bấm để mở tab mới): trang này phát đúng giây trên YouTube có người bản xứ nói cụm đó, bấm Next để nghe người khác, lọc được giọng US/UK/AUS. Phần tuỳ chọn, sb/sth, … được bỏ khi tìm. Gộp từ nhiều bộ: thành ngữ, phrasal verb, collocation, mẫu câu IELTS, câu hàng ngày, cụm trong phim, câu theo tình huống, cấu trúc nói, tiếng Anh IT. Cụm trùng giữa các bộ chỉ hiện một lần, kèm nhãn tất cả nguồn có nó. Bấm nhãn nguồn để mở trang gốc (đầy đủ ngữ pháp, ví dụ, bằng chứng trong phim). Câu ví dụ trong phim là câu thoại thật (trích ngắn, bản quyền thuộc hãng phim).</p>
 </main>
+<div id="ygp" hidden>
+  <div class="ygh">
+    <b id="ygq"></b>
+    <select id="yga" title="Giọng"><option value="">Mọi giọng</option><option value="us">US</option><option value="uk">UK</option><option value="aus">AUS</option><option value="ca">Canada</option></select>
+    <span id="ygn" class="ygn"></span>
+    <a id="ygo" class="ygbtn" target="_blank" rel="noopener" title="Mở trên youglish.com">↗</a>
+    <button class="ygbtn" id="ygx" title="Đóng (Esc)">✕</button>
+  </div>
+  <div id="yg-widget"></div>
+  <div class="ygf">Clip từ YouTube qua <a href="https://youglish.com" target="_blank" rel="noopener">YouGlish</a> · <a href="https://www.youtube.com/t/terms" target="_blank" rel="noopener">YouTube Terms</a> · <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a></div>
+</div>
 <script src="phrase-bank-data.js"></script>
 <script>
 (() => {
@@ -130,7 +151,37 @@
     return best.split(' ').length > 2 ? best.replace(/^(be|to) /i, '') : best;
   }
   const ygUrl = p => 'https://youglish.com/pronounce/' + encodeURIComponent(ygq(p)) + '/english';
-  const say = t => `<button class="say\" data-t="${esc(t)}" aria-label="Nghe">🔊</button>`;
+  // ---- YouGlish ngay trên trang (widget chính thức: nút điều khiển + phụ đề + tốc độ) ----
+  let ygW = null, ygPending = '', ygLoading = false, ygCur = '', ygTot = 0;
+  const YG_COMP = 8 + 16 + 64;   // Caption + Speed controls + Control buttons
+  const ygAcc = () => $('yga').value || undefined;
+  function ygOpen(phrase) {
+    ygCur = ygq(phrase);
+    $('ygp').hidden = false; $('ygq').textContent = '🎬 ' + ygCur; $('ygn').textContent = 'đang tìm…';
+    $('ygo').href = ygUrl(phrase);
+    if (ygW) return ygW.fetch(ygCur, 'english', ygAcc());
+    ygPending = ygCur;
+    if (ygLoading) return; ygLoading = true;
+    window.onYouglishAPIReady = () => {
+      ygW = new YG.Widget('yg-widget', { width: Math.min(560, innerWidth - 2), components: YG_COMP, captionSize: 24, autoStart: 1, events: {
+        onFetchDone: e => { ygTot = e.totalResult || 0; $('ygn').textContent = ygTot ? `${ygTot} clip` : 'không có clip — thử ↗ hoặc đổi giọng'; },
+        onVideoChange: e => { if (ygTot) $('ygn').textContent = `${e.trackNumber || 1}/${ygTot} clip`; },
+        onError: () => { $('ygn').textContent = 'lỗi tải — bấm ↗'; } } });
+      ygW.fetch(ygPending, 'english', ygAcc());
+    };
+    const sc = document.createElement('script'); sc.src = 'https://youglish.com/public/emb/widget.js'; sc.async = true;
+    sc.onerror = () => { $('ygn').textContent = 'không tải được YouGlish — bấm ↗'; ygLoading = false; };
+    document.head.appendChild(sc);
+  }
+  function ygClose() { if (ygW) try { ygW.pause(); } catch (e) {} $('ygp').hidden = true; }
+  $('ygx').onclick = ygClose;
+  $('yga').onchange = () => { if (ygW && ygCur) { $('ygn').textContent = 'đang tìm…'; ygW.fetch(ygCur, 'english', ygAcc()); } };
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !$('ygp').hidden) ygClose(); });
+  document.addEventListener('click', e => {
+    const a = e.target.closest('a.yg, a.ygb'); if (!a || !a.dataset.p || e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
+    e.preventDefault(); ygOpen(a.dataset.p);
+  });
+  const say = t => `<button class="say" data-t="${esc(t)}" aria-label="Nghe">🔊</button>`;
 
   let res = [];
   function filter() {
@@ -152,7 +203,7 @@
   function card(x, terms, n) {
     const tags = x.ts.map(t => `<span class="tag t">${esc(T[t])}</span>`).join('') +
       x.ss.map(s => { const u = S[s].url + (x.rf[s] && /^[#?]/.test(x.rf[s]) ? x.rf[s] : ''); return `<span class="tag"><a href="${esc(u)}" title="Mở trang gốc" target="_blank" rel="noopener">${esc(S[s].name.split(' — ')[0].replace(/^Ngân hàng /, '').slice(0, 34))} ↗</a></span>`; }).join('');
-    return `<div class="it"><div class="no">${n}</div><div class="bd"><div class="p"><a class="yg" href="${esc(ygUrl(x.p))}" target="_blank" rel="noopener" title="Nghe người bản xứ nói “${esc(ygq(x.p))}” trên YouTube (YouGlish)">${hl(x.p, terms)}</a> ${say(x.p)}<a class="say ygb" href="${esc(ygUrl(x.p))}" target="_blank" rel="noopener" title="YouGlish">🎬</a></div>` +
+    return `<div class="it"><div class="no">${n}</div><div class="bd"><div class="p"><a class="yg" data-p="${esc(x.p)}" href="${esc(ygUrl(x.p))}" target="_blank" rel="noopener" title="Nghe người bản xứ nói “${esc(ygq(x.p))}” trên YouTube (YouGlish)">${hl(x.p, terms)}</a> ${say(x.p)}<a class="say ygb" data-p="${esc(x.p)}" href="${esc(ygUrl(x.p))}" target="_blank" rel="noopener" title="YouGlish">🎬</a></div>` +
       (x.m ? `<div class="m">${hl(x.m, terms)}</div>` : '') +
       (x.d ? `<div class="d">${hl(x.d, terms)}</div>` : '') +
       (x.e ? `<div class="e">${hl(x.e, terms)} ${say(x.e.split(' | ')[0])}</div>` : '') +
@@ -184,7 +235,7 @@
     render(true);
   });
   document.addEventListener('click', ev => {
-    const b = ev.target.closest('.say'); if (!b || !window.speechSynthesis) return;
+    const b = ev.target.closest('.say'); if (!b || !b.dataset.t || !window.speechSynthesis) return;
     const u = new SpeechSynthesisUtterance(b.dataset.t); u.lang = 'en-US'; u.rate = .95;
     speechSynthesis.cancel(); speechSynthesis.speak(u);
   });
