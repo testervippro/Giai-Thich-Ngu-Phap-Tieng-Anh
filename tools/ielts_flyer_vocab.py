@@ -10,6 +10,7 @@
     python3 tools/ielts_flyer_vocab.py [file_html_đã_tải]
 """
 import html
+import json
 import os
 import re
 import sys
@@ -71,6 +72,15 @@ def load_md():
 
 
 def main():
+    """Tải lại danh sách IELTS vào tools/data/ielts_flyer_5000.json rồi dựng trang bằng tools/vocab_index_build.py
+    (trang giờ gộp cả Oxford Word Skills + Oxford 3000/5000)."""
+    ielts = fetch_ielts(sys.argv[1] if len(sys.argv) > 1 else None)
+    json.dump(ielts, open(os.path.join(ROOT, "tools", "data", "ielts_flyer_5000.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+    import vocab_index_build
+    vocab_index_build.main()
+
+
+def main_old():
     toeic = load_md()
     ielts = fetch_ielts(sys.argv[1] if len(sys.argv) > 1 else None)
     merged = {}
