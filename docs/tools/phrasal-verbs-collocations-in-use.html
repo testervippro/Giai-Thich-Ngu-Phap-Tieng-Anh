@@ -52,9 +52,15 @@
     body.noex .ex { display:none; }
     .sense { font-weight:700; margin:8px 0 2px; font-size:14.5px; }
     .posh { font-weight:700; color:var(--muted); margin:10px 0 2px; font-size:13px; text-transform:uppercase; letter-spacing:.04em; }
-    .grp { margin:3px 0; font-size:14.5px; line-height:1.6; }
+    .grp { font-size:14.5px; line-height:1.55; }
     .grp .cat { display:inline-block; font-size:11.5px; font-weight:700; padding:0 6px; margin-right:5px; border-radius:5px; background:var(--accentbg); color:var(--accent); vertical-align:1px; }
-    .grp .sep { color:var(--muted); padding:0 4px; }
+    .grp { margin:6px 0 2px; }
+    .segs { list-style:none; margin:2px 0 0; padding:0 0 0 2px; }
+    .segs li { padding:1px 0 1px 12px; position:relative; }
+    .segs li::before { content:"·"; position:absolute; left:2px; color:var(--muted); font-weight:700; }
+    .segs .co { font-weight:600; }
+    .segs .oex { display:block; color:var(--muted); font-style:italic; font-size:14px; margin-left:2px; }
+    .xref { font-size:13px; color:var(--muted); margin:6px 0 0; }
     .list { margin:0; padding:0; list-style:none; }
     .list li { display:flex; gap:8px; align-items:baseline; flex-wrap:wrap; padding:5px 2px; border-bottom:1px solid var(--line); }
     .list li .p { font-weight:600; }
@@ -148,16 +154,13 @@
     const B = (OXC[o.L] || [])[o.j];
     let body = '';
     if (!B) body = '<div class="stat">Đang tải…</div>';
-    else for (const [k, t] of B) {
-      if (k === 'p') body += `<div class="posh">${esc(t)}</div>`;
-      else if (k === 's') body += `<div class="sense">${hiQ(t, qs)}</div>`;
-      else {
-        // nhãn nhóm: các chữ IN HOA đầu dòng, kể cả dạng "VERB + DECISION", "PREP."
-        const tk = t.split(' '); let n = 0;
-        while (n < tk.length && /^([A-Z][A-Z.'’\/-]*|\+|~)$/.test(tk[n]) && !(tk[n].length === 1 && tk[n] !== '+' && n > 0 && tk[n] === 'I')) n++;
-        const cat = tk.slice(0, n).join(' '), rest = tk.slice(n).join(' ');
-        body += `<div class="grp">${cat ? `<span class="cat">${esc(cat)}</span>` : ''}${rest.split(' | ').map(x => hiQ(x.trim(), qs)).join('<span class="sep">|</span>')}</div>`;
-      }
+    else for (const b of B) {
+      const k = b[0];
+      if (k === 'p') body += `<div class="posh">${esc(b[1])}</div>`;
+      else if (k === 's') body += `<div class="sense">${hiQ(b[1], qs)}</div>`;
+      else if (k === 'x') body += `<div class="xref">→ Xem thêm: ${esc(b[1])}</div>`;
+      else body += `<div class="grp">${b[1] ? `<span class="cat">${esc(b[1])}</span>` : ''}<ul class="segs">${b[2].map(([c, ex]) =>
+          `<li><b class="co">${hiQ(c, qs)}</b>${ex.map(e => `<span class="oex">${hiQ(e, qs)}</span>`).join('')}</li>`).join('')}</ul></div>`;
     }
     return `<section class="card ox"><div class="h">${say(o.w)}<span class="w">${hiQ(o.w, qs)}</span><span class="kind">${esc(o.pos)}</span>${o.f5 ? '<span class="tag t5">★ 5000 từ</span>' : ''}</div>${body}</section>`;
   }

@@ -77,7 +77,9 @@ def oxford():
         if skip:
             continue
         sm = re.match(r"^(\d+)\s+(.*)$", t)
-        if l.startswith("#") and sm:
+        if sm and not l.startswith("#") and ("|" in t or len(t) > 70 or not re.match(r"[a-z(]", sm.group(2))):
+            sm = None                              # không phải tiêu đề nghĩa ("1 short sharp sound")
+        if sm:
             cur["b"].append(["s", sm.group(1) + ". " + sm.group(2)])
         elif t.startswith("•"):
             cur["b"].append(["c", t.lstrip("• ").strip()])
@@ -88,7 +90,100 @@ def oxford():
             cur["b"].append(["c", t])
     for e in entries:
         e["f"] = 1 if e["w"].lower() in words5000 else 0
+        nb = []
+        HW[0] = e["w"].lower()
+        for k, t in e["b"]:
+            if k == "c":
+                nb += restructure(t)
+            else:
+                nb.append([k, t])
+        # nhóm không nhãn đứng sau một nhóm có nhãn = dòng bị ngắt → nối vào
+        out = []
+        for b in nb:
+            if b[0] == "c" and not b[1] and out and out[-1][0] == "c":
+                out[-1][2] += b[2]
+            elif (b[0] == "c" and out and out[-1][0] == "c" and out[-1][1] == b[1] and out[-1][2] and b[2]
+                  and out[-1][2][0][0] == b[2][0][0]):          # OCR lặp nhóm → giữ bản đầy đủ hơn
+                if len(json.dumps(b)) > len(json.dumps(out[-1])):
+                    out[-1] = b
+            else:
+                out.append(b)
+        e["b"] = out
     return entries
+
+
+# ---------------------------------------------------------------- định dạng lại nhóm collocation (OCR)
+CAT_FIX = {"AD.J.": "ADJ.", "ADJ": "ADJ.", "AD J.": "ADJ.", "PREP": "PREP.", "PREF.": "PREP.", "ADV": "ADV.", "QUANT": "QUANT.",
+           "VERB": "VERBS", "PHRASE": "PHRASES"}
+BULLET = "☐☑▶•●⊠⊗⊕⊝▸♦♡◦○⌊⌉"
+XREF = re.compile(r"\s*[↪⇦⇒⇨➞↔⇔→]?\s*\b(Special pages? at|Note at|See also|Compare|See)\s+((?:[A-Z][A-Z'’-]+(?:,\s*|\s+(?:and|or)\s+|\s+)?)+)")
+# nhãn nhóm: ADJ. ADV. VERBS PREP. PHRASES QUANT. PHRASAL VERB, VERB + X, X + VERB/NOUN, NOUN + X…
+CAT = re.compile(r"(?<![A-Za-z])((?:VERB|NOUN|ADJ\.?|ADV\.?|PREP\.?)\s?\+\s?[A-Z][A-Z'’-]+(?:\s[A-Z][A-Z'’-]+)?"
+                 r"|[A-Z][A-Z'’-]+(?:\s[A-Z][A-Z'’-]+)?\s?\+\s?(?:VERB|NOUN|PREP\.?|ADJ\.?|ADV\.?)"
+                 r"|PHRASAL VERBS?|AD\.?\s?J\.|ADJ\.|ADV\.|VERBS|PREP\.|PREF\.|PHRASES|QUANT\.)(?=\s|$)")
+
+
+HW = [""]   # từ mục đang xử lý (để nhận ra ví dụ dạng cụm viết thường)
+
+
+def split_example(seg):
+    """'big, crucial It was a big decision.' -> [['big, crucial', ['It was a big decision.']]]
+    'for They have… approval. to She submitted…' -> [['for', [...]], ['to', [...]]] (nhiều giới từ dính nhau)."""
+    seg = seg.strip()
+    m = None
+    for mm in re.finditer(r"(?<=[a-z0-9~)\]'’,/.!?-])\s+(?=(?:[A-Z‘'\"“]|I\s)[a-z'’ ]?)", seg):
+        if seg[:mm.start()] and not seg[:mm.start()].endswith(","):
+            m = mm
+            break
+    if not m:
+        # ví dụ dạng cụm viết thường: "difficult, hard, tough the difficult decision of whether…"
+        stem = HW[0][:max(3, len(HW[0]) - 2)] if HW[0] else ""
+        for mm in re.finditer(r"(?<=[a-z)])\s+(?=(?:the|a|an|his|her|its|their|our|my|your|this|that|these|those|some|no)\s)", seg):
+            rest_ = seg[mm.end():]
+            if stem and stem in rest_.lower() and len(rest_.split()) >= 3 and stem not in seg[:mm.start()].lower():
+                return [[seg[:mm.start()].strip(), [rest_.strip()]]]
+        return [[seg, []]]
+    coll, ex = seg[:m.start()].strip(), seg[m.end():].strip()
+    rest = []
+    # sau một câu ví dụ, chữ thường mở đầu = collocate mới ("…approval. to She…", "…stupid. growing, increasing")
+    k = re.search(r"(?<=[.!?])\s+(?=(?:~\s?)?[a-z])", ex)
+    if k:
+        rest = split_example(ex[k.end():])
+        ex = ex[:k.start()]
+    exs = [x.strip() for x in re.split(r"\s*[◇♢]\s*|(?<=[.!?])\s+(?=[A-Z‘“\"])", ex) if x.strip()]
+    return [[coll, exs]] + rest
+
+
+def restructure(t):
+    t = re.sub(r"[⌊⌉]", "", t)
+    refs = []
+    def keep_ref(m):
+        refs.append(m.group(2).strip(" ,"))
+        return " "
+    t = XREF.sub(keep_ref, t)
+    t = re.sub("[%s]" % BULLET, " ¶ ", t)
+    t = CAT.sub(lambda m: " ¶ " + m.group(1), t)
+    out = []
+    for part in [p.strip(" :;") for p in t.split("¶")]:
+        if not part:
+            continue
+        cm = CAT.match(part)
+        cat = ""
+        if cm:
+            cat = re.sub(r"\s?\+\s?", " + ", cm.group(1)).replace("AD J.", "ADJ.")
+            cat = CAT_FIX.get(cat, cat)
+            part = part[cm.end():].strip()
+        segs = []
+        for seg in re.split(r"\s+\|\s+|\s\|(?=\s)|\|", part):
+            seg = seg.strip()
+            if not seg:
+                continue
+            segs += split_example(seg)
+        if cat or segs:
+            out.append(["c", cat, segs])
+    if refs:
+        out.append(["x", ", ".join(dict.fromkeys(r.title() for r in refs))])
+    return out
 
 
 def four500():
