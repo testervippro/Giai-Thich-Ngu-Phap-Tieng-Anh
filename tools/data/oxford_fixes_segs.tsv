@@ -1,0 +1,353 @@
+# Oxford Collocations — soát tay các mục OCR còn dính cụm/ví dụ. Cột: từ mục, nhãn, cụm gốc (sau khi máy tách), cách tách đúng.
+# Cú pháp cột 4: các mục cách nhau ' || ', cụm và ví dụ cách nhau ' :: ', nhiều ví dụ cách nhau ' ◇ ', ' +EX' = giữ ví dụ máy đã tách, DEL = xoá (rác từ phụ lục/OCR).
+affection	PHRASES	a feeling of affection a strong feeling of affection, love and affection	a feeling of affection :: a strong feeling of affection || love and affection :: I yearn for the love and affection I once had.
+anger	ADJ.	growing, mounting, rising, mounting, anger among teachers and parents	growing, mounting, rising :: mounting anger among teachers and parents
+appeal	ADJ.	immediate, instant the book's immediate apeal to young children	immediate, instant :: the book's immediate appeal to young children
+applicable	VERBS	be, prove, seem new developments in research	be, prove, seem :: new developments in research that could prove directly applicable to the treatment of some cancers
+archaeologist	ARCHAEOLOGIST + VERB	dig sth up, discover sth, find sth, uncover sth, unearth sth examples of life thousands of years ago, unearthed by archaeologists	dig sth up, discover sth, find sth, uncover sth, unearth sth :: examples of life thousands of years ago, unearthed by archaeologists
+attention	VERB + ATTENTION	jostle for, vie for dozens of concerns jostling for	jostle for, vie for :: dozens of concerns jostling for your attention ◇ She was surrounded by men all vying for her attention.
+attribute	ADJ.	Her physical attributes were much admired.	physical :: Her physical attributes were much admired.
+autumn	AUTUMN + NOUN	term classes to be held for schoolchildren during	term :: classes to be held for schoolchildren during the autumn term
+baby	ADJ.	Bonny, bouncing baby, Freddie was her heart's desire and joy.	bonny, bouncing :: Bouncing baby Freddie was her heart's desire and joy.
+battery	PHRASES	battery-operated, battery-powered a small battery-powered car	battery-operated, battery-powered :: a small battery-powered car
+beat	PHRASES	beat sb to death, beat sb unconscious 4of heart/wings	beat sb to death, beat sb unconscious
+birth	PHRASES	births, marriages and deaths a registry of births, marriages and deaths, your date/place of birth, of low/noble birth (= born to a poor/aristocratic family), the moment of birth	births, marriages and deaths :: a registry of births, marriages and deaths || your date/place of birth || of low/noble birth (= born to a poor/aristocratic family) || the moment of birth
+boat	BOAT + VERB	bob boats bobbing up and down in the estuary	bob :: boats bobbing up and down in the estuary
+bread	PHRASES	bread and butter/margarine a plate of bread and butter bread and cheese/jam, bread and water	bread and butter/margarine :: a plate of bread and butter || bread and cheese/jam, bread and water +EX
+butterfly		Starting out ... set up a company a firm in business an organization a project a venture launch an operation a product a programme a project a scheme a takeover bid     operating at full capacity	DEL
+camp	CAMP + NOUN	fire (also campfire) sitting round the campfire site (also campsite)	fire (also campfire) :: sitting round the campfire || site (also campsite)
+cause	VERB + CAUSE	be committed/sympathetic to, champion, fight for, further, help, promote, serve, support young men willing to fight for	be committed/sympathetic to, champion, fight for, further, help, promote, serve, support :: young men willing to fight for the cause ◇ She was keen to do anything that would further the cause.
+cell	ADJ.	blood, brain, muscle, nerve, skin red and white blood cells	blood, brain, muscle, nerve, skin :: red and white blood cells
+chairman, chairwoman	ADJ.	VERB + CHAIRMAN, CHAIRWOMAN hold the post of	hold the post of (VERB + CHAIRMAN, CHAIRWOMAN)
+child	ADJ.	bright, gifted, intelligent, precocious a school for gifted children	bright, gifted, intelligent, precocious :: a school for gifted children ◇ What a precocious child—reading Jane Austen at the age of ten!
+circumstance		adverse, difficult, tragic, trying, unfavourable people facing adverse circumstances	adverse, difficult, tragic, trying, unfavourable :: people facing adverse circumstances +EX
+civilization	ADJ.	European, Western diseases that are common in	European, Western :: diseases that are common in Western civilization
+class	ADJ.	chattering (informal), educated, landed, landowning, privileged, professional, ruling topics being discussed at	chattering (informal), educated, landed, landowning, privileged, professional, ruling :: topics being discussed at the breakfast tables of the chattering classes
+comfortable	PREP.	having/providing enough money for all your needs	(= having/providing enough money for all your needs)
+common	PHRASES	The two cultures have a lot in common (= have the same features, characteristics, etc.). hold sth in common	have a lot in common :: The two cultures have a lot in common (= have the same features, characteristics, etc.). || hold sth in common +EX
+communication	PHRASES	a breakdown in communication(s), channels/lines of communication to keep open the channels of communication a lack of communication, a means/method/system of communication	a breakdown in communication(s) || channels/lines of communication :: to keep open the channels of communication || a lack of communication, a means/method/system of communication +EX
+community	PHRASES	the community as a whole/at large a cultural programme that should benefit the community at large a member of the community, part of a community, a pillar of the community (= a strong supporter of the community), a sense of community	the community as a whole/at large :: a cultural programme that should benefit the community at large || a member of the community, part of a community, a pillar of the community (= a strong supporter of the community), a sense of community +EX
+computer	VERB + COMPUTER	save and close the document       resizing a window    cutting and pasting text - scroll down the text to find the block of text you want to move - position the cursor at the beginning of the block of text	DEL
+computer	VERB + COMPUTER	move the cursor to where you want the text to go - click on the right mouse button and select the cut text option from the pop-up menu - select the paste text option looking up something on the Internet	DEL
+computer	VERB + COMPUTER	type in the website address or click (on)/follow a link	DEL
+computer	VERB + COMPUTER	when finished, close the windows backing-up a file onto a floppy disk - insert a blank disk and format it if necessary - if using an old disk, wipe the disk or delete/erase some of the files to create space	DEL
+concede	VERB + CONCEDE	be forced to be prepared to, be willing to	be forced to, be prepared to, be willing to +EX
+confidence	PHRASES	a lack of confidence, a loss of confidence trust	a lack of confidence, a loss of confidence
+conscious	PHRASES	fashion/health/safety/security conscious fashion conscious teenagers	fashion/health/safety/security conscious :: fashion conscious teenagers
+consequence	ADJ.	ecological, economic, electoral, environmental, financial, legal, physical, political, social to face up to	ecological, economic, electoral, environmental, financial, legal, physical, political, social :: to face up to the physical consequences of ageing
+contemporary		↑ belonging to the same time as sb/sth else	(= belonging to the same time as sb/sth else)
+context	ADJ.	appropriate, realistic, relevant to present examples of language in use in	appropriate, realistic, relevant :: to present examples of language in use in an appropriate context
+copy	ADV.	laboriously copying out an old manuscript	laboriously :: laboriously copying out an old manuscript
+country	QUANT.	stretch, tract α beautiful stretch of country ♢ Whole tracts of country, once fertile, have become arid.	stretch, tract :: a beautiful stretch of country ◇ Whole tracts of country, once fertile, have become arid.
+cover-up	VERB + COVER-UP	be engaged in, be implicated in. be involved in	be engaged in, be implicated in, be involved in +EX
+crew	ADJ.	ambulance, camera, demolition, film, fire, gun, production, road, stage, television, TV Fire crews were called to the scene.	ambulance, camera, demolition, film, fire, gun, production, road, stage, television, TV :: Fire crews were called to the scene.
+crime	PHRASES	a crackdown on crime a crackdown on drug-related crime crime and disorder, crime and punishment, fear of crime	a crackdown on crime :: a crackdown on drug-related crime || crime and disorder, crime and punishment, fear of crime :: Fear of crime imprisons many elderly people in their homes.
+crowded	ADV.	densely, extremely, very living in densely crowded	densely, extremely, very :: living in densely crowded conditions ◇ The shops were all very crowded.
+curb	PHRASES	aimed at curbing sth a range of policies aimed at curbing inflation an attempt/effort to curb sth, measures to curb sth	aimed at curbing sth :: a range of policies aimed at curbing inflation || an attempt/effort to curb sth, measures to curb sth
+day	PHRASES	in this day and age, in those days, the present day (= the situation that exists in the world now) a study of	in this day and age, in those days || the present day (= the situation that exists in the world now) :: a study of European drama, from Ibsen to the present day || these days :: Kids grow up so quickly these days.
+debt	VERB + DEBT	It'll take months to pay off all your debts.	pay off :: It'll take months to pay off all your debts.
+debt	DEBT + VERB	arise from sth debts arising from bad investments	arise from sth :: debts arising from bad investments
+degree	ADJ.	varying keen amateurs who work hard, with varying degrees of success	varying :: keen amateurs who work hard, with varying degrees of success
+depth	ADJ.	considerable, great going down to great depths	considerable, great :: going down to great depths below the surface ◇ Younger students cannot be expected to have great depth of understanding.
+diameter	VERB + DIAMOND	be encrusted with, be studded with a brooch encrusted with diamonds	DEL
+discharge	ADJ.	electrical, radioactive thunder and lightning caused by	electrical, radioactive :: thunder and lightning caused by an electrical discharge
+discover	PHRASES	an attempt to discover sth, newly/recently discovered recently discovered	an attempt to discover sth || newly/recently discovered :: recently discovered evidence || only to discover sth :: I arrived at the campsite, only to discover that it was closed for the winter.
+disease	PHRASES	a cure for a disease, the incidence of (a) disease	a cure for a disease || the incidence of (a) disease :: the overall incidence of disease in the world || a patient with/sufferer from a disease :: Sufferers from Alzheimer's disease can't cope at home.
+disease	PHRASES	the risk of disease the risk of coronary heart disease the spread of (a) disease measures to prevent the spread of the disease the symptoms of a disease, the treatment for/of a disease	the risk of disease :: the risk of coronary heart disease || the spread of (a) disease :: measures to prevent the spread of the disease || the symptoms of a disease, the treatment for/of a disease
+disintegration	ADJ.	political, social indicators of social disintegration such as divorce, suicide and petty theft.	political, social :: indicators of social disintegration such as divorce, suicide and petty theft.
+disorder	DISORDER + VERB	affect sth disorders affecting the very old, such as senile dementia	affect sth :: disorders affecting the very old, such as senile dementia
+distinction	ADJ.	distinctions between the 'deserving' and the 'undeserving' poor	 :: distinctions between the 'deserving' and the 'undeserving' poor
+distinction	ADJ.	the conventional distinction between pure and applied science	 :: the conventional distinction between pure and applied science
+distinguish	ADV.	able to be difficult to, be hard to, be impossible to, be possible to be important to, be necessary to it is important to distinguish between cause and effect.	be able to, be difficult to, be hard to, be impossible to, be possible to || be important to, be necessary to :: It is important to distinguish between cause and effect.
+document	ADJ.	The original document has been lost or destroyed.	 :: The original document has been lost or destroyed.
+document	ADJ.	Documents will be available at the news conference.	 :: Documents will be available at the news conference.
+document	ADJ.	a working document in the discussions for a final treaty	working :: a working document in the discussions for a final treaty
+document	DOCUMENT + VERB	be called sth, be entitled sth, be headed sth, be known as sth a document entitled	be called sth, be entitled sth, be headed sth, be known as sth :: a document entitled 'Guidelines for Good Practice'
+dog	DOG + VERB	The little dogs were yapping at my ankles.	yap :: The little dogs were yapping at my ankles.
+door	PHRASES	hold/open the door for sb, pop/stick you head round/through the door	hold/open the door for sb || pop/stick your head round/through the door :: She popped her head through the door to say goodbye. || shut/slam the door in sb's face
+drift	PREP.	from, to, towards, etc. drifting out to sea	from, to, towards, etc. :: drifting out to sea
+drug	DRUG + VERB	cure sth, help sth, treat sth drugs that help the growth of skin tissue	cure sth, help sth, treat sth :: drugs that help the growth of skin tissue
+ear	PHRASES	beam/grin/smile from ear to ear, can't believe your ears	beam/grin/smile from ear to ear || can't believe your ears :: She actually apologized. I couldn't believe my ears! || (drop/have) a word in sb's ear :: Drop a quiet word in her ear about it before it's too late. || fall on deaf ears :: Their complaints about the poor service fell on deaf ears (= were ignored).
+earnings	PHRASES	earnings-related on earnings-related pension scheme growth	earnings-related :: an earnings-related pension scheme || growth in earnings :: the growth in average earnings over the last ten years || loss of earnings :: She is also claiming compensation for loss of earnings.
+eat	ADV.	We ate very well most of the time (= had lots of nice food).	well :: We ate very well most of the time (= had lots of nice food).
+economy	PHRASES	control/handling/management of the economy 37% approved the president's handling of the economy. the size of the economy, the state of the economy	control/handling/management of the economy :: 37% approved the president's handling of the economy. || the size of the economy, the state of the economy +EX
+effect	ADJ.	Any delay in delivery of materials will have	knock-on :: Any delay in delivery of materials will have a knock-on effect throughout the production process.
+effect	ADJ.	greenhouse policies to reduce emissions of gases which cause	greenhouse :: policies to reduce emissions of gases which cause the greenhouse effect
+employment	PHRASES	conditions of employment trade union concerns such as conditions of employment and health and safety a contract of employment, patterns/trends of employment	conditions of employment :: trade union concerns such as conditions of employment and health and safety || a contract of employment, patterns/trends of employment +EX
+energy	PHRASES	energy-saving energy-saving features that can reduce energy bills by 50% a form of energy, a source of energy	energy-saving :: energy-saving features that can reduce energy bills by 50% || a form of energy, a source of energy
+engage	VERB + ENGAGE	be eager to, be willing to be reluctant to, be unwilling to	be eager to, be willing to, be reluctant to, be unwilling to
+enquiry	ENQUIRY + VERB	The enquiry will take place behind closed doors.	 :: The enquiry will take place behind closed doors.
+era	ADJ.	Christian, Common the early centuries of the Christian/Common	Christian, Common :: the early centuries of the Christian/Common Era
+evidence	VERB + EVIDENCE	The rise in crime is often cited as evidence of a general breakdown of authority.	cite sth as :: The rise in crime is often cited as evidence of a general breakdown of authority.
+evoke	VERB + EVOKE	be designed to, be intended to narrative techniques	be designed to, be intended to :: narrative techniques that are intended to evoke sympathy from the reader
+example	PREP.	sb whose behaviour is good and should be copied	(= sb whose behaviour is good and should be copied)
+exercise	ADJ.	This is not a purely academic exercise: it should have a real impact on the way we work as a department.	academic :: This is not a purely academic exercise: it should have a real impact on the way we work as a department. || pen and paper :: Role-playing situations allow a finer assessment to be made than in pen and paper exercises.
+expense	PHRASES	all expenses paid a two-day, all expenses paid trip to	all expenses paid :: a two-day, all expenses paid trip to London
+export	PHRASES	a ban on exports to place a ban on exports of toxic waste a decline/fall in exports, an increase/a rise in exports (for more verbs)	a ban on exports :: to place a ban on exports of toxic waste || a decline/fall in exports, an increase/a rise in exports
+expression	ADJ.	the highest expression of human creativity	highest :: the highest expression of human creativity
+face	ADJ.	His face remained impassive, so strong was his self-control.	impassive :: His face remained impassive, so strong was his self-control.
+factor	FACTOR + VERB	constrain sth, inhibit sth, militate against sth one of	constrain sth, inhibit sth, militate against sth || influence sth :: one of the factors that influenced his decision
+family	ADJ.	extended maintaining contact with members of	extended :: maintaining contact with members of his extended family
+fare	VERB + FARE	offer, serve a restaurant serving traditional	offer, serve :: a restaurant serving traditional Scottish fare
+fashion	ADJ.	changing, passing changing fashions in education ◇ This theory, though recent, is more than a passing fashion.	changing, passing :: changing fashions in education ◇ This theory, though recent, is more than a passing fashion.
+fatigue	ADJ.	battle, compassion soldiers suffering from battle fatigue	battle, compassion :: soldiers suffering from battle fatigue +EX
+favour	PHRASES	an argument in sb/sth's favour an argument in favour of censorship a bias in sb/sth's favour, look with favour on/upon sb/sth	an argument in sb/sth's favour :: an argument in favour of censorship || a bias in sb/sth's favour, look with favour on/upon sb/sth +EX
+fee	ADJ.	transfer (= charges paid by a football club	transfer (= charges paid by a football club for 'buying' a player from another team)
+fibre	PHRASES	a high/low fibre diet the problems associated with a low fibre diet an intake of fibre, a source of fibre	a high/low fibre diet :: the problems associated with a low fibre diet || an intake of fibre, a source of fibre +EX
+file	ADJ.	card, box, lever-arch, Manila, paper six box files bulging with notes	card, box, lever-arch, Manila, paper :: six box files bulging with notes
+file	VERB + FILE	recover, retrieve how to recover deleted files	recover, retrieve :: how to recover deleted files
+film	FILM + NOUN	The news always contains several film reports.	film :: The news always contains several film reports.
+film	PHRASES	beautifully filmed fast-paced, well acted and beautifully filmed in the Blue	beautifully filmed :: fast-paced, well acted and beautifully filmed in the Blue Ridge Mountains
+find	VERB + FIND	discover, make, unearth prehistoric finds made in an unexplored cave	discover, make, unearth :: prehistoric finds made in an unexplored cave
+flat	ADJ.	mud (also mudflat), sand, salt mud and sand flats rich in animal life	mud (also mudflat), sand, salt :: mud and sand flats rich in animal life
+flow		Our shower doesn't work very well because of	poor :: Our shower doesn't work very well because of the poor water flow.
+fold	ADJ.	billowing, loose, soft billowing folds of clouds	billowing, loose, soft :: billowing folds of clouds
+follow	VERB + FOLLOW	be easy to be difficult to, be hard to, be impossible to	be easy to, be difficult to, be hard to, be impossible to +EX
+food	ADJ.	preheat the oven to 450° - lower, remove the pan from, take the pan off, turn down/up the heat preparation	DEL
+food	VERB + FOOD	Thanks to international aid, the town had been supplied with food for nine months.	supply sb with :: Thanks to international aid, the town had been supplied with food for nine months. || feed sb/sth (on) :: He always fed Whiskers the best cat food.
+foreign	ADJ.	early, immediate an early forerunner of the modern jet engine	DEL
+frustrating	ADV.	a bumper crop of apples plants - apple, cherry, lemon, lime, mango, mulberry, olive, orange, peach, pear, plum trees	DEL
+frustrating	ADV.	apple cores flowers - apple, cherry, lemon, orange blossom	DEL
+game	ADJ.	indoor, outdoor finding good indoor games for children	indoor, outdoor :: finding good indoor games for children
+gap	ADJ.	big, enormous, great, huge, important, large, serious, significant, terrible, yawning serious gaps in their knowledge	big, enormous, great, huge, important, large, serious, significant, terrible, yawning :: serious gaps in their knowledge
+garden	ADJ.	back, front people hanging out washing in	back, front :: people hanging out washing in their back gardens
+glove	ADJ.	boxing, driving evening gardening oven surgical ing, evening, gardening, oven, surgical	boxing, driving, evening, gardening, oven, surgical
+good	ADV.	dead, extremely, really, very a really good film fairly, pretty, quite	dead, extremely, really, very :: a really good film || fairly, pretty, quite +EX
+grind	PHRASES	freshly ground freshly ground black pepper	freshly ground :: freshly ground black pepper
+guard	PHRASES	strictly/tightly guarded strictly guarded privacy	strictly/tightly guarded :: strictly guarded privacy
+guess	VERB + GUESS	try to be easy to, not be difficult to, not be hard to	try to || be easy to, not be difficult to, not be hard to +EX
+hand	ADV.	formally, officially formally handling over power to the new government	formally, officially :: formally handing over power to the new government
+handle	VERB + HANDLE	learn how to be easy to be difficult to, be hard to	learn how to || be easy to, be difficult to, be hard to +EX
+head	PHRASES	a fine/good, etc. head of hair (= a lot of hair) a woman with a lovely head of chestnut hair have/hold/put, etc. your head in your hands	a fine/good, etc. head of hair (= a lot of hair) :: a woman with a lovely head of chestnut hair || have/hold/put, etc. your head in your hands +EX
+head	PHRASES	can't get your head round sth (= can't understand sth)	can't get your head round sth (= can't understand sth) :: She's dead. I can't get my head round it yet.
+head	PHRASES	a head of department, the head of the family, a head	a head of department, the head of the family || a head of government/state :: a summit meeting of heads of state || a head of (the) household
+health	PHRASES	health and safety health and safety at work (not) in the best of health, In good/poor health	health and safety :: health and safety at work || (not) in the best of health, in good/poor health +EX
+heart	PHRASES	have a heart of gold/stone (= to be a kind/cruet person) (= no sympathetic feelings), the hearts and minds of sb to win the hearts and minds of the nation's youth in good heart (= cheerful and well), put some/more heart into sth	have a heart of gold/stone (= to be a kind/cruel person) || the hearts and minds of sb :: to win the hearts and minds of the nation's youth || in good heart (= cheerful and well), put some/more heart into sth +EX
+hill	HILL + NOUN	farm, fort, station (= a small town in the hills, especially in	farm, fort, station (= a small town in the hills, especially in India), town, village :: In the heat of summer the rich fled to the hill stations.
+history	PHRASES	the rest is history (= the rest of the story does not need to be told because it is well-known) a sense	the rest is history (= the rest of the story does not need to be told because it is well-known) || a sense of history :: a people with no sense of history || a slice of history :: The team grabbed a slice of history here today (= achieved sth that will be remembered).
+home	ADJ.	Priceless antique furniture was destroyed in	state :: Priceless antique furniture was destroyed in the fire at the state home.
+honey	VERB + HONEY	make, produce learning how bees make honey	make, produce :: learning how bees make honey ◇ a jar of locally-produced honey
+hope	VERB + HOPE	cling to, keep alive, live in keeping alive the hope that a peace settlement might be found. ◇ I haven't yet found a flat, but	cling to, keep alive, live in :: keeping alive the hope that a peace settlement might be found ◇ I haven't yet found a flat, but I live in hope.
+hope	ADJ.	championship, medal, Olympic, etc. the team's championship hopes	championship, medal, Olympic, etc. :: the team's championship hopes
+hostage	VERB + HOSTAGE	free, release, set free diplomatic efforts to get	free, release, set free :: diplomatic efforts to get the hostages released
+house	ADJ.	a halfway house for prisoners returning to society	halfway :: a halfway house for prisoners returning to society
+ice cream	PHRASES	and/with ice-cream apple pie with ice cream	and/with ice cream :: apple pie with ice cream
+idea	VERB + IDEA	It's useful to have someone to bounce ideas off	bounce off sb :: It's useful to have someone to bounce ideas off.
+III	ADV.	mentally, physically the problems faced by mentally ill people	mentally, physically :: the problems faced by mentally ill people
+illness	VERB + ILLNESS	no a bit of a cold, a cough, an infection mild depression a mild attack of sth, bout of sth yes a mild heart attack, infection a bad/nasty/severe attack of sth, bout of sth a slight cold, headache a bad/heavy/nasty cold a bad/hacking/racking cough a bad/splitting headache a massive/serious heart attack, stroke	DEL
+illness	PHRASES	the onset of illness the sudden onset of illness in a parent a smoking-/Aids-, etc. related illness	the onset of illness :: the sudden onset of illness in a parent || a smoking-/Aids-, etc. related illness :: the most common stress-related illnesses
+imagine	VERB + IMAGINE	try to be difficult to, be hard to, be impossible to	try to || be difficult to, be hard to, be impossible to +EX
+implication	ADJ.	the constitutional implications of a royal divorce	constitutional :: the constitutional implications of a royal divorce
+improve	PHRASES	aimed at improving sth measures aimed at improving government efficiency an attempt/effort to improve sth, an incentive to improve sth	aimed at improving sth :: measures aimed at improving government efficiency || an attempt/effort to improve sth, an incentive to improve sth +EX
+improvement	ADJ.	If suggested improvements are not carried out, we have the right to suspend the insurance cover.	suggested :: If suggested improvements are not carried out, we have the right to suspend the insurance cover.
+improvement	ADJ.	The club will spend £300 000 on ground improvements.	ground :: The club will spend £300 000 on ground improvements.
+inclined	PREP.	to (formal) people who are naturally inclined to melancholy	to (formal) :: people who are naturally inclined to melancholy
+independence	PHRASES	the struggle for independence, a war of independence the American	the struggle for independence || a war of independence :: the American War of Independence
+index	PHRASES	a drop/fall in an index a 28.2 point drop in the FT-SE 100 index changes in an index, an increase in an index, as measured by an index	a drop/fall in an index :: a 28.2 point drop in the FT-SE 100 index || changes in an index, an increase in an index || as measured by an index :: Inflation, as measured by the retail price index, is expected to drop.
+industry	VERB + INDUSTRY	enter, go into students training to enter	enter, go into :: students training to enter the catering industry ◇ She decided to leave teaching and go into industry.
+inflation	VERB + INFLATION	beat, bring down/under control, check, combat, control, curb, cut, fight, get down/under control, keep down, keep in check, keep under control, reduce policies to beat inflation	beat, bring down/under control, check, combat, control, curb, cut, fight, get down/under control, keep down, keep in check, keep under control, reduce :: policies to beat inflation +EX
+information	ADJ.	basic basic information like date of birth, doctor's name and phone number	basic :: basic information like date of birth, doctor's name and phone number
+information	PHRASES	access to information, the exchange of information, the flow of information to improve the flow of information within the company a lack of information, a request for information, a source of information	access to information, the exchange of information || the flow of information :: to improve the flow of information within the company || a lack of information, a request for information, a source of information
+ingredient	ADJ.	active salicylic acid, the active ingredient in aspirin	active :: salicylic acid, the active ingredient in aspirin
+injure	ADV.	accidentally insurance to cover you in case one of	accidentally :: insurance to cover you in case one of your employees accidentally injures someone
+injury	VERB + INJURY	Fortunately, the passengers escaped serious injury.	escape :: Fortunately, the passengers escaped serious injury.
+insecure	ADV.	financially men who are worried about losing	financially :: men who are worried about losing their jobs and becoming financially insecure
+integrate	PHRASES	highly integrated (= with many different parts working successfully together) a highly integrated	highly integrated (= with many different parts working successfully together) :: a highly integrated approach to planning || poorly integrated
+Internet	INTERNET + NOUN	Traffic the laying of fast networks to carry	traffic :: the laying of fast networks to carry Internet traffic
+judge	VERB + JUDGE	be difficult to, be hard to, be impossible to be able to, be in a position to	be difficult to, be hard to, be impossible to || be able to, be in a position to +EX
+kill	PHRASES	admit/deny killing sb, be accused of killing sb, be charged with killing sb, be killed in sth soldiers killed	admit/deny killing sb, be accused of killing sb, be charged with killing sb || be killed in sth :: soldiers killed in battle || be tragically killed :: Their daughter was tragically killed in a road accident.
+knife	PHRASES	the blade of a knife, the hilt of a knife hold a knife against/at/to sb's throat, a knife in sb's heart (figurative)	the blade of a knife, the hilt of a knife || hold a knife against/at/to sb's throat, a knife in sb's heart (figurative) +EX
+knight	PHRASES	a knight errant tales of medieval knights errant, wandering in search of chivalrous adventures a knight in armour, a knight in shining armour (figurative, humorous)	a knight errant :: tales of medieval knights errant, wandering in search of chivalrous adventures || a knight in armour, a knight in shining armour (figurative, humorous) +EX
+leap	ADV.	about, around, back, down, forward, out, up (and down) children leaping about with excitement	about, around, back, down, forward, out, up (and down) :: children leaping about with excitement
+level	ADJ.	varying keen amateurs who work hard, with varying levels of success	varying :: keen amateurs who work hard, with varying levels of success
+literacy	VERB + LITERACY	achieve, acquire different methods for acquiring literacy \ develop, promote, teach	achieve, acquire :: different methods for acquiring literacy || develop, promote, teach
+look	VERB + LOOK	to it looks to me as if the company is in real trouble.	to :: It looks to me as if the company is in real trouble.
+magistrate	VERB + MAGISTRATE	appoint (sb), appoint sb as appear before, come up before	appoint (sb), appoint sb as || appear before, come up before +EX
+man	ADJ.	Several people made speeches in honour of	great :: Several people made speeches in honour of the great man.
+march	PREP.	through marching peacefully through the town centre to, towards	through :: marching peacefully through the town centre || to, towards
+measure	VERB + MEASURE	a safety threshold of 50 mg of nitrates per litre by the	by the :: a safety threshold of 50 mg of nitrates per litre by the European measure
+medicine	PREP.	If too many people are not able to attend, you may need to postpone or call off/cancel the meeting.     at the meeting making a point	DEL
+medicine	PREP.	agree on the agenda for the current meeting	DEL
+mention	PREP.	to mention but a few plumbers, printers, dyers, glaziers and potters, to mention but a few	to mention but a few :: plumbers, printers, dyers, glaziers and potters, to mention but a few
+mine	VERB + MINE	lay, plant soldiers laying anti-personnel mines	lay, plant :: soldiers laying anti-personnel mines
+mineral	MINERAL + VERB	be found in sth, be present in sth calcium and other minerals found in your bones	be found in sth, be present in sth :: calcium and other minerals found in your bones
+minimum	PREP.	above (the)—, at (a/the)— Candidates must have	above (the) ~, at (a/the) ~ :: Candidates must have a first degree at a minimum. || below (the) ~, down to a ~ :: We tried to keep costs down to a minimum.
+missing	PHRASES	missing in action servicemen listed as missing in action missing, presumed dead	missing in action :: servicemen listed as missing in action || missing, presumed dead
+mock	PHRASES	faintly/slightly mocking a faintly mocking smile	faintly/slightly mocking :: a faintly mocking smile
+morale	VERB + MORALE	be good for, bolster, boost, do wonders for, improve, lift, raise, restore measures designed to boost	be good for, bolster, boost, do wonders for, improve, lift, raise, restore :: measures designed to boost the morale of the police
+motivation	ADJ.	high, strong students with high motivation	high, strong :: students with high motivation ◇ his strong motivation to succeed
+mouth	MOUTH + VERB	Her mouth suddenly set in a determined line.	set :: Her mouth suddenly set in a determined line.
+movement	PHRASES	a leader/member of a movement, the rise of a movement	a leader/member of a movement || the rise of a movement :: the rise of the labour movement in France
+murder	PHRASES	admit/deny murdering sb, be accused of murdering sb, be charged with murdering sb	admit/deny murdering sb, be accused of murdering sb, be charged with murdering sb :: She was arrested and charged with murdering the two children. || be convicted/found guilty of murdering sb || be found murdered :: He was found murdered in the cemetery.
+murmur	VERB + MURMUR	an orchestral rehearsal prepositions on (the)	DEL
+nature	ADJ.	They define sexual harassment as unwanted conduct of	sexual :: They define sexual harassment as unwanted conduct of a sexual nature.
+need	ADJ.	material, physical material needs of food and drink	material, physical :: material needs of food and drink
+need	VERB + NEED	be going to be expected to, be likely to, may well	be going to, be expected to, be likely to, may well +EX
+nicotine	VERB + NICOTINE	be addicted to, be dependent on be stained with	be addicted to, be dependent on || be stained with
+obtain	VERB + OBTAIN	be difficult to, be impossible to goods which are difficult to obtain	be difficult to, be impossible to :: goods which are difficult to obtain
+ocean	PHRASES	the bottom/depths/middle/surface of the ocean, the oceans of the world	the bottom/depths/middle/surface of the ocean || the oceans of the world :: great ships that sailed the oceans of the world
+offer	VERB + OFFER	fail to be pleased to (formal), would like to	fail to || be pleased to (formal), would like to +EX
+old	PHRASES	boring/silly old boring old history books	boring/silly old :: boring old history books
+opinion	PHRASES	be of the opinion that ... (formal) (= to believe or think that), a difference of opinion a genuine difference of opinion between the experts in my humble opinion (humorous), a matter of opinion	be of the opinion that ... (formal) (= to believe or think that) || a difference of opinion :: a genuine difference of opinion between the experts || in my humble opinion (humorous), a matter of opinion :: 'London is wonderful.' 'That's a matter of opinion.'
+opportunity	PHRASES	at the earliest/first (possible) opportunity, at every (available) opportunity, equality of opportunity, the opportunity of a lifetime, a window of opportunity ity	at the earliest/first (possible) opportunity, at every (available) opportunity, equality of opportunity, the opportunity of a lifetime, a window of opportunity +EX
+origin	ADJ.	animal, human, mineral, plant, vegetable foods of animal origin	animal, human, mineral, plant, vegetable :: foods of animal origin +EX
+output	ADJ.	aggregate, gross, overall, total 10 per cent of	aggregate, gross, overall, total :: 10 per cent of the country's total output
+output	PHRASES	a drop/fall in output the fall in output due to outdated equipment, a growth/an increase/a rise in output	a drop/fall in output :: the fall in output due to outdated equipment || a growth/an increase/a rise in output
+painter	ADJ.	celebrated, distinguished, great, famous, master, well-known some of the great painters	celebrated, distinguished, great, famous, master, well-known :: some of the great painters of the last century ◇ the Dutch master painter Jan Vermeer
+pant	PREP.	ing with the effort of carrying the suitcase.	DEL
+passport	PHRASES	passport (= one showing that sb has all the rights of	British/French, etc. passport (= one showing that sb has all the rights of a British/French, etc. citizen)
+pay	VERB + PAY	be able/unable to, can/can't, can/can't afford to help for	be able/unable to, can/can't, can/can't afford to :: help for those genuinely unable to pay
+pay	VERB + PAY	Protesters against the tax carried banners reading	 :: Protesters against the tax carried banners reading 'Can't pay! Won't pay!'
+peer	PREP.	over trying to peer over her shoulder past, through	over :: trying to peer over her shoulder || past, through :: I peered through the letter box.
+per cent	VERB + PER CENT	(All the verbs in the following collocate groups may be followed by by, from or to plus per cent.	be/go/shoot up, expand, grow, improve, increase, jump, rise, soar (+ by/from/to … per cent) :: Prices rose by 12% in 1998. ◇ Prices rose 12%.
+per cent	VERB + PER CENT	boost sth, increase sth, raise sth hoping to boost sales by 10%.	boost sth, increase sth, raise sth :: hoping to boost sales by 10%
+per cent	PHRASES	per cent a jump of 8% in cases of the disease a cut/decline/decrease/drop/fall/reduction of 10, 20, etc. per cent, fewer/less/more than 10, 20, etc. per cent	a jump of 10, 20, etc. per cent :: a jump of 8% in cases of the disease || a cut/decline/decrease/drop/fall/reduction of 10, 20, etc. per cent || fewer/less/more than 10, 20, etc. per cent :: Profits rose by more than 50% last year. || growth of 10, 20, etc. per cent
+pervasive	ADV.	all- the all-pervasive influence of television	all- :: the all-pervasive influence of television
+pick	PHRASES	freshly picked freshly picked strawberries	freshly picked :: freshly picked strawberries
+place	VERB + PLACE	be difficult to, be hard to children who are difficult to place in foster homes	be difficult to, be hard to :: children who are difficult to place in foster homes
+plain	ADJ.	rolling, sweeping miles of rolling plain, made fertile by the river	rolling, sweeping :: miles of rolling plain, made fertile by the river
+plain	PHRASES	plain blue, white, etc. a plain white shirt	plain blue, white, etc. :: a plain white shirt
+plant	PHRASES	densely/thickly planted a thickly planted	densely/thickly planted :: a thickly planted orange grove || freshly/newly/recently planted
+point	VERB + POINT	(All the verbs in the following collocate groups may be followed by by, from or to plus point.	be/go/shoot up, improve, increase, jump, rise, soar (+ by/from/to … points) :: The Nikkei index rose 710 points to 14894. ◇ His popularity rose by 18 points in public opinion polls.
+point	PHRASES	an improvement/an increase/a jump/a rise of 10, 20, etc. points to achieve an improvement of over 4.6 points in operating ratio a drop/fall/reduction of 10, 20, etc. points	an improvement/an increase/a jump/a rise of 10, 20, etc. points :: to achieve an improvement of over 4.6 points in operating ratio || a drop/fall/reduction of 10, 20, etc. points
+politics	ADJ.	the internal politics of the legal profession	internal :: the internal politics of the legal profession
+pork	QUANT.	belly, knuckle, leg, loin, shoulder roast leg of park	belly, knuckle, leg, loin, shoulder :: roast leg of pork
+press	PHRASES	immaculately/neatly pressed his immaculately pressed suit	immaculately/neatly pressed :: his immaculately pressed suit
+prevent	PHRASES	aimed at preventing sth new measures aimed at preventing accidents action/measures to prevent sth, an attempt to prevent sth, in order to prevent sth	aimed at preventing sth :: new measures aimed at preventing accidents || action/measures to prevent sth, an attempt to prevent sth, in order to prevent sth +EX
+price	PRICE + VERB	go from ... to ... , range from ... to ... , start at	go from ... to ..., range from ... to ..., start at :: Prices go from £150 for the deluxe version.
+price	PHRASES	the price of freedom/success, etc. (= the unpleasant things you must suffer to have freedom, success, etc.), a small price to pay (for sth)	the price of freedom/success, etc. (= the unpleasant things you must suffer to have freedom, success, etc.), a small price to pay (for sth) :: The cost of a policy premium is a small price to pay for peace of mind.
+professional	ADJ.	an advocate, barrister, lawyer, solicitor acts for/defends/represents sb    an in-house lawyer acting for a major company    advise sb/sth	DEL
+programme	ADJ.	degree, education, educational, literacy, training students enrolled on the two-year	degree, education, educational, literacy, training :: students enrolled on the two-year MA degree programme
+protect	PHRASES	be aimed at protecting sth, a desire/duty/need to protect sb/sth.	be aimed at protecting sth, a desire/duty/need to protect sb/sth :: He felt it was his duty to protect the child. || heavily/highly protected :: The Far Eastern markets are heavily protected (= with high taxes for imported goods).
+provoke	VERB + PROVOKE	be designed to be intended to to, be intended to	be designed to, be intended to
+raid	VERB + RAID	carry out, conduct, make bombers carrying out daylight raids over northern	carry out, conduct, make :: bombers carrying out daylight raids over northern France
+rank	PHRASES	of high/low, etc. rank officers of senior rank	of high/low, etc. rank :: officers of senior rank
+rank	PHRASES	be ranked/rank number two, three, etc. the tennis player ranked number two in the world high-low-ranking	be ranked/rank number two, three, etc. :: the tennis player ranked number two in the world || high-/low-ranking :: He is a high-ranking officer in the Indian Army. || rank sth in order of sth :: ranked in order of size
+rape	PHRASES	be/get raped worried about getting raped on her way home be accused/convicted of raping sb, be charged with raping sb, be found guilty of raping sb, deny raping sb	be/get raped :: worried about getting raped on her way home || be accused/convicted of raping sb, be charged with raping sb, be found guilty of raping sb, deny raping sb
+rate	PHRASES	a drop in interest rates, a rise in mortgage rates, etc.	a drop in interest rates, a rise in mortgage rates, etc. :: a one-point rise in base lending rates || a rate of return :: safe investments which give a good rate of return
+ratio	VERB + RATIO	calculate find work out late, find, work out	calculate, find, work out
+ray	VERB + RAY	emit, give off, send out gamma rays given off by plutonium	emit, give off, send out :: gamma rays given off by plutonium
+ray	VERB + RAY	block, filter out, protect/shield sb/sth from creams which filter out	block, filter out, protect/shield sb/sth from :: creams which filter out the sun's harmful ultraviolet rays
+reality	VERB + REALITY	bear little/no, etc. relation/resemblance to, be cut off/divorced/removed from, be out of touch with, have	bear little/no, etc. relation/resemblance to, be cut off/divorced/removed from, be out of touch with, have little/not have much to do with :: They are out of touch with the realities of modern warfare. ◇ Most people's ideas of the disease do not have much to do with the reality.
+reason	PREP.	by-of (formal) persons in need of care by reason of (= because of) old age for a/the- procedures carried out for reasons of national security for- of (formal)	by ~ of (formal) :: persons in need of care by reason of (= because of) old age || for a/the ~ :: procedures carried out for reasons of national security || for ~ of (formal) :: For reasons of security, you are requested to keep your luggage with you at all times.
+reasoning	PHRASES	a flaw in your reasoning, a form/kind/line of reasoning	a flaw in your reasoning, a form/kind/line of reasoning :: The implication of this line of reasoning is that globalization of capital is destructive.
+rebellion	VERB + REBELLION	foment, provoke (sb/sth to) attempts to foment rebellion	foment, provoke (sb/sth to) :: attempts to foment rebellion in the Cabinet ◇ The new taxes provoked the population to open rebellion.
+recession	VERB + RECESSION	climb out of, come out of, emerge from, get (sth) out of, lead sth out of, move out of, pull (sth) out of active policies to pull	climb out of, come out of, emerge from, get (sth) out of, lead sth out of, move out of, pull (sth) out of :: active policies to pull the country out of recession
+recommendation	VERB + RECOMMENDATION	be in accordance with, be in line with to develop	be in accordance with, be in line with :: to develop a plan in line with the recommendations of national policy
+reduction	ADJ.	a sale with massive reductions on selected items	massive :: a sale with massive reductions on selected items
+refugee	PHRASES	a flood/influx of refugees a new influx of refugees from the combat zone the flow of refugees, the plight of refugees, the return of refugees	a flood/influx of refugees :: a new influx of refugees from the combat zone || the flow of refugees, the plight of refugees, the return of refugees
+regard		(often be regarded) think or so/sun in a particular way	(often be regarded) think of sb/sth in a particular way
+regimen	ADJ.	depressed, poor, underdeveloped the poorer regions of the continent	DEL
+regulate	VERB + REGULATE	attempt to, seek to be designed to, be intended to	attempt to, seek to || be designed to, be intended to +EX
+regulate	PHRASES	an attempt to regulate sth, heavily/highly regulated a highly regulated economy	an attempt to regulate sth || heavily/highly regulated :: a highly regulated economy
+release	PHRASES	release on bail/parole 2freeing sb from an emotion, a pain, etc.	release on bail/parole
+remand	VERB + REMAND	charged with causing malicious damage to property.	DEL
+renovate	PHRASES	newly/recently renovated the newly renovated church	newly/recently renovated :: the newly renovated church
+rent	PHRASES	arrears of rent to be liable for arrears of rent a month's/week's/year's rent, the non-payment/payment of rent	arrears of rent :: to be liable for arrears of rent || a month's/week's/year's rent, the non-payment/payment of rent +EX
+repeat	ADV.	constantly, continually, endlessly, indefinitely, over and over (again) constantly repeating the same mistakes ◇ A single note repeated over and over again, throbbing in my head.	constantly, continually, endlessly, indefinitely, over and over (again) :: constantly repeating the same mistakes ◇ A single note repeated over and over again, throbbing in my head.
+report	ADJ.	The case has not yet been reported in the law reports.	law :: The case has not yet been reported in the law reports.
+resolve	PHRASES	a means/method/way of resolving sth day, ski, spa, tourist	a means/method/way of resolving sth
+respect	PHRASES	be highly/much/well respected a highly respected	be highly/much/well respected :: a highly respected doctor || be internationally/universally/widely respected :: WWF is internationally respected for its conservation work.
+responsibility	PHRASES	the age of criminal responsibility, the burden of responsibility	the age of criminal responsibility || the burden of responsibility :: The school governors carry a special burden of responsibility. || do sth on your own responsibility (= without being told to and being willing to take the blame if it goes wrong), a position of responsibility, a sense of responsibility
+restaurant	RESTAURANT + VERB	offer sth, serve sth, specialize in sth a restaurant	offer sth, serve sth, specialize in sth :: a restaurant offering a wide variety of local specialities ◇ The hotel restaurant serves a buffet breakfast. ◇ an Asian restaurant specializing in Thai cuisine
+restore	PHRASES	an attempt/effort to restore sth on attempt to restore the company's finances be aimed at restoring sth, measures to restore sth, a way of restoring sth	an attempt/effort to restore sth :: an attempt to restore the company's finances || be aimed at restoring sth, measures to restore sth, a way of restoring sth
+ride	ADV.	bareback, side-saddle riding bareback on a circus horse	bareback, side-saddle :: riding bareback on a circus horse
+ride	PREP.	along, down, from, on, through, to, up, etc. rid-ing along a country lane	along, down, from, on, through, to, up, etc. :: riding along a country lane
+road	PHRASES	the next/second, etc. road on the left/right, a stretch of road	the next/second, etc. road on the left/right || a stretch of road :: a notoriously dangerous stretch of road
+rugby	RUGBY + NOUN	forward, International, player the former rugby international, Serge	forward, international, player :: the former rugby international, Serge Blanco
+rule	RULE + VERB	limit sth, restrict sth rules limiting imports	limit sth, restrict sth :: rules limiting imports
+run	ADV.	away, downstairs. home. off. out. upstairs	away, downstairs, home, off, out, upstairs
+rural	ADV.	semi- the ideal of suburban or semi-rural living	semi- :: the ideal of suburban or semi-rural living
+sale	ADJ.	have fallen for the fifth consecutive month.	 :: Sales have fallen for the fifth consecutive month.
+save	PHRASES	an attempt/effort to save sth a last, desperate attempt to save	an attempt/effort to save sth :: a last, desperate attempt to save his marriage || a battle/bid/campaign to save sth
+scared	PHRASES	scared out of your wits, scared stiff (informal), scared to death (informal)	scared out of your wits, scared stiff (informal), scared to death (informal)
+search	PHRASES	search far and wide, search sth from top to bottom	search far and wide, search sth from top to bottom :: We searched the house from top to bottom. || search high and low :: I have searched high and low and cannot find them.
+seat	ADJ.	the height of summer the depths of winter	DEL
+secure	PHRASES	an attempt/effort to secure sth, be aimed at securing sth, a chance/hope of securing	an attempt/effort to secure sth, be aimed at securing sth || a chance/hope of securing sth :: trying to improve their chances of securing employment || succeed/be successful in securing sth
+sense	PHRASES	in every sense of the word, in a very real sense	in every sense of the word, in a very real sense :: In a very real sense, post-war repression was the continuation of the war. || in the true sense of the word
+set	PREP.	off-Off set, the two actors became close friends. on (the)	off ~ :: Off set, the two actors became close friends. || on (the) ~
+setting	ADJ.	domestic, family elderly people living in	domestic, family :: elderly people living in a domestic setting
+shaky	ADV.	dangerously, decidedly, distinctly, extremely, very financially, the arrangement was distinctly shaky. a bit, a little, pretty, rather, somewhat	dangerously, decidedly, distinctly, extremely, very :: Financially, the arrangement was distinctly shaky. || a bit, a little, pretty, rather, somewhat
+shape	VERB + SHAPE	cut sth into, make sth in, produce sth in a cheese similar to	cut sth into, make sth in, produce sth in :: a cheese similar to Brie but produced in a different shape
+shape	ADV.	actively, deliberately actively shaping the history of their country	actively, deliberately :: actively shaping the history of their country
+share	PHRASES	a class of shares, the value of your shares	a class of shares, the value of your shares :: Will this affect the value of my shares?
+shop	ADJ.	Mobile shops are invaluable to people in rural areas.	mobile :: Mobile shops are invaluable to people in rural areas.
+shore	ADJ.	American, British, etc. the ship in which	American, British, etc. :: the ship in which Columbus first sailed to American shores
+shriek	PHRASES	a shriek of delight/pain, a shriek of laughter ➔	a shriek of delight/pain, a shriek of laughter
+sick	VERB + SICK	care for, look after workers who are caring for	care for, look after :: workers who are caring for the sick and elderly
+silence	VERB + SILENCE	a silence punctuated only by the occasional sniff from the children	punctuated by :: a silence punctuated only by the occasional sniff from the children
+sing	ADV.	gently, quietly, softly singing quietly to himself	gently, quietly, softly :: singing quietly to himself
+site	VERB + SITE	disturb, remove sth from, steal sth from penalties for disturbing archaeological sites	disturb, remove sth from, steal sth from :: penalties for disturbing archaeological sites
+skill	ADJ.	With consummate skill, she steered the conversation away from any embarrassing subjects.	consummate :: With consummate skill, she steered the conversation away from any embarrassing subjects.
+skill	VERB + SKILL	broaden, hone, improve, increase, master, sharpen, upgrade helping children to master	broaden, hone, improve, increase, master, sharpen, upgrade :: helping children to master the skills necessary to live in our society ◇ She attends regular training weekends to sharpen her skills.
+skin	ADJ.	A lot of dust is made up of particles of dead skin.	dead :: A lot of dust is made up of particles of dead skin.
+sky	ADJ.	bright, clear, cloudless, sunny a week of cloudless skies	bright, clear, cloudless, sunny :: a week of cloudless skies
+solution	VERB + SOLUTION	achieve, agree (on), arrive at, come up with, find, produce, reach, work out attempts to find	achieve, agree (on), arrive at, come up with, find, produce, reach, work out :: attempts to find a comprehensive political solution to the crisis
+source	ADJ.	important, main, major, principal  cheap a cheap source of labour  external, foreign	important, main, major, principal || cheap :: a cheap source of labour || external, foreign :: Do you have any foreign sources of income?
+specialist	PHRASES	a group/team of specialists, a specialist in the field	a group/team of specialists, a specialist in the field :: The book is written by P. H. Reaney, a noted specialist in the field.
+speechless	ADV.	for a moment momentarily temporarily moment, momentarily, temporarily	for a moment, momentarily, temporarily
+spot	VERB + SPOT	class) play badminton baseball billiards bowls cricket football golf hockey against sb for a team defeat, face, outfox, outmanoeuvre, outwit an opponent	DEL
+spot	VERB + SPOT	break, set, shatter, smash the world record     football	DEL
+spot	VERB + SPOT	end up, finish up, land in the rough tennis	DEL
+squeeze	PHRASES	freshly squeezed freshly squeezed orange juice	freshly squeezed :: freshly squeezed orange juice
+stance	ADJ.	Her public stance was much tougher than her private feelings on the subject.	public :: Her public stance was much tougher than her private feelings on the subject.
+standard	ADJ.	judged by any objective standards, the campaign was a disaster.	objective :: Judged by any objective standards, the campaign was a disaster.
+state	STATE + NOUN	benefit, pension unemployed people living on state	benefit, pension :: unemployed people living on state benefit ◇ The state pension is barely enough to live on.
+stool	ADJ.	VERB + STool perch on/be perched on, sit (down) on	perch on/be perched on, sit (down) on (VERB + STOOL) :: He was perched on a bar stool, ordering a beer.
+story	ADJ.	lurid, sordid, spicy lurid stories of politicians' sexual adventures	lurid, sordid, spicy :: lurid stories of politicians' sexual adventures
+street	STREET + NOUN	layout, network, pattern the dense street pattern of the old town name, number, sign	layout, network, pattern :: the dense street pattern of the old town || name, number, sign :: Most street names were changed under the new regime.
+street	STREET + NOUN	street fighting between police and stone-throwing youths	fighting :: street fighting between police and stone-throwing youths
+strength	STRENGTH + VERB	Her strength was ebbing fast, so her children were called to her bedside.	ebb :: Her strength was ebbing fast, so her children were called to her bedside.
+style	ADJ.	His aggressive style of play sometimes gets him in trouble.	aggressive :: His aggressive style of play sometimes gets him in trouble.
+success	PHRASES	the key to success, a lack of success, the secret of (sb's) success, a symbol of (sb's) success 2st that achieves its aim	the key to success, a lack of success, the secret of (sb's) success, a symbol of (sb's) success
+sum	VERB + SUM	You will have to go to court to recover these sums.	recover :: You will have to go to court to recover these sums.
+supporter	ADJ.	active, ardent, close, committed, die-hard, enthusiastic, faithful, fanatical, fervent, great, keen, loyal, passionate, stalwart, staunch, strong, an active supporter of democratic change	active, ardent, close, committed, die-hard, enthusiastic, faithful, fanatical, fervent, great, keen, loyal, passionate, stalwart, staunch, strong :: an active supporter of democratic change
+suspicion		1. belief that sb has done sth wrong or that sth is true	(= belief that sb has done sth wrong or that sth is true)
+symptom	VERB + SYMPTOM	detect, diagnose, identify, interpret, recognize teaching nursing staff how to identify and treat	detect, diagnose, identify, interpret, recognize :: teaching nursing staff how to identify and treat the symptoms of poisoning
+system	ADJ.	a closed system with a rigidly defined set of choices	closed :: a closed system with a rigidly defined set of choices
+tame	ADV.	positively, very living a life that makes	positively, very :: living a life that makes Wild West movies look positively tame
+task	ADJ.	The primary task of the chair is to ensure the meeting runs smoothly.	primary :: The primary task of the chair is to ensure the meeting runs smoothly.
+tax	PHRASES	for tax purposes the rules for deciding on someone's residence status for	for tax purposes :: the rules for deciding on someone's residence status for UK tax purposes || (the basic/higher) rate of tax :: an increase in the basic rate of tax
+teaching	VERB + TEACHING	pass on, spread the disciples who passed on	pass on, spread :: the disciples who passed on Jesus's teaching
+technology	PHRASES	advances in technology recent advances in medical technology the impact of (a) technology, science and technology	advances in technology :: recent advances in medical technology || the impact of (a) technology, science and technology
+test	ADJ.	Forensic tests showed that the man had been poisoned.	forensic :: Forensic tests showed that the man had been poisoned.
+test	ADJ.	The revolutionary new system goes into beta test this month.	beta :: The revolutionary new system goes into beta test this month.
+thing	ADJ.	The best thing would be to apologize straight away.	best :: The best thing would be to apologize straight away.
+throne	PHRASES	sb's accession to the throne, a claimant/pretender	sb's accession to the throne || a claimant/pretender to the throne :: a claimant to the vacant Spanish throne || sb's claim/right to the throne, an heir to the throne :: The marriage failed to produce an heir to the throne. || the power behind the throne (figurative) :: According to the papers, the prime minister's private secretary is the real power behind the throne.
+time	PHRASES	from/since time immemorial (= for a very long time), of all time the greatest footballer of all time a sign of the times, time was when	from/since time immemorial (= for a very long time) || of all time :: the greatest footballer of all time || a sign of the times, time was when :: Time was when (= there was a time when) we never needed to lock our house at night.
+tin	ADJ.	blue, bluish, etc. a slight reddish tinge	DEL
+tone		1. quality of a sound, especially of the human voice 2.	(= quality of a sound, especially of the human voice)
+tone	ADJ.	hushed, quiet, subdued speaking in hushed tones	hushed, quiet, subdued :: speaking in hushed tones
+tone	ADJ.	light, muted, neutral, pale, pastel, soft muted tones of grey and brown	light, muted, neutral, pale, pastel, soft :: muted tones of grey and brown
+toot	PHRASES	the tooth of a horn, a tooth on the horn.	a toot of a horn, a toot on the horn :: The taxi driver gave a toot on the horn.
+trade	TRADE + NOUN	The US was accused of employing unfair trade practices.	unfair :: The US was accused of employing unfair trade practices.
+trade	PHRASES	a jack of all trades (= a person who can do many different types of work), the tricks of the trade	a jack of all trades (= a person who can do many different types of work), the tricks of the trade :: The experienced artisan would pass on the tricks of the trade to the apprentice.
+tree	TREE + VERB	canopy dappled shafts of light which struggled through	canopy :: dappled shafts of light which struggled through the tree canopy
+trend	VERB + TREND	buck, counteract, go against efforts to buck	buck, counteract, go against :: efforts to buck the current downward trend in sales
+tribute	ADJ.	tributes were piled up outside the church.	floral :: Floral tributes were piled up outside the church.
+troops	TROOPS + VERB	be based, be positioned, be posted, be stationed troops based in	be based, be positioned, be posted, be stationed :: troops based in West Germany
+trudge	ADV.	along, back, home off on trudging along in silence home, off, on trudging along in silence	along, back, home, off, on :: trudging along in silence
+truth	PHRASES	be economical with the truth (= not to tell the whole truth), nothing	be economical with the truth (= not to tell the whole truth) || nothing could be further from the truth :: I know you think she's mean, but nothing could be further from the truth.
+tune	PHRASES	finely/highly tuned a finely tuned engine	finely/highly tuned :: a finely tuned engine
+understatement	ADJ.	the understatement of the year (informal)	the understatement of the year (informal) +EX
+upkeep	PHRASES	responsible/responsibility for the upkeep of	responsible/responsibility for the upkeep of sth +EX
+view	PHRASES	increasingly viewed as sth, traditionally viewed as sth, a way of viewing sth	increasingly viewed as sth, traditionally viewed as sth, a way of viewing sth
+violence	VERB + VIOLENCE	commit, engage in, inflict, perpetrate, resort to, turn to, use people who inflict violence	commit, engage in, inflict, perpetrate, resort to, turn to, use :: people who inflict violence on animals ◇ violence perpetrated by the army ◇ The peasants believed their only choice was to resort to violence. ◇ Under no circumstances should police use violence against protesters.
+vital	PREP.	for fostering team spirit, which is vital for success to	for :: fostering team spirit, which is vital for success || to :: These nutrients are absolutely vital to good health.
+voice	VOICE + VERB	His voice broke (= became a deep, man's voice) when he was 14.	break :: His voice broke (= became a deep, man's voice) when he was 14.
+vote	VERB + VOTE	be eligible to, be entitled to young people who are eligible to vote for the first time	be eligible to, be entitled to :: young people who are eligible to vote for the first time
+waiter, waitress	ADJ.	head the head waiter in a large restaurant hotel, restaurant	head :: the head waiter in a large restaurant || hotel, restaurant
+war	VERB + WAR	The Spartans were persuaded to make war on	make :: The Spartans were persuaded to make war on Athens.
+war	VERB + WAR	The terrorists were charged with waging war against the state.	wage :: The terrorists were charged with waging war against the state.
+warm	ADV.	beautifully, blissfully, comfortably, deliciously, pleasantly, wonderfully sliding further down into	beautifully, blissfully, comfortably, deliciously, pleasantly, wonderfully :: sliding further down into the blissfully warm bed
+way	VERB + WAY	The river wound its way through the valley.	wind :: The river wound its way through the valley. || cut, elbow, fight, force, hack, pick, shoulder :: We picked our way carefully over the jagged rocks.
+win	PHRASES	a chance of winning (sth), a chance to win sth the chance to win the holiday of a lifetime be confident of winning (sth), be capable of winning (sth)	a chance of winning (sth), a chance to win sth :: the chance to win the holiday of a lifetime || be confident of winning (sth), be capable of winning (sth) +EX
+window	WINDOW + VERB	face sth, give a view of sth, look, overlook sth, stare	face sth, give a view of sth, look, overlook sth, stare :: a studio with windows looking south towards the park ◇ The windows of the house stared bleakly down at her.
+wing	ADJ.	butterfly, chicken, etc. the patterns on butterfly wings ◇ First, fry the chicken wings in the oil until they begin to brown.	butterfly, chicken, etc. :: the patterns on butterfly wings ◇ First, fry the chicken wings in the oil until they begin to brown.
+word	PHRASES	a man/woman of few words (= a person who speaks very little), sb never spoke a truer	a man/woman of few words (= a person who speaks very little) || sb never spoke a truer word/never was a truer word spoken :: You said we were about to make a big mistake, and never was a truer word spoken! (= you were right) || not a (single) word :: Remember—not a word to (= don't tell) Peter about any of this. ◇ We didn't say a single word to each other all day.
+work	ADJ.	His written work is the best in the class.	written :: His written work is the best in the class.
+work	ADJ.	collaborative, joint classroom activities involving collaborative work	collaborative, joint :: classroom activities involving collaborative work between children ◇ The report is the joint work of an economist and a sociologist.
+work	ADJ.	collected, complete the collected works of	collected, complete :: the collected works of Stephen King
+world	PHRASES	experience/knowledge/perception of the world, the eyes of the world	experience/knowledge/perception of the world, the eyes of the world :: The eyes of the world are on the president. || in an ideal/a perfect world :: In an ideal world, I'd like to work just three days a week. || in a world of your own :: I tapped on the window to get her attention but she was in a world of her own.
+year	ADJ.	early, later the early years of the twenty-first century.	early, later :: the early years of the twenty-first century ◇ In his later years, he drifted away from politics.
+zone	ADJ.	alpine, arid, coastal, temperate the alpine and arid zones of	alpine, arid, coastal, temperate :: the alpine and arid zones of Australia

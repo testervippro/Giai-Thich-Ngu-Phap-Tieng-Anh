@@ -23,7 +23,7 @@ from collections import defaultdict
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = os.path.join(ROOT, "docs")
 OUT = os.path.join(DOCS, "tools", "colloc")
-POS = r"(verb|noun|adj\.?|adv\.?|prep\.?|pron\.?|conj\.?|exclamation|number|det\.?|phrasal verb|modal verb)"
+POS = r"(verb|noun|naun|nour|neth|adi\.|adj\.?|adv\.?|prep\.?|pron\.?|conj\.?|exclamation|number|det\.?|phrasal verb|modal verb)"
 HEAD = re.compile(r"^#{1,6}\s+(?:•\s*)?([A-Za-zà-ÿ][^#|]*?)\s+" + POS + r"(?=$|[\s,.;])(.*)$")
 
 
@@ -54,7 +54,7 @@ def oxford():
             skip = False
             w = clean(re.sub(r"\(.*?\)", "", m.group(1))).strip(" ,")
             w = {"z00": "zoo"}.get(w, w)
-            pos = m.group(2).rstrip(".")
+            pos = {"naun": "noun", "nour": "noun", "neth": "noun", "adi.": "adj."}.get(m.group(2), m.group(2)).rstrip(".")
             if cur and cur["w"] == w:          # cùng từ, từ loại khác → gộp vào 1 mục
                 cur["pos"].append(pos)
                 cur["b"].append(["p", pos])
@@ -80,7 +80,7 @@ def oxford():
         if sm and not l.startswith("#") and ("|" in t or len(t) > 70 or not re.match(r"[a-z(]", sm.group(2))):
             sm = None                              # không phải tiêu đề nghĩa ("1 short sharp sound")
         if sm:
-            cur["b"].append(["s", sm.group(1) + ". " + sm.group(2)])
+            cur["b"].append(["s", sm.group(1) + ". " + fix_text(sm.group(2))])
         elif t.startswith("•"):
             cur["b"].append(["c", t.lstrip("• ").strip()])
         elif cur["b"] and cur["b"][-1][0] == "c":   # dòng bị ngắt (OCR) → nối vào nhóm trước
@@ -108,8 +108,40 @@ def oxford():
                     out[-1] = b
             else:
                 out.append(b)
-        e["b"] = out
+        # soát tay (tools/data/oxford_fixes_segs.tsv): thay cả mục [cụm, ví dụ] theo (từ mục, nhãn, cụm gốc)
+        for b in out:
+            if b[0] != "c":
+                continue
+            new = []
+            for c, exs in b[2]:
+                rep = SEG_FIX.get((e["w"], b[1], c))
+                if rep is None:
+                    new.append([c, exs])
+                    continue
+                for r in rep:
+                    if r == "DEL":
+                        continue
+                    new.append([r[0], [x for x in r[1]] + (exs if r[2] else [])])
+            b[2] = new
+        e["b"] = [b for b in out if b[0] != "c" or b[2] or b[1]]
     return entries
+
+
+SEG_FIX = {}
+_SF = os.path.join(ROOT, "tools", "data", "oxford_fixes_segs.tsv")
+for _l in (open(_SF, encoding="utf-8") if os.path.exists(_SF) else []):
+    _p = _l.rstrip("\n").split("\t")
+    if len(_p) != 4 or _l.startswith("#"):
+        continue
+    _rep = []
+    for _seg in _p[3].split(" || "):
+        if _seg.strip() == "DEL":
+            _rep.append("DEL"); continue
+        _keep = _seg.endswith(" +EX")
+        _seg = _seg[:-4] if _keep else _seg
+        _c, _, _x = _seg.partition(" :: ")
+        _rep.append([_c.strip(), [x.strip() for x in _x.split(" ◇ ") if x.strip()], _keep])
+    SEG_FIX[(_p[0], _p[1], _p[2])] = _rep
 
 
 # ---------------------------------------------------------------- định dạng lại nhóm collocation (OCR)
@@ -132,6 +164,9 @@ def split_example(seg):
     seg = seg.strip()
     m = None
     for mm in re.finditer(r"(?<=[a-z0-9~)\]'’,/.!?-])\s+(?=(?:[A-Z‘'\"“]|I\s)[a-z'’ ]?)", seg):
+        prevw = seg[:mm.start()].split()[-1].lower() if seg[:mm.start()].split() else ""
+        if prevw in ("the", "a", "an"):        # "the Asian market", "the Queen": tên riêng, không phải đầu câu
+            continue
         if seg[:mm.start()] and not seg[:mm.start()].endswith(","):
             m = mm
             break
@@ -154,8 +189,150 @@ def split_example(seg):
     return [[coll, exs]] + rest
 
 
+PREPS_ALL = ("about above across after against along among amongst around as at before behind below beneath beside besides between beyond by "
+             "concerning despite during except for from in inside into like near of off on onto out outside over past per regarding round since "
+             "surrounding than through throughout till to toward towards under underneath unlike until up upon via with within without").split()
+FIXES = os.path.join(ROOT, "tools", "data", "oxford_fixes.json")
+_FX = json.load(open(FIXES, encoding="utf-8")) if os.path.exists(FIXES) else {}
+FIX_TEXT = _FX.get("text", {})      # sửa chữ OCR: chuỗi sai -> chuỗi đúng (vd "Heformally" -> "He formally")
+_WF = os.path.join(ROOT, "tools", "data", "oxford_fixes_words.tsv")   # soát tay từng từ lạ (OCR, chữ dính, từ bị ngắt dòng)
+for _l in (open(_WF, encoding="utf-8") if os.path.exists(_WF) else []):
+    if "\t" in _l and not _l.startswith("#"):
+        _a, _b = _l.rstrip("\n").split("\t", 1)
+        FIX_TEXT[_a] = _b
+_FIX_RX = [(re.compile(r"(?<![A-Za-z])" + re.escape(a) + r"(?![A-Za-z])"), b) for a, b in sorted(FIX_TEXT.items(), key=lambda x: -len(x[0]))]
+
+
+def fix_text(t):
+    for rx, b in _FIX_RX:
+        if rx.search(t):
+            t = rx.sub(lambda m: b, t)
+    return t
+FIX_SEG = _FX.get("seg", {})        # soát tay: "từ mục|nhãn|cụm gốc" -> [[cụm, [ví dụ…]], …]
+PREPS = set("about above across after against along among amongst around as at before behind below beneath beside besides between beyond by "
+            "concerning despite during except for from in inside into like near of off on onto out outside over past per regarding round since "
+            "surrounding than through throughout till to toward towards under underneath unlike until up upon via with within without".split())
+STOP = set("the a an of to in on at for by with and or sb sth one's your his her their its be is are was were that this as from it".split())
+
+
+def _toks(s):
+    """tách từ, phần (…) dính vào từ đứng trước"""
+    out = []
+    for m in re.finditer(r"\([^)]*\)|\S+", s):
+        if m.group(0).startswith("(") and out:
+            out[-1] += " " + m.group(0)
+        else:
+            out.append(m.group(0))
+    return out
+
+
+def _stem(w):
+    w = re.sub(r"[^a-z]", "", w.lower())
+    return w[:5] if len(w) >= 6 else w
+
+
+def _exs(ex):
+    return [x.strip() for x in re.split(r"\s*[◇♢]\s*", ex) if x.strip()]
+
+
+def fix_long(coll, exs, cat):
+    """Cụm còn dính ví dụ viết thường → tách. Trả về danh sách [cụm, [ví dụ]]."""
+    key = "%s|%s|%s" % (HW[0], cat, coll)
+    if key in FIX_SEG:
+        return [list(x) for x in FIX_SEG[key]]
+    if len(coll) <= 40 and "~" not in coll[1:]:
+        return [[coll, exs]]
+    # A. nhiều giới từ đánh dấu bằng "~": "~ about panic about food ~ among panic among…"
+    if "~" in coll[1:] or (coll.startswith("~") and len(coll.split()) > 3):
+        parts = [p.strip() for p in re.split(r"(?=~)", coll) if p.strip()]
+        # "beyond ~ He was beyond all reason." : "~" là chỗ của từ mục ngay sau giới từ, không mở nhóm mới
+        merged = []
+        for p in parts:
+            if (p.startswith("~") and merged and not merged[-1].startswith("~")
+                    and all(x in PREPS for x in re.split(r"[\s/,]+", merged[-1].lower()) if x)
+                    and not re.match(r"~\s*(?:%s)\b" % "|".join(PREPS), p)):
+                merged[-1] = merged[-1] + " " + p
+            else:
+                merged.append(p)
+        parts = merged
+        out = []
+        for p in parts:
+            if not p.startswith("~"):
+                pm = re.match(r"^((?:(?:%s)[\s/,]+)+~)\s+(.*)$" % "|".join(PREPS), p)
+                if pm:                                   # "beyond ~ He was beyond all reason."
+                    out.append([pm.group(1), _exs(pm.group(2))])
+                else:
+                    out += fix_long(p, [], cat) if (out == [] and "~" not in p) else [[p, []]]
+                continue
+            tk = _toks(p[1:].strip())
+            k = 0
+            while k < len(tk) and all(x in PREPS for x in re.split(r"[/,]", tk[k].lower()) if x):
+                k += 1
+            if k == 0 and tk and tk[0] in ("s", "'s"):          # "~s from" = số nhiều + giới từ
+                k = 1
+                while k < len(tk) and all(x in PREPS for x in re.split(r"[/,]", tk[k].lower()) if x):
+                    k += 1
+            k = max(k, 1) if tk else 0
+            c = ("~ " + " ".join(tk[:k])).strip()
+            rest = " ".join(tk[k:])
+            if len(rest.split()) >= 2:
+                out.append([c, _exs(rest)])
+            elif out and rest:
+                out.append([c + " " + rest, []])
+            else:
+                out.append([(c + " " + rest).strip(), []])
+        if out:
+            out[-1][1] += exs
+        return out
+    # B. danh sách collocate + ví dụ viết thường ở mục cuối
+    items = re.split(r",\s+(?![^()]*\))", coll)
+    last = items[-1]
+    tk = _toks(last)
+    if len(tk) < 4:
+        return [[coll, exs]]
+    head = ", ".join(items[:-1])
+    hstem = _stem(HW[0])
+    if cat.startswith("PHRASES") and len(tk) <= 6:
+        return [[coll, exs]]
+    k = 0
+    if cat.startswith("PREP") or cat == "PREP.":
+        while k < len(tk) - 2 and all(x in PREPS for x in re.split(r"[/]", tk[k].lower()) if x):
+            k += 1
+    if not k:
+        stems_rest = lambda kk: {_stem(x) for x in tk[kk:]}
+        for kk in range(min(6, len(tk) - 2), 0, -1):    # cụm dài nhất mà từ cuối được lặp lại trong ví dụ
+            lw = tk[kk - 1]
+            if _stem(lw) and _stem(lw) not in STOP and re.sub(r"[^a-z]", "", lw.lower()) not in STOP and _stem(lw) in stems_rest(kk):
+                k = kk
+                break
+    if not k:
+        rest_has_head = any(_stem(x) == hstem for x in tk[1:]) and tk[0].lower() not in STOP
+        others = {_stem(x) for it in items[:-1] for x in _toks(it)} - STOP
+        if rest_has_head and (others & {_stem(x) for x in tk[1:]} or not cat.startswith(("PHRASES", "PREP"))):
+            k = 1
+    if not k:
+        return [[coll, exs]]
+    c = " ".join(tk[:k])
+    ex = " ".join(tk[k:])
+    out = []
+    # ví dụ kết thúc bằng giới từ trơ trọi (không có dấu câu) → là collocate kế tiếp
+    tail = None
+    m = re.search(r"\s((?:%s)(?:/(?:%s))*)$" % ("|".join(PREPS), "|".join(PREPS)), ex)
+    if m and not re.search(r"[.!?]$", ex):
+        tail, ex = m.group(1), ex[:m.start()]
+    out.append([(head + ", " + c) if head else c, _exs(ex) + exs])
+    if tail:
+        out.append([tail, []])
+    return out
+
+
 def restructure(t):
     t = re.sub(r"[⌊⌉]", "", t)
+    t = re.sub(r"<[^>]*>", " ", t)                       # thẻ HTML lọt vào từ OCR bảng
+    t = re.sub(r"\bVER[E8B]\s*\+", "VERB +", t)
+    t = fix_text(t)
+    t = re.sub(r"\s[\]\[]\s", " | ", t)                   # OCR đọc "|" thành "]" / "["
+    t = re.sub(r"(^|\s)[–-]\s?(?=(?:%s)\b)" % "|".join(sorted(PREPS_ALL, key=len, reverse=True)), r"\1~ ", t)
     refs = []
     def keep_ref(m):
         refs.append(m.group(2).strip(" ,"))
@@ -178,7 +355,8 @@ def restructure(t):
             seg = seg.strip()
             if not seg:
                 continue
-            segs += split_example(seg)
+            for c_, ex_ in split_example(seg):
+                segs += fix_long(c_, ex_, cat)
         if cat or segs:
             out.append(["c", cat, segs])
     if refs:
