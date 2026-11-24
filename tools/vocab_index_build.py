@@ -161,6 +161,7 @@ def main():
          "Basic / Intermediate / Advanced (Word list ở cuối sách, OCR); **The Oxford 3000 & 5000** theo cấp CEFR "
          "([oxfordlearnersdictionaries.com](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000), gộp bản Anh và Mỹ). "
          "Nghĩa tiếng Việt: theo nguồn nếu có, còn lại dịch bổ sung — có thể chưa sát ngữ cảnh. Dùng `Ctrl+F` để tra nhanh.\n",
+         "> 🔎 **[Mở bản tra cứu có bộ lọc](tools/vocab-index.html)** — lọc theo nguồn (TOEIC / IELTS / Word Skills / Oxford 3000–5000), cấp CEFR, chủ đề IELTS.\n",
          "> Tổng cộng: **%s mục** (đã bỏ trùng), A–Z — TOEIC %s · IELTS %s · Word Skills %s · Oxford 3000/5000 %s.\n"
          % tuple("{:,}".format(x).replace(",", ".") for x in (len(items), cnt("TOEIC"), cnt("IELTS"), cnt("Word Skills"), cnt("Oxford 3000") + cnt("Oxford 5000"))),
          "---\n",
@@ -179,6 +180,31 @@ def main():
         term = e["term"]
         L.append("| %d | %s | %s | %s | %s |" % (i, esc(term), esc(vi), esc(e["ipa"]), esc(", ".join(e["srcs"]))))
     open(MD, "w", encoding="utf-8").write("\n".join(L) + "\n")
+    # dữ liệu cho trang tra cứu có bộ lọc (docs/tools/vocab-index.html)
+    SRC = ["TOEIC", "IELTS", "Basic", "Intermediate", "Advanced", "Oxford 3000", "Oxford 5000"]
+    topics, data = [], []
+    for e in items:
+        flags, lv, tp = 0, "", []
+        for x in e["srcs"]:
+            if x.startswith("TOEIC"): flags |= 1
+            if x.startswith("IELTS"):
+                flags |= 2
+                t = x.split("·", 1)[1].strip() if "·" in x else ""
+                if t:
+                    if t not in topics: topics.append(t)
+                    tp.append(topics.index(t))
+            if x.startswith("Word Skills"):
+                for i, b in ((2, "Basic"), (3, "Intermediate"), (4, "Advanced")):
+                    if b in x: flags |= 1 << i
+            m = re.match(r"Oxford (3000|5000)(?: \(Mỹ\))? · (A1|A2|B1|B2|C1)", x)
+            if m:
+                flags |= 1 << (5 if m.group(1) == "3000" else 6)
+                lv = lv or m.group(2)
+        vi = "; ".join(e["vis"])
+        data.append([e["term"], vi, e["ipa"], flags, lv, tp] if tp else [e["term"], vi, e["ipa"], flags, lv])
+    js = "// Sinh bởi tools/vocab_index_build.py — từ vựng TOEIC + IELTS + Oxford Word Skills + Oxford 3000/5000 (đã bỏ trùng)\n"
+    js += "window.VOCAB_INDEX=" + json.dumps({"src": SRC, "topics": topics, "rows": data}, ensure_ascii=False, separators=(",", ":")) + ";\n"
+    open(os.path.join(ROOT, "docs", "tools", "vocab-index-data.js"), "w", encoding="utf-8").write(js)
     os.makedirs(os.path.join(ROOT, "build"), exist_ok=True)
     open(os.path.join(ROOT, "build", "vocab_vi_missing.txt"), "w", encoding="utf-8").write("\n".join(missing) + "\n")
     print("mục", len(items), "| thiếu nghĩa", len(missing))

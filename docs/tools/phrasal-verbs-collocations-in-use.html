@@ -84,11 +84,14 @@
 <body>
 <main>
   <h1>🔗 Collocations &amp; Idioms — tra chung</h1>
-  <p class="lead">Gộp các trang Collocations vào một chỗ, đã bỏ trùng: <b>Oxford Collocations Dictionary</b> (<b id="nOx">…</b> từ mục, ★ = thuộc 5000 từ thông dụng; các trang "dạng cụm", "5000 từ", "ngoài 5000 từ" đều trích từ đây), <b>4500 Collocations &amp; Idioms</b> theo chủ đề (<b id="n45">…</b> cụm, 🎯 = bản lọc TOEIC 990 kèm câu trong đề ETS), và <b>Phrasal verbs trong Collocations in Use</b> (<b id="nPv">…</b> mục). Gõ một từ (vd <i>decision</i>, <i>take</i>, <i>deadline</i>) hoặc nghĩa tiếng Việt.</p>
+  <p class="lead">Gộp các trang Collocations vào một chỗ, đã bỏ trùng: <b>Oxford Collocations Dictionary</b> (<b id="nOx">…</b> từ mục, lọc được theo ★ 5000 từ thông dụng, Oxford 3000/5000 + cấp CEFR, Oxford Word Skills; các trang "dạng cụm", "5000 từ", "ngoài 5000 từ" đều trích từ đây), <b>4500 Collocations &amp; Idioms</b> theo chủ đề (<b id="n45">…</b> cụm, 🎯 = bản lọc TOEIC 990 kèm câu trong đề ETS), và <b>Phrasal verbs trong Collocations in Use</b> (<b id="nPv">…</b> mục). Gõ một từ (vd <i>decision</i>, <i>take</i>, <i>deadline</i>) hoặc nghĩa tiếng Việt.</p>
   <div class="bar">
     <div class="row">
       <input type="search" id="q" placeholder="Tìm từ, cụm từ hoặc nghĩa tiếng Việt" aria-label="Tìm" autocomplete="off">
-      <button class="btn" id="f5Btn" title="Oxford: chỉ hiện từ mục thuộc 5000 từ thông dụng">★ Chỉ 5000 từ</button>
+      <select id="flt" aria-label="Lọc từ mục Oxford theo danh sách từ phổ biến" title="Oxford: chỉ hiện từ mục thuộc danh sách từ phổ biến">
+        <option value="">Mọi từ mục</option><option value="1">★ 5000 từ thông dụng</option><option value="2">Oxford 3000</option>
+        <option value="6">Oxford 3000 + 5000</option><option value="8">Oxford Word Skills</option><option value="14">Oxford 3000/5000 hoặc Word Skills</option></select>
+      <select id="cefr" aria-label="Cấp CEFR (Oxford 3000/5000)"><option value="">Mọi cấp</option><option>A1</option><option>A2</option><option>B1</option><option>B2</option><option>C1</option></select>
       <button class="btn on" id="exBtn" title="Phrasal verbs: hiện câu ví dụ">💬 Ví dụ</button>
     </div>
     <div class="row tabs" id="tabs">
@@ -112,13 +115,16 @@
   const esc = t => String(t == null ? '' : t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fold = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/[’‘]/g, "'");
   const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
-  const st = Object.assign({ tab:'all', ex:true, f5:false, letter:'a', topic:0, open:'' }, ls.get('collocHub', {}));
+  const st = Object.assign({ tab:'all', ex:true, flt:'', cefr:'', letter:'a', topic:0, open:'' }, ls.get('collocHub', {}));
   const save = () => ls.set('collocHub', st);
   const C = window.COLLOC || { ox:[], c45:[], topics:[] };
   window.OXC = window.OXC || {};
 
   // ---- dữ liệu
-  const OX = C.ox.map(r => ({ w:r[0], pos:r[1], f5:!!r[2], L:r[3], j:r[4], k:fold(r[0]) }));
+  const OX = C.ox.map(r => ({ w:r[0], pos:r[1], f5:!!r[2], L:r[3], j:r[4], m:r[5] || (r[2] ? 1 : 0), lv:r[6] || '', k:fold(r[0]) }));
+  // lọc theo danh sách từ phổ biến: bit 1 = ★5000 từ, 2 = Oxford 3000, 4 = Oxford 5000, 8 = Oxford Word Skills
+  const pass = o => (!st.flt || (o.m & +st.flt)) && (!st.cefr || o.lv === st.cefr);
+  const fltName = () => [st.flt ? $('flt').selectedOptions[0].text : '', st.cefr].filter(Boolean).join(' · ');
   const OXBY = new Map(); OX.forEach(o => { if (!OXBY.has(o.k)) OXBY.set(o.k, []); OXBY.get(o.k).push(o); });
   const LV = { ets:['🎯 ETS 2026','ets'], hackers:['📘 Hackers','hk'], topic:['⭐ chủ đề TOEIC','tp'] };
   const C45 = C.c45.map(r => ({ p:r[0], vi:r[1], t:r[2], k:r[3], lv:r[4], ets:r[5], key:fold(r[0] + ' ' + r[1]) }));
@@ -162,7 +168,9 @@
       else body += `<div class="grp">${b[1] ? `<span class="cat">${esc(b[1])}</span>` : ''}<ul class="segs">${b[2].map(([c, ex]) =>
           `<li><b class="co">${hiQ(c, qs)}</b>${ex.map(e => `<span class="oex">${hiQ(e, qs)}</span>`).join('')}</li>`).join('')}</ul></div>`;
     }
-    return `<section class="card ox"><div class="h">${say(o.w)}<span class="w">${hiQ(o.w, qs)}</span><span class="kind">${esc(o.pos)}</span>${o.f5 ? '<span class="tag t5">★ 5000 từ</span>' : ''}</div>${body}</section>`;
+    const badges = (o.f5 ? '<span class="tag t5">★ 5000 từ</span>' : '') + (o.m & 2 ? '<span class="tag hk">Oxford 3000</span>' : o.m & 4 ? '<span class="tag hk">Oxford 5000</span>' : '')
+      + (o.lv ? `<span class="tag ets">${o.lv}</span>` : '') + (o.m & 8 ? '<span class="tag tp">Word Skills</span>' : '');
+    return `<section class="card ox"><div class="h">${say(o.w)}<span class="w">${hiQ(o.w, qs)}</span><span class="kind">${esc(o.pos)}</span>${badges}</div>${body}</section>`;
   }
   function c45Item(r, qs, showTopic) {
     return `<li>${say(r.p)}<span class="p">${hiQ(r.p, qs)}</span><span class="m">${hiQ(r.vi, qs)}</span>`
@@ -189,10 +197,10 @@
   }
   function oxMatches(fq) {
     const exact = [], seen = new Set();
-    const add = o => { const id = o.L + o.j; if (!seen.has(id) && (!st.f5 || o.f5)) { seen.add(id); exact.push(o); } };
+    const add = o => { const id = o.L + o.j; if (!seen.has(id) && pass(o)) { seen.add(id); exact.push(o); } };
     (OXBY.get(fq) || []).forEach(add);
     for (const tok of fq.split(/[^a-z'-]+/).filter(t => t.length >= 3)) for (const s of stems(tok)) (OXBY.get(s) || []).forEach(add);
-    const pre = fq.length >= 2 && !/\s/.test(fq) ? OX.filter(o => o.k.startsWith(fq) && !seen.has(o.L + o.j) && (!st.f5 || o.f5)).slice(0, 60) : [];
+    const pre = fq.length >= 2 && !/\s/.test(fq) ? OX.filter(o => o.k.startsWith(fq) && !seen.has(o.L + o.j) && pass(o)).slice(0, 60) : [];
     return { exact, pre };
   }
 
@@ -200,7 +208,7 @@
   function render() {
     const my = ++gen;
     document.querySelectorAll('#tabs .btn').forEach(b => b.classList.toggle('on', b.dataset.tab === st.tab));
-    $('f5Btn').classList.toggle('on', st.f5);
+    $('flt').value = st.flt; $('cefr').value = st.cefr;
     document.body.classList.toggle('noex', !st.ex);
     const fq = fold($('q').value.trim()), qs = fq ? [fq] : [];
     const tab = st.tab, H = [];
@@ -231,10 +239,10 @@
       } else {
         const letters = [...new Set(OX.map(o => o.L))].sort();
         if (!letters.includes(st.letter)) st.letter = letters[0];
-        const W = OX.filter(o => o.L === st.letter && (!st.f5 || o.f5));
+        const W = OX.filter(o => o.L === st.letter && pass(o));
         H.push(`<div class="chips">${letters.map(L => `<button data-L="${L}" class="${L === st.letter ? 'on' : ''}">${L.toUpperCase()}</button>`).join('')}</div>`);
         H.push(`<ul class="words">${W.map(o => `<li><button class="${o.f5 ? 'f5' : ''}" data-w="${esc(o.w)}">${esc(o.w)}</button></li>`).join('')}</ul>`);
-        stat = `Chữ ${st.letter.toUpperCase()}: ${W.length} từ mục${st.f5 ? ' (chỉ ★ 5000 từ)' : ''} — bấm một từ để xem collocation.`;
+        stat = `Chữ ${st.letter.toUpperCase()}: ${W.length} từ mục${fltName() ? ' (' + fltName() + ')' : ''} — bấm một từ để xem collocation.`;
       }
     }
 
@@ -287,7 +295,8 @@
   });
   let tm = null;
   $('q').addEventListener('input', () => { clearTimeout(tm); tm = setTimeout(() => { history.replaceState(null, '', $('q').value.trim() ? '#q=' + encodeURIComponent($('q').value.trim()) : location.pathname + location.search); render(); }, 180); });
-  $('f5Btn').onclick = () => { st.f5 = !st.f5; save(); render(); };
+  $('flt').onchange = e => { st.flt = e.target.value; save(); render(); };
+  $('cefr').onchange = e => { st.cefr = e.target.value; save(); render(); };
   $('exBtn').onclick = () => { st.ex = !st.ex; $('exBtn').classList.toggle('on', st.ex); save(); render(); };
   $('exBtn').classList.toggle('on', st.ex);
   const h = location.hash.match(/q=([^&]*)/); if (h) { $('q').value = decodeURIComponent(h[1]); }

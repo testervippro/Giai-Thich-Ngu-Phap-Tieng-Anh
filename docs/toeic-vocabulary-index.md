@@ -2,6 +2,8 @@
 
 > Gộp và **bỏ trùng** 4 nguồn: *Hackers TOEIC Vocabulary* (Index, OCR); **5000 từ vựng IELTS thông dụng** theo 33 chủ đề ([flyer.vn](https://flyer.vn/5000-tu-vung-ielts-thong-dung/), có phiên âm); **Oxford Word Skills** Basic / Intermediate / Advanced (Word list ở cuối sách, OCR); **The Oxford 3000 & 5000** theo cấp CEFR ([oxfordlearnersdictionaries.com](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000), gộp bản Anh và Mỹ). Nghĩa tiếng Việt: theo nguồn nếu có, còn lại dịch bổ sung — có thể chưa sát ngữ cảnh. Dùng `Ctrl+F` để tra nhanh.
 
+> 🔎 **[Mở bản tra cứu có bộ lọc](tools/vocab-index.html)** — lọc theo nguồn (TOEIC / IELTS / Word Skills / Oxford 3000–5000), cấp CEFR, chủ đề IELTS.
+
 > Tổng cộng: **14.068 mục** (đã bỏ trùng), A–Z — TOEIC 5.031 · IELTS 3.665 · Word Skills 6.800 · Oxford 3000/5000 5.055.
 
 ---

@@ -465,6 +465,18 @@ def key(p):
     return re.sub(r"[^a-z/ ]", "", p.lower()).strip()
 
 
+# danh sách từ phổ biến (để lọc trên trang): Oxford 3000/5000 theo CEFR, Oxford Word Skills (tools/vocab_index_build.py)
+_D = os.path.join(ROOT, "tools", "data")
+OX3, OX5, OXLV, OWS = set(), set(), {}, set()
+if os.path.exists(os.path.join(_D, "oxford_3000_5000.json")):
+    for r in json.load(open(os.path.join(_D, "oxford_3000_5000.json"), encoding="utf-8")):
+        k = r["w"].lower()
+        (OX3 if any(x.endswith("3000") for x in r["src"]) else OX5).add(k)
+        OXLV.setdefault(k, r["lv"])
+if os.path.exists(os.path.join(_D, "oxford_word_skills_index.json")):
+    OWS = {re.sub(r"\s*\(.*", "", r["w"]).strip().lower() for r in json.load(open(os.path.join(_D, "oxford_word_skills_index.json"), encoding="utf-8"))}
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     ox = oxford()
@@ -482,7 +494,9 @@ def main():
         with open(os.path.join(OUT, "ox-%s.js" % L), "w", encoding="utf-8") as f:
             f.write("window.OXC=window.OXC||{};OXC[%s]=%s;\n" % (json.dumps(L), json.dumps([e["b"] for e in by_letter[L]], ensure_ascii=False, separators=(",", ":"))))
         for j, e in enumerate(by_letter[L]):
-            idx.append([e["w"], "/".join(e["pos"]), e["f"], L, j])
+            k = e["w"].lower()
+            mask = (1 if e["f"] else 0) | (2 if k in OX3 else 0) | (4 if k in OX5 else 0) | (8 if k in OWS else 0)
+            idx.append([e["w"], "/".join(e["pos"]), e["f"], L, j, mask, OXLV.get(k, "")])
     rows = four500()
     tk = {key(r["p"]): r for r in rows}
     extra = 0

@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Từ vựng TOEIC IELTS Oxford</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { max-width:1040px; margin:auto; padding:4px 16px 48px; }
+    h1 { margin:0 0 6px; font-size:24px; }
+    .lead { color:var(--muted); margin:0 0 10px; font-size:14px; }
+    .lead b { color:var(--ink); }
+    .bar { position:sticky; top:0; z-index:3; background:var(--bg); padding:8px 0 6px; }
+    .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+    .row + .row { margin-top:6px; }
+    input[type=search], select { padding:8px 10px; border:1px solid var(--line); border-radius:9px; background:var(--card); color:inherit; font:inherit; max-width:100%; }
+    input[type=search] { flex:1 1 240px; min-width:0; }
+    select { flex:0 1 auto; min-width:0; }
+    .chips { display:flex; gap:6px; overflow-x:auto; scrollbar-width:none; flex-wrap:nowrap; }
+    .chips::-webkit-scrollbar { display:none; }
+    .chip { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:999px; padding:5px 11px; font:inherit; font-size:13.5px; cursor:pointer; white-space:nowrap; }
+    .chip small { color:var(--muted); margin-left:3px; }
+    .chip.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .chip.on small { color:inherit; }
+    .btn { border:1px solid var(--line); background:var(--card); color:inherit; border-radius:9px; padding:7px 11px; font:inherit; font-size:14px; cursor:pointer; white-space:nowrap; }
+    .stat { color:var(--muted); font-size:13px; margin:6px 0 8px; }
+    .az { display:flex; flex-wrap:wrap; gap:4px; margin:0 0 10px; }
+    .az button { font:inherit; font-size:12.5px; min-width:28px; padding:2px 7px; border:1px solid var(--line); border-radius:999px; background:var(--card); color:inherit; cursor:pointer; }
+    .az button.on { background:var(--accentbg); border-color:var(--accent); color:var(--accent); font-weight:700; }
+    .list { list-style:none; margin:0; padding:0; }
+    .list li { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1.3fr); gap:4px 14px; padding:7px 4px; border-bottom:1px solid var(--line); align-items:baseline; }
+    .w { font-weight:700; display:flex; gap:6px; align-items:baseline; flex-wrap:wrap; }
+    .ipa { font-weight:400; color:var(--muted); font-size:13px; }
+    .vi { font-size:14.5px; }
+    .tags { grid-column:1 / -1; display:flex; gap:4px; flex-wrap:wrap; }
+    .tag { font-size:11px; padding:0 7px; border-radius:999px; border:1px solid var(--line); color:var(--muted); white-space:nowrap; }
+    .tag.t1 { border-color:#2563eb; color:#2563eb; }
+    .tag.t2 { border-color:#059669; color:#059669; }
+    .tag.t3 { border-color:#d97706; color:#b45309; }
+    .tag.t4 { border-color:#7c3aed; color:#7c3aed; }
+    .tag.lv { border-color:#dc2626; color:#dc2626; font-weight:700; }
+    .say { border:0; background:none; cursor:pointer; font-size:14px; padding:0 2px; color:inherit; }
+    mark { background:#fde68a; color:inherit; border-radius:3px; }
+    .more { display:block; margin:14px auto; }
+    .foot { color:var(--muted); font-size:12.5px; margin-top:24px; }
+    @media (max-width:560px) { .list li { grid-template-columns:1fr; } }
+  </style>
+<link rel="stylesheet" href="../assets/ui.css">
+<script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Từ vựng TOEIC · IELTS · Oxford"></script>
+</head>
+<body>
+<main>
+  <h1>📚 Từ vựng TOEIC · IELTS · Oxford — tra cứu có bộ lọc</h1>
+  <p class="lead"><b id="nAll">…</b> mục đã bỏ trùng từ 4 nguồn: <i>Hackers TOEIC Vocabulary</i>, <b>5000 từ IELTS</b> theo 33 chủ đề (flyer.vn, có phiên âm), <b>Oxford Word Skills</b> Basic/Intermediate/Advanced và <b>Oxford 3000/5000</b> theo cấp CEFR. Chọn nguồn (chọn nhiều được), cấp độ, chủ đề hoặc gõ từ / nghĩa tiếng Việt.</p>
+  <div class="bar">
+    <div class="row">
+      <input type="search" id="q" placeholder="Tìm từ tiếng Anh hoặc nghĩa tiếng Việt" aria-label="Tìm" autocomplete="off">
+      <select id="lv" aria-label="Cấp CEFR"><option value="">Mọi cấp CEFR</option><option>A1</option><option>A2</option><option>B1</option><option>B2</option><option>C1</option><option value="-">Chưa có cấp</option></select>
+      <select id="tp" aria-label="Chủ đề IELTS"><option value="">Mọi chủ đề IELTS</option></select>
+      <button class="btn" id="reset">↺ Bỏ lọc</button>
+    </div>
+    <div class="row chips" id="src"></div>
+  </div>
+  <div class="stat" id="stat"></div>
+  <div class="az" id="az"></div>
+  <ul class="list" id="out"></ul>
+  <button class="btn more" id="more" hidden>Xem thêm</button>
+  <p class="foot">Nguồn: Hackers TOEIC Vocabulary (Index, OCR); flyer.vn — 5000 từ vựng IELTS thông dụng; Oxford Word Skills Basic/Intermediate/Advanced (Word list cuối sách, OCR); The Oxford 3000/5000 by CEFR level (oxfordlearnersdictionaries.com). Nghĩa tiếng Việt theo nguồn nếu có, còn lại dịch bổ sung. Bản dạng bảng: <a href="../#/toeic-vocabulary-index">Danh sách từ vựng (bảng)</a>.</p>
+</main>
+<script src="vocab-index-data.js"></script>
+<script>
+(() => {
+  "use strict";
+  const $ = id => document.getElementById(id);
+  const esc = t => String(t == null ? '' : t).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const fold = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/[’‘]/g, "'");
+  const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
+  const V = window.VOCAB_INDEX || { src:[], topics:[], rows:[] };
+  const LABEL = ['TOEIC', 'IELTS', 'Word Skills Basic', 'Word Skills Intermediate', 'Word Skills Advanced', 'Oxford 3000', 'Oxford 5000'];
+  const TAGC = ['t1', 't2', 't3', 't3', 't3', 't4', 't4'];
+  const TAGS = ['TOEIC', 'IELTS', 'WS Basic', 'WS Int', 'WS Adv', 'Oxford 3000', 'Oxford 5000'];
+  const R = V.rows.map(r => ({ w:r[0], vi:r[1], ipa:r[2], f:r[3], lv:r[4], tp:r[5] || [], k:fold(r[0]), kv:fold(r[1]),
+    L: (/[a-z]/i.test(r[0][0]) ? r[0][0].toUpperCase() : '#') }));
+  const st = Object.assign({ src:0, lv:'', tp:'', L:'' }, ls.get('vocabIndex', {}));
+  const save = () => ls.set('vocabIndex', { src:st.src, lv:st.lv, tp:st.tp, L:st.L });
+  $('nAll').textContent = R.length.toLocaleString('vi');
+
+  // chip nguồn (bit mask, chọn nhiều = HOẶC)
+  $('src').innerHTML = LABEL.map((l, i) => `<button class="chip" data-b="${i}">${esc(l)}<small>${R.filter(r => r.f & (1 << i)).length.toLocaleString('vi')}</small></button>`).join('');
+  $('tp').innerHTML += V.topics.map((t, i) => `<option value="${i}">${esc(t)}</option>`).join('');
+
+  const hi = (t, q) => { const s = String(t); if (!q || q.length < 2) return esc(s); const i = fold(s).indexOf(q); return i < 0 ? esc(s) : esc(s.slice(0, i)) + '<mark>' + esc(s.slice(i, i + q.length)) + '</mark>' + esc(s.slice(i + q.length)); };
+  let shown = 300, V2 = [];
+  function filter() {
+    const q = fold($('q').value.trim());
+    return R.filter(r => (!st.src || (r.f & st.src))
+      && (!st.lv || (st.lv === '-' ? !r.lv : r.lv === st.lv))
+      && (st.tp === '' || r.tp.includes(+st.tp))
+      && (!q || r.k.includes(q) || r.kv.includes(q)));
+  }
+  function render(keep) {
+    document.querySelectorAll('#src .chip').forEach(b => b.classList.toggle('on', !!(st.src & (1 << +b.dataset.b))));
+    $('lv').value = st.lv; $('tp').value = st.tp;
+    const q = fold($('q').value.trim());
+    const base = filter();
+    const letters = [...new Set(base.map(r => r.L))].sort();
+    if (st.L && !letters.includes(st.L)) st.L = '';
+    $('az').innerHTML = `<button data-l="" class="${st.L ? '' : 'on'}">Tất cả</button>` + letters.map(l => `<button data-l="${l}" class="${l === st.L ? 'on' : ''}">${l}</button>`).join('');
+    V2 = st.L ? base.filter(r => r.L === st.L) : base;
+    if (q) V2 = V2.slice().sort((a, b) => (b.k === q) - (a.k === q) || (b.k.startsWith(q)) - (a.k.startsWith(q)) || a.k.length - b.k.length);
+    if (!keep) shown = 300;
+    $('stat').textContent = `Đang hiện ${Math.min(shown, V2.length).toLocaleString('vi')} / ${V2.length.toLocaleString('vi')} mục khớp bộ lọc`;
+    $('out').innerHTML = V2.slice(0, shown).map(r => {
+      const tags = TAGS.map((t, i) => (r.f & (1 << i)) ? `<span class="tag ${TAGC[i]}">${t}</span>` : '').join('')
+        + (r.lv ? `<span class="tag lv">${r.lv}</span>` : '') + r.tp.map(i => `<span class="tag">${esc(V.topics[i])}</span>`).join('');
+      return `<li><div class="w"><button class="say" data-t="${esc(r.w)}" title="Nghe">🔊</button>${hi(r.w, q)}${r.ipa ? `<span class="ipa">${esc(r.ipa)}</span>` : ''}</div><div class="vi">${hi(r.vi, q)}</div><div class="tags">${tags}</div></li>`;
+    }).join('') || '<li class="stat">Không có mục nào khớp.</li>';
+    $('more').hidden = shown >= V2.length;
+    save();
+  }
+  $('src').addEventListener('click', e => { const b = e.target.closest('[data-b]'); if (!b) return; st.src ^= 1 << +b.dataset.b; render(); });
+  $('az').addEventListener('click', e => { const b = e.target.closest('[data-l]'); if (!b) return; st.L = b.dataset.l; render(); });
+  $('lv').onchange = e => { st.lv = e.target.value; render(); };
+  $('tp').onchange = e => { st.tp = e.target.value; if (st.tp !== '') st.src |= 2; render(); };
+  $('reset').onclick = () => { st.src = 0; st.lv = ''; st.tp = ''; st.L = ''; $('q').value = ''; render(); };
+  $('more').onclick = () => { shown += 300; render(true); };
+  let tm = null;
+  $('q').addEventListener('input', () => { clearTimeout(tm); tm = setTimeout(() => render(), 150); });
+  $('out').addEventListener('click', e => {
+    const b = e.target.closest('.say'); if (!b || !window.speechSynthesis) return;
+    const u = new SpeechSynthesisUtterance(b.dataset.t.replace(/\bsth\b/g, 'something').replace(/\bsb\b/g, 'somebody')); u.lang = 'en-GB'; u.rate = 0.9;
+    speechSynthesis.cancel(); speechSynthesis.speak(u);
+  });
+  const h = location.hash.match(/q=([^&]*)/); if (h) $('q').value = decodeURIComponent(h[1]);
+  render();
+})();
+</script>
+</body>
+</html>
