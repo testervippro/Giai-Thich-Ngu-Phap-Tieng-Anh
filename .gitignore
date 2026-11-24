@@ -17,3 +17,8 @@ private/
 /kanji_cards_old/
 tools/fonts/
 /kanji_gif/
+
+# Giọng nhân bản — chỉ dùng trên máy, không đưa lên site công khai
+docs/kanji-viewer/tts/vi_clone/
+docs/kanji-viewer/*.wav
+/kanji-cau-chuyen*

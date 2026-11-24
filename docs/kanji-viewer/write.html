@@ -219,7 +219,7 @@
       <button class="btn" id="aFs" title="Toàn màn hình">⛶ Toàn màn hình</button>
       <label>Lặp <input id="aRep" type="number" min="1" max="50" value="3"> lần</label>
       <label>Tốc độ <select id="aSpeed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label>
-      <label>Giọng đọc <select id="aVoice"><option value="vi_huyen">Ngọc Huyền (nữ, tự nhiên)</option><option value="vi_dang">Hải Đăng (nam, tự nhiên)</option><option value="off">Tắt tiếng</option></select></label>
+      <label>Giọng đọc <select id="aVoice"><option value="vi_huyen">Ngọc Huyền (nữ, tự nhiên)</option><option value="vi_dang">Hải Đăng (nam, tự nhiên)</option><option value="vi_clone" id="aCloneOpt" hidden>Giọng nhân bản (chỉ máy này)</option><option value="off">Tắt tiếng</option></select></label>
     </div>
   </section>
   <div id="liteList"></div>
@@ -481,6 +481,11 @@
   $('aAgain').onclick = () => { t = 0; loop = 0; if (voice) voice.pause(); spoken = false; status(); setPlaying(true); };
   $('aRep').onchange = () => { store.set('rep', $('aRep').value); status(); };
   $('aSpeed').onchange = () => { store.set('speed', $('aSpeed').value); if (voice) voice.playbackRate = speed(); };
+  // Giọng nhân bản chỉ có trên máy (tts/vi_clone không đưa lên site): thấy file mẫu thì mới hiện lựa chọn.
+  { const pr = new Audio(); pr.preload = 'metadata';
+    pr.onloadedmetadata = () => { $('aCloneOpt').hidden = false; if (store.get('voice', '') === 'vi_clone') { $('aVoice').value = 'vi_clone'; loadVoice(); } };
+    pr.src = 'tts/vi_clone/29df6784.mp3'; }
+  if ($('aVoice').value === 'vi_clone' && $('aCloneOpt').hidden) $('aVoice').value = 'vi_huyen';
   $('aVoice').onchange = () => { store.set('voice', $('aVoice').value); t = 0; timing(2.8); loadVoice(); };
   window.KWAnim = { setCard, setActive };
 })();

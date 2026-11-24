@@ -180,6 +180,7 @@ body.rtk #langRow,body.rtk #voiceRow,body.rtk #viVoiceRow,body.rtk #enText{displ
     <select id="viVoiceSelect" class="setselect" style="margin:0;width:auto;flex:1;padding:6px 8px;font-size:13px">
       <option value="vi_huyen">⭐ Ngọc Huyền (nữ Bắc, tự nhiên)</option>
       <option value="vi_dang">⭐ Hải Đăng (nam Bắc, tự nhiên)</option>
+      <option value="vi_clone" id="viCloneOpt" hidden>⭐ Giọng nhân bản (chỉ máy này)</option>
       <option value="system">Giọng của máy</option>
     </select>
   </div>
@@ -1122,6 +1123,11 @@ $("speakLang").addEventListener("change", (e) => {
   if (speakOn) speakCurrent();
 });
 $("viVoiceSelect").value = viVoiceName;
+// Giọng nhân bản chỉ có trên máy (tts/vi_clone không đưa lên site): thấy file mẫu thì mới hiện lựa chọn.
+{ const pr = new Audio(); pr.preload = "metadata";
+  pr.onloadedmetadata = () => { $("viCloneOpt").hidden = false; $("viVoiceSelect").value = viVoiceName; };
+  pr.onerror = () => { if (viVoiceName === "vi_clone"){ viVoiceName = "vi_huyen"; $("viVoiceSelect").value = viVoiceName; } };
+  pr.src = "tts/vi_clone/29df6784.mp3"; }
 $("viVoiceSelect").addEventListener("change", (e) => {
   viVoiceName = e.target.value;
   localStorage.setItem("kanjiViewerViVoice", viVoiceName);
