@@ -182,7 +182,7 @@
     ygPending = ygCur;
     if (ygLoading) return; ygLoading = true;
     window.onYouglishAPIReady = () => {
-      ygW = new YG.Widget('yg-widget', { width: Math.min(560, innerWidth - 2), components: YG_COMP, captionSize: 24, autoStart: 1, events: {
+      ygW = new YG.Widget('yg-widget', { width: Math.min(560, innerWidth - 2), components: YG_COMP, captionSize: 24, autoStart: 1, videoQuality: 'medium', events: {
         onFetchDone: e => { ygTot = e.totalResult || 0; $('ygn').textContent = ygTot ? `${ygTot} clip` : 'không có clip — thử ↗ hoặc đổi giọng'; },
         onCaptionChange: ygCap,
         onVideoChange: e => { ygStart = null; ygRep = 0; ygBusy = false; if (ygTot) $('ygn').textContent = `${e.trackNumber || 1}/${ygTot} clip`; },
