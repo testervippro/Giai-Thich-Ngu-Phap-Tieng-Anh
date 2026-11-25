@@ -38,6 +38,7 @@
     .story { font-size:14px; color:var(--muted); margin:-2px 0 10px; }
     .rtkStory { color:var(--ink); line-height:1.6; padding:10px 12px; border:1px solid var(--line, rgba(127,127,127,.25)); border-radius:10px; }
     .rtkStory i { color:var(--accent); }
+    .rtkPic { display:block; width:min(300px,100%); height:auto; aspect-ratio:1; margin:4px auto 10px; border-radius:12px; background:#fff; box-shadow:0 2px 10px rgba(0,0,0,.12); }
     .rtkPrim { margin-top:8px; font-size:13px; color:var(--muted); }
     .box { position:relative; width:100%; max-width:var(--boxmax, none); margin:0 auto; aspect-ratio:1/1; border-radius:12px; background:#fffdf8; overflow:hidden; touch-action:none; }
     :root[data-theme="dark"] .box { background:#1d1a17; }
@@ -268,6 +269,7 @@
 <script src="kanji-anim-crop.js"></script>
 <script src="kanji-nonjoyo.js"></script>
 <script src="rtk-data.js"></script>
+<script src="rtk-img.js"></script>
 <script src="kanji-lu.js"></script>
 <script>
 // 🎞️ Chuyển động ngay trong trang Học Kanji: câu chuyện hiện từng cụm → chữ Kanji to; mỗi chữ lặp N lần rồi tự sang chữ kế.
@@ -542,6 +544,8 @@
     const a = BYCH.get(r[0]) || BYCH.get(VARK[r[0]]) || {};
     const where = r[3] === 1 ? `Tập 1 · Bài ${r[4]}` : r[3] === 3 ? 'Tập 3' : 'ngoài sách';
     return { n: a.n || ('F' + r[1]), k: r[0], hv: r[2], m: [a.hv, a.m].filter(Boolean).join(' · '), j: a.j || '', s: '',
+      // ảnh minh hoạ câu chuyện Heisig (tools/rtk_images.py) — đang thử, mới có vài frame đầu
+      pic: window.RTK_IMG && RTK_IMG.has(r[1]) ? `rtk_img/${String(r[1]).padStart(4, '0')}.webp` : '',
       html: (r[5] || '') + (r[6] ? `<div class="rtkPrim">${r[6]}</div>` : ''), img: a.img || null,
       tag: `📘 Frame ${r[1] || '—'} · ${where}${r[7] ? ' · ' + r[7] + ' nét' : ''}${a.j ? ' · ' + a.j : ''}` };
   });
@@ -853,8 +857,11 @@
     $('kMEn').textContent = enM(x.k) ? '🇬🇧 ' + enM(x.k) : '';
     $('kStoryEn').textContent = x.s && !x.html && enS(x.k) ? '🇬🇧 ' + enS(x.k) : '';
     $('kTag').textContent = x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`;
-    if (x.html != null) $('kStory').innerHTML = x.html ? '<div class="rtkStory">📖 ' + x.html + '</div>' : '';
+    if (x.html != null) $('kStory').innerHTML = (x.pic ? `<img class="rtkPic" src="${x.pic}" alt="Ảnh minh hoạ câu chuyện: ${escH(x.hv)}" title="Ảnh minh hoạ câu chuyện Heisig (AI vẽ)">` : '')
+      + (x.html ? '<div class="rtkStory">📖 ' + x.html + '</div>' : '')
+      + (st.set === 'rtk' && !x.pic && window.RTK_IMG && RTK_IMG.size ? `<div class="rtkPrim">🖼 Ảnh minh hoạ câu chuyện đang thử, mới có ${RTK_IMG.size} chữ đầu (1–${RTK_IMG.size}). <a href="#" id="rtkPicGo">Về chữ 1 để xem →</a></div>` : '');
     else $('kStory').textContent = x.s ? '📖 ' + x.s : '';
+    const go1 = document.getElementById('rtkPicGo'); if (go1) go1.onclick = e => { e.preventDefault(); i = 0; show(); };
     $('kLu').innerHTML = luHtml(x); $('kLu').classList.toggle('hidden', !$('kLu').innerHTML);
     $('kChain').innerHTML = chainHtml(x, i);
     $('kChain').querySelectorAll('[data-k]').forEach(d => d.onclick = () => jumpTo(d.dataset.k));
@@ -931,7 +938,7 @@
       $('liteList').innerHTML = `<div class="liteHead">${list.length.toLocaleString('vi-VN')} chữ · bấm dòng mảnh ghép để nhảy tới chữ đó</div>` + list.map((x, ix) =>
         `<div class="li" id="li${ix}">`
         + `<div class="info"><div class="big">${escH(x.k)}</div><div><div class="hv">${escH(x.hv)}</div><div class="m">${escH(cap(x.m))}</div>${enM(x.k) ? `<div class="en">🇬🇧 ${escH(enM(x.k))}</div>` : ''}<div class="tag">${escH(x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`)} · #${ix + 1}</div></div></div>`
-        + (x.html ? `<div class="story"><div class="rtkStory">📖 ${x.html}</div></div>` : x.s ? `<div class="story">📖 ${escH(x.s)}</div>` : '')
+        + (x.html ? `<div class="story">${x.pic ? `<img class="rtkPic" loading="lazy" src="${x.pic}" alt="">` : ''}<div class="rtkStory">📖 ${x.html}</div></div>` : x.s ? `<div class="story">📖 ${escH(x.s)}</div>` : '')
         + (x.s && !x.html && enS(x.k) ? `<div class="story en">🇬🇧 ${escH(enS(x.k))}</div>` : '')
         + (luHtml(x) ? `<div class="lu">${luHtml(x)}</div>` : '')
         + (st.set === 'road' ? `<div class="chain">${chainHtml(x, ix)}</div>` : '')
