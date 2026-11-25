@@ -27,6 +27,8 @@ V2 = os.path.join(BOOKS, "Remembering the Kanji, Vol. 2 - James W. Heisig.pdf")
 V3 = os.path.join(BOOKS, "Remembering the Kanji, Vol. 3 - James W. Heisig.pdf")
 JOYO = os.path.join(ROOT, "tools", "data", "joyo2136.json")
 OUT = os.path.join(ROOT, "docs", "kanji-viewer", "rtk-data.js")
+PRIM_OUT = os.path.join(ROOT, "docs", "kanji-viewer", "rtk-prims.js")
+PRIM_DIR = os.path.join(ROOT, "docs", "kanji-viewer", "rtk_prim")
 K = r"[㐀-鿿豈-﫿\U00020000-\U0002ffff]"
 LIGS = [("ﬀ", "ff"), ("ﬁ", "fi"), ("ﬂ", "fl"), ("ﬃ", "ffi"), ("ﬄ", "ffl")]
 # Jōyō 2010 viết khác dạng chữ trong sách
@@ -71,6 +73,31 @@ def frame_map(t2, t3):
     return F
 
 
+def join_body(body, F):
+    """Các mảnh chữ (y, text) -> html câu chuyện (<i> thành phần, <b> keyword)."""
+    txt, lasty = "", None
+    for y, t in body:
+        if lasty is not None and y != lasty:
+            if txt.endswith("-") and not txt.endswith(" -"):
+                txt = txt[:-1]
+            elif not txt.endswith(" "):
+                txt += " "
+        txt += t; lasty = y
+    txt = re.sub(r"\x02\s*\x01", " ", txt); txt = re.sub(r"\x04\s*\x03", " ", txt)
+    txt = txt.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    txt = txt.replace("\x01", "<i>").replace("\x02", "</i>").replace("\x03", "<b>").replace("\x04", "</b>")
+    txt = re.sub(r"◆(\s*)\((frames?)\s+(\d+)", lambda m: (F.get(int(m.group(3))) or ["?"])[0] + m.group(1) + "(" + m.group(2) + " " + m.group(3), txt)
+    txt = re.sub(r"\s*◆+", "", txt)
+    txt = re.sub(r"(?<![\u3400-\u9fff] )\((frames?) (\d+)\)", lambda m: "(" + ((F.get(int(m.group(2))) or [""])[0] + " " if (F.get(int(m.group(2))) or [""])[0] else "") + m.group(1) + " " + m.group(2) + ")", txt)
+    txt = re.sub(r"\s+", " ", txt).strip()
+    txt = re.sub(r"<i>\s*</i>|<b>\s*</b>", "", txt)
+    txt = re.sub(r"\s+([,.;:])", r"\1", txt)
+    return txt
+
+
+PRIMS = []
+
+
 def parse_v1(F):
     d = fitz.open(V1)
     LIG = {"³": "fi", "µ": "fl"}
@@ -108,15 +135,21 @@ def parse_v1(F):
                 if 1 <= n <= 2042 and n not in frames:
                     cur = {"n": n, "kw": "", "body": [], "les": les}; frames[n] = cur; continue
             if abs(sz - 18) < .5 and t.strip() == "*":
-                cur = None; continue
+                # ô thành phần cơ bản (không phải chữ Kanji): lưu riêng vào PRIMS
+                cur = {"n": None, "kw": "", "body": [], "les": les, "after": max(frames) if frames else 0,
+                       "page": pno, "star": list(s["bbox"]), "glyph": []}
+                PRIMS.append(cur); continue
             if cur is None:
                 continue
-            if f.startswith("Minion-Regular") and abs(sz - 18) < .5 and x > 250:
+            if (f.startswith("Minion-Regular") or (cur.get("n") is None and f.startswith("Minion-Italic"))) \
+                    and abs(sz - 18) < .5 and x > 250:
                 if not cur["body"]:
                     cur["kw"] = (cur["kw"] + " " + fix(t.strip())).strip()
                 continue
             if x < 150:
                 if not f.startswith("Minion") and sz > 20:
+                    if cur.get("n") is None:
+                        cur["glyph"].append([pno] + list(s["bbox"]))   # hình thành phần (font hình)
                     continue  # chữ Kanji to của frame
                 if abs(sz - 10.2) < .5:
                     cur = None  # chữ dẫn bài ngoài frame
@@ -133,24 +166,15 @@ def parse_v1(F):
             else:
                 cur["body"].append((round(s["gy"]), "◆"))  # chữ/bộ in bằng font hình
     out = {}
+    for c in PRIMS:
+        c["text"] = join_body(c["body"], F)
+        sx, sy = c["star"][0], c["star"][1]           # hình thành phần: ngay dưới dấu *
+        c["glyph"] = [[c["page"]] + list(sp["bbox"]) for b in d[c["page"]].get_text("dict")["blocks"]
+                      for l in b.get("lines", []) for sp in l["spans"]
+                      if not sp["font"].startswith("Minion") and sp["size"] > 20
+                      and abs(sp["bbox"][0] - sx) < 25 and 0 < sp["bbox"][1] - sy < 45][:1]
     for n, c in frames.items():
-        txt, lasty = "", None
-        for y, t in c["body"]:
-            if lasty is not None and y != lasty:
-                if txt.endswith("-") and not txt.endswith(" -"):
-                    txt = txt[:-1]
-                elif not txt.endswith(" "):
-                    txt += " "
-            txt += t; lasty = y
-        txt = re.sub(r"\x02\s*\x01", " ", txt); txt = re.sub(r"\x04\s*\x03", " ", txt)
-        txt = txt.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-        txt = txt.replace("\x01", "<i>").replace("\x02", "</i>").replace("\x03", "<b>").replace("\x04", "</b>")
-        txt = re.sub(r"◆(\s*)\((frames?)\s+(\d+)", lambda m: (F.get(int(m.group(3))) or ["?"])[0] + m.group(1) + "(" + m.group(2) + " " + m.group(3), txt)
-        txt = re.sub(r"\s*◆+", "", txt)
-        txt = re.sub(r"(?<![\u3400-\u9fff] )\((frames?) (\d+)\)", lambda m: "(" + ((F.get(int(m.group(2))) or [""])[0] + " " if (F.get(int(m.group(2))) or [""])[0] else "") + m.group(1) + " " + m.group(2) + ")", txt)
-        txt = re.sub(r"\s+", " ", txt).strip()
-        txt = re.sub(r"<i>\s*</i>|<b>\s*</b>", "", txt)
-        txt = re.sub(r"\s+([,.;:])", r"\1", txt)
+        txt = join_body(c["body"], F)
         m = re.search(r"\[(\d+)\]", txt)
         story, prim = txt, ""
         i = txt.find("* ")
@@ -246,6 +270,37 @@ def main():
                  "// [chữ, frame, keyword, tập (1/3; 0 = không có trong sách), bài (Vol 1), câu chuyện, ghi chú thành phần, số nét]\n")
         fo.write("window.RTK=" + json.dumps(rows, ensure_ascii=False, separators=(",", ":")) + ";\n")
     print("Vol1 %d · Vol3 %d · ngoài sách %d: %s" % (sum(r[3] == 1 for r in rows), sum(r[3] == 3 for r in rows), len(rest), "".join(rest)))
+    write_prims()
+
+
+def write_prims():
+    """Ô thành phần cơ bản (*) của Vol 1 -> rtk-prims.js + hình cắt từ PDF (rtk_prim/NNN.png).
+    [số thứ tự, keyword, bài, frame đứng trước trong sách, lời giải thích html]"""
+    d = fitz.open(V1)
+    os.makedirs(PRIM_DIR, exist_ok=True)
+    rows = []
+    for i, c in enumerate(PRIMS, 1):
+        pno, x0, y0, x1, y1 = c["glyph"][0]
+        r = fitz.Rect(x0 - 2, y0 - 2, x1 + 2, y1 + 2)
+        pix = d[pno].get_pixmap(clip=r, matrix=fitz.Matrix(6, 6), colorspace=fitz.csGRAY, alpha=False)
+        png = os.path.join(PRIM_DIR, "%03d.png" % i)
+        pix.save(png)
+        from PIL import Image, ImageOps
+        im = Image.open(png).convert("L")
+        box = ImageOps.invert(im).getbbox()           # cắt sát nét, chừa lề
+        if box:
+            im = im.crop(box)
+        im = ImageOps.expand(im, border=max(im.size) // 6 + 4, fill=255)
+        ink = ImageOps.invert(im)                         # nền trong suốt, nét đen (trang tối tự đổi màu bằng CSS)
+        out = Image.new("LA", im.size, 0); out.putalpha(ink)
+        out.save(png, optimize=True)
+        kw = re.sub(r"\s+", " ", c["kw"]).strip().replace("’", "'")
+        rows.append([i, kw, c["les"], c["after"], c["text"]])
+    with open(PRIM_OUT, "w", encoding="utf-8") as fo:
+        fo.write("// Thành phần cơ bản (ô *) theo bài, Remembering the Kanji Vol 1 — sinh bởi tools/rtk_kanji.py; hình: rtk_prim/NNN.png\n"
+                 "// [số thứ tự, keyword, bài, frame đứng trước trong sách, lời giải thích html]\n")
+        fo.write("window.RTK_PRIMS=" + json.dumps(rows, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    print("thành phần cơ bản: %d (%d bài)" % (len(rows), len({r[2] for r in rows})))
 
 
 if __name__ == "__main__":

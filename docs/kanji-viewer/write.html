@@ -114,6 +114,19 @@
     body.lite .sub b { font-size:26px; }
     body.lite .card, body.lite .xl, body.lite .layout, body.lite .words, body.lite .note, body.lite #extraNote,
     body.lite #info, body.lite #kStory, body.lite #kStoryEn, body.lite #kSub, body.lite #prev, body.lite #next, body.lite #pos, body.lite #rand { display:none !important; }
+    /* Thành phần cơ bản (ô * trong sách Heisig) của từng bài */
+    .lesHead { margin:18px 0 6px; padding:12px 14px; border:2px solid var(--accent); border-radius:12px; background:var(--accentbg); }
+    .lesHead .t { font-weight:700; font-size:20px; margin-bottom:6px; }
+    .lesHead .none { color:var(--muted); font-size:14px; }
+    .prim { display:flex; gap:12px; align-items:flex-start; padding:8px 0; border-top:1px dashed var(--line); }
+    .prim:first-of-type { border-top:0; }
+    .prim img, .rtkLes img { background:#fff; border-radius:8px; border:1px solid var(--line); object-fit:contain; }
+    .prim img { width:64px; height:64px; flex:none; padding:4px; }
+    .prim b { color:var(--accent); font-size:18px; }
+    .prim .pd { font-size:15px; color:var(--ink); }
+    .rtkLes { display:flex; flex-wrap:wrap; gap:6px 10px; align-items:center; margin:6px 0 10px; font-size:14px; color:var(--muted); }
+    .rtkLes span { display:inline-flex; align-items:center; gap:5px; padding:2px 8px 2px 3px; border:1px solid var(--line); border-radius:9px; color:var(--ink); cursor:help; }
+    .rtkLes img { width:30px; height:30px; padding:2px; }
     #liteList { display:none; }
     body.lite #liteList { display:block; }
     .li { padding:14px 0 16px; border-bottom:2px solid var(--line); content-visibility:auto; contain-intrinsic-size:auto 260px; }
@@ -270,6 +283,7 @@
 <script src="kanji-nonjoyo.js"></script>
 <script src="rtk-data.js"></script>
 <script src="rtk-img.js"></script>
+<script src="rtk-prims.js"></script>
 <script src="kanji-lu.js"></script>
 <script>
 // 🎞️ Chuyển động ngay trong trang Học Kanji: câu chuyện hiện từng cụm → chữ Kanji to; mỗi chữ lặp N lần rồi tự sang chữ kế.
@@ -543,12 +557,27 @@
   const RTK = (window.RTK || []).map(r => {
     const a = BYCH.get(r[0]) || BYCH.get(VARK[r[0]]) || {};
     const where = r[3] === 1 ? `Tập 1 · Bài ${r[4]}` : r[3] === 3 ? 'Tập 3' : 'ngoài sách';
-    return { n: a.n || ('F' + r[1]), k: r[0], hv: r[2], m: [a.hv, a.m].filter(Boolean).join(' · '), j: a.j || '', s: '',
+    return { les: r[3] === 1 ? r[4] : 0, n: a.n || ('F' + r[1]), k: r[0], hv: r[2], m: [a.hv, a.m].filter(Boolean).join(' · '), j: a.j || '', s: '',
       // ảnh minh hoạ câu chuyện Heisig (tools/rtk_images.py) — đang thử, mới có vài frame đầu
       pic: window.RTK_IMG && RTK_IMG.has(r[1]) ? `rtk_img/${String(r[1]).padStart(4, '0')}.webp` : '',
       html: (r[5] || '') + (r[6] ? `<div class="rtkPrim">${r[6]}</div>` : ''), img: a.img || null,
       tag: `📘 Frame ${r[1] || '—'} · ${where}${r[7] ? ' · ' + r[7] + ' nét' : ''}${a.j ? ' · ' + a.j : ''}` };
   });
+  // Thành phần cơ bản theo bài (rtk-prims.js): [số, keyword, bài, frame đứng trước, lời giải thích html]
+  const PRIMS_BY = new Map();
+  (window.RTK_PRIMS || []).forEach(p => { if (!PRIMS_BY.has(p[2])) PRIMS_BY.set(p[2], []); PRIMS_BY.get(p[2]).push(p); });
+  const primImg = p => `rtk_prim/${String(p[0]).padStart(3, '0')}.png`;
+  const plain = h => String(h).replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+  function lesHead(les, n){
+    const ps = PRIMS_BY.get(les) || [];
+    return `<div class="lesHead"><div class="t">📗 Bài ${les} · ${n} chữ${ps.length ? ` · 🧱 ${ps.length} thành phần cơ bản cần nhớ` : ''}</div>`
+      + (ps.length ? ps.map(p => `<div class="prim"><img src="${primImg(p)}" alt="${escH(p[1])}" loading="lazy"><div><b>${escH(p[1])}</b><div class="pd">${p[4]}</div></div></div>`).join('')
+        : '<div class="none">Bài này không có thành phần cơ bản mới.</div>') + '</div>';
+  }
+  function lesChips(x){
+    const ps = x.les ? PRIMS_BY.get(x.les) || [] : [];
+    return ps.length ? `<div class="rtkLes">🧱 Thành phần bài ${x.les}: ${ps.map(p => `<span title="${escH(plain(p[4]))}"><img src="${primImg(p)}" alt="">${escH(p[1])}</span>`).join('')}</div>` : '';
+  }
   // 🗺️ Lộ trình p1+p2 (kanji-roadmap.js): mọi chữ đứng sau các mảnh mà câu chuyện của nó nhắc tới, chia chặng 40 chữ
   const RM = window.ROADMAP || {}, STAGES = RM.stages || [], STG = new Map();
   STAGES.forEach((sg, si) => sg.k.forEach(n => STG.set(n, si)));
@@ -857,7 +886,7 @@
     $('kMEn').textContent = enM(x.k) ? '🇬🇧 ' + enM(x.k) : '';
     $('kStoryEn').textContent = x.s && !x.html && enS(x.k) ? '🇬🇧 ' + enS(x.k) : '';
     $('kTag').textContent = x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`;
-    if (x.html != null) $('kStory').innerHTML = (x.pic ? `<img class="rtkPic" src="${x.pic}" alt="Ảnh minh hoạ câu chuyện: ${escH(x.hv)}" title="Ảnh minh hoạ câu chuyện Heisig (AI vẽ)">` : '')
+    if (x.html != null) $('kStory').innerHTML = (st.set === 'rtk' ? lesChips(x) : '') + (x.pic ? `<img class="rtkPic" src="${x.pic}" alt="Ảnh minh hoạ câu chuyện: ${escH(x.hv)}" title="Ảnh minh hoạ câu chuyện Heisig (AI vẽ)">` : '')
       + (x.html ? '<div class="rtkStory">📖 ' + x.html + '</div>' : '')
       + (st.set === 'rtk' && !x.pic && window.RTK_IMG && RTK_IMG.size ? `<div class="rtkPrim">🖼 Ảnh minh hoạ câu chuyện đang thử, mới có ${RTK_IMG.size} chữ đầu (1–${RTK_IMG.size}). <a href="#" id="rtkPicGo">Về chữ 1 để xem →</a></div>` : '');
     else $('kStory').textContent = x.s ? '📖 ' + x.s : '';
@@ -936,7 +965,8 @@
     if (liteFor !== key){
       liteFor = key;
       $('liteList').innerHTML = `<div class="liteHead">${list.length.toLocaleString('vi-VN')} chữ · bấm dòng mảnh ghép để nhảy tới chữ đó</div>` + list.map((x, ix) =>
-        `<div class="li" id="li${ix}">`
+        (st.set === 'rtk' && x.les && (ix === 0 || list[ix - 1].les !== x.les) ? lesHead(x.les, list.filter(y => y.les === x.les).length) : '')
+        + `<div class="li" id="li${ix}">`
         + `<div class="info"><div class="big">${escH(x.k)}</div><div><div class="hv">${escH(x.hv)}</div><div class="m">${escH(cap(x.m))}</div>${enM(x.k) ? `<div class="en">🇬🇧 ${escH(enM(x.k))}</div>` : ''}<div class="tag">${escH(x.tag || `Thẻ ${x.n}${x.j ? ' · ' + x.j : ''}`)} · #${ix + 1}</div></div></div>`
         + (x.html ? `<div class="story">${x.pic ? `<img class="rtkPic" loading="lazy" src="${x.pic}" alt="">` : ''}<div class="rtkStory">📖 ${x.html}</div></div>` : x.s ? `<div class="story">📖 ${escH(x.s)}</div>` : '')
         + (x.s && !x.html && enS(x.k) ? `<div class="story en">🇬🇧 ${escH(enS(x.k))}</div>` : '')
@@ -989,7 +1019,7 @@
   });
   window.addEventListener('ui-theme-change', () => { redraw(); });
   $('numsBtn').classList.toggle('on', st.nums); $('ghostBtn').classList.toggle('on', st.ghost); $('quizBtn').classList.toggle('on', st.quiz); cardLabel();
-  { const qs = new URLSearchParams(location.search); if (qs.get('anim')) st.anim = true; if (qs.get('write')) st.write = true; }
+  { const qs = new URLSearchParams(location.search); if (qs.get('anim')) st.anim = true; if (qs.get('write')) st.write = true; if (qs.get('lite')) st.lite = true; }
   { const q = new URLSearchParams(location.search).get('set'); if (q && [...$('set').options].some(o => o.value === q)){ st.set = q; $('set').value = q; } }
   { const o = $('roadOpt'); if (o && STAGES.length) o.textContent = `🗺️ Lộ trình p1+p2: mảnh trước, chữ ghép sau (${ROADSET.length} chữ · ${STAGES.length} chặng)`; }
   { const o = $('allOpt'); if (o) o.textContent = `Tất cả ${ALL.length.toLocaleString('vi-VN')} thẻ (2.136 chữ + ${ALL.filter(x => x.n > 2136).length} thẻ bổ sung)`; }
@@ -1000,6 +1030,7 @@
   const h = decodeURIComponent(location.hash.slice(1));
   if (h){ const L = pool(); const k = L.findIndex(x => x.k === h || String(x.n) === h); if (k >= 0) i = k; }
   show();
+  if (st.lite){ liteApply(); renderLite(); liteScroll(i); }
 })();
 </script>
 </body>
