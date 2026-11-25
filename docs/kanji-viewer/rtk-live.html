@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RTK ảnh trực tiếp</title>
+<style>
+  :root { color-scheme: light dark; --bg:#f7f7f5; --ink:#222; --card:#fff; --line:#ddd; --muted:#777; --accent:#2980b9; --warn:#c0392b; --soft:#b9770e; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#161616; --ink:#eee; --card:#222; --line:#333; --muted:#999; --warn:#e74c3c; --soft:#f0b429; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.5 system-ui,sans-serif; }
+  main { max-width:1100px; margin:auto; padding:12px 16px 40px; }
+  h1 { font-size:20px; margin:0 0 6px; }
+  .bar { position:sticky; top:0; background:var(--bg); padding:8px 0; z-index:2; border-bottom:1px solid var(--line); }
+  .prog { height:10px; background:var(--line); border-radius:9px; overflow:hidden; margin:6px 0; }
+  .prog i { display:block; height:100%; background:var(--accent); width:0; transition:width .5s; }
+  .ws { display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:6px 14px; margin:4px 0 6px; }
+  .ws .prog { height:6px; margin:2px 0 0; }
+  .ws .dead i { background:var(--muted); }
+  .stat, .ws { color:var(--muted); font-size:13.5px; }
+  .stat b { color:var(--ink); }
+  .grid { display:grid; gap:10px; margin-top:12px; }
+  .it { background:var(--card); border:1px solid var(--line); border-radius:10px; overflow:hidden; }
+  .it img { width:100%; display:block; background:#fff; }
+  .it .c { font-size:12.5px; color:var(--muted); padding:4px 8px 6px; }
+  .it .c b { color:var(--ink); }
+  .it .sc { display:block; font-style:italic; overflow-wrap:anywhere; }
+  .tag { display:inline-block; font-size:11.5px; padding:0 6px; border-radius:6px; border:1px solid currentColor; margin-left:6px; }
+  .tag.rv { color:var(--warn); } .tag.pr { color:var(--soft); }
+  .it.new { outline:3px solid var(--accent); }
+  label { font-size:13.5px; color:var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>🎨 Ảnh câu chuyện Heisig — đang vẽ trực tiếp</h1>
+  <div class="bar">
+    <div class="stat" id="st">Đang chờ tiến trình vẽ…</div>
+    <div class="prog"><i id="pg"></i></div>
+    <div class="ws" id="ws"></div>
+    <label><input type="checkbox" id="auto" checked> Tự cập nhật (3 giây)</label>
+    · <label>Hiện <select id="lim"><option>20</option><option selected>60</option><option>200</option><option value="9999">tất cả</option></select> ảnh mới nhất</label>
+    · <label><input type="checkbox" id="onlyrv"> Chỉ chữ cần xem lại</label>
+  </div>
+  <div class="grid" id="g"></div>
+</main>
+<script>
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const eta = m => m >= 60 ? Math.floor(m / 60) + ' giờ ' + Math.round(m % 60) + ' phút' : m + ' phút';
+  let shown = new Set(), first = true;
+  async function tick() {
+    let j;
+    try { j = await (await fetch('rtk-live.json?t=' + Date.now(), { cache: 'no-store' })).json(); }
+    catch (e) { $('st').textContent = 'Chưa có rtk-live.json (tiến trình vẽ chưa chạy).'; return; }
+    const n = j.n || 0, tot = j.total || 1, ws = j.workers || [];
+    $('pg').style.width = (100 * n / tot).toFixed(1) + '%';
+    const live = ws.filter(w => w.alive).length;
+    $('st').innerHTML = `Đã vẽ <b>${n.toLocaleString('vi')}</b> / ${tot.toLocaleString('vi')} ảnh · ${j.rate || '?'} giây/ảnh (cả nhóm)` +
+      (ws.length ? ` · <b>${live}</b>/${ws.length} tiến trình đang chạy` : '') +
+      ` · còn khoảng <b>${eta(j.eta_min || 0)}</b>` + (n >= tot ? ' · ✅ xong' : '');
+    $('ws').innerHTML = ws.map((w, i) => `<div class="${w.alive ? '' : 'dead'}">Tiến trình ${i + 1}: ${w.n}/${w.total || '?'} · ${w.rate ?? '?'} s/ảnh${w.alive ? '' : ' · dừng'}<div class="prog"><i style="width:${w.total ? (100 * w.n / w.total).toFixed(1) : 0}%"></i></div></div>`).join('');
+    let items = (j.done || []).slice().reverse();
+    if ($('onlyrv').checked) items = items.filter(x => x[6] && x[6] !== 'chỉ có thành phần');
+    items = items.slice(0, +$('lim').value);
+    const g = $('g'), want = items.map(x => x[0]).join(',') + $('onlyrv').checked;
+    if (g.dataset.k === want) return;
+    g.dataset.k = want;
+    g.innerHTML = items.map(([f, k, kw, t, w, sc, rv]) => {
+      const tag = !rv ? '' : rv === 'chỉ có thành phần' ? `<span class="tag pr">chỉ có thành phần</span>` : `<span class="tag rv" title="${esc(rv)}">cần xem lại</span>`;
+      return `<div class="it ${!first && !shown.has(f) ? 'new' : ''}"><img loading="lazy" src="rtk_img/${String(f).padStart(4, '0')}.webp?v=${t}" alt=""><div class="c"><b>#${f} ${esc(k)}</b> · ${esc(kw)}${w != null ? ' · tiến trình ' + (w + 1) : ''}${tag}${sc ? `<span class="sc">${esc(sc)}</span>` : ''}${rv && rv !== 'chỉ có thành phần' ? `<span class="sc">⚠ ${esc(rv)}</span>` : ''}</div></div>`;
+    }).join('');
+    items.forEach(x => shown.add(x[0])); first = false;
+  }
+  tick(); setInterval(() => { if ($('auto').checked) tick(); }, 3000);
+  $('lim').onchange = $('onlyrv').onchange = () => { $('g').dataset.k = ''; tick(); };
+</script>
+</body>
+</html>
