@@ -47,6 +47,7 @@ img{max-width:100%;max-height:70vh;border-radius:8px;background:#fff;
 .rtkKw{font-size:30px;font-weight:800;color:var(--accent);margin-top:2px}
 .rtkMeta{font-size:13.5px;color:var(--dim);margin-top:4px}
 .rtkStory{font-size:16.5px;line-height:1.65;margin-top:14px;padding:12px 14px;text-align:left;border-radius:10px;background:var(--accentbg);border-left:4px solid var(--accent)}
+.rtkPic{display:block;width:min(320px,100%);height:auto;aspect-ratio:1;margin:12px auto 4px;border-radius:12px;background:#fff;box-shadow:0 2px 10px rgba(0,0,0,.12)}
 .rtkPrim{font-size:14px;line-height:1.55;margin-top:8px;text-align:left;color:var(--dim)}
 body.rtk #langRow,body.rtk #voiceRow,body.rtk #viVoiceRow,body.rtk #enText{display:none!important}
 </style>
@@ -54,6 +55,7 @@ body.rtk #langRow,body.rtk #voiceRow,body.rtk #viVoiceRow,body.rtk #enText{displ
 <script src="kanji-game-data.js"></script>
 <script src="kanji-roadmap.js"></script>
 <script src="rtk-data.js"></script>
+<script src="rtk-img.js"></script>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Nhật" data-title="Xem thẻ Kanji"></script>
 </head>
@@ -271,12 +273,17 @@ const RTK_BY = new Map();   // số thẻ "0001" -> [chữ, frame, keyword, tậ
 function rtkLabel(r){
   return r[3] === 1 ? `Tập 1 · Bài ${r[4]}` : r[3] === 3 ? "Tập 3 (chữ Jōyō thêm năm 2010)" : "Không có trong 3 sách";
 }
+// ảnh minh hoạ câu chuyện Heisig (tools/rtk_images.py) — chỉ frame nào đã vẽ
+function rtkPic(r){
+  return r && window.RTK_IMG && RTK_IMG.has(r[1]) ? `<img class="rtkPic" loading="lazy" src="rtk_img/${String(r[1]).padStart(4, "0")}.webp" alt="Ảnh minh hoạ câu chuyện: ${escT(r[2])}" title="Ảnh minh hoạ câu chuyện (AI vẽ)">` : "";
+}
 function rtkHtml(num){
   const r = RTK_BY.get(num);
   if (!r) return "";
   if (!r[3]) return `<b>📘 Heisig RTK</b> · <span class="stat">chữ Jōyō này không có trong 3 sách — dùng câu chuyện tiếng Việt.</span>`;
   return `<div style="font-size:22px;font-weight:800;color:var(--accent)">${escT(r[2])}</div>`
     + `<div class="stat" style="margin:0 0 6px">Frame ${r[1]} · ${rtkLabel(r)}${r[7] ? " · " + r[7] + " nét" : ""}</div>`
+    + rtkPic(r)
     + (r[5] ? `<div>${r[5]}</div>` : "")
     + (r[6] ? `<div style="margin-top:6px" class="stat">🧩 Khi làm thành phần: ${r[6]}</div>` : "");
 }
@@ -908,7 +915,7 @@ function renderView(){
       $("tM").innerHTML = `<div class="rtkMeta">${r ? `<b>${escT(r[2])}</b> · ${escT(r[3])} · ` : ""}${rr[3] ? "Frame " + rr[1] + " · " + rtkLabel(rr) : rtkLabel(rr)}${rr[7] ? " · " + rr[7] + " nét" : ""}</div>`;
       $("tParts").innerHTML = "";
       $("tTag").textContent = "";
-      $("tS").innerHTML = rr[5] ? `<div class="rtkStory">${rr[5]}</div>` : (r && r[5] ? `<div class="rtkStory">📖 ${escT(r[5])}</div>` : "");
+      $("tS").innerHTML = rr[5] ? rtkPic(rr) + `<div class="rtkStory">${rr[5]}</div>` : (r && r[5] ? `<div class="rtkStory">📖 ${escT(r[5])}</div>` : "");
       $("tRad").innerHTML = rr[6] ? `<div class="rtkPrim">🧩 <b>Khi làm thành phần:</b> ${rr[6]}</div>` : "";
     }
   }
