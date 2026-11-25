@@ -46,8 +46,8 @@
     a.ygb { text-decoration:none; }
     #ygp { position:fixed; left:50%; bottom:0; transform:translateX(-50%); width:min(564px,100%); overflow:auto; overscroll-behavior:contain; z-index:50; background:var(--card); border:1px solid var(--line); border-bottom:0; border-radius:14px 14px 0 0; box-shadow:0 -8px 30px rgba(0,0,0,.25); }
     #ygp[hidden] { display:none; }
-    .ygh { position:sticky; top:0; z-index:1; display:flex; gap:8px; align-items:center; padding:8px 12px; background:var(--card); border-bottom:1px solid var(--line); }
-    .ygh b { flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .ygh { position:sticky; top:0; z-index:1; display:flex; flex-wrap:wrap; gap:6px 8px; align-items:center; padding:8px 12px; background:var(--card); border-bottom:1px solid var(--line); }
+    .ygh b { flex:1 1 140px; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
     .ygh select { padding:4px 6px; border:1px solid var(--line); border-radius:8px; background:var(--bg); color:inherit; font:inherit; font-size:13px; }
     .ygn { color:var(--muted); font-size:12.5px; white-space:nowrap; }
     .ygbtn { border:1px solid var(--line); background:var(--bg); color:inherit; border-radius:8px; padding:3px 9px; cursor:pointer; font:inherit; font-size:14px; text-decoration:none; }
@@ -83,6 +83,8 @@
   <div class="ygh">
     <b id="ygq"></b>
     <select id="yga" title="Giọng"><option value="">Mọi giọng</option><option value="us">US</option><option value="uk">UK</option><option value="aus">AUS</option><option value="ca">Canada</option></select>
+    <select id="ygl" title="Tự phát lại câu chứa cụm"><option value="0">🔁 Tắt</option><option value="1">🔁 ×2</option><option value="2">🔁 ×3</option><option value="4">🔁 ×5</option><option value="999">🔁 ∞</option></select>
+    <label class="ygn" title="Lặp xong tự sang clip sau"><input type="checkbox" id="ygnx"> ⏭</label>
     <span id="ygn" class="ygn"></span>
     <a id="ygo" class="ygbtn" target="_blank" rel="noopener" title="Mở trên youglish.com">↗</a>
     <button class="ygbtn" id="ygx" title="Đóng (Esc)">✕</button>
@@ -152,11 +154,28 @@
   }
   const ygUrl = p => 'https://youglish.com/pronounce/' + encodeURIComponent(ygq(p)) + '/english';
   // ---- YouGlish ngay trên trang (widget chính thức: nút điều khiển + phụ đề + tốc độ) ----
+  // tự lặp: dòng phụ đề đầu tiên của mỗi clip là dòng chứa cụm → khi phụ đề chuyển sang dòng khác thì phát lại
+  let ygStart = null, ygRep = 0, ygBusy = false;
+  const ygOpt = (() => { try { return JSON.parse(localStorage.getItem('ygLoop') || '{}'); } catch (e) { return {}; } })();
+  $('ygl').value = ygOpt.l || '2'; $('ygnx').checked = ygOpt.nx !== false;
+  const ygSave = () => { try { localStorage.setItem('ygLoop', JSON.stringify({ l: $('ygl').value, nx: $('ygnx').checked })); } catch (e) {} };
+  $('ygl').onchange = () => { ygRep = 0; ygSave(); }; $('ygnx').onchange = ygSave;
+  function ygCap(e) {
+    if (ygStart == null) { ygStart = e.id; return; }
+    if (e.id === ygStart || ygBusy) return;
+    const max = +$('ygl').value;
+    if (ygRep < max) {
+      ygRep++; ygBusy = true; try { ygW.pause(); } catch (x) {}
+      setTimeout(() => { ygBusy = false; ygW.replay(); }, 700);
+      $('ygn').textContent = $('ygn').textContent.replace(/ · lặp.*$/, '') + ` · lặp ${ygRep}${max < 999 ? '/' + max : ''}`;
+    } else if (max && $('ygnx').checked) { ygBusy = true; ygW.next(); }
+  }
   let ygW = null, ygPending = '', ygLoading = false, ygCur = '', ygTot = 0;
   const YG_COMP = 8 + 16 + 64;   // Caption + Speed controls + Control buttons
   const ygAcc = () => $('yga').value || undefined;
   function ygOpen(phrase) {
     ygCur = ygq(phrase);
+    ygStart = null; ygRep = 0; ygBusy = false;
     $('ygp').hidden = false; ygFit(); $('ygp').scrollTop = 0; $('ygq').textContent = '🎬 ' + ygCur; $('ygn').textContent = 'đang tìm…';
     $('ygo').href = ygUrl(phrase);
     if (ygW) return ygW.fetch(ygCur, 'english', ygAcc());
@@ -165,7 +184,8 @@
     window.onYouglishAPIReady = () => {
       ygW = new YG.Widget('yg-widget', { width: Math.min(560, innerWidth - 2), components: YG_COMP, captionSize: 24, autoStart: 1, events: {
         onFetchDone: e => { ygTot = e.totalResult || 0; $('ygn').textContent = ygTot ? `${ygTot} clip` : 'không có clip — thử ↗ hoặc đổi giọng'; },
-        onVideoChange: e => { if (ygTot) $('ygn').textContent = `${e.trackNumber || 1}/${ygTot} clip`; },
+        onCaptionChange: ygCap,
+        onVideoChange: e => { ygStart = null; ygRep = 0; ygBusy = false; if (ygTot) $('ygn').textContent = `${e.trackNumber || 1}/${ygTot} clip`; },
         onError: () => { $('ygn').textContent = 'lỗi tải — bấm ↗'; } } });
       ygW.fetch(ygPending, 'english', ygAcc());
     };
