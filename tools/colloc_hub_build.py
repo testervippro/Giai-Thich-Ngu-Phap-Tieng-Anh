@@ -15,6 +15,7 @@ Ra docs/tools/colloc/:
 
     python3 tools/colloc_hub_build.py
 """
+import html
 import json
 import os
 import re
@@ -482,6 +483,79 @@ def toeic():
     return out
 
 
+H120_TOPIC = "📕 120 thành ngữ & cụm cố định TOEIC (Hackers)"
+
+
+# câu khớp chữ nhưng khác nghĩa (soát tay): car backing out, up for lease, go over to the fields, hang in my patio, get into a taxi, work around the clock
+H120_LITERAL = {"back out", "be up for", "go over", "hang in", "get into", "work around"}
+
+
+def _ets_sentences():
+    """Các câu trong đề ETS 2026: [(icon, test, câu)] — Listening (transcript Part 1–4) và Reading."""
+    out = []
+    for p in (1, 2, 3, 4):
+        txt = open(os.path.join(DOCS, "toeic-listening-part-%d.md" % p), encoding="utf-8").read()
+        for sm in re.finditer(r"^## Set (\d+)\s*$(.*?)(?=^## Set |\Z)", txt, re.M | re.S):
+            for line in re.split(r"\n|(?<=[.?!])\s+", re.sub(r"<[^>]+>", "\n", sm.group(2))):
+                line = re.sub(r"^\(?[A-D]\)\s*|^#+.*$|^\*\*.*\*\*$", "", line.strip()).strip()
+                line = html.unescape(line)
+                if len(line.split()) >= 3:
+                    out.append(("🎧", int(sm.group(1)), line))
+    txt = open(os.path.join(DOCS, "toeic-ets-2026-reading.md"), encoding="utf-8").read()
+    for sm in re.finditer(r"^## Test (\d+)\s*$(.*?)(?=^## Test |\Z)", txt, re.M | re.S):
+        for line in re.split(r"\n|(?<=[.?!])\s+", re.sub(r"<[^>]+>", "\n", sm.group(2))):
+            line = re.sub(r"^[>*#\-\s]+|\(?[A-D]\)\s*", "", line).strip()
+            line = html.unescape(line)
+            if len(line.split()) >= 4 and "-------" not in line:
+                out.append(("📖", int(sm.group(1)), line))
+    return out
+
+
+def _idiom_re(p):
+    p = re.sub(r"\s*\(=.*?\)", "", p)
+    p = re.sub(r"\(to be\)\s*", "", p)
+    ws, rx = p.split(), []
+    for i, w in enumerate(ws):
+        lw = w.lower()
+        if w == "A":
+            rx.append(r"\w+(?:\s\w+)?")
+        elif lw in ("one's",):
+            rx.append(r"(?:my|your|his|her|its|our|their|one's)")
+        elif lw == "be":
+            rx.append(r"(?:be|is|are|was|were|been|being|am|'s|'re|'m)")
+        elif lw == "do" and i == len(ws) - 1:
+            rx.append(r"\w+")
+        elif i == 0 or lw in ("make", "get", "go", "have", "keep", "give", "hit", "cut", "fall", "work"):
+            stem = re.escape(lw)
+            irr = {"make": "made|makes|making", "get": "got|gets|getting|gotten", "go": "went|goes|going|gone",
+                   "have": "has|had|having", "keep": "kept|keeps|keeping", "give": "gave|given|gives|giving",
+                   "hit": "hits|hitting", "cut": "cuts|cutting", "fall": "fell|fallen|falls|falling", "come": "came|comes|coming",
+                   "take": "took|taken|takes|taking", "run": "ran|runs|running", "hold": "held|holds|holding",
+                   "catch": "caught|catches|catching", "lose": "lost|loses|losing", "build": "built|builds|building",
+                   "break": "broke|broken|breaks|breaking", "blow": "blew|blown|blows|blowing"}.get(lw)
+            rx.append(r"(?:%s(?:s|es|ed|d|ing)?%s)" % (stem, "|" + irr if irr else ""))
+        else:
+            rx.append(re.escape(lw))
+    return re.compile(r"\b" + r"\s+".join(rx).replace("'", "['’]") + r"\b", re.I)
+
+
+def h120():
+    """120 thành ngữ & cụm cố định TOEIC (Hackers) + câu trích đề ETS 2026 nếu có."""
+    rows, sents = [], _ets_sentences()
+    for l in open(os.path.join(DOCS, "120-thanh-ngu-cum-tu-toeic.md"), encoding="utf-8"):
+        m = re.match(r"^\| (\d+) \| (.+?) \| (.+?) \|\s*$", l)
+        if not m:
+            continue
+        p, vi = m.group(2).strip(), m.group(3).strip()
+        rx = _idiom_re(p)
+        if p in H120_LITERAL:          # câu trong đề dùng nghĩa đen / nghĩa khác → không trích
+            rows.append(dict(p=p, vi=vi, t=H120_TOPIC, k="i", lv="h120", ets="")); continue
+        hit = next((s for s in sents if s[0] == "🎧" and rx.search(s[2])), None) or next((s for s in sents if rx.search(s[2])), None)
+        ets = "%s *(Test %d)* %s" % hit if hit else ""
+        rows.append(dict(p=p, vi=vi, t=H120_TOPIC, k="i", lv="h120", ets=ets))
+    return rows
+
+
 def key(p):
     return re.sub(r"[^a-z/ ]", "", p.lower()).strip()
 
@@ -578,6 +652,9 @@ def main():
         x["lv"] = r["lv"]
         if r["ets"]:
             x["ets"] = r["ets"]
+    hh = h120()
+    rows += hh
+    print("120 thành ngữ:", len(hh), "| có câu trong đề ETS:", sum(1 for r in hh if r["ets"]), "| trùng 4500:", sum(1 for r in hh if key(r["p"]) in tk))
     topics = list(dict.fromkeys(r["t"] for r in rows))
     small = dict(ox=idx, c45=[[r["p"], r["vi"], topics.index(r["t"]), r["k"], r.get("lv", ""), r.get("ets", "")] for r in rows], topics=topics)
     if _zf:

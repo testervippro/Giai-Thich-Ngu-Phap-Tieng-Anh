@@ -40,6 +40,7 @@
     .kind, .tag { font-size:11.5px; padding:0 7px; border-radius:999px; border:1px solid var(--line); color:var(--muted); white-space:nowrap; }
     .tag.t5 { border-color:#d97706; color:#b45309; }
     .tag.ets { border-color:#dc2626; color:#dc2626; }
+    .tag.h1 { border-color:#9333ea; color:#9333ea; }
     .tag.hk { border-color:#2563eb; color:#2563eb; }
     .tag.tp { border-color:#059669; color:#059669; }
     .cols { margin:6px 0 0; padding:0; list-style:none; }
@@ -122,7 +123,7 @@
   <div class="pop" id="pop" hidden role="dialog" aria-modal="true" aria-labelledby="popT">
     <div class="box"><div class="hd"><b id="popT"></b><button id="popPrev" title="Từ trước (←)">‹</button><button id="popNext" title="Từ sau (→)">›</button><button id="popForm" title="Đổi Dạng cụm / Dạng từ điển">📋</button><button id="popX" title="Đóng (Esc)">✕</button></div><div class="bd" id="popB"></div></div>
   </div>
-  <p class="foot">Nguồn: <i>Oxford Collocations Dictionary for students of English</i> (OCR, có thể còn lỗi chữ); <i>4500 English Collocations and Idioms</i> (OCR, nghĩa tiếng Việt theo sách; bản lọc TOEIC 990 đã sửa chính tả các cụm giữ lại); Michael McCarthy, Felicity O’Dell, <i>English Collocations in Use</i> Intermediate &amp; Advanced (INT/ADV = sách, số = Unit). Các trang cũ vẫn mở được: <a href="../#/Oxford%20Collocations%20Dictionary">Oxford</a> · <a href="../#/Collocations">dạng cụm</a> · <a href="../#/Collocations5000">5000 từ</a> · <a href="../#/CollocationsNot5000">ngoài 5000</a> · <a href="../#/4500-collocations-idioms">4500</a> · <a href="../#/4500-collocations-toeic-990">TOEIC 990</a>.</p>
+  <p class="foot">Nguồn: <i>Oxford Collocations Dictionary for students of English</i> (OCR, có thể còn lỗi chữ); <i>4500 English Collocations and Idioms</i> (OCR, nghĩa tiếng Việt theo sách; bản lọc TOEIC 990 đã sửa chính tả các cụm giữ lại); Michael McCarthy, Felicity O’Dell, <i>English Collocations in Use</i> Intermediate &amp; Advanced (INT/ADV = sách, số = Unit). Các trang cũ vẫn mở được: <a href="../#/Oxford%20Collocations%20Dictionary">Oxford</a> · <a href="../#/Collocations">dạng cụm</a> · <a href="../#/Collocations5000">5000 từ</a> · <a href="../#/CollocationsNot5000">ngoài 5000</a> · <a href="../#/4500-collocations-idioms">4500</a> · <a href="../#/4500-collocations-toeic-990">TOEIC 990</a> · <a href="../#/120-thanh-ngu-cum-tu-toeic">120 thành ngữ TOEIC</a>.</p>
 </main>
 <script src="pv-ciu-data.js"></script>
 <script src="colloc/index.js"></script>
@@ -145,7 +146,7 @@
   const pass = o => (!st.flt || (o.m & +st.flt)) && (!st.cefr || o.lv === st.cefr);
   const fltName = () => [st.flt ? $('flt').selectedOptions[0].text : '', st.cefr].filter(Boolean).join(' · ');
   const OXBY = new Map(); OX.forEach(o => { if (!OXBY.has(o.k)) OXBY.set(o.k, []); OXBY.get(o.k).push(o); });
-  const LV = { ets:['🎯 ETS 2026','ets'], hackers:['📘 Hackers','hk'], topic:['⭐ chủ đề TOEIC','tp'] };
+  const LV = { ets:['🎯 ETS 2026','ets'], hackers:['📘 Hackers','hk'], topic:['⭐ chủ đề TOEIC','tp'], h120:['📕 120 thành ngữ TOEIC','h1'] };
   const C45 = C.c45.map(r => ({ p:r[0], vi:r[1], t:r[2], k:r[3], lv:r[4], ets:r[5], key:fold(r[0] + ' ' + r[1]) }));
   const PV = (window.PVCIU || []).slice().sort((a, b) => a.pv.localeCompare(b.pv));
   PV.forEach(d => d.key = fold([d.pv, d.vi, ...d.c.map(c => c[0]), ...d.ex].join(' ')));
@@ -227,7 +228,7 @@
     return `<li>${say(r.p)}<span class="p">${hiQ(r.p, qs)}</span><span class="m">${hiQ(r.vi, qs)}</span>`
       + `<span class="kind">${r.k === 'i' ? 'idiom' : 'collocation'}</span>${r.lv ? `<span class="tag ${LV[r.lv][1]}">${LV[r.lv][0]}</span>` : ''}`
       + (showTopic ? `<span class="src">${esc(C.topics[r.t])}</span>` : '')
-      + (r.ets ? `<span class="e">${hiQ(r.ets, qs)}</span>` : '') + '</li>';
+      + (r.ets ? `<span class="e">${hiQ(r.ets.replace(/\*/g, ''), qs)}</span>` : '') + '</li>';
   }
   const BK = { int:'INT', adv:'ADV' };
   function pvCard(d, qs) {
@@ -269,7 +270,7 @@
       H.push(`<div class="home">
         <button data-go="ox"><b>📕 Oxford Collocations</b><span>${OX.length.toLocaleString('vi')} từ mục (${OX.filter(o => o.f5).length.toLocaleString('vi')} ★ thuộc 5000 từ) — tra theo A–Z, mỗi từ có đủ ADJ. / VERB + / PREP. / PHRASES kèm câu ví dụ.</span></button>
         <button data-go="c45"><b>🧩 4500 Collocations &amp; Idioms</b><span>${C45.length.toLocaleString('vi')} cụm trong ${C.topics.length} chủ đề, có nghĩa tiếng Việt.</span></button>
-        <button data-go="toeic"><b>🎯 Bản lọc TOEIC 990</b><span>${nT} cụm cần cho TOEIC 990 — ${C45.filter(r => r.lv === 'ets').length} cụm đã ra trong đề ETS 2026 (kèm câu trong đề).</span></button>
+        <button data-go="toeic"><b>🎯 Bản lọc TOEIC 990</b><span>${nT} cụm cần cho TOEIC 990 — ${C45.filter(r => r.lv === 'ets').length} cụm đã ra trong đề ETS 2026 (kèm câu trong đề), gồm cả <b>120 thành ngữ &amp; cụm cố định TOEIC</b> (Hackers).</span></button>
         <button data-go="pv"><b>🔗 Phrasal verbs (Collocations in Use)</b><span>${PV.length} mục với collocation và câu ví dụ đúng theo sách.</span></button>
       </div>`);
       stat = 'Gõ một từ để tra cùng lúc trong cả 4 nguồn, hoặc chọn một nguồn để duyệt.';
@@ -316,7 +317,7 @@
         const cc = V.filter(r => r.k !== 'i'), ii = V.filter(r => r.k === 'i');
         if (cc.length) H.push(`<h2 class="sec">Collocations <small>${cc.length}</small></h2><ul class="list">${cc.map(r => c45Item(r, qs)).join('')}</ul>`);
         if (ii.length) H.push(`<h2 class="sec">Idioms <small>${ii.length}</small></h2><ul class="list">${ii.map(r => c45Item(r, qs)).join('')}</ul>`);
-        stat = `${C.topics[st.topic]}: ${V.length} cụm${tab === 'toeic' ? ' cần cho TOEIC 990 (🎯 đã ra trong đề ETS 2026 · 📘 có trong Hackers · ⭐ chủ đề TOEIC)' : ''}.`;
+        stat = `${C.topics[st.topic]}: ${V.length} cụm${tab === 'toeic' ? ' cần cho TOEIC 990 (🎯 đã ra trong đề ETS 2026 · 📘 có trong Hackers · ⭐ chủ đề TOEIC · 📕 120 thành ngữ TOEIC, kèm câu trong đề ETS nếu có)' : ''}.`;
       }
     }
 
