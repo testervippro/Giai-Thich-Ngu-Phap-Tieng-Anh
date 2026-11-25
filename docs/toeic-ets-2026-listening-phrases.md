@@ -1,6 +1,6 @@
 # TOEIC ETS 2026 Listening – Cụm từ & Fixed Expressions (từ transcript T1–T10)
 
-Tổng: 2817 cụm (đã loại trùng) + 70 cụm bổ sung ở [cuối trang](toeic-ets-2026-listening-phrases.md?id=bổ-sung-quét-lại-transcript). Nguồn: TRANSCRIPT ets 2026 (OCR, có thể sót/lỗi). Ví dụ đánh dấu P1–P4 là Part của đề Listening.
+Tổng: 2817 cụm (đã loại trùng) + 70 cụm bổ sung ở [cuối trang](toeic-ets-2026-listening-phrases.md?id=bổ-sung-quét-lại-transcript) + **479 [câu dài nghe trọn câu](toeic-ets-2026-listening-phrases.md?id=câu-dài-—-nghe-trọn-câu-part-3–4)**. Nguồn: TRANSCRIPT ets 2026 (OCR, có thể sót/lỗi). Ví dụ đánh dấu P1–P4 là Part của đề Listening.
 
 
 ## Suggest-Offer (151)
@@ -2999,3 +2999,540 @@ Tổng: 2817 cụm (đã loại trùng) + 70 cụm bổ sung ở [cuối trang](
 | have to be just right | phải vừa chuẩn | grain bin have to be just right. … | P3 |
 | informally worded | diễn đạt thân mật/suồng sã | slides of informally worded … | P4 |
 | within a radius of | trong bán kính | a fifteen-kilometer radius of us. … | P3 |
+
+## Câu dài — nghe trọn câu (Part 3–4)
+
+**479 câu dài (≥ 15 từ)** lấy nguyên văn từ transcript Part 3 – Part 4 của T1–T10. Muốn max điểm nghe thì phải nghe trọn những câu này ở tốc độ thật, không chỉ bắt được cụm. Cột **Âm khó nghe** chỉ ra chỗ người đọc nối / nuốt / đọc yếu. Cột **Cấu trúc** cho biết vì sao câu dài, để bạn đoán trước câu sẽ đi tiếp ra sao.
+
+> 🎧 Luyện các câu này có tiếng: [Master Listening](tools/listening-master.html) → tab **✍️ Chép chính tả** (chọn nguồn TOEIC Part 3/4) hoặc tab **🧩 Câu dài** (tách cụm, xây từ cuối lên, nhại theo).
+
+**Cách dùng để max điểm:** (1) che cột Câu, nghe audio đề thật, chép lại; (2) so với bảng, gạch chân chỗ sai; (3) nếu chỗ sai trùng với cột *Âm khó nghe* thì ôn lại quy luật âm nối ở Master Listening; (4) nhại câu đó 3 lần ở tốc độ thật.
+
+### Câu dài — Test 1 (42)
+
+| # | Câu | Âm khó nghe | Cấu trúc | Part |
+|---|---|---|---|---|
+| 1 | Hey Oliver, did you see the focus group results for our new spicy cheddar cheese? | did you → …-joo |  | P3 · Q32–34 |
+| 2 | Several people mentioned that they'd like to use it in recipes to add to sauces, for example. | they'd (đuôi rút gọn, rất nhẹ) |  | P3 · Q32–34 |
+| 3 | So maybe we should consider selling a shredded version that would melt easily when cooked. |  | mốc thời gian | P3 · Q32–34 |
+| 4 | Hey, Brian and Mateo, I found some great pens to give away at the community festival to promote our business. | community (t → d nhẹ, giọng Mỹ) |  | P3 · Q41–43 |
+| 5 | So when we hand them out, we can mention that as well as talk about the organic cleaning supplies our company uses. | can /kən/ (đọc yếu); hand them (nối âm) | bổ sung thông tin, mốc thời gian | P3 · Q41–43 |
+| 6 | Hi, I'm preparing to move soon and I have some electronics such as televisions and computers that I'd like to get rid of before I put my house on the market. | I'd (đuôi rút gọn, rất nhẹ); rid of (nối âm) | mốc thời gian | P3 · Q44–46 |
+| 7 | However, on our website, we list a number of companies that can remove and dispose of the items for you. | can /kən/ (đọc yếu); number of (nối âm) | đối lập | P3 · Q44–46 |
+| 8 | I haven't seen you since we took that class for business owners together last year. |  | mốc thời gian | P3 · Q47–49 |
+| 9 | I was just in the neighborhood and thought I'd stop in for a cookie or a piece of cake. | I'd (đuôi rút gọn, rất nhẹ); piece of (nối âm) |  | P3 · Q47–49 |
+| 10 | Well, I noticed that Sunnyvale restaurant went out of business and the building's up for lease. | out of (nối âm) |  | P3 · Q47–49 |
+| 11 | Well, 10 years ago, we opened as a snowmobile repair shop, but after a few years, we also started renting out snowmobiles and other sports equipment. |  | đối lập, bổ sung thông tin, mốc thời gian | P3 · Q56–58 |
+| 12 | And because winter tourism has increased recently, we'd like to expand our space so that we can carry more inventory. | can /kən/ (đọc yếu); we'd (đuôi rút gọn, rất nhẹ) | chỉ mục đích, nguyên nhân / kết quả | P3 · Q56–58 |
+| 13 | I'd like to implement a peer training program where learners shadow more experienced employees and observe how they do their jobs. | I'd (đuôi rút gọn, rất nhẹ) |  | P3 · Q59–61 |
+| 14 | It would allow us to capture our workers expertise without slowing down the production line. |  |  | P3 · Q59–61 |
+| 15 | By the way, did you see that our company won an award for our contributions to the community? | did you → …-joo; community (t → d nhẹ, giọng Mỹ) |  | P3 · Q62–64 |
+| 16 | Marian, we keep getting calls from people who want to visit the botanical garden but can't find parking information. | want to → wanna; can't find (nuốt t); getting (t → d nhẹ, giọng Mỹ); can't (nhấn mạnh — phân biệt can /kən/) | mệnh đề quan hệ, đối lập | P3 · Q65–67 |
+| 17 | It is, but you have to click on the about us page and scroll to the bottom of that page. | but you → …-choo; have to → hafta | đối lập | P3 · Q65–67 |
+| 18 | Oh, I think we should move that information from the about us page and make a separate page for directions and parking information. |  |  | P3 · Q65–67 |
+| 19 | I'd be happy to make that change, but we're in the middle of updating our software, so it'll have to wait until Monday. | have to → hafta; updating (t → d nhẹ, giọng Mỹ); I'd (đuôi rút gọn, rất nhẹ); we're (đuôi rút gọn, rất nhẹ) | đối lập, mốc thời gian | P3 · Q65–67 |
+| 20 | If we ask riders, I bet they'd say that the most convenient spot is as close to the platform as possible. | most convenient (nuốt t); they'd (đuôi rút gọn, rất nhẹ) | điều kiện | P3 · Q68–70 |
+| 21 | Please note that Select Repair Service will be closing on Friday, June 30th, so we can complete our quarterly inventory of supplies. | can /kən/ (đọc yếu) | nhắc nhở (hay ra đề) | P4 · Q71–73 |
+| 22 | If you look at the first page of your training binder, you'll see your username and a temporary password. | first page (nuốt t); you'll (đuôi rút gọn, rất nhẹ) | điều kiện | P4 · Q74–76 |
+| 23 | Please open the laptops you were given this morning and log in using those credentials. | log in (nối âm) | bị động | P4 · Q74–76 |
+| 24 | About a month ago, I ordered one of your new video game machines, Space Defenders. | one of (nối âm) |  | P4 · Q77–79 |
+| 25 | I'm really happy with my purchase since the game has been incredibly popular with our park guests. |  | mốc thời gian | P4 · Q77–79 |
+| 26 | Because our factories are all overseas, it takes too long for orders to reach customers. |  | nguyên nhân / kết quả | P4 · Q80–82 |
+| 27 | He'll be at our next board meeting to explain the pros and cons of each. | next board (nuốt t); meeting (t → d nhẹ, giọng Mỹ); He'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q80–82 |
+| 28 | Repair crews are working on a stretch of track just south of the town of Weeden. | just south (nuốt t); working on (nối âm) |  | P4 · Q83–85 |
+| 29 | Also, a reminder that the station cafe opens at 8:00 a.m. and there are food kiosks on platform 1. |  | bổ sung thông tin | P4 · Q83–85 |
+| 30 | It's less trendy, but it doesn't depart much from the original, which you may prefer. |  | mệnh đề quan hệ, đối lập | P4 · Q86–88 |
+| 31 | I'll be on vacation all next week, but if you call the office, my assistant will set up a meeting for when I get back. | next week (nuốt t); meeting (t → d nhẹ, giọng Mỹ); I'll (đuôi rút gọn, rất nhẹ); set up (nối âm) | điều kiện, đối lập, mốc thời gian | P4 · Q86–88 |
+| 32 | After the transportation agency released the draft of our improvement plan last week, members of the press asked if we're considering installing more fuel efficient engines in our trains. | last week (nuốt t); we're (đuôi rút gọn, rất nhẹ) | điều kiện, mốc thời gian | P4 · Q89–91 |
+| 33 | I've scheduled this press conference to officially respond to your inquiries. 18 months ago, we hired a firm to determine if this upgrade would be feasible for our trains. | I've (đuôi rút gọn, rất nhẹ) | điều kiện | P4 · Q89–91 |
+| 34 | It reported that the upgrade would be economical only for relatively new trains, that is those less than 5 years old. |  |  | P4 · Q89–91 |
+| 35 | If you're interested in more details, email our media relations department to receive a summary of the findings. | you're (đuôi rút gọn, rất nhẹ) | điều kiện | P4 · Q89–91 |
+| 36 | As regional sales manager, I want to explore the use of a more modernized payment system in our cosmetics stores. | want to → wanna |  | P4 · Q92–94 |
+| 37 | This system would allow any sales associate to take customer payments from a tablet anywhere in the store. |  |  | P4 · Q92–94 |
+| 38 | The main complaint about shopping at our stores is waiting in long lines to pay. | waiting (t → d nhẹ, giọng Mỹ) |  | P4 · Q92–94 |
+| 39 | A lot of our stores could benefit from this, but I've decided to conduct a trial run at our store in the center city mall. | a lot of → a lotta; city (t → d nhẹ, giọng Mỹ); I've (đuôi rút gọn, rất nhẹ); lot of (nối âm) | đối lập | P4 · Q92–94 |
+| 40 | The most extraordinary feature of the building is its beautiful garden located in the lobby. |  |  | P4 · Q95–97 |
+| 41 | Restston's management office has confirmed the tenant list for the building and we interviewed the CEO of Barnum Financial Services about its new offices. |  |  | P4 · Q95–97 |
+| 42 | Zed Mining has been planning to expand our operations by opening an additional silver mine. |  |  | P4 · Q98–100 |
+
+### Câu dài — Test 2 (55)
+
+| # | Câu | Âm khó nghe | Cấu trúc | Part |
+|---|---|---|---|---|
+| 1 | Last week, a customer called to complain that their food was cold by the time they found it. | Last week (nuốt t) | bị động | P3 · Q32–34 |
+| 2 | I'm going to update the instructions on our mobile app telling customers to meet us at the building's front door. | going to → gonna |  | P3 · Q32–34 |
+| 3 | We're getting close to the time of year when we need to begin planning our theater in the park series for the summer. | getting (t → d nhẹ, giọng Mỹ); theater (t → d nhẹ, giọng Mỹ); We're (đuôi rút gọn, rất nhẹ) | mốc thời gian | P3 · Q35–37 |
+| 4 | Why don't we invite community residents to volunteer to help with building sets, painting, and setting up the stage? | don't we (nuốt t); community (t → d nhẹ, giọng Mỹ); setting (t → d nhẹ, giọng Mỹ) |  | P3 · Q35–37 |
+| 5 | We could, but I don't know if we'll be able to use volunteers this year. | don't know (nuốt t); we'll (đuôi rút gọn, rất nhẹ) | điều kiện, đối lập | P3 · Q35–37 |
+| 6 | Back to our podcast with special guest Kimberly Stewart, who's currently advising our city on business development projects. | city (t → d nhẹ, giọng Mỹ) | mệnh đề quan hệ | P3 · Q38–40 |
+| 7 | Yes, and it's been the worst at the kind of stores that sell unique items like antiques and jewelry. | kind of → kinda |  | P3 · Q38–40 |
+| 8 | I think they do, especially if we make a point of organizing live community activities downtown, such as concerts or festivals. | community (t → d nhẹ, giọng Mỹ) | điều kiện | P3 · Q38–40 |
+| 9 | When people walk around town, they are likely to browse at stores and make purchases. |  | mốc thời gian | P3 · Q38–40 |
+| 10 | Our company has seen a huge spike in sales ever since it launched the rebate program for customers. |  | mốc thời gian | P3 · Q41–43 |
+| 11 | With the rebate, customers get money back and they're telling their friends, increasing our sales. | they're (đuôi rút gọn, rất nhẹ) |  | P3 · Q41–43 |
+| 12 | Fernanda, I was just looking at the company calendar and I noticed that the National Electronics Trade Show is coming up soon. | just looking (nuốt t) |  | P3 · Q44–46 |
+| 13 | It'll be a great opportunity for us to showcase the product that we've been developing, our new robotic vacuum cleaner. | opportunity (t → d nhẹ, giọng Mỹ); It'll (đuôi rút gọn, rất nhẹ); we've (đuôi rút gọn, rất nhẹ) |  | P3 · Q44–46 |
+| 14 | We'll need to decide who we want to send to represent our company at the trade show. | want to → wanna; We'll (đuôi rút gọn, rất nhẹ) | mệnh đề quan hệ | P3 · Q44–46 |
+| 15 | Ky does a good job of clearly explaining highly technical concepts in a way that everyone can understand. | can /kən/ (đọc yếu) |  | P3 · Q44–46 |
+| 16 | Our engineering firm has been asked to cut the corporate travel budget by 20%, but it won't be easy. | won't be (nuốt t) | bị động, đối lập | P3 · Q53–55 |
+| 17 | I typically design jewelry, but your company is known for making computers and mobile phones. |  | bị động, đối lập | P3 · Q56–58 |
+| 18 | Scott's team is currently working on a smartwatch, but there's a lot of competition, as you know. | a lot of → a lotta; lot of (nối âm); working on (nối âm) | đối lập | P3 · Q56–58 |
+| 19 | We're hoping you can create a fresh design that will help our product stand out. | can /kən/ (đọc yếu); We're (đuôi rút gọn, rất nhẹ) |  | P3 · Q56–58 |
+| 20 | Do you already have an idea of what the watch should look like, or are we starting from scratch? |  |  | P3 · Q56–58 |
+| 21 | I have some preliminary sketches we can look at, but none of them seem quite right. | can /kən/ (đọc yếu) | đối lập | P3 · Q56–58 |
+| 22 | Well, we get a lot of customers walking through and our current carpeting is a light color. | a lot of → a lotta; lot of (nối âm) |  | P3 · Q59–61 |
+| 23 | No matter what color you get, all our carpets are durable and can take high amounts of foot traffic. | can /kən/ (đọc yếu) |  | P3 · Q59–61 |
+| 24 | They asked us to provide the prototype design to them. 3 weeks earlier than originally planned. |  |  | P3 · Q62–64 |
+| 25 | I was wondering if you would be available to stop by and take a look. |  | điều kiện | P3 · Q65–67 |
+| 26 | There are always new trends and technologies coming out and I want you to stay ahead of developments in our industry. | want you → …-choo; ahead of (nối âm) |  | P3 · Q68–70 |
+| 27 | Many of you complained about how slow and hard it is to use the car lift. |  |  | P4 · Q71–73 |
+| 28 | The only problem is we're missing the bottles of hydraulic fluid that were supposed to be included in the shipment. | we're (đuôi rút gọn, rất nhẹ) | bị động | P4 · Q71–73 |
+| 29 | When talking to customers, please remember to mention that we're now offering a discount on oil changes if they schedule a vehicle inspection with us. | we're (đuôi rút gọn, rất nhẹ) | điều kiện, mốc thời gian, nhắc nhở (hay ra đề) | P4 · Q71–73 |
+| 30 | As you know, we've had an extremely successful fourth quarter selling desks and chairs to our corporate clients on the West Coast. | we've (đuôi rút gọn, rất nhẹ) |  | P4 · Q74–76 |
+| 31 | In fact, we've done so well that we're planning to give 10% of this month's profits to a local charity in December. | charity (t → d nhẹ, giọng Mỹ); we've (đuôi rút gọn, rất nhẹ); we're (đuôi rút gọn, rất nhẹ) |  | P4 · Q74–76 |
+| 32 | If you'd like to see a video clip of our CEO talking about this initiative, just visit our social media site. | just visit (nuốt t); you'd (đuôi rút gọn, rất nhẹ) | điều kiện | P4 · Q74–76 |
+| 33 | Welcome to Impact Unlocked, the podcast for businesses wanting to streamline their operations with new technology. |  |  | P4 · Q77–79 |
+| 34 | In today's episode, I'll talk about how to raise money by leveraging social media applications to get donations. | I'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q77–79 |
+| 35 | Instead, I'll speak generally about how these types of applications can help you connect with potential donors. | can /kən/ (đọc yếu); I'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q77–79 |
+| 36 | As the company president, I'm excited to share that we've sold a record number of home appliances for 2 years in a row, and I'd like to reward your hard work. | excited (t → d nhẹ, giọng Mỹ); we've (đuôi rút gọn, rất nhẹ); I'd (đuôi rút gọn, rất nhẹ); number of (nối âm) |  | P4 · Q80–82 |
+| 37 | Your supervisor will speak with you about how it'll be calculated and when you'll receive it. | it'll (đuôi rút gọn, rất nhẹ); you'll (đuôi rút gọn, rất nhẹ) | bị động, mốc thời gian | P4 · Q80–82 |
+| 38 | You'll just need to note those days on your calendar so everyone knows where you are. | just need (nuốt t); You'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q80–82 |
+| 39 | I called this meeting today because I wanted to talk about changes to how our company hires new employees. | meeting (t → d nhẹ, giọng Mỹ) | nguyên nhân / kết quả | P4 · Q83–85 |
+| 40 | It came to my attention that some people were confused when reading about these new hiring policies in the latest company newsletter. | newsletter (t → d nhẹ, giọng Mỹ) | bị động, mốc thời gian | P4 · Q83–85 |
+| 41 | I posted a link in the meeting invitation to this information and I asked you to bring your laptops so that you can follow along on your own screen. | that you → …-choo; meeting (t → d nhẹ, giọng Mỹ); can /kən/ (đọc yếu) | chỉ mục đích | P4 · Q83–85 |
+| 42 | After we review the policies, you can see Sumit in the back of the room if you'd like a printed copy. | can /kən/ (đọc yếu); you'd (đuôi rút gọn, rất nhẹ) | điều kiện, mốc thời gian | P4 · Q83–85 |
+| 43 | As head of the product design team, I have the sales results from the last quarter, and they're disappointing. | last quarter (nuốt t); they're (đuôi rút gọn, rất nhẹ) |  | P4 · Q86–88 |
+| 44 | It's clear that consumers are no longer interested in the types of toys and games we've been producing. | we've (đuôi rút gọn, rất nhẹ) |  | P4 · Q86–88 |
+| 45 | There's a new trend toward outdoor toys and games where people can be physically active. | can /kən/ (đọc yếu) |  | P4 · Q86–88 |
+| 46 | Hello, you've reached Ji Su Yun at the visitor center of the Pine Valley Nature Preserve. | you've (đuôi rút gọn, rất nhẹ) |  | P4 · Q89–91 |
+| 47 | Please be aware that visitor access to the park will be limited during the month of March while our facilities are undergoing renovations. | limited (t → d nhẹ, giọng Mỹ) | bị động, mốc thời gian | P4 · Q89–91 |
+| 48 | If you are calling for information about helping to maintain our hiking trails, please refer to the volunteer page on our website. |  | điều kiện | P4 · Q89–91 |
+| 49 | Today, I'll be interviewing the owners of Salazar Olive Oil, one of the best in California for the past two decades. | I'll (đuôi rút gọn, rất nhẹ); one of (nối âm) |  | P4 · Q92–94 |
+| 50 | Now, if you're hearing about this olive oil for the first time, you're not alone. | first time (nuốt t); you're (đuôi rút gọn, rất nhẹ) | điều kiện | P4 · Q92–94 |
+| 51 | I'm interested in discussing their business philosophy as well as their new project, an olive oil tasting class on their farm. |  | bổ sung thông tin | P4 · Q92–94 |
+| 52 | Please be advised that the Circle Route bus is not currently stopping at the station entrance because of some street resurfacing work. | because of (nối âm) | bị động, nguyên nhân / kết quả | P4 · Q95–97 |
+| 53 | A temporary bus stop has been set up around the corner in front of the post office. | front of (nối âm); set up (nối âm) |  | P4 · Q95–97 |
+| 54 | Use the Abbington Transit mobile phone app to view live updates for when the next bus is due. | next bus (nuốt t) | mốc thời gian | P4 · Q95–97 |
+| 55 | We're happy to announce that the February continuing education workshops here at the community center were very successful. | community (t → d nhẹ, giọng Mỹ); We're (đuôi rút gọn, rất nhẹ) |  | P4 · Q98–100 |
+
+### Câu dài — Test 3 (43)
+
+| # | Câu | Âm khó nghe | Cấu trúc | Part |
+|---|---|---|---|---|
+| 1 | I was looking over this week's sales and I noticed that a lot of people ordered the beef stew special. | a lot of → a lotta; lot of (nối âm); looking over (nối âm) |  | P3 · Q32–34 |
+| 2 | Beef prices change frequently, though, so we might need to consider that when we set the price for the dish if we're going to offer it daily. | going to → gonna; we're (đuôi rút gọn, rất nhẹ) | điều kiện, đối lập, mốc thời gian | P3 · Q32–34 |
+| 3 | I talked to Mr. Hoffman this morning and he said he's decided to start a delivery service for our customers who have a difficult time picking up their prescriptions. | picking up (nối âm) | mệnh đề quan hệ | P3 · Q38–40 |
+| 4 | I know a lot of people find it inconvenient to come in person to get their medications, but many of our customers buy other things while they're here. | a lot of → a lotta; they're (đuôi rút gọn, rất nhẹ); lot of (nối âm); find it (nối âm) | đối lập, mốc thời gian | P3 · Q38–40 |
+| 5 | Oh, they'll be able to make other purchases, too, to be delivered with their medicine. | they'll (đuôi rút gọn, rất nhẹ) | bị động | P3 · Q38–40 |
+| 6 | Well, we could probably benefit from having more direct input from athletes who use our gear. |  | mệnh đề quan hệ | P3 · Q41–43 |
+| 7 | I was thinking maybe we could hire a professional rock climber to consult with our designers. |  |  | P3 · Q41–43 |
+| 8 | Hello, I was featured in an article in your newspaper about 5 years ago and now when I click on the link, nothing happens. |  | bị động, mốc thời gian | P3 · Q44–46 |
+| 9 | Oh, the public links expire after 3 years, but I can search for your article in our database. | can /kən/ (đọc yếu) | đối lập, mốc thời gian | P3 · Q44–46 |
+| 10 | I was still in college when the article came out, but now I'm starting my own practice, and I'd like to hang the article on the wall. | I'd (đuôi rút gọn, rất nhẹ) | đối lập, mốc thời gian | P3 · Q44–46 |
+| 11 | I came in last week to get some lumber for a home project I was working on, but the boards I purchased are the wrong width. | last week (nuốt t); working on (nối âm) | đối lập | P3 · Q47–49 |
+| 12 | All right, except one bag broke and the food container fell out right as I was walking up to a customer's door. |  |  | P3 · Q50–52 |
+| 13 | The container was still sealed and the customer accepted it, so it turned out okay in the end. | turned out (nối âm) |  | P3 · Q50–52 |
+| 14 | I like how different areas can be grouped together so drivers can deliver more efficiently. | can /kən/ (đọc yếu) | bị động | P3 · Q50–52 |
+| 15 | And since we've recently had such a significant increase in customers, this will be really useful. | we've (đuôi rút gọn, rất nhẹ) | mốc thời gian | P3 · Q50–52 |
+| 16 | We'll have the client come in to give us nutritional information and provide us with some samples. | We'll (đuôi rút gọn, rất nhẹ); come in (nối âm) |  | P3 · Q53–55 |
+| 17 | Oliver, have you finished the maintenance check on the small airplane that came in this morning? | check on (nối âm) |  | P3 · Q56–58 |
+| 18 | She was planning to fly the plane to Toronto this weekend for a friend's wedding. |  |  | P3 · Q56–58 |
+| 19 | When I'm done updating your records, would you be willing to stay on the phone line to take a survey about your experience as a customer? | would you → …-joo; updating (t → d nhẹ, giọng Mỹ) | mốc thời gian | P3 · Q59–61 |
+| 20 | While you're doing that, could you also put the updated sale price labels on the hand soap dispensers? | could you → …-joo; you're (đuôi rút gọn, rất nhẹ) | bổ sung thông tin, mốc thời gian | P3 · Q62–64 |
+| 21 | Can you make room for our new international foods section at the front of the store? | can /kən/ (đọc yếu); front of (nối âm) |  | P3 · Q62–64 |
+| 22 | Just bring in a copy of the application so we can see the size requirements. | Just bring (nuốt t); can /kən/ (đọc yếu) |  | P3 · Q65–67 |
+| 23 | Don't forget to fill out the travel expenses form and include it in your email, too. | Don't forget (nuốt t); fill out (nối âm) | nhắc nhở (hay ra đề) | P3 · Q68–70 |
+| 24 | The town's annual music festival is only a few months away and our committee still has a lot of planning to do. | a lot of → a lotta; lot of (nối âm) |  | P4 · Q71–73 |
+| 25 | Anola, since you're in charge of accounts, would you check sometime today to see whether we have money for extra fencing? | would you → …-joo; you're (đuôi rút gọn, rất nhẹ) | mốc thời gian | P4 · Q71–73 |
+| 26 | And for today only, we're offering a 10% discount on orders for this machine just for attending our demonstration. | just for (nuốt t); we're (đuôi rút gọn, rất nhẹ) |  | P4 · Q74–76 |
+| 27 | However, starting next month, our company will launch a research and development division and start designing chips, too. | next month (nuốt t) | đối lập | P4 · Q77–79 |
+| 28 | We've decided to make this change to allow us to have more control over the quality of the technology we produce. | quality (t → d nhẹ, giọng Mỹ); We've (đuôi rút gọn, rất nhẹ) |  | P4 · Q77–79 |
+| 29 | Before we get started with today's episode, I'd like to note that I provided the wrong dates for the farming exposition during last week's episode. | last week (nuốt t); I'd (đuôi rút gọn, rất nhẹ) | mốc thời gian | P4 · Q80–82 |
+| 30 | During her time as director, the organization has helped over 1,000 small farms increase their yields. |  |  | P4 · Q80–82 |
+| 31 | We will not be able to install the new bay window you requested for the front room without more extensive work than the budget will cover. |  |  | P4 · Q83–85 |
+| 32 | Our work is done for today, but we'll need to know how to proceed by tomorrow. | we'll (đuôi rút gọn, rất nhẹ) | đối lập | P4 · Q83–85 |
+| 33 | You may remember that our bank branch was evaluated by auditors from our headquarters last week. | last week (nuốt t) | bị động | P4 · Q86–88 |
+| 34 | Above all, they were impressed with the quality of our customer service, specifically how we greet customers and direct them to the right associate. | quality (t → d nhẹ, giọng Mỹ) | bị động | P4 · Q86–88 |
+| 35 | I'd like all supervisors to talk to their staff about strategies to pitch our products and services to customers. | I'd (đuôi rút gọn, rất nhẹ) |  | P4 · Q86–88 |
+| 36 | Due to the addition of six large group reservations, we'll set up for those first in the overflow room. | we'll (đuôi rút gọn, rất nhẹ); set up (nối âm) | nguyên nhân / kết quả | P4 · Q89–91 |
+| 37 | In particular, we'll look at why you may pay more if you shop during times of peak demand called surge pricing. | we'll (đuôi rút gọn, rất nhẹ) | điều kiện | P4 · Q92–94 |
+| 38 | This trend first started with computer software that allowed large airlines to track demand and quickly change their ticket prices. | first started (nuốt t); computer (t → d nhẹ, giọng Mỹ) |  | P4 · Q92–94 |
+| 39 | We originally said we needed the coupons by Friday, but we now need them to be ready by Wednesday instead. |  | đối lập | P4 · Q95–97 |
+| 40 | We just found out yesterday that our application to the National Florists Association was approved. | just found (nuốt t) | bị động | P4 · Q95–97 |
+| 41 | Since you're auditioning to join the cast of an ongoing show, you should watch some videos of previous episodes so you understand the role. | you're (đuôi rút gọn, rất nhẹ) | mốc thời gian | P4 · Q98–100 |
+| 42 | One last note, since you're new to the city, you might be wondering about the best bus route to take. | last note (nuốt t); best bus (nuốt t); city (t → d nhẹ, giọng Mỹ); you're (đuôi rút gọn, rất nhẹ) | mốc thời gian | P4 · Q98–100 |
+| 43 | You could take the green line to Orchard, but I'd recommend taking the yellow line to the last stop. | last stop (nuốt t); I'd (đuôi rút gọn, rất nhẹ) | đối lập | P4 · Q98–100 |
+
+### Câu dài — Test 4 (49)
+
+| # | Câu | Âm khó nghe | Cấu trúc | Part |
+|---|---|---|---|---|
+| 1 | In fact, you'd be among the very first tenants if you decide to move here. | first tenants (nuốt t); you'd (đuôi rút gọn, rất nhẹ) | điều kiện | P3 · Q32–34 |
+| 2 | Before you look at some apartments, would you please sign your name here in our guest book? | would you → …-joo | mốc thời gian | P3 · Q32–34 |
+| 3 | I saw you have some scheduled seafood deliveries across the bay in the Morgan District. |  |  | P3 · Q35–37 |
+| 4 | It's routinely congested with vehicles, so you should always add at least an extra hour to your trip out there. |  |  | P3 · Q35–37 |
+| 5 | I heard you're going to be working for our company overseas in the New Zealand office. | going to → gonna; you're (đuôi rút gọn, rất nhẹ) |  | P3 · Q41–43 |
+| 6 | It's time to renew the contracts and I wanted to ask you to take care of that before you left. |  | mốc thời gian | P3 · Q41–43 |
+| 7 | We have him booked to appear on the show in July to promote his new movie. |  |  | P3 · Q44–46 |
+| 8 | Unfortunately, the movie he's acting in is behind schedule, and he'll now be on location through the end of August. | he'll (đuôi rút gọn, rất nhẹ); end of (nối âm) | báo tin xấu / đính chính (hay ra đề) | P3 · Q44–46 |
+| 9 | All right, I'll update the contract with the new date and email it to you. | I'll (đuôi rút gọn, rất nhẹ) |  | P3 · Q44–46 |
+| 10 | On the days I have to come into the office, I always worry about finding an appropriate workstation. | have to → hafta |  | P3 · Q47–49 |
+| 11 | All you have to do is download the app and use the information on your card to set up an account. | have to → hafta; set up (nối âm) |  | P3 · Q50–52 |
+| 12 | I go on a business trip every month, so having easy access to online content will be convenient. | go on (nối âm) | bị động | P3 · Q50–52 |
+| 13 | It looks like most staff feel positive about the direction that the company is going in, but almost 40% feel like their individual contributions aren't being recognized. | most staff (nuốt t); aren't being (nuốt t); going in (nối âm) | bị động, đối lập | P3 · Q53–55 |
+| 14 | As I mentioned on the phone, my colleague and I recently started a clothing company and are hoping your branding firm can help us promote our line of athletic apparel. | can /kən/ (đọc yếu) |  | P3 · Q56–58 |
+| 15 | Advertising on the internet is also a great way for a company to increase its visibility. | visibility (t → d nhẹ, giọng Mỹ) | bổ sung thông tin | P3 · Q56–58 |
+| 16 | Saskia is very knowledgeable about exercise and lots of people use her online exercise routines. |  |  | P3 · Q56–58 |
+| 17 | I wanted to ask you about the order we got from the department store chain. |  |  | P3 · Q59–61 |
+| 18 | They want the order in a week so they can stock them before the holiday. | can /kən/ (đọc yếu) | mốc thời gian | P3 · Q59–61 |
+| 19 | I understand you're concerned about a charge that appears on the statement for your business account. | you're (đuôi rút gọn, rất nhẹ) |  | P3 · Q62–64 |
+| 20 | Can you provide me with a list of all the bank fees for transactions made abroad? | can /kən/ (đọc yếu) |  | P3 · Q62–64 |
+| 21 | Well, Shinyu is a very popular pianist, and she's staying after the concert to sign autographs. |  | mốc thời gian | P3 · Q65–67 |
+| 22 | We have monthly posts on many gardening topics, and there's a recent one about growing roses. |  |  | P3 · Q68–70 |
+| 23 | Even though we have the original designs, making an authentic recreation won't be an easy task. | won't be (nuốt t) | đối lập | P4 · Q74–76 |
+| 24 | As a gardener who has managed the grounds of many historic estates, he has extensive expertise in what would have been planted at the time. | would have → would've /əv/ | mệnh đề quan hệ, bị động | P4 · Q74–76 |
+| 25 | Welcome new sales representatives to today's session on cold calling, a sales technique where we call potential clients who haven't heard of us yet. |  | mệnh đề quan hệ | P4 · Q77–79 |
+| 26 | Toward the end of the session, you'll each be given a list of prospective parties to call. | you'll (đuôi rút gọn, rất nhẹ); end of (nối âm) | bị động | P4 · Q77–79 |
+| 27 | Your job is to persuade them that what you have to say is worth their while. | what you → …-choo; have to → hafta | mốc thời gian | P4 · Q77–79 |
+| 28 | Now, we'll listen to some cold call recordings to learn what works and what doesn't. | we'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q77–79 |
+| 29 | I want to apologize personally for the problems your restaurant experienced using our patio umbrellas. | want to → wanna |  | P4 · Q80–82 |
+| 30 | This gives us greater control over the quality of our products, but we do use outside suppliers for parts. | greater (t → d nhẹ, giọng Mỹ); quality (t → d nhẹ, giọng Mỹ) | đối lập | P4 · Q80–82 |
+| 31 | Temptime Time Work Solutions has hundreds of qualified temporary workers available to meet any of your staffing needs. |  |  | P4 · Q83–85 |
+| 32 | We are the largest temp agency in the region with branch offices in six locations. |  |  | P4 · Q83–85 |
+| 33 | Now, I know I've set your project due dates for the end of the month as well, but this is an important opportunity. | opportunity (t → d nhẹ, giọng Mỹ); I've (đuôi rút gọn, rất nhẹ); end of (nối âm) | đối lập | P4 · Q86–88 |
+| 34 | The conference will feature an expo of vendors who serve hotel chains, which could be useful given that we'll be opening hotels in two new cities next year. | we'll (đuôi rút gọn, rất nhẹ) | mệnh đề quan hệ | P4 · Q86–88 |
+| 35 | Speaking of which, Theo visited both of those construction sites last week and is now going to give us a progress report. | going to → gonna; last week (nuốt t); visited (t → d nhẹ, giọng Mỹ); both of (nối âm) | mệnh đề quan hệ | P4 · Q86–88 |
+| 36 | This year we are streaming this event live over the internet for the very first time. | first time (nuốt t) |  | P4 · Q89–91 |
+| 37 | She has worked tirelessly to bring original soundtrack music to film audiences around the world. |  |  | P4 · Q89–91 |
+| 38 | Over the years, she has been responsible for discovering and developing some of today's leading composers. | some of (nối âm) |  | P4 · Q89–91 |
+| 39 | In fact, after Ms. Alabi receives her award, some of her most famous clients will perform for us. | most famous (nuốt t); some of (nối âm) | mốc thời gian | P4 · Q89–91 |
+| 40 | Our president has proposed expanding the product line to include a virtual reality headset and those have been popular lately. | reality (t → d nhẹ, giọng Mỹ) |  | P4 · Q92–94 |
+| 41 | Next on the agenda, Rya will be demonstrating the new software we'll be using to track consumer purchasing trends. | demonstrating (t → d nhẹ, giọng Mỹ); we'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q92–94 |
+| 42 | Now, I know not everyone who takes this all access tour is a football fan. |  | mệnh đề quan hệ | P4 · Q95–97 |
+| 43 | Many of our visitors are just curious about how a modern sports facility of this size operates. | just curious (nuốt t); facility (t → d nhẹ, giọng Mỹ) |  | P4 · Q95–97 |
+| 44 | And fortunately for us, today's forecast shows a mix of sun and clouds with no rain. |  |  | P4 · Q95–97 |
+| 45 | Also, as a heads up, a shuttle bus will meet us at the end of the tour to bring us all back to the parking lot. | end of (nối âm) | bổ sung thông tin | P4 · Q95–97 |
+| 46 | It's a dinner party to celebrate the retirement of a longtime employee of Jelton Incorporated. |  |  | P4 · Q98–100 |
+| 47 | The chefs are already prepping dinner and I need you all to set up the ballroom. | need you → …-joo; set up (nối âm) |  | P4 · Q98–100 |
+| 48 | Amanda couldn't make it, so Cota is covering for her and will take Amanda's assignment. |  |  | P4 · Q98–100 |
+| 49 | Now, I have a meeting with a potential client at noon, but otherwise I'll be available all day if anything comes up. | meeting (t → d nhẹ, giọng Mỹ); I'll (đuôi rút gọn, rất nhẹ); comes up (nối âm) | điều kiện, đối lập | P4 · Q98–100 |
+
+### Câu dài — Test 5 (55)
+
+| # | Câu | Âm khó nghe | Cấu trúc | Part |
+|---|---|---|---|---|
+| 1 | I'm meeting with the Ghart group at 10:00 a.m. for the product pitch, and I need copies of your market analysis report made for each representative. | meeting (t → d nhẹ, giọng Mỹ) |  | P3 · Q32–34 |
+| 2 | Actually, I came in early today, but I couldn't get the copy machine to work. |  | đối lập, báo tin xấu / đính chính (hay ra đề) | P3 · Q32–34 |
+| 3 | I'll stop at Business Express on Mallister Street and take care of it on my way to the office. | I'll (đuôi rút gọn, rất nhẹ) |  | P3 · Q32–34 |
+| 4 | We are relocating to a new office in June and would like to book your services. | relocating (t → d nhẹ, giọng Mỹ) |  | P3 · Q35–37 |
+| 5 | Certainly, but before we reserve a date for the move, we'll need to come to your current location and estimate the cost of moving your furniture and equipment. | we'll (đuôi rút gọn, rất nhẹ) | đối lập, mốc thời gian | P3 · Q35–37 |
+| 6 | We have a staff meeting tomorrow morning, so no one's available to show you around then, but tomorrow afternoon works. | meeting (t → d nhẹ, giọng Mỹ) | đối lập | P3 · Q35–37 |
+| 7 | And as you probably know, I'm still finishing up a research paper with my current institution. |  |  | P3 · Q38–40 |
+| 8 | Yes, the director did tell me that your contract includes time for you to finish up your previous commitments. |  |  | P3 · Q38–40 |
+| 9 | I'm glad to see the increase in orders, but I'm worried about meeting the demands. | meeting (t → d nhẹ, giọng Mỹ) | đối lập | P3 · Q41–43 |
+| 10 | I also think that we should ask if our delivery service can pick up our packages twice a day instead of just once a day. | can /kən/ (đọc yếu); instead of (nối âm); pick up (nối âm) | điều kiện, bổ sung thông tin, mốc thời gian | P3 · Q41–43 |
+| 11 | They just shipped our leather order, the hazelnut color, but it'll take a while to arrive. | just shipped (nuốt t); it'll (đuôi rút gọn, rất nhẹ) | đối lập, mốc thời gian | P3 · Q44–46 |
+| 12 | We don't have enough in stock to complete the 10 sofa orders that we've received the past few days. | don't have (nuốt t); we've (đuôi rút gọn, rất nhẹ) |  | P3 · Q44–46 |
+| 13 | They have some ideas about how we can increase sales of our denim blue jeans. | can /kən/ (đọc yếu) |  | P3 · Q47–49 |
+| 14 | Thanks for agreeing to give me the highlights of the budget discussion from the monthly meeting. | meeting (t → d nhẹ, giọng Mỹ) |  | P3 · Q50–52 |
+| 15 | Everyone on our organization's board at Tennis United agreed to the fee increase for the tennis camp for young players. | United (t → d nhẹ, giọng Mỹ) |  | P3 · Q50–52 |
+| 16 | That way, we received half off the price. since the supplier wanted to get rid of his summer inventory. | rid of (nối âm) | mốc thời gian | P3 · Q50–52 |
+| 17 | The first item on today's meeting agenda is our bid to renovate the Morrisville Bridge. | meeting (t → d nhẹ, giọng Mỹ) |  | P3 · Q53–55 |
+| 18 | The only explanation given was that another construction company submitted a proposal with a shorter timeline. | submitted (t → d nhẹ, giọng Mỹ) |  | P3 · Q53–55 |
+| 19 | Perhaps we could enlarge the break room by having the wall taken down between it and the meeting room next door. | next door (nuốt t); meeting (t → d nhẹ, giọng Mỹ) |  | P3 · Q56–58 |
+| 20 | I can't do it this afternoon since I need to see a dentist, but I will definitely make the call. | can't do (nuốt t); can't (nhấn mạnh — phân biệt can /kən/) | đối lập, mốc thời gian | P3 · Q56–58 |
+| 21 | The thing is, we can't start installing the support columns until we have all the materials for the concrete. | can't start (nuốt t); can't (nhấn mạnh — phân biệt can /kən/) | mốc thời gian | P3 · Q62–64 |
+| 22 | In the meantime, I'm going to write an email to management to explain how we're attempting to resolve the situation. | going to → gonna; we're (đuôi rút gọn, rất nhẹ) |  | P3 · Q62–64 |
+| 23 | The city just posted its new parking rates, and we need to talk about how they'll affect our restaurant's food delivery service. | just posted (nuốt t); city (t → d nhẹ, giọng Mỹ); they'll (đuôi rút gọn, rất nhẹ) |  | P3 · Q65–67 |
+| 24 | I'm worried we'll lose money because we'll need to pay more for parking while the delivery driver takes the food to customers. | we'll (đuôi rút gọn, rất nhẹ) | nguyên nhân / kết quả, mốc thời gian | P3 · Q65–67 |
+| 25 | I'll talk to our drivers to see who's willing to switch to bicycle deliveries for customers nearby. | I'll (đuôi rút gọn, rất nhẹ) | mệnh đề quan hệ | P3 · Q65–67 |
+| 26 | When customers walk into Southern Regional Bank, I want them to feel confident about entrusting their money to us. |  | mốc thời gian | P3 · Q68–70 |
+| 27 | As I mentioned the last time we met, I'm hoping your interior design firm can give our lobby a more polished, professional look. | last time (nuốt t); can /kən/ (đọc yếu) |  | P3 · Q68–70 |
+| 28 | There aren't many windows in your lobby, so it's the best way to bring more natural light into the room. | aren't many (nuốt t); best way (nuốt t) |  | P3 · Q68–70 |
+| 29 | Before I begin my report on last month's sales figures, I want to congratulate our fantastic IT team. | want to → wanna; last month (nuốt t) | mốc thời gian | P4 · Q71–73 |
+| 30 | The sales tracking system they built allows us to easily share results with colleagues from other branches. |  |  | P4 · Q71–73 |
+| 31 | You've reached the communications team of Business as usual, the talk show about starting a new business. | You've (đuôi rút gọn, rất nhẹ) |  | P4 · Q74–76 |
+| 32 | If you are calling because you'd like to appear on our show, we'd love to hear your story. | you'd (đuôi rút gọn, rất nhẹ); we'd (đuôi rút gọn, rất nhẹ) | điều kiện, nguyên nhân / kết quả | P4 · Q74–76 |
+| 33 | The typical timeline for the review process is 2 weeks with longer wait times expected around holidays. |  |  | P4 · Q74–76 |
+| 34 | Normally, I'd start by taking you inside Zelda's Bakery to try one of their famous corn muffins, but we have such a large group today. | I'd (đuôi rút gọn, rất nhẹ); one of (nối âm) | đối lập | P4 · Q77–79 |
+| 35 | There you'll find a wide selection of the homemade breads, jams, and pastries that we're noted for. | noted (t → d nhẹ, giọng Mỹ); you'll (đuôi rút gọn, rất nhẹ); we're (đuôi rút gọn, rất nhẹ) |  | P4 · Q77–79 |
+| 36 | It is given each year to a company that has made outstanding contributions to the aviation industry. |  | bị động | P4 · Q80–82 |
+| 37 | The company chosen for the award this year was frustrated by the lack of qualified job applicants and decided to do something about it. |  | bị động | P4 · Q80–82 |
+| 38 | Zenith Aviation's apprenticeship program has trained hundreds of workers for careers in aircraft maintenance and repair. |  |  | P4 · Q80–82 |
+| 39 | Before I present the award, please direct your attention to the screen for a video highlighting the program's effectiveness. |  | mốc thời gian | P4 · Q80–82 |
+| 40 | On behalf of the transportation department, I'd like to present a proposal to fund the replacement of all 350 bus stop shelters in our city. | city (t → d nhẹ, giọng Mỹ); I'd (đuôi rút gọn, rất nhẹ) |  | P4 · Q83–85 |
+| 41 | We feel this is a worthwhile investment because the current shelters aren't in good shape. |  | nguyên nhân / kết quả | P4 · Q83–85 |
+| 42 | We want to go with Urban Retreat because its shelters are made of durable materials. | want to → wanna | bị động, nguyên nhân / kết quả | P4 · Q83–85 |
+| 43 | I'm almost certain that all of those will be approved for production in several different color schemes. | all of (nối âm) | bị động | P4 · Q86–88 |
+| 44 | However, the animal themed prints you sent, the thing is we have a full supply of those in stock. |  | đối lập | P4 · Q86–88 |
+| 45 | In local news, the opening of the Steuart Performing Arts Center tomorrow night has attracted widespread attention. |  |  | P4 · Q89–91 |
+| 46 | Regular listeners of the Going Electric podcast may be familiar with today's guest because she was on the podcast last year. |  | nguyên nhân / kết quả | P4 · Q92–94 |
+| 47 | In today's episode, she'll be talking about electric ships that can operate with zero emissions. | can /kən/ (đọc yếu); she'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q92–94 |
+| 48 | These high-speed ships may completely change the way people and goods are moved along the world's coastlines. |  | bị động | P4 · Q92–94 |
+| 49 | But before I welcome Dr. Alamry, please note there is a change to next month's schedule. | next month (nuốt t) | đối lập, mốc thời gian, nhắc nhở (hay ra đề) | P4 · Q92–94 |
+| 50 | The profits from this year's race will help our town fix the Grant Park foot bridge which is in serious need of maintenance. |  | mệnh đề quan hệ | P4 · Q95–97 |
+| 51 | Please take a look at the map to familiarize yourselves with the route the cyclists will be taking. |  |  | P4 · Q95–97 |
+| 52 | Remember there's a beverage stand located between city hall and the art museum so you can stay hydrated while you watch the race. | city (t → d nhẹ, giọng Mỹ); can /kən/ (đọc yếu) | mốc thời gian | P4 · Q95–97 |
+| 53 | In today's meeting, we'll discuss where we are in our software development process for universal banking. | meeting (t → d nhẹ, giọng Mỹ); we'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q98–100 |
+| 54 | What features do they need in a banking app and how comfortable are they with technology? |  |  | P4 · Q98–100 |
+| 55 | But before Sarai begins her presentation, let me remind you that as summer begins next week, so do summer hours. | let me → lemme; next week (nuốt t) | đối lập, mốc thời gian | P4 · Q98–100 |
+
+### Câu dài — Test 6 (46)
+
+| # | Câu | Âm khó nghe | Cấu trúc | Part |
+|---|---|---|---|---|
+| 1 | We should use it to advertise our most recent package, a guided exploration of the theater district, including tickets to a performance. | most recent (nuốt t); theater (t → d nhẹ, giọng Mỹ) |  | P3 · Q32–34 |
+| 2 | Let me check how much it would cost to add that information to our current commercials. | let me → lemme |  | P3 · Q32–34 |
+| 3 | Oh, well, it's written on the confirmation they receive, but I'll start reminding our guests at check-in as well. | I'll (đuôi rút gọn, rất nhẹ) | đối lập | P3 · Q35–37 |
+| 4 | Also, remember the landscaping crew is coming by next week to plant some spring flowers by the entrance of the lobby. | next week (nuốt t) | bổ sung thông tin | P3 · Q35–37 |
+| 5 | After all, your patients and colleagues all felt you should be recognized for your outstanding efforts. |  | bị động, mốc thời gian | P3 · Q38–40 |
+| 6 | Oh, we just received several copies of that, but they're still packed in the box. | just received (nuốt t); they're (đuôi rút gọn, rất nhẹ) | đối lập | P3 · Q41–43 |
+| 7 | I hope the mayor will provide details about the proposal to build an offshore wind farm. |  |  | P3 · Q44–46 |
+| 8 | There's a lot of interest in wind energy, so this will likely be the lead story on tonight's news. | a lot of → a lotta; lot of (nối âm) |  | P3 · Q44–46 |
+| 9 | By the way, there's an article on our website about the founder of True Valley. |  |  | P3 · Q47–49 |
+| 10 | Yes, that's an option, but I don't know if all our staff have tents and camping equipment. | don't know (nuốt t) | điều kiện, đối lập | P3 · Q50–52 |
+| 11 | Klaus, you were on the research team that went to the Arctic last month, right? | last month (nuốt t) |  | P3 · Q56–58 |
+| 12 | The one I have is battery operated and there are heating elements inside the fabric. | heating (t → d nhẹ, giọng Mỹ) |  | P3 · Q56–58 |
+| 13 | They need t-shirts with their business name and logo printed on the front. 1,000 to be exact. |  |  | P3 · Q59–61 |
+| 14 | I found some from when we had just started and were a team of only three people. | just started (nuốt t) | mốc thời gian | P3 · Q62–64 |
+| 15 | And by the way, since I'll be getting up a few times to make announcements, I'd like to sit at the table closest to the stage. | getting (t → d nhẹ, giọng Mỹ); I'll (đuôi rút gọn, rất nhẹ); I'd (đuôi rút gọn, rất nhẹ) | mốc thời gian | P3 · Q62–64 |
+| 16 | Hi, I have a ticket for the bus to Springdale this morning, but my plans have changed and I need to switch my destination. |  | đối lập | P3 · Q65–67 |
+| 17 | I'm calling because I purchased a clothes dryer a few days ago, but I have a problem. |  | nguyên nhân / kết quả, đối lập | P3 · Q68–70 |
+| 18 | Well, a clothes dryer requires two spaces, so most likely we'd need to install something called a sub panel. | most likely (nuốt t); we'd (đuôi rút gọn, rất nhẹ) |  | P3 · Q68–70 |
+| 19 | The good news is that you'd only need a 60 amp electrical switch to fix the problem. | that you → …-choo; you'd (đuôi rút gọn, rất nhẹ) |  | P3 · Q68–70 |
+| 20 | Please note that in order to accommodate the large number of guests who signed up for the afternoon panel discussion, that event has been moved to exhibit hall B. | number of (nối âm); signed up (nối âm) | mệnh đề quan hệ, bị động, chỉ mục đích | P4 · Q71–73 |
+| 21 | And will the person who left a backpack at the information desk please return to the desk to claim your item? |  | mệnh đề quan hệ | P4 · Q71–73 |
+| 22 | Although I've never taught this course before, I've been a computer programmer for 7 years now. | computer (t → d nhẹ, giọng Mỹ); I've (đuôi rút gọn, rất nhẹ) | đối lập, mốc thời gian | P4 · Q74–76 |
+| 23 | To begin, let's go over some terms that are often used in the field of computer programming. | computer (t → d nhẹ, giọng Mỹ); go over (nối âm) | bị động | P4 · Q74–76 |
+| 24 | If you know any of their meanings, please raise your hand and I'll call on you. | I'll (đuôi rút gọn, rất nhẹ); call on (nối âm) | điều kiện | P4 · Q74–76 |
+| 25 | Hi Mji, this is Anil Gupta from Jeremy's Family Restaurants calling about the application you sent in. |  |  | P4 · Q77–79 |
+| 26 | I was very impressed with your resume and your successful completion of the managerial training program when you worked at Harry's Bistros. |  | mốc thời gian | P4 · Q77–79 |
+| 27 | I understand the program included training in using bookkeeping software that would be useful in our company. |  |  | P4 · Q77–79 |
+| 28 | Goods from the ships are usually distributed throughout the region by train or by truck. | distributed (t → d nhẹ, giọng Mỹ) | bị động | P4 · Q80–82 |
+| 29 | However, sometimes the goods need to wait for days before they are transported, which can cause problems due to lack of affordable storage space. | can /kən/ (đọc yếu) | mệnh đề quan hệ, bị động, nguyên nhân / kết quả | P4 · Q80–82 |
+| 30 | Unfortunately, lease costs for storage space in the area are too high for many shipping companies to afford. |  | báo tin xấu / đính chính (hay ra đề) | P4 · Q80–82 |
+| 31 | After the break, we'll hear from Pablo Alvarez, owner of Alva Shipping, about this issue, so stay tuned. | we'll (đuôi rút gọn, rất nhẹ) | mốc thời gian | P4 · Q80–82 |
+| 32 | Before we get started, let's take a moment to have everyone tell us their names and why they signed up. | signed up (nối âm) | mốc thời gian | P4 · Q83–85 |
+| 33 | They like the suggestions you've made so far, such as how to update their logo to make it more modern. | you've (đuôi rút gọn, rất nhẹ) |  | P4 · Q86–88 |
+| 34 | They mentioned they'll be in the area this Friday and expressed interest in visiting our office. | visiting (t → d nhẹ, giọng Mỹ); they'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q86–88 |
+| 35 | But as I was walking by the workstation area, I noticed a lot of clutter. | a lot of → a lotta; clutter (t → d nhẹ, giọng Mỹ); lot of (nối âm) | đối lập | P4 · Q86–88 |
+| 36 | A technician came at the end of the day and it turns out the hydraulic safety switch is turning itself off randomly. | safety (t → d nhẹ, giọng Mỹ); end of (nối âm); turns out (nối âm) |  | P4 · Q89–91 |
+| 37 | In the meantime, please use our older machine only, which as you know is not as fast as the new one. |  | mệnh đề quan hệ | P4 · Q89–91 |
+| 38 | I work at Cullum Studios and I'm a production assistant for a new film that will be set in 17th century France. | set in (nối âm) |  | P4 · Q92–94 |
+| 39 | I recently came across the book you wrote on the history of French fashion and found it fascinating. | fascinating (t → d nhẹ, giọng Mỹ) |  | P4 · Q92–94 |
+| 40 | Since you're an expert on French clothing and lifestyle trends of that time, your knowledge would be valuable as we develop costume and set designs. | you're (đuôi rút gọn, rất nhẹ) | mốc thời gian | P4 · Q92–94 |
+| 41 | This easy to use service will take you to any destination within the service area, like your doctor's office or the library. |  |  | P4 · Q95–97 |
+| 42 | And we've recently expanded service to Westbrook, so residents can take the shuttle to the soccer stadium. | can /kən/ (đọc yếu); we've (đuôi rút gọn, rất nhẹ) |  | P4 · Q95–97 |
+| 43 | If you've ever wondered what goes into excavating a site, here's your chance to find out. | you've (đuôi rút gọn, rất nhẹ); find out (nối âm) | điều kiện | P4 · Q98–100 |
+| 44 | There will be a special workshop where you can get hands-on experience practicing excavation skills. | can /kən/ (đọc yếu) |  | P4 · Q98–100 |
+| 45 | The workshop will be held on the grounds in front of the historical society building. | society (t → d nhẹ, giọng Mỹ); front of (nối âm) |  | P4 · Q98–100 |
+| 46 | Many streets will be blocked off for the festival and it will take longer to drive. |  | bị động | P4 · Q98–100 |
+
+### Câu dài — Test 7 (51)
+
+| # | Câu | Âm khó nghe | Cấu trúc | Part |
+|---|---|---|---|---|
+| 1 | Carmen, I don't know if you realize it, but your office chair makes a squeaking sound every time you move. | don't know (nuốt t) | điều kiện, đối lập | P3 · Q32–34 |
+| 2 | And don't forget that our team is ordering takeout from a Thai restaurant for lunch. | don't forget (nuốt t) | nhắc nhở (hay ra đề) | P3 · Q32–34 |
+| 3 | Just ask him what the cost difference would be if we added 5 kg of lemons to our regular delivery. | ask him (rơi h / đọc yếu) | điều kiện | P3 · Q35–37 |
+| 4 | It looks like the hospital has a little money left over in our staff development budget. |  |  | P3 · Q38–40 |
+| 5 | A lot of the expert summaries in it are useful for my clinical practice work. | a lot of → a lotta; lot of (nối âm) |  | P3 · Q38–40 |
+| 6 | I'm going to ask other doctors, too, and see how best to use these funds. | going to → gonna; best to (nuốt t) |  | P3 · Q38–40 |
+| 7 | Yes, but for a refund, I'm afraid you'll have to ship the shoes back at your own expense. | have to → hafta; you'll (đuôi rút gọn, rất nhẹ) | đối lập, báo tin xấu / đính chính (hay ra đề) | P3 · Q41–43 |
+| 8 | On the other hand, if you'd like to exchange them, we'll send you a return label for free. | send you → …-joo; you'd (đuôi rút gọn, rất nhẹ); we'll (đuôi rút gọn, rất nhẹ) | điều kiện | P3 · Q41–43 |
+| 9 | Just click on it and you'll be redirected to the instructions for exchanges on our website. | Just click (nuốt t); you'll (đuôi rút gọn, rất nhẹ) | bị động | P3 · Q41–43 |
+| 10 | On today's podcast, we have Gabriella Espinosa, a former history professor who focuses on ancient civilizations. |  | mệnh đề quan hệ | P3 · Q44–46 |
+| 11 | Well, last year, a film company was producing a movie about the famous pyramids at Giza. |  |  | P3 · Q44–46 |
+| 12 | It looks like there are plenty of breaks in the schedule for networking with potential clients. |  |  | P3 · Q47–49 |
+| 13 | Minoru, can you put together a graphic for the rest of us to look at? | can /kən/ (đọc yếu) |  | P3 · Q50–52 |
+| 14 | I'm glad you could join Miss Schneider and me for the ceremony as we begin this important first step, the building demolition. | first step (nuốt t) |  | P3 · Q56–58 |
+| 15 | TJO Property is excited to be investing in this community in such a substantial way. | excited (t → d nhẹ, giọng Mỹ); community (t → d nhẹ, giọng Mỹ) | bị động | P3 · Q56–58 |
+| 16 | Since the press is here, should we pose for a photograph in front of the wrecking ball before the work begins? | front of (nối âm) | mốc thời gian | P3 · Q56–58 |
+| 17 | So, I thought I'd see if you have some flower baskets I could hang in my back patio area. | I'd (đuôi rút gọn, rất nhẹ) | điều kiện | P3 · Q59–61 |
+| 18 | You know what I'm enjoying most so far is learning about the practical side of the work, but I wish we could start working alongside the researchers here. | most so (nuốt t) | đối lập | P3 · Q62–64 |
+| 19 | People spend a lot of time outside during the summer, so we want to get our sunscreen on store shelves before the summer rush. | want to → wanna; a lot of → a lotta; lot of (nối âm) | mốc thời gian | P3 · Q65–67 |
+| 20 | Before we make our decision, I'd like to show it to a focus group that represents our target audience. | I'd (đuôi rút gọn, rất nhẹ) | mốc thời gian | P3 · Q65–67 |
+| 21 | Stefan, have you given any more thought to that parcel of land that's available for lease? |  |  | P3 · Q68–70 |
+| 22 | If we leased it, we'd have space for a lot more crops this spring and summer. | we'd (đuôi rút gọn, rất nhẹ) | điều kiện | P3 · Q68–70 |
+| 23 | Well, we could plant more celery, which is our most popular crop, and we could even add cabbage as a new crop in the spring. | most popular (nuốt t) | mệnh đề quan hệ | P3 · Q68–70 |
+| 24 | We'll need to extend our irrigation system to the new parcel, though, and that could be expensive. | We'll (đuôi rút gọn, rất nhẹ) | đối lập | P3 · Q68–70 |
+| 25 | While production was closed down for the holiday, management took the opportunity to install a new type of safety equipment on all the machines on the assembly lines. | opportunity (t → d nhẹ, giọng Mỹ); safety (t → d nhẹ, giọng Mỹ) | bị động, mốc thời gian | P4 · Q71–73 |
+| 26 | A special sensor called a light curtain automatically turns off the machines if an object gets too close during operation. | turns off (nối âm) | điều kiện | P4 · Q71–73 |
+| 27 | Good job at all the rehearsals this week as we prepare for our upcoming performance. |  |  | P4 · Q74–76 |
+| 28 | Dancers, you did great at quickly learning the newly choreographed steps to our main piece. |  |  | P4 · Q74–76 |
+| 29 | I know we've had a lot of adjustments to make since we just upgraded our cameras to newer models last week, but we've tested everything and we know what we're doing. | a lot of → a lotta; last week (nuốt t); we've (đuôi rút gọn, rất nhẹ); we're (đuôi rút gọn, rất nhẹ) | đối lập, mốc thời gian | P4 · Q77–79 |
+| 30 | Remember, it's an important night because this is a high-profile event that will be broadcast live to viewers. |  | nguyên nhân / kết quả | P4 · Q77–79 |
+| 31 | After lunch, I'll share a video about our company's history from its founding in 1971 to the present day. | I'll (đuôi rút gọn, rất nhẹ) | mốc thời gian | P4 · Q80–82 |
+| 32 | Our next stop is Bxton, famous for being the birthplace of renowned painter Oliver Murray. | next stop (nuốt t) |  | P4 · Q83–85 |
+| 33 | As you may know, several of Mr. Murray's paintings hang in museums around the world. |  |  | P4 · Q83–85 |
+| 34 | Please be advised that due to the short platform length, the doors of the last train car will not open. | last train (nuốt t) | bị động, nguyên nhân / kết quả | P4 · Q83–85 |
+| 35 | If you are in that car, you'll need to walk forward to exit the train. | you'll (đuôi rút gọn, rất nhẹ) | điều kiện | P4 · Q83–85 |
+| 36 | There will also be a short delay at this station while our new train crew comes on and gets situated. | comes on (nối âm) | bổ sung thông tin, mốc thời gian | P4 · Q83–85 |
+| 37 | We've signed a contract with Lambert Technologies to plan the gardens and landscaping around their new office building. | We've (đuôi rút gọn, rất nhẹ) |  | P4 · Q86–88 |
+| 38 | I met with them last week to present our design proposals and they agreed on a design plan. | last week (nuốt t) |  | P4 · Q86–88 |
+| 39 | They've decided to cover a lot of the open space with creeping time plantings instead of grass. | a lot of → a lotta; They've (đuôi rút gọn, rất nhẹ); lot of (nối âm); instead of (nối âm) |  | P4 · Q86–88 |
+| 40 | If you're planning to take any time off for vacation, send me those dates today, please. | you're (đuôi rút gọn, rất nhẹ) | điều kiện | P4 · Q86–88 |
+| 41 | A market research firm has reported that the department store chain Willoughby is partnering with the beauty retailer Rossi. | beauty (t → d nhẹ, giọng Mỹ) |  | P4 · Q89–91 |
+| 42 | By the end of the year, Rossi stores will be in place at 500 Willoughby locations. | end of (nối âm) |  | P4 · Q89–91 |
+| 43 | By joining forces with Willoughby, Rossi hopes to meet its goal of expanding its customer base by entering suburban markets. |  |  | P4 · Q89–91 |
+| 44 | To accommodate the new retail spaces for Rossi, participating Willoughby stores will start renovations in July. | participating (t → d nhẹ, giọng Mỹ) |  | P4 · Q89–91 |
+| 45 | Today, I want to discuss some ways we can improve our solar panel installation business. | want to → wanna; can /kən/ (đọc yếu) |  | P4 · Q92–94 |
+| 46 | I'd like to pay for national certification for all of our installation techs, which will greatly improve our quality. | quality (t → d nhẹ, giọng Mỹ); I'd (đuôi rút gọn, rất nhẹ); all of (nối âm) | mệnh đề quan hệ | P4 · Q92–94 |
+| 47 | Today, my department is happy to announce that we'll use some of those funds to install covered benches at city bus stops. | city (t → d nhẹ, giọng Mỹ); we'll (đuôi rút gọn, rất nhẹ); some of (nối âm) |  | P4 · Q95–97 |
+| 48 | They will give riders a place to rest and keep out of the sun, rain, or snow while they wait. | out of (nối âm) | mốc thời gian | P4 · Q95–97 |
+| 49 | It was great running into you at the flower trade show in Boston and thanks for recommending that I visit the art museum while I was in town. |  | mốc thời gian | P4 · Q98–100 |
+| 50 | I'm calling because I wanted to follow up with you right away about the tulips you're getting shipped from the Netherlands next week. | next week (nuốt t); getting (t → d nhẹ, giọng Mỹ); you're (đuôi rút gọn, rất nhẹ) | nguyên nhân / kết quả | P4 · Q98–100 |
+| 51 | However, my budget is tight and I can't spend more than $250, so I'd like to order tulips in that price range. | can't spend (nuốt t); can't (nhấn mạnh — phân biệt can /kən/); I'd (đuôi rút gọn, rất nhẹ) | đối lập | P4 · Q98–100 |
+
+### Câu dài — Test 8 (37)
+
+| # | Câu | Âm khó nghe | Cấu trúc | Part |
+|---|---|---|---|---|
+| 1 | Luca, after we finish rewiring the electricity in this room, the client asked if we could also fix the ceiling light in the kitchen. | electricity (t → d nhẹ, giọng Mỹ) | điều kiện, bổ sung thông tin, mốc thời gian | P3 · Q32–34 |
+| 2 | We just purchased that refrigerator last month, so it should be in perfect working order. | just purchased (nuốt t); last month (nuốt t) |  | P3 · Q35–37 |
+| 3 | Hi, I heard the county is sponsoring a program for residents to have their garden soil analyzed here at the county agriculture building. |  |  | P3 · Q44–46 |
+| 4 | I want to plant a vegetable garden this spring and I'm very curious about my soil quality. | want to → wanna; quality (t → d nhẹ, giọng Mỹ) |  | P3 · Q44–46 |
+| 5 | After you get back, we can read through the script so we can check the timing of each scene. | can /kən/ (đọc yếu) | mốc thời gian | P3 · Q47–49 |
+| 6 | Unfortunately, I believe another large group reserved the patio for Thursday, but let me quickly check with my manager. | let me → lemme | đối lập, báo tin xấu / đính chính (hay ra đề) | P3 · Q50–52 |
+| 7 | We offer a special menu for large groups that charges a flat rate per person. |  |  | P3 · Q50–52 |
+| 8 | That being said, one of the reasons I came to this show was to visit your booth. | one of (nối âm) | bị động | P3 · Q53–55 |
+| 9 | I watched a video about a machine that can transplant seedlings from small pots to bigger pots. | can /kən/ (đọc yếu) |  | P3 · Q53–55 |
+| 10 | Unfortunately, I've just learned that the flight is delayed because of inclement weather in Canada. | just learned (nuốt t); I've (đuôi rút gọn, rất nhẹ); because of (nối âm) | bị động, nguyên nhân / kết quả, báo tin xấu / đính chính (hay ra đề) | P3 · Q56–58 |
+| 11 | So, Raquel, I've been working on repairing this tractor, but I'm not having much luck. | I've (đuôi rút gọn, rất nhẹ); working on (nối âm) | đối lập | P3 · Q59–61 |
+| 12 | I need to go over to the fields to check on the peppers and cucumbers. | go over (nối âm); check on (nối âm) |  | P3 · Q59–61 |
+| 13 | Also, if you'd like to share your email, I can sign you up for our rewards program. | can /kən/ (đọc yếu); you'd (đuôi rút gọn, rất nhẹ) | điều kiện, bổ sung thông tin | P3 · Q62–64 |
+| 14 | I recently started waking up with a stiff neck, so I want something that will help me sleep better. | better (t → d nhẹ, giọng Mỹ) |  | P3 · Q65–67 |
+| 15 | Yes, I love sales, but I especially like the step where we're getting a lot of questions from clients. | a lot of → a lotta; getting (t → d nhẹ, giọng Mỹ); we're (đuôi rút gọn, rất nhẹ); lot of (nối âm) | đối lập | P3 · Q68–70 |
+| 16 | I can address doubts or objections and show them how the software really meets their needs. | show them (rơi h / đọc yếu); can /kən/ (đọc yếu) |  | P3 · Q68–70 |
+| 17 | The first topic up for discussion is a request from the head of the city's water system. | first topic (nuốt t); city (t → d nhẹ, giọng Mỹ); water (t → d nhẹ, giọng Mỹ) |  | P4 · Q71–73 |
+| 18 | But for perspective, the city spends more than that every year to hire divers to repair broken equipment. | city (t → d nhẹ, giọng Mỹ) | đối lập | P4 · Q71–73 |
+| 19 | Alka will primarily review our safety practices and ensure they meet or exceed all current pharmaceutical industry standards. | safety (t → d nhẹ, giọng Mỹ) |  | P4 · Q74–76 |
+| 20 | I'm thrilled that she's here just in time to finish inspections before the due date to file our workplace safety paperwork. | safety (t → d nhẹ, giọng Mỹ) | mốc thời gian | P4 · Q74–76 |
+| 21 | Even though we like to keep the conference room open for client meetings, you can work there until Marian adjusts the temperature. | can /kən/ (đọc yếu) | đối lập, mốc thời gian | P4 · Q77–79 |
+| 22 | In the meantime, let me know if any other building issues have come up, and I'll report them to her. | let me → lemme; I'll (đuôi rút gọn, rất nhẹ); come up (nối âm) | điều kiện | P4 · Q77–79 |
+| 23 | Also remember that medical staff are not permitted to bring food or drinks into the clinical areas. | permitted (t → d nhẹ, giọng Mỹ) | bổ sung thông tin | P4 · Q80–82 |
+| 24 | And what's really unique, Postella has officially licensed images from your favorite movies, video games, and sports teams that can be easily added to your posters in your order. | can /kən/ (đọc yếu) | bị động | P4 · Q83–85 |
+| 25 | You can connect to our complimentary service using the access code printed on your ticket. | can /kən/ (đọc yếu) |  | P4 · Q86–88 |
+| 26 | Now, we're operating on schedule right now, but there's significant maintenance work on the track ahead. | operating (t → d nhẹ, giọng Mỹ); we're (đuôi rút gọn, rất nhẹ); work on (nối âm) | đối lập | P4 · Q86–88 |
+| 27 | I'm calling because we need to replace several maintenance hole covers on our city streets. | city (t → d nhẹ, giọng Mỹ) | nguyên nhân / kết quả | P4 · Q89–91 |
+| 28 | I noticed on your website that your company casts many different types of metal products, including maintenance hole covers. |  |  | P4 · Q89–91 |
+| 29 | While I'll be away most of next week, Li Hong Hao, the assistant superintendent, will be in the office. | next week (nuốt t); I'll (đuôi rút gọn, rất nhẹ); most of (nối âm) | mốc thời gian | P4 · Q89–91 |
+| 30 | I'm calling to let you know I emailed the price estimate you requested for the replacement of your metal roof. | let you → …-choo |  | P4 · Q92–94 |
+| 31 | I'm sure you've received lower estimates from other businesses, but you should know I only use the highest quality materials in my work. | but you → …-choo; quality (t → d nhẹ, giọng Mỹ); you've (đuôi rút gọn, rất nhẹ) | đối lập | P4 · Q92–94 |
+| 32 | I know you hoped that I'd complete the project before you go away on your vacation, but I'm completely booked for the month of March. | I'd (đuôi rút gọn, rất nhẹ); go away (nối âm) | đối lập, mốc thời gian | P4 · Q92–94 |
+| 33 | Considering this, I'm going to assemble a team to come up with a viable marketing plan. | going to → gonna; marketing (t → d nhẹ, giọng Mỹ); come up (nối âm) |  | P4 · Q95–97 |
+| 34 | Due to the high volume of visitors in the summer, as well as limited parking, we encourage everyone to take the city bus to the park. | limited (t → d nhẹ, giọng Mỹ); city (t → d nhẹ, giọng Mỹ) | nguyên nhân / kết quả, bổ sung thông tin | P4 · Q98–100 |
+| 35 | Most of the tours are booked for today, but we still have spots open for the mountain bike tour. | Most of (nối âm) | bị động, đối lập | P4 · Q98–100 |
+| 36 | And remember, there are plenty of things you can do around the park on your own. | can /kən/ (đọc yếu) |  | P4 · Q98–100 |
+| 37 | As you enter the park, brochures are available with maps of all the hiking trails located throughout the park. |  |  | P4 · Q98–100 |
+
+### Câu dài — Test 9 (46)
+
+| # | Câu | Âm khó nghe | Cấu trúc | Part |
+|---|---|---|---|---|
+| 1 | Hello, I'm calling because I'll be staying in the city next week for work and I'd like to purchase a temporary gym membership. | next week (nuốt t); city (t → d nhẹ, giọng Mỹ); I'll (đuôi rút gọn, rất nhẹ); I'd (đuôi rút gọn, rất nhẹ) | nguyên nhân / kết quả | P3 · Q32–34 |
+| 2 | We also offer rentals on athletic equipment like exercise mats and tennis rackets if you're interested. | you're (đuôi rút gọn, rất nhẹ) | điều kiện, bổ sung thông tin | P3 · Q32–34 |
+| 3 | I saw on your resume that you previously did quality control at a similar factory. | that you → …-choo; quality (t → d nhẹ, giọng Mỹ) |  | P3 · Q35–37 |
+| 4 | We test at the beginning of each shift to make sure all the equipment has been cleaned and sanitized. |  | bị động, nhắc nhở (hay ra đề) | P3 · Q35–37 |
+| 5 | They asked if one of our graphic designers could redesign the newsletter to make it more attractive. | newsletter (t → d nhẹ, giọng Mỹ); one of (nối âm) | điều kiện | P3 · Q38–40 |
+| 6 | I'll ask Hioki to take care of that so you're free to work on the newsletter. | newsletter (t → d nhẹ, giọng Mỹ); I'll (đuôi rút gọn, rất nhẹ); you're (đuôi rút gọn, rất nhẹ); work on (nối âm) |  | P3 · Q38–40 |
+| 7 | Simply put, we shred discarded fabric, turn it into a watery mixture called slurry, and then dry it and press it into new sheets of fabric. | turn it (nối âm) |  | P3 · Q47–49 |
+| 8 | Unfortunately, our facility is currently able to process only cotton waste, but in the next few years, we should be able to recycle more types of textiles here. | next few (nuốt t); facility (t → d nhẹ, giọng Mỹ) | đối lập, báo tin xấu / đính chính (hay ra đề) | P3 · Q47–49 |
+| 9 | It's my hope that it could eventually become as common as recycling aluminum is now. |  |  | P3 · Q47–49 |
+| 10 | Sergey has a confident presence when speaking with reporters and he knows the travel industry well. |  | mốc thời gian | P3 · Q50–52 |
+| 11 | As you know, this will be our third location, so I think I might like to try a different kind of approach this time. | kind of → kinda |  | P3 · Q53–55 |
+| 12 | Let me grab the catering menu and the book of flower selections from my van. | let me → lemme |  | P3 · Q53–55 |
+| 13 | I'm enjoying your unique cookbook, which takes traditional dishes from around the world and adds unusual ingredients, which gives them a contemporary flare. |  | mệnh đề quan hệ | P3 · Q56–58 |
+| 14 | Well, after finishing university, I was looking for a way to combine my knowledge of history that I learned there with cooking. | university (t → d nhẹ, giọng Mỹ) | mốc thời gian | P3 · Q56–58 |
+| 15 | I think it'll be a great opportunity for us to learn from and network with other industry professionals. | opportunity (t → d nhẹ, giọng Mỹ); it'll (đuôi rút gọn, rất nhẹ) |  | P3 · Q59–61 |
+| 16 | Our water park will be reopening for the summer season soon, and we're looking for ways to increase park attendance. | water (t → d nhẹ, giọng Mỹ); we're (đuôi rút gọn, rất nhẹ) |  | P3 · Q62–64 |
+| 17 | Sure, but first, I'm going to talk to the maintenance staff and make sure the repairs to the overflow parking area are done before customers start arriving. | going to → gonna | đối lập, mốc thời gian, nhắc nhở (hay ra đề) | P3 · Q62–64 |
+| 18 | On today's tour, you'll have the opportunity to see several of the city's most famous buildings directly from the Camille River. | most famous (nuốt t); opportunity (t → d nhẹ, giọng Mỹ); city (t → d nhẹ, giọng Mỹ); you'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q71–73 |
+| 19 | Our route along the river provides a great view of the architecture, and we also have a professional photographer on board the boat who is available to take your picture for a small fee. |  | mệnh đề quan hệ, bổ sung thông tin | P4 · Q71–73 |
+| 20 | We are pleased to share the launch of our shoppers rewards program and want you to be a part of it. | want you → …-choo; part of (nối âm) | bị động | P4 · Q74–76 |
+| 21 | Signing up is easy and can be done right at the register when you check out. | can /kən/ (đọc yếu); Signing up (nối âm); check out (nối âm) | mốc thời gian | P4 · Q74–76 |
+| 22 | Just present your driver's license or other identification and you'll be given a membership card. | Just present (nuốt t); you'll (đuôi rút gọn, rất nhẹ) | bị động | P4 · Q74–76 |
+| 23 | Also, don't forget that we will be closed tomorrow in honor of the national holiday. | don't forget (nuốt t) | bị động, bổ sung thông tin, nhắc nhở (hay ra đề) | P4 · Q74–76 |
+| 24 | There is a traffic delay on Highway 59 with expected delays of about 15 minutes in the direction of the sports stadium. |  |  | P4 · Q77–79 |
+| 25 | Join me as I interview Jing Da Wei, an area photographer who has captured some of the most iconic images of this tree. | some of (nối âm) | mệnh đề quan hệ | P4 · Q77–79 |
+| 26 | Junko, I just read your email about the photo sharing app that our social media company's launching tomorrow. | just read (nuốt t) |  | P4 · Q80–82 |
+| 27 | You know, the email about updating the language in the community guidelines for the app. | updating (t → d nhẹ, giọng Mỹ); community (t → d nhẹ, giọng Mỹ) |  | P4 · Q80–82 |
+| 28 | Since we'll both be at the all staff meeting at 1:00, let's stay after it finishes to touch base on upcoming projects. | meeting (t → d nhẹ, giọng Mỹ); we'll (đuôi rút gọn, rất nhẹ) | mốc thời gian | P4 · Q80–82 |
+| 29 | You'll be authoring a comprehensive handbook that describes all the standard operating procedures to be used by our flight crew and airport staff. | operating (t → d nhẹ, giọng Mỹ); You'll (đuôi rút gọn, rất nhẹ) | bị động | P4 · Q83–85 |
+| 30 | The goal is to have a master document from which we can pull out different sections as needed. | can /kən/ (đọc yếu) | mệnh đề quan hệ | P4 · Q83–85 |
+| 31 | On your screens, you'll see a list of who will be responsible for drafting each chapter. | you'll (đuôi rút gọn, rất nhẹ) | mệnh đề quan hệ | P4 · Q83–85 |
+| 32 | I will be giving a brief presentation to introduce all of the educational software products we make. | all of (nối âm) |  | P4 · Q86–88 |
+| 33 | After that, I'd like some of you to give demonstrations of the software your team developed. | I'd (đuôi rút gọn, rất nhẹ); some of (nối âm) | mốc thời gian | P4 · Q86–88 |
+| 34 | I'll have a final agenda ready soon and we'll meet with those of you who will be presenting that day to go over the details. | I'll (đuôi rút gọn, rất nhẹ); we'll (đuôi rút gọn, rất nhẹ); go over (nối âm) | mệnh đề quan hệ | P4 · Q86–88 |
+| 35 | We wanted to go to lunch with the visitors afterward at the restaurant next door, but it's closed for renovations. | next door (nuốt t) | đối lập | P4 · Q86–88 |
+| 36 | At Joblift Enterprises, we provide hands-on training to help you learn the skills and earn the certifications that tech professionals need. |  |  | P4 · Q89–91 |
+| 37 | As you'll recall, 6 months ago, we made a deal with Euphora Sports Clothing to sell their merchandise exclusively in our department stores. | you'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q92–94 |
+| 38 | The hope is that we can attract new customers to our stores by selling this brand. | can /kən/ (đọc yếu) |  | P4 · Q92–94 |
+| 39 | Data show that foot traffic in the department stores containing Euphora clothing is up 20% from last year. |  |  | P4 · Q92–94 |
+| 40 | Thanks for inviting me to represent the parking authority at this month's city council meeting. | inviting (t → d nhẹ, giọng Mỹ); authority (t → d nhẹ, giọng Mỹ); city (t → d nhẹ, giọng Mỹ); meeting (t → d nhẹ, giọng Mỹ) |  | P4 · Q95–97 |
+| 41 | As you know, parking in city parking garages will no longer be free on Saturdays. | city (t → d nhẹ, giọng Mỹ) |  | P4 · Q95–97 |
+| 42 | My office has updated the parking rate schedule and posted copies in all city garages. | city (t → d nhẹ, giọng Mỹ) |  | P4 · Q95–97 |
+| 43 | If you look at the screen, you'll see the new rates that went into effect this week. | you'll (đuôi rút gọn, rất nhẹ) | điều kiện | P4 · Q95–97 |
+| 44 | We're planning to use some of the additional revenue to cover the cost of new payment kiosks for the garages. | We're (đuôi rút gọn, rất nhẹ); some of (nối âm) |  | P4 · Q95–97 |
+| 45 | If you do not yet have a seat assignment, please come up to the counter now so that Claudia can assist you. | can /kən/ (đọc yếu); come up (nối âm) | điều kiện, chỉ mục đích | P4 · Q98–100 |
+| 46 | And one important reminder, all carry-on baggage must comply with our height and width restrictions. | must comply (nuốt t) |  | P4 · Q98–100 |
+
+### Câu dài — Test 10 (55)
+
+| # | Câu | Âm khó nghe | Cấu trúc | Part |
+|---|---|---|---|---|
+| 1 | After we increase our space, we can finally do more than just sell musical instruments. | just sell (nuốt t); can /kən/ (đọc yếu) | mốc thời gian | P3 · Q32–34 |
+| 2 | We'll be able to add practice rooms so we can offer private music lessons by the end of the year. | can /kən/ (đọc yếu); We'll (đuôi rút gọn, rất nhẹ); end of (nối âm) |  | P3 · Q32–34 |
+| 3 | Hi, I'm working on renovating the lobby of my office and I'd like to get some paint for the walls. | I'd (đuôi rút gọn, rất nhẹ); working on (nối âm) |  | P3 · Q35–37 |
+| 4 | Well, I want to paint the walls with one of the colors from our new logo. | want to → wanna; one of (nối âm) |  | P3 · Q35–37 |
+| 5 | Well, if you email me a picture of the logo, I can have the paint ready for you by Friday. | can /kən/ (đọc yếu) | điều kiện | P3 · Q35–37 |
+| 6 | Hi, I flew in yesterday from Canada and was told that my luggage was accidentally put on a flight arriving this morning. | put on (nối âm) | bị động | P3 · Q38–40 |
+| 7 | We're so happy to have you join our office as our new dental hygienist, Maria. | We're (đuôi rút gọn, rất nhẹ) |  | P3 · Q41–43 |
+| 8 | As you know, you'll be cleaning our patients teeth before I come in to complete the exam. | you'll (đuôi rút gọn, rất nhẹ); come in (nối âm) | mốc thời gian | P3 · Q41–43 |
+| 9 | Next, I wanted to check with the design team about our water permeable bricks for walkways. | water (t → d nhẹ, giọng Mỹ) |  | P3 · Q44–46 |
+| 10 | I think the bricks will be popular in areas with water drainage problems, but I'm concerned that the final design won't be ready in time for the trade show. | won't be (nuốt t); water (t → d nhẹ, giọng Mỹ) | đối lập | P3 · Q44–46 |
+| 11 | So far, they seem to be as durable as we anticipated, but we still have a few more tests to run. |  | đối lập | P3 · Q44–46 |
+| 12 | In the meantime, we should start putting together a promotional video to show at our booth at the trade show. | putting (t → d nhẹ, giọng Mỹ) |  | P3 · Q44–46 |
+| 13 | Yes, I think it's down to just one lane for the next couple of weeks. | next couple (nuốt t) |  | P3 · Q50–52 |
+| 14 | I'll take the train into the city tomorrow instead, so I won't be late for my appointments. | won't be (nuốt t); city (t → d nhẹ, giọng Mỹ); I'll (đuôi rút gọn, rất nhẹ) |  | P3 · Q50–52 |
+| 15 | Hi, I bought a camera from your store last week, but I'm having trouble with it now. | last week (nuốt t) | đối lập | P3 · Q53–55 |
+| 16 | Well, I changed the lens from the standard to a telephoto one today, and now an error message pops up on the LCD screen. |  |  | P3 · Q53–55 |
+| 17 | I'm sorry, but I can't know for sure without looking at it as it could be caused by a few things. | can't know (nuốt t); can't (nhấn mạnh — phân biệt can /kən/) | bị động, đối lập | P3 · Q53–55 |
+| 18 | Okay, I won't be here, but one of the other employees can definitely help you. | won't be (nuốt t); can /kən/ (đọc yếu); one of (nối âm) | đối lập | P3 · Q53–55 |
+| 19 | Oh, Claudia, do you have time to help me carry these boxes to the storage closet? |  |  | P3 · Q56–58 |
+| 20 | I manage a new bed and breakfast here in town and I'm looking for a company to wash, dry, and fold our linens. |  |  | P3 · Q59–61 |
+| 21 | In that case, pickup and delivery will not add to your service charge since you're within a 15 km radius of us. | you're (đuôi rút gọn, rất nhẹ) | mốc thời gian | P3 · Q59–61 |
+| 22 | You'll be entered into a raffle to win a prize based on your donation amount. | You'll (đuôi rút gọn, rất nhẹ) | bị động | P3 · Q62–64 |
+| 23 | Hi, some of us at work decided to get together to buy some flowers here. | some of (nối âm) |  | P3 · Q65–67 |
+| 24 | We have a nice selection of arrangements that are appropriate for an event like that. |  |  | P3 · Q65–67 |
+| 25 | As you know, we sell a lot of corn as feed for livestock farms in the area. | a lot of → a lotta; lot of (nối âm) |  | P3 · Q68–70 |
+| 26 | Yes, I'm eager to get some hands-on experience with drying and storing the corn. |  |  | P3 · Q68–70 |
+| 27 | If the process is done right, it can be stored for long periods, but conditions inside the grain bin have to be just right. | have to → hafta; just right (nuốt t); can /kən/ (đọc yếu) | điều kiện, bị động, đối lập | P3 · Q68–70 |
+| 28 | Our navigation devices enable vehicles to direct drivers to their destination by taking into consideration a variety of factors such as distance, weather, and traffic conditions. | variety (t → d nhẹ, giọng Mỹ) |  | P4 · Q71–73 |
+| 29 | Maurice Schneider, the president of the company, will be here in person at 10:00 to welcome you and tell you all about the company's history. |  |  | P4 · Q71–73 |
+| 30 | Cyber security is very important to us, so we've added extra steps to verify your identity. | security (t → d nhẹ, giọng Mỹ); identity (t → d nhẹ, giọng Mỹ); we've (đuôi rút gọn, rất nhẹ) |  | P4 · Q71–73 |
+| 31 | Air traffic control is holding us here at the gate while the snow plows clear the runway. |  | mốc thời gian | P4 · Q74–76 |
+| 32 | And a reminder, please ensure that children remain seated with their seat belts fastened throughout the flight. |  |  | P4 · Q74–76 |
+| 33 | We've just learned that the Natural Zoological Museum, one of Springfield's most popular museums, will soon close for a renovation project. | just learned (nuốt t); most popular (nuốt t); We've (đuôi rút gọn, rất nhẹ); one of (nối âm) |  | P4 · Q77–79 |
+| 34 | To those who are planning to visit the exhibits in person, be aware that the workers arrive in 6 weeks. |  | mệnh đề quan hệ | P4 · Q77–79 |
+| 35 | Video tours will soon be available on the museum's website, and videos showing the progress of the project will also be posted regularly. |  | bị động, bổ sung thông tin | P4 · Q77–79 |
+| 36 | Meet for a video consultation with one of our talented artists who can design earrings, bracelets, and more just for you. | just for (nuốt t); can /kən/ (đọc yếu); one of (nối âm) | mệnh đề quan hệ | P4 · Q80–82 |
+| 37 | And unlike our competitors who only send you a sketch, we'll send you a simple metal prototype. | send you → …-joo; we'll (đuôi rút gọn, rất nhẹ) | mệnh đề quan hệ | P4 · Q80–82 |
+| 38 | You can approve or request changes to the sample before your final piece is made. | can /kən/ (đọc yếu) | bị động, mốc thời gian | P4 · Q80–82 |
+| 39 | To get your order started, just enter your information on our website and one of our designers will contact you. | one of (nối âm) |  | P4 · Q80–82 |
+| 40 | On today's episode of our podcast, we'll be talking to Rebecca Taylor, the chair and founder of Real Estate Investments LLC. | we'll (đuôi rút gọn, rất nhẹ) |  | P4 · Q83–85 |
+| 41 | As we know, the housing market has had its ups and downs in recent years. |  |  | P4 · Q83–85 |
+| 42 | Miss Taylor is widely known for her ability to correctly predict trends in the real estate market. | ability (t → d nhẹ, giọng Mỹ) | bị động | P4 · Q83–85 |
+| 43 | We are fortunate to be able to interview her today before she travels to the National Real Estate Conference in Chicago where she has been invited to deliver the keynote speech. | invited (t → d nhẹ, giọng Mỹ) | bị động, mốc thời gian | P4 · Q83–85 |
+| 44 | Business correspondence has different guidelines than the informal type of writing you use when writing to a friend. | writing (t → d nhẹ, giọng Mỹ) | mốc thời gian | P4 · Q86–88 |
+| 45 | For example, when writing to a friend, you might address them by their first name or perhaps include emojis. you know, symbols like smiley faces that are commonly used to express feelings. | first name (nuốt t); writing (t → d nhẹ, giọng Mỹ) | bị động, mốc thời gian | P4 · Q86–88 |
+| 46 | In the world of business, athletic retailer Clementine Stores has filed a complaint against software firm Stefon. |  |  | P4 · Q89–91 |
+| 47 | Clementine claims that the Stefon logo, which is round and orange, is too similar to its own. |  | mệnh đề quan hệ | P4 · Q89–91 |
+| 48 | However, a Stefon public relations representative, Friedrich Vabber, responded by saying that the two company logos were similar but not similar enough to confuse consumers. |  | đối lập | P4 · Q89–91 |
+| 49 | Furthermore, Vber maintained that the Stefon design was not problematic because the two companies are in completely different markets. |  | nguyên nhân / kết quả | P4 · Q89–91 |
+| 50 | I've noticed that every increase in temperature can be traced to the refrigerator doors being left open for extended periods of time. | can /kən/ (đọc yếu); I've (đuôi rút gọn, rất nhẹ) | bị động | P4 · Q92–94 |
+| 51 | Juan San Kuan has joined the human resources department as a junior associate and so Jin Cho is our newest chief of building security. | security (t → d nhẹ, giọng Mỹ) |  | P4 · Q95–97 |
+| 52 | When filling out the registration form, you do not need to fill in the street address. | filling out (nối âm); fill in (nối âm) | mốc thời gian | P4 · Q95–97 |
+| 53 | Finally, don't forget that the cafeteria will be closed next week, so you'll need to bring your lunch. | don't forget (nuốt t); next week (nuốt t); you'll (đuôi rút gọn, rất nhẹ) | bị động, nhắc nhở (hay ra đề) | P4 · Q95–97 |
+| 54 | And in case you didn't know, there's a parking garage with reasonable rates right under our building. | didn't know (nuốt t) |  | P4 · Q98–100 |
+| 55 | A full styling session takes about 1 and 1/2 hours, so you won't need to park for more than 2 hours in the garage. | won't need (nuốt t) |  | P4 · Q98–100 |
