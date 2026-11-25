@@ -275,7 +275,8 @@ function rtkLabel(r){
 }
 // ảnh minh hoạ câu chuyện Heisig (tools/rtk_images.py) — chỉ frame nào đã vẽ
 function rtkPic(r){
-  return r && window.RTK_IMG && RTK_IMG.has(r[1]) ? `<img class="rtkPic" loading="lazy" src="rtk_img/${String(r[1]).padStart(4, "0")}.webp" alt="Ảnh minh hoạ câu chuyện: ${escT(r[2])}" title="Ảnh minh hoạ câu chuyện (AI vẽ)">` : "";
+  if (r && window.RTK_IMG && RTK_IMG.has(r[1])) return `<img class="rtkPic" src="rtk_img/${String(r[1]).padStart(4, "0")}.webp" alt="Ảnh minh hoạ câu chuyện: ${escT(r[2])}" title="Ảnh minh hoạ câu chuyện (AI vẽ)">`;
+  return r && window.RTK_IMG && RTK_IMG.size ? `<div class="stat" style="margin:10px 0 0">🖼 Ảnh minh hoạ câu chuyện đang thử, mới có ${RTK_IMG.size} chữ đầu (thẻ 1–${RTK_IMG.size}). <a href="#" onclick="stopSpeaking();i=0;render();restartTimer();return false">Về thẻ 1 để xem →</a></div>` : "";
 }
 function rtkHtml(num){
   const r = RTK_BY.get(num);
