@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Kho clip "người bản xứ nói cụm này" tự dựng, miễn phí (thay YouGlish / Filmot).
+"""Kho clip "người bản xứ nói cụm này" tự dựng, miễn phí (thay YouGlish).
 
 Nguồn: phụ đề tiếng Anh của video YouTube nói chuyện tự nhiên (TED, talk show, podcast), tải bằng yt-dlp
 (mã nguồn mở). Phụ đề tự động (en-orig) có mốc thời gian TỪNG TỪ → phát đúng đoạn chứa cụm.

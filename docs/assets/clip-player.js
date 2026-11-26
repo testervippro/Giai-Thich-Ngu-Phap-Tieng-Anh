@@ -10,7 +10,7 @@
   var BASE = (document.currentScript && document.currentScript.src || '').replace(/[^/]*$/, '') + 'clips/';
   var SHARDS = 64, REPEAT = 3;
   var st = { q: '', clips: [], i: 0, rep: 0, seg: null, timer: null, token: 0 };
-  var vids = null, shards = {}, yt = null, ytReady = null, box = null, pop = null;
+  var vids = null, shards = {}, yt = null, ytReady = null, box = null;
 
   function $(id) { return document.getElementById(id); }
   function esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
@@ -115,7 +115,7 @@
     }
     return out;
   }
-  function filmotUrl(q) { return 'https://filmot.com/search/' + encodeURIComponent('"' + q + '"') + '/1?lang=en'; }
+  function ytUrl(q) { return 'https://www.youtube.com/results?search_query=' + encodeURIComponent('"' + q + '"'); }   // Ctrl/⌘ + bấm
   function getJSON(u) { return fetch(u).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
   function load(q) {
     var k = shard(q);
@@ -170,7 +170,7 @@
     box.innerHTML =
       '<div class="fh"><b id="clq"></b><span class="fn" id="cln"></span>' +
       '<button class="fb" id="clpv" title="Video trước">⏮</button><button class="fb" id="clrp" title="Phát lại đoạn này">🔁</button>' +
-      '<button class="fb" id="clnx" title="Video sau">⏭</button><button class="fb" id="clfm" title="Tìm thêm trên Filmot (pop-up)">Filmot</button>' +
+      '<button class="fb" id="clnx" title="Video sau">⏭</button>' +
       '<button class="fb" id="clx" title="Đóng (Esc)">✕</button></div>' +
       '<div id="clbody"></div>' +
       '<div class="fm">Clip YouTube (TED, talk show, podcast) có người nói <b>đúng nguyên cụm</b> · mỗi đoạn phát ' + REPEAT + ' lần rồi tự sang video sau · ' +
@@ -180,19 +180,10 @@
     $('clnx').onclick = function () { go(st.i + 1); };
     $('clpv').onclick = function () { go(Math.max(0, st.i - 1)); };
     $('clrp').onclick = function () { st.rep = 0; seekStart(); };
-    $('clfm').onclick = function () { filmot(st.q); };
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !box.hidden) close(); });
   }
   function status(t) { $('cln').textContent = t; }
   function count() { if (st.clips.length) status((st.i + 1) + '/' + st.clips.length + ' video · lần ' + Math.min(st.rep + 1, REPEAT) + '/' + REPEAT); }
-
-  function filmot(q) {                        // tìm thêm: filmot.com trong 1 cửa sổ pop-up dùng lại (captcha giải 1 lần)
-    var u = filmotUrl(q);
-    try { if (pop && !pop.closed) { pop.location.href = u; pop.focus(); return; } } catch (e) {}
-    var w = Math.min(760, screen.availWidth - 40), h = Math.min(900, screen.availHeight - 60);
-    pop = window.open(u, 'filmot', 'popup=yes,width=' + w + ',height=' + h + ',left=' + ((screen.availLeft || 0) + screen.availWidth - w - 20) + ',top=' + ((screen.availTop || 0) + 30));
-    if (pop) { try { pop.opener = null; } catch (e) {} pop.focus(); }
-  }
 
   function ytApi() {
     if (ytReady) return ytReady;
@@ -218,9 +209,7 @@
       st.clips = cl; st.qn = q;
       if (!st.clips.length) {
         status('');
-        $('clbody').innerHTML = '<div class="fk">Kho clip chưa có video nào nói đúng cụm <b>"' + esc(raw) + '"</b>.<br>' +
-          'Bấm <button class="fb" id="clfm2">Filmot</button> để tìm trên toàn bộ YouTube (pop-up, giải captcha 1 lần).</div>';
-        $('clfm2').onclick = function () { filmot(raw); };
+        $('clbody').innerHTML = '<div class="fk">Kho clip chưa có video nào nói đúng cụm <b>"' + esc(raw) + '"</b>.</div>';
         return;
       }
       go(0);
@@ -286,5 +275,5 @@
     if (!a || e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
     e.preventDefault(); open(a.getAttribute('data-clip'));
   });
-  window.ClipPlayer = { open: open, close: close, url: filmotUrl, norm: norm, parts: parts, variants: variants, cores: cores };
+  window.ClipPlayer = { open: open, close: close, url: ytUrl, norm: norm, parts: parts, variants: variants, cores: cores };
 })();
