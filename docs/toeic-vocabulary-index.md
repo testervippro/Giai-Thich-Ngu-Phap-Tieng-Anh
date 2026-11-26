@@ -1480,7 +1480,7 @@
 | 1468 | bid | trả giá |  | TOEIC (Hackers), Oxford 5000 · B2 · n, v |
 | 1469 | bidet | bồn rửa vệ sinh (bidet) |  | Word Skills Basic |
 | 1470 | big | Mắt to | /bɪɡ/ | Word Skills Basic, Oxford 3000 · A1 · adj, IELTS · Appearance |
-| 1471 | Big Bang | vụ nổ Big Bang |  | Destination C1–C2 · collocation |
+| 1471 | Big Bang | Vụ Nổ Lớn |  | Destination C1–C2 · collocation |
 | 1472 | big business | doanh nghiệp lớn; chuyện làm ăn lớn |  | Destination C1–C2 · collocation |
 | 1473 | big chance | cơ hội lớn |  | Word Skills Advanced |
 | 1474 | Big data | Dữ liệu lớn | /bɪɡ ˈdeɪtə/ | IELTS · Technology |
@@ -1578,7 +1578,7 @@
 | 1566 | Blistering | Nóng như thiêu đốt, nóng cháy | /ˈblɪstərɪŋ/ | IELTS · Weather |
 | 1567 | Blizzard | Bão tuyết | /ˈblɪzərd/ | IELTS · Weather |
 | 1568 | block | chặn |  | Word Skills Intermediate, Oxford 3000 · B1 · n, v |
-| 1569 | block of flats | tòa chung cư (Anh) |  | Word Skills Basic, Destination C1–C2 · collocation |
+| 1569 | block of flats | khu chung cư |  | Word Skills Basic, Destination C1–C2 · collocation |
 | 1570 | block sb's way | chặn đường ai |  | Destination C1–C2 · collocation |
 | 1571 | block spam | chặn thư rác |  | Word Skills Advanced |
 | 1572 | Blockbuster | Phim bom tấn | /ˈblɑːkˌbʌstər/ | IELTS · Entertainment and media, IELTS · Film |
@@ -3863,7 +3863,7 @@
 | 3851 | directory | directory |  | TOEIC (Hackers) |
 | 3852 | dirt | đồ bần thỉu, vật rác rưởi |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 3853 | dirty | bẩn |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · adj |
-| 3854 | dirty tricks | thủ đoạn bấn thiu/ mánh khóe không chín |  | Destination C1–C2 · collocation |
+| 3854 | dirty tricks | thủ đoạn bẩn thỉu |  | Destination C1–C2 · collocation |
 | 3855 | dirty word | từ bị coi là xấu, điều cấm kỵ |  | Destination C1–C2 · collocation |
 | 3856 | disability | khuyết tật |  | Word Skills Intermediate, Oxford 5000 · B2 · n |
 | 3857 | Disability discrimination | Phân biệt đối xử với người khuyết tật | /dɪsəˈbɪləti dɪsˌkrɪmɪˈneɪʃən/ | IELTS · Social issues |
@@ -6688,7 +6688,7 @@
 | 6676 | high priority | ưu tiên cao |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 6677 | high risk of | nguy cơ cao |  | Destination C1–C2 · collocation |
 | 6678 | High school | Trường trung học phổ thông (ở Mỹ) | /haɪ skul/ | IELTS · Education, Word Skills Intermediate |
-| 6679 | high street | phố mua sắm chính (Anh) |  | Destination C1–C2 · collocation |
+| 6679 | high street | phố chính, phố mua sắm |  | Destination C1–C2 · collocation |
 | 6680 | high tech | công nghệ cao |  | Destination C1–C2 · collocation |
 | 6681 | High temperatures | Nhiệt độ cao | /haɪ ˈtɛmpərəʧərz/ | IELTS · Weather |
 | 6682 | high tide | thủy triều lên |  | Word Skills Intermediate |
@@ -7879,7 +7879,7 @@
 | 7867 | just in time | vừa đúng lúc |  | TOEIC (Hackers) |
 | 7868 | just keep going | cứ đi tiếp |  | Word Skills Basic |
 | 7869 | just like | giống hệt; đúng kiểu |  | Destination C1–C2 · collocation |
-| 7870 | just now | vừa nãy |  | Destination C1–C2 · collocation |
+| 7870 | just now | vừa nãy; ngay bây giờ |  | Destination C1–C2 · collocation |
 | 7871 | just over | hơn một chút |  | Word Skills Basic |
 | 7872 | just to make sure | Cho chắc ăn. |  | TOEIC (Hackers) |
 | 7873 | just under | gần đủ, dưới một chút |  | Word Skills Basic |
@@ -7912,7 +7912,7 @@
 | 7900 | keep a straight face | giữ vẻ mặt thản nhiên/ nghiêm túc (= remain serious and not laugh) |  | Destination C1–C2 · idiom |
 | 7901 | keep A up to date | Luôn cập nhật: |  | TOEIC (Hackers) |
 | 7902 | keep ahead of | dẫn trước |  | Word Skills Intermediate |
-| 7903 | keep an eye on |  |  | Word Skills Intermediate |
+| 7903 | keep an eye on | để mắt tới, trông chừng |  | Word Skills Intermediate |
 | 7904 | keep calm | giữ bình tĩnh |  | Word Skills Intermediate |
 | 7905 | keep control of | giữ quyền kiểm soát |  | Word Skills Advanced |
 | 7906 | keep going | - Chúa ơi. |  | TOEIC (Hackers), Word Skills Basic |
@@ -8935,7 +8935,7 @@
 | 8923 | meet the needs of | đáp ứng nhu cầu |  | Word Skills Advanced |
 | 8924 | meet the requirements | Đáp ứng yêu cầu. |  | TOEIC (Hackers) |
 | 8925 | meet the standards | đáp ứng các tiêu chuẩn |  | TOEIC (Hackers) |
-| 8926 | meet up | gặp mặt (= come together with someone, either unexpectedly or as planned) |  | Destination C1–C2 · phrasal verb |
+| 8926 | meet up | gặp gỡ, tụ tập (= come together with someone, either unexpectedly or as planned) |  | Destination C1–C2 · phrasal verb |
 | 8927 | meet/satisfy a demand | đáp ứng nhu cầu |  | Destination C1–C2 · collocation |
 | 8928 | meeting | cuộc mít tinh, cuộc biếu tình |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · n |
 | 8929 | meeting time | Thời gian họp |  | TOEIC (Hackers) |
@@ -9250,9 +9250,9 @@
 | 9238 | move forward | Đi tới |  | TOEIC (Hackers) |
 | 9239 | move house | chuyển nhà |  | Destination C1–C2 · collocation |
 | 9240 | move in (with) | dọn vào (= start living in a different house or flat (with)) |  | Destination C1–C2 · phrasal verb |
-| 9241 | move it | tránh ra / nhanh lên |  | Destination C1–C2 · collocation |
+| 9241 | move it | nhanh lên |  | Destination C1–C2 · collocation |
 | 9242 | move on | bước tiếp, chuyển sang (= leave one place and travel to another) (= stop discussing or doing something and begin discussing or doing something different) |  | Destination C1–C2 · phrasal verb |
-| 9243 | move out | dọn đi (= permanently leave the house or flat where you live or the place where you have your busine…) |  | Destination C1–C2 · phrasal verb |
+| 9243 | move out | dọn ra ngoài (= permanently leave the house or flat where you live or the place where you have your busine…) |  | Destination C1–C2 · phrasal verb |
 | 9244 | move over | dịch sang, nhích ra (nhường chỗ) (= change your position in order to make space for someone or something) |  | Destination C1–C2 · phrasal verb |
 | 9245 | move over one seat | di chuyển qua một chỗ ngồi |  | TOEIC (Hackers) |
 | 9246 | move the goalposts | thay đổi luật chơi |  | Word Skills Advanced |
