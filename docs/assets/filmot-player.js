@@ -9,7 +9,7 @@
 (function () {
   'use strict';
   var HOST = 'filmot-tube-metadata-archive.p.rapidapi.com';
-  var SUB = 'https://rapidapi.com/Jopik1/api/filmot-tube-metadata-archive';
+  var SUB = 'https://rapidapi.com/hub';
   var MAX = 50, REPEAT = 3;
   var KEY = 'filmotKey';
   var st = { q: '', vids: [], i: 0, rep: 0, seg: null, timer: null, token: 0, more: [] };
@@ -201,6 +201,8 @@
   function open(q) {
     q = String(q || '').replace(/["“”]/g, '').replace(/\s+/g, ' ').trim();
     if (!q) return;
+    // trang RapidAPI của Filmot đã gỡ, không đăng ký key mới được → chưa có key thì mở thẳng filmot.com (tìm đúng cụm "...")
+    if (!getKey()) { window.open(fUrl(q), '_blank', 'noopener'); return; }
     build(); box.hidden = false; box.scrollTop = 0;
     search(q);
   }
