@@ -1801,6 +1801,12 @@
 },
 {
 "t": "idiom",
+"p": "add fuel to the fire",
+"d": "make a bad situation worse",
+"e": "Your refusing to discuss this with Colin is just adding fuel to the fire, in my opinion."
+},
+{
+"t": "idiom",
 "p": "all in good time",
 "d": "used for telling someone to wait for something and not try to make you hurry",
 "e": "You'll get the report when it's finished."
@@ -1945,6 +1951,12 @@
 },
 {
 "t": "idiom",
+"p": "do sth on a whim",
+"d": "do because of a sudden feeling that you must have or do something",
+"e": "Wendy decided on a whim to redecorate the whole house."
+},
+{
+"t": "idiom",
 "p": "down on your luck",
 "d": "having a long period of difficulty finding work and earning money",
 "e": "The man was obviously down on his luck, so I gave him a little money."
@@ -1960,6 +1972,18 @@
 "p": "draw the short straw",
 "d": "be chosen to do something unpleasant",
 "e": "Somebody has to stay home to look after the dog, and I'm afraid you've drawn the short straw."
+},
+{
+"t": "idiom",
+"p": "fall short",
+"d": "not reach a particular level or to fail to achieve something you were trying to do",
+"e": "We tried to raise 1,000 euros for charity, but we fell short by about 50 euros."
+},
+{
+"t": "idiom",
+"p": "fifty-fifty",
+"d": "equal, or into two equal parts",
+"e": "We split the cost of the meal fifty-fifty."
 },
 {
 "t": "idiom",
@@ -1999,6 +2023,12 @@
 },
 {
 "t": "idiom",
+"p": "gain/get/have/take the upper hand",
+"d": "gain/get/have/ take control or advantage over a person or situation",
+"e": "It looked like Ivor was going to win the game, but! soon got the upper hand."
+},
+{
+"t": "idiom",
 "p": "get on like a house on fire",
 "d": "become good friends very quickly and have a lot to talk to each other about",
 "e": "George and Isabelle seem to be getting on like a house on fire, don't they?."
@@ -2017,9 +2047,39 @@
 },
 {
 "t": "idiom",
+"p": "get/catch sb's drift",
+"d": "understand the basic meaning",
+"e": "Doreen and I have been having some problems recently, if you catch my drift."
+},
+{
+"t": "idiom",
+"p": "get/have your way",
+"d": "be allowed to have or do what you want",
+"e": "If I had my way, I would stay at home this summer."
+},
+{
+"t": "idiom",
+"p": "give sb a taste/dose of their own medicine",
+"d": "treat someone in the same bad way they treat other people",
+"e": "He got me into trouble, so I'm going to give him a taste of his own medicine!."
+},
+{
+"t": "idiom",
 "p": "give sb your word",
 "d": "promise to do something",
 "e": "I give you my word I won't tell anyone."
+},
+{
+"t": "idiom",
+"p": "give sth a miss",
+"d": "decide not to do something that you usually do",
+"e": "I think I'll give the office party a miss this year."
+},
+{
+"t": "idiom",
+"p": "go halves",
+"d": "share the cost of something with someone so that you each pay 50%",
+"e": "Let's go halves on the meal, shall we?."
 },
 {
 "t": "idiom",
@@ -2047,15 +2107,39 @@
 },
 {
 "t": "idiom",
+"p": "have time on your hands",
+"d": "have more time available than you need",
+"e": "Julie has a lot more time on her hands now that her children have all left home."
+},
+{
+"t": "idiom",
 "p": "have your wits about you",
 "d": "be able to think quickly and make sensible decisions",
 "e": "You've got to have your wits about you when dealing with pushy salespeople."
 },
 {
 "t": "idiom",
+"p": "(hear sth) on/through the grapevine",
+"d": "the way in which information spreads quickly from one person to another through conversation",
+"e": "I heard through the grapevine you might be getting married soon."
+},
+{
+"t": "idiom",
 "p": "home sweet home",
 "d": "used for saying that you are happy to be back in your own home",
 "e": "It was a good trip, but there's nothing like home sweet home."
+},
+{
+"t": "idiom",
+"p": "in/for donkey's years",
+"d": "an extremely long time",
+"e": "I haven't been swimming in donkey's years."
+},
+{
+"t": "idiom",
+"p": "in sb's bad/good books",
+"d": "used for saying that someone is annoyed/pleased with you",
+"e": "I don't think I'm in Mrs Patterson's good books at the moment."
 },
 {
 "t": "idiom",
@@ -2116,6 +2200,12 @@
 "p": "keep your hair on",
 "d": "used for telling someone not to get angry or upset",
 "e": "Keep your hair on! There's no need to get annoyed!."
+},
+{
+"t": "idiom",
+"p": "kick yourself",
+"d": "be very annoyed because you have made a mistake, missed an opportunity, etc",
+"e": "I could have kicked myself when I realised I'd left my wallet in the restaurant."
 },
 {
 "t": "idiom",
@@ -2359,6 +2449,12 @@
 },
 {
 "t": "idiom",
+"p": "round the bend",
+"d": "crazy",
+"e": "That noise is driving me round the bend!."
+},
+{
+"t": "idiom",
 "p": "satellite town",
 "d": "town or city that is close to and depends on a larger city",
 "e": "Brentwood is a satellite town just outside London."
@@ -2419,15 +2515,33 @@
 },
 {
 "t": "idiom",
+"p": "take a short cut",
+"d": "to follow a path that is quicker and shorter than the usual way",
+"e": "I walked to school and! used to take a short cut along the canal."
+},
+{
+"t": "idiom",
 "p": "take stock (of)",
 "d": "spend some time thinking about the situation you are in before you decide what to do next",
 "e": "Let's take a couple of days to take stock of the situation and then we'll make a decision."
 },
 {
 "t": "idiom",
+"p": "take the law into your own hands",
+"d": "punish someone in your own way without involving the police or the courts, often by doing something illegal yourself",
+"e": "I know you're angry, but that's no reason to take the law into your own hands."
+},
+{
+"t": "idiom",
 "p": "take the scenic route",
 "d": "follow a longer path than the usual one because it is more attractive",
 "e": "We're not lost — we're just taking the scenic route."
+},
+{
+"t": "idiom",
+"p": "tell tales",
+"d": "tell someone in authority about bad things that someone else has done, because you want them to be punished",
+"e": "Toby, stop telling tales about your classmates."
 },
 {
 "t": "idiom",
@@ -2458,6 +2572,12 @@
 "p": "throw the book at sb",
 "d": "punish someone very severely",
 "e": "They'll really throw the book at him this time."
+},
+{
+"t": "idiom",
+"p": "tidy sum/amount",
+"d": "large sum/amount",
+"e": "I've managed to put away a tidy sum this year."
 },
 {
 "t": "idiom",
@@ -2497,10 +2617,6 @@
 },
 {
 "t": "collocation",
-"p": "patterns and"
-},
-{
-"t": "collocation",
 "p": "partly/mainly/all about"
 },
 {
@@ -2513,7 +2629,7 @@
 },
 {
 "t": "collocation",
-"p": "k about to do"
+"p": "about to do"
 },
 {
 "t": "collocation",
@@ -2537,7 +2653,7 @@
 },
 {
 "t": "collocation",
-"p": "take into t account"
+"p": "take into account"
 },
 {
 "t": "collocation",
@@ -2561,7 +2677,7 @@
 },
 {
 "t": "collocation",
-"p": "act out of desperation/ k necessity"
+"p": "act out of desperation/ necessity"
 },
 {
 "t": "collocation",
@@ -2581,7 +2697,7 @@
 },
 {
 "t": "collocation",
-"p": "in kt the act (of doing)"
+"p": "in the act (of doing)"
 },
 {
 "t": "collocation",
@@ -2609,7 +2725,7 @@
 },
 {
 "t": "collocation",
-"p": "age t bracket/group"
+"p": "age bracket/group"
 },
 {
 "t": "collocation",
@@ -2625,7 +2741,7 @@
 },
 {
 "t": "collocation",
-"p": "seems/feels like I ages (since)"
+"p": "seems/feels like ages (since)"
 },
 {
 "t": "collocation",
@@ -2645,7 +2761,7 @@
 },
 {
 "t": "collocation",
-"p": "answer sb's t prayers"
+"p": "answer sb's prayers"
 },
 {
 "t": "collocation",
@@ -2661,11 +2777,11 @@
 },
 {
 "t": "collocation",
-"p": "have / get into an argument (with sb)"
+"p": "have get into an argument (with sb)"
 },
 {
 "t": "collocation",
-"p": "win/lose I an argument"
+"p": "win/lose an argument"
 },
 {
 "t": "collocation",
@@ -2677,7 +2793,11 @@
 },
 {
 "t": "collocation",
-"p": "without (an) argument arm arm sb with"
+"p": "without (an) argument"
+},
+{
+"t": "collocation",
+"p": "arm sb with"
 },
 {
 "t": "collocation",
@@ -2697,7 +2817,7 @@
 },
 {
 "t": "collocation",
-"p": "' arms control"
+"p": "arms control"
 },
 {
 "t": "collocation",
@@ -2741,7 +2861,7 @@
 },
 {
 "t": "collocation",
-"p": "ask a lot / too much (of sb)"
+"p": "ask a lot too much (of sb)"
 },
 {
 "t": "collocation",
@@ -2809,7 +2929,7 @@
 },
 {
 "t": "collocation",
-"p": "back sb (to do) I"
+"p": "back sb (to do)"
 },
 {
 "t": "collocation",
@@ -2841,7 +2961,7 @@
 },
 {
 "t": "collocation",
-"p": "bad I apple"
+"p": "bad apple"
 },
 {
 "t": "collocation",
@@ -2865,7 +2985,7 @@
 },
 {
 "t": "collocation",
-"p": "on : balance"
+"p": "on balance"
 },
 {
 "t": "collocation",
@@ -3561,7 +3681,7 @@
 },
 {
 "t": "collocation",
-"p": "come to / arrive at / reach a conclusion"
+"p": "come to arrive at reach a conclusion"
 },
 {
 "t": "collocation",
@@ -3605,7 +3725,7 @@
 },
 {
 "t": "collocation",
-"p": "of no/little consequence I"
+"p": "of no/little consequence"
 },
 {
 "t": "collocation",
@@ -3613,7 +3733,7 @@
 },
 {
 "t": "collocation",
-"p": "give consideration I to"
+"p": "give consideration to"
 },
 {
 "t": "collocation",
@@ -3625,11 +3745,11 @@
 },
 {
 "t": "collocation",
-"p": "for sb's I consideration"
+"p": "for sb's consideration"
 },
 {
 "t": "collocation",
-"p": "out of consideration for I"
+"p": "out of consideration for"
 },
 {
 "t": "collocation",
@@ -3645,7 +3765,7 @@
 },
 {
 "t": "collocation",
-"p": "On a course"
+"p": "a course"
 },
 {
 "t": "collocation",
@@ -3733,7 +3853,7 @@
 },
 {
 "t": "collocation",
-"p": "go on / make a date (with sb)"
+"p": "go on make a date (with sb)"
 },
 {
 "t": "collocation",
@@ -3853,7 +3973,7 @@
 },
 {
 "t": "collocation",
-"p": "decide against / in favour of"
+"p": "decide against in favour of"
 },
 {
 "t": "collocation",
@@ -3869,7 +3989,11 @@
 },
 {
 "t": "collocation",
-"p": "decide on delight delight in doing"
+"p": "decide on"
+},
+{
+"t": "collocation",
+"p": "delight in doing"
 },
 {
 "t": "collocation",
@@ -4041,7 +4165,7 @@
 },
 {
 "t": "collocation",
-"p": "doubt as to / about"
+"p": "doubt as to about"
 },
 {
 "t": "collocation",
@@ -4101,7 +4225,7 @@
 },
 {
 "t": "collocation",
-"p": "drive at sth eee aE"
+"p": "drive at sth"
 },
 {
 "t": "collocation",
@@ -4297,7 +4421,11 @@
 },
 {
 "t": "collocation",
-"p": "classic/prime example fall fall ill"
+"p": "classic/prime example"
+},
+{
+"t": "collocation",
+"p": "fall ill"
 },
 {
 "t": "collocation",
@@ -4537,7 +4665,11 @@
 },
 {
 "t": "collocation",
-"p": "fold your arms follow follow sb's argument/etc"
+"p": "fold your arms"
+},
+{
+"t": "collocation",
+"p": "follow sb's argument/etc"
 },
 {
 "t": "collocation",
@@ -4713,10 +4845,6 @@
 },
 {
 "t": "collocation",
-"p": "Generation X"
-},
-{
-"t": "collocation",
 "p": "future generations"
 },
 {
@@ -4849,7 +4977,7 @@
 },
 {
 "t": "collocation",
-"p": "takhe/make/hazard a guess (at)"
+"p": "take/make/hazard a guess (at)"
 },
 {
 "t": "collocation",
@@ -5029,7 +5157,7 @@
 },
 {
 "t": "collocation",
-"p": "fall / be taken ill (with)"
+"p": "fall be taken ill (with)"
 },
 {
 "t": "collocation",
@@ -5093,7 +5221,7 @@
 },
 {
 "t": "collocation",
-"p": "have a job to do / doing"
+"p": "have a job to do doing"
 },
 {
 "t": "collocation",
@@ -5473,11 +5601,15 @@
 },
 {
 "t": "collocation",
-"p": "click on / follow a link"
+"p": "click on follow a link"
 },
 {
 "t": "collocation",
-"p": "(find/prove/establish) a link between live live a life of crime/luxury"
+"p": "(find/prove/establish) a link between"
+},
+{
+"t": "collocation",
+"p": "live a life of crime/luxury"
 },
 {
 "t": "collocation",
@@ -6101,10 +6233,6 @@
 },
 {
 "t": "collocation",
-"p": "never-ending I"
-},
-{
-"t": "collocation",
 "p": "new to"
 },
 {
@@ -6121,7 +6249,7 @@
 },
 {
 "t": "collocation",
-"p": "I new age"
+"p": "new age"
 },
 {
 "t": "collocation",
@@ -6149,7 +6277,7 @@
 },
 {
 "t": "collocation",
-"p": "nice one I"
+"p": "nice one"
 },
 {
 "t": "collocation",
@@ -6169,7 +6297,7 @@
 },
 {
 "t": "collocation",
-"p": "at short / a moment's / a few hours' notice"
+"p": "at short a moment's a few hours' notice"
 },
 {
 "t": "collocation",
@@ -6233,11 +6361,11 @@
 },
 {
 "t": "collocation",
-"p": "have / take / be given the day off"
+"p": "have take be given the day off"
 },
 {
 "t": "collocation",
-"p": "have / take / be given time off"
+"p": "have take be given time off"
 },
 {
 "t": "collocation",
@@ -6329,7 +6457,7 @@
 },
 {
 "t": "collocation",
-"p": "from now / that moment / then on"
+"p": "from now that moment then on"
 },
 {
 "t": "collocation",
@@ -6362,10 +6490,6 @@
 {
 "t": "collocation",
 "p": "keep/leave your options open"
-},
-{
-"t": "collocation",
-"p": "SS[_——anmqos «mow» as=—awas-—aa—a—qama——awa—a—NaaaSao>maS saassama>m\""
 },
 {
 "t": "collocation",
@@ -6409,7 +6533,7 @@
 },
 {
 "t": "collocation",
-"p": "pay I your (last) respects to"
+"p": "pay your (last) respects to"
 },
 {
 "t": "collocation",
@@ -6430,10 +6554,6 @@
 {
 "t": "collocation",
 "p": "pay freeze"
-},
-{
-"t": "collocation",
-"p": "take-home pay _ peer peer group"
 },
 {
 "t": "collocation",
@@ -6465,7 +6585,7 @@
 },
 {
 "t": "collocation",
-"p": "from another / a different / sb's / etc perspective"
+"p": "from another a different sb's etc perspective"
 },
 {
 "t": "collocation",
@@ -6693,7 +6813,7 @@
 },
 {
 "t": "collocation",
-"p": "stand by / stick to your principles"
+"p": "stand by stick to your principles"
 },
 {
 "t": "collocation",
@@ -6709,7 +6829,7 @@
 },
 {
 "t": "collocation",
-"p": "a matter / an issue of principle"
+"p": "a matter an issue of principle"
 },
 {
 "t": "collocation",
@@ -6873,7 +6993,7 @@
 },
 {
 "t": "collocation",
-"p": "some question over / as to / about"
+"p": "some question over as to about"
 },
 {
 "t": "collocation",
@@ -6889,7 +7009,7 @@
 },
 {
 "t": "collocation",
-"p": "heavy/lght rain"
+"p": "heavy/light rain"
 },
 {
 "t": "collocation",
@@ -6905,7 +7025,7 @@
 },
 {
 "t": "collocation",
-"p": "raise a child / family"
+"p": "raise a child family"
 },
 {
 "t": "collocation",
@@ -7401,7 +7521,7 @@
 },
 {
 "t": "collocation",
-"p": "in / out of shape"
+"p": "in out of shape"
 },
 {
 "t": "collocation",
@@ -7785,7 +7905,7 @@
 },
 {
 "t": "collocation",
-"p": "bring up / get onto a subject"
+"p": "bring up get onto a subject"
 },
 {
 "t": "collocation",
@@ -7869,11 +7989,11 @@
 },
 {
 "t": "collocation",
-"p": "talk sb into / out of (doing)"
+"p": "talk sb into out of (doing)"
 },
 {
 "t": "collocation",
-"p": "talk your way into / out of (doing)"
+"p": "talk your way into out of (doing)"
 },
 {
 "t": "collocation",
@@ -7889,7 +8009,7 @@
 },
 {
 "t": "collocation",
-"p": "be alljust talk"
+"p": "be all/just talk"
 },
 {
 "t": "collocation",
@@ -7917,7 +8037,7 @@
 },
 {
 "t": "collocation",
-"p": "tell the truth / a lie"
+"p": "tell the truth a lie"
 },
 {
 "t": "collocation",
@@ -7985,7 +8105,7 @@
 },
 {
 "t": "collocation",
-"p": "out of / from / into thin air"
+"p": "out of from into thin air"
 },
 {
 "t": "collocation",
@@ -8217,7 +8337,7 @@
 },
 {
 "t": "collocation",
-"p": "come to / reach an understanding"
+"p": "come to reach an understanding"
 },
 {
 "t": "collocation",
@@ -8265,7 +8385,11 @@
 },
 {
 "t": "collocation",
-"p": "what's the use of doing? view view sth as"
+"p": "what's the use of doing?"
+},
+{
+"t": "collocation",
+"p": "view sth as"
 },
 {
 "t": "collocation",
@@ -8537,7 +8661,7 @@
 },
 {
 "t": "collocation",
-"p": "out of / in work"
+"p": "out of in work"
 },
 {
 "t": "collocation",
@@ -8581,11 +8705,15 @@
 },
 {
 "t": "collocation",
-"p": "the worst of all/both worlds write write for a magazine/etc"
+"p": "the worst of all/both worlds"
 },
 {
 "t": "collocation",
-"p": "have sth / be written all over your face"
+"p": "write for a magazine/etc"
+},
+{
+"t": "collocation",
+"p": "have sth be written all over your face"
 },
 {
 "t": "collocation",

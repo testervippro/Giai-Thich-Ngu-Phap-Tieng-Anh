@@ -10,7 +10,7 @@
   var BASE = (document.currentScript && document.currentScript.src || '').replace(/[^/]*$/, '') + 'clips/';
   var SHARDS = 64;
   // tuỳ chọn của người xem (nhớ trong trình duyệt): nguồn clip, số lần lặp, số video tối đa, tự sang cụm tiếp theo
-  var OPT = { src: 'all', rep: 3, max: 10, auto: true, q: 'small' };      // q: tiny 144p · small 240p · medium 360p
+  var OPT = { src: 'all', rep: 3, max: 10, auto: true, q: 'small', pass: 10 };   // q: tiny 144p · small 240p · medium 360p · pass: giây tối đa / lượt
   try { var _o = JSON.parse(localStorage.getItem('clipOpts') || '{}'); for (var _k in OPT) if (_o[_k] != null) OPT[_k] = _o[_k]; } catch (e) {}
   function saveOpt() { try { localStorage.setItem('clipOpts', JSON.stringify(OPT)); } catch (e) {} }
   var ctx = null;                  // cụm đang phát nằm ở đâu trên trang → tìm cụm tiếp theo
@@ -123,6 +123,16 @@
     }
     return out;
   }
+  // làm gọn một mục từ điển thành cụm để tìm: bỏ phần tuỳ chọn ( ) [ ], chọn 1 phương án của a/b,
+  // cắt tại chỗ trống (…, sb, sth, + verb) rồi lấy đoạn dài nhất (giống ygq() của Kho cụm từ)
+  function clean(p) {
+    p = String(p).replace(/[’‘]/g, "'");
+    var t = p.replace(/\s+\/\s+.*$/, '').replace(/\[[^\]]*\]|\([^)]*\)/g, ' ').replace(/(\w+)(?:\/[\w']+)+/g, '$1');
+    var parts = t.split(/…|\.{2,}|\+|\b(?:sb|sth|sb's|sth's|one's|oneself|someone's|somebody|something|V-ing|V|N|adj|noun|verb)\b|[;:!?"“”=]/i)
+      .map(function (x) { return x.replace(/[^A-Za-z0-9' -]/g, ' ').replace(/\s+/g, ' ').trim().replace(/^[-' ]+|[-' ]+$/g, ''); }).filter(Boolean);
+    var best = parts.sort(function (a, b) { return b.split(' ').length - a.split(' ').length; })[0] || p;
+    return best.split(' ').length > 2 ? best.replace(/^(be|to) /i, '') : best;
+  }
   function ytUrl(q) { return 'https://www.youtube.com/results?search_query=' + encodeURIComponent('"' + q + '"'); }   // Ctrl/⌘ + bấm
   function getJSON(u) { return fetch(u).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
   function load(q) {
@@ -189,6 +199,7 @@
         '<label title="Mỗi đoạn phát mấy lần">🔁 <select id="clrep"><option>1</option><option>2</option><option>3</option><option>5</option><option>10</option></select> lần</label>' +
         '<label title="Số video tối đa cho mỗi cụm">tối đa <select id="clmax"><option>1</option><option>3</option><option>5</option><option>10</option></select> video</label>' +
         '<label title="Hết video của cụm này thì tự mở cụm tiếp theo trên trang"><input type="checkbox" id="clauto"> tự sang cụm tiếp</label>' +
+        '<label title="Một lượt phát đoạn dài nhất bao nhiêu giây (video lệch giờ thì vẫn lặp lại đúng hạn)">mỗi lượt ≤ <select id="clpass"><option>5</option><option>10</option><option>15</option></select> giây</label>' +
         '<label title="Chất lượng thấp → video load nhanh hơn (YouTube coi là gợi ý)">chất lượng <select id="clq2"><option value="tiny">144p</option><option value="small">240p</option><option value="medium">360p</option></select></label>' +
       '</div>' +
       '<div class="fv" id="clfv"><div id="clyA"></div><div id="clyB" class="off"></div></div><div id="clbody"></div>' +
@@ -204,6 +215,7 @@
     $('clmax').onchange = function () { OPT.max = +this.value; saveOpt(); if (st.q) search(st.q); };
     $('clrep').onchange = function () { OPT.rep = +this.value; saveOpt(); count(); };
     $('clauto').onchange = function () { OPT.auto = this.checked; saveOpt(); };
+    $('clpass').value = String(OPT.pass); $('clpass').onchange = function () { OPT.pass = +this.value; saveOpt(); };
     $('clq2').value = OPT.q; $('clq2').onchange = function () { OPT.q = Q = this.value; saveOpt(); q360(); };
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !box.hidden) close(); });
   }
@@ -358,7 +370,7 @@
   function stopTimer() { clearInterval(st.timer); st.timer = null; }
   // canh đoạn: hết đoạn → phát lại (OPT.rep lần) → sang video sau.
   // Chỉ xét khi trình phát đã đúng video và đang phát (ngay sau khi đổi video, getCurrentTime() còn trả giờ của video cũ).
-  var MAX_PASS = 10;                 // giây: một lượt phát đoạn dài nhất (phòng video báo giờ sai → nói liên tục)
+  // một lượt phát đoạn dài nhất OPT.pass giây (phòng video báo giờ sai / lệch → nói liên tục)
   function startTimer() {
     stopTimer(); st.wait = false; st.played = 0; st.tick = 0;
     st.timer = setInterval(function () {
@@ -373,9 +385,9 @@
       var now = Date.now();
       if (ps === 1 && st.tick) st.played += (now - st.tick) / 1000;            // thời gian phát thật của lượt này
       st.tick = ps === 1 ? now : 0;
-      if (st.played > MAX_PASS) ended = true;                                  // chốt an toàn: 1 lượt không quá 10 giây
+      if (st.played > OPT.pass) ended = true;                                  // chốt an toàn: 1 lượt không quá 10 giây
       if (ps !== 1 && !ended) return;
-      if (st.wait && st.played <= MAX_PASS) { if (!ended && t < st.seg.e - 0.3) st.wait = false; else return; }   // vừa tua lại, chờ tua xong
+      if (st.wait && st.played <= OPT.pass) { if (!ended && t < st.seg.e - 0.3) st.wait = false; else return; }   // vừa tua lại, chờ tua xong
       if (!ended && (t < st.seg.s - 2 || t > st.seg.e + 4)) { yt.seekTo(st.seg.s, true); st.played = 0; return; }  // tua trượt → về đầu đoạn
       if (ended || t >= st.seg.e) {
         st.rep++;
@@ -423,5 +435,5 @@
     if (!a || e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
     e.preventDefault(); open(a.getAttribute('data-clip'), { el: a, sel: '[data-clip]' });
   });
-  window.ClipPlayer = { open: open, close: close, url: ytUrl, prefetch: function (q) { build(); prefetch(q); players(); }, norm: norm, parts: parts, variants: variants, cores: cores };
+  window.ClipPlayer = { open: open, close: close, url: ytUrl, prefetch: function (q) { build(); prefetch(q); players(); }, norm: norm, clean: clean, parts: parts, variants: variants, cores: cores };
 })();

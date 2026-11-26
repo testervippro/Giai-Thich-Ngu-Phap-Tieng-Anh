@@ -43,6 +43,7 @@
     .tag.t3 { border-color:#d97706; color:#b45309; }
     .tag.t4 { border-color:#7c3aed; color:#7c3aed; }
     .tag.t5 { border-color:#c2410c; color:#c2410c; }
+    a.clipb { text-decoration:none; margin-left:6px; font-size:15px; }
     .tag.lv { border-color:#dc2626; color:#dc2626; font-weight:700; }
     .say { border:0; background:none; cursor:pointer; font-size:14px; padding:0 2px; color:inherit; }
     mark { background:#fde68a; color:inherit; border-radius:3px; }
@@ -52,6 +53,7 @@
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Từ vựng TOEIC · IELTS · Oxford"></script>
+<script src="../assets/clip-player.js?v=9"></script>
 </head>
 <body>
 <main>
@@ -128,7 +130,7 @@
     $('out').innerHTML = V2.slice(0, shown).map(r => {
       const tags = TAGS.map((t, i) => (r.f & (1 << i)) ? `<span class="tag ${TAGC[i]}">${t}</span>` : '').join('')
         + (r.lv ? `<span class="tag lv">${r.lv}</span>` : '') + r.tp.map(i => `<span class="tag">${esc(V.topics[i])}</span>`).join('');
-      return `<li><div class="w"><span class="rk" title="Thứ hạng phổ biến trong ${R.length.toLocaleString('vi')} mục">#${r.rank}</span><button class="say" data-t="${esc(r.w)}" title="Nghe">🔊</button>${hi(r.w, q)}${r.ipa ? `<span class="ipa">${esc(r.ipa)}</span>` : ''}</div><div class="vi">${hi(r.vi, q)}</div><div class="tags">${tags}</div></li>`;
+      return `<li><div class="w"><span class="rk" title="Thứ hạng phổ biến trong ${R.length.toLocaleString('vi')} mục">#${r.rank}</span><button class="say" data-t="${esc(r.w)}" title="Nghe">🔊</button>${hi(r.w, q)}<a class="clipb" data-clip="${esc(ClipPlayer.clean(r.w))}" href="${esc(ClipPlayer.url(ClipPlayer.clean(r.w)))}" target="_blank" rel="noopener" title="Nghe người bản xứ nói (video YouTube, phát ngay trên trang)">🎬</a>${r.ipa ? `<span class="ipa">${esc(r.ipa)}</span>` : ''}</div><div class="vi">${hi(r.vi, q)}</div><div class="tags">${tags}</div></li>`;
     }).join('') || '<li class="stat">Không có mục nào khớp.</li>';
     $('more').hidden = shown >= V2.length;
     save();

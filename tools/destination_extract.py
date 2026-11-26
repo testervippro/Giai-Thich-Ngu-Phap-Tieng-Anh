@@ -107,7 +107,16 @@ def entries(sec):
     return ents
 def norm(s): return re.findall(r"[a-z0-9']+", s.lower().replace('’', "'"))
 def idiom_head(e):
-    ws = e['w']; words = [w for w, b in ws]
+    ws = e['w']
+    JUNK = r"[0-9]+|e{2,}|a{2,}|[A-Z]{1,2}[a-z]?|aE|DT"
+    while ws and re.fullmatch(JUNK, ws[0][0]): ws = ws[1:]                                   # rác OCR đầu dòng
+    J2 = r"e{2,}|aE|a{3,}"
+    ws = [x for i, x in enumerate(ws) if not (i < 10 and (re.fullmatch(J2, x[0]) or
+          (x[0] == 'a' and i + 1 < len(ws) and re.fullmatch(J2, ws[i + 1][0]))))]          # rác lẫn giữa cụm
+    FIX = {"'ake": "take", "ake": "take", "ell": "tell"}
+    if ws and ws[0][0] in FIX: ws = [[FIX[ws[0][0]], ws[0][1]]] + ws[1:]                   # OCR mất chữ đầu
+    if len(ws) > 1 and ws[0][0] == 'top' and ws[1][0] == 'dead': ws = [['stop', ws[0][1]]] + ws[1:]
+    e = dict(e, w=ws, t=' '.join(w for w, b in ws)); words = [w for w, b in ws]
     # 1) chuỗi chữ đậm ở đầu (cho phép 1 chữ thường lẫn giữa)
     k, gap = 0, 0
     for i, (w, b) in enumerate(ws[:12]):
@@ -127,28 +136,58 @@ def idiom_head(e):
            'let': 'let|lets|letting', 'hit': 'hit|hits|hitting', 'cut': 'cut|cuts|cutting', 'run': 'run|runs|ran|running',
            'break': 'break|breaks|broke|broken|breaking', 'bite': 'bite|bites|bit|bitten|biting', 'hold': 'hold|holds|held|holding',
            'see': 'see|sees|saw|seen|seeing', 'tell': 'tell|tells|told|telling', 'feel': 'feel|feels|felt|feeling',
-           'lose': 'lose|loses|lost|losing', 'bring': 'bring|brings|brought|bringing', 'pull': 'pull|pulls|pulled|pulling'}
+           'lose': 'lose|loses|lost|losing', 'fall': 'fall|falls|fell|fallen|falling', 'tell': 'tell|tells|told|telling',
+           'hear': 'hear|hears|heard|hearing', 'catch': 'catch|catches|caught|catching', 'pay': 'pay|pays|paid|paying', 'bring': 'bring|brings|brought|bringing', 'pull': 'pull|pulls|pulled|pulling'}
     def piece(w, first):
         w = w.lower()
-        if w in ('sb', 'sth', 'sb/sth', 'someone', 'something'): return r"\S+(?: \S+)?"
-        if w in ('your', "one's", "sb's"): return r"(?:my|your|his|her|our|their|its|one's|\S+'s)"
-        if w in ('yourself', 'oneself'): return r"\S+self|\S+selves"
+        if w in ('sb', 'sth', 'sb/sth', 'someone', 'something'): return r"\S+(?: \S+){0,3}"
+        if w in ('your', "one's", "sb's", 'their', 'his', 'her'): return r"(?:my|your|his|her|our|their|its|one's|\S+'s)"
+        if w in ('yourself', 'oneself'): return r"(?:\S+self|\S+selves)"
         if first and w in IRR: return '(?:' + IRR[w] + ')'
-        if first and len(w) > 3: return re.escape(w.rstrip('e')) + r"\w*"
+        if first: return re.escape(w.rstrip('e') if len(w) > 3 else w) + r"\w*"
         return re.escape(w) + "s?"                       # head → heads
+    def strip_paren(ts):                     # bỏ nhóm "(hear sth)" (có thể trải nhiều token) khi so với câu ví dụ
+        out, d = [], 0
+        for t in ts:
+            if t.startswith('('): d += 1
+            if not d: out.append(t)
+            if t.endswith(')'): d = max(0, d - 1)
+        return out
+    def tok_rx(t, first):
+        t = t.lower().replace('’', "'").strip('.,;:!?"')
+        if t.startswith('(') and t.endswith(')'): return None            # phần tuỳ chọn trong ngoặc → bỏ khi so
+        alts = [re.sub(r"[^a-z0-9'-]", "", a) for a in t.split('/')]
+        ps = [piece(a, first) for a in alts if a]
+        return None if not ps else (ps[0] if len(ps) == 1 else '(?:' + '|'.join(ps) + ')')
     m = 0
-    for j in range(min(10, len(words)), 1, -1):
-        cand = norm(' '.join(words[:j]))
-        for c in (cand, cand[1:] if cand and cand[0] in ('a', 'an', 'the', 'your', 'be') else None):
-            if not c or len(c) < 2: continue
-            rx = ' ' + ' '.join(piece(w, i == 0) for i, w in enumerate(c)) + ' '
-            if re.search(rx, exn): m = j; break
+    for j in range(min(10, len(words)), 0, -1):
+        toks = words[:j]
+        for drop in (0, 1):
+            if drop and not (toks and toks[0].lower() in ('a', 'an', 'the', 'your', 'be')): continue
+            hit = False
+            for ts in (strip_paren(toks[drop:]), [t.strip('()') for t in toks[drop:]]):    # ngoặc: có hoặc không đều được
+                pcs = [p for p in (tok_rx(t, i == 0) for i, t in enumerate(ts)) if p]
+                if len(pcs) < 2 and not (len(pcs) == 1 and '-' in ts[-1]): continue
+                if re.search(' ' + ' '.join(pcs) + ' ', ' ' + ' '.join(re.findall(r"[a-z0-9'-]+", ex.lower().replace('’', "'"))) + ' '):
+                    hit = True; break
+            if hit: m = j; break
         if m: break
-    k = m if (m >= 2 and k > m + 1) else max(k, m)       # phần đầu khớp câu ví dụ đáng tin hơn chuỗi chữ đậm quá dài
+    k = m if (m >= 2 and k > m + 1) else max(k, m)
+    if k == 0:                                          # không có chữ đậm, không khớp ví dụ → định nghĩa thường lặp lại động từ đầu / bắt đầu bằng "used"
+        low = [w.lower() for w in words[:10]]
+        for i in range(2, len(low)):
+            if low[i] == low[0].split('/')[0] or low[i] in ('used',) or low[i].startswith(low[0].split('/')[0] + '/'):
+                k = i; break       # phần đầu khớp câu ví dụ đáng tin hơn chuỗi chữ đậm quá dài
+    # cụm xuống dòng giữa chừng: kết thúc bằng từ chức năng / chỉ 1 từ → lấy thêm tới từ có nghĩa
+    FN = ('a', 'an', 'the', 'your', 'own', 'sb', 'sth', 'of', 'on', 'in', 'to', "sb's", 'their', 'his', 'her', 'my', 'our')
+    while m < k and 0 < k < len(words) and k < 9 and (words[k - 1].lower() in FN or (k == 1 and '-' not in words[0])) and not words[k - 1].endswith((':', ',')):
+        k += 1
     # ngoặc ngay sau: (saves nine), (away/from)
     while k < len(words) and words[k].startswith('('):
         while k < len(words) and not words[k].endswith(')'): k += 1
         k += 1
+    if m < k and k > 2 and words[k - 1].lower() == words[0].lower():      # "not have a leg to stand on | not have any way…" → chữ đầu định nghĩa
+        k -= 1
     return clean(' '.join(words[:k])), clean(' '.join(words[k:]))
 def split_items(s):
     out, d, cur = [], 0, ''
@@ -162,7 +201,7 @@ def split_items(s):
 
 def d_ok(rest):
     d = rest.partition(':')[0]
-    return len(re.findall(r'[a-z]{3,}', d)) >= 2
+    return len(re.findall(r'[a-z]{3,}', d)) >= 1
 
 
 def extract():
@@ -175,11 +214,11 @@ def extract():
         recs.append({'t': 'phrasal', 'p': head, 'd': clean(d), 'e': clean(ex).split('. ')[0].strip(' .') + '.' if ex.strip() else ''})
     for e in entries('idiom'):
         head, rest = idiom_head(e)
-        head = re.sub(r"^ake ", "take ", re.sub(r"^top dead", "stop dead", head))           # OCR mất chữ đầu
+        head = re.sub(r"^'?ake ", "take ", re.sub(r"^top dead", "stop dead", re.sub(r"^ell tales", "tell tales", head)))           # OCR mất chữ đầu
         while len(head.split()) > 2 and head.split()[-1] in ('someone', 'something', 'used'):   # chữ đầu của định nghĩa dính vào
             rest = head.split()[-1] + ' ' + rest; head = head.rsplit(' ', 1)[0]
         core = [w for w in norm(head) if w not in ('sb', 'sth', 'a', 'an', 'the', 'your', 'on', 'in', 'of', 'to', 'hear', 'give', 'do')]
-        if (len(norm(head)) < 2 or not re.match(r"^[A-Za-z(]", head) or head.startswith('(') or not d_ok(rest)
+        if (len(norm(head)) < 2 or not re.match(r"^[A-Za-z(]", head) or re.fullmatch(r"\([^)]*\)", head) or not d_ok(rest)
                 or norm(head)[-1] in ('a', 'an', 'the') or len(core) < 1): continue
         d, _, ex = rest.partition(':')
         recs.append({'t': 'idiom', 'p': head, 'd': clean(d), 'e': clean(ex).split('. ')[0].strip(' .') + '.' if ex.strip() else ''})
@@ -188,10 +227,34 @@ def extract():
         if len(words) < 2: continue
         hw = clean(words[0])
         for it in split_items(words[1]):
-            if len(it.split()) >= 2 and re.search(r'[a-z]{2}', it):
-                recs.append({'t': 'collocation', 'p': it})
+            it = ' '.join(w for w in it.split() if not re.fullmatch(r"e{2,}|aE|a{3,}|[A-Z][a-z]?E?", w))      # chữ rác OCR
+            for bad, good in (('takhe', 'take'), ('lght', 'light'), ('alljust', 'all/just')):
+                it = re.sub(r"\b%s\b" % bad, good, it)
+            if re.search(r"[«»—=_<>\[\]{}|]", it) or any(len(x) > 3 and not re.search(r"[aeiouy]", x) for x in (re.sub(r"sb|sth|[^a-z]", "", w.lower()) for w in it.split())):
+                continue                                                                         # dòng toàn ký hiệu / rác
+            for part in split_dup(clean_colloc(it)):
+                if len(part.split()) >= 2 and re.search(r'[a-z]{2}', part) and part.lower() != 'patterns and':
+                    recs.append({'t': 'collocation', 'p': part})
     return recs
 
+
+KEEP2 = {'a', 'i', 'an', 'to', 'of', 'in', 'on', 'at', 'by', 'do', 'go', 'up', 'be', 'me', 'my', 'us', 'it', 'is', 'so', 'no', 'or',
+         'as', 'if', 'we', 'he', 'sb', 'tv', 'pm', 'am', 'ok', 'oh', 'eg', 'ie'}
+
+
+def clean_colloc(it):
+    """Bỏ chữ cái lạc của OCR ("take into t account", "in kt the act", "on : balance", "' arms control")."""
+    ws = [w for w in it.split() if not (re.fullmatch(r"[A-Za-z]{1,2}", w) and w.lower() not in KEEP2) and not re.fullmatch(r"[^A-Za-z(]+", w)]
+    return ' '.join(ws).strip(" '")
+
+
+def split_dup(it):
+    """Hai mục dính nhau ở chỗ đổi đầu mục: "decide on delight delight in doing" → "decide on" + "delight in doing"."""
+    ws = it.split()
+    for i in range(1, len(ws)):
+        if ws[i].lower() == ws[i - 1].lower() and ws[i].isalpha() and ws[i].lower() not in ('very', 'so', 'had', 'that'):
+            return [' '.join(ws[:i - 1]), ' '.join(ws[i:])]
+    return [it]
 
 def main():
     global L

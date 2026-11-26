@@ -34,6 +34,12 @@ const add = q => { q = String(q || '').replace(/["“”]/g, '').replace(/\s+/g,
   }
   for (const k of ['daily', 'all']) for (const r of D[k] || []) add(q(String(r[1]).replace(/\([^)]*\)|\.\.\.|…/g, '').trim()));
 }
+// 3b. Từ vựng TOEIC · IELTS · Oxford (docs/tools/vocab-index.html): mỗi mục → ClipPlayer.clean()
+{
+  const c = { window: {}, document: { currentScript: null, addEventListener() {} } }; vm.createContext(c);
+  vm.runInContext(R('docs/assets/clip-player.js'), c); vm.runInContext(R('docs/tools/vocab-index-data.js'), c);
+  for (const r of c.window.VOCAB_INDEX.rows) add(c.window.ClipPlayer.clean(r[0]));
+}
 // 4. dạng khác / cụm ngắn trong câu / phần lõi của cụm (trình phát bù khi chưa đủ clip nguyên văn) — dùng chính parts() của clip-player.js
 {
   const ctx = { window: {}, document: { currentScript: null, addEventListener() {} } }; vm.createContext(ctx);
