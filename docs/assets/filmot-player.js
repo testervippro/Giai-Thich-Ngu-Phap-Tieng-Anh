@@ -208,7 +208,14 @@
     search(q);
   }
   var pop = null;
+  function toast(t) {
+    var d = document.getElementById('fmtoast');
+    if (!d) { d = document.createElement('div'); d.id = 'fmtoast'; d.style.cssText = 'position:fixed;left:50%;bottom:18px;transform:translateX(-50%);z-index:10000;background:#222;color:#fff;padding:8px 14px;border-radius:10px;font:14px/1.4 system-ui,sans-serif;max-width:92vw;box-shadow:0 6px 20px rgba(0,0,0,.3)'; document.body.appendChild(d); }
+    d.textContent = t; d.hidden = false; clearTimeout(d._t); d._t = setTimeout(function () { d.hidden = true; }, 5000);
+  }
   function popup(q) {
+    try { navigator.clipboard.writeText('"' + q + '"'); } catch (e) {}
+    toast('🎬 Filmot: "' + q + '" (đã chép). Nếu Filmot hiện trang chủ sau captcha → bấm 🎬 lại, hoặc dán ⌘V vào ô Search.');
     var w = Math.min(760, screen.availWidth - 40), h = Math.min(900, screen.availHeight - 60);
     var l = (screen.availLeft || 0) + screen.availWidth - w - 20, t = (screen.availTop || 0) + 30;
     try { if (pop && !pop.closed) { pop.location.href = fUrl(q); pop.focus(); return; } } catch (e) {}
