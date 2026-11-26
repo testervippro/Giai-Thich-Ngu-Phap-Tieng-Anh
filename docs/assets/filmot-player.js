@@ -201,10 +201,19 @@
   function open(q) {
     q = String(q || '').replace(/["“”]/g, '').replace(/\s+/g, ' ').trim();
     if (!q) return;
-    // trang RapidAPI của Filmot đã gỡ, không đăng ký key mới được → chưa có key thì mở thẳng filmot.com (tìm đúng cụm "...")
-    if (!getKey()) { window.open(fUrl(q), '_blank', 'noopener'); return; }
+    // trang RapidAPI của Filmot đã gỡ, không đăng ký key mới được → chưa có key thì mở filmot.com (tìm đúng cụm "...")
+    // trong 1 cửa sổ pop-up nhỏ, mọi lần bấm dùng lại đúng cửa sổ đó (captcha chỉ cần giải 1 lần)
+    if (!getKey()) return popup(q);
     build(); box.hidden = false; box.scrollTop = 0;
     search(q);
+  }
+  var pop = null;
+  function popup(q) {
+    var w = Math.min(760, screen.availWidth - 40), h = Math.min(900, screen.availHeight - 60);
+    var l = (screen.availLeft || 0) + screen.availWidth - w - 20, t = (screen.availTop || 0) + 30;
+    try { if (pop && !pop.closed) { pop.location.href = fUrl(q); pop.focus(); return; } } catch (e) {}
+    pop = window.open(fUrl(q), 'filmot', 'popup=yes,width=' + w + ',height=' + h + ',left=' + l + ',top=' + t);
+    if (pop) { try { pop.opener = null; } catch (e) {} pop.focus(); } else alert('Trình duyệt đang chặn pop-up — bấm biểu tượng chặn pop-up trên thanh địa chỉ, chọn Luôn cho phép trang này.');
   }
   function close() {
     if (!box) return;
