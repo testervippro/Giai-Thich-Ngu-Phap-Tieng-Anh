@@ -62,16 +62,16 @@
     <select id="src" aria-label="Nguồn"></select>
     <button class="btn" id="exOnly" title="Chỉ hiện cụm có câu ví dụ">Có ví dụ</button>
     <button class="btn" id="viOnly" title="Chỉ hiện cụm có nghĩa tiếng Việt">Có nghĩa Việt</button>
-    <select id="vid" aria-label="Video" title="Lọc theo video người bản xứ nói cụm"><option value="0">🎬 Mọi cụm</option><option value="1">🎬 Có video (kể cả clip bù)</option><option value="2">🎬 Video đúng nguyên cụm</option><option value="3">🎬 ≥ 10 video đúng cụm</option><option value="4">🎬 Đủ 50 video đúng cụm</option></select>
+    <select id="vid" aria-label="Video" title="Lọc theo video người bản xứ nói cụm"><option value="0">🎬 Mọi cụm</option><option value="1">🎬 Có video (kể cả clip bù)</option><option value="2">🎬 Video đúng nguyên cụm</option><option value="3">🎬 Đủ 10 video đúng cụm</option></select>
   </div>
   <div class="chips" id="types" role="group" aria-label="Loại"></div>
   <div class="desc" id="desc" hidden></div>
   <div class="cnt" id="cnt"></div>
   <div id="loading">Đang tải…</div>
   <div id="list"></div>
-  <p class="note"><b>🎬 Bấm vào cụm</b> (hoặc nút 🎬) để mở khung phát ngay trên trang (Ctrl/⌘ + bấm: tìm trên YouTube): kho clip tự dựng (miễn phí, không cần key/captcha) từ phụ đề YouTube của TED, talk show, podcast: tìm <b>đúng nguyên cụm</b>, tối đa 50 video, phát ngay trên trang đúng đoạn người bản xứ nói cụm đó, mỗi đoạn 3 lần rồi tự sang video sau. Phần tuỳ chọn, sb/sth, … được bỏ khi tìm. Gộp từ nhiều bộ: thành ngữ, phrasal verb, collocation, mẫu câu IELTS, câu hàng ngày, cụm trong phim, câu theo tình huống, cấu trúc nói, tiếng Anh IT. Cụm trùng giữa các bộ chỉ hiện một lần, kèm nhãn tất cả nguồn có nó. Bấm nhãn nguồn để mở trang gốc (đầy đủ ngữ pháp, ví dụ, bằng chứng trong phim). Câu ví dụ trong phim là câu thoại thật (trích ngắn, bản quyền thuộc hãng phim).</p>
+  <p class="note"><b>🎬 Bấm vào cụm</b> (hoặc nút 🎬) để mở khung phát ngay trên trang (Ctrl/⌘ + bấm: tìm trên YouTube): kho clip tự dựng (miễn phí, không cần key/captcha) từ phụ đề YouTube của TED, talk show, podcast: tìm <b>đúng nguyên cụm</b>, tối đa 10 video, phát ngay trên trang đúng đoạn người bản xứ nói cụm đó, mỗi đoạn 3 lần rồi tự sang video sau. Phần tuỳ chọn, sb/sth, … được bỏ khi tìm. Gộp từ nhiều bộ: thành ngữ, phrasal verb, collocation, mẫu câu IELTS, câu hàng ngày, cụm trong phim, câu theo tình huống, cấu trúc nói, tiếng Anh IT. Cụm trùng giữa các bộ chỉ hiện một lần, kèm nhãn tất cả nguồn có nó. Bấm nhãn nguồn để mở trang gốc (đầy đủ ngữ pháp, ví dụ, bằng chứng trong phim). Câu ví dụ trong phim là câu thoại thật (trích ngắn, bản quyền thuộc hãng phim).</p>
 </main>
-<script src="../assets/clip-player.js?v=3"></script>
+<script src="../assets/clip-player.js?v=4"></script>
 <script src="phrase-bank-data.js"></script>
 <script src="phrase-bank-noclip.js"></script>
 <script>
@@ -89,7 +89,7 @@
     hay: fold([a[1], a[2], a[3], a[4], a[5], a[7]].join(' ')), pf: fold(a[1]) }));
   const store = { get(k) { try { return localStorage.getItem('phraseBank.' + k); } catch (e) { return null; } }, set(k, v) { try { localStorage.setItem('phraseBank.' + k, v); } catch (e) {} } };
   const qs = new URLSearchParams(location.search);
-  const st = { q: qs.get('q') || '', types: new Set((qs.get('type') || '').split(',').filter(x => T[x])), src: qs.get('src') || '', ex: false, vi: false, vid: +(store.get('vidLv') || 0) };
+  const st = { q: qs.get('q') || '', types: new Set((qs.get('type') || '').split(',').filter(x => T[x])), src: qs.get('src') || '', ex: false, vi: false, vid: Math.min(3, +(store.get('vidLv') || 0)) };
   const LV = window.PB_CLIPLV || '';
   const lv = ix => +(LV[ix] || 0);
   if (LV) [...$('vid').options].forEach(o => { const k = +o.value; if (k) o.textContent += ' · ' + fmt([...LV].filter(c => +c >= k).length); });
@@ -138,7 +138,7 @@
     return best.split(' ').length > 2 ? best.replace(/^(be|to) /i, '') : best;
   }
   const ygUrl = p => ClipPlayer.url(ygq(p));
-  // ---- khung clip ngay trên trang (assets/clip-player.js): đúng cụm, tối đa 50 video, mỗi đoạn 3 lần rồi sang video sau ----
+  // ---- khung clip ngay trên trang (assets/clip-player.js): đúng cụm, tối đa 10 video, mỗi đoạn 3 lần rồi sang video sau ----
   document.addEventListener('click', e => {
     const a = e.target.closest('a.yg, a.ygb'); if (!a || !a.dataset.p || e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
     e.preventDefault(); ClipPlayer.open(ygq(a.dataset.p));

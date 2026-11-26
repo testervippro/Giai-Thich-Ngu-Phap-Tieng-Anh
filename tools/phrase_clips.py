@@ -6,6 +6,7 @@ Nguồn: phụ đề tiếng Anh của video YouTube nói chuyện tự nhiên (
 
     /opt/miniconda3/bin/python tools/phrase_clips.py list            # liệt kê video các kênh -> build/phrase-clips/videos.tsv
     /opt/miniconda3/bin/python tools/phrase_clips.py fetch [--jobs 4]  # tải phụ đề (tiếp tục được) -> build/phrase-clips/tok/*.json.gz
+    /opt/miniconda3/bin/python tools/phrase_clips.py songs           # + bài hát LRCLIB (lời có mốc giờ + video YouTube đã dò sẵn)
     /opt/miniconda3/bin/python tools/phrase_clips.py index           # tìm ĐÚNG NGUYÊN cụm -> docs/assets/clips/*.json
 
 Đầu ra (trình phát: docs/assets/clip-player.js):
@@ -35,8 +36,8 @@ VIDS = B / "videos.tsv"
 BAD = B / "bad.txt"
 OUT = ROOT / "docs/assets/clips"
 SHARDS = 64
-MAX_CLIPS = 50
-SUB_CLIPS = 15          # cụm phụ (dạng khác / cụm trong câu / phần lõi) chỉ để bù
+MAX_CLIPS = 10
+SUB_CLIPS = 5           # cụm phụ (dạng khác / cụm trong câu / phần lõi) chỉ để bù
 MIN_DUR, MAX_DUR = 120, 4 * 3600
 
 # kênh nói tiếng Anh tự nhiên: (handle, số video tối đa)
@@ -108,6 +109,61 @@ def cmd_list(_):
         print(f"{h}: {len(got[:n])}", flush=True)
     VIDS.write_text("".join(f"{v}\t{h}\t{d}\n" for v, h, d in rows))
     print(len(rows), "video →", VIDS.relative_to(ROOT))
+
+
+# ---------------------------------------------------------------- songs
+SONG_CACHE = ROOT / "build/song_grammar/yt_cache.json"          # tools/song_grammar_yt.py: lời LRCLIB có mốc giờ + video YouTube khớp
+SONG_CORPUS = ROOT / "tools/data/lrclib_corpus.jsonl.gz"
+MUSIC = "♪"                                                       # kênh bắt đầu bằng ♪ = bài hát (LRCLIB)
+SONG_MAX = 3                                                      # tối đa 3 / 10 clip của một cụm là bài hát
+SONG_BAD = re.compile(r"\b(fuck|shit|bitch|nigg|pussy|dick|cock|cunt|whore|slut|motherf|porn)", re.I)
+
+
+def cmd_songs(_):
+    """Bài hát LRCLIB (lời có mốc thời gian từng dòng, mã nguồn mở) + video YouTube đã dò sẵn → thêm vào kho như 1 nguồn."""
+    sys.path.insert(0, str(ROOT / "tools"))
+    import song_grammar_yt as SY
+    meta = {}
+    with gzip.open(SONG_CORPUS, "rt", encoding="utf-8") as f:
+        for line in f:
+            o = json.loads(line)
+            meta[str(o["id"])] = (o.get("t") or "", o.get("a") or "", o.get("l") or "")
+    cache = json.loads(SONG_CACHE.read_text(encoding="utf-8"))
+    have = {l.split("\t")[0] for l in VIDS.read_text().splitlines() if l.strip()}
+    TOK.mkdir(parents=True, exist_ok=True)
+    rows, n, skip = [], 0, 0
+    for sid, c in cache.items():
+        t, a, lyr = meta.get(sid, ("", "", ""))
+        sync = c.get("sync") or []
+        try:
+            dur = float(c.get("dur") or 0)
+        except ValueError:
+            dur = 0
+        vid = SY._pick_video(c.get("vids") or [], dur, t) if sync else None
+        if not vid or vid in have:
+            continue
+        if SONG_BAD.search(lyr) or SONG_BAD.search(" ".join(x[1] for x in sync)):
+            skip += 1
+            continue
+        toks = []
+        for i, (sec, text) in enumerate(sync):
+            nxt = sync[i + 1][0] if i + 1 < len(sync) else sec + 4
+            ws = norm_words(text)
+            span = max(0.5, min(nxt - sec, 8))
+            for j, w in enumerate(ws):
+                toks.append((w, int((sec + span * j / max(1, len(ws))) * 1000)))
+        if len(toks) < 30:
+            continue
+        ts, prev = [], 0
+        for _, ms in toks:
+            d = max(0, ms // 100 - prev); ts.append(d); prev += d
+        with gzip.open(TOK / f"{vid}.json.gz", "wt", encoding="utf-8") as f:
+            json.dump({"w": " ".join(w for w, _ in toks), "t": ts, "wl": 0}, f, separators=(",", ":"))
+        name = (t if " - " in t else f"{a} - {t}").replace("\t", " ")
+        rows.append(f"{vid}\t{MUSIC} {name}\t{int(dur)}\n"); have.add(vid); n += 1
+    with open(VIDS, "a") as f:
+        f.writelines(rows)
+    print(f"+{n} bài hát → {TOK.relative_to(ROOT)} (bỏ {skip} bài lời thô tục)")
 
 
 # ---------------------------------------------------------------- search
@@ -294,17 +350,23 @@ def cmd_index(a):
                 j += 1
         if n % 1000 == 0:
             print(f"  {n}/{len(files)} video", flush=True)
-    # chọn tối đa 50 clip / cụm, xen kẽ các kênh cho đa dạng giọng
+    # chọn tối đa MAX_CLIPS clip / cụm (cụm phụ: SUB_CLIPS)
     out = [dict() for _ in range(SHARDS)]
     found = 0
     for q, chs in hits.items():
-        lists = [random.Random(q + c).sample(v, len(v)) for c, v in sorted(chs.items())]
-        pick = []
+        songs = [x for c, v in chs.items() if c.startswith(MUSIC) for x in v]
+        lists = [random.Random(q + c).sample(v, len(v)) for c, v in sorted(chs.items()) if not c.startswith(MUSIC)]
         cap = MAX_CLIPS if q in main_q else SUB_CLIPS
-        while len(pick) < cap and any(lists):
+        random.Random(q).shuffle(songs)
+        pick = []
+        talk_cap = cap - min(len(songs), SONG_MAX)                # chừa chỗ cho tối đa SONG_MAX bài hát
+        while len(pick) < talk_cap and any(lists):              # người nói: xen kẽ các kênh cho đa dạng giọng
             for l in lists:
-                if l and len(pick) < cap:
+                if l and len(pick) < talk_cap:
                     pick.append(l.pop())
+        songs = songs[:cap - len(pick)]                          # người nói ít thì bài hát bù phần còn lại
+        for k, x in enumerate(songs):                            # bài hát (LRCLIB) chèn vào vị trí 3, 6, 9…
+            pick.insert(min(len(pick), 2 + 3 * k), x)
         out[shard(q)][q] = pick
         found += 1
     OUT.mkdir(parents=True, exist_ok=True)
@@ -331,9 +393,10 @@ def main():
     sp.add_parser("list")
     f = sp.add_parser("fetch"); f.add_argument("--jobs", type=int, default=4); f.add_argument("--sleep", type=float, default=1.0)
     sp.add_parser("index")
+    sp.add_parser("songs")
     s2 = sp.add_parser("search"); s2.add_argument("file"); s2.add_argument("--n", type=int, default=15); s2.add_argument("--jobs", type=int, default=16)
     a = ap.parse_args()
-    {"list": cmd_list, "fetch": cmd_fetch, "index": cmd_index, "search": cmd_search}[a.cmd](a)
+    {"list": cmd_list, "fetch": cmd_fetch, "index": cmd_index, "search": cmd_search, "songs": cmd_songs}[a.cmd](a)
 
 
 if __name__ == "__main__":

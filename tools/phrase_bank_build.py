@@ -12,7 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SRC = ROOT / "tools/phrase_src"
-ORDER = ["ex", "pv800", "pb", "s500", "itp", "e650", "dl", "mv", "cae", "t120"]       # nguồn đứng trước giữ nghĩa/ví dụ khi trùng cụm
+ORDER = ["ex", "pv800", "pb", "s500", "itp", "e650", "dl", "mv", "cae", "t120", "pvciu", "c4500"]       # nguồn đứng trước giữ nghĩa/ví dụ khi trùng cụm
 TYPES = {"idiom": "Thành ngữ (idiom)", "phrasal": "Phrasal verb", "collocation": "Collocation", "fixed": "Cụm cố định",
          "pattern": "Mẫu câu IELTS", "structure": "Cấu trúc nói", "topic": "Câu theo chủ đề", "daily": "Câu hàng ngày",
          "movie": "Cụm trong phim", "situation": "Câu theo tình huống", "it": "Tiếng Anh IT"}
@@ -44,7 +44,8 @@ def key(p):
 
 def noise(p):
     """Càng ít ngoặc/ký hiệu/độ dài càng là dạng 'sạch' để hiển thị."""
-    return sum(p.count(c) for c in "[](){}…+:") * 10 + len(p) / 100
+    # ít dấu cách hơn bản cùng khoá = chữ bị dính do OCR ("gettheball rolling") → kém sạch
+    return sum(p.count(c) for c in "[](){}…+:") * 10 - p.count(" ") + len(p) / 100
 
 
 def filler_example(p):

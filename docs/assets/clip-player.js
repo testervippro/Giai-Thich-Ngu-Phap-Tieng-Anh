@@ -1,6 +1,6 @@
 /* Nghe người bản xứ nói một cụm — kho clip tự dựng, miễn phí, không cần key / captcha.
    Dữ liệu: docs/assets/clips/ (tools/phrase_clips.py: phụ đề YouTube TED / talk show / podcast, tìm ĐÚNG NGUYÊN cụm).
-   Bấm cụm → khung ngay trên trang phát đúng đoạn có cụm, mỗi đoạn 3 lần rồi tự sang video sau (tối đa 50 video).
+   Bấm cụm → khung ngay trên trang phát đúng đoạn có cụm, mỗi đoạn 3 lần rồi tự sang video sau (tối đa MAX video).
 
    Dùng:  <script src="../assets/clip-player.js"></script>
           <a data-clip="break the ice" href="(link dự phòng)">…</a>    hoặc  ClipPlayer.open('break the ice')
@@ -8,7 +8,7 @@
 (function () {
   'use strict';
   var BASE = (document.currentScript && document.currentScript.src || '').replace(/[^/]*$/, '') + 'clips/';
-  var SHARDS = 64, REPEAT = 3;
+  var SHARDS = 64, REPEAT = 3, MAX = 10;     // tối đa 10 video / cụm (khớp MAX_CLIPS trong tools/phrase_clips.py)
   var st = { q: '', clips: [], i: 0, rep: 0, seg: null, timer: null, token: 0 };
   var vids = null, shards = {}, yt = null, ytReady = null, box = null;
   var P = [], act = 0;            // 2 trình phát: P[act] đang phát, cái còn lại nạp sẵn video kế tiếp
@@ -126,18 +126,18 @@
       return (r[1][q] || []).map(function (c) { var v = r[0][c[0]]; return { id: v[0], ch: v[1], s: c[1] / 10, e: c[2] / 10, b: c[3], a: c[4], q: q }; });
     });
   }
-  // ưu tiên: đúng nguyên cụm → dạng khác của cụm → các cụm ngắn trong câu dài → phần lõi của cụm; đủ 50 thì dừng
+  // ưu tiên: đúng nguyên cụm → dạng khác của cụm → các cụm ngắn trong câu dài → phần lõi của cụm; đủ MAX thì dừng
   function fill(out, seen, L, kind) {
-    for (var r = 0; out.length < 50; r++) {
+    for (var r = 0; out.length < MAX; r++) {
       var any = false;
-      L.forEach(function (l) { if (l[r] && out.length < 50) { any = true; if (!seen[l[r].id]) { seen[l[r].id] = 1; l[r].kind = kind; out.push(l[r]); } } });
+      L.forEach(function (l) { if (l[r] && out.length < MAX) { any = true; if (!seen[l[r].id]) { seen[l[r].id] = 1; l[r].kind = kind; out.push(l[r]); } } });
       if (!any) break;
     }
   }
   function loadAll(raw) {
     var tiers = [[norm(raw)], variants(raw), parts(raw), cores(raw)], out = [], seen = {};
     function step(k) {
-      if (k >= tiers.length || out.length >= 50) return Promise.resolve(out);
+      if (k >= tiers.length || out.length >= MAX) return Promise.resolve(out);
       if (k === 3 && out.length) return Promise.resolve(out);          // phần lõi chỉ dùng khi chưa có clip nào
       return Promise.all(tiers[k].map(load)).then(function (L) { fill(out, seen, L, k); return step(k + 1); });
     }
@@ -310,10 +310,12 @@
   }
 
   // ---- chuẩn bị trước khi bấm ----
-  ['https://www.youtube.com', 'https://i.ytimg.com', 'https://www.google.com'].forEach(function (h) {
-    var l = document.createElement('link'); l.rel = 'preconnect'; l.href = h; l.crossOrigin = ''; document.head.appendChild(l);
-  });
-  (window.requestIdleCallback || function (f) { setTimeout(f, 1500); })(function () { ytApi(); if (!vids) vids = getJSON(BASE + 'v.json'); });
+  if (typeof document.createElement === 'function') {          // (bỏ qua khi các script tools/*.js nạp file này trong node)
+    ['https://www.youtube.com', 'https://i.ytimg.com', 'https://www.google.com'].forEach(function (h) {
+      var l = document.createElement('link'); l.rel = 'preconnect'; l.href = h; l.crossOrigin = ''; document.head.appendChild(l);
+    });
+    (window.requestIdleCallback || function (f) { setTimeout(f, 1500); })(function () { ytApi(); if (!vids) vids = getJSON(BASE + 'v.json'); });
+  }
   function prefetch(raw) {                                        // rê chuột vào cụm: tải sẵn file clip của cụm
     var q = norm(raw); if (!q) return;
     [q].concat(variants(raw), parts(raw)).forEach(function (k) { var n = shard(k); if (!shards[n]) shards[n] = getJSON(BASE + (n < 10 ? '0' : '') + n + '.json'); });
