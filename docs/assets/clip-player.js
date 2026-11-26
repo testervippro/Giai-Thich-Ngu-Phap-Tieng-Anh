@@ -15,7 +15,12 @@
   function $(id) { return document.getElementById(id); }
   function esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   // giống norm_words() trong tools/phrase_clips.py
-  function norm(t) { return (String(t).replace(/[’‘]/g, "'").toLowerCase().match(/[a-z0-9]+(?:'[a-z0-9]+)*/g) || []).join(' '); }
+  var SPOKEN = { gonna: 'going to', wanna: 'want to', gotta: 'got to', kinda: 'kind of', sorta: 'sort of', lemme: 'let me', gimme: 'give me',
+    ya: 'you', outta: 'out of', dunno: "don't know", mornin: 'morning', nothin: 'nothing', somethin: 'something', "'em": 'them', cuz: 'because' };
+  function norm(t) {
+    return (String(t).replace(/[’‘]/g, "'").toLowerCase().match(/[a-z0-9]+(?:'[a-z0-9]+)*/g) || [])
+      .map(function (w) { return SPOKEN.hasOwnProperty(w) ? SPOKEN[w] : w; }).join(' ');
+  }
   function shard(q) {
     var b = unescape(encodeURIComponent(q)), h = 0x811c9dc5;
     for (var i = 0; i < b.length; i++) { h ^= b.charCodeAt(i); h = Math.imul(h, 0x01000193) >>> 0; }

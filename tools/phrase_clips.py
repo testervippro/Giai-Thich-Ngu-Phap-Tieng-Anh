@@ -55,9 +55,19 @@ CHANNELS = [
 ]
 
 
+# phụ đề tự động của YouTube viết dạng đầy đủ ("going to", không "gonna") → quy cụm về cùng dạng
+# (giống SPOKEN trong docs/assets/clip-player.js)
+SPOKEN = {"gonna": "going to", "wanna": "want to", "gotta": "got to", "kinda": "kind of", "sorta": "sort of",
+          "lemme": "let me", "gimme": "give me", "ya": "you", "outta": "out of", "dunno": "don't know",
+          "mornin": "morning", "nothin": "nothing", "somethin": "something", "'em": "them", "cuz": "because"}
+
+
 def norm_words(t):
     t = t.replace("’", "'").replace("‘", "'").lower()
-    return re.findall(r"[a-z0-9]+(?:'[a-z0-9]+)*", t)
+    out = []
+    for w in re.findall(r"[a-z0-9]+(?:'[a-z0-9]+)*", t):
+        out += SPOKEN.get(w, w).split()
+    return out
 
 
 # ---------------------------------------------------------------- list
