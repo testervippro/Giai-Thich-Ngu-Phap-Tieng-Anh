@@ -11,103 +11,103 @@
 | # | Từ / Cụm từ | Nghĩa tiếng Việt | Phiên âm | Nguồn |
 |---|---|---|---|---|
 | 1 | a | một (mạo từ) |  | Word Skills Advanced |
-| 2 | a (whole) load of |  |  | Destination C1–C2 · collocation |
+| 2 | a (whole) load of | cả đống |  | Destination C1–C2 · collocation |
 | 3 | A and B alike | A và B giống nhau |  | TOEIC (Hackers) |
 | 4 | A as well as B | A cũng như B |  | TOEIC (Hackers) |
 | 5 | A be followed by B | A được theo sau bởi B |  | TOEIC (Hackers) |
 | 6 | a bit, a bit of | một chút, một ít |  | Word Skills Basic |
 | 7 | a blue-collar worker | Người làm việc chân tay | /ə ˈbluː ˈkɒlə ˈwɜːkər/ | IELTS · Employment |
-| 8 | a bolt/flash of lightning |  |  | Destination C1–C2 · collocation |
-| 9 | a certain (amount of sth) |  |  | Destination C1–C2 · collocation |
-| 10 | a child of |  |  | Destination C1–C2 · collocation |
+| 8 | a bolt/flash of lightning | tia chớp |  | Destination C1–C2 · collocation |
+| 9 | a certain (amount of sth) | một (lượng) nhất định |  | Destination C1–C2 · collocation |
+| 10 | a child of | đứa con của (thời đại …) |  | Destination C1–C2 · collocation |
 | 11 | a clean bill of health | giấy chứng nhận sức khác tất Mà |  | Destination C1–C2 · collocation |
-| 12 | a clean slate/sheet |  |  | Destination C1–C2 · collocation |
+| 12 | a clean slate/sheet | làm lại từ đầu, lý lịch trong sạch |  | Destination C1–C2 · collocation |
 | 13 | A cliff-hanger | Kết thúc gây cấn, căng thẳng | /ə klɪf-hæŋər/ | IELTS · Entertainment and media |
-| 14 | a closed book |  |  | Destination C1–C2 · collocation |
+| 14 | a closed book | điều bí ẩn, chưa ai hiểu |  | Destination C1–C2 · collocation |
 | 15 | a complete line of | một dòng hoàn chỉnh của |  | TOEIC (Hackers) |
 | 16 | a copy of | một bản sao của |  | TOEIC (Hackers) |
 | 17 | a couple of | một vài |  | TOEIC (Hackers) |
 | 18 | a couple of minutes | vài phút |  | Word Skills Basic |
-| 19 | a course |  |  | Destination C1–C2 · collocation |
+| 19 | a course | một khoá học; một liệu trình |  | Destination C1–C2 · collocation |
 | 20 | A crowd-pleaser | Một tác phẩm/hiệu ứng làm hài lòng đám đông | /ə kraʊd-pliːzər/ | IELTS · Entertainment and media |
-| 21 | a dream come true |  |  | Destination C1–C2 · collocation |
-| 22 | a dream to |  |  | Destination C1–C2 · collocation |
+| 21 | a dream come true | giấc mơ thành hiện thực |  | Destination C1–C2 · collocation |
+| 22 | a dream to | thật tuyệt khi (dùng, lái…) |  | Destination C1–C2 · collocation |
 | 23 | a drop in the ocean | muối bỏ bể (= a very small amount that will not have much effect) |  | Destination C1–C2 · idiom |
-| 24 | a family of |  |  | Destination C1–C2 · collocation |
+| 24 | a family of | một gia đình gồm |  | Destination C1–C2 · collocation |
 | 25 | a far cry from | khác xa |  | Destination C1–C2 · collocation |
-| 26 | a fat lot of good/help/use |  |  | Destination C1–C2 · collocation |
-| 27 | a feature of |  |  | Destination C1–C2 · collocation |
+| 26 | a fat lot of good/help/use | chẳng được tích sự gì |  | Destination C1–C2 · collocation |
+| 27 | a feature of | một đặc điểm của |  | Destination C1–C2 · collocation |
 | 28 | a few | một vài |  | Word Skills Basic |
 | 29 | A gig/show | Buổi biểu diễn | /ə ɡɪɡ / ʃoʊ/ | IELTS · Entertainment and media |
 | 30 | a glass of | Một cốc |  | TOEIC (Hackers) |
-| 31 | a good deal |  |  | Destination C1–C2 · collocation |
-| 32 | a good job |  |  | Destination C1–C2 · collocation |
-| 33 | a good many/few |  |  | Destination C1–C2 · collocation |
-| 34 | a good/depressing/ etc read |  |  | Destination C1–C2 · collocation |
-| 35 | a good/great deal of |  |  | Destination C1–C2 · collocation |
+| 31 | a good deal | rất nhiều; món hời |  | Destination C1–C2 · collocation |
+| 32 | a good job | may mà; làm tốt |  | Destination C1–C2 · collocation |
+| 33 | a good many/few | khá nhiều |  | Destination C1–C2 · collocation |
+| 34 | a good/depressing/ etc read | cuốn sách hay / đọc buồn |  | Destination C1–C2 · collocation |
+| 35 | a good/great deal of | rất nhiều |  | Destination C1–C2 · collocation |
 | 36 | a great deal | rất nhiều; một đống; một tá; một mớ |  | TOEIC (Hackers) |
 | 37 | a great deal of | rất nhiều |  | TOEIC (Hackers) |
-| 38 | a heavy load to bear/carry |  |  | Destination C1–C2 · collocation |
-| 39 | a home from home | (= a place where you feel as relaxed as you do in your own home) |  | Destination C1–C2 · idiom |
-| 40 | a horrible/stupid/strange/etc thing to say |  |  | Destination C1–C2 · collocation |
+| 38 | a heavy load to bear/carry | gánh nặng phải chịu |  | Destination C1–C2 · collocation |
+| 39 | a home from home | nơi thoải mái như ở nhà (= a place where you feel as relaxed as you do in your own home) |  | Destination C1–C2 · idiom |
+| 40 | a horrible/stupid/strange/etc thing to say | câu nói thật tệ / ngớ ngẩn / lạ |  | Destination C1–C2 · collocation |
 | 41 | A household name | Một cái tên rất nổi tiếng, mọi người đều biết | /ə ˈhaʊshəʊld neɪm/ | IELTS · Celebrity |
 | 42 | a large attendance | một lượng lớn người tham dự |  | TOEIC (Hackers) |
-| 43 | a laugh a minute |  |  | Destination C1–C2 · collocation |
-| 44 | a leopard can't change its spots | (used for saying that someone will never change their behaviour or character) |  | Destination C1–C2 · idiom |
+| 43 | a laugh a minute | rất buồn cười |  | Destination C1–C2 · collocation |
+| 44 | a leopard can't change its spots | ngựa quen đường cũ, bản chất khó đổi (used for saying that someone will never change their behaviour or character) |  | Destination C1–C2 · idiom |
 | 45 | a letter of gratitude | một lá thư bày tỏ lòng biết ơn |  | TOEIC (Hackers) |
 | 46 | a likely story | chuyện khó tin (mỉa mai) |  | Word Skills Advanced |
 | 47 | a little | một chút |  | Word Skills Basic |
 | 48 | a loaf of | Một ổ |  | TOEIC (Hackers) |
-| 49 | a lot of |  |  | Destination C1–C2 · collocation |
-| 50 | a lot on your mind |  |  | Destination C1–C2 · collocation |
+| 49 | a lot of | nhiều |  | Destination C1–C2 · collocation |
+| 50 | a lot on your mind | nhiều điều phải lo nghĩ |  | Destination C1–C2 · collocation |
 | 51 | a lot, a lot of | nhiều |  | Word Skills Basic |
 | 52 | A marine ecosystem | Hệ sinh thái dưới nước | /məˈriːn/ /ˈiː.kəʊˌsɪs.təm/ | IELTS · Environment |
-| 53 | a matter an issue of principle |  |  | Destination C1–C2 · collocation |
-| 54 | a matter of |  |  | Destination C1–C2 · collocation |
-| 55 | a matter of opinion |  |  | Destination C1–C2 · collocation |
+| 53 | a matter an issue of principle | vấn đề nguyên tắc |  | Destination C1–C2 · collocation |
+| 54 | a matter of | vấn đề về; chỉ trong vòng |  | Destination C1–C2 · collocation |
+| 55 | a matter of opinion | tuỳ quan điểm |  | Destination C1–C2 · collocation |
 | 56 | a metre long | dài một mét |  | Word Skills Basic |
 | 57 | A musical | Vở nhạc kịch | /ə ˈmjuːzɪkəl/ | IELTS · Entertainment and media |
-| 58 | a native of |  |  | Destination C1–C2 · collocation |
-| 59 | a near thing |  |  | Destination C1–C2 · collocation |
+| 58 | a native of | người gốc ở |  | Destination C1–C2 · collocation |
+| 59 | a near thing | suýt nữa thì (thua / gặp nạn) |  | Destination C1–C2 · collocation |
 | 60 | a need for | nhu cầu về |  | Word Skills Intermediate |
-| 61 | a new/all- time/record high |  |  | Destination C1–C2 · collocation |
+| 61 | a new/all- time/record high | mức cao kỷ lục |  | Destination C1–C2 · collocation |
 | 62 | a night | một đêm |  | Word Skills Basic |
 | 63 | a number of | một số |  | TOEIC (Hackers) |
 | 64 | a piece of equipment | một thiết bị |  | TOEIC (Hackers) |
 | 65 | A play | Vở kịch | /ə pleɪ/ | IELTS · Entertainment and media |
-| 66 | a poor man's sth |  |  | Destination C1–C2 · collocation |
+| 66 | a poor man's sth | phiên bản rẻ tiền của |  | Destination C1–C2 · collocation |
 | 67 | A popcorn movie | Một bộ phim giải trí nhẹ nhàng | /ə ˈpɒpˌkɔrn ˈmuːvi/ | IELTS · Entertainment and media |
-| 68 | a process of elimination |  |  | Destination C1–C2 · collocation |
+| 68 | a process of elimination | phương pháp loại trừ |  | Destination C1–C2 · collocation |
 | 69 | a range of | một loạt các |  | TOEIC (Hackers) |
-| 70 | a relative of yours |  |  | Destination C1–C2 · collocation |
+| 70 | a relative of yours | một người họ hàng của bạn |  | Destination C1–C2 · collocation |
 | 71 | a selection of | lựa chọn |  | TOEIC (Hackers) |
 | 72 | A sell-out | Bán hết vé, bán cháy | /ə sɛl-aʊt/ | IELTS · Entertainment and media |
-| 73 | a sense of |  |  | Destination C1–C2 · collocation |
-| 74 | a sense of perspective |  |  | Destination C1–C2 · collocation |
-| 75 | a sense of purpose |  |  | Destination C1–C2 · collocation |
+| 73 | a sense of | cảm giác về; ý thức về |  | Destination C1–C2 · collocation |
+| 74 | a sense of perspective | khả năng nhìn nhận đúng mức |  | Destination C1–C2 · collocation |
+| 75 | a sense of purpose | ý thức về mục đích |  | Destination C1–C2 · collocation |
 | 76 | a series of | Một loạt các |  | TOEIC (Hackers) |
 | 77 | a sheet of | một tấm sắt |  | TOEIC (Hackers) |
-| 78 | a short while/ period/spell |  |  | Destination C1–C2 · collocation |
-| 79 | a sight for sore eyes | (= someone or something that you are very pleased to see) |  | Destination C1–C2 · idiom |
-| 80 | a sore point |  |  | Destination C1–C2 · collocation |
-| 81 | a split second |  |  | Destination C1–C2 · collocation |
-| 82 | a stitch in time (saves nine) | (used for saying that it is better to solve a problem now, rather than leave it until later…) |  | Destination C1–C2 · idiom |
-| 83 | a stone's throw (away/from) | (= very close (to)) |  | Destination C1–C2 · idiom |
+| 78 | a short while/ period/spell | một lúc / thời gian ngắn |  | Destination C1–C2 · collocation |
+| 79 | a sight for sore eyes | thật mừng khi được gặp (người, vật) (= someone or something that you are very pleased to see) |  | Destination C1–C2 · idiom |
+| 80 | a sore point | chủ đề nhạy cảm |  | Destination C1–C2 · collocation |
+| 81 | a split second | tích tắc |  | Destination C1–C2 · collocation |
+| 82 | a stitch in time (saves nine) | làm sớm đỡ khổ về sau; phòng bệnh hơn chữa bệnh (used for saying that it is better to solve a problem now, rather than leave it until later…) |  | Destination C1–C2 · idiom |
+| 83 | a stone's throw (away/from) | cách chỉ một quãng ngắn, rất gần (= very close (to)) |  | Destination C1–C2 · idiom |
 | 84 | a string of | một chuỗi |  | TOEIC (Hackers) |
-| 85 | a stroke/piece of luck |  |  | Destination C1–C2 · collocation |
+| 85 | a stroke/piece of luck | một vận may |  | Destination C1–C2 · collocation |
 | 86 | a tight corner | tình thế khó khăn |  | Word Skills Advanced |
-| 87 | a tool for (doing) |  |  | Destination C1–C2 · collocation |
-| 88 | a tool of |  |  | Destination C1–C2 · collocation |
+| 87 | a tool for (doing) | công cụ để (làm) |  | Destination C1–C2 · collocation |
+| 88 | a tool of | công cụ của |  | Destination C1–C2 · collocation |
 | 89 | a variety of (= various) | nhiều loại (= khác nhau) |  | TOEIC (Hackers) |
-| 90 | a way of doing |  |  | Destination C1–C2 · collocation |
-| 91 | a welcome break from |  |  | Destination C1–C2 · collocation |
+| 90 | a way of doing | cách làm |  | Destination C1–C2 · collocation |
+| 91 | a welcome break from | khoảng nghỉ dễ chịu khỏi |  | Destination C1–C2 · collocation |
 | 92 | a white-collar worker | Nhân viên văn phòng | /ə ˈwaɪt ˈkɒlə ˈwɜːkər/ | IELTS · Employment |
-| 93 | a window on/onto/into word put in a (good) word for sb |  |  | Destination C1–C2 · collocation |
-| 94 | (a) reasonable doubt |  |  | Destination C1–C2 · collocation |
+| 93 | a window on/onto/into word put in a (good) word for sb | cửa sổ nhìn ra; nói tốt cho ai |  | Destination C1–C2 · collocation |
+| 94 | (a) reasonable doubt | nghi ngờ hợp lý |  | Destination C1–C2 · collocation |
 | 95 | a, an | một (mạo từ) |  | Oxford 3000 · A1 · indefinite article |
 | 96 | A-list | Các ngôi sao hàng đầu | /ˈeɪ lɪst/ | IELTS · Celebrity |
 | 97 | a.m | sáng (giờ trước 12 giờ trưa) |  | Word Skills Basic |
-| 98 | a/no question of |  |  | Destination C1–C2 · collocation |
+| 98 | a/no question of | có / không có chuyện |  | Destination C1–C2 · collocation |
 | 99 | abandon | từ bỏ |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B2 · v |
 | 100 | abate | giảm giá |  | TOEIC (Hackers) |
 | 101 | Abaya | Áo choàng nữ Hồi giáo | /əˈbaɪ.ə/ | IELTS · Fashion |
@@ -123,10 +123,10 @@
 | 111 | abolition | sự bãi bỏ |  | Word Skills Advanced |
 | 112 | abortion | phá thai |  | Oxford 5000 · C1 · n |
 | 113 | about | về; khoảng (= approximately; the subject is) |  | Word Skills Basic, Oxford 3000 · A1 · adj, adv, prep |
-| 114 | about time |  |  | Destination C1–C2 · collocation |
-| 115 | about to do |  |  | Destination C1–C2 · collocation |
+| 114 | about time | đã đến lúc (lẽ ra phải sớm hơn) |  | Destination C1–C2 · collocation |
+| 115 | about to do | sắp làm gì |  | Destination C1–C2 · collocation |
 | 116 | above | ở trên, phía trên |  | Word Skills Basic, Oxford 3000 · A1 · adv, prep |
-| 117 | above the law |  |  | Destination C1–C2 · collocation |
+| 117 | above the law | đứng trên pháp luật |  | Destination C1–C2 · collocation |
 | 118 | abridgment | tóm tắt |  | TOEIC (Hackers) |
 | 119 | abroad | ở nước ngoài, ra nước ngoài |  | Word Skills Basic, Oxford 3000 · A2 · adv |
 | 120 | abrupt | đột ngột; cộc lốc |  | Word Skills Advanced |
@@ -156,7 +156,7 @@
 | 144 | accept | Chấp nhận |  | TOEIC (Hackers), Word Skills Basic/Advanced, Oxford 3000 · A2 · v |
 | 145 | accept an award | chấp nhận giải thưởng |  | TOEIC (Hackers) |
 | 146 | accept the offer | chấp nhận lời đề nghị |  | TOEIC (Hackers) |
-| 147 | accept/face the consequences |  |  | Destination C1–C2 · collocation |
+| 147 | accept/face the consequences | chấp nhận / đối mặt hậu quả |  | Destination C1–C2 · collocation |
 | 148 | acceptable | có thể chấp nhận |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · adj |
 | 149 | acceptance | sự chấp nhận |  | Oxford 5000 · C1 · n |
 | 150 | access | truy cập |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · B1 · n, v |
@@ -212,7 +212,7 @@
 | 200 | achieve one’s goal | đạt được mục tiêu của mình |  | TOEIC (Hackers) |
 | 201 | achievement | thành tích |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 202 | achiever | người thành đạt |  | TOEIC (Hackers) |
-| 203 | Achilles' heel | (= a weak feature of someone or something that could cause failure or be attacked) |  | Destination C1–C2 · idiom |
+| 203 | Achilles' heel | gót chân Asin, điểm yếu chết người (= a weak feature of someone or something that could cause failure or be attacked) |  | Destination C1–C2 · idiom |
 | 204 | acid | axit |  | Oxford 5000 · B2 · adj, n |
 | 205 | Acid deposition | Mưa axit | /ˈæs.ɪd, ˌdep.əˈzɪʃ.ən/ | IELTS · Environment |
 | 206 | acknowledge | công nhận |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · v |
@@ -222,18 +222,18 @@
 | 210 | acquaintance | quan hệ nhân sinh |  | TOEIC (Hackers) |
 | 211 | acquire | đạt được |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B2 · v |
 | 212 | acquired | Acquired (Đã thu nhận) |  | TOEIC (Hackers) |
-| 213 | acquired taste |  |  | Destination C1–C2 · collocation |
+| 213 | acquired taste | thứ phải tập mới thích |  | Destination C1–C2 · collocation |
 | 214 | acquisition | Chi trả để có khách hàng; Sự mua, sự thu được | /ˌæk.wəˈzɪʃ.ən/ | TOEIC (Hackers), IELTS · Advertising, Word Skills Advanced, Oxford 5000 · C1 · n |
 | 215 | acre | mẫu Anh (acre) |  | Oxford 5000 · C1 · n |
 | 216 | across | ngang qua, băng qua |  | Word Skills Basic, Oxford 3000 · A1 · adv, prep |
 | 217 | across from | đối diện |  | TOEIC (Hackers) |
 | 218 | across the street | Bên kia đường ấy. |  | TOEIC (Hackers) |
 | 219 | act | hành vi |  | TOEIC (Hackers), Oxford 3000 · A2 · n, v |
-| 220 | act in good/bad faith |  |  | Destination C1–C2 · collocation |
-| 221 | act on impulse |  |  | Destination C1–C2 · collocation |
-| 222 | act on sb's advice/ orders/behalf |  |  | Destination C1–C2 · collocation |
-| 223 | act out of desperation/ necessity |  |  | Destination C1–C2 · collocation |
-| 224 | act the part/role of |  |  | Destination C1–C2 · collocation |
+| 220 | act in good/bad faith | hành động thiện chí / không thiện chí |  | Destination C1–C2 · collocation |
+| 221 | act on impulse | hành động bốc đồng |  | Destination C1–C2 · collocation |
+| 222 | act on sb's advice/ orders/behalf | làm theo lời khuyên / lệnh của ai; thay mặt ai |  | Destination C1–C2 · collocation |
+| 223 | act out of desperation/ necessity | hành động vì tuyệt vọng / vì bắt buộc |  | Destination C1–C2 · collocation |
+| 224 | act the part/role of | đóng vai |  | Destination C1–C2 · collocation |
 | 225 | act your age | cư xử đúng với lứa tuối |  | Destination C1–C2 · collocation |
 | 226 | acting | diễn xuất |  | TOEIC (Hackers) |
 | 227 | Action | Hành động | /ˈækʃən/ | IELTS · Film, Word Skills Basic, Oxford 3000 · A1 · n |
@@ -317,8 +317,8 @@
 | 305 | adverb | trạng từ |  | Word Skills Basic |
 | 306 | adversary | đối thủ |  | Word Skills Advanced |
 | 307 | adverse | bất lợi |  | TOEIC (Hackers), Oxford 5000 · C1 · adj |
-| 308 | adverse/beneficial effect |  |  | Destination C1–C2 · collocation |
-| 309 | adverse/gut/immediate reaction |  |  | Destination C1–C2 · collocation |
+| 308 | adverse/beneficial effect | tác động bất lợi / có lợi |  | Destination C1–C2 · collocation |
+| 309 | adverse/gut/immediate reaction | phản ứng bất lợi / bản năng / tức thì |  | Destination C1–C2 · collocation |
 | 310 | adversely | bất lợi |  | TOEIC (Hackers) |
 | 311 | adversity | nghịch cảnh |  | TOEIC (Hackers) |
 | 312 | advert | quảng cáo |  | Word Skills Basic/Intermediate |
@@ -365,7 +365,7 @@
 | 353 | after | sau, sau khi |  | Word Skills Basic, Oxford 3000 · A1 · adv, conj, prep |
 | 354 | after a while | một lúc sau |  | Word Skills Intermediate |
 | 355 | after alll | sau khi tất cả |  | TOEIC (Hackers) |
-| 356 | after hours |  |  | Destination C1–C2 · collocation |
+| 356 | after hours | ngoài giờ |  | Destination C1–C2 · collocation |
 | 357 | after sth | theo đuổi, muốn có cái gì |  | Word Skills Advanced |
 | 358 | after that | sau đó |  | Word Skills Basic |
 | 359 | aftermath | hậu quả |  | Oxford 5000 · C1 · n |
@@ -375,24 +375,24 @@
 | 363 | again | lại, lần nữa |  | Word Skills Basic, Oxford 3000 · A1 · adv |
 | 364 | against | chống lại, dựa vào |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · prep |
 | 365 | against all odds | bất chấp nguy hiểm |  | TOEIC (Hackers), Word Skills Advanced |
-| 366 | against all the odds |  |  | Destination C1–C2 · collocation |
-| 367 | against sb's principles |  |  | Destination C1–C2 · collocation |
-| 368 | against the clock |  |  | Destination C1–C2 · collocation |
+| 366 | against all the odds | bất chấp mọi khó khăn |  | Destination C1–C2 · collocation |
+| 367 | against sb's principles | trái với nguyên tắc của ai |  | Destination C1–C2 · collocation |
+| 368 | against the clock | chạy đua với thời gian |  | Destination C1–C2 · collocation |
 | 369 | against the law | trái pháp luật |  | TOEIC (Hackers), Word Skills Intermediate, Destination C1–C2 · collocation |
-| 370 | against the rules |  |  | Destination C1–C2 · collocation |
+| 370 | against the rules | trái luật |  | Destination C1–C2 · collocation |
 | 371 | age | tuổi |  | Word Skills Advanced, Oxford 3000 · A1 · n, v |
-| 372 | age bracket/group |  |  | Destination C1–C2 · collocation |
-| 373 | age limit |  |  | Destination C1–C2 · collocation |
+| 372 | age bracket/group | nhóm tuổi |  | Destination C1–C2 · collocation |
+| 373 | age limit | giới hạn tuổi |  | Destination C1–C2 · collocation |
 | 374 | aged | ở tuổi |  | Oxford 3000 · B1 · adj |
 | 375 | Ageism | Phân biệt tuổi tác | /ˈeɪdʒɪzəm/ | IELTS · Social issues |
 | 376 | agency | tác dụng, lực; môi giới, trung gian |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B2 · n |
 | 377 | agenda | chương trình nghị sự |  | TOEIC (Hackers), Oxford 3000 · B2 · n |
 | 378 | agent | đại lý, tác nhân; Đại diện | /ˈeɪʤənt/ | TOEIC (Hackers), IELTS · Music, Oxford 3000 · B1 · n |
-| 379 | ages ago |  |  | Destination C1–C2 · collocation |
+| 379 | ages ago | lâu lắm rồi |  | Destination C1–C2 · collocation |
 | 380 | aggravate | làm trầm trọng thêm |  | TOEIC (Hackers), Word Skills Advanced |
 | 381 | aggression | xâm lăng |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · C1 · n |
 | 382 | aggressive | hung hăng; quyết liệt |  | Word Skills Intermediate, Oxford 3000 · B2 · adj |
-| 383 | aggressive/antisocial/violent/ bad/ good/exemplary behaviour |  |  | Destination C1–C2 · collocation |
+| 383 | aggressive/antisocial/violent/ bad/ good/exemplary behaviour | hành vi hung hăng / chống đối xã hội / bạo lực / xấu / tốt / gương mẫu |  | Destination C1–C2 · collocation |
 | 384 | aggressively | Gây hấn |  | TOEIC (Hackers) |
 | 385 | agile | linh hoạt; Nhanh nhẹn, lanh lợi; Nhanh nhẹn | /ædʒaɪl/ | TOEIC (Hackers), IELTS · Appearance, IELTS · Animal, Word Skills Advanced |
 | 386 | Agility | Sự nhanh nhẹn | /əˈdʒɪləti/ | IELTS · Sports and Equipments, Word Skills Advanced |
@@ -456,20 +456,20 @@
 | 444 | aliow | aliow |  | TOEIC (Hackers) |
 | 445 | alive | còn sống |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · adj |
 | 446 | all | tất cả |  | Word Skills Basic, Oxford 3000 · A1 · adv, det, pron |
-| 447 | all day/week/etc long lot that's your lot |  |  | Destination C1–C2 · collocation |
-| 448 | all in good time | (used for telling someone to wait for something and not try to make you hurry) |  | Destination C1–C2 · idiom |
-| 449 | all mod cons | (= all modern conveniences, the machines and pieces of equipment in your house that make life…) |  | Destination C1–C2 · idiom |
+| 447 | all day/week/etc long lot that's your lot | suốt cả ngày / tuần; chỉ có thế thôi |  | Destination C1–C2 · collocation |
+| 448 | all in good time | từ từ rồi sẽ có, đừng sốt ruột (used for telling someone to wait for something and not try to make you hurry) |  | Destination C1–C2 · idiom |
+| 449 | all mod cons | đầy đủ tiện nghi hiện đại (= all modern conveniences, the machines and pieces of equipment in your house that make life…) |  | Destination C1–C2 · idiom |
 | 450 | all over | khắp nơi; xong hết |  | Word Skills Intermediate |
 | 451 | all over the world | khắp thế giới |  | Word Skills Intermediate |
-| 452 | all shapes and sizes |  |  | Destination C1–C2 · collocation |
+| 452 | all shapes and sizes | đủ mọi hình dạng kích cỡ |  | Destination C1–C2 · collocation |
 | 453 | all the best | chúc mọi điều tốt đẹp |  | Word Skills Intermediate |
 | 454 | all the same | dù sao đi nữa |  | Word Skills Intermediate/Advanced |
 | 455 | all the way | bằng mọi giá |  | TOEIC (Hackers) |
 | 456 | all things being equal | nếu mọi thứ khác không đổi |  | Word Skills Advanced |
 | 457 | all things considered | xét mọi mặt |  | Word Skills Advanced |
 | 458 | all walks of life | Mọi tầng lớp xã hội |  | TOEIC (Hackers) |
-| 459 | (all) for the best |  |  | Destination C1–C2 · collocation |
-| 460 | (all) the better for |  |  | Destination C1–C2 · collocation |
+| 459 | (all) for the best | rốt cuộc lại là điều tốt |  | Destination C1–C2 · collocation |
+| 460 | (all) the better for | càng tốt hơn nhờ |  | Destination C1–C2 · collocation |
 | 461 | all-out | Mọi nỗ lực |  | TOEIC (Hackers) |
 | 462 | all-time | mọi thời đại |  | Oxford 5000 · C1 · adj |
 | 463 | allegation | lời cáo buộc |  | Word Skills Advanced, Oxford 5000 · C1 · n |
@@ -509,7 +509,7 @@
 | 497 | alternate | thay phiên |  | TOEIC (Hackers), Word Skills Advanced |
 | 498 | alternative | Thay thế | /ɔːlˈtɜːrnətɪv/ | TOEIC (Hackers), IELTS · Energy, Word Skills Intermediate, Oxford 3000 · A2 · adj, n |
 | 499 | Alternative medicine | Y học thay thế | /ɔlˈtɜrnətɪv ˈmɛdɪsɪn/ | IELTS · Health |
-| 500 | alternative/complementary/ herbal medicine |  |  | Destination C1–C2 · collocation |
+| 500 | alternative/complementary/ herbal medicine | y học thay thế / bổ trợ / thảo dược |  | Destination C1–C2 · collocation |
 | 501 | alternatively | một sự lựa chọn |  | TOEIC (Hackers), Word Skills Advanced |
 | 502 | Alternatives | Sự lựa chọn khác; Giải pháp thay thế | /ɔːlˈtɜːrnətɪvz/ | IELTS · Advertising, IELTS · Environment |
 | 503 | although | mặc dù |  | Word Skills Intermediate, Oxford 3000 · A2 · conj |
@@ -549,15 +549,15 @@
 | 537 | Amusement parks | Công viên giải trí | /əˈmjuːzmənt pɑːrks/ | IELTS · City |
 | 538 | amusing | thú vị, buồn cười |  | Oxford 5000 · B2 · adj |
 | 539 | an | một (mạo từ, trước nguyên âm) |  | Oxford 3000 · A1 · indefinite article |
-| 540 | an act of God | (= an event such as a flood, lightning or an earthquake that is produced by natural forces, a…) |  | Destination C1–C2 · idiom |
-| 541 | an awful lot |  |  | Destination C1–C2 · collocation |
-| 542 | an example of |  |  | Destination C1–C2 · collocation |
+| 540 | an act of God | thiên tai, sự kiện bất khả kháng (= an event such as a flood, lightning or an earthquake that is produced by natural forces, a…) |  | Destination C1–C2 · idiom |
+| 541 | an awful lot | rất nhiều |  | Destination C1–C2 · collocation |
+| 542 | an example of | một ví dụ về |  | Destination C1–C2 · collocation |
 | 543 | an eye for an eye | ăn miếng trả miếng |  | Word Skills Advanced |
 | 544 | an eye for an eye and a tooth for a tooth | ăn miếng trả miếng |  | Word Skills Advanced |
 | 545 | an hour or so | khoảng một tiếng |  | Word Skills Basic |
-| 546 | an impulse to do |  |  | Destination C1–C2 · collocation |
-| 547 | an open book |  |  | Destination C1–C2 · collocation |
-| 548 | an understanding of |  |  | Destination C1–C2 · collocation |
+| 546 | an impulse to do | ý muốn bất chợt làm gì |  | Destination C1–C2 · collocation |
+| 547 | an open book | người / điều dễ hiểu, không giấu giếm |  | Destination C1–C2 · collocation |
+| 548 | an understanding of | sự hiểu biết về |  | Destination C1–C2 · collocation |
 | 549 | Analogous colors | Màu sắc tương tự | /əˈnæləgəs ˈkʌlərz/ | IELTS · Art |
 | 550 | analogy | sự tương tự |  | Oxford 5000 · C1 · n |
 | 551 | analyse | phân tích |  | Word Skills Advanced, Oxford 3000 · B1 · v |
@@ -612,10 +612,10 @@
 | 600 | anonymously | ẩn danh |  | Word Skills Advanced |
 | 601 | another | một … khác |  | Word Skills Basic, Oxford 3000 · A1 · det, pron |
 | 602 | answer | câu trả lời; trả lời |  | Oxford 3000 · A1 · n, v |
-| 603 | answer a need |  |  | Destination C1–C2 · collocation |
-| 604 | answer charges/criticisms |  |  | Destination C1–C2 · collocation |
-| 605 | answer sb's prayers |  |  | Destination C1–C2 · collocation |
-| 606 | answer the description of |  |  | Destination C1–C2 · collocation |
+| 603 | answer a need | đáp ứng nhu cầu |  | Destination C1–C2 · collocation |
+| 604 | answer charges/criticisms | đáp lại cáo buộc / chỉ trích |  | Destination C1–C2 · collocation |
+| 605 | answer sb's prayers | đúng như ai mong ước |  | Destination C1–C2 · collocation |
+| 606 | answer the description of | khớp với mô tả |  | Destination C1–C2 · collocation |
 | 607 | answer the phone | Anh cứ nói đi. |  | TOEIC (Hackers), Word Skills Basic |
 | 608 | answer to sb | chịu trách nhiệm trước |  | Destination C1–C2 · collocation |
 | 609 | Antagonist | Nhân vật phản diện | /ænˈtæɡənɪst/ | IELTS · Film |
@@ -646,16 +646,16 @@
 | 634 | Anxiety | Lo âu | /æŋˈzaɪəti/ | IELTS · Health, Oxford 5000 · B2 · n |
 | 635 | anxious | lo lắng |  | Oxford 3000 · B2 · adj |
 | 636 | any | bất kỳ; chút nào |  | Oxford 3000 · A1 · adv, det, pron |
-| 637 | any day now |  |  | Destination C1–C2 · collocation |
-| 638 | any day/moment/etc now |  |  | Destination C1–C2 · collocation |
-| 639 | any moment (now) |  |  | Destination C1–C2 · collocation |
+| 637 | any day now | nay mai thôi |  | Destination C1–C2 · collocation |
+| 638 | any day/moment/etc now | nay mai, sắp tới |  | Destination C1–C2 · collocation |
+| 639 | any moment (now) | bất cứ lúc nào |  | Destination C1–C2 · collocation |
 | 640 | anybody | bất kỳ ai |  | Oxford 3000 · A2 · pron |
 | 641 | anyhow | dù sao |  | Word Skills Advanced |
 | 642 | anymore | nữa không |  | TOEIC (Hackers), Oxford 3000 (Mỹ) · A2 · adv, Oxford 3000 · A2 · adv |
 | 643 | anyone | bất kỳ ai |  | Oxford 3000 · A1 · pron |
 | 644 | anything | bất cứ thứ gì |  | Oxford 3000 · A1 · pron |
 | 645 | anything else? | còn gì nữa không? |  | Word Skills Basic |
-| 646 | anything/nothing like |  |  | Destination C1–C2 · collocation |
+| 646 | anything/nothing like | chẳng giống chút nào |  | Destination C1–C2 · collocation |
 | 647 | anyway | dù sao thì; thôi |  | Word Skills Advanced, Oxford 3000 · A2 · adv |
 | 648 | anywhere | bất cứ đâu |  | Oxford 3000 · A2 · adv, pron |
 | 649 | apart | cách xa, riêng ra |  | Oxford 3000 · B1 · adv |
@@ -741,23 +741,23 @@
 | 729 | arguably | có thể nói là |  | Oxford 5000 · C1 · adv |
 | 730 | argue | tranh cãi |  | Word Skills Intermediate, Oxford 3000 · A2 · v |
 | 731 | argument | lý lẽ |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · A2 · n |
-| 732 | argument about/over |  |  | Destination C1–C2 · collocation |
-| 733 | argument for/against |  |  | Destination C1–C2 · collocation |
+| 732 | argument about/over | tranh cãi về |  | Destination C1–C2 · collocation |
+| 733 | argument for/against | lý lẽ ủng hộ / phản đối |  | Destination C1–C2 · collocation |
 | 734 | argumentative | tranh cãi |  | TOEIC (Hackers) |
 | 735 | Arid | Khô cằn, cằn cỗi | /ˈærɪd/ | IELTS · Weather |
 | 736 | arise | xuất hiện, nảy ra, nảy sinh ra |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B2 · v |
 | 737 | arm | cánh tay |  | Word Skills Basic, Oxford 3000 · A1 · n, v |
 | 738 | arm in arm | tay trong tay |  | TOEIC (Hackers) |
-| 739 | arm sb with |  |  | Destination C1–C2 · collocation |
-| 740 | arm yourself against |  |  | Destination C1–C2 · collocation |
+| 739 | arm sb with | trang bị cho ai |  | Destination C1–C2 · collocation |
+| 740 | arm yourself against | tự trang bị để chống lại |  | Destination C1–C2 · collocation |
 | 741 | armchair | ghế bành; Ghế có tay vịn | /ˈɑːrmˌtʃɛr/ | TOEIC (Hackers), IELTS · Housing and Architecture, Word Skills Basic |
 | 742 | armed | có vũ trang |  | Oxford 3000 · B2 · adj |
 | 743 | armed combat | giao tranh vũ trang |  | Word Skills Advanced |
 | 744 | armed forces | lực lượng vũ trang |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 745 | Armored vehicle | Xe bọc thép | /ˈɑːrmərd ˈviːɪkəl/ | IELTS · Weapons |
 | 746 | arms | cánh tay |  | Word Skills Advanced, Oxford 3000 · B2 · n |
-| 747 | arms control |  |  | Destination C1–C2 · collocation |
-| 748 | arms race |  |  | Destination C1–C2 · collocation |
+| 747 | arms control | kiểm soát vũ khí |  | Destination C1–C2 · collocation |
+| 748 | arms race | chạy đua vũ trang |  | Destination C1–C2 · collocation |
 | 749 | Army | Quân đội | /ˈɑː.mi/ | IELTS · History and Heritage, Word Skills Intermediate/Advanced, Oxford 3000 · A2 · n |
 | 750 | aroma | hương thơm |  | Word Skills Advanced |
 | 751 | Aromas | Mùi thơm | /əˈroʊməz/ | IELTS · Food and Drink |
@@ -790,15 +790,15 @@
 | 778 | Art education | Giáo dục nghệ thuật | /ɑːrt ˌɛdʒʊˈkeɪʃən/ | IELTS · Art |
 | 779 | Art exhibitions | Triển lãm nghệ thuật | /ɑːrt ˌɛksɪˈbɪʃənz/ | IELTS · City |
 | 780 | Art film | Phim nghệ thuật | /ɑːrt fɪlm/ | IELTS · Film |
-| 781 | art form |  |  | Destination C1–C2 · collocation |
+| 781 | art form | loại hình nghệ thuật |  | Destination C1–C2 · collocation |
 | 782 | art gallery | phòng trưng bày nghệ thuật |  | Word Skills Basic, Destination C1–C2 · collocation |
 | 783 | Art history | Lịch sử nghệ thuật | /ɑːrt ˈhɪstri/ | IELTS · Art, IELTS · History and Heritage |
-| 784 | art house |  |  | Destination C1–C2 · collocation |
+| 784 | art house | (phim / rạp) nghệ thuật |  | Destination C1–C2 · collocation |
 | 785 | Art movement | Phong trào nghệ thuật | /ɑːrt ˈmuːvmənt/ | IELTS · Art |
 | 786 | art museum | bảo tàng nghệ thuật |  | TOEIC (Hackers) |
-| 787 | art of doing |  |  | Destination C1–C2 · collocation |
+| 787 | art of doing | nghệ thuật làm gì |  | Destination C1–C2 · collocation |
 | 788 | Art therapy | Trị liệu nghệ thuật | /ɑːrt ˈθɛrəpi/ | IELTS · Art |
-| 789 | art to doing |  |  | Destination C1–C2 · collocation |
+| 789 | art to doing | có bí quyết để làm gì |  | Destination C1–C2 · collocation |
 | 790 | arthritic | bị viêm khớp |  | Word Skills Intermediate |
 | 791 | arthritis | viêm khớp |  | Word Skills Intermediate |
 | 792 | artichoke | atisô |  | Word Skills Intermediate/Advanced |
@@ -814,23 +814,23 @@
 | 802 | Artistic process | Quá trình nghệ thuật | /ɑːrˈtɪstɪk ˈprɑːsɛs/ | IELTS · Art |
 | 803 | Artwork | Tác phẩm nghệ thuật | /ˈɑːrtwɜːrk/ | IELTS · Art, Oxford 5000 · B2 · n |
 | 804 | as | như, khi, vì |  | Word Skills Intermediate/Advanced, Oxford 3000 · A1 · adv, conj, prep |
-| 805 | as a child |  |  | Destination C1–C2 · collocation |
+| 805 | as a child | khi còn nhỏ |  | Destination C1–C2 · collocation |
 | 806 | as a consequence | Hệ quả là… |  | Destination C1–C2 · collocation |
 | 807 | as a courtesy (= as a favor) | như một phép lịch sự (= như một đặc ân) |  | TOEIC (Hackers) |
 | 808 | as a favour | như một ân huệ |  | Word Skills Advanced |
 | 809 | as a matter of fact | thực tế là |  | Word Skills Advanced |
-| 810 | as a matter of fact/course/urgency |  |  | Destination C1–C2 · collocation |
+| 810 | as a matter of fact/course/urgency | thật ra / theo lẽ thường / khẩn cấp |  | Destination C1–C2 · collocation |
 | 811 | as a result | kết quả là |  | Word Skills Intermediate |
 | 812 | as a result of | đến như là kết quả của |  | TOEIC (Hackers) |
-| 813 | as a rule |  |  | Destination C1–C2 · collocation |
+| 813 | as a rule | theo lệ thường |  | Destination C1–C2 · collocation |
 | 814 | as an alternative | như một lựa chọn khác |  | Word Skills Intermediate |
 | 815 | as blind as a bat | mù tịt |  | Word Skills Advanced |
 | 816 | as deaf as a post | điếc đặc |  | Word Skills Advanced |
 | 817 | as dry asa bone | khô khốc |  | Word Skills Advanced |
-| 818 | as ever |  |  | Destination C1–C2 · collocation |
+| 818 | as ever | như mọi khi |  | Destination C1–C2 · collocation |
 | 819 | as far as I'm concerned | Đối với tôi thì… |  | Word Skills Intermediate |
 | 820 | as far as sth is concerned | về phần cái gì |  | Word Skills Advanced |
-| 821 | as follows |  |  | Destination C1–C2 · collocation |
+| 821 | as follows | như sau |  | Destination C1–C2 · collocation |
 | 822 | as for | còn về |  | Word Skills Advanced |
 | 823 | as if | Thật không thể tin được |  | TOEIC (Hackers) |
 | 824 | as it happens | tình cờ là |  | Destination C1–C2 · collocation |
@@ -845,14 +845,14 @@
 | 833 | as requested | như được yêu cầu |  | TOEIC (Hackers) |
 | 834 | as soon as possible | quá trình này càng sớm càng tốt. |  | TOEIC (Hackers) |
 | 835 | as strong as an ox | khỏe như trâu |  | Word Skills Advanced |
-| 836 | as the crow flies | (in a straight line (used for measuring distance)) |  | Destination C1–C2 · idiom |
+| 836 | as the crow flies | theo đường chim bay (in a straight line (used for measuring distance)) |  | Destination C1–C2 · idiom |
 | 837 | as thin as a rake | gầy như que củi |  | Word Skills Advanced |
 | 838 | as time went by | thời gian trôi qua |  | Word Skills Advanced |
 | 839 | as well | cũng |  | Word Skills Basic |
 | 840 | as white as a sheet | trắng bệch |  | Word Skills Advanced |
 | 841 | as you will see from my CV | như anh/chị thấy trong CV |  | Word Skills Advanced |
-| 842 | (as) large as life |  |  | Destination C1–C2 · collocation |
-| 843 | as/so long as |  |  | Destination C1–C2 · collocation |
+| 842 | (as) large as life | bằng xương bằng thịt |  | Destination C1–C2 · collocation |
+| 843 | as/so long as | miễn là |  | Destination C1–C2 · collocation |
 | 844 | asap | càng sớm càng tốt (= as soon as possible) |  | Word Skills Advanced |
 | 845 | ascend | tăng, tiến, đi lên, trèo lên |  | TOEIC (Hackers) |
 | 846 | ash | tro |  | Oxford 5000 · C1 · n |
@@ -863,14 +863,14 @@
 | 851 | aside from | ngoài ra, trừ ra |  | TOEIC (Hackers) |
 | 852 | ask | hỏi, nhờ |  | Oxford 3000 · A1 · v |
 | 853 | ask a favour | nhờ vả |  | Word Skills Advanced |
-| 854 | ask a lot too much (of sb) |  |  | Destination C1–C2 · collocation |
+| 854 | ask a lot too much (of sb) | đòi hỏi nhiều / quá nhiều (ở ai) |  | Destination C1–C2 · collocation |
 | 855 | ask after | hỏi thăm |  | Word Skills Advanced |
 | 856 | ask out | rủ đi chơi, hẹn hò (= invite someone to go with you to a cinema, restaurant, etc because you want to start a rom…) |  | Destination C1–C2 · phrasal verb |
-| 857 | ask sb a favour |  |  | Destination C1–C2 · collocation |
-| 858 | ask sb in |  |  | Destination C1–C2 · collocation |
-| 859 | ask sb over/round |  |  | Destination C1–C2 · collocation |
-| 860 | ask yourself sth |  |  | Destination C1–C2 · collocation |
-| 861 | asking for trouble/it/etc |  |  | Destination C1–C2 · collocation |
+| 857 | ask sb a favour | nhờ ai giúp |  | Destination C1–C2 · collocation |
+| 858 | ask sb in | mời ai vào nhà |  | Destination C1–C2 · collocation |
+| 859 | ask sb over/round | mời ai sang nhà chơi |  | Destination C1–C2 · collocation |
+| 860 | ask yourself sth | tự hỏi bản thân |  | Destination C1–C2 · collocation |
+| 861 | asking for trouble/it/etc | chuốc lấy rắc rối |  | Destination C1–C2 · collocation |
 | 862 | asleep | đang ngủ |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · adj |
 | 863 | asmall world | trái đất tròn (gặp nhau tình cờ) |  | Word Skills Advanced |
 | 864 | asparagus | măng tây |  | Word Skills Intermediate |
@@ -899,7 +899,7 @@
 | 887 | assistance | sự giúp đỡ |  | Word Skills Intermediate, Oxford 5000 · B2 · n |
 | 888 | assistant | trợ lý |  | Oxford 3000 · A2 · adj, n |
 | 889 | associate | liên kết; Liên kết, kết nối | /əˈsoʊʃieɪt/ | TOEIC (Hackers), IELTS · Entertainment and media, Oxford 3000 · B2 · v |
-| 890 | associate sth with |  |  | Destination C1–C2 · collocation |
+| 890 | associate sth with | liên tưởng cái gì với |  | Destination C1–C2 · collocation |
 | 891 | associated | liên quan |  | Oxford 3000 · B2 · adj |
 | 892 | associated with | liên quan đến |  | Word Skills Advanced |
 | 893 | Association | Liên kết | /əˌsoʊsiˈeɪʃən/ | IELTS · Advertising, Word Skills Advanced, Oxford 3000 · B2 · n |
@@ -925,12 +925,12 @@
 | 913 | Asymmetry | Không đối xứng | /eɪˈsɪmətri/ | IELTS · Art |
 | 914 | Asymptomatic | Không có triệu chứng | /ˌeɪsɪmptəˈmætɪk/ | IELTS · Covid |
 | 915 | at | ở, tại, lúc (= place; time) |  | Word Skills Basic, Oxford 3000 · A1 · prep |
-| 916 | at (some/great) length |  |  | Destination C1–C2 · collocation |
+| 916 | at (some/great) length | rất lâu, chi tiết |  | Destination C1–C2 · collocation |
 | 917 | at a discounted price | với mức giá chiết khấu |  | TOEIC (Hackers) |
 | 918 | at a fast pace | với tốc độ nhanh |  | TOEIC (Hackers) |
-| 919 | at a guess |  |  | Destination C1–C2 · collocation |
-| 920 | at a later/future date |  |  | Destination C1–C2 · collocation |
-| 921 | at a loose end | (with nothing in particular to do) |  | Destination C1–C2 · idiom |
+| 919 | at a guess | đoán chừng |  | Destination C1–C2 · collocation |
+| 920 | at a later/future date | vào một ngày sau này |  | Destination C1–C2 · collocation |
+| 921 | at a loose end | rảnh rỗi, không có việc gì làm (with nothing in particular to do) |  | Destination C1–C2 · idiom |
 | 922 | at a moment's Notice | ngay lập tức |  | Word Skills Advanced |
 | 923 | at a rapid rate | với tốc độ nhanh |  | TOEIC (Hackers) |
 | 924 | at a stretch | tại một thời điểm kéo dài |  | TOEIC (Hackers) |
@@ -939,53 +939,53 @@
 | 927 | at all costs | Bằng mọi giá |  | TOEIC (Hackers) |
 | 928 | at all times | "... luôn luôn." |  | TOEIC (Hackers) |
 | 929 | at an angle | nghiêng |  | Word Skills Advanced |
-| 930 | at an end |  |  | Destination C1–C2 · collocation |
+| 930 | at an end | đã kết thúc |  | Destination C1–C2 · collocation |
 | 931 | at any rate | dù sao đi nữa |  | Word Skills Advanced |
-| 932 | at best |  |  | Destination C1–C2 · collocation |
+| 932 | at best | cùng lắm, tốt nhất thì |  | Destination C1–C2 · collocation |
 | 933 | at first | lúc đầu |  | Word Skills Intermediate |
 | 934 | at full speed | hết tốc lực |  | TOEIC (Hackers) |
 | 935 | at home | ở nhà |  | Word Skills Intermediate/Advanced |
 | 936 | at large | Nhở nhơ ngoài vòng pháp luật |  | TOEIC (Hackers), Destination C1–C2 · collocation |
-| 937 | at lightning speed |  |  | Destination C1–C2 · collocation |
-| 938 | at long last |  |  | Destination C1–C2 · collocation |
+| 937 | at lightning speed | nhanh như chớp |  | Destination C1–C2 · collocation |
+| 938 | at long last | cuối cùng thì |  | Destination C1–C2 · collocation |
 | 939 | at no charge (= at no cost) | miễn phí (= miễn phí) |  | TOEIC (Hackers) |
 | 940 | at no extra charge | - Không thêm bất cứ phụ phí nào. |  | TOEIC (Hackers) |
 | 941 | at once | Ngay tức khắc |  | TOEIC (Hackers), Word Skills Advanced |
 | 942 | at one time | đã có thời |  | Word Skills Advanced |
 | 943 | at one’s disposal | tuỳ ý sử dụng |  | TOEIC (Hackers) |
 | 944 | at one’s request | theo yêu cầu của một người |  | TOEIC (Hackers) |
-| 945 | at play |  |  | Destination C1–C2 · collocation |
+| 945 | at play | đang chơi; đang tác động |  | Destination C1–C2 · collocation |
 | 946 | at random | ngẫu nhiên |  | Word Skills Advanced |
-| 947 | at rest |  |  | Destination C1–C2 · collocation |
-| 948 | at sb's disposal |  |  | Destination C1–C2 · collocation |
-| 949 | at short a moment's a few hours' notice |  |  | Destination C1–C2 · collocation |
+| 947 | at rest | đứng yên; yên nghỉ |  | Destination C1–C2 · collocation |
+| 948 | at sb's disposal | tuỳ ai sử dụng |  | Destination C1–C2 · collocation |
+| 949 | at short a moment's a few hours' notice | báo gấp, ngay lập tức, trước vài giờ |  | Destination C1–C2 · collocation |
 | 950 | at short notice | gấp, báo trước ít |  | Word Skills Advanced, Destination C1–C2 · collocation |
-| 951 | at some point |  |  | Destination C1–C2 · collocation |
+| 951 | at some point | vào lúc nào đó |  | Destination C1–C2 · collocation |
 | 952 | at stake | bị đe dọa, đang đặt cược |  | Word Skills Advanced |
-| 953 | at the bottom (of) |  |  | Destination C1–C2 · collocation |
+| 953 | at the bottom (of) | ở đáy; là nguyên nhân sâu xa (của) |  | Destination C1–C2 · collocation |
 | 954 | at the discretion of | tùy ý |  | TOEIC (Hackers) |
-| 955 | at the disposal of |  |  | Destination C1–C2 · collocation |
+| 955 | at the disposal of | thuộc quyền sử dụng của |  | Destination C1–C2 · collocation |
 | 956 | at the drop of a hat | ngay lập tức (= immediately or in a way that shows that you have no doubts about doing something) |  | Destination C1–C2 · idiom |
 | 957 | at the earliest | sớm nhất |  | TOEIC (Hackers) |
 | 958 | at the last minute | vào phút chót |  | TOEIC (Hackers), Word Skills Advanced |
 | 959 | at the latest | muộn nhất |  | TOEIC (Hackers) |
 | 960 | at the moment | lúc này, bây giờ |  | TOEIC (Hackers), Word Skills Basic, Destination C1–C2 · collocation |
-| 961 | at the risk of doing |  |  | Destination C1–C2 · collocation |
+| 961 | at the risk of doing | dù có thể bị (làm gì) |  | Destination C1–C2 · collocation |
 | 962 | at the same time | cùng một lúc |  | TOEIC (Hackers) |
-| 963 | at the top of |  |  | Destination C1–C2 · collocation |
+| 963 | at the top of | ở đầu, đỉnh |  | Destination C1–C2 · collocation |
 | 964 | at the very least | ít nhất |  | Word Skills Advanced |
 | 965 | at this point | tại thời điểm này. |  | TOEIC (Hackers) |
-| 966 | at this/that moment in time |  |  | Destination C1–C2 · collocation |
+| 966 | at this/that moment in time | vào thời điểm này / đó |  | Destination C1–C2 · collocation |
 | 967 | at work | có tác động, ảnh hưởng, phát huy tác dụng M |  | Destination C1–C2 · collocation |
-| 968 | at worst |  |  | Destination C1–C2 · collocation |
-| 969 | at your best |  |  | Destination C1–C2 · collocation |
+| 968 | at worst | tệ nhất thì |  | Destination C1–C2 · collocation |
+| 969 | at your best | ở phong độ tốt nhất |  | Destination C1–C2 · collocation |
 | 970 | at your leisure | lúc nào rảnh cũng được, thong thả |  | Destination C1–C2 · collocation |
-| 971 | at/behind the wheel |  |  | Destination C1–C2 · collocation |
-| 972 | at/by the (very) end (of) |  |  | Destination C1–C2 · collocation |
-| 973 | (at/by/from) the age of |  |  | Destination C1–C2 · collocation |
-| 974 | (at/from the) start of |  |  | Destination C1–C2 · collocation |
+| 971 | at/behind the wheel | đang lái xe |  | Destination C1–C2 · collocation |
+| 972 | at/by the (very) end (of) | vào / trước (tận) cuối |  | Destination C1–C2 · collocation |
+| 973 | (at/by/from) the age of | ở / trước / từ tuổi |  | Destination C1–C2 · collocation |
+| 974 | (at/from the) start of | (vào / từ) đầu |  | Destination C1–C2 · collocation |
 | 975 | at/in the end | cuối cùng |  | Word Skills Intermediate |
-| 976 | at/until all hours |  |  | Destination C1–C2 · collocation |
+| 976 | at/until all hours | vào / đến tận khuya |  | Destination C1–C2 · collocation |
 | 977 | atb | chúc mọi điều tốt đẹp (viết tắt) (= all the best) |  | Word Skills Advanced |
 | 978 | athlete | vận động viên | /ˈæθliːt/ | TOEIC (Hackers), IELTS · Sports and Equipments, Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 979 | Athlete monitoring | Giám sát vận động viên | /ˈæθliːt ˈmɑnətərɪŋ/ | IELTS · Sports and Equipments |
@@ -1076,7 +1076,7 @@
 | 1064 | awful | tồi tệ |  | Word Skills Basic, Oxford 3000 · A2 · adj |
 | 1065 | awfully | khủng khiếp |  | TOEIC (Hackers) |
 | 1066 | awkward | lúng túng, khó xử |  | Word Skills Advanced, Oxford 5000 · C1 · adj |
-| 1067 | awkward question |  |  | Destination C1–C2 · collocation |
+| 1067 | awkward question | câu hỏi khó xử |  | Destination C1–C2 · collocation |
 | 1068 | awning | tấm che bằng vải bạt |  | TOEIC (Hackers) |
 | 1069 | axe | cái rìu (Anh) |  | Word Skills Intermediate |
 | 1070 | B be contingent upon | B phụ thuộc vào |  | TOEIC (Hackers) |
@@ -1088,10 +1088,10 @@
 | 1076 | back away from | lùi lại |  | TOEIC (Hackers) |
 | 1077 | back down | nhượng bộ, lùi bước (= stop asking for something or stop saying that you will do something, because a lot of peop…) |  | Word Skills Advanced, Destination C1–C2 · phrasal verb |
 | 1078 | back injury | chấn thương lưng | /bæk ˈɪndʒəri/ | TOEIC (Hackers), IELTS · Accident |
-| 1079 | back into sth |  |  | Destination C1–C2 · collocation |
-| 1080 | back onto sth |  |  | Destination C1–C2 · collocation |
+| 1079 | back into sth | lùi (xe) vào; rút lui vào |  | Destination C1–C2 · collocation |
+| 1080 | back onto sth | (nhà) quay lưng ra phía |  | Destination C1–C2 · collocation |
 | 1081 | back order | Đơn hàng bù |  | TOEIC (Hackers) |
-| 1082 | back sb (to do) |  |  | Destination C1–C2 · collocation |
+| 1082 | back sb (to do) | ủng hộ ai; đặt cược ai (sẽ làm gì) |  | Destination C1–C2 · collocation |
 | 1083 | back sth up | sao lưu; ủng hộ |  | Word Skills Intermediate |
 | 1084 | back to front | ngược trước sau |  | Word Skills Advanced |
 | 1085 | back up | đảo ngược chiều (= give support to someone by telling other people that you agree with them backup (n)) (= make a copy of information on your computer backup (n)) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
@@ -1112,11 +1112,11 @@
 | 1100 | bacon | thịt xông khói |  | Word Skills Basic |
 | 1101 | bacteria | vi khuẩn |  | Oxford 3000 · B2 · n |
 | 1102 | bad | (thức ăn) hỏng |  | Oxford 3000 · A1 · adj |
-| 1103 | bad apple |  |  | Destination C1–C2 · collocation |
-| 1104 | bad at (doing) |  |  | Destination C1–C2 · collocation |
-| 1105 | bad blood |  |  | Destination C1–C2 · collocation |
+| 1103 | bad apple | con sâu làm rầu nồi canh |  | Destination C1–C2 · collocation |
+| 1104 | bad at (doing) | kém, dở (làm gì) |  | Destination C1–C2 · collocation |
+| 1105 | bad blood | mối thù hằn |  | Destination C1–C2 · collocation |
 | 1106 | bad diet | chế độ ăn uống không lành mạnh |  | Word Skills Intermediate |
-| 1107 | bad for |  |  | Destination C1–C2 · collocation |
+| 1107 | bad for | có hại cho |  | Destination C1–C2 · collocation |
 | 1108 | bad for you | có hại cho bạn |  | Word Skills Intermediate |
 | 1109 | bad run | chuỗi thất bại |  | Word Skills Advanced |
 | 1110 | bad-tempered | nóng tính |  | Word Skills Advanced |
@@ -1139,7 +1139,7 @@
 | 1127 | bakery | tiệm bánh |  | TOEIC (Hackers) |
 | 1128 | Baking | Nướng bánh | /beɪkɪŋ/ | IELTS · Food and Drink |
 | 1129 | balance | balance; Cân bằng; Cân đối | /ˈbæləns/ | TOEIC (Hackers), IELTS · Health, IELTS · Art, Oxford 3000 · B1 · n, v |
-| 1130 | balance between/of |  |  | Destination C1–C2 · collocation |
+| 1130 | balance between/of | sự cân bằng giữa |  | Destination C1–C2 · collocation |
 | 1131 | balanced | cân bằng |  | Oxford 5000 · B2 · adj |
 | 1132 | Balanced diet | Chế độ ăn uống cân đối | /ˈbælənst ˈdaɪət/ | IELTS · Health, Word Skills Intermediate |
 | 1133 | Balcony | Ban công | /ˈbælkəni/ | IELTS · Housing and Architecture, Word Skills Basic |
@@ -1197,7 +1197,7 @@
 | 1185 | basically | về cơ bản |  | Word Skills Advanced, Oxford 3000 · B2 · adv |
 | 1186 | basil | húng quế |  | Word Skills Intermediate |
 | 1187 | basis | nền tảng, cơ sở |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B1 · n |
-| 1188 | basis for |  |  | Destination C1–C2 · collocation |
+| 1188 | basis for | cơ sở cho |  | Destination C1–C2 · collocation |
 | 1189 | basket | giỏ (used in basketball) |  | Word Skills Basic, Oxford 5000 · B2 · n |
 | 1190 | Basketball | Bóng rổ | /bæskɪtˌbɔl/ | IELTS · Sports and Equipments, Word Skills Basic, Oxford 3000 · A2 · n |
 | 1191 | Basketball hoop | Bảng sau của bóng rổ | /bæskɪtbɔːl huːp/ | IELTS · Sports and Equipments |
@@ -1224,7 +1224,7 @@
 | 1212 | be admitted to | được nhận vào |  | TOEIC (Hackers) |
 | 1213 | be advised to do | được khuyên nên làm |  | TOEIC (Hackers) |
 | 1214 | be affiliated with | được liên kết với |  | TOEIC (Hackers) |
-| 1215 | be all/just talk |  |  | Destination C1–C2 · collocation |
+| 1215 | be all/just talk | chỉ được cái nói |  | Destination C1–C2 · collocation |
 | 1216 | be allowed to do | được cho phép hay không? |  | TOEIC (Hackers) |
 | 1217 | be amazed at | ngạc nhiên về |  | TOEIC (Hackers) |
 | 1218 | be anxious to do | nóng lòng muốn làm |  | TOEIC (Hackers) |
@@ -1235,7 +1235,7 @@
 | 1223 | be behind sb/sth | ủng hộ ai/cái gì |  | Word Skills Advanced |
 | 1224 | be booked up | hàng hóa đã đặt mua trước |  | TOEIC (Hackers) |
 | 1225 | be born | được sinh ra |  | Word Skills Basic |
-| 1226 | be born with a silver spoon in your mouth | (= have advantages because you come from a rich family) |  | Destination C1–C2 · idiom |
+| 1226 | be born with a silver spoon in your mouth | sinh ra trong nhung lụa, ngậm thìa vàng (= have advantages because you come from a rich family) |  | Destination C1–C2 · idiom |
 | 1227 | be bothered | bận tâm |  | Word Skills Intermediate |
 | 1228 | be bullied | bị bắt nạt |  | Word Skills Advanced |
 | 1229 | be carried away | bị cuốn theo |  | Word Skills Advanced |
@@ -1316,7 +1316,7 @@
 | 1304 | be promoted | được thăng chức |  | Word Skills Advanced |
 | 1305 | be put out | phật ý |  | Word Skills Advanced |
 | 1306 | be qualified for | đủ điều kiện để |  | TOEIC (Hackers) |
-| 1307 | be quick/slow off the mark |  |  | Destination C1–C2 · collocation |
+| 1307 | be quick/slow off the mark | nhanh / chậm chân |  | Destination C1–C2 · collocation |
 | 1308 | be reconciled with | làm lành với |  | Word Skills Advanced |
 | 1309 | be referred to sb | được chuyển đến ai |  | Word Skills Advanced |
 | 1310 | be related to | có liên quan đến |  | TOEIC (Hackers) |
@@ -1372,8 +1372,8 @@
 | 1360 | because | bởi vì |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · conj |
 | 1361 | because of | bởi vì, do |  | Word Skills Basic, Oxford 3000 · A1 · prep |
 | 1362 | become | trở thành |  | Word Skills Basic, Oxford 3000 · A1 · v |
-| 1363 | become a reality |  |  | Destination C1–C2 · collocation |
-| 1364 | become law |  |  | Destination C1–C2 · collocation |
+| 1363 | become a reality | trở thành hiện thực |  | Destination C1–C2 · collocation |
+| 1364 | become law | trở thành luật |  | Destination C1–C2 · collocation |
 | 1365 | Bed | Giường | /bɛd/ | IELTS · Housing and Architecture, Word Skills Basic, Oxford 3000 · A1 · n |
 | 1366 | Bed and Breakfast (B&B) | Chỗ ở kèm bữa sáng | /bɛd ænd ˈbrɛkfəst/ | IELTS · Tourism |
 | 1367 | Bedroom | Phòng ngủ | /ˈbɛdruːm/ | IELTS · Housing and Architecture, Word Skills Basic, Oxford 3000 · A1 · n |
@@ -1386,10 +1386,10 @@
 | 1374 | beetroot | củ dền |  | Word Skills Intermediate/Advanced |
 | 1375 | before | trước, trước khi |  | Word Skills Basic, Oxford 3000 · A1 · adv, conj, prep |
 | 1376 | before sb's time | trước thời của ai |  | Word Skills Advanced |
-| 1377 | before your time | (used for saying that something happened or existed before you were born or before you live…) |  | Destination C1–C2 · idiom |
+| 1377 | before your time | trước khi bạn ra đời (used for saying that something happened or existed before you were born or before you live…) |  | Destination C1–C2 · idiom |
 | 1378 | beforehand | trước đó |  | Word Skills Advanced |
 | 1379 | beg | xin (đồ ăn) |  | Word Skills Intermediate, Oxford 3000 · B2 · v |
-| 1380 | beg the question |  |  | Destination C1–C2 · collocation |
+| 1380 | beg the question | đặt ra câu hỏi; lập luận vòng vo |  | Destination C1–C2 · collocation |
 | 1381 | begin | bắt đầu, khởi đầu |  | TOEIC (Hackers), Oxford 3000 · A1 · v |
 | 1382 | beginning | phần đầu, lúc bắt đầu, lúc khởi đầu |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · n |
 | 1383 | behalf | thay mặt |  | Oxford 5000 · C1 · n |
@@ -1397,7 +1397,7 @@
 | 1385 | behavior | hành vi |  | Oxford 3000 (Mỹ) · A2 · n |
 | 1386 | behavioral | thuộc hành vi |  | Oxford 5000 (Mỹ) · C1 · adj |
 | 1387 | behaviour | hành vi, cách cư xử |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
-| 1388 | behaviour towards |  |  | Destination C1–C2 · collocation |
+| 1388 | behaviour towards | cách cư xử đối với |  | Destination C1–C2 · collocation |
 | 1389 | behind | phía sau |  | Word Skills Basic, Oxford 3000 · A1 · adv, prep |
 | 1390 | behind closed doors | kín đáo/ bí mật/ riêng tư |  | Word Skills Advanced |
 | 1391 | behind sb's back | sau lưng ai |  | Word Skills Advanced |
@@ -1407,7 +1407,7 @@
 | 1395 | being | sinh vật; sự tồn tại |  | Oxford 3000 · B2 · n |
 | 1396 | belatedly | muộn màng |  | TOEIC (Hackers) |
 | 1397 | belief | lòng tin |  | TOEIC (Hackers), Oxford 3000 · B1 · n |
-| 1398 | belief in/that |  |  | Destination C1–C2 · collocation |
+| 1398 | belief in/that | niềm tin vào / rằng |  | Destination C1–C2 · collocation |
 | 1399 | Beliefs | Niềm tin | /bɪˈliːfs/ | IELTS · Culture |
 | 1400 | believe | tin |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · v |
 | 1401 | believe it or not | tin hay không thì |  | Word Skills Advanced |
@@ -1423,10 +1423,10 @@
 | 1411 | benchmark | đo hiệu năng chuẩn |  | Oxford 5000 · C1 · n |
 | 1412 | bend | cúi, gập người |  | Oxford 3000 · B1 · n, v |
 | 1413 | bend over | Cúi xuống. |  | TOEIC (Hackers) |
-| 1414 | bend sth into (shape/a circle/etc) |  |  | Destination C1–C2 · collocation |
+| 1414 | bend sth into (shape/a circle/etc) | uốn cái gì thành (hình / vòng tròn) |  | Destination C1–C2 · collocation |
 | 1415 | bending | sự uốn cong, cúi người |  | Word Skills Advanced |
 | 1416 | beneath | bên dưới |  | Word Skills Intermediate, Oxford 5000 · C1 · prep |
-| 1417 | beneath/under the surface |  |  | Destination C1–C2 · collocation |
+| 1417 | beneath/under the surface | bên dưới bề mặt, ẩn sâu |  | Destination C1–C2 · collocation |
 | 1418 | beneficial | có lợi |  | TOEIC (Hackers), Oxford 5000 · B2 · adj |
 | 1419 | beneficial effect | tác dụng có lợi |  | Word Skills Advanced |
 | 1420 | beneficiary | người thụ hưởng |  | Oxford 5000 · C1 · n |
@@ -1446,29 +1446,29 @@
 | 1434 | best-selling author | tác giả bán chạy nhất |  | TOEIC (Hackers) |
 | 1435 | best/closest friend | bạn thân nhất |  | Word Skills Basic |
 | 1436 | bet | cá cược; chắc chắn (I bet) |  | Oxford 3000 · B2 · n, v |
-| 1437 | bet (sth) on |  |  | Destination C1–C2 · collocation |
+| 1437 | bet (sth) on | đặt cược (cái gì) vào |  | Destination C1–C2 · collocation |
 | 1438 | betieve it or not | tin hay không |  | TOEIC (Hackers) |
 | 1439 | betray | phản bội |  | Word Skills Advanced, Oxford 5000 · C1 · v |
 | 1440 | betrayal | sự phản bội |  | Word Skills Advanced |
 | 1441 | better | tốt hơn |  | Oxford 3000 · A1 · adj, adv, n |
-| 1442 | better half |  |  | Destination C1–C2 · collocation |
+| 1442 | better half | nửa kia (vợ / chồng) |  | Destination C1–C2 · collocation |
 | 1443 | better late than never | muộn còn hơn không |  | Word Skills Advanced |
 | 1444 | better luck next time | Chúc may mắn lần sau |  | Destination C1–C2 · collocation |
-| 1445 | better off |  |  | Destination C1–C2 · collocation |
+| 1445 | better off | khá giả hơn; tốt hơn nếu |  | Destination C1–C2 · collocation |
 | 1446 | better safe than sorry | cẩn tắc vô áy náy |  | Word Skills Advanced |
 | 1447 | better still | tốt hơn nữa |  | Word Skills Advanced |
 | 1448 | better than nothing | Còn hơn không có gì |  | Destination C1–C2 · collocation |
-| 1449 | better yet |  |  | Destination C1–C2 · collocation |
+| 1449 | better yet | tốt hơn nữa là |  | Destination C1–C2 · collocation |
 | 1450 | between | ở giữa |  | Word Skills Basic, Oxford 3000 · A1 · adv, prep |
 | 1451 | beverage | đồ uống |  | TOEIC (Hackers), Oxford 5000 (Mỹ) · C1 · n |
 | 1452 | beware | ..hãy cẩn thận. |  | TOEIC (Hackers), Word Skills Intermediate |
 | 1453 | bewiidering | đang cân nhắc |  | TOEIC (Hackers) |
 | 1454 | beyond | vượt quá, bên kia |  | Word Skills Intermediate, Oxford 3000 · B2 · adv, prep |
-| 1455 | beyond (any) doubt |  |  | Destination C1–C2 · collocation |
-| 1456 | beyond belief |  |  | Destination C1–C2 · collocation |
-| 1457 | beyond question |  |  | Destination C1–C2 · collocation |
-| 1458 | beyond sb's power |  |  | Destination C1–C2 · collocation |
-| 1459 | beyond your wildest dreams |  |  | Destination C1–C2 · collocation |
+| 1455 | beyond (any) doubt | chắc chắn, không còn nghi ngờ gì |  | Destination C1–C2 · collocation |
+| 1456 | beyond belief | khó tin, không thể tin nổi |  | Destination C1–C2 · collocation |
+| 1457 | beyond question | chắc chắn |  | Destination C1–C2 · collocation |
+| 1458 | beyond sb's power | vượt quá khả năng của ai |  | Destination C1–C2 · collocation |
+| 1459 | beyond your wildest dreams | ngoài sức tưởng tượng |  | Destination C1–C2 · collocation |
 | 1460 | bfn | tạm biệt (viết tắt "bye for now") (= bye for now) |  | Word Skills Advanced |
 | 1461 | biannual | sáu tháng một lần |  | TOEIC (Hackers) |
 | 1462 | bias | thành kiến |  | Word Skills Advanced, Oxford 5000 · B2 · n |
@@ -1481,17 +1481,17 @@
 | 1469 | bidet | bồn rửa vệ sinh (bidet) |  | Word Skills Basic |
 | 1470 | big | Mắt to | /bɪɡ/ | Word Skills Basic, Oxford 3000 · A1 · adj, IELTS · Appearance |
 | 1471 | Big Bang | vụ nổ Big Bang |  | Destination C1–C2 · collocation |
-| 1472 | big business |  |  | Destination C1–C2 · collocation |
+| 1472 | big business | doanh nghiệp lớn; chuyện làm ăn lớn |  | Destination C1–C2 · collocation |
 | 1473 | big chance | cơ hội lớn |  | Word Skills Advanced |
 | 1474 | Big data | Dữ liệu lớn | /bɪɡ ˈdeɪtə/ | IELTS · Technology |
 | 1475 | big deal | Có gì to tát đâu. |  | Destination C1–C2 · collocation |
-| 1476 | big game |  |  | Destination C1–C2 · collocation |
-| 1477 | big money |  |  | Destination C1–C2 · collocation |
-| 1478 | big mouth | (used as a criticism of someone when they say things they should not) |  | Destination C1–C2 · idiom |
+| 1476 | big game | thú săn lớn |  | Destination C1–C2 · collocation |
+| 1477 | big money | tiền lớn |  | Destination C1–C2 · collocation |
+| 1478 | big mouth | người nhiều chuyện, không giữ mồm (used as a criticism of someone when they say things they should not) |  | Destination C1–C2 · idiom |
 | 1479 | big name | nổi tiếng, quan trọng |  | Destination C1–C2 · collocation |
-| 1480 | big of sb (to do) |  |  | Destination C1–C2 · collocation |
+| 1480 | big of sb (to do) | ai đó thật rộng lượng (khi làm gì) |  | Destination C1–C2 · collocation |
 | 1481 | big on | rất yêu thích |  | Destination C1–C2 · collocation |
-| 1482 | bigger/better/etc than ever |  |  | Destination C1–C2 · collocation |
+| 1482 | bigger/better/etc than ever | to hơn / tốt hơn bao giờ hết |  | Destination C1–C2 · collocation |
 | 1483 | bigoted | cố chấp |  | Word Skills Advanced |
 | 1484 | bike | xe đạp |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A1 · n |
 | 1485 | Biking | Đạp xe | /ˈbaɪ.kɪŋ/ | IELTS · Tourism |
@@ -1549,7 +1549,7 @@
 | 1537 | black | đen |  | Word Skills Basic, Oxford 3000 · A1 · adj, n |
 | 1538 | black coffee | cà phê đen |  | Word Skills Basic |
 | 1539 | Black hole | Lỗ đen | /blæk hoʊl/ | IELTS · Science |
-| 1540 | black out | (= make a place dark by turning off all the lights, for example so that the enemy cannot see …) (= suddenly become unconscious) |  | Destination C1–C2 · phrasal verb |
+| 1540 | black out | tắt hết đèn, làm tối om; ngất đi (= make a place dark by turning off all the lights, for example so that the enemy cannot see …) (= suddenly become unconscious) |  | Destination C1–C2 · phrasal verb |
 | 1541 | Blackmail | Tống tiền | /blækˌmeɪl/ | IELTS · Crime |
 | 1542 | blackout | Rồi không còn gì nữa. |  | TOEIC (Hackers) |
 | 1543 | blade | cánh (quạt); lưỡi dao |  | Oxford 5000 · C1 · n |
@@ -1566,7 +1566,7 @@
 | 1554 | blemish | nhược điểm |  | TOEIC (Hackers) |
 | 1555 | Blemish-free | Không có vết nám, tàn nhang | /ˈblɛmɪʃ-friː/ | IELTS · Appearance |
 | 1556 | blend | vật pha trộn |  | TOEIC (Hackers), Oxford 5000 · C1 · n, v |
-| 1557 | blend in | (= if someone or something blends in, they are similar to the other people, objects, building…) |  | Destination C1–C2 · phrasal verb |
+| 1557 | blend in | hoà lẫn, hoà nhập (không nổi bật) (= if someone or something blends in, they are similar to the other people, objects, building…) |  | Destination C1–C2 · phrasal verb |
 | 1558 | Blended family | Gia đình lai | /blɛndɪd ˈfæməli/ | IELTS · Family and Relationships |
 | 1559 | Blended family challenges | Thách thức của gia đình lai | /blɛndɪd ˈfæməli ˈʧælɪnʤɪz/ | IELTS · Family and Relationships |
 | 1560 | Blending | Trộn màu | /ˈblɛndɪŋ/ | IELTS · Art |
@@ -1579,7 +1579,7 @@
 | 1567 | Blizzard | Bão tuyết | /ˈblɪzərd/ | IELTS · Weather |
 | 1568 | block | chặn |  | Word Skills Intermediate, Oxford 3000 · B1 · n, v |
 | 1569 | block of flats | tòa chung cư (Anh) |  | Word Skills Basic, Destination C1–C2 · collocation |
-| 1570 | block sb's way |  |  | Destination C1–C2 · collocation |
+| 1570 | block sb's way | chặn đường ai |  | Destination C1–C2 · collocation |
 | 1571 | block spam | chặn thư rác |  | Word Skills Advanced |
 | 1572 | Blockbuster | Phim bom tấn | /ˈblɑːkˌbʌstər/ | IELTS · Entertainment and media, IELTS · Film |
 | 1573 | blog | blog |  | Oxford 3000 · A1 · n |
@@ -1592,7 +1592,7 @@
 | 1580 | Blood sugar | Đường huyết | /blʌd ˈʃʊɡər/ | IELTS · Health |
 | 1581 | Blood test | Xét nghiệm máu | /blʌd tɛst/ | IELTS · Health |
 | 1582 | blossom | hoa (cây ăn quả) |  | Word Skills Intermediate |
-| 1583 | blot on the landscape | (= something that makes a place look less attractive, for example an ugly building) |  | Destination C1–C2 · idiom |
+| 1583 | blot on the landscape | thứ làm xấu cảnh quan (= something that makes a place look less attractive, for example an ugly building) |  | Destination C1–C2 · idiom |
 | 1584 | Blouse | Áo blouse | /blaʊs/ | IELTS · Fashion, Word Skills Intermediate |
 | 1585 | Blow | Đòn, cú đánh | /bloʊ/ | IELTS · Accident, Word Skills Basic/Advanced, Oxford 3000 · A2 · n, v |
 | 1586 | blow sth out of proportion | thổi phồng |  | Word Skills Advanced |
@@ -1605,13 +1605,13 @@
 | 1593 | Blunt | Cùn, không sắc | /blʌnt/ | IELTS · Animal, Word Skills Advanced |
 | 1594 | blurred vision | mắt nhìn mờ |  | Word Skills Advanced |
 | 1595 | blurry | cảnh mờ; dáng mập mờ; trạng thái mập mờ |  | TOEIC (Hackers) |
-| 1596 | blurt out | (= say something suddenly and without thinking about the effect it will have, usually because…) |  | Destination C1–C2 · phrasal verb |
+| 1596 | blurt out | buột miệng nói ra (= say something suddenly and without thinking about the effect it will have, usually because…) |  | Destination C1–C2 · phrasal verb |
 | 1597 | board | tấm ván |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A2 · n, v |
 | 1598 | board a flight | lên chuyến bay |  | TOEIC (Hackers) |
 | 1599 | board meeting | hội nghị ban giám đốc |  | TOEIC (Hackers) |
 | 1600 | board of directors | hội đồng quản trị |  | TOEIC (Hackers) |
 | 1601 | board pen | bút viết bảng |  | Word Skills Basic |
-| 1602 | board up | (= cover a window or door with wooden boards) |  | Destination C1–C2 · phrasal verb |
+| 1602 | board up | đóng ván bịt (cửa sổ, cửa ra vào) (= cover a window or door with wooden boards) |  | Destination C1–C2 · phrasal verb |
 | 1603 | boarding | sự lên tàu/máy bay |  | Word Skills Basic |
 | 1604 | boarding card | thẻ lên máy bay |  | Word Skills Basic |
 | 1605 | boarding gate | cổng lên máy bay |  | TOEIC (Hackers) |
@@ -1637,7 +1637,7 @@
 | 1625 | bolt | chốt cửa |  | Word Skills Advanced |
 | 1626 | Bomb | Bom | /bɒm/ | IELTS · Weapons, Word Skills Intermediate, Oxford 3000 · B1 · n, v |
 | 1627 | bomb scare | báo động có bom |  | Word Skills Intermediate |
-| 1628 | bomb threat |  |  | Destination C1–C2 · collocation |
+| 1628 | bomb threat | đe doạ đánh bom |  | Destination C1–C2 · collocation |
 | 1629 | Bombing | Sự ném bom, sự đánh bom | /ˈbɑmɪŋ/ | IELTS · History and Heritage, Oxford 5000 · B2 · n |
 | 1630 | bond | nối; Mối liên kết | /bɒnd/ | TOEIC (Hackers), IELTS · Family and Relationships, Word Skills Advanced, Oxford 3000 · B2 · n |
 | 1631 | bone | xương |  | Word Skills Intermediate/Advanced, Oxford 3000 · A2 · n |
@@ -1647,7 +1647,7 @@
 | 1635 | bonus | tiền thưởng | /ˈboʊ.nəs/ | TOEIC (Hackers), IELTS · Employment, Word Skills Intermediate/Advanced, Oxford 5000 · C1 · n |
 | 1636 | Booby trap | Bẫy | /ˈbuːbi træp/ | IELTS · Weapons |
 | 1637 | book | sách; ghi chép |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A1 · n, v |
-| 1638 | book about/on |  |  | Destination C1–C2 · collocation |
+| 1638 | book about/on | sách về |  | Destination C1–C2 · collocation |
 | 1639 | bookcase | Kệ sách |  | TOEIC (Hackers) |
 | 1640 | booking | việc mua vé trước |  | TOEIC (Hackers), Oxford 5000 · B2 · n |
 | 1641 | bookkeeper | người giữ sổ sách |  | TOEIC (Hackers) |
@@ -1670,10 +1670,10 @@
 | 1658 | boring | nhàm chán |  | Word Skills Basic/Advanced, Oxford 3000 · A1 · adj |
 | 1659 | born | sinh ra |  | Oxford 3000 · A1 · v |
 | 1660 | born and bred | sinh ra và lớn lên |  | Destination C1–C2 · collocation |
-| 1661 | born into |  |  | Destination C1–C2 · collocation |
-| 1662 | born of |  |  | Destination C1–C2 · collocation |
-| 1663 | born on/in |  |  | Destination C1–C2 · collocation |
-| 1664 | born to do |  |  | Destination C1–C2 · collocation |
+| 1661 | born into | sinh ra trong (gia đình) |  | Destination C1–C2 · collocation |
+| 1662 | born of | sinh ra từ, bắt nguồn từ |  | Destination C1–C2 · collocation |
+| 1663 | born on/in | sinh vào (ngày / năm / nơi) |  | Destination C1–C2 · collocation |
+| 1664 | born to do | sinh ra để làm |  | Destination C1–C2 · collocation |
 | 1665 | borrow | vay, mượn |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · v |
 | 1666 | boss | sếp |  | Word Skills Basic, Oxford 3000 · A2 · n |
 | 1667 | botanical | Thực vật học |  | TOEIC (Hackers) |
@@ -1714,7 +1714,7 @@
 | 1702 | bracket | dấu ngoặc; nhóm (thu nhập, tuổi) |  | Word Skills Advanced |
 | 1703 | brackets | dấu ngoặc |  | Word Skills Intermediate |
 | 1704 | brain | não |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
-| 1705 | brainchild (of) |  |  | Destination C1–C2 · collocation |
+| 1705 | brainchild (of) | đứa con tinh thần (của) |  | Destination C1–C2 · collocation |
 | 1706 | Braise | Kho tiêu | /breɪz/ | IELTS · Food and Drink, Word Skills Advanced |
 | 1707 | Brake | Phanh | /breɪk/ | IELTS · Accident, Word Skills Intermediate, Oxford 5000 · B2 · n, v |
 | 1708 | Brake failure | Hỏng hệ thống phanh | /breɪk ˈfeɪljər/ | IELTS · Accident |
@@ -1737,7 +1737,7 @@
 | 1725 | bread | bánh mì |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 1726 | Breadwinner | Người kiếm tiền nuôi gia đình | /brɛdˌwɪnər/ | IELTS · Family and Relationships, Word Skills Advanced |
 | 1727 | Break | Giờ nghỉ | /breɪk/ | IELTS · Employment, Word Skills Basic/Advanced, Oxford 3000 · A1 · n, v |
-| 1728 | break a habit |  |  | Destination C1–C2 · collocation |
+| 1728 | break a habit | bỏ một thói quen |  | Destination C1–C2 · collocation |
 | 1729 | break a record | phá kỷ lục |  | Word Skills Intermediate |
 | 1730 | break down | tháo gỡ (= divide something such as a total amount into separate parts breakdown (n)) |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Destination C1–C2 · phrasal verb |
 | 1731 | break even | hòa vốn (= if a person or business breaks even, they neither make a profit nor lose money) |  | Word Skills Intermediate, Destination C1–C2 · idiom |
@@ -1747,13 +1747,13 @@
 | 1735 | break out | bùng nổ (chiến tranh, dịch); vượt ngục; nổi mẩn |  | Word Skills Intermediate/Advanced |
 | 1736 | break the deadlock | phá vỡ bế tắc |  | Word Skills Advanced |
 | 1737 | break the law | phạm pháp |  | Word Skills Intermediate |
-| 1738 | break the mould | (= change a situation by doing something that is very different from what most people usually…) |  | Destination C1–C2 · idiom |
+| 1738 | break the mould | phá vỡ khuôn mẫu, tạo đột phá (= change a situation by doing something that is very different from what most people usually…) |  | Destination C1–C2 · idiom |
 | 1739 | break up | chia tay; vỡ ra (= break something to make smaller pieces) (= if a meeting or other event breaks up, or if you break it up, it ends and people leave) (= if two people break up, they end their relationship) |  | Word Skills Advanced, Destination C1–C2 · phrasal verb |
-| 1740 | break with tradition |  |  | Destination C1–C2 · collocation |
+| 1740 | break with tradition | phá bỏ truyền thống |  | Destination C1–C2 · collocation |
 | 1741 | break-even point | Break-Even Point |  | TOEIC (Hackers) |
 | 1742 | break-up | sự chia tay |  | Word Skills Advanced |
-| 1743 | break/bend/follow the rules |  |  | Destination C1–C2 · collocation |
-| 1744 | break/follow/uphold the law |  |  | Destination C1–C2 · collocation |
+| 1743 | break/bend/follow the rules | phá / lách / theo luật |  | Destination C1–C2 · collocation |
+| 1744 | break/follow/uphold the law | vi phạm / tuân thủ / bảo vệ pháp luật |  | Destination C1–C2 · collocation |
 | 1745 | breakage | sự bể vỡ |  | TOEIC (Hackers) |
 | 1746 | breakdown | sự đổ vỡ; hỏng hóc |  | Word Skills Advanced, Oxford 5000 · C1 · n |
 | 1747 | breakfast | bữa sáng |  | Word Skills Basic, Oxford 3000 · A1 · n |
@@ -1774,8 +1774,8 @@
 | 1762 | bribe | hối lộ |  | Word Skills Advanced |
 | 1763 | Bribery | Hối lộ | /braɪbəri/ | IELTS · Crime, Word Skills Advanced |
 | 1764 | brick | gạch |  | Word Skills Intermediate, Oxford 5000 · B2 · n |
-| 1765 | brick wall |  |  | Destination C1–C2 · collocation |
-| 1766 | bricks and mortar |  |  | Destination C1–C2 · collocation |
+| 1765 | brick wall | bức tường gạch; ngõ cụt |  | Destination C1–C2 · collocation |
+| 1766 | bricks and mortar | nhà cửa, bất động sản; cửa hàng truyền thống |  | Destination C1–C2 · collocation |
 | 1767 | bride | cô dâu |  | Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 1768 | bridesmaid | phù dâu |  | Word Skills Intermediate |
 | 1769 | Bridge | Cầu; Đoạn gần cuối bài hát | /brɪdʒ/ | IELTS · City, IELTS · Music, IELTS · Housing and Architecture, Word Skills Basic/Intermediate, Oxford 3000 · A2 · n |
@@ -1785,7 +1785,7 @@
 | 1773 | briefly | ngắn gọn |  | Word Skills Advanced, Oxford 5000 · B2 · adv |
 | 1774 | bright | sáng; thông minh |  | Word Skills Intermediate, Oxford 3000 · A2 · adj |
 | 1775 | bright and cheerful | tươi sáng vui vẻ |  | Word Skills Advanced |
-| 1776 | brighten up | (= if the weather brightens up, it becomes sunnier) (= start looking or feeling happier) (= start to have more colour or light, give something more colour or light) |  | Destination C1–C2 · phrasal verb |
+| 1776 | brighten up | (trời) hửng nắng; vui lên; làm sáng sủa, tươi tắn hơn (= if the weather brightens up, it becomes sunnier) (= start looking or feeling happier) (= start to have more colour or light, give something more colour or light) |  | Destination C1–C2 · phrasal verb |
 | 1777 | brightness | độ sáng |  | Word Skills Intermediate |
 | 1778 | brilliant | xuất sắc |  | Word Skills Intermediate/Advanced, Oxford 3000 · A2 · adj |
 | 1779 | bring | mang, cầm , xách lại |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · v |
@@ -1797,20 +1797,20 @@
 | 1785 | bring sb somewhere | đưa ai đến đâu |  | Word Skills Advanced |
 | 1786 | bring sb up | nuôi dạy ai |  | Word Skills Intermediate |
 | 1787 | bring sth about | gây ra |  | Word Skills Advanced |
-| 1788 | bring sth to a conclusion |  |  | Destination C1–C2 · collocation |
-| 1789 | bring sth to an end |  |  | Destination C1–C2 · collocation |
-| 1790 | bring sth to life |  |  | Destination C1–C2 · collocation |
-| 1791 | bring sth to sb's notice |  |  | Destination C1–C2 · collocation |
+| 1788 | bring sth to a conclusion | kết thúc việc gì |  | Destination C1–C2 · collocation |
+| 1789 | bring sth to an end | chấm dứt việc gì |  | Destination C1–C2 · collocation |
+| 1790 | bring sth to life | làm cho sinh động |  | Destination C1–C2 · collocation |
+| 1791 | bring sth to sb's notice | làm ai chú ý đến điều gì |  | Destination C1–C2 · collocation |
 | 1792 | bring sth up | nêu ra; nôn ra |  | Word Skills Advanced |
-| 1793 | bring to mind |  |  | Destination C1–C2 · collocation |
+| 1793 | bring to mind | gợi nhớ |  | Destination C1–C2 · collocation |
 | 1794 | bring together | tập hợp lại với nhau (= create a situation in which people meet and do something together, especially when they wo…) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
 | 1795 | bring up | Mang lên Jake |  | TOEIC (Hackers) |
-| 1796 | bring up get onto a subject |  |  | Destination C1–C2 · collocation |
-| 1797 | bring you luck |  |  | Destination C1–C2 · collocation |
+| 1796 | bring up get onto a subject | nêu / chuyển sang một chủ đề |  | Destination C1–C2 · collocation |
+| 1797 | bring you luck | mang lại may mắn |  | Destination C1–C2 · collocation |
 | 1798 | Brink of extinction | Bờ vực tuyệt chủng | /brɪŋk ʌv ɪkˈstɪŋkʃən/ | IELTS · Animal |
 | 1799 | brisk | sủi bọt |  | TOEIC (Hackers) |
 | 1800 | Britain | nước Anh |  | Word Skills Basic |
-| 1801 | British subject |  |  | Destination C1–C2 · collocation |
+| 1801 | British subject | công dân Anh |  | Destination C1–C2 · collocation |
 | 1802 | broad | rộng |  | Oxford 3000 · B2 · adj |
 | 1803 | broad shoulders | vai rộng |  | Word Skills Intermediate |
 | 1804 | broad-minded | cởi mở |  | Word Skills Advanced |
@@ -1820,7 +1820,7 @@
 | 1808 | broaden | mở rộng |  | TOEIC (Hackers) |
 | 1809 | broadly | rộng rãi |  | TOEIC (Hackers), Oxford 5000 · B2 · adv |
 | 1810 | broadly speaking | nói chung |  | Word Skills Advanced |
-| 1811 | broadly/generally speaking |  |  | Destination C1–C2 · collocation |
+| 1811 | broadly/generally speaking | nói chung |  | Destination C1–C2 · collocation |
 | 1812 | broadsheet | báo khổ lớn (báo chính luận) |  | Word Skills Advanced |
 | 1813 | broccoli | bông cải xanh |  | Word Skills Intermediate |
 | 1814 | brochure | Tài liệu |  | TOEIC (Hackers) |
@@ -1839,7 +1839,7 @@
 | 1827 | bruised | bị bầm |  | Word Skills Intermediate |
 | 1828 | Brunch | Bữa sáng trưa | /brʌntʃ/ | IELTS · Food and Drink |
 | 1829 | Brush | Cọ | /brʌʃ/ | IELTS · Art, Word Skills Basic, Oxford 3000 · A2 · n, v |
-| 1830 | brush up (on) | (= practise and improve your skills or knowledge of something) |  | Destination C1–C2 · phrasal verb |
+| 1830 | brush up (on) | ôn lại, trau dồi lại (kỹ năng, kiến thức) (= practise and improve your skills or knowledge of something) |  | Destination C1–C2 · phrasal verb |
 | 1831 | Brushwork | Vẽ bằng cọ | /ˈbrʌʃwɜːrk/ | IELTS · Art |
 | 1832 | brusque | cộc cằn |  | Word Skills Advanced |
 | 1833 | brutal | tàn bạo |  | Oxford 5000 · C1 · adj |
@@ -1892,7 +1892,7 @@
 | 1880 | Burglary | Ăn trộm | /bɜːrɡləri/ | IELTS · Crime, Word Skills Intermediate |
 | 1881 | burial | sự chôn cất |  | Word Skills Intermediate, Oxford 5000 · C1 · n |
 | 1882 | burn | vết bỏng |  | Word Skills Intermediate, Oxford 3000 · A2 · n, v |
-| 1883 | burn/scratch/etc mark |  |  | Destination C1–C2 · collocation |
+| 1883 | burn/scratch/etc mark | vết cháy / vết xước |  | Destination C1–C2 · collocation |
 | 1884 | Burnout | Kiệt sức, mệt mỏi | /ˈbɜːrnaʊt/ | IELTS · Celebrity |
 | 1885 | Burrito | Bánh burrito | /bəˈriːtoʊ/ | IELTS · Food and Drink |
 | 1886 | Burrow | Đào hang | /ˈbɜroʊ/ | IELTS · Animal |
@@ -1935,8 +1935,8 @@
 | 1923 | button up | Vào trong đi. |  | TOEIC (Hackers) |
 | 1924 | buy | mua |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · v |
 | 1925 | Buy and sell | Mua bán | /baɪ ænd sɛl/ | IELTS · Advertising |
-| 1926 | buy off | (= give someone money so that they do not act against you) |  | Destination C1–C2 · phrasal verb |
-| 1927 | buy out | (= pay money to your business partner so that you can control all of a business you previousl…) |  | Destination C1–C2 · phrasal verb |
+| 1926 | buy off | đút lót, mua chuộc (= give someone money so that they do not act against you) |  | Destination C1–C2 · phrasal verb |
+| 1927 | buy out | mua lại phần (cổ phần) của người khác (= pay money to your business partner so that you can control all of a business you previousl…) |  | Destination C1–C2 · phrasal verb |
 | 1928 | buy sth on impulse | mua theo cảm hứng |  | Word Skills Advanced |
 | 1929 | buy up | mua gom hết (= buy large amounts of something or all of it that is available) |  | Destination C1–C2 · phrasal verb |
 | 1930 | Buzz | Tiếng reo của côn trùng; Sự tạo ra sự chú ý | /bʌz/ | IELTS · Animal, IELTS · Celebrity, Word Skills Advanced, Oxford 5000 · C1 · n, v |
@@ -1946,7 +1946,7 @@
 | 1934 | by a considerable margin | bằng một biên độ đáng kể |  | TOEIC (Hackers) |
 | 1935 | by ail means | bằng mọi cách |  | TOEIC (Hackers) |
 | 1936 | by air | bằng đường hàng không |  | TOEIC (Hackers) |
-| 1937 | by all accounts |  |  | Destination C1–C2 · collocation |
+| 1937 | by all accounts | theo như mọi người nói |  | Destination C1–C2 · collocation |
 | 1938 | by and large | nhìn chung |  | Word Skills Advanced |
 | 1939 | by any chance | tình cờ có phải |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 1940 | by chance | tình cờ/ ngẫu nhiên |  | Word Skills Intermediate, Destination C1–C2 · collocation |
@@ -1956,22 +1956,22 @@
 | 1944 | by common/mutual consent | theo thỏa thuận chung |  | Word Skills Advanced |
 | 1945 | by contrast | ngược lại |  | TOEIC (Hackers) |
 | 1946 | by credit card | Trả bằng thẻ tín dụng |  | TOEIC (Hackers) |
-| 1947 | by dint of |  |  | Destination C1–C2 · collocation |
+| 1947 | by dint of | nhờ vào |  | Destination C1–C2 · collocation |
 | 1948 | by hand | làm bằng tay |  | TOEIC (Hackers) |
 | 1949 | by means of | bằng cách |  | Word Skills Advanced |
 | 1950 | by mistake | do lỡ, do nhầm |  | TOEIC (Hackers) |
 | 1951 | by mutual consent | theo thỏa thuận chung |  | Word Skills Advanced |
-| 1952 | by nature |  |  | Destination C1–C2 · collocation |
+| 1952 | by nature | bản tính |  | Destination C1–C2 · collocation |
 | 1953 | by no means | Chắc chắn không |  | TOEIC (Hackers) |
 | 1954 | by oneself | Đơn phương độc mã |  | TOEIC (Hackers) |
-| 1955 | by sb's side |  |  | Destination C1–C2 · collocation |
+| 1955 | by sb's side | bên cạnh ai |  | Destination C1–C2 · collocation |
 | 1956 | by telephone | qua điện thoại |  | TOEIC (Hackers) |
 | 1957 | by the end of the year | Tại ngày cuối năm |  | TOEIC (Hackers) |
 | 1958 | by the time | Ngày qua ngày |  | TOEIC (Hackers), Destination C1–C2 · collocation |
 | 1959 | by the way | nhân tiện |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 1960 | by this time | vào lúc này |  | TOEIC (Hackers) |
 | 1961 | by way of | qua ... |  | TOEIC (Hackers) |
-| 1962 | by/under law |  |  | Destination C1–C2 · collocation |
+| 1962 | by/under law | theo luật |  | Destination C1–C2 · collocation |
 | 1963 | bye | tạm biệt |  | Oxford 3000 · A1 · exclam |
 | 1964 | bye bye, bye | tạm biệt |  | Word Skills Basic |
 | 1965 | bypass | đường vòng |  | TOEIC (Hackers) |
@@ -2025,16 +2025,16 @@
 | 2013 | Campsite | Khu cắm trại | /ˈkæmpsaɪt/ | IELTS · Tourism |
 | 2014 | campus | khuôn viên trường |  | Oxford 3000 · B1 · n |
 | 2015 | can | lon (= be able to; container; permission; request) |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · modal v, n |
-| 2016 | can live with |  |  | Destination C1–C2 · collocation |
+| 2016 | can live with | có thể chấp nhận được |  | Destination C1–C2 · collocation |
 | 2017 | can you make it? | bạn đến được không? |  | Word Skills Intermediate |
 | 2018 | can't bear | không chịu nổi |  | Word Skills Intermediate |
-| 2019 | can't say fairer than that |  |  | Destination C1–C2 · collocation |
+| 2019 | can't say fairer than that | thế là công bằng lắm rồi |  | Destination C1–C2 · collocation |
 | 2020 | can't stand | không chịu nổi |  | Word Skills Intermediate |
 | 2021 | Canada | Ca-na-đa |  | Word Skills Basic |
 | 2022 | Canadian | (thuộc) Ca-na-đa |  | Word Skills Basic |
 | 2023 | canal | ống kênh đào |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · B2 · n |
 | 2024 | cancel | hủy bỏ |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · B2 · v |
-| 2025 | cancel out | (= stop something from having any effect) |  | Destination C1–C2 · phrasal verb |
+| 2025 | cancel out | triệt tiêu, làm mất tác dụng (= stop something from having any effect) |  | Destination C1–C2 · phrasal verb |
 | 2026 | cancellation | hủy |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 2027 | Cancer | Ung thư | /ˈkænsər/ | IELTS · Health, Word Skills Intermediate, Oxford 3000 · B2 · n |
 | 2028 | candidate | người ứng cử, thí sinh |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n |
@@ -2141,7 +2141,7 @@
 | 2129 | cassette player | máy cát-xét |  | Word Skills Basic |
 | 2130 | cassette player, CD player | máy cát-xét, đầu CD |  | Word Skills Basic |
 | 2131 | cast | quăng, ném, thả, đánh gục |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B2 · n, v |
-| 2132 | cast doubt on |  |  | Destination C1–C2 · collocation |
+| 2132 | cast doubt on | gây nghi ngờ về |  | Destination C1–C2 · collocation |
 | 2133 | Casting | Sự lựa chọn diễn viên | /ˈkæstɪŋ/ | IELTS · Film |
 | 2134 | castle | lâu đài |  | Word Skills Basic, Oxford 3000 · A2 · n |
 | 2135 | casual | tình cờ; Bình thường; Bình thường, không trang trọng | /kæʒuəl/ | TOEIC (Hackers), IELTS · Appearance, IELTS · Fashion, Word Skills Basic, Oxford 5000 · B2 · adj |
@@ -2165,10 +2165,10 @@
 | 2153 | cathedral | nhà thờ lớn |  | Word Skills Basic |
 | 2154 | cattle | gia súc (bò) |  | Word Skills Intermediate, Oxford 5000 · C1 · n |
 | 2155 | Catwalk | Đường biểu diễn thời trang | /kætˌwɔk/ | IELTS · Fashion |
-| 2156 | caught in the rain |  |  | Destination C1–C2 · collocation |
+| 2156 | caught in the rain | bị mắc mưa |  | Destination C1–C2 · collocation |
 | 2157 | cauliflower | súp lơ trắng |  | Word Skills Basic |
 | 2158 | cause | gây ra: |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · A2 · n, v |
-| 2159 | cause/produce/provoke/trigger a reaction (to) |  |  | Destination C1–C2 · collocation |
+| 2159 | cause/produce/provoke/trigger a reaction (to) | gây ra phản ứng |  | Destination C1–C2 · collocation |
 | 2160 | caution | cảnh báo |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 5000 · C1 · n |
 | 2161 | cautious | Cẩn thân |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · adj |
 | 2162 | cautiously | thận trọng |  | TOEIC (Hackers) |
@@ -2213,7 +2213,7 @@
 | 2201 | central heating | hệ thống sưởi trung tâm |  | Word Skills Basic |
 | 2202 | central office | CENTRAL OFFICE |  | TOEIC (Hackers) |
 | 2203 | centre | tâm (Anh) |  | Word Skills Intermediate, Oxford 3000 · A1 · n, v |
-| 2204 | centre around | (= if something centres around someone or something, or you centre something around them, the…) |  | Destination C1–C2 · phrasal verb |
+| 2204 | centre around | xoay quanh, tập trung vào (= if something centres around someone or something, or you centre something around them, the…) |  | Destination C1–C2 · phrasal verb |
 | 2205 | centre party | đảng trung dung |  | Word Skills Advanced |
 | 2206 | century | thế kỷ |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 2207 | CEO (chief executive officen) | Giám đốc điều hành (giám đốc điều hành) (= chief executive officer) |  | TOEIC (Hackers), Word Skills Advanced |
@@ -2223,8 +2223,8 @@
 | 2211 | Ceremonies | Nghi thức | /ˈsɛrəˌmoʊniz/ | IELTS · Culture |
 | 2212 | ceremony | nghi lễ |  | Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 2213 | certain | chắc chắn |  | TOEIC (Hackers), Oxford 3000 · A2 · adj |
-| 2214 | certain of/about |  |  | Destination C1–C2 · collocation |
-| 2215 | certain to do |  |  | Destination C1–C2 · collocation |
+| 2214 | certain of/about | chắc chắn về |  | Destination C1–C2 · collocation |
+| 2215 | certain to do | chắc chắn sẽ làm |  | Destination C1–C2 · collocation |
 | 2216 | certainly | chắc chắn, nhất định |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · adv |
 | 2217 | certainty | sự chắc chắn |  | Oxford 5000 · B2 · n |
 | 2218 | certificate | chứng chỉ |  | TOEIC (Hackers), Oxford 5000 · B2 · n |
@@ -2233,7 +2233,7 @@
 | 2221 | Cestus | Găng tay đánh | /ˈsɛstəs/ | IELTS · Weapons |
 | 2222 | chain | dây chuyền |  | Oxford 3000 · B1 · n, v |
 | 2223 | chain of events | chuỗi sự kiện |  | Word Skills Advanced |
-| 2224 | chain reaction |  |  | Destination C1–C2 · collocation |
+| 2224 | chain reaction | phản ứng dây chuyền |  | Destination C1–C2 · collocation |
 | 2225 | chair | ghế | /tʃɛr/ | TOEIC (Hackers), IELTS · Housing and Architecture, Word Skills Basic, Oxford 3000 · A1 · n, v |
 | 2226 | chairman | chủ tịch |  | Word Skills Advanced |
 | 2227 | chairperson | chủ tịch |  | TOEIC (Hackers), Word Skills Advanced |
@@ -2248,20 +2248,20 @@
 | 2236 | champion | nhà vô địch |  | Oxford 3000 · B1 · n |
 | 2237 | championship | giải vô địch |  | Word Skills Intermediate, Oxford 5000 · B2 · n |
 | 2238 | chance | sự may mắn (= opportunity; possibility) |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · A2 · n |
-| 2239 | chance upon | (= find or see someone or something when you did not expect to) |  | Destination C1–C2 · phrasal verb |
+| 2239 | chance upon | tình cờ gặp / tìm thấy (= find or see someone or something when you did not expect to) |  | Destination C1–C2 · phrasal verb |
 | 2240 | Chances | Cơ hội, khả năng | /tʃænsɪz/ | IELTS · Accident |
 | 2241 | change | thay đổi |  | TOEIC (Hackers), Word Skills Basic/Intermediate/Advanced, Oxford 3000 · A1 · n, v |
-| 2242 | change around | (= move things so that they are in different places or positions) |  | Destination C1–C2 · phrasal verb |
-| 2243 | change for the better/worse |  |  | Destination C1–C2 · collocation |
-| 2244 | change from sth to |  |  | Destination C1–C2 · collocation |
-| 2245 | change into | (= stop being in one state, condition or form and start being in another, or make something d…) (= take off the clothes or a piece of clothing you are I wearing and put on different ones) |  | Destination C1–C2 · phrasal verb |
+| 2242 | change around | xếp lại, thay đổi vị trí (= move things so that they are in different places or positions) |  | Destination C1–C2 · phrasal verb |
+| 2243 | change for the better/worse | thay đổi theo hướng tốt / xấu |  | Destination C1–C2 · collocation |
+| 2244 | change from sth to | chuyển từ … sang |  | Destination C1–C2 · collocation |
+| 2245 | change into | biến thành; thay (quần áo) (= stop being in one state, condition or form and start being in another, or make something d…) (= take off the clothes or a piece of clothing you are I wearing and put on different ones) |  | Destination C1–C2 · phrasal verb |
 | 2246 | change places | đổi chỗ |  | Word Skills Basic |
-| 2247 | change sth for |  |  | Destination C1–C2 · collocation |
-| 2248 | change sth into |  |  | Destination C1–C2 · collocation |
-| 2249 | change the subject |  |  | Destination C1–C2 · collocation |
-| 2250 | change your mind |  |  | Destination C1–C2 · collocation |
+| 2247 | change sth for | đổi cái gì lấy |  | Destination C1–C2 · collocation |
+| 2248 | change sth into | biến cái gì thành; đổi (tiền) sang |  | Destination C1–C2 · collocation |
+| 2249 | change the subject | đổi chủ đề |  | Destination C1–C2 · collocation |
+| 2250 | change your mind | đổi ý |  | Destination C1–C2 · collocation |
 | 2251 | change your tune | đổi giọng (= change your opinion or attitude) |  | Destination C1–C2 · idiom |
-| 2252 | change/swap places with |  |  | Destination C1–C2 · collocation |
+| 2252 | change/swap places with | đổi chỗ với |  | Destination C1–C2 · collocation |
 | 2253 | changeable | hay thay đổi |  | Word Skills Basic |
 | 2254 | Changing room | Phòng thử đồ | /tʃeɪn.dʒɪŋ rum/ | IELTS · Fashion, Word Skills Basic |
 | 2255 | Changing table | Bàn thay đổi tã | /ˈtʃeɪndʒɪŋ ˈteɪbəl/ | IELTS · Housing and Architecture |
@@ -2276,8 +2276,8 @@
 | 2264 | characterize | mô tả đặc điểm |  | Word Skills Advanced, Oxford 5000 · C1 · v |
 | 2265 | charge | nhiệm vụ, trách nhiệm |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · B1 · n, v |
 | 2266 | charge for | tính phí cho |  | TOEIC (Hackers) |
-| 2267 | charge sb for |  |  | Destination C1–C2 · collocation |
-| 2268 | charge sb with |  |  | Destination C1–C2 · collocation |
+| 2267 | charge sb for | tính tiền ai cho |  | Destination C1–C2 · collocation |
+| 2268 | charge sb with | buộc tội ai về |  | Destination C1–C2 · collocation |
 | 2269 | charge sth | sạc; tính phí |  | Word Skills Advanced |
 | 2270 | charge sth up | sạc pin |  | Word Skills Advanced |
 | 2271 | charger | bộ sạc |  | Word Skills Advanced |
@@ -2345,7 +2345,7 @@
 | 2333 | Child abuse | Lạm dụng trẻ em | /tʃaɪld əˈbyus/ | IELTS · Social issues, Destination C1–C2 · collocation |
 | 2334 | Child labor | Lao động trẻ em | /tʃaɪld ˈleɪbər/ | IELTS · Social issues |
 | 2335 | Child marriage | Hôn nhân trẻ em | /tʃaɪld ˈmærɪdʒ/ | IELTS · Social issues |
-| 2336 | child support |  |  | Destination C1–C2 · collocation |
+| 2336 | child support | tiền trợ cấp nuôi con |  | Destination C1–C2 · collocation |
 | 2337 | child's play | việc đề như trò trẻ con |  | Destination C1–C2 · collocation |
 | 2338 | childcare | Chăm sóc trẻ |  | TOEIC (Hackers), Word Skills Advanced |
 | 2339 | childhood | tuổi thơ |  | Oxford 3000 · B1 · n |
@@ -2371,16 +2371,16 @@
 | 2359 | chocoholic | người nghiện sô-cô-la |  | Word Skills Advanced |
 | 2360 | chocolate | sô-cô-la |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 2361 | choice | lựa chọn |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · n |
-| 2362 | choice between |  |  | Destination C1–C2 · collocation |
-| 2363 | choice of |  |  | Destination C1–C2 · collocation |
+| 2362 | choice between | sự lựa chọn giữa |  | Destination C1–C2 · collocation |
+| 2363 | choice of | sự lựa chọn về |  | Destination C1–C2 · collocation |
 | 2364 | choir | Hợp xướng | /kwaɪr/ | TOEIC (Hackers), IELTS · Music, Oxford 5000 · B2 · n |
 | 2365 | Cholesterol | Mỡ máu | /kəˈlɛstərɔːl/ | IELTS · Health |
 | 2366 | choose | chọn |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · v |
-| 2367 | choose between |  |  | Destination C1–C2 · collocation |
-| 2368 | choose from |  |  | Destination C1–C2 · collocation |
-| 2369 | choose sb/sth as |  |  | Destination C1–C2 · collocation |
-| 2370 | choose sb/sth out of |  |  | Destination C1–C2 · collocation |
-| 2371 | choose to do |  |  | Destination C1–C2 · collocation |
+| 2367 | choose between | chọn giữa |  | Destination C1–C2 · collocation |
+| 2368 | choose from | chọn trong số |  | Destination C1–C2 · collocation |
+| 2369 | choose sb/sth as | chọn ai / cái gì làm |  | Destination C1–C2 · collocation |
+| 2370 | choose sb/sth out of | chọn ai / cái gì trong số |  | Destination C1–C2 · collocation |
+| 2371 | choose to do | chọn làm gì |  | Destination C1–C2 · collocation |
 | 2372 | chop | chặt, đốn |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 5000 · B2 · v |
 | 2373 | chopsticks | đũa |  | Word Skills Advanced |
 | 2374 | Chord | Hợp âm | /kɔrd/ | IELTS · Music |
@@ -2448,13 +2448,13 @@
 | 2436 | clarity | sự rõ ràng |  | Oxford 5000 · C1 · n |
 | 2437 | clash | xung đột? ........................................................................ |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · C1 · n |
 | 2438 | class | lớp học |  | Oxford 3000 · A1 · n |
-| 2439 | class differences |  |  | Destination C1–C2 · collocation |
-| 2440 | class sb/sth as |  |  | Destination C1–C2 · collocation |
-| 2441 | class system |  |  | Destination C1–C2 · collocation |
-| 2442 | class war |  |  | Destination C1–C2 · collocation |
+| 2439 | class differences | khác biệt giai cấp |  | Destination C1–C2 · collocation |
+| 2440 | class sb/sth as | xếp ai / cái gì vào loại |  | Destination C1–C2 · collocation |
+| 2441 | class system | chế độ giai cấp |  | Destination C1–C2 · collocation |
+| 2442 | class war | đấu tranh giai cấp |  | Destination C1–C2 · collocation |
 | 2443 | classic | Đúng kiểu/điển hình luôn |  | Oxford 3000 · B2 · adj, n |
 | 2444 | classic example | ví dụ điển hình |  | Word Skills Advanced |
-| 2445 | classic/prime example |  |  | Destination C1–C2 · collocation |
+| 2445 | classic/prime example | ví dụ điển hình |  | Destination C1–C2 · collocation |
 | 2446 | Classical | Cổ điển; Nhạc cổ điển | /klæsɪkəl/ | IELTS · Entertainment and media, IELTS · Music, Word Skills Basic, Oxford 3000 · A2 · adj |
 | 2447 | classification | xếp hạng (một con) tàu |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 2448 | classified | đã được phân loại |  | TOEIC (Hackers), Word Skills Advanced |
@@ -2470,10 +2470,10 @@
 | 2458 | Claymore | Kiếm hai tay | /ˈkleɪmɔːr/ | IELTS · Weapons |
 | 2459 | Claymore detonator | Thiết bị kích nổ Claymore | /ˈkleɪmɔːr dɪˈtɑːnˌeɪtər/ | IELTS · Weapons |
 | 2460 | clean | sạch sẽ |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · adj, v |
-| 2461 | clean and tidy |  |  | Destination C1–C2 · collocation |
-| 2462 | clean as a whistle | (= completely honest or legal) (= extremely clean) |  | Destination C1–C2 · idiom |
+| 2461 | clean and tidy | sạch sẽ gọn gàng |  | Destination C1–C2 · collocation |
+| 2462 | clean as a whistle | sạch bong; hoàn toàn trong sạch, hợp pháp (= completely honest or legal) (= extremely clean) |  | Destination C1–C2 · idiom |
 | 2463 | Clean energy | Năng lượng sạch | /klin ˈɛnɜrʤi/ | IELTS · Environment |
-| 2464 | clean sweep |  |  | Destination C1–C2 · collocation |
+| 2464 | clean sweep | thắng tuyệt đối; thay đổi toàn bộ |  | Destination C1–C2 · collocation |
 | 2465 | clean up | Thu dọn dụng cụ |  | TOEIC (Hackers) |
 | 2466 | clean-shaven | cạo râu nhẵn |  | Word Skills Intermediate |
 | 2467 | cleaner | người dọn vệ sinh |  | Word Skills Basic |
@@ -2482,11 +2482,11 @@
 | 2470 | cleanup | công việc làm sạch |  | TOEIC (Hackers) |
 | 2471 | clear | lau chùi, quét dọn; Trong suốt, không tì vết; Trời quang đãng | /klɪr/ | TOEIC (Hackers), IELTS · Appearance, IELTS · Weather, Word Skills Basic/Intermediate/Advanced, Oxford 3000 · A2 · adj, v |
 | 2472 | clear A from B | xóa A khỏi B |  | TOEIC (Hackers) |
-| 2473 | clear as a bell |  |  | Destination C1–C2 · collocation |
-| 2474 | clear as mud |  |  | Destination C1–C2 · collocation |
-| 2475 | clear case (of) |  |  | Destination C1–C2 · collocation |
-| 2476 | clear evidence/ indication |  |  | Destination C1–C2 · collocation |
-| 2477 | clear in your mind (about) |  |  | Destination C1–C2 · collocation |
+| 2473 | clear as a bell | rất rõ ràng (âm thanh) |  | Destination C1–C2 · collocation |
+| 2474 | clear as mud | khó hiểu, rối như canh hẹ |  | Destination C1–C2 · collocation |
+| 2475 | clear case (of) | trường hợp rõ ràng (của) |  | Destination C1–C2 · collocation |
+| 2476 | clear evidence/ indication | bằng chứng / dấu hiệu rõ ràng |  | Destination C1–C2 · collocation |
+| 2477 | clear in your mind (about) | rõ ràng trong đầu (về) |  | Destination C1–C2 · collocation |
 | 2478 | clear sb of | minh oan cho ai |  | Word Skills Advanced |
 | 2479 | Clear skies | Bầu trời trong xanh | /klɪr skaɪz/ | IELTS · Countryside |
 | 2480 | clear sth up | dọn dẹp; làm sáng tỏ |  | Word Skills Advanced |
@@ -2499,7 +2499,7 @@
 | 2487 | clerk | thư ký |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · n |
 | 2488 | clever | thông minh, khéo léo |  | Word Skills Basic, Oxford 3000 · A2 · adj |
 | 2489 | click | nhấp chuột |  | Oxford 3000 · B1 · n, v |
-| 2490 | click on follow a link |  |  | Destination C1–C2 · collocation |
+| 2490 | click on follow a link | bấm vào đường link |  | Destination C1–C2 · collocation |
 | 2491 | click on something | nhấp chuột vào cái gì |  | Word Skills Basic |
 | 2492 | client | máy khách |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · B1 · n |
 | 2493 | clientele | khách hàng |  | TOEIC (Hackers) |
@@ -2524,7 +2524,7 @@
 | 2512 | cliquey | kéo bè kéo cánh |  | Word Skills Advanced |
 | 2513 | cloakroom | cloakroom |  | TOEIC (Hackers) |
 | 2514 | clock | đồng hồ |  | Oxford 3000 · A1 · n |
-| 2515 | clock up | (= reach a particular number or amount) |  | Destination C1–C2 · phrasal verb |
+| 2515 | clock up | đạt được, tích luỹ (con số) (= reach a particular number or amount) |  | Destination C1–C2 · phrasal verb |
 | 2516 | Cloning technology | Công nghệ nhân bản | /ˈkloʊnɪŋ tɛkˈnɒlədʒi/ | IELTS · Animal |
 | 2517 | close | đóng; gần; thân |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · adj, adv, n, v |
 | 2518 | close a deal | chốt giao dịch |  | TOEIC (Hackers) |
@@ -2532,11 +2532,11 @@
 | 2520 | close down | sự ngưng hoạt động (không buôn bán, không sản xuất) |  | TOEIC (Hackers) |
 | 2521 | close friend | bạn thân |  | Word Skills Intermediate |
 | 2522 | close to tears | suýt khóc |  | Word Skills Advanced |
-| 2523 | close up | (= lock the doors of a building or business) |  | Destination C1–C2 · phrasal verb |
+| 2523 | close up | khoá cửa (toà nhà, cửa hàng) (= lock the doors of a building or business) |  | Destination C1–C2 · phrasal verb |
 | 2524 | Close-set (eyes) | Mắt gần nhau | /kloʊs sɛt/ | IELTS · Appearance |
 | 2525 | Close-up | Gần mặt, gần cận | /ˈkloʊs ʌp/ | IELTS · Film |
-| 2526 | close/good/great friend |  |  | Destination C1–C2 · collocation |
-| 2527 | close/near relative |  |  | Destination C1–C2 · collocation |
+| 2526 | close/good/great friend | bạn thân |  | Destination C1–C2 · collocation |
+| 2527 | close/near relative | họ hàng gần |  | Destination C1–C2 · collocation |
 | 2528 | closed | đóng cửa |  | Oxford 3000 · A2 · adj |
 | 2529 | closely | chặt chẽ, kỹ lưỡng, tỉ mỉ |  | TOEIC (Hackers), Oxford 3000 · B2 · adv |
 | 2530 | closest friend | bạn thân nhất |  | Word Skills Basic |
@@ -2556,7 +2556,7 @@
 | 2544 | clout | ảnh hưởng |  | TOEIC (Hackers) |
 | 2545 | clove | tép (tỏi); đinh hương |  | Word Skills Basic |
 | 2546 | Club | Gậy gỗ đánh | /klʌb/ | IELTS · Weapons, Word Skills Intermediate, Oxford 3000 · A1 · n |
-| 2547 | club together | (= if people club together, each of them gives some money so all the money collected can be u…) |  | Destination C1–C2 · phrasal verb |
+| 2547 | club together | góp tiền chung (= if people club together, each of them gives some money so all the money collected can be u…) |  | Destination C1–C2 · phrasal verb |
 | 2548 | clue | manh mối |  | Oxford 3000 · B1 · n |
 | 2549 | cluster | cụm |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 2550 | Cluster bomb | Bom đạn đạo | /ˈklʌstər bɑːm/ | IELTS · Weapons |
@@ -2648,14 +2648,14 @@
 | 2636 | combined | Kết hợp |  | TOEIC (Hackers) |
 | 2637 | combustible | dễ cháy |  | TOEIC (Hackers) |
 | 2638 | come | đến, tới |  | Oxford 3000 · A1 · v |
-| 2639 | (come a) poor second |  |  | Destination C1–C2 · collocation |
+| 2639 | (come a) poor second | về nhì cách xa |  | Destination C1–C2 · collocation |
 | 2640 | come across | Không hẹn mà gặp (= meet someone or find something by chance) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
 | 2641 | come across as | tạo ấn tượng là |  | Word Skills Advanced |
 | 2642 | come along | đi nào, đi lên, tiến lên đi |  | TOEIC (Hackers) |
 | 2643 | come apart | tháo rời |  | TOEIC (Hackers) |
-| 2644 | come as a shock/etc |  |  | Destination C1–C2 · collocation |
+| 2644 | come as a shock/etc | là một cú sốc |  | Destination C1–C2 · collocation |
 | 2645 | come bottom | đứng cuối |  | Word Skills Advanced, Destination C1–C2 · collocation |
-| 2646 | come clean (about sth) | (= tell the truth about something that you have kept secret) |  | Destination C1–C2 · idiom |
+| 2646 | come clean (about sth) | thú nhận, nói thật (= tell the truth about something that you have kept secret) |  | Destination C1–C2 · idiom |
 | 2647 | come from | đến từ |  | Word Skills Basic |
 | 2648 | come in | (dữ liệu, kết quả) đổ về; vào |  | Word Skills Advanced |
 | 2649 | come into effect | có hiệu lực |  | Word Skills Advanced, Destination C1–C2 · collocation |
@@ -2663,27 +2663,27 @@
 | 2651 | come into view | hiện ra trước mắt |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 2652 | come loose | trở nên lỏng lẻo |  | TOEIC (Hackers) |
 | 2653 | come out | ra mắt; lộ ra; công khai (= be removed from something such as clothing or cloth by washing or rubbing) (= be spoken, heard or understood in a particular way) (= become available to buy or see) (= become easy to notice) (= become known) (= have a particular result or end in a particular way) |  | Destination C1–C2 · phrasal verb |
-| 2654 | come out in | (= become covered in spots because you are ill or your body reacts to a food or medicine) |  | Destination C1–C2 · phrasal verb |
-| 2655 | come out on top |  |  | Destination C1–C2 · collocation |
-| 2656 | come out with | (= say something suddenly, usually something that surprises or shocks people) |  | Destination C1–C2 · phrasal verb |
+| 2654 | come out in | nổi (mẩn, mụn) khắp người (= become covered in spots because you are ill or your body reacts to a food or medicine) |  | Destination C1–C2 · phrasal verb |
+| 2655 | come out on top | giành chiến thắng |  | Destination C1–C2 · collocation |
+| 2656 | come out with | buột ra (câu nói gây ngạc nhiên) (= say something suddenly, usually something that surprises or shocks people) |  | Destination C1–C2 · phrasal verb |
 | 2657 | come over | Anh tới nghe? |  | TOEIC (Hackers) |
 | 2658 | come rain or shine | dù mưa hay nắng (used for saying that something always happens or someone always does something despite bad…) |  | Destination C1–C2 · idiom |
 | 2659 | come round | ghé chơi; tỉnh lại (= become conscious again after being unconscious) (= change your opinion or decision because someone has persuaded you to agree with them) (= go to a place where someone is, especially their house, in order to visit them) (= if a regular event comes round, it happens again) |  | Word Skills Basic/Intermediate, Destination C1–C2 · phrasal verb |
-| 2660 | come to a conclusion/decision/etc |  |  | Destination C1–C2 · collocation |
+| 2660 | come to a conclusion/decision/etc | đi đến kết luận / quyết định |  | Destination C1–C2 · collocation |
 | 2661 | come to a decision | Đi đến quyết định |  | TOEIC (Hackers) |
 | 2662 | come to a standstill | Đi đến một bế tắc nào đó |  | TOEIC (Hackers) |
 | 2663 | come to an agreement | Đi đến thỏa thuận |  | TOEIC (Hackers) |
 | 2664 | come to an end | Đi đến kết thúc |  | TOEIC (Hackers), Destination C1–C2 · collocation |
-| 2665 | come to arrive at reach a conclusion |  |  | Destination C1–C2 · collocation |
-| 2666 | come to do sth |  |  | Destination C1–C2 · collocation |
-| 2667 | come to life |  |  | Destination C1–C2 · collocation |
+| 2665 | come to arrive at reach a conclusion | đi đến kết luận |  | Destination C1–C2 · collocation |
+| 2666 | come to do sth | dần dần (làm gì) |  | Destination C1–C2 · collocation |
+| 2667 | come to life | trở nên sống động; tỉnh lại |  | Destination C1–C2 · collocation |
 | 2668 | come to power | lên nắm quyền |  | TOEIC (Hackers), Destination C1–C2 · collocation |
-| 2669 | come to reach an understanding |  |  | Destination C1–C2 · collocation |
-| 2670 | come to rest |  |  | Destination C1–C2 · collocation |
-| 2671 | come to sb's notice (that) |  |  | Destination C1–C2 · collocation |
-| 2672 | come to your senses |  |  | Destination C1–C2 · collocation |
+| 2669 | come to reach an understanding | đạt được thoả thuận |  | Destination C1–C2 · collocation |
+| 2670 | come to rest | dừng lại |  | Destination C1–C2 · collocation |
+| 2671 | come to sb's notice (that) | ai đó để ý thấy (rằng) |  | Destination C1–C2 · collocation |
+| 2672 | come to your senses | tỉnh ngộ |  | Destination C1–C2 · collocation |
 | 2673 | come top | đứng đầu |  | Word Skills Advanced |
-| 2674 | come true |  |  | Destination C1–C2 · collocation |
+| 2674 | come true | trở thành sự thật |  | Destination C1–C2 · collocation |
 | 2675 | come under attack | bị chỉ trích, công kích |  | Word Skills Advanced |
 | 2676 | come under fire | bị chỉ trích |  | Word Skills Advanced |
 | 2677 | come unstuck | thất bại |  | Word Skills Advanced |
@@ -2702,7 +2702,7 @@
 | 2690 | coming | đến |  | TOEIC (Hackers) |
 | 2691 | comma | dấu phẩy |  | Word Skills Intermediate |
 | 2692 | command | lệnh |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B2 · n, v |
-| 2693 | command/deserve/earn/win respect |  |  | Destination C1–C2 · collocation |
+| 2693 | command/deserve/earn/win respect | được / xứng đáng được tôn trọng |  | Destination C1–C2 · collocation |
 | 2694 | commander | chỉ huy |  | Oxford 5000 · B2 · n |
 | 2695 | commemorate | kỷ niệm |  | TOEIC (Hackers) |
 | 2696 | commemorative | kỷ niệm |  | TOEIC (Hackers) |
@@ -2727,18 +2727,18 @@
 | 2715 | commissioner | ủy viên |  | Oxford 5000 · C1 · n |
 | 2716 | commit | ủy nhiệm, ủy thác |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B1 · v |
 | 2717 | commit a crime | phạm tội |  | Word Skills Intermediate |
-| 2718 | commit/report/witness/solve a crime |  |  | Destination C1–C2 · collocation |
+| 2718 | commit/report/witness/solve a crime | phạm / tố giác / chứng kiến / phá án |  | Destination C1–C2 · collocation |
 | 2719 | commitment | sự phạm tội, sự tận tụy, tận tâm; Cam kết | /kəˈmɪtmənt/ | TOEIC (Hackers), IELTS · Sports and Equipments, Word Skills Advanced, Oxford 3000 · B2 · n |
 | 2720 | committee | ủy ban |  | TOEIC (Hackers), Oxford 3000 · B2 · n |
 | 2721 | commodity | thế phẩm |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 2722 | common | phổ biến, chung |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · adj |
-| 2723 | common for sb/sth to do |  |  | Destination C1–C2 · collocation |
+| 2723 | common for sb/sth to do | thường thấy ai / cái gì làm |  | Destination C1–C2 · collocation |
 | 2724 | common goal | mục tiêu chung |  | Word Skills Advanced |
 | 2725 | common interest | Chỉ có lợi ích chung thôi. |  | TOEIC (Hackers) |
-| 2726 | common language |  |  | Destination C1–C2 · collocation |
-| 2727 | common practice |  |  | Destination C1–C2 · collocation |
-| 2728 | common sense |  |  | Destination C1–C2 · collocation |
-| 2729 | common to |  |  | Destination C1–C2 · collocation |
+| 2726 | common language | ngôn ngữ chung |  | Destination C1–C2 · collocation |
+| 2727 | common practice | thông lệ |  | Destination C1–C2 · collocation |
+| 2728 | common sense | lẽ thường, óc phán đoán |  | Destination C1–C2 · collocation |
+| 2729 | common to | chung cho, phổ biến ở |  | Destination C1–C2 · collocation |
 | 2730 | commonly | thường |  | Oxford 3000 · B2 · adv |
 | 2731 | commonplace | bình thường. |  | TOEIC (Hackers) |
 | 2732 | communicate | giao thiệp, liên lạc |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · v |
@@ -2751,7 +2751,7 @@
 | 2739 | Community spread | Lây lan trong cộng đồng | /kəˈmjuːnɪti sprɛd/ | IELTS · Covid |
 | 2740 | commute | Đi Lại; Đi làm; Đi làm hàng ngày | /kəˈmjuːt/ | TOEIC (Hackers), IELTS · Employment, IELTS · City |
 | 2741 | commuter | người đi (tàu, xe buýt) bằng vé tháng |  | TOEIC (Hackers) |
-| 2742 | commuter belt | (= area surrounding a large city where many people who work in that city live) |  | Destination C1–C2 · idiom |
+| 2742 | commuter belt | vùng ven đô (người đi làm trong thành phố) (= area surrounding a large city where many people who work in that city live) |  | Destination C1–C2 · idiom |
 | 2743 | compact | Nén chặt |  | TOEIC (Hackers) |
 | 2744 | compact car | xe nhỏ gọn |  | TOEIC (Hackers) |
 | 2745 | Companies | Các công ty | /ˈkʌmpəniz/ | IELTS · Advertising |
@@ -2793,7 +2793,7 @@
 | 2781 | complete | hoàn thành |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · adj, v |
 | 2782 | complete opposites | hoàn toàn trái ngược |  | Word Skills Basic |
 | 2783 | completely | hoàn thành, đầy đủ |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · adv |
-| 2784 | completely/totally natural |  |  | Destination C1–C2 · collocation |
+| 2784 | completely/totally natural | hoàn toàn tự nhiên |  | Destination C1–C2 · collocation |
 | 2785 | completion | sự làm xong |  | TOEIC (Hackers), Oxford 5000 · B2 · n |
 | 2786 | complex | phức tạp |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · B1 · adj, n |
 | 2787 | complexity | sự phức tạp |  | Oxford 5000 · C1 · n |
@@ -2851,7 +2851,7 @@
 | 2839 | conclude | kết luận, chấm dứt (công việc) |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B1 · v |
 | 2840 | concluding | kết luận |  | Word Skills Advanced |
 | 2841 | conclusion | kết luận |  | Word Skills Advanced, Oxford 3000 · B1 · n |
-| 2842 | conclusion of |  |  | Destination C1–C2 · collocation |
+| 2842 | conclusion of | phần kết của |  | Destination C1–C2 · collocation |
 | 2843 | conclusive | tính thuyết phục |  | TOEIC (Hackers), Word Skills Advanced |
 | 2844 | concourse | khu đại sảnh |  | TOEIC (Hackers) |
 | 2845 | concrete | bê tông |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 5000 · B2 · adj, n |
@@ -2927,7 +2927,7 @@
 | 2915 | consent | sự chấp thuận |  | TOEIC (Hackers), Oxford 5000 · C1 · n, v |
 | 2916 | consenting | đồng ý |  | TOEIC (Hackers) |
 | 2917 | consequence | hậu quả |  | TOEIC (Hackers), Oxford 3000 · B1 · n |
-| 2918 | consequence of |  |  | Destination C1–C2 · collocation |
+| 2918 | consequence of | hậu quả của |  | Destination C1–C2 · collocation |
 | 2919 | Consequences | Hậu quả | /ˈkɑnsɪkwɛnsɪz/ | IELTS · Culture, Word Skills Advanced |
 | 2920 | consequently | Bởi thế, do đó, vậy thì, vì vậy, cho nên. |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · B2 · adv |
 | 2921 | conservation | bảo tồn; Sự bảo tồn | /ˌkɑːnsərˈveɪʃən/ | TOEIC (Hackers), IELTS · Environment, IELTS · Energy, IELTS · Animal, Word Skills Advanced, Oxford 5000 · B2 · n |
@@ -2937,7 +2937,7 @@
 | 2925 | Conservative | Đảng Bảo thủ |  | Word Skills Advanced, Oxford 3000 · B2 · adj, n |
 | 2926 | conserve | sự trữ |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · v |
 | 2927 | consider | cân nhắc, xem xét |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · A2 · v |
-| 2928 | consider your options |  |  | Destination C1–C2 · collocation |
+| 2928 | consider your options | cân nhắc các lựa chọn |  | Destination C1–C2 · collocation |
 | 2929 | considerable | đáng kế |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 5000 · B2 · adj |
 | 2930 | considerable difficulty | khó khăn đáng kể |  | Word Skills Advanced |
 | 2931 | considerably | đáng kế, lớn lao |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · B2 · adv |
@@ -3026,7 +3026,7 @@
 | 3014 | contributor | người góp phần |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 3015 | contrive to do | cố gắng thực hiện |  | TOEIC (Hackers) |
 | 3016 | control | điều khiển; Sự kiểm soát | /kənˈtroʊl/ | TOEIC (Hackers), IELTS · Family and Relationships, Word Skills Advanced, Oxford 3000 · A2 · n, v |
-| 3017 | control/resist an impulse |  |  | Destination C1–C2 · collocation |
+| 3017 | control/resist an impulse | kiềm chế cơn bốc đồng |  | Destination C1–C2 · collocation |
 | 3018 | controversial | gây tranh cãi |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · B2 · adj |
 | 3019 | controversy | tranh cãi |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · B2 · n |
 | 3020 | convalesce | dưỡng bệnh |  | Word Skills Advanced |
@@ -3082,7 +3082,7 @@
 | 3070 | copy machine | Sao chép máy |  | TOEIC (Hackers) |
 | 3071 | copyright | quyền tác giả |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 3072 | cordially | Gá»­i kÃ¨m áº©n tá»i: |  | TOEIC (Hackers) |
-| 3073 | cordon off | (= stop people from entering an area by putting something such as a rope around it) |  | Destination C1–C2 · phrasal verb |
+| 3073 | cordon off | phong toả, giăng dây chặn (khu vực) (= stop people from entering an area by putting something such as a rope around it) |  | Destination C1–C2 · phrasal verb |
 | 3074 | core | lõi (quả) |  | Oxford 3000 · B2 · adj, n |
 | 3075 | coriander | rau mùi; hạt mùi |  | Word Skills Advanced |
 | 3076 | corkscrew | cái mở nút chai |  | Word Skills Advanced |
@@ -3121,7 +3121,7 @@
 | 3109 | costume | y phục; Trang phục | /ˈkɒstjuːm/ | TOEIC (Hackers), IELTS · Film, Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 3110 | Cottage | Nhà tranh; Nhà nông thôn; Nhà gỗ | /ˈkɑtɪdʒ/ | IELTS · Countryside, IELTS · Tourism, IELTS · Housing and Architecture, Word Skills Advanced, Oxford 3000 · B1 · n |
 | 3111 | Cotton | Bông | /kɑːtn/ | IELTS · Fashion, Word Skills Intermediate, Oxford 3000 · B1 · n |
-| 3112 | cotton on | (= begin to realise or understand something) |  | Destination C1–C2 · phrasal verb |
+| 3112 | cotton on | vỡ lẽ, bắt đầu hiểu ra (= begin to realise or understand something) |  | Destination C1–C2 · phrasal verb |
 | 3113 | cotton wool | bông gòn (Anh) |  | Word Skills Basic |
 | 3114 | Couch potato | Người thích chỉ ngồi xem TV (= someone who spends a lot of time sitting at home watching television) | /kaʊtʃ pəˈteɪtoʊ/ | IELTS · Entertainment and media, Destination C1–C2 · idiom |
 | 3115 | cough | ho |  | Word Skills Basic |
@@ -3159,7 +3159,7 @@
 | 3147 | courier | đơn vị vận chuyển |  | TOEIC (Hackers) |
 | 3148 | courier service | dịch vụ chuyển phát nhanh |  | TOEIC (Hackers) |
 | 3149 | course | khoá học; (of course) tất nhiên (of study; part of a meal) |  | Word Skills Basic, Oxford 3000 · A1 · n |
-| 3150 | course of action/events |  |  | Destination C1–C2 · collocation |
+| 3150 | course of action/events | đường lối hành động / diễn biến sự việc |  | Destination C1–C2 · collocation |
 | 3151 | course of study | Khóa học: |  | TOEIC (Hackers) |
 | 3152 | Court | Tòa án (for tennis, badminton, etc) | /kɔːrt/ | IELTS · Crime, Word Skills Basic, Oxford 3000 · B1 · n, Word Skills Intermediate |
 | 3153 | courteous | Lịch sự... |  | TOEIC (Hackers), Word Skills Advanced |
@@ -3206,7 +3206,7 @@
 | 3194 | Creamy | Kem | /kriːmi/ | IELTS · Food and Drink, Word Skills Intermediate |
 | 3195 | create | tạo ra |  | Word Skills Intermediate/Advanced, Oxford 3000 · A1 · v |
 | 3196 | create an illusion | tạo ảo giác |  | Word Skills Advanced |
-| 3197 | create/make an impression (on sb) |  |  | Destination C1–C2 · collocation |
+| 3197 | create/make an impression (on sb) | gây ấn tượng (với ai) |  | Destination C1–C2 · collocation |
 | 3198 | creation | sự sáng tạo |  | TOEIC (Hackers), Oxford 3000 · B2 · n |
 | 3199 | creative | sáng tạo |  | TOEIC (Hackers), Oxford 3000 · A2 · adj |
 | 3200 | Creative process | Quá trình sáng tạo | /kriˈeɪ.tɪv ˈprɑ.sɛs/ | IELTS · Music |
@@ -3225,7 +3225,7 @@
 | 3213 | creditable | đáng tin cậy |  | TOEIC (Hackers) |
 | 3214 | creditor | bên cấp tín dụng |  | TOEIC (Hackers) |
 | 3215 | creep | rón rén |  | Word Skills Advanced, Oxford 5000 · C1 · v |
-| 3216 | creep up on | (= move towards someone quietly and slowly, especially because you want to surprise them) |  | Destination C1–C2 · phrasal verb |
+| 3216 | creep up on | rón rén lại gần; (cảm giác, tuổi tác) đến dần dần (= move towards someone quietly and slowly, especially because you want to surprise them) |  | Destination C1–C2 · phrasal verb |
 | 3217 | cremate | hỏa táng |  | Word Skills Intermediate |
 | 3218 | cremation | sự hỏa táng |  | Word Skills Intermediate |
 | 3219 | crew | phi hành đoàn |  | TOEIC (Hackers), Oxford 3000 · B2 · n |
@@ -3249,7 +3249,7 @@
 | 3237 | Critical thinking | Tư duy phản biện | /ˈkrɪtɪkəl ˈθɪŋkɪŋ/ | IELTS · Education |
 | 3238 | Critical thinking skills | Kỹ năng tư duy phản biện | /ˈkrɪtɪkəl ˈθɪŋkɪŋ skɪlz/ | IELTS · Advertising |
 | 3239 | critically | nghiêm trọng; phê phán |  | Oxford 5000 · B2 · adv |
-| 3240 | critically/seriously/terminally ill |  |  | Destination C1–C2 · collocation |
+| 3240 | critically/seriously/terminally ill | ốm nặng / nguy kịch / giai đoạn cuối |  | Destination C1–C2 · collocation |
 | 3241 | criticism | sự chỉ trích |  | Word Skills Advanced, Oxford 3000 · B2 · n |
 | 3242 | criticize | phê phán, chỉ trích |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · B2 · v |
 | 3243 | Critics | Nhà phê bình | /krɪtɪks/ | IELTS · Entertainment and media |
@@ -3268,12 +3268,12 @@
 | 3256 | cross the street | Qua đường đi. |  | TOEIC (Hackers) |
 | 3257 | Cross-cultural | Giao lưu văn hóa | /krɔs ˈkʌltʃərəl/ | IELTS · Globalization |
 | 3258 | Cross-training | Huấn luyện chéo | /ˈkrɔsˌtreɪnɪŋ/ | IELTS · Sports and Equipments |
-| 3259 | cross/slip your mind |  |  | Destination C1–C2 · collocation |
+| 3259 | cross/slip your mind | thoáng qua đầu / quên mất |  | Destination C1–C2 · collocation |
 | 3260 | Crossbow | Cung tên | /ˈkrɔːsboʊ/ | IELTS · Weapons |
 | 3261 | crosswalk | <g id="1">Vạch Sang Đường</g>.; Lối đi bộ qua đường; Vạch dành cho người đi bộ qua đường | /ˈkrɔːswɔːk/ | TOEIC (Hackers), IELTS · City, IELTS · Accident |
 | 3262 | crow | con quạ |  | Word Skills Advanced |
 | 3263 | crowd | đám đông |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
-| 3264 | crowd around | (= move to a particular place at the same time as a lot of other people) |  | Destination C1–C2 · phrasal verb |
+| 3264 | crowd around | xúm lại, vây quanh (= move to a particular place at the same time as a lot of other people) |  | Destination C1–C2 · phrasal verb |
 | 3265 | crowded | đông đúc |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A2 · adj |
 | 3266 | crown | mão răng (bọc răng) |  | Oxford 5000 · C1 · n |
 | 3267 | crucial | quyết định, cốt yếu |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · adj |
@@ -3288,14 +3288,14 @@
 | 3276 | Crumple | Nhàu, xụi | /krʌmpəl/ | IELTS · Accident |
 | 3277 | crush | nghiền nát; cảm nắng |  | Word Skills Advanced, Oxford 5000 · C1 · v |
 | 3278 | cry | khóc |  | Word Skills Intermediate, Oxford 3000 · A2 · n, v |
-| 3279 | cry for help |  |  | Destination C1–C2 · collocation |
-| 3280 | cry of |  |  | Destination C1–C2 · collocation |
-| 3281 | cry on sb's shoulder |  |  | Destination C1–C2 · collocation |
-| 3282 | cry over spilt milk | (= waste time feeling upset about something bad that has happened and cannot be changed) |  | Destination C1–C2 · idiom |
-| 3283 | cry over/about |  |  | Destination C1–C2 · collocation |
-| 3284 | cry with pain/happiness/relief |  |  | Destination C1–C2 · collocation |
-| 3285 | cry your eyes/heart out |  |  | Destination C1–C2 · collocation |
-| 3286 | cry yourself to sleep |  |  | Destination C1–C2 · collocation |
+| 3279 | cry for help | kêu cứu |  | Destination C1–C2 · collocation |
+| 3280 | cry of | tiếng kêu (vì) |  | Destination C1–C2 · collocation |
+| 3281 | cry on sb's shoulder | khóc trên vai ai, tìm ai để giãi bày |  | Destination C1–C2 · collocation |
+| 3282 | cry over spilt milk | tiếc rẻ chuyện đã rồi (= waste time feeling upset about something bad that has happened and cannot be changed) |  | Destination C1–C2 · idiom |
+| 3283 | cry over/about | khóc vì |  | Destination C1–C2 · collocation |
+| 3284 | cry with pain/happiness/relief | khóc vì đau / hạnh phúc / nhẹ nhõm |  | Destination C1–C2 · collocation |
+| 3285 | cry your eyes/heart out | khóc hết nước mắt |  | Destination C1–C2 · collocation |
+| 3286 | cry yourself to sleep | khóc đến thiếp đi |  | Destination C1–C2 · collocation |
 | 3287 | Cryptocurrency | Tiền điện tử | /ˌkrɪptoʊˈkʌrənsi/ | IELTS · Technology, Oxford 5000 · C1 · n |
 | 3288 | crystal | tinh thể |  | Oxford 5000 · C1 · n |
 | 3289 | ct (cent(s)) | xu (cent) |  | Word Skills Intermediate |
@@ -3401,13 +3401,13 @@
 | 3389 | cut benefits | cắt giảm phúc lợi |  | TOEIC (Hackers) |
 | 3390 | cut costs | cắt giảm chi phí |  | TOEIC (Hackers) |
 | 3391 | cut down | cắt giảm |  | TOEIC (Hackers), Word Skills Intermediate |
-| 3392 | cut it fine |  |  | Destination C1–C2 · collocation |
+| 3392 | cut it fine | sát nút (thời gian) |  | Destination C1–C2 · collocation |
 | 3393 | cut one’s losses | cắt lỗ |  | TOEIC (Hackers) |
 | 3394 | cut out | bỏ (thói quen); cắt ra (= remove something from a larger piece by cutting) (= stop eating something or doing something, especially because it is bad for your health) |  | Destination C1–C2 · phrasal verb |
 | 3395 | cut sth back | cắt giảm |  | Word Skills Advanced |
-| 3396 | cut sth to size |  |  | Destination C1–C2 · collocation |
+| 3396 | cut sth to size | cắt theo kích cỡ; hạ bệ |  | Destination C1–C2 · collocation |
 | 3397 | cut the grass | cắt cỏ |  | TOEIC (Hackers) |
-| 3398 | cut/make/reach/strike a deal (with) |  |  | Destination C1–C2 · collocation |
+| 3398 | cut/make/reach/strike a deal (with) | thoả thuận, chốt giao dịch (với) |  | Destination C1–C2 · collocation |
 | 3399 | cutback | sụt giảm (về sản xuất, giá cả, chi tiêu, nhân sự...) |  | TOEIC (Hackers) |
 | 3400 | cute | dễ thương |  | Word Skills Advanced, Oxford 5000 · B2 · adj |
 | 3401 | cutting-edge | Lưỡi cắt |  | TOEIC (Hackers), Word Skills Advanced |
@@ -3470,7 +3470,7 @@
 | 3458 | database | cơ sở dữ liệu |  | Oxford 5000 · B2 · n |
 | 3459 | date | kỳ hạn, thời k |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · n, v |
 | 3460 | date back to | ngày trở lại |  | TOEIC (Hackers), Destination C1–C2 · collocation |
-| 3461 | date from |  |  | Destination C1–C2 · collocation |
+| 3461 | date from | có từ (thời) |  | Destination C1–C2 · collocation |
 | 3462 | date of birth | ngày sinh |  | Word Skills Basic |
 | 3463 | datebook | sổ lịch hẹn (Mỹ) |  | Word Skills Intermediate |
 | 3464 | dated | lỗi thời |  | Word Skills Advanced |
@@ -3479,9 +3479,9 @@
 | 3467 | dawn on | chợt nhận ra |  | Word Skills Advanced |
 | 3468 | day | ngày |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 3469 | day after tomorrow | ngày mốt |  | TOEIC (Hackers) |
-| 3470 | day by day |  |  | Destination C1–C2 · collocation |
+| 3470 | day by day | từng ngày một |  | Destination C1–C2 · collocation |
 | 3471 | day off | ngày nghỉ M |  | Destination C1–C2 · collocation |
-| 3472 | day out |  |  | Destination C1–C2 · collocation |
+| 3472 | day out | chuyến đi chơi trong ngày |  | Destination C1–C2 · collocation |
 | 3473 | day return | vé khứ hồi trong ngày |  | Word Skills Intermediate |
 | 3474 | day trip | chuyén di trong ngay |  | Word Skills Intermediate, Destination C1–C2 · collocation |
 | 3475 | day-to-day operation | hoạt động hàng ngày |  | TOEIC (Hackers) |
@@ -3489,13 +3489,13 @@
 | 3477 | daytime | ban ngày |  | Word Skills Basic |
 | 3478 | dazed | choáng váng |  | Word Skills Advanced |
 | 3479 | dead | chết |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · adj |
-| 3480 | dead (set) against (doing) |  |  | Destination C1–C2 · collocation |
-| 3481 | dead ahead |  |  | Destination C1–C2 · collocation |
-| 3482 | dead and buried |  |  | Destination C1–C2 · collocation |
-| 3483 | dead and gone |  |  | Destination C1–C2 · collocation |
-| 3484 | dead centre |  |  | Destination C1–C2 · collocation |
-| 3485 | dead silence |  |  | Destination C1–C2 · collocation |
-| 3486 | dead tired |  |  | Destination C1–C2 · collocation |
+| 3480 | dead (set) against (doing) | kịch liệt phản đối |  | Destination C1–C2 · collocation |
+| 3481 | dead ahead | thẳng phía trước |  | Destination C1–C2 · collocation |
+| 3482 | dead and buried | đã chết hẳn, đã qua hẳn |  | Destination C1–C2 · collocation |
+| 3483 | dead and gone | đã chết từ lâu |  | Destination C1–C2 · collocation |
+| 3484 | dead centre | chính giữa |  | Destination C1–C2 · collocation |
+| 3485 | dead silence | im phăng phắc |  | Destination C1–C2 · collocation |
+| 3486 | dead tired | mệt rã rời |  | Destination C1–C2 · collocation |
 | 3487 | deadline | hạn chót |  | Oxford 5000 · B2 · n |
 | 3488 | deadlock | sự đình trệ hoàn toàn |  | TOEIC (Hackers), Word Skills Advanced |
 | 3489 | deadly | chết người |  | Oxford 5000 · B2 · adj |
@@ -3505,16 +3505,16 @@
 | 3493 | deaf | điếc |  | Word Skills Intermediate |
 | 3494 | deafening | inh tai |  | Word Skills Advanced |
 | 3495 | deal | phân phối, giao dịch |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · A2 · n, v |
-| 3496 | deal a blow to |  |  | Destination C1–C2 · collocation |
-| 3497 | deal in |  |  | Destination C1–C2 · collocation |
+| 3496 | deal a blow to | giáng một đòn vào |  | Destination C1–C2 · collocation |
+| 3497 | deal in | buôn bán (mặt hàng) |  | Destination C1–C2 · collocation |
 | 3498 | deal with | xử lý, giải quyết; đối mặt; giao dịch với |  | Word Skills Intermediate, Destination C1–C2 · collocation |
 | 3499 | dealer | người chia bài |  | TOEIC (Hackers), Oxford 5000 · B2 · n |
 | 3500 | dean | Trưởng khoa |  | TOEIC (Hackers) |
 | 3501 | dear | thân mến; trời ơi (oh dear) |  | Oxford 3000 · A1 · adj, exclam |
 | 3502 | death | cái chết |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 3503 | death rate | tỉ lệ tử vong |  | Word Skills Advanced |
-| 3504 | death sentence |  |  | Destination C1–C2 · collocation |
-| 3505 | death threat |  |  | Destination C1–C2 · collocation |
+| 3504 | death sentence | án tử hình |  | Destination C1–C2 · collocation |
+| 3505 | death threat | lời đe doạ giết |  | Destination C1–C2 · collocation |
 | 3506 | death toll | số người thiệt mạng |  | Word Skills Intermediate |
 | 3507 | debate | tranh luận |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · n, v |
 | 3508 | debit card | thẻ ghi nợ |  | TOEIC (Hackers), Word Skills Basic/Advanced |
@@ -3535,12 +3535,12 @@
 | 3523 | deception | sự lừa gạt |  | Word Skills Advanced |
 | 3524 | Deceptive | Lừa dối | /dɪˈsɛptɪv/ | IELTS · Advertising, Word Skills Advanced |
 | 3525 | decide | quyết định |  | Oxford 3000 · A1 · v |
-| 3526 | decide against in favour of |  |  | Destination C1–C2 · collocation |
-| 3527 | decide between |  |  | Destination C1–C2 · collocation |
-| 3528 | decide for yourself |  |  | Destination C1–C2 · collocation |
+| 3526 | decide against in favour of | quyết định không làm / chọn |  | Destination C1–C2 · collocation |
+| 3527 | decide between | quyết định chọn giữa |  | Destination C1–C2 · collocation |
+| 3528 | decide for yourself | tự quyết định |  | Destination C1–C2 · collocation |
 | 3529 | decide on | quyết định |  | TOEIC (Hackers), Destination C1–C2 · collocation |
-| 3530 | decide that |  |  | Destination C1–C2 · collocation |
-| 3531 | decide to do |  |  | Destination C1–C2 · collocation |
+| 3530 | decide that | quyết định rằng |  | Destination C1–C2 · collocation |
+| 3531 | decide to do | quyết định làm |  | Destination C1–C2 · collocation |
 | 3532 | decidedly | Chắc chắn rồi ! |  | TOEIC (Hackers) |
 | 3533 | decision | quyết định, giải quyết |  | TOEIC (Hackers), Oxford 3000 · A2 · n |
 | 3534 | decision-making | ra quyết định |  | Oxford 5000 · C1 · n |
@@ -3621,7 +3621,7 @@
 | 3609 | delicatessen | cửa hàng đồ nguội |  | Word Skills Intermediate |
 | 3610 | delicious | Ngon; Thơm ngon, ngon lành | /dɪˈlɪʃəs/ | TOEIC (Hackers), IELTS · Food and Drink, Word Skills Basic, Oxford 3000 · A1 · adj |
 | 3611 | delight | Delight |  | TOEIC (Hackers), Oxford 3000 · B2 · n, v |
-| 3612 | delight in doing |  |  | Destination C1–C2 · collocation |
+| 3612 | delight in doing | thích thú làm gì |  | Destination C1–C2 · collocation |
 | 3613 | delighted | vui mừng, hài lỏng |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · adj |
 | 3614 | Delightful | Hạnh phúc, vui vẻ | /dɪˈlaɪtfəl/ | IELTS · Food and Drink |
 | 3615 | delinquent | tội phạm |  | TOEIC (Hackers) |
@@ -3636,7 +3636,7 @@
 | 3624 | delude yourself | tự huyễn hoặc |  | Word Skills Advanced |
 | 3625 | deluge | trận lụt; dồn dập |  | Word Skills Advanced |
 | 3626 | demand | đòi hỏi, yêu cầu |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · n, v |
-| 3627 | demand sth from sb |  |  | Destination C1–C2 · collocation |
+| 3627 | demand sth from sb | đòi ai cái gì |  | Destination C1–C2 · collocation |
 | 3628 | demanding | Hay đòi hỏi |  | TOEIC (Hackers) |
 | 3629 | Demo | Bản thử | /ˈdi.moʊ/ | IELTS · Music |
 | 3630 | democracy | nền dân chủ |  | Oxford 5000 · B2 · n |
@@ -3661,12 +3661,12 @@
 | 3649 | dental surgery | phòng khám nha khoa |  | Word Skills Intermediate |
 | 3650 | dentist | nha sĩ |  | Word Skills Basic, Oxford 3000 · A2 · n |
 | 3651 | deny | từ chối, phản đối |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · v |
-| 3652 | deny (all) responsibility for |  |  | Destination C1–C2 · collocation |
-| 3653 | deny a request |  |  | Destination C1–C2 · collocation |
-| 3654 | deny doing |  |  | Destination C1–C2 · collocation |
-| 3655 | deny having done |  |  | Destination C1–C2 · collocation |
-| 3656 | deny sb sth |  |  | Destination C1–C2 · collocation |
-| 3657 | deny that |  |  | Destination C1–C2 · collocation |
+| 3652 | deny (all) responsibility for | phủ nhận (mọi) trách nhiệm về |  | Destination C1–C2 · collocation |
+| 3653 | deny a request | từ chối yêu cầu |  | Destination C1–C2 · collocation |
+| 3654 | deny doing | phủ nhận đã làm |  | Destination C1–C2 · collocation |
+| 3655 | deny having done | phủ nhận đã làm |  | Destination C1–C2 · collocation |
+| 3656 | deny sb sth | từ chối không cho ai cái gì |  | Destination C1–C2 · collocation |
+| 3657 | deny that | phủ nhận rằng |  | Destination C1–C2 · collocation |
 | 3658 | depart | khởi hành |  | TOEIC (Hackers), Oxford 5000 · B2 · v |
 | 3659 | departed | đã khởi hành |  | Word Skills Basic |
 | 3660 | department | bộ phận |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · n |
@@ -3769,7 +3769,7 @@
 | 3757 | devastating | tàn khốc |  | Oxford 5000 · C1 · adj |
 | 3758 | develop | phát triển, mở rộng (= a film) |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · v |
 | 3759 | develop into | phát triển thành |  | TOEIC (Hackers) |
-| 3760 | develop/have a taste for |  |  | Destination C1–C2 · collocation |
+| 3760 | develop/have a taste for | bắt đầu thích |  | Destination C1–C2 · collocation |
 | 3761 | developer | chủ (thuê xây dựng) công trình |  | TOEIC (Hackers) |
 | 3762 | Developing countries | Các nước đang phát triển | /dɪˈvɛləpɪŋ ˈkʌntriz/ | IELTS · Globalization |
 | 3763 | development | phát triển | /dɪˈvɛl.əp.mənt/ | TOEIC (Hackers), IELTS · Employment, Oxford 3000 · B1 · n |
@@ -3811,7 +3811,7 @@
 | 3799 | diffident | rụt rè |  | Word Skills Advanced |
 | 3800 | Diffusion | Sự lan truyền | /dɪˈfjuʒən/ | IELTS · Culture |
 | 3801 | dig | đào |  | Word Skills Advanced, Oxford 3000 · B2 · v |
-| 3802 | dig up | (= dig holes in an area of land) (= find information by searching carefully) (= remove something from under the ground by digging) |  | Destination C1–C2 · phrasal verb |
+| 3802 | dig up | đào xới; đào lên; bới ra (thông tin) (= dig holes in an area of land) (= find information by searching carefully) (= remove something from under the ground by digging) |  | Destination C1–C2 · phrasal verb |
 | 3803 | dig with a shovel | đào bằng xẻng |  | TOEIC (Hackers) |
 | 3804 | Digestive | Liên quan đến tiêu hóa | /daɪˈʤɛstɪv/ | IELTS · Health |
 | 3805 | Digestive system | Hệ tiêu hóa | /daɪˈʤɛstɪv ˈsɪstəm/ | IELTS · Health |
@@ -3864,7 +3864,7 @@
 | 3852 | dirt | đồ bần thỉu, vật rác rưởi |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 3853 | dirty | bẩn |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · adj |
 | 3854 | dirty tricks | thủ đoạn bấn thiu/ mánh khóe không chín |  | Destination C1–C2 · collocation |
-| 3855 | dirty word |  |  | Destination C1–C2 · collocation |
+| 3855 | dirty word | từ bị coi là xấu, điều cấm kỵ |  | Destination C1–C2 · collocation |
 | 3856 | disability | khuyết tật |  | Word Skills Intermediate, Oxford 5000 · B2 · n |
 | 3857 | Disability discrimination | Phân biệt đối xử với người khuyết tật | /dɪsəˈbɪləti dɪsˌkrɪmɪˈneɪʃən/ | IELTS · Social issues |
 | 3858 | disabled | bị khuyết tật |  | Word Skills Intermediate, Oxford 5000 · B2 · adj |
@@ -3915,8 +3915,8 @@
 | 3903 | discursive | lan man |  | Word Skills Advanced |
 | 3904 | discuss | thảo luận, tranh luận |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A1 · v |
 | 3905 | discussion | thảo luận, tranh luận |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · n |
-| 3906 | discussion group |  |  | Destination C1–C2 · collocation |
-| 3907 | discussion of |  |  | Destination C1–C2 · collocation |
+| 3906 | discussion group | nhóm thảo luận |  | Destination C1–C2 · collocation |
+| 3907 | discussion of | cuộc thảo luận về |  | Destination C1–C2 · collocation |
 | 3908 | disease | bệnh; Bệnh tật | /dɪˈziːz/ | TOEIC (Hackers), IELTS · Health, Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 3909 | disgrace | sự ô nhục |  | Word Skills Advanced |
 | 3910 | disgraceful | đáng xấu hổ |  | Word Skills Advanced |
@@ -3975,7 +3975,7 @@
 | 3963 | distinguish | phân biệt, nhận ra, nghe ra |  | TOEIC (Hackers), Oxford 5000 · B2 · v |
 | 3964 | distinguish between | phân biệt giữa |  | Word Skills Advanced |
 | 3965 | distinguished | Xuất sắc; Nổi bật | /dɪˈstɪŋɡwɪʃt/ | TOEIC (Hackers), IELTS · Appearance, Word Skills Advanced |
-| 3966 | distinguishing feature |  |  | Destination C1–C2 · collocation |
+| 3966 | distinguishing feature | đặc điểm nhận dạng |  | Destination C1–C2 · collocation |
 | 3967 | distort | vặn vẹo; bóp méo; làm méo mó |  | TOEIC (Hackers), Word Skills Advanced |
 | 3968 | Distorted | Bị méo mó, bị xuyên tạc | /dɪˈstɔːrtɪd/ | IELTS · Entertainment and media |
 | 3969 | distract | đánh lạc hướng |  | TOEIC (Hackers), Oxford 5000 · B2 · v |
@@ -3993,7 +3993,7 @@
 | 3981 | disturbing | xáo trộn |  | TOEIC (Hackers), Oxford 5000 · C1 · adj |
 | 3982 | Diurnal | Hoạt động vào ban ngày | /daɪˈɜrnəl/ | IELTS · Animal |
 | 3983 | dive | lặn, nhảy cầu |  | Oxford 5000 · B2 · n, v |
-| 3984 | dive in | (= start doing something in a very enthusiastic way) |  | Destination C1–C2 · phrasal verb |
+| 3984 | dive in | lao vào làm (một cách hăng hái) (= start doing something in a very enthusiastic way) |  | Destination C1–C2 · phrasal verb |
 | 3985 | diverse | phong phú |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · B2 · adj |
 | 3986 | Diversification | Sự đa dạng hóa | /daɪˌvɜrsɪfɪˈkeɪʃən/ | IELTS · Energy |
 | 3987 | diversified | Đa dạng hoá |  | TOEIC (Hackers) |
@@ -4013,7 +4013,7 @@
 | 4001 | do a good job | làm tốt công việc. |  | TOEIC (Hackers) |
 | 4002 | do a search | tìm kiếm |  | Word Skills Advanced |
 | 4003 | do Aa favor | làm Aa ủng hộ |  | TOEIC (Hackers) |
-| 4004 | do an impression (of) |  |  | Destination C1–C2 · collocation |
+| 4004 | do an impression (of) | nhại lại (ai) |  | Destination C1–C2 · collocation |
 | 4005 | do away with | bãi bỏ (= get rid of) |  | Word Skills Advanced, Destination C1–C2 · phrasal verb |
 | 4006 | do badly | làm kém, kết quả tệ |  | Word Skills Basic |
 | 4007 | do business with | làm ăn với |  | TOEIC (Hackers) |
@@ -4027,16 +4027,16 @@
 | 4015 | do research | nghiên cứu |  | Word Skills Intermediate |
 | 4016 | do revision | ôn tập |  | Word Skills Intermediate |
 | 4017 | do sb a favour | giúp ai một việc |  | Word Skills Advanced |
-| 4018 | do sb's dirty work |  |  | Destination C1–C2 · collocation |
-| 4019 | do sth about |  |  | Destination C1–C2 · collocation |
+| 4018 | do sb's dirty work | làm việc bẩn thỉu thay ai |  | Destination C1–C2 · collocation |
+| 4019 | do sth about | làm gì đó (để giải quyết) |  | Destination C1–C2 · collocation |
 | 4020 | do sth at the last minute | làm việc gì vào phút chót |  | Word Skills Advanced |
-| 4021 | do sth in a rush |  |  | Destination C1–C2 · collocation |
-| 4022 | do sth in person |  |  | Destination C1–C2 · collocation |
-| 4023 | do sth on a whim | (= do because of a sudden feeling that you must have or do something) |  | Destination C1–C2 · idiom |
-| 4024 | do sth on impulse |  |  | Destination C1–C2 · collocation |
+| 4021 | do sth in a rush | làm vội |  | Destination C1–C2 · collocation |
+| 4022 | do sth in person | đích thân làm gì |  | Destination C1–C2 · collocation |
+| 4023 | do sth on a whim | làm theo hứng nhất thời (= do because of a sudden feeling that you must have or do something) |  | Destination C1–C2 · idiom |
+| 4024 | do sth on impulse | làm gì theo bốc đồng |  | Destination C1–C2 · collocation |
 | 4025 | do sth up | sửa sang; cài (cúc) |  | Word Skills Advanced |
 | 4026 | (do sth) by the book | đúng quy định, theo sách |  | Destination C1–C2 · collocation |
-| 4027 | do the dirty on |  |  | Destination C1–C2 · collocation |
+| 4027 | do the dirty on | chơi xấu ai |  | Destination C1–C2 · collocation |
 | 4028 | do the ironing | là/ủi quần áo |  | Word Skills Basic |
 | 4029 | do the shopping | đi mua sắm |  | Word Skills Basic |
 | 4030 | do the shopping, do the ironing | đi mua sắm, ủi quần áo |  | Word Skills Basic |
@@ -4047,7 +4047,7 @@
 | 4035 | do your best | cố gắng hết sức |  | Destination C1–C2 · collocation |
 | 4036 | do your fair share | làm phần việc của mình |  | Word Skills Advanced |
 | 4037 | do your hair | làm tóc |  | Word Skills Basic |
-| 4038 | do your worst |  |  | Destination C1–C2 · collocation |
+| 4038 | do your worst | cứ làm tới đi (thách thức) |  | Destination C1–C2 · collocation |
 | 4039 | dock | ụ tàu |  | TOEIC (Hackers) |
 | 4040 | Doctor | Bác sĩ | /ˈdɑːktər/ | IELTS · Health, Word Skills Basic, Oxford 3000 · A1 · n |
 | 4041 | doctor’s appointment | BÁC SĨ Chỉ Định |  | TOEIC (Hackers) |
@@ -4077,7 +4077,7 @@
 | 4065 | don’t have the nerve to do | không có can đảm để làm |  | TOEIC (Hackers) |
 | 4066 | don't hold your breath | đừng hy vọng |  | Word Skills Advanced |
 | 4067 | don't judge a book by its cover | đừng trông mặt mà bắt hình dong |  | Word Skills Advanced |
-| 4068 | don't make me laugh |  |  | Destination C1–C2 · collocation |
+| 4068 | don't make me laugh | đừng làm tôi buồn cười (không tin nổi) |  | Destination C1–C2 · collocation |
 | 4069 | don't worry | đừng lo |  | Word Skills Basic |
 | 4070 | don't you dare | bạn dám à / cấm bạn |  | Word Skills Advanced |
 | 4071 | donate | donate |  | TOEIC (Hackers), Oxford 3000 · B1 · v |
@@ -4100,11 +4100,11 @@
 | 4088 | double room | phòng đôi (một giường đôi) |  | Word Skills Basic |
 | 4089 | double-sided | Hai mặt |  | TOEIC (Hackers) |
 | 4090 | doubt | nghi ngờ |  | Word Skills Intermediate, Oxford 3000 · B1 · n, v |
-| 4091 | doubt as to about |  |  | Destination C1–C2 · collocation |
-| 4092 | doubt that |  |  | Destination C1–C2 · collocation |
+| 4091 | doubt as to about | nghi ngờ về |  | Destination C1–C2 · collocation |
+| 4092 | doubt that | nghi ngờ rằng |  | Destination C1–C2 · collocation |
 | 4093 | doubtful | Không chắc |  | TOEIC (Hackers) |
 | 4094 | down | xuống |  | Oxford 3000 · A1 · adv, prep |
-| 4095 | down on your luck | (= having a long period of difficulty finding work and earning money) |  | Destination C1–C2 · idiom |
+| 4095 | down on your luck | gặp vận rủi, túng quẫn (= having a long period of difficulty finding work and earning money) |  | Destination C1–C2 · idiom |
 | 4096 | down payment | trả tiền ngay một lần |  | TOEIC (Hackers) |
 | 4097 | down) to | Xuống... |  | TOEIC (Hackers) |
 | 4098 | down-to-earth | thực tế, giản dị |  | Word Skills Advanced |
@@ -4138,10 +4138,10 @@
 | 4126 | draw on | người trả tiền... |  | TOEIC (Hackers) |
 | 4127 | draw the line (at) | vạch ra giới hạn (= say that you will definitely not allow or accept something) |  | Destination C1–C2 · idiom |
 | 4128 | draw the line at | vẽ đường thẳng tại |  | TOEIC (Hackers) |
-| 4129 | draw the short straw | (= be chosen to do something unpleasant) |  | Destination C1–C2 · idiom |
+| 4129 | draw the short straw | bị chọn làm việc không ai muốn (= be chosen to do something unpleasant) |  | Destination C1–C2 · idiom |
 | 4130 | draw up | Thảo ra |  | TOEIC (Hackers) |
 | 4131 | draw up a new agreement | soạn thảo một thỏa thuận mới |  | TOEIC (Hackers) |
-| 4132 | draw/get the short straw |  |  | Destination C1–C2 · collocation |
+| 4132 | draw/get the short straw | bị chọn làm việc không ai muốn |  | Destination C1–C2 · collocation |
 | 4133 | drawback | Nhược điểm |  | TOEIC (Hackers), Word Skills Intermediate/Advanced |
 | 4134 | drawbridge | Cầu rút |  | TOEIC (Hackers) |
 | 4135 | drawer | người vẽ, người kéo |  | TOEIC (Hackers) |
@@ -4151,7 +4151,7 @@
 | 4139 | dread | sợ hãi |  | Word Skills Intermediate |
 | 4140 | dreadful | khủng khiếp |  | Word Skills Intermediate |
 | 4141 | dream | giấc mơ; mơ |  | Word Skills Intermediate/Advanced, Oxford 3000 · A2 · n, v |
-| 4142 | dream of/about/that |  |  | Destination C1–C2 · collocation |
+| 4142 | dream of/about/that | mơ về / mơ rằng |  | Destination C1–C2 · collocation |
 | 4143 | dream up | nghĩ ra |  | Word Skills Advanced |
 | 4144 | drench | ướt đẫm |  | TOEIC (Hackers) |
 | 4145 | dress | quần áo, mặc; Váy | /drɛs/ | TOEIC (Hackers), IELTS · Fashion, Word Skills Basic/Intermediate, Oxford 3000 · A1 · n, v |
@@ -4168,14 +4168,14 @@
 | 4156 | drink | đồ uống; uống |  | Word Skills Basic, Oxford 3000 · A1 · n, v |
 | 4157 | drink a toast | nâng ly chúc mừng |  | Word Skills Intermediate |
 | 4158 | drive | lái, đua xe; cuộc đua xe (điểu khiến) |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A1 · n, v |
-| 4159 | drive (your point) home |  |  | Destination C1–C2 · collocation |
-| 4160 | drive at sth |  |  | Destination C1–C2 · collocation |
+| 4159 | drive (your point) home | nhấn mạnh (luận điểm) cho thấm |  | Destination C1–C2 · collocation |
+| 4160 | drive at sth | ám chỉ, muốn nói điều gì |  | Destination C1–C2 · collocation |
 | 4161 | drive off | Chạy đi. |  | TOEIC (Hackers) |
 | 4162 | drive sb crazy | làm ai phát điên |  | Word Skills Advanced |
-| 4163 | drive sb crazy/mad |  |  | Destination C1–C2 · collocation |
+| 4163 | drive sb crazy/mad | làm ai phát điên |  | Destination C1–C2 · collocation |
 | 4164 | drive sb insane | làm ai phát điên |  | Word Skills Advanced |
 | 4165 | drive sb mad | làm ai phát điên |  | Word Skills Advanced |
-| 4166 | drive sb to do sth |  |  | Destination C1–C2 · collocation |
+| 4166 | drive sb to do sth | đẩy ai đến chỗ làm gì |  | Destination C1–C2 · collocation |
 | 4167 | drive up | lái xe lên |  | TOEIC (Hackers) |
 | 4168 | Drive-through testing | Xét nghiệm nhanh | /draɪv-θruː ˈtɛstɪŋ/ | IELTS · Covid |
 | 4169 | driven | Được thúc đẩy. |  | TOEIC (Hackers) |
@@ -4192,18 +4192,18 @@
 | 4180 | drone | máy bay không người lái |  | Oxford 5000 · C1 · n |
 | 4181 | Drones | Máy bay không người lái | /droʊnz/ | IELTS · Technology |
 | 4182 | drop | giọt; làm rơi; giảm |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · n, v |
-| 4183 | drop a hint |  |  | Destination C1–C2 · collocation |
+| 4183 | drop a hint | gợi ý, bóng gió |  | Destination C1–C2 · collocation |
 | 4184 | drop by | Tạt vào |  | TOEIC (Hackers) |
-| 4185 | drop dead |  |  | Destination C1–C2 · collocation |
+| 4185 | drop dead | chết đột ngột; (lóng) cút đi |  | Destination C1–C2 · collocation |
 | 4186 | drop in the ocean | muối bỏ bể |  | Word Skills Advanced |
 | 4187 | drop off | Đi nghủ |  | TOEIC (Hackers) |
 | 4188 | drop out | bỏ học; rút khỏi |  | Word Skills Advanced |
-| 4189 | drop sb (from a team) |  |  | Destination C1–C2 · collocation |
-| 4190 | drop sb at |  |  | Destination C1–C2 · collocation |
-| 4191 | drop sth into/onto sth |  |  | Destination C1–C2 · collocation |
+| 4189 | drop sb (from a team) | loại ai (khỏi đội) |  | Destination C1–C2 · collocation |
+| 4190 | drop sb at | thả ai xuống ở |  | Destination C1–C2 · collocation |
+| 4191 | drop sth into/onto sth | thả / đánh rơi cái gì vào / lên |  | Destination C1–C2 · collocation |
 | 4192 | drop sth off sth | đưa (ai) xuống xe; giảm; ngủ gật |  | Destination C1–C2 · collocation |
 | 4193 | Drop-out rate | Tỷ lệ bỏ học | /ˈdraʊˌpɑʊt reɪt/ | IELTS · Education |
-| 4194 | drop/change the subject |  |  | Destination C1–C2 · collocation |
+| 4194 | drop/change the subject | bỏ qua / đổi chủ đề |  | Destination C1–C2 · collocation |
 | 4195 | dropout | Bỏ học | /ˈdraʊˌpɑʊt/ | Word Skills Advanced, IELTS · Education |
 | 4196 | drought | drought; Hạn hán | /draʊt/ | TOEIC (Hackers), IELTS · Weather, Word Skills Intermediate, Oxford 5000 · B2 · n |
 | 4197 | Drought-resistant | Chống hạn | /draʊtˈrɛzɪstənt/ | IELTS · Weather |
@@ -4248,7 +4248,7 @@
 | 4236 | duration | duration |  | TOEIC (Hackers), Oxford 5000 · B2 · n |
 | 4237 | during | trong suốt |  | Word Skills Intermediate/Advanced, Oxford 3000 · A1 · prep |
 | 4238 | during the week | trong tuần |  | Word Skills Basic |
-| 4239 | (during) school/working/etc hours |  |  | Destination C1–C2 · collocation |
+| 4239 | (during) school/working/etc hours | (trong) giờ học / giờ làm việc |  | Destination C1–C2 · collocation |
 | 4240 | dust | bụi, rác; quét bụi |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 4241 | dust off | phủi bụi |  | TOEIC (Hackers) |
 | 4242 | dustbin | thùng rác (Anh) |  | Word Skills Intermediate |
@@ -4271,8 +4271,8 @@
 | 4259 | each | mỗi |  | Word Skills Basic, Oxford 3000 · A1 · adv, det, pron |
 | 4260 | each other | lẫn nhau |  | Word Skills Basic |
 | 4261 | eager | háo hức |  | Oxford 5000 · C1 · adj |
-| 4262 | eager for |  |  | Destination C1–C2 · collocation |
-| 4263 | eager to do |  |  | Destination C1–C2 · collocation |
+| 4262 | eager for | khao khát |  | Destination C1–C2 · collocation |
+| 4263 | eager to do | háo hức làm |  | Destination C1–C2 · collocation |
 | 4264 | eagerly await | háo hức chờ đợi |  | TOEIC (Hackers) |
 | 4265 | eagerness | háo hức |  | TOEIC (Hackers) |
 | 4266 | eagle | đại bàng |  | Word Skills Intermediate |
@@ -4340,7 +4340,7 @@
 | 4328 | editorial | Biên tập |  | TOEIC (Hackers), Oxford 5000 · B2 · adj |
 | 4329 | educate | giáo dục |  | Oxford 3000 · B1 · v |
 | 4330 | educated | có học thức |  | Oxford 3000 · B1 · adj |
-| 4331 | educated guess |  |  | Destination C1–C2 · collocation |
+| 4331 | educated guess | phỏng đoán có cơ sở |  | Destination C1–C2 · collocation |
 | 4332 | education | giáo dục |  | Oxford 3000 · A2 · n |
 | 4333 | Education disparities | Sự chênh lệch giáo dục | /ˌɛdʒʊˈkeɪʃən dɪˈspærətiz/ | IELTS · Social issues |
 | 4334 | Education funding | Quỹ tài trợ giáo dục | /ˌɛdʒʊˈkeɪʃən ˈfʌndɪŋ/ | IELTS · Social issues |
@@ -4488,7 +4488,7 @@
 | 4476 | encroach | xâm phạm |  | Word Skills Advanced |
 | 4477 | encyclopedia | bách khoa toàn thư |  | Word Skills Intermediate |
 | 4478 | end | kết thúc |  | Word Skills Basic, Oxford 3000 · A1 · n, v |
-| 4479 | end of term |  |  | Destination C1–C2 · collocation |
+| 4479 | end of term | cuối học kỳ |  | Destination C1–C2 · collocation |
 | 4480 | end result | kết quả cuỗi cùng |  | Word Skills Advanced |
 | 4481 | End table | Bàn bên cạnh | /ɛnd ˈteɪbəl/ | IELTS · Housing and Architecture |
 | 4482 | end up | Dừng chân (= be in a particular place or state after doing something or because of doing it) |  | TOEIC (Hackers), Word Skills Intermediate, Destination C1–C2 · phrasal verb |
@@ -4546,7 +4546,7 @@
 | 4534 | Energy mix | Tổ hợp năng lượng | /ˈɛnərdʒi mɪks/ | IELTS · Energy |
 | 4535 | Energy modeling | Mô hình hóa năng lượng | /ˈɛnərdʒi ˈmɑdəlɪŋ/ | IELTS · Energy |
 | 4536 | Energy monitoring | Giám sát năng lượng | /ˈɛnərdʒi ˈmɑnɪtərɪŋ/ | IELTS · Energy |
-| 4537 | energy needs |  |  | Destination C1–C2 · collocation |
+| 4537 | energy needs | nhu cầu năng lượng |  | Destination C1–C2 · collocation |
 | 4538 | Energy planning | Lập kế hoạch năng lượng; Kế hoạch năng lượng | /ˈɛnərdʒi ˈplænɪŋ/ | IELTS · Energy |
 | 4539 | Energy policy | Chính sách năng lượng | /ˈɛnərdʒi ˈpɒləsi/ | IELTS · Environment, IELTS · Energy |
 | 4540 | Energy poverty | Đói nghèo năng lượng | /ˈɛnərdʒi ˈpɑvərti/ | IELTS · Energy |
@@ -4659,10 +4659,10 @@
 | 4647 | Epidemiology | Dịch tễ học | /ˌɛpəˌdimiˈɑləʤi/ | IELTS · Science, IELTS · Covid |
 | 4648 | episode | tập (phim) |  | Oxford 3000 · B1 · n |
 | 4649 | equal | bằng nhau |  | Word Skills Advanced, Oxford 3000 · B1 · adj, n, v |
-| 4650 | equal in size/quality/ value |  |  | Destination C1–C2 · collocation |
+| 4650 | equal in size/quality/ value | bằng nhau về kích cỡ / chất lượng / giá trị |  | Destination C1–C2 · collocation |
 | 4651 | Equal pay | Lương bình đẳng | /ˈiːkwəl peɪ/ | IELTS · Employment |
-| 4652 | equal rights |  |  | Destination C1–C2 · collocation |
-| 4653 | equal to |  |  | Destination C1–C2 · collocation |
+| 4652 | equal rights | quyền bình đẳng |  | Destination C1–C2 · collocation |
+| 4653 | equal to | ngang bằng với; đủ sức làm |  | Destination C1–C2 · collocation |
 | 4654 | equality | bình đẳng |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · n |
 | 4655 | equalize | gỡ hòa; làm cân bằng |  | Word Skills Advanced |
 | 4656 | equally | như nhau |  | Word Skills Advanced, Oxford 3000 · B1 · adv |
@@ -4675,8 +4675,8 @@
 | 4663 | era | kỷ nguyên |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · B2 · n |
 | 4664 | eradicate | diệt trừ |  | TOEIC (Hackers), Word Skills Advanced |
 | 4665 | erect | Gây dựng |  | TOEIC (Hackers), Oxford 5000 · C1 · v |
-| 4666 | erect (a statue/monument/etc) to sb |  |  | Destination C1–C2 · collocation |
-| 4667 | erect posture ever hardly ever |  |  | Destination C1–C2 · collocation |
+| 4666 | erect (a statue/monument/etc) to sb | dựng (tượng / đài) tưởng niệm ai |  | Destination C1–C2 · collocation |
+| 4667 | erect posture ever hardly ever | tư thế thẳng; hầu như không bao giờ |  | Destination C1–C2 · collocation |
 | 4668 | errand | việc vặt |  | TOEIC (Hackers) |
 | 4669 | error | lỗi |  | Oxford 3000 · A2 · n |
 | 4670 | erupt | phun trào |  | Word Skills Intermediate, Oxford 5000 · B2 · v |
@@ -4685,7 +4685,7 @@
 | 4673 | Escalator | Thang cuốn | /ˈɛskəˌleɪtər/ | IELTS · Transportation |
 | 4674 | escape | trốn thoát, lối thoát |  | TOEIC (Hackers), Oxford 3000 · B1 · n, v |
 | 4675 | escape from reality | thoát khỏi thực tại/ thực tế |  | Destination C1–C2 · collocation |
-| 4676 | escape sb's notice |  |  | Destination C1–C2 · collocation |
+| 4676 | escape sb's notice | lọt khỏi sự chú ý của ai |  | Destination C1–C2 · collocation |
 | 4677 | escort | hộ tống (các tàu buôn...) |  | TOEIC (Hackers) |
 | 4678 | especially | đặc biệt là, nhất là |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A2 · adv |
 | 4679 | Espionage | Gián điệp, tình báo | /ˈɛspioʊnɑːʒ/ | IELTS · History and Heritage |
@@ -4745,7 +4745,7 @@
 | 4733 | every | mỗi, mọi |  | Word Skills Basic, Oxford 3000 · A1 · det |
 | 4734 | every bit as | cũng... chẳng kém |  | Word Skills Advanced |
 | 4735 | every hour on the hour | - Đúng giờ ah? |  | TOEIC (Hackers) |
-| 4736 | every now and then/again |  |  | Destination C1–C2 · collocation |
+| 4736 | every now and then/again | thỉnh thoảng |  | Destination C1–C2 · collocation |
 | 4737 | every other day | 2 ngày/lần |  | TOEIC (Hackers) |
 | 4738 | everybody | mọi người |  | Oxford 3000 · A1 · pron |
 | 4739 | everyday | hằng ngày |  | Word Skills Intermediate, Oxford 3000 · A2 · adj |
@@ -4818,7 +4818,7 @@
 | 4806 | exemplify | làm ví dụ |  | TOEIC (Hackers), Word Skills Advanced |
 | 4807 | exempt | miễn |  | TOEIC (Hackers) |
 | 4808 | Exercise | Tập luyện | /ˈɛksərsaɪz/ | IELTS · Health, Word Skills Intermediate, Oxford 3000 · A1 · n, v |
-| 4809 | exercise choice |  |  | Destination C1–C2 · collocation |
+| 4809 | exercise choice | thực hiện quyền lựa chọn |  | Destination C1–C2 · collocation |
 | 4810 | exercise one’s right | thực hiện quyền của một người |  | TOEIC (Hackers) |
 | 4811 | exert pressure on | gây áp lực lên |  | TOEIC (Hackers) |
 | 4812 | exhale | Thở ra. |  | TOEIC (Hackers) |
@@ -4884,7 +4884,7 @@
 | 4872 | exposition | triển lãm |  | TOEIC (Hackers) |
 | 4873 | exposure | tiếp xúc |  | TOEIC (Hackers), Oxford 5000 · B2 · n |
 | 4874 | express | diễn tả, biếu lộ, bày tỏ; nhanh, tốc hành |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · v |
-| 4875 | express belief(s) |  |  | Destination C1–C2 · collocation |
+| 4875 | express belief(s) | bày tỏ niềm tin |  | Destination C1–C2 · collocation |
 | 4876 | express mail | tốc hành |  | TOEIC (Hackers) |
 | 4877 | Expression | Sự biểu đạt | /ɪkˈsprɛʃən/ | IELTS · Art, Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 4878 | expressive | Giao tiếp; Diễn đạt | /ɪkˈsprɛsɪv/ | TOEIC (Hackers), IELTS · Appearance |
@@ -4936,8 +4936,8 @@
 | 4924 | fabulous | Cổ tích gì.; Tuyệt vời, đáng kinh ngạc | /fæbjələs/ | TOEIC (Hackers), IELTS · Fashion, Oxford 5000 · B2 · adj |
 | 4925 | Facade | Mặt tiền | /fəˈsɑːd/ | IELTS · Housing and Architecture |
 | 4926 | face | thế diện; đương đầu, đối phó, đối mặt (= do sth about; look towards) |  | TOEIC (Hackers), Word Skills Basic/Intermediate/Advanced, Oxford 3000 · A1 · n, v |
-| 4927 | face (up to) reality |  |  | Destination C1–C2 · collocation |
-| 4928 | face a threat |  |  | Destination C1–C2 · collocation |
+| 4927 | face (up to) reality | đối mặt với thực tế |  | Destination C1–C2 · collocation |
+| 4928 | face a threat | đối mặt mối đe doạ |  | Destination C1–C2 · collocation |
 | 4929 | face away from | quay mặt ra xa |  | TOEIC (Hackers) |
 | 4930 | Face mask | Mặt nạ | /feɪs mæsk/ | IELTS · Covid |
 | 4931 | face the prospect of | đối mặt với viễn cảnh |  | Word Skills Advanced |
@@ -4956,7 +4956,7 @@
 | 4944 | factually | thực tế |  | TOEIC (Hackers) |
 | 4945 | faculty | khoa; năng lực |  | Oxford 5000 · C1 · n |
 | 4946 | fade | fade |  | TOEIC (Hackers), Oxford 5000 · C1 · v |
-| 4947 | fade away | (= disappear slowly) |  | Destination C1–C2 · phrasal verb |
+| 4947 | fade away | mờ dần, phai dần (= disappear slowly) |  | Destination C1–C2 · phrasal verb |
 | 4948 | fail | trượt, thi rớt |  | Word Skills Intermediate, Oxford 3000 · A2 · v |
 | 4949 | fail an exam | trượt kỳ thi |  | Word Skills Basic |
 | 4950 | fail to do sth | không làm được |  | Word Skills Advanced |
@@ -4974,9 +4974,9 @@
 | 4962 | fake | giả |  | TOEIC (Hackers), Oxford 5000 · B2 · adj |
 | 4963 | fall | lộn nhào, bị đổ; Ngã, té | /fɔːl/ | TOEIC (Hackers), IELTS · Accident, Word Skills Intermediate, Oxford 3000 · A1 · n, v |
 | 4964 | fall asleep | ngủ thiếp đi |  | Word Skills Intermediate |
-| 4965 | fall be taken ill (with) |  |  | Destination C1–C2 · collocation |
+| 4965 | fall be taken ill (with) | ngã bệnh (vì) |  | Destination C1–C2 · collocation |
 | 4966 | fall behind | rớt lại đằng sau |  | TOEIC (Hackers) |
-| 4967 | fall ill |  |  | Destination C1–C2 · collocation |
+| 4967 | fall ill | ngã bệnh |  | Destination C1–C2 · collocation |
 | 4968 | fall in love | phải lòng |  | Destination C1–C2 · collocation |
 | 4969 | fall into (a category) | rơi vào (tình trạng); thuộc (nhóm) |  | Destination C1–C2 · collocation |
 | 4970 | fall into decay | xuống cấp |  | Word Skills Advanced |
@@ -4985,7 +4985,7 @@
 | 4973 | fall out with | cãi nhau với |  | Word Skills Intermediate |
 | 4974 | fall over | (hệ thống) sập (thân mật) |  | Word Skills Basic |
 | 4975 | fall short | không đáp ứng được (tiêu chuẩn, kỳ vọng (= not reach a particular level or to fail to achieve something you were trying to do) |  | Destination C1–C2 · idiom, Destination C1–C2 · collocation |
-| 4976 | fall to pieces |  |  | Destination C1–C2 · collocation |
+| 4976 | fall to pieces | tan nát, suy sụp |  | Destination C1–C2 · collocation |
 | 4977 | false | sai |  | Word Skills Basic, Oxford 3000 · A1 · adj |
 | 4978 | False expectations | Kỳ vọng sai lầm | /fɔls ˌɛkspɛkˈteɪʃənz/ | IELTS · Advertising |
 | 4979 | falsehood | sự dối trá |  | Word Skills Advanced |
@@ -4998,8 +4998,8 @@
 | 4986 | familiarize | làm quen |  | TOEIC (Hackers), Word Skills Advanced |
 | 4987 | familiarize oneself with | Làm quen với (v) |  | TOEIC (Hackers) |
 | 4988 | Family | Gia đình | /fæməli/ | IELTS · Family and Relationships, Oxford 3000 · A1 · adj, n |
-| 4989 | family friend |  |  | Destination C1–C2 · collocation |
-| 4990 | family name |  |  | Destination C1–C2 · collocation |
+| 4989 | family friend | bạn của gia đình |  | Destination C1–C2 · collocation |
+| 4990 | family name | họ |  | Destination C1–C2 · collocation |
 | 4991 | family name, first name | họ, tên |  | Word Skills Basic |
 | 4992 | family tree | gia phả, cây gia đình |  | Word Skills Basic, Destination C1–C2 · collocation |
 | 4993 | Family values | Giá trị gia đình | /fæməli ˈvælˌjuz/ | IELTS · Family and Relationships, Destination C1–C2 · collocation |
@@ -5083,15 +5083,15 @@
 | 5071 | fawn | Họ Hươu nai |  | TOEIC (Hackers) |
 | 5072 | fax | gởi bằng fax |  | TOEIC (Hackers) |
 | 5073 | fear | nỗi sợ; sợ |  | Word Skills Intermediate, Oxford 3000 · A2 · n, v |
-| 5074 | fear the worst |  |  | Destination C1–C2 · collocation |
+| 5074 | fear the worst | lo điều tệ nhất |  | Destination C1–C2 · collocation |
 | 5075 | feasibility study | nghiên cứu khả thi |  | TOEIC (Hackers) |
 | 5076 | feasible | khả thi |  | TOEIC (Hackers) |
 | 5077 | feather | lông vũ |  | Word Skills Advanced, Oxford 3000 · B2 · n |
 | 5078 | Feathers | Lông (của chim) | /ˈfɛðərz/ | IELTS · Animal, Word Skills Intermediate |
 | 5079 | feature | đặc trưng |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · A2 · n, v |
-| 5080 | feature film |  |  | Destination C1–C2 · collocation |
-| 5081 | feature sb/sth in |  |  | Destination C1–C2 · collocation |
-| 5082 | feature writer |  |  | Destination C1–C2 · collocation |
+| 5080 | feature film | phim truyện |  | Destination C1–C2 · collocation |
+| 5081 | feature sb/sth in | cho ai / cái gì xuất hiện trong |  | Destination C1–C2 · collocation |
+| 5082 | feature writer | người viết bài phóng sự chuyên đề |  | Destination C1–C2 · collocation |
 | 5083 | featured speaker | diễn giả nổi bật |  | TOEIC (Hackers) |
 | 5084 | February | tháng Hai |  | Oxford 3000 · A1 · n |
 | 5085 | fed up | chán ngấy |  | Word Skills Intermediate |
@@ -5102,17 +5102,17 @@
 | 5090 | feed | thức ăn gia súc; cho ăn |  | Oxford 3000 · A2 · n, v |
 | 5091 | feedback | phản hồi |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · n |
 | 5092 | feel | cảm thấy |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · n, v |
-| 5093 | feel as if/as though |  |  | Destination C1–C2 · collocation |
-| 5094 | feel at home |  |  | Destination C1–C2 · collocation |
-| 5095 | feel bad (about) |  |  | Destination C1–C2 · collocation |
+| 5093 | feel as if/as though | cảm thấy như thể |  | Destination C1–C2 · collocation |
+| 5094 | feel at home | cảm thấy như ở nhà |  | Destination C1–C2 · collocation |
+| 5095 | feel bad (about) | thấy áy náy (về) |  | Destination C1–C2 · collocation |
 | 5096 | feel free | Cứ thoải mái |  | Destination C1–C2 · collocation |
-| 5097 | feel guilty |  |  | Destination C1–C2 · collocation |
-| 5098 | feel like (doing) | (= doing sth) |  | Destination C1–C2 · collocation, Word Skills Intermediate |
+| 5097 | feel guilty | cảm thấy có lỗi |  | Destination C1–C2 · collocation |
+| 5098 | feel like (doing) | muốn (làm gì) (= doing sth) |  | Destination C1–C2 · collocation, Word Skills Intermediate |
 | 5099 | feel sick | Cháu thấy khó ở à? |  | TOEIC (Hackers), Destination C1–C2 · collocation |
-| 5100 | feel strongly about |  |  | Destination C1–C2 · collocation |
-| 5101 | feel the effects/ benefits of |  |  | Destination C1–C2 · collocation |
-| 5102 | feel your way |  |  | Destination C1–C2 · collocation |
-| 5103 | feel/look small |  |  | Destination C1–C2 · collocation |
+| 5100 | feel strongly about | có quan điểm mạnh mẽ về |  | Destination C1–C2 · collocation |
+| 5101 | feel the effects/ benefits of | cảm nhận tác động / lợi ích của |  | Destination C1–C2 · collocation |
+| 5102 | feel your way | dò dẫm; thận trọng làm quen |  | Destination C1–C2 · collocation |
+| 5103 | feel/look small | cảm thấy / trông nhỏ bé, xấu hổ |  | Destination C1–C2 · collocation |
 | 5104 | feeling | cảm giác |  | Oxford 3000 · A1 · n |
 | 5105 | fees | học phí, lệ phí |  | Word Skills Intermediate |
 | 5106 | feet | bàn chân (số nhiều) |  | Word Skills Basic |
@@ -5149,11 +5149,11 @@
 | 5137 | fifteen | mười lăm |  | Oxford 3000 · A1 · number |
 | 5138 | fifth | thứ năm |  | Oxford 3000 · A1 · number |
 | 5139 | fifty | năm mươi |  | Oxford 3000 · A1 · number |
-| 5140 | fifty-fifty | (= equal, or into two equal parts) |  | Destination C1–C2 · idiom |
+| 5140 | fifty-fifty | chia đôi, năm mươi – năm mươi (= equal, or into two equal parts) |  | Destination C1–C2 · idiom |
 | 5141 | fig | quả sung, cây sung |  | Word Skills Intermediate |
 | 5142 | fight | đánh nhau; trận đấu |  | Word Skills Intermediate, Oxford 3000 · A2 · n, v |
 | 5143 | fight a losing battle | nỗ lực làm một việc mà nắm chắc phần thất |  | Word Skills Advanced |
-| 5144 | fight/combat crime |  |  | Destination C1–C2 · collocation |
+| 5144 | fight/combat crime | chống tội phạm |  | Destination C1–C2 · collocation |
 | 5145 | fighter | máy bay tiêm kích |  | Word Skills Intermediate |
 | 5146 | fighting | giao tranh |  | Oxford 3000 · B1 · n |
 | 5147 | figurative | nghĩa bóng |  | Word Skills Advanced |
@@ -5168,7 +5168,7 @@
 | 5156 | filing cabinet | Tủ hồ sơ | /ˈfaɪlɪŋ ˈkæbɪnɪt/ | TOEIC (Hackers), IELTS · Housing and Architecture |
 | 5157 | fill | tô phủ kín |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · v |
 | 5158 | fill in for | điền vào cho |  | TOEIC (Hackers) |
-| 5159 | fill in/out a form |  |  | Destination C1–C2 · collocation |
+| 5159 | fill in/out a form | điền vào mẫu đơn |  | Destination C1–C2 · collocation |
 | 5160 | fill with | điền vào |  | TOEIC (Hackers) |
 | 5161 | fillet | phi lê (Anh) |  | Word Skills Basic |
 | 5162 | Filling | No, no căng | /fɪlɪŋ/ | IELTS · Food and Drink, Word Skills Intermediate |
@@ -5203,7 +5203,7 @@
 | 5191 | Filmography | Danh sách phim đã tham gia | /fɪlˈmɒɡrəfi/ | IELTS · Film |
 | 5192 | filter | bộ lọc |  | Oxford 5000 · C1 · n, v |
 | 5193 | filthy | bẩn thỉu |  | Word Skills Intermediate |
-| 5194 | filthy/stinking rich |  |  | Destination C1–C2 · collocation |
+| 5194 | filthy/stinking rich | giàu sụ |  | Destination C1–C2 · collocation |
 | 5195 | final | cuối cùng, cuộc đấu chung kết |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · A1 · adj, n |
 | 5196 | final outcome | kết quả cuối cùng |  | Word Skills Advanced |
 | 5197 | final resort | cách cuối cùng |  | Word Skills Advanced |
@@ -5223,20 +5223,20 @@
 | 5211 | find | tìm thấy; thấy rằng |  | Word Skills Basic, Oxford 3000 · A1 · v |
 | 5212 | find a solution | tìm giải pháp |  | Word Skills Intermediate |
 | 5213 | find out | phát hiện được. |  | TOEIC (Hackers), Word Skills Basic |
-| 5214 | find sb doing |  |  | Destination C1–C2 · collocation |
-| 5215 | find sth difficult/interesting/etc |  |  | Destination C1–C2 · collocation |
-| 5216 | find the time |  |  | Destination C1–C2 · collocation |
-| 5217 | find your way |  |  | Destination C1–C2 · collocation |
-| 5218 | find yourself (doing) |  |  | Destination C1–C2 · collocation |
-| 5219 | (find/prove/establish) a link between |  |  | Destination C1–C2 · collocation |
+| 5214 | find sb doing | bắt gặp ai đang làm |  | Destination C1–C2 · collocation |
+| 5215 | find sth difficult/interesting/etc | thấy cái gì khó / thú vị |  | Destination C1–C2 · collocation |
+| 5216 | find the time | thu xếp thời gian |  | Destination C1–C2 · collocation |
+| 5217 | find your way | tìm được đường |  | Destination C1–C2 · collocation |
+| 5218 | find yourself (doing) | thấy mình (đang làm gì) |  | Destination C1–C2 · collocation |
+| 5219 | (find/prove/establish) a link between | (tìm / chứng minh / thiết lập) mối liên hệ giữa |  | Destination C1–C2 · collocation |
 | 5220 | finding | phát hiện |  | Oxford 3000 · B2 · n |
 | 5221 | findings | các phát hiện |  | TOEIC (Hackers), Word Skills Advanced |
 | 5222 | fine | tinh tế (= OK; in good health) |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A1 · adj, n, v |
-| 5223 | fine by sb |  |  | Destination C1–C2 · collocation |
-| 5224 | fine details/points |  |  | Destination C1–C2 · collocation |
+| 5223 | fine by sb | ai đó thấy ổn |  | Destination C1–C2 · collocation |
+| 5224 | fine details/points | chi tiết nhỏ / điểm tinh tế |  | Destination C1–C2 · collocation |
 | 5225 | Fine dining | Ăn uống sang trọng | /faɪn ˈdaɪnɪŋ/ | IELTS · Food and Drink |
-| 5226 | fine line between |  |  | Destination C1–C2 · collocation |
-| 5227 | fine print floor take/have the floor |  |  | Destination C1–C2 · collocation |
+| 5226 | fine line between | ranh giới mong manh giữa |  | Destination C1–C2 · collocation |
+| 5227 | fine print floor take/have the floor | chữ in nhỏ (điều khoản); phát biểu (giành quyền nói) |  | Destination C1–C2 · collocation |
 | 5228 | finely | đẹp đẽ, tế nhị, cao thượng |  | TOEIC (Hackers) |
 | 5229 | finger | ngón tay |  | Oxford 3000 · A2 · n |
 | 5230 | fingernails | móng tay |  | Word Skills Advanced |
@@ -5263,11 +5263,11 @@
 | 5251 | first class | Đóng học phí trước. |  | TOEIC (Hackers) |
 | 5252 | first come, first served | ai đến trước được phục vụ trước |  | Word Skills Advanced |
 | 5253 | first half | hiệp một |  | Word Skills Basic |
-| 5254 | first impressions |  |  | Destination C1–C2 · collocation |
+| 5254 | first impressions | ấn tượng ban đầu |  | Destination C1–C2 · collocation |
 | 5255 | first of all | trước hết |  | Word Skills Basic |
 | 5256 | first priority | hạng mục ưu tiên hàng đầu |  | TOEIC (Hackers) |
 | 5257 | first step | bước 1 |  | TOEIC (Hackers) |
-| 5258 | first/only/etc sth ever (to) |  |  | Destination C1–C2 · collocation |
+| 5258 | first/only/etc sth ever (to) | … đầu tiên / duy nhất từ trước đến nay |  | Destination C1–C2 · collocation |
 | 5259 | firsthand | - Trực tiếp. |  | TOEIC (Hackers) |
 | 5260 | firstly | trước hết |  | Word Skills Basic, Oxford 3000 · A2 · adv |
 | 5261 | fiscal | thuế vụ viên |  | TOEIC (Hackers), Oxford 5000 (Mỹ) · C1 · adj |
@@ -5286,10 +5286,10 @@
 | 5274 | five | năm |  | Oxford 3000 · A1 · number |
 | 5275 | five past six | sáu giờ năm phút |  | Word Skills Basic |
 | 5276 | fix | sửa chữa |  | Word Skills Intermediate, Oxford 3000 · A2 · n, v |
-| 5277 | fix up | (= clean, repair or decorate something) |  | Destination C1–C2 · phrasal verb |
+| 5277 | fix up | sửa sang, tu sửa (= clean, repair or decorate something) |  | Destination C1–C2 · phrasal verb |
 | 5278 | fixed | cố định |  | Oxford 3000 · B1 · adj |
 | 5279 | fixed price | giá cố định |  | TOEIC (Hackers) |
-| 5280 | fixed term |  |  | Destination C1–C2 · collocation |
+| 5280 | fixed term | có thời hạn cố định |  | Destination C1–C2 · collocation |
 | 5281 | fixture | tích sản lắp đặt cố định |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 5282 | fizzy drink | nước có ga (Anh) |  | Word Skills Intermediate |
 | 5283 | flag | lá cờ |  | Word Skills Intermediate, Oxford 3000 · B1 · n |
@@ -5332,7 +5332,7 @@
 | 5320 | floor | sàn, tầng; Sàn (= level of a building; surface you walk on) | /flɔːr/ | TOEIC (Hackers), IELTS · Housing and Architecture, Word Skills Basic, Oxford 3000 · A1 · n |
 | 5321 | floor manager | trưởng gian hàng |  | TOEIC (Hackers) |
 | 5322 | floor plan | Quy hoạch tầng; Bản vẽ mặt bằng | /flɔr plæn/ | TOEIC (Hackers), IELTS · Housing and Architecture, Destination C1–C2 · collocation |
-| 5323 | floor show |  |  | Destination C1–C2 · collocation |
+| 5323 | floor show | màn biểu diễn (ở hộp đêm) |  | Destination C1–C2 · collocation |
 | 5324 | flooring | Lót sàn |  | TOEIC (Hackers) |
 | 5325 | flop | thất bại |  | Word Skills Advanced |
 | 5326 | flour | bột mì |  | Word Skills Intermediate, Oxford 3000 · B1 · n |
@@ -5359,11 +5359,11 @@
 | 5347 | Flute | Sáo | /flut/ | IELTS · Music, Word Skills Intermediate |
 | 5348 | Flutist | Người chơi sáo | /ˈfluːtɪst/ | IELTS · Music |
 | 5349 | Fly | Bay | /flaɪ/ | IELTS · Animal, Word Skills Basic/Intermediate, Oxford 3000 · A1 · n, v |
-| 5350 | fly a flag/kite |  |  | Destination C1–C2 · collocation |
-| 5351 | fly at |  |  | Destination C1–C2 · collocation |
-| 5352 | fly by |  |  | Destination C1–C2 · collocation |
+| 5350 | fly a flag/kite | treo cờ / thả diều |  | Destination C1–C2 · collocation |
+| 5351 | fly at | lao vào tấn công |  | Destination C1–C2 · collocation |
+| 5352 | fly by | (thời gian) trôi nhanh |  | Destination C1–C2 · collocation |
 | 5353 | fly off the handle | nổi trận lôi đình (= suddenly become extremely angry without a good reason) |  | Destination C1–C2 · idiom |
-| 5354 | fly open |  |  | Destination C1–C2 · collocation |
+| 5354 | fly open | bật mở ra |  | Destination C1–C2 · collocation |
 | 5355 | flying | bay |  | Oxford 3000 · A2 · adj, n |
 | 5356 | Flyover | Cầu vượt | /ˈflaɪˌoʊvər/ | IELTS · City |
 | 5357 | Focal point | Điểm lực | /ˈfoʊkəl pɔɪnt/ | IELTS · Art |
@@ -5376,13 +5376,13 @@
 | 5364 | Foghorn | Đèn sương mù | /fɒɡhɔːrn/ | IELTS · Weather |
 | 5365 | foil | kim loại lá . |  | TOEIC (Hackers) |
 | 5366 | fold | gấp, vén, xắn; nếp gấp |  | TOEIC (Hackers), Oxford 3000 · B1 · n, v |
-| 5367 | fold flat |  |  | Destination C1–C2 · collocation |
+| 5367 | fold flat | gấp phẳng |  | Destination C1–C2 · collocation |
 | 5368 | fold in half | gấp làm đôi |  | TOEIC (Hackers), Word Skills Intermediate |
 | 5369 | fold in half/two | gấp đôi |  | Word Skills Intermediate |
 | 5370 | fold in two | gấp đôi |  | Word Skills Intermediate |
-| 5371 | fold sth in half/two |  |  | Destination C1–C2 · collocation |
-| 5372 | fold sth neatly/carefully |  |  | Destination C1–C2 · collocation |
-| 5373 | fold your arms |  |  | Destination C1–C2 · collocation |
+| 5371 | fold sth in half/two | gấp đôi cái gì |  | Destination C1–C2 · collocation |
+| 5372 | fold sth neatly/carefully | gấp gọn gàng / cẩn thận |  | Destination C1–C2 · collocation |
+| 5373 | fold your arms | khoanh tay |  | Destination C1–C2 · collocation |
 | 5374 | folded arms | khoanh tay |  | Word Skills Advanced |
 | 5375 | folder | folder (for holding papers; on a computer) |  | TOEIC (Hackers), Word Skills Basic |
 | 5376 | folding | gấp được |  | Oxford 3000 · B2 · adj |
@@ -5391,19 +5391,19 @@
 | 5379 | Folk art | Nghệ thuật dân gian | /foʊk ɑːrt/ | IELTS · Culture, IELTS · Art |
 | 5380 | Folklore | Truyền thuyết dân gian; Văn hóa dân gian | /ˈfoʊkloʊr/ | IELTS · Culture, IELTS · History and Heritage |
 | 5381 | follow | đi theo sau, tiếp theo |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · A1 · v |
-| 5382 | follow an example |  |  | Destination C1–C2 · collocation |
+| 5382 | follow an example | noi gương |  | Destination C1–C2 · collocation |
 | 5383 | follow in sb's footsteps | theo bước ai |  | Word Skills Advanced |
 | 5384 | follow instructions | làm theo hướng dẫn |  | Word Skills Intermediate |
-| 5385 | follow sb's advice |  |  | Destination C1–C2 · collocation |
-| 5386 | follow sb's argument/etc |  |  | Destination C1–C2 · collocation |
-| 5387 | follow sb's every move |  |  | Destination C1–C2 · collocation |
-| 5388 | follow sb's lead |  |  | Destination C1–C2 · collocation |
+| 5385 | follow sb's advice | làm theo lời khuyên của ai |  | Destination C1–C2 · collocation |
+| 5386 | follow sb's argument/etc | hiểu theo lập luận của ai |  | Destination C1–C2 · collocation |
+| 5387 | follow sb's every move | theo dõi từng bước của ai |  | Destination C1–C2 · collocation |
+| 5388 | follow sb's lead | noi theo ai |  | Destination C1–C2 · collocation |
 | 5389 | follow suit | làm theo/ làm tương tự |  | Destination C1–C2 · collocation |
 | 5390 | follow up | theo dõi tiếp, hỏi lại, xử lý tiếp (= check the health of someone who has received medical treatment in order to be certain that…) (= try to find out more about something or do something more to deal with it follow-up (n)) |  | Destination C1–C2 · phrasal verb |
 | 5391 | follow up on | Theo dõi |  | TOEIC (Hackers) |
 | 5392 | follow your nose | làm theo bảnnăngcủaminh (= do what you feel is right in a particular situation, although you are not certain) (= go straight forward, without turning) |  | Destination C1–C2 · idiom |
 | 5393 | follow-up | theo dõi |  | TOEIC (Hackers), Oxford 5000 · C1 · adj, n |
-| 5394 | follow/obey sth to the letter |  |  | Destination C1–C2 · collocation |
+| 5394 | follow/obey sth to the letter | làm theo đúng từng chữ |  | Destination C1–C2 · collocation |
 | 5395 | followed by | THEO DÕI BỞI |  | TOEIC (Hackers) |
 | 5396 | follower | người theo dõi |  | Oxford 5000 · B2 · n |
 | 5397 | following | đang theo dõi (= further to; group of supporters) |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · A2 · adj, n, prep |
@@ -5432,45 +5432,45 @@
 | 5420 | Footwear | Giày dép | /fʊtˌwɛr/ | IELTS · Fashion |
 | 5421 | for | cho, vì, trong (khoảng thời gian) |  | Word Skills Basic, Oxford 3000 · A1 · prep |
 | 5422 | for a change | Chỉ để thay đồ thôi. |  | TOEIC (Hackers) |
-| 5423 | for a laugh |  |  | Destination C1–C2 · collocation |
+| 5423 | for a laugh | cho vui |  | Destination C1–C2 · collocation |
 | 5424 | for a short time | trong một thời gian ngắn |  | TOEIC (Hackers) |
-| 5425 | for a start |  |  | Destination C1–C2 · collocation |
+| 5425 | for a start | trước hết |  | Destination C1–C2 · collocation |
 | 5426 | for a while | một lúc, một thời gian |  | Word Skills Basic |
 | 5427 | for ages | cho mọi lứa tuổi |  | TOEIC (Hackers) |
 | 5428 | for an hour or so | khoảng một tiếng |  | Word Skills Basic |
-| 5429 | (for any) length of time |  |  | Destination C1–C2 · collocation |
+| 5429 | (for any) length of time | (trong) một khoảng thời gian (dài) |  | Destination C1–C2 · collocation |
 | 5430 | for better or (for) worse | dù tốt hay xấu SỐ |  | Destination C1–C2 · collocation |
 | 5431 | for business | + Đối với doanh nghiệp |  | TOEIC (Hackers) |
-| 5432 | for effect |  |  | Destination C1–C2 · collocation |
+| 5432 | for effect | để gây ấn tượng, làm màu |  | Destination C1–C2 · collocation |
 | 5433 | for example | ví dụ |  | Word Skills Intermediate |
 | 5434 | for free | Miễn phí? |  | TOEIC (Hackers) |
 | 5435 | for good | vĩnh viễn (= permanently, without the possibility of change in the future) |  | Destination C1–C2 · idiom |
-| 5436 | for hours (on end) |  |  | Destination C1–C2 · collocation |
+| 5436 | for hours (on end) | hàng giờ liền |  | Destination C1–C2 · collocation |
 | 5437 | for instance | ví dụ |  | Word Skills Intermediate |
 | 5438 | for large purchases | cho các giao dịch mua lớn |  | TOEIC (Hackers) |
 | 5439 | for lease | <g id="1">Khai thác cho thuê</g> |  | TOEIC (Hackers) |
 | 5440 | for my money | theo tôi / theo ý kiến tôi/ với tôi thì |  | Destination C1–C2 · collocation |
 | 5441 | for now | - Là tạm thời thôi |  | TOEIC (Hackers), Destination C1–C2 · collocation |
 | 5442 | for sale | để bán |  | TOEIC (Hackers) |
-| 5443 | for sb's consideration |  |  | Destination C1–C2 · collocation |
-| 5444 | for sb's own good |  |  | Destination C1–C2 · collocation |
+| 5443 | for sb's consideration | để ai xem xét |  | Destination C1–C2 · collocation |
+| 5444 | for sb's own good | vì lợi ích của chính ai |  | Destination C1–C2 · collocation |
 | 5445 | for some reason | vì lý do nào đó |  | Word Skills Advanced |
 | 5446 | for sure | Chắc chắn rồi |  | Word Skills Intermediate |
-| 5447 | for the asking |  |  | Destination C1–C2 · collocation |
+| 5447 | for the asking | chỉ cần hỏi là có |  | Destination C1–C2 · collocation |
 | 5448 | for the benefit of | lợi ích của |  | TOEIC (Hackers) |
 | 5449 | for the sake of | vì lợi ích của |  | TOEIC (Hackers) |
 | 5450 | for the time being | tạm thời (for now) |  | Word Skills Advanced, Destination C1–C2 · idiom |
-| 5451 | for want of way get in sb's way |  |  | Destination C1–C2 · collocation |
-| 5452 | for years |  |  | Destination C1–C2 · collocation |
+| 5451 | for want of way get in sb's way | vì thiếu; cản đường ai |  | Destination C1–C2 · collocation |
+| 5452 | for years | nhiều năm |  | Destination C1–C2 · collocation |
 | 5453 | for your own safety | Vì sự an toàn của các bạn thôi. |  | TOEIC (Hackers) |
-| 5454 | (for) hours/weeks/etc on end |  |  | Destination C1–C2 · collocation |
+| 5454 | (for) hours/weeks/etc on end | hàng giờ / hàng tuần liền |  | Destination C1–C2 · collocation |
 | 5455 | forage | lục lọi |  | TOEIC (Hackers) |
 | 5456 | forbid | Cấm |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · B2 · v |
 | 5457 | force | sức mạnh; ép buộc, cưỡng ép |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n, v |
-| 5458 | force a smile |  |  | Destination C1–C2 · collocation |
-| 5459 | force sb to do |  |  | Destination C1–C2 · collocation |
-| 5460 | force sth on sb |  |  | Destination C1–C2 · collocation |
-| 5461 | force your way into/through |  |  | Destination C1–C2 · collocation |
+| 5458 | force a smile | gượng cười |  | Destination C1–C2 · collocation |
+| 5459 | force sb to do | ép ai làm |  | Destination C1–C2 · collocation |
+| 5460 | force sth on sb | ép ai nhận cái gì |  | Destination C1–C2 · collocation |
+| 5461 | force your way into/through | cố chen vào / qua |  | Destination C1–C2 · collocation |
 | 5462 | Forced labor | Lao động cưỡng bức | /fɔrst ˈleɪbər/ | IELTS · Social issues |
 | 5463 | forced labour | lao động cưỡng bức |  | Word Skills Advanced |
 | 5464 | Forced marriage | Hôn nhân cưỡng bức | /fɔrst ˈmærɪdʒ/ | IELTS · Social issues |
@@ -5493,7 +5493,7 @@
 | 5481 | Forest | Rừng | /ˈfɔrɪst/ | IELTS · Countryside, Oxford 3000 · A2 · n |
 | 5482 | forest fire | cháy rừng |  | Word Skills Advanced |
 | 5483 | forever | mãi mãi |  | Word Skills Advanced, Oxford 3000 · B1 · adv |
-| 5484 | forever/for ever |  |  | Destination C1–C2 · collocation |
+| 5484 | forever/for ever | mãi mãi |  | Destination C1–C2 · collocation |
 | 5485 | forfeit | Để mất, mất quyền, bị tước. |  | TOEIC (Hackers) |
 | 5486 | forge | RÈN |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · v |
 | 5487 | forgery | sự giả mạo; Giả mạo | /fɔːrdʒəri/ | TOEIC (Hackers), IELTS · Crime, Word Skills Advanced |
@@ -5503,7 +5503,7 @@
 | 5491 | fork | cái nĩa |  | Word Skills Basic, Oxford 3000 · A2 · n |
 | 5492 | Forklift | Xe nâng | /fɔːrklɪft/ | IELTS · Accident, IELTS · Transportation |
 | 5493 | form | biểu mẫu; Hình thức | /fɔːrm/ | TOEIC (Hackers), IELTS · Art, Word Skills Advanced, Oxford 3000 · A1 · n, v |
-| 5494 | form an impression of |  |  | Destination C1–C2 · collocation |
+| 5494 | form an impression of | hình thành ấn tượng về |  | Destination C1–C2 · collocation |
 | 5495 | formaily | hàng ngày |  | TOEIC (Hackers) |
 | 5496 | formal | hình thức |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · A2 · adj |
 | 5497 | formality | thủ tục |  | TOEIC (Hackers) |
@@ -5535,8 +5535,8 @@
 | 5523 | foul play | hành vi gian lận |  | Word Skills Advanced |
 | 5524 | found | thành lập |  | Word Skills Intermediate, Oxford 3000 · B2 · v |
 | 5525 | foundation | thành lập,sáng lập; tổ chức; Nền móng | /faʊnˈdeɪʃən/ | TOEIC (Hackers), IELTS · Housing and Architecture, Oxford 5000 · B2 · n |
-| 5526 | foundation course |  |  | Destination C1–C2 · collocation |
-| 5527 | foundation stone |  |  | Destination C1–C2 · collocation |
+| 5526 | foundation course | khoá học dự bị |  | Destination C1–C2 · collocation |
+| 5527 | foundation stone | viên đá móng |  | Destination C1–C2 · collocation |
 | 5528 | foundations | kem nền |  | Word Skills Advanced |
 | 5529 | founder | người sáng lập |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · B2 · n |
 | 5530 | fountain | giếng dầu phun; Đài phun nước | /ˈfaʊntən/ | TOEIC (Hackers), IELTS · Housing and Architecture |
@@ -5558,17 +5558,17 @@
 | 5546 | frankly | Một cách thành thật... |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · adv |
 | 5547 | Fraud | Lừa đảo | /frɔːd/ | IELTS · Crime, Oxford 5000 · B2 · n |
 | 5548 | Fraudulent | Lừa đảo | /frɔːdjʊlənt/ | IELTS · Crime |
-| 5549 | freak weather |  |  | Destination C1–C2 · collocation |
+| 5549 | freak weather | thời tiết bất thường |  | Destination C1–C2 · collocation |
 | 5550 | freckles | tàn nhang |  | Word Skills Advanced |
 | 5551 | free | miễn phí |  | TOEIC (Hackers), Word Skills Basic/Intermediate/Advanced, Oxford 3000 · A1 · adj, adv, v |
 | 5552 | free admission | vào cửa không mất tiền |  | TOEIC (Hackers) |
-| 5553 | free and easy |  |  | Destination C1–C2 · collocation |
-| 5554 | free from |  |  | Destination C1–C2 · collocation |
+| 5553 | free and easy | thoải mái, dễ dãi |  | Destination C1–C2 · collocation |
+| 5554 | free from | không có, thoát khỏi |  | Destination C1–C2 · collocation |
 | 5555 | free of charge | miễn phí bốc dỡ |  | TOEIC (Hackers), Word Skills Advanced |
 | 5556 | free parking | Miễn phí đỗ xe |  | TOEIC (Hackers) |
-| 5557 | free sb from |  |  | Destination C1–C2 · collocation |
-| 5558 | free time |  |  | Destination C1–C2 · collocation |
-| 5559 | free to do |  |  | Destination C1–C2 · collocation |
+| 5557 | free sb from | giải thoát ai khỏi |  | Destination C1–C2 · collocation |
+| 5558 | free time | thời gian rảnh |  | Destination C1–C2 · collocation |
+| 5559 | free to do | được tự do làm |  | Destination C1–C2 · collocation |
 | 5560 | Free trade | Thương mại tự do | /friː treɪd/ | IELTS · Globalization |
 | 5561 | Free-range chickens | Gà chăn thả, gà chăn nuôi thoảng đạt | /friː reɪndʒ ˈtʃɪkənz/ | IELTS · Animal |
 | 5562 | freedom | sự tự do |  | Word Skills Intermediate, Oxford 3000 · B2 · n |
@@ -5589,11 +5589,11 @@
 | 5577 | fresh | tươi, tươi tắn; Tươi | /frɛʃ/ | TOEIC (Hackers), IELTS · Food and Drink, Word Skills Basic, Oxford 3000 · A2 · adj |
 | 5578 | Fresh air | Không khí trong lành | /frɛʃ ɛr/ | IELTS · Countryside, Destination C1–C2 · collocation |
 | 5579 | fresh food | thực phẩm tươi |  | Word Skills Basic |
-| 5580 | fresh from |  |  | Destination C1–C2 · collocation |
+| 5580 | fresh from | vừa mới từ (đâu đó) về |  | Destination C1–C2 · collocation |
 | 5581 | Fresh milk | Sữa tươi | /frɛʃ mɪlk/ | IELTS · Countryside |
-| 5582 | fresh out of |  |  | Destination C1–C2 · collocation |
+| 5582 | fresh out of | vừa mới hết; vừa mới ra (trường) |  | Destination C1–C2 · collocation |
 | 5583 | Fresh produce | Sản phẩm tươi sống | /frɛʃ prəˈdus/ | IELTS · Countryside |
-| 5584 | fresh start |  |  | Destination C1–C2 · collocation |
+| 5584 | fresh start | khởi đầu mới |  | Destination C1–C2 · collocation |
 | 5585 | freshman | sinh viên năm nhất |  | Oxford 5000 (Mỹ) · C1 · n |
 | 5586 | freshness | Làm tươi |  | TOEIC (Hackers) |
 | 5587 | Friday | thứ Sáu |  | Oxford 3000 · A1 · n |
@@ -5601,11 +5601,11 @@
 | 5589 | fried | chiên, rán |  | Word Skills Basic |
 | 5590 | Fried chicken | Gà rán | /fraɪd ˈtʃɪkɪn/ | IELTS · Food and Drink |
 | 5591 | friend | bạn |  | Oxford 3000 · A1 · n |
-| 5592 | friend of the family |  |  | Destination C1–C2 · collocation |
+| 5592 | friend of the family | bạn của gia đình |  | Destination C1–C2 · collocation |
 | 5593 | friendly | thân thiện, thân mật |  | TOEIC (Hackers), Word Skills Basic/Intermediate/Advanced, Oxford 3000 · A1 · adj |
 | 5594 | friendly fire | bắn nhầm quân mình |  | Word Skills Advanced |
 | 5595 | friendly takeover | thâu tóm thân thiện |  | Word Skills Advanced |
-| 5596 | friends with |  |  | Destination C1–C2 · collocation |
+| 5596 | friends with | làm bạn với |  | Destination C1–C2 · collocation |
 | 5597 | friendship | tình bạn |  | Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 5598 | frighten | làm hoảng sợ |  | TOEIC (Hackers), Oxford 3000 · B1 · v |
 | 5599 | frightened | sợ hãi |  | Word Skills Basic, Oxford 3000 · B1 · adj |
@@ -5617,15 +5617,15 @@
 | 5605 | frog | con ếch |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 5606 | Frogs | Ếch | /frɑɡz/ | IELTS · Animal |
 | 5607 | from | từ (= origin; time) |  | Word Skills Basic, Oxford 3000 · A1 · prep |
-| 5608 | from another a different sb's etc perspective |  |  | Destination C1–C2 · collocation |
+| 5608 | from another a different sb's etc perspective | từ góc nhìn khác |  | Destination C1–C2 · collocation |
 | 5609 | from around the globe | từ khắp nơi trên thế giới |  | TOEIC (Hackers) |
-| 5610 | from day to day |  |  | Destination C1–C2 · collocation |
-| 5611 | from near and far |  |  | Destination C1–C2 · collocation |
+| 5610 | from day to day | ngày qua ngày, tuỳ từng ngày |  | Destination C1–C2 · collocation |
+| 5611 | from near and far | từ khắp nơi |  | Destination C1–C2 · collocation |
 | 5612 | from now | từ giờ |  | TOEIC (Hackers) |
 | 5613 | from now on | từ giờ trở đi |  | Destination C1–C2 · collocation |
-| 5614 | from now that moment then on |  |  | Destination C1–C2 · collocation |
-| 5615 | from the bottom of my heart |  |  | Destination C1–C2 · collocation |
-| 5616 | from the perspective of |  |  | Destination C1–C2 · collocation |
+| 5614 | from now that moment then on | từ giờ / từ lúc đó trở đi |  | Destination C1–C2 · collocation |
+| 5615 | from the bottom of my heart | tận đáy lòng |  | Destination C1–C2 · collocation |
+| 5616 | from the perspective of | từ góc nhìn của |  | Destination C1–C2 · collocation |
 | 5617 | from the word go | ngay từ lúc bắt đầu |  | Destination C1–C2 · collocation |
 | 5618 | from this day onward | từ ngày này trở đi |  | TOEIC (Hackers) |
 | 5619 | from time to time | thỉnh thoảng (= sometimes, but not often) |  | Word Skills Intermediate/Advanced, Destination C1–C2 · idiom |
@@ -5666,8 +5666,8 @@
 | 5654 | fulfill | Hoàn thành, thực hiện. |  | TOEIC (Hackers), Oxford 5000 (Mỹ) · B2 · v |
 | 5655 | fulfilling | thỏa mãn, ý nghĩa |  | Word Skills Advanced |
 | 5656 | full | đầy, đầy đủ |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · adj |
-| 5657 | full of praise for |  |  | Destination C1–C2 · collocation |
-| 5658 | full size |  |  | Destination C1–C2 · collocation |
+| 5657 | full of praise for | hết lời khen ngợi |  | Destination C1–C2 · collocation |
+| 5658 | full size | cỡ thật |  | Destination C1–C2 · collocation |
 | 5659 | full stop | dấu chấm (Anh) |  | Word Skills Intermediate |
 | 5660 | Full-figured | Cơ bản, đầy đặn | /fʊl ˈfɪɡjərd/ | IELTS · Appearance |
 | 5661 | Full-time | Toàn thời gian | /ˌfʊl ˈtaɪm/ | IELTS · Employment, Word Skills Basic, Oxford 5000 · B2 · adj, adv |
@@ -5694,7 +5694,7 @@
 | 5682 | furthermore | hơn nữa |  | Word Skills Intermediate, Oxford 3000 · B2 · adv |
 | 5683 | Futon | Giường lật | /ˈfuːtɒn/ | IELTS · Housing and Architecture |
 | 5684 | future | tương lai |  | Oxford 3000 · A1 · adj, n |
-| 5685 | future generations |  |  | Destination C1–C2 · collocation |
+| 5685 | future generations | thế hệ tương lai |  | Destination C1–C2 · collocation |
 | 5686 | fyi | để bạn biết (for your information) |  | Word Skills Advanced |
 | 5687 | G get paid | G được chi trả |  | TOEIC (Hackers) |
 | 5688 | g(gram(s)) | gam |  | Word Skills Intermediate |
@@ -5704,8 +5704,8 @@
 | 5692 | gain access to | tiếp cận được |  | Word Skills Advanced |
 | 5693 | gain control of | giành quyền kiểm soát |  | Word Skills Advanced |
 | 5694 | gain sb's respect | được ai tôn trọng |  | Word Skills Advanced |
-| 5695 | gain/get/have/take the upper hand | (= gain/get/have/ take control or advantage over a person or situation) |  | Destination C1–C2 · idiom |
-| 5696 | gain/lose sb's respect |  |  | Destination C1–C2 · collocation |
+| 5695 | gain/get/have/take the upper hand | chiếm ưu thế, nắm thế thượng phong (= gain/get/have/ take control or advantage over a person or situation) |  | Destination C1–C2 · idiom |
+| 5696 | gain/lose sb's respect | được / mất sự tôn trọng của ai |  | Destination C1–C2 · collocation |
 | 5697 | Galaxy | Ngân hà | /ˈɡæləksi/ | IELTS · Science |
 | 5698 | Gale | Gió mạnh | /ɡeɪl/ | IELTS · Weather, Word Skills Intermediate |
 | 5699 | gale-force winds | gió cấp bão |  | Word Skills Advanced |
@@ -5808,7 +5808,7 @@
 | 5796 | get a grade | được điểm |  | Word Skills Basic |
 | 5797 | get a job | có việc làm |  | Word Skills Basic |
 | 5798 | get a loan | nhận khoản vay |  | TOEIC (Hackers) |
-| 5799 | get a move on |  |  | Destination C1–C2 · collocation |
+| 5799 | get a move on | nhanh lên |  | Destination C1–C2 · collocation |
 | 5800 | get a permit | xin giấy phép |  | TOEIC (Hackers) |
 | 5801 | get a prescription filled | mua thuốc theo toa |  | TOEIC (Hackers) |
 | 5802 | get a replacement | nhận sản phẩm thay thế |  | TOEIC (Hackers) |
@@ -5828,12 +5828,12 @@
 | 5816 | get by | xoay xở, sống qua ngày |  | Word Skills Advanced |
 | 5817 | get carried away | bị cuốn theo |  | Word Skills Advanced |
 | 5818 | get divorced | ly dị |  | Word Skills Basic/Intermediate |
-| 5819 | get down | (= make someone feel sad or lose hope, start feeling sad or losing hope) |  | Destination C1–C2 · phrasal verb |
+| 5819 | get down | làm (ai) chán nản, buồn (= make someone feel sad or lose hope, start feeling sad or losing hope) |  | Destination C1–C2 · phrasal verb |
 | 5820 | get dressed | mặc quần áo |  | Word Skills Basic/Intermediate |
-| 5821 | get going |  |  | Destination C1–C2 · collocation |
+| 5821 | get going | bắt đầu đi / làm |  | Destination C1–C2 · collocation |
 | 5822 | get held up | bị kẹt, bị chậm trễ |  | Word Skills Intermediate |
 | 5823 | get hold of | có được; liên lạc được |  | Word Skills Advanced |
-| 5824 | get ill/angry/upset/etc |  |  | Destination C1–C2 · collocation |
+| 5824 | get ill/angry/upset/etc | bị ốm / nổi giận / buồn |  | Destination C1–C2 · collocation |
 | 5825 | get in touch with | Nhận liên lạc với |  | TOEIC (Hackers) |
 | 5826 | get inline | vào nội tuyến |  | TOEIC (Hackers) |
 | 5827 | get into | có hứng thú với, có dính líu với (= become involved in a bad situation) (= if a train, plane, etc gets into a place, it arrives there) (= start enjoying something or become enthusiastic about it) |  | Destination C1–C2 · phrasal verb |
@@ -5841,7 +5841,7 @@
 | 5829 | get married | kết hôn |  | Word Skills Basic |
 | 5830 | get nowhere | chẳng đi đến đâu |  | Word Skills Advanced |
 | 5831 | get off | ra khỏi, thoát khỏi (= have a particular period of time as a holiday) (= not be punished severely or at all for something you have been accused of in court) (= send something, for example in the post) |  | TOEIC (Hackers), Word Skills Basic, Destination C1–C2 · phrasal verb |
-| 5832 | get off to a good/flying/head/bad/etc start |  |  | Destination C1–C2 · collocation |
+| 5832 | get off to a good/flying/head/bad/etc start | khởi đầu suôn sẻ / thuận lợi / tệ |  | Destination C1–C2 · collocation |
 | 5833 | get off, leave) | xuống xe, rời đi) |  | TOEIC (Hackers) |
 | 5834 | get on like a house on fire | rất hợp nhau (= become good friends very quickly and have a lot to talk to each other about) |  | Destination C1–C2 · idiom |
 | 5835 | get on sb's nerves | làm ai bực mình |  | Word Skills Intermediate |
@@ -5854,20 +5854,20 @@
 | 5842 | get reimbursed for | được bồi hoàn |  | TOEIC (Hackers) |
 | 5843 | get rid of | từ bỏ. |  | TOEIC (Hackers), Word Skills Intermediate |
 | 5844 | get sb down | làm ai chán nản |  | Word Skills Advanced |
-| 5845 | get sb sth |  |  | Destination C1–C2 · collocation |
+| 5845 | get sb sth | lấy / mua cho ai cái gì |  | Destination C1–C2 · collocation |
 | 5846 | get sb to do sth | nhờ ai làm gì |  | Word Skills Advanced |
 | 5847 | get some exercise | Tập thể dục... |  | TOEIC (Hackers) |
 | 5848 | get some rest | nghỉ ngơi một chút 1 |  | Destination C1–C2 · collocation |
 | 5849 | get somewhere | có tiến triển |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 5850 | get sth across | truyền đạt |  | Word Skills Advanced |
-| 5851 | get sth doing |  |  | Destination C1–C2 · collocation |
+| 5851 | get sth doing | làm cho cái gì hoạt động |  | Destination C1–C2 · collocation |
 | 5852 | get sth done | nhờ/thuê làm việc gì |  | Word Skills Intermediate, Destination C1–C2 · collocation |
 | 5853 | get sth off your chest | trút bầu tâm sự (= talk to someone about something that has been worrying you, so that you feel better about …) |  | Destination C1–C2 · idiom |
-| 5854 | get sth out of the way |  |  | Destination C1–C2 · collocation |
-| 5855 | get sth straight |  |  | Destination C1–C2 · collocation |
-| 5856 | get sth wet/dirty/etc |  |  | Destination C1–C2 · collocation |
+| 5854 | get sth out of the way | làm xong cho rảnh |  | Destination C1–C2 · collocation |
+| 5855 | get sth straight | làm rõ chuyện gì |  | Destination C1–C2 · collocation |
+| 5856 | get sth wet/dirty/etc | làm ướt / bẩn cái gì |  | Destination C1–C2 · collocation |
 | 5857 | get stuck | bị kẹt |  | Word Skills Intermediate |
-| 5858 | get the better of |  |  | Destination C1–C2 · collocation |
+| 5858 | get the better of | thắng thế, áp đảo |  | Destination C1–C2 · collocation |
 | 5859 | get the food ready | chuẩn bị đồ ăn |  | TOEIC (Hackers) |
 | 5860 | get the hang of | quen tay, nắm được cách |  | Word Skills Advanced |
 | 5861 | get the point | Hiểu chưa? |  | TOEIC (Hackers) |
@@ -5876,31 +5876,31 @@
 | 5864 | get there | đạt được |  | Word Skills Advanced |
 | 5865 | get through | Tôi thì chỉ cố mà qua xong mấy ngày lễ. (= finish dealing with some work, a subject, etc) (= manage to deal with a difficult situation or stay alive until it is over) (= use or finish something) |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Destination C1–C2 · phrasal verb |
 | 5866 | get time off | được nghỉ |  | Word Skills Intermediate |
-| 5867 | get to do sth |  |  | Destination C1–C2 · collocation |
+| 5867 | get to do sth | có dịp được làm gì |  | Destination C1–C2 · collocation |
 | 5868 | get to grips with | nắm bắt |  | Word Skills Advanced |
 | 5869 | get to know | làm quen, tìm hiểu |  | Word Skills Basic/Intermediate |
 | 5870 | get to know someone | làm quen với ai |  | Word Skills Basic |
 | 5871 | get to like | dần thích |  | Word Skills Intermediate |
 | 5872 | get to the bottom of | tìm ra gốc rễ |  | Destination C1–C2 · collocation |
-| 5873 | get to the point |  |  | Destination C1–C2 · collocation |
+| 5873 | get to the point | đi thẳng vào vấn đề |  | Destination C1–C2 · collocation |
 | 5874 | get to work | đến chỗ làm; bắt tay vào việc |  | Word Skills Basic |
 | 5875 | get together | hợp lại với nhau . |  | TOEIC (Hackers), Word Skills Intermediate, Word Skills Advanced |
 | 5876 | get up sb's nose | làm ai bực mình |  | Word Skills Advanced |
 | 5877 | get used to | làm quen với |  | TOEIC (Hackers), Word Skills Advanced |
-| 5878 | get worse |  |  | Destination C1–C2 · collocation |
+| 5878 | get worse | tệ hơn |  | Destination C1–C2 · collocation |
 | 5879 | get your act together | chấn chỉnh lại |  | Destination C1–C2 · collocation |
 | 5880 | get your hands dirty | nhúng tay vào những việc phức tạp, không mir |  | Destination C1–C2 · collocation |
 | 5881 | get your money's worth | đáng đồng tiền bát gạo (nhận được £:y |  | Destination C1–C2 · collocation |
-| 5882 | get/catch sb's drift | (= understand the basic meaning) |  | Destination C1–C2 · idiom |
-| 5883 | get/come straight to the point |  |  | Destination C1–C2 · collocation |
-| 5884 | get/come to know |  |  | Destination C1–C2 · collocation |
-| 5885 | get/find/take/do a job |  |  | Destination C1–C2 · collocation |
-| 5886 | get/grow fat (on) |  |  | Destination C1–C2 · collocation |
-| 5887 | get/grow old |  |  | Destination C1–C2 · collocation |
-| 5888 | get/have a feel for |  |  | Destination C1–C2 · collocation |
-| 5889 | get/have a good deal (on) |  |  | Destination C1–C2 · collocation |
-| 5890 | get/have your way | (= be allowed to have or do what you want) |  | Destination C1–C2 · idiom |
-| 5891 | (get/receive) a letter from |  |  | Destination C1–C2 · collocation |
+| 5882 | get/catch sb's drift | hiểu ý (ai đó muốn nói) (= understand the basic meaning) |  | Destination C1–C2 · idiom |
+| 5883 | get/come straight to the point | đi thẳng vào vấn đề |  | Destination C1–C2 · collocation |
+| 5884 | get/come to know | dần dần hiểu, quen biết |  | Destination C1–C2 · collocation |
+| 5885 | get/find/take/do a job | kiếm / nhận / làm một công việc |  | Destination C1–C2 · collocation |
+| 5886 | get/grow fat (on) | béo lên; giàu lên (nhờ) |  | Destination C1–C2 · collocation |
+| 5887 | get/grow old | già đi |  | Destination C1–C2 · collocation |
+| 5888 | get/have a feel for | có cảm nhận, hiểu rõ về |  | Destination C1–C2 · collocation |
+| 5889 | get/have a good deal (on) | mua được giá hời |  | Destination C1–C2 · collocation |
+| 5890 | get/have your way | được như ý (= be allowed to have or do what you want) |  | Destination C1–C2 · idiom |
+| 5891 | (get/receive) a letter from | nhận thư từ |  | Destination C1–C2 · collocation |
 | 5892 | geta phone call | geta cuộc gọi điện thoại |  | TOEIC (Hackers) |
 | 5893 | getting on (a bit) | có tuổi |  | Word Skills Advanced |
 | 5894 | getto | getto |  | TOEIC (Hackers) |
@@ -5929,40 +5929,40 @@
 | 5917 | give a raise | tăng lương |  | TOEIC (Hackers) |
 | 5918 | give Aa ride | cho Aa đi xe |  | TOEIC (Hackers) |
 | 5919 | give Aan advance | tạm ứng cho Aan |  | TOEIC (Hackers) |
-| 5920 | give an example |  |  | Destination C1–C2 · collocation |
+| 5920 | give an example | đưa ra ví dụ |  | Destination C1–C2 · collocation |
 | 5921 | give birth | sinh con |  | Word Skills Advanced |
-| 5922 | give consideration to |  |  | Destination C1–C2 · collocation |
+| 5922 | give consideration to | cân nhắc đến |  | Destination C1–C2 · collocation |
 | 5923 | give in | chịu thua, nhượng bộ (= if you give in to something, you can no longer control the feeling of wanting it) (= stop competing or arguing and accept that you cannot win) |  | Word Skills Advanced, Destination C1–C2 · phrasal verb |
 | 5924 | give ita trim | tỉa tóc một chút |  | Word Skills Intermediate |
 | 5925 | give ita try | cho nó một thử |  | TOEIC (Hackers) |
 | 5926 | give off | cho đi |  | TOEIC (Hackers) |
 | 5927 | give or take | xê dịch khoảng |  | Word Skills Advanced |
 | 5928 | give out | phát |  | TOEIC (Hackers) |
-| 5929 | give sb a dirty look |  |  | Destination C1–C2 · collocation |
+| 5929 | give sb a dirty look | lườm ai |  | Destination C1–C2 · collocation |
 | 5930 | give sb a hand | giúp ai một tay |  | Word Skills Intermediate |
 | 5931 | give sb a say | cho ai quyền lên tiếng |  | Word Skills Advanced |
-| 5932 | give sb a taste/dose of their own medicine | (= treat someone in the same bad way they treat other people) |  | Destination C1–C2 · idiom |
+| 5932 | give sb a taste/dose of their own medicine | gậy ông đập lưng ông, trả đũa đúng cách người đó làm (= treat someone in the same bad way they treat other people) |  | Destination C1–C2 · idiom |
 | 5933 | give sb advice | khuyên ai |  | Word Skills Intermediate |
-| 5934 | give sb an answer |  |  | Destination C1–C2 · collocation |
+| 5934 | give sb an answer | trả lời ai |  | Destination C1–C2 · collocation |
 | 5935 | give sb feedback | góp ý cho ai |  | Word Skills Intermediate |
-| 5936 | give sb the right to do |  |  | Destination C1–C2 · collocation |
+| 5936 | give sb the right to do | trao cho ai quyền làm |  | Destination C1–C2 · collocation |
 | 5937 | give sb the sack | sa thải ai |  | Word Skills Intermediate |
-| 5938 | give sb your word | (= promise to do something) |  | Destination C1–C2 · idiom |
-| 5939 | (give sb) the green light |  |  | Destination C1–C2 · collocation |
+| 5938 | give sb your word | hứa, cam kết (= promise to do something) |  | Destination C1–C2 · idiom |
+| 5939 | (give sb) the green light | bật đèn xanh (cho ai) |  | Destination C1–C2 · collocation |
 | 5940 | give someone a hand | giúp ai một tay |  | Word Skills Basic |
 | 5941 | give someone a lift | cho ai đi nhờ xe |  | Word Skills Basic |
 | 5942 | give something up | từ bỏ cái gì |  | Word Skills Basic |
-| 5943 | give sth a (good) clean |  |  | Destination C1–C2 · collocation |
-| 5944 | give sth a miss | bỏ qua, không tham gia cái gi s (= decide not to do something that you usually do) |  | Destination C1–C2 · idiom |
+| 5943 | give sth a (good) clean | lau dọn (kỹ) cái gì |  | Destination C1–C2 · collocation |
+| 5944 | give sth a miss | bỏ qua, không tham gia (lần này) (= decide not to do something that you usually do) |  | Destination C1–C2 · idiom |
 | 5945 | give sth ago | thử làm gì |  | Word Skills Advanced |
 | 5946 | give sth away | cho đi; để lộ (= disclose sth; lose a game, etc.) |  | Word Skills Intermediate/Advanced |
 | 5947 | give sth out | phát ra |  | Word Skills Intermediate |
 | 5948 | give up | từ bỏ |  | Word Skills Intermediate |
 | 5949 | give way to | nhường đường cho |  | TOEIC (Hackers) |
-| 5950 | (give) an account of |  |  | Destination C1–C2 · collocation |
-| 5951 | give/say the word |  |  | Destination C1–C2 · collocation |
-| 5952 | give/send your love to |  |  | Destination C1–C2 · collocation |
-| 5953 | give/take sb a second to do |  |  | Destination C1–C2 · collocation |
+| 5950 | (give) an account of | kể lại, tường thuật |  | Destination C1–C2 · collocation |
+| 5951 | give/say the word | ra hiệu, ra lệnh |  | Destination C1–C2 · collocation |
+| 5952 | give/send your love to | gửi lời hỏi thăm tới |  | Destination C1–C2 · collocation |
+| 5953 | give/take sb a second to do | cho ai / mất một giây để làm |  | Destination C1–C2 · collocation |
 | 5954 | givein | tặng |  | TOEIC (Hackers) |
 | 5955 | glad | vui mừng |  | Word Skills Intermediate, Oxford 3000 · B1 · adj |
 | 5956 | Glamorous | Quyến rũ; Quyến rũ, lộng lẫy | /ɡlæmərəs/ | IELTS · Appearance, IELTS · Fashion, IELTS · Celebrity |
@@ -6017,17 +6017,17 @@
 | 6005 | gm (gram(s)) | gam |  | Word Skills Intermediate |
 | 6006 | go | cờ vây (= do something; move or travel) |  | Word Skills Basic, Oxford 3000 · A1 · n, v |
 | 6007 | go ahead | cứ làm đi; tiến hành |  | Word Skills Basic |
-| 6008 | go and do sth |  |  | Destination C1–C2 · collocation |
+| 6008 | go and do sth | đi làm gì |  | Destination C1–C2 · collocation |
 | 6009 | go and see | đi xem, đi gặp |  | Word Skills Basic |
 | 6010 | go back | quay lại |  | Word Skills Basic/Advanced |
-| 6011 | go bad |  |  | Destination C1–C2 · collocation |
+| 6011 | go bad | bị hỏng, ôi thiu |  | Destination C1–C2 · collocation |
 | 6012 | go bald | bị hói |  | Word Skills Intermediate |
 | 6013 | go bankrupt | phá sản |  | Word Skills Advanced |
 | 6014 | go blind | bị mù |  | Word Skills Intermediate |
 | 6015 | go by | (thời gian) trôi qua; dựa theo |  | Word Skills Advanced |
-| 6016 | go dead |  |  | Destination C1–C2 · collocation |
+| 6016 | go dead | tắt lịm, mất tín hiệu; tê cứng |  | Destination C1–C2 · collocation |
 | 6017 | go deaf | bị điếc |  | Word Skills Intermediate |
-| 6018 | go deaf/grey/crazy/bad/etc |  |  | Destination C1–C2 · collocation |
+| 6018 | go deaf/grey/crazy/bad/etc | bị điếc / bạc tóc / phát điên / hỏng |  | Destination C1–C2 · collocation |
 | 6019 | go down | giảm xuống (= (well/badly) (with sb) produce a particular reaction) |  | Word Skills Basic/Intermediate, Destination C1–C2 · phrasal verb |
 | 6020 | go down that road | đi theo hướng đó |  | Word Skills Advanced |
 | 6021 | go down the steps | đi xuống các bậc thang |  | TOEIC (Hackers) |
@@ -6038,26 +6038,26 @@
 | 6026 | go for a stroll | đi dạo |  | Word Skills Advanced |
 | 6027 | go for a walk | đi dạo |  | Word Skills Basic |
 | 6028 | go for a wander | đi lang thang |  | Word Skills Advanced |
-| 6029 | go for days/weeks/etc (without sth) |  |  | Destination C1–C2 · collocation |
+| 6029 | go for days/weeks/etc (without sth) | trải qua nhiều ngày / tuần (không có gì) |  | Destination C1–C2 · collocation |
 | 6030 | go forward | 前進する |  | TOEIC (Hackers) |
 | 6031 | go from bad to worse | tệ cảng thêm tệ/ xấu lại cảng xấu hơn mm |  | Destination C1–C2 · collocation |
 | 6032 | go from strength to strength | ngày càng phát triển mạnh mẽ |  | Word Skills Advanced |
 | 6033 | go grey | bạc tóc |  | Word Skills Intermediate |
-| 6034 | go halves | (= share the cost of something with someone so that you each pay 50%) |  | Destination C1–C2 · idiom |
-| 6035 | go hungry |  |  | Destination C1–C2 · collocation |
+| 6034 | go halves | chia đôi chi phí (= share the cost of something with someone so that you each pay 50%) |  | Destination C1–C2 · idiom |
+| 6035 | go hungry | nhịn đói |  | Destination C1–C2 · collocation |
 | 6036 | go in for | tham gia (cuộc thi) (= choose something as a subject of study or as your career) (= enjoy a particular thing or activity) |  | Destination C1–C2 · phrasal verb |
 | 6037 | go in one ear and out of the other | nước đổ đầu vịt |  | Word Skills Advanced |
 | 6038 | go into business | đi vào con đường kinh doanh |  | TOEIC (Hackers) |
 | 6039 | go into hospital | nhập viện |  | Word Skills Intermediate |
 | 6040 | go mad | phát điên |  | Word Skills Advanced |
-| 6041 | go native |  |  | Destination C1–C2 · collocation |
+| 6041 | go native | sống như dân bản địa |  | Destination C1–C2 · collocation |
 | 6042 | go off | (chuông) reo; nổ; (đồ ăn) hỏng (= explode; ring) (= explode or be fired) (= if food or drink goes off, it is no longer fresh) (= leave a place, especially for a particular purpose) (= stop liking someone or something) |  | Word Skills Intermediate/Advanced, Destination C1–C2 · phrasal verb |
 | 6043 | go on (with sth) | tiếp tục; xảy ra |  | Word Skills Intermediate |
 | 6044 | go on a (guided) tour | đi tham quan theo tour |  | Word Skills Basic |
 | 6045 | go on a diet | ăn kiêng |  | Word Skills Intermediate |
 | 6046 | go on and on | nói mãi không thôi |  | Word Skills Advanced |
 | 6047 | go on at | cằn nhằn |  | Word Skills Advanced |
-| 6048 | go on make a date (with sb) |  |  | Destination C1–C2 · collocation |
+| 6048 | go on make a date (with sb) | đi hẹn hò / hẹn gặp (ai) |  | Destination C1–C2 · collocation |
 | 6049 | go on strike | đình công SỐ |  | Word Skills Intermediate |
 | 6050 | go on vacation | Hãy đi nghỉ đi. |  | TOEIC (Hackers) |
 | 6051 | go online | lên mạng |  | Word Skills Basic |
@@ -6076,22 +6076,22 @@
 | 6064 | go through | Qua đi. |  | TOEIC (Hackers), Word Skills Intermediate |
 | 6065 | go through customs | Làm thủ tục hải quan |  | TOEIC (Hackers) |
 | 6066 | go to court | ra tòa |  | Word Skills Intermediate |
-| 6067 | go to do sth |  |  | Destination C1–C2 · collocation |
-| 6068 | go to great/any/etc lengths |  |  | Destination C1–C2 · collocation |
+| 6067 | go to do sth | đi để làm gì |  | Destination C1–C2 · collocation |
+| 6068 | go to great/any/etc lengths | làm mọi cách |  | Destination C1–C2 · collocation |
 | 6069 | go to hospital | đi viện |  | Word Skills Intermediate |
 | 6070 | go to jail | vào tù |  | Word Skills Intermediate |
 | 6071 | go to pieces | suy sụp |  | Word Skills Advanced |
 | 6072 | go to primary school | học tiểu học |  | Word Skills Basic |
 | 6073 | go to prison | vào tù |  | Word Skills Intermediate, Destination C1–C2 · collocation |
 | 6074 | go to sleep | đi ngủ (chìm vào giấc ngủ) |  | Word Skills Intermediate |
-| 6075 | go to your head | (= if success goes to your head, it makes you think that you are better or more important tha…) |  | Destination C1–C2 · idiom |
+| 6075 | go to your head | làm ai tự mãn, kiêu ngạo (= if success goes to your head, it makes you think that you are better or more important tha…) |  | Destination C1–C2 · idiom |
 | 6076 | go toa film | đi xem phim |  | TOEIC (Hackers) |
-| 6077 | go together | (= if two or more things go together, they frequently exist together) (= if two things go together, they seem good, natural or attractive in combination with each …) |  | Destination C1–C2 · phrasal verb |
+| 6077 | go together | đi đôi với nhau; hợp nhau (= if two or more things go together, they frequently exist together) (= if two things go together, they seem good, natural or attractive in combination with each …) |  | Destination C1–C2 · phrasal verb |
 | 6078 | go under | (doanh nghiệp) phá sản |  | Word Skills Advanced |
 | 6079 | go up in flames | bốc cháy |  | Word Skills Advanced |
 | 6080 | go white | tái mặt; bạc trắng |  | Word Skills Intermediate |
 | 6081 | go without | nhịn, chịu thiếu |  | Destination C1–C2 · collocation |
-| 6082 | go without saying (that) |  |  | Destination C1–C2 · collocation |
+| 6082 | go without saying (that) | không cần phải nói (rằng) |  | Destination C1–C2 · collocation |
 | 6083 | go wrong | hỏng, trục trặc |  | Word Skills Intermediate |
 | 6084 | go wrong with | đi sai với |  | TOEIC (Hackers) |
 | 6085 | go-ahead | sự cho phép |  | Word Skills Advanced |
@@ -6113,7 +6113,7 @@
 | 6101 | Gong | Trống lớn | /ɡɔŋ/ | IELTS · Music |
 | 6102 | gonna | sẽ (going to) |  | Word Skills Advanced |
 | 6103 | good | tốt |  | Oxford 3000 · A1 · adj, n |
-| 6104 | good (for sb) to do |  |  | Destination C1–C2 · collocation |
+| 6104 | good (for sb) to do | (ai) nên làm |  | Destination C1–C2 · collocation |
 | 6105 | good afternoon | chào buổi chiều |  | Word Skills Basic |
 | 6106 | good as new | như mới |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 6107 | good at something | giỏi việc gì |  | Word Skills Basic |
@@ -6124,11 +6124,11 @@
 | 6112 | good laugh | người vui tính; chuyện vui |  | Word Skills Advanced |
 | 6113 | good luck | chúc may mắn |  | Word Skills Basic |
 | 6114 | good morning | chào buổi sáng |  | Word Skills Basic |
-| 6115 | good of sb to do |  |  | Destination C1–C2 · collocation |
+| 6115 | good of sb to do | ai đó thật tốt khi làm |  | Destination C1–C2 · collocation |
 | 6116 | good run | chuỗi thành công |  | Word Skills Advanced |
 | 6117 | good to meet you | rất vui được gặp bạn |  | Word Skills Basic |
 | 6118 | good-looking | ưa nhìn, đẹp |  | Word Skills Basic |
-| 6119 | good/bad/etc weather |  |  | Destination C1–C2 · collocation |
+| 6119 | good/bad/etc weather | thời tiết đẹp / xấu |  | Destination C1–C2 · collocation |
 | 6120 | goodbye | tạm biệt |  | Word Skills Basic, Oxford 3000 · A1 · exclam, n |
 | 6121 | goodness | lòng tốt |  | Oxford 5000 · B2 · n |
 | 6122 | goodnight | chúc ngủ ngon |  | Word Skills Basic |
@@ -6179,11 +6179,11 @@
 | 6167 | Grandparents | Ông bà | /ɡrændˌpɛrənts/ | IELTS · Family and Relationships |
 | 6168 | grandson | cháu trai (của ông bà) |  | Word Skills Basic |
 | 6169 | grant | cho, ban, cấp |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B2 · n, v |
-| 6170 | grant a request |  |  | Destination C1–C2 · collocation |
-| 6171 | grant sb permission/authority |  |  | Destination C1–C2 · collocation |
-| 6172 | grant sb the authority to do |  |  | Destination C1–C2 · collocation |
-| 6173 | grant sb's wish |  |  | Destination C1–C2 · collocation |
-| 6174 | grant sth to |  |  | Destination C1–C2 · collocation |
+| 6170 | grant a request | chấp thuận yêu cầu |  | Destination C1–C2 · collocation |
+| 6171 | grant sb permission/authority | cấp phép / trao quyền cho ai |  | Destination C1–C2 · collocation |
+| 6172 | grant sb the authority to do | trao quyền cho ai làm gì |  | Destination C1–C2 · collocation |
+| 6173 | grant sb's wish | đáp ứng mong muốn của ai |  | Destination C1–C2 · collocation |
+| 6174 | grant sth to | cấp cái gì cho |  | Destination C1–C2 · collocation |
 | 6175 | Grants | Các khoản trợ cấp | /ɡrænts/ | IELTS · Education |
 | 6176 | grapes | nho |  | Word Skills Basic |
 | 6177 | graphic | đồ hoạ |  | Oxford 5000 · B2 · adj |
@@ -6207,7 +6207,7 @@
 | 6195 | grease | Bôi trơn: bằng mỡ |  | TOEIC (Hackers), Word Skills Intermediate |
 | 6196 | greasy | nhờn, nhiều dầu mỡ |  | Word Skills Intermediate |
 | 6197 | great | tuyệt |  | Word Skills Basic, Oxford 3000 · A1 · adj |
-| 6198 | great big |  |  | Destination C1–C2 · collocation |
+| 6198 | great big | to tướng |  | Destination C1–C2 · collocation |
 | 6199 | Great Britain | Vương quốc Anh (đảo Anh) |  | Word Skills Basic |
 | 6200 | great chance | cơ hội lớn |  | Word Skills Advanced |
 | 6201 | great difficulty | khó khăn lớn |  | Word Skills Advanced |
@@ -6219,7 +6219,7 @@
 | 6207 | green | xanh lá |  | Word Skills Basic/Advanced, Oxford 3000 · A1 · adj, n |
 | 6208 | green belt | đai xanh (vùng bảo tồn cây xan c= |  | Destination C1–C2 · collocation |
 | 6209 | Green buildings | Các công trình xanh | /ɡriːn ˈbɪlɪŋz/ | IELTS · Environment |
-| 6210 | green politics |  |  | Destination C1–C2 · collocation |
+| 6210 | green politics | chính trị xanh (vì môi trường) |  | Destination C1–C2 · collocation |
 | 6211 | Green spaces | Khu vực xanh | /ɡriːn ˈspeɪsɪz/ | IELTS · City |
 | 6212 | Green technology | Công nghệ xanh | /ɡriːn tɛkˈnɑːlədʒi/ | IELTS · Globalization, IELTS · Environment |
 | 6213 | Greenery | Cây xanh | /ˈɡrinəri/ | IELTS · Countryside |
@@ -6238,7 +6238,7 @@
 | 6226 | grill | thịt; Nướng | /ɡrɪl/ | TOEIC (Hackers), IELTS · Food and Drink |
 | 6227 | grilled | nướng vỉ |  | Word Skills Basic |
 | 6228 | grim | ảm đạm |  | Word Skills Advanced |
-| 6229 | grin and bear it | (= accept a difficult situation without complaining or showing how you feel) |  | Destination C1–C2 · idiom |
+| 6229 | grin and bear it | ngậm bồ hòn làm ngọt, cắn răng chịu đựng (= accept a difficult situation without complaining or showing how you feel) |  | Destination C1–C2 · idiom |
 | 6230 | grind | sự cày cuốc; xay |  | Oxford 5000 · C1 · v |
 | 6231 | grip | núm điều tác |  | TOEIC (Hackers), Oxford 5000 · C1 · n, v |
 | 6232 | gripping | hấp dẫn, lôi cuốn |  | Word Skills Intermediate/Advanced |
@@ -6251,7 +6251,7 @@
 | 6239 | gross income | tổng thu nhập |  | TOEIC (Hackers) |
 | 6240 | ground | mặt đất (= earth's surface; sports area) |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 6241 | ground floor | tầng trệt |  | Word Skills Basic |
-| 6242 | ground/first/etc floor |  |  | Destination C1–C2 · collocation |
+| 6242 | ground/first/etc floor | tầng trệt / tầng một |  | Destination C1–C2 · collocation |
 | 6243 | Groundbreaking | Đột phá, sáng tạo | /ˈɡraʊndˌbreɪkɪŋ/ | IELTS · Celebrity, Word Skills Advanced |
 | 6244 | grounds | tiếp đất; mặt đất |  | Word Skills Advanced |
 | 6245 | group | nhóm |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A1 · n |
@@ -6275,9 +6275,9 @@
 | 6263 | Guardian | Người giám hộ | /ɡɑːrdiən/ | IELTS · Family and Relationships |
 | 6264 | Guerrilla warfare | Chiến tranh du kích | /ɡəˈrɪlə ˈwɔːrˌfɛər/ | IELTS · History and Heritage, Word Skills Advanced |
 | 6265 | guess | đoán; chắc là (I guess) |  | Word Skills Intermediate, Oxford 3000 · A1 · n, v |
-| 6266 | guess at |  |  | Destination C1–C2 · collocation |
-| 6267 | guess right |  |  | Destination C1–C2 · collocation |
-| 6268 | guess that |  |  | Destination C1–C2 · collocation |
+| 6266 | guess at | đoán về |  | Destination C1–C2 · collocation |
+| 6267 | guess right | đoán đúng |  | Destination C1–C2 · collocation |
+| 6268 | guess that | đoán rằng |  | Destination C1–C2 · collocation |
 | 6269 | guess what! | đoán xem! |  | Word Skills Advanced |
 | 6270 | guest | khách |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 6271 | guest pass | phiếu khuyến mãi cho khách |  | TOEIC (Hackers) |
@@ -6300,7 +6300,7 @@
 | 6288 | gun battle | đấu súng |  | Word Skills Intermediate |
 | 6289 | Gun control | Kiểm soát vũ khí | /ɡʌn kənˈtroʊl/ | IELTS · Social issues |
 | 6290 | Gust | Cơn gió mạnh | /ɡʌst/ | IELTS · Weather |
-| 6291 | gust of wind |  |  | Destination C1–C2 · collocation |
+| 6291 | gust of wind | cơn gió giật |  | Destination C1–C2 · collocation |
 | 6292 | gusty | gió mạnh |  | TOEIC (Hackers) |
 | 6293 | gut | ruột; trực giác |  | Oxford 5000 · C1 · n |
 | 6294 | gutted | thất vọng não nề |  | Word Skills Advanced |
@@ -6318,7 +6318,7 @@
 | 6306 | hack | xâm nhập (máy tính) |  | Oxford 5000 · C1 · n, v |
 | 6307 | hack into | xâm nhập (máy tính) |  | Word Skills Advanced |
 | 6308 | Hacking | Đánh cắp thông tin; Đột nhập, hack | /ˈhækɪŋ/ | IELTS · Technology, IELTS · Crime |
-| 6309 | had better |  |  | Destination C1–C2 · collocation |
+| 6309 | had better | tốt hơn hết là nên |  | Destination C1–C2 · collocation |
 | 6310 | had better do | tốt hơn là nên làm |  | TOEIC (Hackers) |
 | 6311 | hail | mưa đá | /heɪl/ | TOEIC (Hackers), IELTS · Weather, Oxford 5000 · C1 · v |
 | 6312 | hair | tóc |  | Word Skills Basic, Oxford 3000 · A1 · n |
@@ -6376,11 +6376,11 @@
 | 6364 | Hang glider | Diều lượn | /hæŋ ˈɡlaɪdər/ | IELTS · Transportation |
 | 6365 | hang on | đợi chút; bám chặt |  | Word Skills Intermediate |
 | 6366 | hang out | Rong chơi (= lean out of a window so that the top part of your body is outside) (= spend time in a particular place or with particular I people hang-out (n)) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
-| 6367 | (hang) in the balance |  |  | Destination C1–C2 · collocation |
+| 6367 | (hang) in the balance | ngàn cân treo sợi tóc, chưa ngã ngũ |  | Destination C1–C2 · collocation |
 | 6368 | Hangar | Nhà chứa máy bay | /ˈhæŋər/ | IELTS · Transportation |
 | 6369 | happen | xảy ra |  | Word Skills Basic, Oxford 3000 · A1 · v |
 | 6370 | happen to | tình cờ |  | Word Skills Advanced |
-| 6371 | happen to do |  |  | Destination C1–C2 · collocation |
+| 6371 | happen to do | tình cờ làm |  | Destination C1–C2 · collocation |
 | 6372 | happily | vui vẻ |  | Oxford 3000 · A2 · adv |
 | 6373 | happiness | hạnh phúc |  | Oxford 3000 · B1 · n |
 | 6374 | happy | vui |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · adj |
@@ -6426,33 +6426,33 @@
 | 6414 | haunt | ám ảnh |  | Oxford 5000 · C1 · v |
 | 6415 | Haute couture | Thời trang cao cấp | /oʊt kuˈtur/ | IELTS · Fashion |
 | 6416 | have | có; đã (trợ động từ) (= do something; eat/drink) |  | Word Skills Basic, Oxford 3000 · A1 · auxiliary v, v |
-| 6417 | have a (good) cry |  |  | Destination C1–C2 · collocation |
+| 6417 | have a (good) cry | khóc một trận (cho nhẹ lòng) |  | Destination C1–C2 · collocation |
 | 6418 | have a baby | sinh con |  | Word Skills Basic |
 | 6419 | have a change of heart | đổi ý (= change your opinion about something or decide not to do something you were planning to do) |  | Destination C1–C2 · idiom |
 | 6420 | have a chat | tán gẫu |  | Word Skills Intermediate |
 | 6421 | have a day off | có một ngày nghỉ |  | TOEIC (Hackers) |
 | 6422 | have a debate | tranh luận |  | Word Skills Intermediate |
 | 6423 | have a discussion | thảo luận |  | TOEIC (Hackers) |
-| 6424 | have a dream |  |  | Destination C1–C2 · collocation |
+| 6424 | have a dream | có một giấc mơ / ước mơ |  | Destination C1–C2 · collocation |
 | 6425 | have a flat tire | bị xẹp lốp |  | TOEIC (Hackers) |
 | 6426 | have a go atsb | chỉ trích ai |  | Word Skills Advanced |
-| 6427 | have a good laugh |  |  | Destination C1–C2 · collocation |
+| 6427 | have a good laugh | cười một trận thoả thích |  | Destination C1–C2 · collocation |
 | 6428 | have a good view | chúc bạn một ngày vui vẻ |  | TOEIC (Hackers) |
 | 6429 | have a haircut | đi cắt tóc |  | Word Skills Intermediate |
-| 6430 | have a job to do doing |  |  | Destination C1–C2 · collocation |
+| 6430 | have a job to do doing | khó khăn lắm mới làm được |  | Destination C1–C2 · collocation |
 | 6431 | have a lie-in | ngủ nướng |  | Word Skills Intermediate |
 | 6432 | have a light dinner | thưởng thức bữa tối nhẹ nhàng |  | TOEIC (Hackers) |
 | 6433 | have a long day | Chúng ta sẽ có một ngày dài. |  | TOEIC (Hackers) |
 | 6434 | have a lot in common | có nhiều điểm chung |  | Word Skills Intermediate |
-| 6435 | have a lot on |  |  | Destination C1–C2 · collocation |
-| 6436 | (have a lot to) answer for |  |  | Destination C1–C2 · collocation |
+| 6435 | have a lot on | đang bận nhiều việc |  | Destination C1–C2 · collocation |
+| 6436 | (have a lot to) answer for | phải chịu trách nhiệm (nhiều) về |  | Destination C1–C2 · collocation |
 | 6437 | have a meal | Đi ăn. |  | TOEIC (Hackers) |
 | 6438 | have a monopoly on | độc quyền về |  | TOEIC (Hackers) |
 | 6439 | have a narrow escape | thoát chết trong gang tấc |  | Word Skills Advanced |
 | 6440 | have a nice day | chúc một ngày tốt lành |  | Word Skills Basic |
 | 6441 | have a nice day/evening | chúc ngày/buổi tối vui vẻ |  | Word Skills Basic |
 | 6442 | have a nice time | chúc vui vẻ |  | Word Skills Basic |
-| 6443 | have a one-track mind |  |  | Destination C1–C2 · collocation |
+| 6443 | have a one-track mind | chỉ nghĩ đến một chuyện |  | Destination C1–C2 · collocation |
 | 6444 | have a problem (in) -ing | có vấn đề (trong) -ing |  | TOEIC (Hackers) |
 | 6445 | have a race | có một cuộc đua |  | TOEIC (Hackers) |
 | 6446 | have a rest | nghỉ ngơi |  | Word Skills Basic |
@@ -6460,63 +6460,63 @@
 | 6448 | have a row | cãi nhau |  | Word Skills Intermediate |
 | 6449 | have a say in sth | có tiếng nói trong |  | Word Skills Advanced |
 | 6450 | have a seat | mời ngồi |  | Word Skills Basic |
-| 6451 | have a sharp tongue |  |  | Destination C1–C2 · collocation |
+| 6451 | have a sharp tongue | ăn nói chua ngoa |  | Destination C1–C2 · collocation |
 | 6452 | have A strapped to one’s shoulder | có một dây buộc vào vai của một người |  | TOEIC (Hackers) |
 | 6453 | have a stroke | bị đột quỵ |  | Word Skills Intermediate |
-| 6454 | have a talk (with) |  |  | Destination C1–C2 · collocation |
+| 6454 | have a talk (with) | nói chuyện (với) |  | Destination C1–C2 · collocation |
 | 6455 | have a tendency to do | có xu hướng làm |  | TOEIC (Hackers) |
-| 6456 | have a thin skin |  |  | Destination C1–C2 · collocation |
-| 6457 | (have a) discussion about/on |  |  | Destination C1–C2 · collocation |
-| 6458 | (have a) discussion with |  |  | Destination C1–C2 · collocation |
-| 6459 | (have a) short temper/fuse |  |  | Destination C1–C2 · collocation |
-| 6460 | have a/the/no/every right to do |  |  | Destination C1–C2 · collocation |
+| 6456 | have a thin skin | dễ tự ái |  | Destination C1–C2 · collocation |
+| 6457 | (have a) discussion about/on | thảo luận về |  | Destination C1–C2 · collocation |
+| 6458 | (have a) discussion with | thảo luận với |  | Destination C1–C2 · collocation |
+| 6459 | (have a) short temper/fuse | nóng tính |  | Destination C1–C2 · collocation |
+| 6460 | have a/the/no/every right to do | có / không có quyền làm |  | Destination C1–C2 · collocation |
 | 6461 | have access to | có quyền truy cập |  | Word Skills Advanced |
 | 6462 | have ago | thử |  | Word Skills Advanced |
 | 6463 | have an eye for sth | có con mắt tinh về |  | Word Skills Advanced |
 | 6464 | have an injection | tiêm |  | TOEIC (Hackers) |
 | 6465 | have an operation | làm phẫu thuật |  | Word Skills Intermediate |
 | 6466 | have an opportunity to do | có cơ hội để làm |  | TOEIC (Hackers) |
-| 6467 | have an understanding (with sb) |  |  | Destination C1–C2 · collocation |
-| 6468 | have an/no/little/some effect (on) |  |  | Destination C1–C2 · collocation |
+| 6467 | have an understanding (with sb) | có thoả thuận ngầm (với ai) |  | Destination C1–C2 · collocation |
+| 6468 | have an/no/little/some effect (on) | có / không / ít / phần nào ảnh hưởng (đến) |  | Destination C1–C2 · collocation |
 | 6469 | have anap | chợp mắt một lát |  | Word Skills Intermediate |
 | 6470 | have around | có khoảng |  | TOEIC (Hackers) |
-| 6471 | have authority over |  |  | Destination C1–C2 · collocation |
+| 6471 | have authority over | có quyền đối với |  | Destination C1–C2 · collocation |
 | 6472 | have control over | có quyền kiểm soát |  | TOEIC (Hackers), Word Skills Advanced |
 | 6473 | have difficulty (in) -ing | gặp khó khăn (trong) -ing |  | TOEIC (Hackers) |
 | 6474 | have fun | vui vẻ |  | Word Skills Intermediate |
-| 6475 | have get into an argument (with sb) |  |  | Destination C1–C2 · collocation |
+| 6475 | have get into an argument (with sb) | cãi nhau (với ai) |  | Destination C1–C2 · collocation |
 | 6476 | have got | có |  | Word Skills Basic |
 | 6477 | have got to | phải |  | Word Skills Basic |
 | 6478 | have green fingers | có tay làm vườn (= be good at growing plants) |  | Destination C1–C2 · idiom |
 | 6479 | have little chance of -ing | có ít cơ hội -ing |  | TOEIC (Hackers) |
-| 6480 | have many uses |  |  | Destination C1–C2 · collocation |
+| 6480 | have many uses | có nhiều công dụng |  | Destination C1–C2 · collocation |
 | 6481 | have no choice | không có lựa chọn |  | Word Skills Intermediate, Destination C1–C2 · collocation |
 | 6482 | have no desire to do sth | không muốn làm gì |  | Word Skills Advanced |
-| 6483 | have no foundation |  |  | Destination C1–C2 · collocation |
+| 6483 | have no foundation | không có căn cứ |  | Destination C1–C2 · collocation |
 | 6484 | have no idea | Không biết. |  | TOEIC (Hackers) |
 | 6485 | have no intention of doing sth | không có ý định làm gì |  | Word Skills Intermediate |
-| 6486 | have no need of |  |  | Destination C1–C2 · collocation |
-| 6487 | have no option (but to do) |  |  | Destination C1–C2 · collocation |
+| 6486 | have no need of | không cần đến |  | Destination C1–C2 · collocation |
+| 6487 | have no option (but to do) | không còn cách nào khác (ngoài) |  | Destination C1–C2 · collocation |
 | 6488 | have one's hair cut | cắt tóc |  | TOEIC (Hackers) |
 | 6489 | have one’s hands full | có một bàn tay đầy đủ |  | TOEIC (Hackers) |
 | 6490 | have one’s vision tested | kiểm tra thị lực của một người |  | TOEIC (Hackers) |
 | 6491 | have permission to do | được phép làm |  | TOEIC (Hackers) |
-| 6492 | have principles |  |  | Destination C1–C2 · collocation |
+| 6492 | have principles | có nguyên tắc |  | Destination C1–C2 · collocation |
 | 6493 | have sb/sth in mind | đang nghĩ đến ai/cái gì |  | Word Skills Advanced |
 | 6494 | have second thoughts | do dự, nghĩ lại |  | Word Skills Advanced |
 | 6495 | have something to do with | có liên quan đến |  | TOEIC (Hackers) |
-| 6496 | have sth be written all over your face |  |  | Destination C1–C2 · collocation |
+| 6496 | have sth be written all over your face | lộ rõ trên mặt |  | Destination C1–C2 · collocation |
 | 6497 | have sth done | nhờ/thuê làm việc gì |  | Word Skills Intermediate |
-| 6498 | have sth in common (with sb) |  |  | Destination C1–C2 · collocation |
-| 6499 | have sth on good authority |  |  | Destination C1–C2 · collocation |
-| 6500 | have take be given the day off |  |  | Destination C1–C2 · collocation |
-| 6501 | have take be given time off |  |  | Destination C1–C2 · collocation |
-| 6502 | have the authority to do |  |  | Destination C1–C2 · collocation |
+| 6498 | have sth in common (with sb) | có điểm chung (với ai) |  | Destination C1–C2 · collocation |
+| 6499 | have sth on good authority | biết điều gì từ nguồn tin cậy |  | Destination C1–C2 · collocation |
+| 6500 | have take be given the day off | được nghỉ một ngày |  | Destination C1–C2 · collocation |
+| 6501 | have take be given time off | được nghỉ phép |  | Destination C1–C2 · collocation |
+| 6502 | have the authority to do | có thẩm quyền làm gì |  | Destination C1–C2 · collocation |
 | 6503 | have the best rates | có mức giá tốt nhất |  | TOEIC (Hackers) |
-| 6504 | have the last laugh |  |  | Destination C1–C2 · collocation |
-| 6505 | have the leisure to do |  |  | Destination C1–C2 · collocation |
+| 6504 | have the last laugh | cười người hôm trước hôm sau người cười |  | Destination C1–C2 · collocation |
+| 6505 | have the leisure to do | có thời gian rảnh để làm |  | Destination C1–C2 · collocation |
 | 6506 | have the right to | có quyền |  | Word Skills Intermediate |
-| 6507 | have the sense to |  |  | Destination C1–C2 · collocation |
+| 6507 | have the sense to | đủ khôn ngoan để |  | Destination C1–C2 · collocation |
 | 6508 | have time off | được nghỉ |  | Word Skills Intermediate |
 | 6509 | have time on your hands | có nhiều thời gian rảnh (= have more time available than you need) |  | Destination C1–C2 · idiom |
 | 6510 | have to | phải |  | Word Skills Basic, Oxford 3000 · A1 · modal v |
@@ -6526,20 +6526,20 @@
 | 6514 | have yet todo | vẫn chưa hoàn thành |  | TOEIC (Hackers) |
 | 6515 | have your back to sth | quay lưng về phía cái gì |  | Word Skills Intermediate |
 | 6516 | have your cake and eat it | được cả chì lẫn chài |  | Word Skills Advanced |
-| 6517 | have your doubts about |  |  | Destination C1–C2 · collocation |
+| 6517 | have your doubts about | có nghi ngờ về |  | Destination C1–C2 · collocation |
 | 6518 | have your eye on sth | để mắt tới |  | Word Skills Advanced |
-| 6519 | have your say |  |  | Destination C1–C2 · collocation |
-| 6520 | have your wits about you | (= be able to think quickly and make sensible decisions) |  | Destination C1–C2 · idiom |
-| 6521 | (have) a clear conscience |  |  | Destination C1–C2 · collocation |
-| 6522 | (have) a word with sb (about) |  |  | Destination C1–C2 · collocation |
-| 6523 | (have) the final say |  |  | Destination C1–C2 · collocation |
-| 6524 | have/bear in mind |  |  | Destination C1–C2 · collocation |
+| 6519 | have your say | được nói lên ý kiến |  | Destination C1–C2 · collocation |
+| 6520 | have your wits about you | tỉnh táo, nhanh trí (= be able to think quickly and make sensible decisions) |  | Destination C1–C2 · idiom |
+| 6521 | (have) a clear conscience | lương tâm thanh thản |  | Destination C1–C2 · collocation |
+| 6522 | (have) a word with sb (about) | nói chuyện riêng với ai (về) |  | Destination C1–C2 · collocation |
+| 6523 | (have) the final say | có tiếng nói quyết định |  | Destination C1–C2 · collocation |
+| 6524 | have/bear in mind | ghi nhớ, lưu ý |  | Destination C1–C2 · collocation |
 | 6525 | (have/gain/provide) access to | quyền tiếp cận |  | Destination C1–C2 · collocation |
-| 6526 | have/get sth down to a fine art |  |  | Destination C1–C2 · collocation |
-| 6527 | have/give the (false) impression that |  |  | Destination C1–C2 · collocation |
-| 6528 | have/lack the energy to do |  |  | Destination C1–C2 · collocation |
-| 6529 | have/make a good/fine/bad/etc start |  |  | Destination C1–C2 · collocation |
-| 6530 | have/start a family |  |  | Destination C1–C2 · collocation |
+| 6526 | have/get sth down to a fine art | làm gì thuần thục như nghệ thuật |  | Destination C1–C2 · collocation |
+| 6527 | have/give the (false) impression that | có / tạo ấn tượng (sai) rằng |  | Destination C1–C2 · collocation |
+| 6528 | have/lack the energy to do | có / thiếu sức để làm |  | Destination C1–C2 · collocation |
+| 6529 | have/make a good/fine/bad/etc start | khởi đầu tốt / tệ |  | Destination C1–C2 · collocation |
+| 6530 | have/start a family | có con, lập gia đình |  | Destination C1–C2 · collocation |
 | 6531 | haven't the faintest idea | hoàn toàn không biết |  | Word Skills Advanced |
 | 6532 | Hay | Cỏ khô | /heɪ/ | IELTS · Countryside |
 | 6533 | hay fever | viêm mũi dị ứng phấn hoa |  | Word Skills Advanced |
@@ -6552,16 +6552,16 @@
 | 6540 | Hazy | Mờ mịt | /ˈheɪ.zi/ | IELTS · Weather, Word Skills Advanced |
 | 6541 | he | anh ấy, ông ấy |  | Oxford 3000 · A1 · pron |
 | 6542 | head | cái đầu; chỉ huy, lãnh đạo, dẫn đầu |  | TOEIC (Hackers), Word Skills Basic/Advanced, Oxford 3000 · A1 · n, v |
-| 6543 | head a ball |  |  | Destination C1–C2 · collocation |
-| 6544 | head a committee/etc |  |  | Destination C1–C2 · collocation |
-| 6545 | head a list health good/bad for your health |  |  | Destination C1–C2 · collocation |
+| 6543 | head a ball | đánh đầu (bóng) |  | Destination C1–C2 · collocation |
+| 6544 | head a committee/etc | đứng đầu uỷ ban |  | Destination C1–C2 · collocation |
+| 6545 | head a list health good/bad for your health | đứng đầu danh sách; tốt / có hại cho sức khoẻ |  | Destination C1–C2 · collocation |
 | 6546 | head for | đầu cho |  | TOEIC (Hackers), Word Skills Advanced |
 | 6547 | head in the right/wrong direction | đi đúng/sai hướng |  | Word Skills Advanced |
-| 6548 | head off | (= prevent someone from going somewhere by getting in front of them) (= prevent something from taking place) |  | Destination C1–C2 · phrasal verb |
+| 6548 | head off | chặn đầu; ngăn chặn (sự việc) (= prevent someone from going somewhere by getting in front of them) (= prevent something from taking place) |  | Destination C1–C2 · phrasal verb |
 | 6549 | head office | trụ sở chính |  | TOEIC (Hackers), Destination C1–C2 · collocation |
 | 6550 | head toward | Tiến đến Lối ra |  | TOEIC (Hackers) |
 | 6551 | head towards | hướng về |  | Word Skills Advanced |
-| 6552 | head towards/for (a place) |  |  | Destination C1–C2 · collocation |
+| 6552 | head towards/for (a place) | đi về phía |  | Destination C1–C2 · collocation |
 | 6553 | head up | Nâng cao đầu |  | TOEIC (Hackers) |
 | 6554 | headache | đau đầu | /ˈhɛˌdeɪk/ | TOEIC (Hackers), IELTS · Health, Word Skills Basic, Oxford 3000 · A2 · n |
 | 6555 | Headboard | Đầu giường | /ˈhɛdˌbɔːrd/ | IELTS · Housing and Architecture |
@@ -6573,15 +6573,15 @@
 | 6561 | heal up | lành lại |  | Word Skills Intermediate |
 | 6562 | healing | đang làm lành |  | TOEIC (Hackers) |
 | 6563 | health | sức khỏe, thế chất; Sức khỏe | /hɛlθ/ | TOEIC (Hackers), IELTS · Health, Oxford 3000 · A1 · n |
-| 6564 | health and safety |  |  | Destination C1–C2 · collocation |
-| 6565 | health centre |  |  | Destination C1–C2 · collocation |
-| 6566 | health club |  |  | Destination C1–C2 · collocation |
-| 6567 | health food |  |  | Destination C1–C2 · collocation |
-| 6568 | health hazard/risk |  |  | Destination C1–C2 · collocation |
+| 6564 | health and safety | sức khoẻ và an toàn (lao động) |  | Destination C1–C2 · collocation |
+| 6565 | health centre | trung tâm y tế |  | Destination C1–C2 · collocation |
+| 6566 | health club | câu lạc bộ thể hình |  | Destination C1–C2 · collocation |
+| 6567 | health food | thực phẩm tốt cho sức khoẻ |  | Destination C1–C2 · collocation |
+| 6568 | health hazard/risk | mối nguy cho sức khoẻ |  | Destination C1–C2 · collocation |
 | 6569 | Health insurance | Bảo hiểm sức khỏe | /hɛlθ ɪnˈʃʊrəns/ | IELTS · Health |
 | 6570 | health scare | hoảng loạn về sức khỏe |  | Word Skills Intermediate |
 | 6571 | Health screening | Kiểm tra sức khỏe | /hɛlθ ˈskrinɪŋ/ | IELTS · Health |
-| 6572 | health service high look/search high and low |  |  | Destination C1–C2 · collocation |
+| 6572 | health service high look/search high and low | dịch vụ y tế; tìm khắp nơi |  | Destination C1–C2 · collocation |
 | 6573 | healthcare | chăm sóc sức khỏe |  | Word Skills Advanced, Oxford 5000 · B2 · n |
 | 6574 | Healthcare access | Tiếp cận dịch vụ chăm sóc sức khỏe | /ˈhɛlθkɛr ˈæksɛs/ | IELTS · Social issues |
 | 6575 | Healthcare system | Hệ thống chăm sóc sức khỏe | /ˈhɛlθkeər ˈsɪstəm/ | IELTS · Covid |
@@ -6590,7 +6590,7 @@
 | 6578 | Healthy lifestyle | Lối sống lành mạnh | /ˈhɛlθi ˈlaɪfstaɪl/ | IELTS · Health |
 | 6579 | hear | nghe thấy |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · v |
 | 6580 | hear from sb | nhận tin từ ai |  | Word Skills Intermediate |
-| 6581 | (hear sth) on/through the grapevine | (= the way in which information spreads quickly from one person to another through conversati…) |  | Destination C1–C2 · idiom |
+| 6581 | (hear sth) on/through the grapevine | nghe phong thanh, nghe đồn (= the way in which information spreads quickly from one person to another through conversati…) |  | Destination C1–C2 · idiom |
 | 6582 | hearing | thính giác; phiên tòa |  | Oxford 3000 · B2 · n |
 | 6583 | hearing from you as in | mong hồi âm |  | Word Skills Advanced |
 | 6584 | Heart | Trái tim | /hɑːrt/ | IELTS · Health, Word Skills Intermediate/Advanced, Oxford 3000 · A2 · n |
@@ -6610,7 +6610,7 @@
 | 6598 | Heat intensity | Mức độ nhiệt độ | /hiːt ɪnˈtɛnsɪti/ | IELTS · Weather |
 | 6599 | Heat lightning | Sét khí nóng | /hiːt ˈlaɪt.nɪŋ/ | IELTS · Weather |
 | 6600 | Heat spell | Kỳ nóng kéo dài | /hiːt spɛl/ | IELTS · Weather |
-| 6601 | heat up | (= make something hot; become hot) |  | Destination C1–C2 · phrasal verb |
+| 6601 | heat up | làm nóng lên; nóng lên (= make something hot; become hot) |  | Destination C1–C2 · phrasal verb |
 | 6602 | Heat-related illnesses | Bệnh liên quan đến nhiệt độ | /hit-rɪˈleɪtɪd ˈɪlˈnɪsəz/ | IELTS · Weather |
 | 6603 | heated debate | tranh luận gay gắt |  | Word Skills Advanced |
 | 6604 | heated discussion | thảo luận sôi nổi |  | Word Skills Advanced, Destination C1–C2 · collocation |
@@ -6625,7 +6625,7 @@
 | 6613 | Heavy metal | Nhạc heavy metal | /hɛvi ˈmɛtəl/ | IELTS · Entertainment and media |
 | 6614 | heavy sleeper | người ngủ say, khó đánh thức |  | Word Skills Intermediate |
 | 6615 | heavy traffic | Kẹt xe nặng |  | TOEIC (Hackers), Word Skills Intermediate |
-| 6616 | heavy/light rain |  |  | Destination C1–C2 · collocation |
+| 6616 | heavy/light rain | mưa to / mưa nhẹ |  | Destination C1–C2 · collocation |
 | 6617 | hectic | éo le; Bận rộn, nhộn nhịp | /ˈhɛktɪk/ | TOEIC (Hackers), IELTS · Celebrity, Word Skills Advanced |
 | 6618 | hedge | tự bảo hiểm |  | TOEIC (Hackers), Word Skills Advanced |
 | 6619 | heel | gót chân |  | Oxford 3000 · B2 · n |
@@ -6675,7 +6675,7 @@
 | 6663 | Hibernation | Ngủ đông | /ˌhaɪbərˈneɪʃən/ | IELTS · Animal |
 | 6664 | hiccup | nấc cụt |  | TOEIC (Hackers) |
 | 6665 | hidden | ẩn |  | Oxford 5000 · B2 · adj |
-| 6666 | hidden depths |  |  | Destination C1–C2 · collocation |
+| 6666 | hidden depths | những phẩm chất tiềm ẩn |  | Destination C1–C2 · collocation |
 | 6667 | hide | trốn |  | Word Skills Advanced, Oxford 3000 · A2 · v |
 | 6668 | hide your feelings | che giấu cảm xúc |  | Word Skills Intermediate |
 | 6669 | hierarchy | thứ bậc |  | Oxford 5000 · C1 · n |
@@ -6684,22 +6684,22 @@
 | 6672 | High chair | Ghế cao | /haɪ tʃɛr/ | IELTS · Housing and Architecture |
 | 6673 | High expectations | Kỳ vọng cao | /haɪ ˌɛkspɛkˈteɪʃənz/ | IELTS · Family and Relationships |
 | 6674 | High fashion | Thời trang cao cấp | /haɪ ˈfæʃən/ | IELTS · Fashion |
-| 6675 | high finance |  |  | Destination C1–C2 · collocation |
+| 6675 | high finance | giới tài chính lớn |  | Destination C1–C2 · collocation |
 | 6676 | high priority | ưu tiên cao |  | Word Skills Advanced, Destination C1–C2 · collocation |
-| 6677 | high risk of |  |  | Destination C1–C2 · collocation |
+| 6677 | high risk of | nguy cơ cao |  | Destination C1–C2 · collocation |
 | 6678 | High school | Trường trung học phổ thông (ở Mỹ) | /haɪ skul/ | IELTS · Education, Word Skills Intermediate |
 | 6679 | high street | phố mua sắm chính (Anh) |  | Destination C1–C2 · collocation |
-| 6680 | high tech |  |  | Destination C1–C2 · collocation |
+| 6680 | high tech | công nghệ cao |  | Destination C1–C2 · collocation |
 | 6681 | High temperatures | Nhiệt độ cao | /haɪ ˈtɛmpərəʧərz/ | IELTS · Weather |
 | 6682 | high tide | thủy triều lên |  | Word Skills Intermediate |
-| 6683 | high time |  |  | Destination C1–C2 · collocation |
+| 6683 | high time | đã đến lúc (lẽ ra phải sớm hơn) |  | Destination C1–C2 · collocation |
 | 6684 | high-end | Cao cấp; Cao cấp, đẳng cấp | /haɪ ɛnd/ | TOEIC (Hackers), IELTS · Celebrity |
 | 6685 | high-heeled | cao gót |  | Word Skills Intermediate |
 | 6686 | High-key colors | Màu sắc sáng | /haɪ-ki ˈkʌlərz/ | IELTS · Art |
 | 6687 | High-profile | Có sự quan tâm, chú ý lớn. | /haɪ ˈproʊfaɪl/ | IELTS · Celebrity, Oxford 5000 · C1 · adj, Word Skills Advanced |
-| 6688 | high-rise block |  |  | Destination C1–C2 · collocation |
+| 6688 | high-rise block | toà nhà cao tầng |  | Destination C1–C2 · collocation |
 | 6689 | High-speed internet | Internet tốc độ cao | /haɪ spiːd ˈɪntərnɛt/ | IELTS · Technology |
-| 6690 | high/good/top quality |  |  | Destination C1–C2 · collocation |
+| 6690 | high/good/top quality | chất lượng cao / tốt / hàng đầu |  | Destination C1–C2 · collocation |
 | 6691 | Higher education | Giáo dục đại học | /ˈhaɪər ˌɛdʒʊˈkeɪʃən/ | IELTS · Education |
 | 6692 | highlight | nổi bật |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B1 · n, v |
 | 6693 | highly | tốt, cao; hết sức, ở mức độ cao |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · adv |
@@ -6772,13 +6772,13 @@
 | 6760 | History | Lịch sử | /ˈhɪstəri/ | IELTS · Education, IELTS · Culture, Word Skills Basic, Oxford 3000 · A1 · n |
 | 6761 | Hit | Đánh, va chạm | /hɪt/ | IELTS · Accident, Word Skills Intermediate, Oxford 3000 · A2 · n, v |
 | 6762 | Hit and run | Đâm và tẩu thoát | /hɪt ænd rʌn/ | IELTS · Accident |
-| 6763 | hit back | (= criticise someone who has criticised you) (= deliberately hurt someone who has hurt you) |  | Destination C1–C2 · phrasal verb |
+| 6763 | hit back | đáp trả, phản công (= criticise someone who has criticised you) (= deliberately hurt someone who has hurt you) |  | Destination C1–C2 · phrasal verb |
 | 6764 | hit back at | phản pháo |  | Word Skills Advanced |
 | 6765 | Hit song | Bài hát thành công | /hɪt sɔŋ/ | IELTS · Music |
 | 6766 | Hit the big time | Thành công lớn, đạt đến đỉnh cao | /hɪt ðə bɪɡ taɪm/ | IELTS · Entertainment and media |
 | 6767 | hit the roof | nổi trận lôi đình |  | Word Skills Advanced |
-| 6768 | hit upon | (= discover something by chance) (= suddenly have an idea) |  | Destination C1–C2 · phrasal verb |
-| 6769 | hit/miss the mark |  |  | Destination C1–C2 · collocation |
+| 6768 | hit upon | chợt nghĩ ra; tình cờ phát hiện (= discover something by chance) (= suddenly have an idea) |  | Destination C1–C2 · phrasal verb |
+| 6769 | hit/miss the mark | trúng / trượt đích |  | Destination C1–C2 · collocation |
 | 6770 | hitherto | cho đến nay |  | Word Skills Advanced |
 | 6771 | ho password | mật khẩu ho |  | TOEIC (Hackers) |
 | 6772 | hob | bếp nấu (Anh) |  | Word Skills Basic |
@@ -6793,7 +6793,7 @@
 | 6781 | hold power | nắm giữ quyền lực |  | TOEIC (Hackers) |
 | 6782 | hold sb responsible for | quy trách nhiệm cho ai |  | Word Skills Advanced |
 | 6783 | hold sb/sth up | làm chậm trễ |  | Word Skills Advanced |
-| 6784 | hold sth steady |  |  | Destination C1–C2 · collocation |
+| 6784 | hold sth steady | giữ chặt cái gì |  | Destination C1–C2 · collocation |
 | 6785 | hold the line | khống chế vật giá |  | TOEIC (Hackers) |
 | 6786 | hold the record | giữ kỷ lục |  | Word Skills Intermediate |
 | 6787 | hold up | trì hoãn |  | TOEIC (Hackers) |
@@ -6805,7 +6805,7 @@
 | 6793 | Hollywood | Hollywood (khu vực sản xuất phim ở Los Angeles, Mỹ) | /ˈhɑːliwʊd/ | IELTS · Celebrity |
 | 6794 | holy | thiêng liêng |  | Oxford 3000 · B2 · adj |
 | 6795 | Home | Ngôi nhà | /hoʊm/ | IELTS · Family and Relationships, IELTS · Housing and Architecture, Word Skills Basic/Advanced, Oxford 3000 · A1 · adj, adv, n |
-| 6796 | home sweet home | nhà là tuyệt nhất/ chẳng đầu bằng nhà mình (used for saying that you are happy to be back in your own home) |  | Destination C1–C2 · idiom |
+| 6796 | home sweet home | không đâu bằng nhà mình (used for saying that you are happy to be back in your own home) |  | Destination C1–C2 · idiom |
 | 6797 | Home-cooked | Tự nấu tại nhà | /hoʊm kʊkt/ | IELTS · Food and Drink |
 | 6798 | home-improvement | sửa chữa nhà cửa |  | TOEIC (Hackers) |
 | 6799 | homebuilder | homebuilder |  | TOEIC (Hackers) |
@@ -6915,11 +6915,11 @@
 | 6903 | huge | khổng lồ, rất lớn |  | Word Skills Intermediate/Advanced, Oxford 3000 · A2 · adj |
 | 6904 | hum | ngân nga |  | Word Skills Advanced |
 | 6905 | human | con người |  | Word Skills Intermediate, Oxford 3000 · A2 · adj, n |
-| 6906 | human behaviour |  |  | Destination C1–C2 · collocation |
-| 6907 | human being |  |  | Destination C1–C2 · collocation |
-| 6908 | human error |  |  | Destination C1–C2 · collocation |
-| 6909 | human nature |  |  | Destination C1–C2 · collocation |
-| 6910 | human race |  |  | Destination C1–C2 · collocation |
+| 6906 | human behaviour | hành vi con người |  | Destination C1–C2 · collocation |
+| 6907 | human being | con người |  | Destination C1–C2 · collocation |
+| 6908 | human error | lỗi do con người |  | Destination C1–C2 · collocation |
+| 6909 | human nature | bản chất con người |  | Destination C1–C2 · collocation |
+| 6910 | human race | loài người |  | Destination C1–C2 · collocation |
 | 6911 | human remains | hài cốt |  | Word Skills Advanced |
 | 6912 | human resources | tài nguyên con người |  | TOEIC (Hackers) |
 | 6913 | Human Rights | Quyền con người | /ˈhjumən raɪts/ | IELTS · Social issues, Destination C1–C2 · collocation |
@@ -7033,16 +7033,16 @@
 | 7021 | Ideology | Hệ tư tưởng, ý thức chính trị | /aɪdiˈɑːlədʒi/ | IELTS · Entertainment and media, Oxford 5000 · C1 · n |
 | 7022 | idiom | thành ngữ |  | Word Skills Intermediate/Advanced |
 | 7023 | idiomatic | mang tính thành ngữ |  | Word Skills Intermediate |
-| 7024 | idle threat |  |  | Destination C1–C2 · collocation |
+| 7024 | idle threat | lời doạ suông |  | Destination C1–C2 · collocation |
 | 7025 | idol | thần tượng |  | Word Skills Advanced |
 | 7026 | idolize | thần tượng hóa |  | Word Skills Advanced |
 | 7027 | IED (Improvised Explosive Device) | Vật nổ tự chế | /ˌaɪ.iːˈdiː/ | IELTS · Weapons |
 | 7028 | if | nếu |  | Word Skills Basic, Oxford 3000 · A1 · conj |
 | 7029 | if ’m not mistaken | Nếu ta không lầm... |  | TOEIC (Hackers) |
-| 7030 | if (the) worst comes to (the) worst |  |  | Destination C1–C2 · collocation |
+| 7030 | if (the) worst comes to (the) worst | trong trường hợp xấu nhất |  | Destination C1–C2 · collocation |
 | 7031 | if all else fails | nếu mọi cách khác đều thất bại/ ::.! |  | Word Skills Advanced |
 | 7032 | if anything happens to sb | nếu ai có mệnh hệ gì |  | Word Skills Advanced |
-| 7033 | if ever |  |  | Destination C1–C2 · collocation |
+| 7033 | if ever | nếu có thì cũng hiếm |  | Destination C1–C2 · collocation |
 | 7034 | if it’s okay with you | Nếu chị đồng ý |  | TOEIC (Hackers) |
 | 7035 | if possible | nếu có thể |  | TOEIC (Hackers) |
 | 7036 | if you ask me | nếu hỏi tôi |  | Word Skills Intermediate, Destination C1–C2 · collocation |
@@ -7054,7 +7054,7 @@
 | 7042 | ihearty | ihearty |  | TOEIC (Hackers) |
 | 7043 | ihygiene | ihygiene |  | TOEIC (Hackers) |
 | 7044 | ill | ốm |  | Oxford 3000 · A2 · adj |
-| 7045 | ill health |  |  | Destination C1–C2 · collocation |
+| 7045 | ill health | sức khoẻ yếu |  | Destination C1–C2 · collocation |
 | 7046 | ill-advised | thiếu khôn ngoan |  | Word Skills Advanced |
 | 7047 | ill-informed | thiếu thông tin |  | Word Skills Advanced |
 | 7048 | ill-prepared | chuẩn bị kém |  | Word Skills Advanced |
@@ -7143,31 +7143,31 @@
 | 7131 | impulsive | bốc đồng |  | Word Skills Advanced |
 | 7132 | in | trong (= place; taking part; time) (= my twenties, etc) |  | Word Skills Basic, Oxford 3000 · A1 · adv, prep |
 | 7133 | in a bad mood | tâm trạng xấu |  | Word Skills Intermediate |
-| 7134 | in a bad way |  |  | Destination C1–C2 · collocation |
+| 7134 | in a bad way | trong tình trạng tồi tệ |  | Destination C1–C2 · collocation |
 | 7135 | in a deep sleep | đang ngủ say |  | Word Skills Intermediate |
 | 7136 | in a good mood | tâm trạng tốt |  | Word Skills Intermediate |
 | 7137 | in a hurry | Hối hả |  | TOEIC (Hackers) |
 | 7138 | in a hurry I'hari | đang vội |  | Word Skills Intermediate |
-| 7139 | in a matter of (days, etc) |  |  | Destination C1–C2 · collocation |
-| 7140 | in a moment |  |  | Destination C1–C2 · collocation |
+| 7139 | in a matter of (days, etc) | chỉ trong vài (ngày) |  | Destination C1–C2 · collocation |
+| 7140 | in a moment | một lát nữa |  | Destination C1–C2 · collocation |
 | 7141 | in a relationship | Đang hẹn hò, có người yêu (có thể chưa nghiêm túc lắm) |  | Word Skills Intermediate |
 | 7142 | in a rush (to do sth) | đang vội |  | Destination C1–C2 · collocation |
-| 7143 | in a second |  |  | Destination C1–C2 · collocation |
+| 7143 | in a second | ngay lập tức |  | Destination C1–C2 · collocation |
 | 7144 | in a strict way (= strictly) | một cách chặt chẽ (= chặt chẽ) |  | TOEIC (Hackers) |
 | 7145 | in a timely fashion | một cách kịp thời |  | TOEIC (Hackers) |
-| 7146 | in a/one sense |  |  | Destination C1–C2 · collocation |
-| 7147 | in a/some/no small way |  |  | Destination C1–C2 · collocation |
+| 7146 | in a/one sense | theo một nghĩa nào đó |  | Destination C1–C2 · collocation |
+| 7147 | in a/some/no small way | một phần / không nhỏ |  | Destination C1–C2 · collocation |
 | 7148 | in addition | ngoài ra |  | Word Skills Intermediate |
 | 7149 | in addition to | Ngoài việc |  | TOEIC (Hackers) |
 | 7150 | in advance | sớm |  | TOEIC (Hackers), Word Skills Basic/Intermediate |
-| 7151 | in all weathers |  |  | Destination C1–C2 · collocation |
+| 7151 | in all weathers | bất kể thời tiết |  | Destination C1–C2 · collocation |
 | 7152 | in alphabetical order | Sắp xếp bước theo thứ tự chữ cái |  | TOEIC (Hackers) |
 | 7153 | in an attempt to | trong một nỗ lực để |  | TOEIC (Hackers) |
-| 7154 | in answer to |  |  | Destination C1–C2 · collocation |
+| 7154 | in answer to | để đáp lại |  | Destination C1–C2 · collocation |
 | 7155 | in anticipation of | với dự đoán về |  | TOEIC (Hackers) |
 | 7156 | in any case | dù sao đi nữa |  | Word Skills Advanced |
 | 7157 | in appreciation of | để đánh giá cao |  | TOEIC (Hackers) |
-| 7158 | in authority |  |  | Destination C1–C2 · collocation |
+| 7158 | in authority | có quyền hành |  | Destination C1–C2 · collocation |
 | 7159 | in bad shape | trong tình trạng tồi |  | Word Skills Intermediate |
 | 7160 | In captivity | Bị giam cầm, trong tình trạng bị giam cầm | /ɪn kæpˈtɪvəti/ | IELTS · Animal, Word Skills Advanced |
 | 7161 | in case | phòng khi |  | Word Skills Intermediate |
@@ -7181,7 +7181,7 @@
 | 7169 | in company | khi có người khác |  | Word Skills Advanced |
 | 7170 | in comparison with | so với |  | Word Skills Intermediate |
 | 7171 | in conclusion | kết luận |  | TOEIC (Hackers), Word Skills Advanced, Destination C1–C2 · collocation |
-| 7172 | in consequence |  |  | Destination C1–C2 · collocation |
+| 7172 | in consequence | do đó |  | Destination C1–C2 · collocation |
 | 7173 | in contrast | Ngược lại, |  | TOEIC (Hackers) |
 | 7174 | in control | nắm quyền kiểm soát |  | Word Skills Intermediate |
 | 7175 | in credit | (tài khoản) có số dư |  | Word Skills Advanced |
@@ -7189,12 +7189,12 @@
 | 7177 | in current use | đang được dùng |  | Word Skills Advanced |
 | 7178 | in custody | bị giam giữ |  | Word Skills Advanced |
 | 7179 | in danger | gặp nguy hiểm |  | Word Skills Advanced |
-| 7180 | in dead trouble |  |  | Destination C1–C2 · collocation |
+| 7180 | in dead trouble | gặp rắc rối to |  | Destination C1–C2 · collocation |
 | 7181 | in decline | đang suy giảm |  | Word Skills Advanced |
-| 7182 | in depth |  |  | Destination C1–C2 · collocation |
+| 7182 | in depth | sâu, kỹ lưỡng |  | Destination C1–C2 · collocation |
 | 7183 | in detail | chi tiết |  | Word Skills Intermediate |
-| 7184 | in discussion with |  |  | Destination C1–C2 · collocation |
-| 7185 | in doubt |  |  | Destination C1–C2 · collocation |
+| 7184 | in discussion with | đang thảo luận với |  | Destination C1–C2 · collocation |
+| 7185 | in doubt | còn nghi vấn, chưa chắc |  | Destination C1–C2 · collocation |
 | 7186 | in due course | đúng lúc |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 7187 | in effect | Trên thực tế… |  | Destination C1–C2 · collocation |
 | 7188 | in error | vì lầm lẫn |  | TOEIC (Hackers) |
@@ -7204,20 +7204,20 @@
 | 7192 | in favor of | *với sự đồng thuận của |  | TOEIC (Hackers) |
 | 7193 | in favour of | ủng hộ |  | Word Skills Intermediate |
 | 7194 | in focus | rõ nét |  | Word Skills Intermediate, Destination C1–C2 · collocation |
-| 7195 | in for a treat |  |  | Destination C1–C2 · collocation |
+| 7195 | in for a treat | sắp được thưởng thức điều thú vị |  | Destination C1–C2 · collocation |
 | 7196 | in front of | phía trước |  | Word Skills Basic |
 | 7197 | in general | nói chung |  | Word Skills Intermediate |
 | 7198 | in good form | phong độ tốt |  | Word Skills Advanced |
 | 7199 | in good shape | trong tình trạng tốt |  | Word Skills Intermediate |
-| 7200 | in good/bad form |  |  | Destination C1–C2 · collocation |
+| 7200 | in good/bad form | phong độ tốt / kém |  | Destination C1–C2 · collocation |
 | 7201 | in good/bad shape | trong tình trạng tốt/xấu |  | Word Skills Intermediate |
-| 7202 | in good/bad taste |  |  | Destination C1–C2 · collocation |
-| 7203 | in good/poor health |  |  | Destination C1–C2 · collocation |
+| 7202 | in good/bad taste | tế nhị / khiếm nhã |  | Destination C1–C2 · collocation |
+| 7203 | in good/poor health | khoẻ mạnh / sức khoẻ kém |  | Destination C1–C2 · collocation |
 | 7204 | in great form | phong độ rất tốt |  | Word Skills Advanced |
 | 7205 | in high spirits | tâm trạng vui vẻ, phấn chấn |  | Destination C1–C2 · collocation |
 | 7206 | in honour of | để vinh danh |  | Word Skills Advanced |
-| 7207 | in large measure/part |  |  | Destination C1–C2 · collocation |
-| 7208 | in length |  |  | Destination C1–C2 · collocation |
+| 7207 | in large measure/part | phần lớn |  | Destination C1–C2 · collocation |
+| 7208 | in length | về chiều dài |  | Destination C1–C2 · collocation |
 | 7209 | in light of | dưới ánh sáng của |  | TOEIC (Hackers) |
 | 7210 | in line with | phù hợp với |  | TOEIC (Hackers) |
 | 7211 | in love | đang yêu |  | Word Skills Basic, Destination C1–C2 · collocation |
@@ -7226,58 +7226,58 @@
 | 7214 | in mint condition | còn mới nguyên |  | Word Skills Advanced |
 | 7215 | in motion | đang chuyển động |  | Word Skills Advanced |
 | 7216 | in mourning | đang để tang |  | Word Skills Intermediate |
-| 7217 | in my book |  |  | Destination C1–C2 · collocation |
+| 7217 | in my book | theo tôi |  | Destination C1–C2 · collocation |
 | 7218 | in my opinion | Ý kiến rõ ràng |  | Word Skills Intermediate |
-| 7219 | in nature |  |  | Destination C1–C2 · collocation |
-| 7220 | in need (of) |  |  | Destination C1–C2 · collocation |
+| 7219 | in nature | về bản chất; trong tự nhiên |  | Destination C1–C2 · collocation |
+| 7220 | in need (of) | cần (gì); túng thiếu |  | Destination C1–C2 · collocation |
 | 7221 | in observance of | để tuân thủ |  | TOEIC (Hackers) |
 | 7222 | in office | đương nhiệm |  | Word Skills Advanced |
 | 7223 | in one’s absence | vắng mặt |  | TOEIC (Hackers) |
 | 7224 | in one’s grasp | trong tầm tay |  | TOEIC (Hackers) |
 | 7225 | in order to | Để… |  | Word Skills Basic |
 | 7226 | in other words | nói cách khác |  | Word Skills Intermediate, Destination C1–C2 · collocation |
-| 7227 | in out of shape |  |  | Destination C1–C2 · collocation |
+| 7227 | in out of shape | cân đối / mất dáng |  | Destination C1–C2 · collocation |
 | 7228 | in particular | đặc biệt |  | TOEIC (Hackers), Word Skills Intermediate |
 | 7229 | in passing | tiện thể |  | Word Skills Advanced |
 | 7230 | in perfect condition | trong tình trạng hoàn hảo |  | Word Skills Advanced |
 | 7231 | in person | trực tiếp |  | Word Skills Intermediate |
-| 7232 | in perspective |  |  | Destination C1–C2 · collocation |
+| 7232 | in perspective | đúng mức, đúng tỉ lệ |  | Destination C1–C2 · collocation |
 | 7233 | in place | đã sẵn sàng. |  | TOEIC (Hackers) |
 | 7234 | in place of | thay vì |  | TOEIC (Hackers), Destination C1–C2 · collocation |
 | 7235 | in possession of | sở hữu |  | Word Skills Advanced |
 | 7236 | in power | nắm quyền |  | Word Skills Intermediate/Advanced, Destination C1–C2 · collocation |
-| 7237 | in praise of |  |  | Destination C1–C2 · collocation |
+| 7237 | in praise of | để ca ngợi |  | Destination C1–C2 · collocation |
 | 7238 | in principle | về nguyên tắc |  | Word Skills Intermediate, Destination C1–C2 · collocation |
-| 7239 | in print |  |  | Destination C1–C2 · collocation |
-| 7240 | in prison |  |  | Destination C1–C2 · collocation |
+| 7239 | in print | được in ấn, còn phát hành |  | Destination C1–C2 · collocation |
+| 7240 | in prison | đang ở tù |  | Destination C1–C2 · collocation |
 | 7241 | in private | riêng |  | TOEIC (Hackers), Word Skills Intermediate |
 | 7242 | in progress | đang xử lý |  | TOEIC (Hackers) |
 | 7243 | in public | nơi công cộng |  | Word Skills Intermediate |
-| 7244 | in question |  |  | Destination C1–C2 · collocation |
+| 7244 | in question | đang bàn đến; còn nghi vấn |  | Destination C1–C2 · collocation |
 | 7245 | in reality | Thực tế thì… |  | Destination C1–C2 · collocation |
 | 7246 | in reference to | Liên quan tới chuyện gì? |  | TOEIC (Hackers) |
 | 7247 | in regard to | về việc |  | Word Skills Advanced |
 | 7248 | in reply to | đáp lại |  | Word Skills Advanced |
 | 7249 | in reserve | dự trữ |  | Word Skills Advanced |
-| 7250 | in response to |  |  | Destination C1–C2 · collocation |
+| 7250 | in response to | để đáp lại |  | Destination C1–C2 · collocation |
 | 7251 | in retrospect | nhìn lại |  | Word Skills Advanced |
-| 7252 | in sb's bad/good books | (used for saying that someone is annoyed/pleased with you) |  | Destination C1–C2 · idiom |
-| 7253 | in sb's good/bad books |  |  | Destination C1–C2 · collocation |
-| 7254 | in sb's view |  |  | Destination C1–C2 · collocation |
+| 7252 | in sb's bad/good books | bị ai ghét / được ai quý (used for saying that someone is annoyed/pleased with you) |  | Destination C1–C2 · idiom |
+| 7253 | in sb's good/bad books | được ai quý / bị ai ghét |  | Destination C1–C2 · collocation |
+| 7254 | in sb's view | theo quan điểm của ai |  | Destination C1–C2 · collocation |
 | 7255 | in sb's way | cản đường ai |  | Word Skills Advanced |
 | 7256 | in sb's/the way | cản đường |  | Word Skills Advanced |
 | 7257 | in search of | tìm kiếm |  | Word Skills Advanced |
 | 7258 | in season | đúng mùa |  | Word Skills Advanced |
 | 7259 | in short | nói tóm lại |  | TOEIC (Hackers) |
-| 7260 | in size |  |  | Destination C1–C2 · collocation |
+| 7260 | in size | về kích thước |  | Destination C1–C2 · collocation |
 | 7261 | in stock | Còn hàng |  | TOEIC (Hackers) |
 | 7262 | in storage | trong lưu trữ |  | TOEIC (Hackers) |
-| 7263 | in style |  |  | Destination C1–C2 · collocation |
+| 7263 | in style | sang trọng, đúng mốt |  | Destination C1–C2 · collocation |
 | 7264 | in summary | Tóm tắt |  | TOEIC (Hackers) |
 | 7265 | in support of | Để hỗ trợ |  | TOEIC (Hackers), Destination C1–C2 · collocation |
 | 7266 | in tears | đang khóc |  | Word Skills Advanced |
-| 7267 | in the act (of doing) |  |  | Destination C1–C2 · collocation |
-| 7268 | in the belief that |  |  | Destination C1–C2 · collocation |
+| 7267 | in the act (of doing) | bị bắt quả tang (đang làm) |  | Destination C1–C2 · collocation |
+| 7268 | in the belief that | với niềm tin rằng |  | Destination C1–C2 · collocation |
 | 7269 | in the centre | ở trung tâm |  | Word Skills Intermediate/Advanced |
 | 7270 | in the coming year | trong năm tới |  | TOEIC (Hackers) |
 | 7271 | in the dark (about) | không biết gì (= not knowing very much about something, because other people are keeping it secret from you) |  | Destination C1–C2 · idiom |
@@ -7285,39 +7285,39 @@
 | 7273 | in the distance | ở phía xa/ đẳng xa |  | Word Skills Intermediate |
 | 7274 | in the distant past | trong quá khứ xa xôi |  | TOEIC (Hackers) |
 | 7275 | in the end | cuối cùng |  | Word Skills Intermediate, Destination C1–C2 · collocation |
-| 7276 | in the family |  |  | Destination C1–C2 · collocation |
+| 7276 | in the family | trong gia đình; (lóng) có bầu |  | Destination C1–C2 · collocation |
 | 7277 | in the firing line | ở tâm điểm của chỉ trích/ công kích |  | Word Skills Advanced |
-| 7278 | in the form of |  |  | Destination C1–C2 · collocation |
-| 7279 | in the know |  |  | Destination C1–C2 · collocation |
-| 7280 | in the lead |  |  | Destination C1–C2 · collocation |
+| 7278 | in the form of | dưới hình thức |  | Destination C1–C2 · collocation |
+| 7279 | in the know | biết chuyện nội bộ |  | Destination C1–C2 · collocation |
+| 7280 | in the lead | đang dẫn đầu |  | Destination C1–C2 · collocation |
 | 7281 | In the limelight | Trong ánh đèn sân khấu, được chú ý | /ɪn ðə ˈlaɪmˌlaɪt/ | IELTS · Entertainment and media |
-| 7282 | in the long run/term |  |  | Destination C1–C2 · collocation |
-| 7283 | in the long/short term |  |  | Destination C1–C2 · collocation |
+| 7282 | in the long run/term | về lâu dài |  | Destination C1–C2 · collocation |
+| 7283 | in the long/short term | về lâu dài / ngắn hạn |  | Destination C1–C2 · collocation |
 | 7284 | in the meantime | giờ nghỉ trưa |  | TOEIC (Hackers), Word Skills Intermediate |
 | 7285 | in the middle of | giữa |  | TOEIC (Hackers) |
-| 7286 | in the middle of nowhere | (= a long way from any town or city) |  | Destination C1–C2 · idiom |
-| 7287 | in the national interest |  |  | Destination C1–C2 · collocation |
+| 7286 | in the middle of nowhere | ở nơi khỉ ho cò gáy (= a long way from any town or city) |  | Destination C1–C2 · idiom |
+| 7287 | in the national interest | vì lợi ích quốc gia |  | Destination C1–C2 · collocation |
 | 7288 | in the nick of time | vừa kịp lúc (= just in time to prevent something bad happening) |  | Destination C1–C2 · idiom |
 | 7289 | in the north | ở phía bắc |  | Word Skills Basic |
 | 7290 | in the nude | khỏa thân |  | Word Skills Advanced |
 | 7291 | in the paper | trên báo |  | Word Skills Basic |
 | 7292 | in the prepaid envelope | trong phong bì trả trước |  | TOEIC (Hackers) |
 | 7293 | in the process of | cùng lúc đó. |  | TOEIC (Hackers) |
-| 7294 | in the process of doing |  |  | Destination C1–C2 · collocation |
+| 7294 | in the process of doing | đang trong quá trình làm |  | Destination C1–C2 · collocation |
 | 7295 | in the process of doing sth | đang trong quá trình làm gì |  | Word Skills Advanced |
 | 7296 | in the public eye | trước mắt công chúng, nổi tiếng (qua báo |  | Word Skills Advanced |
 | 7297 | in the region of | khoảng |  | Word Skills Advanced |
-| 7298 | in the sticks | (in an area far from the town or city) |  | Destination C1–C2 · idiom |
-| 7299 | in the sun |  |  | Destination C1–C2 · collocation |
+| 7298 | in the sticks | ở vùng quê hẻo lánh (in an area far from the town or city) |  | Destination C1–C2 · idiom |
+| 7299 | in the sun | dưới nắng |  | Destination C1–C2 · collocation |
 | 7300 | in the vicinity of | ở gần |  | TOEIC (Hackers) |
 | 7301 | in the way | cản đường |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 7302 | in the wild | trong tự nhiên |  | Word Skills Advanced |
 | 7303 | in the wind | sắp xảy ra/ đang được ban tán |  | Destination C1–C2 · collocation |
-| 7304 | (in the) Stone/Bronze/Iron Age |  |  | Destination C1–C2 · collocation |
+| 7304 | (in the) Stone/Bronze/Iron Age | (thời) đồ đá / đồ đồng / đồ sắt |  | Destination C1–C2 · collocation |
 | 7305 | in theory | trên lý thuyết |  | Word Skills Intermediate |
-| 7306 | in this day and age |  |  | Destination C1–C2 · collocation |
-| 7307 | in this way |  |  | Destination C1–C2 · collocation |
-| 7308 | in this/that respect |  |  | Destination C1–C2 · collocation |
+| 7306 | in this day and age | thời buổi này |  | Destination C1–C2 · collocation |
+| 7307 | in this way | bằng cách này |  | Destination C1–C2 · collocation |
+| 7308 | in this/that respect | về mặt này / đó |  | Destination C1–C2 · collocation |
 | 7309 | in time | kịp lúc (= ten days') |  | Word Skills Intermediate, Word Skills Basic |
 | 7310 | in total | tổng cộng |  | TOEIC (Hackers) |
 | 7311 | in touch | giữ liên lạc |  | Word Skills Advanced |
@@ -7325,16 +7325,16 @@
 | 7313 | in trouble | gặp rắc rối |  | Word Skills Advanced |
 | 7314 | in turmoil | hỗn loạn |  | Word Skills Advanced |
 | 7315 | in turn | Lần lượt |  | TOEIC (Hackers) |
-| 7316 | in two minds about |  |  | Destination C1–C2 · collocation |
+| 7316 | in two minds about | phân vân về |  | Destination C1–C2 · collocation |
 | 7317 | in view of | xét đến |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 7318 | in writing | bằng văn bản |  | TOEIC (Hackers), Word Skills Intermediate |
 | 7319 | in your dreams | Mơ đi. |  | Destination C1–C2 · collocation |
-| 7320 | (in) bad faith |  |  | Destination C1–C2 · collocation |
+| 7320 | (in) bad faith | (với) ác ý, không thành thật |  | Destination C1–C2 · collocation |
 | 7321 | in-flight | trên chuyến bay |  | TOEIC (Hackers) |
 | 7322 | In-law | Họ hàng vợ/chồng | /ɪnˈlɔz/ | IELTS · Family and Relationships |
-| 7323 | in/during the course of |  |  | Destination C1–C2 · collocation |
-| 7324 | in/for donkey's years | (= an extremely long time) |  | Destination C1–C2 · idiom |
-| 7325 | in/on time |  |  | Destination C1–C2 · collocation |
+| 7323 | in/during the course of | trong quá trình |  | Destination C1–C2 · collocation |
+| 7324 | in/for donkey's years | lâu lắm rồi (= an extremely long time) |  | Destination C1–C2 · idiom |
+| 7325 | in/on time | kịp lúc / đúng giờ |  | Destination C1–C2 · collocation |
 | 7326 | in/out of season | đúng/trái mùa |  | Word Skills Advanced |
 | 7327 | ina row | ina row |  | TOEIC (Hackers) |
 | 7328 | inability | sự không có khả năng |  | Oxford 5000 · C1 · n |
@@ -7481,7 +7481,7 @@
 | 7469 | information technology | Công nghệ thông tin | /ˌɪnfərˈmeɪʃən tɛkˈnɑːlədʒi/ | Word Skills Intermediate, IELTS · Technology |
 | 7470 | informative | Hữu ích |  | TOEIC (Hackers) |
 | 7471 | informed | Được thông báo |  | TOEIC (Hackers) |
-| 7472 | informed choice |  |  | Destination C1–C2 · collocation |
+| 7472 | informed choice | lựa chọn sáng suốt (có đủ thông tin) |  | Destination C1–C2 · collocation |
 | 7473 | Informed choices | Lựa chọn được thông tin | /ɪnˈfɔrmd ˈtʃɔɪsɪz/ | IELTS · Advertising |
 | 7474 | infrastructure | cơ sở hạ tầng | /ˈɪnfrəstrʌktʃər/ | TOEIC (Hackers), IELTS · City, Oxford 5000 · B2 · n |
 | 7475 | Infrastructure protection | Bảo vệ cơ sở hạ tầng | /ˈɪnfrəˌstrʌkʧər prəˈtɛkʃən/ | IELTS · Energy |
@@ -7760,23 +7760,23 @@
 | 7748 | it doesn't matter | Không sao đâu. |  | Word Skills Basic |
 | 7749 | IT infrastructure | Cơ sở hạ tầng công nghệ thông tin | /aɪˈti ˈɪnfrəˌstrʌkʧər/ | IELTS · Technology |
 | 7750 | It is no wonder (that) | Không có gì lạ khi (rằng) |  | TOEIC (Hackers) |
-| 7751 | it pays to |  |  | Destination C1–C2 · collocation |
+| 7751 | it pays to | đáng để, có lợi khi |  | Destination C1–C2 · collocation |
 | 7752 | it seems to me | Với tôi thì có vẻ là… |  | Word Skills Intermediate |
-| 7753 | it so happens that |  |  | Destination C1–C2 · collocation |
+| 7753 | it so happens that | tình cờ là |  | Destination C1–C2 · collocation |
 | 7754 | IT support | Hỗ trợ công nghệ thông tin | /aɪˈti səˈpɔːrt/ | IELTS · Technology |
-| 7755 | it's (all) relative |  |  | Destination C1–C2 · collocation |
+| 7755 | it's (all) relative | tất cả chỉ là tương đối |  | Destination C1–C2 · collocation |
 | 7756 | it’s about time | Chỉ là vấn đề thời gian thôi mà. |  | TOEIC (Hackers), Word Skills Advanced |
-| 7757 | it's as broad as it's long | (used for saying that you cannot choose between two things or actions because they are equa…) |  | Destination C1–C2 · idiom |
+| 7757 | it's as broad as it's long | cái nào cũng như nhau, chẳng khác gì (used for saying that you cannot choose between two things or actions because they are equa…) |  | Destination C1–C2 · idiom |
 | 7758 | it's high time | đã đến lúc |  | Word Skills Advanced |
 | 7759 | it's more trouble than it's worth | được không bõ mất |  | Word Skills Advanced |
-| 7760 | it's no good doing |  |  | Destination C1–C2 · collocation |
+| 7760 | it's no good doing | làm gì cũng vô ích |  | Destination C1–C2 · collocation |
 | 7761 | it's no good+ing | chẳng ích gì khi |  | Word Skills Advanced |
 | 7762 | it's no use+ing | nó không có ích gì -ing |  | Word Skills Advanced, TOEIC (Hackers) |
 | 7763 | it's none of your business | Không phải việc của bạn. |  | Word Skills Advanced |
-| 7764 | it's not like sb to do |  |  | Destination C1–C2 · collocation |
+| 7764 | it's not like sb to do | không giống tính ai lại làm vậy |  | Destination C1–C2 · collocation |
 | 7765 | it's not sb's day | hôm nay không may |  | Word Skills Advanced |
 | 7766 | it's true | đúng vậy |  | Word Skills Advanced |
-| 7767 | it's/ there's no use doing |  |  | Destination C1–C2 · collocation |
+| 7767 | it's/ there's no use doing | làm gì cũng vô ích |  | Destination C1–C2 · collocation |
 | 7768 | IT, ICT | công nghệ thông tin |  | Word Skills Basic |
 | 7769 | Italian | (thuộc) Ý; tiếng Ý |  | Word Skills Basic |
 | 7770 | Italy | Ý (I-ta-li-a) |  | Word Skills Basic |
@@ -7820,7 +7820,7 @@
 | 7808 | Job description | Mô tả công việc | /dʒɑːb dɪˈskrɪp.ʃən/ | IELTS · Employment |
 | 7809 | Job enrichment | Bổ sung công việc | /dʒɑːb ɪnˈrɪtʃ.mənt/ | IELTS · Employment |
 | 7810 | job fair | Hội chợ Việc làm |  | TOEIC (Hackers) |
-| 7811 | job losses |  |  | Destination C1–C2 · collocation |
+| 7811 | job losses | mất việc làm |  | Destination C1–C2 · collocation |
 | 7812 | Job market | Thị trường việc làm | /dʒɑːb ˈmɑːr.kɪt/ | IELTS · Employment |
 | 7813 | job offer | Đề nghị việc làm |  | TOEIC (Hackers) |
 | 7814 | job opportunity | cơ hội việc làm |  | TOEIC (Hackers) |
@@ -7859,7 +7859,7 @@
 | 7847 | jump | nhảy |  | Word Skills Basic, Oxford 3000 · A2 · n, v |
 | 7848 | jump at the chance (to do) | nắm lấy cơ hội ngay lập tức |  | Destination C1–C2 · collocation |
 | 7849 | jump the gun | hành động vội |  | Destination C1–C2 · collocation |
-| 7850 | jump the queue |  |  | Destination C1–C2 · collocation |
+| 7850 | jump the queue | chen ngang hàng |  | Destination C1–C2 · collocation |
 | 7851 | jump to conclusions | vội kết luận |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 7852 | jump/leap to conclusions | vội kết luận |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 7853 | Jumper | Áo len dày | /dʒʌm.pər/ | IELTS · Fashion, Word Skills Basic |
@@ -7878,13 +7878,13 @@
 | 7866 | just in case | - Vâng, thưa Cha. - Chỉ phòng xa thôi. |  | TOEIC (Hackers) |
 | 7867 | just in time | vừa đúng lúc |  | TOEIC (Hackers) |
 | 7868 | just keep going | cứ đi tiếp |  | Word Skills Basic |
-| 7869 | just like |  |  | Destination C1–C2 · collocation |
+| 7869 | just like | giống hệt; đúng kiểu |  | Destination C1–C2 · collocation |
 | 7870 | just now | vừa nãy |  | Destination C1–C2 · collocation |
 | 7871 | just over | hơn một chút |  | Word Skills Basic |
 | 7872 | just to make sure | Cho chắc ăn. |  | TOEIC (Hackers) |
 | 7873 | just under | gần đủ, dưới một chút |  | Word Skills Basic |
-| 7874 | just/only being polite |  |  | Destination C1–C2 · collocation |
-| 7875 | just/wait a moment |  |  | Destination C1–C2 · collocation |
+| 7874 | just/only being polite | chỉ là phép lịch sự |  | Destination C1–C2 · collocation |
+| 7875 | just/wait a moment | đợi một chút |  | Destination C1–C2 · collocation |
 | 7876 | justa moment | đợi một chút |  | Word Skills Basic |
 | 7877 | justice | công lý |  | Oxford 3000 · B2 · n |
 | 7878 | justifiable | chính đáng |  | Word Skills Advanced |
@@ -7899,16 +7899,16 @@
 | 7887 | Kayaking | Chèo kayak | /kaɪəkɪŋ/ | IELTS · Sports and Equipments, IELTS · Tourism |
 | 7888 | Kebab | Món que | /kəˈbɑːb/ | IELTS · Food and Drink |
 | 7889 | keen | háo hức, thích |  | Oxford 3000 · B1 · adj |
-| 7890 | keen (for sb) to do |  |  | Destination C1–C2 · collocation |
-| 7891 | keen interest in |  |  | Destination C1–C2 · collocation |
-| 7892 | keen on |  |  | Destination C1–C2 · collocation |
+| 7890 | keen (for sb) to do | háo hức (muốn ai) làm |  | Destination C1–C2 · collocation |
+| 7891 | keen interest in | rất quan tâm đến |  | Destination C1–C2 · collocation |
+| 7892 | keen on | thích, mê |  | Destination C1–C2 · collocation |
 | 7893 | keen on something | thích, say mê cái gì |  | Word Skills Basic |
 | 7894 | keenly | sâu sắc |  | TOEIC (Hackers) |
 | 7895 | keep | giữ, giữ lại |  | TOEIC (Hackers), Word Skills Basic/Intermediate/Advanced, Oxford 3000 · A1 · v |
-| 7896 | keep (sth) up to date |  |  | Destination C1–C2 · collocation |
+| 7896 | keep (sth) up to date | cập nhật (cái gì) |  | Destination C1–C2 · collocation |
 | 7897 | keep A informed of B | thông báo cho A về B |  | TOEIC (Hackers) |
 | 7898 | keep a record of | ghi chép lại |  | Word Skills Intermediate |
-| 7899 | keep a sharp eye on |  |  | Destination C1–C2 · collocation |
+| 7899 | keep a sharp eye on | để mắt kỹ đến |  | Destination C1–C2 · collocation |
 | 7900 | keep a straight face | giữ vẻ mặt thản nhiên/ nghiêm túc (= remain serious and not laugh) |  | Destination C1–C2 · idiom |
 | 7901 | keep A up to date | Luôn cập nhật: |  | TOEIC (Hackers) |
 | 7902 | keep ahead of | dẫn trước |  | Word Skills Intermediate |
@@ -7919,29 +7919,29 @@
 | 7907 | keep in mind | Hãy ghi nhớ |  | TOEIC (Hackers) |
 | 7908 | keep on top of | luôn cập nhật thông tin mới nhất |  | TOEIC (Hackers) |
 | 7909 | keep one’s eye on | hãy để mắt đến |  | TOEIC (Hackers) |
-| 7910 | keep regular/late hours |  |  | Destination C1–C2 · collocation |
+| 7910 | keep regular/late hours | sinh hoạt điều độ / thức khuya |  | Destination C1–C2 · collocation |
 | 7911 | keep sb going | giúp ai cầm cự |  | Word Skills Advanced |
 | 7912 | keep sb informed | cập nhật thông tin cho ai |  | Word Skills Advanced |
-| 7913 | keep sb posted | (= regularly give someone information about something they are interested in, for example how…) |  | Destination C1–C2 · idiom |
+| 7913 | keep sb posted | báo tin thường xuyên cho ai (= regularly give someone information about something they are interested in, for example how…) |  | Destination C1–C2 · idiom |
 | 7914 | keep sth in perspective | nhìn nhận đúng mức |  | Word Skills Advanced |
-| 7915 | keep sth under your hat | (= keep something secret) |  | Destination C1–C2 · idiom |
+| 7915 | keep sth under your hat | giữ bí mật (= keep something secret) |  | Destination C1–C2 · idiom |
 | 7916 | keep sth up | duy trì |  | Word Skills Intermediate |
 | 7917 | keep still | đứng yên |  | Word Skills Advanced |
 | 7918 | keep to oneself | giữ cho riêng mình |  | TOEIC (Hackers) |
 | 7919 | keep track of | Kiểm tra thời gian |  | TOEIC (Hackers), Word Skills Advanced, Destination C1–C2 · collocation |
 | 7920 | keep up | theo kịp; duy trì (= continue to do something) (= move at the same speed as someone or something) |  | Destination C1–C2 · phrasal verb |
-| 7921 | keep up with the Joneses | (= try to be as rich, successful, etc as your neighbours) |  | Destination C1–C2 · idiom |
+| 7921 | keep up with the Joneses | đua đòi bằng hàng xóm (= try to be as rich, successful, etc as your neighbours) |  | Destination C1–C2 · idiom |
 | 7922 | keep your feet on the ground | giữ thực tế |  | Word Skills Advanced |
 | 7923 | keep your hair on | khuyên ai giữ bình tĩnh (used for telling someone not to get angry or upset) |  | Destination C1–C2 · idiom |
 | 7924 | keep your temper | giữ bình tĩnh |  | Word Skills Intermediate |
 | 7925 | keep yourself occupied | giữ mình bận rộn |  | Word Skills Advanced |
-| 7926 | keep/leave your options open |  |  | Destination C1–C2 · collocation |
+| 7926 | keep/leave your options open | để ngỏ các lựa chọn |  | Destination C1–C2 · collocation |
 | 7927 | keep/lose your temper | giữ/mất bình tĩnh |  | Word Skills Intermediate |
-| 7928 | keep/maintain/compile a record (of) |  |  | Destination C1–C2 · collocation |
+| 7928 | keep/maintain/compile a record (of) | ghi chép / lưu hồ sơ |  | Destination C1–C2 · collocation |
 | 7929 | keepin touch | giữ liên lạc |  | Word Skills Intermediate |
 | 7930 | kettle | Ấm nước |  | TOEIC (Hackers) |
 | 7931 | Key | Tông | /ki/ | IELTS · Music, Word Skills Intermediate, Oxford 3000 · A1 · adj, n, v |
-| 7932 | key in | (= put information into a computer or other electronic machine using keys or a keyboard) |  | Destination C1–C2 · phrasal verb |
+| 7932 | key in | gõ, nhập (dữ liệu) (= put information into a computer or other electronic machine using keys or a keyboard) |  | Destination C1–C2 · phrasal verb |
 | 7933 | Key signature | Hóa biểu | /ki ˈsɪɡ.nə.tʃər/ | IELTS · Music |
 | 7934 | key to success | <bpt i="1" type="8414" x="1"/>→  <ept i="1"/><bpt i="2" type="8417" x="2"/>chìa khóa thành công<ept i="2"/> |  | TOEIC (Hackers) |
 | 7935 | keyboard | bàn phím |  | Word Skills Basic/Intermediate, Oxford 3000 · B1 · n |
@@ -7953,7 +7953,7 @@
 | 7941 | kick | đá |  | Oxford 3000 · B1 · n, v |
 | 7942 | kick off (with) | bắt đầu (= begin (with)) |  | Destination C1–C2 · phrasal verb |
 | 7943 | kick up a fuss | làm ầm ĩ |  | Word Skills Advanced |
-| 7944 | kick yourself | (= be very annoyed because you have made a mistake, missed an opportunity, etc) |  | Destination C1–C2 · idiom |
+| 7944 | kick yourself | tự trách mình, tiếc hùi hụi (= be very annoyed because you have made a mistake, missed an opportunity, etc) |  | Destination C1–C2 · idiom |
 | 7945 | kid | dê con |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 7946 | kidnap | bắt cóc |  | Word Skills Advanced, Oxford 5000 · C1 · v |
 | 7947 | kidnapper | kẻ bắt cóc |  | Word Skills Advanced |
@@ -7961,7 +7961,7 @@
 | 7949 | kidney | thận |  | Word Skills Intermediate, Oxford 5000 · C1 · n |
 | 7950 | Kidneys | Thận | /ˈkɪdniːz/ | IELTS · Health |
 | 7951 | kill | giết |  | Word Skills Intermediate, Oxford 3000 · A2 · v |
-| 7952 | kill off | (= destroy living things so that most or all of them are dead) |  | Destination C1–C2 · phrasal verb |
+| 7952 | kill off | tiêu diệt, giết sạch (= destroy living things so that most or all of them are dead) |  | Destination C1–C2 · phrasal verb |
 | 7953 | killing | vụ giết người |  | Oxford 3000 · B1 · n |
 | 7954 | kilo | ki-lô-gam |  | Word Skills Basic |
 | 7955 | kilogram | ki-lô-gam |  | Word Skills Intermediate |
@@ -7973,7 +7973,7 @@
 | 7961 | Kimono | Áo kimono | /kɪˈmoʊ.noʊ/ | IELTS · Fashion |
 | 7962 | kind | tốt bụng |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · adj, n |
 | 7963 | kind of | hơi, kiểu như |  | Word Skills Advanced, Destination C1–C2 · collocation |
-| 7964 | kind of sb to do |  |  | Destination C1–C2 · collocation |
+| 7964 | kind of sb to do | ai đó thật tử tế khi làm |  | Destination C1–C2 · collocation |
 | 7965 | kind regards | trân trọng (cuối thư) |  | Word Skills Intermediate, Destination C1–C2 · collocation |
 | 7966 | Kindergarten | Trường mẫu giáo | /ˈkaɪndərˌɡɑːrtən/ | IELTS · Education, Oxford 5000 (Mỹ) · B2 · n |
 | 7967 | kindhearted | tốt bụng |  | TOEIC (Hackers) |
@@ -7987,10 +7987,10 @@
 | 7975 | Kitchen | Nhà bếp | /ˈkɪtʃən/ | IELTS · Housing and Architecture, Word Skills Basic, Oxford 3000 · A1 · n |
 | 7976 | kitchen appliance | thiết bị nhà bếp |  | TOEIC (Hackers) |
 | 7977 | kitchen scales | cân nhà bếp |  | Word Skills Advanced |
-| 7978 | kitchen surface |  |  | Destination C1–C2 · collocation |
+| 7978 | kitchen surface | mặt bếp |  | Destination C1–C2 · collocation |
 | 7979 | km (kilometre(s)) | ki-lô-mét |  | Word Skills Intermediate |
 | 7980 | knee | đầu gối |  | Word Skills Basic, Oxford 3000 · A2 · n |
-| 7981 | knee-high to a grasshopper | (= very small, because you were very young) |  | Destination C1–C2 · idiom |
+| 7981 | knee-high to a grasshopper | còn bé tí (hồi còn nhỏ) (= very small, because you were very young) |  | Destination C1–C2 · idiom |
 | 7982 | kneel | Nằm xuống. |  | TOEIC (Hackers) |
 | 7983 | knickers | quần lót nữ (Anh) |  | Word Skills Intermediate |
 | 7984 | knife | con dao |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · n |
@@ -8002,16 +8002,16 @@
 | 7990 | knock-on effect | hiệu ứng dây chuyền |  | Word Skills Advanced |
 | 7991 | knockout | đấu loại trực tiếp; hạ đo ván |  | Word Skills Advanced |
 | 7992 | know | biết |  | Word Skills Basic, Oxford 3000 · A1 · v |
-| 7993 | know (sth) about |  |  | Destination C1–C2 · collocation |
-| 7994 | know better |  |  | Destination C1–C2 · collocation |
-| 7995 | know sb/sth to be/do |  |  | Destination C1–C2 · collocation |
+| 7993 | know (sth) about | biết (gì) về |  | Destination C1–C2 · collocation |
+| 7994 | know better | đủ khôn để không làm; biết rõ hơn |  | Destination C1–C2 · collocation |
+| 7995 | know sb/sth to be/do | biết rõ ai / cái gì là / làm |  | Destination C1–C2 · collocation |
 | 7996 | know sth inside out | biết rõ từ trong ra ngoài, tường tận (= be very familiar with) |  | Destination C1–C2 · idiom |
-| 7997 | know the way |  |  | Destination C1–C2 · collocation |
-| 7998 | know what's what | (= know the important facts about a situation) |  | Destination C1–C2 · idiom |
-| 7999 | know/say for certain |  |  | Destination C1–C2 · collocation |
+| 7997 | know the way | biết đường |  | Destination C1–C2 · collocation |
+| 7998 | know what's what | hiểu rõ sự tình, biết chuyện gì là gì (= know the important facts about a situation) |  | Destination C1–C2 · idiom |
+| 7999 | know/say for certain | biết / nói chắc chắn |  | Destination C1–C2 · collocation |
 | 8000 | Knowledge | Kiến thức | /ˈnɑlɪdʒ/ | IELTS · Education, Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 8001 | knowledgeable | KNOWLEDGEABLE |  | TOEIC (Hackers) |
-| 8002 | knuckle down | (= start working hard, especially when you should have done this earlier) |  | Destination C1–C2 · phrasal verb |
+| 8002 | knuckle down | bắt tay vào làm việc chăm chỉ (= start working hard, especially when you should have done this earlier) |  | Destination C1–C2 · phrasal verb |
 | 8003 | Koalas | Gấu túi | /ˈkoʊələz/ | IELTS · Animal |
 | 8004 | Korean | người/tiếng Hàn Quốc |  | Word Skills Basic |
 | 8005 | kph (kilometres per hour) | km/giờ |  | Word Skills Intermediate |
@@ -8083,19 +8083,19 @@
 | 8071 | large | rộng, lớn, to |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · adj |
 | 8072 | large-scale | quy mô lớn |  | Oxford 5000 · C1 · adj |
 | 8073 | largely | phong phú, ở mức độ lớn |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · adv |
-| 8074 | larger than life |  |  | Destination C1–C2 · collocation |
+| 8074 | larger than life | nổi bật, phô trương |  | Destination C1–C2 · collocation |
 | 8075 | Lasagna | Món lasagna | /ləˈzɑːnjə/ | IELTS · Food and Drink |
 | 8076 | laser | tia laser |  | Oxford 5000 · C1 · n |
 | 8077 | Laser sight | Mục tiêu bằng laser | /ˈleɪzər saɪt/ | IELTS · Weapons |
-| 8078 | lash out | (= speak angrily to or against someone) (= try to hit or attack someone suddenly and violently) |  | Destination C1–C2 · phrasal verb |
+| 8078 | lash out | nổi giận mắng mỏ; đánh túi bụi (= speak angrily to or against someone) (= try to hit or attack someone suddenly and violently) |  | Destination C1–C2 · phrasal verb |
 | 8079 | last | cuối cùng; vừa qua |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · adv, det, n, v |
 | 8080 | last call | lần gọi cuối (lên máy bay) |  | Word Skills Basic |
-| 8081 | last chance |  |  | Destination C1–C2 · collocation |
+| 8081 | last chance | cơ hội cuối cùng |  | Destination C1–C2 · collocation |
 | 8082 | last night | tối qua |  | Word Skills Basic |
 | 8083 | last night, last week, last year, etc | tối qua, tuần trước, năm ngoái… |  | Word Skills Basic |
 | 8084 | last resort | phương án cuối cùng |  | Word Skills Advanced |
 | 8085 | last stop | trạm cuối |  | Word Skills Basic |
-| 8086 | last word in | (= the newest and best type of something) |  | Destination C1–C2 · idiom |
+| 8086 | last word in | thứ mới nhất, tân tiến nhất về (= the newest and best type of something) |  | Destination C1–C2 · idiom |
 | 8087 | last-minute | phút chót |  | Word Skills Advanced |
 | 8088 | last/final resort | phương án cuối cùng |  | Word Skills Advanced |
 | 8089 | Lasting impression | Ấn tượng lâu dài | /ˈlæstɪŋ ɪmˈprɛʃən/ | IELTS · Film |
@@ -8107,9 +8107,9 @@
 | 8095 | latest work | công việc mới nhất |  | TOEIC (Hackers) |
 | 8096 | latter | cái sau |  | Oxford 5000 · C1 · adj, n |
 | 8097 | laugh | cười |  | Word Skills Basic/Advanced, Oxford 3000 · A1 · n, v |
-| 8098 | laugh at/about |  |  | Destination C1–C2 · collocation |
+| 8098 | laugh at/about | cười nhạo / cười về |  | Destination C1–C2 · collocation |
 | 8099 | laugh away | cười phá lên |  | TOEIC (Hackers) |
-| 8100 | laugh in sb's face |  |  | Destination C1–C2 · collocation |
+| 8100 | laugh in sb's face | cười vào mặt ai |  | Destination C1–C2 · collocation |
 | 8101 | laughter | tiếng cười |  | Oxford 3000 · A2 · n |
 | 8102 | launch | hạ thủy; buổi giới thiệu sản phầm |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · n, v |
 | 8103 | laundry service | Dịch vụ giặt ủi | /ˈlɔːndri ˈsɜːrvɪs/ | TOEIC (Hackers), IELTS · Tourism |
@@ -8126,7 +8126,7 @@
 | 8114 | lawyer | luật sư |  | Word Skills Basic, Oxford 3000 · A2 · n |
 | 8115 | lax | cá hồi |  | TOEIC (Hackers) |
 | 8116 | lay | đặt, đẻ; nằm (quá khứ lie) |  | Oxford 3000 · B1 · v |
-| 8117 | lay down (your) arms |  |  | Destination C1–C2 · collocation |
+| 8117 | lay down (your) arms | hạ vũ khí |  | Destination C1–C2 · collocation |
 | 8118 | lay down rules | đặt ra quy tắc |  | Word Skills Advanced |
 | 8119 | lay down the law | ra lệnh/ đặt ra những quy dịnh nghiêm khắc |  | Destination C1–C2 · collocation |
 | 8120 | lay off | sa thải (= end someone's employment, especially temporarily, because there is not enough work for the…) (= stop doing or using something, especially for a short period of time) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
@@ -8134,8 +8134,8 @@
 | 8122 | lay siege to | vây hãm |  | Word Skills Advanced |
 | 8123 | lay sth on | chuẩn bị, cung cấp |  | Word Skills Advanced |
 | 8124 | lay the foundations | đặt nền móng |  | Word Skills Advanced |
-| 8125 | lay the foundations of |  |  | Destination C1–C2 · collocation |
-| 8126 | lay/put your cards on the table | (= tell people exactly what you are thinking or what you are intending to do) |  | Destination C1–C2 · idiom |
+| 8125 | lay the foundations of | đặt nền móng cho |  | Destination C1–C2 · collocation |
+| 8126 | lay/put your cards on the table | nói thẳng, ngửa bài (= tell people exactly what you are thinking or what you are intending to do) |  | Destination C1–C2 · idiom |
 | 8127 | layer | lớp |  | Oxford 3000 · B1 · n |
 | 8128 | Layers | Lớp | /ˈleɪərz/ | IELTS · Art |
 | 8129 | Layoff | Sa thải | /ˈleɪ.ɔːf/ | IELTS · Employment |
@@ -8144,18 +8144,18 @@
 | 8132 | lazy | lười biếng |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · adj |
 | 8133 | lead | chì |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · n, v |
 | 8134 | Lead guitarist | Người chơi guitar chính | /liːd ɡɪˈtɑrɪst/ | IELTS · Music |
-| 8135 | lead sb into |  |  | Destination C1–C2 · collocation |
-| 8136 | lead sb to do |  |  | Destination C1–C2 · collocation |
+| 8135 | lead sb into | dẫn ai vào |  | Destination C1–C2 · collocation |
+| 8136 | lead sb to do | khiến ai làm |  | Destination C1–C2 · collocation |
 | 8137 | lead singer | ca sĩ chính |  | Word Skills Basic/Intermediate |
 | 8138 | lead the charge | dẫn đầu |  | Word Skills Advanced |
-| 8139 | lead the way |  |  | Destination C1–C2 · collocation |
-| 8140 | lead the world |  |  | Destination C1–C2 · collocation |
+| 8139 | lead the way | dẫn đường, đi đầu |  | Destination C1–C2 · collocation |
+| 8140 | lead the world | dẫn đầu thế giới |  | Destination C1–C2 · collocation |
 | 8141 | lead to | dẫn đến |  | Word Skills Intermediate |
-| 8142 | lead to/down/through |  |  | Destination C1–C2 · collocation |
+| 8142 | lead to/down/through | dẫn tới / xuống / qua |  | Destination C1–C2 · collocation |
 | 8143 | Lead vocalist/singer | Ca sĩ chính | /liːd ˈvoʊkəlɪst/ˈsɪŋər/ | IELTS · Music |
 | 8144 | leader | người lãnh đạo |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 8145 | leadership | Khả năng lãnh đạo |  | TOEIC (Hackers), Oxford 3000 · B2 · n |
-| 8146 | leadership qualities |  |  | Destination C1–C2 · collocation |
+| 8146 | leadership qualities | tố chất lãnh đạo |  | Destination C1–C2 · collocation |
 | 8147 | leading | lãnh đạo, dẫn đầu |  | TOEIC (Hackers), Oxford 3000 · B1 · adj |
 | 8148 | leading role | vai chính |  | Word Skills Intermediate |
 | 8149 | leaf | lá |  | Word Skills Intermediate/Advanced, Oxford 3000 · B1 · n |
@@ -8169,7 +8169,7 @@
 | 8157 | lean towards | nghiêng về |  | Word Skills Advanced |
 | 8158 | leap | nhảy vọt |  | Oxford 5000 · C1 · n, v |
 | 8159 | leap to conclusions | vội kết luận |  | Word Skills Advanced |
-| 8160 | leap year |  |  | Destination C1–C2 · collocation |
+| 8160 | leap year | năm nhuận |  | Destination C1–C2 · collocation |
 | 8161 | learn | học |  | Oxford 3000 · A1 · v |
 | 8162 | learning | việc học |  | Oxford 3000 · A2 · n |
 | 8163 | learning center | Trung tâm Học tập |  | TOEIC (Hackers) |
@@ -8178,7 +8178,7 @@
 | 8166 | least | tối thiếu; ít nhất |  | TOEIC (Hackers), Oxford 3000 · A2 · adv, det, pron |
 | 8167 | Leather | Da | /lɛðər/ | IELTS · Fashion, Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 8168 | leave | rời đi; nghỉ phép (of a train) |  | TOEIC (Hackers), Oxford 3000 · A1 · n, v, Word Skills Basic |
-| 8169 | leave a mark on |  |  | Destination C1–C2 · collocation |
+| 8169 | leave a mark on | để lại dấu ấn trên |  | Destination C1–C2 · collocation |
 | 8170 | leave a message | Để lại tin nhắn |  | TOEIC (Hackers) |
 | 8171 | leave A up to B | để lại A đến B |  | TOEIC (Hackers) |
 | 8172 | leave A with B | để lại A với B |  | TOEIC (Hackers) |
@@ -8189,8 +8189,8 @@
 | 8177 | leave sth to sb | để lại cho ai |  | Word Skills Advanced |
 | 8178 | leave sth to/till the last minute | để đến phút chót |  | Word Skills Advanced |
 | 8179 | leave sth with sb | gửi lại ai |  | Word Skills Advanced |
-| 8180 | leave to chance |  |  | Destination C1–C2 · collocation |
-| 8181 | leave/lose your job |  |  | Destination C1–C2 · collocation |
+| 8180 | leave to chance | phó mặc cho may rủi |  | Destination C1–C2 · collocation |
+| 8181 | leave/lose your job | nghỉ việc / mất việc |  | Destination C1–C2 · collocation |
 | 8182 | leaves | rời đi |  | Word Skills Intermediate |
 | 8183 | lecture | bài diễn thuyết; Bài giảng | /ˈlɛkʧər/ | TOEIC (Hackers), IELTS · Education, Word Skills Intermediate, Oxford 3000 · A2 · n, v |
 | 8184 | Lecture hall | Hội trường giảng đường | /ˈlɛkʧər hɔːl/ | IELTS · Education |
@@ -8225,9 +8225,9 @@
 | 8213 | legitimate | hợp pháp |  | TOEIC (Hackers), Oxford 5000 · C1 · adj |
 | 8214 | Lehenga | Váy ấn độ | /leɪŋɡə/ | IELTS · Fashion |
 | 8215 | leisure | Chó già, nhiều thủ thuật hơn; Thời gian rảnh rỗi | /ˈliʒər/ | TOEIC (Hackers), IELTS · Tourism, Word Skills Intermediate, Oxford 3000 · B1 · n |
-| 8216 | leisure centre |  |  | Destination C1–C2 · collocation |
+| 8216 | leisure centre | trung tâm giải trí |  | Destination C1–C2 · collocation |
 | 8217 | leisure pursuits | hoạt động giải trí |  | Word Skills Advanced, Destination C1–C2 · collocation |
-| 8218 | leisure time |  |  | Destination C1–C2 · collocation |
+| 8218 | leisure time | thời gian nhàn rỗi |  | Destination C1–C2 · collocation |
 | 8219 | leisurely | nhàn nhã |  | TOEIC (Hackers) |
 | 8220 | lemon | chanh vàng |  | Word Skills Basic, Oxford 3000 · A2 · n |
 | 8221 | lemon squeezer | dụng cụ vắt chanh |  | Word Skills Advanced |
@@ -8249,13 +8249,13 @@
 | 8237 | let | giao bóng lại (let) |  | Word Skills Intermediate, Oxford 3000 · A1 · v |
 | 8238 | let go | của họ. |  | TOEIC (Hackers) |
 | 8239 | let me | để tôi |  | Word Skills Basic |
-| 8240 | let nature take its course | (= allow something to develop without trying to influence it) |  | Destination C1–C2 · idiom |
+| 8240 | let nature take its course | để mọi chuyện tự nhiên diễn ra (= allow something to develop without trying to influence it) |  | Destination C1–C2 · idiom |
 | 8241 | let off steam | xả stress (= shout or do something that allows you to get rid of anger) |  | Destination C1–C2 · idiom |
-| 8242 | let on | (= talk about something that is intended to be a secret) |  | Destination C1–C2 · phrasal verb |
+| 8242 | let on | để lộ (bí mật) (= talk about something that is intended to be a secret) |  | Destination C1–C2 · phrasal verb |
 | 8243 | let sb down | làm ai thất vọng |  | Word Skills Advanced |
 | 8244 | let sb go | thả ai; cho nghỉ việc |  | Word Skills Advanced |
-| 8245 | let sb go free |  |  | Destination C1–C2 · collocation |
-| 8246 | let sb know |  |  | Destination C1–C2 · collocation |
+| 8245 | let sb go free | thả ai đi |  | Destination C1–C2 · collocation |
+| 8246 | let sb know | báo cho ai biết |  | Destination C1–C2 · collocation |
 | 8247 | let sleeping dogs lie | đừng khơi lại chuyện cũ (= leave a person or situation alone if they might cause you trouble) |  | Word Skills Advanced, Destination C1–C2 · idiom |
 | 8248 | let your hair down | thả lỏng, vui chơi (= relax and enjoy yourself because you are in a comfortable environment) |  | Word Skills Advanced, Destination C1–C2 · idiom |
 | 8249 | let's | hãy cùng (let us) |  | Word Skills Basic |
@@ -8266,9 +8266,9 @@
 | 8254 | lethargic | uể oải |  | Word Skills Advanced |
 | 8255 | lethargy | sự uể oải |  | Word Skills Advanced |
 | 8256 | letter | lá thư |  | Word Skills Basic, Oxford 3000 · A1 · n |
-| 8257 | letter bomb |  |  | Destination C1–C2 · collocation |
+| 8257 | letter bomb | bom thư |  | Destination C1–C2 · collocation |
 | 8258 | letter box | hộp thư, khe nhét thư |  | Word Skills Basic/Intermediate |
-| 8259 | letter of |  |  | Destination C1–C2 · collocation |
+| 8259 | letter of | thư (giới thiệu, xin việc…) |  | Destination C1–C2 · collocation |
 | 8260 | letter of recommendation | thư tiến dẫn |  | TOEIC (Hackers) |
 | 8261 | lettuce | xà lách |  | Word Skills Basic |
 | 8262 | level | mức độ |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · adj, n, v |
@@ -8289,10 +8289,10 @@
 | 8277 | licensed | có môn bài |  | TOEIC (Hackers) |
 | 8278 | lid | nắp vung; mi mắt (eyelid) |  | TOEIC (Hackers), Word Skills Intermediate |
 | 8279 | lie | nói dối; nằm |  | Word Skills Basic, Oxford 3000 · A1 · n, v |
-| 8280 | lie ahead | (= if something lies ahead, it is going to happen to you in the future) |  | Destination C1–C2 · phrasal verb |
+| 8280 | lie ahead | đang chờ ở phía trước (tương lai) (= if something lies ahead, it is going to happen to you in the future) |  | Destination C1–C2 · phrasal verb |
 | 8281 | lie down | nằm xuống |  | Word Skills Basic |
 | 8282 | life | cuộc sống |  | Oxford 3000 · A1 · n |
-| 8283 | life and soul of the party | (= someone who is very lively at social events) |  | Destination C1–C2 · idiom |
+| 8283 | life and soul of the party | người làm sôi động bữa tiệc (= someone who is very lively at social events) |  | Destination C1–C2 · idiom |
 | 8284 | life expectancy | Tuổi thọ trung bình |  | TOEIC (Hackers), Word Skills Intermediate/Advanced |
 | 8285 | life preserver | thiết bị bảo vệ sự sống |  | TOEIC (Hackers) |
 | 8286 | life-threatening | đe dọa tính mạng |  | Word Skills Advanced |
@@ -8309,7 +8309,7 @@
 | 8297 | light sleeper | người ngủ không sâu |  | Word Skills Intermediate |
 | 8298 | light sth up | thắp sáng |  | Word Skills Intermediate |
 | 8299 | light-skinned | da sáng |  | Word Skills Intermediate |
-| 8300 | light/strong wind |  |  | Destination C1–C2 · collocation |
+| 8300 | light/strong wind | gió nhẹ / mạnh |  | Destination C1–C2 · collocation |
 | 8301 | lighten | Làm Sáng |  | TOEIC (Hackers) |
 | 8302 | lighthouse | ngọn hải đăng |  | TOEIC (Hackers) |
 | 8303 | Lighting | Ánh sáng, chiếu sáng; Hệ thống chiếu sáng | /ˈlaɪtɪŋ/ | IELTS · Film, IELTS · Housing and Architecture, Oxford 5000 · B2 · n |
@@ -8319,15 +8319,15 @@
 | 8307 | Lightning strike | Sét đánh | /ˈlaɪt.nɪŋ straɪk/ | IELTS · Weather |
 | 8308 | lightweight | Trọng lượng nhẹ |  | TOEIC (Hackers) |
 | 8309 | like | thích (= similar to; such as) |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A1 · n, prep, v |
-| 8310 | like (sb) to do |  |  | Destination C1–C2 · collocation |
-| 8311 | like a dream |  |  | Destination C1–C2 · collocation |
+| 8310 | like (sb) to do | muốn (ai) làm |  | Destination C1–C2 · collocation |
+| 8311 | like a dream | hoàn hảo, trơn tru |  | Destination C1–C2 · collocation |
 | 8312 | like chalk and cheese | khác nhau một trời một vực |  | Word Skills Advanced |
-| 8313 | like crazy/ mad |  |  | Destination C1–C2 · collocation |
-| 8314 | like doing |  |  | Destination C1–C2 · collocation |
-| 8315 | like it when |  |  | Destination C1–C2 · collocation |
+| 8313 | like crazy/ mad | như điên |  | Destination C1–C2 · collocation |
+| 8314 | like doing | thích làm |  | Destination C1–C2 · collocation |
+| 8315 | like it when | thích khi |  | Destination C1–C2 · collocation |
 | 8316 | like new | như mới |  | Word Skills Advanced |
-| 8317 | like so |  |  | Destination C1–C2 · collocation |
-| 8318 | like two peas in a pod | (used for saying that two people look, behave or think exactly the same) |  | Destination C1–C2 · idiom |
+| 8317 | like so | như thế này |  | Destination C1–C2 · collocation |
+| 8318 | like two peas in a pod | giống nhau như hai giọt nước (used for saying that two people look, behave or think exactly the same) |  | Destination C1–C2 · idiom |
 | 8319 | likelihood | khả năng |  | Word Skills Advanced, Oxford 5000 · C1 · n |
 | 8320 | likely | cỏ thể đúng,cỏ khả năng xảy ra |  | TOEIC (Hackers), Oxford 3000 · A2 · adj |
 | 8321 | likely story | chuyện khó tin (mỉa mai) |  | Word Skills Advanced |
@@ -8353,8 +8353,8 @@
 | 8341 | lingering | nán lại |  | TOEIC (Hackers) |
 | 8342 | linguistics | Ngôn ngữ học |  | TOEIC (Hackers) |
 | 8343 | link | liên kết |  | Word Skills Advanced, Oxford 3000 · A2 · n, v |
-| 8344 | link sth/sb to/with |  |  | Destination C1–C2 · collocation |
-| 8345 | link to |  |  | Destination C1–C2 · collocation |
+| 8344 | link sth/sb to/with | liên kết cái gì / ai với |  | Destination C1–C2 · collocation |
+| 8345 | link to | liên kết đến |  | Destination C1–C2 · collocation |
 | 8346 | link together | liên kết với nhau |  | TOEIC (Hackers) |
 | 8347 | lion | sư tử đực |  | Word Skills Intermediate, Oxford 3000 · A1 · n |
 | 8348 | Lions | Sư tử | /ˈlaɪənz/ | IELTS · Animal |
@@ -8381,15 +8381,15 @@
 | 8369 | little | nhỏ; một chút |  | Word Skills Basic, Oxford 3000 · A1 · adj, adv, det, pron |
 | 8370 | live | sống |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A1 · adj, adv, v |
 | 8371 | live a lie | sống giả tạo/ giả dối |  | Destination C1–C2 · collocation |
-| 8372 | live a life of crime/luxury |  |  | Destination C1–C2 · collocation |
+| 8372 | live a life of crime/luxury | sống đời tội phạm / xa hoa |  | Destination C1–C2 · collocation |
 | 8373 | live and learn | Sống và học hỏi |  | Destination C1–C2 · collocation |
-| 8374 | live and let live | sống và để người khác sống (tôn trọng sự khác biệt, không (used for saying that you should accept other people's beliefs and way of life, even if the…) |  | Word Skills Advanced, Destination C1–C2 · idiom, Destination C1–C2 · collocation |
+| 8374 | live and let live | sống và để người khác sống, đèn nhà ai nấy rạng (used for saying that you should accept other people's beliefs and way of life, even if the…) |  | Word Skills Advanced, Destination C1–C2 · idiom, Destination C1–C2 · collocation |
 | 8375 | live at peace with | sống hòa thuận với |  | Word Skills Advanced |
-| 8376 | live beyond/within your means |  |  | Destination C1–C2 · collocation |
+| 8376 | live beyond/within your means | sống vượt quá / trong khả năng tài chính |  | Destination C1–C2 · collocation |
 | 8377 | live in a world of your own | sống trong thế giới riêng |  | Word Skills Advanced |
-| 8378 | live in hope |  |  | Destination C1–C2 · collocation |
+| 8378 | live in hope | sống trong hy vọng |  | Destination C1–C2 · collocation |
 | 8379 | live to tell the tale | may mắn sống sót sau một trải nghiệm c |  | Destination C1–C2 · collocation |
-| 8380 | live to the age of |  |  | Destination C1–C2 · collocation |
+| 8380 | live to the age of | sống đến tuổi |  | Destination C1–C2 · collocation |
 | 8381 | live with | chấp nhận được |  | Word Skills Advanced |
 | 8382 | lively | sốngđộng , sinh động |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · adj |
 | 8383 | liven sth up | làm sôi động |  | Word Skills Advanced |
@@ -8404,7 +8404,7 @@
 | 8392 | load a truck | chất hàng lên xe tải |  | TOEIC (Hackers) |
 | 8393 | load size | kích thước tải |  | TOEIC (Hackers) |
 | 8394 | load sth up | chất (hàng) lên |  | Word Skills Intermediate |
-| 8395 | load sth with/into |  |  | Destination C1–C2 · collocation |
+| 8395 | load sth with/into | chất cái gì lên / vào |  | Destination C1–C2 · collocation |
 | 8396 | loaded with | được tải với |  | TOEIC (Hackers) |
 | 8397 | loading | ca đêm |  | TOEIC (Hackers) |
 | 8398 | loading dock | bến chất hàng |  | TOEIC (Hackers) |
@@ -8415,7 +8415,7 @@
 | 8403 | lobby | nhóm người vận động |  | TOEIC (Hackers), Oxford 5000 · C1 · n, v |
 | 8404 | Lobster | Tôm hùm | /lɑːbstər/ | IELTS · Food and Drink, Word Skills Intermediate |
 | 8405 | local | địa phương |  | Word Skills Intermediate, Oxford 3000 · A1 · adj, n |
-| 8406 | local authority |  |  | Destination C1–C2 · collocation |
+| 8406 | local authority | chính quyền địa phương |  | Destination C1–C2 · collocation |
 | 8407 | Local cuisine | Ẩm thực địa phương | /ˈloʊkəl kwɪˈzin/ | IELTS · Tourism |
 | 8408 | local time | giờ địa phương |  | TOEIC (Hackers) |
 | 8409 | Local transportation | Phương tiện giao thông địa phương | /ˈloʊkl ˌtrænspɔrˈteɪʃən/ | IELTS · Tourism |
@@ -8428,13 +8428,13 @@
 | 8416 | location | địa điểm |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · B1 · n |
 | 8417 | Location scouting | Tìm địa điểm quay | /loʊˈkeɪʃən skaʊtɪŋ/ | IELTS · Film |
 | 8418 | lock | ổ khóa; khóa |  | Word Skills Intermediate, Oxford 3000 · A2 · n, v |
-| 8419 | lock horns with |  |  | Destination C1–C2 · collocation |
+| 8419 | lock horns with | đối đầu với |  | Destination C1–C2 · collocation |
 | 8420 | lock oneself out of one’s house | tự khóa mình ra khỏi nhà |  | TOEIC (Hackers) |
 | 8421 | lock out | đầu tư dài hạn |  | TOEIC (Hackers) |
 | 8422 | lock sb up | nhốt ai |  | Word Skills Advanced |
 | 8423 | lock sth in | chốt cố định |  | Destination C1–C2 · collocation |
 | 8424 | lock up | Khóa lại! (= lock all the doors and windows of a building so that no one can get in) (= put someone in a prison) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
-| 8425 | lock, stock and barrel | (= including every part of a particular thing, situation, place, etc) |  | Destination C1–C2 · idiom |
+| 8425 | lock, stock and barrel | toàn bộ, tất cả mọi thứ (= including every part of a particular thing, situation, place, etc) |  | Destination C1–C2 · idiom |
 | 8426 | Lockdown | Phong tỏa | /ˈlɒkdaʊn/ | IELTS · Covid |
 | 8427 | Lockdown fatigue | Mệt mỏi do phong tỏa | /ˈlɒkdaʊn fəˈtiːg/ | IELTS · Covid |
 | 8428 | locked in battle | giao tranh quyết liệt |  | Word Skills Advanced |
@@ -8452,7 +8452,7 @@
 | 8440 | logging | khai thác gỗ |  | TOEIC (Hackers) |
 | 8441 | logic | lô-gic |  | Word Skills Advanced, Oxford 5000 · C1 · n |
 | 8442 | logical | hợp lý |  | Word Skills Advanced, Oxford 3000 · B2 · adj |
-| 8443 | logical conclusion |  |  | Destination C1–C2 · collocation |
+| 8443 | logical conclusion | kết luận hợp lý; kết cục tất yếu |  | Destination C1–C2 · collocation |
 | 8444 | logically | một cách hợp lý |  | Word Skills Advanced |
 | 8445 | logistics | ngàn hậu cần |  | TOEIC (Hackers) |
 | 8446 | Logo | Lô gô | /ˈloʊɡoʊ/ | IELTS · Advertising, Oxford 5000 · B2 · n |
@@ -8463,13 +8463,13 @@
 | 8451 | long and hard | kỹ lưỡng |  | Word Skills Advanced |
 | 8452 | Long COVID | COVID kéo dài | /lɔŋ ˈkoʊvɪd/ | IELTS · Covid |
 | 8453 | long hours | làm việc nhiều giờ |  | Word Skills Basic |
-| 8454 | long odds |  |  | Destination C1–C2 · collocation |
+| 8454 | long odds | cơ hội rất mong manh |  | Destination C1–C2 · collocation |
 | 8455 | Long shot | Xa, toàn cảnh | /lɔːŋ ʃɒt/ | IELTS · Film |
 | 8456 | long time no see | lâu quá không gặp |  | Destination C1–C2 · collocation |
-| 8457 | long way |  |  | Destination C1–C2 · collocation |
+| 8457 | long way | đường xa; còn lâu |  | Destination C1–C2 · collocation |
 | 8458 | long weekend | kỳ nghỉ cuối tuần dài |  | Word Skills Advanced |
-| 8459 | long- distance |  |  | Destination C1–C2 · collocation |
-| 8460 | long-/short- term |  |  | Destination C1–C2 · collocation |
+| 8459 | long- distance | đường dài |  | Destination C1–C2 · collocation |
+| 8460 | long-/short- term | dài hạn / ngắn hạn |  | Destination C1–C2 · collocation |
 | 8461 | long-lasting | lâu trôi |  | TOEIC (Hackers) |
 | 8462 | long-lived | sống lâu |  | Word Skills Advanced |
 | 8463 | long-sighted | viễn thị (Anh) |  | Word Skills Advanced |
@@ -8510,14 +8510,14 @@
 | 8498 | Lorry | Xe tải | /ˈlɔri/ | IELTS · Transportation, Oxford 3000 · A2 · n |
 | 8499 | lorry driver | tài xế xe tải (Anh) |  | Word Skills Basic |
 | 8500 | lose | mất, thua, lạc |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A1 · v |
-| 8501 | lose a life |  |  | Destination C1–C2 · collocation |
+| 8501 | lose a life | mất một mạng |  | Destination C1–C2 · collocation |
 | 8502 | lose control of | mất kiểm soát |  | Word Skills Advanced |
 | 8503 | lose face | mất mặt |  | Word Skills Advanced |
 | 8504 | lose ground | mất |  | TOEIC (Hackers) |
 | 8505 | lose one’s temper | Nổi đóa |  | TOEIC (Hackers) |
 | 8506 | lose oneself in | đánh mất bản thân trong |  | TOEIC (Hackers) |
 | 8507 | lose track of | mất dấu |  | Word Skills Advanced |
-| 8508 | lose track of time/etc |  |  | Destination C1–C2 · collocation |
+| 8508 | lose track of time/etc | quên mất giờ giấc |  | Destination C1–C2 · collocation |
 | 8509 | lose weight | Em ốm hơn rồi |  | TOEIC (Hackers), Word Skills Intermediate |
 | 8510 | lose your appetite | mất cảm giác ngon miệng |  | Word Skills Advanced |
 | 8511 | lose your bearings | mất phương hướng (= become confused about where you are and where other things are) |  | Destination C1–C2 · idiom |
@@ -8531,7 +8531,7 @@
 | 8519 | lost and found | nơi nhận đồ mất |  | TOEIC (Hackers) |
 | 8520 | lost in delivery | thất lạc khi giao hàng |  | TOEIC (Hackers) |
 | 8521 | lot | nhiều (a lot) |  | Oxford 3000 · A1 · adv, det, pron, Destination C1–C2 · collocation |
-| 8522 | lots of |  |  | Destination C1–C2 · collocation |
+| 8522 | lots of | nhiều |  | Destination C1–C2 · collocation |
 | 8523 | lots to do | nhiều việc phải làm |  | Word Skills Basic |
 | 8524 | lottery | xổ số |  | Word Skills Basic, Oxford 5000 · B2 · n |
 | 8525 | loud | ồn, to |  | Word Skills Intermediate, Oxford 3000 · A2 · adj, adv |
@@ -8540,15 +8540,15 @@
 | 8528 | lounge | quầy giải khát |  | TOEIC (Hackers) |
 | 8529 | lousy | tồi tệ |  | Word Skills Advanced |
 | 8530 | Love | Tình yêu | /lʌv/ | IELTS · Family and Relationships, Word Skills Basic/Intermediate/Advanced, Oxford 3000 · A1 · n, v |
-| 8531 | love affair |  |  | Destination C1–C2 · collocation |
+| 8531 | love affair | mối tình |  | Destination C1–C2 · collocation |
 | 8532 | love at first sight | yêu từ cái nhìn đầu tiên |  | Destination C1–C2 · collocation |
-| 8533 | love doing |  |  | Destination C1–C2 · collocation |
-| 8534 | love for |  |  | Destination C1–C2 · collocation |
+| 8533 | love doing | thích làm |  | Destination C1–C2 · collocation |
+| 8534 | love for | tình yêu dành cho |  | Destination C1–C2 · collocation |
 | 8535 | love from | thân mến (cuối thư) |  | Word Skills Intermediate |
 | 8536 | love is blind | tình yêu mù quáng |  | Word Skills Advanced |
 | 8537 | love story | chuyện tình |  | Word Skills Basic |
-| 8538 | love to do |  |  | Destination C1–C2 · collocation |
-| 8539 | loved ones |  |  | Destination C1–C2 · collocation |
+| 8538 | love to do | thích làm |  | Destination C1–C2 · collocation |
+| 8539 | loved ones | những người thân yêu |  | Destination C1–C2 · collocation |
 | 8540 | lovely | đáng yêu, tuyệt |  | Word Skills Basic, Oxford 3000 · A2 · adj |
 | 8541 | Loveseat | Ghế tình nhân | /ˈlʌvˌsit/ | IELTS · Housing and Architecture |
 | 8542 | Loving | Yêu thương, ân cần | /ˈlʌvɪŋ/ | IELTS · Celebrity |
@@ -8567,7 +8567,7 @@
 | 8555 | loyalty | lòng trung thành; Sự trung thành | /ˈlɔɪəlti/ | TOEIC (Hackers), IELTS · Advertising, IELTS · Family and Relationships, Oxford 5000 · C1 · n |
 | 8556 | luck | may mắn |  | Oxford 3000 · A2 · n |
 | 8557 | lucky | may mắn |  | Oxford 3000 · A2 · adj |
-| 8558 | lucky guess |  |  | Destination C1–C2 · collocation |
+| 8558 | lucky guess | đoán mò trúng |  | Destination C1–C2 · collocation |
 | 8559 | lucrative | luận điểm Licas |  | TOEIC (Hackers), Word Skills Advanced |
 | 8560 | luggage | hành lý |  | Word Skills Basic |
 | 8561 | Luggage storage | Dịch vụ giữ hành lý | /ˈlʌɡɪdʒ ˈstɔːrɪdʒ/ | IELTS · Tourism |
@@ -8577,7 +8577,7 @@
 | 8565 | Lunar module | Mô-đun mặt trăng | /ˈluːnər ˈmɒdjuːl/ | IELTS · Science |
 | 8566 | lunch | bữa trưa |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 8567 | Lunch break | Giờ nghỉ trưa | /lʌntʃ breɪk/ | IELTS · Employment, Word Skills Advanced |
-| 8568 | lunch/tea/coffee break |  |  | Destination C1–C2 · collocation |
+| 8568 | lunch/tea/coffee break | giờ nghỉ trưa / nghỉ uống trà / cà phê |  | Destination C1–C2 · collocation |
 | 8569 | lung | phổi |  | TOEIC (Hackers), Oxford 3000 · B2 · n |
 | 8570 | Lungs | Phổi | /lʌŋz/ | IELTS · Health |
 | 8571 | lure | mồi giả |  | Word Skills Advanced |
@@ -8600,10 +8600,10 @@
 | 8588 | machinery | máy móc, thiết bị; Máy móc | /məˈʃiːnəri/ | TOEIC (Hackers), IELTS · Accident, Oxford 5000 · C1 · n |
 | 8589 | mad | tức điên |  | Word Skills Basic, Oxford 3000 · B1 · adj |
 | 8590 | mad about | mê, phát cuồng vì (= liking very much) |  | Word Skills Intermediate |
-| 8591 | mad rush |  |  | Destination C1–C2 · collocation |
+| 8591 | mad rush | vội vã cuống cuồng |  | Destination C1–C2 · collocation |
 | 8592 | Madam | thưa bà |  | Word Skills Intermediate |
 | 8593 | Made headlines | Gây tiêu điểm trên báo chí | /meɪd ˈhɛd.laɪnz/ | IELTS · Celebrity |
-| 8594 | made of money |  |  | Destination C1–C2 · collocation |
+| 8594 | made of money | giàu nứt đố đổ vách |  | Destination C1–C2 · collocation |
 | 8595 | made-to-order | làm theo đơn đặt hàng |  | TOEIC (Hackers) |
 | 8596 | magazine | tạp chí | /mæɡəˈzin/ | TOEIC (Hackers), IELTS · Entertainment and media, Word Skills Basic, Oxford 3000 · A1 · n |
 | 8597 | magic | phép thuật |  | Oxford 3000 · B1 · adj, n |
@@ -8620,7 +8620,7 @@
 | 8608 | main course | món chính |  | Word Skills Basic |
 | 8609 | main difference | điểm khác biệt chính |  | Word Skills Intermediate |
 | 8610 | main road | đường chính |  | Word Skills Basic/Intermediate |
-| 8611 | main/primary/major focus |  |  | Destination C1–C2 · collocation |
+| 8611 | main/primary/major focus | trọng tâm chính |  | Destination C1–C2 · collocation |
 | 8612 | main/principal/growing concern | mối lo chính/ngày càng tăng |  | Word Skills Advanced |
 | 8613 | mainland | Đại lục |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 8614 | mainly | chủ yếu |  | Word Skills Intermediate, Oxford 3000 · B1 · adv |
@@ -8633,17 +8633,17 @@
 | 8621 | major change | thay đổi lớn |  | Word Skills Advanced |
 | 8622 | majority | phần lớn, đa số, ưu thế |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · n |
 | 8623 | make | làm thành, cấu thành, gộp thành (= perform an action; produce) |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A1 · n, v |
-| 8624 | make a beeline for | (= go towards someone or something in the quickest and most direct way) |  | Destination C1–C2 · idiom |
-| 8625 | make a bet (with sb) |  |  | Destination C1–C2 · collocation |
+| 8624 | make a beeline for | đi thẳng một mạch tới (= go towards someone or something in the quickest and most direct way) |  | Destination C1–C2 · idiom |
+| 8625 | make a bet (with sb) | đánh cược (với ai) |  | Destination C1–C2 · collocation |
 | 8626 | make a bid for | ra giá; cố giành |  | Word Skills Advanced |
-| 8627 | make a big deal (out) of |  |  | Destination C1–C2 · collocation |
-| 8628 | make a big thing out of |  |  | Destination C1–C2 · collocation |
+| 8627 | make a big deal (out) of | làm to chuyện |  | Destination C1–C2 · collocation |
+| 8628 | make a big thing out of | làm to chuyện |  | Destination C1–C2 · collocation |
 | 8629 | make a call | Làm 1 cú điện thoại |  | TOEIC (Hackers) |
-| 8630 | make a change |  |  | Destination C1–C2 · collocation |
+| 8630 | make a change | thay đổi (cho mới mẻ) |  | Destination C1–C2 · collocation |
 | 8631 | make a choice | chọn lựa, đưa ra lựa chọn |  | Destination C1–C2 · collocation |
 | 8632 | make a claim | đưa ra yêu cầu (bồi thường); khẳng định |  | Word Skills Intermediate |
-| 8633 | make a clean break |  |  | Destination C1–C2 · collocation |
-| 8634 | make a clean breast of |  |  | Destination C1–C2 · collocation |
+| 8633 | make a clean break | cắt đứt dứt khoát |  | Destination C1–C2 · collocation |
+| 8634 | make a clean breast of | thú nhận hết |  | Destination C1–C2 · collocation |
 | 8635 | make a comeback | trở lại |  | Word Skills Advanced |
 | 8636 | make a commitment | cam kết |  | Word Skills Advanced |
 | 8637 | make a conclusion | một kết luận |  | TOEIC (Hackers) |
@@ -8653,7 +8653,7 @@
 | 8641 | make a correction | chỉnh sửa |  | TOEIC (Hackers) |
 | 8642 | make a dash | lao nhanh |  | Word Skills Advanced |
 | 8643 | make a delivery | giao hàng |  | TOEIC (Hackers) |
-| 8644 | make a demand |  |  | Destination C1–C2 · collocation |
+| 8644 | make a demand | đưa ra yêu cầu |  | Destination C1–C2 · collocation |
 | 8645 | make a deposit | Gửi tiền cọc |  | TOEIC (Hackers) |
 | 8646 | make a difference | tạo khác biệt |  | Word Skills Advanced |
 | 8647 | make a distinction | phân biệt |  | Word Skills Advanced |
@@ -8661,14 +8661,14 @@
 | 8649 | make a fuss about | làm ầm ĩ về |  | Word Skills Advanced |
 | 8650 | make a go of sth | làm cho thành công |  | Word Skills Advanced |
 | 8651 | make a meal of sth | làm quá lên |  | Word Skills Advanced |
-| 8652 | make a mental note (of/about) |  |  | Destination C1–C2 · collocation |
+| 8652 | make a mental note (of/about) | ghi nhớ trong đầu |  | Destination C1–C2 · collocation |
 | 8653 | make a mess | bày bừa |  | Word Skills Advanced |
 | 8654 | make a mistake | Tạo nên một cái lỗi |  | TOEIC (Hackers) |
 | 8655 | make a move | Đánh đi chứ |  | TOEIC (Hackers), Destination C1–C2 · collocation |
 | 8656 | make a note | ghi chú lại |  | Word Skills Intermediate |
 | 8657 | make a note of | Hãy ghi lại việc ấy. |  | TOEIC (Hackers), Word Skills Intermediate |
 | 8658 | make a point of -ing | xem là cần thiết |  | TOEIC (Hackers) |
-| 8659 | make a point of doing sth |  |  | Destination C1–C2 · collocation |
+| 8659 | make a point of doing sth | cố ý làm gì, coi việc gì là quan trọng |  | Destination C1–C2 · collocation |
 | 8660 | make a profit | có lãi |  | Word Skills Intermediate |
 | 8661 | make a promise | hứa |  | Word Skills Intermediate |
 | 8662 | make a purchase | Mua hàng |  | TOEIC (Hackers) |
@@ -8682,7 +8682,7 @@
 | 8670 | make a selection | Làm cho một lựa chọn |  | TOEIC (Hackers) |
 | 8671 | make a speech | phát biểu |  | TOEIC (Hackers), Word Skills Intermediate |
 | 8672 | make a speedy recovery | mau bình phục |  | Word Skills Advanced |
-| 8673 | make a start (on/at) |  |  | Destination C1–C2 · collocation |
+| 8673 | make a start (on/at) | bắt đầu (làm) |  | Destination C1–C2 · collocation |
 | 8674 | make a transfer | thực hiện một vụ chuyển khoản |  | TOEIC (Hackers) |
 | 8675 | make a withdrawal | Thực hiện rút tiền |  | TOEIC (Hackers) |
 | 8676 | make acommitmentto | cam kết với |  | TOEIC (Hackers) |
@@ -8693,31 +8693,31 @@
 | 8681 | make an assessment | thực hiện đánh giá |  | TOEIC (Hackers) |
 | 8682 | make an enquiry | hỏi thông tin |  | Word Skills Intermediate |
 | 8683 | make an error | mắc lỗi |  | TOEIC (Hackers) |
-| 8684 | make an example of |  |  | Destination C1–C2 · collocation |
+| 8684 | make an example of | trừng phạt ai để làm gương |  | Destination C1–C2 · collocation |
 | 8685 | make an exception | tạo một ngoại lệ |  | TOEIC (Hackers) |
 | 8686 | make an impression | tạo ấn tượng |  | TOEIC (Hackers) |
 | 8687 | make an outside call | thực hiện cuộc gọi ra bên ngoài |  | TOEIC (Hackers) |
 | 8688 | make arrangements | sắp xếp |  | Word Skills Intermediate |
-| 8689 | make certain |  |  | Destination C1–C2 · collocation |
+| 8689 | make certain | đảm bảo chắc chắn |  | Destination C1–C2 · collocation |
 | 8690 | make cutbacks | cắt giảm chi tiêu |  | Word Skills Advanced |
 | 8691 | make forecast | đưa ra dự báo |  | TOEIC (Hackers) |
 | 8692 | make friends | kết bạn |  | Word Skills Intermediate, Destination C1–C2 · collocation |
 | 8693 | make fun of | chế giễu |  | Word Skills Advanced |
 | 8694 | make generalizations about | khái quát hóa về |  | Word Skills Advanced |
-| 8695 | make into | (= change someone or something so that they become something else) |  | Destination C1–C2 · phrasal verb |
+| 8695 | make into | biến thành, làm thành (= change someone or something so that they become something else) |  | Destination C1–C2 · phrasal verb |
 | 8696 | make it | thành công; đến kịp |  | Word Skills Advanced |
 | 8697 | make it big | thành công lớn/ nổi tiếng |  | Destination C1–C2 · collocation |
 | 8698 | make it clear | nói rõ |  | Word Skills Advanced |
 | 8699 | make it sth | chốt (giờ, ngày) |  | Word Skills Advanced |
 | 8700 | make it up with | làm lành với |  | Word Skills Advanced |
 | 8701 | make light of | xem nhẹ |  | Word Skills Advanced |
-| 8702 | make matters/things worse |  |  | Destination C1–C2 · collocation |
+| 8702 | make matters/things worse | làm mọi chuyện tệ hơn |  | Destination C1–C2 · collocation |
 | 8703 | make mistakes | mắc lỗi |  | Word Skills Intermediate |
 | 8704 | make money | Làm ra tiền |  | TOEIC (Hackers) |
 | 8705 | make no difference | không tạo ra sự khác biệt |  | TOEIC (Hackers) |
 | 8706 | make oneself at home | tự nhiên như ở nhà |  | TOEIC (Hackers) |
 | 8707 | make out | nhìn/nghe ra; hiểu; (lóng) hôn nhau (= see, hear or understand someone or something with difficulty) (= suggest, imply) |  | Word Skills Advanced, Destination C1–C2 · phrasal verb |
-| 8708 | make over | (= change or improve the appearance of someone or something makeover (n)) |  | Destination C1–C2 · phrasal verb |
+| 8708 | make over | thay đổi diện mạo, cải tạo (makeover) (= change or improve the appearance of someone or something makeover (n)) |  | Destination C1–C2 · phrasal verb |
 | 8709 | make payment | Thanh toán ngay |  | TOEIC (Hackers) |
 | 8710 | make plans | lên kế hoạch |  | Word Skills Intermediate |
 | 8711 | make progress | tiến bộ |  | Word Skills Intermediate |
@@ -8726,20 +8726,20 @@
 | 8714 | make room for | nhường chỗ cho |  | TOEIC (Hackers) |
 | 8715 | make sb do sth | bắt ai làm gì |  | Word Skills Intermediate |
 | 8716 | make sb feel welcome | khiến ai đó cảm thấy được chào đón |  | Word Skills Advanced |
-| 8717 | make sb laugh |  |  | Destination C1–C2 · collocation |
+| 8717 | make sb laugh | làm ai cười |  | Destination C1–C2 · collocation |
 | 8718 | make sb redundant | cho ai nghỉ việc (cắt giảm) |  | Word Skills Intermediate |
 | 8719 | make sb sick | làm ai buồn nôn/ ghẻ tởm/ khó chịu |  | Destination C1–C2 · collocation |
 | 8720 | make sb's day | làm cho ai sung sướng (thường là cả ngày hôm đó) |  | Destination C1–C2 · collocation |
 | 8721 | make sb/sth out | nhận ra (= see/hear with difficulty) |  | Word Skills Advanced |
 | 8722 | make sense (of) | hợp lý; dễ hiểu |  | Destination C1–C2 · collocation |
-| 8723 | make short work of |  |  | Destination C1–C2 · collocation |
+| 8723 | make short work of | giải quyết nhanh gọn |  | Destination C1–C2 · collocation |
 | 8724 | make sth up | bịa ra; trang điểm |  | Word Skills Intermediate |
 | 8725 | make sure | Hãy chắc chắn rằng |  | TOEIC (Hackers), Word Skills Intermediate |
 | 8726 | make that sth | sửa lại là |  | Word Skills Advanced |
 | 8727 | make the bed | Dọn giường đi. |  | TOEIC (Hackers) |
-| 8728 | make the best of |  |  | Destination C1–C2 · collocation |
-| 8729 | make the best of a bad job |  |  | Destination C1–C2 · collocation |
-| 8730 | make the break (from) |  |  | Destination C1–C2 · collocation |
+| 8728 | make the best of | tận dụng tốt nhất (hoàn cảnh) |  | Destination C1–C2 · collocation |
+| 8729 | make the best of a bad job | cố gắng xoay xở trong hoàn cảnh xấu |  | Destination C1–C2 · collocation |
+| 8730 | make the break (from) | dứt khoát rời bỏ |  | Destination C1–C2 · collocation |
 | 8731 | make the first move | Hãy hành động ngay. |  | TOEIC (Hackers) |
 | 8732 | make the most of | tận dụng tối đa |  | Word Skills Intermediate |
 | 8733 | make things difficult | gây khó dễ |  | Word Skills Advanced |
@@ -8747,15 +8747,15 @@
 | 8735 | make up | trang điểm; bịa ra; làm lành (= work at different times from usual because you have not worked enough at the normal times) |  | Word Skills Advanced, Destination C1–C2 · phrasal verb |
 | 8736 | make up for | bù đắp cho |  | TOEIC (Hackers), Word Skills Advanced |
 | 8737 | make up one’s mind | quyết định |  | TOEIC (Hackers) |
-| 8738 | make up your mind |  |  | Destination C1–C2 · collocation |
-| 8739 | make way for |  |  | Destination C1–C2 · collocation |
+| 8738 | make up your mind | quyết định |  | Destination C1–C2 · collocation |
+| 8739 | make way for | nhường chỗ cho |  | Destination C1–C2 · collocation |
 | 8740 | make your mouth water | làm thèm chảy nước miếng |  | Word Skills Advanced |
-| 8741 | make your point |  |  | Destination C1–C2 · collocation |
+| 8741 | make your point | nêu được quan điểm |  | Destination C1–C2 · collocation |
 | 8742 | make yourself at home | Cứ tự nhiên như ở nhà. (= feel relaxed and behave in the same way as you do in your own home) |  | Destination C1–C2 · idiom |
-| 8743 | make yourself clear |  |  | Destination C1–C2 · collocation |
-| 8744 | make/do a good/bad job of |  |  | Destination C1–C2 · collocation |
-| 8745 | make/earn/spend/cost/etc money |  |  | Destination C1–C2 · collocation |
-| 8746 | make/get sth clear |  |  | Destination C1–C2 · collocation |
+| 8743 | make yourself clear | nói cho rõ ý mình |  | Destination C1–C2 · collocation |
+| 8744 | make/do a good/bad job of | làm tốt / dở việc gì |  | Destination C1–C2 · collocation |
+| 8745 | make/earn/spend/cost/etc money | kiếm / tiêu / tốn tiền |  | Destination C1–C2 · collocation |
+| 8746 | make/get sth clear | làm rõ điều gì |  | Destination C1–C2 · collocation |
 | 8747 | makeabid | makeabid |  | TOEIC (Hackers) |
 | 8748 | makeadecision | đưa ra quyết định |  | TOEIC (Hackers) |
 | 8749 | makeastop | makeastop |  | TOEIC (Hackers) |
@@ -8814,7 +8814,7 @@
 | 8802 | Marine conservation | Bảo tồn biển | /məˈriːn ˌkɑːnsərˈveɪʃən/ | IELTS · Environment |
 | 8803 | marital status | tình trạng hôn nhân |  | Word Skills Basic |
 | 8804 | mark | kèm người |  | Word Skills Basic, Oxford 3000 · A2 · n, v |
-| 8805 | mark sth with/on |  |  | Destination C1–C2 · collocation |
+| 8805 | mark sth with/on | đánh dấu cái gì bằng / lên |  | Destination C1–C2 · collocation |
 | 8806 | markedly | rõ rệt |  | TOEIC (Hackers) |
 | 8807 | marker | bút lông, bút đánh dấu |  | Oxford 5000 · B2 · n |
 | 8808 | market | chợ, thị trường |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · n, v |
@@ -8832,9 +8832,9 @@
 | 8820 | marketplace | chợ |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 8821 | Marriage | Hôn nhân | /mærɪdʒ/ | IELTS · Family and Relationships, Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 8822 | Marriage equality | Bình đẳng hôn nhân | /ˈmɛrɪdʒ ɪˈkwɑləti/ | IELTS · Social issues |
-| 8823 | marriage guidance |  |  | Destination C1–C2 · collocation |
-| 8824 | marriage of convenience |  |  | Destination C1–C2 · collocation |
-| 8825 | marriage vows |  |  | Destination C1–C2 · collocation |
+| 8823 | marriage guidance | tư vấn hôn nhân |  | Destination C1–C2 · collocation |
+| 8824 | marriage of convenience | hôn nhân vụ lợi |  | Destination C1–C2 · collocation |
+| 8825 | marriage vows | lời thề nguyện hôn nhân |  | Destination C1–C2 · collocation |
 | 8826 | married | đã kết hôn |  | Word Skills Basic, Oxford 3000 · A1 · adj |
 | 8827 | marry | cưới |  | Oxford 3000 · A2 · v |
 | 8828 | Mars Rover | Xe thám hiểm sao Hỏa | /mɑrz ˈroʊvər/ | IELTS · Science |
@@ -8861,9 +8861,9 @@
 | 8849 | matching | hợp nhau |  | Oxford 3000 · B2 · adj |
 | 8850 | Mate | Giao phối | /meɪt/ | IELTS · Animal, Word Skills Intermediate, Oxford 5000 · B2 · n, v |
 | 8851 | Material | Vật liệu | /məˈtɪriəl/ | IELTS · Art, Word Skills Intermediate, Oxford 3000 · A2 · adj, n |
-| 8852 | material goods/possessions |  |  | Destination C1–C2 · collocation |
-| 8853 | material resources |  |  | Destination C1–C2 · collocation |
-| 8854 | material rewards |  |  | Destination C1–C2 · collocation |
+| 8852 | material goods/possessions | của cải vật chất |  | Destination C1–C2 · collocation |
+| 8853 | material resources | nguồn lực vật chất |  | Destination C1–C2 · collocation |
+| 8854 | material rewards | phần thưởng vật chất |  | Destination C1–C2 · collocation |
 | 8855 | Materialism | Chủ nghĩa vật chất | /məˈtɪəriəlɪzəm/ | IELTS · Advertising |
 | 8856 | maternity leave | nghỉ hộ sản |  | TOEIC (Hackers), Word Skills Advanced |
 | 8857 | maternity unit | khoa sản |  | Word Skills Advanced |
@@ -8916,7 +8916,7 @@
 | 8904 | Medication | Thuốc | /ˌmɛdɪˈkeɪʃən/ | IELTS · Health, Oxford 5000 · B2 · n |
 | 8905 | medicinal | Y học |  | TOEIC (Hackers) |
 | 8906 | medicine | thuốc (= subject of study) (= e.g. aspirin) |  | Word Skills Basic, Oxford 3000 · A2 · n |
-| 8907 | medicine cabinet |  |  | Destination C1–C2 · collocation |
+| 8907 | medicine cabinet | tủ thuốc |  | Destination C1–C2 · collocation |
 | 8908 | Medieval | Trung cổ | /ˌmɛdiˈiːvəl/ | IELTS · History and Heritage, Word Skills Advanced, Oxford 5000 · C1 · adj |
 | 8909 | mediocre | tầm thường |  | Word Skills Advanced |
 | 8910 | meditate | Thiền |  | TOEIC (Hackers) |
@@ -8925,18 +8925,18 @@
 | 8913 | medium-length | dài vừa |  | Word Skills Basic |
 | 8914 | medium-sized | cỡ vừa |  | Word Skills Basic |
 | 8915 | meet | gặp, gặp gỡ (= come together; for the first time) |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · v |
-| 8916 | meet a need |  |  | Destination C1–C2 · collocation |
+| 8916 | meet a need | đáp ứng nhu cầu |  | Destination C1–C2 · collocation |
 | 8917 | Meet and greet | Gặp gỡ và chào hỏi | /miːt ənd ɡriːt/ | IELTS · Celebrity |
 | 8918 | meet one’s flight | đáp ứng chuyến bay của một người |  | TOEIC (Hackers) |
 | 8919 | meet one’s goal | đạt được mục tiêu của mình |  | TOEIC (Hackers) |
-| 8920 | meet sb in person |  |  | Destination C1–C2 · collocation |
+| 8920 | meet sb in person | gặp trực tiếp ai |  | Destination C1–C2 · collocation |
 | 8921 | meet the deadline | đáp ứng thời hạn |  | TOEIC (Hackers) |
 | 8922 | meet the expenses | đáp ứng các chi phí |  | TOEIC (Hackers) |
 | 8923 | meet the needs of | đáp ứng nhu cầu |  | Word Skills Advanced |
 | 8924 | meet the requirements | Đáp ứng yêu cầu. |  | TOEIC (Hackers) |
 | 8925 | meet the standards | đáp ứng các tiêu chuẩn |  | TOEIC (Hackers) |
 | 8926 | meet up | gặp mặt (= come together with someone, either unexpectedly or as planned) |  | Destination C1–C2 · phrasal verb |
-| 8927 | meet/satisfy a demand |  |  | Destination C1–C2 · collocation |
+| 8927 | meet/satisfy a demand | đáp ứng nhu cầu |  | Destination C1–C2 · collocation |
 | 8928 | meeting | cuộc mít tinh, cuộc biếu tình |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · n |
 | 8929 | meeting time | Thời gian họp |  | TOEIC (Hackers) |
 | 8930 | Megacity | Siêu đô thị | /ˈmɛɡəsɪti/ | IELTS · City |
@@ -8961,15 +8961,15 @@
 | 8949 | menace | sự đe dọa |  | TOEIC (Hackers) |
 | 8950 | mend | sửa chữa |  | TOEIC (Hackers), Word Skills Intermediate |
 | 8951 | mental | tinh thần |  | Oxford 3000 · B1 · adj |
-| 8952 | mental age |  |  | Destination C1–C2 · collocation |
-| 8953 | mental arithmetic |  |  | Destination C1–C2 · collocation |
+| 8952 | mental age | tuổi trí tuệ |  | Destination C1–C2 · collocation |
+| 8953 | mental arithmetic | tính nhẩm |  | Destination C1–C2 · collocation |
 | 8954 | Mental health | Sức khỏe tâm thần | /ˈmɛntl hɛlθ/ | IELTS · Health, IELTS · Social issues, Destination C1–C2 · collocation |
 | 8955 | Mental health care reform | Cải cách chăm sóc sức khỏe tâm thần | /ˈmɛntəl hɛlθ kɛr riˈfɔrm/ | IELTS · Social issues |
 | 8956 | Mental health issues | Vấn đề sức khỏe tâm thần; Vấn đề về sức khỏe tâm thần | /mɛntəl hɛlθ ˈɪʃuːz/ | IELTS · Family and Relationships, IELTS · Celebrity |
 | 8957 | Mental health stigma | Kỳ thị sức khỏe tâm thần | /ˈmɛntəl hɛlθ ˈstɪɡmə/ | IELTS · Social issues |
-| 8958 | mental illness |  |  | Destination C1–C2 · collocation |
+| 8958 | mental illness | bệnh tâm thần |  | Destination C1–C2 · collocation |
 | 8959 | Mental toughness | Sức mạnh tinh thần | /ˈmɛntl ˈtʌfnəs/ | IELTS · Sports and Equipments |
-| 8960 | mental/writer's block |  |  | Destination C1–C2 · collocation |
+| 8960 | mental/writer's block | bí ý tưởng / bí viết |  | Destination C1–C2 · collocation |
 | 8961 | mentally | về mặt tinh thần |  | Word Skills Advanced |
 | 8962 | mention | đề cập |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · n, v |
 | 8963 | mentor | mentor; Người hướng dẫn; Người cố vấn, hướng dẫn | /ˈmɛn.tɔːr/ | TOEIC (Hackers), IELTS · Employment, IELTS · Family and Relationships, Oxford 5000 · C1 · n |
@@ -8986,12 +8986,12 @@
 | 8974 | merit | giá trị |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 8975 | merry Christmas | giáng sinh vui vẻ |  | Word Skills Basic |
 | 8976 | mess | nhà ăn quân đội |  | Word Skills Advanced, Oxford 3000 · B1 · n |
-| 8977 | mess about/around | (= behave in a silly way) (= spend time doing things in a relaxed way) |  | Destination C1–C2 · phrasal verb |
+| 8977 | mess about/around | làm trò ngớ ngẩn; la cà, thong thả (= behave in a silly way) (= spend time doing things in a relaxed way) |  | Destination C1–C2 · phrasal verb |
 | 8978 | mess up | lộn xộn (= be the cause of someone's physical, emotional or mental problems) (= make a mistake or do something badly) (= make something dirty or untidy) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
 | 8979 | Message | Thông điệp | /ˈmɛsɪdʒ/ | IELTS · Film, Word Skills Basic, Oxford 3000 · A1 · n |
 | 8980 | messy | bừa bộn |  | Word Skills Advanced |
 | 8981 | metal | kim loại |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
-| 8982 | metal detector |  |  | Destination C1–C2 · collocation |
+| 8982 | metal detector | máy dò kim loại |  | Destination C1–C2 · collocation |
 | 8983 | Metallic colors | Màu kim loại | /məˈtælɪk ˈkʌlərz/ | IELTS · Art |
 | 8984 | metaphor | ẩn dụ |  | Word Skills Advanced, Oxford 5000 · B2 · n |
 | 8985 | Meteor | Sao băng | /ˈmiːtiər/ | IELTS · Science |
@@ -9212,10 +9212,10 @@
 | 9200 | mostly | chủ yếu |  | Oxford 3000 · A2 · adv |
 | 9201 | Motel | Nhà nghỉ | /moʊˈtɛl/ | IELTS · Tourism |
 | 9202 | mother | mẹ |  | Word Skills Basic, Oxford 3000 · A1 · n |
-| 9203 | mother country |  |  | Destination C1–C2 · collocation |
-| 9204 | Mother Nature |  |  | Destination C1–C2 · collocation |
+| 9203 | mother country | tổ quốc; mẫu quốc |  | Destination C1–C2 · collocation |
+| 9204 | Mother Nature | Mẹ Thiên nhiên |  | Destination C1–C2 · collocation |
 | 9205 | mother tongue | tiếng mẹ đẻ |  | Word Skills Basic, Destination C1–C2 · collocation |
-| 9206 | Mother's Day |  |  | Destination C1–C2 · collocation |
+| 9206 | Mother's Day | Ngày của Mẹ |  | Destination C1–C2 · collocation |
 | 9207 | Motherhood | Sự làm mẹ | /mʌðərˌhʊd/ | IELTS · Family and Relationships |
 | 9208 | motion | chuyển động; kiến nghị |  | Word Skills Advanced, Oxford 5000 · B2 · n |
 | 9209 | motion sickness | Say tàu xe |  | TOEIC (Hackers) |
@@ -9248,12 +9248,12 @@
 | 9236 | move ahead with | tiến lên phía trước với |  | TOEIC (Hackers) |
 | 9237 | move around | Di chuyển xung quanh. |  | TOEIC (Hackers) |
 | 9238 | move forward | Đi tới |  | TOEIC (Hackers) |
-| 9239 | move house |  |  | Destination C1–C2 · collocation |
+| 9239 | move house | chuyển nhà |  | Destination C1–C2 · collocation |
 | 9240 | move in (with) | dọn vào (= start living in a different house or flat (with)) |  | Destination C1–C2 · phrasal verb |
 | 9241 | move it | tránh ra / nhanh lên |  | Destination C1–C2 · collocation |
 | 9242 | move on | bước tiếp, chuyển sang (= leave one place and travel to another) (= stop discussing or doing something and begin discussing or doing something different) |  | Destination C1–C2 · phrasal verb |
 | 9243 | move out | dọn đi (= permanently leave the house or flat where you live or the place where you have your busine…) |  | Destination C1–C2 · phrasal verb |
-| 9244 | move over | (= change your position in order to make space for someone or something) |  | Destination C1–C2 · phrasal verb |
+| 9244 | move over | dịch sang, nhích ra (nhường chỗ) (= change your position in order to make space for someone or something) |  | Destination C1–C2 · phrasal verb |
 | 9245 | move over one seat | di chuyển qua một chỗ ngồi |  | TOEIC (Hackers) |
 | 9246 | move the goalposts | thay đổi luật chơi |  | Word Skills Advanced |
 | 9247 | move up | Di chuyển lên |  | TOEIC (Hackers) |
@@ -9353,9 +9353,9 @@
 | 9341 | nasty | khó chịu, xấu xa |  | Word Skills Intermediate/Advanced, Oxford 5000 · B2 · adj |
 | 9342 | nation | quốc gia |  | Oxford 3000 · B1 · n |
 | 9343 | national | quốc gia |  | Word Skills Intermediate, Oxford 3000 · A2 · adj, n |
-| 9344 | national anthem |  |  | Destination C1–C2 · collocation |
-| 9345 | national costume/dress |  |  | Destination C1–C2 · collocation |
-| 9346 | national debt |  |  | Destination C1–C2 · collocation |
+| 9344 | national anthem | quốc ca |  | Destination C1–C2 · collocation |
+| 9345 | national costume/dress | trang phục dân tộc |  | Destination C1–C2 · collocation |
+| 9346 | national debt | nợ quốc gia |  | Destination C1–C2 · collocation |
 | 9347 | national holiday | Ngày nghỉ lễ Quốc gia |  | TOEIC (Hackers), Destination C1–C2 · collocation |
 | 9348 | Nationalism | Chủ nghĩa dân tộc | /ˈnæʃənəlɪzəm/ | IELTS · History and Heritage |
 | 9349 | nationality | quốc tịch |  | TOEIC (Hackers), Word Skills Basic |
@@ -9363,19 +9363,19 @@
 | 9351 | nationalize | quốc hữu hóa |  | TOEIC (Hackers), Word Skills Advanced |
 | 9352 | nationwide | toàn quốc |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · adj |
 | 9353 | native | tự nhiên |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B1 · adj, n |
-| 9354 | native land |  |  | Destination C1–C2 · collocation |
-| 9355 | native speaker |  |  | Destination C1–C2 · collocation |
-| 9356 | native species |  |  | Destination C1–C2 · collocation |
-| 9357 | native to |  |  | Destination C1–C2 · collocation |
+| 9354 | native land | quê hương |  | Destination C1–C2 · collocation |
+| 9355 | native speaker | người bản xứ |  | Destination C1–C2 · collocation |
+| 9356 | native species | loài bản địa |  | Destination C1–C2 · collocation |
+| 9357 | native to | có nguồn gốc ở |  | Destination C1–C2 · collocation |
 | 9358 | NATO | khối NATO |  | Word Skills Intermediate |
 | 9359 | Natural | Tự nhiên | /nætʃərəl/ | IELTS · Appearance, Word Skills Intermediate, Oxford 3000 · A1 · adj |
-| 9360 | natural ability |  |  | Destination C1–C2 · collocation |
-| 9361 | natural causes |  |  | Destination C1–C2 · collocation |
+| 9360 | natural ability | năng khiếu bẩm sinh |  | Destination C1–C2 · collocation |
+| 9361 | natural causes | nguyên nhân tự nhiên (chết già, bệnh) |  | Destination C1–C2 · collocation |
 | 9362 | Natural colors | Màu sắc tự nhiên | /ˈnætʃərəl ˈkʌlərz/ | IELTS · Art |
 | 9363 | natural habitat | môi trường sống tự nhiên |  | TOEIC (Hackers), Word Skills Advanced |
 | 9364 | Natural resource depletion | Cạn kiệt tài nguyên thiên nhiên | /ˈnætʃərəl rɪˈsɔːrs dɪˈpliːʃən/ | IELTS · Globalization |
 | 9365 | Natural resources | Tài nguyên thiên nhiên | /ˈnætʃərəl rɪˈsɔːrsɪz/ | IELTS · Environment, Destination C1–C2 · collocation |
-| 9366 | natural selection |  |  | Destination C1–C2 · collocation |
+| 9366 | natural selection | chọn lọc tự nhiên |  | Destination C1–C2 · collocation |
 | 9367 | naturally | tự nhiên; dĩ nhiên |  | Word Skills Advanced, Oxford 3000 · B1 · adv |
 | 9368 | Nature | Thiên nhiên | /ˈneɪtʃər/ | IELTS · Countryside, IELTS · Tourism, Word Skills Advanced, Oxford 3000 · A2 · n |
 | 9369 | nature reserve | khu bảo tồn thiên nhiên |  | Word Skills Advanced |
@@ -9386,7 +9386,7 @@
 | 9374 | navy | hải quân |  | Word Skills Advanced |
 | 9375 | NB | lưu ý (viết tắt) |  | Word Skills Advanced |
 | 9376 | near | gần |  | Word Skills Basic, Oxford 3000 · A1 · adj, adv, prep |
-| 9377 | near to (doing sth) |  |  | Destination C1–C2 · collocation |
+| 9377 | near to (doing sth) | suýt (làm gì) |  | Destination C1–C2 · collocation |
 | 9378 | nearby | gần/không xa/xung quanh |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · B2 · adj, adv |
 | 9379 | nearest | gần nhất |  | Word Skills Basic |
 | 9380 | nearly | gần, sắp, suýt |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · adv |
@@ -9399,9 +9399,9 @@
 | 9387 | neck | cổ |  | Word Skills Basic, Oxford 3000 · A2 · n |
 | 9388 | necklace | Chiếc vòng cổ. |  | TOEIC (Hackers), Word Skills Intermediate |
 | 9389 | need | cần, đòi hỏi |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · modal v, n, v |
-| 9390 | need (sb) to do |  |  | Destination C1–C2 · collocation |
-| 9391 | need do |  |  | Destination C1–C2 · collocation |
-| 9392 | need doing |  |  | Destination C1–C2 · collocation |
+| 9390 | need (sb) to do | cần (ai) làm |  | Destination C1–C2 · collocation |
+| 9391 | need do | cần làm |  | Destination C1–C2 · collocation |
+| 9392 | need doing | cần được làm |  | Destination C1–C2 · collocation |
 | 9393 | need monitoring | cần theo dõi |  | TOEIC (Hackers) |
 | 9394 | needle | kim tiêm |  | Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 9395 | needless to say | khỏi phải nói |  | Word Skills Advanced |
@@ -9447,18 +9447,18 @@
 | 9435 | Neutral colors | Màu sắc trung tính | /ˈnjuːtrəl ˈkʌlərz/ | IELTS · Art |
 | 9436 | neutrality | trung tính |  | TOEIC (Hackers) |
 | 9437 | never | không bao giờ |  | Word Skills Basic, Oxford 3000 · A1 · adv |
-| 9438 | never again |  |  | Destination C1–C2 · collocation |
-| 9439 | never ever |  |  | Destination C1–C2 · collocation |
+| 9438 | never again | không bao giờ nữa |  | Destination C1–C2 · collocation |
+| 9439 | never ever | không bao giờ, chẳng bao giờ |  | Destination C1–C2 · collocation |
 | 9440 | never mind | Thôi bỏ đi. |  | Word Skills Basic, Destination C1–C2 · collocation |
-| 9441 | never mind if/whether/etc |  |  | Destination C1–C2 · collocation |
+| 9441 | never mind if/whether/etc | đừng bận tâm liệu |  | Destination C1–C2 · collocation |
 | 9442 | never-ending | bất tận |  | Word Skills Advanced |
-| 9443 | never/don't look a gift horse in the mouth | (= if you are given something good, you should not complain about it or try to find things th…) |  | Destination C1–C2 · idiom |
+| 9443 | never/don't look a gift horse in the mouth | của cho không đừng chê (= if you are given something good, you should not complain about it or try to find things th…) |  | Destination C1–C2 · idiom |
 | 9444 | nevertheless | tuy nhiên |  | Word Skills Intermediate/Advanced, Oxford 3000 · B2 · adv |
 | 9445 | new | mới |  | Oxford 3000 · A1 · adj |
-| 9446 | new age |  |  | Destination C1–C2 · collocation |
+| 9446 | new age | thời đại mới; (trào lưu) New Age |  | Destination C1–C2 · collocation |
 | 9447 | new appointment | Thêm cuộc hẹn mới |  | TOEIC (Hackers) |
 | 9448 | new era | kỷ nguyên mới |  | Word Skills Advanced |
-| 9449 | new to |  |  | Destination C1–C2 · collocation |
+| 9449 | new to | mới làm quen với |  | Destination C1–C2 · collocation |
 | 9450 | New Year | năm mới |  | Word Skills Basic |
 | 9451 | New Year's Day | ngày đầu năm mới |  | Word Skills Basic |
 | 9452 | newcomer | Người mới ! |  | TOEIC (Hackers) |
@@ -9478,14 +9478,14 @@
 | 9466 | next to | bên cạnh |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · prep |
 | 9467 | next week | tuần sau |  | Word Skills Basic |
 | 9468 | nice | tốt, dễ chịu |  | Word Skills Basic, Oxford 3000 · A1 · adj |
-| 9469 | nice and warm/comfortable/clean |  |  | Destination C1–C2 · collocation |
-| 9470 | nice as pie |  |  | Destination C1–C2 · collocation |
-| 9471 | nice for sb (to do) |  |  | Destination C1–C2 · collocation |
-| 9472 | nice of sb (to do) |  |  | Destination C1–C2 · collocation |
+| 9469 | nice and warm/comfortable/clean | ấm áp / thoải mái / sạch sẽ dễ chịu |  | Destination C1–C2 · collocation |
+| 9470 | nice as pie | ngọt ngào, dễ thương (bất ngờ) |  | Destination C1–C2 · collocation |
+| 9471 | nice for sb (to do) | thật dễ chịu cho ai |  | Destination C1–C2 · collocation |
+| 9472 | nice of sb (to do) | ai đó thật tốt (khi làm) |  | Destination C1–C2 · collocation |
 | 9473 | nice one | Hay đấy! |  | Destination C1–C2 · collocation |
 | 9474 | nice to meet you | Rất vui được gặp bạn |  | Word Skills Basic |
-| 9475 | nice to meet/see sb |  |  | Destination C1–C2 · collocation |
-| 9476 | nice to sb |  |  | Destination C1–C2 · collocation |
+| 9475 | nice to meet/see sb | rất vui được gặp ai |  | Destination C1–C2 · collocation |
+| 9476 | nice to sb | tử tế với ai |  | Destination C1–C2 · collocation |
 | 9477 | nice-looking | đẹp trai |  | TOEIC (Hackers) |
 | 9478 | nice/good to meet you | rất vui được gặp bạn |  | Word Skills Basic |
 | 9479 | niche | thị trường ngách |  | Oxford 5000 · C1 · n |
@@ -9509,10 +9509,10 @@
 | 9497 | no | không |  | Oxford 3000 · A1 · det, exclam |
 | 9498 | no chance | không đời nào |  | Word Skills Advanced |
 | 9499 | no doubt | Không nghi ngờ gì |  | Word Skills Advanced |
-| 9500 | no end in sight (to) |  |  | Destination C1–C2 · collocation |
+| 9500 | no end in sight (to) | chưa thấy hồi kết |  | Destination C1–C2 · collocation |
 | 9501 | no entry | cấm đi vào |  | Word Skills Basic |
 | 9502 | no exit | không có lối ra |  | Word Skills Basic |
-| 9503 | no good |  |  | Destination C1–C2 · collocation |
+| 9503 | no good | vô dụng, chẳng ích gì |  | Destination C1–C2 · collocation |
 | 9504 | no later than | không muộn hơn |  | TOEIC (Hackers) |
 | 9505 | no matter how | Dù… thế nào… |  | Destination C1–C2 · collocation |
 | 9506 | no matter what | dù có chuyện gì |  | Word Skills Advanced, Destination C1–C2 · collocation |
@@ -9520,14 +9520,14 @@
 | 9508 | no news is good news | không có tin tức gì tức là mọi chuyện vẫnốn |  | Word Skills Advanced |
 | 9509 | no one | không ai |  | Oxford 3000 · A1 · pron |
 | 9510 | no parking | cấm đỗ xe |  | Word Skills Basic |
-| 9511 | no place for |  |  | Destination C1–C2 · collocation |
+| 9511 | no place for | không phải chỗ dành cho |  | Destination C1–C2 · collocation |
 | 9512 | no problem | Không có gì |  | Word Skills Basic/Intermediate |
 | 9513 | no reason | không có lý do gì |  | Word Skills Advanced |
 | 9514 | no regard for | không quan tâm đến |  | Word Skills Advanced |
-| 9515 | no response |  |  | Destination C1–C2 · collocation |
-| 9516 | no rhyme or reason | (used for emphasising that there is no reason or explanation for something) |  | Destination C1–C2 · idiom |
+| 9515 | no response | không có phản hồi |  | Destination C1–C2 · collocation |
+| 9516 | no rhyme or reason | chẳng có lý do gì cả, vô lý (used for emphasising that there is no reason or explanation for something) |  | Destination C1–C2 · idiom |
 | 9517 | no smoking | cấm hút thuốc |  | Word Skills Basic |
-| 9518 | no sth to speak of |  |  | Destination C1–C2 · collocation |
+| 9518 | no sth to speak of | chẳng đáng kể |  | Destination C1–C2 · collocation |
 | 9519 | no such luck | tiếc là không |  | Word Skills Advanced |
 | 9520 | no vacancies | hết phòng |  | Word Skills Basic |
 | 9521 | no way | không thể nào! |  | Word Skills Advanced |
@@ -9547,7 +9547,7 @@
 | 9535 | Non-disclosure agreement | Hợp đồng không tiết lộ thông tin | /ˌnɒn-dɪsˈkləʊʒər əˈɡriː.mənt/ | IELTS · Employment |
 | 9536 | non-fiction | sách phi hư cấu (Anh) |  | Word Skills Intermediate |
 | 9537 | non-metric | không theo hệ mét |  | Word Skills Intermediate |
-| 9538 | non-native speaker |  |  | Destination C1–C2 · collocation |
+| 9538 | non-native speaker | người không phải bản xứ |  | Destination C1–C2 · collocation |
 | 9539 | non-profit organization | tổ chức phi doanh lợi |  | TOEIC (Hackers) |
 | 9540 | none | không cái nào, không ai |  | Word Skills Basic, Oxford 3000 · A2 · pron |
 | 9541 | nonetheless | tuy nhiên |  | Oxford 5000 · C1 · adv |
@@ -9581,11 +9581,11 @@
 | 9569 | not entirely sure | không chắc lắm |  | Word Skills Advanced |
 | 9570 | not exactly bright | không thông minh lắm |  | Word Skills Advanced |
 | 9571 | not far from | không xa |  | TOEIC (Hackers) |
-| 9572 | not have a leg to stand on | (= not have any way of proving that you are right about something) |  | Destination C1–C2 · idiom |
+| 9572 | not have a leg to stand on | không có cơ sở, lý lẽ đứng vững (= not have any way of proving that you are right about something) |  | Destination C1–C2 · idiom |
 | 9573 | not have the faintest idea | hoàn toàn không biết |  | Word Skills Advanced |
 | 9574 | not have the heart to do sth | không nỡ làm gì |  | Word Skills Advanced |
 | 9575 | not necessarily | chưa chắc |  | Word Skills Advanced |
-| 9576 | not on your life |  |  | Destination C1–C2 · collocation |
+| 9576 | not on your life | không đời nào |  | Destination C1–C2 · collocation |
 | 9577 | not only A but also | Not Only, But Also |  | TOEIC (Hackers) |
 | 9578 | not only A but also B | không chỉ A mà còn B |  | TOEIC (Hackers) |
 | 9579 | not put a foot wrong | không mắc lỗi nào |  | Word Skills Advanced |
@@ -9593,9 +9593,9 @@
 | 9581 | not take sth lying down | không chịu khuất phục |  | Word Skills Advanced |
 | 9582 | Not that I’m aware of | Anh không nhận ra |  | TOEIC (Hackers) |
 | 9583 | not to mention | và không chỉ liên quan đến |  | TOEIC (Hackers) |
-| 9584 | not worth the paper it's written/printed on |  |  | Destination C1–C2 · collocation |
+| 9584 | not worth the paper it's written/printed on | chẳng có giá trị gì |  | Destination C1–C2 · collocation |
 | 9585 | not... yet | chưa |  | Word Skills Intermediate |
-| 9586 | not/never in a million years |  |  | Destination C1–C2 · collocation |
+| 9586 | not/never in a million years | không đời nào |  | Destination C1–C2 · collocation |
 | 9587 | notable | đáng chú ý |  | Oxford 5000 · C1 · adj |
 | 9588 | notably | đáng chú ý là |  | Oxford 5000 · C1 · adv |
 | 9589 | note | ghi chú; Nốt nhạc | /noʊt/ | TOEIC (Hackers), IELTS · Music, Oxford 3000 · A1 · n, v |
@@ -9607,7 +9607,7 @@
 | 9595 | nothing much | không có gì nhiều |  | Word Skills Basic/Intermediate |
 | 9596 | nothing to declare | không có gì phải khai báo (hải quan) |  | Word Skills Basic |
 | 9597 | nothing to write home about | chẳng có gì đặc biệt, không có gì xuất sắc |  | Destination C1–C2 · collocation |
-| 9598 | nothing/little to choose between |  |  | Destination C1–C2 · collocation |
+| 9598 | nothing/little to choose between | chẳng khác nhau mấy |  | Destination C1–C2 · collocation |
 | 9599 | notice | thông báo, yết thị; chú ý, để ý, nhận biết |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · A2 · n, v |
 | 9600 | noticeable | dễ nhận thấy |  | Word Skills Advanced |
 | 9601 | noticeboard | bảng thông báo |  | Word Skills Basic |
@@ -9626,8 +9626,8 @@
 | 9614 | novice | Chưa có kinh nghiệm |  | TOEIC (Hackers) |
 | 9615 | now | bây giờ |  | Oxford 3000 · A1 · adv, conj |
 | 9616 | now and again | thỉnh thoảng |  | Word Skills Intermediate/Advanced |
-| 9617 | now is the time to |  |  | Destination C1–C2 · collocation |
-| 9618 | now that |  |  | Destination C1–C2 · collocation |
+| 9617 | now is the time to | đây là lúc để |  | Destination C1–C2 · collocation |
+| 9618 | now that | giờ thì, vì giờ đây |  | Destination C1–C2 · collocation |
 | 9619 | nowadays | ngày nay |  | Word Skills Intermediate, Oxford 5000 · B2 · adv |
 | 9620 | nowhere | không nơi nào |  | Oxford 3000 · A2 · adv |
 | 9621 | Nuclear | Hạt nhân | /ˈnukliər/ | IELTS · Environment, IELTS · Energy, Oxford 3000 · B1 · adj |
@@ -9705,7 +9705,7 @@
 | 9693 | Obstruction | Cản trở | /əbˈstrʌkʃən/ | IELTS · Crime |
 | 9694 | obtain | đạt được, giành được |  | TOEIC (Hackers), Oxford 3000 · B2 · v |
 | 9695 | obvious | rõ ràng, rành mạch, hiển nhiên |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · B1 · adj |
-| 9696 | obvious choice |  |  | Destination C1–C2 · collocation |
+| 9696 | obvious choice | lựa chọn hiển nhiên |  | Destination C1–C2 · collocation |
 | 9697 | obviously | một cách rõ ràng, cỏ thế thấy được |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B1 · adv |
 | 9698 | obviously qualified | rõ ràng đủ điều kiện |  | TOEIC (Hackers) |
 | 9699 | obviously quatified | đã được kiểm tra rõ ràng |  | TOEIC (Hackers) |
@@ -9731,23 +9731,23 @@
 | 9719 | odds | kỳ lạ |  | Oxford 5000 · C1 · n |
 | 9720 | odour | mùi |  | Word Skills Advanced |
 | 9721 | of | của |  | Oxford 3000 · A1 · prep |
-| 9722 | of (no) use |  |  | Destination C1–C2 · collocation |
-| 9723 | of (un)equal length |  |  | Destination C1–C2 · collocation |
-| 9724 | of a/the kind |  |  | Destination C1–C2 · collocation |
+| 9722 | of (no) use | có / không có ích |  | Destination C1–C2 · collocation |
+| 9723 | of (un)equal length | dài (không) bằng nhau |  | Destination C1–C2 · collocation |
+| 9724 | of a/the kind | cùng loại; tạm gọi là |  | Destination C1–C2 · collocation |
 | 9725 | of course | tất nhiên rồi |  | Word Skills Basic/Advanced |
-| 9726 | of equal size/quality/value |  |  | Destination C1–C2 · collocation |
-| 9727 | of no/little consequence |  |  | Destination C1–C2 · collocation |
-| 9728 | of some/any kind |  |  | Destination C1–C2 · collocation |
+| 9726 | of equal size/quality/value | có cùng kích cỡ / chất lượng / giá trị |  | Destination C1–C2 · collocation |
+| 9727 | of no/little consequence | không quan trọng |  | Destination C1–C2 · collocation |
+| 9728 | of some/any kind | thuộc loại nào đó |  | Destination C1–C2 · collocation |
 | 9729 | off | (thức ăn) bị hỏng, ôi (= money off) |  | Word Skills Intermediate, Oxford 3000 · A1 · adv, prep |
-| 9730 | off balance |  |  | Destination C1–C2 · collocation |
+| 9730 | off balance | mất thăng bằng |  | Destination C1–C2 · collocation |
 | 9731 | off chance | cơ hội bất ngờ |  | TOEIC (Hackers) |
-| 9732 | off sick |  |  | Destination C1–C2 · collocation |
+| 9732 | off sick | nghỉ ốm |  | Destination C1–C2 · collocation |
 | 9733 | off the beaten track | nơi ít người lui tới (= away from populated areas or areas popular with tourists) |  | Word Skills Advanced, Destination C1–C2 · idiom |
 | 9734 | off the record | Không chính thức nhé… |  | Destination C1–C2 · collocation |
 | 9735 | off the shore | ngoài khơi bờ biển |  | TOEIC (Hackers) |
 | 9736 | off the top of my head | nghĩ ngay lúc này |  | Word Skills Advanced |
 | 9737 | off the top of your head | nói ngay mà không cần suy nghĩ I4„ |  | Destination C1–C2 · collocation |
-| 9738 | off work/college |  |  | Destination C1–C2 · collocation |
+| 9738 | off work/college | nghỉ làm / nghỉ học |  | Destination C1–C2 · collocation |
 | 9739 | off-limits | ngoài giới hạn |  | TOEIC (Hackers) |
 | 9740 | off-peak | vắng |  | TOEIC (Hackers) |
 | 9741 | off-putting | gây mất hứng |  | Word Skills Advanced |
@@ -9759,14 +9759,14 @@
 | 9747 | offensive | xúc phạm; tấn công |  | Word Skills Intermediate/Advanced, Oxford 3000 · B2 · adj |
 | 9748 | offer | biếu, tặng, cho; sự trả giá |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · n, v |
 | 9749 | offer an apology toA | gửi lời xin lỗi đến |  | TOEIC (Hackers) |
-| 9750 | offer support |  |  | Destination C1–C2 · collocation |
+| 9750 | offer support | hỗ trợ |  | Destination C1–C2 · collocation |
 | 9751 | offering | vật bán ra |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 9752 | Office | Văn phòng | /ˈɔː.fɪs/ | IELTS · Employment, Oxford 3000 · A1 · n |
-| 9753 | office block |  |  | Destination C1–C2 · collocation |
+| 9753 | office block | toà nhà văn phòng |  | Destination C1–C2 · collocation |
 | 9754 | Office chair | Ghế văn phòng | /ˈɔfɪs tʃɛr/ | IELTS · Housing and Architecture |
-| 9755 | office holder |  |  | Destination C1–C2 · collocation |
-| 9756 | office hours |  |  | Destination C1–C2 · collocation |
-| 9757 | office party |  |  | Destination C1–C2 · collocation |
+| 9755 | office holder | người giữ chức vụ |  | Destination C1–C2 · collocation |
+| 9756 | office hours | giờ hành chính |  | Destination C1–C2 · collocation |
+| 9757 | office party | tiệc công ty |  | Destination C1–C2 · collocation |
 | 9758 | office supplies | vật dụng văn phòng |  | TOEIC (Hackers) |
 | 9759 | officer | sĩ quan, nhân viên |  | Oxford 3000 · A2 · n |
 | 9760 | official | chính quyển, văn phòng; viên chức, công chức |  | TOEIC (Hackers), Oxford 3000 · B1 · adj, n |
@@ -9790,13 +9790,13 @@
 | 9778 | OJT (on-the-job training) | Huấn luyện quân sự tại chức |  | TOEIC (Hackers) |
 | 9779 | OK | ổn, được |  | Oxford 3000 · A1 · adj, adv, exclam |
 | 9780 | old | già, cũ |  | Word Skills Basic, Oxford 3000 · A1 · adj |
-| 9781 | old age |  |  | Destination C1–C2 · collocation |
+| 9781 | old age | tuổi già |  | Destination C1–C2 · collocation |
 | 9782 | old flame | người yều cũ |  | Destination C1–C2 · collocation |
-| 9783 | old folk(s) |  |  | Destination C1–C2 · collocation |
+| 9783 | old folk(s) | người già |  | Destination C1–C2 · collocation |
 | 9784 | old friend | bạn cũ |  | Word Skills Intermediate, Destination C1–C2 · collocation |
-| 9785 | old hand |  |  | Destination C1–C2 · collocation |
-| 9786 | old hat |  |  | Destination C1–C2 · collocation |
-| 9787 | old people's home |  |  | Destination C1–C2 · collocation |
+| 9785 | old hand | tay lão luyện |  | Destination C1–C2 · collocation |
+| 9786 | old hat | cũ rích, lỗi thời |  | Destination C1–C2 · collocation |
+| 9787 | old people's home | viện dưỡng lão |  | Destination C1–C2 · collocation |
 | 9788 | old-fashioned | lỗi thời |  | Word Skills Intermediate/Advanced, Oxford 3000 · B1 · adj |
 | 9789 | olive oil | dầu ô liu |  | Word Skills Basic |
 | 9790 | olives | quả ô liu |  | Word Skills Basic |
@@ -9805,13 +9805,13 @@
 | 9793 | omit | Bỏ sót |  | TOEIC (Hackers), Word Skills Intermediate |
 | 9794 | Omnivorous | Động vật ăn tạp | /ɑmˈnɪvərəs/ | IELTS · Animal |
 | 9795 | on | trên (= preposition of place; preposition of time) |  | Word Skills Basic, Oxford 3000 · A1 · adv, prep |
-| 9796 | on a daily/temporary/etc basis |  |  | Destination C1–C2 · collocation |
-| 9797 | on a high |  |  | Destination C1–C2 · collocation |
+| 9796 | on a daily/temporary/etc basis | hằng ngày / tạm thời |  | Destination C1–C2 · collocation |
+| 9797 | on a high | đang phấn chấn |  | Destination C1–C2 · collocation |
 | 9798 | on a regular basis | hay ở nhà |  | TOEIC (Hackers) |
 | 9799 | on a river | bên bờ sông |  | Word Skills Basic |
 | 9800 | on account of | Vì… |  | Destination C1–C2 · collocation |
 | 9801 | on an empty stomach | bụng rỗng |  | TOEIC (Hackers) |
-| 9802 | on and on |  |  | Destination C1–C2 · collocation |
+| 9802 | on and on | mãi không thôi |  | Destination C1–C2 · collocation |
 | 9803 | on balance | Cân nhắc kỹ… |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 9804 | on behalf of | thay mặt cho ai, nhân danh ai |  | TOEIC (Hackers) |
 | 9805 | on behalf of sb | thay mặt ai |  | Word Skills Advanced |
@@ -9819,14 +9819,14 @@
 | 9807 | on business | nhằm mục đích kinh doanh |  | TOEIC (Hackers) |
 | 9808 | on call | gọi sẽ đến ngay |  | TOEIC (Hackers) |
 | 9809 | on delivery | Trả tiền sau khi nhận hàng |  | TOEIC (Hackers) |
-| 9810 | on demand |  |  | Destination C1–C2 · collocation |
+| 9810 | on demand | theo yêu cầu |  | Destination C1–C2 · collocation |
 | 9811 | on display | trưng bày; ondisplay |  | TOEIC (Hackers), Word Skills Intermediate |
 | 9812 | on duty | Giờ làm việc |  | TOEIC (Hackers) |
-| 9813 | on either side (of) |  |  | Destination C1–C2 · collocation |
+| 9813 | on either side (of) | ở hai bên |  | Destination C1–C2 · collocation |
 | 9814 | on end | iên tiếp/ không ngừng (nhiều đêm/ nzg |  | Destination C1–C2 · collocation |
 | 9815 | on fire | đang cháy |  | Word Skills Advanced |
 | 9816 | on foot | Đi mau! |  | TOEIC (Hackers) |
-| 9817 | on good terms (with) | (= have a good relationship with someone) |  | Destination C1–C2 · idiom |
+| 9817 | on good terms (with) | có quan hệ tốt (với) (= have a good relationship with someone) |  | Destination C1–C2 · idiom |
 | 9818 | on hold | đợi kết nối |  | TOEIC (Hackers), Word Skills Advanced |
 | 9819 | on holiday | đang đi nghỉ |  | Word Skills Basic |
 | 9820 | on loan | vay mượn |  | TOEIC (Hackers) |
@@ -9840,17 +9840,17 @@
 | 9828 | on principle | theo nguyên tắc |  | Word Skills Advanced |
 | 9829 | on probation | dùng thử |  | TOEIC (Hackers) |
 | 9830 | on purpose | cố ý, có chủ tâm; có mục đích |  | TOEIC (Hackers), Word Skills Intermediate, Destination C1–C2 · collocation |
-| 9831 | on record |  |  | Destination C1–C2 · collocation |
+| 9831 | on record | được ghi lại; từ trước tới nay |  | Destination C1–C2 · collocation |
 | 9832 | on reflection | sau khi suy nghĩ lại |  | Word Skills Advanced |
-| 9833 | on sb's account |  |  | Destination C1–C2 · collocation |
+| 9833 | on sb's account | vì ai, vì lợi ích của ai |  | Destination C1–C2 · collocation |
 | 9834 | on sb's behalf | thay mặt ai |  | Word Skills Advanced |
-| 9835 | on sb's side |  |  | Destination C1–C2 · collocation |
+| 9835 | on sb's side | về phe ai |  | Destination C1–C2 · collocation |
 | 9836 | on schedule | theo lịch trình |  | TOEIC (Hackers) |
 | 9837 | on show | được trưng bày |  | Word Skills Intermediate |
-| 9838 | on speaking terms |  |  | Destination C1–C2 · collocation |
+| 9838 | on speaking terms | còn nói chuyện với nhau |  | Destination C1–C2 · collocation |
 | 9839 | on standby | chế độ chờ |  | TOEIC (Hackers), Word Skills Advanced |
 | 9840 | on strike | đang đình công |  | TOEIC (Hackers) |
-| 9841 | on the basis of/that |  |  | Destination C1–C2 · collocation |
+| 9841 | on the basis of/that | dựa trên cơ sở |  | Destination C1–C2 · collocation |
 | 9842 | on the brink of | bên bờ |  | Word Skills Advanced |
 | 9843 | on the cards | có khả năng xảy ra |  | Word Skills Advanced |
 | 9844 | on the coast | ven biển |  | Word Skills Basic |
@@ -9863,37 +9863,37 @@
 | 9851 | on the job | trong khi đang làm việc/ trong lúc làm nhiệm vụ |  | Destination C1–C2 · collocation |
 | 9852 | on the left | bên trái |  | Word Skills Advanced |
 | 9853 | on the market | sự đổ xô vào thị trường chứng khoán |  | TOEIC (Hackers) |
-| 9854 | on the move |  |  | Destination C1–C2 · collocation |
+| 9854 | on the move | đang di chuyển; đang tiến triển |  | Destination C1–C2 · collocation |
 | 9855 | on the one hand | một mặt |  | Word Skills Intermediate |
 | 9856 | on the one/other hand | một mặt/mặt khác |  | Word Skills Intermediate |
 | 9857 | on the other hand | mặt khác |  | Word Skills Intermediate |
 | 9858 | on the phone | đang nghe điện thoại |  | Word Skills Basic |
-| 9859 | on the plus/minus side |  |  | Destination C1–C2 · collocation |
+| 9859 | on the plus/minus side | về mặt tích cực / tiêu cực |  | Destination C1–C2 · collocation |
 | 9860 | on the recommendation of | theo khuyến nghị của |  | TOEIC (Hackers) |
-| 9861 | on the record |  |  | Destination C1–C2 · collocation |
+| 9861 | on the record | chính thức (phát ngôn) |  | Destination C1–C2 · collocation |
 | 9862 | on the right | bên phải |  | Word Skills Advanced |
 | 9863 | on the rocks | trên bờ vực tan vỡ (hôn nhân, quan hệ) |  | Word Skills Advanced |
 | 9864 | on the spot | Tại chỗ |  | TOEIC (Hackers) |
 | 9865 | on the spur of the moment | một cách bất chợt/ ngẫu hứng (= if you do something on the spur of the moment, you do it suddenly and do not take time to …) |  | Destination C1–C2 · idiom |
-| 9866 | on the street | (with no place to live) |  | Destination C1–C2 · idiom |
+| 9866 | on the street | vô gia cư, ngoài đường (with no place to live) |  | Destination C1–C2 · idiom |
 | 9867 | on the surface | bề ngoài |  | Word Skills Advanced, Destination C1–C2 · collocation |
-| 9868 | on the table |  |  | Destination C1–C2 · collocation |
+| 9868 | on the table | đang được bàn thảo |  | Destination C1–C2 · collocation |
 | 9869 | on the town | đi chơi đêm (ở quản bar, cửa hàng (= spending the evening enjoying yourself in bars, clubs, theatres, etc) |  | Destination C1–C2 · idiom |
-| 9870 | on the understanding (that) |  |  | Destination C1–C2 · collocation |
+| 9870 | on the understanding (that) | với điều kiện là |  | Destination C1–C2 · collocation |
 | 9871 | on the verge of sth | trên bờ vực |  | Word Skills Advanced |
 | 9872 | on the way | trên đường |  | Word Skills Intermediate, Destination C1–C2 · collocation |
-| 9873 | on the Web |  |  | Destination C1–C2 · collocation |
+| 9873 | on the Web | trên mạng |  | Destination C1–C2 · collocation |
 | 9874 | on the whole | nhìn chung |  | Word Skills Intermediate/Advanced |
-| 9875 | on the wrong track |  |  | Destination C1–C2 · collocation |
+| 9875 | on the wrong track | đi sai hướng |  | Destination C1–C2 · collocation |
 | 9876 | on time | đúng giờ |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Destination C1–C2 · collocation |
-| 9877 | on top (of) |  |  | Destination C1–C2 · collocation |
+| 9877 | on top (of) | trên cùng; ngoài ra; kiểm soát được |  | Destination C1–C2 · collocation |
 | 9878 | on top of the world | cực kỳ hạnh phúc, cảm giác như đang ở đỉnh cao |  | Destination C1–C2 · collocation |
-| 9879 | on track (to do) |  |  | Destination C1–C2 · collocation |
+| 9879 | on track (to do) | đúng hướng (để làm) |  | Destination C1–C2 · collocation |
 | 9880 | on TV/on the radio | trên TV/trên đài |  | Word Skills Basic |
 | 9881 | on vacation | nghỉ việc |  | TOEIC (Hackers) |
-| 9882 | on weak ground |  |  | Destination C1–C2 · collocation |
-| 9883 | on wheels |  |  | Destination C1–C2 · collocation |
-| 9884 | on your best behaviour |  |  | Destination C1–C2 · collocation |
+| 9882 | on weak ground | ít cơ sở |  | Destination C1–C2 · collocation |
+| 9883 | on wheels | có bánh xe |  | Destination C1–C2 · collocation |
+| 9884 | on your best behaviour | cư xử thật ngoan ngoãn, đứng đắn |  | Destination C1–C2 · collocation |
 | 9885 | on your mind | đang bận tâm |  | Word Skills Intermediate, Destination C1–C2 · collocation |
 | 9886 | On-screen chemistry | Hợp tác diễn xuất trên màn ảnh | /ɒn skriːn ˈkɛmɪstri/ | IELTS · Film |
 | 9887 | on-site | Đánh giá |  | TOEIC (Hackers) |
@@ -9902,7 +9902,7 @@
 | 9890 | once bitten, twice shy | chim phải đạn sợ cành cong |  | Word Skills Advanced |
 | 9891 | once in a blue moon | hiếm khi, năm thì mười họa (= very rarely) |  | Destination C1–C2 · idiom |
 | 9892 | one | một |  | Oxford 3000 · A1 · det, number, pron |
-| 9893 | one of the family |  |  | Destination C1–C2 · collocation |
+| 9893 | one of the family | như người nhà |  | Destination C1–C2 · collocation |
 | 9894 | one thing leads to another | chuyện này dẫn đến chuyện kia |  | Word Skills Advanced |
 | 9895 | one-sided | một chiều, phiến diện |  | Word Skills Intermediate |
 | 9896 | one-way ticket | vé một chiều (không có khứ hồi) |  | TOEIC (Hackers) |
@@ -9926,7 +9926,7 @@
 | 9914 | only | chỉ, duy nhất |  | Word Skills Basic, Oxford 3000 · A1 · adj, adv |
 | 9915 | only child | con một |  | Word Skills Intermediate, Destination C1–C2 · collocation |
 | 9916 | only just | vừa mới; vừa đủ |  | Word Skills Advanced |
-| 9917 | only too eager to do |  |  | Destination C1–C2 · collocation |
+| 9917 | only too eager to do | rất sẵn lòng làm |  | Destination C1–C2 · collocation |
 | 9918 | onone’sown | onone 'sown |  | TOEIC (Hackers) |
 | 9919 | onsale | Giảm giá; đưa ra bán |  | TOEIC (Hackers) |
 | 9920 | onthe edge of | ở rìa của; Ở rìa thành phố. |  | TOEIC (Hackers) |
@@ -9938,8 +9938,8 @@
 | 9926 | opaque | mờ đục |  | Word Skills Advanced |
 | 9927 | open | mở cửa |  | Word Skills Basic, Oxford 3000 · A1 · adj, v |
 | 9928 | Open educational resources | Tài liệu giáo dục mở | /ˈoʊpən ˌɛdʒʊˈkeɪʃənəl ˈriːsɔːrsɪz/ | IELTS · Education |
-| 9929 | open prison |  |  | Destination C1–C2 · collocation |
-| 9930 | open to doubt |  |  | Destination C1–C2 · collocation |
+| 9929 | open prison | trại giam mở |  | Destination C1–C2 · collocation |
+| 9930 | open to doubt | còn đáng ngờ |  | Destination C1–C2 · collocation |
 | 9931 | open up | mở lòng; mở ra (cơ hội) (= make it easier to travel or do business in a country) (= open a locked door, container or building) (= talk more about your personal feelings and experiences) |  | Destination C1–C2 · phrasal verb |
 | 9932 | open-minded | cởi mở |  | Word Skills Advanced |
 | 9933 | opening | số cửa |  | TOEIC (Hackers), Oxford 3000 · B2 · n |
@@ -9970,7 +9970,7 @@
 | 9958 | opt | chọn |  | Oxford 5000 · C1 · v |
 | 9959 | opt for | chọn |  | Destination C1–C2 · collocation |
 | 9960 | opt out (of) | chọn không tham gia (= decide not to take part in something or stop taking part in it) |  | Destination C1–C2 · phrasal verb |
-| 9961 | opt to do |  |  | Destination C1–C2 · collocation |
+| 9961 | opt to do | chọn làm |  | Destination C1–C2 · collocation |
 | 9962 | optical | quang học |  | Oxford 5000 · C1 · adj |
 | 9963 | Optics | Quang học | /ˈɑptɪks/ | IELTS · Science |
 | 9964 | optimal | Tối ưu |  | TOEIC (Hackers) |
@@ -10005,7 +10005,7 @@
 | 9993 | Organic | Hữu cơ | /ɔrˈɡænɪk/ | IELTS · Countryside, IELTS · Food and Drink, Oxford 5000 · B2 · adj |
 | 9994 | Organic chemistry | Hóa học hữu cơ | /ɔrˈgænɪk ˈkɛmɪstri/ | IELTS · Science |
 | 9995 | Organic farming | Nông nghiệp hữu cơ | /ɔrˈɡænɪk ˈfɑːrmɪŋ/ | IELTS · Environment, IELTS · Countryside |
-| 9996 | organised crime |  |  | Destination C1–C2 · collocation |
+| 9996 | organised crime | tội phạm có tổ chức |  | Destination C1–C2 · collocation |
 | 9997 | organist | người chơi đàn organ |  | Word Skills Intermediate |
 | 9998 | organization | tồ chức, cơ quan |  | TOEIC (Hackers), Oxford 3000 · A2 · n |
 | 9999 | organizational | tổ chức |  | Oxford 5000 · C1 · adj |
@@ -10036,28 +10036,28 @@
 | 10024 | ourselves | chính chúng tôi |  | Oxford 3000 · A2 · pron |
 | 10025 | oust | lật đổ |  | Word Skills Advanced |
 | 10026 | out | bị loại |  | Oxford 3000 · A1 · adv, prep |
-| 10027 | out (of) the window |  |  | Destination C1–C2 · collocation |
+| 10027 | out (of) the window | bị vứt bỏ |  | Destination C1–C2 · collocation |
 | 10028 | out loud | thành tiếng |  | Word Skills Intermediate |
 | 10029 | out of | ra khỏi; hết |  | Word Skills Basic/Advanced |
-| 10030 | out of a job |  |  | Destination C1–C2 · collocation |
-| 10031 | out of consideration for |  |  | Destination C1–C2 · collocation |
+| 10030 | out of a job | thất nghiệp |  | Destination C1–C2 · collocation |
+| 10031 | out of consideration for | vì nghĩ cho |  | Destination C1–C2 · collocation |
 | 10032 | out of focus | mờ, không rõ nét |  | Word Skills Intermediate, Destination C1–C2 · collocation |
-| 10033 | out of from into thin air |  |  | Destination C1–C2 · collocation |
+| 10033 | out of from into thin air | từ hư không / biến mất tăm |  | Destination C1–C2 · collocation |
 | 10034 | out of hand | không kiếm soát được |  | Word Skills Advanced |
 | 10035 | out of hours | ngoài giờ |  | Word Skills Advanced, Destination C1–C2 · collocation |
-| 10036 | out of in work |  |  | Destination C1–C2 · collocation |
+| 10036 | out of in work | thất nghiệp / có việc làm |  | Destination C1–C2 · collocation |
 | 10037 | out of luck | không may |  | Word Skills Advanced |
 | 10038 | out of order | thang máy mất trật tự (vui lòng sử dụng cầu thang) |  | TOEIC (Hackers), Word Skills Basic/Intermediate |
 | 10039 | out of paper | hết giấy |  | TOEIC (Hackers) |
-| 10040 | out of perspective |  |  | Destination C1–C2 · collocation |
-| 10041 | out of place |  |  | Destination C1–C2 · collocation |
+| 10040 | out of perspective | lệch lạc, không đúng mức |  | Destination C1–C2 · collocation |
+| 10041 | out of place | lạc lõng, không đúng chỗ |  | Destination C1–C2 · collocation |
 | 10042 | out of print | không còn để bán nữa |  | TOEIC (Hackers), Destination C1–C2 · collocation |
 | 10043 | out of respect | vì tôn trọng |  | Word Skills Advanced |
 | 10044 | out of season | trái mùa |  | Word Skills Advanced |
 | 10045 | out of sight | khuất tầm nhìn |  | Word Skills Advanced |
 | 10046 | out of sight, out of mind | xa mặt cách lòng |  | Word Skills Advanced |
 | 10047 | out of stock | hết hàng |  | TOEIC (Hackers) |
-| 10048 | out of style |  |  | Destination C1–C2 · collocation |
+| 10048 | out of style | lỗi mốt |  | Destination C1–C2 · collocation |
 | 10049 | out of the blue | bất ngờ (= happening in a way that is sudden and unexpected, and does not seem connected with anythin…) |  | Word Skills Intermediate, Destination C1–C2 · idiom |
 | 10050 | out of the question | không thể được |  | Destination C1–C2 · collocation |
 | 10051 | out of this world | tuyệt vời, xuất sắc/ ngon, xịn không tưởng (= extremely good or impressive) |  | Destination C1–C2 · idiom |
@@ -10118,7 +10118,7 @@
 | 10106 | over-optimistic | quá lạc quan |  | Word Skills Intermediate |
 | 10107 | over-the-counter medicine | qua quầy thuốc |  | TOEIC (Hackers) |
 | 10108 | overall | toàn bộ, bao gồm , khắc phục |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · adj, adv |
-| 10109 | overall charge |  |  | Destination C1–C2 · collocation |
+| 10109 | overall charge | toàn quyền phụ trách |  | Destination C1–C2 · collocation |
 | 10110 | Overalls | Quần yếm | /oʊ.vɚ.ɑːlz/ | IELTS · Fashion |
 | 10111 | overbook | lưu khoang quá nhiều |  | TOEIC (Hackers), Word Skills Advanced |
 | 10112 | Overcast | U ám | /ˌoʊvərˈkæst/ | IELTS · Weather |
@@ -10240,9 +10240,9 @@
 | 10228 | paper clip | kẹp giấy |  | Word Skills Advanced |
 | 10229 | paper jam | kẹt giấy |  | Word Skills Advanced |
 | 10230 | paper jam FO paycheck | tiền lương FO kẹt giấy |  | TOEIC (Hackers) |
-| 10231 | paper over | (= hide a problem or disagreement rather than finding a satisfactory solution to it) (= the cracks) |  | Destination C1–C2 · phrasal verb, Destination C1–C2 · collocation |
-| 10232 | paper qualifications |  |  | Destination C1–C2 · collocation |
-| 10233 | paper round |  |  | Destination C1–C2 · collocation |
+| 10231 | paper over | che đậy, lấp liếm (vấn đề) (= hide a problem or disagreement rather than finding a satisfactory solution to it) (= the cracks) |  | Destination C1–C2 · phrasal verb, Destination C1–C2 · collocation |
+| 10232 | paper qualifications | bằng cấp trên giấy tờ |  | Destination C1–C2 · collocation |
+| 10233 | paper round | việc giao báo |  | Destination C1–C2 · collocation |
 | 10234 | paper shop | quầy báo |  | Word Skills Basic |
 | 10235 | paperback | sách bìa mềm |  | Word Skills Intermediate |
 | 10236 | papers | giấy tờ |  | TOEIC (Hackers) |
@@ -10291,7 +10291,7 @@
 | 10279 | parting | đường ngôi tóc; sự chia tay |  | Word Skills Intermediate |
 | 10280 | partition | phân chia quyền lợi |  | TOEIC (Hackers) |
 | 10281 | partly | một phần |  | Word Skills Intermediate, Oxford 3000 · B2 · adv |
-| 10282 | partly/mainly/all about |  |  | Destination C1–C2 · collocation |
+| 10282 | partly/mainly/all about | một phần / chủ yếu / hoàn toàn là về |  | Destination C1–C2 · collocation |
 | 10283 | partner | bạn đời |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 10284 | partnership | sự cộng tác |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · B2 · n |
 | 10285 | party | tiệc, buổi liên hoan; đảng |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · n |
@@ -10299,16 +10299,16 @@
 | 10287 | pass an exam | thi đỗ |  | Word Skills Basic |
 | 10288 | pass around | Chuyền tay |  | TOEIC (Hackers) |
 | 10289 | pass away | qua đời |  | Word Skills Advanced |
-| 10290 | pass away/on | (= die (used to avoid saying 'die' when you think this might upset someone)) |  | Destination C1–C2 · phrasal verb |
+| 10290 | pass away/on | qua đời (= die (used to avoid saying 'die' when you think this might upset someone)) |  | Destination C1–C2 · phrasal verb |
 | 10291 | pass by | đi ngang qua |  | TOEIC (Hackers) |
 | 10292 | pass on | chuyển lời; truyền lại (= give someone something, for example a message, that someone else has given you) |  | Word Skills Advanced, Destination C1–C2 · phrasal verb |
 | 10293 | pass out | Ngất đi! |  | TOEIC (Hackers), Word Skills Intermediate |
 | 10294 | pass over | Đưa qua đi. |  | TOEIC (Hackers) |
-| 10295 | pass sentence |  |  | Destination C1–C2 · collocation |
+| 10295 | pass sentence | tuyên án |  | Destination C1–C2 · collocation |
 | 10296 | pass the buck | đổ trách nhiệm |  | Word Skills Advanced |
 | 10297 | pass the time | giết thời gian |  | TOEIC (Hackers), Destination C1–C2 · collocation |
 | 10298 | pass up | bỏ qua |  | TOEIC (Hackers) |
-| 10299 | pass/amend/repeal a law |  |  | Destination C1–C2 · collocation |
+| 10299 | pass/amend/repeal a law | thông qua / sửa đổi / bãi bỏ luật |  | Destination C1–C2 · collocation |
 | 10300 | passage | đoạn văn; lối đi |  | Word Skills Intermediate, Oxford 3000 · B2 · n |
 | 10301 | passenger | hành khách | /pæsəndʒər/ | TOEIC (Hackers), IELTS · Accident, Word Skills Basic, Oxford 3000 · A2 · n |
 | 10302 | passerby | người qua đường |  | TOEIC (Hackers), Word Skills Advanced |
@@ -10347,7 +10347,7 @@
 | 10335 | patron | thân chủ |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 10336 | patronize | bảo trợ |  | TOEIC (Hackers) |
 | 10337 | Pattern | Mẫu hoa văn | /pætərn/ | IELTS · Fashion, IELTS · Art, Oxford 3000 · A2 · n |
-| 10338 | pattern of behaviour |  |  | Destination C1–C2 · collocation |
+| 10338 | pattern of behaviour | kiểu hành vi |  | Destination C1–C2 · collocation |
 | 10339 | Patterned | Có hoa văn | /pæt.ərnd/ | IELTS · Fashion |
 | 10340 | paunch | bụng phệ |  | Word Skills Advanced |
 | 10341 | pause | tạm dừng |  | Word Skills Intermediate, Oxford 5000 · B2 · n, v |
@@ -10356,23 +10356,23 @@
 | 10344 | pavilion | tòa nhà lớn, cung, nhà triển lãm |  | TOEIC (Hackers) |
 | 10345 | Paws | Chân (của động vật có móng vuốt) | /pɔz/ | IELTS · Animal |
 | 10346 | pay | trả tiền |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · n, v |
-| 10347 | pay and display |  |  | Destination C1–C2 · collocation |
+| 10347 | pay and display | (bãi đỗ xe) trả tiền và đặt vé trên xe |  | Destination C1–C2 · collocation |
 | 10348 | pay attention | chú ý |  | Word Skills Advanced |
 | 10349 | pay back | trả nợ; trả đũa (= give someone the same amount of money that you borrowed from them) |  | Destination C1–C2 · phrasal verb |
-| 10350 | pay dearly for |  |  | Destination C1–C2 · collocation |
+| 10350 | pay dearly for | trả giá đắt cho |  | Destination C1–C2 · collocation |
 | 10351 | pay dispute | tranh chấp tiền lương |  | Word Skills Advanced |
-| 10352 | pay freeze |  |  | Destination C1–C2 · collocation |
-| 10353 | pay good money for |  |  | Destination C1–C2 · collocation |
+| 10352 | pay freeze | đóng băng lương |  | Destination C1–C2 · collocation |
+| 10353 | pay good money for | bỏ nhiều tiền cho |  | Destination C1–C2 · collocation |
 | 10354 | pay in cash | trả bằng tiền mặt |  | TOEIC (Hackers) |
 | 10355 | pay increase | tăng lương |  | TOEIC (Hackers) |
 | 10356 | pay off | trả hết |  | TOEIC (Hackers) |
 | 10357 | pay out | xuất tiền trả (= provide money from an amount invested over a period of time) (= spend or pay money, especially a lot of money) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
 | 10358 | pay raise | tăng lương |  | TOEIC (Hackers) |
-| 10359 | pay rise |  |  | Destination C1–C2 · collocation |
+| 10359 | pay rise | tăng lương |  | Destination C1–C2 · collocation |
 | 10360 | pay sb a compliment | khen ai |  | Word Skills Advanced, Destination C1–C2 · collocation |
-| 10361 | pay the penalty/price for |  |  | Destination C1–C2 · collocation |
-| 10362 | pay your (last) respects to |  |  | Destination C1–C2 · collocation |
-| 10363 | pay your way |  |  | Destination C1–C2 · collocation |
+| 10361 | pay the penalty/price for | trả giá cho |  | Destination C1–C2 · collocation |
+| 10362 | pay your (last) respects to | viếng, bày tỏ lòng tôn kính lần cuối |  | Destination C1–C2 · collocation |
+| 10363 | pay your way | tự trang trải chi phí |  | Destination C1–C2 · collocation |
 | 10364 | payable | sinh lợi |  | TOEIC (Hackers) |
 | 10365 | payment | payment |  | TOEIC (Hackers), Oxford 3000 · B1 · n |
 | 10366 | payment option | PHƯƠNG THỨC THANH TOÁN |  | TOEIC (Hackers) |
@@ -10381,7 +10381,7 @@
 | 10369 | PE (physical education) | giáo dục thể chất |  | Word Skills Basic |
 | 10370 | Peace | Hòa bình | /piːs/ | IELTS · History and Heritage, Word Skills Basic/Intermediate, Oxford 3000 · A2 · n |
 | 10371 | Peace and quiet | Sự yên bình và tĩnh lặng | /pis ænd ˈkwaɪ.ət/ | IELTS · Countryside |
-| 10372 | peace process |  |  | Destination C1–C2 · collocation |
+| 10372 | peace process | tiến trình hoà bình |  | Destination C1–C2 · collocation |
 | 10373 | peace settlement | thỏa thuận hòa bình |  | Word Skills Intermediate |
 | 10374 | Peaceful | Yên tĩnh | /ˈpiːsfl/ | IELTS · Countryside, Oxford 3000 · B1 · adj |
 | 10375 | Peacekeeping | Bảo đảm hòa bình | /piːsˈkiːpɪŋ/ | IELTS · History and Heritage, Word Skills Advanced |
@@ -10409,7 +10409,7 @@
 | 10397 | peer pressure | áp lực từ bạn bè |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 10398 | pejorative | mang nghĩa xấu |  | Word Skills Advanced |
 | 10399 | pen | bút mực |  | Word Skills Basic, Oxford 3000 · A1 · n |
-| 10400 | pen friend/pal |  |  | Destination C1–C2 · collocation |
+| 10400 | pen friend/pal | bạn qua thư |  | Destination C1–C2 · collocation |
 | 10401 | penalize | trừng phạt |  | TOEIC (Hackers) |
 | 10402 | penalty | hình phạt |  | TOEIC (Hackers), Oxford 5000 · B2 · n |
 | 10403 | pence | xu (số nhiều của penny) |  | Word Skills Intermediate |
@@ -10478,9 +10478,9 @@
 | 10466 | person | người |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 10467 | personal | cá nhân, riêng tư |  | TOEIC (Hackers), Oxford 3000 · A1 · adj |
 | 10468 | personal effects | vật dụng riêng |  | TOEIC (Hackers) |
-| 10469 | personal qualities |  |  | Destination C1–C2 · collocation |
+| 10469 | personal qualities | phẩm chất cá nhân |  | Destination C1–C2 · collocation |
 | 10470 | Personal stylists | Nhà tạo mẫu cá nhân, người tư vấn phong cách cá nhân. | /ˈpɜːrsənəl ˈstaɪlɪsts/ | IELTS · Celebrity |
-| 10471 | personal/parental/consumer choice |  |  | Destination C1–C2 · collocation |
+| 10471 | personal/parental/consumer choice | lựa chọn cá nhân / của cha mẹ / của người tiêu dùng |  | Destination C1–C2 · collocation |
 | 10472 | personality | tính cách |  | Word Skills Advanced, Oxford 3000 · A2 · n |
 | 10473 | personalize | cá nhân hóa |  | Word Skills Advanced |
 | 10474 | personally | cá nhân tôi; trực tiếp |  | Word Skills Basic/Intermediate/Advanced, Oxford 3000 · B1 · adv |
@@ -10554,7 +10554,7 @@
 | 10542 | pick | hái |  | Oxford 3000 · A2 · n, v |
 | 10543 | pick and choose | chọn lựa kỹ |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 10544 | pick on | bắt nạt, soi mói (= keep treating someone badly or unfairly, especially by criticising them) |  | Destination C1–C2 · phrasal verb |
-| 10545 | pick sb's brain(s) |  |  | Destination C1–C2 · collocation |
+| 10545 | pick sb's brain(s) | hỏi ý kiến chuyên môn của ai |  | Destination C1–C2 · collocation |
 | 10546 | pick sb/sth up | đón; nhặt |  | Word Skills Advanced |
 | 10547 | pick up | bán tải (= go and meet someone or something that you have arranged to take somewhere in a vehicle) (= learn a new skill or start a habit without intending to) |  | TOEIC (Hackers), Word Skills Basic/Intermediate/Advanced, Destination C1–C2 · phrasal verb |
 | 10548 | pick up one’s paycheck | nhận tiền lương của một người |  | TOEIC (Hackers) |
@@ -10568,9 +10568,9 @@
 | 10556 | piece | mảnh, miếng |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 10557 | piece by piece | Từng miếng một. |  | TOEIC (Hackers) |
 | 10558 | piece of paper | mảnh giấy |  | Word Skills Basic |
-| 10559 | piece of work |  |  | Destination C1–C2 · collocation |
+| 10559 | piece of work | công trình, tác phẩm; (người) khó chịu |  | Destination C1–C2 · collocation |
 | 10560 | piece together | chắp nối (= learn the truth about something by considering all the separate bits of information you ha…) |  | Destination C1–C2 · phrasal verb |
-| 10561 | piece/sheet of paper |  |  | Destination C1–C2 · collocation |
+| 10561 | piece/sheet of paper | tờ giấy |  | Destination C1–C2 · collocation |
 | 10562 | pier | trụ cầu |  | TOEIC (Hackers) |
 | 10563 | pig | con lợn |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 10564 | Pigs | Lợn | /pɪɡz/ | IELTS · Countryside |
@@ -10602,7 +10602,7 @@
 | 10590 | place | địa điểm |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · n, v |
 | 10591 | place an order | đặt hàng |  | TOEIC (Hackers) |
 | 10592 | place of origin | nơi gốc sản xuất (của sản phẩm) |  | TOEIC (Hackers) |
-| 10593 | place of work |  |  | Destination C1–C2 · collocation |
+| 10593 | place of work | nơi làm việc |  | Destination C1–C2 · collocation |
 | 10594 | placement | sự tìm việc |  | TOEIC (Hackers), Oxford 5000 · B2 · n |
 | 10595 | Plagiarism | Đạo văn | /ˈpleɪʤəˌrɪzəm/ | IELTS · Education |
 | 10596 | plague | bệnh dịch; quấy nhiễu |  | Word Skills Advanced |
@@ -10625,15 +10625,15 @@
 | 10613 | play | chơi |  | Word Skills Basic, Oxford 3000 · A1 · n, v |
 | 10614 | play a part | góp phần |  | Word Skills Advanced |
 | 10615 | play a role in | đóng một vai trò trong |  | TOEIC (Hackers) |
-| 10616 | play against/for |  |  | Destination C1–C2 · collocation |
-| 10617 | play at |  |  | Destination C1–C2 · collocation |
+| 10616 | play against/for | đấu với / chơi cho (đội) |  | Destination C1–C2 · collocation |
+| 10617 | play at | chơi trò; làm cho có |  | Destination C1–C2 · collocation |
 | 10618 | Play by ear | Chơi theo cảm nhận, không theo kịch bản | /pleɪ baɪ ɪər/ | IELTS · Entertainment and media |
-| 10619 | play by yourself |  |  | Destination C1–C2 · collocation |
+| 10619 | play by yourself | chơi một mình |  | Destination C1–C2 · collocation |
 | 10620 | play cards | chơi bài |  | TOEIC (Hackers) |
 | 10621 | play for time | câu giờ (đế trì hoãn) |  | Destination C1–C2 · collocation |
-| 10622 | play sth by ear |  |  | Destination C1–C2 · collocation |
-| 10623 | play the fool |  |  | Destination C1–C2 · collocation |
-| 10624 | play up | (= cause difficulties or pain for someone) (= if children play up or play someone up, they behave badly) |  | Destination C1–C2 · phrasal verb |
+| 10622 | play sth by ear | tuỳ cơ ứng biến |  | Destination C1–C2 · collocation |
+| 10623 | play the fool | làm trò hề |  | Destination C1–C2 · collocation |
+| 10624 | play up | gây khó chịu, hành (đau); (trẻ con) quậy phá (= cause difficulties or pain for someone) (= if children play up or play someone up, they behave badly) |  | Destination C1–C2 · phrasal verb |
 | 10625 | player | cầu thủ, người chơi |  | Oxford 3000 · A1 · n |
 | 10626 | playing field | Sân chơi |  | TOEIC (Hackers) |
 | 10627 | plaza | quảng trường | /ˈplɑːzə/ | TOEIC (Hackers), IELTS · Housing and Architecture |
@@ -10681,8 +10681,8 @@
 | 10669 | poil | chần chừ |  | TOEIC (Hackers) |
 | 10670 | point | điểm (= purpose; shape) |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · A1 · n, v |
 | 10671 | point at | Chỉ tới |  | TOEIC (Hackers) |
-| 10672 | point at/to/towards sth |  |  | Destination C1–C2 · collocation |
-| 10673 | point of view |  |  | Destination C1–C2 · collocation |
+| 10672 | point at/to/towards sth | chỉ vào / về phía cái gì |  | Destination C1–C2 · collocation |
+| 10673 | point of view | quan điểm |  | Destination C1–C2 · collocation |
 | 10674 | point out | Chỉ ra: |  | TOEIC (Hackers) |
 | 10675 | pointed | nhọn, có đầu nhọn |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · adj |
 | 10676 | pointless | vô nghĩa |  | Word Skills Advanced |
@@ -10707,11 +10707,11 @@
 | 10695 | polish | nước bóng; đánh bóng |  | TOEIC (Hackers), Word Skills Basic/Intermediate |
 | 10696 | Polished | Lịch thiệp | /pɑːlɪʃt/ | IELTS · Appearance |
 | 10697 | polite | lịch sự |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · adj |
-| 10698 | polite company |  |  | Destination C1–C2 · collocation |
-| 10699 | polite conversation |  |  | Destination C1–C2 · collocation |
-| 10700 | polite of |  |  | Destination C1–C2 · collocation |
-| 10701 | polite society |  |  | Destination C1–C2 · collocation |
-| 10702 | polite to |  |  | Destination C1–C2 · collocation |
+| 10698 | polite company | chốn lịch sự |  | Destination C1–C2 · collocation |
+| 10699 | polite conversation | chuyện xã giao |  | Destination C1–C2 · collocation |
+| 10700 | polite of | thật lịch sự của (ai) |  | Destination C1–C2 · collocation |
+| 10701 | polite society | giới thượng lưu |  | Destination C1–C2 · collocation |
+| 10702 | polite to | lịch sự với |  | Destination C1–C2 · collocation |
 | 10703 | politely | lễ phép, lịch sự |  | TOEIC (Hackers) |
 | 10704 | political | chính trị |  | Oxford 3000 · B1 · adj |
 | 10705 | political asylum | tị nạn chính trị |  | Word Skills Advanced |
@@ -10735,11 +10735,11 @@
 | 10723 | Ponzi scheme | Mô hình lừa đảo Ponzi | /pɑnzi skiːm/ | IELTS · Crime |
 | 10724 | pool | bida lỗ; bể bơi |  | Word Skills Intermediate/Advanced, Oxford 3000 · A1 · n |
 | 10725 | poor | nghèo; kém |  | Word Skills Basic, Oxford 3000 · A1 · adj |
-| 10726 | poor girl/boy/etc |  |  | Destination C1–C2 · collocation |
-| 10727 | poor loser |  |  | Destination C1–C2 · collocation |
-| 10728 | poor old |  |  | Destination C1–C2 · collocation |
-| 10729 | poor relation |  |  | Destination C1–C2 · collocation |
-| 10730 | poor/bad/low quality |  |  | Destination C1–C2 · collocation |
+| 10726 | poor girl/boy/etc | cô bé / cậu bé tội nghiệp |  | Destination C1–C2 · collocation |
+| 10727 | poor loser | người thua mà không biết chấp nhận |  | Destination C1–C2 · collocation |
+| 10728 | poor old | tội nghiệp (ai) |  | Destination C1–C2 · collocation |
+| 10729 | poor relation | kẻ thua kém (trong nhóm) |  | Destination C1–C2 · collocation |
+| 10730 | poor/bad/low quality | chất lượng kém |  | Destination C1–C2 · collocation |
 | 10731 | poorly | Nghèo |  | TOEIC (Hackers) |
 | 10732 | poorly paid | được trả lương thấp |  | TOEIC (Hackers) |
 | 10733 | Pop | Nhạc pop | /pɑp/ | IELTS · Music, Word Skills Intermediate, Oxford 3000 · A2 · adj, n, v |
@@ -10749,7 +10749,7 @@
 | 10737 | pop round | ghé qua |  | Word Skills Advanced |
 | 10738 | pop up | Pop-up |  | TOEIC (Hackers) |
 | 10739 | popular | phổ biến |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · adj |
-| 10740 | popular/widely held/widespread/firm/strong/growing belief |  |  | Destination C1–C2 · collocation |
+| 10740 | popular/widely held/widespread/firm/strong/growing belief | niềm tin phổ biến / rộng rãi / vững chắc / ngày càng tăng |  | Destination C1–C2 · collocation |
 | 10741 | popularity | sự phổ biến |  | Oxford 3000 · B2 · n |
 | 10742 | popularize | Phổ biến |  | TOEIC (Hackers), Word Skills Advanced |
 | 10743 | populated | có dân cư |  | Word Skills Advanced |
@@ -10771,7 +10771,7 @@
 | 10759 | Portugal | Bồ Đào Nha |  | Word Skills Basic |
 | 10760 | Portuguese | (thuộc) Bồ Đào Nha; người Bồ Đào Nha |  | Word Skills Basic |
 | 10761 | pose | đưa ra, để ra, đặt |  | TOEIC (Hackers), Oxford 3000 · B2 · v |
-| 10762 | pose a risk to |  |  | Destination C1–C2 · collocation |
+| 10762 | pose a risk to | gây rủi ro cho |  | Destination C1–C2 · collocation |
 | 10763 | pose a threat (to) | gây mối đe dọa |  | Destination C1–C2 · collocation |
 | 10764 | pose a threat to | đe dọa |  | Word Skills Advanced |
 | 10765 | posh | sang trọng |  | Word Skills Advanced |
@@ -10819,12 +10819,12 @@
 | 10807 | POW (Prisoner of War) | Tù binh | /ˈpiːoʊˌdʌbəljuː/ | IELTS · History and Heritage |
 | 10808 | powder | thuốc bột |  | Oxford 3000 · B1 · n |
 | 10809 | power | công suất; Sức mạnh, quyền lực; Điện năng, sức mạnh | /ˈpaʊər/ | TOEIC (Hackers), IELTS · Environment, IELTS · Energy, Oxford 3000 · A2 · n, v |
-| 10810 | power base |  |  | Destination C1–C2 · collocation |
+| 10810 | power base | cơ sở quyền lực |  | Destination C1–C2 · collocation |
 | 10811 | Power plant | Nhà máy điện | /ˈpaʊər plænt/ | IELTS · Environment, IELTS · Energy |
-| 10812 | power structure |  |  | Destination C1–C2 · collocation |
-| 10813 | power struggle |  |  | Destination C1–C2 · collocation |
+| 10812 | power structure | cơ cấu quyền lực |  | Destination C1–C2 · collocation |
+| 10813 | power struggle | tranh giành quyền lực |  | Destination C1–C2 · collocation |
 | 10814 | Power struggles | Cuộc tranh đấu quyền lực | /paʊər ˈstrʌɡəlz/ | IELTS · Family and Relationships |
-| 10815 | power to do |  |  | Destination C1–C2 · collocation |
+| 10815 | power to do | quyền / khả năng làm |  | Destination C1–C2 · collocation |
 | 10816 | powerful | hùng mạnh, hùng cường; Mạnh mẽ, có sức mạnh | /paʊərfəl/ | TOEIC (Hackers), IELTS · Appearance, Word Skills Intermediate, Oxford 3000 · B1 · adj |
 | 10817 | Powerful themes | Chủ đề mạnh mẽ | /ˈpaʊərfəl θiːmz/ | IELTS · Film |
 | 10818 | powerless | bất lực |  | Word Skills Intermediate |
@@ -10836,11 +10836,11 @@
 | 10824 | practice | thực hành, thực tiễn |  | TOEIC (Hackers), Oxford 3000 · A1 · n, v |
 | 10825 | practice makes perfect | Có công mài sắt có ngày nên kim. |  | Word Skills Advanced |
 | 10826 | practise | luyện tập |  | Oxford 3000 · A1 · v |
-| 10827 | practise law |  |  | Destination C1–C2 · collocation |
+| 10827 | practise law | hành nghề luật |  | Destination C1–C2 · collocation |
 | 10828 | practitioner | Học viên |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 10829 | pragmatic | thực dụng |  | TOEIC (Hackers) |
 | 10830 | praise | ca ngợi, tán dương, lòng tôn kính |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · n, v |
-| 10831 | praise sb for doing |  |  | Destination C1–C2 · collocation |
+| 10831 | praise sb for doing | khen ai vì đã làm |  | Destination C1–C2 · collocation |
 | 10832 | prawns | tôm |  | Word Skills Basic |
 | 10833 | pray | cầu nguyện |  | Oxford 3000 · B1 · v |
 | 10834 | prayer | lời cầu nguyện |  | Oxford 3000 · B1 · n |
@@ -10850,7 +10850,7 @@
 | 10838 | precede | trước |  | TOEIC (Hackers), Oxford 5000 · B2 · v |
 | 10839 | precedent | tiền lệ |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · n |
 | 10840 | precious | Quý giá |  | TOEIC (Hackers), Oxford 5000 · B2 · adj |
-| 10841 | precious metal |  |  | Destination C1–C2 · collocation |
+| 10841 | precious metal | kim loại quý |  | Destination C1–C2 · collocation |
 | 10842 | preciously | quý giá |  | TOEIC (Hackers) |
 | 10843 | precipitation | sự tạo thành cặn; Mưa, lượng mưa | /prɪˌsɪpɪˈteɪʃən/ | TOEIC (Hackers), IELTS · Weather |
 | 10844 | precise | rõ ràng, chính xác; tỉ mỉ, kỹ tính |  | TOEIC (Hackers), Oxford 5000 · B2 · adj |
@@ -10867,9 +10867,9 @@
 | 10855 | predominantly | Chủ yếu |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · adv |
 | 10856 | preeminent | ưu việt |  | TOEIC (Hackers) |
 | 10857 | prefer | thích hơn |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A1 · v |
-| 10858 | prefer (sb) to do |  |  | Destination C1–C2 · collocation |
-| 10859 | prefer doing |  |  | Destination C1–C2 · collocation |
-| 10860 | prefer sth to |  |  | Destination C1–C2 · collocation |
+| 10858 | prefer (sb) to do | muốn (ai) làm hơn |  | Destination C1–C2 · collocation |
+| 10859 | prefer doing | thích làm hơn |  | Destination C1–C2 · collocation |
+| 10860 | prefer sth to | thích cái gì hơn |  | Destination C1–C2 · collocation |
 | 10861 | preference | sở thích |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · B2 · n |
 | 10862 | Preferences | Sở thích | /ˈprɛfərənsɪz/ | IELTS · Advertising |
 | 10863 | preferential treatment | sự đãi ngộ ưu đãi |  | TOEIC (Hackers) |
@@ -10900,7 +10900,7 @@
 | 10888 | Prescription | Đơn thuốc | /prɪˈskrɪpʃən/ | IELTS · Health, Oxford 5000 · C1 · n |
 | 10889 | presence | sự hiện diện |  | Oxford 3000 · B2 · n |
 | 10890 | present | có mặt |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · A1 · adj, n, v |
-| 10891 | (present/write/etc) a paper on |  |  | Destination C1–C2 · collocation |
+| 10891 | (present/write/etc) a paper on | (trình bày / viết) bài nghiên cứu về |  | Destination C1–C2 · collocation |
 | 10892 | presentation | bài thuyết trình, trình diện, giới thiệu; Bày trí, trình bày | /prɛzənˈteɪʃən/ | TOEIC (Hackers), IELTS · Food and Drink, Word Skills Advanced, Oxford 3000 · B1 · n |
 | 10893 | presently | Hiện tại |  | TOEIC (Hackers), Oxford 5000 · C1 · adv |
 | 10894 | Preservation | Bảo tồn | /ˌprɛzərˈveɪʃən/ | IELTS · Culture, Word Skills Advanced, Oxford 5000 · C1 · n |
@@ -10913,7 +10913,7 @@
 | 10901 | presidential | thuộc tổng thống |  | Oxford 5000 · C1 · adj |
 | 10902 | presiding | Chủ trì: |  | TOEIC (Hackers) |
 | 10903 | press | ép, nén, bóp, ấn |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n, v |
-| 10904 | press ahead/on (with) | (= continue doing something in a determined way, despite difficulties, opposition or interrup…) |  | Destination C1–C2 · phrasal verb |
+| 10904 | press ahead/on (with) | kiên trì tiếp tục, xúc tiến (= continue doing something in a determined way, despite difficulties, opposition or interrup…) |  | Destination C1–C2 · phrasal verb |
 | 10905 | Press conference | Họp báo | /prɛs ˈkɒnfərəns/ | IELTS · Entertainment and media |
 | 10906 | Press conferences | Họp báo, cuộc họp báo | /prɛs kɑnˈfɛrənsɪz/ | IELTS · Celebrity |
 | 10907 | Press release | Thông cáo báo chí | /prɛs rɪˈliːs/ | IELTS · Advertising |
@@ -10945,7 +10945,7 @@
 | 10933 | priced | có giá |  | TOEIC (Hackers) |
 | 10934 | pricetag | giá tiền |  | Word Skills Advanced |
 | 10935 | Pride | Bầy (sư tử) | /praɪd/ | IELTS · Animal, Oxford 5000 · B2 · n |
-| 10936 | pride of place in | (= the place that is most central or important) |  | Destination C1–C2 · idiom |
+| 10936 | pride of place in | vị trí trang trọng nhất (= the place that is most central or important) |  | Destination C1–C2 · idiom |
 | 10937 | priest | linh mục |  | Oxford 3000 · B1 · n |
 | 10938 | primarily | trước hết, đầu tiên |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · B2 · adv |
 | 10939 | primary | chính; tiểu học |  | Oxford 3000 · B1 · adj |
@@ -10960,14 +10960,14 @@
 | 10948 | Principal | Hiệu trưởng; hiệu trưởng (= chính) (= = primary) | /ˈprɪnsɪpəl/ | IELTS · Education, Oxford 3000 · B2 · adj, n, TOEIC (Hackers) |
 | 10949 | principal concern | mối quan tâm chính |  | Word Skills Advanced |
 | 10950 | principle | cơ bản, chủ yếu; nguyên lý, nguyên tắc |  | TOEIC (Hackers), Oxford 3000 · B2 · n |
-| 10951 | principle of sth |  |  | Destination C1–C2 · collocation |
-| 10952 | principle that |  |  | Destination C1–C2 · collocation |
+| 10951 | principle of sth | nguyên lý của |  | Destination C1–C2 · collocation |
+| 10952 | principle that | nguyên tắc rằng |  | Destination C1–C2 · collocation |
 | 10953 | principles | nguyên tắc |  | Word Skills Advanced |
 | 10954 | print | in |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · n, v |
 | 10955 | Print advertising | Quảng cáo in ấn | /prɪnt ˈædvərˌtaɪzɪŋ/ | IELTS · Advertising |
-| 10956 | print in |  |  | Destination C1–C2 · collocation |
+| 10956 | print in | in bằng (màu, khổ) |  | Destination C1–C2 · collocation |
 | 10957 | Print media | Phương tiện truyền thông in ấn | /prɪnt ˈmidiə/ | IELTS · Advertising |
-| 10958 | print on |  |  | Destination C1–C2 · collocation |
+| 10958 | print on | in lên |  | Destination C1–C2 · collocation |
 | 10959 | print out | in ra |  | TOEIC (Hackers) |
 | 10960 | print something out | in ra |  | Word Skills Basic |
 | 10961 | printer | máy in |  | Word Skills Basic, Oxford 3000 · A2 · n |
@@ -10979,11 +10979,11 @@
 | 10967 | prioritize | Ưu tiên |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · v |
 | 10968 | Priority | Mức ưu tiên |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · B2 · n |
 | 10969 | Prison | Nhà tù | /prɪzən/ | IELTS · Crime, Oxford 3000 · A2 · n |
-| 10970 | prison officer |  |  | Destination C1–C2 · collocation |
+| 10970 | prison officer | quản giáo |  | Destination C1–C2 · collocation |
 | 10971 | Prison reform | Cải cách hệ thống tù tội | /ˈprɪzn riˈfɔrm/ | IELTS · Social issues, Destination C1–C2 · collocation |
-| 10972 | prison sentence |  |  | Destination C1–C2 · collocation |
-| 10973 | prison term |  |  | Destination C1–C2 · collocation |
-| 10974 | prison/jail term |  |  | Destination C1–C2 · collocation |
+| 10972 | prison sentence | án tù |  | Destination C1–C2 · collocation |
+| 10973 | prison term | thời hạn tù |  | Destination C1–C2 · collocation |
+| 10974 | prison/jail term | thời hạn tù |  | Destination C1–C2 · collocation |
 | 10975 | prisoner | tù nhân |  | Oxford 3000 · B1 · n |
 | 10976 | Privacy | Quyền riêng tư | /ˈpraɪvəsi/ | IELTS · Social issues, Word Skills Advanced, Oxford 3000 · B2 · n |
 | 10977 | Privacy concerns | Quan ngại về sự riêng tư | /ˈpraɪvəsi kənˈsɜːrnz/ | IELTS · Technology |
@@ -11081,7 +11081,7 @@
 | 11069 | proof | bằng chứng |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · B2 · n |
 | 11070 | proof of employment | bằng chứng về việc làm |  | TOEIC (Hackers) |
 | 11071 | prop against | chống lại |  | TOEIC (Hackers) |
-| 11072 | prop up | (= help a government, system, organisation, etc continue to exist, especially by providing fi…) (= stop something from falling by putting something under it or against it) |  | Destination C1–C2 · phrasal verb |
+| 11072 | prop up | chống đỡ; vực dậy, hỗ trợ (chính phủ, tổ chức) (= help a government, system, organisation, etc continue to exist, especially by providing fi…) (= stop something from falling by putting something under it or against it) |  | Destination C1–C2 · phrasal verb |
 | 11073 | Propaganda | Tuyên truyền, công propaganda | /ˌprɑpəˈɡændə/ | IELTS · History and Heritage, Oxford 5000 · C1 · n |
 | 11074 | propel | bộ đẩy |  | TOEIC (Hackers) |
 | 11075 | proper | đúng, thích đáng, thích hợp |  | TOEIC (Hackers), Oxford 3000 · B1 · adj |
@@ -11132,9 +11132,9 @@
 | 11120 | provision | sự cung cấp |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · n |
 | 11121 | provocation | sự khiêu khích |  | Word Skills Advanced |
 | 11122 | provoke | khiêu khích |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · v |
-| 11123 | provoke a reaction/ protest/response |  |  | Destination C1–C2 · collocation |
-| 11124 | provoke outrage |  |  | Destination C1–C2 · collocation |
-| 11125 | provoke sb into doing |  |  | Destination C1–C2 · collocation |
+| 11123 | provoke a reaction/ protest/response | gây ra phản ứng / phản đối |  | Destination C1–C2 · collocation |
+| 11124 | provoke outrage | gây phẫn nộ |  | Destination C1–C2 · collocation |
+| 11125 | provoke sb into doing | khiêu khích ai làm |  | Destination C1–C2 · collocation |
 | 11126 | proximity | sự gần gũi. |  | TOEIC (Hackers) |
 | 11127 | prudence | sự thận trọng |  | Word Skills Advanced |
 | 11128 | prune | tỉa cành |  | Word Skills Advanced |
@@ -11158,7 +11158,7 @@
 | 11146 | public holiday | ngày lễ chung |  | TOEIC (Hackers) |
 | 11147 | public house | quán rượu |  | Word Skills Intermediate |
 | 11148 | public library | Thư viện công cộng |  | TOEIC (Hackers) |
-| 11149 | public office |  |  | Destination C1–C2 · collocation |
+| 11149 | public office | chức vụ công |  | Destination C1–C2 · collocation |
 | 11150 | public park | công viên công cộng |  | TOEIC (Hackers) |
 | 11151 | Public pressure | Áp lực từ công chúng | /ˈpʌblɪk ˈprɛʃər/ | IELTS · Celebrity |
 | 11152 | public profile | Công khai hồ sơ |  | TOEIC (Hackers) |
@@ -11209,7 +11209,7 @@
 | 11197 | purchase order | đơn đặt (mua) hàng |  | TOEIC (Hackers) |
 | 11198 | Purchasing decisions | Quyết định mua hàng | /ˈpɜːrtʃəsɪŋ dɪˈsɪʒənz/ | IELTS · Advertising |
 | 11199 | pure | tinh khiết |  | Word Skills Advanced, Oxford 3000 · B2 · adj |
-| 11200 | pure/sheer chance |  |  | Destination C1–C2 · collocation |
+| 11200 | pure/sheer chance | hoàn toàn tình cờ |  | Destination C1–C2 · collocation |
 | 11201 | purely | hoàn toàn |  | Word Skills Advanced, Oxford 5000 · C1 · adv |
 | 11202 | purely by chance | hoàn toàn tình cờ |  | Word Skills Advanced |
 | 11203 | purify | tinh chế |  | TOEIC (Hackers), Word Skills Advanced |
@@ -11220,7 +11220,7 @@
 | 11208 | pursuit | sự theo đuổi |  | Word Skills Advanced, Oxford 5000 · B2 · n |
 | 11209 | push | đẩy |  | Word Skills Basic/Advanced, Oxford 3000 · A2 · n, v |
 | 11210 | push and shove | chen lấn xô đẩy |  | Word Skills Advanced |
-| 11211 | push around | (= keep telling someone what to do in an unfair or unpleasant way) |  | Destination C1–C2 · phrasal verb |
+| 11211 | push around | bắt nạt, sai khiến (= keep telling someone what to do in an unfair or unpleasant way) |  | Destination C1–C2 · phrasal verb |
 | 11212 | push back | đẩy lùi |  | TOEIC (Hackers) |
 | 11213 | push one’s way through | đẩy một cách của một người thông qua |  | TOEIC (Hackers) |
 | 11214 | push your luck | lạm dụng/ ÿ lại vào may mắn |  | Destination C1–C2 · collocation |
@@ -11228,9 +11228,9 @@
 | 11216 | put | đặt, để |  | Word Skills Basic/Advanced, Oxford 3000 · A1 · v |
 | 11217 | put A out for sale | đưa A RA bán |  | TOEIC (Hackers) |
 | 11218 | put a strain on | gây căng thẳng cho |  | TOEIC (Hackers), Word Skills Advanced |
-| 11219 | put across/over | (= explain an idea, belief, etc in a way that is easy to understand) |  | Destination C1–C2 · phrasal verb |
+| 11219 | put across/over | trình bày cho dễ hiểu, truyền đạt (= explain an idea, belief, etc in a way that is easy to understand) |  | Destination C1–C2 · phrasal verb |
 | 11220 | put Ain jeopardy | đặt Ain vào tình thế nguy hiểm |  | TOEIC (Hackers) |
-| 11221 | put an end to |  |  | Destination C1–C2 · collocation |
+| 11221 | put an end to | chấm dứt |  | Destination C1–C2 · collocation |
 | 11222 | put away | xếp dọn |  | TOEIC (Hackers) |
 | 11223 | put back | đặt lại; hoãn lại |  | Word Skills Intermediate |
 | 11224 | put down | Chết. |  | TOEIC (Hackers), Word Skills Intermediate |
@@ -11243,7 +11243,7 @@
 | 11231 | put in place | đưa vào vị trí |  | TOEIC (Hackers) |
 | 11232 | put in some overtime | làm thêm giờ |  | TOEIC (Hackers) |
 | 11233 | put into effect | thi hành |  | TOEIC (Hackers) |
-| 11234 | put into perspective |  |  | Destination C1–C2 · collocation |
+| 11234 | put into perspective | nhìn nhận đúng mức |  | Destination C1–C2 · collocation |
 | 11235 | put off | trì hoãn |  | TOEIC (Hackers), Word Skills Intermediate |
 | 11236 | put on | tho vao |  | TOEIC (Hackers) |
 | 11237 | put on an act | giả bộ, đóng kịch |  | Destination C1–C2 · collocation |
@@ -11251,38 +11251,38 @@
 | 11239 | put out | dập tắt; làm phiền |  | Word Skills Intermediate |
 | 11240 | put out a fire | dập lửa |  | Word Skills Advanced |
 | 11241 | put out for display | đưa ra để trưng bày |  | TOEIC (Hackers) |
-| 11242 | put pen to paper |  |  | Destination C1–C2 · collocation |
+| 11242 | put pen to paper | đặt bút viết |  | Destination C1–C2 · collocation |
 | 11243 | put sb at ease | làm ai thoải mái |  | Word Skills Advanced |
 | 11244 | put sb at their ease | làm ai thoải mái |  | Word Skills Advanced |
-| 11245 | put sb's life at risk |  |  | Destination C1–C2 · collocation |
+| 11245 | put sb's life at risk | đặt tính mạng ai vào nguy hiểm |  | Destination C1–C2 · collocation |
 | 11246 | put something away | cất đi |  | Word Skills Basic |
 | 11247 | put something down | đặt xuống |  | Word Skills Basic |
 | 11248 | Put something on | Phát sóng, chiếu cái gì đó | /pʊt ˈsʌmθɪŋ ɒn/ | IELTS · Entertainment and media, Word Skills Basic |
-| 11249 | put sth at risk |  |  | Destination C1–C2 · collocation |
+| 11249 | put sth at risk | đặt cái gì vào nguy hiểm |  | Destination C1–C2 · collocation |
 | 11250 | put sth down | đặt xuống; ghi lại |  | Word Skills Advanced |
 | 11251 | put sth in perspective | nhìn nhận vấn đề một cách đúng đắn (= provide a sensible way of judging how good, bad, important, etc something is in comparison…) |  | Destination C1–C2 · idiom |
-| 11252 | put sth in(to) place |  |  | Destination C1–C2 · collocation |
+| 11252 | put sth in(to) place | đưa vào áp dụng |  | Destination C1–C2 · collocation |
 | 11253 | put sth into (a bank account) | gửi vào (tài khoản) |  | Word Skills Advanced |
 | 11254 | put sth into practice | áp dụng vào thực tế |  | Word Skills Advanced |
 | 11255 | put sth into words | diễn đạt thành lời |  | Word Skills Advanced |
 | 11256 | put sth right | sửa sai |  | Word Skills Advanced |
 | 11257 | put sth to sleep | gây mê; cho chết êm (vật nuôi) |  | Word Skills Advanced |
-| 11258 | (put sth) on paper |  |  | Destination C1–C2 · collocation |
+| 11258 | (put sth) on paper | ghi ra giấy; trên lý thuyết |  | Destination C1–C2 · collocation |
 | 11259 | put together | lắp ráp (= choose people or things to form a team or group) (= make something by joining all its parts) (= produce or organise something using many different things) |  | Destination C1–C2 · phrasal verb |
 | 11260 | put two and two together | suy ra (= guess what is happening or ' what something means based on what you have seen or heard) |  | Destination C1–C2 · idiom |
 | 11261 | put up | dựng; cho ở nhờ; treo (= build something such as a wall, fence or house) (= let someone stay in your house) |  | Destination C1–C2 · phrasal verb |
 | 11262 | put up with | chịu đựng |  | TOEIC (Hackers) |
-| 11263 | put words in sb's mouth |  |  | Destination C1–C2 · collocation |
+| 11263 | put words in sb's mouth | gán lời cho ai |  | Destination C1–C2 · collocation |
 | 11264 | put your feet up | nghỉ ngơi, thư giãn (= sit down and relax, especially with your feet raised off the ground) |  | Word Skills Advanced, Destination C1–C2 · idiom |
 | 11265 | put your foot in it | lỡ lời |  | Word Skills Advanced |
 | 11266 | put your money where your mouth is | hành động đi đôi với lời nói |  | Destination C1–C2 · collocation |
-| 11267 | put/bring sth into effect |  |  | Destination C1–C2 · collocation |
-| 11268 | put/throw your energy into |  |  | Destination C1–C2 · collocation |
+| 11267 | put/bring sth into effect | đưa vào thực hiện |  | Destination C1–C2 · collocation |
+| 11268 | put/throw your energy into | dồn sức vào |  | Destination C1–C2 · collocation |
 | 11269 | puta rush | puta rush |  | TOEIC (Hackers) |
 | 11270 | putin | putin |  | TOEIC (Hackers), Word Skills Basic |
 | 11271 | puton | mặc vào; bật |  | Word Skills Intermediate |
 | 11272 | puzzle | câu đố; làm bối rối |  | Word Skills Advanced, Oxford 5000 · B2 · n |
-| 11273 | puzzle out | (= solve a confusing or complicated problem by thinking carefully about it) |  | Destination C1–C2 · phrasal verb |
+| 11273 | puzzle out | nghĩ ra, giải được (vấn đề khó) (= solve a confusing or complicated problem by thinking carefully about it) |  | Destination C1–C2 · phrasal verb |
 | 11274 | puzzled | bối rối |  | Word Skills Advanced |
 | 11275 | pyjamas | bộ đồ ngủ (Anh) |  | Word Skills Intermediate |
 | 11276 | qualification | chứng nhận |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B1 · n |
@@ -11290,11 +11290,11 @@
 | 11278 | qualified | đủ tư cách, điểu kiện, khả năng |  | TOEIC (Hackers), Oxford 3000 · B1 · adj |
 | 11279 | qualify | đủ khả năng, đủ tư cách, điểu kiện |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B1 · v |
 | 11280 | quality | chất lượng |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · n |
-| 11281 | quality control |  |  | Destination C1–C2 · collocation |
+| 11281 | quality control | kiểm soát chất lượng |  | Destination C1–C2 · collocation |
 | 11282 | quality control standards | tiêu chuẩn kiểm soát chất lượng |  | TOEIC (Hackers) |
-| 11283 | quality of life |  |  | Destination C1–C2 · collocation |
+| 11283 | quality of life | chất lượng cuộc sống |  | Destination C1–C2 · collocation |
 | 11284 | quality service | Chất lượng phục vụ |  | TOEIC (Hackers) |
-| 11285 | quality time |  |  | Destination C1–C2 · collocation |
+| 11285 | quality time | thời gian chất lượng (bên người thân) |  | Destination C1–C2 · collocation |
 | 11286 | quantify | định lượng |  | Word Skills Advanced |
 | 11287 | quantity | <g id="187">khối </g><g id="188"><br/></g><g id="190">lượng</g> |  | TOEIC (Hackers), Oxford 3000 · A2 · n |
 | 11288 | Quantum computing | Tính toán lượng tử | /ˈkwɑntəm kəmˈpjuːtɪŋ/ | IELTS · Science |
@@ -11364,7 +11364,7 @@
 | 11352 | rain | mưa |  | Word Skills Basic, Oxford 3000 · A1 · n, v |
 | 11353 | rain check | Tuyệt đấy |  | TOEIC (Hackers) |
 | 11354 | Rain gauge | Cái thước đo lượng mưa | /reɪn ɡeɪdʒ/ | IELTS · Weather |
-| 11355 | rain hard/heavily |  |  | Destination C1–C2 · collocation |
+| 11355 | rain hard/heavily | mưa to |  | Destination C1–C2 · collocation |
 | 11356 | rain shower | vòi hoa sen; Cơn mưa | /reɪn ˈʃaʊər/ | TOEIC (Hackers), IELTS · Weather |
 | 11357 | Rainbow | Cầu vồng | /ˈreɪnboʊ/ | IELTS · Weather, Word Skills Intermediate |
 | 11358 | raincoat | Áo mưa | /ˈreɪn.koʊt/ | TOEIC (Hackers), IELTS · Weather, Word Skills Basic |
@@ -11372,19 +11372,19 @@
 | 11360 | rainstorm | Mưa |  | TOEIC (Hackers) |
 | 11361 | Rainy | Mưa | /ˈreɪni/ | IELTS · Weather |
 | 11362 | raise | raise; Tăng lương | /reɪz/ | TOEIC (Hackers), IELTS · Employment, Word Skills Advanced, Oxford 3000 · A2 · n, v |
-| 11363 | raise a child family |  |  | Destination C1–C2 · collocation |
-| 11364 | raise a smile |  |  | Destination C1–C2 · collocation |
-| 11365 | raise an army |  |  | Destination C1–C2 · collocation |
+| 11363 | raise a child family | nuôi con / nuôi gia đình |  | Destination C1–C2 · collocation |
+| 11364 | raise a smile | làm ai mỉm cười |  | Destination C1–C2 · collocation |
+| 11365 | raise an army | tuyển quân |  | Destination C1–C2 · collocation |
 | 11366 | Raise awareness | Nâng cao nhận thức | /reɪz ; əˈweə.nəs/ | IELTS · Environment |
 | 11367 | raise capital | huy động vốn |  | Word Skills Intermediate |
-| 11368 | raise doubts |  |  | Destination C1–C2 · collocation |
+| 11368 | raise doubts | làm dấy lên nghi ngờ |  | Destination C1–C2 · collocation |
 | 11369 | raise funds | gây quỹ |  | Word Skills Advanced |
 | 11370 | raise one’s hand | giơ tay |  | TOEIC (Hackers) |
-| 11371 | raise sb's hopes/ expectations |  |  | Destination C1–C2 · collocation |
-| 11372 | raise sth with sb |  |  | Destination C1–C2 · collocation |
-| 11373 | raise the question (of) |  |  | Destination C1–C2 · collocation |
-| 11374 | raise your hand |  |  | Destination C1–C2 · collocation |
-| 11375 | raise your voice |  |  | Destination C1–C2 · collocation |
+| 11371 | raise sb's hopes/ expectations | làm ai hy vọng |  | Destination C1–C2 · collocation |
+| 11372 | raise sth with sb | nêu vấn đề với ai |  | Destination C1–C2 · collocation |
+| 11373 | raise the question (of) | đặt ra câu hỏi (về) |  | Destination C1–C2 · collocation |
+| 11374 | raise your hand | giơ tay |  | Destination C1–C2 · collocation |
+| 11375 | raise your voice | lên giọng |  | Destination C1–C2 · collocation |
 | 11376 | raised | Nâng Lên |  | TOEIC (Hackers) |
 | 11377 | raisins | nho khô |  | Word Skills Advanced |
 | 11378 | rake | cái cào |  | Word Skills Advanced |
@@ -11434,20 +11434,20 @@
 | 11422 | reach the solution | đạt được giải pháp |  | TOEIC (Hackers) |
 | 11423 | reach unanimous agreement | đạt được sự đồng thuận nhất trí |  | TOEIC (Hackers) |
 | 11424 | react | tác động trở lại, phản ứng |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · v |
-| 11425 | react accordingly/appropriately |  |  | Destination C1–C2 · collocation |
-| 11426 | react against |  |  | Destination C1–C2 · collocation |
-| 11427 | react by doing |  |  | Destination C1–C2 · collocation |
+| 11425 | react accordingly/appropriately | phản ứng phù hợp |  | Destination C1–C2 · collocation |
+| 11426 | react against | chống lại |  | Destination C1–C2 · collocation |
+| 11427 | react by doing | phản ứng bằng cách |  | Destination C1–C2 · collocation |
 | 11428 | react to | phản ứng với |  | TOEIC (Hackers), Destination C1–C2 · collocation |
-| 11429 | react with |  |  | Destination C1–C2 · collocation |
+| 11429 | react with | phản ứng với (hoá học) |  | Destination C1–C2 · collocation |
 | 11430 | reaction | phản ứng; phản tác dụng |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n |
-| 11431 | reaction against |  |  | Destination C1–C2 · collocation |
+| 11431 | reaction against | phản ứng chống lại |  | Destination C1–C2 · collocation |
 | 11432 | reactionary | phản động |  | Word Skills Advanced |
 | 11433 | read | đọc |  | Word Skills Basic, Oxford 3000 · A1 · v |
 | 11434 | read between the lines | hiểu ý ngầm |  | Destination C1–C2 · collocation |
-| 11435 | read sb like a book |  |  | Destination C1–C2 · collocation |
-| 11436 | read sb's lips |  |  | Destination C1–C2 · collocation |
-| 11437 | read sb's mind |  |  | Destination C1–C2 · collocation |
-| 11438 | read up | (= (on/about) get information on a particular subject by reading a lot about it) |  | Destination C1–C2 · phrasal verb |
+| 11435 | read sb like a book | đọc vị ai rõ như sách |  | Destination C1–C2 · collocation |
+| 11436 | read sb's lips | đọc khẩu hình ai |  | Destination C1–C2 · collocation |
+| 11437 | read sb's mind | đọc được suy nghĩ của ai |  | Destination C1–C2 · collocation |
+| 11438 | read up | đọc tìm hiểu kỹ (về chủ đề) (= (on/about) get information on a particular subject by reading a lot about it) |  | Destination C1–C2 · phrasal verb |
 | 11439 | read widely | đọc nhiều |  | Word Skills Intermediate |
 | 11440 | readable | dễ đọc |  | Word Skills Intermediate |
 | 11441 | reader | người đọc, độc giả |  | TOEIC (Hackers), Oxford 3000 · A1 · n |
@@ -11560,7 +11560,7 @@
 | 11548 | red | màu đỏ |  | Word Skills Basic, Oxford 3000 · A1 · adj, n |
 | 11549 | Red carpet | Thảm đỏ | /rɛd ˈkɑrpɪt/ | IELTS · Entertainment and media, IELTS · Fashion, IELTS · Film, IELTS · Celebrity |
 | 11550 | Red light | Đèn đỏ | /rɛd laɪt/ | IELTS · Accident |
-| 11551 | red tape | (= documents, rules or processes that cause delays) |  | Destination C1–C2 · idiom |
+| 11551 | red tape | thủ tục rườm rà, quan liêu (= documents, rules or processes that cause delays) |  | Destination C1–C2 · idiom |
 | 11552 | Red wine | Rượu vang đỏ | /rɛd waɪn/ | IELTS · Food and Drink |
 | 11553 | redeem | trả |  | TOEIC (Hackers) |
 | 11554 | redeemable | có thể bồi hoàn |  | TOEIC (Hackers) |
@@ -11659,12 +11659,12 @@
 | 11647 | rejection | sự từ chối |  | Word Skills Advanced, Oxford 5000 · C1 · n |
 | 11648 | relate | liên quan; đồng cảm |  | Word Skills Intermediate, Oxford 3000 · B1 · v |
 | 11649 | related | có liên quan, có quan hệ (= connected; in the same family) |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · adj |
-| 11650 | (related) by marriage |  |  | Destination C1–C2 · collocation |
+| 11650 | (related) by marriage | (họ hàng) bên vợ / chồng |  | Destination C1–C2 · collocation |
 | 11651 | relation | mối quan hệ, liên quan, liên lạc |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 11652 | relationship | mối quan hệ |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · n |
 | 11653 | relative | họ hàng |  | Word Skills Basic/Intermediate, Oxford 3000 · B1 · adj, n |
-| 11654 | relative clause/pronoun |  |  | Destination C1–C2 · collocation |
-| 11655 | relative to |  |  | Destination C1–C2 · collocation |
+| 11654 | relative clause/pronoun | mệnh đề / đại từ quan hệ |  | Destination C1–C2 · collocation |
+| 11655 | relative to | so với |  | Destination C1–C2 · collocation |
 | 11656 | relatively | có liên quan, có quan hệ |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B2 · adv |
 | 11657 | relax | giải trí, nghỉ ngơi |  | TOEIC (Hackers), Word Skills Basic/Advanced, Oxford 3000 · A1 · v |
 | 11658 | Relaxation | Sự thư giãn | /ˌriːlækˈseɪʃən/ | IELTS · Tourism |
@@ -11826,8 +11826,8 @@
 | 11814 | resounding | vang dội |  | Word Skills Advanced |
 | 11815 | resource | tài nguyên; kế sách, thủ đoạn |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 11816 | Respect | Sự tôn trọng | /rɪˈspɛkt/ | IELTS · Culture, IELTS · Family and Relationships, Word Skills Advanced, Oxford 3000 · B1 · n, v |
-| 11817 | respect sb as |  |  | Destination C1–C2 · collocation |
-| 11818 | respect sb for |  |  | Destination C1–C2 · collocation |
+| 11817 | respect sb as | tôn trọng ai như là |  | Destination C1–C2 · collocation |
+| 11818 | respect sb for | tôn trọng ai vì |  | Destination C1–C2 · collocation |
 | 11819 | respectful | Chào thuyền trưởng. |  | TOEIC (Hackers), Word Skills Advanced |
 | 11820 | respectfully | trân trọng. |  | TOEIC (Hackers) |
 | 11821 | respective | Tương ứng |  | TOEIC (Hackers), Oxford 5000 · C1 · adj |
@@ -11841,20 +11841,20 @@
 | 11829 | respiratory system | Hệ hô hấp | /rɪˈspɪrəˌtɔːri ˈsɪstəm/ | TOEIC (Hackers), IELTS · Health |
 | 11830 | respire | Hô hấp |  | TOEIC (Hackers) |
 | 11831 | respond | hưởng ứng, phản ứng lại, trả lời |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · v |
-| 11832 | respond in kind |  |  | Destination C1–C2 · collocation |
+| 11832 | respond in kind | đáp lại tương tự, ăn miếng trả miếng |  | Destination C1–C2 · collocation |
 | 11833 | respond to | Phản hồi |  | TOEIC (Hackers) |
 | 11834 | respondent | bị đơn |  | TOEIC (Hackers) |
 | 11835 | response | phản hồi |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 11836 | response as in | phản hồi |  | Word Skills Advanced |
-| 11837 | response from |  |  | Destination C1–C2 · collocation |
-| 11838 | response time |  |  | Destination C1–C2 · collocation |
-| 11839 | response to |  |  | Destination C1–C2 · collocation |
+| 11837 | response from | phản hồi từ |  | Destination C1–C2 · collocation |
+| 11838 | response time | thời gian phản hồi |  | Destination C1–C2 · collocation |
+| 11839 | response to | phản hồi đối với |  | Destination C1–C2 · collocation |
 | 11840 | responsibility | trách nhiệm, chịu trách nhiệm |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 11841 | responsible | chịu trách nhiệm về, chịu trách nhiệm trước ai (= having control; sensible) |  | TOEIC (Hackers), Word Skills Intermediate/Advanced, Oxford 3000 · B1 · adj |
 | 11842 | rest | nghỉ; Nghỉ ngơi | /rɛst/ | TOEIC (Hackers), IELTS · Health, Oxford 3000 · A2 · n, v, Word Skills Advanced |
-| 11843 | rest assured that |  |  | Destination C1–C2 · collocation |
+| 11843 | rest assured that | hãy yên tâm rằng |  | Destination C1–C2 · collocation |
 | 11844 | rest one’s chin on one’s hand | đặt cằm lên tay |  | TOEIC (Hackers) |
-| 11845 | rest sth on/against |  |  | Destination C1–C2 · collocation |
+| 11845 | rest sth on/against | đặt / tựa cái gì lên |  | Destination C1–C2 · collocation |
 | 11846 | Restaurant | Nhà hàng | /ˈrɛstrɒnt/ | IELTS · Tourism, Oxford 3000 · A1 · n |
 | 11847 | restless | bồn chồn |  | Word Skills Intermediate |
 | 11848 | restoration | trùng tu |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · n |
@@ -11923,8 +11923,8 @@
 | 11911 | Rhythm | Nhịp điệu | /ˈrɪðəm/ | IELTS · Art, IELTS · Music, Oxford 3000 · B2 · n |
 | 11912 | Rice | Cơm | /raɪs/ | IELTS · Food and Drink, Word Skills Basic, Oxford 3000 · A1 · n |
 | 11913 | Rich | Béo, giàu chất | /rɪtʃ/ | IELTS · Food and Drink, Word Skills Basic, Oxford 3000 · A1 · adj |
-| 11914 | rich and famous |  |  | Destination C1–C2 · collocation |
-| 11915 | rich in |  |  | Destination C1–C2 · collocation |
+| 11914 | rich and famous | giàu có và nổi tiếng |  | Destination C1–C2 · collocation |
+| 11915 | rich in | giàu (chất gì) |  | Destination C1–C2 · collocation |
 | 11916 | Richer nations | Những quốc gia giàu có hơn | /ˈrɪtʃər ˈneɪʃənz/ | IELTS · Globalization |
 | 11917 | Rickshaw | Xe xích lô; Xích lô | /ˈrɪk.ʃɔː/ | IELTS · Tourism, IELTS · Transportation |
 | 11918 | rid | loại bỏ |  | Oxford 3000 · B2 · v |
@@ -11936,12 +11936,12 @@
 | 11924 | ridiculously | lố bịch |  | TOEIC (Hackers) |
 | 11925 | Rifle | Súng trường | /ˈraɪfəl/ | IELTS · Weapons, Oxford 5000 · C1 · n |
 | 11926 | right | bên phải (= OK; correct; not left) |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · adj, adv, n |
-| 11927 | right (of sb) to do |  |  | Destination C1–C2 · collocation |
-| 11928 | right and wrong |  |  | Destination C1–C2 · collocation |
+| 11927 | right (of sb) to do | quyền (của ai) được làm |  | Destination C1–C2 · collocation |
+| 11928 | right and wrong | đúng và sai |  | Destination C1–C2 · collocation |
 | 11929 | right away | Đến đây |  | TOEIC (Hackers), Word Skills Advanced |
-| 11930 | right in saying/thinking/believing |  |  | Destination C1–C2 · collocation |
-| 11931 | right now |  |  | Destination C1–C2 · collocation |
-| 11932 | (right) from the start |  |  | Destination C1–C2 · collocation |
+| 11930 | right in saying/thinking/believing | nói / nghĩ / tin đúng |  | Destination C1–C2 · collocation |
+| 11931 | right now | ngay bây giờ |  | Destination C1–C2 · collocation |
+| 11932 | (right) from the start | ngay từ đầu |  | Destination C1–C2 · collocation |
 | 11933 | right-hand | bên phải |  | Word Skills Intermediate |
 | 11934 | right-wing | cánh hữu |  | Word Skills Advanced |
 | 11935 | rightly | đúng, phải, có lý |  | TOEIC (Hackers) |
@@ -11963,9 +11963,9 @@
 | 11951 | rising cost | chi phí gia tăng |  | TOEIC (Hackers) |
 | 11952 | Risk | Rủi ro | /rɪsk/ | IELTS · Accident, Word Skills Intermediate, Oxford 3000 · B1 · n, v |
 | 11953 | Risk Assessment | Đánh giá rủi ro | /rɪsk əˈsɛsmənt/ | IELTS · Accident, IELTS · Energy |
-| 11954 | risk doing |  |  | Destination C1–C2 · collocation |
-| 11955 | risk one's life |  |  | Destination C1–C2 · collocation |
-| 11956 | risk sth on |  |  | Destination C1–C2 · collocation |
+| 11954 | risk doing | liều làm |  | Destination C1–C2 · collocation |
+| 11955 | risk one's life | liều mạng |  | Destination C1–C2 · collocation |
+| 11956 | risk sth on | liều cái gì vào |  | Destination C1–C2 · collocation |
 | 11957 | risky | Rủi ro |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · B2 · adj |
 | 11958 | Risotto | Món risotto | /rɪˈzɑːtoʊ/ | IELTS · Food and Drink |
 | 11959 | ritual | nghi lễ |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
@@ -12030,12 +12030,12 @@
 | 12018 | rotation | sự luân phiên |  | Oxford 5000 · C1 · n |
 | 12019 | Rotunda | Hành lang tròn | /roʊˈtʌndə/ | IELTS · Housing and Architecture |
 | 12020 | rough | nhám, gồ ghề (of a surface) (of the sea) |  | TOEIC (Hackers), Oxford 3000 · B1 · adj, Word Skills Intermediate |
-| 12021 | rough guess |  |  | Destination C1–C2 · collocation |
+| 12021 | rough guess | ước đoán sơ bộ |  | Destination C1–C2 · collocation |
 | 12022 | roughly | khoảng; thô bạo |  | Word Skills Intermediate, Oxford 5000 · B2 · adv |
-| 12023 | roughly equal (to) |  |  | Destination C1–C2 · collocation |
+| 12023 | roughly equal (to) | gần bằng |  | Destination C1–C2 · collocation |
 | 12024 | Round | Tròn | /raʊnd/ | IELTS · Appearance, Word Skills Intermediate/Advanced, Oxford 3000 · A2 · adj, adv, n, prep |
 | 12025 | round about | khoảng |  | Word Skills Advanced |
-| 12026 | round the bend |  |  | Destination C1–C2 · idiom, Destination C1–C2 · collocation |
+| 12026 | round the bend | phát điên, mất trí |  | Destination C1–C2 · idiom, Destination C1–C2 · collocation |
 | 12027 | round trip | kéo lên-đưa xuống |  | TOEIC (Hackers), Word Skills Intermediate |
 | 12028 | Roundabout | Vòng xuyến | /ˈraʊndəˌbaʊt/ | IELTS · City, Word Skills Basic |
 | 12029 | roundish | hơi tròn |  | Word Skills Intermediate |
@@ -12064,40 +12064,40 @@
 | 12052 | ruin | phá hỏng; tàn tích |  | Word Skills Intermediate, Oxford 5000 · B2 · n, v |
 | 12053 | Ruins | Tàn tích | /ˈruːɪnz/ | IELTS · History and Heritage, Word Skills Advanced |
 | 12054 | rule | quy tắc |  | Word Skills Intermediate, Oxford 3000 · A1 · n, v |
-| 12055 | rule of law |  |  | Destination C1–C2 · collocation |
+| 12055 | rule of law | pháp quyền |  | Destination C1–C2 · collocation |
 | 12056 | rule of thumb | quy tắc ước chừng |  | Destination C1–C2 · collocation |
 | 12057 | rule out | loại trừ |  | TOEIC (Hackers) |
 | 12058 | rule sth out | loại trừ |  | Word Skills Advanced |
 | 12059 | ruler | người cai trị, người trị vì; thước kẻ |  | TOEIC (Hackers), Word Skills Basic |
 | 12060 | rules and regulations | quy định |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 12061 | ruling | phán quyết; cầm quyền |  | Oxford 5000 · C1 · n |
-| 12062 | ruling class |  |  | Destination C1–C2 · collocation |
+| 12062 | ruling class | giai cấp thống trị |  | Destination C1–C2 · collocation |
 | 12063 | Rum | Rượu rum | /rʌm/ | IELTS · Food and Drink |
 | 12064 | rumor | tin đồn |  | Oxford 5000 (Mỹ) · C1 · n |
 | 12065 | rumour | tin đồn |  | Word Skills Advanced, Oxford 5000 · C1 · n |
 | 12066 | run | chạy |  | TOEIC (Hackers), Word Skills Basic/Advanced, Oxford 3000 · A1 · n, v |
-| 12067 | run a business/campaign/etc |  |  | Destination C1–C2 · collocation |
+| 12067 | run a business/campaign/etc | điều hành doanh nghiệp / chiến dịch |  | Destination C1–C2 · collocation |
 | 12068 | run a campaign | chạy chiến dịch |  | TOEIC (Hackers) |
 | 12069 | run a meeting | điều hành một cuộc họp |  | TOEIC (Hackers) |
 | 12070 | run an article | chạy một bài viết |  | TOEIC (Hackers) |
 | 12071 | run down | cạn (pin); chê bai; tông xe (= if an organisation or area is run down, its size, importance and activity is reduced run-d…) |  | Destination C1–C2 · phrasal verb |
 | 12072 | run for | chạy cho |  | TOEIC (Hackers) |
-| 12073 | run for office |  |  | Destination C1–C2 · collocation |
+| 12073 | run for office | ra tranh cử |  | Destination C1–C2 · collocation |
 | 12074 | run in several directions | chạy theo nhiều hướng |  | TOEIC (Hackers) |
-| 12075 | run into problems |  |  | Destination C1–C2 · collocation |
+| 12075 | run into problems | gặp rắc rối |  | Destination C1–C2 · collocation |
 | 12076 | run its course | tự diễn biến theo tự nhiên |  | Destination C1–C2 · collocation |
 | 12077 | run late | chạy muộn |  | TOEIC (Hackers) |
-| 12078 | run on petrol/electricity/etc |  |  | Destination C1–C2 · collocation |
+| 12078 | run on petrol/electricity/etc | chạy bằng xăng / điện |  | Destination C1–C2 · collocation |
 | 12079 | run out | hết |  | Word Skills Intermediate |
 | 12080 | run out of | hết thời gian |  | TOEIC (Hackers) |
-| 12081 | run riot |  |  | Destination C1–C2 · collocation |
-| 12082 | run sb a bath |  |  | Destination C1–C2 · collocation |
-| 12083 | run the length (and breadth) of |  |  | Destination C1–C2 · collocation |
+| 12081 | run riot | náo loạn; mọc um tùm |  | Destination C1–C2 · collocation |
+| 12082 | run sb a bath | pha nước tắm cho ai |  | Destination C1–C2 · collocation |
+| 12083 | run the length (and breadth) of | chạy dọc (khắp) |  | Destination C1–C2 · collocation |
 | 12084 | run the risk of | có nguy cơ |  | TOEIC (Hackers), Destination C1–C2 · collocation |
-| 12085 | run the risk of doing |  |  | Destination C1–C2 · collocation |
+| 12085 | run the risk of doing | có nguy cơ |  | Destination C1–C2 · collocation |
 | 12086 | run the tap | chạy vòi |  | TOEIC (Hackers) |
 | 12087 | run through sth | rà nhanh; diễn tập |  | Destination C1–C2 · collocation |
-| 12088 | (run) short of |  |  | Destination C1–C2 · collocation |
+| 12088 | (run) short of | (bị) thiếu |  | Destination C1–C2 · collocation |
 | 12089 | run-down | xuống cấp; kiệt sức |  | Word Skills Advanced |
 | 12090 | Run-in | Va , xung đột | /rʌn ɪn/ | IELTS · Accident |
 | 12091 | runner | người chạy |  | Oxford 3000 · A2 · n |
@@ -12112,7 +12112,7 @@
 | 12100 | Rural tourism | Du lịch nông thôn | /ˈrʊrəl ˈtʊrɪzəm/ | IELTS · Tourism |
 | 12101 | rush | xông lên, lao vào, xô đẩy |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · n, v |
 | 12102 | rush hour | giờ cao điểm | /rʌʃ ˈaʊər/ | TOEIC (Hackers), IELTS · City, Word Skills Basic/Intermediate, Destination C1–C2 · collocation |
-| 12103 | rush to conclusions |  |  | Destination C1–C2 · collocation |
+| 12103 | rush to conclusions | vội kết luận |  | Destination C1–C2 · collocation |
 | 12104 | rushed off your feet | bận tối mắt |  | Word Skills Advanced |
 | 12105 | Russia | nước Nga |  | Word Skills Basic |
 | 12106 | Russian | (thuộc) Nga; tiếng Nga |  | Word Skills Basic |
@@ -12151,14 +12151,14 @@
 | 12139 | Safari tourism | Du lịch safari | /səˈfɑri ˈtʊrɪzəm/ | IELTS · Tourism |
 | 12140 | safe | an toàn, chắc chắn, đáng tin |  | TOEIC (Hackers), Word Skills Basic/Advanced, Oxford 3000 · A2 · adj |
 | 12141 | safe and sound | bình an vô sự |  | Word Skills Advanced |
-| 12142 | safe bet |  |  | Destination C1–C2 · collocation |
+| 12142 | safe bet | lựa chọn chắc ăn |  | Destination C1–C2 · collocation |
 | 12143 | safe pair of hands | người đáng tin cậy |  | Word Skills Advanced |
 | 12144 | Safe reopening | Mở cửa an toàn | /seɪf riːˈoʊpənɪŋ/ | IELTS · Covid |
 | 12145 | safeguard | sự phòng chống |  | TOEIC (Hackers), Oxford 5000 · C1 · n, v |
 | 12146 | safety | an toàn | /seɪfti/ | TOEIC (Hackers), IELTS · Accident, Oxford 3000 · B1 · n |
 | 12147 | Safety Culture | Văn hóa an toàn | /seɪfti ˈkʌltʃər/ | IELTS · Accident |
 | 12148 | safety drill | diễn tập an toàn |  | TOEIC (Hackers) |
-| 12149 | safety features |  |  | Destination C1–C2 · collocation |
+| 12149 | safety features | tính năng an toàn |  | Destination C1–C2 · collocation |
 | 12150 | safety helmet | mũ bảo hộ |  | Word Skills Intermediate |
 | 12151 | safety inspection | Kiểm tra an toàn đường bộ |  | TOEIC (Hackers) |
 | 12152 | Safety Inspector | Thanh tra an toàn | /seɪfti ɪnˈspɛktər/ | IELTS · Accident |
@@ -12211,7 +12211,7 @@
 | 12199 | satary review | đánh giá châm biếm |  | TOEIC (Hackers) |
 | 12200 | sate pair of hands | người đáng tin cậy |  | Word Skills Advanced |
 | 12201 | Satellite | Vệ tinh | /ˈsætəlaɪt/ | IELTS · Science, Word Skills Intermediate, Oxford 3000 · B2 · n |
-| 12202 | satellite town | (= town or city that is close to and depends on a larger city) |  | Destination C1–C2 · idiom |
+| 12202 | satellite town | thị trấn vệ tinh (= town or city that is close to and depends on a larger city) |  | Destination C1–C2 · idiom |
 | 12203 | satellite TV | truyền hình vệ tinh |  | Word Skills Basic |
 | 12204 | satisfaction | toại nguyện; bồi thường |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · B2 · n |
 | 12205 | satisfactory | cách thỏa đáng |  | TOEIC (Hackers) |
@@ -12228,7 +12228,7 @@
 | 12216 | sausages | xúc xích |  | Word Skills Basic |
 | 12217 | Sauté | Xào | /soʊˈteɪ/ | IELTS · Food and Drink |
 | 12218 | save | lưu (= not waste; store) |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A2 · v |
-| 12219 | save sb's life |  |  | Destination C1–C2 · collocation |
+| 12219 | save sb's life | cứu mạng ai |  | Destination C1–C2 · collocation |
 | 12220 | saving | tiết kiệm |  | Oxford 3000 · B2 · n |
 | 12221 | savings | tiết kiệm |  | TOEIC (Hackers) |
 | 12222 | savings account | tài khoản tiết kiệm |  | Word Skills Advanced |
@@ -12239,13 +12239,13 @@
 | 12227 | Saxophonist | Người chơi kèn saxophone | /ˈsæksoʊfənɪst/ | IELTS · Music, Word Skills Intermediate |
 | 12228 | say | nói |  | Word Skills Basic/Intermediate, Word Skills Advanced, Oxford 3000 · A1 · n, v |
 | 12229 | say the word | cứ nói ra, cứ yêu cầu |  | Destination C1–C2 · collocation |
-| 12230 | say your piece |  |  | Destination C1–C2 · collocation |
-| 12231 | sb is only human | (used for saying someone has been weak in the ways most people are weak and should not be b…) |  | Destination C1–C2 · idiom |
+| 12230 | say your piece | nói hết điều muốn nói |  | Destination C1–C2 · collocation |
+| 12231 | sb is only human | ai cũng là người, ai mà chẳng có lúc sai (used for saying someone has been weak in the ways most people are weak and should not be b…) |  | Destination C1–C2 · idiom |
 | 12232 | sb''s heart is not in sth | không hứng thú với việc gì |  | Word Skills Advanced |
 | 12233 | sb's bark is worse than their bite | khẩu xà tâm phật |  | Word Skills Advanced |
-| 12234 | sb's job to do |  |  | Destination C1–C2 · collocation |
-| 12235 | sb's lot (in life) |  |  | Destination C1–C2 · collocation |
-| 12236 | sb's purpose in doing |  |  | Destination C1–C2 · collocation |
+| 12234 | sb's job to do | nhiệm vụ của ai là làm |  | Destination C1–C2 · collocation |
+| 12235 | sb's lot (in life) | số phận của ai |  | Destination C1–C2 · collocation |
+| 12236 | sb's purpose in doing | mục đích của ai khi làm |  | Destination C1–C2 · collocation |
 | 12237 | scaffolding | Giàn giáo; Khung giàn, giàn giáo | /skæfəldɪŋ/ | TOEIC (Hackers), IELTS · Accident |
 | 12238 | scale | tỉ lệ; Quy mô; Âm giai | /skeɪl/ | TOEIC (Hackers), IELTS · Art, IELTS · Music, Oxford 3000 · B2 · n |
 | 12239 | scale modet (= miniature) | modet tỷ lệ (= thu nhỏ) |  | TOEIC (Hackers) |
@@ -12291,7 +12291,7 @@
 | 12279 | School bus | Xe buýt học sinh | /skul bʌs/ | IELTS · Transportation |
 | 12280 | School counselor | Cố vấn học tập | /skuːl ˈkaʊnsələr/ | IELTS · Education |
 | 12281 | School supplies | Dụng cụ học tập | /skuːl səˈplaɪz/ | IELTS · Education |
-| 12282 | school/working/etc age |  |  | Destination C1–C2 · collocation |
+| 12282 | school/working/etc age | tuổi đi học / tuổi lao động |  | Destination C1–C2 · collocation |
 | 12283 | sci-fi | khoa học viễn tưởng |  | Word Skills Intermediate |
 | 12284 | science | khoa học |  | Word Skills Intermediate, Oxford 3000 · A1 · n |
 | 12285 | Science fiction | Phim khoa học viễn tưởng | /ˈsaɪəns ˈfɪkʃən/ | IELTS · Film |
@@ -12350,7 +12350,7 @@
 | 12338 | seating capacity | + Số người cho phép chở |  | TOEIC (Hackers) |
 | 12339 | seating chart | sơ đồ chỗ ngồi |  | TOEIC (Hackers) |
 | 12340 | second | giây |  | TOEIC (Hackers), Oxford 3000 · A1 · number, Oxford 3000 · A1 · adv, n |
-| 12341 | second chance |  |  | Destination C1–C2 · collocation |
+| 12341 | second chance | cơ hội thứ hai |  | Destination C1–C2 · collocation |
 | 12342 | second nature | thói quen tự nhiên |  | Destination C1–C2 · collocation |
 | 12343 | second opinion | ý kiến thứ hai |  | Word Skills Advanced |
 | 12344 | second to none | không ai sánh bằng/ đứng đầu/ số một |  | Word Skills Advanced |
@@ -12361,7 +12361,7 @@
 | 12349 | Secondary school | Trường trung học | /ˈsɛkənˌdɛri skul/ | IELTS · Education, Word Skills Basic |
 | 12350 | secondhand | đồ cũ |  | TOEIC (Hackers), Word Skills Advanced |
 | 12351 | secondly | thứ hai là |  | Oxford 3000 · A2 · adv |
-| 12352 | seconds later |  |  | Destination C1–C2 · collocation |
+| 12352 | seconds later | vài giây sau |  | Destination C1–C2 · collocation |
 | 12353 | secret | bí mật |  | Oxford 3000 · A2 · adj, n |
 | 12354 | secretarial | thư ký văn phòng |  | TOEIC (Hackers) |
 | 12355 | secretary | thư ký |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · n |
@@ -12376,22 +12376,22 @@
 | 12364 | security deposit | tiền bảo chứng |  | TOEIC (Hackers) |
 | 12365 | Security detail | Đội bảo vệ, đội an ninh | /sɪˈkjʊrəti dɪˈteɪl/ | IELTS · Celebrity |
 | 12366 | see | nhìn thấy (= meet or visit; watch) (with your eyes) (in your mind) |  | Word Skills Basic, Oxford 3000 · A1 · v, Word Skills Intermediate |
-| 12367 | see both sides (of an argument) |  |  | Destination C1–C2 · collocation |
+| 12367 | see both sides (of an argument) | nhìn nhận cả hai phía |  | Destination C1–C2 · collocation |
 | 12368 | see eye to eye (with sb) | đồng tÌnh (với ai) (= agree with someone or have the same opinion as them) |  | Destination C1–C2 · idiom |
 | 12369 | see if | xem |  | TOEIC (Hackers) |
-| 12370 | see sense |  |  | Destination C1–C2 · collocation |
+| 12370 | see sense | tỉnh ngộ, hiểu lẽ phải |  | Destination C1–C2 · collocation |
 | 12371 | See you later | hẹn gặp lại |  | Word Skills Basic |
 | 12372 | See you then | hẹn gặp lúc đó |  | Word Skills Basic |
 | 12373 | seed | hạt, hạt giống |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B1 · n |
 | 12374 | Seeds | Hạt giống | /siːdz/ | IELTS · Countryside |
 | 12375 | seek | tìm kiếm, theo đuổi&#10; "She seeks new opportunities in her career." (Cô ấy tìm kiếm cơ hội mới trong sự nghiệp của mình.) |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · v |
-| 12376 | seek out | (= find someone or something by looking for them in a determined way) |  | Destination C1–C2 · phrasal verb |
+| 12376 | seek out | tìm cho bằng được (= find someone or something by looking for them in a determined way) |  | Destination C1–C2 · phrasal verb |
 | 12377 | seek to do | tìm cách thực hiện |  | TOEIC (Hackers) |
 | 12378 | seek/take refuge | tìm nơi ẩn náu |  | Word Skills Advanced |
 | 12379 | seeker | người tìm kiếm |  | Oxford 5000 · B2 · n |
 | 12380 | seem | có vẻ |  | Oxford 3000 · A2 · v |
 | 12381 | seemingly | dường như |  | TOEIC (Hackers), Oxford 5000 · C1 · adv |
-| 12382 | seems/feels like ages (since) |  |  | Destination C1–C2 · collocation |
+| 12382 | seems/feels like ages (since) | cảm giác như lâu lắm rồi (kể từ khi) |  | Destination C1–C2 · collocation |
 | 12383 | segment | bộ phận |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 12384 | segregate | phân biệt, tách biệt |  | Word Skills Advanced |
 | 12385 | segregate A from B | tách biệt A khỏi B |  | TOEIC (Hackers) |
@@ -12429,23 +12429,23 @@
 | 12417 | send in | gửi vào |  | TOEIC (Hackers) |
 | 12418 | send off to | gửi đến |  | TOEIC (Hackers) |
 | 12419 | send out | gửi đi |  | TOEIC (Hackers) |
-| 12420 | send sb to prison |  |  | Destination C1–C2 · collocation |
+| 12420 | send sb to prison | tống ai vào tù |  | Destination C1–C2 · collocation |
 | 12421 | send sb/sth flying | hất văng |  | Word Skills Advanced |
-| 12422 | send/write sb a letter |  |  | Destination C1–C2 · collocation |
+| 12422 | send/write sb a letter | gửi / viết thư cho ai |  | Destination C1–C2 · collocation |
 | 12423 | senior | người lớn tuổi |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B2 · adj |
 | 12424 | senior executive | quan chức cao cấp |  | TOEIC (Hackers) |
 | 12425 | sensation | cảm giác; sự náo động |  | Oxford 5000 · C1 · n |
 | 12426 | sensational | giật gân |  | Word Skills Advanced |
 | 12427 | sense | cảm giác; ý nghĩa (make sense) |  | Word Skills Intermediate/Advanced, Oxford 3000 · A2 · n, v |
 | 12428 | sense of humour | khiếu hài hước |  | Word Skills Intermediate |
-| 12429 | sense of taste |  |  | Destination C1–C2 · collocation |
-| 12430 | sense that |  |  | Destination C1–C2 · collocation |
+| 12429 | sense of taste | vị giác |  | Destination C1–C2 · collocation |
+| 12430 | sense that | cảm nhận rằng |  | Destination C1–C2 · collocation |
 | 12431 | sensible | cỏ óc xét đoán |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · adj |
 | 12432 | sensitive | nhạy cảm |  | Word Skills Intermediate, Oxford 3000 · B2 · adj |
 | 12433 | sensitivity | nhạy cảm |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 12434 | sensor | cảm biến |  | Oxford 5000 · B2 · n |
 | 12435 | Sentence | Hình phạt | /sɛntəns/ | IELTS · Crime, Word Skills Intermediate, Oxford 3000 · A1 · n, v |
-| 12436 | sentence sb to |  |  | Destination C1–C2 · collocation |
+| 12436 | sentence sb to | kết án ai |  | Destination C1–C2 · collocation |
 | 12437 | sentiment | tình cảm |  | Oxford 5000 · C1 · n |
 | 12438 | sentimental | đa cảm |  | Word Skills Advanced |
 | 12439 | separate | riêng |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · adj, v |
@@ -12462,13 +12462,13 @@
 | 12450 | serial | nối tiếp; phim dài kỳ |  | Oxford 5000 · C1 · adj |
 | 12451 | series | loạt phim |  | Oxford 3000 · A2 · n |
 | 12452 | serious | nghiêm túc |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · adj |
-| 12453 | serious/disastrous/dire consequences |  |  | Destination C1–C2 · collocation |
+| 12453 | serious/disastrous/dire consequences | hậu quả nghiêm trọng / thảm khốc |  | Destination C1–C2 · collocation |
 | 12454 | seriously | đứng đắn, nghiêm trang |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · adv |
 | 12455 | servant | người hầu |  | Oxford 3000 · B1 · n |
 | 12456 | serve | phục vụ |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · A2 · v |
 | 12457 | serve a customer | phục vụ khách hàng |  | TOEIC (Hackers) |
-| 12458 | serve a purpose |  |  | Destination C1–C2 · collocation |
-| 12459 | serve a sentence (of five years, etc) |  |  | Destination C1–C2 · collocation |
+| 12458 | serve a purpose | có tác dụng, phục vụ mục đích |  | Destination C1–C2 · collocation |
+| 12459 | serve a sentence (of five years, etc) | thụ án (năm năm…) |  | Destination C1–C2 · collocation |
 | 12460 | server | máy chủ |  | TOEIC (Hackers) |
 | 12461 | service | dịch vụ |  | Oxford 3000 · A2 · n |
 | 12462 | service depot | kho dịch vụ |  | TOEIC (Hackers) |
@@ -12477,7 +12477,7 @@
 | 12465 | session | lớp tập |  | TOEIC (Hackers), Oxford 3000 · B2 · n |
 | 12466 | Set | Bối cảnh, hậu trường | /sɛt/ | IELTS · Film, Word Skills Basic/Advanced, Oxford 3000 · B1 · n, v |
 | 12467 | set a budget | đặt ngân sách |  | Word Skills Advanced |
-| 12468 | set a clock |  |  | Destination C1–C2 · collocation |
+| 12468 | set a clock | chỉnh / đặt đồng hồ |  | Destination C1–C2 · collocation |
 | 12469 | set a date | định ngày |  | Word Skills Advanced |
 | 12470 | set a limit | đặt giới hạn |  | Word Skills Advanced |
 | 12471 | set a precedent | tạo tiền lệ |  | Word Skills Advanced |
@@ -12485,14 +12485,14 @@
 | 12473 | set a standard | đặt tiêu chuẩn |  | Word Skills Advanced |
 | 12474 | set an example | làm gương |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 12475 | set aside | bác bỏ |  | TOEIC (Hackers) |
-| 12476 | set down | (= state officially how something should be done) (= write something on a piece of paper so that it will not be forgotten and can be looked at …) |  | Destination C1–C2 · phrasal verb |
+| 12476 | set down | quy định (chính thức); ghi lại (= state officially how something should be done) (= write something on a piece of paper so that it will not be forgotten and can be looked at …) |  | Destination C1–C2 · phrasal verb |
 | 12477 | set down to work | bắt đầu làm việc |  | TOEIC (Hackers) |
 | 12478 | set fire to | phóng hỏa |  | Word Skills Advanced |
 | 12479 | set forth | đặt ra |  | TOEIC (Hackers) |
-| 12480 | set of principles |  |  | Destination C1–C2 · collocation |
+| 12480 | set of principles | bộ nguyên tắc |  | Destination C1–C2 · collocation |
 | 12481 | set out | Bắt đầu (= start doing or working on something in order to achieve an aim outset (n)) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
 | 12482 | set phrase | cụm từ cố định |  | Word Skills Advanced |
-| 12483 | set sb free |  |  | Destination C1–C2 · collocation |
+| 12483 | set sb free | trả tự do cho ai |  | Destination C1–C2 · collocation |
 | 12484 | set sb's mind at rest | làm ai yên tâm |  | Word Skills Advanced |
 | 12485 | set sb/sth back | làm chậm lại; tốn (tiền) |  | Word Skills Advanced |
 | 12486 | set sth aside | để dành |  | Word Skills Advanced |
@@ -12503,10 +12503,10 @@
 | 12491 | set up a business | thành lập doanh nghiệp |  | TOEIC (Hackers), Word Skills Intermediate |
 | 12492 | set up a date | thiết lập ngày |  | TOEIC (Hackers) |
 | 12493 | set up an interview | thiết lập một cuộc phỏng vấn |  | TOEIC (Hackers) |
-| 12494 | set your heart on | (= decide that you want something very much) |  | Destination C1–C2 · idiom |
-| 12495 | set/clear/lay the table |  |  | Destination C1–C2 · collocation |
-| 12496 | set/fix a date |  |  | Destination C1–C2 · collocation |
-| 12497 | set/put sb straight about |  |  | Destination C1–C2 · collocation |
+| 12494 | set your heart on | quyết tâm muốn có, khao khát (= decide that you want something very much) |  | Destination C1–C2 · idiom |
+| 12495 | set/clear/lay the table | dọn bàn ăn |  | Destination C1–C2 · collocation |
+| 12496 | set/fix a date | định ngày |  | Destination C1–C2 · collocation |
+| 12497 | set/put sb straight about | giải thích rõ cho ai về |  | Destination C1–C2 · collocation |
 | 12498 | set/put the record straight | đính chính/ xác nhận lại sự thật |  | Destination C1–C2 · collocation |
 | 12499 | setback | sự thoái lui; Trở ngại, thất bại | /sɛtbæk/ | TOEIC (Hackers), IELTS · Accident, Word Skills Advanced |
 | 12500 | setting | cài đặt |  | TOEIC (Hackers), Oxford 3000 · B1 · n |
@@ -12552,24 +12552,24 @@
 | 12540 | shame | đáng tiếc; xấu hổ |  | Word Skills Basic/Intermediate, Oxford 3000 · B2 · n |
 | 12541 | shampoo | dầu gội |  | Word Skills Basic |
 | 12542 | shape | hình dạng | /ʃeɪp/ | TOEIC (Hackers), IELTS · Art, Word Skills Intermediate, Oxford 3000 · A2 · n, v |
-| 12543 | shape sth into |  |  | Destination C1–C2 · collocation |
+| 12543 | shape sth into | nặn cái gì thành |  | Destination C1–C2 · collocation |
 | 12544 | shaped | có hình dạng |  | Word Skills Intermediate, Oxford 5000 · B2 · adj |
 | 12545 | Shaping | Hình thành | /ʃeɪpɪŋ/ | IELTS · Culture |
 | 12546 | share | chia sẻ |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A1 · n, v |
-| 12547 | share and share alike |  |  | Destination C1–C2 · collocation |
-| 12548 | share in/of |  |  | Destination C1–C2 · collocation |
-| 12549 | share index |  |  | Destination C1–C2 · collocation |
-| 12550 | share option |  |  | Destination C1–C2 · collocation |
-| 12551 | share with/between/among |  |  | Destination C1–C2 · collocation |
+| 12547 | share and share alike | chia đều cho nhau |  | Destination C1–C2 · collocation |
+| 12548 | share in/of | phần, cổ phần trong |  | Destination C1–C2 · collocation |
+| 12549 | share index | chỉ số chứng khoán |  | Destination C1–C2 · collocation |
+| 12550 | share option | quyền chọn mua cổ phiếu |  | Destination C1–C2 · collocation |
+| 12551 | share with/between/among | chia sẻ với / chia giữa |  | Destination C1–C2 · collocation |
 | 12552 | shareholder | cổ đông |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · n |
 | 12553 | shares | cổ phiếu |  | Word Skills Intermediate |
 | 12554 | shark | cá mập |  | Word Skills Intermediate |
 | 12555 | shark-infested | đầy cá mập |  | Word Skills Advanced |
 | 12556 | Sharks | Cá mập | /ʃɑrks/ | IELTS · Animal |
 | 12557 | sharp | sắc, nhọn, bén |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · adj |
-| 12558 | sharp criticism |  |  | Destination C1–C2 · collocation |
-| 12559 | sharp rise/increase/drop/fall |  |  | Destination C1–C2 · collocation |
-| 12560 | sharp/tight bend |  |  | Destination C1–C2 · collocation |
+| 12558 | sharp criticism | chỉ trích gay gắt |  | Destination C1–C2 · collocation |
+| 12559 | sharp rise/increase/drop/fall | tăng / giảm mạnh |  | Destination C1–C2 · collocation |
+| 12560 | sharp/tight bend | khúc cua gấp |  | Destination C1–C2 · collocation |
 | 12561 | sharpen | Làm Sắc Cạnh |  | TOEIC (Hackers) |
 | 12562 | sharply | sắc, nhọn, bén |  | TOEIC (Hackers), Word Skills Intermediate |
 | 12563 | shatter | vỡ tan |  | Oxford 5000 · C1 · v |
@@ -12640,12 +12640,12 @@
 | 12628 | shoulder | vai |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · n |
 | 12629 | Shoulder-fired missile | Tên lửa đạn đạo tầm trung | /ˈʃoʊldər ˌfaɪrd ˈmɪsəl/ | IELTS · Weapons |
 | 12630 | shout | hét |  | Word Skills Intermediate, Oxford 3000 · A2 · n, v |
-| 12631 | shout down | (= make it difficult to hear what someone says by shouting while they are speaking) |  | Destination C1–C2 · phrasal verb |
+| 12631 | shout down | la ó át tiếng (người đang nói) (= make it difficult to hear what someone says by shouting while they are speaking) |  | Destination C1–C2 · phrasal verb |
 | 12632 | shove | xô đẩy |  | Word Skills Advanced |
 | 12633 | shovel | cái xẻng |  | TOEIC (Hackers) |
 | 12634 | show | hiện |  | TOEIC (Hackers), Oxford 3000 · A1 · n, v |
 | 12635 | show around | tham quan xung quanh |  | TOEIC (Hackers) |
-| 12636 | show consideration for |  |  | Destination C1–C2 · collocation |
+| 12636 | show consideration for | thể hiện sự quan tâm đến |  | Destination C1–C2 · collocation |
 | 12637 | show off | Hiện |  | TOEIC (Hackers) |
 | 12638 | show sth off | khoe |  | Word Skills Advanced |
 | 12639 | show up | xuất hiện |  | TOEIC (Hackers), Word Skills Advanced |
@@ -12660,7 +12660,7 @@
 | 12648 | shrewd | khôn ngoan |  | Word Skills Advanced |
 | 12649 | Shrimp | Tôm | /ʃrɪmp/ | IELTS · Food and Drink |
 | 12650 | shrink | lớp màng co rút được |  | TOEIC (Hackers), Oxford 5000 · C1 · v |
-| 12651 | shrivel up | (= become smaller and thinner than usual and not look fresh and healthy) (= become weaker or smaller in amount) |  | Destination C1–C2 · phrasal verb |
+| 12651 | shrivel up | teo lại, héo quắt; cạn dần (= become smaller and thinner than usual and not look fresh and healthy) (= become weaker or smaller in amount) |  | Destination C1–C2 · phrasal verb |
 | 12652 | shrub | nước uống có rượu và nước quả |  | TOEIC (Hackers) |
 | 12653 | Shuriken | Phi tiêu | /ˈʃʊrɪkən/ | IELTS · Weapons |
 | 12654 | shut | đóng |  | Word Skills Basic, Oxford 3000 · A2 · adj, v |
@@ -12673,20 +12673,20 @@
 | 12661 | Sibling rivalry | Sự ganh đua giữa anh chị em ruột | /sɪblɪŋ ˈraɪvəlri/ | IELTS · Family and Relationships |
 | 12662 | Siblings | Anh chị em ruột | /sɪblɪŋz/ | IELTS · Family and Relationships |
 | 12663 | sick | ốm; (lóng) đỉnh |  | Word Skills Basic, Oxford 3000 · A1 · adj |
-| 12664 | sick and tired (of) |  |  | Destination C1–C2 · collocation |
+| 12664 | sick and tired (of) | chán ngấy |  | Destination C1–C2 · collocation |
 | 12665 | sick and tired of | chán ngấy |  | Word Skills Advanced |
 | 12666 | sick as a parrot | cảm thấy cực kỳ thất vọng, chán nản |  | Destination C1–C2 · collocation |
 | 12667 | sick at heart | đau lòng |  | Destination C1–C2 · collocation |
-| 12668 | sick bag |  |  | Destination C1–C2 · collocation |
+| 12668 | sick bag | túi nôn |  | Destination C1–C2 · collocation |
 | 12669 | sick leave | sự nghỉ bệnh; Nghỉ ốm | /sɪk liːv/ | TOEIC (Hackers), IELTS · Employment |
 | 12670 | sick pay | tiền lương khi ốm |  | Word Skills Intermediate |
-| 12671 | sick with fear/worry/ etc |  |  | Destination C1–C2 · collocation |
+| 12671 | sick with fear/worry/ etc | sợ / lo phát ốm |  | Destination C1–C2 · collocation |
 | 12672 | side | món ăn kèm (in a war) |  | Oxford 3000 · A2 · n, Word Skills Intermediate |
 | 12673 | side by side | kề vai sát cánh |  | TOEIC (Hackers) |
 | 12674 | side effect | tác dụng phụ |  | TOEIC (Hackers), Word Skills Advanced |
 | 12675 | Side effects | Tác dụng phụ | /saɪd ɪˈfɛkts/ | IELTS · Covid |
 | 12676 | Side table | Bàn bên cạnh | /saɪd ˈteɪbəl/ | IELTS · Housing and Architecture |
-| 12677 | side with sb |  |  | Destination C1–C2 · collocation |
+| 12677 | side with sb | đứng về phía ai |  | Destination C1–C2 · collocation |
 | 12678 | Side-swipe | Va chạm từ bên hông | /saɪdswaɪp/ | IELTS · Accident |
 | 12679 | Sideboard | Tủ bày đồ | /ˈsaɪdbɔːrd/ | IELTS · Housing and Architecture |
 | 12680 | sidewalk | Vỉa hè | /ˈsaɪdwɔːk/ | TOEIC (Hackers), IELTS · City, Word Skills Intermediate, Oxford 5000 (Mỹ) · B2 · n |
@@ -12748,7 +12748,7 @@
 | 12736 | single parent | cha/mẹ đơn thân |  | Word Skills Intermediate |
 | 12737 | single sb/sth out | chọn riêng ra |  | Word Skills Advanced |
 | 12738 | single-minded | chuyên tâm |  | Word Skills Advanced |
-| 12739 | single-parent family |  |  | Destination C1–C2 · collocation |
+| 12739 | single-parent family | gia đình đơn thân |  | Destination C1–C2 · collocation |
 | 12740 | singles chart | bảng xếp hạng đĩa đơn |  | Word Skills Basic |
 | 12741 | singular noun | danh từ số ít |  | Word Skills Basic |
 | 12742 | sink | bồn rửa |  | Word Skills Basic/Intermediate, Oxford 3000 · B1 · v |
@@ -12770,18 +12770,18 @@
 | 12758 | situated | nằm |  | TOEIC (Hackers), Oxford 5000 · C1 · adj |
 | 12759 | situation | hoàn cảnh, địa thế, vị trí |  | TOEIC (Hackers), Oxford 3000 · A1 · n |
 | 12760 | six | sáu |  | Oxford 3000 · A1 · number |
-| 12761 | six of one (and) half a dozen of the other | (used for I saying that two things are equally good or bad) |  | Destination C1–C2 · idiom |
+| 12761 | six of one (and) half a dozen of the other | kẻ tám lạng người nửa cân (used for I saying that two things are equally good or bad) |  | Destination C1–C2 · idiom |
 | 12762 | sixteen | mười sáu |  | Oxford 3000 · A1 · number |
 | 12763 | sixty | sáu mươi |  | Oxford 3000 · A1 · number |
 | 12764 | sizable | khá lớn |  | TOEIC (Hackers) |
 | 12765 | size | kích thước |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · n |
-| 12766 | size of |  |  | Destination C1–C2 · collocation |
+| 12766 | size of | kích cỡ của |  | Destination C1–C2 · collocation |
 | 12767 | size up | đánh giá (tình hình, người) (= think carefully and form an opinion about a person or a situation) |  | Destination C1–C2 · phrasal verb |
 | 12768 | Sizzle | Tiếng xèo xèo | /ˈsɪzəl/ | IELTS · Weather |
 | 12769 | Sizzling | Nóng bức, nóng rực | /ˈsɪzəlɪŋ/ | IELTS · Weather |
 | 12770 | Skateboard | Ván trượt | /skeɪtbɔːrd/ | IELTS · Sports and Equipments, IELTS · Transportation |
 | 12771 | Skateboarding | Trượt ván | /skeɪtbɔrdɪŋ/ | IELTS · Sports and Equipments |
-| 12772 | skating on thin ice |  |  | Destination C1–C2 · collocation |
+| 12772 | skating on thin ice | liều lĩnh, mạo hiểm |  | Destination C1–C2 · collocation |
 | 12773 | skeptical | hoài nghi |  | Oxford 5000 (Mỹ) · C1 · adj |
 | 12774 | Sketch | Bản phác thảo | /skɛtʃ/ | IELTS · Art, Oxford 5000 · C1 · n |
 | 12775 | ski | ván trượt (nước) |  | Oxford 3000 · A2 · adj, n, v |
@@ -12836,7 +12836,7 @@
 | 12824 | sling | băng đeo tay |  | Word Skills Intermediate |
 | 12825 | Slingshot | Bắn cung | /ˈslɪŋʃɑt/ | IELTS · Weapons |
 | 12826 | Slip | Trượt, trượt chân | /slɪp/ | IELTS · Accident, Word Skills Intermediate, Oxford 3000 · B2 · v |
-| 12827 | slip away | (= leave secretly) |  | Destination C1–C2 · phrasal verb |
+| 12827 | slip away | lẻn đi, chuồn đi (= leave secretly) |  | Destination C1–C2 · phrasal verb |
 | 12828 | slip one’s mind | trượt tâm trí của một người |  | TOEIC (Hackers) |
 | 12829 | slip up | sơ suất (= make a careless mistake slip-up (n)) |  | Destination C1–C2 · phrasal verb |
 | 12830 | slipped | bị trượt |  | Word Skills Intermediate |
@@ -12855,17 +12855,17 @@
 | 12843 | slump | suy giảm mạnh |  | Word Skills Advanced |
 | 12844 | slurp | slurp |  | TOEIC (Hackers) |
 | 12845 | small | Mắt nhỏ | /smɔːl/ | Word Skills Basic, Oxford 3000 · A1 · adj, IELTS · Appearance |
-| 12846 | small change |  |  | Destination C1–C2 · collocation |
-| 12847 | small hours |  |  | Destination C1–C2 · collocation |
+| 12846 | small change | tiền lẻ |  | Destination C1–C2 · collocation |
+| 12847 | small hours | lúc nửa đêm về sáng |  | Destination C1–C2 · collocation |
 | 12848 | small letters | chữ thường |  | Word Skills Intermediate |
-| 12849 | small screen |  |  | Destination C1–C2 · collocation |
-| 12850 | small talk |  |  | Destination C1–C2 · collocation |
+| 12849 | small screen | màn ảnh nhỏ, truyền hình |  | Destination C1–C2 · collocation |
+| 12850 | small talk | chuyện phiếm |  | Destination C1–C2 · collocation |
 | 12851 | small world | Trái đất tròn thật! (= it's a) |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 12852 | smart | thông minh |  | Word Skills Basic, Oxford 3000 · B1 · adj |
 | 12853 | Smart grid | Lưới điện thông minh | /smɑːrt ɡrɪd/ | IELTS · Energy |
 | 12854 | Smart home | Nhà thông minh | /smɑːrt hoʊm/ | IELTS · Housing and Architecture |
 | 12855 | Smart homes | Nhà thông minh | /smɑːrt hoʊmz/ | IELTS · Technology |
-| 12856 | smarten up | (= if you smarten up or smarten yourself up, you make yourself look tidy and clean) (= improve the appearance of something, for example by cleaning or painting it) |  | Destination C1–C2 · phrasal verb |
+| 12856 | smarten up | chải chuốt, làm cho gọn gàng, tươm tất (= if you smarten up or smarten yourself up, you make yourself look tidy and clean) (= improve the appearance of something, for example by cleaning or painting it) |  | Destination C1–C2 · phrasal verb |
 | 12857 | smartphone | điện thoại thông minh |  | Oxford 3000 · A2 · n |
 | 12858 | Smash | Đập vỡ, va chạm mạnh | /smæʃ/ | IELTS · Accident, Word Skills Intermediate, Oxford 5000 · C1 · v |
 | 12859 | smell | ngửi |  | Word Skills Intermediate, Oxford 3000 · A2 · n, v |
@@ -12878,9 +12878,9 @@
 | 12866 | smoking | hút thuốc |  | Oxford 3000 · A2 · n |
 | 12867 | smoking section | khu vực xông khói |  | TOEIC (Hackers) |
 | 12868 | Smooth | Mịn màng | /smuːð/ | IELTS · Appearance, Word Skills Intermediate, Oxford 3000 · B1 · adj |
-| 12869 | smooth operator |  |  | Destination C1–C2 · collocation |
-| 12870 | smooth Sailing |  |  | Destination C1–C2 · collocation |
-| 12871 | smooth the way for |  |  | Destination C1–C2 · collocation |
+| 12869 | smooth operator | người khéo léo, mồm mép |  | Destination C1–C2 · collocation |
+| 12870 | smooth Sailing | thuận buồm xuôi gió |  | Destination C1–C2 · collocation |
+| 12871 | smooth the way for | dọn đường cho |  | Destination C1–C2 · collocation |
 | 12872 | Smoothie | Sinh tố | /smuːði/ | IELTS · Food and Drink |
 | 12873 | smoothly | một cách êm ả, trôi chảy |  | TOEIC (Hackers) |
 | 12874 | smuggle | buôn lậu |  | Word Skills Advanced |
@@ -12901,7 +12901,7 @@
 | 12889 | snore | ngáy |  | Word Skills Intermediate |
 | 12890 | Snorkeling | Lặn ống thở; Lặn có ống thở | /snɔrklɪŋ/ | IELTS · Sports and Equipments, IELTS · Tourism |
 | 12891 | snow | tuyết |  | Word Skills Basic, Oxford 3000 · A1 · n, v |
-| 12892 | snow under | (= if you are snowed under, you have too much of sth to deal with) |  | Destination C1–C2 · phrasal verb |
+| 12892 | snow under | ngập đầu (công việc) (= if you are snowed under, you have too much of sth to deal with) |  | Destination C1–C2 · phrasal verb |
 | 12893 | Snowball | Quả cầu tuyết | /ˈsnoʊ.bɔːl/ | IELTS · Weather |
 | 12894 | Snowboard bindings | Đai cố định trượt tuyết ván | /snoʊˌbɔːrd ˈbaɪndɪŋz/ | IELTS · Sports and Equipments |
 | 12895 | Snowboarding | Trượt tuyết ván | /snoʊˌbɔrdɪŋ/ | IELTS · Sports and Equipments |
@@ -12913,7 +12913,7 @@
 | 12901 | so far (= to date) | cho đến nay (= đến nay) |  | TOEIC (Hackers) |
 | 12902 | so far,so good | đến giờ vẫn ổn |  | Word Skills Advanced |
 | 12903 | so that | để mà |  | Word Skills Intermediate |
-| 12904 | so to speak |  |  | Destination C1–C2 · collocation |
+| 12904 | so to speak | có thể nói là |  | Destination C1–C2 · collocation |
 | 12905 | so-called | cái gọi là |  | Oxford 5000 · B2 · adj |
 | 12906 | soak | ngâm |  | Oxford 5000 · C1 · v |
 | 12907 | soak sth up | thấm hút; tận hưởng |  | Word Skills Advanced |
@@ -12926,18 +12926,18 @@
 | 12914 | sociable | hòa đồng |  | Word Skills Basic/Intermediate/Advanced |
 | 12915 | social | xã hội |  | Word Skills Advanced, Oxford 3000 · A2 · adj |
 | 12916 | Social bubbles | Nhóm xã hội nhỏ | /ˈsoʊʃəl ˈbʌbəlz/ | IELTS · Covid |
-| 12917 | social call |  |  | Destination C1–C2 · collocation |
-| 12918 | social class |  |  | Destination C1–C2 · collocation |
-| 12919 | social club |  |  | Destination C1–C2 · collocation |
-| 12920 | social conditions |  |  | Destination C1–C2 · collocation |
-| 12921 | social contact |  |  | Destination C1–C2 · collocation |
+| 12917 | social call | thăm hỏi xã giao |  | Destination C1–C2 · collocation |
+| 12918 | social class | giai cấp xã hội |  | Destination C1–C2 · collocation |
+| 12919 | social club | câu lạc bộ giao lưu |  | Destination C1–C2 · collocation |
+| 12920 | social conditions | điều kiện xã hội |  | Destination C1–C2 · collocation |
+| 12921 | social contact | giao tiếp xã hội |  | Destination C1–C2 · collocation |
 | 12922 | Social distancing | Giữ khoảng cách xã hội | /ˈsoʊʃəl ˈdɪstənsɪŋ/ | IELTS · Covid |
 | 12923 | Social entrepreneurship | Doanh nghiệp xã hội | /ˈsoʊʃəl ˌɑːntrəprəˈnɜrʃɪp/ | IELTS · Social issues |
 | 12924 | Social exclusion | Loại trừ xã hội | /ˈsoʊʃəl ɪkˈskluːʒən/ | IELTS · Social issues |
 | 12925 | Social integration | Hội nhập xã hội | /ˈsoʊʃəl ˌɪntɪˈɡreɪʃən/ | IELTS · Social issues |
 | 12926 | Social isolation | Cách ly xã hội | /ˈsoʊʃəl ˌaɪsəˈleɪʃən/ | IELTS · Social issues |
 | 12927 | Social justice | Công bằng xã hội | /ˈsoʊʃəl ˈdʒʌstɪs/ | IELTS · Globalization, IELTS · Social issues |
-| 12928 | social life |  |  | Destination C1–C2 · collocation |
+| 12928 | social life | đời sống xã hội, giao du |  | Destination C1–C2 · collocation |
 | 12929 | Social media | Mạng xã hội | /ˈsoʊʃəl ˈmidiə/ | IELTS · Technology, IELTS · Advertising, IELTS · Entertainment and media |
 | 12930 | Social media addiction | Nghiện mạng xã hội | /ˈsoʊʃəl ˈmidiə əˈdɪkʃən/ | IELTS · Social issues |
 | 12931 | Social media impact | Tác động của mạng xã hội | /ˈsoʊʃəl ˈmidiə ˈɪmpækt/ | IELTS · Social issues |
@@ -12990,7 +12990,7 @@
 | 12978 | solve a problem | giải quyết vấn đề |  | Word Skills Intermediate |
 | 12979 | some | một vài, một ít |  | Word Skills Basic, Oxford 3000 · A1 · det, pron |
 | 12980 | some more | thêm một ít |  | Word Skills Basic |
-| 12981 | some question over as to about |  |  | Destination C1–C2 · collocation |
+| 12981 | some question over as to about | có chút nghi vấn về |  | Destination C1–C2 · collocation |
 | 12982 | somebody | ai đó |  | Oxford 3000 · A1 · pron |
 | 12983 | someday | 1 ngày nào đó |  | TOEIC (Hackers) |
 | 12984 | somehow | bằng cách nào đó |  | Word Skills Advanced, Oxford 5000 · B2 · adv |
@@ -12998,7 +12998,7 @@
 | 12986 | someone | ai đó |  | Oxford 3000 · A1 · pron |
 | 12987 | something | cái gì đó, điều gì đó |  | Word Skills Basic/Advanced, Oxford 3000 · A1 · pron |
 | 12988 | something along those lines | đại loại như vậy |  | Word Skills Advanced |
-| 12989 | something like |  |  | Destination C1–C2 · collocation |
+| 12989 | something like | khoảng chừng; đại loại như |  | Destination C1–C2 · collocation |
 | 12990 | something to do with | có liên quan đến |  | Word Skills Advanced |
 | 12991 | sometime | lúc nào đó |  | Oxford 5000 · B2 · adv |
 | 12992 | sometimes | thỉnh thoảng |  | Word Skills Basic, Oxford 3000 · A1 · adv |
@@ -13040,7 +13040,7 @@
 | 13028 | sour grapes | nho chua” (chỉ thái độ đố ky, chê bai thứ mình không |  | Word Skills Advanced |
 | 13029 | source | source |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · A2 · n |
 | 13030 | Source material | Nguyên liệu gốc | /sɔrs məˈtɪriəl/ | IELTS · Art |
-| 13031 | source of energy |  |  | Destination C1–C2 · collocation |
+| 13031 | source of energy | nguồn năng lượng |  | Destination C1–C2 · collocation |
 | 13032 | Sous vide | Nấu ở nhiệt độ ổn định trong túi chân không | /suː viːd/ | IELTS · Food and Drink |
 | 13033 | south | phía nam |  | Word Skills Basic, Oxford 3000 · A1 · adj, adv, n |
 | 13034 | South Korea | Hàn Quốc |  | Word Skills Basic |
@@ -13089,18 +13089,18 @@
 | 13077 | Sparkling water | Nước khoáng có ga | /spɑːrkəlɪŋ ˈwɔːtər/ | IELTS · Food and Drink |
 | 13078 | sparsely | thưa thớt |  | TOEIC (Hackers) |
 | 13079 | speak | nói |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · v |
-| 13080 | speak for yourself |  |  | Destination C1–C2 · collocation |
+| 13080 | speak for yourself | cứ nói phần mình thôi |  | Destination C1–C2 · collocation |
 | 13081 | speak into the microphone | nói vào micrô |  | TOEIC (Hackers) |
 | 13082 | speak on the phone | nói chuyện điện thoại |  | TOEIC (Hackers) |
-| 13083 | speak out | (= state your opinion firmly and publicly about something, especially in order to protest aga…) |  | Destination C1–C2 · phrasal verb |
-| 13084 | speak out of turn |  |  | Destination C1–C2 · collocation |
+| 13083 | speak out | lên tiếng công khai (= state your opinion firmly and publicly about something, especially in order to protest aga…) |  | Destination C1–C2 · phrasal verb |
+| 13084 | speak out of turn | nói không đúng lúc |  | Destination C1–C2 · collocation |
 | 13085 | speak up | Nói mau |  | TOEIC (Hackers) |
 | 13086 | speak volumes | nói lên rất nhiều điều về al/ cái gì (= provide a lot of information, especially in an indirect way) |  | Destination C1–C2 · idiom |
-| 13087 | speak well/highly/badly/Ill of |  |  | Destination C1–C2 · collocation |
-| 13088 | speak your mind |  |  | Destination C1–C2 · collocation |
+| 13087 | speak well/highly/badly/Ill of | nói tốt / nói xấu về |  | Destination C1–C2 · collocation |
+| 13088 | speak your mind | nói thẳng suy nghĩ |  | Destination C1–C2 · collocation |
 | 13089 | speaker | loa |  | Word Skills Basic, Oxford 3000 · A2 · n |
 | 13090 | speaking | (tôi) nghe đây (trên điện thoại) |  | Word Skills Basic/Advanced |
-| 13091 | speaking as |  |  | Destination C1–C2 · collocation |
+| 13091 | speaking as | với tư cách là |  | Destination C1–C2 · collocation |
 | 13092 | speaking of | Nhân nói về… |  | Destination C1–C2 · collocation |
 | 13093 | Spear | Giáo | /spɪr/ | IELTS · Weapons |
 | 13094 | special | đặc biệt |  | Oxford 3000 · A1 · adj |
@@ -13204,12 +13204,12 @@
 | 13192 | spread | lan rộng |  | Word Skills Intermediate/Advanced, Oxford 3000 · B1 · n, v |
 | 13193 | spread gossip | tung tin đồn |  | Word Skills Advanced |
 | 13194 | spread on | lây lan trên |  | TOEIC (Hackers) |
-| 13195 | spread out | (= if people in a group spread out, they move away from one another so that they cover a larg…) |  | Destination C1–C2 · phrasal verb |
+| 13195 | spread out | tản ra; trải rộng ra (= if people in a group spread out, they move away from one another so that they cover a larg…) |  | Destination C1–C2 · phrasal verb |
 | 13196 | Spread prevention | Phòng ngừa lây lan | /sprɛd prɪˈvɛnʃən/ | IELTS · Covid |
 | 13197 | spread the word | Chia sẻ thông tin |  | TOEIC (Hackers), Destination C1–C2 · collocation |
 | 13198 | spree | cuộc chơi thả ga |  | Word Skills Advanced |
 | 13199 | spring | mùa xuân |  | Word Skills Basic, Oxford 3000 · A1 · n, v |
-| 13200 | spring up | (= appear or be produced suddenly and quickly) |  | Destination C1–C2 · phrasal verb |
+| 13200 | spring up | mọc lên, xuất hiện nhanh (= appear or be produced suddenly and quickly) |  | Destination C1–C2 · phrasal verb |
 | 13201 | sprint | chạy nước rút |  | Word Skills Advanced |
 | 13202 | spry | spry |  | TOEIC (Hackers) |
 | 13203 | Spurious | Không th? t |  | TOEIC (Hackers) |
@@ -13259,8 +13259,8 @@
 | 13247 | stamp | con dấu |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · n |
 | 13248 | stance | Tư thế |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · B2 · n |
 | 13249 | stand | đứng |  | TOEIC (Hackers), Oxford 3000 · A1 · n, v |
-| 13250 | stand by stick to your principles |  |  | Destination C1–C2 · collocation |
-| 13251 | stand erect |  |  | Destination C1–C2 · collocation |
+| 13250 | stand by stick to your principles | giữ vững nguyên tắc |  | Destination C1–C2 · collocation |
+| 13251 | stand erect | đứng thẳng |  | Destination C1–C2 · collocation |
 | 13252 | stand for | Chuẩn bị máy! |  | TOEIC (Hackers), Word Skills Intermediate |
 | 13253 | stand in for | thay mặt cho |  | TOEIC (Hackers) |
 | 13254 | stand in line | Đứng xếp hàng! |  | TOEIC (Hackers) |
@@ -13326,12 +13326,12 @@
 | 13314 | steadiness | tính ổn định |  | TOEIC (Hackers) |
 | 13315 | steady | vững chắc, kiến định |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · adj |
 | 13316 | steady decline | suy giảm đều |  | Word Skills Advanced |
-| 13317 | steady growth |  |  | Destination C1–C2 · collocation |
-| 13318 | steady look |  |  | Destination C1–C2 · collocation |
-| 13319 | steady pace |  |  | Destination C1–C2 · collocation |
-| 13320 | steady relationship |  |  | Destination C1–C2 · collocation |
-| 13321 | steady your nerves |  |  | Destination C1–C2 · collocation |
-| 13322 | steady yourself |  |  | Destination C1–C2 · collocation |
+| 13317 | steady growth | tăng trưởng đều |  | Destination C1–C2 · collocation |
+| 13318 | steady look | cái nhìn chăm chú |  | Destination C1–C2 · collocation |
+| 13319 | steady pace | nhịp độ đều đặn |  | Destination C1–C2 · collocation |
+| 13320 | steady relationship | mối quan hệ ổn định |  | Destination C1–C2 · collocation |
+| 13321 | steady your nerves | trấn tĩnh lại |  | Destination C1–C2 · collocation |
+| 13322 | steady yourself | giữ thăng bằng; trấn tĩnh |  | Destination C1–C2 · collocation |
 | 13323 | Steak | Bít tết | /steɪk/ | IELTS · Food and Drink, Word Skills Basic |
 | 13324 | steal | ăn trộm |  | Word Skills Intermediate, Oxford 3000 · A2 · v |
 | 13325 | Steal the show | Thu hút sự chú ý (= receive a lot of attention because you give the best performance in a show or other event) | /stil ðə ʃoʊ/ | IELTS · Entertainment and media, Destination C1–C2 · idiom |
@@ -13365,7 +13365,7 @@
 | 13353 | sternly | nghiêm khắc |  | TOEIC (Hackers) |
 | 13354 | stethoscope | ống nghe |  | Word Skills Advanced |
 | 13355 | stew | món hầm |  | Word Skills Advanced |
-| 13356 | sth gets on top of you |  |  | Destination C1–C2 · collocation |
+| 13356 | sth gets on top of you | điều gì làm bạn quá tải |  | Destination C1–C2 · collocation |
 | 13357 | stick | đạt được cái gì |  | TOEIC (Hackers), Word Skills Basic/Intermediate/Advanced, Oxford 3000 · B1 · n, v |
 | 13358 | stick at | kiên trì |  | Word Skills Advanced |
 | 13359 | stick out | thò ra; nổi bật |  | Word Skills Advanced |
@@ -13400,7 +13400,7 @@
 | 13388 | stool | phân; Ghế đẩu | /stuːl/ | TOEIC (Hackers), IELTS · Housing and Architecture |
 | 13389 | stop | ngừng |  | TOEIC (Hackers), Oxford 3000 · A1 · n, v |
 | 13390 | stop ata tight | dừng lại ở mức chặt chẽ |  | TOEIC (Hackers) |
-| 13391 | stop dead in your tracks | (= suddenly stop, for example because you are surprised) |  | Destination C1–C2 · idiom |
+| 13391 | stop dead in your tracks | đứng sững lại (= suddenly stop, for example because you are surprised) |  | Destination C1–C2 · idiom |
 | 13392 | stop for fuel | dừng để lấy nhiên liệu |  | TOEIC (Hackers) |
 | 13393 | stop off | dừng chân (= visit somewhere before continuing to another place) |  | Word Skills Intermediate, Destination C1–C2 · phrasal verb |
 | 13394 | stop over | tạm dừng dọc đường |  | TOEIC (Hackers) |
@@ -13411,7 +13411,7 @@
 | 13399 | storage facility | Kho chứa |  | TOEIC (Hackers) |
 | 13400 | store | cửa hàng; tích trữ |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · n, v |
 | 13401 | store opening | khai trương cửa hàng |  | TOEIC (Hackers) |
-| 13402 | store up | (= do something that will cause problems in the future) (= keep a lot of something so that you can use it later) |  | Destination C1–C2 · phrasal verb |
+| 13402 | store up | tích trữ; chuốc lấy (rắc rối về sau) (= do something that will cause problems in the future) (= keep a lot of something so that you can use it later) |  | Destination C1–C2 · phrasal verb |
 | 13403 | storefront | Storefront |  | TOEIC (Hackers) |
 | 13404 | storeroom | nhà kho |  | TOEIC (Hackers) |
 | 13405 | storm | cơn bão |  | Word Skills Basic, Oxford 3000 · A2 · n, v |
@@ -13424,9 +13424,9 @@
 | 13412 | stove | lò sưởi |  | TOEIC (Hackers), Oxford 3000 (Mỹ) · A2 · n |
 | 13413 | stow | xếp |  | TOEIC (Hackers) |
 | 13414 | Straight | Thẳng, không xoăn | /streɪt/ | IELTS · Appearance, Word Skills Basic/Intermediate, Oxford 3000 · A2 · adj, adv |
-| 13415 | straight answer |  |  | Destination C1–C2 · collocation |
+| 13415 | straight answer | câu trả lời thẳng thắn |  | Destination C1–C2 · collocation |
 | 13416 | straight on | đi thẳng |  | Word Skills Basic |
-| 13417 | straight talking |  |  | Destination C1–C2 · collocation |
+| 13417 | straight talking | nói thẳng |  | Destination C1–C2 · collocation |
 | 13418 | straightaway | ngay lập tức |  | Word Skills Intermediate/Advanced |
 | 13419 | straighten | làm thẳng |  | Word Skills Advanced |
 | 13420 | straightforward | Trung Trực |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · adj |
@@ -13492,7 +13492,7 @@
 | 13480 | strong criticism | chỉ trích mạnh mẽ |  | Word Skills Advanced |
 | 13481 | strong-willed | ý chí mạnh mẽ |  | TOEIC (Hackers) |
 | 13482 | strongly | mạnh mẽ |  | Word Skills Intermediate, Oxford 3000 · B1 · adv |
-| 13483 | struck by lightning |  |  | Destination C1–C2 · collocation |
+| 13483 | struck by lightning | bị sét đánh |  | Destination C1–C2 · collocation |
 | 13484 | structural | cấu trúc |  | Oxford 5000 · C1 · adj |
 | 13485 | structure | kết cấu, cấu trúc; Kết cấu | /ˈstrʌkʧər/ | TOEIC (Hackers), IELTS · Housing and Architecture, Oxford 3000 · A2 · n, v |
 | 13486 | struggle | cuộc chiến đấu |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · n, v |
@@ -13517,8 +13517,8 @@
 | 13505 | sturdily | mạnh mẽ |  | TOEIC (Hackers) |
 | 13506 | Sturdy | Vững chắc, bền bỉ | /stɜrdi/ | IELTS · Appearance |
 | 13507 | Style | Phong cách (= way sth is written or drawn) (in fashion) | /staɪl/ | IELTS · Fashion, IELTS · Art, Word Skills Intermediate/Advanced, Oxford 3000 · A1 · n, Word Skills Intermediate |
-| 13508 | style of |  |  | Destination C1–C2 · collocation |
-| 13509 | style sth/yourself as |  |  | Destination C1–C2 · collocation |
+| 13508 | style of | phong cách |  | Destination C1–C2 · collocation |
+| 13509 | style sth/yourself as | tự gọi / mệnh danh là |  | Destination C1–C2 · collocation |
 | 13510 | stylish | Phong cách.; Phong cách; Phong cách, lịch thiệp; Có phong cách, lịch lãm | /staɪlɪʃ/ | TOEIC (Hackers), IELTS · Appearance, IELTS · Fashion, IELTS · Celebrity, Word Skills Intermediate |
 | 13511 | stylishly | sành điệu |  | TOEIC (Hackers) |
 | 13512 | stylistic | thuộc văn phong |  | Word Skills Advanced |
@@ -13527,7 +13527,7 @@
 | 13515 | subcontractor | nhà thầu phụ |  | TOEIC (Hackers) |
 | 13516 | subject | để tài; chủ ngữ |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · adj, n |
 | 13517 | Subject matter | Chủ đề | /ˈsʌbdʒɪkt ˈmætər/ | IELTS · Art, Word Skills Advanced, Destination C1–C2 · collocation |
-| 13518 | subject sb to |  |  | Destination C1–C2 · collocation |
+| 13518 | subject sb to | bắt ai chịu |  | Destination C1–C2 · collocation |
 | 13519 | subject to | phụ thuộc vào; chịu |  | Word Skills Intermediate/Advanced, Destination C1–C2 · collocation |
 | 13520 | subjective | chủ quan |  | Word Skills Advanced |
 | 13521 | Submachine gun | Súng máy nhỏ | /ˈsʌbməˌʃiːn ɡʌn/ | IELTS · Weapons |
@@ -13614,7 +13614,7 @@
 | 13602 | summon up | gom (sức lực) (= manage to produce a quality or a reaction that helps you deal with a difficult situation) |  | Destination C1–C2 · phrasal verb |
 | 13603 | sun | Mặt Trời |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · n |
 | 13604 | Sun lounger | Ghế tắm nắng | /sʌn ˈlaʊndʒər/ | IELTS · Housing and Architecture |
-| 13605 | sun yourself |  |  | Destination C1–C2 · collocation |
+| 13605 | sun yourself | tắm nắng |  | Destination C1–C2 · collocation |
 | 13606 | sunbathe | tắm nắng |  | Word Skills Basic |
 | 13607 | Sunday | Chủ nhật |  | Oxford 3000 · A1 · n |
 | 13608 | Sunflowers | Hoa hướng dương | /ˈsʌnˌflaʊərz/ | IELTS · Countryside |
@@ -13646,9 +13646,9 @@
 | 13634 | supply | cung cấp, đáp ứng, tiếp tế |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · n, v |
 | 13635 | Supply chain | Chuỗi cung ứng | /səˈplaɪ tʃeɪn/ | IELTS · Energy |
 | 13636 | support | hỗ trợ (= agreement/ agree) (= follow a team; help) | /səˈpɔrt/ | TOEIC (Hackers), IELTS · Family and Relationships, Word Skills Intermediate, Word Skills Intermediate/Advanced, Oxford 3000 · A2 · n, v |
-| 13637 | support a team |  |  | Destination C1–C2 · collocation |
-| 13638 | support an idea |  |  | Destination C1–C2 · collocation |
-| 13639 | support doing sth |  |  | Destination C1–C2 · collocation |
+| 13637 | support a team | cổ vũ một đội |  | Destination C1–C2 · collocation |
+| 13638 | support an idea | ủng hộ một ý tưởng |  | Destination C1–C2 · collocation |
+| 13639 | support doing sth | ủng hộ làm gì |  | Destination C1–C2 · collocation |
 | 13640 | support sb (financially) | ĩ |  | Destination C1–C2 · collocation |
 | 13641 | Supporter | Người hỗ trợ | /səˈpɔːrtər/ | IELTS · Family and Relationships, Oxford 3000 · B1 · n |
 | 13642 | supporters | người ủng hộ, cổ động viên |  | Word Skills Intermediate |
@@ -13663,9 +13663,9 @@
 | 13651 | sure | chắc chắn |  | Word Skills Basic, Oxford 3000 · A1 · adj, adv |
 | 13652 | surely | chắc chắn |  | TOEIC (Hackers), Oxford 3000 · B1 · adv |
 | 13653 | Surf lifesaving | Cứu hộ lướt sóng | /sɜːrf ˈlaɪfsˌeɪvɪŋ/ | IELTS · Sports and Equipments |
-| 13654 | surf the Web |  |  | Destination C1–C2 · collocation |
+| 13654 | surf the Web | lướt web |  | Destination C1–C2 · collocation |
 | 13655 | surface | bể mặt; Bề mặt | /ˈsɜːrfɪs/ | TOEIC (Hackers), IELTS · Art, Word Skills Intermediate, Oxford 3000 · B1 · n |
-| 13656 | surface area |  |  | Destination C1–C2 · collocation |
+| 13656 | surface area | diện tích bề mặt |  | Destination C1–C2 · collocation |
 | 13657 | Surfboard | Ván lướt sóng | /sɜːrfbɔːrd/ | IELTS · Sports and Equipments |
 | 13658 | surfer | người lướt sóng |  | Word Skills Intermediate |
 | 13659 | Surfing | Lướt sóng | /sɜːrfɪŋ/ | IELTS · Sports and Equipments, IELTS · Tourism |
@@ -13746,14 +13746,14 @@
 | 13734 | switch A to B | chuyển từ A sang B |  | TOEIC (Hackers) |
 | 13735 | switch off | switch off |  | TOEIC (Hackers), Word Skills Intermediate |
 | 13736 | switch on | Bật |  | TOEIC (Hackers), Word Skills Intermediate |
-| 13737 | switch on/off | (= start/stop a machine/light/etc working) |  | Destination C1–C2 · phrasal verb |
+| 13737 | switch on/off | bật / tắt (= start/stop a machine/light/etc working) |  | Destination C1–C2 · phrasal verb |
 | 13738 | switch to | chuyển sang |  | Word Skills Advanced |
 | 13739 | Switzerland | Thụy Sĩ |  | Word Skills Basic |
 | 13740 | swollen | sưng |  | Word Skills Intermediate |
 | 13741 | Swoop | Đập xuống (di chuyển của chim đại bàng) | /swuːp/ | IELTS · Animal |
 | 13742 | Sword | Kiếm | /sɔːrd/ | IELTS · Weapons, Oxford 5000 · C1 · n |
 | 13743 | Sword cane | Kiếm gắn trong gậy | /sɔːrd keɪn/ | IELTS · Weapons |
-| 13744 | swot up (on) | (= study something very hard, especially for an examination) |  | Destination C1–C2 · phrasal verb |
+| 13744 | swot up (on) | học gạo, ôn thi cật lực (= study something very hard, especially for an examination) |  | Destination C1–C2 · phrasal verb |
 | 13745 | syllable | âm tiết |  | Word Skills Intermediate |
 | 13746 | Syllabus | Chương trình học phần | /ˈsɪləbəs/ | IELTS · Education |
 | 13747 | symbol | biểu tượng |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
@@ -13792,9 +13792,9 @@
 | 13780 | tab technician | kỹ thuật viên tab |  | TOEIC (Hackers) |
 | 13781 | Tabby | Mèo có lông vằn | /ˈtæbi/ | IELTS · Animal |
 | 13782 | Table | Bàn (= furniture; list of facts/words) | /ˈteɪbəl/ | IELTS · Housing and Architecture, Word Skills Basic, Oxford 3000 · A1 · n |
-| 13783 | table a proposal |  |  | Destination C1–C2 · collocation |
+| 13783 | table a proposal | đưa ra đề xuất |  | Destination C1–C2 · collocation |
 | 13784 | table lamp | đèn để bàn |  | TOEIC (Hackers) |
-| 13785 | table manners |  |  | Destination C1–C2 · collocation |
+| 13785 | table manners | phép ăn uống |  | Destination C1–C2 · collocation |
 | 13786 | Table tennis | Bóng bàn | /teɪbəl ˈtɛnɪs/ | IELTS · Sports and Equipments, Word Skills Basic |
 | 13787 | tablecloth | Khăn trải bàn |  | TOEIC (Hackers) |
 | 13788 | tablet | thẻ phiến |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · n |
@@ -13818,28 +13818,28 @@
 | 13806 | Tails | Đuôi (hươu, chó, etc.) | /teɪlz/ | IELTS · Animal |
 | 13807 | tain or shine | tain hoặc shine |  | TOEIC (Hackers) |
 | 13808 | take | lấy (= buy; carry; have a certain size; use a form of transport) (= a tablet/medicine) |  | Word Skills Basic, Oxford 3000 · A1 · v |
-| 13809 | take (great) delight in doing |  |  | Destination C1–C2 · collocation |
+| 13809 | take (great) delight in doing | rất thích làm gì |  | Destination C1–C2 · collocation |
 | 13810 | take a break | nghỉ ngơi |  | TOEIC (Hackers) |
-| 13811 | take a chance (on) |  |  | Destination C1–C2 · collocation |
+| 13811 | take a chance (on) | liều thử (với) |  | Destination C1–C2 · collocation |
 | 13812 | take a chance on sth | đánh liều với |  | Word Skills Advanced |
-| 13813 | take a dim/poor view of |  |  | Destination C1–C2 · collocation |
+| 13813 | take a dim/poor view of | không tán thành |  | Destination C1–C2 · collocation |
 | 13814 | take A fora walk | đI dạo bằng Fora |  | TOEIC (Hackers) |
 | 13815 | take a heavy toll on | gây tổn thất nặng nề cho |  | Word Skills Advanced |
-| 13816 | take a load off (your feet) |  |  | Destination C1–C2 · collocation |
-| 13817 | take a long hard look at |  |  | Destination C1–C2 · collocation |
+| 13816 | take a load off (your feet) | ngồi nghỉ chân |  | Destination C1–C2 · collocation |
+| 13817 | take a long hard look at | xem xét kỹ lưỡng |  | Destination C1–C2 · collocation |
 | 13818 | take a photograph | chụp ảnh |  | TOEIC (Hackers) |
 | 13819 | take a risk | chấp nhận rủi ro |  | Destination C1–C2 · collocation |
 | 13820 | take A seriously | nghiêm túc thực hiện |  | TOEIC (Hackers) |
-| 13821 | take a short cut | (= to follow a path that is quicker and shorter than the usual way) |  | Destination C1–C2 · idiom |
+| 13821 | take a short cut | đi đường tắt (= to follow a path that is quicker and shorter than the usual way) |  | Destination C1–C2 · idiom |
 | 13822 | take a stand against | phản đối |  | TOEIC (Hackers) |
 | 13823 | take a tong time | mất một thời gian tong |  | TOEIC (Hackers) |
 | 13824 | take a tooth out | nhổ răng |  | Word Skills Intermediate |
 | 13825 | take a tour | tham quan |  | TOEIC (Hackers) |
 | 13826 | take a turn for the better | có chiều hướng tốt lên |  | TOEIC (Hackers) |
-| 13827 | (take a turn) for the worse |  |  | Destination C1–C2 · collocation |
+| 13827 | (take a turn) for the worse | trở nên tệ hơn |  | Destination C1–C2 · collocation |
 | 13828 | take a vacation | Hãy đi nghỉ. |  | TOEIC (Hackers) |
 | 13829 | take a walk | - Cầm cái này đi đi. |  | TOEIC (Hackers) |
-| 13830 | take account of |  |  | Destination C1–C2 · collocation |
+| 13830 | take account of | tính đến, xem xét |  | Destination C1–C2 · collocation |
 | 13831 | take acourse | tham gia khóa học |  | TOEIC (Hackers) |
 | 13832 | take action | hành động |  | TOEIC (Hackers), Word Skills Advanced |
 | 13833 | take advantage of | tận dụng; lợi dụng |  | Word Skills Intermediate |
@@ -13857,7 +13857,7 @@
 | 13845 | take back | 32 00:44:08:43 ...để quyết định hạnh phúc//cả đời em chứ? |  | TOEIC (Hackers) |
 | 13846 | take care | bảo trọng |  | Word Skills Intermediate |
 | 13847 | take care of | chăm sóc; xoa dịu |  | TOEIC (Hackers), Word Skills Intermediate |
-| 13848 | take charge |  |  | Destination C1–C2 · collocation |
+| 13848 | take charge | đảm nhận, nắm quyền phụ trách |  | Destination C1–C2 · collocation |
 | 13849 | take charge of | chịu trách nhiệm |  | TOEIC (Hackers) |
 | 13850 | take down | sự tháo xuống, tháo dỡ (= separate a large structure into pieces) (= write down information or a statement) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
 | 13851 | take early retirement | Nghỉ hưu sớm |  | TOEIC (Hackers) |
@@ -13868,19 +13868,19 @@
 | 13856 | take in | thu hẹp (quần áo) (= accept something as real or true) (= include something) (= trick someone into believing something that is not true) (= understand and remember something that you hear or read) |  | Word Skills Advanced, Destination C1–C2 · phrasal verb |
 | 13857 | take initiative | chủ động |  | TOEIC (Hackers) |
 | 13858 | take into account | tính đến |  | Destination C1–C2 · collocation |
-| 13859 | take into consideration |  |  | Destination C1–C2 · collocation |
+| 13859 | take into consideration | cân nhắc, xem xét |  | Destination C1–C2 · collocation |
 | 13860 | take inventory | Lấy hàng tồn kho |  | TOEIC (Hackers) |
 | 13861 | take it easy | bình tĩnh; nghỉ ngơi |  | Word Skills Advanced |
 | 13862 | take medication | uống thuốc |  | TOEIC (Hackers) |
-| 13863 | take medicine |  |  | Destination C1–C2 · collocation |
+| 13863 | take medicine | uống thuốc |  | Destination C1–C2 · collocation |
 | 13864 | take no notice of | phớt lờ |  | Word Skills Advanced |
 | 13865 | take note | Viết xuống |  | TOEIC (Hackers) |
 | 13866 | take notes | ghi chép |  | TOEIC (Hackers) |
-| 13867 | take notice (of) |  |  | Destination C1–C2 · collocation |
+| 13867 | take notice (of) | để ý đến |  | Destination C1–C2 · collocation |
 | 13868 | take notice of | để ý đến |  | Word Skills Advanced |
 | 13869 | take off | take off (= leave the ground; remove) (= become successful or popular very fast take-off (n)) (= have a particular amount of time away from work) |  | TOEIC (Hackers), Word Skills Basic, Destination C1–C2 · phrasal verb |
 | 13870 | take offence | phật lòng |  | Word Skills Advanced |
-| 13871 | take office |  |  | Destination C1–C2 · collocation |
+| 13871 | take office | nhậm chức |  | Destination C1–C2 · collocation |
 | 13872 | take on | chấp nhận (= accept some work or responsibility) (= start to employ someone) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
 | 13873 | take on responsibility | nhận trách nhiệm |  | TOEIC (Hackers) |
 | 13874 | take one's advice | nghe theo lời khuyên của ai đó |  | TOEIC (Hackers) |
@@ -13900,15 +13900,15 @@
 | 13888 | take revenge | trả thù |  | Word Skills Advanced |
 | 13889 | take sb in | lừa ai; cho ai ở nhờ |  | Word Skills Advanced |
 | 13890 | take sb on | thuê ai |  | Word Skills Intermediate |
-| 13891 | take sb's place |  |  | Destination C1–C2 · collocation |
+| 13891 | take sb's place | thế chỗ ai |  | Destination C1–C2 · collocation |
 | 13892 | take sb/sth seriously | coi trọng |  | Word Skills Advanced |
-| 13893 | take shape |  |  | Destination C1–C2 · collocation |
-| 13894 | take sides |  |  | Destination C1–C2 · collocation |
+| 13893 | take shape | thành hình |  | Destination C1–C2 · collocation |
+| 13894 | take sides | đứng về một phía |  | Destination C1–C2 · collocation |
 | 13895 | take some medicine | uống một ít thuốc |  | TOEIC (Hackers) |
 | 13896 | take some time off | Dù sao thì cô cũng không cần phải ở đây lúc này. |  | TOEIC (Hackers) |
 | 13897 | take steps | thực hiện các bước |  | TOEIC (Hackers) |
 | 13898 | take sth apart | tháo rời |  | Word Skills Advanced |
-| 13899 | take sth as read |  |  | Destination C1–C2 · collocation |
+| 13899 | take sth as read | coi như đã rõ |  | Destination C1–C2 · collocation |
 | 13900 | take sth away from | lấy đi |  | Word Skills Advanced |
 | 13901 | take sth in your stride | bình thản đón nhận |  | Word Skills Advanced |
 | 13902 | take sth off | cởi ra |  | Word Skills Intermediate |
@@ -13920,43 +13920,43 @@
 | 13908 | take the law into your own hands | tự mình thực thi pháp luật/ trừng pÈs: :› (= punish someone in your own way without involving the police or the courts, often by doing …) |  | Destination C1–C2 · idiom |
 | 13909 | take the order | nhận đơn hàng |  | TOEIC (Hackers) |
 | 13910 | take the place of | thay thế |  | TOEIC (Hackers), Destination C1–C2 · collocation |
-| 13911 | take the scenic route | (= follow a longer path than the usual one because it is more attractive) |  | Destination C1–C2 · idiom |
-| 13912 | take the shape of |  |  | Destination C1–C2 · collocation |
-| 13913 | take the view that |  |  | Destination C1–C2 · collocation |
-| 13914 | take the wheel |  |  | Destination C1–C2 · collocation |
+| 13911 | take the scenic route | đi đường vòng (để ngắm cảnh) (= follow a longer path than the usual one because it is more attractive) |  | Destination C1–C2 · idiom |
+| 13912 | take the shape of | có hình dạng |  | Destination C1–C2 · collocation |
+| 13913 | take the view that | cho rằng |  | Destination C1–C2 · collocation |
+| 13914 | take the wheel | cầm lái |  | Destination C1–C2 · collocation |
 | 13915 | take time | tốn thời gian/ cần thời gian |  | Destination C1–C2 · collocation |
 | 13916 | take time off | nghỉ phép |  | Word Skills Intermediate |
 | 13917 | take to | kéo xuống (đường biểu tình) (= begin to like someone or something) (= start doing something as a habit) |  | Word Skills Advanced, Destination C1–C2 · phrasal verb |
 | 13918 | take turns | Thay phiên nhau? |  | TOEIC (Hackers) |
 | 13919 | Take up | Bắt đầu làm, bắt đầu tham gia | /teɪk ʌp/ | IELTS · Entertainment and media |
-| 13920 | take up arms (against) |  |  | Destination C1–C2 · collocation |
-| 13921 | take your mind off |  |  | Destination C1–C2 · collocation |
-| 13922 | take your own life |  |  | Destination C1–C2 · collocation |
-| 13923 | take/assume the form of |  |  | Destination C1–C2 · collocation |
-| 13924 | take/be a moment |  |  | Destination C1–C2 · collocation |
-| 13925 | take/have a rest (from) |  |  | Destination C1–C2 · collocation |
-| 13926 | take/have/need a break |  |  | Destination C1–C2 · collocation |
-| 13927 | take/hold the lead |  |  | Destination C1–C2 · collocation |
-| 13928 | take/make/hazard a guess (at) |  |  | Destination C1–C2 · collocation |
-| 13929 | take/seize/hold/exercise/exert/wield/abuse power |  |  | Destination C1–C2 · collocation |
-| 13930 | take/spend ages (doing) |  |  | Destination C1–C2 · collocation |
+| 13920 | take up arms (against) | cầm vũ khí (chống lại) |  | Destination C1–C2 · collocation |
+| 13921 | take your mind off | làm quên đi, xao lãng |  | Destination C1–C2 · collocation |
+| 13922 | take your own life | tự tử |  | Destination C1–C2 · collocation |
+| 13923 | take/assume the form of | có hình thức là |  | Destination C1–C2 · collocation |
+| 13924 | take/be a moment | mất một chút thôi |  | Destination C1–C2 · collocation |
+| 13925 | take/have a rest (from) | nghỉ ngơi |  | Destination C1–C2 · collocation |
+| 13926 | take/have/need a break | nghỉ giải lao |  | Destination C1–C2 · collocation |
+| 13927 | take/hold the lead | dẫn đầu |  | Destination C1–C2 · collocation |
+| 13928 | take/make/hazard a guess (at) | thử đoán |  | Destination C1–C2 · collocation |
+| 13929 | take/seize/hold/exercise/exert/wield/abuse power | nắm / giành / thực thi / lạm dụng quyền lực |  | Destination C1–C2 · collocation |
+| 13930 | take/spend ages (doing) | mất cả buổi (làm gì) |  | Destination C1–C2 · collocation |
 | 13931 | takeover | tiếp thu, tiếp quản công ty |  | TOEIC (Hackers), Word Skills Intermediate/Advanced |
 | 13932 | tale | câu chuyện |  | Oxford 3000 · B2 · n |
 | 13933 | talent | tài năng |  | Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 13934 | Talent acquisition | Tuyển dụng nhân tài | /ˈtælənt ˌæk.wɪˈzɪʃən/ | IELTS · Employment |
 | 13935 | talented | Có tài.; Tài năng, có năng khiếu | /ˈtæləntɪd/ | TOEIC (Hackers), IELTS · Celebrity, Word Skills Intermediate, Oxford 3000 · B1 · adj |
 | 13936 | talk | nói chuyện |  | Oxford 3000 · A1 · n, v |
-| 13937 | talk down to | (= talk to someone as if you think they are not as clever or important as you are) |  | Destination C1–C2 · phrasal verb |
-| 13938 | talk is cheap |  |  | Destination C1–C2 · collocation |
+| 13937 | talk down to | nói với giọng kẻ cả, coi thường (= talk to someone as if you think they are not as clever or important as you are) |  | Destination C1–C2 · phrasal verb |
+| 13938 | talk is cheap | nói thì dễ |  | Destination C1–C2 · collocation |
 | 13939 | talk over | bàn bạc (= discuss a problem or a plan) |  | Destination C1–C2 · phrasal verb |
-| 13940 | talk round | (= discuss something in a general way and without dealing with the most important issues) (= succeed in persuading someone to agree to something) |  | Destination C1–C2 · phrasal verb |
+| 13940 | talk round | nói vòng vo; thuyết phục được (= discuss something in a general way and without dealing with the most important issues) (= succeed in persuading someone to agree to something) |  | Destination C1–C2 · phrasal verb |
 | 13941 | talk sb into | thuyết phục ai |  | Word Skills Advanced |
-| 13942 | talk sb into out of (doing) |  |  | Destination C1–C2 · collocation |
-| 13943 | talk sense into |  |  | Destination C1–C2 · collocation |
+| 13942 | talk sb into out of (doing) | thuyết phục ai làm / không làm |  | Destination C1–C2 · collocation |
+| 13943 | talk sense into | nói cho ai hiểu lẽ phải |  | Destination C1–C2 · collocation |
 | 13944 | Talk show | Chương trình nói chuyện | /tɔːk ʃoʊ/ | IELTS · Entertainment and media |
 | 13945 | talk sth up | thổi phồng |  | Word Skills Advanced |
-| 13946 | talk the same language as |  |  | Destination C1–C2 · collocation |
-| 13947 | talk your way into out of (doing) |  |  | Destination C1–C2 · collocation |
+| 13946 | talk the same language as | có cùng quan điểm với |  | Destination C1–C2 · collocation |
+| 13947 | talk your way into out of (doing) | dùng lời để thoát / đạt được |  | Destination C1–C2 · collocation |
 | 13948 | Tall | Cao | /tɔːl/ | IELTS · Appearance, Word Skills Basic, Oxford 3000 · A1 · adj |
 | 13949 | tallish | hơi cao |  | Word Skills Intermediate |
 | 13950 | Tambourine | Trống lê | /ˌtæmbəˈrin/ | IELTS · Music |
@@ -14036,12 +14036,12 @@
 | 14024 | Television | Truyền hình | /ˈtɛlɪˌvɪʒən/ | IELTS · Advertising, IELTS · Entertainment and media, Word Skills Basic/Intermediate, Oxford 3000 · A1 · n |
 | 14025 | Television advertising | Quảng cáo trên truyền hình | /ˈtɛlɪˌvɪʒən ˈædvərˌtaɪzɪŋ/ | IELTS · Advertising |
 | 14026 | tell | kể, bảo |  | Word Skills Intermediate, Oxford 3000 · A1 · v |
-| 14027 | tell it like it is |  |  | Destination C1–C2 · collocation |
-| 14028 | tell tales | (= tell someone in authority about bad things that someone else has done, because you want th…) |  | Destination C1–C2 · idiom |
-| 14029 | tell the difference (between) |  |  | Destination C1–C2 · collocation |
-| 14030 | tell the time |  |  | Destination C1–C2 · collocation |
-| 14031 | tell the truth a lie |  |  | Destination C1–C2 · collocation |
-| 14032 | tell yourself (that) |  |  | Destination C1–C2 · collocation |
+| 14027 | tell it like it is | nói thẳng sự thật |  | Destination C1–C2 · collocation |
+| 14028 | tell tales | mách lẻo (= tell someone in authority about bad things that someone else has done, because you want th…) |  | Destination C1–C2 · idiom |
+| 14029 | tell the difference (between) | phân biệt |  | Destination C1–C2 · collocation |
+| 14030 | tell the time | xem giờ |  | Destination C1–C2 · collocation |
+| 14031 | tell the truth a lie | nói thật / nói dối |  | Destination C1–C2 · collocation |
+| 14032 | tell yourself (that) | tự nhủ (rằng) |  | Destination C1–C2 · collocation |
 | 14033 | telling | Chia sẻ |  | TOEIC (Hackers) |
 | 14034 | telly | tivi |  | Word Skills Intermediate |
 | 14035 | temperature | nhiệt độ | /ˈtɛmprətʃər/ | TOEIC (Hackers), IELTS · Weather, Word Skills Basic, Oxford 3000 · A2 · n |
@@ -14068,8 +14068,8 @@
 | 14056 | tenure | nhiệm kỳ |  | Oxford 5000 · C1 · n |
 | 14057 | Tequila | Tequila | /tɪˈkiːlə/ | IELTS · Food and Drink |
 | 14058 | term | khóa |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · n, v |
-| 14059 | term of/in office |  |  | Destination C1–C2 · collocation |
-| 14060 | term time |  |  | Destination C1–C2 · collocation |
+| 14059 | term of/in office | nhiệm kỳ |  | Destination C1–C2 · collocation |
+| 14060 | term time | thời gian học kỳ |  | Destination C1–C2 · collocation |
 | 14061 | terminal | thiết bị đầu cuối |  | TOEIC (Hackers), Word Skills Basic, Oxford 5000 · B2 · adj, n |
 | 14062 | terminate | kết thúc |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · v |
 | 14063 | terminology | Thuật ngữ |  | TOEIC (Hackers) |
@@ -14090,7 +14090,7 @@
 | 14078 | terrorist | khủng bố |  | Oxford 5000 · B2 · n |
 | 14079 | Tertiary colors | Màu sắc thứ ba | /ˈtɜrʃiˌɛri ˈkʌlərz/ | IELTS · Art |
 | 14080 | test | tiếng Anh; Bài kiểm tra | /tɛst/ | TOEIC (Hackers), IELTS · Education, Word Skills Intermediate, Oxford 3000 · A1 · n, v |
-| 14081 | test out | (= try using something such as a machine or product to find out whether it works correctly or…) |  | Destination C1–C2 · phrasal verb |
+| 14081 | test out | thử nghiệm, dùng thử (= try using something such as a machine or product to find out whether it works correctly or…) |  | Destination C1–C2 · phrasal verb |
 | 14082 | testify | làm chứng |  | Oxford 5000 · C1 · v |
 | 14083 | testimonial | Chứng nhận |  | TOEIC (Hackers) |
 | 14084 | testimony | lời khai | /tɛstəmoʊni/ | TOEIC (Hackers), IELTS · Crime, Oxford 5000 · C1 · n |
@@ -14111,73 +14111,73 @@
 | 14099 | thanks | cảm ơn |  | Word Skills Basic, Oxford 3000 · A1 · exclam, n |
 | 14100 | thanks to | & CÃ¡m Æ¡n: |  | TOEIC (Hackers) |
 | 14101 | that | đó, điều đó; rằng |  | Oxford 3000 · A1 · adv, conj, det, pron |
-| 14102 | that would be telling |  |  | Destination C1–C2 · collocation |
+| 14102 | that would be telling | bí mật, không nói được |  | Destination C1–C2 · collocation |
 | 14103 | that's about the size of it | đại khái là vậy/ nói chung là thể 7 |  | Destination C1–C2 · collocation |
 | 14104 | that's all | thế thôi |  | Word Skills Basic |
 | 14105 | that's life | đời là vậy |  | Destination C1–C2 · collocation |
 | 14106 | that's very kind of you | bạn thật tốt bụng |  | Word Skills Basic |
 | 14107 | the | (mạo từ xác định) |  | Oxford 3000 · A1 · definite article |
-| 14108 | the authorities |  |  | Destination C1–C2 · collocation |
+| 14108 | the authorities | nhà chức trách |  | Destination C1–C2 · collocation |
 | 14109 | the best of both worlds | vẹn cả đôi đường |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 14110 | the best thing | điều tốt nhất |  | Word Skills Advanced |
-| 14111 | the bottom drops/falls out of |  |  | Destination C1–C2 · collocation |
-| 14112 | the brains behind |  |  | Destination C1–C2 · collocation |
+| 14111 | the bottom drops/falls out of | (thị trường) sụp đổ |  | Destination C1–C2 · collocation |
+| 14112 | the brains behind | bộ óc đứng sau |  | Destination C1–C2 · collocation |
 | 14113 | the bubble will burst | bong bóng sẽ vỡ |  | Word Skills Advanced |
-| 14114 | the chance to do |  |  | Destination C1–C2 · collocation |
-| 14115 | the Christmas/etc rush |  |  | Destination C1–C2 · collocation |
-| 14116 | the common people |  |  | Destination C1–C2 · collocation |
-| 14117 | the demand for |  |  | Destination C1–C2 · collocation |
-| 14118 | the depths of |  |  | Destination C1–C2 · collocation |
+| 14114 | the chance to do | cơ hội để làm |  | Destination C1–C2 · collocation |
+| 14115 | the Christmas/etc rush | cao điểm mua sắm Giáng sinh |  | Destination C1–C2 · collocation |
+| 14116 | the common people | người dân thường |  | Destination C1–C2 · collocation |
+| 14117 | the demand for | nhu cầu về |  | Destination C1–C2 · collocation |
+| 14118 | the depths of | tận cùng của (mùa đông, nỗi tuyệt vọng) |  | Destination C1–C2 · collocation |
 | 14119 | the dust settles | mọi chuyện lắng xuống |  | Word Skills Advanced |
-| 14120 | the edge over | (= an advantage that makes someone or something more successful than other people or things) |  | Destination C1–C2 · idiom |
+| 14120 | the edge over | lợi thế hơn (= an advantage that makes someone or something more successful than other people or things) |  | Destination C1–C2 · idiom |
 | 14121 | the end justifies the means | mục đích biện minh cho phương tiện |  | Word Skills Advanced |
 | 14122 | the faintest idea | chút ý niệm nào |  | Word Skills Advanced |
-| 14123 | the focus of/for |  |  | Destination C1–C2 · collocation |
+| 14123 | the focus of/for | trọng tâm của |  | Destination C1–C2 · collocation |
 | 14124 | the following day | Ngày hôm sau |  | TOEIC (Hackers) |
-| 14125 | the greenhouse effect |  |  | Destination C1–C2 · collocation |
-| 14126 | the halfway mark |  |  | Destination C1–C2 · collocation |
+| 14125 | the greenhouse effect | hiệu ứng nhà kính |  | Destination C1–C2 · collocation |
+| 14126 | the halfway mark | nửa chặng đường |  | Destination C1–C2 · collocation |
 | 14127 | The industrialized world | Thế giới công nghiệp hóa | /ði ɪnˈdʌstriəˌlaɪzd wɜrld/ | IELTS · Globalization |
 | 14128 | the key to | chìa khóa của |  | Word Skills Advanced |
-| 14129 | the letter of the law |  |  | Destination C1–C2 · collocation |
-| 14130 | the luck of the draw | (used for saying people have limited control over what life brings them) |  | Destination C1–C2 · idiom, Destination C1–C2 · collocation |
-| 14131 | the moment of truth |  |  | Destination C1–C2 · collocation |
+| 14129 | the letter of the law | câu chữ của luật |  | Destination C1–C2 · collocation |
+| 14130 | the luck of the draw | may rủi, hên xui (used for saying people have limited control over what life brings them) |  | Destination C1–C2 · idiom, Destination C1–C2 · collocation |
+| 14131 | the moment of truth | giây phút quyết định |  | Destination C1–C2 · collocation |
 | 14132 | the more the merrier | cảng đông càng vui |  | Word Skills Advanced |
-| 14133 | the mother of |  |  | Destination C1–C2 · collocation |
-| 14134 | the nature of |  |  | Destination C1–C2 · collocation |
-| 14135 | the near future |  |  | Destination C1–C2 · collocation |
-| 14136 | the nearest thing to |  |  | Destination C1–C2 · collocation |
+| 14133 | the mother of | (cái) to nhất, khủng khiếp nhất |  | Destination C1–C2 · collocation |
+| 14134 | the nature of | bản chất của |  | Destination C1–C2 · collocation |
+| 14135 | the near future | tương lai gần |  | Destination C1–C2 · collocation |
+| 14136 | the nearest thing to | thứ gần giống nhất với |  | Destination C1–C2 · collocation |
 | 14137 | the next best | tốt nhất tiếp theo |  | TOEIC (Hackers) |
-| 14138 | the odds are (that) |  |  | Destination C1–C2 · collocation |
-| 14139 | the odds are in favour of/against |  |  | Destination C1–C2 · collocation |
-| 14140 | the odds of doing |  |  | Destination C1–C2 · collocation |
-| 14141 | the Old Testament |  |  | Destination C1–C2 · collocation |
-| 14142 | the older/younger generation |  |  | Destination C1–C2 · collocation |
-| 14143 | the option of doing |  |  | Destination C1–C2 · collocation |
-| 14144 | the option to do |  |  | Destination C1–C2 · collocation |
-| 14145 | the outskirts/edge of town |  |  | Destination C1–C2 · collocation |
+| 14138 | the odds are (that) | nhiều khả năng là |  | Destination C1–C2 · collocation |
+| 14139 | the odds are in favour of/against | tình thế có lợi / bất lợi cho |  | Destination C1–C2 · collocation |
+| 14140 | the odds of doing | khả năng làm được |  | Destination C1–C2 · collocation |
+| 14141 | the Old Testament | Kinh Cựu Ước |  | Destination C1–C2 · collocation |
+| 14142 | the older/younger generation | thế hệ đi trước / trẻ |  | Destination C1–C2 · collocation |
+| 14143 | the option of doing | lựa chọn làm gì |  | Destination C1–C2 · collocation |
+| 14144 | the option to do | quyền chọn làm gì |  | Destination C1–C2 · collocation |
+| 14145 | the outskirts/edge of town | ngoại ô / rìa thị trấn |  | Destination C1–C2 · collocation |
 | 14146 | The ozone layer | Tầng ozon | /ˈəʊ.zəʊn ˌleɪ.ər/ | IELTS · Environment |
-| 14147 | the pen is mightier than the sword |  |  | Destination C1–C2 · collocation |
+| 14147 | the pen is mightier than the sword | ngòi bút mạnh hơn gươm giáo |  | Destination C1–C2 · collocation |
 | 14148 | the point is | điểm chính là |  | Word Skills Intermediate |
 | 14149 | the pot calling the kettle black | chó chê mèo lắm lông |  | Word Skills Advanced |
-| 14150 | the powers that be | (= the people who control a situation) |  | Destination C1–C2 · idiom |
-| 14151 | the process of |  |  | Destination C1–C2 · collocation |
-| 14152 | the purpose of doing |  |  | Destination C1–C2 · collocation |
-| 14153 | the right moment (to/for) |  |  | Destination C1–C2 · collocation |
-| 14154 | the risk of |  |  | Destination C1–C2 · collocation |
+| 14150 | the powers that be | những người có quyền thế, cấp trên (= the people who control a situation) |  | Destination C1–C2 · idiom |
+| 14151 | the process of | quá trình |  | Destination C1–C2 · collocation |
+| 14152 | the purpose of doing | mục đích của việc làm |  | Destination C1–C2 · collocation |
+| 14153 | the right moment (to/for) | thời điểm thích hợp (để) |  | Destination C1–C2 · collocation |
+| 14154 | the risk of | nguy cơ |  | Destination C1–C2 · collocation |
 | 14155 | the same to you | bạn cũng vậy nhé |  | Word Skills Basic |
-| 14156 | the scene of a crime |  |  | Destination C1–C2 · collocation |
+| 14156 | the scene of a crime | hiện trường vụ án |  | Destination C1–C2 · collocation |
 | 14157 | the secret of | bí quyết của |  | Word Skills Advanced |
 | 14158 | the secret of your success | bí quyết thành công |  | Word Skills Advanced |
-| 14159 | the subject of |  |  | Destination C1–C2 · collocation |
-| 14160 | the talk of |  |  | Destination C1–C2 · collocation |
+| 14159 | the subject of | chủ đề của |  | Destination C1–C2 · collocation |
+| 14160 | the talk of | đề tài bàn tán của |  | Destination C1–C2 · collocation |
 | 14161 | the thing is | vấn đề là |  | Word Skills Advanced |
 | 14162 | the tide is turning | tình thế đang xoay chuyển |  | Word Skills Advanced |
-| 14163 | the tools of the trade | (= the skills and equipment that you need in order to do your job) |  | Destination C1–C2 · idiom |
-| 14164 | the town of |  |  | Destination C1–C2 · collocation |
+| 14163 | the tools of the trade | đồ nghề, kỹ năng cần cho nghề (= the skills and equipment that you need in order to do your job) |  | Destination C1–C2 · idiom |
+| 14164 | the town of | thị trấn |  | Destination C1–C2 · collocation |
 | 14165 | the way things are | tình hình hiện nay |  | Word Skills Advanced |
-| 14166 | the worst of all/both worlds |  |  | Destination C1–C2 · collocation |
-| 14167 | (the) rich and (the) poor |  |  | Destination C1–C2 · collocation |
-| 14168 | the/sb's chances of (doing) |  |  | Destination C1–C2 · collocation |
+| 14166 | the worst of all/both worlds | tệ cả đôi đường |  | Destination C1–C2 · collocation |
+| 14167 | (the) rich and (the) poor | người giàu và người nghèo |  | Destination C1–C2 · collocation |
+| 14168 | the/sb's chances of (doing) | khả năng (ai) làm được |  | Destination C1–C2 · collocation |
 | 14169 | theater | nhà hát; Rạp hát | /θiːətər/ | TOEIC (Hackers), IELTS · Entertainment and media, Oxford 3000 (Mỹ) · A1 · n |
 | 14170 | Theaters | Nhà hát | /ˈθiːətərz/ | IELTS · City |
 | 14171 | theatre | nhà hát (Anh) |  | Oxford 3000 · A1 · n |
@@ -14197,9 +14197,9 @@
 | 14185 | therapist | nhà trị liệu |  | Oxford 5000 · B2 · n |
 | 14186 | Therapy | Điều trị | /ˈθɛrəpi/ | IELTS · Health, Word Skills Advanced, Oxford 3000 · B2 · n |
 | 14187 | there | ở đó; có (there is) |  | Oxford 3000 · A1 · adv |
-| 14188 | there's every/no chance that |  |  | Destination C1–C2 · collocation |
+| 14188 | there's every/no chance that | rất có khả năng / không có khả năng là |  | Destination C1–C2 · collocation |
 | 14189 | there's no point in | chẳng có ích gì khi |  | Word Skills Intermediate |
-| 14190 | there's no telling |  |  | Destination C1–C2 · collocation |
+| 14190 | there's no telling | không thể biết được |  | Destination C1–C2 · collocation |
 | 14191 | there's nothing to do | chẳng có gì để làm |  | Word Skills Basic |
 | 14192 | thereabouts | khoảng đó |  | Word Skills Advanced |
 | 14193 | thereafter | sau đó |  | Oxford 5000 · C1 · adv |
@@ -14217,8 +14217,8 @@
 | 14205 | thickly | dày đặc; thành lớp dày |  | TOEIC (Hackers) |
 | 14206 | thief | kẻ trộm |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 14207 | thin | mỏng |  | Word Skills Basic, Oxford 3000 · A2 · adj |
-| 14208 | thin on the ground |  |  | Destination C1–C2 · collocation |
-| 14209 | thin on top |  |  | Destination C1–C2 · collocation |
+| 14208 | thin on the ground | hiếm hoi |  | Destination C1–C2 · collocation |
+| 14209 | thin on top | (tóc) thưa trên đỉnh, sắp hói |  | Destination C1–C2 · collocation |
 | 14210 | thing | thứ, điều, việc |  | Oxford 3000 · A1 · n |
 | 14211 | things | thứ, điều, việc |  | Word Skills Advanced |
 | 14212 | think | suy nghĩ |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · v |
@@ -14227,7 +14227,7 @@
 | 14215 | think sth up | nghĩ ra |  | Word Skills Advanced |
 | 14216 | think through | suy nghĩ thấu đáo (= consider the facts about something in an organised and thorough way) |  | Destination C1–C2 · phrasal verb |
 | 14217 | think up | nghĩ ra (= invent or imagine something, especially an excuse) |  | Word Skills Advanced, Destination C1–C2 · phrasal verb |
-| 14218 | think/see straight |  |  | Destination C1–C2 · collocation |
+| 14218 | think/see straight | suy nghĩ / nhìn nhận tỉnh táo |  | Destination C1–C2 · collocation |
 | 14219 | thinking | suy nghĩ |  | Oxford 3000 · A2 · n |
 | 14220 | third | thứ ba |  | Word Skills Basic, Oxford 3000 · A1 · n, number |
 | 14221 | third party | người thứ ba |  | TOEIC (Hackers) |
@@ -14238,7 +14238,7 @@
 | 14226 | this | cái này, điều này |  | Oxford 3000 · A1 · adv, det, pron |
 | 14227 | this evening, this weekend, etc | tối nay, cuối tuần này… |  | Word Skills Basic |
 | 14228 | this is (used on the phone) | Đây là . (used when introducing someone) |  | Word Skills Basic |
-| 14229 | this is the life |  |  | Destination C1–C2 · collocation |
+| 14229 | this is the life | sướng thật, đúng là cuộc sống |  | Destination C1–C2 · collocation |
 | 14230 | thorough | kỹ lưỡng |  | Word Skills Advanced, Oxford 5000 · B2 · adj |
 | 14231 | thoroughly | kỹ lưỡng, thấu đáo, triệt để |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 5000 · B2 · adv |
 | 14232 | though | mặc dù; dù vậy |  | Word Skills Intermediate, Oxford 3000 · B1 · adv, conj |
@@ -14249,7 +14249,7 @@
 | 14237 | thrash | đánh bại dễ dàng |  | Word Skills Advanced |
 | 14238 | thread | chuỗi bài (thread) |  | Word Skills Intermediate, Oxford 5000 · C1 · n |
 | 14239 | threat | mối đe dọa |  | Word Skills Intermediate, Oxford 3000 · B2 · n |
-| 14240 | threat of |  |  | Destination C1–C2 · collocation |
+| 14240 | threat of | mối đe doạ về |  | Destination C1–C2 · collocation |
 | 14241 | threaten | đe dọa |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · v |
 | 14242 | Threaten natural habitats | Đe dọa môi trường sống tự nhiên | /ˈθret.ən/ /ˈnætʃ.ər.əl ˈhæb.ɪ.tæt/ | IELTS · Environment |
 | 14243 | threatened with | bị đe dọa |  | Word Skills Advanced |
@@ -14273,7 +14273,7 @@
 | 14261 | throw up | nôn (= cause something such as dust or water to rise into the air) (= produce something new or unexpected) |  | Destination C1–C2 · phrasal verb |
 | 14262 | thumb | ngón tay cái |  | Word Skills Basic, Oxford 5000 · B2 · n |
 | 14263 | Thunder | Sấm | /ˈθʌndər/ | IELTS · Weather, Word Skills Basic |
-| 14264 | thunder and lightning |  |  | Destination C1–C2 · collocation |
+| 14264 | thunder and lightning | sấm chớp |  | Destination C1–C2 · collocation |
 | 14265 | thunderstorm | Dông; Cơn bão có sấm sét | /ˈθʌndərˌstɔrm/ | TOEIC (Hackers), IELTS · Weather |
 | 14266 | Thursday | thứ Năm |  | Oxford 3000 · A1 · n |
 | 14267 | thus | do đó |  | Word Skills Advanced, Oxford 3000 · B2 · adv |
@@ -14286,9 +14286,9 @@
 | 14274 | Tidal | Triều cường; Thủy triều | /ˈtaɪdl̩/ | IELTS · Environment, IELTS · Energy |
 | 14275 | Tidal wave | Sóng thủy triều | /ˈtaɪ.dəl weɪv/ | IELTS · Weather, Word Skills Intermediate |
 | 14276 | tide | thủy triều |  | Word Skills Intermediate, Oxford 5000 · C1 · n |
-| 14277 | tide over | (= help someone to get to the end of a difficult period of time, especially by giving them mo…) |  | Destination C1–C2 · phrasal verb |
+| 14277 | tide over | giúp vượt qua lúc khó khăn (tạm thời) (= help someone to get to the end of a difficult period of time, especially by giving them mo…) |  | Destination C1–C2 · phrasal verb |
 | 14278 | tidy | sạch sẽ, ngăn nắp, gọn gàng |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A2 · adj, v |
-| 14279 | tidy sum/amount | (= large sum/amount) |  | Destination C1–C2 · idiom |
+| 14279 | tidy sum/amount | một khoản tiền kha khá (= large sum/amount) |  | Destination C1–C2 · idiom |
 | 14280 | tidy up | dọn dẹp gọn |  | Word Skills Intermediate |
 | 14281 | tie | hòa |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · A2 · n, v |
 | 14282 | tie the boat to | buộc thuyền vào |  | TOEIC (Hackers) |
@@ -14324,7 +14324,7 @@
 | 14312 | tiny | tí hon |  | Word Skills Intermediate, Oxford 3000 · B1 · adj |
 | 14313 | tip | tiền boa |  | Oxford 3000 · A2 · n, v |
 | 14314 | tip the balance | làm lệch cán cân |  | Word Skills Advanced |
-| 14315 | tip up | (= (of an object) have one end move upwards, especially because something heavy has been put …) (= turn a container upside down so that the things inside it come out) |  | Destination C1–C2 · phrasal verb |
+| 14315 | tip up | nghiêng, lật lên; dốc ngược (đổ ra) (= (of an object) have one end move upwards, especially because something heavy has been put …) (= turn a container upside down so that the things inside it come out) |  | Destination C1–C2 · phrasal verb |
 | 14316 | tiptoe | đi nhón chân |  | Word Skills Advanced |
 | 14317 | tire | lốp xe |  | Oxford 3000 (Mỹ) · B1 · n |
 | 14318 | tired | mệt |  | Word Skills Basic, Oxford 3000 · A1 · adj |
@@ -14349,7 +14349,7 @@
 | 14337 | To be tone-deaf | Không có khả năng nghe nhạc, không cảm nhận âm nhạc | /tuː biː toʊn-diːf/ | IELTS · Entertainment and media |
 | 14338 | To binge watch | Xem liên tục, xem nhiều tập một lúc | /tuː bɪndʒ wɒtʃ/ | IELTS · Entertainment and media |
 | 14339 | To chill | Thư giãn, nghỉ ngơi | /tuː tʃɪl/ | IELTS · Entertainment and media |
-| 14340 | to date |  |  | Destination C1–C2 · collocation |
+| 14340 | to date | cho đến nay |  | Destination C1–C2 · collocation |
 | 14341 | To feel comfortable in | Cảm thấy thoải mái trong | /tuː fil ˈkʌm.fər.tə.bəl ɪn/ | IELTS · Fashion |
 | 14342 | To follow the latest fashion | Theo dõi xu hướng thời trang mới nhất | /tuː ˈfɑloʊ ðə ˈleɪ.tɪst ˈfæʃ.ən/ | IELTS · Fashion |
 | 14343 | to go | mang đi |  | Word Skills Intermediate |
@@ -14359,7 +14359,7 @@
 | 14347 | To launch a product | Ra mắt sản phẩm | /tuː lɔːntʃ ə ˈprɒdʌkt/ | IELTS · Advertising |
 | 14348 | To look natural | Trông tự nhiên | /tuː lʊk ˈnætʃ.ər.əl/ | IELTS · Fashion |
 | 14349 | to make matters worse | Tệ hơn nữa… |  | Destination C1–C2 · collocation |
-| 14350 | to sb's delight |  |  | Destination C1–C2 · collocation |
+| 14350 | to sb's delight | khiến ai vui sướng |  | Destination C1–C2 · collocation |
 | 14351 | to sb's face | trước mặt ai |  | Word Skills Advanced |
 | 14352 | To shop in trendy stores | Mua sắm tại các cửa hàng thời trang thịnh hành | /tuː ʃɑp ɪn ˈtrɛn.di stɔrz/ | IELTS · Fashion |
 | 14353 | to some | ở một mức độ nào đó |  | Word Skills Intermediate |
@@ -14369,12 +14369,12 @@
 | 14357 | to tell you the truth | nói thật với bạn |  | Word Skills Advanced |
 | 14358 | to that end | Để đạt được mục đích đó: |  | TOEIC (Hackers) |
 | 14359 | to the best of my knowledge | Theo những gì tôi biết… |  | Destination C1–C2 · collocation |
-| 14360 | to the best of sb's ability |  |  | Destination C1–C2 · collocation |
+| 14360 | to the best of sb's ability | hết khả năng của ai |  | Destination C1–C2 · collocation |
 | 14361 | to the point | đúng vào vấn đề |  | TOEIC (Hackers), Word Skills Advanced |
 | 14362 | To wear black | Mặc đồ màu đen | /tuː wɛr blæk/ | IELTS · Fashion |
 | 14363 | To wear designer labels | Mặc nhãn hiệu thiết kế | /tuː wɛr dɪˈzaɪ.nər ˈleɪ.bəlz/ | IELTS · Fashion |
 | 14364 | To wear make-up | Trang điểm | /tuː wɛr ˈmeɪk.ʌp/ | IELTS · Fashion |
-| 14365 | to/at a depth of |  |  | Destination C1–C2 · collocation |
+| 14365 | to/at a depth of | ở độ sâu |  | Destination C1–C2 · collocation |
 | 14366 | toad | Cóc |  | TOEIC (Hackers) |
 | 14367 | toasted sandwich | bánh sandwich nướng |  | Word Skills Basic |
 | 14368 | tobacco | thuốc lá |  | Oxford 5000 · C1 · n |
@@ -14406,8 +14406,8 @@
 | 14394 | took after | lấy sau |  | TOEIC (Hackers) |
 | 14395 | tool | dụng cụ |  | TOEIC (Hackers), Oxford 3000 · A2 · n |
 | 14396 | tool belt | dây đai dụng cụ |  | TOEIC (Hackers) |
-| 14397 | tool box |  |  | Destination C1–C2 · collocation |
-| 14398 | tool kit |  |  | Destination C1–C2 · collocation |
+| 14397 | tool box | hộp dụng cụ |  | Destination C1–C2 · collocation |
+| 14398 | tool kit | bộ đồ nghề |  | Destination C1–C2 · collocation |
 | 14399 | Tools | Công cụ | /tuːlz/ | IELTS · Art, Word Skills Intermediate |
 | 14400 | tooth | răng |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · n |
 | 14401 | toothache | Đau răng |  | TOEIC (Hackers), Word Skills Basic/Intermediate |
@@ -14415,8 +14415,8 @@
 | 14403 | toothpaste | kem đánh răng |  | Word Skills Basic |
 | 14404 | top | con quay (= clothes; highest part) |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · adj, n, v |
 | 14405 | top priority | ưu tiên hàng đầu |  | Word Skills Advanced, Destination C1–C2 · collocation |
-| 14406 | top prize |  |  | Destination C1–C2 · collocation |
-| 14407 | top secret tough get tough with |  |  | Destination C1–C2 · collocation |
+| 14406 | top prize | giải nhất |  | Destination C1–C2 · collocation |
+| 14407 | top secret tough get tough with | tối mật; cứng rắn với |  | Destination C1–C2 · collocation |
 | 14408 | top-of-the-line | - Đứng hàng đầu mà. |  | TOEIC (Hackers) |
 | 14409 | topic | chủ đề |  | Oxford 3000 · A1 · n |
 | 14410 | Tornado | Lốc xoáy | /tɔːrˈneɪdoʊ/ | IELTS · Weather |
@@ -14432,14 +14432,14 @@
 | 14420 | totally | hoàn toàn |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · adv |
 | 14421 | touch | chạm |  | Word Skills Basic/Intermediate, Oxford 3000 · A2 · n, v |
 | 14422 | touch down | hạ cánh |  | TOEIC (Hackers) |
-| 14423 | touch up | (= make a surface look better with small improvements) |  | Destination C1–C2 · phrasal verb |
+| 14423 | touch up | sửa sang chút ít, dặm lại (= make a surface look better with small improvements) |  | Destination C1–C2 · phrasal verb |
 | 14424 | touch up a photograph | chạm vào một bức ảnh |  | TOEIC (Hackers) |
-| 14425 | touch wood | (used when you have said that you have had good luck in order to prevent bad luck from happ…) |  | Destination C1–C2 · idiom |
+| 14425 | touch wood | cầu may (gõ gỗ), mong là không xui (used when you have said that you have had good luck in order to prevent bad luck from happ…) |  | Destination C1–C2 · idiom |
 | 14426 | tough | khó khăn; cứng rắn |  | Word Skills Advanced, Oxford 3000 · B2 · adj |
-| 14427 | tough guy |  |  | Destination C1–C2 · collocation |
-| 14428 | tough love |  |  | Destination C1–C2 · collocation |
-| 14429 | tough luck |  |  | Destination C1–C2 · collocation |
-| 14430 | tough on |  |  | Destination C1–C2 · collocation |
+| 14427 | tough guy | người cứng rắn |  | Destination C1–C2 · collocation |
+| 14428 | tough love | yêu thương nghiêm khắc |  | Destination C1–C2 · collocation |
+| 14429 | tough luck | xui thôi |  | Destination C1–C2 · collocation |
+| 14430 | tough on | khắt khe với |  | Destination C1–C2 · collocation |
 | 14431 | tour | tour; Tour diễn | /tʊr/ | TOEIC (Hackers), IELTS · Music, Word Skills Basic, Oxford 3000 · A2 · n, v |
 | 14432 | tour bus | Xe đưa Đoàn khởi hành tham quan:; Xe du lịch | /tʊr bʌs/ | TOEIC (Hackers), IELTS · Tourism |
 | 14433 | Tour guide | Hướng dẫn viên du lịch | /tʊr ɡaɪd/ | IELTS · Tourism |
@@ -14458,7 +14458,7 @@
 | 14446 | towing service | dịch vụ kéo xe |  | TOEIC (Hackers) |
 | 14447 | town | thị trấn |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 14448 | town centre | trung tâm thị trấn |  | Word Skills Basic, Destination C1–C2 · collocation |
-| 14449 | town planning |  |  | Destination C1–C2 · collocation |
+| 14449 | town planning | quy hoạch đô thị |  | Destination C1–C2 · collocation |
 | 14450 | Townhouse | Nhà liền kề | /ˈtaʊnhaʊs/ | IELTS · Housing and Architecture |
 | 14451 | toxic | độc hại |  | Word Skills Advanced, Oxford 5000 · C1 · adj |
 | 14452 | toxication | nhiễm độc |  | TOEIC (Hackers) |
@@ -14563,13 +14563,13 @@
 | 14551 | Treason | Phản quốc, phản bội | /triːzn/ | IELTS · Crime |
 | 14552 | treasure | kho báu |  | Oxford 5000 · B2 · n |
 | 14553 | treat | đối đãi, cư xử |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B1 · v |
-| 14554 | treat a/an illness/ disease/ patient/etc |  |  | Destination C1–C2 · collocation |
-| 14555 | treat cruelly/badly/fairly/unjustly |  |  | Destination C1–C2 · collocation |
-| 14556 | treat sb for |  |  | Destination C1–C2 · collocation |
-| 14557 | treat sb like |  |  | Destination C1–C2 · collocation |
-| 14558 | treat sb to |  |  | Destination C1–C2 · collocation |
-| 14559 | treat sb with |  |  | Destination C1–C2 · collocation |
-| 14560 | treat sb with respect |  |  | Destination C1–C2 · collocation |
+| 14554 | treat a/an illness/ disease/ patient/etc | điều trị bệnh / bệnh nhân |  | Destination C1–C2 · collocation |
+| 14555 | treat cruelly/badly/fairly/unjustly | đối xử tàn nhẫn / tệ / công bằng / bất công |  | Destination C1–C2 · collocation |
+| 14556 | treat sb for | điều trị cho ai (bệnh) |  | Destination C1–C2 · collocation |
+| 14557 | treat sb like | đối xử với ai như |  | Destination C1–C2 · collocation |
+| 14558 | treat sb to | đãi ai |  | Destination C1–C2 · collocation |
+| 14559 | treat sb with | đối xử với ai bằng |  | Destination C1–C2 · collocation |
+| 14560 | treat sb with respect | đối xử tôn trọng với ai |  | Destination C1–C2 · collocation |
 | 14561 | treatment | đối xử; Điều trị | /ˈtritmənt/ | TOEIC (Hackers), IELTS · Health, Word Skills Intermediate, Oxford 3000 · B1 · n |
 | 14562 | Treaty | Hiệp định, hiệp ước | /ˈtriːti/ | IELTS · History and Heritage, Oxford 5000 · C1 · n |
 | 14563 | tree | cây |  | Word Skills Basic, Oxford 3000 · A1 · n |
@@ -14623,7 +14623,7 @@
 | 14611 | trout | cá hồi suối |  | Word Skills Intermediate |
 | 14612 | Truck | Xe tải | /trʌk/ | IELTS · Transportation, Word Skills Intermediate, Oxford 3000 · A2 · n |
 | 14613 | true | đúng, thật |  | Word Skills Basic, Oxford 3000 · A1 · adj |
-| 14614 | true love |  |  | Destination C1–C2 · collocation |
+| 14614 | true love | tình yêu đích thực |  | Destination C1–C2 · collocation |
 | 14615 | truly | đúng sự thật, đích thực |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · B2 · adv |
 | 14616 | Trumpet | Kèn trumpet | /ˈtrʌmpɪt/ | IELTS · Music, Word Skills Intermediate |
 | 14617 | Trumpeter | Người chơi kèn trumpet | /ˈtrʌmpətər/ | IELTS · Music, Word Skills Intermediate |
@@ -14632,7 +14632,7 @@
 | 14620 | trust | sự tin cậy; Niềm tin | /trʌst/ | TOEIC (Hackers), IELTS · Family and Relationships, Word Skills Intermediate, Oxford 3000 · B2 · n, v |
 | 14621 | trust company | công ty tín thác |  | TOEIC (Hackers) |
 | 14622 | Trust issues | Vấn đề tin tưởng | /trʌst ˈɪʃuːz/ | IELTS · Family and Relationships |
-| 14623 | trust to luck |  |  | Destination C1–C2 · collocation |
+| 14623 | trust to luck | trông vào may rủi |  | Destination C1–C2 · collocation |
 | 14624 | trustee | viên quản lý tài sản |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 14625 | trustworthy | đáng tin cậy |  | TOEIC (Hackers), Word Skills Advanced |
 | 14626 | truth | sự thật |  | Oxford 3000 · B1 · n |
@@ -14661,10 +14661,10 @@
 | 14649 | Turkish | (thuộc) Thổ Nhĩ Kỳ |  | Word Skills Basic |
 | 14650 | turmoil | tình trạng hỗn loạn |  | Word Skills Advanced |
 | 14651 | turn | vặn, xoay |  | Oxford 3000 · A1 · n, v |
-| 14652 | turn 40/etc |  |  | Destination C1–C2 · collocation |
-| 14653 | turn a gun/etc on sb |  |  | Destination C1–C2 · collocation |
+| 14652 | turn 40/etc | bước sang tuổi 40 |  | Destination C1–C2 · collocation |
+| 14653 | turn a gun/etc on sb | chĩa súng vào ai |  | Destination C1–C2 · collocation |
 | 14654 | turn away | QUAY LẠI |  | TOEIC (Hackers) |
-| 14655 | turn cold/nasty/etc |  |  | Destination C1–C2 · collocation |
+| 14655 | turn cold/nasty/etc | trở lạnh / xấu đi |  | Destination C1–C2 · collocation |
 | 14656 | turn down | bác bỏ |  | TOEIC (Hackers), Word Skills Intermediate |
 | 14657 | turn in | Quay người! |  | TOEIC (Hackers) |
 | 14658 | turn into | biến thành (= change or develop into something different) (= make someone or something change or develop into something different) |  | Destination C1–C2 · phrasal verb |
@@ -14678,8 +14678,8 @@
 | 14666 | turn something on | bật |  | Word Skills Basic |
 | 14667 | turn sth down | từ chối; vặn nhỏ |  | Word Skills Advanced |
 | 14668 | turn to | chuyển sang |  | TOEIC (Hackers) |
-| 14669 | turn to do sth |  |  | Destination C1–C2 · collocation |
-| 14670 | turn to sb |  |  | Destination C1–C2 · collocation |
+| 14669 | turn to do sth | quay sang làm gì |  | Destination C1–C2 · collocation |
+| 14670 | turn to sb | tìm đến ai (nhờ giúp) |  | Destination C1–C2 · collocation |
 | 14671 | turn up | Di chuyển theo hướng lên trên |  | TOEIC (Hackers), Word Skills Intermediate/Advanced |
 | 14672 | turning | chỗ rẽ |  | Word Skills Basic |
 | 14673 | turnout | số người tham gia |  | Word Skills Advanced, Oxford 5000 · C1 · n |
@@ -14750,19 +14750,19 @@
 | 14738 | undeniable | Không nghi ngờ gì nữa. |  | TOEIC (Hackers) |
 | 14739 | under | dưới (= less than; position) |  | Word Skills Basic/Advanced, Oxford 3000 · A1 · adv, prep |
 | 14740 | under a contract | theo hợp đồng |  | TOEIC (Hackers) |
-| 14741 | under age |  |  | Destination C1–C2 · collocation |
+| 14741 | under age | chưa đủ tuổi |  | Destination C1–C2 · collocation |
 | 14742 | under attack | bị tấn công |  | Word Skills Advanced |
-| 14743 | under consideration |  |  | Destination C1–C2 · collocation |
+| 14743 | under consideration | đang được xem xét |  | Destination C1–C2 · collocation |
 | 14744 | under construction | hiện đang xây dựng |  | TOEIC (Hackers), Word Skills Advanced |
 | 14745 | under control | Trong Tầm Kiểm Soát |  | TOEIC (Hackers), Word Skills Advanced |
 | 14746 | under discussion | đang được thảo luận |  | Word Skills Advanced, Destination C1–C2 · collocation |
 | 14747 | under investigation | đang bị điều tra |  | Word Skills Advanced |
-| 14748 | under lock and key |  |  | Destination C1–C2 · collocation |
+| 14748 | under lock and key | được khoá kỹ |  | Destination C1–C2 · collocation |
 | 14749 | under pressure | chịu áp lực |  | Word Skills Advanced |
-| 14750 | under sb's thumb | (= completely controlled by someone else) |  | Destination C1–C2 · idiom |
-| 14751 | under the impression that |  |  | Destination C1–C2 · collocation |
+| 14750 | under sb's thumb | bị ai đó kiểm soát hoàn toàn (= completely controlled by someone else) |  | Destination C1–C2 · idiom |
+| 14751 | under the impression that | cứ tưởng rằng |  | Destination C1–C2 · collocation |
 | 14752 | under the microscope | bị soi xét |  | Word Skills Advanced |
-| 14753 | under the misapprehension that |  |  | Destination C1–C2 · collocation |
+| 14753 | under the misapprehension that | hiểu lầm rằng |  | Destination C1–C2 · collocation |
 | 14754 | under the new management | dưới sự quản lý mới |  | TOEIC (Hackers) |
 | 14755 | under the supervision of | dưới sự giám sát của |  | TOEIC (Hackers) |
 | 14756 | under the weather | hơi mệt, khó ở |  | Word Skills Advanced, Destination C1–C2 · collocation |
@@ -14775,7 +14775,7 @@
 | 14763 | underestimate | sự đánh giá quá thấp |  | TOEIC (Hackers), Word Skills Intermediate |
 | 14764 | underfed | thiếu ăn |  | Word Skills Advanced |
 | 14765 | undergo | thực hiện |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · B2 · v |
-| 14766 | undergo a change |  |  | Destination C1–C2 · collocation |
+| 14766 | undergo a change | trải qua thay đổi |  | Destination C1–C2 · collocation |
 | 14767 | undergo renovation | trải qua cải tạo |  | TOEIC (Hackers) |
 | 14768 | undergraduate | Đại học; Sinh viên đại học | /ˌʌndərˈɡræʤuˌeɪt/ | TOEIC (Hackers), IELTS · Education, Word Skills Basic/Intermediate |
 | 14769 | underground | ngầm dưới đất; ngầm |  | TOEIC (Hackers), Oxford 3000 · A2 · adj, adv |
@@ -14873,7 +14873,7 @@
 | 14861 | untidy | bừa bộn |  | Word Skills Basic |
 | 14862 | untie | cởi (dây) |  | Word Skills Intermediate |
 | 14863 | until | cho đến khi |  | Word Skills Basic, Oxford 3000 · A1 · conj, prep |
-| 14864 | until further notice |  |  | Destination C1–C2 · collocation |
+| 14864 | until further notice | cho đến khi có thông báo mới |  | Destination C1–C2 · collocation |
 | 14865 | until the first of next month | cho đến ngày đầu tiên của tháng tiếp theo |  | TOEIC (Hackers) |
 | 14866 | untimely | không đúng lúc |  | TOEIC (Hackers) |
 | 14867 | unused | không dùng |  | TOEIC (Hackers) |
@@ -14886,10 +14886,10 @@
 | 14874 | up | lên |  | Word Skills Basic, Oxford 3000 · A1 · adv, prep |
 | 14875 | up against it | gặp khó khăn |  | Word Skills Advanced |
 | 14876 | up in arms (about) | phản đối kịch liệt |  | Destination C1–C2 · collocation |
-| 14877 | up in arms about | (= angry and complaining about something) |  | Destination C1–C2 · idiom |
+| 14877 | up in arms about | phản đối kịch liệt, bất bình về (= angry and complaining about something) |  | Destination C1–C2 · idiom |
 | 14878 | up to | lên đến |  | TOEIC (Hackers), Word Skills Intermediate |
 | 14879 | up to a point | ở chừng mực nào đó |  | Destination C1–C2 · collocation |
-| 14880 | up to now |  |  | Destination C1–C2 · collocation |
+| 14880 | up to now | cho tới nay |  | Destination C1–C2 · collocation |
 | 14881 | up-and-down | - Cứ trượt tới, lui như thế. |  | TOEIC (Hackers) |
 | 14882 | up-to-date | kiểu mới |  | TOEIC (Hackers), Word Skills Advanced |
 | 14883 | upbeat | lạc quan |  | TOEIC (Hackers) |
@@ -14908,7 +14908,7 @@
 | 14896 | ups and downs | những thăng trầm |  | Word Skills Advanced |
 | 14897 | upset | làm đồ, đánh đồ; Làm đau lòng, làm lo lắng | /ʌpˈsɛt/ | TOEIC (Hackers), IELTS · Accident, Word Skills Basic/Intermediate, Oxford 3000 · B1 · adj, v |
 | 14898 | upset stomach | đau bụng, khó tiêu |  | Word Skills Advanced |
-| 14899 | upset/ alter/redress the balance |  |  | Destination C1–C2 · collocation |
+| 14899 | upset/ alter/redress the balance | phá vỡ / thay đổi / lập lại thế cân bằng |  | Destination C1–C2 · collocation |
 | 14900 | upside down | SKY: Đảo lộn. HARRY: |  | TOEIC (Hackers) |
 | 14901 | upstairs | tầng trên |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · adj, adv |
 | 14902 | upturn | sự khởi sắc |  | Word Skills Intermediate |
@@ -14929,10 +14929,10 @@
 | 14917 | USA (United States of America) | Hoa Kỳ |  | Word Skills Basic |
 | 14918 | usage | cách dùng |  | Oxford 5000 · B2 · n |
 | 14919 | use | dùng, sử dụng |  | Word Skills Basic, Oxford 3000 · A1 · n, v |
-| 14920 | use sth as |  |  | Destination C1–C2 · collocation |
-| 14921 | use sth for (doing) |  |  | Destination C1–C2 · collocation |
-| 14922 | use sth properly |  |  | Destination C1–C2 · collocation |
-| 14923 | use sth to do |  |  | Destination C1–C2 · collocation |
+| 14920 | use sth as | dùng cái gì như là |  | Destination C1–C2 · collocation |
+| 14921 | use sth for (doing) | dùng cái gì để |  | Destination C1–C2 · collocation |
+| 14922 | use sth properly | dùng đúng cách |  | Destination C1–C2 · collocation |
+| 14923 | use sth to do | dùng cái gì để làm |  | Destination C1–C2 · collocation |
 | 14924 | use up | dùng hết (= use all of a supply of something) |  | Destination C1–C2 · phrasal verb |
 | 14925 | used | đã dùng; quen với |  | Oxford 3000 · B1 · adj |
 | 14926 | used to | đã từng |  | Oxford 3000 · A2 · adj, modal v |
@@ -15053,8 +15053,8 @@
 | 15041 | Video conferencing | Hội nghị trực tuyến | /ˈvɪdi.oʊ ˈkɑːnfərənsɪŋ/ | IELTS · Technology |
 | 15042 | videoblog | vlog |  | Word Skills Advanced |
 | 15043 | view | xem |  | TOEIC (Hackers), Word Skills Advanced, Oxford 3000 · A2 · n, v |
-| 15044 | view on/ about/that |  |  | Destination C1–C2 · collocation |
-| 15045 | view sth as |  |  | Destination C1–C2 · collocation |
+| 15044 | view on/ about/that | quan điểm về |  | Destination C1–C2 · collocation |
+| 15045 | view sth as | coi cái gì là |  | Destination C1–C2 · collocation |
 | 15046 | viewer | người xem |  | Oxford 3000 · B1 · n |
 | 15047 | viewpoint | quan điểm |  | Oxford 5000 · B2 · n |
 | 15048 | views | quan điểm; quang cảnh |  | Word Skills Basic |
@@ -15161,8 +15161,8 @@
 | 15149 | wake-up call | Cuộc gọi báo thức |  | TOEIC (Hackers) |
 | 15150 | Wales | xứ Wales |  | Word Skills Basic |
 | 15151 | walk | đi bộ |  | Word Skills Basic, Oxford 3000 · A1 · n, v |
-| 15152 | walk free |  |  | Destination C1–C2 · collocation |
-| 15153 | walk out | (= leave a meeting, performance, etc before the end, usually because you are angry or bored) (= suddenly leave a relationship, your family, your job, etc) |  | Destination C1–C2 · phrasal verb |
+| 15152 | walk free | được tha bổng |  | Destination C1–C2 · collocation |
+| 15153 | walk out | bỏ ra về (giữa chừng); bỏ đi (gia đình, công việc) (= leave a meeting, performance, etc before the end, usually because you are angry or bored) (= suddenly leave a relationship, your family, your job, etc) |  | Destination C1–C2 · phrasal verb |
 | 15154 | walk through | Qua lại? |  | TOEIC (Hackers) |
 | 15155 | walking distance | khoảng cách đi bộ |  | TOEIC (Hackers) |
 | 15156 | walking tour | cuộc đi chơi bộ |  | TOEIC (Hackers) |
@@ -15175,15 +15175,15 @@
 | 15163 | wander | đi lang thang |  | Word Skills Advanced, Oxford 5000 · B2 · v |
 | 15164 | wane | wane |  | TOEIC (Hackers) |
 | 15165 | want | muốn |  | Word Skills Basic, Oxford 3000 · A1 · v |
-| 15166 | want (sb) to do |  |  | Destination C1–C2 · collocation |
-| 15167 | want sth done |  |  | Destination C1–C2 · collocation |
+| 15166 | want (sb) to do | muốn (ai) làm |  | Destination C1–C2 · collocation |
+| 15167 | want sth done | muốn việc gì được làm |  | Destination C1–C2 · collocation |
 | 15168 | wanted | truy nã |  | TOEIC (Hackers) |
 | 15169 | War | Chiến tranh | /wɔːr/ | IELTS · History and Heritage, IELTS · Social issues, Word Skills Basic/Intermediate, Oxford 3000 · A2 · n |
 | 15170 | War crimes | Tội ác chiến tranh | /wɔr kraɪmz/ | IELTS · History and Heritage |
 | 15171 | war film | phim chiến tranh |  | Word Skills Basic |
 | 15172 | war zone | vùng chiến sự |  | Word Skills Advanced |
 | 15173 | ward | phòng bệnh; phường |  | Word Skills Intermediate, Oxford 5000 · C1 · n |
-| 15174 | ward off | (= do something to prevent someone or something from harming you) |  | Destination C1–C2 · phrasal verb |
+| 15174 | ward off | đẩy lùi, phòng tránh (= do something to prevent someone or something from harming you) |  | Destination C1–C2 · phrasal verb |
 | 15175 | wardrobe | tủ quần áo | /wɔrˌdroʊb/ | TOEIC (Hackers), IELTS · Fashion, IELTS · Housing and Architecture, Word Skills Basic |
 | 15176 | warehouse | nhà kho |  | TOEIC (Hackers), Oxford 5000 · C1 · n |
 | 15177 | Warfare | Chiến tranh, chiến thuật | /ˈwɔːrfɛər/ | IELTS · History and Heritage, Oxford 5000 · C1 · n |
@@ -15212,7 +15212,7 @@
 | 15200 | washing up | rửa bát |  | Word Skills Intermediate |
 | 15201 | washing-up | rửa bát |  | Word Skills Basic |
 | 15202 | waste | lãng phí |  | Word Skills Basic, Oxford 3000 · B1 · adj, n, v |
-| 15203 | waste away | (= gradually become thinner and weaker over a period of time, usually because of an illness) |  | Destination C1–C2 · phrasal verb |
+| 15203 | waste away | gầy mòn, suy kiệt dần (= gradually become thinner and weaker over a period of time, usually because of an illness) |  | Destination C1–C2 · phrasal verb |
 | 15204 | waste disposal | xử lý chất thải |  | Destination C1–C2 · collocation |
 | 15205 | Waste management | Quản lý chất thải | /weɪst ˈmænɪdʒmənt/ | IELTS · Globalization, IELTS · Environment, IELTS · Social issues |
 | 15206 | waste of money | phí tiền |  | Word Skills Intermediate |
@@ -15225,7 +15225,7 @@
 | 15213 | watch the clock | canh đồng hồ (vì chắn nản, mong đến giờ về} |  | Destination C1–C2 · collocation |
 | 15214 | watcha film | phim watcha |  | TOEIC (Hackers) |
 | 15215 | water | nước | /wɔːtər/ | TOEIC (Hackers), IELTS · Food and Drink, Oxford 3000 · A1 · n, v |
-| 15216 | water down | (= add water to a drink or liquid in order to make it less strong, dilute) (= make something such as a statement or newspaper article less offensive, powerful or detail…) |  | Destination C1–C2 · phrasal verb |
+| 15216 | water down | pha loãng; làm giảm nhẹ (lời lẽ) (= add water to a drink or liquid in order to make it less strong, dilute) (= make something such as a statement or newspaper article less offensive, powerful or detail…) |  | Destination C1–C2 · phrasal verb |
 | 15217 | water level | cao độ mực nước |  | TOEIC (Hackers) |
 | 15218 | Water pollution | Ô nhiễm nước | /ˈwɔːtər pəˈluːʃən/ | IELTS · Environment |
 | 15219 | Water scarcity | Khan hiếm nước; Sự khan hiếm nước | /ˈwɔːtər ˈskɛərsəti/ | IELTS · Globalization, IELTS · Environment, IELTS · Social issues |
@@ -15247,10 +15247,10 @@
 | 15235 | way out | lối ra |  | Word Skills Basic |
 | 15236 | we | chúng tôi, chúng ta |  | Oxford 3000 · A1 · pron |
 | 15237 | weak | yếu |  | Word Skills Basic, Oxford 3000 · A2 · adj |
-| 15238 | weak argument |  |  | Destination C1–C2 · collocation |
-| 15239 | weak at the knees |  |  | Destination C1–C2 · collocation |
-| 15240 | weak on |  |  | Destination C1–C2 · collocation |
-| 15241 | weak point/spot |  |  | Destination C1–C2 · collocation |
+| 15238 | weak argument | lập luận yếu |  | Destination C1–C2 · collocation |
+| 15239 | weak at the knees | run chân (vì xúc động) |  | Destination C1–C2 · collocation |
+| 15240 | weak on | yếu về |  | Destination C1–C2 · collocation |
+| 15241 | weak point/spot | điểm yếu |  | Destination C1–C2 · collocation |
 | 15242 | weaken | làm yếu đi |  | Word Skills Advanced, Oxford 5000 · C1 · v |
 | 15243 | weakness | điểm yếu |  | Word Skills Intermediate, Oxford 3000 · B2 · n |
 | 15244 | wealth | sự giàu có |  | Oxford 3000 · B2 · n |
@@ -15259,7 +15259,7 @@
 | 15247 | Weapons | Vũ khí | /ˈwɛpənz/ | IELTS · History and Heritage |
 | 15248 | wear | mặc |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · v |
 | 15249 | wear and tear | xuống cấp (do sử dụng bình thường gây ra) |  | TOEIC (Hackers) |
-| 15250 | wear down | (= make someone gradually lose their energy or confidence) (= make something gradually disappear or become thinner by using or rubbing it) |  | Destination C1–C2 · phrasal verb |
+| 15250 | wear down | làm hao mòn (sức lực, ý chí); mòn dần (= make someone gradually lose their energy or confidence) (= make something gradually disappear or become thinner by using or rubbing it) |  | Destination C1–C2 · phrasal verb |
 | 15251 | wear off | hết tác dụng; phai dần |  | Word Skills Advanced |
 | 15252 | wear out | Hao mòn (= use something a lot so that it no longer works, or can no longer be used) |  | TOEIC (Hackers), Destination C1–C2 · phrasal verb |
 | 15253 | wear your heart on your sleeve | để lộ cảm xúc |  | Word Skills Advanced |
@@ -15284,20 +15284,20 @@
 | 15272 | web browser | trình duyệt web |  | Word Skills Advanced |
 | 15273 | Web development | Phát triển web | /wɛb dɪˈvɛləpmənt/ | IELTS · Technology |
 | 15274 | Web hosting | Lưu trữ web | /wɛb ˈhoʊstɪŋ/ | IELTS · Technology |
-| 15275 | web page |  |  | Destination C1–C2 · collocation |
+| 15275 | web page | trang web |  | Destination C1–C2 · collocation |
 | 15276 | Webbed | Có màng chân | /wɛbd/ | IELTS · Animal |
 | 15277 | webcam | webcam |  | Word Skills Basic |
-| 15278 | weblog (blog) |  |  | Destination C1–C2 · collocation |
+| 15278 | weblog (blog) | blog |  | Destination C1–C2 · collocation |
 | 15279 | website | trang web |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 15280 | wedding | đám cưới |  | Word Skills Intermediate, Oxford 3000 · A2 · n |
-| 15281 | wedding anniversary |  |  | Destination C1–C2 · collocation |
-| 15282 | wedding cake |  |  | Destination C1–C2 · collocation |
-| 15283 | wedding ceremony |  |  | Destination C1–C2 · collocation |
-| 15284 | wedding dress |  |  | Destination C1–C2 · collocation |
-| 15285 | wedding invitation |  |  | Destination C1–C2 · collocation |
-| 15286 | wedding present |  |  | Destination C1–C2 · collocation |
+| 15281 | wedding anniversary | kỷ niệm ngày cưới |  | Destination C1–C2 · collocation |
+| 15282 | wedding cake | bánh cưới |  | Destination C1–C2 · collocation |
+| 15283 | wedding ceremony | lễ cưới |  | Destination C1–C2 · collocation |
+| 15284 | wedding dress | váy cưới |  | Destination C1–C2 · collocation |
+| 15285 | wedding invitation | thiệp cưới |  | Destination C1–C2 · collocation |
+| 15286 | wedding present | quà cưới |  | Destination C1–C2 · collocation |
 | 15287 | wedding reception | tiệc cưới |  | Word Skills Intermediate |
-| 15288 | wedding ring |  |  | Destination C1–C2 · collocation |
+| 15288 | wedding ring | nhẫn cưới |  | Destination C1–C2 · collocation |
 | 15289 | Wednesday | thứ Tư |  | Oxford 3000 · A1 · n |
 | 15290 | weed | cỏ dại |  | Oxford 5000 · C1 · n |
 | 15291 | weeds | cỏ dại |  | Word Skills Advanced |
@@ -15306,7 +15306,7 @@
 | 15294 | weekend | cuối tuần |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 15295 | weekly | hàng tuần |  | TOEIC (Hackers), Oxford 5000 · B2 · adj |
 | 15296 | weigh | cân nặng |  | TOEIC (Hackers), Word Skills Basic/Intermediate, Oxford 3000 · B1 · v |
-| 15297 | weigh down | (= cause problems for someone or something or make someone worried) (= make someone heavy and unable to move easily) |  | Destination C1–C2 · phrasal verb |
+| 15297 | weigh down | đè nặng (tâm trí); làm nặng trĩu (= cause problems for someone or something or make someone worried) (= make someone heavy and unable to move easily) |  | Destination C1–C2 · phrasal verb |
 | 15298 | weight | Trọng lượng; Cân nặng | /weɪt/ | TOEIC (Hackers), IELTS · Health, Word Skills Basic/Intermediate, Oxford 3000 · A2 · n |
 | 15299 | Weight gain | Tăng cân | /weɪt geɪn/ | IELTS · Health |
 | 15300 | weight limit | Giới hạn cân nặng là thế nào? |  | TOEIC (Hackers) |
@@ -15364,7 +15364,7 @@
 | 15352 | What's on? | đang chiếu/diễn gì? |  | Word Skills Basic |
 | 15353 | What's the matter? | có chuyện gì vậy? |  | Word Skills Basic |
 | 15354 | what's the point of ...? | ... có ích gì? |  | Word Skills Intermediate |
-| 15355 | what's the use of doing? |  |  | Destination C1–C2 · collocation |
+| 15355 | what's the use of doing? | làm vậy thì được gì? |  | Destination C1–C2 · collocation |
 | 15356 | what's up with ...? | ... bị làm sao vậy? |  | Word Skills Intermediate |
 | 15357 | what's up? | Có gì mới không? / Sao rồi? (đáp: Not much.) |  | Word Skills Intermediate |
 | 15358 | what've you been up to? | dạo này bạn làm gì? |  | Word Skills Intermediate |
@@ -15373,10 +15373,10 @@
 | 15361 | whatsoever | chút nào |  | Oxford 5000 · C1 · adv |
 | 15362 | Wheat | Lúa mì | /wiːt/ | IELTS · Countryside, Oxford 5000 · B2 · n |
 | 15363 | wheel | bánh xe |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · n |
-| 15364 | wheel of fortune |  |  | Destination C1–C2 · collocation |
+| 15364 | wheel of fortune | vòng quay may mắn |  | Destination C1–C2 · collocation |
 | 15365 | wheelbarrow | xe cút kít. |  | TOEIC (Hackers) |
 | 15366 | Wheelchair | Xe lăn | /ˈwilˌtʃɛr/ | IELTS · Transportation |
-| 15367 | wheelchair access |  |  | Destination C1–C2 · collocation |
+| 15367 | wheelchair access | lối đi cho xe lăn |  | Destination C1–C2 · collocation |
 | 15368 | when | khi nào, khi (= at what time; the time something happened) |  | Word Skills Basic, Oxford 3000 · A1 · adv, conj, pron |
 | 15369 | when it comes to | khi gặp phải |  | TOEIC (Hackers) |
 | 15370 | whenever | bất cứ khi nào |  | Word Skills Advanced, Oxford 3000 · B1 · conj |
@@ -15390,7 +15390,7 @@
 | 15378 | whether | liệu |  | Word Skills Intermediate, Oxford 3000 · B1 · conj |
 | 15379 | which | cái nào; mà (đại từ quan hệ) |  | Word Skills Basic, Oxford 3000 · A1 · det, pron |
 | 15380 | while | trong khi |  | Word Skills Basic, Oxford 3000 · A2 · conj, n |
-| 15381 | while away | (= spend time in a relaxed way when you have nothing else to do) |  | Destination C1–C2 · phrasal verb |
+| 15381 | while away | giết thời gian, thong thả trôi qua (= spend time in a relaxed way when you have nothing else to do) |  | Destination C1–C2 · phrasal verb |
 | 15382 | whilst | trong khi |  | Oxford 5000 · B2 · conj |
 | 15383 | whip | roi |  | Oxford 5000 · C1 · v |
 | 15384 | Whipped | Đánh bông, đánh kem | /wɪpt/ | IELTS · Food and Drink |
@@ -15409,7 +15409,7 @@
 | 15397 | whoever | bất cứ ai |  | Oxford 5000 · B2 · pron |
 | 15398 | whoiesale | whoiesale |  | TOEIC (Hackers) |
 | 15399 | whole | toàn bộ |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · A2 · adj, n |
-| 15400 | whole new |  |  | Destination C1–C2 · collocation |
+| 15400 | whole new | hoàn toàn mới |  | Destination C1–C2 · collocation |
 | 15401 | wholesale change | thay đổi toàn diện |  | Word Skills Advanced |
 | 15402 | wholesaler | nhà buôn sỉ |  | TOEIC (Hackers) |
 | 15403 | Wholesome | Bổ dưỡng, lành mạnh | /hoʊlsəm/ | IELTS · Food and Drink |
@@ -15422,7 +15422,7 @@
 | 15410 | wicked | độc ác; tuyệt (thông tục) |  | Word Skills Advanced |
 | 15411 | wide | Mắt rộng | /waɪd/ | Word Skills Basic/Intermediate, Oxford 3000 · A2 · adj, IELTS · Appearance |
 | 15412 | wide awake | tỉnh táo hẳn |  | Word Skills Intermediate |
-| 15413 | wide choice |  |  | Destination C1–C2 · collocation |
+| 15413 | wide choice | nhiều lựa chọn |  | Destination C1–C2 · collocation |
 | 15414 | wide range | phạm vi rộng |  | Word Skills Intermediate |
 | 15415 | Wide-set (eyes) | Mắt cách xa nhau | /waɪd sɛt/ | IELTS · Appearance |
 | 15416 | widely | rộng rãi |  | TOEIC (Hackers), Word Skills Intermediate, Oxford 3000 · B2 · adv |
@@ -15435,7 +15435,7 @@
 | 15423 | width | chiều rộng |  | Word Skills Intermediate, Oxford 5000 · C1 · n |
 | 15424 | wife | vợ |  | Word Skills Basic, Oxford 3000 · A1 · n |
 | 15425 | Wild | Hoang dã (= exciting and enjoyable; living in natural conditions) | /waɪld/ | IELTS · Animal, Word Skills Intermediate, Oxford 3000 · A2 · adj |
-| 15426 | wild guess |  |  | Destination C1–C2 · collocation |
+| 15426 | wild guess | đoán bừa |  | Destination C1–C2 · collocation |
 | 15427 | wildfire | cháy rừng |  | Oxford 5000 · C1 · n |
 | 15428 | wildlife | Loài hoang dã; Động vật hoang dã | /ˈwaɪldˌlaɪf/ | TOEIC (Hackers), IELTS · Countryside, IELTS · Tourism, Word Skills Advanced, Oxford 3000 · B2 · n |
 | 15429 | Wildlife conservation | Bảo tồn động vật hoang dã | /ˈwaɪldlaɪf ˌkɑːnsərˈveɪʃən/ | IELTS · Globalization |
@@ -15452,8 +15452,8 @@
 | 15440 | win a contest | giành chiến thắng một cuộc thi |  | TOEIC (Hackers) |
 | 15441 | win a contract | giành được hợp đồng |  | TOEIC (Hackers) |
 | 15442 | win sb's respect | giành được sự tôn trọng |  | Word Skills Advanced |
-| 15443 | win/earn/deserve praise |  |  | Destination C1–C2 · collocation |
-| 15444 | win/lose an argument |  |  | Destination C1–C2 · collocation |
+| 15443 | win/earn/deserve praise | được / xứng đáng được khen |  | Destination C1–C2 · collocation |
+| 15444 | win/lose an argument | thắng / thua trong tranh luận |  | Destination C1–C2 · collocation |
 | 15445 | Wind | Năng lượng gió; Gió | /wɪnd/ | IELTS · Environment, IELTS · Energy, Word Skills Basic, Oxford 3000 · A2 · n, v |
 | 15446 | wind a watch | lên dây đồng hồ |  | TOEIC (Hackers) |
 | 15447 | Wind chill | Cảm giác lạnh do gió | /wɪnd tʃɪl/ | IELTS · Weather |
@@ -15462,11 +15462,11 @@
 | 15450 | Windmill | Cối xay gió | /ˈwɪndˌmɪl/ | IELTS · Countryside |
 | 15451 | Window | Cửa sổ | /ˈwɪndoʊ/ | IELTS · Housing and Architecture, Word Skills Basic, Oxford 3000 · A1 · n |
 | 15452 | window display | sự bài trí trong tủ kính bày hàng |  | TOEIC (Hackers) |
-| 15453 | window dressing |  |  | Destination C1–C2 · collocation |
+| 15453 | window dressing | trang trí tủ kính; làm màu |  | Destination C1–C2 · collocation |
 | 15454 | window seat | ghế cạnh cửa số |  | Word Skills Basic |
 | 15455 | window-shopping | thú đi xem bảng |  | TOEIC (Hackers) |
 | 15456 | windowsill | Cửa sổ |  | TOEIC (Hackers) |
-| 15457 | winds of change |  |  | Destination C1–C2 · collocation |
+| 15457 | winds of change | làn gió đổi mới |  | Destination C1–C2 · collocation |
 | 15458 | windscreen | kính chắn gió |  | Word Skills Intermediate |
 | 15459 | windscreen wiper | cần gạt nước |  | Word Skills Intermediate |
 | 15460 | windshield | Hiệu ứng Quét Trang trình diễn |  | TOEIC (Hackers) |
@@ -15494,38 +15494,38 @@
 | 15482 | wisdom | trí tuệ |  | Word Skills Advanced, Oxford 5000 · B2 · n |
 | 15483 | wise | khôn ngoan |  | Word Skills Advanced, Oxford 3000 · B2 · adj |
 | 15484 | wish | ước |  | Word Skills Intermediate, Oxford 3000 · A2 · n, v |
-| 15485 | wish sb luck |  |  | Destination C1–C2 · collocation |
+| 15485 | wish sb luck | chúc ai may mắn |  | Destination C1–C2 · collocation |
 | 15486 | wit | sự dí dỏm |  | Oxford 5000 · C1 · n |
 | 15487 | with | với |  | Oxford 3000 · A1 · prep |
-| 15488 | with a fine-tooth(ed) comb |  |  | Destination C1–C2 · collocation |
-| 15489 | with a small 'c'/etc |  |  | Destination C1–C2 · collocation |
+| 15488 | with a fine-tooth(ed) comb | (xem xét) rất kỹ lưỡng |  | Destination C1–C2 · collocation |
+| 15489 | with a small 'c'/etc | (theo nghĩa) thông thường |  | Destination C1–C2 · collocation |
 | 15490 | with a view to | Với mục đích… |  | Destination C1–C2 · collocation |
-| 15491 | with age |  |  | Destination C1–C2 · collocation |
-| 15492 | with any luck |  |  | Destination C1–C2 · collocation |
-| 15493 | with authority |  |  | Destination C1–C2 · collocation |
+| 15491 | with age | theo tuổi tác |  | Destination C1–C2 · collocation |
+| 15492 | with any luck | nếu may mắn |  | Destination C1–C2 · collocation |
+| 15493 | with authority | một cách đầy uy quyền / thành thạo |  | Destination C1–C2 · collocation |
 | 15494 | with effect from | bắt đầu từ thời điểm |  | Destination C1–C2 · collocation |
-| 15495 | with force |  |  | Destination C1–C2 · collocation |
+| 15495 | with force | bằng vũ lực, mạnh mẽ |  | Destination C1–C2 · collocation |
 | 15496 | with hindsight | nhìn lại |  | Word Skills Advanced |
 | 15497 | with reference to | liên quan đến |  | Word Skills Advanced |
 | 15498 | with regard to | về vấn đề |  | Word Skills Advanced |
 | 15499 | with respect to | Xét về mặt thời gian: |  | TOEIC (Hackers), Destination C1–C2 · collocation |
-| 15500 | with style |  |  | Destination C1–C2 · collocation |
+| 15500 | with style | có phong cách |  | Destination C1–C2 · collocation |
 | 15501 | with the exception of | Ngoại trừ |  | TOEIC (Hackers) |
 | 15502 | with the lights on | với đèn sáng |  | TOEIC (Hackers) |
-| 15503 | with/in delight |  |  | Destination C1–C2 · collocation |
+| 15503 | with/in delight | đầy vui sướng |  | Destination C1–C2 · collocation |
 | 15504 | withdraw | rút lui; rút (tiền) |  | Word Skills Advanced, Oxford 5000 · B2 · v |
 | 15505 | withdrawal | sự rút lui; cai nghiện |  | Oxford 5000 · C1 · n |
 | 15506 | within | trong vòng |  | Oxford 3000 · B1 · prep |
 | 15507 | within reason | Nhưng phải đủ lý lẽ đấy |  | TOEIC (Hackers), Word Skills Advanced |
-| 15508 | within seconds |  |  | Destination C1–C2 · collocation |
+| 15508 | within seconds | trong vài giây |  | Destination C1–C2 · collocation |
 | 15509 | without | không có |  | Oxford 3000 · A1 · prep |
-| 15510 | without (an) argument |  |  | Destination C1–C2 · collocation |
+| 15510 | without (an) argument | không cãi lại, không phản đối |  | Destination C1–C2 · collocation |
 | 15511 | without a doubt | Không nghi ngờ. |  | TOEIC (Hackers), Destination C1–C2 · collocation |
 | 15512 | without delay | không được chậm trễ |  | TOEIC (Hackers) |
 | 15513 | without fail | không sai |  | Word Skills Advanced |
-| 15514 | without foundation |  |  | Destination C1–C2 · collocation |
+| 15514 | without foundation | vô căn cứ |  | Destination C1–C2 · collocation |
 | 15515 | without notice | không cần báo trước |  | TOEIC (Hackers) |
-| 15516 | without question |  |  | Destination C1–C2 · collocation |
+| 15516 | without question | không nghi ngờ gì |  | Destination C1–C2 · collocation |
 | 15517 | without respect to | mà không tôn trọng |  | TOEIC (Hackers) |
 | 15518 | without the consent of | mà không có sự đồng ý của |  | TOEIC (Hackers) |
 | 15519 | withstand | Chịu được |  | TOEIC (Hackers), Word Skills Advanced |
@@ -15547,7 +15547,7 @@
 | 15535 | Word of mouth | Truyền miệng | /wɜːrd ʌv maʊθ/ | IELTS · Advertising, Destination C1–C2 · collocation |
 | 15536 | work | làm việc; công việc (= function; get a result) |  | Word Skills Basic/Intermediate, Oxford 3000 · A1 · n, v |
 | 15537 | work a treat | hoạt động rất hiệu quả, mang lại kết quả tốt |  | Destination C1–C2 · collocation |
-| 15538 | work both ways |  |  | Destination C1–C2 · collocation |
+| 15538 | work both ways | có lợi / hại cho cả hai phía |  | Destination C1–C2 · collocation |
 | 15539 | work environment | Môi trường làm việc | /wɜːrk ɪnˈvaɪər.ən.mənt/ | TOEIC (Hackers), IELTS · Employment |
 | 15540 | work history | kinh nghiệm nghề nghiệp |  | TOEIC (Hackers) |
 | 15541 | work in groups | làm việc theo nhóm |  | TOEIC (Hackers) |
@@ -15556,15 +15556,15 @@
 | 15544 | work long hours | … làm việc nhiều giờ |  | Destination C1–C2 · collocation |
 | 15545 | work of art | tác phẩm nghệ thuật |  | Word Skills Intermediate |
 | 15546 | work on | làm việc trên |  | TOEIC (Hackers) |
-| 15547 | work on/in/with/as/at/for |  |  | Destination C1–C2 · collocation |
+| 15547 | work on/in/with/as/at/for | làm việc về / trong / với / như / tại / cho |  | Destination C1–C2 · collocation |
 | 15548 | work out | tìm ra; thành công/ổn; tập thể dục |  | Word Skills Intermediate/Advanced |
 | 15549 | work overtime | làm tăng giờ, làm giờ phụ trội |  | TOEIC (Hackers), Word Skills Intermediate |
 | 15550 | Work permit | Giấy phép làm việc | /wɜːrk ˈpɜːrmɪt/ | IELTS · Employment, Word Skills Intermediate |
 | 15551 | work properly | làm việc đúng cách |  | TOEIC (Hackers) |
 | 15552 | work shift | ca làm việc |  | TOEIC (Hackers) |
 | 15553 | work sth out | tìm ra, tính ra |  | Word Skills Advanced |
-| 15554 | work wonders |  |  | Destination C1–C2 · collocation |
-| 15555 | work your way (through/around) |  |  | Destination C1–C2 · collocation |
+| 15554 | work wonders | có hiệu quả kỳ diệu |  | Destination C1–C2 · collocation |
+| 15555 | work your way (through/around) | từng bước vượt qua |  | Destination C1–C2 · collocation |
 | 15556 | Work-life balance | Cân bằng công việc và cuộc sống | /work-laɪf ˈbæl.əns/ | IELTS · Employment |
 | 15557 | Work-life boundaries | Giới hạn giữa công việc và cuộc sống | /wɜːrk-laɪf ˈbaʊn.dər.i/ | IELTS · Employment |
 | 15558 | Work-life integration | Hòa nhập công việc và cuộc sống | /wɜːrk-laɪf ɪntɪˈɡreɪʃən/ | IELTS · Employment |
@@ -15581,7 +15581,7 @@
 | 15569 | working condition | Điều kiện làm việc |  | TOEIC (Hackers) |
 | 15570 | working conditions | điều kiện làm việc |  | Word Skills Intermediate |
 | 15571 | Working hours | Giờ làm việc | /ˈwɜːrkɪŋ aʊərz/ | IELTS · Employment |
-| 15572 | working/middle/upper class |  |  | Destination C1–C2 · collocation |
+| 15572 | working/middle/upper class | tầng lớp lao động / trung lưu / thượng lưu |  | Destination C1–C2 · collocation |
 | 15573 | Workload | Khối lượng công việc | /ˈwɜːrk.loʊd/ | IELTS · Employment |
 | 15574 | workout | trục trặc |  | TOEIC (Hackers), Word Skills Advanced, Oxford 5000 · C1 · n |
 | 15575 | workplace | chỗ làm việc; Nơi làm việc | /ˈwɜːrk.pleɪs/ | TOEIC (Hackers), IELTS · Employment, IELTS · Accident, Oxford 5000 · B2 · n |
@@ -15592,7 +15592,7 @@
 | 15580 | world | Thế giới | /ðə wɜrld/ | Oxford 3000 · A1 · n, IELTS · Globalization |
 | 15581 | World War I | Thế chiến I | /wɜrld wɔr wʌn/ | IELTS · History and Heritage |
 | 15582 | World War II | Thế chiến II | /wɜrld wɔr tuː/ | IELTS · History and Heritage |
-| 15583 | World Wide Web |  |  | Destination C1–C2 · collocation |
+| 15583 | World Wide Web | mạng toàn cầu |  | Destination C1–C2 · collocation |
 | 15584 | worldwide | toàn cầu |  | Word Skills Intermediate/Advanced, Oxford 3000 · B1 · adj, adv |
 | 15585 | worm | con sâu |  | Oxford 5000 · B2 · n |
 | 15586 | worn out | kiệt sức; mòn |  | Word Skills Advanced |
@@ -15600,7 +15600,7 @@
 | 15588 | worried sick | lo lắng đến phát ốm |  | Destination C1–C2 · collocation |
 | 15589 | worry | lo lắng, suy nghĩ |  | TOEIC (Hackers), Oxford 3000 · A2 · n, v |
 | 15590 | worse | tệ hơn |  | Oxford 3000 · A2 · adj, adv, n |
-| 15591 | worse for wear |  |  | Destination C1–C2 · collocation |
+| 15591 | worse for wear | tơi tả, mệt mỏi |  | Destination C1–C2 · collocation |
 | 15592 | worsen | Tồi tệ hơn |  | TOEIC (Hackers), Oxford 5000 · C1 · v |
 | 15593 | worship | thờ cúng |  | Word Skills Advanced, Oxford 5000 · C1 · n, v |
 | 15594 | worst | tệ nhất |  | Word Skills Basic, Oxford 3000 · A2 · adj, adv, n |
@@ -15612,8 +15612,8 @@
 | 15600 | would be grateful if you could | rất biết ơn nếu anh/chị có thể |  | Word Skills Advanced |
 | 15601 | would like | muốn |  | Word Skills Basic |
 | 15602 | would like to draw your attention to | muốn lưu ý anh/chị về |  | Word Skills Advanced |
-| 15603 | would prefer (that) |  |  | Destination C1–C2 · collocation |
-| 15604 | would prefer it if |  |  | Destination C1–C2 · collocation |
+| 15603 | would prefer (that) | muốn rằng |  | Destination C1–C2 · collocation |
+| 15604 | would prefer it if | sẽ thích hơn nếu |  | Destination C1–C2 · collocation |
 | 15605 | would rather | thà... còn hơn |  | Word Skills Intermediate |
 | 15606 | Wound | Vết thương | /wuːnd/ | IELTS · Health, Word Skills Intermediate, Oxford 3000 · B2 · n, v |
 | 15607 | wow | ồ, chà |  | Oxford 3000 · A2 · exclam |
@@ -15629,13 +15629,13 @@
 | 15617 | write | viết |  | TOEIC (Hackers), Word Skills Basic, Oxford 3000 · A1 · v |
 | 15618 | write a thesis | viết luận văn |  | Word Skills Intermediate |
 | 15619 | write down | giảm bớt xuống |  | TOEIC (Hackers) |
-| 15620 | write for a magazine/etc |  |  | Destination C1–C2 · collocation |
+| 15620 | write for a magazine/etc | viết bài cho tạp chí |  | Destination C1–C2 · collocation |
 | 15621 | write off | gạch bỏ, coi như mất; chê là vô dụng (= damage a vehicle so badly that it is not worth repairing) (= decide that someone or something will not succeed and stop giving them your attention and …) |  | Destination C1–C2 · phrasal verb |
 | 15622 | write sth off | xóa sổ; coi như bỏ |  | Word Skills Advanced |
 | 15623 | write up | nâng cao lên |  | TOEIC (Hackers) |
 | 15624 | write-off | xe hỏng hoàn toàn; khoản xóa nợ |  | Word Skills Advanced |
 | 15625 | writer | nhà văn |  | Oxford 3000 · A1 · n |
-| 15626 | writer's block |  |  | Destination C1–C2 · collocation |
+| 15626 | writer's block | bí ý tưởng (khi viết) |  | Destination C1–C2 · collocation |
 | 15627 | writing | việc viết; chữ viết |  | Oxford 3000 · A1 · n |
 | 15628 | Writing desk | Bàn viết | /ˈraɪtɪŋ dɛsk/ | IELTS · Housing and Architecture |
 | 15629 | writing pad | tập giấy ghi |  | TOEIC (Hackers) |
@@ -15652,11 +15652,11 @@
 | 15640 | yawning | ngáp; (khoảng cách) rất lớn |  | Word Skills Intermediate |
 | 15641 | yeah | ừ, vâng |  | Word Skills Intermediate, Oxford 3000 · A1 · exclam |
 | 15642 | year | năm |  | Word Skills Basic, Oxford 3000 · A1 · n |
-| 15643 | year on year |  |  | Destination C1–C2 · collocation |
+| 15643 | year on year | năm này qua năm khác, so với cùng kỳ |  | Destination C1–C2 · collocation |
 | 15644 | year-end | kết thúc, cuối tài khóa |  | TOEIC (Hackers) |
 | 15645 | yearn | năm |  | TOEIC (Hackers) |
-| 15646 | years of age |  |  | Destination C1–C2 · collocation |
-| 15647 | years old |  |  | Destination C1–C2 · collocation |
+| 15646 | years of age | tuổi |  | Destination C1–C2 · collocation |
+| 15647 | years old | tuổi |  | Destination C1–C2 · collocation |
 | 15648 | yell | hét lên |  | TOEIC (Hackers), Oxford 5000 · C1 · v |
 | 15649 | yellow | màu vàng |  | Word Skills Basic, Oxford 3000 · A1 · adj, n |
 | 15650 | yes | vâng, có |  | Oxford 3000 · A1 · exclam |
@@ -15678,7 +15678,7 @@
 | 15666 | you're joking | bạn đùa à |  | Word Skills Intermediate/Advanced |
 | 15667 | you're kidding | bạn đùa à |  | Word Skills Advanced |
 | 15668 | you're not gonna believe this | bạn sẽ không tin nổi đâu |  | Word Skills Advanced |
-| 15669 | You're on! |  |  | Destination C1–C2 · collocation |
+| 15669 | You're on! | Chơi luôn! / Đồng ý! |  | Destination C1–C2 · collocation |
 | 15670 | you're only young once | tuổi trẻ chỉ có một lần |  | Word Skills Advanced |
 | 15671 | you're telling me | Còn phải nói. |  | Destination C1–C2 · collocation |
 | 15672 | you've got nothing to lose | Bạn chẳng mất gì cả. |  | Word Skills Advanced |
@@ -15689,7 +15689,7 @@
 | 15677 | your best bet | lựa chọn tốt nhất của bạn |  | Word Skills Advanced |
 | 15678 | your flesh and blood | người thân, máu mủ ruột rà l (= your relative) |  | Destination C1–C2 · idiom |
 | 15679 | your guess is as good as mine | tôi cũng không biết hơn bạn |  | Word Skills Advanced |
-| 15680 | your nearest and dearest |  |  | Destination C1–C2 · collocation |
+| 15680 | your nearest and dearest | người thân thiết nhất |  | Destination C1–C2 · collocation |
 | 15681 | your own boss | tự làm chủ |  | Word Skills Advanced |
 | 15682 | your own company | một mình |  | Word Skills Advanced |
 | 15683 | yours | của bạn |  | Oxford 3000 · A2 · pron |

@@ -38,8 +38,10 @@ def js_obj(path, name):
 def vi_lookup():
     lk = {}
     add = lambda k, v: (k and v and key(k) not in lk) and lk.__setitem__(key(k), str(v).strip())
-    p = os.path.join(DATA, "vocab_vi_extra.tsv")
-    if os.path.exists(p):
+    for f in ("vocab_vi_extra.tsv", "destination_vi.tsv"):        # destination_vi.tsv: nghĩa cụm Destination C1&C2
+        p = os.path.join(DATA, f)
+        if not os.path.exists(p):
+            continue
         for l in open(p, encoding="utf-8"):
             if "\t" in l and not l.startswith("#"):
                 a, b = l.rstrip("\n").split("\t")[:2]
