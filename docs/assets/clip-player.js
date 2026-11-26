@@ -1,6 +1,6 @@
 /* Nghe người bản xứ nói một cụm — kho clip tự dựng, miễn phí, không cần key / captcha.
    Dữ liệu: docs/assets/clips/ (tools/phrase_clips.py: phụ đề YouTube TED / talk show / podcast, tìm ĐÚNG NGUYÊN cụm).
-   Bấm cụm → khung ngay trên trang phát đúng đoạn có cụm, mỗi đoạn 3 lần rồi tự sang video sau (tối đa MAX video).
+   Bấm cụm → khung ngay trên trang phát đúng đoạn có cụm, mỗi đoạn lặp N lần rồi sang video sau; hết video thì (tuỳ chọn) tự sang cụm tiếp theo trên trang.
 
    Dùng:  <script src="../assets/clip-player.js"></script>
           <a data-clip="break the ice" href="(link dự phòng)">…</a>    hoặc  ClipPlayer.open('break the ice')
@@ -8,7 +8,14 @@
 (function () {
   'use strict';
   var BASE = (document.currentScript && document.currentScript.src || '').replace(/[^/]*$/, '') + 'clips/';
-  var SHARDS = 64, REPEAT = 3, MAX = 10;     // tối đa 10 video / cụm (khớp MAX_CLIPS trong tools/phrase_clips.py)
+  var SHARDS = 64;
+  // tuỳ chọn của người xem (nhớ trong trình duyệt): nguồn clip, số lần lặp, số video tối đa, tự sang cụm tiếp theo
+  var OPT = { src: 'all', rep: 3, max: 10, auto: true };
+  try { var _o = JSON.parse(localStorage.getItem('clipOpts') || '{}'); for (var _k in OPT) if (_o[_k] != null) OPT[_k] = _o[_k]; } catch (e) {}
+  function saveOpt() { try { localStorage.setItem('clipOpts', JSON.stringify(OPT)); } catch (e) {} }
+  var ctx = null;                  // cụm đang phát nằm ở đâu trên trang → tìm cụm tiếp theo
+  function isSong(c) { return /^♪/.test(c.ch); }
+  function want(c) { return OPT.src === 'all' || (OPT.src === 'song') === isSong(c); }
   var st = { q: '', clips: [], i: 0, rep: 0, seg: null, timer: null, token: 0 };
   var vids = null, shards = {}, yt = null, ytReady = null, box = null;
   var P = [], act = 0;            // 2 trình phát: P[act] đang phát, cái còn lại nạp sẵn video kế tiếp
@@ -126,18 +133,18 @@
       return (r[1][q] || []).map(function (c) { var v = r[0][c[0]]; return { id: v[0], ch: v[1], s: c[1] / 10, e: c[2] / 10, b: c[3], a: c[4], q: q }; });
     });
   }
-  // ưu tiên: đúng nguyên cụm → dạng khác của cụm → các cụm ngắn trong câu dài → phần lõi của cụm; đủ MAX thì dừng
+  // ưu tiên: đúng nguyên cụm → dạng khác của cụm → các cụm ngắn trong câu dài → phần lõi của cụm; đủ số video tối đa thì dừng
   function fill(out, seen, L, kind) {
-    for (var r = 0; out.length < MAX; r++) {
+    for (var r = 0; out.length < OPT.max; r++) {
       var any = false;
-      L.forEach(function (l) { if (l[r] && out.length < MAX) { any = true; if (!seen[l[r].id]) { seen[l[r].id] = 1; l[r].kind = kind; out.push(l[r]); } } });
+      L.forEach(function (l) { if (l[r] && out.length < OPT.max) { any = true; if (!seen[l[r].id] && want(l[r])) { seen[l[r].id] = 1; l[r].kind = kind; out.push(l[r]); } } });
       if (!any) break;
     }
   }
   function loadAll(raw) {
     var tiers = [[norm(raw)], variants(raw), parts(raw), cores(raw)], out = [], seen = {};
     function step(k) {
-      if (k >= tiers.length || out.length >= MAX) return Promise.resolve(out);
+      if (k >= tiers.length || out.length >= OPT.max) return Promise.resolve(out);
       if (k === 3 && out.length) return Promise.resolve(out);          // phần lõi chỉ dùng khi chưa có clip nào
       return Promise.all(tiers[k].map(load)).then(function (L) { fill(out, seen, L, k); return step(k + 1); });
     }
@@ -159,7 +166,10 @@
       '#clp .ft{padding:8px 12px;font-size:15.5px}' +
       '#clp .ft mark{background:rgba(250,204,21,.5);color:inherit;border-radius:3px;padding:0 2px;font-weight:700}' +
       '#clp .fm{padding:0 12px 10px;color:var(--muted,#777);font-size:12px}#clp .fm a{color:inherit}' +
-      '#clp .fk{padding:16px 12px}';
+      '#clp .fk{padding:16px 12px}' +
+      '#clp .fo{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;padding:6px 10px;border-bottom:1px solid var(--line,#ddd);font-size:13px;color:var(--muted,#777)}' +
+      '#clp .fo select{font:inherit;font-size:13px;padding:2px 4px;border:1px solid var(--line,#ddd);border-radius:7px;background:transparent;color:var(--ink,#222)}' +
+      '#clp .fo label{display:inline-flex;gap:4px;align-items:center;cursor:pointer}';
     document.head.appendChild(s);
   }
 
@@ -173,18 +183,47 @@
       '<button class="fb" id="clpv" title="Video trước">⏮</button><button class="fb" id="clrp" title="Phát lại đoạn này">🔁</button>' +
       '<button class="fb" id="clnx" title="Video sau">⏭</button>' +
       '<button class="fb" id="clx" title="Đóng (Esc)">✕</button></div>' +
+      '<div class="fo">' +
+        '<select id="clsrc" title="Nguồn clip"><option value="all">🎬+🎵 Người nói + bài hát</option><option value="talk">🎬 Chỉ người nói</option><option value="song">🎵 Chỉ bài hát</option></select>' +
+        '<label title="Mỗi đoạn phát mấy lần">🔁 <select id="clrep"><option>1</option><option>2</option><option>3</option><option>5</option><option>10</option></select> lần</label>' +
+        '<label title="Số video tối đa cho mỗi cụm">tối đa <select id="clmax"><option>3</option><option>5</option><option>10</option></select> video</label>' +
+        '<label title="Hết video của cụm này thì tự mở cụm tiếp theo trên trang"><input type="checkbox" id="clauto"> tự sang cụm tiếp</label>' +
+      '</div>' +
       '<div class="fv" id="clfv"><div id="clyA"></div><div id="clyB" class="off"></div></div><div id="clbody"></div>' +
-      '<div class="fm">Clip YouTube (TED, talk show, podcast) có người nói <b>đúng nguyên cụm</b> · mỗi đoạn phát ' + REPEAT + ' lần rồi tự sang video sau · ' +
+      '<div class="fm">Clip YouTube (TED, talk show, podcast) và bài hát (lời LRCLIB) có <b>đúng nguyên cụm</b> · ' +
       '<a href="https://www.youtube.com/t/terms" target="_blank" rel="noopener">YouTube Terms</a></div>';
     document.body.appendChild(box);
     $('clx').onclick = close;
     $('clnx').onclick = function () { go(st.i + 1); };
     $('clpv').onclick = function () { go(Math.max(0, st.i - 1)); };
     $('clrp').onclick = function () { st.rep = 0; seekStart(); };
+    $('clsrc').value = OPT.src; $('clrep').value = String(OPT.rep); $('clmax').value = String(OPT.max); $('clauto').checked = !!OPT.auto;
+    $('clsrc').onchange = function () { OPT.src = this.value; saveOpt(); if (st.q) search(st.q); };
+    $('clmax').onchange = function () { OPT.max = +this.value; saveOpt(); if (st.q) search(st.q); };
+    $('clrep').onchange = function () { OPT.rep = +this.value; saveOpt(); count(); };
+    $('clauto').onchange = function () { OPT.auto = this.checked; saveOpt(); };
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !box.hidden) close(); });
   }
   function status(t) { $('cln').textContent = t; }
-  function count() { if (st.clips.length) status((st.i + 1) + '/' + st.clips.length + ' video · lần ' + Math.min(st.rep + 1, REPEAT) + '/' + REPEAT); }
+  function count() { if (st.clips.length) status((st.i + 1) + '/' + st.clips.length + ' video · lần ' + Math.min(st.rep + 1, OPT.rep) + '/' + OPT.rep); }
+  // cụm tiếp theo trên trang (cùng loại nút với cụm vừa bấm), bỏ qua cụm không hiện
+  function nextPhrase() {
+    if (!ctx || !ctx.el || !document.contains(ctx.el)) return null;
+    var all = [].slice.call(document.querySelectorAll(ctx.sel)), i = all.indexOf(ctx.el);
+    for (var j = i + 1; j < all.length; j++) if (all[j].offsetParent !== null && all[j] !== ctx.el) return all[j];
+    return null;
+  }
+  function autoNext(delay) {
+    if (!OPT.auto) return false;
+    var el = nextPhrase(); if (!el) return false;
+    var tok = st.token;
+    setTimeout(function () {
+      if (tok !== st.token || box.hidden) return;
+      try { el.scrollIntoView({ block: 'center', behavior: 'smooth' }); } catch (e) {}
+      open(ctx.getQ(el), { el: el, sel: ctx.sel, getQ: ctx.getQ });
+    }, delay);
+    return true;
+  }
 
   function ytApi() {
     if (ytReady) return ytReady;
@@ -211,7 +250,9 @@
       st.clips = cl; st.qn = q;
       if (!st.clips.length) {
         status(''); $('clfv').hidden = true;
-        $('clbody').innerHTML = '<div class="fk">Kho clip chưa có video nào nói đúng cụm <b>"' + esc(raw) + '"</b>.</div>';
+        $('clbody').innerHTML = '<div class="fk">' + (OPT.src === 'song' ? 'Chưa có bài hát nào có cụm' : OPT.src === 'talk' ? 'Chưa có video người nói nào nói cụm' : 'Kho clip chưa có video nào nói đúng cụm') +
+          ' <b>"' + esc(raw) + '"</b>.' + (OPT.auto && nextPhrase() ? '<br>Tự sang cụm tiếp theo…' : '') + '</div>';
+        autoNext(1500);
         return;
       }
       go(0);
@@ -219,7 +260,7 @@
   }
 
   function go(i) {
-    if (i >= st.clips.length) { status('đã hết ' + st.clips.length + ' video'); stopTimer(); return; }
+    if (i >= st.clips.length) { stopTimer(); status('đã hết ' + st.clips.length + ' video' + (autoNext(600) ? ' · sang cụm tiếp…' : '')); return; }
     var tok = st.token, c = st.clips[i];
     st.i = i; st.rep = 0;
     st.seg = { s: Math.max(0, c.s - 1), e: c.e + 0.8 };
@@ -292,14 +333,17 @@
       if (!yt || !yt.getCurrentTime || !st.seg || box.hidden) return;
       if (yt.getCurrentTime() >= st.seg.e) {
         st.rep++;
-        if (st.rep < REPEAT) seekStart(); else go(st.i + 1);
+        if (st.rep < OPT.rep) seekStart(); else go(st.i + 1);
       }
     }, 150);
   }
 
-  function open(q) {
+  // where = { el: phần tử cụm vừa bấm, sel: bộ chọn các cụm cùng loại, getQ: el → cụm } (để tự sang cụm tiếp)
+  function open(q, where) {
     q = String(q || '').replace(/["“”]/g, '').replace(/\s+/g, ' ').trim();
     if (!q) return;
+    ctx = where && where.el ? where : null;
+    if (ctx && !ctx.getQ) ctx.getQ = function (el) { return el.getAttribute('data-clip'); };
     build(); box.hidden = false; box.scrollTop = 0;
     search(q);
   }
@@ -329,7 +373,7 @@
   document.addEventListener('click', function (e) {
     var a = e.target.closest && e.target.closest('[data-clip]');
     if (!a || e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
-    e.preventDefault(); open(a.getAttribute('data-clip'));
+    e.preventDefault(); open(a.getAttribute('data-clip'), { el: a, sel: '[data-clip]' });
   });
   window.ClipPlayer = { open: open, close: close, url: ytUrl, prefetch: function (q) { build(); prefetch(q); players(); }, norm: norm, parts: parts, variants: variants, cores: cores };
 })();
