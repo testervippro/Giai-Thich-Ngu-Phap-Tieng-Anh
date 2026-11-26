@@ -212,19 +212,27 @@ def cmd_fetch(a):
     todo = [r[0] for r in rows if r[0] not in done and r[0] not in bad]
     random.Random(1).shuffle(todo)            # trộn kênh: dừng giữa chừng vẫn đủ đa dạng
     print(f"{len(done)} đã có · {len(bad)} bỏ · {len(todo)} cần tải", flush=True)
-    lock, st, t0 = threading.Lock(), defaultdict(int), time.time()
+    lock, st, t0, pause = threading.Lock(), defaultdict(int), time.time(), [0.0]
 
     def job(vid):
+        while time.time() < pause[0]:
+            time.sleep(5)
         for attempt in range(3):
             try:
                 r = fetch_one(vid)
                 break
             except Exception as e:            # noqa: BLE001
                 msg = str(e)
-                if "429" in msg or "Too Many" in msg:
-                    time.sleep(60 * (attempt + 1)); r = "429"; continue
+                if "429" in msg or "Too Many" in msg or "not a bot" in msg:     # YouTube chặn tạm: chờ rồi thử lại, KHÔNG bỏ video
+                    r = "429"
+                    with lock:
+                        if time.time() > pause[0]:
+                            pause[0] = time.time() + 90 * (attempt + 1)        # cả nhóm cùng nghỉ
+                    while time.time() < pause[0]:
+                        time.sleep(5)
+                    continue
                 r = "err"
-                if re.search(r"unavailable|private|removed|members|age|Sign in", msg, re.I):
+                if re.search(r"unavailable|private|removed|members|confirm your age|not made this video available", msg, re.I):
                     r = "gone"
                 break
         with lock:
