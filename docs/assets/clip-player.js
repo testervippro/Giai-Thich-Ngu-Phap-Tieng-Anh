@@ -10,7 +10,7 @@
   var BASE = (document.currentScript && document.currentScript.src || '').replace(/[^/]*$/, '') + 'clips/';
   var SHARDS = 64;
   // tuỳ chọn của người xem (nhớ trong trình duyệt): nguồn clip, số lần lặp, số video tối đa, tự sang cụm tiếp theo
-  var OPT = { src: 'all', rep: 3, max: 10, auto: true };
+  var OPT = { src: 'all', rep: 3, max: 10, auto: true, q: 'small' };      // q: tiny 144p · small 240p · medium 360p
   try { var _o = JSON.parse(localStorage.getItem('clipOpts') || '{}'); for (var _k in OPT) if (_o[_k] != null) OPT[_k] = _o[_k]; } catch (e) {}
   function saveOpt() { try { localStorage.setItem('clipOpts', JSON.stringify(OPT)); } catch (e) {} }
   var ctx = null;                  // cụm đang phát nằm ở đâu trên trang → tìm cụm tiếp theo
@@ -167,6 +167,7 @@
       '#clp .ft mark{background:rgba(250,204,21,.5);color:inherit;border-radius:3px;padding:0 2px;font-weight:700}' +
       '#clp .fm{padding:0 12px 10px;color:var(--muted,#777);font-size:12px}#clp .fm a{color:inherit}' +
       '#clp .fk{padding:16px 12px}' +
+      '.clip-cur{outline:3px solid #facc15 !important;outline-offset:2px;border-radius:10px;background:rgba(250,204,21,.08)}' +
       '#clp .fo{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;padding:6px 10px;border-bottom:1px solid var(--line,#ddd);font-size:13px;color:var(--muted,#777)}' +
       '#clp .fo select{font:inherit;font-size:13px;padding:2px 4px;border:1px solid var(--line,#ddd);border-radius:7px;background:transparent;color:var(--ink,#222)}' +
       '#clp .fo label{display:inline-flex;gap:4px;align-items:center;cursor:pointer}';
@@ -186,8 +187,9 @@
       '<div class="fo">' +
         '<select id="clsrc" title="Nguồn clip"><option value="all">🎬+🎵 Người nói + bài hát</option><option value="talk">🎬 Chỉ người nói</option><option value="song">🎵 Chỉ bài hát</option></select>' +
         '<label title="Mỗi đoạn phát mấy lần">🔁 <select id="clrep"><option>1</option><option>2</option><option>3</option><option>5</option><option>10</option></select> lần</label>' +
-        '<label title="Số video tối đa cho mỗi cụm">tối đa <select id="clmax"><option>3</option><option>5</option><option>10</option></select> video</label>' +
+        '<label title="Số video tối đa cho mỗi cụm">tối đa <select id="clmax"><option>1</option><option>3</option><option>5</option><option>10</option></select> video</label>' +
         '<label title="Hết video của cụm này thì tự mở cụm tiếp theo trên trang"><input type="checkbox" id="clauto"> tự sang cụm tiếp</label>' +
+        '<label title="Chất lượng thấp → video load nhanh hơn (YouTube coi là gợi ý)">chất lượng <select id="clq2"><option value="tiny">144p</option><option value="small">240p</option><option value="medium">360p</option></select></label>' +
       '</div>' +
       '<div class="fv" id="clfv"><div id="clyA"></div><div id="clyB" class="off"></div></div><div id="clbody"></div>' +
       '<div class="fm">Clip YouTube (TED, talk show, podcast) và bài hát (lời LRCLIB) có <b>đúng nguyên cụm</b> · ' +
@@ -202,10 +204,22 @@
     $('clmax').onchange = function () { OPT.max = +this.value; saveOpt(); if (st.q) search(st.q); };
     $('clrep').onchange = function () { OPT.rep = +this.value; saveOpt(); count(); };
     $('clauto').onchange = function () { OPT.auto = this.checked; saveOpt(); };
+    $('clq2').value = OPT.q; $('clq2').onchange = function () { OPT.q = Q = this.value; saveOpt(); q360(); };
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !box.hidden) close(); });
   }
   function status(t) { $('cln').textContent = t; }
   function count() { if (st.clips.length) status((st.i + 1) + '/' + st.clips.length + ' video · lần ' + Math.min(st.rep + 1, OPT.rep) + '/' + OPT.rep); }
+  // tô viền cụm đang phát; scroll = true (tự sang cụm) → cuộn cụm lên phần trên màn hình, chỗ khung phát không che
+  function showCur(scroll) {
+    [].forEach.call(document.querySelectorAll('.clip-cur'), function (x) { x.classList.remove('clip-cur'); });
+    if (!ctx || !ctx.el) return;
+    var card = (ctx.el.closest && (ctx.el.closest('.it, li, tr') || ctx.el)) || ctx.el;
+    card.classList.add('clip-cur');
+    var r = card.getBoundingClientRect(), free = innerHeight - (box && !box.hidden ? box.offsetHeight : 0);
+    if (scroll || r.top < 0 || r.bottom > free) {
+      try { window.scrollBy({ top: r.top - Math.max(60, innerHeight * 0.18), behavior: 'smooth' }); } catch (e) { window.scrollBy(0, r.top - 80); }
+    }
+  }
   // cụm tiếp theo trên trang (cùng loại nút với cụm vừa bấm), bỏ qua cụm không hiện
   function nextPhrase() {
     if (!ctx || !ctx.el || !document.contains(ctx.el)) return null;
@@ -219,8 +233,7 @@
     var tok = st.token;
     setTimeout(function () {
       if (tok !== st.token || box.hidden) return;
-      try { el.scrollIntoView({ block: 'center', behavior: 'smooth' }); } catch (e) {}
-      open(ctx.getQ(el), { el: el, sel: ctx.sel, getQ: ctx.getQ });
+      open(ctx.getQ(el), { el: el, sel: ctx.sel, getQ: ctx.getQ }, true);
     }, delay);
     return true;
   }
@@ -241,11 +254,12 @@
     st.q = raw; st.clips = []; st.i = 0;
     $('clq').textContent = '🎬 "' + raw + '"';
     status('đang tìm…');
-    stopTimer(); pauseAll(); P.forEach(function (p) { p.pre = -1; p.ok = false; });
+    stopTimer(); pauseAll(); P.forEach(function (p) { p.pre = -1; });
     $('clfv').hidden = false;
     $('clbody').innerHTML = '<div class="ft" id="clt"></div>';
     players();                                                   // tạo trình phát song song với việc tìm clip
-    loadAll(raw).then(function (cl) {
+    var nc = st.nextList; st.nextList = null;
+    (nc && nc.q === raw ? Promise.resolve(nc.cl) : loadAll(raw)).then(function (cl) {
       if (tok !== st.token) return;
       st.clips = cl; st.qn = q;
       if (!st.clips.length) {
@@ -273,23 +287,35 @@
     players().then(function () {
       if (tok !== st.token || st.i !== i) return;
       var o = P[1 - act];
-      if (o.pre === i && o.ok) {                                  // video này đã nạp sẵn ở trình phát kia → đổi ngay
+      if (o.ok && o.vid === c.id && Math.abs(o.seg - st.seg.s) < 0.5) {   // video này đã nạp sẵn ở trình phát kia → đổi ngay
         P[act].yt.pauseVideo(); act = 1 - act;
       } else {
         P[act].yt.loadVideoById({ videoId: c.id, startSeconds: st.seg.s, suggestedQuality: Q });
       }
-      var p = P[act]; p.pre = -1; p.tok = tok; p.i = i; yt = p.yt;
+      var p = P[act]; p.pre = -1; p.ok = false; p.loading = false; p.vid = c.id; p.tok = tok; p.i = i; yt = p.yt;
       P.forEach(function (x, k) { x.el().classList.toggle('off', k !== act); });
       yt.unMute(); yt.seekTo(st.seg.s, true); yt.playVideo(); q360(); startTimer();
-      preload(i + 1);
+      if (i + 1 < st.clips.length) preload(i + 1); else preloadNextPhrase(tok);
     });
   }
+  // video cuối của cụm: tìm sẵn clip của cụm tiếp theo trên trang + nạp sẵn video đầu tiên của nó
+  function preloadNextPhrase(tok) {
+    if (!OPT.auto) return;
+    var el = nextPhrase(); if (!el) return;
+    var raw = String(ctx.getQ(el) || '').replace(/["“”]/g, '').replace(/\s+/g, ' ').trim(); if (!raw) return;
+    loadAll(raw).then(function (cl) {
+      if (tok !== st.token) return;
+      st.nextList = { q: raw, cl: cl };
+      if (cl[0]) preloadClip(cl[0], -1);
+    }).catch(function () {});
+  }
   // nạp sẵn video kế tiếp: phát tắt tiếng ở trình phát ẩn tới khi có hình rồi dừng ở đầu đoạn
-  function preload(i) {
-    var o = P[1 - act], c = st.clips[i];
-    o.pre = -1; o.ok = false;
+  function preload(i) { preloadClip(st.clips[i], i); }
+  function preloadClip(c, i) {
+    var o = P[1 - act];
+    o.pre = -1; o.ok = false; o.loading = false; o.vid = null;
     if (!c || !o.yt || !o.yt.loadVideoById) return;
-    o.pre = i; o.seg = Math.max(0, c.s - 1); o.tok = st.token;
+    o.pre = i; o.vid = c.id; o.seg = Math.max(0, c.s - 1); o.tok = st.token; o.loading = true;
     o.yt.mute(); o.yt.loadVideoById({ videoId: c.id, startSeconds: o.seg, suggestedQuality: Q });
   }
   function players() {
@@ -306,10 +332,11 @@
               onStateChange: function (e) {
                 if (window.CLIP_DEBUG) console.log('clip state', k, act, e.data, p.pre, (function () { try { return p.yt.getCurrentTime().toFixed(1); } catch (x) { return ''; } })());
                 if (e.data === 1) q360();
-                if (k !== act && p.pre >= 0 && e.data === 1) { p.yt.pauseVideo(); p.yt.seekTo(p.seg, true); p.ok = true; }
+                if (k !== act && p.loading && e.data === 1) { p.yt.pauseVideo(); p.yt.seekTo(p.seg, true); p.ok = true; p.loading = false; }
               },
               onError: function (e) {
                 if (window.CLIP_DEBUG) console.log('clip lỗi', k, act, e && e.data, p.pre, p.i, st.i);
+                if (k !== act) { p.loading = false; p.ok = false; p.vid = null; }  // video nạp sẵn hỏng → lúc tới lượt sẽ nạp lại / bị bỏ qua
                 if (p.tok !== st.token || box.hidden) return;                     // lỗi của cụm cũ → bỏ qua
                 if (k === act) { if (p.i === st.i) go(st.i + 1); }               // video bị gỡ / chặn nhúng → sang video sau
                 else if (p.pre > st.i) { var j = p.pre; st.clips.splice(j, 1); count(); preload(j); }   // video nạp sẵn hỏng → bỏ khỏi danh sách
@@ -324,9 +351,9 @@
     });
   }
   function pauseAll() { P.forEach(function (p) { try { p.yt.pauseVideo(); } catch (e) {} }); }
-  // chất lượng 360p ('medium') cho nhẹ — YouTube coi đây là gợi ý, có thể tự đổi theo mạng
-  var Q = 'medium';
-  function q360() { try { if (yt && yt.setPlaybackQuality) yt.setPlaybackQuality(Q); } catch (e) {} }
+  // chất lượng thấp cho nhẹ (mặc định 240p) — YouTube coi đây là gợi ý, có thể tự đổi theo mạng
+  var Q = OPT.q;
+  function q360() { try { P.forEach(function (p) { if (p.yt && p.yt.setPlaybackQuality) p.yt.setPlaybackQuality(Q); }); } catch (e) {} }
   function seekStart() { if (yt && yt.seekTo) { yt.seekTo(st.seg.s, true); yt.playVideo(); } count(); }
   function stopTimer() { clearInterval(st.timer); st.timer = null; }
   // canh đoạn: hết đoạn → phát lại (OPT.rep lần) → sang video sau.
@@ -359,12 +386,13 @@
   }
 
   // where = { el: phần tử cụm vừa bấm, sel: bộ chọn các cụm cùng loại, getQ: el → cụm } (để tự sang cụm tiếp)
-  function open(q, where) {
+  function open(q, where, auto) {
     q = String(q || '').replace(/["“”]/g, '').replace(/\s+/g, ' ').trim();
     if (!q) return;
     ctx = where && where.el ? where : null;
     if (ctx && !ctx.getQ) ctx.getQ = function (el) { return el.getAttribute('data-clip'); };
     build(); box.hidden = false; box.scrollTop = 0;
+    showCur(!!auto);               // tự sang cụm: luôn cuộn; bấm tay: chỉ cuộn khi cụm bị khung phát che
     search(q);
   }
   function close() {
