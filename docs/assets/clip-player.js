@@ -11,6 +11,7 @@
   var SHARDS = 64, REPEAT = 3;
   var st = { q: '', clips: [], i: 0, rep: 0, seg: null, timer: null, token: 0 };
   var vids = null, shards = {}, yt = null, ytReady = null, box = null;
+  var P = [], act = 0;            // 2 trình phát: P[act] đang phát, cái còn lại nạp sẵn video kế tiếp
 
   function $(id) { return document.getElementById(id); }
   function esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
@@ -154,7 +155,7 @@
       '#clp .fb{border:1px solid var(--line,#ddd);background:transparent;color:inherit;border-radius:8px;padding:3px 9px;cursor:pointer;font:inherit;text-decoration:none;white-space:nowrap}' +
       '#clp .fn{color:var(--muted,#777);font-size:12.5px;white-space:nowrap}' +
       '#clp .fv{position:relative;width:100%;aspect-ratio:16/9;background:#000}' +
-      '#clp .fv>*{position:absolute;inset:0;width:100%;height:100%}' +
+      '#clp .fv>*{position:absolute;inset:0;width:100%;height:100%}#clp .fv>.off{visibility:hidden}#clp .fv[hidden]{display:none}' +
       '#clp .ft{padding:8px 12px;font-size:15.5px}' +
       '#clp .ft mark{background:rgba(250,204,21,.5);color:inherit;border-radius:3px;padding:0 2px;font-weight:700}' +
       '#clp .fm{padding:0 12px 10px;color:var(--muted,#777);font-size:12px}#clp .fm a{color:inherit}' +
@@ -172,7 +173,7 @@
       '<button class="fb" id="clpv" title="Video trước">⏮</button><button class="fb" id="clrp" title="Phát lại đoạn này">🔁</button>' +
       '<button class="fb" id="clnx" title="Video sau">⏭</button>' +
       '<button class="fb" id="clx" title="Đóng (Esc)">✕</button></div>' +
-      '<div id="clbody"></div>' +
+      '<div class="fv" id="clfv"><div id="clyA"></div><div id="clyB" class="off"></div></div><div id="clbody"></div>' +
       '<div class="fm">Clip YouTube (TED, talk show, podcast) có người nói <b>đúng nguyên cụm</b> · mỗi đoạn phát ' + REPEAT + ' lần rồi tự sang video sau · ' +
       '<a href="https://www.youtube.com/t/terms" target="_blank" rel="noopener">YouTube Terms</a></div>';
     document.body.appendChild(box);
@@ -201,14 +202,15 @@
     st.q = raw; st.clips = []; st.i = 0;
     $('clq').textContent = '🎬 "' + raw + '"';
     status('đang tìm…');
-    stopTimer(); if (yt && yt.pauseVideo) try { yt.pauseVideo(); } catch (e) {}
-    yt = null;
-    $('clbody').innerHTML = '<div class="fv"><div id="clyt"></div></div><div class="ft" id="clt"></div>';
+    stopTimer(); pauseAll(); P.forEach(function (p) { p.pre = -1; p.ok = false; });
+    $('clfv').hidden = false;
+    $('clbody').innerHTML = '<div class="ft" id="clt"></div>';
+    players();                                                   // tạo trình phát song song với việc tìm clip
     loadAll(raw).then(function (cl) {
       if (tok !== st.token) return;
       st.clips = cl; st.qn = q;
       if (!st.clips.length) {
-        status('');
+        status(''); $('clfv').hidden = true;
         $('clbody').innerHTML = '<div class="fk">Kho clip chưa có video nào nói đúng cụm <b>"' + esc(raw) + '"</b>.</div>';
         return;
       }
@@ -227,20 +229,58 @@
       '… ' + esc(c.b) + ' <mark>' + esc(kind ? c.q : st.q) + '</mark> ' + esc(c.a) + ' …' +
       '<div class="fn" style="margin-top:4px">' + esc(c.ch) + ' · <a href="https://www.youtube.com/watch?v=' + c.id + '&t=' + Math.floor(st.seg.s) + 's" target="_blank" rel="noopener">mở trên YouTube</a></div>';
     count();
-    ytApi().then(function () {
+    players().then(function () {
       if (tok !== st.token || st.i !== i) return;
-      if (yt && yt.loadVideoById) { yt.loadVideoById({ videoId: c.id, startSeconds: st.seg.s, suggestedQuality: Q }); q360(); startTimer(); return; }
-      yt = new YT.Player('clyt', {
-        videoId: c.id, width: '100%', height: '100%',
-        playerVars: { start: Math.floor(st.seg.s), vq: Q, autoplay: 1, playsinline: 1, rel: 0, modestbranding: 1, cc_load_policy: 1, cc_lang_pref: 'en' },
-        events: {
-          onReady: function (e) { q360(); e.target.seekTo(st.seg.s, true); e.target.playVideo(); startTimer(); },
-          onStateChange: function (e) { if (e.data === 1) q360(); },
-          onError: function () { go(st.i + 1); }            // video bị gỡ / chặn nhúng → bỏ qua
-        }
-      });
+      var o = P[1 - act];
+      if (o.pre === i && o.ok) {                                  // video này đã nạp sẵn ở trình phát kia → đổi ngay
+        P[act].yt.pauseVideo(); act = 1 - act;
+      } else {
+        P[act].yt.loadVideoById({ videoId: c.id, startSeconds: st.seg.s, suggestedQuality: Q });
+      }
+      var p = P[act]; p.pre = -1; p.tok = tok; p.i = i; yt = p.yt;
+      P.forEach(function (x, k) { x.el().classList.toggle('off', k !== act); });
+      yt.unMute(); yt.seekTo(st.seg.s, true); yt.playVideo(); q360(); startTimer();
+      preload(i + 1);
     });
   }
+  // nạp sẵn video kế tiếp: phát tắt tiếng ở trình phát ẩn tới khi có hình rồi dừng ở đầu đoạn
+  function preload(i) {
+    var o = P[1 - act], c = st.clips[i];
+    o.pre = -1; o.ok = false;
+    if (!c || !o.yt || !o.yt.loadVideoById) return;
+    o.pre = i; o.seg = Math.max(0, c.s - 1); o.tok = st.token;
+    o.yt.mute(); o.yt.loadVideoById({ videoId: c.id, startSeconds: o.seg, suggestedQuality: Q });
+  }
+  function players() {
+    return ytApi().then(function () {
+      if (P.length) return P.ready;
+      ['clyA', 'clyB'].forEach(function (id, k) {
+        var p = { pre: -1, ok: false, el: function () { return document.getElementById(id); } };
+        p.ready = new Promise(function (res) {
+          p.yt = new YT.Player(id, {
+            width: '100%', height: '100%',
+            playerVars: { vq: Q, autoplay: 0, playsinline: 1, rel: 0, modestbranding: 1, cc_load_policy: 1, cc_lang_pref: 'en' },
+            events: {
+              onReady: function () { res(); },
+              onStateChange: function (e) {
+                if (e.data === 1) q360();
+                if (k !== act && p.pre >= 0 && e.data === 1) { p.yt.pauseVideo(); p.yt.seekTo(p.seg, true); p.ok = true; }
+              },
+              onError: function () {
+                if (p.tok !== st.token || box.hidden) return;                     // lỗi của cụm cũ → bỏ qua
+                if (k === act) { if (p.i === st.i) go(st.i + 1); }               // video bị gỡ / chặn nhúng → sang video sau
+                else if (p.pre > st.i) { var j = p.pre; st.clips.splice(j, 1); count(); preload(j); }   // video nạp sẵn hỏng → bỏ khỏi danh sách
+              }
+            }
+          });
+        });
+        P.push(p);
+      });
+      P.ready = Promise.all(P.map(function (p) { return p.ready; }));
+      return P.ready;
+    });
+  }
+  function pauseAll() { P.forEach(function (p) { try { p.yt.pauseVideo(); } catch (e) {} }); }
   // chất lượng 360p ('medium') cho nhẹ — YouTube coi đây là gợi ý, có thể tự đổi theo mạng
   var Q = 'medium';
   function q360() { try { if (yt && yt.setPlaybackQuality) yt.setPlaybackQuality(Q); } catch (e) {} }
@@ -265,15 +305,29 @@
   }
   function close() {
     if (!box) return;
-    st.token++; stopTimer();
-    if (yt && yt.pauseVideo) try { yt.pauseVideo(); } catch (e) {}
+    st.token++; stopTimer(); pauseAll();
     box.hidden = true;
   }
+
+  // ---- chuẩn bị trước khi bấm ----
+  ['https://www.youtube.com', 'https://i.ytimg.com', 'https://www.google.com'].forEach(function (h) {
+    var l = document.createElement('link'); l.rel = 'preconnect'; l.href = h; l.crossOrigin = ''; document.head.appendChild(l);
+  });
+  (window.requestIdleCallback || function (f) { setTimeout(f, 1500); })(function () { ytApi(); if (!vids) vids = getJSON(BASE + 'v.json'); });
+  function prefetch(raw) {                                        // rê chuột vào cụm: tải sẵn file clip của cụm
+    var q = norm(raw); if (!q) return;
+    [q].concat(variants(raw), parts(raw)).forEach(function (k) { var n = shard(k); if (!shards[n]) shards[n] = getJSON(BASE + (n < 10 ? '0' : '') + n + '.json'); });
+    if (!vids) vids = getJSON(BASE + 'v.json');
+  }
+  document.addEventListener('pointerover', function (e) {
+    var a = e.target.closest && e.target.closest('[data-clip]');
+    if (a) { build(); prefetch(a.getAttribute('data-clip')); players(); }
+  });
 
   document.addEventListener('click', function (e) {
     var a = e.target.closest && e.target.closest('[data-clip]');
     if (!a || e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
     e.preventDefault(); open(a.getAttribute('data-clip'));
   });
-  window.ClipPlayer = { open: open, close: close, url: ytUrl, norm: norm, parts: parts, variants: variants, cores: cores };
+  window.ClipPlayer = { open: open, close: close, url: ytUrl, prefetch: function (q) { build(); prefetch(q); players(); }, norm: norm, parts: parts, variants: variants, cores: cores };
 })();

@@ -143,6 +143,8 @@
     const a = e.target.closest('a.yg, a.ygb'); if (!a || !a.dataset.p || e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
     e.preventDefault(); ClipPlayer.open(ygq(a.dataset.p));
   });
+  let pbHover = null;            // rê chuột vào cụm: tải sẵn trình phát + dữ liệu clip của cụm
+  document.addEventListener('pointerover', e => { const a = e.target.closest('a.yg, a.ygb'); if (a && a.dataset.p && a !== pbHover) { pbHover = a; ClipPlayer.prefetch(ygq(a.dataset.p)); } });
   const say = t => `<button class="say" data-t="${esc(t)}" aria-label="Nghe">🔊</button>`;
 
   let res = [];
