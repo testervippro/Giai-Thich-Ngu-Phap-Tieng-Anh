@@ -51,6 +51,7 @@
   </style>
 <link rel="stylesheet" href="../assets/ui.css">
 <script src="../assets/ui.js" data-section="Tiếng Anh" data-title="Cụm giao tiếp trong phim"></script>
+<script src="../assets/filmot-player.js"></script>
 </head>
 <body>
 <main>
@@ -128,7 +129,8 @@
   $('grp').innerHTML = '<option value="">Mọi nhóm</option>' + Object.entries(D.groups).map(([k, v]) => `<option value="${k}">${esc(v)}</option>`).join('');
   $('clean').checked = ls.get('mp-clean', false);
   const RUDE = /fuck|shit|bitch|damn|hell|suck/i;
-  const yg = t => 'https://youglish.com/pronounce/' + encodeURIComponent(t.replace(/[…()]/g, '').trim()) + '/english';
+  const ygq = t => t.replace(/[…()]/g, '').replace(/\s+/g, ' ').trim();
+  const yg = t => FilmotPlayer.url(ygq(t));
   function bold(line, ph){
     const words = ph.replace(/[()]/g, '').toLowerCase().split(' ').map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/'/g, "['’]"));
     let src = words.join('[\\s,]+').replace("all[\\s,]+right", "(?:all[\\s,]+right|alright)").replace(/\bokay\b/g, '(?:okay|ok)');
@@ -158,7 +160,7 @@
       `<tr><td class="rk hide-sm">${rk}</td><td class="w">${esc(w)} <button class="say" data-t="${esc(w)}" aria-label="Đọc ${esc(w)}">🔊</button>${forms ? `<span class="f">${esc(forms)}</span>` : ''}</td>`
       + `<td>${kind === 'ten' ? '<span class="nomean">tên riêng</span>' : mean ? esc(mean) : `<a href="${gt(w)}" target="_blank" rel="noopener">Dịch ↗</a>`}</td>`
       + `<td class="num">${fmt(tf)}</td>` + (S.series ? `<td class="num hide-sm">${fmt(df)}/${fmt(S.eps)}</td>` : '<td class="hide-sm" style="display:none"></td>')
-      + `<td class="hide-sm"><a href="${yg(w)}" target="_blank" rel="noopener">▶ YouGlish</a></td></tr>`).join('');
+      + `<td class="hide-sm"><a href="${yg(w)}" data-filmot="${esc(ygq(w))}" target="_blank" rel="noopener">▶ Filmot</a></td></tr>`).join('');
   }
   let dkind = '';
   function drawDaily(){
@@ -188,7 +190,7 @@
         + `<td>${esc(mean)}</td><td class="num">${tf ? fmt(tf) : '—'}</td>`
         + `<td class="hide-sm"><div class="chips">${per.map(([i, n]) => `<span class="chip">${esc(D.shows[i].name)} ${fmt(n)}</span>`).join('')}</div></td>`
         + `<td class="ex">${line ? `“${bold(line, say.replace(/[^A-Za-z' ]/g, ' ').replace(/\s+/g, ' ').trim())}”<div class="src">${esc(src)}</div>` : '<span class="nomean">chưa gặp trong phim</span>'}</td>`
-        + `<td class="hide-sm"><a href="${yg(say)}" target="_blank" rel="noopener">▶ YouGlish</a></td></tr>`;
+        + `<td class="hide-sm"><a href="${yg(say)}" data-filmot="${esc(ygq(say))}" target="_blank" rel="noopener">▶ Filmot</a></td></tr>`;
     }).join('');
   }
   function draw(){
@@ -215,7 +217,7 @@
       return `<tr><td class="p">${esc(ph)} <button class="say" data-t="${esc(ph.replace(/[()]/g, ''))}" title="Đọc thử" aria-label="Đọc ${esc(ph)}">🔊</button><span class="g">${esc(D.groups[grp] || '')}</span></td>`
         + `<td>${esc(mean)}</td><td class="num">${c3}</td>` + (S.series ? `<td class="num hide-sm">${fmt(tf)}</td>` : '')
         + `<td class="ex">“${bold(line, ph)}”<div class="src">${esc(src)}</div></td>`
-        + `<td class="hide-sm"><a href="${yg(ph)}" target="_blank" rel="noopener">▶ YouGlish</a></td></tr>`;
+        + `<td class="hide-sm"><a href="${yg(ph)}" data-filmot="${esc(ygq(ph))}" target="_blank" rel="noopener">▶ Filmot</a></td></tr>`;
     }).join('');
   }
   $('tabs').addEventListener('click', e => {
