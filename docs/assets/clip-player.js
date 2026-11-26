@@ -260,7 +260,7 @@
   }
 
   function go(i) {
-    if (i >= st.clips.length) { stopTimer(); status('đã hết ' + st.clips.length + ' video' + (autoNext(600) ? ' · sang cụm tiếp…' : '')); return; }
+    if (i >= st.clips.length) { stopTimer(); pauseAll(); status('đã hết ' + st.clips.length + ' video' + (autoNext(600) ? ' · sang cụm tiếp…' : '')); return; }
     var tok = st.token, c = st.clips[i];
     st.i = i; st.rep = 0;
     st.seg = { s: Math.max(0, c.s - 1), e: c.e + 0.8 };
@@ -304,10 +304,12 @@
             events: {
               onReady: function () { res(); },
               onStateChange: function (e) {
+                if (window.CLIP_DEBUG) console.log('clip state', k, act, e.data, p.pre, (function () { try { return p.yt.getCurrentTime().toFixed(1); } catch (x) { return ''; } })());
                 if (e.data === 1) q360();
                 if (k !== act && p.pre >= 0 && e.data === 1) { p.yt.pauseVideo(); p.yt.seekTo(p.seg, true); p.ok = true; }
               },
-              onError: function () {
+              onError: function (e) {
+                if (window.CLIP_DEBUG) console.log('clip lỗi', k, act, e && e.data, p.pre, p.i, st.i);
                 if (p.tok !== st.token || box.hidden) return;                     // lỗi của cụm cũ → bỏ qua
                 if (k === act) { if (p.i === st.i) go(st.i + 1); }               // video bị gỡ / chặn nhúng → sang video sau
                 else if (p.pre > st.i) { var j = p.pre; st.clips.splice(j, 1); count(); preload(j); }   // video nạp sẵn hỏng → bỏ khỏi danh sách
@@ -327,13 +329,25 @@
   function q360() { try { if (yt && yt.setPlaybackQuality) yt.setPlaybackQuality(Q); } catch (e) {} }
   function seekStart() { if (yt && yt.seekTo) { yt.seekTo(st.seg.s, true); yt.playVideo(); } count(); }
   function stopTimer() { clearInterval(st.timer); st.timer = null; }
+  // canh đoạn: hết đoạn → phát lại (OPT.rep lần) → sang video sau.
+  // Chỉ xét khi trình phát đã đúng video và đang phát (ngay sau khi đổi video, getCurrentTime() còn trả giờ của video cũ).
   function startTimer() {
-    stopTimer();
+    stopTimer(); st.wait = false;
     st.timer = setInterval(function () {
       if (!yt || !yt.getCurrentTime || !st.seg || box.hidden) return;
-      if (yt.getCurrentTime() >= st.seg.e) {
+      var c = st.clips[st.i], ps = -1, t;
+      try {
+        var vd = yt.getVideoData && yt.getVideoData();
+        if (c && vd && vd.video_id && vd.video_id !== c.id) return;             // chưa nạp xong video của đoạn này
+        ps = yt.getPlayerState(); t = yt.getCurrentTime();
+      } catch (e) { return; }
+      var ended = ps === 0;                                                    // đoạn nằm cuối video → video tự hết
+      if (ps !== 1 && !ended) return;
+      if (st.wait) { if (!ended && t < st.seg.e - 0.3) st.wait = false; else return; }   // vừa tua lại, chờ tua xong
+      if (!ended && (t < st.seg.s - 2 || t > st.seg.e + 4)) { yt.seekTo(st.seg.s, true); return; }  // tua trượt → về đầu đoạn
+      if (ended || t >= st.seg.e) {
         st.rep++;
-        if (st.rep < OPT.rep) seekStart(); else go(st.i + 1);
+        if (st.rep < OPT.rep) { st.wait = !ended; seekStart(); } else go(st.i + 1);
       }
     }, 150);
   }
