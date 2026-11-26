@@ -42,6 +42,7 @@
     .tag.t2 { border-color:#059669; color:#059669; }
     .tag.t3 { border-color:#d97706; color:#b45309; }
     .tag.t4 { border-color:#7c3aed; color:#7c3aed; }
+    .tag.t5 { border-color:#c2410c; color:#c2410c; }
     .tag.lv { border-color:#dc2626; color:#dc2626; font-weight:700; }
     .say { border:0; background:none; cursor:pointer; font-size:14px; padding:0 2px; color:inherit; }
     mark { background:#fde68a; color:inherit; border-radius:3px; }
@@ -55,7 +56,7 @@
 <body>
 <main>
   <h1>📚 Từ vựng TOEIC · IELTS · Oxford — tra cứu có bộ lọc</h1>
-  <p class="lead"><b id="nAll">…</b> mục đã bỏ trùng từ 4 nguồn: <i>Hackers TOEIC Vocabulary</i>, <b>5000 từ IELTS</b> theo 33 chủ đề (flyer.vn, có phiên âm), <b>Oxford Word Skills</b> Basic/Intermediate/Advanced và <b>Oxford 3000/5000</b> theo cấp CEFR. Chọn nguồn (chọn nhiều được), cấp độ, chủ đề hoặc gõ từ / nghĩa tiếng Việt.</p>
+  <p class="lead"><b id="nAll">…</b> mục đã bỏ trùng từ 5 nguồn: <i>Hackers TOEIC Vocabulary</i>, <b>5000 từ IELTS</b> theo 33 chủ đề (flyer.vn, có phiên âm), <b>Oxford Word Skills</b> Basic/Intermediate/Advanced <b>Oxford 3000/5000</b> theo cấp CEFR và <b>Destination C1 &amp; C2</b> (phrasal verb, idiom, collocation trình độ C1–C2). Chọn nguồn (chọn nhiều được), cấp độ, chủ đề hoặc gõ từ / nghĩa tiếng Việt.</p>
   <div class="bar">
     <div class="row">
       <input type="search" id="q" placeholder="Tìm từ tiếng Anh hoặc nghĩa tiếng Việt" aria-label="Tìm" autocomplete="off">
@@ -72,7 +73,7 @@
   <div class="az" id="az"></div>
   <ul class="list" id="out"></ul>
   <button class="btn more" id="more" hidden>Xem thêm</button>
-  <p class="foot">Nguồn: Hackers TOEIC Vocabulary (Index, OCR); flyer.vn — 5000 từ vựng IELTS thông dụng; Oxford Word Skills Basic/Intermediate/Advanced (Word list cuối sách, OCR); The Oxford 3000/5000 by CEFR level (oxfordlearnersdictionaries.com). Nghĩa tiếng Việt theo nguồn nếu có, còn lại dịch bổ sung. Bản dạng bảng: <a href="../#/toeic-vocabulary-index">Danh sách từ vựng (bảng)</a>.</p>
+  <p class="foot">Nguồn: Hackers TOEIC Vocabulary (Index, OCR); flyer.vn — 5000 từ vựng IELTS thông dụng; Oxford Word Skills Basic/Intermediate/Advanced (Word list cuối sách, OCR); The Oxford 3000/5000 by CEFR level (oxfordlearnersdictionaries.com); Destination C1 &amp; C2 Grammar and Vocabulary (Macmillan, phần tra cứu cuối sách, OCR). Nghĩa tiếng Việt theo nguồn nếu có, còn lại dịch bổ sung. Bản dạng bảng: <a href="../#/toeic-vocabulary-index">Danh sách từ vựng (bảng)</a>.</p>
 </main>
 <script src="vocab-index-data.js"></script>
 <script>
@@ -83,9 +84,9 @@
   const fold = s => String(s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').replace(/[’‘]/g, "'");
   const ls = { get(k,d){ try{ const v = localStorage.getItem(k); return v==null ? d : JSON.parse(v); }catch(e){ return d; } }, set(k,v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} } };
   const V = window.VOCAB_INDEX || { src:[], topics:[], rows:[] };
-  const LABEL = ['TOEIC', 'IELTS', 'Word Skills Basic', 'Word Skills Intermediate', 'Word Skills Advanced', 'Oxford 3000', 'Oxford 5000'];
-  const TAGC = ['t1', 't2', 't3', 't3', 't3', 't4', 't4'];
-  const TAGS = ['TOEIC', 'IELTS', 'WS Basic', 'WS Int', 'WS Adv', 'Oxford 3000', 'Oxford 5000'];
+  const LABEL = ['TOEIC', 'IELTS', 'Word Skills Basic', 'Word Skills Intermediate', 'Word Skills Advanced', 'Oxford 3000', 'Oxford 5000', 'Destination C1–C2'];
+  const TAGC = ['t1', 't2', 't3', 't3', 't3', 't4', 't4', 't5'];
+  const TAGS = ['TOEIC', 'IELTS', 'WS Basic', 'WS Int', 'WS Adv', 'Oxford 3000', 'Oxford 5000', 'Destination C1–C2'];
   const R = V.rows.map(r => ({ w:r[0], vi:r[1], ipa:r[2], f:r[3], lv:r[4], fr:r[5] || 0, tp:r[6] || [], k:fold(r[0]), kv:fold(r[1]),
     L: (/[a-z]/i.test(r[0][0]) ? r[0][0].toUpperCase() : '#') }));
   const st = Object.assign({ src:0, lv:'', tp:'', L:'', and:false, sort:'freq', all:false }, ls.get('vocabIndex', {}));
@@ -127,7 +128,7 @@
     $('out').innerHTML = V2.slice(0, shown).map(r => {
       const tags = TAGS.map((t, i) => (r.f & (1 << i)) ? `<span class="tag ${TAGC[i]}">${t}</span>` : '').join('')
         + (r.lv ? `<span class="tag lv">${r.lv}</span>` : '') + r.tp.map(i => `<span class="tag">${esc(V.topics[i])}</span>`).join('');
-      return `<li><div class="w"><span class="rk" title="Thứ hạng phổ biến trong 14.068 mục">#${r.rank}</span><button class="say" data-t="${esc(r.w)}" title="Nghe">🔊</button>${hi(r.w, q)}${r.ipa ? `<span class="ipa">${esc(r.ipa)}</span>` : ''}</div><div class="vi">${hi(r.vi, q)}</div><div class="tags">${tags}</div></li>`;
+      return `<li><div class="w"><span class="rk" title="Thứ hạng phổ biến trong ${R.length.toLocaleString('vi')} mục">#${r.rank}</span><button class="say" data-t="${esc(r.w)}" title="Nghe">🔊</button>${hi(r.w, q)}${r.ipa ? `<span class="ipa">${esc(r.ipa)}</span>` : ''}</div><div class="vi">${hi(r.vi, q)}</div><div class="tags">${tags}</div></li>`;
     }).join('') || '<li class="stat">Không có mục nào khớp.</li>';
     $('more').hidden = shown >= V2.length;
     save();

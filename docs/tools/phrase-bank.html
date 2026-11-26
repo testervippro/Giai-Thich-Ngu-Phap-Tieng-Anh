@@ -167,7 +167,8 @@
   }
   function card(x, terms, n) {
     const tags = x.ts.map(t => `<span class="tag t">${esc(T[t])}</span>`).join('') +
-      x.ss.map(s => { const u = S[s].url + (x.rf[s] && /^[#?]/.test(x.rf[s]) ? x.rf[s] : ''); return `<span class="tag"><a href="${esc(u)}" title="Mở trang gốc" target="_blank" rel="noopener">${esc(S[s].name.split(' — ')[0].replace(/^Ngân hàng /, '').slice(0, 34))} ↗</a></span>`; }).join('');
+      x.ss.map(s => { const nm = esc(S[s].name.split(' — ')[0].replace(/^Ngân hàng /, '').slice(0, 34)); if (!S[s].url) return `<span class="tag" title="${esc(S[s].name)}">${nm}</span>`;
+        const u = S[s].url + (x.rf[s] && /^[#?]/.test(x.rf[s]) ? x.rf[s] : ''); return `<span class="tag"><a href="${esc(u)}" title="Mở trang gốc" target="_blank" rel="noopener">${nm} ↗</a></span>`; }).join('');
     return `<div class="it"><div class="no">${n}</div><div class="bd"><div class="p"><a class="yg" data-p="${esc(x.p)}" href="${esc(ygUrl(x.p))}" target="_blank" rel="noopener" title="Nghe người bản xứ nói đúng cụm “${esc(ygq(x.p))}” trên YouTube">${hl(x.p, terms)}</a> ${say(x.p)}<a class="say ygb${lv(x.ix) ? '' : ' nov'}" data-p="${esc(x.p)}" href="${esc(ygUrl(x.p))}" target="_blank" rel="noopener" title="Nghe người bản xứ nói">🎬</a></div>` +
       (x.m ? `<div class="m">${hl(x.m, terms)}</div>` : '') +
       (x.d ? `<div class="d">${hl(x.d, terms)}</div>` : '') +

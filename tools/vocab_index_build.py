@@ -8,6 +8,8 @@ Nguồn:
                                               : tools/data/oxford_word_skills_index.json
   - The Oxford 3000 / 5000 by CEFR level (+ bản American), oxfordlearnersdictionaries.com
                                               : tools/data/oxford_3000_5000.json
+  - Destination C1 & C2 Grammar and Vocabulary (phrasal verbs, idioms, collocations, OCR)
+                                              : tools/data/destination_c1c2.json   (tools/destination_extract.py)
 Nghĩa tiếng Việt: lấy từ mục đã có; thiếu thì tra các bộ dữ liệu sẵn có trong repo (DK Dictionary,
 Kho cụm từ, Phrasal verbs, 4500 Collocations, từ trong phim) và tools/data/vocab_vi_extra.tsv (dịch bổ sung).
 
@@ -84,6 +86,12 @@ def main():
         if all(s.startswith("American") for s in r["src"]):
             name += " (Mỹ)"
         rows.append(dict(term=r["w"], ipa="", vi="", src="%s · %s · %s" % (name, r["lv"], r["pos"])))
+    # Destination C1 & C2 (Macmillan): phrasal verbs, idioms, collocations — tools/data/destination_c1c2.json (OCR)
+    DEST = {"phrasal": "phrasal verb", "idiom": "idiom", "collocation": "collocation"}
+    for r in json.load(open(os.path.join(DATA, "destination_c1c2.json"), encoding="utf-8")):
+        d = (r.get("d") or "").strip().rstrip(".")
+        rows.append(dict(term=r["p"], ipa="", vi="", src="Destination C1–C2 · " + DEST[r["t"]],
+                         note=d[:90] + ("…" if len(d) > 90 else "") if len(d.split()) >= 2 else ""))
     merged = {}
     for r in rows:
         k = key(r["term"])
@@ -156,14 +164,15 @@ def main():
     cnt = lambda s: sum(1 for e in items if any(s in x for x in e["srcs"]))
     esc = lambda s: s.replace("|", "/")
     L = ["# Danh sách từ vựng TOEIC + IELTS + Oxford (Index đầy đủ)\n",
-         "> Gộp và **bỏ trùng** 4 nguồn: *Hackers TOEIC Vocabulary* (Index, OCR); **5000 từ vựng IELTS thông dụng** "
+         "> Gộp và **bỏ trùng** 5 nguồn: *Hackers TOEIC Vocabulary* (Index, OCR); **5000 từ vựng IELTS thông dụng** "
          "theo 33 chủ đề ([flyer.vn](https://flyer.vn/5000-tu-vung-ielts-thong-dung/), có phiên âm); **Oxford Word Skills** "
          "Basic / Intermediate / Advanced (Word list ở cuối sách, OCR); **The Oxford 3000 & 5000** theo cấp CEFR "
          "([oxfordlearnersdictionaries.com](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000), gộp bản Anh và Mỹ). "
+         "**Destination C1 & C2** (phrasal verb, idiom, collocation; phần tra cứu cuối sách, OCR). "
          "Nghĩa tiếng Việt: theo nguồn nếu có, còn lại dịch bổ sung — có thể chưa sát ngữ cảnh. Dùng `Ctrl+F` để tra nhanh.\n",
          "> 🔎 **[Mở bản tra cứu có bộ lọc](tools/vocab-index.html)** — lọc theo nguồn (TOEIC / IELTS / Word Skills / Oxford 3000–5000), cấp CEFR, chủ đề IELTS.\n",
-         "> Tổng cộng: **%s mục** (đã bỏ trùng), A–Z — TOEIC %s · IELTS %s · Word Skills %s · Oxford 3000/5000 %s.\n"
-         % tuple("{:,}".format(x).replace(",", ".") for x in (len(items), cnt("TOEIC"), cnt("IELTS"), cnt("Word Skills"), cnt("Oxford 3000") + cnt("Oxford 5000"))),
+         "> Tổng cộng: **%s mục** (đã bỏ trùng), A–Z — TOEIC %s · IELTS %s · Word Skills %s · Oxford 3000/5000 %s · Destination C1–C2 %s.\n"
+         % tuple("{:,}".format(x).replace(",", ".") for x in (len(items), cnt("TOEIC"), cnt("IELTS"), cnt("Word Skills"), cnt("Oxford 3000") + cnt("Oxford 5000"), cnt("Destination"))),
          "---\n",
          "| # | Từ / Cụm từ | Nghĩa tiếng Việt | Phiên âm | Nguồn |",
          "|---|---|---|---|---|"]
@@ -200,7 +209,7 @@ def main():
     except ImportError:
         pass
     # dữ liệu cho trang tra cứu có bộ lọc (docs/tools/vocab-index.html)
-    SRC = ["TOEIC", "IELTS", "Basic", "Intermediate", "Advanced", "Oxford 3000", "Oxford 5000"]
+    SRC = ["TOEIC", "IELTS", "Basic", "Intermediate", "Advanced", "Oxford 3000", "Oxford 5000", "Destination C1–C2"]
     topics, data = [], []
     for e in items:
         flags, lv, tp = 0, "", []
@@ -215,6 +224,7 @@ def main():
             if x.startswith("Word Skills"):
                 for i, b in ((2, "Basic"), (3, "Intermediate"), (4, "Advanced")):
                     if b in x: flags |= 1 << i
+            if x.startswith("Destination"): flags |= 1 << 7
             m = re.match(r"Oxford (3000|5000)(?: \(Mỹ\))? · (A1|A2|B1|B2|C1)", x)
             if m:
                 flags |= 1 << (5 if m.group(1) == "3000" else 6)
