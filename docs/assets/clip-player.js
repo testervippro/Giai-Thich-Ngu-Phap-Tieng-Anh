@@ -50,6 +50,71 @@
     segs.forEach(function (a) { split(a).forEach(function (b) { var t = b.join(' '); if (b.length >= 2 && t !== full && out.indexOf(t) < 0) out.push(t); }); });
     return out;
   }
+  // ---- bậc 1: dạng khác của CÙNG cụm (viết tắt ↔ đầy đủ, động từ đầu cụm chia thì) ----
+  var CONTR = { "i'm": 'i am', "you're": 'you are', "we're": 'we are', "they're": 'they are', "it's": 'it is', "that's": 'that is',
+    "he's": 'he is', "she's": 'she is', "what's": 'what is', "there's": 'there is', "here's": 'here is', "who's": 'who is', "how's": 'how is',
+    "i've": 'i have', "you've": 'you have', "we've": 'we have', "they've": 'they have', "i'll": 'i will', "you'll": 'you will',
+    "we'll": 'we will', "it'll": 'it will', "i'd": 'i would', "you'd": 'you would', "we'd": 'we would', "don't": 'do not',
+    "doesn't": 'does not', "didn't": 'did not', "can't": 'cannot', "won't": 'will not', "isn't": 'is not', "aren't": 'are not',
+    "wasn't": 'was not', "weren't": 'were not', "haven't": 'have not', "hasn't": 'has not', "wouldn't": 'would not',
+    "couldn't": 'could not', "shouldn't": 'should not', "let's": 'let us', "how've": 'how have', "what've": 'what have',
+    "could've": 'could have', "should've": 'should have', "would've": 'would have', "might've": 'might have', "must've": 'must have',
+    "where's": 'where is', "why's": 'why is', "you'd've": 'you would have', "y'all": 'you all' };
+  var UNCONTR = {}; Object.keys(CONTR).forEach(function (k) { UNCONTR[CONTR[k]] = k; });
+  var IRR = { be: 'is are was were been being', have: 'has had having', do: 'does did done doing', go: 'goes went gone going',
+    get: 'gets got gotten getting', make: 'makes made making', take: 'takes took taken taking', give: 'gives gave given giving',
+    come: 'comes came coming', keep: 'keeps kept keeping', bring: 'brings brought bringing', pay: 'pays paid paying',
+    say: 'says said saying', tell: 'tells told telling', see: 'sees saw seen seeing', find: 'finds found finding',
+    think: 'thinks thought thinking', hold: 'holds held holding', run: 'runs ran running', put: 'puts putting',
+    set: 'sets setting', cut: 'cuts cutting', let: 'lets letting', hit: 'hits hitting', catch: 'catches caught catching',
+    break: 'breaks broke broken breaking', speak: 'speaks spoke spoken speaking', lose: 'loses lost losing',
+    leave: 'leaves left leaving', feel: 'feels felt feeling', meet: 'meets met meeting', sell: 'sells sold selling',
+    send: 'sends sent sending', spend: 'spends spent spending', stand: 'stands stood standing', buy: 'buys bought buying',
+    fall: 'falls fell fallen falling', write: 'writes wrote written writing', drive: 'drives drove driven driving',
+    know: 'knows knew known knowing', grow: 'grows grew grown growing', throw: 'throws threw thrown throwing',
+    draw: 'draws drew drawn drawing', bite: 'bites bit bitten biting', hide: 'hides hid hidden hiding',
+    ride: 'rides rode ridden riding', rise: 'rises rose risen rising', shake: 'shakes shook shaken shaking',
+    sleep: 'sleeps slept sleeping', sit: 'sits sat sitting', win: 'wins won winning', lead: 'leads led leading',
+    read: 'reads reading', hear: 'hears heard hearing', mean: 'means meant meaning', build: 'builds built building',
+    lend: 'lends lent lending', bear: 'bears bore borne bearing', wear: 'wears wore worn wearing', tear: 'tears tore torn tearing',
+    swim: 'swims swam swum swimming', sing: 'sings sang sung singing', begin: 'begins began begun beginning',
+    shut: 'shuts shutting', blow: 'blows blew blown blowing', fly: 'flies flew flown flying', lay: 'lays laid laying',
+    lie: 'lies lay lain lying', teach: 'teaches taught teaching', fight: 'fights fought fighting', seek: 'seeks sought seeking',
+    deal: 'deals dealt dealing', stick: 'sticks stuck sticking', strike: 'strikes struck striking', hang: 'hangs hung hanging' };
+  var NOTVERB = /^(i|you|we|they|he|she|it|this|that|these|those|there|here|what|who|how|why|when|where|which|the|a|an|my|your|our|their|his|her|its|no|not|all|any|some|every|each|one|in|on|at|for|with|from|by|about|of|to|as|and|or|but|so|if|very|too|just|really|well|oh|hey|hi|yes|yeah|ok|okay|please|sorry|thanks|thank|can|could|will|would|shall|should|may|might|must|is|are|was|were|am|i'm|it's|that's|let's|don't|nice|good|great|long|first|last|more|most|less|much|many|never|always|once|again|out|up|down|off|over)$/;
+  function inflect(v) {
+    if (IRR[v]) return IRR[v].split(' ');
+    if (!/^[a-z]{3,}$/.test(v)) return [];
+    var c = /[^aeiou]y$/.test(v) ? v.slice(0, -1) + 'ie' : v, e = /e$/.test(v) ? v.slice(0, -1) : v;
+    var dbl = /^[^aeiou]*[aeiou][bdgmnprt]$/.test(v) ? v + v.slice(-1) : e;            // stop → stopped
+    return [/(s|x|z|ch|sh)$/.test(v) ? v + 'es' : (c !== v ? c + 's' : v + 's'), (c !== v ? c + 'd' : /e$/.test(v) ? v + 'd' : dbl + 'ed'), dbl + 'ing'];
+  }
+  function variants(raw) {
+    var w = norm(raw).split(' '), out = [], full = w.join(' ');
+    function add(a) { var t = a.join(' '); if (t !== full && out.indexOf(t) < 0) out.push(t); }
+    // viết tắt ↔ đầy đủ
+    var a = [], b = w.join(' ');
+    w.forEach(function (x) { a.push(CONTR[x] || x); });
+    add(a.join(' ').split(' '));
+    Object.keys(UNCONTR).forEach(function (k) { var r = new RegExp('(^| )' + k + '( |$)'); if (r.test(b)) add(b.replace(r, '$1' + UNCONTR[k] + '$2').split(' ')); });
+    if (w.length >= 2 && !NOTVERB.test(w[0])) inflect(w[0]).forEach(function (f) { add([f].concat(w.slice(1))); });
+    return out;
+  }
+  // ---- bậc 3: cụm 3–5 từ vẫn chưa có → phần lõi (bỏ bớt 1–2 từ ở đầu / cuối, phải còn từ có nghĩa) ----
+  var STOP = /^(i|you|we|they|he|she|it|me|him|her|us|them|my|your|the|a|an|to|of|in|on|at|for|with|and|or|but|so|that|this|is|are|was|be|am|i'm|it's|do|don't|can|will|would|just|really|very|not|no|if|as|by|from|up|out|get|got|have|has|what|how|well|oh)$/;
+  function cores(raw) {
+    var w = norm(raw).split(' '), out = [];
+    if (w.length < 3) return out;
+    for (var L = w.length - 1; L >= 2; L--) {
+      for (var i = 0; i + L <= w.length; i++) {
+        var s = w.slice(i, i + L);
+        if (s.filter(function (x) { return !STOP.test(x); }).length < 2) continue;      // phải còn ≥ 2 từ có nghĩa
+        var t = s.join(' '); if (out.indexOf(t) < 0) out.push(t);
+      }
+      if (L <= w.length - 2) break;                         // chỉ bỏ tối đa 2 từ
+    }
+    return out;
+  }
   function filmotUrl(q) { return 'https://filmot.com/search/' + encodeURIComponent('"' + q + '"') + '/1?lang=en'; }
   function getJSON(u) { return fetch(u).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
   function load(q) {
@@ -60,24 +125,22 @@
       return (r[1][q] || []).map(function (c) { var v = r[0][c[0]]; return { id: v[0], ch: v[1], s: c[1] / 10, e: c[2] / 10, b: c[3], a: c[4], q: q }; });
     });
   }
-  // đủ 50 clip đúng nguyên cụm thì thôi; thiếu thì bù bằng clip của các cụm ngắn trong câu (xen kẽ)
+  // ưu tiên: đúng nguyên cụm → dạng khác của cụm → các cụm ngắn trong câu dài → phần lõi của cụm; đủ 50 thì dừng
+  function fill(out, seen, L, kind) {
+    for (var r = 0; out.length < 50; r++) {
+      var any = false;
+      L.forEach(function (l) { if (l[r] && out.length < 50) { any = true; if (!seen[l[r].id]) { seen[l[r].id] = 1; l[r].kind = kind; out.push(l[r]); } } });
+      if (!any) break;
+    }
+  }
   function loadAll(raw) {
-    var q = norm(raw);
-    return load(q).then(function (full) {
-      var ps = full.length >= 50 ? [] : parts(raw);
-      if (!ps.length) return full;
-      return Promise.all(ps.map(load)).then(function (L) {
-        var out = full.slice(), seen = {};
-        out.forEach(function (c) { seen[c.id] = 1; });
-        for (var r = 0; out.length < 50; r++) {
-          var any = false;
-          L.forEach(function (l) { if (l[r] && out.length < 50) { any = true; if (!seen[l[r].id]) { seen[l[r].id] = 1; out.push(l[r]); } } });
-          if (!any) break;
-        }
-        out.nFull = full.length;
-        return out;
-      });
-    });
+    var tiers = [[norm(raw)], variants(raw), parts(raw), cores(raw)], out = [], seen = {};
+    function step(k) {
+      if (k >= tiers.length || out.length >= 50) return Promise.resolve(out);
+      if (k === 3 && out.length) return Promise.resolve(out);          // phần lõi chỉ dùng khi chưa có clip nào
+      return Promise.all(tiers[k].map(load)).then(function (L) { fill(out, seen, L, k); return step(k + 1); });
+    }
+    return step(0);
   }
 
   function css() {
@@ -169,9 +232,10 @@
     var tok = st.token, c = st.clips[i];
     st.i = i; st.rep = 0;
     st.seg = { s: Math.max(0, c.s - 1), e: c.e + 0.8 };
-    var part = c.q !== st.qn;
-    $('clt').innerHTML = (part ? '<div class="fn" style="margin-bottom:3px">Chưa có clip nói nguyên câu — đây là một cụm trong câu:</div>' : '') +
-      '… ' + esc(c.b) + ' <mark>' + esc(part ? c.q : st.q) + '</mark> ' + esc(c.a) + ' …' +
+    var NOTE = ['', 'Dạng khác của cùng cụm:', 'Chưa có clip nói nguyên câu — đây là một cụm trong câu:', 'Chưa có clip nói nguyên cụm — đây là phần chính của cụm:'];
+    var kind = c.kind || 0;
+    $('clt').innerHTML = (kind ? '<div class="fn" style="margin-bottom:3px;white-space:normal">' + NOTE[kind] + '</div>' : '') +
+      '… ' + esc(c.b) + ' <mark>' + esc(kind ? c.q : st.q) + '</mark> ' + esc(c.a) + ' …' +
       '<div class="fn" style="margin-top:4px">' + esc(c.ch) + ' · <a href="https://www.youtube.com/watch?v=' + c.id + '&t=' + Math.floor(st.seg.s) + 's" target="_blank" rel="noopener">mở trên YouTube</a></div>';
     count();
     ytApi().then(function () {
@@ -218,5 +282,5 @@
     if (!a || e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
     e.preventDefault(); open(a.getAttribute('data-clip'));
   });
-  window.ClipPlayer = { open: open, close: close, url: filmotUrl, norm: norm, parts: parts };
+  window.ClipPlayer = { open: open, close: close, url: filmotUrl, norm: norm, parts: parts, variants: variants, cores: cores };
 })();

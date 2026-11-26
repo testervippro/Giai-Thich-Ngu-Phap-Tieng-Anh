@@ -4,7 +4,7 @@
 const fs = require('fs'), path = require('path'), vm = require('vm');
 const R = p => fs.readFileSync(path.join(__dirname, '..', p), 'utf8');
 const grab = (src, re) => { const m = src.match(re); if (!m) throw new Error('không thấy ' + re); return m[0]; };
-const out = new Set();
+const out = new Set(), sub = new Set();   // sub: cụm phụ (ghi "~cụm") — kho chỉ giữ ≤ 15 clip
 const add = q => { q = String(q || '').replace(/["“”]/g, '').replace(/\s+/g, ' ').trim(); if (q && /[A-Za-z]/.test(q)) out.add(q); };
 
 // 1. Kho cụm từ
@@ -34,11 +34,13 @@ const add = q => { q = String(q || '').replace(/["“”]/g, '').replace(/\s+/g,
   }
   for (const k of ['daily', 'all']) for (const r of D[k] || []) add(q(String(r[1]).replace(/\([^)]*\)|\.\.\.|…/g, '').trim()));
 }
-// 4. cụm ngắn trong câu dài (trình phát bù khi câu chưa đủ clip nguyên văn) — dùng chính parts() của clip-player.js
+// 4. dạng khác / cụm ngắn trong câu / phần lõi của cụm (trình phát bù khi chưa đủ clip nguyên văn) — dùng chính parts() của clip-player.js
 {
   const ctx = { window: {}, document: { currentScript: null, addEventListener() {} } }; vm.createContext(ctx);
   vm.runInContext(R('docs/assets/clip-player.js'), ctx);
-  for (const q of [...out]) for (const p of ctx.window.ClipPlayer.parts(q)) out.add(p);
+  const CP = ctx.window.ClipPlayer;
+  for (const q of [...out]) for (const p of [...CP.parts(q), ...CP.variants(q), ...CP.cores(q)]) if (!out.has(p)) sub.add(p);
 }
-process.stdout.write([...out].join('\n') + '\n');
-process.stderr.write(out.size + ' cụm\n');
+for (const p of out) sub.delete(p);
+process.stdout.write([...out].join('\n') + '\n' + [...sub].map(p => '~' + p).join('\n') + '\n');
+process.stderr.write(out.size + ' cụm chính + ' + sub.size + ' cụm phụ\n');

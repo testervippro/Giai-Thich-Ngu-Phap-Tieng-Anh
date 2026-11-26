@@ -36,6 +36,7 @@ BAD = B / "bad.txt"
 OUT = ROOT / "docs/assets/clips"
 SHARDS = 64
 MAX_CLIPS = 50
+SUB_CLIPS = 15          # cụm phụ (dạng khác / cụm trong câu / phần lõi) chỉ để bù
 MIN_DUR, MAX_DUR = 120, 4 * 3600
 
 # kênh nói tiếng Anh tự nhiên: (handle, số video tối đa)
@@ -52,6 +53,19 @@ CHANNELS = [
     ("bbclearningenglish", 600), ("EnglishwithLucy", 200), ("RachelsEnglish", 200), ("mmmEnglish", 150),
     ("theoffice", 300), ("Brooklyn99", 200), ("TheGrahamNortonShow", 300), ("grahamnorton", 300),
     ("CaseyNeistat", 150), ("PeterMcKinnon", 100), ("veritasium", 150), ("kurzgesagt", 80), ("Wendoverproductions", 100),
+    # nói chuyện đời thường: podcast trò chuyện, talk show, reality, vlog, phỏng vấn
+    ("TheoVon", 300), ("ImpaulsiveShow", 300), ("FirstWeFeast", 300), ("colinandsamir", 150), ("CallHerDaddy", 200),
+    ("TeamCoco", 400), ("TheLateLateShow", 400), ("TheDailyShow", 300), ("LastWeekTonight", 150), ("nbcsnl", 400),
+    ("BuzzFeedVideo", 300), ("Cut", 300), ("jubilee", 300), ("YesTheory", 200), ("MrBeast", 200), ("MarkRober", 100),
+    ("GordonRamsay", 300), ("KitchenNightmares", 300), ("HellsKitchen", 300), ("DrPhil", 400), ("TheView", 300),
+    ("TODAY", 300), ("GMA", 300), ("60minutes", 200), ("CBSSundayMorning", 200), ("emmachamberlain", 100),
+    ("trypod", 200), ("SmartLess", 150), ("Theneedledrop", 100), ("PowerfulJRE", 100), ("ChrisWilliamson", 200),
+    ("StevenBartlett", 100), ("HowToMoney", 100), ("AliAbdaal", 200), ("mattdavella", 100), ("BBCRadio1", 300),
+    ("TheTonightShow", 200), ("graham", 0),
+    # IT: kiểm thử, quy trình, công cụ
+    ("MinistryofTesting", 200), ("AutomationStepbyStep", 300), ("TechWorldwithNana", 200), ("ArjanCodes", 200),
+    ("CodeAesthetic", 30), ("mCoding", 100), ("Atlassian", 200), ("GitHub", 300), ("googlecloudtech", 300),
+    ("awsevents", 300), ("dotnet", 300), ("JetBrainsTV", 200), ("NDC", 300), ("CppCon", 200), ("PyConUS", 200),
 ]
 
 
@@ -94,6 +108,39 @@ def cmd_list(_):
         print(f"{h}: {len(got[:n])}", flush=True)
     VIDS.write_text("".join(f"{v}\t{h}\t{d}\n" for v, h, d in rows))
     print(len(rows), "video →", VIDS.relative_to(ROOT))
+
+
+# ---------------------------------------------------------------- search
+def cmd_search(a):
+    """Cụm chưa có clip: tìm YouTube theo đúng cụm ("..."), thêm video vào videos.tsv (kênh = tên kênh thật)."""
+    qs = [q.strip() for q in Path(a.file).read_text(encoding="utf-8").splitlines() if q.strip()]
+    have = {l.split("\t")[0] for l in VIDS.read_text().splitlines() if l.strip()}
+    lock, new, done = threading.Lock(), [], [0]
+
+    def one(q):
+        try:
+            out = subprocess.run(["yt-dlp", "--flat-playlist", "--no-warnings", "--print", "%(id)s\t%(channel)s\t%(duration)s",
+                                  f'ytsearch{a.n}:"{q}"'], capture_output=True, text=True, timeout=120).stdout
+        except subprocess.TimeoutExpired:
+            out = ""
+        with lock:
+            for line in out.splitlines():
+                p = line.split("\t")
+                try:
+                    d = float(p[2])
+                except (ValueError, IndexError):
+                    continue
+                if p[0] not in have and 60 <= d <= MAX_DUR:
+                    have.add(p[0]); new.append(f"{p[0]}\t{(p[1] or 'search').replace(chr(9), ' ')}\t{int(d)}\n")
+            done[0] += 1
+            if done[0] % 100 == 0:
+                print(f"  {done[0]}/{len(qs)} cụm · +{len(new)} video", flush=True)
+
+    with ThreadPoolExecutor(a.jobs) as ex:
+        list(ex.map(one, qs))
+    with open(VIDS, "a") as f:
+        f.writelines(new)
+    print(f"+{len(new)} video → {VIDS.relative_to(ROOT)}")
 
 
 # ---------------------------------------------------------------- fetch
@@ -198,7 +245,9 @@ def cmd_fetch(a):
 
 # ---------------------------------------------------------------- index
 def cmd_index(a):
-    qs = [q for q in (B / "queries.txt").read_text(encoding="utf-8").splitlines() if q.strip()]
+    raw = [q for q in (B / "queries.txt").read_text(encoding="utf-8").splitlines() if q.strip()]
+    main_q = {" ".join(norm_words(q)) for q in raw if not q.startswith("~")}
+    qs = [q.lstrip("~") for q in raw]
     rows = {l.split("\t")[0]: l.split("\t")[1] for l in VIDS.read_text().splitlines() if l.strip()}
     trie = {}                                          # cây tiền tố theo từ; khoá None = cụm kết thúc tại đây
     for q in qs:
@@ -243,9 +292,10 @@ def cmd_index(a):
     for q, chs in hits.items():
         lists = [random.Random(q + c).sample(v, len(v)) for c, v in sorted(chs.items())]
         pick = []
-        while len(pick) < MAX_CLIPS and any(lists):
+        cap = MAX_CLIPS if q in main_q else SUB_CLIPS
+        while len(pick) < cap and any(lists):
             for l in lists:
-                if l and len(pick) < MAX_CLIPS:
+                if l and len(pick) < cap:
                     pick.append(l.pop())
         out[shard(q)][q] = pick
         found += 1
@@ -255,7 +305,7 @@ def cmd_index(a):
     (OUT / "v.json").write_text(json.dumps(vids, separators=(",", ":")))
     mb = sum(p.stat().st_size for p in OUT.glob("*.json")) / 1e6
     print(f"{len(files)} video · {found}/{len(set(' '.join(norm_words(q)) for q in qs))} cụm có clip · {mb:.1f} MB → {OUT.relative_to(ROOT)}")
-    miss = [q for q in dict.fromkeys(" ".join(norm_words(q)) for q in qs) if q not in hits]
+    miss = [q for q in dict.fromkeys(" ".join(norm_words(q)) for q in raw if not q.startswith("~")) if q not in hits]
     (B / "missing.txt").write_text("\n".join(miss), encoding="utf-8")
 
 
@@ -273,8 +323,9 @@ def main():
     sp.add_parser("list")
     f = sp.add_parser("fetch"); f.add_argument("--jobs", type=int, default=4); f.add_argument("--sleep", type=float, default=1.0)
     sp.add_parser("index")
+    s2 = sp.add_parser("search"); s2.add_argument("file"); s2.add_argument("--n", type=int, default=15); s2.add_argument("--jobs", type=int, default=16)
     a = ap.parse_args()
-    {"list": cmd_list, "fetch": cmd_fetch, "index": cmd_index}[a.cmd](a)
+    {"list": cmd_list, "fetch": cmd_fetch, "index": cmd_index, "search": cmd_search}[a.cmd](a)
 
 
 if __name__ == "__main__":
