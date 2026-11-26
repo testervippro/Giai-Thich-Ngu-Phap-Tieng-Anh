@@ -331,8 +331,9 @@
   function stopTimer() { clearInterval(st.timer); st.timer = null; }
   // canh đoạn: hết đoạn → phát lại (OPT.rep lần) → sang video sau.
   // Chỉ xét khi trình phát đã đúng video và đang phát (ngay sau khi đổi video, getCurrentTime() còn trả giờ của video cũ).
+  var MAX_PASS = 10;                 // giây: một lượt phát đoạn dài nhất (phòng video báo giờ sai → nói liên tục)
   function startTimer() {
-    stopTimer(); st.wait = false;
+    stopTimer(); st.wait = false; st.played = 0; st.tick = 0;
     st.timer = setInterval(function () {
       if (!yt || !yt.getCurrentTime || !st.seg || box.hidden) return;
       var c = st.clips[st.i], ps = -1, t;
@@ -342,12 +343,17 @@
         ps = yt.getPlayerState(); t = yt.getCurrentTime();
       } catch (e) { return; }
       var ended = ps === 0;                                                    // đoạn nằm cuối video → video tự hết
+      var now = Date.now();
+      if (ps === 1 && st.tick) st.played += (now - st.tick) / 1000;            // thời gian phát thật của lượt này
+      st.tick = ps === 1 ? now : 0;
+      if (st.played > MAX_PASS) ended = true;                                  // chốt an toàn: 1 lượt không quá 10 giây
       if (ps !== 1 && !ended) return;
-      if (st.wait) { if (!ended && t < st.seg.e - 0.3) st.wait = false; else return; }   // vừa tua lại, chờ tua xong
-      if (!ended && (t < st.seg.s - 2 || t > st.seg.e + 4)) { yt.seekTo(st.seg.s, true); return; }  // tua trượt → về đầu đoạn
+      if (st.wait && st.played <= MAX_PASS) { if (!ended && t < st.seg.e - 0.3) st.wait = false; else return; }   // vừa tua lại, chờ tua xong
+      if (!ended && (t < st.seg.s - 2 || t > st.seg.e + 4)) { yt.seekTo(st.seg.s, true); st.played = 0; return; }  // tua trượt → về đầu đoạn
       if (ended || t >= st.seg.e) {
         st.rep++;
-        if (st.rep < OPT.rep) { st.wait = !ended; seekStart(); } else go(st.i + 1);
+        st.played = 0; st.tick = 0;
+        if (st.rep < OPT.rep) { st.wait = ps === 1 && t >= st.seg.e; seekStart(); } else go(st.i + 1);
       }
     }, 150);
   }
