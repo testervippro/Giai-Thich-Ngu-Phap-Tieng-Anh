@@ -111,18 +111,37 @@ def main():
             e["notes"].append(r["note"])
         if r.get("pos") and not e["pos"]:
             e["pos"] = r["pos"]
-    # gộp mục gần trùng: khác cách viết (film-maker/filmmaker), có/không "the", ghi chú trong ngoặc, hoa/thường.
+    # gộp mục gần trùng: khác cách viết (film-maker/filmmaker), có/không "the/a/an", ghi chú trong ngoặc, sb/sth, hoa/thường.
     # Giữ riêng động từ cụm và danh từ ghép (break up ≠ break-up, take over ≠ takeover).
     PART = r"(up|down|out|over|in|off|ahead|back|away|on|through|round|about|by)"
     def k3(t):
-        t = t.lower().replace("’", "'")
+        cap_to = t.startswith("To ")                                    # danh sách IELTS: "To chill" = chill
+        t = t.lower().replace("’", "'").replace("\xad", "")
+        if cap_to:
+            t = t[3:]
         t = re.sub(r"\(.*?\)", "", t).strip()
-        t = re.sub(r"^the\s+", "", t)
+        t = re.sub(r"\b(sb|sth|sb's|sth's|one's|somebody|something|someone)\b", " ", t)   # chữ giữ chỗ: bump into sb = bump into
+        t = re.sub(r"\s*/\s*", " ", t)
+        t = re.sub(r"\s+", " ", t).strip()
+        t = re.sub(r"^(the|a|an)\s+", "", t)                                              # a drop in the ocean = drop in the ocean
         form = ""
         m = re.fullmatch(r"([a-z]+)([ -]?)" + PART, t)
         if m:
             form = "pv" if m.group(2) == " " else "n"
         return re.sub(r"[^a-z0-9]", "", t) + form
+    # OCR (Word Skills) làm mất dấu cách: "givein", "inaddition" → gộp vào "give in", "in addition"
+    spaced = {re.sub(r"[^a-z0-9]", "", re.sub(r"\(.*?\)", "", e["term"].lower())): k
+              for k, e in merged.items() if " " in re.sub(r"\(.*?\)", "", e["term"]).strip()}
+    oxford = {r["w"].lower() for r in json.load(open(os.path.join(DATA, "oxford_3000_5000.json"), encoding="utf-8"))}
+    for k, e in list(merged.items()):
+        t = e["term"].strip().lower()
+        if (" " not in t and t in spaced and spaced[t] != k and t not in oxford
+                and all(x.startswith(("Word Skills", "TOEIC")) for x in e["srcs"])):
+            keep = merged[spaced[t]]
+            for x in e["srcs"]:
+                if x not in keep["srcs"]:
+                    keep["srcs"].append(x)
+            del merged[k]                       # nghĩa của mục dính chữ có thể sai (givein = "tặng") → không chép
     groups = {}
     for k, e in list(merged.items()):
         kk = k3(e["term"])
