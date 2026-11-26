@@ -67,9 +67,9 @@
   <div class="cnt" id="cnt"></div>
   <div id="loading">Đang tải…</div>
   <div id="list"></div>
-  <p class="note"><b>🎬 Bấm vào cụm</b> (hoặc nút 🎬) để mở khung phát ngay trên trang (mở một cửa sổ pop-up filmot.com, captcha chỉ cần giải 1 lần): tìm <b>đúng nguyên cụm</b> (trong dấu "") trên phụ đề YouTube qua Filmot, tối đa 50 video, phát đúng đoạn có cụm, mỗi đoạn tự phát 3 lần rồi sang video sau. Lần đầu cần dán API key Filmot (RapidAPI, chỉ lưu trên trình duyệt của bạn). Phần tuỳ chọn, sb/sth, … được bỏ khi tìm. Gộp từ nhiều bộ: thành ngữ, phrasal verb, collocation, mẫu câu IELTS, câu hàng ngày, cụm trong phim, câu theo tình huống, cấu trúc nói, tiếng Anh IT. Cụm trùng giữa các bộ chỉ hiện một lần, kèm nhãn tất cả nguồn có nó. Bấm nhãn nguồn để mở trang gốc (đầy đủ ngữ pháp, ví dụ, bằng chứng trong phim). Câu ví dụ trong phim là câu thoại thật (trích ngắn, bản quyền thuộc hãng phim).</p>
+  <p class="note"><b>🎬 Bấm vào cụm</b> (hoặc nút 🎬) để mở khung phát ngay trên trang (Ctrl/⌘ + bấm: mở filmot.com): kho clip tự dựng (miễn phí, không cần key/captcha) từ phụ đề YouTube của TED, talk show, podcast: tìm <b>đúng nguyên cụm</b>, tối đa 50 video, phát ngay trên trang đúng đoạn người bản xứ nói cụm đó, mỗi đoạn 3 lần rồi tự sang video sau. Cụm hiếm chưa có clip thì bấm nút Filmot trong khung để tìm trên toàn bộ YouTube (pop-up, giải captcha 1 lần). Phần tuỳ chọn, sb/sth, … được bỏ khi tìm. Gộp từ nhiều bộ: thành ngữ, phrasal verb, collocation, mẫu câu IELTS, câu hàng ngày, cụm trong phim, câu theo tình huống, cấu trúc nói, tiếng Anh IT. Cụm trùng giữa các bộ chỉ hiện một lần, kèm nhãn tất cả nguồn có nó. Bấm nhãn nguồn để mở trang gốc (đầy đủ ngữ pháp, ví dụ, bằng chứng trong phim). Câu ví dụ trong phim là câu thoại thật (trích ngắn, bản quyền thuộc hãng phim).</p>
 </main>
-<script src="../assets/filmot-player.js"></script>
+<script src="../assets/clip-player.js"></script>
 <script src="phrase-bank-data.js"></script>
 <script>
 (() => {
@@ -122,19 +122,20 @@
     for (const [a, b] of ranges) { if (a < pos) continue; out += esc(text.slice(pos, a)) + '<mark>' + esc(text.slice(a, b)) + '</mark>'; pos = b; }
     return out + esc(text.slice(pos));
   }
-  // cụm để tìm trên Filmot: bỏ phần tuỳ chọn ( ) [ ], chọn 1 phương án của a/b, cắt tại chỗ trống (…, sb, sth, + verb) rồi lấy đoạn dài nhất
+  // cụm để tìm clip: bỏ phần tuỳ chọn ( ) [ ], chọn 1 phương án của a/b, cắt tại chỗ trống (…, sb, sth, + verb) rồi lấy đoạn dài nhất
   function ygq(p) {
+    p = p.replace(/[’‘]/g, "'");
     let t = p.replace(/\s+\/\s+.*$/, '').replace(/\[[^\]]*\]|\([^)]*\)/g, ' ').replace(/(\w+)(?:\/[\w']+)+/g, '$1');
     const parts = t.split(/…|\.{2,}|\+|\b(?:sb|sth|sb's|sth's|one's|oneself|someone's|somebody|something|V-ing|V|N|adj|noun|verb)\b|[;:!?"“”=]/i)
       .map(x => x.replace(/[^A-Za-z0-9' -]/g, ' ').replace(/\s+/g, ' ').trim().replace(/^[-' ]+|[-' ]+$/g, '')).filter(Boolean);
     const best = parts.sort((a, b) => b.split(' ').length - a.split(' ').length)[0] || p;
     return best.split(' ').length > 2 ? best.replace(/^(be|to) /i, '') : best;
   }
-  const ygUrl = p => FilmotPlayer.url(ygq(p));
-  // ---- Filmot ngay trên trang: tìm đúng cụm "..." (tối đa 50 video), phát đúng đoạn, mỗi đoạn 3 lần rồi sang video sau ----
+  const ygUrl = p => ClipPlayer.url(ygq(p));
+  // ---- khung clip ngay trên trang (assets/clip-player.js): đúng cụm, tối đa 50 video, mỗi đoạn 3 lần rồi sang video sau ----
   document.addEventListener('click', e => {
     const a = e.target.closest('a.yg, a.ygb'); if (!a || !a.dataset.p || e.metaKey || e.ctrlKey || e.shiftKey || e.button) return;
-    e.preventDefault(); FilmotPlayer.open(ygq(a.dataset.p));
+    e.preventDefault(); ClipPlayer.open(ygq(a.dataset.p));
   });
   const say = t => `<button class="say" data-t="${esc(t)}" aria-label="Nghe">🔊</button>`;
 
@@ -158,7 +159,7 @@
   function card(x, terms, n) {
     const tags = x.ts.map(t => `<span class="tag t">${esc(T[t])}</span>`).join('') +
       x.ss.map(s => { const u = S[s].url + (x.rf[s] && /^[#?]/.test(x.rf[s]) ? x.rf[s] : ''); return `<span class="tag"><a href="${esc(u)}" title="Mở trang gốc" target="_blank" rel="noopener">${esc(S[s].name.split(' — ')[0].replace(/^Ngân hàng /, '').slice(0, 34))} ↗</a></span>`; }).join('');
-    return `<div class="it"><div class="no">${n}</div><div class="bd"><div class="p"><a class="yg" data-p="${esc(x.p)}" href="${esc(ygUrl(x.p))}" target="_blank" rel="noopener" title="Nghe người bản xứ nói đúng cụm “${esc(ygq(x.p))}” trên YouTube (Filmot)">${hl(x.p, terms)}</a> ${say(x.p)}<a class="say ygb" data-p="${esc(x.p)}" href="${esc(ygUrl(x.p))}" target="_blank" rel="noopener" title="Filmot">🎬</a></div>` +
+    return `<div class="it"><div class="no">${n}</div><div class="bd"><div class="p"><a class="yg" data-p="${esc(x.p)}" href="${esc(ygUrl(x.p))}" target="_blank" rel="noopener" title="Nghe người bản xứ nói đúng cụm “${esc(ygq(x.p))}” trên YouTube">${hl(x.p, terms)}</a> ${say(x.p)}<a class="say ygb" data-p="${esc(x.p)}" href="${esc(ygUrl(x.p))}" target="_blank" rel="noopener" title="Nghe người bản xứ nói">🎬</a></div>` +
       (x.m ? `<div class="m">${hl(x.m, terms)}</div>` : '') +
       (x.d ? `<div class="d">${hl(x.d, terms)}</div>` : '') +
       (x.e ? `<div class="e">${hl(x.e, terms)} ${say(x.e.split(' | ')[0])}</div>` : '') +
