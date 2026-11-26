@@ -240,17 +240,21 @@
     count();
     ytApi().then(function () {
       if (tok !== st.token || st.i !== i) return;
-      if (yt && yt.loadVideoById) { yt.loadVideoById({ videoId: c.id, startSeconds: st.seg.s }); startTimer(); return; }
+      if (yt && yt.loadVideoById) { yt.loadVideoById({ videoId: c.id, startSeconds: st.seg.s, suggestedQuality: Q }); q360(); startTimer(); return; }
       yt = new YT.Player('clyt', {
         videoId: c.id, width: '100%', height: '100%',
-        playerVars: { start: Math.floor(st.seg.s), autoplay: 1, playsinline: 1, rel: 0, modestbranding: 1, cc_load_policy: 1, cc_lang_pref: 'en' },
+        playerVars: { start: Math.floor(st.seg.s), vq: Q, autoplay: 1, playsinline: 1, rel: 0, modestbranding: 1, cc_load_policy: 1, cc_lang_pref: 'en' },
         events: {
-          onReady: function (e) { e.target.seekTo(st.seg.s, true); e.target.playVideo(); startTimer(); },
+          onReady: function (e) { q360(); e.target.seekTo(st.seg.s, true); e.target.playVideo(); startTimer(); },
+          onStateChange: function (e) { if (e.data === 1) q360(); },
           onError: function () { go(st.i + 1); }            // video bị gỡ / chặn nhúng → bỏ qua
         }
       });
     });
   }
+  // chất lượng 360p ('medium') cho nhẹ — YouTube coi đây là gợi ý, có thể tự đổi theo mạng
+  var Q = 'medium';
+  function q360() { try { if (yt && yt.setPlaybackQuality) yt.setPlaybackQuality(Q); } catch (e) {} }
   function seekStart() { if (yt && yt.seekTo) { yt.seekTo(st.seg.s, true); yt.playVideo(); } count(); }
   function stopTimer() { clearInterval(st.timer); st.timer = null; }
   function startTimer() {
