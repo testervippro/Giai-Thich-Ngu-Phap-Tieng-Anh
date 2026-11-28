@@ -267,6 +267,7 @@
     $('clq').textContent = '🎬 "' + raw + '"';
     status('đang tìm…');
     stopTimer(); pauseAll(); P.forEach(function (p) { p.pre = -1; });
+    if (tts) speechSynthesis.cancel();
     $('clfv').hidden = false;
     $('clbody').innerHTML = '<div class="ft" id="clt"></div>';
     players();                                                   // tạo trình phát song song với việc tìm clip
@@ -277,12 +278,36 @@
       if (!st.clips.length) {
         status(''); $('clfv').hidden = true;
         $('clbody').innerHTML = '<div class="fk">' + (OPT.src === 'song' ? 'Chưa có bài hát nào có cụm' : OPT.src === 'talk' ? 'Chưa có video người nói nào nói cụm' : 'Kho clip chưa có video nào nói đúng cụm') +
-          ' <b>"' + esc(raw) + '"</b>.' + (OPT.auto && nextPhrase() ? '<br>Tự sang cụm tiếp theo…' : '') + '</div>';
-        autoNext(1500);
+          ' <b>"' + esc(raw) + '"</b>.' + (tts ? '<br>🔊 Giọng đọc máy (không phải người thật) · <a href="#" id="clsay">nghe lại</a>' : '') +
+          '<span id="clnx">' + (OPT.auto && nextPhrase() ? '<br>Tự sang cụm tiếp theo…' : '') + '</span></div>';
+        if (!tts) { autoNext(1500); return; }
+        $('clsay').onclick = function (e) { e.preventDefault(); say(raw, 1, tok, null); };
+        say(raw, OPT.rep, tok, function () { autoNext(800); });
         return;
       }
       go(0);
-    }).catch(function () { if (tok === st.token) { status(''); $('clbody').innerHTML = '<div class="fk">Không tải được kho clip — thử lại sau.</div>'; } });
+    }).catch(function (e) { if (window.CLIP_DEBUG) console.log('clip err', String(e && e.stack || e)); if (tok === st.token) { status(''); $('clbody').innerHTML = '<div class="fk">Không tải được kho clip — thử lại sau.</div>'; } });
+  }
+
+  // không có clip nào: đọc cụm bằng giọng máy của trình duyệt (OPT.rep lần) rồi mới sang cụm tiếp
+  var tts = typeof window.speechSynthesis !== 'undefined' && typeof window.SpeechSynthesisUtterance === 'function';
+  function voice() {
+    var vs = speechSynthesis.getVoices().filter(function (v) { return /^en[-_]/i.test(v.lang); });
+    return vs.filter(function (v) { return /en[-_]US/i.test(v.lang) && /natural|google|samantha|aria|jenny/i.test(v.name); })[0] ||
+      vs.filter(function (v) { return /en[-_]US/i.test(v.lang); })[0] || vs[0] || null;
+  }
+  function say(text, n, tok, done) {
+    speechSynthesis.cancel();
+    var k = 0;
+    (function one() {
+      if (tok !== st.token || box.hidden) return;
+      if (k++ >= n) { if (done) done(); return; }
+      var u = new SpeechSynthesisUtterance(text), v = voice();
+      try { if (v) u.voice = v; } catch (e) {} u.lang = v ? v.lang : 'en-US'; u.rate = 0.9;
+      var t = setTimeout(one, 1500 + text.length * 120);        // phòng khi trình duyệt không báo onend
+      u.onend = u.onerror = function () { clearTimeout(t); setTimeout(one, 700); };
+      speechSynthesis.speak(u);
+    })();
   }
 
   function go(i) {
@@ -410,6 +435,7 @@
   function close() {
     if (!box) return;
     st.token++; stopTimer(); pauseAll();
+    if (tts) speechSynthesis.cancel();
     box.hidden = true;
   }
 
