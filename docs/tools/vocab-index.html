@@ -63,6 +63,7 @@
     <div class="row">
       <input type="search" id="q" placeholder="Tìm từ tiếng Anh hoặc nghĩa tiếng Việt" aria-label="Tìm" autocomplete="off">
       <select id="lv" aria-label="Cấp CEFR"><option value="">Mọi cấp CEFR</option><option>A1</option><option>A2</option><option>B1</option><option>B2</option><option>C1</option><option value="-">Chưa có cấp</option></select>
+      <select id="vd" aria-label="Video" title="Lọc theo video người bản xứ nói từ / cụm"><option value="0">🎬 Mọi mục</option><option value="1">🎬 Có video (kể cả clip bù)</option><option value="2">🎬 Video đúng nguyên từ / cụm</option><option value="3">🎬 Đủ 10 video</option><option value="-1">🚫 Chưa có video nào</option><option value="-2">🔸 Chỉ có clip bù</option></select>
       <select id="tp" aria-label="Chủ đề IELTS"><option value="">Mọi chủ đề IELTS</option></select>
       <select id="sort" aria-label="Sắp xếp"><option value="freq">Phổ biến nhất trước</option><option value="az">A → Z</option></select>
       <button class="btn" id="all" title="Hiện toàn bộ kết quả một lượt">Hiện tất cả</button>
@@ -78,6 +79,7 @@
   <p class="foot">Nguồn: Hackers TOEIC Vocabulary (Index, OCR); flyer.vn — 5000 từ vựng IELTS thông dụng; Oxford Word Skills Basic/Intermediate/Advanced (Word list cuối sách, OCR); The Oxford 3000/5000 by CEFR level (oxfordlearnersdictionaries.com); Destination C1 &amp; C2 Grammar and Vocabulary (Macmillan, phần tra cứu cuối sách, OCR). Nghĩa tiếng Việt theo nguồn nếu có, còn lại dịch bổ sung. Bản dạng bảng: <a href="../#/toeic-vocabulary-index">Danh sách từ vựng (bảng)</a>.</p>
 </main>
 <script src="vocab-index-data.js"></script>
+<script src="vocab-index-cliplv.js"></script>
 <script>
 (() => {
   "use strict";
@@ -89,10 +91,11 @@
   const LABEL = ['TOEIC', 'IELTS', 'Word Skills Basic', 'Word Skills Intermediate', 'Word Skills Advanced', 'Oxford 3000', 'Oxford 5000', 'Destination C1–C2'];
   const TAGC = ['t1', 't2', 't3', 't3', 't3', 't4', 't4', 't5'];
   const TAGS = ['TOEIC', 'IELTS', 'WS Basic', 'WS Int', 'WS Adv', 'Oxford 3000', 'Oxford 5000', 'Destination C1–C2'];
-  const R = V.rows.map(r => ({ w:r[0], vi:r[1], ipa:r[2], f:r[3], lv:r[4], fr:r[5] || 0, tp:r[6] || [], k:fold(r[0]), kv:fold(r[1]),
+  const CL = window.VI_CLIPLV || '';
+  const R = V.rows.map((r, i) => ({ cl: +(CL[i] || 0), w:r[0], vi:r[1], ipa:r[2], f:r[3], lv:r[4], fr:r[5] || 0, tp:r[6] || [], k:fold(r[0]), kv:fold(r[1]),
     L: (/[a-z]/i.test(r[0][0]) ? r[0][0].toUpperCase() : '#') }));
-  const st = Object.assign({ src:0, lv:'', tp:'', L:'', and:false, sort:'freq', all:false }, ls.get('vocabIndex', {}));
-  const save = () => ls.set('vocabIndex', { src:st.src, lv:st.lv, tp:st.tp, L:st.L, and:st.and, sort:st.sort, all:st.all });
+  const st = Object.assign({ src:0, lv:'', tp:'', L:'', and:false, sort:'freq', all:false, vd:0 }, ls.get('vocabIndex', {}));
+  const save = () => ls.set('vocabIndex', { src:st.src, lv:st.lv, tp:st.tp, L:st.L, and:st.and, sort:st.sort, all:st.all, vd:st.vd });
   // thứ hạng phổ biến (Zipf từ wordfreq; cụm từ bị trừ điểm theo độ dài)
   const BYFREQ = R.slice().sort((a, b) => b.fr - a.fr || a.k.localeCompare(b.k)); BYFREQ.forEach((r, i) => r.rank = i + 1);
   $('nAll').textContent = R.length.toLocaleString('vi');
@@ -108,11 +111,12 @@
     return R.filter(r => (!st.src || (st.and ? (r.f & st.src) === st.src : (r.f & st.src)))
       && (!st.lv || (st.lv === '-' ? !r.lv : r.lv === st.lv))
       && (st.tp === '' || r.tp.includes(+st.tp))
+      && (!st.vd || !CL || (st.vd > 0 ? r.cl >= st.vd : r.cl === -1 - st.vd))
       && (!q || r.k.includes(q) || r.kv.includes(q)));
   }
   function render(keep) {
     document.querySelectorAll('#src .chip').forEach(b => b.classList.toggle('on', !!(st.src & (1 << +b.dataset.b))));
-    $('lv').value = st.lv; $('tp').value = st.tp;
+    $('lv').value = st.lv; $('tp').value = st.tp; $('vd').value = String(st.vd);
     $('mode').textContent = 'Nhiều nguồn: ' + (st.and ? 'Và (có ở tất cả)' : 'Hoặc (bất kỳ)'); $('mode').classList.toggle('on', st.and);
     const q = fold($('q').value.trim());
     const base = filter();
@@ -138,6 +142,8 @@
   $('src').addEventListener('click', e => { const b = e.target.closest('[data-b]'); if (!b) return; st.src ^= 1 << +b.dataset.b; render(); });
   $('az').addEventListener('click', e => { const b = e.target.closest('[data-l]'); if (!b) return; st.L = b.dataset.l; render(); });
   $('lv').onchange = e => { st.lv = e.target.value; render(); };
+  $('vd').onchange = e => { st.vd = +e.target.value; render(); };
+  if (CL) [...$('vd').options].forEach(o => { const k = +o.value; if (k) o.textContent += ' · ' + R.filter(r => k > 0 ? r.cl >= k : r.cl === -1 - k).length.toLocaleString('vi'); });
   $('tp').onchange = e => { st.tp = e.target.value; if (st.tp !== '') st.src |= 2; render(); };
   $('mode').onclick = () => { st.and = !st.and; render(); };
   $('sort').onchange = e => { st.sort = e.target.value; render(); };

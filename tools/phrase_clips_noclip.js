@@ -22,3 +22,15 @@ ctx.window.PHRASES.items.forEach(a => {
 fs.writeFileSync(path.join(ROOT, 'docs/tools/phrase-bank-noclip.js'),
   '// sinh bởi tools/phrase_clips_noclip.js — mức clip từng cụm (theo thứ tự PHRASES.items): 0 không có · 1 chỉ clip bù · 2 đúng cụm 1–9 · 3 đủ 10 video đúng cụm\nwindow.PB_CLIPLV=' + JSON.stringify(lv) + ';\n');
 console.log('mức 0..3:', cnt.join(' / '), '→ docs/tools/phrase-bank-noclip.js');
+// trang Từ vựng TOEIC·IELTS·Oxford: cùng thang mức, theo thứ tự VOCAB_INDEX.rows
+const vx = { window: {} }; vm.createContext(vx);
+vm.runInContext(R('docs/tools/vocab-index-data.js'), vx);
+let vl = ''; const vc = [0, 0, 0, 0];
+vx.window.VOCAB_INDEX.rows.forEach(r => {
+  const q = CP.clean(r[0]), n = has.get(CP.norm(q)) || 0;
+  const l = n >= 10 ? 3 : n ? 2 : [...CP.variants(q), ...CP.parts(q), ...CP.cores(q)].some(k => has.has(k)) ? 1 : 0;
+  vl += l; vc[l]++;
+});
+fs.writeFileSync(path.join(ROOT, 'docs/tools/vocab-index-cliplv.js'),
+  '// sinh bởi tools/phrase_clips_noclip.js — mức clip từng mục (theo thứ tự VOCAB_INDEX.rows): 0 không có · 1 chỉ clip bù · 2 đúng 1–9 · 3 đủ 10 video\nwindow.VI_CLIPLV=' + JSON.stringify(vl) + ';\n');
+console.log('Từ vựng mức 0..3:', vc.join(' / '), '→ docs/tools/vocab-index-cliplv.js');

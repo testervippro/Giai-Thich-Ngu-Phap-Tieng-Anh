@@ -62,7 +62,7 @@
     <select id="src" aria-label="Nguồn"></select>
     <button class="btn" id="exOnly" title="Chỉ hiện cụm có câu ví dụ">Có ví dụ</button>
     <button class="btn" id="viOnly" title="Chỉ hiện cụm có nghĩa tiếng Việt">Có nghĩa Việt</button>
-    <select id="vid" aria-label="Video" title="Lọc theo video người bản xứ nói cụm"><option value="0">🎬 Mọi cụm</option><option value="1">🎬 Có video (kể cả clip bù)</option><option value="2">🎬 Video đúng nguyên cụm</option><option value="3">🎬 Đủ 10 video đúng cụm</option></select>
+    <select id="vid" aria-label="Video" title="Lọc theo video người bản xứ nói cụm"><option value="0">🎬 Mọi cụm</option><option value="1">🎬 Có video (kể cả clip bù)</option><option value="2">🎬 Video đúng nguyên cụm</option><option value="3">🎬 Đủ 10 video đúng cụm</option><option value="-1">🚫 Chưa có video nào</option><option value="-2">🔸 Chỉ có clip bù (chưa đúng cụm)</option></select>
   </div>
   <div class="chips" id="types" role="group" aria-label="Loại"></div>
   <div class="desc" id="desc" hidden></div>
@@ -89,10 +89,10 @@
     hay: fold([a[1], a[2], a[3], a[4], a[5], a[7]].join(' ')), pf: fold(a[1]) }));
   const store = { get(k) { try { return localStorage.getItem('phraseBank.' + k); } catch (e) { return null; } }, set(k, v) { try { localStorage.setItem('phraseBank.' + k, v); } catch (e) {} } };
   const qs = new URLSearchParams(location.search);
-  const st = { q: qs.get('q') || '', types: new Set((qs.get('type') || '').split(',').filter(x => T[x])), src: qs.get('src') || '', ex: false, vi: false, vid: Math.min(3, +(store.get('vidLv') || 0)) };
+  const st = { q: qs.get('q') || '', types: new Set((qs.get('type') || '').split(',').filter(x => T[x])), src: qs.get('src') || '', ex: false, vi: false, vid: Math.max(-2, Math.min(3, +(store.get('vidLv') || 0))) };
   const LV = window.PB_CLIPLV || '';
   const lv = ix => +(LV[ix] || 0);
-  if (LV) [...$('vid').options].forEach(o => { const k = +o.value; if (k) o.textContent += ' · ' + fmt([...LV].filter(c => +c >= k).length); });
+  if (LV) [...$('vid').options].forEach(o => { const k = +o.value; if (k) o.textContent += ' · ' + fmt([...LV].filter(c => k > 0 ? +c >= k : +c === -1 - k).length); });
   const typeCount = {}; I.forEach(x => x.ts.forEach(t => typeCount[t] = (typeCount[t] || 0) + 1));
   const DESC = {
     idiom: 'Thành ngữ — nghĩa bóng, không đoán được từ từng chữ (get the ball rolling, hit the sack…).',
@@ -155,7 +155,8 @@
       if (st.src && !x.ss.includes(st.src)) return false;
       if (st.ex && !x.e) return false;
       if (st.vi && !x.m) return false;
-      if (st.vid && lv(x.ix) < st.vid) return false;
+      if (st.vid > 0 && lv(x.ix) < st.vid) return false;
+      if (st.vid < 0 && lv(x.ix) !== -1 - st.vid) return false;      // -1: không có video · -2: chỉ clip bù
       return terms.every(w => x.hay.includes(w));
     });
     if (terms.length) {            // cụm khớp ngay đầu cụm / khớp đúng cụm lên trước

@@ -67,6 +67,14 @@ CHANNELS = [
     ("MinistryofTesting", 200), ("AutomationStepbyStep", 300), ("TechWorldwithNana", 200), ("ArjanCodes", 200),
     ("CodeAesthetic", 30), ("mCoding", 100), ("Atlassian", 200), ("GitHub", 300), ("googlecloudtech", 300),
     ("awsevents", 300), ("dotnet", 300), ("JetBrainsTV", 200), ("NDC", 300), ("CppCon", 200), ("PyConUS", 200),
+    # bù cụm còn thiếu: IELTS / collocation / idiom, business, Agile / quy trình phần mềm
+    ("ieltsadvantage", 250), ("IELTSLiz", 150), ("EnglishSpeakingSuccess", 250), ("EnglishLessonswithAdam", 250),
+    ("SpeakEnglishWithVanessa", 250), ("LearnEnglishWithTVSeries", 250), ("letthemtalktv", 200), ("BBCLearningEnglish", 0),
+    ("EnglishAddictwithMrDuncan", 150), ("engvid", 200), ("JamesESL", 150), ("RebeccaESL", 150),
+    ("HarvardBusinessReview", 250), ("TheEconomist", 250), ("FinancialTimes", 200), ("BloombergOriginals", 200),
+    ("CNBC", 250), ("guardiannews", 200), ("YCombinator", 250), ("a16z", 150), ("GaryVee", 150),
+    ("ScrumOrg", 200), ("DevelopmentThatPays", 150), ("AgileForHumans", 100), ("ProductSchool", 200),
+    ("LennysPodcast", 150), ("theprimeagen", 0), ("TechLead", 100), ("ThePragmaticEngineer", 100),
 ]
 
 
@@ -86,10 +94,14 @@ def norm_words(t):
 
 
 # ---------------------------------------------------------------- list
-def cmd_list(_):
+def cmd_list(a):
+    """--add h1,h2: chỉ lấy các kênh này và THÊM vào videos.tsv (không ghi đè video đã có / video tìm được / bài hát)."""
     B.mkdir(parents=True, exist_ok=True)
     rows = []
+    add = set(a.add.split(",")) if a.add else None
     for h, n in CHANNELS:
+        if add is not None and h not in add or not n:
+            continue
         try:
             out = subprocess.run(["yt-dlp", "--flat-playlist", "--no-warnings", "--playlist-end", str(n * 2),
                                   "--print", "%(id)s\t%(duration)s", f"https://www.youtube.com/@{h}/videos"],
@@ -107,6 +119,12 @@ def cmd_list(_):
                 got.append((vid, h, int(d)))
         rows += got[:n]
         print(f"{h}: {len(got[:n])}", flush=True)
+    if add is not None:
+        have = {l.split("\t")[0] for l in VIDS.read_text().splitlines() if l.strip()}
+        rows = [r for r in rows if r[0] not in have]
+        with open(VIDS, "a") as f:
+            f.write("".join(f"{v}\t{h}\t{d}\n" for v, h, d in rows))
+        print("+", len(rows), "video →", VIDS.relative_to(ROOT)); return
     VIDS.write_text("".join(f"{v}\t{h}\t{d}\n" for v, h, d in rows))
     print(len(rows), "video →", VIDS.relative_to(ROOT))
 
@@ -390,7 +408,7 @@ def shard(q):
 def main():
     ap = argparse.ArgumentParser()
     sp = ap.add_subparsers(dest="cmd", required=True)
-    sp.add_parser("list")
+    sp.add_parser("list").add_argument("--add", default="")
     f = sp.add_parser("fetch"); f.add_argument("--jobs", type=int, default=4); f.add_argument("--sleep", type=float, default=1.0)
     sp.add_parser("index")
     sp.add_parser("songs")
