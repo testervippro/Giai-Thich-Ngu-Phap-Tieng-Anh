@@ -14,6 +14,7 @@ Nguồn: phụ đề tiếng Anh của video YouTube nói chuyện tự nhiên (
   docs/assets/clips/NN.json     {"cụm": [[i_video, bắt_đầu_ds, kết_thúc_ds, "trước", "sau"], ...]}   (ds = 1/10 giây)
   Cụm cần tìm: build/phrase-clips/queries.txt (tools/phrase_clips_queries.js sinh từ dữ liệu các trang).
 """
+import multiprocessing
 import argparse
 import gzip
 import json
@@ -326,6 +327,39 @@ def cmd_fetch(a):
 
 
 # ---------------------------------------------------------------- index
+_TRIE = {}
+
+
+def _scan_chunk(paths):
+    """một nhóm file phụ đề → [(video, [(cụm, đầu, cuối, trước, sau)…])…] (chạy trong tiến trình con)"""
+    trie, out = _TRIE, []
+    for p in paths:
+        vid = p.name.split(".")[0]
+        try:
+            d = json.loads(gzip.open(p, "rt", encoding="utf-8").read())
+        except Exception:
+            out.append((vid, [])); continue
+        ws = d["w"].split(" ")
+        t, acc = [], 0
+        for x in d["t"]:
+            acc += x; t.append(acc)
+        seen, found, nw = set(), [], len(ws)
+        for i in range(nw):
+            node, j = trie.get(ws[i]), i + 1
+            while node is not None:
+                hit = node.get(None)
+                if hit and hit[0] not in seen:
+                    q, L = hit
+                    seen.add(q)                            # mỗi video 1 lần (lần đầu)
+                    end = t[i + L] if i + L < nw else t[i + L - 1] + 6
+                    end = max(end, t[i] + 4)
+                    found.append((q, t[i], end, " ".join(ws[max(0, i - 8):i]), " ".join(ws[i + L:i + L + 8])))
+                node = node.get(ws[j]) if j < nw else None
+                j += 1
+        out.append((vid, found))
+    return out
+
+
 def cmd_index(a):
     raw = [q for q in (B / "queries.txt").read_text(encoding="utf-8").splitlines() if q.strip()]
     main_q = {" ".join(norm_words(q)) for q in raw if not q.startswith("~")}
@@ -342,32 +376,23 @@ def cmd_index(a):
     hits = defaultdict(lambda: defaultdict(list))      # cụm -> kênh -> [clip]
     files = sorted(TOK.glob("*.json.gz"))
     vids, vix = [], {}
-    for n, p in enumerate(files, 1):
-        vid = p.name.split(".")[0]
-        d = json.loads(gzip.open(p, "rt", encoding="utf-8").read())
-        ws = d["w"].split(" ")
-        t, acc = [], 0
-        for x in d["t"]:
-            acc += x; t.append(acc)
-        ch = rows.get(vid, "")
-        seen = set()
-        nw = len(ws)
-        for i in range(nw):
-            node, j = trie.get(ws[i]), i + 1
-            while node is not None:
-                hit = node.get(None)
-                if hit and hit[0] not in seen:
-                    q, L = hit
-                    seen.add(q)                            # mỗi video 1 lần (lần đầu)
-                    if vid not in vix:
-                        vix[vid] = len(vids); vids.append([vid, ch])
-                    end = t[i + L] if i + L < nw else t[i + L - 1] + 6
-                    end = max(end, t[i] + 4)
-                    hits[q][ch].append([vix[vid], t[i], end, " ".join(ws[max(0, i - 8):i]), " ".join(ws[i + L:i + L + 8])])
-                node = node.get(ws[j]) if j < nw else None
-                j += 1
-        if n % 1000 == 0:
-            print(f"  {n}/{len(files)} video", flush=True)
+    global _TRIE
+    _TRIE = trie
+    jobs = max(1, getattr(a, "jobs", 0) or os.cpu_count() or 1)
+    chunks = [files[i:i + 200] for i in range(0, len(files), 200)]
+    done = 0
+    with multiprocessing.get_context("fork").Pool(jobs) as pool:      # quét song song, gộp theo đúng thứ tự file
+        for res in pool.imap(_scan_chunk, chunks):
+            for vid, found in res:
+                if not found:
+                    continue
+                ch = rows.get(vid, "")
+                vix[vid] = len(vids); vids.append([vid, ch])
+                for q, ti, end, bef, aft in found:
+                    hits[q][ch].append([vix[vid], ti, end, bef, aft])
+            done += len(res)
+            if done // 1000 != (done - len(res)) // 1000:
+                print(f"  {done}/{len(files)} video", flush=True)
     # chọn tối đa MAX_CLIPS clip / cụm (cụm phụ: SUB_CLIPS)
     out = [dict() for _ in range(SHARDS)]
     found = 0
@@ -410,7 +435,7 @@ def main():
     sp = ap.add_subparsers(dest="cmd", required=True)
     sp.add_parser("list").add_argument("--add", default="")
     f = sp.add_parser("fetch"); f.add_argument("--jobs", type=int, default=4); f.add_argument("--sleep", type=float, default=1.0)
-    sp.add_parser("index")
+    sp.add_parser("index").add_argument("--jobs", type=int, default=0)
     sp.add_parser("songs")
     s2 = sp.add_parser("search"); s2.add_argument("file"); s2.add_argument("--n", type=int, default=15); s2.add_argument("--jobs", type=int, default=16)
     a = ap.parse_args()
